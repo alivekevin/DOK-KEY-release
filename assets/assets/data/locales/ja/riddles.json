@@ -1,28 +1,132 @@
-﻿[
+[
   {
     "id": "rid_ja_001",
     "difficulty": 1,
-    "category": "wit",
-    "question": "クケビが大切にしている壺には穴が開いている。水を入れれば入れるほど軽くなるものは何？",
-    "options": ["船", "網", "氷", "風船"],
+    "category": "nature",
+    "question": "雨の日にだけ姿を現し、屋根の下では決して会えないオレの友達は誰だ？",
+    "options": ["虹", "雷", "霧", "雫"],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "なかなかやるな！船に水が入ると沈まないように荷物を捨てるから軽くなるのだ！ボーナス鍵を受け取れ！",
-      "wrong": "ハズレ！水が入って荷物を投げ捨てる船のことを考えてみよ！"
+      "correct": "正解だ！虹は空に住んでいるから、屋根の下では会えないのさ！",
+      "wrong": "残念！雨上がりの空にだけ会える友達、それは虹だよ！"
     }
   },
   {
     "id": "rid_ja_002",
     "difficulty": 1,
-    "category": "nature",
-    "question": "昼は伸びて夜は消え、どんなに速く走っても決して振りほどけないクケビの友人は？",
-    "options": ["影", "風", "足跡", "こだま"],
+    "category": "wordplay",
+    "question": "季節の変わり目に必ず来るのに、一度も椅子に座ったことのない客は？",
+    "options": ["風", "猫", "郵便屋", "月"],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！光がある限りいつでもぴったり寄り添う我が友よ！",
-      "wrong": "残念！真っ暗な夜になると見えなくなるのは影なのだ。"
+      "correct": "さすが！風は窓から入ってくるが、椅子に座ってお茶を飲まないからね！",
+      "wrong": "ぶっぶー！座りもせず帰っていく客といえば、風だよ！"
+    }
+  },
+  {
+    "id": "rid_ja_003",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "千年前も今も同じ顔なのに、昨日と今日で気分が変わっているものは？",
+    "options": ["月", "山", "川", "星"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "その通り！満ちたり欠けたり、月は千年前から気分屋なんだ！",
+      "wrong": "惜しい！毎晩表情を変える気分屋は、月さ！"
+    }
+  },
+  {
+    "id": "rid_ja_004",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "たくさん食べれば食べるほど、持つ側がすっからかんになっていくものは？",
+    "options": ["財布", "備蓄米", "胃袋", "貯金箱"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解！中身を全部召し上がられた財布の気持ち、少しは考えてあげな！",
+      "wrong": "ぶっぶー！食えば食うほど軽くなるのは、中身が減った財布さ！"
+    }
+  },
+  {
+    "id": "rid_ja_005",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "世界中の宝を全部抱えているのに、一歩も動けない富豪は誰だ？",
+    "options": ["地面", "海", "雲", "山"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "その通り！大地の上のすべてが地面の財産さ。でも大地は永遠に不動だ！",
+      "wrong": "残念！世界のすべてを抱えて動けない富豪は、地面だよ！"
+    }
+  },
+  {
+    "id": "rid_ja_006",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "朝は長く、昼は短く、夜には消えるが、決して死なないものは？",
+    "options": ["影", "露", "朝焼け", "灯り"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解だ！影は夜に消えるが、翌朝また元気に生き返るんだよ！",
+      "wrong": "惜しい！朝長く夜に消えるが死なないのは影さ！"
+    }
+  },
+  {
+    "id": "rid_ja_007",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "口はないのに歌い、手はないのに触れ、姿はないのに届くものは？",
+    "options": ["声", "匂い", "夢", "風船"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解！声は姿がなくても、千キロ先の心まで届くんだ！",
+      "wrong": "ぶっぶー！口も手も姿もないのに届くのは、声さ！"
+    }
+  },
+  {
+    "id": "rid_ja_008",
+    "difficulty": 3,
+    "category": "wit",
+    "question": "千回使っても減らず、一度も使わないと錆びてしまう宝物は？",
+    "options": ["心", "刀", "金貨", "地図"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "その通り！心は千回使っても減らないが、閉ざせば錆びるんだ！",
+      "wrong": "惜しい！使うほど輝き、しまい込むと錆びるのは心さ！"
+    }
+  },
+  {
+    "id": "rid_ja_009",
+    "difficulty": 3,
+    "category": "nature",
+    "question": "昨日の自分と絶対に会えず、明日の自分とは必ず会える存在は？",
+    "options": ["今日", "夢", "風", "光"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解！今日は昨日には戻れず、明日へとしか歩かないからな！",
+      "wrong": "惜しい！昨日には会えず明日には必ず会えるのは、今日さ！"
+    }
+  },
+  {
+    "id": "rid_ja_010",
+    "difficulty": 3,
+    "category": "wordplay",
+    "question": "一人では決して歩けず、必ず誰かと一緒にしか行けない旅は？",
+    "options": ["未来", "記憶", "夢", "地図"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解だ！未来は今日の自分と一緒にしか歩けない旅なんだよ！",
+      "wrong": "残念！必ず今日の自分と連れ立って行く旅は、未来さ！"
     }
   }
 ]

@@ -1,0 +1,102 @@
+{
+  "symbols": [
+    {
+      "id": "water",
+      "label": "澄んだ水",
+      "card_id": "water_sprite",
+      "meaning": "感情が浄化され、心が澄んでいく夢",
+      "advice": "澄んだ水は澄んだ心。今日は頭を空っぽにして始めましょう。"
+    },
+    {
+      "id": "fire",
+      "label": "火の粉",
+      "card_id": "dokkaebi_fire",
+      "meaning": "エネルギーが燃え上がり、新たな始まりの前兆",
+      "advice": "火種は今育つ時。今日後回しにしていたことに火をつけましょう。"
+    },
+    {
+      "id": "flying",
+      "label": "空を飛ぶ夢",
+      "card_id": "cloud_hermit",
+      "meaning": "束縛から解放され、自由と達成へ向かう上昇運",
+      "advice": "浮くほど視界は広がります。今日は大きな絵を描いてみましょう。"
+    },
+    {
+      "id": "pig",
+      "label": "豚",
+      "card_id": "pig",
+      "meaning": "財と福が転がり込む代表的な吉夢",
+      "advice": "福は準備した手に入ります。今日は財布をきちんと整えて出かけましょう。"
+    },
+    {
+      "id": "snake",
+      "label": "蛇",
+      "card_id": "snake",
+      "meaning": "財と変化が共に来る強い転換の夢",
+      "advice": "脱皮してこそ成長します。着古した服を一つ整理してみましょう。"
+    },
+    {
+      "id": "teeth",
+      "label": "歯が抜ける夢",
+      "card_id": "tiger",
+      "meaning": "勇気が揺れることがあるが、すぐ回復する信号",
+      "advice": "歯はまた生えます。揺れた勇気に小さな勝利を一つ加えましょう。"
+    },
+    {
+      "id": "falling",
+      "label": "墜落する夢",
+      "card_id": "wind_child",
+      "meaning": "土台が揺れて不安定な状態を示す警告夢",
+      "advice": "墜落は着地の予告です。今日は速度を落とし基盤を点検しましょう。"
+    },
+    {
+      "id": "chased",
+      "label": "追いかけられる夢",
+      "card_id": "shadow_walker",
+      "meaning": "避けたいことがあるという内側からのメッセージ",
+      "advice": "振り返らず正面から向き合えば、影は消えます。"
+    },
+    {
+      "id": "star",
+      "label": "星",
+      "card_id": "star_weaver",
+      "meaning": "願いが織られ、機会の糸が届く希望の夢",
+      "advice": "星は遠くの灯台です。今日、願いを一つ具体化してみましょう。"
+    },
+    {
+      "id": "door",
+      "label": "扉/通路",
+      "card_id": "mountain_spirit",
+      "meaning": "新しい機会の入り口が開く始まりの夢",
+      "advice": "扉はノックする人にだけ開きます。今日は先にノックしましょう。"
+    },
+    {
+      "id": "flower",
+      "label": "花",
+      "card_id": "flower_fairy",
+      "meaning": "縁と幸運が咲き広がる吉兆",
+      "advice": "花はタイミングに咲きます。今日は良い挨拶を一言交わしましょう。"
+    },
+    {
+      "id": "sun",
+      "label": "太陽",
+      "card_id": "sun_messenger",
+      "meaning": "名誉と新しい知らせが明るく届く太陽の夢",
+      "advice": "日差しは方向を教えます。東へ進む事が今日は有利です。"
+    },
+    {
+      "id": "moon",
+      "label": "月",
+      "card_id": "moon_rabbit",
+      "meaning": "直感と余裕が満ちていく静かな上昇運",
+      "advice": "月は満ちています。焦らずリズムを信じましょう。"
+    },
+    {
+      "id": "dreaming",
+      "label": "夢の中の夢",
+      "card_id": "dream_eater",
+      "meaning": "隠された願いが表に出ようとしている深層からのメッセージ",
+      "advice": "夢が夢を呼ぶなら、願いは本物です。今日それを紙に書きましょう。"
+    }
+  ]
+}

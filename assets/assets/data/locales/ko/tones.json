@@ -7,16 +7,23 @@
       {
         "id": "comic_tmpl_001",
         "headline": "{card_name}{조사:은/는} 오늘 뛰다가 넘어질 뻔했지만, 착지는 완벽했다",
-        "body": "{direction_name}쪽에서 누군가 당신을 부르는데, 정작 대답한 건 옆 사람입니다. 그래도 숫자 {number}{조사:이/가} 결국 당신 편을 들어줄 예정이니 너무 억울해하지 마세요.",
+        "body": "{timeslot_name}에는 누군가 당신을 부르는데, 정작 대답한 건 옆 사람입니다. 그래도 숫자 {number}{조사:이/가} 결국 당신 편을 들어줄 예정이니 너무 억울해하지 마세요.",
         "tip": "오늘은 실수해도 세상에서 가장 미워할 수 없는 표정을 짓는 게 전략입니다.",
-        "share_caption": "나 오늘 {card_name} {number}번, {direction_name}쪽에서 헛발질 예약됨 🐇 #DOK_KEY"
+        "share_caption": "나 오늘 {card_name} {number}번, {timeslot_name}의 기운으로 헛발질 예약됨 🐇 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_002",
         "headline": "비장하게 문을 열었더니, {card_name}{조사:이/가} 하품을 하고 있었다",
-        "body": "{direction_name}쪽을 향해 전력 질주하려던 계획은 숫자 {number}의 엉뚱한 참견으로 잠시 보류됩니다. 세상이 당신의 심각함을 몰라줘도 오늘은 그냥 웃고 넘기는 편이 훨씬 이득입니다.",
+        "body": "{timeslot_name}에 전력 질주하려던 계획은 숫자 {number}{조사:이/가} 엉뚱한 참견으로 잠시 보류됩니다. 세상이 당신의 심각함을 몰라줘도 오늘은 그냥 웃고 넘기는 편이 훨씬 이득입니다.",
         "tip": "진지해질수록 웃음거리가 될 수 있으니, 유쾌함을 무기로 삼으세요.",
-        "share_caption": "{card_name} {number}번 들고 {direction_name}쪽 가다가 빵 터진 하루 😂 #DOK_KEY"
+        "share_caption": "{card_name} {number}번 들고 {timeslot_name}을 가다가 빵 터진 하루 😂 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_003",
+        "headline": "{timeslot_name}의 무대 위에서, {card_name}{조사:은/는} 개그를 쳤다",
+        "body": "완벽하게 준비한 당신 앞에서 숫자 {number}{조사:이/가} 갑자기 반전을 선사합니다. 대사를 잊어버린 배우처럼 어정쩡해도, 웃음을 산 것이라면 그게 오늘의 승리입니다.",
+        "tip": "완벽하지 않아서 웃긴 겁니다. 오늘은 어설픈 채로 리허설 없이 가세요.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 함께 즉흥 개그 한 스푼 🤡 #DOK_KEY"
       }
     ]
   },
@@ -27,17 +34,24 @@
     "templates": [
       {
         "id": "calm_tmpl_001",
-        "headline": "조용히, {card_name}{조사:은/는} 멈춰 서서 {direction_name}쪽을 바라본다",
-        "body": "오늘은 애써 서두르지 않아도 괜찮습니다, 숫자 {number}{조사:이/가} 이미 당신 곁에 와 있으니까요. {direction_name}쪽 방향의 일은 재촉하지 않아도 제 속도로 흘러갑니다.",
+        "headline": "조용히, {card_name}{조사:은/는} 멈춰 서서 {timeslot_name}을 바라본다",
+        "body": "오늘은 애써 서두르지 않아도 괜찮습니다, 숫자 {number}{조사:이/가} 이미 당신 곁에 와 있으니까요. {timeslot_name}에 걸리는 일은 재촉하지 않아도 제 속도로 흘러갑니다.",
         "tip": "오늘 하루는, 대답을 반 박자 미뤄도 전혀 늦지 않습니다.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽. 오늘은 그냥 천천히 갑니다 🌿 #DOK_KEY"
+        "share_caption": "{card_name} {number}번, {timeslot_name}. 오늘은 그냥 천천히 갑니다 🌿 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_002",
-        "headline": "바람이 불어오는 길목에서 {card_name}{조사:이/가} 숨을 고른다",
-        "body": "복잡한 생각은 {direction_name}쪽 하늘로 날려 보내세요. 숫자 {number}{조사:은/는} 오늘 당신이 누릴 가장 담백한 평화를 가리키고 있습니다.",
+        "headline": "바람이 불어오는 시각에 {card_name}{조사:이/가} 숨을 고른다",
+        "body": "복잡한 생각은 {timeslot_name}의 공기에 살짝 올려두세요. 숫자 {number}{조사:은/는} 오늘 당신이 누릴 가장 담백한 평화를 가리키고 있습니다.",
         "tip": "따뜻한 물 한 잔으로 마음의 소음을 지워보세요.",
-        "share_caption": "{direction_name}쪽을 바라보며 {card_name} {number}번과 함께 평온을 찾다 ☕ #DOK_KEY"
+        "share_caption": "{timeslot_name}을 바라보며 {card_name} {number}번과 함께 평온을 찾다 ☕ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_003",
+        "headline": "{timeslot_name}, 아무 일도 일어나지 않는 것이 오늘의 선물입니다",
+        "body": "기대와 걱정 사이에서 {card_name}{조사:은/는} 조용히 중간 지점을 가리킵니다. 숫자 {number}이 말하길, 오늘은 아무것도 고치지 않아도 흐름은 이미 좋다고 합니다.",
+        "tip": "잘되는 날엔 손대지 않는 게 최고의 기술입니다. 오늘은 유지보수 모드로 가세요.",
+        "share_caption": "{timeslot_name}의 평온, {card_name} {number}번과 함께 유지 중 🍃 #DOK_KEY"
       }
     ]
   },
@@ -49,149 +63,275 @@
       {
         "id": "conflict_tmpl_001",
         "headline": "{card_name}{조사:은/는} 웃고 있지만, 발톱은 숨기지 않았다",
-        "body": "{direction_name}쪽에서 솔깃한 제안이 오는 듯하지만, 숫자 {number}{조사:은/는} 그 안에 작은 가시가 숨어있다고 말합니다. 상대의 호의를 받아들이되, 전부 믿지는 마세요.",
-        "tip": "오늘의 달콤한 말은 반만 진심일 수 있습니다 — 나머지 반은 직접 확인하세요.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽. 좋은 소식 뒤에 가시 하나 🐅 #DOK_KEY"
+        "body": "{timeslot_name}에 좋은 소식이 오는 듯하지만, 숫자 {number}{조사:은/는} 그 안에 작은 가시가 있다고 말합니다. 받아들이되, 전부 믿지는 마세요.",
+        "tip": "오늘의 호의는 반만 진심일 수 있습니다 — 나머지 반은 확인하고 넘어가세요.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}. 좋은 소식 뒤에 가시 하나 숨어있음 🐅 #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_002",
-        "headline": "두 갈래 길 앞에서 {card_name}{조사:이/가} 날카롭게 돌아선다",
-        "body": "{direction_name}쪽에서 마주칠 의견 대립은 피하기 어렵습니다. 숫자 {number}{조사:으로/로} 상징되는 당신만의 기준을 지키지 않으면 주도권을 뺏길 수 있습니다.",
-        "tip": "어설픈 타협보다는 단호한 거절이 관계를 지킵니다.",
-        "share_caption": "{direction_name}쪽에서 만난 날카로운 순간, {card_name} {number}번의 결단 ⚔️ #DOK_KEY"
+        "headline": "{timeslot_name}의 저울 위에서, 두 마음이 맞서고 있다",
+        "body": "고르고 싶은 선택지가 둘로 갈라지지만, {card_name}{조사:은/는} 어느 쪽에도 서명하지 않습니다. 숫자 {number}{조사:이/가} 건너는 조언은 단 하나, 오늘은 결론을 미루는 것도 전략이라는 것.",
+        "tip": "두 답이 모두 옳다면, 오늘 답하지 않는 답이 세 번째 정답입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번, 저울 위에서 균형 잡는 중 ⚖️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_003",
+        "headline": "말다툼의 여운 속에서, {card_name}{조사:이/가} 벽을 등지고 선다",
+        "body": "{timeslot_name}에 스친 불편한 말 한마디가 하루 종일 따라다닐 수 있습니다. 숫자 {number}{조사:은/는} 그 말의 절반은 오해였다고 알려주니, 오늘은 답장을 늦추는 편이 좋겠습니다.",
+        "tip": "뜨거울 때 쓴 답장은 식은 뒤에 읽으면 대부분 후회입니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}의 갈등은 반만 진짜였다 🧨 #DOK_KEY"
       }
     ]
   },
   "meeting": {
     "name": "만남",
     "color": "#E07A5F",
-    "voice_guide": "미완결/열린 결말, 설렘과 호기심을 유도",
+    "voice_guide": "설렘과 기대를 담은 따뜻한 관찰",
     "templates": [
       {
         "id": "meeting_tmpl_001",
         "headline": "{card_name}{조사:은/는} 혼자 날아왔지만, 오늘은 아닐지도 모른다",
-        "body": "{direction_name}쪽에서 누군가 당신 쪽으로 방향을 트는 중입니다, 숫자 {number}{조사:이/가} 그 타이밍을 정확히 가리키고 있어요. 오늘 스쳐 지나가는 우연한 눈빛을 눈여겨보세요.",
-        "tip": "먼저 가벼운 인사를 건네는 쪽이 오늘의 승자입니다.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽. 오늘 누군가 방향을 틀고 있다 🪶 #DOK_KEY"
+        "body": "{timeslot_name}에 누군가 당신 쪽으로 방향을 트는 중입니다, 숫자 5가 그 타이밍을 가리키고 있어요. 오늘 스쳐 지나가는 인연을 눈여겨보세요.",
+        "tip": "먼저 인사를 건네는 쪽이 오늘의 승자입니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}. 오늘 누군가 방향을 틀고 있다 🪶 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_002",
-        "headline": "문틈 사이로 {card_name}{조사:이/가} 반가운 기척을 건넨다",
-        "body": "뜻밖의 장소에서 {direction_name}쪽의 소식이 닿아옵니다. 숫자 {number}{조사:과/와} 얽힌 사람과의 대화에서 뜻밖의 공통점을 발견하게 될 것입니다.",
-        "tip": "상대방의 사소한 취향에 귀를 기울여 보세요.",
-        "share_caption": "{card_name} {number}번이 전하는 {direction_name}쪽의 반가운 인연 ✨ #DOK_KEY"
+        "headline": "{timeslot_name}의 길목에서, {card_name}{조사:이/가} 익숙한 뒷모습을 발견했다",
+        "body": "오래된 인연이 새로운 시각으로 돌아올 차례입니다. 숫자 {number}{조사:은/는} 재회의 자리를 부드럽게 밀어주고 있으니, 밀었던 답장이나 끊겼던 인사를 다시 꺼내보세요.",
+        "tip": "오늘은 먼저 연락하는 쪽이 손해 보지 않는 날입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 함께 재회의 문 두드리는 중 🤝 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_003",
+        "headline": "새 얼굴 한 명, {card_name}{조사:이/가} {timeslot_name}의 초대장을 들고 왔다",
+        "body": "모르던 사람과의 우연한 교차가 오늘의 복점입니다. 숫자 {number}{조사:이/가} 가리키는 건 가벼운 첫 대화 — 거기서 시작된 줄이 생각보다 길어질 수 있습니다.",
+        "tip": "오늘 만난 사람의 이름을 정확히 기억하세요. 그게 오늘의 행운 부적입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번, 새 인연의 초대장 수령함 💌 #DOK_KEY"
       }
     ]
   },
   "horror": {
     "name": "호러",
     "color": "#6A4C93",
-    "voice_guide": "과장된 서스펜스, 하지만 결말이나 팁은 귀엽고 안전하게 반전",
+    "voice_guide": "소름을 즐기는 으스스한 유머, 미학적으로 무서운 문장",
     "templates": [
       {
         "id": "horror_tmpl_001",
-        "headline": "등 뒤를 돌아보지 마라, {card_name}{조사:이/가} 지켜보고 있다",
-        "body": "{direction_name}쪽 구석에서 느껴지는 서늘한 기운의 정체는 깜빡 잊어버린 마감일입니다. 다행히 숫자 {number}{조사:이/가} 당신에게 마지막 탈출구를 열어두었습니다.",
-        "tip": "오늘 미뤄둔 숙제를 처리하지 않으면 밤에 깨비가 꿈에 찾아옵니다.",
-        "share_caption": "{direction_name}쪽에서 오싹한 기운 감지! {card_name} {number}번의 경고 👻 #DOK_KEY"
+        "headline": "{timeslot_name}, 등 뒤에서 {card_name}{조사:이/가} 조용히 따라온다",
+        "body": "두려워하지 마세요, 그것은 나쁜 짐이 아니라 지나온 하루의 그림자입니다. 숫자 {number}{조사:이/가} 그림자의 길이를 재보니, 오늘은 당신이 한 걸음 앞서 있다고 합니다.",
+        "tip": "무서운 건 그림자가 아니라, 그림자를 만들어온 당신의 하루입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번이 등 뒤에 붙어옴 👤 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_002",
+        "headline": "문을 두 번 노크하는 소리, {card_name}{조사:은/는} 알고 있었다",
+        "body": "{timeslot_name}에 두드리는 무언가가 있지만, 숫자 {number}{조사:은/는} 그것이 전하려는 건 소식이라고 말합니다. 무서운 이야기는 대부분 아직 읽지 않은 편지의 다른 이름입니다.",
+        "tip": "오늘의 불길한 예감은 절반은 착각, 나머지 절반은 미처 확인 못한 안부입니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}의 노크 소리 두 번 🚪 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_003",
+        "headline": "거울 속 {card_name}{조사:이/가} 한 박자 늦게 웃었다",
+        "body": "{timeslot_name}의 조명 아래에서 자신의 모습이 낯설게 느껴질 수 있습니다. 숫자 {number}{조사:은/는} 그것이 변한 게 아니라 자라났다는 증거라고 속삭입니다. 낯선 나를 인사해봅시다.",
+        "tip": "오늘의 낯섦은 다른 사람이 되라는 게 아니라, 한 걸음 성장했다는 신호입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 함께 거울 속 나를 인사시킴 🪞 #DOK_KEY"
       }
     ]
   },
   "chaos": {
     "name": "혼란",
     "color": "#7F7F7F",
-    "voice_guide": "문장 구조가 살짝 뒤엉키며 예측불가함을 묘사",
+    "voice_guide": "뒤집고 엎는 반전 유머, 소란을 즐기는 문장",
     "templates": [
       {
         "id": "chaos_tmpl_001",
-        "headline": "오른쪽으로 가려던 {card_name}{조사:은/는} 제자리에서 세 바퀴를 돌았다",
-        "body": "{direction_name}쪽에서 쏟아지는 계획들이 뒤죽박죽 엉킬 수 있습니다. 하지만 숫자 {number}{조사:을/를} 마음에 품고 질서를 세우려 하지 마세요, 오늘은 혼돈 자체가 지름길입니다.",
-        "tip": "계획이 빗나가면 '오히려 좋아'를 세 번 외쳐보세요.",
-        "share_caption": "정신없는 하루 속에서 {card_name} {number}번 들고 엉뚱한 길 찾기 🌀 #DOK_KEY"
+        "headline": "{timeslot_name}, 계획표가 {card_name}의 발밑에서 반으로 찢어졌다",
+        "body": "예정과 현실이 오늘따라 사이좋게 어긋납니다. 숫자 {number}{조사:은/는} 이 혼란이 오히려 새로운 길을 열어줄 청산별력이라 말합니다. 엎어진 게 아니라 다시 섞인 겁니다.",
+        "tip": "오늘의 어질러진 목록에서 딱 한 가지만 고치세요. 나머지는 내일의 재료입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 함께 계획표 폭파 완료 💥 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_002",
+        "headline": "{card_name}{조사:이/가} 축을 돌렸고, {timeslot_name}이 뒤집혔다",
+        "body": "아침의 예고와 저녁의 결말이 서로 다른 드라마일 만큼 오늘은 변덕스럽습니다. 숫자 {number}{조사:이/가} 말하길, 돌아가는 방향을 따라가는 사람이 결국 가장 빠르다고 합니다.",
+        "tip": "오늘은 정답이 자주 바뀝니다. 유연한 사람이 승자, 고집은 패자.",
+        "share_caption": "{card_name} {number}번 들고 {timeslot_name}을 뒤집어 보는 중 🌀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_003",
+        "headline": "세 가지 급한 일이 동시에 도착했다, {card_name}{조사:은/는} 소란을 즐긴다",
+        "body": "{timeslot_name}에 알림이 연속으로 터지고, 숫자 {number}{조사:이/가} 우선순위를 가지고 노는 중입니다. 팁은 하나입니다. 가장 작은 일부터 끝내면, 큰 소란은 스스로 줄어듭니다.",
+        "tip": "모든 불이 동시에 나면, 제일 작은 불부터 끄세요. 그게 소방의 원리입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 함께 대소란 속 단골 등극 🔥 #DOK_KEY"
       }
     ]
   },
   "lonely": {
     "name": "외로움",
     "color": "#2B3A67",
-    "voice_guide": "담백하고 절제된 고독, 자기만의 공간을 강조",
+    "voice_guide": "깊고 고요한 감성, 쓸쓸함을 아름답게 두는 문장",
     "templates": [
       {
         "id": "lonely_tmpl_001",
-        "headline": "불 꺼진 방, {card_name}{조사:은/는} 혼자만의 그림자를 응시한다",
-        "body": "{direction_name}쪽의 소란스러움에서 한 걸음 물러나세요. 숫자 {number}{조사:이/가} 가리키는 시간은 오롯이 당신 자신을 위해 비워두어야 할 몫입니다.",
-        "tip": "혼자 먹는 맛있는 한 끼가 열 마디 위로보다 낫습니다.",
-        "share_caption": "{card_name} {number}번과 함께 {direction_name}쪽 소음을 끄고 나에게 집중하는 밤 🌙 #DOK_KEY"
+        "headline": "{timeslot_name}, {card_name}{조사:은/는} 혼자 있기를 좋아하는 법을 안다",
+        "body": "외로움은 결핍이 아니라 자신과 마주하는 시간입니다. 숫자 {number}{조사:이/가} 오늘의 고독에 이름을 붙여보라 합니다. 그 이름은 '충전'입니다.",
+        "tip": "혼자인 시간을 달래지 말고, 채워보세요. 좋아하는 음악 한 곡이면 충분합니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 함께 고요한 충전 중 🌌 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_002",
+        "headline": "아무에게도 말하지 못한 이야기, {card_name}{조사:이/가} 대신 듣는다",
+        "body": "{timeslot_name}의 조용한 시각에, 말하지 못한 한마디가 가슴에 걸려 있습니다. 숫자 {number}{조사:은/는} 오늘은 그 말을 종이에 적어두는 것만으로도 반쯤 해소된다고 말합니다.",
+        "tip": "할 말이 없을 땐 메모장에 쓰세요. 문장은 가장 조용한 친구입니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}의 조용한 이야기 상대 🕯️ #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_003",
+        "headline": "{timeslot_name}의 창가에, {card_name}{조사:이/가} 나란히 앉는다",
+        "body": "사람들은 오늘 당신의 속도를 따라오지 못할 수 있습니다. 그러나 숫자 {number}{조사:은/는} 다른 시간대에 반드시 같은 속도로 걷는 이가 있다고 약속합니다. 오늘은 당신 발걸음 그대로 가세요.",
+        "tip": "혼자 걷는 길이 틀린 게 아닙니다. 아직 만나지 못한 동행이 있을 뿐입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 나란히 창가에 앉다 🪟 #DOK_KEY"
       }
     ]
   },
   "farewell": {
     "name": "이별",
     "color": "#607D8B",
-    "voice_guide": "여운 있는 짧은 문장, 비움과 떠나보냄의 미학",
+    "voice_guide": "애잔하지만 담담한 정리, 눈물 뒤의 다짐",
     "templates": [
       {
         "id": "farewell_tmpl_001",
-        "headline": "떠나는 뒷모습을 보며 {card_name}{조사:은/는} 가볍게 손을 흔들었다",
-        "body": "{direction_name}쪽에 두고 온 미련은 이제 흘려보낼 때입니다. 숫자 {number}{조사:은/는} 새로운 자리를 만들기 위해 비워진 틈을 뜻합니다.",
-        "tip": "잡고 있던 손을 놓아야 새로운 열쇠를 쥘 수 있습니다.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽에 미련을 털어내고 안녕 🍃 #DOK_KEY"
+        "headline": "{card_name}{조사:은/는} 인사를 짧게 하고, {timeslot_name}을 떠난다",
+        "body": "오늘은 무언가를 내려놓기 좋은 시각입니다. 숫자 {number}{조사:은/는} 떠나보내는 자리에 여백을 남기라고 권합니다. 잘 마무리된 이별은 다음 인연의 여백이 됩니다.",
+        "tip": "끝난 관계에 긴 하이파이브는 필요 없습니다. 짧은 목례면 충분합니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}의 짧은 인사와 함께 내려놓다 🍂 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_002",
+        "headline": "{timeslot_name}이 길어지는 동안, {card_name}{조사:이/가} 정리를 도와준다",
+        "body": "미련은 사라지지 않습니다, 다만 자리를 옮길 뿐입니다. 숫자 {number}{조사:이/가} 오늘 미련을 서랍에 넣어두고, 비워진 자리에 새로운 일 한 개를 넣어보라 합니다.",
+        "tip": "오늘은 지운 자리에 새로운 것 하나를 채우세요. 그게 최고의 정리입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 함께 서랍 하나 비우는 중 🧹 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_003",
+        "headline": "{card_name}{조사:이/가} 말했다, 헤어짐도 한 종류의 동행이라고",
+        "body": "{timeslot_name}에 스쳐 간 인연의 뒷모습이 아플 수 있습니다. 그러나 숫자 {number}{조사:은/는} 그 뒷모습이 당신을 여기까지 데려왔다는 사실을 조용히 알려줍니다.",
+        "tip": "오늘은 함께 걸었던 구간에 감사 인사를 하고 넘어가세요. 그걸로 충분합니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}의 동행에게 고맙다고 인사 🌾 #DOK_KEY"
       }
     ]
   },
   "hope": {
     "name": "희망",
     "color": "#F4A261",
-    "voice_guide": "따뜻하고 확신에 찬 어조, 용기를 북돋는 문장",
+    "voice_guide": "따뜻한 격려, 구체적인 다음 걸음을 제시하는 문장",
     "templates": [
       {
         "id": "hope_tmpl_001",
-        "headline": "먹구름 뒤편에서 {card_name}{조사:이/가} 황금빛 열쇠를 찾아냈다",
-        "body": "{direction_name}쪽에서 불어오는 훈풍이 얼어붙었던 고민을 녹입니다. 숫자 {number}{조사:이/가} 당신이 걸어온 길이 틀리지 않았음을 증명해 줄 것입니다.",
-        "tip": "마음속에 품고 있던 그 일, 오늘 시작해도 좋습니다.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽에서 열리는 눈부신 가능성 🌅 #DOK_KEY"
+        "headline": "{timeslot_name}, {card_name}{조사:이/가} 창문을 활짝 연다",
+        "body": "막혔던 통로가 숫자 {number}{조사:을/를} 앞세우고 다시 열립니다. {timeslot_name}에 건네는 한마디, 보낸 한 통의 메시지가 생각보다 큰 문이 됩니다.",
+        "tip": "오늘 미뤄둔 연락 하나를 보내세요. 그게 오늘의 열쇠 구멍입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 함께 창문 활짝 열기 🌤️ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_002",
+        "headline": "작은 싹 하나, {card_name}{조사:이/가} {timeslot_name}의 볕에 내민다",
+        "body": "오늘은 거대한 도약보다 눈에 안 띄는 한 걸음이 승부처입니다. 숫자 {number}{조사:은/는} 그 한 걸음이 3주 뒤의 큰 결실로 이어진다고 예고합니다.",
+        "tip": "오늘 딱 10분만 시작해보세요. 10분이 1시간이 되는 날이 곧 옵니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 오늘의 싹 하나 심기 🌱 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_003",
+        "headline": "{card_name}{조사:은/는} 말한다, {timeslot_name}이 이미 네 편이라고",
+        "body": "불안은 크게 보이지만, 숫자 {number}{조사:이/가} 세어 보여주는 오늘의 유리한 점은 세 손가락이 넘습니다. 희망은 근거가 있는 겁니다, 특히 오늘은요.",
+        "tip": "잘된 일 세 가지를 오늘 밤 적어보세요. 내일의 자신감 재료가 됩니다.",
+        "share_caption": "{timeslot_name}이 내 편이라는 증거, {card_name} {number}번 🌈 #DOK_KEY"
       }
     ]
   },
   "passion": {
     "name": "열정",
     "color": "#E76F51",
-    "voice_guide": "에너지가 넘치고 거침없는 행동을 촉구",
+    "voice_guide": "강렬하고 추진력 있는 짧은 화법",
     "templates": [
       {
         "id": "passion_tmpl_001",
-        "headline": "불꽃을 품은 {card_name}{조사:은/는} 망설임 없이 내달린다",
-        "body": "{direction_name}쪽을 향해 당신의 모든 에너지를 쏟아부으세요. 숫자 {number}{조사:으로/로} 대표되는 오늘의 기세는 그 어떤 장애물도 거침없이 돌파합니다.",
-        "tip": "망설이는 1초가 아깝습니다. 생각이 떠오른 즉시 움직이세요.",
-        "share_caption": "{card_name} {number}번, {direction_name}쪽을 향해 타오르는 직진 모드 🔥 #DOK_KEY"
+        "headline": "{card_name}{조사:이/가} 불씨를 지핀다, {timeslot_name}의 화력으로",
+        "body": "오늘 당신 안의 엔진은 숫자 {number}{조사:을/를} 연료로 완전 점화됩니다. {timeslot_name}에 걸려 있는 일이 있다면 지금 바로 달려드세요, 타이밍이 연료입니다.",
+        "tip": "생각은 1분만, 실행은 지금. 오늘의 몸속 온도가 곧 실력입니다.",
+        "share_caption": "{timeslot_name}에 {card_name} {number}번과 완전 점화 🔥 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_002",
+        "headline": "멈춰 있던 톱니가 돌아간다, {card_name}{조사:이/가} {timeslot_name}에 밀었다",
+        "body": "오래 미뤄둔 일이 오늘 놀랍도록 순조롭게 풀립니다. 숫자 {number}{조사:이/가} 말하길, 막혔던 건 능력이 아니라 시작 버튼이었다고 합니다.",
+        "tip": "미뤄둔 그 일, 오늘 5분만 해보세요. 관성이 당신을 대신 달려줍니다.",
+        "share_caption": "{card_name} {number}번이 {timeslot_name}에 톱니를 돌려줬다 ⚙️ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_003",
+        "headline": "{timeslot_name}, {card_name}{조사:과/와} 함께 정상을 향해 두 걸음",
+        "body": "한 번에 다 하려는 욕심이 유일한 적입니다. 숫자 {number}{조사:은/는} 오늘의 목표를 반으로 쪼개라고 합니다. 절반만 끝내도 오늘은 성공, 그게 열정을 오래 지속하는 법입니다.",
+        "tip": "목표를 반으로 쪼개세요. 오늘의 반 완주가 내일의 전력입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 정상까지 두 걸음 ⛰️ #DOK_KEY"
       }
     ]
   },
   "mystery": {
     "name": "신비",
     "color": "#8338EC",
-    "voice_guide": "은유적이고 여백이 많은 몽환적 문장",
+    "voice_guide": "빈틈없는 함축, 여운을 남기는 은유",
     "templates": [
       {
         "id": "mystery_tmpl_001",
-        "headline": "안개 낀 길목, {card_name}{조사:은/는} 아무도 모르는 주문을 읊조린다",
-        "body": "{direction_name}쪽에서 일어나는 일에는 눈에 보이지 않는 뜻이 숨어있습니다. 숫자 {number}{조사:이/가} 던지는 신호에 감각의 촉수를 곤두세워 보세요.",
-        "tip": "이성적인 계산보다 순간적인 직관을 믿어보세요.",
-        "share_caption": "{card_name} {number}번이 건네는 {direction_name}쪽의 신비로운 비밀 🔮 #DOK_KEY"
+        "headline": "{timeslot_name}의 안개 속에서, {card_name}{조사:이/가} 실 한 가닥을 내민다",
+        "body": "오늘의 답은 완전히 드러나지 않습니다. 숫자 {number}{조사:은/는} 실 한 가닥만 쥐어줍니다. 다만 그 실을 놓지 않는다면, 저녁 무렵에는 전체 그림이 조금씩 보입니다.",
+        "tip": "오늘 반쯤 보인 단서를 기억하세요. 내일 그 반쪽이 완성됩니다.",
+        "share_caption": "{timeslot_name}의 안개, {card_name} {number}번이 내민 실 한 가닥 🧵 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_002",
+        "headline": "{card_name}{조사:은/는} 오늘, {timeslot_name}에만 열리는 문을 안다",
+        "body": "평소와 같은 하루에 단 한 번, 예상 못 한 자리에서 흐름이 꺾입니다. 숫자 {number}{조사:이/가} 가리키는 건 '두 번째 생각'입니다. 첫 답을 내려놓은 직후에 보이는 것들이 있습니다.",
+        "tip": "오늘은 첫 생각보다 두 번째 생각이 정답에 가깝습니다.",
+        "share_caption": "{timeslot_name}에만 열리는 문, {card_name} {number}번 🔮 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_003",
+        "headline": "별의 배열이 바뀌었다, {card_name}{조사:이/가} {timeslot_name}에 알려준다",
+        "body": "우연을 세다 보면 의도가 보입니다. 숫자 {number}{조사:은/는} 오늘 반복되는 세 가지 우연이 같은 방향을 가리키고 있다고 말합니다. 그 방향으로 한 걸음 가보세요.",
+        "tip": "오늘 세 번 이상 반복된 단어나 표시를 기억하세요. 그게 오늘의 메시지입니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번과 별의 배열을 읽는 중 ✨ #DOK_KEY"
       }
     ]
   },
   "irony": {
     "name": "아이러니",
     "color": "#588157",
-    "voice_guide": "씁쓸하면서도 유쾌한 인생의 아이러니를 날카롭게 포착",
+    "voice_guide": "정반대 결말의 여유로운 반전, 웃픈 관찰",
     "templates": [
       {
         "id": "irony_tmpl_001",
-        "headline": "우산을 챙겨 나온 {card_name}의 머리 위로 햇살이 쏟아졌다",
-        "body": "{direction_name}쪽에서 가장 걱정했던 일은 일어나지 않고, 엉뚱한 곳에서 뜻밖의 횡재가 찾아옵니다. 숫자 {number}{조사:은/는} 인생이 원래 계획대로 되지 않아 재미있다고 속삭입니다.",
-        "tip": "철저한 대비가 빗나갈 때의 허탈함을 호탕한 웃음으로 날려버리세요.",
-        "share_caption": "{card_name} {number}번 들고 {direction_name}쪽의 완벽한 빗나감을 즐기다 🎪 #DOK_KEY"
+        "headline": "{card_name}{조사:이/가} 열쇠를 찾아줬는데, 자물쇠는 휴가 중이었다",
+        "body": "{timeslot_name}에 준비된 사람에게 준비되지 않은 상황이 찾아옵니다. 숫자 {number}{조사:은/는} 웃으면서 말합니다. 괜찮다, 오늘의 헛걸음은 내일의 정확한 시간표가 된다고.",
+        "tip": "오늘의 삐걱거림은 고장이 아니라 조율 중인 소리입니다.",
+        "share_caption": "{card_name} {number}번, {timeslot_name}에 열쇠를 찾았는데 자물쇠가 자리 비움 🔑 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_002",
+        "headline": "{timeslot_name}, 최선을 다했을 때 마지막에 등장하는 반전의 달인",
+        "body": "포기할 만한 시점에 기회가 등장하는 게 오늘의 패턴입니다. 숫자 {number}{조사:이/가} 떠들어대길, 하마터면 지나칠 뻔한 마지막 통화나 마지막 메시지를 다시 확인해보라고 합니다.",
+        "tip": "오늘은 포기하기 5분 전이 승부처입니다. 마지막 확인 한 번 더!",
+        "share_caption": "{timeslot_name}, {card_name} {number}번의 마지막 반전 서비스 🎭 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_003",
+        "headline": "{card_name}{조사:은/는} 오늘, {timeslot_name}의 주인공이 조연 같다고 지적한다",
+        "body": "빛나는 사람 옆에 서면 나까지 어두워 보이는 착시가 있습니다. 숫자 {number}{조사:은/는} 조명의 문제지 실력의 문제가 아니라며, 오늘은 당신 무대가 따로 열릴 거라 예고합니다.",
+        "tip": "오늘의 비교는 조명 탓입니다. 당신 무대는 따로 열립니다.",
+        "share_caption": "{timeslot_name}, {card_name} {number}번 말이 조명부터 바꿔보자고 함 🎬 #DOK_KEY"
       }
     ]
   }

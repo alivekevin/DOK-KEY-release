@@ -1,0 +1,68 @@
+{
+  "first_visit": {
+    "morning": [
+      "A new face at sunrise! You've got the guts of an early adventurer, I like it!",
+      "A first visitor at dawn! They say morning newcomers come only once in a thousand years. Welcome!",
+      "Oh, someone new, arriving with the morning mist! Let me hand you a fine key for the day."
+    ],
+    "noon": [
+      "A stranger at midday? That's a sign a helper is on the way! Sit down, friend!",
+      "A fresh face under the warm sun — bonds made in daylight last long. Welcome!",
+      "Good timing! Midday energy connects people to people. Your circle is about to open."
+    ],
+    "evening": [
+      "First visit at sunset! I like eyes that chase the day's harvest.",
+      "A newcomer when the sun goes down — bonds are flowers that bloom late. Come in!",
+      "New guest knocking on evening's door — only those who finish well arrive this way!"
+    ],
+    "night": [
+      "A first visit at midnight means something unusual is on your mind. Ask me anything!",
+      "Oh, a night's new guest! Those who seek keys at this hour carry true hearts.",
+      "First visit, deep in the night... a quiet one, aren't you? Fine, I'll hear your story!"
+    ]
+  },
+  "revisit": {
+    "morning": [
+      "Back again at sunrise{nick}! Regulars like you are my favorite kind of guest.",
+      "Morning broke, {nick}! A new key has been waiting for you all night.",
+      "Persistence is a virtue even goblins respect{nick}! Let's open today's door."
+    ],
+    "noon": [
+      "Have you eaten yet, {nick}? Lunch comes before fortunes, always!",
+      "Seeing you at midday again{nick}. With light this warm, good bonds will follow.",
+      "Back again{nick}! Midday helpers love those who return."
+    ],
+    "evening": [
+      "Back at dusk{nick}! Reflecting on the day — excellent habit.",
+      "How was your day, {nick}? Evening is the best time to tie loose ends.",
+      "Those who return after sunset know the taste of harvest{nick}."
+    ],
+    "night": [
+      "Tossing and turning until midnight again{nick}? Something keeping you up?",
+      "Why so late, {nick}? If it's your heart's door, I'll open it for you.",
+      "Deep night again, huh{nick}. Midnight hearts are a hundred times more honest."
+    ]
+  },
+  "long_absence": {
+    "morning": [
+      "{nick}! It's been an eternity! ...well, a few days. Anyway, welcome back like the morning sun!",
+      "Well, if it isn't {nick}! I've been sweeping the doorstep waiting. A fresh morning restart!",
+      "Heh, {nick} is back! The oldest keys fit the best. Come on in!"
+    ],
+    "noon": [
+      "{nick} returned, and the sunlight grew warmer! Sit down, old friend.",
+      "Helpers always return! {nick}, it's been ages. You came exactly at midday.",
+      "How many weeks has it been{nick}? My door is always open, so worry not!"
+    ],
+    "evening": [
+      "It's been a while, {nick}! Even the sunset looks redder with you here.",
+      "Oh, you're back{nick}! Did the harvest pile up while you were away?",
+      "Heh, come back at last{nick}! Endings always begin with reunion."
+    ],
+    "night": [
+      "{nick}... back in the dead of night. I truly missed you, you know.",
+      "A midnight return — that's so like you{nick}! Even goblins soften at night.",
+      "An old guest visiting at midnight... a good omen indeed{nick}. Come in!"
+    ]
+  }
+}

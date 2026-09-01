@@ -1,0 +1,102 @@
+{
+  "symbols": [
+    {
+      "id": "water",
+      "label": "맑은 물",
+      "card_id": "water_sprite",
+      "meaning": "감정이 정화되고 속이 맑아지는 꿈",
+      "advice": "맑은 물은 마음의 정화입니다. 오늘은 머릿속을 비우고 시작하세요."
+    },
+    {
+      "id": "fire",
+      "label": "불똥/불꽃",
+      "card_id": "dokkaebi_fire",
+      "meaning": "에너지가 타오르고 새 시작이 일어나는 조짐",
+      "advice": "불씨는 지금이 크는 시간입니다. 오늘 미뤄둔 일에 불을 붙이세요."
+    },
+    {
+      "id": "flying",
+      "label": "하늘을 나는 꿈",
+      "card_id": "cloud_hermit",
+      "meaning": "속박에서 벗어나 자유와 성취를 향하는 상승운",
+      "advice": "공중에 뜬 만큼 눈도 넓어집니다. 큰 그림을 그려볼 날입니다."
+    },
+    {
+      "id": "pig",
+      "label": "돼지",
+      "card_id": "pig",
+      "meaning": "재물과 복이 굴러들어오는 대표적인 길몽",
+      "advice": "복은 준비된 손에 들어옵니다. 오늘 지갑을 단정히 하고 다녀보세요."
+    },
+    {
+      "id": "snake",
+      "label": "뱀",
+      "card_id": "snake",
+      "meaning": "재물과 변화가 함께 오는 강력한 전환의 꿈",
+      "advice": "허물은 벗어야 성장합니다. 오래 입은 옷 하나를 정리해보세요."
+    },
+    {
+      "id": "teeth",
+      "label": "이 빠지는 꿈",
+      "card_id": "tiger",
+      "meaning": "용기가 흔들리는 일이 있으나 곧 회복되는 신호",
+      "advice": "이빨은 다시 나기도 합니다. 흔들린 용기에 작은 승리를 하나 더하세요."
+    },
+    {
+      "id": "falling",
+      "label": "추락하는 꿈",
+      "card_id": "wind_child",
+      "meaning": "기반이 흔들려 불안정한 상태를 보여주는 경고몽",
+      "advice": "추락은 착지의 예고입니다. 오늘은 속도를 줄이고 기반을 점검하세요."
+    },
+    {
+      "id": "chased",
+      "label": "쫓기는 꿈",
+      "card_id": "shadow_walker",
+      "meaning": "피하고 싶은 일이 있다는 내면의 메시지",
+      "advice": "뒤돌아보지 않고 정면으로 마주하면 그림자는 사라집니다."
+    },
+    {
+      "id": "star",
+      "label": "별",
+      "card_id": "star_weaver",
+      "meaning": "소원이 엮이고 기회의 실이 오는 희망의 꿈",
+      "advice": "별은 먼 곳의 등대입니다. 오늘 소원을 하나 구체화해보세요."
+    },
+    {
+      "id": "door",
+      "label": "문/통로",
+      "card_id": "mountain_spirit",
+      "meaning": "새로운 기회의 입구가 열리는 시작의 꿈",
+      "advice": "문은 노크하는 사람에게만 열립니다. 오늘 먼저 노크하세요."
+    },
+    {
+      "id": "flower",
+      "label": "꽃",
+      "card_id": "flower_fairy",
+      "meaning": "인연과 행운이 피어나는 길조",
+      "advice": "꽃은 타이밍에 피고 사라집니다. 오늘 좋은 인사를 건네두세요."
+    },
+    {
+      "id": "sun",
+      "label": "해/태양",
+      "card_id": "sun_messenger",
+      "meaning": "명예와 새 소식이 밝게 도착하는 태양의 꿈",
+      "advice": "햇살은 방향을 알려줍니다. 동쪽으로 나가는 일이 유리합니다."
+    },
+    {
+      "id": "moon",
+      "label": "달",
+      "card_id": "moon_rabbit",
+      "meaning": "직관과 여유가 차오르는 은은한 상승운",
+      "advice": "달은 채워지는 중입니다. 조급함 대신 리듬을 믿으세요."
+    },
+    {
+      "id": "dreaming",
+      "label": "꿈 속의 꿈",
+      "card_id": "dream_eater",
+      "meaning": "숨겨진 소원이 드러나려는 심층의 메시지",
+      "advice": "꿈이 꿈을 부르면 소원은 진짜입니다. 오늘 그 소원을 종이에 적으세요."
+    }
+  ]
+}
