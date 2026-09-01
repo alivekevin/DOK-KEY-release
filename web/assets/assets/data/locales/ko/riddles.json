@@ -1,0 +1,132 @@
+﻿[
+  {
+    "id": "rid_ko_001",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "깨비가 아끼는 항아리에는 구멍이 숭숭 나 있다. 그런데 물을 채울수록 점점 더 가벼워지는 것은?",
+    "options": ["배(Ship)", "그물", "얼음", "풍선"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "제법인데? 물이 차오를수록 배는 가라앉아서 짐을 덜어내야 하거든! 보너스 열쇠를 주마!",
+      "wrong": "땡! 배에 물이 차면 가라앉지 않으려고 짐을 던져서 가벼워지는 법이지!"
+    }
+  },
+  {
+    "id": "rid_ko_002",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "낮에는 길어지고 밤에는 사라지며, 아무리 빨리 달려도 절대 떼어낼 수 없는 깨비의 친구는?",
+    "options": ["그림자", "바람", "발자국", "메아리"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "정답이야! 빛이 있는 한 언제나 찰떡같이 붙어 다니는 내 친구지!",
+      "wrong": "틀렸다네! 어두운 밤이 되면 깜깜해서 보이지 않는 건 그림자라네."
+    }
+  },
+  {
+    "id": "rid_ko_003",
+    "difficulty": 1,
+    "category": "wordplay",
+    "question": "세상에서 가장 빠른 닭은 무슨 닭일까?",
+    "options": ["후다닥", "토종닭", "장닭", "통닭"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "크하하! 눈 깜짝할 사이에 지나가는 '후다닥'이지! 센스가 좋구나!",
+      "wrong": "아쉽군! 바람처럼 사라지는 닭은 바로 '후다닥'이라네!"
+    }
+  },
+  {
+    "id": "rid_ko_004",
+    "difficulty": 2,
+    "category": "insight",
+    "question": "주면 줄수록 내게는 더 커지고, 쥐고 있으려 하면 점점 작아져 사라지는 것은?",
+    "options": ["비밀", "기쁨(웃음)", "욕심", "돈"],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "kkaebi_reaction": {
+      "correct": "명답이다! 남에게 기쁨을 나누어주면 내 기쁨은 배가 되는 법이거든!",
+      "wrong": "땡! 혼자만 쥐고 있으면 시들고, 나눌수록 커지는 건 바로 기쁨이지!"
+    }
+  },
+  {
+    "id": "rid_ko_005",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "깨비 방망이로도 절대 깰 수 없는 것은 무엇일까?",
+    "options": ["다이아몬드", "약속", "잠", "바위"],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "kkaebi_reaction": {
+      "correct": "오호! 깊이 든 꿀잠은 도깨비 방망이 소리로도 못 깨우지! 열쇠 2개를 받아라!",
+      "wrong": "틀렸어! 쏟아지는 잠과 게으름은 방망이로도 깨기 어렵단다."
+    }
+  },
+  {
+    "id": "rid_ko_006",
+    "difficulty": 2,
+    "category": "logic",
+    "question": "앞으로 가면 커지고, 뒤로 가면 작아지며, 거울을 보면 그대로인 것은?",
+    "options": ["돋보기", "나이", "발자국 수", "발걸음"],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "kkaebi_reaction": {
+      "correct": "맞았어! 세월 따라 먹는 나이는 뒤로 갈수록 줄어들고 거울엔 오늘의 내가 보이지!",
+      "wrong": "아니라네! 시간과 함께 늘어나는 건 바로 나이라네."
+    }
+  },
+  {
+    "id": "rid_ko_007",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "올라갈 때는 눈물을 흘리고, 다 올라가면 머리에 하얀 관을 쓰는 것은?",
+    "options": ["등대", "성냥(촛불)", "눈사람", "구름"],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "kkaebi_reaction": {
+      "correct": "정답! 촛농을 눈물처럼 흘리며 타오르는 양초의 모습이지! 훌륭해!",
+      "wrong": "땡! 어둠을 밝히며 눈물(촛농)을 흘리는 촛불을 생각해 보게."
+    }
+  },
+  {
+    "id": "rid_ko_008",
+    "difficulty": 3,
+    "category": "philosophy",
+    "question": "문체와 형체는 없으나 사람의 마음을 천 길 낭떠러지로 떨어뜨리기도 하고 하늘로 띄우기도 하는 도깨비의 보물은?",
+    "options": ["말(Words)", "금괴", "거울", "열쇠"],
+    "answer_index": 0,
+    "reward_keys": 3,
+    "kkaebi_reaction": {
+      "correct": "통찰력이 대단하군! 세상을 살리는 것도, 죽이는 것도 혀끝에서 나오는 '말'이지! 보너스 열쇠 3개!",
+      "wrong": "틀렸다네. 형체는 없지만 칼보다 날카롭고 솜보다 따뜻한 건 바로 '말'이라네."
+    }
+  },
+  {
+    "id": "rid_ko_009",
+    "difficulty": 3,
+    "category": "paradox",
+    "question": "가진 자는 불안해하고, 잃은 자는 홀가분해하며, 아무것도 없는 자만이 온전히 누릴 수 있는 것은?",
+    "options": ["명예", "욕심(집착)", "자유", "지식"],
+    "answer_index": 1,
+    "reward_keys": 3,
+    "kkaebi_reaction": {
+      "correct": "무릎을 탁 치게 만드는군! 쥐고 있을 땐 괴롭고 놓아야 비로소 편해지는 '욕심'이지!",
+      "wrong": "아쉽구나. 마음을 무겁게 짓누르다 내려놓아야 사라지는 집착과 욕심을 뜻한다네."
+    }
+  },
+  {
+    "id": "rid_ko_010",
+    "difficulty": 3,
+    "category": "ancient_wit",
+    "question": "깨비가 감춰둔 4개의 자물쇠를 단번에 열 수 있는 유일한 만능열쇠는?",
+    "options": ["황금 열쇠", "오늘을 사는 마음(Now)", "도깨비 방망이", "시간 여행기"],
+    "answer_index": 1,
+    "reward_keys": 3,
+    "kkaebi_reaction": {
+      "correct": "완벽하다! 어제도 내일도 아닌 바로 '지금 이 순간'이야말로 DOK-KEY의 진정한 마스터키지!",
+      "wrong": "땡! 과거의 후회와 미래의 걱정을 여는 열쇠는 오직 '현재'뿐이란다."
+    }
+  }
+]

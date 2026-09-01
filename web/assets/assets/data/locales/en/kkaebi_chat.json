@@ -1,0 +1,69 @@
+﻿{
+  "topics": [
+    {
+      "id": "lotto",
+      "chip_title": "Should I buy lottery? 💰",
+      "user_question": "Kkaebi, if I buy a lottery with today's drawn number, will I win?",
+      "steps": [
+        "I may be a thousand-year-old goblin, but even the heavens don't know winning lottery numbers! Go buy some hot crispy pastries with that money instead. That's a 100% guaranteed jackpot of joy!",
+        "Asking again? Honestly, wishing for sheer luck will only rust even a magical goblin club! True wealth comes when you create value that attracts prosperity.",
+        "If you truly wish to be wealthy, meditate on today's '{card_name}' card. Building a sturdy foundation with your own hands is a hundred times faster!",
+        "You are quite persistent! The odds of winning the lottery are 1 in 8.14 million, yet the probability of sitting here conversing with me is far more miraculous! Channel that miracle into yourself.",
+        "Alright, I respect your tenacity! Keep today's lucky number #{number} close in your heart and give your best to your craft. A destined benefactor far greater than lottery cash will find you!"
+      ]
+    },
+    {
+      "id": "interview",
+      "chip_title": "Exam / Interview today? 🎯",
+      "user_question": "Kkaebi, I have an important test/interview today. Will it go well?",
+      "steps": [
+        "Didn't you draw the sacred '{card_name}' card today? Hold your head high and show what you've prepared. I'll be secretly cheering behind your back!",
+        "Still nervous? Take three deep breaths and whisper 'Help me Kkaebi!'. The energy of {tone_name} will help you speak with crystal clarity!",
+        "Interviewers are just ordinary humans eating everyday meals! Nothing in this world is scarier than a goblin, so look them in the eye and smile brightly!",
+        "I have witnessed all the midnight sweat you poured in. You cannot deceive a goblin's eyes—you are already prepared, so enjoy the moment!",
+        "Final verdict: You will triumph! A giant far grander than you realize sleeps within you. Square your shoulders and conquer the room!"
+      ]
+    },
+    {
+      "id": "relationship",
+      "chip_title": "Who will I meet today? 👥",
+      "user_question": "Kkaebi, how is my social and relationship fortune today?",
+      "steps": [
+        "Pay close attention to anyone offering you kind words today. The '{card_name}' card has unlocked a gentle door to meaningful connections.",
+        "Still worried about people? Even if someone annoys you, smile like a cheerful goblin and let it slide. Your warm smile is the master key to untangling knots today!",
+        "Do not exhaust yourself trying to be loved by everyone. Even goblins have those who adore them and those who fear them. Having just one true soul who understands your worth is plenty.",
+        "If someone occupies your thoughts, send a warm greeting first today. The thread of destiny from '{card_name}' is pulled delightfully taut today!",
+        "Remember: when you blossom into a fragrant flower, butterflies gather naturally. Today, cherish yourself above all else!"
+      ]
+    },
+    {
+      "id": "healing",
+      "chip_title": "I'm so exhausted today 🌙",
+      "user_question": "Kkaebi, I feel so tired and drained lately...",
+      "steps": [
+        "Come here, let me sweep all your heavy sighs into my magic sack! You did remarkably well today. Go home, take a warm shower, and rest deeply.",
+        "It must have been so heavy... Just as the moon wanes only to wax full again, exhausting days always make room for radiant new mornings. Tonight, rest with a light heart!",
+        "This thousand-year-old goblin knows the silent battles and fatigue that others overlooked. Simply getting through today proves you are already a hero.",
+        "You do not have to force yourself to be cheerful. Even goblins throw down their magic clubs and take deep naps in the forest. Dedicate tonight solely to rest.",
+        "I will have a brand new golden key ready to unlock tomorrow morning for you, so surrender all worries to me and sleep peacefully tonight. You are deeply precious."
+      ]
+    },
+    {
+      "id": "joke",
+      "chip_title": "Can I touch your horns? 😈",
+      "user_question": "Kkaebi, can I touch the cute little horns on your head?",
+      "steps": [
+        "Hey! A goblin's horns are off-limits! ...Because it tickles so much! Bwahaha!",
+        "Targeting my horns again? The admission fee is three warm pastries—nothing in this realm is free!",
+        "If you keep trying, I might swing my club and give you a matching pair of goblin horns! Haha!",
+        "Fascinated by my horns? They are mystical antennas that grew over a thousand years listening to human wishes and sorrows.",
+        "What is truly magnificent is not my horns, but your courage to embrace each day! Alright, I will grant you one special pat!"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Yikes! I leaked too many celestial secrets today—my goblin lifespan just dropped by 5 years! Time to hop back into my magic pot! Ask something else! 💨",
+    "If I speak any more, lightning from the heavens will strike my horns! Today's wisdom sack is officially sold out! Go forth and live brilliantly!",
+    "Chatting with you was so thrilling that my goblin horns are cramping up! Fortune session closed for today—sleep tight and return tomorrow with a fresh key! 🌙"
+  ]
+}

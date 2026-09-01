@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "q_en_001",
+    "text": "If you trip and fall, pick up a shiny coin from the floor before getting back up—that's Kkaebi's way.",
+    "category": "Kkaebi Wisdom",
+    "tone_tags": ["comic", "hope"]
+  },
+  {
+    "id": "q_en_002",
+    "text": "When fierce gales blow, don't fight the storm; unfold your fan and ride the currents.",
+    "category": "Proverb",
+    "tone_tags": ["calm", "passion"]
+  },
+  {
+    "id": "q_en_003",
+    "text": "Never covet golden or silver axes. The plain iron axe fitted to your own grip chops wood best.",
+    "category": "Kkaebi Wisdom",
+    "tone_tags": ["calm", "irony"]
+  },
+  {
+    "id": "q_en_004",
+    "text": "Don't despair when a front door slams shut; a mischievous spirit always leaves a rear wall slightly cracked.",
+    "category": "Kkaebi Wisdom",
+    "tone_tags": ["hope", "mystery"]
+  },
+  {
+    "id": "q_en_005",
+    "text": "Try to please every passing stranger, and even a magical dokkaebi club will shatter from fatigue.",
+    "category": "Satire",
+    "tone_tags": ["conflict", "lonely"]
+  },
+  {
+    "id": "q_en_006",
+    "text": "The one who can quietly savor a single cup of tea under moonlight is truly the wealthiest soul alive.",
+    "category": "Kkaebi Wisdom",
+    "tone_tags": ["calm", "lonely"]
+  },
+  {
+    "id": "q_en_007",
+    "text": "A day that wanders off script might just be a surprise gift box secretly planted by spirits.",
+    "category": "Kkaebi Wisdom",
+    "tone_tags": ["chaos", "irony"]
+  },
+  {
+    "id": "q_en_008",
+    "text": "The one who extends a hand first does not lose face; they simply take hold of the key to destiny.",
+    "category": "Proverb",
+    "tone_tags": ["meeting", "hope"]
+  },
+  {
+    "id": "q_en_009",
+    "text": "Clutching onto autumn's dry leaves leaves you with no free hands to embrace blooming spring flowers.",
+    "category": "Proverb",
+    "tone_tags": ["farewell", "calm"]
+  },
+  {
+    "id": "q_en_010",
+    "text": "Turn on the lantern, and fear suddenly looks as ordinary as neatly folded blankets in the corner.",
+    "category": "Satire",
+    "tone_tags": ["horror", "passion"]
+  }
+]

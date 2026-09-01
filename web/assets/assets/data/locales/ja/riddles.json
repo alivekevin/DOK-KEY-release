@@ -1,0 +1,28 @@
+﻿[
+  {
+    "id": "rid_ja_001",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "クケビが大切にしている壺には穴が開いている。水を入れれば入れるほど軽くなるものは何？",
+    "options": ["船", "網", "氷", "風船"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "なかなかやるな！船に水が入ると沈まないように荷物を捨てるから軽くなるのだ！ボーナス鍵を受け取れ！",
+      "wrong": "ハズレ！水が入って荷物を投げ捨てる船のことを考えてみよ！"
+    }
+  },
+  {
+    "id": "rid_ja_002",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "昼は伸びて夜は消え、どんなに速く走っても決して振りほどけないクケビの友人は？",
+    "options": ["影", "風", "足跡", "こだま"],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解だ！光がある限りいつでもぴったり寄り添う我が友よ！",
+      "wrong": "残念！真っ暗な夜になると見えなくなるのは影なのだ。"
+    }
+  }
+]

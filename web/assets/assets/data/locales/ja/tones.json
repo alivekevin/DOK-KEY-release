@@ -1,0 +1,170 @@
+﻿{
+  "comic": {
+    "name": "コミカル (吉)",
+    "color": "#F0A500",
+    "voice_guide": "短くオチのある文体、ユーモラスな自己ツッコミ",
+    "templates": [
+      {
+        "id": "comic_tmpl_001",
+        "headline": "{card_name}は今日走りながら転びそうになったが、着地は見事だった",
+        "body": "{direction_name}の方角から誰かがあなたを呼んだのに、返事をしたのは隣の人でした。それでも数字の{number}が最終的にあなたの味方をしてくれるので、悔しがらなくて大丈夫です。",
+        "tip": "今日は失敗しても、愛嬌たっぷりの笑顔で乗り切るのが最善の策です。",
+        "share_caption": "今日引いたのは{card_name}の{number}番、{direction_name}の方角でお茶目な一日 🐇 #DOK_KEY"
+      }
+    ]
+  },
+  "calm": {
+    "name": "平穏 (大吉)",
+    "color": "#4E9F8E",
+    "voice_guide": "読点が多く、息の長い落ち着いた文体",
+    "templates": [
+      {
+        "id": "calm_tmpl_001",
+        "headline": "静かに、{card_name}は立ち止まり{direction_name}を見つめる",
+        "body": "今日は無理に急ぐ必要はありません。数字の{number}がすでにあなたの傍らに寄り添っているからです。{direction_name}の出来事は、急かさずとも自然なリズムで流れていきます。",
+        "tip": "今日一日は、返事を半歩遅らせても十分に間に合います。",
+        "share_caption": "{card_name}の{number}番、{direction_name}の方角。今日は心穏やかに歩みます 🌿 #DOK_KEY"
+      }
+    ]
+  },
+  "conflict": {
+    "name": "葛藤 (小吉)",
+    "color": "#D14949",
+    "voice_guide": "対立構造と緊張感のある観察",
+    "templates": [
+      {
+        "id": "conflict_tmpl_001",
+        "headline": "{card_name}は微笑んでいるが、鋭い爪は隠していない",
+        "body": "{direction_name}から耳触りの良い話が届きそうですが、数字の{number}はその中に小さな棘が隠れていると告げています。好意は受け止めつつも、全てを鵜呑みにはしないでください。",
+        "tip": "今日の甘い言葉は半分だけ本気かもしれません。残りの半分は自分で確かめましょう。",
+        "share_caption": "{card_name}の{number}番、{direction_name}。良い便りの裏にある小さな注意信号 🐅 #DOK_KEY"
+      }
+    ]
+  },
+  "meeting": {
+    "name": "巡り合い (中吉)",
+    "color": "#E07A5F",
+    "voice_guide": "余韻のある結末、ときめきと好奇心",
+    "templates": [
+      {
+        "id": "meeting_tmpl_001",
+        "headline": "{card_name}は一人で飛んできたが、今日は一人ではないかもしれない",
+        "body": "{direction_name}から誰かがあなたの方へと歩み寄っています。数字の{number}がそのタイミングを正確に指し示しています。今日すれ違うふとした視線に注目してみてください。",
+        "tip": "自分から先に軽い挨拶を交わす人が、今日の勝者です。",
+        "share_caption": "{card_name}の{number}番、{direction_name}。今日、素敵な出会いの予感 🪶 #DOK_KEY"
+      }
+    ]
+  },
+  "horror": {
+    "name": "怪談 (末吉)",
+    "color": "#6A4C93",
+    "voice_guide": "大げさなサスペンスと可愛いオチ",
+    "templates": [
+      {
+        "id": "horror_tmpl_001",
+        "headline": "後ろを振り返るな、{card_name}がじっと見つめている",
+        "body": "{direction_name}の隅から感じる冷ややかな気配の正体は、うっかり忘れていた締め切りです。幸いなことに数字の{number}があなたに最後の抜け道を用意してくれました。",
+        "tip": "今日先延ばしにしていた用事を片付けないと、夜にクケビが夢に現れますよ。",
+        "share_caption": "{direction_name}からゾクッとする気配！ {card_name}の{number}番からの警告 👻 #DOK_KEY"
+      }
+    ]
+  },
+  "chaos": {
+    "name": "混沌 (半吉)",
+    "color": "#7F7F7F",
+    "voice_guide": "予測不可能な展開の描写",
+    "templates": [
+      {
+        "id": "chaos_tmpl_001",
+        "headline": "右に行こうとした{card_name}はその場で三回転した",
+        "body": "{direction_name}から押し寄せる計画がごちゃ混ぜになるかもしれません。しかし数字の{number}を胸に抱き、無理に秩序を立て直そうとしないでください。今日は予想外の展開こそが近道です。",
+        "tip": "予定が狂ったら『むしろ面白い』と心の中で唱えてみましょう。",
+        "share_caption": "目まぐるしい一日の中で{card_name}の{number}番と共に新たな道を発見 🌀 #DOK_KEY"
+      }
+    ]
+  },
+  "lonely": {
+    "name": "孤高 (吉)",
+    "color": "#2B3A67",
+    "voice_guide": "静かな孤独と自分だけの時間",
+    "templates": [
+      {
+        "id": "lonely_tmpl_001",
+        "headline": "明かりを消した部屋で、{card_name}は一人静かに影を見つめる",
+        "body": "{direction_name}の喧騒から一歩身を引きましょう。数字の{number}が指し示す時間は、純粋にあなた自身のために空けておくべき静寂のひとときです。",
+        "tip": "一人で味わう温かい一杯が、どんな言葉よりも心を満たしてくれます。",
+        "share_caption": "{card_name}の{number}番と共に、{direction_name}の雑音を消して自分に向き合う夜 🌙 #DOK_KEY"
+      }
+    ]
+  },
+  "farewell": {
+    "name": "別れ (小吉)",
+    "color": "#607D8B",
+    "voice_guide": "余韻のある手放しの美学",
+    "templates": [
+      {
+        "id": "farewell_tmpl_001",
+        "headline": "去りゆく後ろ姿を見つめながら、{card_name}は静かに手を振った",
+        "body": "{direction_name}に残してきた未練は、今こそ手放す時です。数字の{number}は、新しい居場所を作るために空けられた大切な隙間を意味しています。",
+        "tip": "握りしめていた手を広げてこそ、新しい鍵を掴むことができます。",
+        "share_caption": "{card_name}の{number}番、{direction_name}の未練を払い落として新たな一歩へ 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "hope": {
+    "name": "希望 (大吉)",
+    "color": "#F4A261",
+    "voice_guide": "温かく確信に満ちた前進",
+    "templates": [
+      {
+        "id": "hope_tmpl_001",
+        "headline": "厚い雲の向こうから、{card_name}が黄金の鍵を見つけ出した",
+        "body": "{direction_name}から吹き込む春風が、凍りついていた悩みを溶かします。数字の{number}は、あなたが歩んできた道が正しかったことを証明してくれるでしょう。",
+        "tip": "心の中で温めていたその計画、今日から始めても大丈夫です。",
+        "share_caption": "{card_name}の{number}番、{direction_name}から開かれる輝かしい可能性 🌅 #DOK_KEY"
+      }
+    ]
+  },
+  "passion": {
+    "name": "情熱 (大吉)",
+    "color": "#E76F51",
+    "voice_guide": "エネルギーにあふれ行動を促す文体",
+    "templates": [
+      {
+        "id": "passion_tmpl_001",
+        "headline": "炎を宿した{card_name}は、ためらうことなく駆け出す",
+        "body": "{direction_name}に向かってあなたのすべてのエネルギーを注ぎ込んでください。数字の{number}がもたらす今日の勢いは、いかなる障害物も軽々と突破します。",
+        "tip": "ためらう一瞬がもったいない日です。思いついたら即座に行動しましょう。",
+        "share_caption": "{card_name}の{number}番、{direction_name}へ向かって燃え上がる直進モード 🔥 #DOK_KEY"
+      }
+    ]
+  },
+  "mystery": {
+    "name": "神秘 (吉)",
+    "color": "#8338EC",
+    "voice_guide": "隠喩的で余白の多い幻想的な文体",
+    "templates": [
+      {
+        "id": "mystery_tmpl_001",
+        "headline": "霧深い辻で、{card_name}は誰も知らない呪文を口ずさむ",
+        "body": "{direction_name}で起こる出来事には、目に見えない深い意味が隠されています。数字の{number}が放つ微かな合図に、直感のアンテナを研ぎ澄ませてみてください。",
+        "tip": "論理的な計算よりも、ふと感じた胸騒ぎや直感を信じてみましょう。",
+        "share_caption": "{card_name}の{number}番が手渡す{direction_name}の神秘的な秘密 🔮 #DOK_KEY"
+      }
+    ]
+  },
+  "irony": {
+    "name": "皮肉 (中吉)",
+    "color": "#588157",
+    "voice_guide": "ほろ苦くも愉快な人生の妙味",
+    "templates": [
+      {
+        "id": "irony_tmpl_001",
+        "headline": "傘を持って出かけた{card_name}の頭上に、まばゆい陽射しが降り注いだ",
+        "body": "{direction_name}で一番心配していたことは起こらず、思いがけない場所から臨時収入が舞い込みます。数字の{number}は、人生は予定通りにいかないからこそ面白いと囁いています。",
+        "tip": "完璧な準備が空振りしたときの可笑しさを、豪快な笑いで吹き飛ばしましょう。",
+        "share_caption": "{card_name}の{number}番と共に、{direction_name}の愉快なハプニングを楽しむ 🎪 #DOK_KEY"
+      }
+    ]
+  }
+}
