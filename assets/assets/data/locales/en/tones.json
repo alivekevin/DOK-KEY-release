@@ -1,0 +1,198 @@
+﻿{
+  "comic": {
+    "name": "Comic",
+    "color": "#F0A500",
+    "voice_guide": "Short, punchy with a twist, self-deprecating humor",
+    "templates": [
+      {
+        "id": "comic_tmpl_001",
+        "headline": "{card_name} almost tripped while sprinting, but landed like a pro",
+        "body": "Someone called your name from the {direction_name}, but the person next to you replied instead. Don't worry—number {number} will eventually back you up today anyway.",
+        "tip": "Even if you make a clumsy mistake today, flash your most charming smile and own it.",
+        "share_caption": "Got {card_name} #{number}, stumbled towards the {direction_name} and nailed the landing 🐇 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_002",
+        "headline": "You pushed the door open dramatically, only to find {card_name} yawning",
+        "body": "Your grand plan to conquer the {direction_name} gets slightly postponed by an unexpected quirk of number {number}. If the world takes things too seriously today, just laugh it off.",
+        "tip": "The more solemn you look, the funnier it gets—turn humor into your superpower.",
+        "share_caption": "Heading {direction_name} with {card_name} #{number}, ended up laughing all day 😂 #DOK_KEY"
+      }
+    ]
+  },
+  "calm": {
+    "name": "Calm",
+    "color": "#4E9F8E",
+    "voice_guide": "Comma-spaced, lingering rhythm, tranquil observations",
+    "templates": [
+      {
+        "id": "calm_tmpl_001",
+        "headline": "Quietly, {card_name} pauses and looks toward the {direction_name}",
+        "body": "There is no need to rush today, for number {number} has already arrived by your side. Matters in the {direction_name} will unfold gracefully at their natural rhythm.",
+        "tip": "Today, pausing half a breath before replying is the wisest move.",
+        "share_caption": "{card_name} #{number}, facing {direction_name}. Taking things slowly today 🌿 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_002",
+        "headline": "At the quiet corner of the breeze, {card_name} catches its breath",
+        "body": "Let tangled worries drift away into the {direction_name} sky. Number {number} gently points to the pure stillness you deserve right now.",
+        "tip": "A warm cup of tea can silence the noisy chatter inside your mind.",
+        "share_caption": "Finding serenity towards the {direction_name} with {card_name} #{number} ☕ #DOK_KEY"
+      }
+    ]
+  },
+  "conflict": {
+    "name": "Conflict",
+    "color": "#D14949",
+    "voice_guide": "Juxtaposition of A vs B, tension and keen vigilance",
+    "templates": [
+      {
+        "id": "conflict_tmpl_001",
+        "headline": "{card_name} is smiling, but the sharp claws remain bare",
+        "body": "A tempting offer whispers from the {direction_name}, but number {number} warns of a tiny thorn tucked inside. Accept the kindness, but keep your eyes wide open.",
+        "tip": "Today's sweet gestures might be only half genuine—verify the other half yourself.",
+        "share_caption": "{card_name} #{number}, {direction_name}. A hidden thorn behind good news 🐅 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_002",
+        "headline": "Standing at the crossroads, {card_name} turns around decisively",
+        "body": "A clash of opinions near the {direction_name} seems unavoidable. Hold onto the standard represented by number {number} to maintain your ground.",
+        "tip": "A firm refusal protects relationships far better than a half-hearted compromise.",
+        "share_caption": "Sharp crossroads at the {direction_name}, guided by {card_name} #{number} ⚔️ #DOK_KEY"
+      }
+    ]
+  },
+  "meeting": {
+    "name": "Meeting",
+    "color": "#E07A5F",
+    "voice_guide": "Open-ended curiosity, romantic sparks, delightful encounters",
+    "templates": [
+      {
+        "id": "meeting_tmpl_001",
+        "headline": "{card_name} arrived alone, but might not leave alone today",
+        "body": "Someone is turning in your direction from the {direction_name}, and number {number} marks the exact timing. Pay attention to accidental glances today.",
+        "tip": "The one who says hello first takes the crown today.",
+        "share_caption": "{card_name} #{number}, {direction_name}. Someone is turning your way 🪶 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_002",
+        "headline": "Through a doorway, {card_name} extends a warm greeting",
+        "body": "Pleasant whispers arrive unexpectedly from the {direction_name}. You will discover surprising common ground with someone tied to number {number}.",
+        "tip": "Listen closely to the subtle preferences of those around you.",
+        "share_caption": "A delightful connection from the {direction_name} with {card_name} #{number} ✨ #DOK_KEY"
+      }
+    ]
+  },
+  "horror": {
+    "name": "Horror",
+    "color": "#6A4C93",
+    "voice_guide": "Playful suspense with a harmless, cute twist",
+    "templates": [
+      {
+        "id": "horror_tmpl_001",
+        "headline": "Don't look behind you; {card_name} is watching quietly",
+        "body": "That chilling breeze from the {direction_name} corner is just a forgotten deadline creeping up. Fortunately, number {number} has left a small escape hatch open for you.",
+        "tip": "Clear that delayed chore today, or Kkaebi might visit your dream tonight.",
+        "share_caption": "Chilling vibes from the {direction_name}! Warning from {card_name} #{number} 👻 #DOK_KEY"
+      }
+    ]
+  },
+  "chaos": {
+    "name": "Chaos",
+    "color": "#7F7F7F",
+    "voice_guide": "Slightly disordered sentence structure reflecting unpredictability",
+    "templates": [
+      {
+        "id": "chaos_tmpl_001",
+        "headline": "Trying to turn right, {card_name} spun three times in place",
+        "body": "Plans pouring in from the {direction_name} might tangle in delightful chaos. Don't force rigid order with number {number}—today, serendipity is the fastest shortcut.",
+        "tip": "When plans go sideways, smile and embrace the ride.",
+        "share_caption": "Navigating sweet chaos towards the {direction_name} with {card_name} #{number} 🌀 #DOK_KEY"
+      }
+    ]
+  },
+  "lonely": {
+    "name": "Lonely",
+    "color": "#2B3A67",
+    "voice_guide": "Restrained solitude, appreciating personal sanctuary",
+    "templates": [
+      {
+        "id": "lonely_tmpl_001",
+        "headline": "In a dimly lit room, {card_name} gazes at its own quiet shadow",
+        "body": "Step back from the noisy crowd in the {direction_name}. The quiet hours illuminated by number {number} belong exclusively to your own rejuvenation.",
+        "tip": "A solitary delicious meal comforts deeper than ten empty compliments.",
+        "share_caption": "Turning down the {direction_name} noise with {card_name} #{number} 🌙 #DOK_KEY"
+      }
+    ]
+  },
+  "farewell": {
+    "name": "Farewell",
+    "color": "#607D8B",
+    "voice_guide": "Poetic detachment, graceful release and closure",
+    "templates": [
+      {
+        "id": "farewell_tmpl_001",
+        "headline": "Watching the footsteps fade, {card_name} waves a gentle goodbye",
+        "body": "It is time to release the lingering regrets left in the {direction_name}. Number {number} signifies the empty space cleared for fresh beginnings.",
+        "tip": "You must unclench your fingers to grasp a brand-new key.",
+        "share_caption": "Releasing past weights to the {direction_name} with {card_name} #{number} 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "hope": {
+    "name": "Hope",
+    "color": "#F4A261",
+    "voice_guide": "Warm, confident affirmations of progress",
+    "templates": [
+      {
+        "id": "hope_tmpl_001",
+        "headline": "Behind parted storm clouds, {card_name} reveals a golden key",
+        "body": "Warm currents blowing from the {direction_name} dissolve old doubts. Number {number} confirms that the road you have been walking is heading true.",
+        "tip": "That bold project you've kept in your heart—today is the day to start.",
+        "share_caption": "Radiant breakthroughs opening from the {direction_name} with {card_name} #{number} 🌅 #DOK_KEY"
+      }
+    ]
+  },
+  "passion": {
+    "name": "Passion",
+    "color": "#E76F51",
+    "voice_guide": "High-voltage enthusiasm and immediate action",
+    "templates": [
+      {
+        "id": "passion_tmpl_001",
+        "headline": "Carrying inner fire, {card_name} charges ahead without looking back",
+        "body": "Channel all your vitality toward the {direction_name}. Empowered by number {number}, your momentum will break through any stubborn wall today.",
+        "tip": "A second of hesitation is a second lost. Move the moment inspiration strikes.",
+        "share_caption": "Full speed ahead to the {direction_name} with {card_name} #{number} 🔥 #DOK_KEY"
+      }
+    ]
+  },
+  "mystery": {
+    "name": "Mystery",
+    "color": "#8338EC",
+    "voice_guide": "Dreamlike metaphors and intuitive leaps",
+    "templates": [
+      {
+        "id": "mystery_tmpl_001",
+        "headline": "In misty crossroads, {card_name} whispers a forgotten spell",
+        "body": "Events unfolding in the {direction_name} hold deeper meanings than meet the eye. Keep your intuitive senses sharp for signals carried by number {number}.",
+        "tip": "Trust spontaneous gut feelings over cold logical spreadsheets today.",
+        "share_caption": "Unlocking secrets in the {direction_name} with {card_name} #{number} 🔮 #DOK_KEY"
+      }
+    ]
+  },
+  "irony": {
+    "name": "Irony",
+    "color": "#588157",
+    "voice_guide": "Bittersweet satire on life's comedic unpredictability",
+    "templates": [
+      {
+        "id": "irony_tmpl_001",
+        "headline": "As {card_name} carefully opened an umbrella, bright sunshine broke through",
+        "body": "The trouble you dreaded most in the {direction_name} vanishes into thin air, replaced by an odd windfall. Number {number} whispers that life is fun precisely because it defies plans.",
+        "tip": "When thorough preparation falls flat, laugh heartily and enjoy the twist.",
+        "share_caption": "Savoring delightful plot twists with {card_name} #{number} in the {direction_name} 🎪 #DOK_KEY"
+      }
+    ]
+  }
+}

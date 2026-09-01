@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "q_ko_001",
+    "text": "넘어진 김에 바닥에 떨어진 동전 하나 줍고 일어나는 게 깨비의 방식이지.",
+    "category": "깨비말",
+    "tone_tags": ["comic", "hope"]
+  },
+  {
+    "id": "q_ko_002",
+    "text": "바람이 세게 불 땐 맞서 싸우지 말고, 부채를 펴서 바람을 타는 법이란다.",
+    "category": "생활속담",
+    "tone_tags": ["calm", "passion"]
+  },
+  {
+    "id": "q_ko_003",
+    "text": "금도끼도 은도끼도 탐내지 마라. 네 손에 꼭 맞는 쇠도끼가 나무를 제일 잘 베는 법이다.",
+    "category": "깨비말",
+    "tone_tags": ["calm", "irony"]
+  },
+  {
+    "id": "q_ko_004",
+    "text": "문이 닫혔다고 울지 마라. 도깨비는 항상 뒤편 담벼락을 살짝 허물어 둔다.",
+    "category": "깨비말",
+    "tone_tags": ["hope", "mystery"]
+  },
+  {
+    "id": "q_ko_005",
+    "text": "모든 사람에게 좋은 사람이 되려다간 도깨비 방망이도 닳아서 부러진다.",
+    "category": "도깨비풍자",
+    "tone_tags": ["conflict", "lonely"]
+  },
+  {
+    "id": "q_ko_006",
+    "text": "달빛 아래 조용히 차 한 잔 마실 줄 아는 사람이 세상에서 가장 부유한 자란다.",
+    "category": "깨비말",
+    "tone_tags": ["calm", "lonely"]
+  },
+  {
+    "id": "q_ko_007",
+    "text": "계획대로 풀리지 않는 하루는 도깨비가 몰래 심어둔 숨은 선물상자일지도 모른다.",
+    "category": "깨비말",
+    "tone_tags": ["chaos", "irony"]
+  },
+  {
+    "id": "q_ko_008",
+    "text": "먼저 손을 내미는 자는 체면을 잃는 게 아니라 인연의 열쇠를 쥐는 것이다.",
+    "category": "생활속담",
+    "tone_tags": ["meeting", "hope"]
+  },
+  {
+    "id": "q_ko_009",
+    "text": "지난 계절의 낙엽을 쥐고 있으면 다가오는 봄꽃을 품에 안을 손이 모자란다.",
+    "category": "생활속담",
+    "tone_tags": ["farewell", "calm"]
+  },
+  {
+    "id": "q_ko_010",
+    "text": "두려움이란 놈은 불을 켜면 방 한구석에 얌전히 개어놓은 이불처럼 시시해진다.",
+    "category": "도깨비풍자",
+    "tone_tags": ["horror", "passion"]
+  }
+]
