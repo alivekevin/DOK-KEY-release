@@ -46,6 +46,7 @@
       justify-content: center;
       background: radial-gradient(circle at center, #1A1E29 0%, #0A0C10 70%);
       z-index: 9999;
+      pointer-events: all;
     }
 
     .key-icon {
@@ -111,6 +112,36 @@
     <div class="loading-msg">도깨비의 열쇠를 불러오는 중...</div>
     <div class="spinner-bar"></div>
   </div>
+
+  <script>
+    function hideLoader() {
+      var loader = document.getElementById('loading-container');
+      if (loader && !loader.classList.contains('hidden')) {
+        loader.classList.add('hidden');
+        loader.style.transition = 'opacity 0.4s ease-out';
+        loader.style.opacity = '0';
+        loader.style.pointerEvents = 'none';
+        setTimeout(function () {
+          if (loader.parentNode) loader.parentNode.removeChild(loader);
+        }, 450);
+      }
+    }
+
+    // 1. Flutter 첫 프레임 이벤트 수신 시 제거
+    window.addEventListener('flutter-first-frame', hideLoader);
+
+    // 2. Flutter DOM 렌더링 감지 시 제거
+    var observer = new MutationObserver(function(mutations) {
+      if (document.querySelector('flutter-view, flt-glass-pane, flt-scene-host')) {
+        hideLoader();
+        observer.disconnect();
+      }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
+    setTimeout(hideLoader, 3500);
+  </script>
 
   <script src="flutter_bootstrap.js" async></script>
 </body>
