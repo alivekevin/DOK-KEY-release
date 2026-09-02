@@ -1,42 +1,277 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <base href="/DOK-KEY-release/">
-
   <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠. 36종 수묵화 카드와 행운 번호로 만나는 데일리 운세 드로우.">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-  <!-- OpenGraph for Social Sharing (KakaoTalk, Instagram, X) -->
-  <meta property="og:title" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠">
-  <meta property="og:description" content="깨비와 함께하는 1-Draw 데일리 운세 드로우 & N-Key 조합기">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="icons/Icon-512.png">
-
-  <!-- Mobile meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="DOK-KEY">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DOK-KEY (독키) — 오늘 하루를 여는 단 하나의 열쇠</title>
-  <link rel="manifest" href="manifest.json">
+  
+  <meta name="description" content="DOK-KEY v3.0.0 — 36종 수묵화 카드와 행운 번호로 만나는 데일리 운세 드로우. 깨비와의 5단계 속마음 문답과 N-Key 조합기.">
+  <meta property="og:title" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠">
+  <meta property="og:description" content="깨비와 함께하는 1-Draw 데일리 운세 드로우 & 안드로이드 앱 다운로드">
+  <meta property="og:type" content="website">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Noto+Serif+KR:wght@400;600;900&family=Noto+Sans+KR:wght@300;400;600&display=swap" rel="stylesheet">
 
   <style>
-    body {
-      background-color: #0F1116;
+    :root {
+      --bg-dark: #0A0C10;
+      --card-bg: #141822;
+      --card-border: #2A3042;
+      --gold-primary: #D4AF37;
+      --gold-light: #F3E5AB;
+      --dok-fire: #FF5E36;
+      --text-main: #EAEFF8;
+      --text-muted: #8E9BAE;
+    }
+
+    * {
+      box-sizing: border-box;
       margin: 0;
       padding: 0;
-      overflow: hidden;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      font-family: 'Noto Sans KR', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Background Dokkaebi Aura Glow */
+    .bg-glow {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(212, 175, 55, 0.15) 0%, rgba(255, 94, 54, 0.08) 45%, transparent 70%);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+      z-index: 0;
+      filter: blur(50px);
+    }
+
+    .container {
+      max-width: 580px;
+      width: 100%;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 28px;
+      padding: 44px 28px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    /* Kkaebi Key Emblem */
+    .emblem-wrap {
+      width: 96px;
+      height: 96px;
+      margin: 0 auto 20px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(212, 175, 55, 0.25) 0%, rgba(20, 24, 34, 0.9) 100%);
+      border: 2px solid var(--gold-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 46px;
+      box-shadow: 0 0 30px rgba(212, 175, 55, 0.4);
+      animation: floatKey 3s ease-in-out infinite;
+    }
+
+    @keyframes floatKey {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-8px) rotate(4deg); }
+    }
+
+    .version-tag {
+      display: inline-block;
+      padding: 4px 12px;
+      background: rgba(212, 175, 55, 0.15);
+      border: 1px solid rgba(212, 175, 55, 0.4);
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--gold-light);
+      margin-bottom: 12px;
+      letter-spacing: 1px;
+    }
+
+    .brand-title {
+      font-family: 'Cinzel', serif;
+      font-size: 40px;
+      font-weight: 800;
+      letter-spacing: 4px;
+      background: linear-gradient(135deg, #FFF6D6 0%, var(--gold-primary) 50%, #997A15 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    .slogan {
+      font-family: 'Noto Serif KR', serif;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--gold-light);
+      margin-bottom: 16px;
+      letter-spacing: -0.5px;
+    }
+
+    .desc {
+      font-size: 14px;
+      line-height: 1.65;
+      color: var(--text-muted);
+      margin-bottom: 34px;
+      word-break: keep-all;
+    }
+
+    /* Action Buttons */
+    .btn-group {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 32px;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 18px 24px;
+      border-radius: 18px;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      cursor: pointer;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #F3E5AB 0%, var(--gold-primary) 100%);
+      color: #0A0C10;
+      box-shadow: 0 10px 24px rgba(212, 175, 55, 0.35);
+      border: none;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 14px 32px rgba(212, 175, 55, 0.5);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text-main);
+      border: 1.5px solid var(--card-border);
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: var(--gold-primary);
+      transform: translateY(-2px);
+    }
+
+    /* Feature Badges */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      text-align: left;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .feature-item {
+      background: rgba(10, 12, 16, 0.5);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 12px 14px;
+      border-radius: 14px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .feature-item strong {
+      display: block;
+      color: var(--gold-light);
+      font-size: 13px;
+      margin-bottom: 3px;
+    }
+
+    footer {
+      margin-top: 24px;
+      font-size: 12px;
+      color: #556070;
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <script src="flutter_bootstrap.js" async></script>
+  <div class="bg-glow"></div>
+
+  <div class="container">
+    <!-- Emblem -->
+    <div class="emblem-wrap">
+      🗝️
+    </div>
+
+    <div class="version-tag">DOK-KEY v3.0.0 RELEASE</div>
+
+    <!-- Title & Slogan -->
+    <h1 class="brand-title">DOK-KEY</h1>
+    <div class="slogan">오늘 하루를 여는 단 하나의 열쇠</div>
+    <p class="desc">
+      36종 동양 수묵화 카드와 행운 번호로 만나는 1-Draw 데일리 운세.<br>
+      Zero-Delay 맥락 엔진, 살아 숨쉬는 깨비와의 5단계 문답 & N-Key 조합기를 경험해 보세요.
+    </p>
+
+    <!-- Main Action Buttons -->
+    <div class="btn-group">
+      <!-- 1. Web Instant Play -->
+      <a href="web/index.html" class="btn btn-primary">
+        <span style="font-size: 20px;">🌐</span>
+        <span>웹에서 바로 운세 뽑기 (체험하기)</span>
+      </a>
+
+      <!-- 2. Android APK Download -->
+      <a href="app-release.apk" download="DOK-KEY-v3.0.0-release.apk" class="btn btn-secondary">
+        <span style="font-size: 20px;">📱</span>
+        <span>안드로이드 앱(APK) 다운로드 (54.8MB)</span>
+      </a>
+    </div>
+
+    <!-- Features -->
+    <div class="features-grid">
+      <div class="feature-item">
+        <strong>🎨 36종 수묵화 카드</strong>
+        12지신·도깨비 설화 & 24시간 시辰
+      </div>
+      <div class="feature-item">
+        <strong>😈 깨비 속마음 문답</strong>
+        5단계 티키타카 & 천기누설 비법
+      </div>
+      <div class="feature-item">
+        <strong>🔑 N-Key 조합 보관함</strong>
+        골드 1줄 감성 카드 & 클라우드 볼트
+      </div>
+      <div class="feature-item">
+        <strong>🔐 Zero-Login 개인 볼트</strong>
+        서버 통신 0원, 100% 개인정보 보호
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    DOK-KEY v3.0.0 &copy; 2026 Dokkey Studio. All rights reserved.
+  </footer>
 </body>
 </html>

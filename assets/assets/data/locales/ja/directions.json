@@ -1,6 +1,0 @@
-﻿{
-  "east": {"name": "東", "meaning_axis": "新たな始まりと飛躍", "description": "陽が昇る方角。止まっていた計画に火をつける時"},
-  "west": {"name": "西", "meaning_axis": "締めくくりと丁寧な点検", "description": "夕陽が染まる方角。実りを収穫し欠けを整える時"},
-  "south": {"name": "南", "meaning_axis": "関係の広がりと良縁の訪れ", "description": "陽射しが最も暖かい方角。人と交わり心を開く時"},
-  "north": {"name": "北", "meaning_axis": "内省と静かな蓄積", "description": "静寂が宿る方角。雑音を減らし内面を磨く時"}
-}

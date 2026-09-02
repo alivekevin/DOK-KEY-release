@@ -1,10 +1,15 @@
-﻿[
+[
   {
     "id": "rid_ko_001",
     "difficulty": 1,
     "category": "wit",
     "question": "깨비가 아끼는 항아리에는 구멍이 숭숭 나 있다. 그런데 물을 채울수록 점점 더 가벼워지는 것은?",
-    "options": ["배(Ship)", "그물", "얼음", "풍선"],
+    "options": [
+      "배(Ship)",
+      "그물",
+      "얼음",
+      "풍선"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -17,7 +22,12 @@
     "difficulty": 1,
     "category": "nature",
     "question": "낮에는 길어지고 밤에는 사라지며, 아무리 빨리 달려도 절대 떼어낼 수 없는 깨비의 친구는?",
-    "options": ["그림자", "바람", "발자국", "메아리"],
+    "options": [
+      "그림자",
+      "바람",
+      "발자국",
+      "메아리"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -30,7 +40,12 @@
     "difficulty": 1,
     "category": "wordplay",
     "question": "세상에서 가장 빠른 닭은 무슨 닭일까?",
-    "options": ["후다닥", "토종닭", "장닭", "통닭"],
+    "options": [
+      "후다닥",
+      "토종닭",
+      "장닭",
+      "통닭"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -43,7 +58,12 @@
     "difficulty": 2,
     "category": "insight",
     "question": "주면 줄수록 내게는 더 커지고, 쥐고 있으려 하면 점점 작아져 사라지는 것은?",
-    "options": ["비밀", "기쁨(웃음)", "욕심", "돈"],
+    "options": [
+      "비밀",
+      "기쁨(웃음)",
+      "욕심",
+      "돈"
+    ],
     "answer_index": 1,
     "reward_keys": 2,
     "kkaebi_reaction": {
@@ -56,7 +76,12 @@
     "difficulty": 2,
     "category": "wit",
     "question": "깨비 방망이로도 절대 깰 수 없는 것은 무엇일까?",
-    "options": ["다이아몬드", "약속", "잠", "바위"],
+    "options": [
+      "다이아몬드",
+      "약속",
+      "잠",
+      "바위"
+    ],
     "answer_index": 2,
     "reward_keys": 2,
     "kkaebi_reaction": {
@@ -69,7 +94,12 @@
     "difficulty": 2,
     "category": "logic",
     "question": "앞으로 가면 커지고, 뒤로 가면 작아지며, 거울을 보면 그대로인 것은?",
-    "options": ["돋보기", "나이", "발자국 수", "발걸음"],
+    "options": [
+      "돋보기",
+      "나이",
+      "발자국 수",
+      "발걸음"
+    ],
     "answer_index": 1,
     "reward_keys": 2,
     "kkaebi_reaction": {
@@ -82,7 +112,12 @@
     "difficulty": 2,
     "category": "nature",
     "question": "올라갈 때는 눈물을 흘리고, 다 올라가면 머리에 하얀 관을 쓰는 것은?",
-    "options": ["등대", "성냥(촛불)", "눈사람", "구름"],
+    "options": [
+      "등대",
+      "성냥(촛불)",
+      "눈사람",
+      "구름"
+    ],
     "answer_index": 1,
     "reward_keys": 2,
     "kkaebi_reaction": {
@@ -95,7 +130,12 @@
     "difficulty": 3,
     "category": "philosophy",
     "question": "문체와 형체는 없으나 사람의 마음을 천 길 낭떠러지로 떨어뜨리기도 하고 하늘로 띄우기도 하는 도깨비의 보물은?",
-    "options": ["말(Words)", "금괴", "거울", "열쇠"],
+    "options": [
+      "말(Words)",
+      "금괴",
+      "거울",
+      "열쇠"
+    ],
     "answer_index": 0,
     "reward_keys": 3,
     "kkaebi_reaction": {
@@ -108,7 +148,12 @@
     "difficulty": 3,
     "category": "paradox",
     "question": "가진 자는 불안해하고, 잃은 자는 홀가분해하며, 아무것도 없는 자만이 온전히 누릴 수 있는 것은?",
-    "options": ["명예", "욕심(집착)", "자유", "지식"],
+    "options": [
+      "명예",
+      "욕심(집착)",
+      "자유",
+      "지식"
+    ],
     "answer_index": 1,
     "reward_keys": 3,
     "kkaebi_reaction": {
@@ -121,12 +166,107 @@
     "difficulty": 3,
     "category": "ancient_wit",
     "question": "깨비가 감춰둔 4개의 자물쇠를 단번에 열 수 있는 유일한 만능열쇠는?",
-    "options": ["황금 열쇠", "오늘을 사는 마음(Now)", "도깨비 방망이", "시간 여행기"],
+    "options": [
+      "황금 열쇠",
+      "오늘을 사는 마음(Now)",
+      "도깨비 방망이",
+      "시간 여행기"
+    ],
     "answer_index": 1,
     "reward_keys": 3,
     "kkaebi_reaction": {
       "correct": "완벽하다! 어제도 내일도 아닌 바로 '지금 이 순간'이야말로 DOK-KEY의 진정한 마스터키지!",
       "wrong": "땡! 과거의 후회와 미래의 걱정을 여는 열쇠는 오직 '현재'뿐이란다."
+    }
+  },
+  {
+    "id": "rid_ko_011",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "조용히 물건을 옮기는 도둑인데, 오래된 집에서만 종종 출몰하는 것은?",
+    "options": [
+      "바람",
+      "먼지",
+      "고양이",
+      "그림자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "정답이다! 바람은 창문만 열리면 기웃거리며 물건을 훑고 가지!",
+      "wrong": "땡! 오래된 집의 물건을 훑고 가는 도둑은 바람이라네."
+    }
+  },
+  {
+    "id": "rid_ko_012",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "깨비가 세상에서 가장 아낀다고 하는 냉장고 속 보물은?",
+    "options": [
+      "밥 한 공기",
+      "탄산음료",
+      "김치",
+      "아이스크림"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "크하하! 어머니가 싸준 김밥 재료, 그 심장은 바로 밥 한 공기지!",
+      "wrong": "아쉽군! 냉장고의 진짜 보물은 따뜻한 마음이 담긴 밥 한 공기라네!"
+    }
+  },
+  {
+    "id": "rid_ko_013",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "열 개의 문을 열어놔도 안 침입하고, 문 하나만 닫혀도 기다려주는 신사는?",
+    "options": [
+      "안개",
+      "비",
+      "바람",
+      "달빛"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "정답! 안개는 문을 닫으면 밖에서 조용히 기다리는 젠틀한 친구지.",
+      "wrong": "땡! 닫힌 문 앞에서 기다려주는 신사는 안개라네."
+    }
+  },
+  {
+    "id": "rid_ko_014",
+    "difficulty": 3,
+    "category": "nature",
+    "question": "먹으면 먹을수록 줄어드는 게 아니라 늘어나는 것은?",
+    "options": [
+      "지식",
+      "과자",
+      "국수",
+      "꿀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "오, 명답! 지식은 나눠 먹을수록 늘어나는 유일한 음식이지!",
+      "wrong": "아깝다! 늘어나는 음식은 바로 지식이라네!"
+    }
+  },
+  {
+    "id": "rid_ko_015",
+    "difficulty": 3,
+    "category": "wordplay",
+    "question": "깨비가 백 번 말해도 못 이기는, 한 번만 말해도 이기는 존재는?",
+    "options": [
+      "기록",
+      "소문",
+      "노래",
+      "꿈"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "정답이다! 기록은 도깨비의 수다 백 번보다 강력하지!",
+      "wrong": "땡! 백 마디 수다보다 강한 건 바로 기록이라네."
     }
   }
 ]

@@ -1,4 +1,4 @@
-﻿{
+{
   "topics": [
     {
       "id": "lotto",
@@ -65,5 +65,52 @@
     "Yikes! I leaked too many celestial secrets today—my goblin lifespan just dropped by 5 years! Time to hop back into my magic pot! Ask something else! 💨",
     "If I speak any more, lightning from the heavens will strike my horns! Today's wisdom sack is officially sold out! Go forth and live brilliantly!",
     "Chatting with you was so thrilling that my goblin horns are cramping up! Fortune session closed for today—sleep tight and return tomorrow with a fresh key! 🌙"
-  ]
+  ],
+  "weekly_openers": {
+    "lotto": [
+      "Turning to ask me again,",
+      "Heh, this topic again!",
+      "You asked last year too,",
+      "This week’s fortune counseling,",
+      "Fine, gambling talk is my specialty!",
+      "Want the honest answer,",
+      "Money talk is always tricky,"
+    ],
+    "interview": [
+      "Loosen those shoulders first,",
+      "You look extra nervous today,",
+      "Only the prepared get to ask,",
+      "Now, settle your mind,",
+      "This week’s trial, is it,",
+      "Take one deep breath,",
+      "Before you step on stage,"
+    ],
+    "relationship": [
+      "The threads of bonds keep trembling lately,",
+      "Good, pour out your heart,",
+      "People problems aren’t my specialty, but",
+      "The wind feels nice today,",
+      "Your face looks bright —",
+      "If it’s a main character story, I’ll listen,",
+      "Your heart’s door is slightly open,"
+    ],
+    "healing": [
+      "Come here,",
+      "Sigh... another tired face,",
+      "Sit down first,",
+      "Have some goblin-realm tea,",
+      "The weather is lovely today,",
+      "Set the heavy load down here,",
+      "A week’s worth of fatigue on you,"
+    ],
+    "joke": [
+      "Ha! The horns again!",
+      "Oh my, a brave guest!",
+      "The horn talk is a thousandth time, but",
+      "Fine, today I’ll allow it!",
+      "Even gatekeepers need rest,",
+      "Even horn talk has seasons,",
+      "Put the club down first,"
+    ]
+  }
 }

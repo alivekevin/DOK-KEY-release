@@ -8,11 +8,10 @@
   <meta name="description" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠. 36종 수묵화 카드와 행운 번호로 만나는 데일리 운세 드로우.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <!-- OpenGraph for Social Sharing (KakaoTalk, Instagram, X) -->
+  <!-- OpenGraph for Social Sharing -->
   <meta property="og:title" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠">
   <meta property="og:description" content="깨비와 함께하는 1-Draw 데일리 운세 드로우 & N-Key 조합기">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="icons/Icon-512.png">
 
   <!-- Mobile meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -20,23 +19,99 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="DOK-KEY">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>DOK-KEY (독키) — 데일리 운세 드로우</title>
+  <title>DOK-KEY (독키) — 오늘 하루를 여는 단 하나의 열쇠</title>
   <link rel="manifest" href="manifest.json">
 
   <style>
     body {
-      background-color: #0F1116;
+      background-color: #0A0C10;
       margin: 0;
       padding: 0;
       overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+      color: #EAEFF8;
+    }
+
+    #loading-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at center, #1A1E29 0%, #0A0C10 70%);
+      z-index: 9999;
+    }
+
+    .key-icon {
+      font-size: 48px;
+      margin-bottom: 20px;
+      animation: keyBounce 2s ease-in-out infinite;
+      filter: drop-shadow(0 0 16px rgba(212, 175, 55, 0.5));
+    }
+
+    @keyframes keyBounce {
+      0%, 100% { transform: translateY(0px) rotate(0deg) scale(1); }
+      50% { transform: translateY(-10px) rotate(6deg) scale(1.08); }
+    }
+
+    .brand-name {
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: 3px;
+      color: #D4AF37;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #FFF6D6 0%, #D4AF37 50%, #997A15 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .loading-msg {
+      font-size: 14px;
+      color: #8E9BAE;
+      margin-bottom: 24px;
+      letter-spacing: -0.2px;
+    }
+
+    .spinner-bar {
+      width: 180px;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 4px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .spinner-bar::after {
+      content: '';
+      position: absolute;
+      left: -50%;
+      height: 100%;
+      width: 50%;
+      background: linear-gradient(90deg, transparent, #D4AF37, #FF5E36, transparent);
+      border-radius: 4px;
+      animation: sweep 1.4s ease-in-out infinite;
+    }
+
+    @keyframes sweep {
+      0% { left: -50%; }
+      100% { left: 100%; }
     }
   </style>
 </head>
 <body>
+  <div id="loading-container">
+    <div class="key-icon">🗝️</div>
+    <div class="brand-name">DOK-KEY</div>
+    <div class="loading-msg">도깨비의 열쇠를 불러오는 중...</div>
+    <div class="spinner-bar"></div>
+  </div>
+
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
