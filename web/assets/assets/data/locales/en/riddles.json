@@ -1,6 +1,6 @@
 [
   {
-    "id": "rid_en_001",
+    "id": "rid_001",
     "difficulty": 1,
     "category": "wit",
     "question": "Kkaebi's favorite jar is filled with holes. What becomes lighter the more water you pour into it?",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "id": "rid_en_002",
+    "id": "rid_002",
     "difficulty": 1,
     "category": "nature",
     "question": "It grows longer at noon, disappears in the dark, and follows Kkaebi no matter how fast he runs. What is it?",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "id": "rid_en_003",
+    "id": "rid_003",
     "difficulty": 1,
     "category": "wordplay",
     "question": "What has keys that cannot open locks, space without rooms, and allows you to enter but not exit?",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": "rid_en_004",
+    "id": "rid_004",
     "difficulty": 2,
     "category": "insight",
     "question": "The more you give it away to others, the larger it grows for you; hold onto it alone, and it withers away. What is it?",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": "rid_en_005",
+    "id": "rid_005",
     "difficulty": 2,
     "category": "wit",
     "question": "What is so delicate that simply saying its name breaks it?",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": "rid_en_006",
+    "id": "rid_006",
     "difficulty": 2,
     "category": "logic",
     "question": "What belongs to you, but everyone else uses it much more frequently than you do?",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "id": "rid_en_007",
+    "id": "rid_007",
     "difficulty": 2,
     "category": "nature",
     "question": "It weeps melting tears while standing tall, and wears a white crown of ashes when it expires. What is it?",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "rid_en_008",
+    "id": "rid_008",
     "difficulty": 3,
     "category": "philosophy",
     "question": "It has no physical weight or shape, yet it can plunge a spirit into the abyss or lift it to the stars. What is Kkaebi's sharpest treasure?",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": "rid_en_009",
+    "id": "rid_009",
     "difficulty": 3,
     "category": "paradox",
     "question": "The one who possesses it is anxious; the one who loses it feels immense relief; only the one with empty hands can enjoy it fully. What is it?",
@@ -162,7 +162,7 @@
     }
   },
   {
-    "id": "rid_en_010",
+    "id": "rid_010",
     "difficulty": 3,
     "category": "ancient_wit",
     "question": "What is the single master key capable of opening all 4 locks hidden in Kkaebi's realm?",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "id": "rid_en_011",
+    "id": "rid_011",
     "difficulty": 2,
     "category": "nature",
     "question": "A quiet thief that rummages through old houses only when the door is left open. Who is it?",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "id": "rid_en_012",
+    "id": "rid_012",
     "difficulty": 2,
     "category": "wordplay",
     "question": "What treasure in the fridge does the goblin value above all?",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": "rid_en_013",
+    "id": "rid_013",
     "difficulty": 2,
     "category": "wit",
     "question": "It enters every open door politely, yet waits outside the moment one closes. Who is this gentleman?",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "id": "rid_en_014",
+    "id": "rid_014",
     "difficulty": 3,
     "category": "nature",
     "question": "What grows bigger the more of it you consume?",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": "rid_en_015",
+    "id": "rid_015",
     "difficulty": 3,
     "category": "wordplay",
     "question": "What wins with a single word, where even a goblin loses after a hundred?",

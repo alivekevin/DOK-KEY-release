@@ -3,100 +3,440 @@
     {
       "id": "water",
       "label": "Clear water",
-      "card_id": "water_sprite",
+      "keywords": [
+        "water",
+        "sea",
+        "river",
+        "ocean"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "M08",
       "meaning": "Emotions purifying, inner clarity rising",
-      "advice": "Clear water is a cleansed heart. Start today with an empty mind."
+      "advice": "Clear water is a cleansed heart! Empty your mind first today, and things will flow!"
     },
     {
       "id": "fire",
       "label": "Fire & sparks",
-      "card_id": "dokkaebi_fire",
+      "keywords": [
+        "fire",
+        "flame",
+        "burn",
+        "spark"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "Z06",
       "meaning": "Energy igniting, a new beginning stirring",
-      "advice": "The ember is growing now. Light fire to the task you postponed."
+      "advice": "The ember is growing now! Set fire to that postponed task today!"
     },
     {
       "id": "flying",
       "label": "Flying high",
-      "card_id": "cloud_hermit",
+      "keywords": [
+        "flying",
+        "sky",
+        "float",
+        "fly"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "M01",
       "meaning": "Breaking free toward freedom and achievement",
-      "advice": "The higher you float, the wider the view. Draw the big picture today."
+      "advice": "The higher you float, the wider the view! Draw the big picture today!"
     },
     {
       "id": "pig",
       "label": "A pig",
-      "card_id": "pig",
+      "keywords": [
+        "pig",
+        "boar",
+        "hog"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "Z12",
       "meaning": "A classic fortune dream — wealth rolling in",
-      "advice": "Fortune lands in prepared hands. Keep your wallet tidy today."
+      "advice": "Fortune lands in prepared hands! Tidy your wallet before you go!"
     },
     {
       "id": "snake",
       "label": "A snake",
-      "card_id": "snake",
+      "keywords": [
+        "snake",
+        "serpent",
+        "python"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "Z06",
       "meaning": "Wealth and change arriving together — a powerful turn",
-      "advice": "You must shed the old skin to grow. Retire one worn-out habit today."
+      "advice": "You must shed the old skin to grow! Retire one worn-out habit today!"
     },
     {
       "id": "teeth",
       "label": "Teeth falling",
-      "card_id": "tiger",
+      "keywords": [
+        "teeth",
+        "tooth",
+        "dental",
+        "teethf"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "Z03",
       "meaning": "Courage wavering, but recovery soon follows",
-      "advice": "Teeth grow back. Add one small victory to your shaken courage today."
+      "advice": "Teeth grow back! Add one small victory to your shaken courage today!"
     },
     {
       "id": "falling",
       "label": "Falling",
-      "card_id": "wind_child",
+      "keywords": [
+        "falling",
+        "drop",
+        "plunge",
+        "fall"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "Z25",
       "meaning": "Unstable ground — a warning to recheck your base",
-      "advice": "Falling is a preview of landing. Slow down and check your foundation."
+      "advice": "Falling is a preview of landing! Slow down and check your foundation!"
     },
     {
       "id": "chased",
       "label": "Being chased",
-      "card_id": "shadow_walker",
+      "keywords": [
+        "chased",
+        "chase",
+        "running away",
+        "pursued"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "M02",
       "meaning": "Your inner self says there is something you avoid",
-      "advice": "Face the shadow head-on and it vanishes."
+      "advice": "Face the shadow head-on and it vanishes!"
     },
     {
       "id": "star",
       "label": "Stars",
-      "card_id": "star_weaver",
+      "keywords": [
+        "star",
+        "space",
+        "shooting star",
+        "stars"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "M20",
       "meaning": "Wishes being woven, threads of opportunity arriving",
-      "advice": "Stars are distant lighthouses. Make one wish concrete today."
+      "advice": "Stars are distant lighthouses! Make one wish concrete on paper today!"
     },
     {
       "id": "door",
       "label": "A door",
-      "card_id": "mountain_spirit",
-      "meaning": "A new opportunity’s entrance opening",
-      "advice": "Doors open only for those who knock. Knock first today."
+      "keywords": [
+        "door",
+        "gate",
+        "entrance",
+        "passage"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "Z13",
+      "meaning": "A new opportunity's entrance opening",
+      "advice": "Doors open only for those who knock! Knock first today!"
     },
     {
       "id": "flower",
       "label": "Flowers blooming",
-      "card_id": "flower_fairy",
+      "keywords": [
+        "flower",
+        "blossom",
+        "bloom"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "Z14",
       "meaning": "Bonds and luck blossoming — a good omen",
-      "advice": "Flowers bloom on timing. Deliver one kind greeting today."
+      "advice": "Flowers bloom on timing! Deliver one kind greeting first today!"
     },
     {
       "id": "sun",
       "label": "The sun",
-      "card_id": "sun_messenger",
+      "keywords": [
+        "sun",
+        "sunlight",
+        "sunny",
+        "sunshine"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "M10",
       "meaning": "Honor and bright news arriving with daylight",
-      "advice": "Sunlight shows direction. Affairs moving east favor you today."
+      "advice": "Sunlight shows direction! Affairs moving east favor you today!"
     },
     {
       "id": "moon",
       "label": "The moon",
-      "card_id": "moon_rabbit",
+      "keywords": [
+        "moon",
+        "full moon",
+        "lunar"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "M20",
       "meaning": "Intuition and calm filling up like the tide",
-      "advice": "The moon is waxing. Trust the rhythm instead of rushing."
+      "advice": "The moon is waxing! Trust the rhythm instead of rushing!"
     },
     {
       "id": "dreaming",
       "label": "A dream within a dream",
-      "card_id": "dream_eater",
+      "keywords": [
+        "dream",
+        "lucid",
+        "dreaming"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "M33",
       "meaning": "A hidden wish trying to surface from the deep",
-      "advice": "When a dream calls another dream, the wish is real. Write it down today."
+      "advice": "When a dream calls another dream, the wish is real! Write it down today!"
+    },
+    {
+      "id": "tiger",
+      "label": "A tiger",
+      "keywords": [
+        "tiger",
+        "beast",
+        "tiger spirit"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "Z03",
+      "meaning": "The sovereign's courage guarding your back",
+      "advice": "The tiger pushes your back! A bold decision brings luck today!"
+    },
+    {
+      "id": "dragon",
+      "label": "A dragon",
+      "keywords": [
+        "dragon",
+        "azure dragon",
+        "wyrm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "Z05",
+      "meaning": "A top-tier omen of soaring success",
+      "advice": "The dragon is ascending! Don't miss the big offer that appears today!"
+    },
+    {
+      "id": "bird",
+      "label": "A bird",
+      "keywords": [
+        "bird",
+        "sparrow",
+        "birds"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "Z19",
+      "meaning": "Joyful news flying in with wings",
+      "advice": "Birds carry news! Watch your phone notifications carefully today!"
+    },
+    {
+      "id": "fish",
+      "label": "Catching fish",
+      "keywords": [
+        "fish",
+        "fishing",
+        "catch fish",
+        "catchi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "Z26",
+      "meaning": "Wealth flowing in like water — the catching dream",
+      "advice": "If you caught it, pocket it! Collect what's owed to you today!"
+    },
+    {
+      "id": "mountain",
+      "label": "A mountain",
+      "keywords": [
+        "mountain",
+        "hiking",
+        "peak",
+        "climb"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "M01",
+      "meaning": "A stable pillar — ancestors and elders supporting you",
+      "advice": "The mountain is an old pillar! Call an elder or old friend today!"
+    },
+    {
+      "id": "baby",
+      "label": "A baby",
+      "keywords": [
+        "baby",
+        "infant",
+        "newborn"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 14,
+      "card_id": "M07",
+      "meaning": "A new life and new beginning being born",
+      "advice": "The baby is a new project being born! Open that postponed plan today!"
+    },
+    {
+      "id": "money",
+      "label": "Money & treasure",
+      "keywords": [
+        "money",
+        "treasure",
+        "gold coins",
+        "cash"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "Z30",
+      "meaning": "Wealth luck exploding — the golden dream",
+      "advice": "Money dreams follow numbers! Keep your receipts safe today!"
+    },
+    {
+      "id": "cleaning",
+      "label": "Cleaning",
+      "keywords": [
+        "cleaning",
+        "sweep",
+        "tidy",
+        "organize"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "Z22",
+      "meaning": "Sweeping away bad luck — the great reset dream",
+      "advice": "Cleaning is the king of bad-luck removal! Tidy one desk today!"
+    },
+    {
+      "id": "eating",
+      "label": "Eating a feast",
+      "keywords": [
+        "eating",
+        "eat",
+        "feast",
+        "delicious"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "Z31",
+      "meaning": "Fortune entering your belly — the feast dream",
+      "advice": "Fortune just entered your belly! Only overeating is forbidden today!"
+    },
+    {
+      "id": "poo",
+      "label": "Stepping in poo",
+      "keywords": [
+        "poo",
+        "poop",
+        "dung"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "Z30",
+      "meaning": "The classic mega-fortune dream of sudden wealth",
+      "advice": "Ha! Poo is a gold bar! Wallet cleanup comes before lottery today!"
+    },
+    {
+      "id": "rain",
+      "label": "Rain",
+      "keywords": [
+        "rain",
+        "drizzle",
+        "monsoon",
+        "raining"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "M11",
+      "meaning": "Piled-up emotions washing away — release",
+      "advice": "Rain is the sky doing cleanup! Take an umbrella and wash your heart too!"
+    },
+    {
+      "id": "snow",
+      "label": "Snow",
+      "keywords": [
+        "snow",
+        "snowing",
+        "blizzard",
+        "snow3"
+      ],
+      "fortune": "normal",
+      "lucky_number": 72,
+      "card_id": "Z08",
+      "meaning": "Purity and cold logic arriving together",
+      "advice": "Snow is a blank canvas! Cold calculation beats emotion today!"
+    },
+    {
+      "id": "wedding",
+      "label": "A wedding",
+      "keywords": [
+        "wedding",
+        "marriage",
+        "bride",
+        "aweddi"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "M29",
+      "meaning": "New connections and contracts being sealed",
+      "advice": "Wedding dreams mean contract luck! Read documents twice before signing!"
+    },
+    {
+      "id": "funeral",
+      "label": "A funeral",
+      "keywords": [
+        "funeral",
+        "death",
+        "bury"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "M25",
+      "meaning": "Traditionally a longevity omen — the transition dream",
+      "advice": "Don't be startled! The old must end for the new to come! Today is for closure!"
+    },
+    {
+      "id": "losing_money",
+      "label": "Losing money",
+      "keywords": [
+        "losing money",
+        "lost wallet",
+        "stolen"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "Z16",
+      "meaning": "A wallet alarm warning of careless management",
+      "advice": "Guard your wallet and phone today! Read contracts three times!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "Missing the bus",
+      "keywords": [
+        "missed",
+        "bus",
+        "train",
+        "late"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "Z26",
+      "meaning": "A timing alarm warning about missed opportunities",
+      "advice": "Set three alarms today! Leave 30 minutes early for important meetings!"
     }
   ]
 }

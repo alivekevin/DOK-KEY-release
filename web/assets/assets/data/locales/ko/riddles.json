@@ -1,6 +1,6 @@
 [
   {
-    "id": "rid_ko_001",
+    "id": "rid_001",
     "difficulty": 1,
     "category": "wit",
     "question": "깨비가 아끼는 항아리에는 구멍이 숭숭 나 있다. 그런데 물을 채울수록 점점 더 가벼워지는 것은?",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "id": "rid_ko_002",
+    "id": "rid_002",
     "difficulty": 1,
     "category": "nature",
     "question": "낮에는 길어지고 밤에는 사라지며, 아무리 빨리 달려도 절대 떼어낼 수 없는 깨비의 친구는?",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "id": "rid_ko_003",
+    "id": "rid_003",
     "difficulty": 1,
     "category": "wordplay",
     "question": "세상에서 가장 빠른 닭은 무슨 닭일까?",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": "rid_ko_004",
+    "id": "rid_004",
     "difficulty": 2,
     "category": "insight",
     "question": "주면 줄수록 내게는 더 커지고, 쥐고 있으려 하면 점점 작아져 사라지는 것은?",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": "rid_ko_005",
+    "id": "rid_005",
     "difficulty": 2,
     "category": "wit",
     "question": "깨비 방망이로도 절대 깰 수 없는 것은 무엇일까?",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": "rid_ko_006",
+    "id": "rid_006",
     "difficulty": 2,
     "category": "logic",
     "question": "앞으로 가면 커지고, 뒤로 가면 작아지며, 거울을 보면 그대로인 것은?",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "id": "rid_ko_007",
+    "id": "rid_007",
     "difficulty": 2,
     "category": "nature",
     "question": "올라갈 때는 눈물을 흘리고, 다 올라가면 머리에 하얀 관을 쓰는 것은?",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "rid_ko_008",
+    "id": "rid_008",
     "difficulty": 3,
     "category": "philosophy",
     "question": "문체와 형체는 없으나 사람의 마음을 천 길 낭떠러지로 떨어뜨리기도 하고 하늘로 띄우기도 하는 도깨비의 보물은?",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": "rid_ko_009",
+    "id": "rid_009",
     "difficulty": 3,
     "category": "paradox",
     "question": "가진 자는 불안해하고, 잃은 자는 홀가분해하며, 아무것도 없는 자만이 온전히 누릴 수 있는 것은?",
@@ -162,7 +162,7 @@
     }
   },
   {
-    "id": "rid_ko_010",
+    "id": "rid_010",
     "difficulty": 3,
     "category": "ancient_wit",
     "question": "깨비가 감춰둔 4개의 자물쇠를 단번에 열 수 있는 유일한 만능열쇠는?",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "id": "rid_ko_011",
+    "id": "rid_011",
     "difficulty": 2,
     "category": "nature",
     "question": "조용히 물건을 옮기는 도둑인데, 오래된 집에서만 종종 출몰하는 것은?",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "id": "rid_ko_012",
+    "id": "rid_012",
     "difficulty": 2,
     "category": "wordplay",
     "question": "깨비가 세상에서 가장 아낀다고 하는 냉장고 속 보물은?",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": "rid_ko_013",
+    "id": "rid_013",
     "difficulty": 2,
     "category": "wit",
     "question": "열 개의 문을 열어놔도 안 침입하고, 문 하나만 닫혀도 기다려주는 신사는?",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "id": "rid_ko_014",
+    "id": "rid_014",
     "difficulty": 3,
     "category": "nature",
     "question": "먹으면 먹을수록 줄어드는 게 아니라 늘어나는 것은?",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": "rid_ko_015",
+    "id": "rid_015",
     "difficulty": 3,
     "category": "wordplay",
     "question": "깨비가 백 번 말해도 못 이기는, 한 번만 말해도 이기는 존재는?",

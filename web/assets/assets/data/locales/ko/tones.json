@@ -1,4 +1,4 @@
-﻿{
+{
   "comic": {
     "name": "코믹",
     "color": "#F0A500",
@@ -91,7 +91,7 @@
       {
         "id": "meeting_tmpl_001",
         "headline": "{card_name}{조사:은/는} 혼자 날아왔지만, 오늘은 아닐지도 모른다",
-        "body": "{timeslot_name}에 누군가 당신 쪽으로 방향을 트는 중입니다, 숫자 5가 그 타이밍을 가리키고 있어요. 오늘 스쳐 지나가는 인연을 눈여겨보세요.",
+        "body": "{timeslot_name}에 누군가 당신 쪽으로 방향을 트는 중입니다, 숫자 {number}가 그 타이밍을 가리키고 있어요. 오늘 스쳐 지나가는 인연을 눈여겨보세요.",
         "tip": "먼저 인사를 건네는 쪽이 오늘의 승자입니다.",
         "share_caption": "{card_name} {number}번, {timeslot_name}. 오늘 누군가 방향을 틀고 있다 🪶 #DOK_KEY"
       },

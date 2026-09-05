@@ -1,10 +1,15 @@
 [
   {
-    "id": "rid_ja_001",
+    "id": "rid_001",
     "difficulty": 1,
     "category": "nature",
     "question": "雨の日にだけ姿を現し、屋根の下では決して会えないオレの友達は誰だ？",
-    "options": ["虹", "雷", "霧", "雫"],
+    "options": [
+      "虹",
+      "雷",
+      "霧",
+      "雫"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -13,11 +18,16 @@
     }
   },
   {
-    "id": "rid_ja_002",
+    "id": "rid_002",
     "difficulty": 1,
     "category": "wordplay",
     "question": "季節の変わり目に必ず来るのに、一度も椅子に座ったことのない客は？",
-    "options": ["風", "猫", "郵便屋", "月"],
+    "options": [
+      "風",
+      "猫",
+      "郵便屋",
+      "月"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -26,11 +36,16 @@
     }
   },
   {
-    "id": "rid_ja_003",
+    "id": "rid_003",
     "difficulty": 1,
     "category": "wit",
     "question": "千年前も今も同じ顔なのに、昨日と今日で気分が変わっているものは？",
-    "options": ["月", "山", "川", "星"],
+    "options": [
+      "月",
+      "山",
+      "川",
+      "星"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -39,11 +54,16 @@
     }
   },
   {
-    "id": "rid_ja_004",
+    "id": "rid_004",
     "difficulty": 2,
     "category": "nature",
     "question": "たくさん食べれば食べるほど、持つ側がすっからかんになっていくものは？",
-    "options": ["財布", "備蓄米", "胃袋", "貯金箱"],
+    "options": [
+      "財布",
+      "備蓄米",
+      "胃袋",
+      "貯金箱"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -52,11 +72,16 @@
     }
   },
   {
-    "id": "rid_ja_005",
+    "id": "rid_005",
     "difficulty": 2,
     "category": "wordplay",
     "question": "世界中の宝を全部抱えているのに、一歩も動けない富豪は誰だ？",
-    "options": ["地面", "海", "雲", "山"],
+    "options": [
+      "地面",
+      "海",
+      "雲",
+      "山"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -65,11 +90,16 @@
     }
   },
   {
-    "id": "rid_ja_006",
+    "id": "rid_006",
     "difficulty": 2,
     "category": "wit",
     "question": "朝は長く、昼は短く、夜には消えるが、決して死なないものは？",
-    "options": ["影", "露", "朝焼け", "灯り"],
+    "options": [
+      "影",
+      "露",
+      "朝焼け",
+      "灯り"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -78,11 +108,16 @@
     }
   },
   {
-    "id": "rid_ja_007",
+    "id": "rid_007",
     "difficulty": 2,
     "category": "nature",
     "question": "口はないのに歌い、手はないのに触れ、姿はないのに届くものは？",
-    "options": ["声", "匂い", "夢", "風船"],
+    "options": [
+      "声",
+      "匂い",
+      "夢",
+      "風船"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -91,11 +126,16 @@
     }
   },
   {
-    "id": "rid_ja_008",
+    "id": "rid_008",
     "difficulty": 3,
     "category": "wit",
     "question": "千回使っても減らず、一度も使わないと錆びてしまう宝物は？",
-    "options": ["心", "刀", "金貨", "地図"],
+    "options": [
+      "心",
+      "刀",
+      "金貨",
+      "地図"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -104,11 +144,16 @@
     }
   },
   {
-    "id": "rid_ja_009",
+    "id": "rid_009",
     "difficulty": 3,
     "category": "nature",
     "question": "昨日の自分と絶対に会えず、明日の自分とは必ず会える存在は？",
-    "options": ["今日", "夢", "風", "光"],
+    "options": [
+      "今日",
+      "夢",
+      "風",
+      "光"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
@@ -117,16 +162,111 @@
     }
   },
   {
-    "id": "rid_ja_010",
+    "id": "rid_010",
     "difficulty": 3,
     "category": "wordplay",
     "question": "一人では決して歩けず、必ず誰かと一緒にしか行けない旅は？",
-    "options": ["未来", "記憶", "夢", "地図"],
+    "options": [
+      "未来",
+      "記憶",
+      "夢",
+      "地図"
+    ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
       "correct": "正解だ！未来は今日の自分と一緒にしか歩けない旅なんだよ！",
       "wrong": "残念！必ず今日の自分と連れ立って行く旅は、未来さ！"
+    }
+  },
+  {
+    "id": "rid_011",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "扉が開いていれば静かに入り込み、閉まれば外でじっと待つ紳士は誰だ？",
+    "options": [
+      "霧",
+      "雨",
+      "風",
+      "月光"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解だ！霧は閉まった扉の外で静かに待つ紳士的な友達さ！",
+      "wrong": "ぶっぶー！閉まった扉の前で待つ紳士は、霧さ！"
+    }
+  },
+  {
+    "id": "rid_012",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "ドッケビが冷蔵庫の中で一番大事だという宝物は？",
+    "options": [
+      "おにぎり一膳",
+      "炭酸飲料",
+      "キムチ",
+      "アイス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "かっかっか！愛のこもったおにぎりの心臓、ごはん一膳さ！",
+      "wrong": "残念！冷蔵庫の本当の宝物は、心のこもったごはんだよ！"
+    }
+  },
+  {
+    "id": "rid_013",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "扉を十個開けても入らないのに、一つ閉まると待ってくれる存在は？",
+    "options": [
+      "霧",
+      "風",
+      "影",
+      "匂い"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解！霧は扉を閉めると外で待ってくれる潔癖な友達さ。",
+      "wrong": "ぶっぶー！閉まった扉の前で待つのは霧だよ！"
+    }
+  },
+  {
+    "id": "rid_014",
+    "difficulty": 3,
+    "category": "nature",
+    "question": "食べれば食べるほど減るのではなく増えていくものは？",
+    "options": [
+      "知識",
+      "お菓子",
+      "麺",
+      "はちみつ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "お見事！知識は分け合うほど増える唯一の食べ物さ！",
+      "wrong": "惜しい！増えていく食べ物、それは知識だよ！"
+    }
+  },
+  {
+    "id": "rid_015",
+    "difficulty": 3,
+    "category": "wordplay",
+    "question": "ドッケビが百回言っても勝てないのに、一度言えば勝つ存在は？",
+    "options": [
+      "記録",
+      "噂",
+      "歌",
+      "夢"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正解だ！記録はドッケビの百回のおしゃべりより強力さ！",
+      "wrong": "ぶっぶー！百回のおしゃべりより強いのは、記録さ！"
     }
   }
 ]

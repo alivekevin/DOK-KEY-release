@@ -3,100 +3,440 @@
     {
       "id": "water",
       "label": "맑은 물",
-      "card_id": "water_sprite",
+      "keywords": [
+        "물",
+        "계곡",
+        "바다",
+        "water"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "M08",
       "meaning": "감정이 정화되고 속이 맑아지는 꿈",
-      "advice": "맑은 물은 마음의 정화입니다. 오늘은 머릿속을 비우고 시작하세요."
+      "advice": "맑은 물은 마음의 정화! 오늘은 머릿속을 비우고 시작하면 큰일이 풀린다깨비!"
     },
     {
       "id": "fire",
-      "label": "불똥/불꽃",
-      "card_id": "dokkaebi_fire",
+      "label": "불꽃",
+      "keywords": [
+        "불",
+        "불꽃",
+        "화재",
+        "fire"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "Z06",
       "meaning": "에너지가 타오르고 새 시작이 일어나는 조짐",
-      "advice": "불씨는 지금이 크는 시간입니다. 오늘 미뤄둔 일에 불을 붙이세요."
+      "advice": "불씨는 지금이 크는 시간! 오늘 미뤄둔 일에 불을 붙여버리라깨비!"
     },
     {
       "id": "flying",
       "label": "하늘을 나는 꿈",
-      "card_id": "cloud_hermit",
+      "keywords": [
+        "하늘",
+        "비행",
+        "날다",
+        "flying"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "M01",
       "meaning": "속박에서 벗어나 자유와 성취를 향하는 상승운",
-      "advice": "공중에 뜬 만큼 눈도 넓어집니다. 큰 그림을 그려볼 날입니다."
+      "advice": "공중에 뜬 만큼 눈도 넓어진다깨비! 오늘은 큰 그림을 그려봐라!"
     },
     {
       "id": "pig",
       "label": "돼지",
-      "card_id": "pig",
+      "keywords": [
+        "돼지",
+        "복돼지",
+        "pig"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "Z12",
       "meaning": "재물과 복이 굴러들어오는 대표적인 길몽",
-      "advice": "복은 준비된 손에 들어옵니다. 오늘 지갑을 단정히 하고 다녀보세요."
+      "advice": "복은 준비된 손에 들어온다! 오늘 지갑을 단정히 하고 다녀라깨비!"
     },
     {
       "id": "snake",
       "label": "뱀",
-      "card_id": "snake",
+      "keywords": [
+        "뱀",
+        "구렁이",
+        "snake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "Z06",
       "meaning": "재물과 변화가 함께 오는 강력한 전환의 꿈",
-      "advice": "허물은 벗어야 성장합니다. 오래 입은 옷 하나를 정리해보세요."
+      "advice": "허물은 벗어야 성장한다깨비! 오래된 습관 하나를 벗어버려라!"
     },
     {
       "id": "teeth",
       "label": "이 빠지는 꿈",
-      "card_id": "tiger",
+      "keywords": [
+        "이",
+        "치아",
+        "이빨",
+        "teeth"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "Z03",
       "meaning": "용기가 흔들리는 일이 있으나 곧 회복되는 신호",
-      "advice": "이빨은 다시 나기도 합니다. 흔들린 용기에 작은 승리를 하나 더하세요."
+      "advice": "이빨은 다시 나는 법! 흔들린 용기에 작은 승리 하나를 더하거라!"
     },
     {
       "id": "falling",
       "label": "추락하는 꿈",
-      "card_id": "wind_child",
+      "keywords": [
+        "추락",
+        "떨어지다",
+        "낙하",
+        "falling"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "Z25",
       "meaning": "기반이 흔들려 불안정한 상태를 보여주는 경고몽",
-      "advice": "추락은 착지의 예고입니다. 오늘은 속도를 줄이고 기반을 점검하세요."
+      "advice": "추락은 착지의 예고다깨비! 오늘은 속도를 줄이고 기반부터 점검해라!"
     },
     {
       "id": "chased",
       "label": "쫓기는 꿈",
-      "card_id": "shadow_walker",
+      "keywords": [
+        "쫓기다",
+        "도망",
+        "호랑이한테",
+        "chased"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "M02",
       "meaning": "피하고 싶은 일이 있다는 내면의 메시지",
-      "advice": "뒤돌아보지 않고 정면으로 마주하면 그림자는 사라집니다."
+      "advice": "뒤돌아보지 말고 정면으로 마주하면 그림자는 사라진다깨비!"
     },
     {
       "id": "star",
       "label": "별",
-      "card_id": "star_weaver",
+      "keywords": [
+        "별",
+        "우주",
+        "별똥별",
+        "star"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "M20",
       "meaning": "소원이 엮이고 기회의 실이 오는 희망의 꿈",
-      "advice": "별은 먼 곳의 등대입니다. 오늘 소원을 하나 구체화해보세요."
+      "advice": "별은 먼 곳의 등대다! 오늘 소원 하나를 종이에 구체화해봐라!"
     },
     {
       "id": "door",
       "label": "문/통로",
-      "card_id": "mountain_spirit",
+      "keywords": [
+        "문",
+        "통로",
+        "입구",
+        "door"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "Z13",
       "meaning": "새로운 기회의 입구가 열리는 시작의 꿈",
-      "advice": "문은 노크하는 사람에게만 열립니다. 오늘 먼저 노크하세요."
+      "advice": "문은 노크하는 사람에게만 열린다깨비! 오늘은 먼저 노크해라!"
     },
     {
       "id": "flower",
       "label": "꽃",
-      "card_id": "flower_fairy",
+      "keywords": [
+        "꽃",
+        "개화",
+        "flower"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "Z14",
       "meaning": "인연과 행운이 피어나는 길조",
-      "advice": "꽃은 타이밍에 피고 사라집니다. 오늘 좋은 인사를 건네두세요."
+      "advice": "꽃은 타이밍에 핀다깨비! 오늘은 좋은 인사를 먼저 건네는 사람이 승자다!"
     },
     {
       "id": "sun",
-      "label": "해/태양",
-      "card_id": "sun_messenger",
+      "label": "태양",
+      "keywords": [
+        "태양",
+        "해",
+        "햇살",
+        "sun"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "M10",
       "meaning": "명예와 새 소식이 밝게 도착하는 태양의 꿈",
-      "advice": "햇살은 방향을 알려줍니다. 동쪽으로 나가는 일이 유리합니다."
+      "advice": "햇살은 방향을 알려준다깨비! 동쪽으로 나가는 일이 유리하다!"
     },
     {
       "id": "moon",
       "label": "달",
-      "card_id": "moon_rabbit",
+      "keywords": [
+        "달",
+        "보름달",
+        "moon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "M20",
       "meaning": "직관과 여유가 차오르는 은은한 상승운",
-      "advice": "달은 채워지는 중입니다. 조급함 대신 리듬을 믿으세요."
+      "advice": "달은 차오르는 중이다깨비! 조급함 대신 리듬을 믿어라!"
     },
     {
       "id": "dreaming",
       "label": "꿈 속의 꿈",
-      "card_id": "dream_eater",
+      "keywords": [
+        "꿈속의꿈",
+        "이중꿈",
+        "dream"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "M33",
       "meaning": "숨겨진 소원이 드러나려는 심층의 메시지",
-      "advice": "꿈이 꿈을 부르면 소원은 진짜입니다. 오늘 그 소원을 종이에 적으세요."
+      "advice": "꿈이 꿈을 부르면 소원은 진짜다깨비! 오늘 그 소원을 적어두어라!"
+    },
+    {
+      "id": "tiger",
+      "label": "호랑이",
+      "keywords": [
+        "호랑이",
+        "범",
+        "tiger"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "Z03",
+      "meaning": "용맹과 벽사의 기운이 곁에 온 군주의 꿈",
+      "advice": "호랑이 기운이 등을 밀어준다깨비! 오늘은 과감한 결정이 운을 부른다!"
+    },
+    {
+      "id": "dragon",
+      "label": "용",
+      "keywords": [
+        "용",
+        "청룡",
+        "dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "Z05",
+      "meaning": "승천과 대성공을 예고하는 최상급 길몽",
+      "advice": "용은 하늘로 오르는 중이다깨비! 오늘 제안된 큰일, 놓치지 마라!"
+    },
+    {
+      "id": "bird",
+      "label": "새",
+      "keywords": [
+        "새",
+        "새소리",
+        "bird"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "Z19",
+      "meaning": "기쁜 소식과 좋은 편지가 날아오는 꿈",
+      "advice": "새는 소식을 물어온다깨비! 오늘은 휴대폰 알림을 잘 살펴봐라!"
+    },
+    {
+      "id": "fish",
+      "label": "물고기",
+      "keywords": [
+        "물고기",
+        "잡다",
+        "생선",
+        "fish"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "Z26",
+      "meaning": "재물이 물처럼 흘러들어오는 잡는 꿈",
+      "advice": "물고기를 잡았으면 바로 가방에 넣거라! 오늘 받을 건 받고 시작하라깨비!"
+    },
+    {
+      "id": "mountain",
+      "label": "산",
+      "keywords": [
+        "산",
+        "등산",
+        "봉우리",
+        "mountain"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "M01",
+      "meaning": "조상과 큰 뜻이 도와주는 안정된 기둥운",
+      "advice": "산은 오래 묵은 기둥이다깨비! 오늘은 옛 친구나 어른에게 연락해봐라!"
+    },
+    {
+      "id": "baby",
+      "label": "아기",
+      "keywords": [
+        "아기",
+        "갓난아기",
+        "baby"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 14,
+      "card_id": "M07",
+      "meaning": "새 생명과 새 시작이 품어지는 탄생의 꿈",
+      "advice": "아기는 새 프로젝트의 태동이다깨비! 오늘 미뤄둔 계획서를 열어봐라!"
+    },
+    {
+      "id": "money",
+      "label": "돈/보물",
+      "keywords": [
+        "돈",
+        "보물",
+        "금화",
+        "money"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "Z30",
+      "meaning": "재물운이 폭발하는 황금의 꿈",
+      "advice": "돈 꿈은 뒤에 숫자가 온다깨비! 오늘 영수증은 잘 챙겨두어라!"
+    },
+    {
+      "id": "cleaning",
+      "label": "청소",
+      "keywords": [
+        "청소",
+        "쓸다",
+        "정리",
+        "cleaning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "Z22",
+      "meaning": "액운과 잡귀를 쓸어내는 액땜의 꿈",
+      "advice": "청소는 액땜의 왕이다깨비! 오늘 책상이라도 하나 닦으면 운이 정리된다!"
+    },
+    {
+      "id": "eating",
+      "label": "먹는 꿈",
+      "keywords": [
+        "먹다",
+        "식사",
+        "맛있다",
+        "eating"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "Z31",
+      "meaning": "복이 배 속으로 들어오는 복식(複食)의 꿈",
+      "advice": "배 속에 복이 들었단다깨비! 단, 오늘은 과식만 조심해라!"
+    },
+    {
+      "id": "poo",
+      "label": "똥 싸는 꿈",
+      "keywords": [
+        "똥",
+        "응가",
+        " poo"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "Z30",
+      "meaning": "큰 재물이 밀려오는 최고의 대복몽",
+      "advice": "크하하! 똥은 금괴다깨비! 오늘 복권보다 지갑 정리가 먼저다!"
+    },
+    {
+      "id": "rain",
+      "label": "비",
+      "keywords": [
+        "비",
+        "소나기",
+        "장마",
+        "rain"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "M11",
+      "meaning": "쌓인 감정이 씻겨 나가는 해소의 꿈",
+      "advice": "비는 하늘이 뒷정리해주는 것! 오늘은 우산 챙기고 마음도 씻어라깨비!"
+    },
+    {
+      "id": "snow",
+      "label": "눈",
+      "keywords": [
+        "눈",
+        "첫눈",
+        "폭설",
+        "snow"
+      ],
+      "fortune": "normal",
+      "lucky_number": 72,
+      "card_id": "Z08",
+      "meaning": "순수함과 냉철함이 함께 오는 평몽",
+      "advice": "눈은 하얀 도화지다깨비! 오늘은 감정보다 냉철한 계산이 유리하다!"
+    },
+    {
+      "id": "wedding",
+      "label": "결혼식",
+      "keywords": [
+        "결혼",
+        "예식장",
+        "웨딩",
+        "wedding"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "M29",
+      "meaning": "새로운 연결과 계약이 성사되는 꿈",
+      "advice": "결혼 꿈은 계약운이다깨비! 오늘 문서는 두 번 읽고 서명해라!"
+    },
+    {
+      "id": "funeral",
+      "label": "장례식",
+      "keywords": [
+        "장례식",
+        "죽음",
+        "funeral"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "M25",
+      "meaning": "전통적으로 장수와 재산을 예고하는 전환의 길몽",
+      "advice": "놀라지 마라! 옛 것이 끝나야 새 것이 온다깨비! 오늘은 과거 청산일이다!"
+    },
+    {
+      "id": "losing_money",
+      "label": "돈 잃는 꿈",
+      "keywords": [
+        "돈잃음",
+        "지갑분실",
+        "lose"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "Z16",
+      "meaning": "관리 부주의를 경고하는 지갑 경보몽",
+      "advice": "오늘은 지갑과 휴대폰을 목에 걸고 다녀라깨비! 계약서는 세 번 읽어라!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "버스/기차 놓침",
+      "keywords": [
+        "놓치다",
+        "버스",
+        "기차",
+        "missed"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "Z26",
+      "meaning": "시간 관리 실패를 경고하는 기회 경보몽",
+      "advice": "오늘은 알람을 세 개 맞춰라깨비! 중요한 약속은 30분 일찍 출발이다!"
     }
   ]
 }

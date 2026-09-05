@@ -3,100 +3,440 @@
     {
       "id": "water",
       "label": "澄んだ水",
-      "card_id": "water_sprite",
+      "keywords": [
+        "水",
+        "海",
+        "川",
+        "澄む"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "M08",
       "meaning": "感情が浄化され、心が澄んでいく夢",
-      "advice": "澄んだ水は澄んだ心。今日は頭を空っぽにして始めましょう。"
+      "advice": "澄んだ水は澄んだ心! 今日は頭を空っぽにして始めよう!"
     },
     {
       "id": "fire",
       "label": "火の粉",
-      "card_id": "dokkaebi_fire",
+      "keywords": [
+        "火",
+        "炎",
+        "燃える",
+        "火花"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "Z06",
       "meaning": "エネルギーが燃え上がり、新たな始まりの前兆",
-      "advice": "火種は今育つ時。今日後回しにしていたことに火をつけましょう。"
+      "advice": "火種は今育つ時! 今日、後回しにしていたことに火をつけよう!"
     },
     {
       "id": "flying",
       "label": "空を飛ぶ夢",
-      "card_id": "cloud_hermit",
+      "keywords": [
+        "空を飛ぶ",
+        "飛ぶ",
+        "浮遊",
+        "空を飛ぶ夢"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "M01",
       "meaning": "束縛から解放され、自由と達成へ向かう上昇運",
-      "advice": "浮くほど視界は広がります。今日は大きな絵を描いてみましょう。"
+      "advice": "浮くほど視界は広がる! 今日は大きな絵を描いてみよう!"
     },
     {
       "id": "pig",
       "label": "豚",
-      "card_id": "pig",
+      "keywords": [
+        "豚",
+        "ブタ",
+        "金豚"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "Z12",
       "meaning": "財と福が転がり込む代表的な吉夢",
-      "advice": "福は準備した手に入ります。今日は財布をきちんと整えて出かけましょう。"
+      "advice": "福は準備した手に入る! 今日は財布をきちんと整えて出かけよう!"
     },
     {
       "id": "snake",
       "label": "蛇",
-      "card_id": "snake",
+      "keywords": [
+        "蛇",
+        "ヘビ",
+        "白蛇"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "Z06",
       "meaning": "財と変化が共に来る強い転換の夢",
-      "advice": "脱皮してこそ成長します。着古した服を一つ整理してみましょう。"
+      "advice": "脱皮してこそ成長! 古い習慣を一つ整理しよう!"
     },
     {
       "id": "teeth",
       "label": "歯が抜ける夢",
-      "card_id": "tiger",
+      "keywords": [
+        "歯",
+        "歯が抜ける",
+        "奥歯",
+        "歯が抜ける夢"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "Z03",
       "meaning": "勇気が揺れることがあるが、すぐ回復する信号",
-      "advice": "歯はまた生えます。揺れた勇気に小さな勝利を一つ加えましょう。"
+      "advice": "歯はまた生える! 揺れた勇気に小さな勝利を一つ加えよう!"
     },
     {
       "id": "falling",
       "label": "墜落する夢",
-      "card_id": "wind_child",
+      "keywords": [
+        "落ちる",
+        "墜落",
+        "落下",
+        "墜落する夢"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "Z25",
       "meaning": "土台が揺れて不安定な状態を示す警告夢",
-      "advice": "墜落は着地の予告です。今日は速度を落とし基盤を点検しましょう。"
+      "advice": "墜落は着地の予告! 今日は速度を落として基盤を点検しよう!"
     },
     {
       "id": "chased",
       "label": "追いかけられる夢",
-      "card_id": "shadow_walker",
+      "keywords": [
+        "追いかけられる",
+        "逃げる",
+        "追跡",
+        "追いかけられ"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "M02",
       "meaning": "避けたいことがあるという内側からのメッセージ",
-      "advice": "振り返らず正面から向き合えば、影は消えます。"
+      "advice": "振り返らず正面から向き合えば、影は消える!"
     },
     {
       "id": "star",
       "label": "星",
-      "card_id": "star_weaver",
+      "keywords": [
+        "星",
+        "流星",
+        "宇宙",
+        "星3"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "M20",
       "meaning": "願いが織られ、機会の糸が届く希望の夢",
-      "advice": "星は遠くの灯台です。今日、願いを一つ具体化してみましょう。"
+      "advice": "星は遠くの灯台! 今日、願いを一つ紙に書いてみよう!"
     },
     {
       "id": "door",
       "label": "扉/通路",
-      "card_id": "mountain_spirit",
+      "keywords": [
+        "扉",
+        "ドア",
+        "通路",
+        "扉/通路"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "Z13",
       "meaning": "新しい機会の入り口が開く始まりの夢",
-      "advice": "扉はノックする人にだけ開きます。今日は先にノックしましょう。"
+      "advice": "扉はノックする人にだけ開く! 今日は先にノックしよう!"
     },
     {
       "id": "flower",
       "label": "花",
-      "card_id": "flower_fairy",
+      "keywords": [
+        "花",
+        "開花",
+        "桜"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "Z14",
       "meaning": "縁と幸運が咲き広がる吉兆",
-      "advice": "花はタイミングに咲きます。今日は良い挨拶を一言交わしましょう。"
+      "advice": "花はタイミングに咲く! 今日は良い挨拶を先に交わそう!"
     },
     {
       "id": "sun",
       "label": "太陽",
-      "card_id": "sun_messenger",
+      "keywords": [
+        "太陽",
+        "日差し",
+        "朝日",
+        "太陽3"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "M10",
       "meaning": "名誉と新しい知らせが明るく届く太陽の夢",
-      "advice": "日差しは方向を教えます。東へ進む事が今日は有利です。"
+      "advice": "日差しは方向を教える! 東へ進む事が今日は有利だ!"
     },
     {
       "id": "moon",
       "label": "月",
-      "card_id": "moon_rabbit",
+      "keywords": [
+        "月",
+        "満月",
+        "三日月"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "M20",
       "meaning": "直感と余裕が満ちていく静かな上昇運",
-      "advice": "月は満ちています。焦らずリズムを信じましょう。"
+      "advice": "月は満ちている! 焦らずリズムを信じよう!"
     },
     {
       "id": "dreaming",
       "label": "夢の中の夢",
-      "card_id": "dream_eater",
+      "keywords": [
+        "夢の中の夢",
+        "二重夢",
+        "明晰夢"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "M33",
       "meaning": "隠された願いが表に出ようとしている深層からのメッセージ",
-      "advice": "夢が夢を呼ぶなら、願いは本物です。今日それを紙に書きましょう。"
+      "advice": "夢が夢を呼ぶなら、願いは本物! 今日それを紙に書こう!"
+    },
+    {
+      "id": "tiger",
+      "label": "虎",
+      "keywords": [
+        "虎",
+        "トラ",
+        "猛虎"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "Z03",
+      "meaning": "勇猛と邪気払いの君主の気迫が寄り添う夢",
+      "advice": "虎が背中を押している! 今日は大胆な決断が運を呼ぶ!"
+    },
+    {
+      "id": "dragon",
+      "label": "龍",
+      "keywords": [
+        "龍",
+        "ドラゴン",
+        "青龍"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "Z05",
+      "meaning": "昇天と大成功を告げる最上級の吉夢",
+      "advice": "龍は天に昇っている! 今日の大きな提案を見逃すな!"
+    },
+    {
+      "id": "bird",
+      "label": "鳥",
+      "keywords": [
+        "鳥",
+        "小鳥",
+        "鳥の声"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "Z19",
+      "meaning": "嬉しい知らせが翼に乗って届く夢",
+      "advice": "鳥は知らせを運ぶ! 今日はスマホの通知をよく見よう!"
+    },
+    {
+      "id": "fish",
+      "label": "魚を釣る夢",
+      "keywords": [
+        "魚",
+        "釣る",
+        "鯛",
+        "魚を釣る夢"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "Z26",
+      "meaning": "財が水のように流れ込む釣る夢",
+      "advice": "釣ったらすぐカバンへ! 今日は受け取れるものを受け取ろう!"
+    },
+    {
+      "id": "mountain",
+      "label": "山",
+      "keywords": [
+        "山",
+        "登山",
+        "頂上",
+        "山3"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "M01",
+      "meaning": "祖先と大きな志が支える安定した柱運",
+      "advice": "山は古くからの柱! 今日は昔の友や目上の人に連絡しよう!"
+    },
+    {
+      "id": "baby",
+      "label": "赤ちゃん",
+      "keywords": [
+        "赤ちゃん",
+        "乳児",
+        "新生児"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 14,
+      "card_id": "M07",
+      "meaning": "新しい命と始まりが宿る誕生の夢",
+      "advice": "赤ちゃんは新プロジェクトの胎動! 今日、後回しの計画を開こう!"
+    },
+    {
+      "id": "money",
+      "label": "お金/宝物",
+      "keywords": [
+        "お金",
+        "宝物",
+        "金貨",
+        "お金/宝物"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "Z30",
+      "meaning": "財運が爆発する黄金の夢",
+      "advice": "お金の夢には数字が続く! 今日はレシートをしっかり保管しよう!"
+    },
+    {
+      "id": "cleaning",
+      "label": "掃除",
+      "keywords": [
+        "掃除",
+        "片付け",
+        "磨く",
+        "掃除3"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "Z22",
+      "meaning": "悪運を掃き出す厄払いの夢",
+      "advice": "掃除は厄払いの王! 今日は机の一つでも磨いて運を整えよう!"
+    },
+    {
+      "id": "eating",
+      "label": "食べる夢",
+      "keywords": [
+        "食べる",
+        "食事",
+        "美味しい",
+        "食べる夢"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "Z31",
+      "meaning": "福が腹の中に入る複食の夢",
+      "advice": "腹に福が入った! 今日は食べ過ぎだけ気をつけよう!"
+    },
+    {
+      "id": "poo",
+      "label": "うんちの夢",
+      "keywords": [
+        "うんち",
+        "排便",
+        "黄金"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "Z30",
+      "meaning": "大きな財が押し寄せる最高の大福夢",
+      "advice": "かっかっか! うんちは金塊だ! 今日は宝くじより財布の整理が先だ!"
+    },
+    {
+      "id": "rain",
+      "label": "雨",
+      "keywords": [
+        "雨",
+        "大雨",
+        "梅雨",
+        "雨3"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "M11",
+      "meaning": "溜まった感情が洗い流される解消の夢",
+      "advice": "雨は空が後片付けしてくれること! 傘を忘れず、心も洗おう!"
+    },
+    {
+      "id": "snow",
+      "label": "雪",
+      "keywords": [
+        "雪",
+        "初雪",
+        "大雪",
+        "雪3"
+      ],
+      "fortune": "normal",
+      "lucky_number": 72,
+      "card_id": "Z08",
+      "meaning": "純粋さと冷静さが一緒に来る平夢",
+      "advice": "雪は白いキャンバス! 今日は感情より冷静な計算が有利だ!"
+    },
+    {
+      "id": "wedding",
+      "label": "結婚式",
+      "keywords": [
+        "結婚式",
+        "婚礼",
+        "ウェディング",
+        "結婚式3"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "M29",
+      "meaning": "新しい縁と契約が成立する夢",
+      "advice": "結婚の夢は契約運! 今日の書類は二回読んでから署名しよう!"
+    },
+    {
+      "id": "funeral",
+      "label": "葬式",
+      "keywords": [
+        "葬式",
+        "死",
+        "告別式"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "M25",
+      "meaning": "伝統的に長寿と財産を告げる転換の吉夢",
+      "advice": "驚かないで! 古いものが終われば新しいものが来る! 今日は過去の清算日だ!"
+    },
+    {
+      "id": "losing_money",
+      "label": "お金を失う夢",
+      "keywords": [
+        "お金を失う",
+        "財布をなくす",
+        "盗まれる"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "Z16",
+      "meaning": "管理の不注意を警告する財布警報夢",
+      "advice": "今日は財布とスマホを肌身離さず! 契約書は三回読もう!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "電車に乗り遅れる夢",
+      "keywords": [
+        "乗り遅れる",
+        "電車",
+        "バス",
+        "電車に乗り遅"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "Z26",
+      "meaning": "時間管理の失敗を警告する機会警報夢",
+      "advice": "今日はアラームを三つセット! 大切な約束は30分前出発だ!"
     }
   ]
 }
