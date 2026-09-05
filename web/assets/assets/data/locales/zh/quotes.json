@@ -1,902 +1,809 @@
 [
   {
     "id": "quo_001",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_001]",
-    "category": "zen",
+    "text": "水随器成形，心纵有波澜，也不可忘了本来的模样。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_002",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_002]",
-    "category": "zen",
+    "text": "当你觉得路远的那一刻，脚步已经停了一半。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "calm"
     ]
   },
   {
     "id": "quo_003",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_003]",
-    "category": "zen",
+    "text": "山从不畏惧自己的高。只有攀登的人才认识山顶。",
+    "category": "insight",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_004",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_004]",
-    "category": "zen",
+    "text": "深井无声。浅薄的知识才喧哗。",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_005",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_005]",
-    "category": "zen",
+    "text": "晨露不会久留，因此格外明亮。",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "hope"
     ]
   },
   {
     "id": "quo_006",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_006]",
-    "category": "zen",
+    "text": "树不紧抓枯叶，而是为新叶腾出地方。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "farewell",
+      "calm"
     ]
   },
   {
     "id": "quo_007",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_007]",
-    "category": "zen",
+    "text": "岩石胜不过流水。流动的比坚硬的更强。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_008",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_008]",
-    "category": "zen",
+    "text": "灯照亮别人越多，却不知道自己的影子越深。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "mystery"
     ]
   },
   {
     "id": "quo_009",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_009]",
-    "category": "zen",
+    "text": "谷穗越成熟，头垂得越低。人越成熟，越是谦卑。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "passion"
     ]
   },
   {
     "id": "quo_010",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_010]",
-    "category": "zen",
+    "text": "湍急的水不深。深沉的河流没有声音。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_011]",
-    "category": "zen",
+    "text": "流水被石头撞击，也以新的流水作答。回应在流动之中。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "calm",
+      "conflict"
     ]
   },
   {
     "id": "quo_012",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_012]",
-    "category": "zen",
+    "text": "弓拉得越紧越好，人却也要懂得松弛。",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_013",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_013]",
-    "category": "zen",
+    "text": "与其诅咒黑暗，不如点亮一支小小的蜡烛。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_014",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_014]",
-    "category": "zen",
+    "text": "贼偷走你的家，时间偷走你的人生。珍惜今天。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "hope"
     ]
   },
   {
     "id": "quo_015",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_015]",
-    "category": "zen",
+    "text": "钟要先被敲击才会响。心也要被叩问才肯打开。",
+    "category": "insight",
     "tone_tags": [
-      "passion",
       "meeting"
     ]
   },
   {
     "id": "quo_016",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_016]",
-    "category": "zen",
+    "text": "满溢的器皿会洒出。空的时候才能装下新的。",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_017",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_017]",
-    "category": "zen",
+    "text": "森林不是一棵树。因为在一起，才挡得住风。",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "meeting"
     ]
   },
   {
     "id": "quo_018",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_018]",
-    "category": "zen",
+    "text": "藏在山谷里的水最先抵达大海。低处的路最快。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
     ]
   },
   {
     "id": "quo_019",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_019]",
-    "category": "zen",
+    "text": "鹰即使低飞也是鹰。沉默并不代表身份低下。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
     "id": "quo_020",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_020]",
-    "category": "zen",
+    "text": "根虽然看不见，却是树的全部。实力在泥土中生长。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "hope"
     ]
   },
   {
     "id": "quo_021",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_021]",
-    "category": "zen",
+    "text": "要见彩虹，必先忍受风雨。次序不可跳过。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
     "id": "quo_022",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_022]",
-    "category": "zen",
+    "text": "镜子生气时会碎，心里的镜子却要自己擦亮。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_023",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_023]",
-    "category": "zen",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_024",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_024]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_025",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_025]",
-    "category": "zen",
+    "text": "握得越紧，手心的沙漏得越快。抓紧始于放松。",
+    "category": "insight",
     "tone_tags": [
       "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_026",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_026]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_027",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_027]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_028",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_028]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_029",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_029]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_030",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_030]",
-    "category": "zen",
+    "id": "quo_024",
+    "text": "迷路一百次，也就找到路一百次。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "许多蜡烛分开黑暗，却不彼此争斗。光与光同在。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "天平只在两边平齐时说出真实。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "海能容纳鱼群，正因为它处于低处。越低，容纳越多。",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "公鸡唤醒早晨，但早晨不属于任何人。开始是自己的份额。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "石桥也要敲了再过。安全来自敲击。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "春雪化成的水，汇成夏天的江流。小小的流动改变季节。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_031",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_031]",
-    "category": "zen",
+    "text": "安静的夜晚整理一天。休息也是工作的一部分。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_032",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_032]",
-    "category": "zen",
+    "text": "箭拉得越后，飞得越远。后退是跳跃的准备。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "passion"
     ]
   },
   {
     "id": "quo_033",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_033]",
-    "category": "zen",
+    "text": "冰不诉说它曾经多冷，只是化成水继续流淌。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "calm"
     ]
   },
   {
     "id": "quo_034",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_034]",
-    "category": "zen",
+    "text": "花之所以能开，是根的沉默允许了它。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_035",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_035]",
-    "category": "zen",
+    "text": "月亮和露水都要归还这一天。今天只是借来的日子。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "farewell"
     ]
   },
   {
     "id": "quo_036",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_036]",
-    "category": "zen",
+    "text": "一百句言语，不如带着泥土气息的一步。",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_037",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_037]",
-    "category": "zen",
-    "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_038",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_038]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_039",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_039]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_040",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_040]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_041",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_041]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_042",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_042]",
-    "category": "zen",
+    "id": "quo_037",
+    "text": "瓮里的水放久了会腐。心也要流动才能活着。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_043",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_043]",
-    "category": "zen",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_044",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_044]",
-    "category": "zen",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_045",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_045]",
-    "category": "zen",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_046",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_046]",
-    "category": "zen",
-    "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
-    "id": "quo_047",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_047]",
-    "category": "zen",
+    "id": "quo_038",
+    "text": "海鸥不预言风暴。翅膀是在风暴中锻造的。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_048",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_048]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_049",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_049]",
-    "category": "zen",
+    "id": "quo_039",
+    "text": "小小的春雪一旦融化，也能搬动季节。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
-    "id": "quo_050",
-    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_050]",
-    "category": "zen",
+    "id": "quo_040",
+    "text": "东西放得下，心却难放下。先卸下心里的重担。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_051",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_051]",
-    "category": "proverb",
-    "tone_tags": [
-      "meeting",
       "farewell"
     ]
   },
   {
-    "id": "quo_052",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_052]",
-    "category": "proverb",
+    "id": "quo_041",
+    "text": "大树历经风暴，根才扎得更深。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
-    "id": "quo_053",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_053]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_054",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_054]",
-    "category": "proverb",
+    "id": "quo_042",
+    "text": "蛇必须蜕皮才能成长。抱着旧我不算成长。",
+    "category": "insight",
     "tone_tags": [
       "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
-    "id": "quo_055",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_055]",
-    "category": "proverb",
+    "id": "quo_043",
+    "text": "登山者看的是下一个落脚点，而不是山顶。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "树枝折断时鸟也不坠落。可信赖的是翅膀，不是树枝。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "大麦熬过冬天才能成为面包。",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "一只手拍不响。关系是彼此的声音。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "长夜把清晨藏了起来。夜不是终点，而是候车室。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "种子在泥土里舍弃了外形。改变从舍弃开始。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "江水不为到达远方而湍急。在每个转弯处，它变得更深。",
+    "category": "insight",
+    "tone_tags": [
       "calm"
     ]
   },
   {
-    "id": "quo_056",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_056]",
+    "id": "quo_050",
+    "text": "今天写下的一天，成为明天的底蕴。一天无法重写。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "千里之行，始于足下 — 千里远的路，也从脚下第一步开始。",
     "category": "proverb",
     "tone_tags": [
-      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "上善若水 — 至高的善像水一样，滋养万物而不争。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "三人行，必有我师 — 三人同行，其中必有人可为我师。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "良药苦口利于病 — 苦口的药才治病，忠言逆耳利于行。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "亡羊补牢，为时未晚 — 丢了羊再修羊圈，还不算晚。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "水滴石穿 — 水滴不断，终能穿透石头。",
+    "category": "proverb",
+    "tone_tags": [
       "hope"
     ]
   },
   {
     "id": "quo_057",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_057]",
+    "text": "塞翁失马，焉知非福 — 失去未必是坏事，祸福相依。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_058",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_058]",
+    "text": "磨刀不误砍柴工 — 准备充足反而更快。",
     "category": "proverb",
     "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_059",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_059]",
-    "category": "proverb",
-    "tone_tags": [
-      "hope",
       "comic"
     ]
   },
   {
-    "id": "quo_060",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_060]",
+    "id": "quo_059",
+    "text": "种瓜得瓜，种豆得豆 — 播什么种，收什么果。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "授人以鱼不如授人以渔 — 给鱼不如教钓鱼。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_061",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_061]",
+    "text": "近朱者赤，近墨者黑 — 靠近什么，就会染上什么。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_062",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_062]",
+    "text": "冰冻三尺，非一日之寒 — 三尺寒冰，不是一天的冷。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_063",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_063]",
+    "text": "路遥知马力，日久见人心 — 路远了才知道马的力量，日子久了才看清人心。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "passion"
     ]
   },
   {
     "id": "quo_064",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_064]",
+    "text": "长江后浪推前浪 — 新的一代总会超越旧的一代。",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "mystery"
     ]
   },
   {
     "id": "quo_065",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_065]",
+    "text": "尺有所短，寸有所长 — 再长的尺也有短处，再短的寸也有长处。",
     "category": "proverb",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "comic"
     ]
   },
   {
     "id": "quo_066",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_066]",
+    "text": "百闻不如一见 — 听一百次不如亲眼看一次。",
     "category": "proverb",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_067",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_067]",
+    "text": "穷则思变 — 走到尽头，就会想出改变的办法。",
     "category": "proverb",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_068",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_068]",
+    "text": "流水不腐，户枢不蠹 — 流动的水不会腐臭，常转的门轴不生虫。",
     "category": "proverb",
     "tone_tags": [
-      "horror",
-      "hope"
+      "conflict"
     ]
   },
   {
     "id": "quo_069",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_069]",
+    "text": "人无远虑，必有近忧 — 没有长远打算，忧患就在眼前。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_070",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_070]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_071",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_071]",
+    "id": "quo_070",
+    "text": "精诚所至，金石为开 — 真诚所到之处，金石也会裂开。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "海纳百川，有容乃大 — 大海容百川，有度量才成其大。",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_072",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_072]",
+    "text": "玉不琢，不成器 — 玉不雕琢，成不了器物。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_073",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_073]",
+    "text": "一寸光阴一寸金 — 一寸光阴值一寸黄金。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "passion"
     ]
   },
   {
     "id": "quo_074",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_074]",
+    "text": "静水流深 — 静静的水才流得深。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_075",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_075]",
+    "text": "物极必反 — 事物走到极端，就会转向反面。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_076",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_076]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_077",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_077]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_078",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_078]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_079",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_079]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_080",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_080]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
       "hope"
     ]
   },
   {
-    "id": "quo_081",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_081]",
+    "id": "quo_076",
+    "text": "临渊羡鱼，不如退而结网 — 站在水边羡慕鱼，不如回家织网。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_082",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_082]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_083",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_083]",
+    "id": "quo_077",
+    "text": "前事不忘，后事之师 — 记住过去，就是未来的老师。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "知足常乐 — 知足的人常乐。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "疾风知劲草 — 疾风才知道哪棵草坚韧。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "宝剑锋从磨砺出 — 宝剑的锋刃来自磨砺。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "众志成城 — 万众一心，就是城池。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "欲速则不达 — 想快反而到不了。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "温故而知新 — 温习旧的，才能领悟新的。",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_084",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_084]",
+    "text": "有志者事竟成 — 有志向的人，事情终会成功。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_085",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_085]",
-    "category": "proverb",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_086",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_086]",
-    "category": "proverb",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_087",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_087]",
+    "id": "quo_085",
+    "text": "满招损，谦受益 — 自满招损，谦虚受益。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_088",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_088]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_089",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_089]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_090",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_090]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_091",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_091]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_092",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_092]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_093",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_093]",
-    "category": "proverb",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_094",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_094]",
+    "id": "quo_086",
+    "text": "千里之堤，溃于蚁穴 — 千里长堤，会毁于蚁穴。",
     "category": "proverb",
     "tone_tags": [
-      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "英雄所见略同 — 真正的智者，看法往往一致。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "水至清则无鱼 — 水太清了，反而养不了鱼。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "己所不欲，勿施于人 — 自己不愿的，不要加给别人。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "读万卷书，行万里路 — 读万卷书，也要行万里路。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "天下无难事，只怕有心人 — 天下没有难事，只怕有心。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "山重水复疑无路，柳暗花明又一村 — 疑无路处，又一村。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "旁观者清 — 旁观的人看得最清楚。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "十年树木，百年树人 — 种树十年，育人百年。",
+    "category": "proverb",
+    "tone_tags": [
       "mystery"
     ]
   },
   {
     "id": "quo_095",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_095]",
+    "text": "机会只留给有准备的人 — 机会偏爱准备好的头脑。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
-      "comic"
+      "passion"
     ]
   },
   {
     "id": "quo_096",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_096]",
+    "text": "熟能生巧 — 练熟了，巧就生出来了。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_097",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_097]",
+    "text": "青出于蓝而胜于蓝 — 靛青从蓝草中提取，却比蓝更青。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "hope"
     ]
   },
   {
     "id": "quo_098",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_098]",
+    "text": "笨鸟先飞 — 笨鸟先飞，勤能补拙。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_099",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_099]",
+    "text": "和气生财 — 和气才能生财。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "conflict"
     ]
   },
   {
     "id": "quo_100",
-    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_100]",
+    "text": "活到老，学到老 — 活到老，就要学到老。",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "hope"
     ]
   }
 ]

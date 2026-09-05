@@ -1,902 +1,809 @@
 [
   {
     "id": "quo_001",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_001]",
-    "category": "zen",
+    "text": "水は器の形に従うが、心は揺れても本来の形を忘れてはならない。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_002",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_002]",
-    "category": "zen",
+    "text": "道が遠いと感じた瞬間、足取りはすでに半分止まっている。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "calm"
     ]
   },
   {
     "id": "quo_003",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_003]",
-    "category": "zen",
+    "text": "山は高さを恐れない。登る者だけが頂を知る。",
+    "category": "insight",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_004",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_004]",
-    "category": "zen",
+    "text": "深い井戸は音もなく静かだ。浅い知識だけが騒がしい。",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_005",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_005]",
-    "category": "zen",
+    "text": "朝露は長く留まらない。だからこそ輝く。",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "hope"
     ]
   },
   {
     "id": "quo_006",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_006]",
-    "category": "zen",
+    "text": "木は枯れ葉を握りしめない。新芽のために場所を空けるのだ。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "farewell",
+      "calm"
     ]
   },
   {
     "id": "quo_007",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_007]",
-    "category": "zen",
+    "text": "岩は水に勝てない。硬いものより流れるものが強い。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_008",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_008]",
-    "category": "zen",
+    "text": "灯りは人を照らすほど自分の影が深くなるのを知らない。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "mystery"
     ]
   },
   {
     "id": "quo_009",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_009]",
-    "category": "zen",
+    "text": "穀物は実るほど頭を垂れる。人も実るほど低くなる。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "passion"
     ]
   },
   {
     "id": "quo_010",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_010]",
-    "category": "zen",
+    "text": "急な水は深くない。深い川は音もなく流れる。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_011]",
-    "category": "zen",
+    "text": "流れる水は石にぶつかっても新しい水で答える。応答は流れの中にある。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "calm",
+      "conflict"
     ]
   },
   {
     "id": "quo_012",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_012]",
-    "category": "zen",
+    "text": "弓は張りつめるほど良いが、人は緩めることも知らねばならない。",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_013",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_013]",
-    "category": "zen",
+    "text": "闇を呪うより、小さな蝋燭を一本灯せ。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_014",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_014]",
-    "category": "zen",
+    "text": "泥棒は家を盗んでも、時間は人生を盗む。今日を大切にせよ。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "hope"
     ]
   },
   {
     "id": "quo_015",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_015]",
-    "category": "zen",
+    "text": "鐘はまず打たれてこそ鳴る。心も叩かれてこそ開く。",
+    "category": "insight",
     "tone_tags": [
-      "passion",
       "meeting"
     ]
   },
   {
     "id": "quo_016",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_016]",
-    "category": "zen",
+    "text": "満ちた器はこぼれる。空の時に新しいものが入る。",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_017",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_017]",
-    "category": "zen",
+    "text": "森は一本の木ではない。共にいるから風を防ぐ。",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "meeting"
     ]
   },
   {
     "id": "quo_018",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_018]",
-    "category": "zen",
+    "text": "谷に隠れた水が海に最初に届く。低い道が速い。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
     ]
   },
   {
     "id": "quo_019",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_019]",
-    "category": "zen",
+    "text": "鷹は低く飛ぶ日でも鷹だ。沈黙は格を意味しない。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
     "id": "quo_020",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_020]",
-    "category": "zen",
+    "text": "根は見えないが木のすべてだ。実力は土の中で育つ。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "hope"
     ]
   },
   {
     "id": "quo_021",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_021]",
-    "category": "zen",
+    "text": "虹を見るには雨に耐えねばならない。順番は飛ばせない。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
     "id": "quo_022",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_022]",
-    "category": "zen",
+    "text": "鏡は怒ると割れるが、心の鏡は自分で磨くものだ。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_023",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_023]",
-    "category": "zen",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_024",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_024]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_025",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_025]",
-    "category": "zen",
+    "text": "握りしめた砂は握るほどこぼれる。つかみ取ることは緩みから生まれる。",
+    "category": "insight",
     "tone_tags": [
       "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_026",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_026]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_027",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_027]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_028",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_028]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_029",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_029]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_030",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_030]",
-    "category": "zen",
+    "id": "quo_024",
+    "text": "道に迷ったのが百回なら、道を見つけたのも百回だ。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "蝋燭はいくつあっても闇を分かち合い争わない。光は共にある。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "秤は両方が平らな時だけ真実を語る。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "海が魚を抱くのは低いからだ。低くなるほど多くを抱く。",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "鶏は朝を告げるが、朝は誰のものでもない。始まりは自分の取り分だ。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "石橋も叩いて渡れ。安全は叩くことから生まれる。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "春の雪が溶けた水が夏の川を作る。小さな流れが季節を変える。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_031",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_031]",
-    "category": "zen",
+    "text": "静かな夜が一日を整える。休みも仕事の一部だ。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_032",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_032]",
-    "category": "zen",
+    "text": "矢は引くほど遠く飛ぶ。退くことは跳躍の準備だ。",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "passion"
     ]
   },
   {
     "id": "quo_033",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_033]",
-    "category": "zen",
+    "text": "氷は自分がどれほど冷たかったか語らず、水となって流れる。",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "calm"
     ]
   },
   {
     "id": "quo_034",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_034]",
-    "category": "zen",
+    "text": "花が咲けるのは、根の沈黙が許したからだ。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_035",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_035]",
-    "category": "zen",
+    "text": "月も露も一日を返す。今日は借り物の日だ。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "farewell"
     ]
   },
   {
     "id": "quo_036",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_036]",
-    "category": "zen",
+    "text": "百の言葉より、土の匂いのする一歩が真実だ。",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_037",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_037]",
-    "category": "zen",
-    "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_038",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_038]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_039",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_039]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_040",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_040]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_041",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_041]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_042",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_042]",
-    "category": "zen",
+    "id": "quo_037",
+    "text": "甕の水は長く留まると腐る。心も流れてこそ生きる。",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_043",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_043]",
-    "category": "zen",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_044",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_044]",
-    "category": "zen",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_045",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_045]",
-    "category": "zen",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_046",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_046]",
-    "category": "zen",
-    "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
-    "id": "quo_047",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_047]",
-    "category": "zen",
+    "id": "quo_038",
+    "text": "海鳥は嵐を預言しない。翼は嵐の中で鍛えられる。",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_048",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_048]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_049",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_049]",
-    "category": "zen",
+    "id": "quo_039",
+    "text": "小さな春の雪も、溶ければ季節を運ぶ。",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
-    "id": "quo_050",
-    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_050]",
-    "category": "zen",
+    "id": "quo_040",
+    "text": "物は置けるが、心はなかなか置けない。まず心の荷を下ろせ。",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_051",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_051]",
-    "category": "proverb",
-    "tone_tags": [
-      "meeting",
       "farewell"
     ]
   },
   {
-    "id": "quo_052",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_052]",
-    "category": "proverb",
+    "id": "quo_041",
+    "text": "大きな木は嵐を経験してこそ根が深くなる。",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
-    "id": "quo_053",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_053]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_054",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_054]",
-    "category": "proverb",
+    "id": "quo_042",
+    "text": "蛇は皮を脱がねば育たない。古い自分にしがみつくのは成長ではない。",
+    "category": "insight",
     "tone_tags": [
       "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
-    "id": "quo_055",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_055]",
-    "category": "proverb",
+    "id": "quo_043",
+    "text": "登山者は頂より次の足場を見る。",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "鳥は枝が折れても落ちない。信じるのは枝ではなく翼だ。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "大麦は冬に耐えてこそパンになる。",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "拍手は片手では鳴らせない。関係とは互いの音だ。",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "長い夜は朝を隠している。夜は終わりではなく待合室だ。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "種は土の中で姿を捨てる。変化は脱ぎ捨てることから始まる。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "川は遠くへ行こうと急がない。曲がるたびに深くなる。",
+    "category": "insight",
+    "tone_tags": [
       "calm"
     ]
   },
   {
-    "id": "quo_056",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_056]",
+    "id": "quo_050",
+    "text": "今日書いた一日は明日の魅力になる。一日は書き直せない。",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "石の上にも三年 — 何事も辛抱すれば必ず実を結ぶ。",
     "category": "proverb",
     "tone_tags": [
-      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "七転び八起き — 何度倒れても起き上がれば勝ち。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "猿も木から落ちる — 名人にも失敗はある。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "井の中の蛙大海を知らず — 狭い世界での自慢は浅い。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "出る杭は打たれる — 目立つ者には試練が来る。それでも出る価値はある。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "口は禍の元 — 言葉一杯に人生が変わる。",
+    "category": "proverb",
+    "tone_tags": [
       "hope"
     ]
   },
   {
     "id": "quo_057",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_057]",
+    "text": "花は桜木人は武士 — 咲くときに満開に生きるのが本望。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_058",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_058]",
+    "text": "頭隠して尻隠さず — ごまかしは必ず見える。",
     "category": "proverb",
     "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_059",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_059]",
-    "category": "proverb",
-    "tone_tags": [
-      "hope",
       "comic"
     ]
   },
   {
-    "id": "quo_060",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_060]",
+    "id": "quo_059",
+    "text": "千里の道も一歩から — 大きな旅も小さな一歩から始まる。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "負うた子に教えられて浅瀬を渡る — 年寄りの冷や水、現場の知恵に学べ。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_061",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_061]",
+    "text": "情けは人の為ならず — 与えた優しさは巡って戻る。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_062",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_062]",
+    "text": "急がば回れ — 危険な近道より安全な遠回り。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_063",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_063]",
+    "text": "能ある鷹は爪を隠す — 実力者は静かに構える。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "passion"
     ]
   },
   {
     "id": "quo_064",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_064]",
+    "text": "頂上を目指す者は麓から始める — 大きな目標は足元から。",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "mystery"
     ]
   },
   {
     "id": "quo_065",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_065]",
+    "text": "善は急げ — 好事はためらう間に過ぎる。",
     "category": "proverb",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "comic"
     ]
   },
   {
     "id": "quo_066",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_066]",
+    "text": "一笑に付す — 笑いは最良の 解決策だ。",
     "category": "proverb",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_067",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_067]",
+    "text": "自業自得 — 播いた種は自分で刈り取る。",
     "category": "proverb",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_068",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_068]",
+    "text": "時は金なり — 時間は使うほど戻ってこない財産だ。",
     "category": "proverb",
     "tone_tags": [
-      "horror",
-      "hope"
+      "conflict"
     ]
   },
   {
     "id": "quo_069",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_069]",
+    "text": "二兎を追う者は一兎をも得ず — 欲張ると両方失う。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_070",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_070]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_071",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_071]",
+    "id": "quo_070",
+    "text": "弘法にも筆の誤り — 名人でも一度は間違える。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "明日のことは明日の風が吹く — 案ずるより産むが易し。",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_072",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_072]",
+    "text": "鉄は熱いうちに打て — 好機は熱いうちに掴め。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_073",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_073]",
+    "text": "備えあれば憂いなし — 準備は心の保険だ。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "passion"
     ]
   },
   {
     "id": "quo_074",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_074]",
+    "text": "取らぬ狸の皮算用 — 実績のない先走った計算は空しい。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_075",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_075]",
+    "text": "旅は道連れ — 同行者があれば旅も心安らかだ。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_076",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_076]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_077",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_077]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_078",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_078]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_079",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_079]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_080",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_080]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
       "hope"
     ]
   },
   {
-    "id": "quo_081",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_081]",
+    "id": "quo_076",
+    "text": "青少年、青春の白書 — 若さは失敗の許可証ではないが実験の場だ。",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_082",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_082]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_083",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_083]",
+    "id": "quo_077",
+    "text": "言わぬが花 — 言わずに秘めてこそ美しいこともある。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "腹八分に医者いらず — 適度が一番の健康法。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "好きこそ物の上手なれ — 好きなことは上達が早い。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "光陰矢の如し — 時間は矢のように過ぎる。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "一事が万事 — 小さな粗雑さは大きな粗雑さを予告する。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "ただより高いものはない — 無料には見えない代価がある。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "過ぎたるは及ばざるが如し — 行き過ぎも不足と同じ。",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_084",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_084]",
+    "text": "泰山の安きを保つ — どっしりした原則を持つ者の強さ。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_085",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_085]",
-    "category": "proverb",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_086",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_086]",
-    "category": "proverb",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_087",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_087]",
+    "id": "quo_085",
+    "text": "嘘も方便 — 優しさのための言葉選びもある。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_088",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_088]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_089",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_089]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_090",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_090]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_091",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_091]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_092",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_092]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_093",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_093]",
-    "category": "proverb",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_094",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_094]",
+    "id": "quo_086",
+    "text": "短気は損気 — 怒りは自分の損になる。",
     "category": "proverb",
     "tone_tags": [
-      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "豚に真珠 — 価値を分からぬ者に与えても無駄だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "読書の秋、スポーツの秋 — 季節ごとに実践の機会が来る。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "現場は宝山 — 現場にこそ答えがある。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "初心忘れるべからず — 初めての日々を忘れるな。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "一石二鳥 — 一つの行動で二つの成果を。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "十人十色 — 人は十人いれば十通りの色がある。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "笑う門には福来る — 笑っている家には福が訪れる。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "『後悔先に立たず』— 後悔する前に行動せよ。",
+    "category": "proverb",
+    "tone_tags": [
       "mystery"
     ]
   },
   {
     "id": "quo_095",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_095]",
+    "text": "艱難汝を玉にす — 苦難は人を宝石に磨く。",
     "category": "proverb",
     "tone_tags": [
-      "hope",
-      "comic"
+      "passion"
     ]
   },
   {
     "id": "quo_096",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_096]",
+    "text": "魚心あれば水心 — 相手の心に応えるのが信頼だ。",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_097",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_097]",
+    "text": "弱肉強食 — 強い者が生き残るのではなく、適応した者が生き残る。",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "hope"
     ]
   },
   {
     "id": "quo_098",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_098]",
+    "text": "『柔よく剛を制す』— 柔らかさは硬さに勝つ。",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_099",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_099]",
+    "text": "油断大敵 — 油断こそ最大の敵だ。",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "conflict"
     ]
   },
   {
     "id": "quo_100",
-    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_100]",
+    "text": "煙のない火はない — 噂の裏には何か火種がある。",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "hope"
     ]
   }
 ]

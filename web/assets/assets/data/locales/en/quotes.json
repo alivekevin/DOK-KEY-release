@@ -1,902 +1,809 @@
 [
   {
     "id": "quo_001",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_001]",
-    "category": "zen",
+    "text": "Water takes the shape of its vessel, yet a heart must keep its own shape even when shaken.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_002",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_002]",
-    "category": "zen",
+    "text": "The moment you call the road long, your steps have already half stopped.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "calm"
     ]
   },
   {
     "id": "quo_003",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_003]",
-    "category": "zen",
+    "text": "The mountain is never afraid of its height. Only those who climb know the summit.",
+    "category": "insight",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_004",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_004]",
-    "category": "zen",
+    "text": "A deep well is silent. Only shallow knowledge makes noise.",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_005",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_005]",
-    "category": "zen",
+    "text": "Morning dew does not stay long. That is why it shines so brightly.",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "hope"
     ]
   },
   {
     "id": "quo_006",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_006]",
-    "category": "zen",
+    "text": "A tree does not cling to withered leaves; it clears room for new ones.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "farewell",
+      "calm"
     ]
   },
   {
     "id": "quo_007",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_007]",
-    "category": "zen",
+    "text": "The rock cannot defeat water. What flows is stronger than what hardens.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_008",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_008]",
-    "category": "zen",
+    "text": "A lamp never knows its own shadow deepens the more it lights others.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "mystery"
     ]
   },
   {
     "id": "quo_009",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_009]",
-    "category": "zen",
+    "text": "Grain bows lower as it ripens. People, too, grow lower as they mature.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "passion"
     ]
   },
   {
     "id": "quo_010",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_010]",
-    "category": "zen",
+    "text": "Hasty water is shallow. A deep river flows without a sound.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_011]",
-    "category": "zen",
+    "text": "Even when a stone strikes it, flowing water answers with new water. Reply through flow.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "calm",
+      "conflict"
     ]
   },
   {
     "id": "quo_012",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_012]",
-    "category": "zen",
+    "text": "A bow is better taut, but a person must also know how to loosen.",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_013",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_013]",
-    "category": "zen",
+    "text": "Rather than cursing the dark, light one small candle.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_014",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_014]",
-    "category": "zen",
+    "text": "A thief steals from your house; time steals your life. Cherish today.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "hope"
     ]
   },
   {
     "id": "quo_015",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_015]",
-    "category": "zen",
+    "text": "A bell rings only when struck first. A heart opens only when knocked.",
+    "category": "insight",
     "tone_tags": [
-      "passion",
       "meeting"
     ]
   },
   {
     "id": "quo_016",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_016]",
-    "category": "zen",
+    "text": "A brimming vessel spills. Only an empty one receives what is new.",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_017",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_017]",
-    "category": "zen",
+    "text": "A forest is not one tree. Together, they block the wind.",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "meeting"
     ]
   },
   {
     "id": "quo_018",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_018]",
-    "category": "zen",
+    "text": "Water hidden in a valley reaches the sea first. The low road is fast.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
     ]
   },
   {
     "id": "quo_019",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_019]",
-    "category": "zen",
+    "text": "A hawk is a hawk even when flying low. Silence does not mean smallness.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
     "id": "quo_020",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_020]",
-    "category": "zen",
+    "text": "Roots are invisible, yet they are the whole of the tree. Skill grows underground.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "hope"
     ]
   },
   {
     "id": "quo_021",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_021]",
-    "category": "zen",
+    "text": "To see a rainbow you must endure the rain. The order cannot be skipped.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
     "id": "quo_022",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_022]",
-    "category": "zen",
+    "text": "A mirror breaks in anger, but the mirror of the heart you must polish yourself.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_023",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_023]",
-    "category": "zen",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_024",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_024]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_025",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_025]",
-    "category": "zen",
+    "text": "Sand clutched tightly runs through your fingers. Holding on begins with looseness.",
+    "category": "insight",
     "tone_tags": [
       "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_026",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_026]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_027",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_027]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_028",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_028]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_029",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_029]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_030",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_030]",
-    "category": "zen",
+    "id": "quo_024",
+    "text": "If you lost your way a hundred times, you also found it a hundred times.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "Many candles split the dark without quarreling. Light stays together.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "A scale speaks truth only when both sides are level.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "The sea holds fish because it lies low. The lower you are, the more you hold.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "The rooster wakes the morning, but the morning belongs to no one. Starting is your own share.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "Tap even a stepping stone twice before crossing. Safety comes from tapping.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "Melted spring snow makes the summer river. A small flow changes a season.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_031",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_031]",
-    "category": "zen",
+    "text": "A quiet night puts the day in order. Rest is part of the work.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_032",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_032]",
-    "category": "zen",
+    "text": "An arrow flies farther the farther it is drawn back. Retreat is a leap in preparation.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "passion"
     ]
   },
   {
     "id": "quo_033",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_033]",
-    "category": "zen",
+    "text": "Ice does not announce how cold it was; it melts and simply flows.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "calm"
     ]
   },
   {
     "id": "quo_034",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_034]",
-    "category": "zen",
+    "text": "A flower may bloom because the silence of its roots allowed it.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_035",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_035]",
-    "category": "zen",
+    "text": "The moon and the dew both return the day. Today is borrowed.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "farewell"
     ]
   },
   {
     "id": "quo_036",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_036]",
-    "category": "zen",
+    "text": "A hundred words say less than one step that smells of earth.",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_037",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_037]",
-    "category": "zen",
-    "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_038",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_038]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_039",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_039]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_040",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_040]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_041",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_041]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_042",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_042]",
-    "category": "zen",
+    "id": "quo_037",
+    "text": "Water in a sealed jar rots. A heart must flow to stay alive.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_043",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_043]",
-    "category": "zen",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_044",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_044]",
-    "category": "zen",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_045",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_045]",
-    "category": "zen",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_046",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_046]",
-    "category": "zen",
-    "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
-    "id": "quo_047",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_047]",
-    "category": "zen",
+    "id": "quo_038",
+    "text": "The seagull does not prophesy the storm. Wings are forged in storms.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_048",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_048]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_049",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_049]",
-    "category": "zen",
+    "id": "quo_039",
+    "text": "Even a small spring snow, once melted, moves the season.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
-    "id": "quo_050",
-    "text": "Inner peace is found in the quiet depth of your heart. [quo_050]",
-    "category": "zen",
+    "id": "quo_040",
+    "text": "Things can be set down, but the mind rarely does. Lay down the mind's load first.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_051",
-    "text": "A journey of a thousand miles begins with a single step. [quo_051]",
-    "category": "proverb",
-    "tone_tags": [
-      "meeting",
       "farewell"
     ]
   },
   {
-    "id": "quo_052",
-    "text": "A journey of a thousand miles begins with a single step. [quo_052]",
-    "category": "proverb",
+    "id": "quo_041",
+    "text": "A great tree grows deep roots only after weathering storms.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
-    "id": "quo_053",
-    "text": "A journey of a thousand miles begins with a single step. [quo_053]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_054",
-    "text": "A journey of a thousand miles begins with a single step. [quo_054]",
-    "category": "proverb",
+    "id": "quo_042",
+    "text": "A snake must shed its skin to grow. Clinging to the old self is not growth.",
+    "category": "insight",
     "tone_tags": [
       "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
-    "id": "quo_055",
-    "text": "A journey of a thousand miles begins with a single step. [quo_055]",
-    "category": "proverb",
+    "id": "quo_043",
+    "text": "A climber watches the next foothold, not the summit.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "A bird does not fall when the branch breaks. Trust the wings, not the branch.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "Barley must endure winter to become bread.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "You cannot clap with one hand. Relationships are each other's sound.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "The long night hides the morning inside. Night is not the end, but the waiting room.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "A seed loses its shape underground. Change begins with letting go.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "A river does not rush to arrive far. It deepens at every turn.",
+    "category": "insight",
+    "tone_tags": [
       "calm"
     ]
   },
   {
-    "id": "quo_056",
-    "text": "A journey of a thousand miles begins with a single step. [quo_056]",
+    "id": "quo_050",
+    "text": "The day you live today becomes tomorrow's strength. A day cannot be rewritten.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "Actions speak louder than words — what you do outweighs what you say.",
     "category": "proverb",
     "tone_tags": [
-      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "A journey of a thousand miles begins with a single step — great things start small.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "The early bird catches the worm — preparation beats talent arriving late.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "Don't count your chickens before they hatch — outcomes belong to the finished.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "When the going gets tough, the tough get going — pressure reveals character.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "Every cloud has a silver lining — hardship hides a gift inside.",
+    "category": "proverb",
+    "tone_tags": [
       "hope"
     ]
   },
   {
     "id": "quo_057",
-    "text": "A journey of a thousand miles begins with a single step. [quo_057]",
+    "text": "Practice makes perfect — repetition is the mother of skill.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_058",
-    "text": "A journey of a thousand miles begins with a single step. [quo_058]",
+    "text": "Better late than never — a late start still beats standing still.",
     "category": "proverb",
     "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_059",
-    "text": "A journey of a thousand miles begins with a single step. [quo_059]",
-    "category": "proverb",
-    "tone_tags": [
-      "hope",
       "comic"
     ]
   },
   {
-    "id": "quo_060",
-    "text": "A journey of a thousand miles begins with a single step. [quo_060]",
+    "id": "quo_059",
+    "text": "Two heads are better than one — shared thinking multiplies answers.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "Rome wasn't built in a day — great things take time to stand.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_061",
-    "text": "A journey of a thousand miles begins with a single step. [quo_061]",
+    "text": "Where there's a will, there's a way — resolve carves the path.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_062",
-    "text": "A journey of a thousand miles begins with a single step. [quo_062]",
+    "text": "Look before you leap — a second of checking saves a week of regret.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_063",
-    "text": "A journey of a thousand miles begins with a single step. [quo_063]",
+    "text": "The grass is always greener on the other side — envy distorts distance.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "passion"
     ]
   },
   {
     "id": "quo_064",
-    "text": "A journey of a thousand miles begins with a single step. [quo_064]",
+    "text": "Make hay while the sun shines — opportunity has opening hours.",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "mystery"
     ]
   },
   {
     "id": "quo_065",
-    "text": "A journey of a thousand miles begins with a single step. [quo_065]",
+    "text": "Don't put all your eggs in one basket — spread what you cannot afford to lose.",
     "category": "proverb",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "comic"
     ]
   },
   {
     "id": "quo_066",
-    "text": "A journey of a thousand miles begins with a single step. [quo_066]",
+    "text": "A bird in the hand is worth two in the bush — the sure thing holds value.",
     "category": "proverb",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_067",
-    "text": "A journey of a thousand miles begins with a single step. [quo_067]",
+    "text": "Strike while the iron is hot — timing turns effort into results.",
     "category": "proverb",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_068",
-    "text": "A journey of a thousand miles begins with a single step. [quo_068]",
+    "text": "You can't judge a book by its cover — depth lives under the surface.",
     "category": "proverb",
     "tone_tags": [
-      "horror",
-      "hope"
+      "conflict"
     ]
   },
   {
     "id": "quo_069",
-    "text": "A journey of a thousand miles begins with a single step. [quo_069]",
+    "text": "Haste makes waste — rushed work returns as rework.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_070",
-    "text": "A journey of a thousand miles begins with a single step. [quo_070]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_071",
-    "text": "A journey of a thousand miles begins with a single step. [quo_071]",
+    "id": "quo_070",
+    "text": "The apple doesn't fall far from the tree — origins echo onward.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "Slow and steady wins the race — consistency outlasts bursts.",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_072",
-    "text": "A journey of a thousand miles begins with a single step. [quo_072]",
+    "text": "Absence makes the heart grow fonder — distance tunes affection.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_073",
-    "text": "A journey of a thousand miles begins with a single step. [quo_073]",
+    "text": "Necessity is the mother of invention — being stuck births new doors.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "passion"
     ]
   },
   {
     "id": "quo_074",
-    "text": "A journey of a thousand miles begins with a single step. [quo_074]",
+    "text": "A chain is only as strong as its weakest link — strength is systemic.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_075",
-    "text": "A journey of a thousand miles begins with a single step. [quo_075]",
+    "text": "The squeaky wheel gets the grease — a voiced need gets answered.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_076",
-    "text": "A journey of a thousand miles begins with a single step. [quo_076]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_077",
-    "text": "A journey of a thousand miles begins with a single step. [quo_077]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_078",
-    "text": "A journey of a thousand miles begins with a single step. [quo_078]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_079",
-    "text": "A journey of a thousand miles begins with a single step. [quo_079]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_080",
-    "text": "A journey of a thousand miles begins with a single step. [quo_080]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
       "hope"
     ]
   },
   {
-    "id": "quo_081",
-    "text": "A journey of a thousand miles begins with a single step. [quo_081]",
+    "id": "quo_076",
+    "text": "Don't cry over spilled milk — what's gone is a lesson, not a loss.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_082",
-    "text": "A journey of a thousand miles begins with a single step. [quo_082]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_083",
-    "text": "A journey of a thousand miles begins with a single step. [quo_083]",
+    "id": "quo_077",
+    "text": "All that glitters is not gold — shine is not the same as worth.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "Fortune favors the bold — hesitation taxes the brave.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "An ounce of prevention is worth a pound of cure — early care saves late pain.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "Every dog has its day — everyone's season comes around.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "If it ain't broke, don't fix it — respect what already works.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "You reap what you sow — the harvest remembers the seed.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "There's no such thing as a free lunch — everything costs something.",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_084",
-    "text": "A journey of a thousand miles begins with a single step. [quo_084]",
+    "text": "It takes two to tango — conflict and dance both need two.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_085",
-    "text": "A journey of a thousand miles begins with a single step. [quo_085]",
-    "category": "proverb",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_086",
-    "text": "A journey of a thousand miles begins with a single step. [quo_086]",
-    "category": "proverb",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_087",
-    "text": "A journey of a thousand miles begins with a single step. [quo_087]",
+    "id": "quo_085",
+    "text": "When in Rome, do as the Romans do — adapt to flourish.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_088",
-    "text": "A journey of a thousand miles begins with a single step. [quo_088]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_089",
-    "text": "A journey of a thousand miles begins with a single step. [quo_089]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_090",
-    "text": "A journey of a thousand miles begins with a single step. [quo_090]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_091",
-    "text": "A journey of a thousand miles begins with a single step. [quo_091]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_092",
-    "text": "A journey of a thousand miles begins with a single step. [quo_092]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_093",
-    "text": "A journey of a thousand miles begins with a single step. [quo_093]",
-    "category": "proverb",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_094",
-    "text": "A journey of a thousand miles begins with a single step. [quo_094]",
+    "id": "quo_086",
+    "text": "The pen is mightier than the sword — written ideas outlive battles.",
     "category": "proverb",
     "tone_tags": [
-      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "Still waters run deep — the quiet ones carry the most.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "Blood is thicker than water — family ties run first and deep.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "Curiosity killed the cat, but satisfaction brought it back — asking is worth it.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "A watched pot never boils — waiting slows down the watchful.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "The best time to plant a tree was twenty years ago; the second best is now — start anyway.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "What doesn't kill you makes you stronger — surviving is training.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "Many hands make light work — burdens divide when shared.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "Out of sight, out of mind — presence is a kind of effort.",
+    "category": "proverb",
+    "tone_tags": [
       "mystery"
     ]
   },
   {
     "id": "quo_095",
-    "text": "A journey of a thousand miles begins with a single step. [quo_095]",
+    "text": "You can lead a horse to water, but you can't make it drink — change must be chosen.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
-      "comic"
+      "passion"
     ]
   },
   {
     "id": "quo_096",
-    "text": "A journey of a thousand miles begins with a single step. [quo_096]",
+    "text": "Too many cooks spoil the broth — too many chiefs, no order.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_097",
-    "text": "A journey of a thousand miles begins with a single step. [quo_097]",
+    "text": "A picture is worth a thousand words — showing beats telling.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "hope"
     ]
   },
   {
     "id": "quo_098",
-    "text": "A journey of a thousand miles begins with a single step. [quo_098]",
+    "text": "Good things come to those who wait — patience is a collector.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_099",
-    "text": "A journey of a thousand miles begins with a single step. [quo_099]",
+    "text": "If at first you don't succeed, try, try again — failure is a draft.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "conflict"
     ]
   },
   {
     "id": "quo_100",
-    "text": "A journey of a thousand miles begins with a single step. [quo_100]",
+    "text": "Time heals all wounds — the clock is also a medicine.",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "hope"
     ]
   }
 ]

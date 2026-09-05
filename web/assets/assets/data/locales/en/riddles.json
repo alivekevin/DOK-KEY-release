@@ -1,902 +1,902 @@
 [
   {
-    "id": "rid_001",
-    "difficulty": 1,
-    "category": "wit",
-    "question": "Riddle #01: 물에 떠도 가라앉지 않고, 사람을 태우고 바다를 건너는 것은?",
+    "question": "What floats on water, carries people across the sea, and never sinks?",
     "options": [
-      "배(Ship) (Correct)",
-      "그물",
-      "돌",
-      "풍선"
+      "Boat",
+      "Stone",
+      "Net",
+      "Balloon"
     ],
     "answer_index": 0,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_002",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #02: 낮에는 나를 따라다니고, 밤에는 사라지는 그림자 같은 친구는?",
-    "options": [
-      "그림자 (Correct)",
-      "바람",
-      "발자국",
-      "메아리"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! The one who sails the boat becomes master of the sea!",
+      "wrong": "Nope! A boat belongs on the waves, friend!"
+    },
+    "id": "rid_001"
   },
   {
-    "id": "rid_003",
-    "difficulty": 1,
-    "category": "wordplay",
-    "question": "Riddle #03: 세상에서 가장 빠른 닭은 무엇일까?",
+    "question": "What burns itself to brighten the darkest corner?",
     "options": [
-      "후다닥 (Correct)",
-      "토종닭",
-      "통닭",
-      "오골계"
+      "Mirror",
+      "Glass",
+      "Jar",
+      "Candle"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_004",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #04: 눈으로는 볼 수 없지만 소리로 들리고, 손으로는 잡을 수 없지만 피부로 느껴지는 것은?",
-    "options": [
-      "바람 (Correct)",
-      "안개",
-      "햇빛",
-      "구름"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_005",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #05: 왕이 넘어지면 무엇이 될까?",
-    "options": [
-      "킹콩 (Correct)",
-      "여왕",
-      "세자",
-      "신하"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_006",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #06: 가면 갈수록 점점 더 좁아지고, 끝에 도달하면 되돌아서야 하는 길은?",
-    "options": [
-      "골목길 (Correct)",
-      "미로",
-      "터널",
-      "고속도로"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_007",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #07: 하늘에서 내려올 때는 하얗고 차가우나, 땅에 닿아 봄을 맞이하면 물이 되는 것은?",
-    "options": [
-      "눈(Snow) (Correct)",
-      "우박",
-      "서리",
-      "이슬"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_008",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #08: 남에게 주면 줄수록 내 마음은 더욱 풍요로워지고 결코 줄어들지 않는 것은?",
-    "options": [
-      "사랑/자비 (Correct)",
-      "금화",
-      "비단",
-      "양식"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_009",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #09: 바나나가 웃으면 무엇이라고 부를까?",
-    "options": [
-      "바나나킥 (Correct)",
-      "바나나칩",
-      "바나나우유",
-      "바나나빵"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_010",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #10: 밤하늘에 은구슬처럼 떠올라 밤길을 밝혀주고 보름마다 둥글게 차오르는 것은?",
-    "options": [
-      "달(Moon) (Correct)",
-      "북극성",
-      "샛별",
-      "은하수"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_011",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #11: 한 번 잃어버리면 금이나 은으로도 결코 다시 살 수 없는 가장 소중한 보물은?",
-    "options": [
-      "시간(Time) (Correct)",
-      "보석",
-      "명예",
-      "지위"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_012",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #12: 소가 도시에 살면 무엇이라고 부를까?",
-    "options": [
-      "시티소(소시티) (Correct)",
-      "도시소",
-      "서울소",
-      "한우"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_013",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #13: 뿌리는 땅속 깊이 박혀 있고 가지는 하늘을 향하며 사계절 내내 푸른 절개를 지키는 것은?",
-    "options": [
-      "소나무 (Correct)",
-      "대나무",
-      "단풍나무",
-      "버드나무"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_014",
-    "difficulty": 3,
-    "category": "wit",
-    "question": "Riddle #14: 열쇠 구멍은 있지만 문은 없고, 건반은 있지만 음악은 나오지 않는 현대의 신물(神物)은?",
-    "options": [
-      "컴퓨터 자판(Keyboard) (Correct)",
-      "피아노",
-      "오르간",
-      "자물쇠"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_015",
-    "difficulty": 3,
-    "category": "dokkaebi",
-    "question": "Riddle #15: 도깨비가 밤마다 뚝딱 두드려 온갖 금은보화와 쌀을 쏟아내는 신비한 도구는?",
-    "options": [
-      "도깨비 방망이 (Correct)",
-      "도깨비 감투",
-      "요술 부채",
-      "보물 호리병"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_016",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #16: 낮에는 붉은 빛으로 세상을 비추고 밤에는 서산 너머로 쉬러 가는 것은?",
+    "kkaebi_reaction": {
+      "correct": "Correct! The candle gives its own light for others — noble sacrifice!",
+      "wrong": "Nope! What light gives itself away to shine?"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "What follows you only in sunlight, yet can never be caught?",
     "options": [
-      "태양 (Correct)",
-      "달",
-      "등대",
-      "가로등"
+      "Shadow",
+      "Smoke",
+      "Sunset",
+      "Wind"
     ],
     "answer_index": 0,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_017",
-    "difficulty": 1,
-    "category": "wit",
-    "question": "Riddle #17: 머리에 뿔이 있고 두 발로 서며, 장난을 좋아하지만 착한 사람을 돕는 전통 요정은?",
-    "options": [
-      "도깨비 (Correct)",
-      "구미호",
-      "해태",
-      "용"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_018",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #18: 차(Car) 문을 세게 닫으면 안 되는 이유는?",
-    "options": [
-      "카문(문)이 닫혀서 (Correct)",
-      "차가 아파서",
-      "경찰이 와서",
-      "기름이 새서"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_019",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #19: 비가 온 뒤 하늘에 걸리는 일곱 빛깔의 다리는?",
-    "options": [
-      "무지개 (Correct)",
-      "은하수",
-      "오작교",
-      "구름다리"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_020",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #20: 몸은 쇠로 되어 있고 머리는 뾰족하여, 두드릴수록 깊숙이 들어가는 것은?",
-    "options": [
-      "못 (Correct)",
-      "바늘",
-      "화살",
-      "칼"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_021",
-    "difficulty": 2,
-    "category": "wisdom",
-    "question": "Riddle #21: 지혜로운 자는 물처럼 흐르고, 어진 자는 무엇처럼 묵직하게 머무는가?",
-    "options": [
-      "산(Mountain) (Correct)",
-      "바람",
-      "구름",
-      "불꽃"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_022",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #22: 오리가 얼면 무엇이 될까?",
-    "options": [
-      "언덕(Duck) (Correct)",
-      "빙오리",
-      "오리얼음",
-      "냉동오리"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_023",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #23: 봄에는 꽃을 피우고 가을에는 달콤한 열매를 맺으며 사람에게 그늘을 주는 것은?",
-    "options": [
-      "나무 (Correct)",
-      "풀",
-      "바위",
-      "연못"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! Your shadow stays beside you as long as you face the light!",
+      "wrong": "Nope! It clings to your heels beneath the light!"
+    },
+    "id": "rid_003"
   },
   {
-    "id": "rid_024",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #24: 모든 강과 바다가 가장 낮은 곳으로 흘러가 이루어지듯, 사람을 크게 만드는 미덕은?",
+    "question": "What guards your feet from falling rain, folding when not needed?",
     "options": [
-      "겸손 (Correct)",
-      "욕심",
-      "고집",
-      "자만"
+      "Umbrella net",
+      "Rain boots",
+      "Tarp",
+      "Awning"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_025",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #25: 가장 어두운 곳에서 스스로를 태워 주위를 환하게 밝혀주는 것은?",
-    "options": [
-      "촛불 (Correct)",
-      "거울",
-      "유리창",
-      "항아리"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_026",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #26: 신사가 자기소개를 할 때 하는 말은?",
-    "options": [
-      "신사임당 (Correct)",
-      "신사입니다",
-      "신사숙녀",
-      "신사동"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_027",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #27: 바다에서는 헤엄치고 하늘에서는 날 수 없으나, 물속에서 가장 자유로운 생물은?",
-    "options": [
-      "물고기 (Correct)",
-      "개구리",
-      "거북이",
-      "물개"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_028",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #28: 마음속에 품은 씨앗 하나가 자라나 인생의 숲을 이룬다. 이 씨앗의 이름은?",
-    "options": [
-      "생각/마음가짐 (Correct)",
-      "재물",
-      "의복",
-      "음식"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_029",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #29: 입은 하나인데 수많은 사람의 말을 전달하고, 귀는 없는데 온갖 소리를 다 전하는 것은?",
-    "options": [
-      "전화기 (Correct)",
-      "라디오",
-      "텔레비전",
-      "마이크"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_030",
-    "difficulty": 2,
-    "category": "dokkaebi",
-    "question": "Riddle #30: 도깨비가 가장 좋아하는 음식이자, 잔치 때마다 빚어 먹는 쫀득한 별미는?",
-    "options": [
-      "메밀묵 (Correct)",
-      "도토리묵",
-      "인절미",
-      "시루떡"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_031",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #31: 봄에 씨앗을 뿌려 가을에 노랗게 익어 온 백성의 양식이 되는 황금빛 곡식은?",
-    "options": [
-      "벼(쌀) (Correct)",
-      "보리",
-      "옥수수",
-      "밀"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! Rain boots hold the line where water attacks!",
+      "wrong": "Nope! It's worn on your feet in the rain!"
+    },
+    "id": "rid_004"
   },
   {
-    "id": "rid_032",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #32: 호랑이가 타고 다니는 오토바이는?",
+    "question": "What is a silver plate in the night sky that changes shape every evening?",
     "options": [
-      "타이거(타 이거) (Correct)",
-      "사자바이크",
-      "호호바이크",
-      "표범카"
+      "Star",
+      "Moon",
+      "Comet",
+      "Sun"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_033",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #33: 몸에 수많은 바늘을 달고 있어 사자나 표범도 함부로 덤비지 못하는 동물은?",
-    "options": [
-      "고슴도치 (Correct)",
-      "두더지",
-      "다람쥐",
-      "너구리"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_034",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #34: 남의 허물을 덮어주고 스스로의 허물을 살피는 거울의 이름은?",
-    "options": [
-      "반성/성찰 (Correct)",
-      "요술거울",
-      "청동거울",
-      "돋보기"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_035",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #35: 물고기 중에서 가장 공부를 열심히 하는 물고기는?",
-    "options": [
-      "고등어 (Correct)",
-      "명태",
-      "참치",
-      "갈치"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_036",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #36: 밤에는 활짝 피어 은은한 향기를 풍기고 아침 햇살이 비추면 꽃잎을 닫는 꽃은?",
-    "options": [
-      "달맞이꽃 (Correct)",
-      "해바라기",
-      "나팔꽃",
-      "장미"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_037",
-    "difficulty": 3,
-    "category": "wit",
-    "question": "Riddle #37: 가장 단단한 쇠도 녹이고, 가장 차가운 얼음도 순식간에 물로 바꾸는 힘은?",
-    "options": [
-      "열정/불꽃 (Correct)",
-      "칼날",
-      "바위",
-      "망치"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_038",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #38: 비가 올 때 먹으면 가장 기분 좋은 빵은?",
-    "options": [
-      "우산빵(비빵) (Correct)",
-      "식빵",
-      "단팥빵",
-      "크림빵"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_039",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #39: 온 산을 붉고 노랗게 물들이며 가을의 절경을 완성하는 나뭇잎은?",
-    "options": [
-      "단풍잎 (Correct)",
-      "솔잎",
-      "연잎",
-      "은행잎"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! The moon keeps watch over every night with a new face!",
+      "wrong": "Nope! The silver dish that waxes and wanes!"
+    },
+    "id": "rid_005"
   },
   {
-    "id": "rid_040",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #40: 천 걸음 만 걸음을 걸어도 제자리에 머물지 않고 끝내 목적지에 닿게 하는 것은?",
+    "question": "What rises to the sky on the wind, yet never lets go of its string?",
     "options": [
-      "꾸준함(끈기) (Correct)",
-      "신발",
-      "지팡이",
-      "지도"
+      "Bird",
+      "Kite",
+      "Balloon",
+      "Plane"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_041",
-    "difficulty": 2,
-    "category": "wit",
-    "question": "Riddle #41: 주머니 속에 넣으면 가벼워지고, 밖으로 꺼내어 쓰면 무거워지는 것은?",
-    "options": [
-      "비밀/약속 (Correct)",
-      "돌멩이",
-      "손수건",
-      "동전"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_042",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #42: 자동차가 울면 무엇이 될까?",
-    "options": [
-      "잉카(Car) (Correct)",
-      "붕붕이",
-      "카센터",
-      "트럭"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_043",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "Riddle #43: 겨울잠에서 깨어나 봄비가 내리면 개굴개굴 노래를 부르는 동물은?",
-    "options": [
-      "개구리 (Correct)",
-      "뱀",
-      "곰",
-      "다람쥐"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_044",
-    "difficulty": 3,
-    "category": "wisdom",
-    "question": "Riddle #44: 마음이 어지러울 때 침묵을 지키고 내면을 비추면 찾아오는 고요함은?",
-    "options": [
-      "평온(Zen) (Correct)",
-      "소음",
-      "혼란",
-      "분노"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_045",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #45: 호박이 넝쿨째 굴러들어 오면 무엇을 외쳐야 할까?",
-    "options": [
-      "대박 (Correct)",
-      "중박",
-      "소박",
-      "호박죽"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_046",
     "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #46: 하늘 높이 날아올라 날카로운 눈으로 먹이를 찾고 용맹의 상징이 되는 새는?",
-    "options": [
-      "독수리 (Correct)",
-      "참새",
-      "비둘기",
-      "까치"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! A kite climbs higher because of its string — bonds do that!",
+      "wrong": "Nope! Held by a string, it owns the sky!"
+    },
+    "id": "rid_006"
   },
   {
-    "id": "rid_047",
-    "difficulty": 3,
-    "category": "wit",
-    "question": "Riddle #47: 비울수록 더 많은 것을 담을 수 있고, 가득 차면 더 이상 담을 수 없는 그릇은?",
+    "question": "What is pressed silently, yet leaves your name behind?",
     "options": [
-      "마음의 그릇 (Correct)",
-      "밥공기",
-      "물통",
-      "가방"
+      "Postage stamp",
+      "Fist",
+      "Stamp seal",
+      "Palm"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_048",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "Riddle #48: 세상에서 가장 슬픈 나무는?",
-    "options": [
-      "유유자적(ㅠㅠ)나무 (Correct)",
-      "소나무",
-      "감나무",
-      "밤나무"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
-  },
-  {
-    "id": "rid_049",
-    "difficulty": 2,
+    "difficulty": 1,
     "category": "nature",
-    "question": "Riddle #49: 어둠을 가르고 여명을 알리며 붉은 볏을 세우고 아침을 깨우는 십이지신 동물은?",
-    "options": [
-      "닭(Rooster) (Correct)",
-      "소",
-      "호랑이",
-      "토끼"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! One press of a seal turns a name into a hundred-word promise!",
+      "wrong": "Nope! Pressed once, it speaks your name!"
+    },
+    "id": "rid_007"
   },
   {
-    "id": "rid_050",
-    "difficulty": 3,
-    "category": "dokkaebi",
-    "question": "Riddle #50: 도깨비가 99개 황금 열쇠를 모은 용사에게 수여하는 최고의 영예는?",
+    "question": "What sings when the wind passes, guarding the gate from above?",
     "options": [
-      "도깨비 마스터(DOKKEY Master) (Correct)",
-      "보물사냥꾼",
-      "열쇠장인",
-      "골드캡틴"
+      "Flag",
+      "Bell",
+      "Morning glory",
+      "Wind chime"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The chime's ringing is the wind's signature at your gate!",
+      "wrong": "Nope! It rattles merrily above the door!"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "What white food made of rice takes the highest place on the New Year's table?",
+    "options": [
+      "Steamed rice",
+      "Fruit",
+      "Noodles",
+      "Rice cake"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Rice cake bridges the living and the ancestors!",
+      "wrong": "Nope! White and soft, offered at the holiday table!"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "What grows smaller as it erases other people's mistakes?",
+    "options": [
+      "Fan",
+      "Rain",
+      "Brush",
+      "Eraser"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The eraser shrinks itself to fix your errors — what a friend!",
+      "wrong": "Nope! It fades away fixing your wrongs!"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "What can no one ever catch, no matter how fast they run?",
+    "options": [
+      "Smoke",
+      "Time",
+      "Wind",
+      "Light"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Time is the fastest thief in the world!",
+      "wrong": "Nope! It steals everything between two blinks!"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "What shows you every face but can never see its own?",
+    "options": [
+      "Glasses",
+      "Photo",
+      "Window",
+      "Mirror"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The mirror shows all but itself!",
+      "wrong": "Nope! It knows your face, never its own!"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "What gets shorter as it is sharpened, yet leaves more words behind?",
+    "options": [
+      "Arrow",
+      "Pencil",
+      "Chopstick",
+      "Flagpole"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A pencil gives up its body to leave wisdom!",
+      "wrong": "Nope! Sharpened to write another day!"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "Which guardian of the woods sleeps by day and sees sharply by night?",
+    "options": [
+      "Deer",
+      "Owl",
+      "Rabbit",
+      "Squirrel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The owl is the wise night watchman of the forest!",
+      "wrong": "Nope! Bright eyes at midnight — the forest sage!"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "What grinds ink to make writing, sitting quietly on the scholar's desk?",
+    "options": [
+      "Bowl",
+      "Kettle",
+      "Inkstone",
+      "Jar"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The inkstone is the quiet bridge between ink and brush!",
+      "wrong": "Nope! It turns black ink into words!"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "What lights the way for ships in the middle of the sea?",
+    "options": [
+      "Lighthouse",
+      "Moon",
+      "Lightning",
+      "Star"
     ],
     "answer_index": 0,
     "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Kkaebi awards you a shining golden key! Fantastic wisdom!",
-      "wrong": "Not quite! Ponder with a calm mind and try Kkaebi's next riddle!"
-    }
+      "correct": "Correct! Even in fog, the lighthouse never loses your path!",
+      "wrong": "Nope! Alone, it shines over the night waves!"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "What is the goblin's favorite weapon that grants wishes with a swing?",
+    "options": [
+      "Club",
+      "Spear",
+      "Shield",
+      "Bow"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! One swing of the club and gold comes pouring out!",
+      "wrong": "Nope! What symbol of the goblin swings gold into being?"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "What is small enough for a pocket, yet strong enough to open doors?",
+    "options": [
+      "Key",
+      "Coin",
+      "Button",
+      "Ring"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The key is the smallest but strongest magic of all!",
+      "wrong": "Nope! Tiny wizard that opens any door!"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "What crawls without legs and sheds its skin as medicine?",
+    "options": [
+      "Boot",
+      "Lizard",
+      "Worm",
+      "Snake"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Every time a snake sheds its skin, it is born again!",
+      "wrong": "Nope! Legless, yet it crosses the world!"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "Which flower turns its head all day to follow the sun?",
+    "options": [
+      "Hibiscus",
+      "Cosmos",
+      "Sunflower",
+      "Magnolia"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The sunflower gazes at the sun from dawn to dusk!",
+      "wrong": "Nope! The stubborn flower that only sees the sun!"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "What treasure chest in the kitchen pours out cold air in summer?",
+    "options": [
+      "Jar",
+      "Hearth",
+      "Fridge",
+      "Ondol"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fridge is the kitchen's ice cave in summer!",
+      "wrong": "Nope! Open it and winter pours out!"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "What carries you over a river without floating, made of stone and earth?",
+    "options": [
+      "Dam",
+      "Boat",
+      "Well",
+      "Bridge"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A bridge crosses with unshakable trust!",
+      "wrong": "Nope! Solid ground standing over water!"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "What becomes its best self wrapped around your neck in winter?",
+    "options": [
+      "Socks",
+      "Gloves",
+      "Scarf",
+      "Hat"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The scarf is a fortress between winter and your neck!",
+      "wrong": "Nope! A winter friend worn around the neck!"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "What song closes your eyes when you hear it, sung by mother's voice?",
+    "options": [
+      "Chant",
+      "Lullaby",
+      "Ballad",
+      "Folk song"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lullaby is the gentlest magic in the world!",
+      "wrong": "Nope! The song that shutters your eyes!"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "What blue flame blinks alone in the mountains and loves to spook travelers?",
+    "options": [
+      "Will-o'-the-wisp",
+      "Meteor",
+      "Firefly",
+      "Torch"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! The goblin fire is my cousins playing at night!",
+      "wrong": "Nope! A blue light blinking alone in the hills!"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "What round grain is thrown at the gate to chase away bad luck on the first cold day?",
+    "options": [
+      "Rice",
+      "Sesame",
+      "Bean",
+      "Red bean"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Beans shout 'Bad luck, be gone!' and guard the gate!",
+      "wrong": "Nope! Scattered with a rattle to block the evil!"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "What long straw rope hangs on the gate to invite good fortune?",
+    "options": [
+      "Straw shoe",
+      "Mat",
+      "Rope",
+      "Lucky straw rope"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lucky rope is a basket that hangs to fill the house with fortune!",
+      "wrong": "Nope! Hung high so luck may enter!"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "Who stands unbowed even in a typhoon, thanks to deep roots — the general of the forest?",
+    "options": [
+      "Vine",
+      "Boulder",
+      "Grass",
+      "Tree"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Deep roots keep the tree standing through any storm!",
+      "wrong": "Nope! Its deep roots laugh at the wind!"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "What white grain is neither bitter nor sweet, yet every dish needs it?",
+    "options": [
+      "Pepper",
+      "Salt",
+      "Sugar",
+      "Vinegar"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Without salt, every flavor feels lonely!",
+      "wrong": "Nope! A pinch of it saves the whole dish!"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "Which star shows itself for just a moment before sunrise?",
+    "options": [
+      "Meteor",
+      "Polaris",
+      "Morning star",
+      "Big Dipper"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The morning star is the most diligent of all!",
+      "wrong": "Nope! It greets you only before dawn!"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "What line where sky meets earth can you never reach?",
+    "options": [
+      "Subway",
+      "Horizon",
+      "Border",
+      "Rope"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The horizon retreats the moment you approach!",
+      "wrong": "Nope! The closer you get, the farther it goes!"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "Who lives a hundred years yet grows new leaves every spring — the wise elder of the mountain?",
+    "options": [
+      "Grass",
+      "Old tree",
+      "Boulder",
+      "Pond"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The old tree holds new life even in old age!",
+      "wrong": "Nope! Ancient, yet green again each spring!"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "What plays the sun inside the house all winter long?",
+    "options": [
+      "Stove",
+      "Hand fan",
+      "Fan",
+      "Window"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The stove lets you survive snowy nights!",
+      "wrong": "Nope! A small sun beside your bed!"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "What low wall must you step over to become a guest?",
+    "options": [
+      "Handle",
+      "Fence",
+      "Threshold",
+      "Stairs"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The moment you cross the threshold, you are a guest!",
+      "wrong": "Nope! Cross it and you belong indoors!"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "What holds a belly full of ink and draws one long stroke?",
+    "options": [
+      "Brush",
+      "Ruler",
+      "Scissors",
+      "Stick"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The brush drinks ink and writes a hundred words!",
+      "wrong": "Nope! One press, and it becomes writing!"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "What stones step across a river hand in hand, forming a path?",
+    "options": [
+      "Bridge",
+      "Boat",
+      "Stairs",
+      "Stepping stones"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Stepping stones are rocks holding hands to make a road!",
+      "wrong": "Nope! Stones in a row across the water!"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "Who became smooth after ages in the stream — the quiet philosopher of the riverbank?",
+    "options": [
+      "Vine",
+      "Pebble",
+      "Twig",
+      "Glass"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The waterworn pebble carries ages in its smoothness!",
+      "wrong": "Nope! Washed smooth by a thousand years of water!"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "What is the smallest river of the mountain that becomes a great one?",
+    "options": [
+      "Pond",
+      "Well",
+      "Sea",
+      "Stream"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Even the smallest stream reaches the sea!",
+      "wrong": "Nope! It trickles now, but meets the ocean!"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "What friend on the roof tells you the house is alive by its smoke?",
+    "options": [
+      "Chime",
+      "Cherry",
+      "Flagpole",
+      "Chimney"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Smoke from the chimney means life inside!",
+      "wrong": "Nope! Puff, puff — a living house!"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "What falls in autumn yet becomes food for the tree in spring?",
+    "options": [
+      "Branch",
+      "Pollen",
+      "Fallen leaf",
+      "Fruit"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fallen leaf is a great sacrifice that saves the tree!",
+      "wrong": "Nope! Falling now, feeding spring!"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "What lights up the whole world yet leaves its own feet dark?",
+    "options": [
+      "Torch",
+      "Lamp",
+      "Star",
+      "Moon"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! 'The darkest place is under the candlestick'!",
+      "wrong": "Nope! Bright for all, dark beneath itself!"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "What spins round and round on the wind — a child's sky-riding friend?",
+    "options": [
+      "Pinwheel",
+      "Paper plane",
+      "Kite",
+      "Balloon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The pinwheel proves the wind is alive!",
+      "wrong": "Nope! Spin, spin, spinning on the breeze!"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "Which mythical beast guards the gate by devouring evil spirits?",
+    "options": [
+      "Deer",
+      "Tiger",
+      "Haetae",
+      "Rabbit"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Haetae bites injustice — the guardian beast of justice!",
+      "wrong": "Nope! The lion-like guardian at the gate!"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "What pattern of blue and red circling in harmony decorates flags and robes?",
+    "options": [
+      "Rainbow",
+      "Floral",
+      "Five colors",
+      "Taegeuk"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Taegeuk is the cosmic law of yin and yang in motion!",
+      "wrong": "Nope! Blue and red chasing each other forever!"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "What ribbon hangs long from a hanbok collar, completing its grace?",
+    "options": [
+      "Button",
+      "Goreum",
+      "Cord",
+      "Zipper"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The goreum is a long whisper of elegance!",
+      "wrong": "Nope! The long ribbon on a Korean dress!"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "What bamboo instrument sings with a breath of sadness?",
+    "options": [
+      "Gong",
+      "Daegeum flute",
+      "Janggu",
+      "Drum"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The daegeum lets bamboo sing of sorrow!",
+      "wrong": "Nope! One breath of wind, one sad note!"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "What grows louder the more it is struck — the wide-hearted heart of music?",
+    "options": [
+      "Trumpet",
+      "Bell",
+      "Drum",
+      "Flute"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The drum's beat is the heartbeat of the crowd!",
+      "wrong": "Nope! The more you strike, the louder it roars!"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "What great voice rings when struck and falls silent after — the temple's bell?",
+    "options": [
+      "Drum",
+      "Trumpet",
+      "Bell",
+      "Gong"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The bell's sound wakes the world like Buddha's voice!",
+      "wrong": "Nope! Strike once, and it hums forever!"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "Which mountain wears a different face in every season?",
+    "options": [
+      "Hallasan",
+      "Seoraksan",
+      "Jirisan",
+      "Geumgangsan"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! 'Geumgangsan after a meal!' — a mountain of four thousand faces!",
+      "wrong": "Nope! Four seasons, four faces — which mountain?"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "What highest title does the goblin grant the hero who gathers 99 golden keys?",
+    "options": [
+      "Key master",
+      "Goblin Master",
+      "Treasure hunter",
+      "Gold captain"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! It's you, Goblin Master! From today, you are my friend!",
+      "wrong": "Nope! Collect 99 keys and the title is yours!"
+    },
+    "id": "rid_050"
   }
 ]

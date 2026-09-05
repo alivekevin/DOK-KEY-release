@@ -1,902 +1,809 @@
 [
   {
     "id": "quo_001",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_001]",
-    "category": "zen",
+    "text": "पानी बर्तन का आकार लेता है, पर मन को हिलकर भी अपना मूल रूप नहीं भूलना चाहिए।",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_002",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_002]",
-    "category": "zen",
+    "text": "राह लंबी महसूस होते ही क़दम आधे रुक जाते हैं।",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "calm"
     ]
   },
   {
     "id": "quo_003",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_003]",
-    "category": "zen",
+    "text": "पहाड़ अपनी ऊँचाई से नहीं डरता। केवल चढ़ने वाले को शिखर पता है।",
+    "category": "insight",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_004",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_004]",
-    "category": "zen",
+    "text": "गहरा कुआँ निःशब्द होता है। उथला ज्ञान ही शोर करता है।",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_005",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_005]",
-    "category": "zen",
+    "text": "भोर की ओस देर नहीं टिकती। इसीलिए वह ज़्यादा चमकती है।",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "hope"
     ]
   },
   {
     "id": "quo_006",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_006]",
-    "category": "zen",
+    "text": "पेड़ मुरझाए पत्तों को नहीं थामता, नई पत्तियों के लिए जगह खाली करता है।",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "farewell",
+      "calm"
     ]
   },
   {
     "id": "quo_007",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_007]",
-    "category": "zen",
+    "text": "चट्टान पानी को हरा नहीं पाती। बहता पत्थर से बलवान है।",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_008",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_008]",
-    "category": "zen",
+    "text": "दीया दूसरों को जितना रोशन करता है, अपनी छाया को गहरा होता देख नहीं पाता।",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "mystery"
     ]
   },
   {
     "id": "quo_009",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_009]",
-    "category": "zen",
+    "text": "अनाज पकने पर झुकता जाता है। इंसान भी पकने पर झुकता है।",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "passion"
     ]
   },
   {
     "id": "quo_010",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_010]",
-    "category": "zen",
+    "text": "जल्दी बहता पानी गहरा नहीं होता। गहरी नदी बिन आवाज़ बहती है।",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_011]",
-    "category": "zen",
+    "text": "बहता पानी पत्थर लगने पर नए पानी से उत्तर देता है। उत्तर प्रवाह में है।",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "calm",
+      "conflict"
     ]
   },
   {
     "id": "quo_012",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_012]",
-    "category": "zen",
+    "text": "धनुष तना अच्छा लगता है, पर इंसान को ढील देना भी आना चाहिए।",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_013",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_013]",
-    "category": "zen",
+    "text": "अंधेरे को कोसने के बजाय एक छोटी दीये की लौ जलाओ।",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_014",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_014]",
-    "category": "zen",
+    "text": "चोर घर लूटता है, समय जीवन लूटता है। आज को सँभालो।",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "hope"
     ]
   },
   {
     "id": "quo_015",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_015]",
-    "category": "zen",
+    "text": "घंटा पहले बजा जाता है, तब गूँजता है। मन भी ठोकर खाने पर खुलता है।",
+    "category": "insight",
     "tone_tags": [
-      "passion",
       "meeting"
     ]
   },
   {
     "id": "quo_016",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_016]",
-    "category": "zen",
+    "text": "भरा हुआ पात उड़ेल देता है। खाली ही नया कुछ समेटता है।",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_017",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_017]",
-    "category": "zen",
+    "text": "जंगल एक पेड़ नहीं। साथ होने से वह आँधी रोकता है।",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "meeting"
     ]
   },
   {
     "id": "quo_018",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_018]",
-    "category": "zen",
+    "text": "घाटी में छिपा पानी सबसे पहले सागर पहुँचता है। नीचे का रास्ता तेज़ है।",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
     ]
   },
   {
     "id": "quo_019",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_019]",
-    "category": "zen",
+    "text": "बाज नीचे उड़ने के दिन में भी बाज ही है। मौन पद को नहीं दर्शाता।",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
     "id": "quo_020",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_020]",
-    "category": "zen",
+    "text": "जड़ें अदृश्य हैं, पर पूरा पेड़ वही हैं। योग्यता मिट्टी में उगती है।",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "hope"
     ]
   },
   {
     "id": "quo_021",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_021]",
-    "category": "zen",
+    "text": "इंद्रधनुष देखने के लिए बरसात सहनी पड़ती है। क्रम नहीं टल सकता।",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
     "id": "quo_022",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_022]",
-    "category": "zen",
+    "text": "आईना गुस्से में टूट जाता है, पर मन का आईना खुद ही घिसना पड़ता है।",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_023",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_023]",
-    "category": "zen",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_024",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_024]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_025",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_025]",
-    "category": "zen",
+    "text": "मुट्ठी में बंद रेत जितनी कसो उतनी फिसलती है। पकड़ ढीलेपन से आती है।",
+    "category": "insight",
     "tone_tags": [
       "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_026",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_026]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_027",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_027]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_028",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_028]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_029",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_029]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_030",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_030]",
-    "category": "zen",
+    "id": "quo_024",
+    "text": "रास्ता सौ बार भूले, तो सौ बार पाया भी है।",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "अनेक दीये अँधेरे बाँटते हैं, आपस में नहीं लड़ते। रोशनी साथ रहती है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "तराज़ू दोनों पल्ले बराबर होने पर ही सच बोलता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "सागर मछलियों को इसलिए समेटता है कि वह नीचा है। जितना झुको, उतना समेटो।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "मुर्गी सुबह जगाती है, पर सुबह किसी की अमानत नहीं। शुरुआत अपना हिस्सा है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "पुलिया भी ठोककर पार करो। सुरक्षा ठोकने से आती है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "बसंत की पिघली बर्फ़ गर्मियों की नदी बनाती है। छोटा बहाव मौसम बदल देता है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_031",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_031]",
-    "category": "zen",
+    "text": "शांत रात दिन को सँवारती है। विश्राम भी काम का हिस्सा है।",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_032",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_032]",
-    "category": "zen",
+    "text": "तीर जितना पीछे खिंचता है, उतना दूर जाता है। पीछे हटना छलांग की तैयारी है।",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "passion"
     ]
   },
   {
     "id": "quo_033",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_033]",
-    "category": "zen",
+    "text": "बर्फ़ यह नहीं बताती कि वह कितनी ठंडी थी, बस पिघलकर बह जाती है।",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "calm"
     ]
   },
   {
     "id": "quo_034",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_034]",
-    "category": "zen",
+    "text": "फूल खिल सकता है क्योंकि जड़ों की चुप्पी ने इजाज़त दी।",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_035",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_035]",
-    "category": "zen",
+    "text": "चाँद और ओस दिन वापस कर देते हैं। आज उधार का दिन है।",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "farewell"
     ]
   },
   {
     "id": "quo_036",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_036]",
-    "category": "zen",
+    "text": "सौ बातें छोड़ो, मिट्टी की खुशबू वाला एक क़दम सच है।",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_037",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_037]",
-    "category": "zen",
-    "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_038",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_038]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_039",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_039]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_040",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_040]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_041",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_041]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_042",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_042]",
-    "category": "zen",
+    "id": "quo_037",
+    "text": "घड़े का पानी देर तक रुके तो सड़ जाता है। मन को भी बहना ही है।",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_043",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_043]",
-    "category": "zen",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_044",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_044]",
-    "category": "zen",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_045",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_045]",
-    "category": "zen",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_046",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_046]",
-    "category": "zen",
-    "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
-    "id": "quo_047",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_047]",
-    "category": "zen",
+    "id": "quo_038",
+    "text": "सीगल तूफ़ान की भविष्यवाणी नहीं करता। पंख तूफ़ान में तैयार होते हैं।",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_048",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_048]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_049",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_049]",
-    "category": "zen",
+    "id": "quo_039",
+    "text": "बसंत की थोड़ी बर्फ़ भी पिघले तो मौसम बदल देती है।",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
-    "id": "quo_050",
-    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_050]",
-    "category": "zen",
+    "id": "quo_040",
+    "text": "सामान रख दिए जाते हैं, मन नहीं। पहले मन का बोझ उतारो।",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_051",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_051]",
-    "category": "proverb",
-    "tone_tags": [
-      "meeting",
       "farewell"
     ]
   },
   {
-    "id": "quo_052",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_052]",
-    "category": "proverb",
+    "id": "quo_041",
+    "text": "बड़ा पेड़ आँधी झेलने के बाद ही गहरी जड़ें जमाता है।",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
-    "id": "quo_053",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_053]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_054",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_054]",
-    "category": "proverb",
+    "id": "quo_042",
+    "text": "साँप को बढ़ने के लिए खाल उतारनी पड़ती है। पुराने रूप को पकड़े रहना विकास नहीं।",
+    "category": "insight",
     "tone_tags": [
       "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
-    "id": "quo_055",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_055]",
-    "category": "proverb",
+    "id": "quo_043",
+    "text": "पर्वतारोही शिखर से अगला ठौर देखता है।",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "पत्ता टूट जाए तो भी चिड़िया नहीं गिरती। भरोसा डाली पर नहीं, परों पर है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "जौ सर्दी झेले तभी रोटी बनती है।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "ताली एक हाथ से नहीं बजती। रिश्ता दोनों की आवाज़ है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "लंबी रात सुबह को छिपाए बैठी है। रात अंत नहीं, प्रतीक्षा कक्ष है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "बीज मिट्टी में अपना रूप खो देता है। बदलाव त्याग से शुरू होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "नदी दूर जाने के लिए जल्दी नहीं बहती। हर मोड़ पर वह गहरी होती है।",
+    "category": "insight",
+    "tone_tags": [
       "calm"
     ]
   },
   {
-    "id": "quo_056",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_056]",
+    "id": "quo_050",
+    "text": "आज लिखा दिन कल की ताक़त बनता है। दिन फिर से नहीं लिखा जाता।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "जैसा बोओगे वैसा काटोगे — जो बोओगे वही काटोगे, परिणाम बीज में है।",
     "category": "proverb",
     "tone_tags": [
-      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "समय सबसे बड़ा औषधि है — वक़्त हर घाव भर देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "अभ्यास से ही सिद्धि मिलती है — अभ्यास से ही दक्षता आती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "एक और एक ग्यारह — साथ मिलकर काम करो, ताक़त दोगुनी हो।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "जो गया वो गया — बीती बात पर मत रोओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "जहाँ चाह वहाँ राह — इच्छा जहाँ है, रास्ता वहाँ है।",
+    "category": "proverb",
+    "tone_tags": [
       "hope"
     ]
   },
   {
     "id": "quo_057",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_057]",
+    "text": "देर आए दुरुस्त आए — देर से आया पर सही आया।",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_058",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_058]",
+    "text": "अंधेरे को कोसने के बजाय दीया जलाओ — गिले नहीं, रौशनी बढ़ाओ।",
     "category": "proverb",
     "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_059",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_059]",
-    "category": "proverb",
-    "tone_tags": [
-      "hope",
       "comic"
     ]
   },
   {
-    "id": "quo_060",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_060]",
+    "id": "quo_059",
+    "text": "कर्म ही पूजा है — काम ही सबसे बड़ी प्रार्थना है।",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "एक तीर से दो शिकार — एक कदम से दो लाभ उठाओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_061",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_061]",
+    "text": "ज्ञान बढ़ाने से विनम्रता बढ़ती है — जितना सीखो, उतना झुको।",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_062",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_062]",
+    "text": "सच्चाई की डोर कभी नहीं टूटती — सच का रिश्ता कभी नहीं टूटता।",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_063",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_063]",
+    "text": "परिश्रम सौ सौदागर — मेहनत ही सबसे बड़ा सौदागर है।",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "passion"
     ]
   },
   {
     "id": "quo_064",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_064]",
+    "text": "शीशा सब को दिखता है, खुद को नहीं — दर्पण सबको दिखे, खुद को नहीं।",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "mystery"
     ]
   },
   {
     "id": "quo_065",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_065]",
+    "text": "जो डर गया वो मर गया — हिम्मत हारना असली हार है।",
     "category": "proverb",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "comic"
     ]
   },
   {
     "id": "quo_066",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_066]",
+    "text": "धीरे-धीरे ही बड़ी बात होती है — धैर्य से ही बड़ा काम बनता है।",
     "category": "proverb",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_067",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_067]",
+    "text": "गागर में सागर समाना — बूँद में सागर समेटे रहता है जीवन।",
     "category": "proverb",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_068",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_068]",
+    "text": "सीखना कभी बंद न करो — जीते जी सीखते रहो।",
     "category": "proverb",
     "tone_tags": [
-      "horror",
-      "hope"
+      "conflict"
     ]
   },
   {
     "id": "quo_069",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_069]",
+    "text": "सच भारी होता है पर टिकता है — सच पत्थर है, दबाता है पर टिकता है।",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_070",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_070]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_071",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_071]",
+    "id": "quo_070",
+    "text": "बूँद बूँद से घड़ा भरता है — थोड़ा-थोड़ा मिलकर बड़ा बनता है।",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "रोने से कुछ नहीं मिलेगा — रुलाई नहीं, कर्म बोलो।",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_072",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_072]",
+    "text": "पहाड़ चढ़ने वाला पहाड़ की ऊँचाई नहीं गिनता — चढ़ने वाले को ऊँचाई का डर नहीं।",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_073",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_073]",
+    "text": "हाथी के दाँत खाने के एक दिखाने के अनेक — हाथी के दो दाँत: खाने के अलग, दिखाने के अलग।",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "passion"
     ]
   },
   {
     "id": "quo_074",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_074]",
+    "text": "सीखा हुआ कभी बर्बाद नहीं होता — सीखा हुआ कभी व्यर्थ नहीं जाता।",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_075",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_075]",
+    "text": "अपने अंदर की शक्ति को पहचानो — शक्ति बाहर नहीं, भीतर है।",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_076",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_076]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_077",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_077]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_078",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_078]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_079",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_079]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_080",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_080]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
       "hope"
     ]
   },
   {
-    "id": "quo_081",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_081]",
+    "id": "quo_076",
+    "text": "जो अन्न में स्वाद है वही सेहत है — जो खाने में संतुलन है वही स्वास्थ्य है।",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_082",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_082]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_083",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_083]",
+    "id": "quo_077",
+    "text": "आदत दूसरी प्रकृति है — आदत दूसरी स्वभाव है।",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "जितना गहरा पानी उतना शांत — गहरा पानी हमेशा शांत बहता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "मेहनत का फल मीठा होता है — मेहनत का फल हमेशा मीठा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "शुरुआत ही आधी जीत है — शुरुआत करना ही आधी जीत है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "कल करें सो आज कर, आज करें सो अब — कल का काम आज करो, आज का अभी करो।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "जागते रहो — सतर्क रहो, चौकसी ही सुरक्षा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "रिश्तों का पेड़ सेवा से सींचो — रिश्ते सेवा से हरे होते हैं।",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_084",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_084]",
+    "text": "सीखना बंद तो जीवन बंद — सीखना रुका तो जिंदगी रुकी।",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_085",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_085]",
-    "category": "proverb",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_086",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_086]",
-    "category": "proverb",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_087",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_087]",
+    "id": "quo_085",
+    "text": "सच्चे मित्र विपत्ति में काम आते हैं — असली दोस्त मुसीबत में पहचाने जाते हैं।",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_088",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_088]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_089",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_089]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_090",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_090]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_091",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_091]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_092",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_092]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_093",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_093]",
-    "category": "proverb",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_094",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_094]",
+    "id": "quo_086",
+    "text": "काम बड़ा नहीं कर्ता बड़ा होता है — काम नहीं, कर्ता बड़ा होता है।",
     "category": "proverb",
     "tone_tags": [
-      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "अपने कदमों पर चलो — अपने क़दमों पर चलो, नकल में असल खो जाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "पुराने पुर नए पुर — पुराना पानी नए पानी से मीठा।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "स्वास्थ्य ही धन है — स्वास्थ्य ही सबसे बड़ा धन है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "जो हाथ से गया वह भाग्य से गया — जो छूट गया, वह किस्मत की बात।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "खाली बर्तन खनकता है — खाली बर्तन ज़्यादा आवाज़ करता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "भगवान उसी की मदद करता है जो खुद मदद करता है — ईश्वर मेहनत वालों की मदद करता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "जितनी गहरी चोट उतनी मज़बूती — जितनी चोटें, उतनी मज़बूती।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "प्रकृति सबको सबक देती है — प्रकृति सबसे बड़ी गुरु है।",
+    "category": "proverb",
+    "tone_tags": [
       "mystery"
     ]
   },
   {
     "id": "quo_095",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_095]",
+    "text": "सपने वो नहीं जो नींद में आएं — सपने वो हैं जो नींद उड़ा दें।",
     "category": "proverb",
     "tone_tags": [
-      "hope",
-      "comic"
+      "passion"
     ]
   },
   {
     "id": "quo_096",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_096]",
+    "text": "समय पर की गई एक मित्रता सौ दोस्तों के समान — समय पर की गई मदद सौ दोस्त बराबर।",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_097",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_097]",
+    "text": "जिसका काम उसी को साजे — अपना काम अपने को सुहाता है।",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "hope"
     ]
   },
   {
     "id": "quo_098",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_098]",
+    "text": "सीना तानकर चलो — सीना चौड़ा करके चलो, आत्मविश्वास ही शस्त्र है।",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_099",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_099]",
+    "text": "बात की कीमत मौन से बढ़ती है — कहने से ज़्यादा चुप रहने की कीमत होती है।",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "conflict"
     ]
   },
   {
     "id": "quo_100",
-    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_100]",
+    "text": "परिश्रम कभी व्यर्थ नहीं जाता — मेहनत कभी बेकार नहीं जाती।",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "hope"
     ]
   }
 ]

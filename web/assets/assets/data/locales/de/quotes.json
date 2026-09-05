@@ -1,902 +1,809 @@
 [
   {
     "id": "quo_001",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_001]",
-    "category": "zen",
+    "text": "Wasser nimmt die Form des Gefäßes an, doch ein Herz soll selbst im Wanken seine Gestalt behalten.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_002",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_002]",
-    "category": "zen",
+    "text": "In dem Moment, in dem du den Weg weit nennst, haben deine Schritte halb gestanden.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "calm"
     ]
   },
   {
     "id": "quo_003",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_003]",
-    "category": "zen",
+    "text": "Der Berg fürchtet seine Höhe nicht. Nur wer steigt, kennt den Gipfel.",
+    "category": "insight",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_004",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_004]",
-    "category": "zen",
+    "text": "Ein tiefer Brunnen ist still. Nur flaches Wissen ist laut.",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_005",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_005]",
-    "category": "zen",
+    "text": "Morgentau bleibt nicht lange. Deshalb glänzt er so hell.",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "hope"
     ]
   },
   {
     "id": "quo_006",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_006]",
-    "category": "zen",
+    "text": "Ein Baum klammert sich nicht an welkes Laub; er räumt Platz für neues.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "farewell",
+      "calm"
     ]
   },
   {
     "id": "quo_007",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_007]",
-    "category": "zen",
+    "text": "Der Fels besiegt das Wasser nicht. Was fließt, ist stärker als was hart wird.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_008",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_008]",
-    "category": "zen",
+    "text": "Die Lampe ahnt nicht, dass ihr eigener Schatten tiefer wird, je mehr sie andre erleuchtet.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "mystery"
     ]
   },
   {
     "id": "quo_009",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_009]",
-    "category": "zen",
+    "text": "Getreide neigt den Kopf, je reifer es wird. Auch Menschen werden niedlicher, je reifer.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "passion"
     ]
   },
   {
     "id": "quo_010",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_010]",
-    "category": "zen",
+    "text": "Eiliges Wasser ist flach. Ein tiefer Fluss fließt lautlos.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_011]",
-    "category": "zen",
+    "text": "Auch wenn ein Stein es trifft, antwortet fließendes Wasser mit neuem Wasser. Antwort geschieht im Fließen.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "calm",
+      "conflict"
     ]
   },
   {
     "id": "quo_012",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_012]",
-    "category": "zen",
+    "text": "Ein Bogen ist besser gespannt, doch ein Mensch muss auch lösen können.",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_013",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_013]",
-    "category": "zen",
+    "text": "Statt die Dunkelheit zu verfluchen, entzünde ein kleines Licht.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
     "id": "quo_014",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_014]",
-    "category": "zen",
+    "text": "Der Dieb stiehlt dein Haus; die Zeit stiehlt dein Leben. Schätze heute.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
+      "hope"
     ]
   },
   {
     "id": "quo_015",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_015]",
-    "category": "zen",
+    "text": "Eine Glocke klingt erst, wenn sie geschlagen wird. Ein Herz öffnet sich erst, wenn man klopft.",
+    "category": "insight",
     "tone_tags": [
-      "passion",
       "meeting"
     ]
   },
   {
     "id": "quo_016",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_016]",
-    "category": "zen",
+    "text": "Einrandig volles Gefäß verschüttet. Nur das Leere nimmt Neues auf.",
+    "category": "insight",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_017",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_017]",
-    "category": "zen",
+    "text": "Ein Wald ist kein einzelner Baum. Zusammen halten sie den Wind auf.",
+    "category": "insight",
     "tone_tags": [
-      "comic",
-      "lonely"
+      "meeting"
     ]
   },
   {
     "id": "quo_018",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_018]",
-    "category": "zen",
+    "text": "Wasser, im Tal verborgen, erreicht das Meer zuerst. Der niedere Weg ist schnell.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
     ]
   },
   {
     "id": "quo_019",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_019]",
-    "category": "zen",
+    "text": "Ein Falke bleibt ein Falke, auch im tiefen Flug. Schweigen bedeutet nicht Ranglosigkeit.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
     "id": "quo_020",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_020]",
-    "category": "zen",
+    "text": "Wurzeln sind unsichtbar, doch sie sind der ganze Baum. Können wächst unter der Erde.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "hope"
     ]
   },
   {
     "id": "quo_021",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_021]",
-    "category": "zen",
+    "text": "Um einen Regenbogen zu sehen, musst du den Regen aushalten. Die Reihenfolge lässt sich nicht überspringen.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
     "id": "quo_022",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_022]",
-    "category": "zen",
+    "text": "Ein Spiegel zerbricht im Zorn, doch den Spiegel des Herzens polierst du selbst.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_023",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_023]",
-    "category": "zen",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_024",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_024]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_025",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_025]",
-    "category": "zen",
+    "text": "Fest umschlossener Sand rieselt durch die Finger. Halten beginnt mit Losheit.",
+    "category": "insight",
     "tone_tags": [
       "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_026",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_026]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_027",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_027]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_028",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_028]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_029",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_029]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_030",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_030]",
-    "category": "zen",
+    "id": "quo_024",
+    "text": "Wenn du hundertmal den Weg verloren hast, hast du ihn auch hundertmal gefunden.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "Viele Kerzen teilen die Dunkelheit, ohne zu streiten. Licht bleibt beieinander.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "Eine Waage spricht nur Wahrheit, wenn beide Seiten eben sind.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "Das Meer trägt die Fische, weil es niedrig liegt. Je niedriger, desto mehr fasst du.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "Der Hahn weckt den Morgen, doch der Morgen gehört niemandem. Der Anfang ist dein Anteil.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "Klopfe auch an die Steinbrücke, bevor du gehst. Sicherheit kommt vom Klopfen.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "Geschmolzener Schneesicke macht den Sommerfluss. Ein kleiner Lauf wechselt eine Jahreszeit.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_031",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_031]",
-    "category": "zen",
+    "text": "Eine stille Nacht ordnet den Tag. Ruhe ist ein Teil der Arbeit.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "calm"
     ]
   },
   {
     "id": "quo_032",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_032]",
-    "category": "zen",
+    "text": "Ein Pfeil fliegt umso weiter, je weiter er gezogen wird. Der Rückschritt ist Sprungvorbereitung.",
+    "category": "insight",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "passion"
     ]
   },
   {
     "id": "quo_033",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_033]",
-    "category": "zen",
+    "text": "Eis erzählt nicht, wie kalt es war; es schmilzt und fließt einfach.",
+    "category": "insight",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "calm"
     ]
   },
   {
     "id": "quo_034",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_034]",
-    "category": "zen",
+    "text": "Eine Blüte darf aufblühen, weil das Schweigen der Wurzeln es erlaubte.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_035",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_035]",
-    "category": "zen",
+    "text": "Mond und Tau geben den Tag zurück. Heute ist geliehen.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
+      "farewell"
     ]
   },
   {
     "id": "quo_036",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_036]",
-    "category": "zen",
+    "text": "Hundert Worte sagen weniger als ein Schritt, der nach Erde riecht.",
+    "category": "insight",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_037",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_037]",
-    "category": "zen",
-    "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_038",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_038]",
-    "category": "zen",
-    "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_039",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_039]",
-    "category": "zen",
-    "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_040",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_040]",
-    "category": "zen",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_041",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_041]",
-    "category": "zen",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_042",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_042]",
-    "category": "zen",
+    "id": "quo_037",
+    "text": "Wasser im versiegelten Krug verdirbt. Auch ein Herz muss fließen, um zu leben.",
+    "category": "insight",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_043",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_043]",
-    "category": "zen",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_044",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_044]",
-    "category": "zen",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_045",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_045]",
-    "category": "zen",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_046",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_046]",
-    "category": "zen",
-    "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
-    "id": "quo_047",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_047]",
-    "category": "zen",
+    "id": "quo_038",
+    "text": "Die Möwe weissagt keinen Sturm. Flügel werden im Sturm geschmiedet.",
+    "category": "insight",
     "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_048",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_048]",
-    "category": "zen",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_049",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_049]",
-    "category": "zen",
+    "id": "quo_039",
+    "text": "Auch kleine Frühlingsschnecke, geschmolzen, verschiebt die Jahreszeit.",
+    "category": "insight",
     "tone_tags": [
-      "calm",
-      "mystery"
+      "hope"
     ]
   },
   {
-    "id": "quo_050",
-    "text": "Wahrer Friede liegt nicht im Außen, sondern in der Stille deines Herzens. [quo_050]",
-    "category": "zen",
+    "id": "quo_040",
+    "text": "Sachen kann man ablegen, das Herz selten. Leg zuerst die Last des Herzens ab.",
+    "category": "insight",
     "tone_tags": [
-      "hope",
-      "comic"
-    ]
-  },
-  {
-    "id": "quo_051",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_051]",
-    "category": "proverb",
-    "tone_tags": [
-      "meeting",
       "farewell"
     ]
   },
   {
-    "id": "quo_052",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_052]",
-    "category": "proverb",
+    "id": "quo_041",
+    "text": "Ein großer Baum bekommt erst nach Stürmen tiefe Wurzeln.",
+    "category": "insight",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "passion"
     ]
   },
   {
-    "id": "quo_053",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_053]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_054",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_054]",
-    "category": "proverb",
+    "id": "quo_042",
+    "text": "Eine Schlange muss die Haut abwerfen, um zu wachsen. Am alten Selbst kleben ist kein Wachstum.",
+    "category": "insight",
     "tone_tags": [
       "farewell",
-      "irony"
+      "hope"
     ]
   },
   {
-    "id": "quo_055",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_055]",
-    "category": "proverb",
+    "id": "quo_043",
+    "text": "Der Bergsteiger sieht den nächsten Tritt, nicht den Gipfel.",
+    "category": "insight",
     "tone_tags": [
-      "chaos",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "Ein Vogel fällt nicht, wenn der Zweig bricht. Vertraue den Flügeln, nicht dem Zweig.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "Gerste muss den Winter ertragen, um Brot zu werden.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "Mit einer Hand kannst du nicht klatschen. Beziehungen sind der Klang beider.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "Die lange Nacht birgt den Morgen. Nacht ist kein Ende, sondern der Wartesaal.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "Ein Samen verliert unter der Erde seine Gestalt. Wandel beginnt mit Loslassen.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "Ein Fluss eilt nicht, um weit zu gelangen. An jeder Biegung wird er tiefer.",
+    "category": "insight",
+    "tone_tags": [
       "calm"
     ]
   },
   {
-    "id": "quo_056",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_056]",
+    "id": "quo_050",
+    "text": "Der Tag, den du heute schreibst, wird die Kraft von morgen. Ein Tag lässt sich nicht neu schreiben.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "Übung macht den Meister — Übung macht den Meister, nicht das Talent.",
     "category": "proverb",
     "tone_tags": [
-      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "Der Apfel fällt nicht weit vom Stamm — die Herkunft hallt nach.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "Aller Anfang ist schwer — doch der Anfang ist der halbe Weg.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "Morgenstund hat Gold im Mund — der frühe Lohn gehört dem Frühaufsteher.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "Was Hänschen nicht lernt, lernt Hans nimmermehr — was du früh versäumst, wird spät teuer.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "Auch ein blindes Huhn findet mal ein Korn — auch Anfänger haben Glückstreffer.",
+    "category": "proverb",
+    "tone_tags": [
       "hope"
     ]
   },
   {
     "id": "quo_057",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_057]",
+    "text": "Wer rastet, der rostet — wer ruht, verliert Form und Kraft.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
+      "calm"
     ]
   },
   {
     "id": "quo_058",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_058]",
+    "text": "Steter Tropfen höhlt den Stein — Beharrlichkeit besiegt das Harte.",
     "category": "proverb",
     "tone_tags": [
-      "calm",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_059",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_059]",
-    "category": "proverb",
-    "tone_tags": [
-      "hope",
       "comic"
     ]
   },
   {
-    "id": "quo_060",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_060]",
+    "id": "quo_059",
+    "text": "Reden ist Silber, Schweigen ist Gold — Schweigen ist das edlere Metall.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "Hochmut kommt vor dem Fall — der Stolz kündigt den Sturz an.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
     ]
   },
   {
     "id": "quo_061",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_061]",
+    "text": "Was du heute kannst besorgen, das verschiebe nicht auf morgen — heute schlägt morgen.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "calm"
     ]
   },
   {
     "id": "quo_062",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_062]",
+    "text": "Der Ton macht die Musik — nicht nur was du sagst, sondern wie.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_063",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_063]",
+    "text": "Kleinvieh macht auch Mist — Kleines gehäuft wird groß.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "passion"
     ]
   },
   {
     "id": "quo_064",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_064]",
+    "text": "Wer zuerst kommt, mahlt zuerst — der frühe Platz zahlt sich aus.",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "mystery"
     ]
   },
   {
     "id": "quo_065",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_065]",
+    "text": "Eine Schwalbe macht noch keinen Sommer — ein Zeichen ist noch kein Trend.",
     "category": "proverb",
     "tone_tags": [
-      "lonely",
-      "horror"
+      "comic"
     ]
   },
   {
     "id": "quo_066",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_066]",
+    "text": "Andere Länder, andere Sitten — passe dich an, wo du bist.",
     "category": "proverb",
     "tone_tags": [
-      "farewell",
-      "irony"
+      "hope",
+      "passion"
     ]
   },
   {
     "id": "quo_067",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_067]",
+    "text": "Geteiltes Leid ist halbes Leid — geteilt, wird Kummer leichter.",
     "category": "proverb",
     "tone_tags": [
-      "chaos",
       "calm"
     ]
   },
   {
     "id": "quo_068",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_068]",
+    "text": "Geteilte Freude ist doppelte Freude — geteilt, wird Freude doppelt.",
     "category": "proverb",
     "tone_tags": [
-      "horror",
-      "hope"
+      "conflict"
     ]
   },
   {
     "id": "quo_069",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_069]",
+    "text": "Wer den Pfennig nicht ehrt, ist den Taler nicht wert — Ehre das Kleine, um das Große zu halten.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_070",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_070]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_071",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_071]",
+    "id": "quo_070",
+    "text": "Allzu viel ist ungesund — auch von Gutem krankt man bei Übermaß.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "Ende gut, alles gut — der Ausgang krönt die Sache.",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_072",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_072]",
+    "text": "Durch Dick und Dünn gemeinsam gehen — Treue wird in Stürmen geprüft.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_073",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_073]",
+    "text": "Wie man in den Wald hineinruft, so schallt es heraus — der Echo setzt fort, was du beginnst.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "passion"
     ]
   },
   {
     "id": "quo_074",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_074]",
+    "text": "Ein gesunder Geist wohnt in einem gesunden Körper — Körperpflege ist Geistepflege.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_075",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_075]",
+    "text": "Lügen haben kurze Beine — Lügen laufen sich fest.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_076",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_076]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_077",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_077]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_078",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_078]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_079",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_079]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_080",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_080]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
       "hope"
     ]
   },
   {
-    "id": "quo_081",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_081]",
+    "id": "quo_076",
+    "text": "Der Krug geht so lange zum Brunnen, bis er bricht — Risiko häuft sich, bis es bricht.",
     "category": "proverb",
     "tone_tags": [
-      "irony",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_082",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_082]",
-    "category": "proverb",
-    "tone_tags": [
-      "calm",
       "mystery"
     ]
   },
   {
-    "id": "quo_083",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_083]",
+    "id": "quo_077",
+    "text": "Wer anderen eine Grube gräbt, fällt selbst hinein — Fallstricke fallen auf den Grübengräber zurück.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "Pech im Spiel, Glück in der Liebe — was verliert, gewinnt woanders.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "Jedem Tierchen sein Plaisierchen — jedem gefällt sein eigenes.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "Alter schützt vor Torheit nicht — grau ist keine Garantie.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "Wo ein Wille ist, ist auch ein Weg — Wille öffnet Wege.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "Wer will, findet Wege; wer nicht will, findet Gründe — Wille baut Brücken, Unwille Ausreden.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "Gleich und gleich gesellt sich gern — Gleichgesinnte finden sich.",
+    "category": "proverb",
+    "tone_tags": [
       "comic"
     ]
   },
   {
     "id": "quo_084",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_084]",
+    "text": "Viele Köche verderben den Brei — zu viele Befehle verderben das Werk.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
-    ]
-  },
-  {
-    "id": "quo_085",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_085]",
-    "category": "proverb",
-    "tone_tags": [
-      "mystery",
-      "conflict"
-    ]
-  },
-  {
-    "id": "quo_086",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_086]",
-    "category": "proverb",
-    "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
-    "id": "quo_087",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_087]",
+    "id": "quo_085",
+    "text": "Der beste Weg, sich selbst zu finden, ist, sich in der Arbeit zu verlieren — Arbeit zeigt dich dir.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
-    ]
-  },
-  {
-    "id": "quo_088",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_088]",
-    "category": "proverb",
-    "tone_tags": [
-      "conflict",
-      "chaos"
-    ]
-  },
-  {
-    "id": "quo_089",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_089]",
-    "category": "proverb",
-    "tone_tags": [
-      "lonely",
-      "horror"
-    ]
-  },
-  {
-    "id": "quo_090",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_090]",
-    "category": "proverb",
-    "tone_tags": [
-      "farewell",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_091",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_091]",
-    "category": "proverb",
-    "tone_tags": [
-      "chaos",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_092",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_092]",
-    "category": "proverb",
-    "tone_tags": [
-      "horror",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_093",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_093]",
-    "category": "proverb",
-    "tone_tags": [
-      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_094",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_094]",
+    "id": "quo_086",
+    "text": "Kleider machen Leute — der Schein verhandelt vor dir.",
     "category": "proverb",
     "tone_tags": [
-      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "Man soll den Tag nicht vor dem Abend loben — der Abend kennt den Tag besser.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "Wes Brot ich ess, des Lied ich sing — wo du dienst, singst du dessen Lied.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "Es ist nichts so fein gesponnen, es kommt doch an die Sonnen — alles Verborgene kommt ans Licht.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "Der Mensch denkt, Gott lenkt — Pläne werden von höheren Händen geführt.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "Wer zuletzt lacht, lacht am besten — der Schlußlacher hält die Wette.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "In der Ruhe liegt die Kraft — Stille sammelt Stärke.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "Schnell gebunden, leicht gelöst — schnell geknüpft, leicht gelöst.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "Eigenlob stinkt — Lob von sich selbst riecht.",
+    "category": "proverb",
+    "tone_tags": [
       "mystery"
     ]
   },
   {
     "id": "quo_095",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_095]",
+    "text": "Besser spät als nie — besser spät als gar nicht.",
     "category": "proverb",
     "tone_tags": [
-      "hope",
-      "comic"
+      "passion"
     ]
   },
   {
     "id": "quo_096",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_096]",
+    "text": "Man wächst mit seinen Aufgaben — Aufgaben wachsen lassen dich wachsen.",
     "category": "proverb",
     "tone_tags": [
-      "passion",
-      "meeting"
+      "calm"
     ]
   },
   {
     "id": "quo_097",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_097]",
+    "text": "Der Ton macht die Musik, das Beispiel die Lehre — Vorbild lehrt mehr als Predigt.",
     "category": "proverb",
     "tone_tags": [
-      "mystery",
-      "conflict"
+      "hope"
     ]
   },
   {
     "id": "quo_098",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_098]",
+    "text": "Was lange währt, wird endlich gut — lange Weile endet gut.",
     "category": "proverb",
     "tone_tags": [
-      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_099",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_099]",
+    "text": "Ein Freund, ein guter Freund — ein echter Freund ist ein seltener Schatz.",
     "category": "proverb",
     "tone_tags": [
-      "meeting",
-      "farewell"
+      "conflict"
     ]
   },
   {
     "id": "quo_100",
-    "text": "Auch der weiteste Weg beginnt mit dem ersten Schritt. [quo_100]",
+    "text": "Hoffnung ist das Brot der Armen — Hoffnung nährt die, die sonst nichts haben.",
     "category": "proverb",
     "tone_tags": [
-      "conflict",
-      "chaos"
+      "hope"
     ]
   }
 ]
