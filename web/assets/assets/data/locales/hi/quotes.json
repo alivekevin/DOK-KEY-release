@@ -1,135 +1,902 @@
 [
   {
     "id": "quo_001",
-    "text": "यदि गिर भी जाओ, तो उठने से पहले जमीन से एक चमकता सिक्का उठा लो—यही यक्ष का सहज अंदाज है।",
-    "category": "깨비말",
-    "tone_tags": [
-      "comic",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_002",
-    "text": "जब तेज आंधी चले तो तूफान से मत लड़ो; अपना पंखा खोलो और हवा की दिशा में उड़ना सीखो।",
-    "category": "생활속담",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_001]",
+    "category": "zen",
     "tone_tags": [
       "calm",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_003",
-    "text": "सोने या चांदी की कुल्हाड़ी का लालच मत करो; जो लोहे की कुल्हाड़ी तुम्हारी हथेली में सही बैठती है, वही सबसे अच्छा काम करती है।",
-    "category": "깨비말",
-    "tone_tags": [
-      "calm",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_004",
-    "text": "जब सामने का दरवाजा बंद हो तो निराश मत हो; नटखट यक्ष हमेशा पीछे की दीवार में एक खिड़की खुली छोड़ देता है।",
-    "category": "깨비말",
-    "tone_tags": [
-      "hope",
       "mystery"
     ]
   },
   {
-    "id": "quo_005",
-    "text": "हर किसी को खुश करने की कोशिश करोगे, तो चमत्कारी मायावी गदा भी थककर टूट जाएगी।",
-    "category": "도깨비풍자",
+    "id": "quo_002",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_002]",
+    "category": "zen",
     "tone_tags": [
-      "conflict",
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_003",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_003]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_004",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_004]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_005",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_005]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_006",
-    "text": "जो चांदनी रात में शांति से एक प्याली चाय का आनंद ले सकता है, वही इस संसार का सबसे धनी व्यक्ति है।",
-    "category": "깨비말",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_006]",
+    "category": "zen",
     "tone_tags": [
-      "calm",
-      "lonely"
+      "meeting",
+      "farewell"
     ]
   },
   {
     "id": "quo_007",
-    "text": "जो दिन योजना के अनुसार न चले, वह शायद प्रकृति द्वारा छिपाकर रखा गया एक अद्भुत उपहार है।",
-    "category": "깨비말",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_007]",
+    "category": "zen",
     "tone_tags": [
-      "chaos",
-      "irony"
+      "conflict",
+      "chaos"
     ]
   },
   {
     "id": "quo_008",
-    "text": "जो पहले हाथ बढ़ाता है, वह मान नहीं खोता, बल्कि नए रिश्तों की जादुई चाबी थाम लेता है।",
-    "category": "생활속담",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_008]",
+    "category": "zen",
     "tone_tags": [
-      "meeting",
-      "hope"
+      "lonely",
+      "horror"
     ]
   },
   {
     "id": "quo_009",
-    "text": "यदि तुम पिछले मौसम के सूखे पत्तों को पकड़े रहोगे, तो वसंत के नए फूलों को थामने के लिए हाथ खाली नहीं रहेंगे।",
-    "category": "생활속담",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_009]",
+    "category": "zen",
     "tone_tags": [
       "farewell",
-      "calm"
+      "irony"
     ]
   },
   {
     "id": "quo_010",
-    "text": "डर केवल तब तक डरावना है जब तक अंधेरा है; ज्ञान का दीप जलाते ही वह एक मुड़े हुए कंबल जितना साधारण हो जाता है।",
-    "category": "도깨비풍자",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_010]",
+    "category": "zen",
     "tone_tags": [
-      "horror",
-      "passion"
+      "chaos",
+      "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "चाबियों के गुच्छे में, अक्सर सबसे पुरानी और घिसी हुई चाबी ही ताले को सबसे आसानी से खोलती है।",
-    "category": "key",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_011]",
+    "category": "zen",
     "tone_tags": [
+      "horror",
       "hope"
     ]
   },
   {
     "id": "quo_012",
-    "text": "आधी रात को दिल से कही गई बात, दिन की सौ औपचारिक बातों से कहीं अधिक सच्ची होती है।",
-    "category": "night",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_012]",
+    "category": "zen",
     "tone_tags": [
-      "lonely",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_013",
-    "text": "सुबह की छोटी-मोटी चिंताएं, शाम ढलते ही मन से उतार फेंकने के लिए सबसे उपयुक्त होती हैं।",
-    "category": "daily",
-    "tone_tags": [
-      "farewell",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_014",
-    "text": "जो आत्मविश्वास से भाग्य को पुकारता है, वह हमेशा एक कदम आगे रहता है।",
-    "category": "fortune",
-    "tone_tags": [
-      "hope",
+      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_015",
-    "text": "दिल खोलकर हंसना ही जीवन की हर उलझन को दूर करने वाली सबसे शक्तिशाली गदा है।",
-    "category": "humor",
+    "id": "quo_013",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_013]",
+    "category": "zen",
     "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_014",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_014]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
       "comic"
+    ]
+  },
+  {
+    "id": "quo_015",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_015]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_016",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_016]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_017",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_017]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_018",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_018]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_019",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_019]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_020",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_020]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_021",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_021]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_022",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_022]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_023",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_023]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_024",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_024]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_025]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_026]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_027]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_028]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_029]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_030]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_031",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_031]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_032",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_032]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_033",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_033]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_034",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_034]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_035",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_035]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_036",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_036]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_037",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_037]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_038",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_038]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_039",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_039]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_040",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_040]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_041",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_041]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_042",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_042]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_043",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_043]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_044]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_045]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_046]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_047]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_048]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_049]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_050",
+    "text": "शांति बाहर नहीं, आपके शांत हृदय में निवास करती है। [quo_050]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_051]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_052]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_053]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_054]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_055]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_056]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_057",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_057]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_058",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_058]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_059",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_059]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_060]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_061",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_061]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_062",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_062]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_063",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_063]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_064",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_064]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_065",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_065]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_066",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_066]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_067",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_067]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_068",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_068]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_069",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_069]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_070",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_070]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_071]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_072",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_072]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_073",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_073]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_074",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_074]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_075",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_075]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_076",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_076]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_077",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_077]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_078]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_079]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_080]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_081]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_082]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_083]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_084",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_084]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_085",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_085]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_086",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_086]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_087]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_088]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_089]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_090]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_091]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_092]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_093]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_094]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_095",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_095]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_096",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_096]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_097",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_097]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_098",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_098]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_099",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_099]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_100",
+    "text": "हजार मील की यात्रा भी पहले कदम से शुरू होती है। [quo_100]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
     ]
   }
 ]

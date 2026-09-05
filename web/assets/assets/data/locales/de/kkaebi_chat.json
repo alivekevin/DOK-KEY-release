@@ -1,0 +1,87 @@
+{
+  "topics": [
+    {
+      "id": "passcode",
+      "chip_title": "DE Generate a passcode? 🔢",
+      "user_question": "DE Kkaebi, can I use today's drawn numbers as my door lock or bank PIN?",
+      "steps": [
+        "Kkaebi: Oh! That's a brilliant and practical idea! Using today's lucky number '' for your door lock, bank PIN, or app passcode brings positive energy every time you unlock it! ({number})",
+        "Kkaebi: Struggling to pick a secure PIN? Rather than predictable birthdays, blending the sacred number from today's '' card acts like a goblin shield—safe and memorable! ({card_name})",
+        "Kkaebi: Every time you type in your passcode, whisper a cheerful affirmation like 'Prosperity opens today!'. Auspicious fortune will flow straight through the doorway!",
+        "Kkaebi: Just remember: avoid overly simple repeating digits! Visit your KeyBox to combine multiple gathered fortune numbers into a solid 4 or 6-digit magic key.",
+        "Kkaebi: Final conclusion: A passcode crafted with your own hands is not merely digits—it is your personal lucky charm and guardian talisman. Use it with confidence!"
+      ]
+    },
+    {
+      "id": "lotto",
+      "chip_title": "DE Should I buy lottery? 💰",
+      "user_question": "DE Kkaebi, if I buy a lottery with today's drawn number, will I win?",
+      "steps": [
+        "Kkaebi: I may be a thousand-year-old goblin, but even the heavens don't know winning lottery numbers! Go buy some hot crispy pastries with that money instead. That's a 100% guaranteed jackpot of joy!",
+        "Kkaebi: Asking again? Honestly, wishing for sheer luck will only rust even a magical goblin club! True wealth comes when you create value that attracts prosperity.",
+        "Kkaebi: If you truly wish to be wealthy, meditate on today's '' card. Building a sturdy foundation with your own hands is a hundred times faster! ({card_name})",
+        "Kkaebi: You are quite persistent! The odds of winning the lottery are 1 in 8.14 million, yet the probability of sitting here conversing with me is far more miraculous! Channel that miracle into yourself.",
+        "Kkaebi: Alright, I respect your tenacity! Keep today's lucky number # close in your heart and give your best to your craft. A destined benefactor far greater than lottery cash will find you! ({number})"
+      ]
+    },
+    {
+      "id": "interview",
+      "chip_title": "DE Exam / Interview today? 🎯",
+      "user_question": "DE Kkaebi, I have an important test/interview today. Will it go well?",
+      "steps": [
+        "Kkaebi: Didn't you draw the sacred '' card today? Hold your head high and show what you've prepared. I'll be secretly cheering behind your back! ({card_name})",
+        "Kkaebi: Still nervous? Take three deep breaths and whisper 'Help me Kkaebi!'. The energy of  will help you speak with crystal clarity! ({tone_name})",
+        "Kkaebi: Interviewers are just ordinary humans eating everyday meals! Nothing in this world is scarier than a goblin, so look them in the eye and smile brightly!",
+        "Kkaebi: I have witnessed all the midnight sweat you poured in. You cannot deceive a goblin's eyes—you are already prepared, so enjoy the moment!",
+        "Kkaebi: Final verdict: You will triumph! A giant far grander than you realize sleeps within you. Square your shoulders and conquer the room!"
+      ]
+    },
+    {
+      "id": "relationship",
+      "chip_title": "DE Who will I meet today? 👥",
+      "user_question": "DE Kkaebi, how is my social and relationship fortune today?",
+      "steps": [
+        "Kkaebi: Pay close attention to anyone offering you kind words today. The '' card has unlocked a gentle door to meaningful connections. ({card_name})",
+        "Kkaebi: Still worried about people? Even if someone annoys you, smile like a cheerful goblin and let it slide. Your warm smile is the master key to untangling knots today!",
+        "Kkaebi: Do not exhaust yourself trying to be loved by everyone. Even goblins have those who adore them and those who fear them. Having just one true soul who understands your worth is plenty.",
+        "Kkaebi: If someone occupies your thoughts, send a warm greeting first today. The thread of destiny from '' is pulled delightfully taut today! ({card_name})",
+        "Kkaebi: Remember: when you blossom into a fragrant flower, butterflies gather naturally. Today, cherish yourself above all else!"
+      ]
+    },
+    {
+      "id": "healing",
+      "chip_title": "DE I'm so exhausted today 🌙",
+      "user_question": "DE Kkaebi, I feel so tired and drained lately...",
+      "steps": [
+        "Kkaebi: Come here, let me sweep all your heavy sighs into my magic sack! You did remarkably well today. Go home, take a warm shower, and rest deeply.",
+        "Kkaebi: It must have been so heavy... Just as the moon wanes only to wax full again, exhausting days always make room for radiant new mornings. Tonight, rest with a light heart!",
+        "Kkaebi: This thousand-year-old goblin knows the silent battles and fatigue that others overlooked. Simply getting through today proves you are already a hero.",
+        "Kkaebi: You do not have to force yourself to be cheerful. Even goblins throw down their magic clubs and take deep naps in the forest. Dedicate tonight solely to rest.",
+        "Kkaebi: I will have a brand new golden key ready to unlock tomorrow morning for you, so surrender all worries to me and sleep peacefully tonight. You are deeply precious."
+      ]
+    },
+    {
+      "id": "joke",
+      "chip_title": "DE Can I touch your horns? 😈",
+      "user_question": "DE Kkaebi, can I touch the cute little horns on your head?",
+      "steps": [
+        "Kkaebi: Hey! A goblin's horns are off-limits! ...Because it tickles so much! Bwahaha!",
+        "Kkaebi: Targeting my horns again? The admission fee is three warm pastries—nothing in this realm is free!",
+        "Kkaebi: If you keep trying, I might swing my club and give you a matching pair of goblin horns! Haha!",
+        "Kkaebi: Fascinated by my horns? They are mystical antennas that grew over a thousand years listening to human wishes and sorrows.",
+        "Kkaebi: What is truly magnificent is not my horns, but your courage to embrace each day! Alright, I will grant you one special pat!"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Das war alles für heute! Schmiede morgen frische Glücksschlüssel.",
+    "Möge dieser Rat dir heute Kraft und Klarheit schenken!"
+  ],
+  "weekly_openers": {
+    "lotto": "Heute steht das Glück im Zeichen des Schicksals...",
+    "interview": "Heute ist der Tag, um deine wahre Stärke zu zeigen...",
+    "relationship": "Zwischenmenschliche Bande blühen heute auf...",
+    "healing": "Ruhe und Gelassenheit begleiten deinen Abend...",
+    "joke": "Ein heiteres Koboldlachen vertreibt alle Sorgen..."
+  }
+}

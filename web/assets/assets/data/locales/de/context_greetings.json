@@ -1,0 +1,68 @@
+{
+  "first_visit": {
+    "morning": [
+      "Ein neues Gesicht im Morgengrauen! Willkommen beim DOK-KEY-Portal!",
+      "Früher Gast am Morgen — heute halten die Sterne Besonderes für dich bereit.",
+      "Willkommen! Lass uns gemeinsam deinen allerersten Glücksschlüssel schmieden."
+    ],
+    "noon": [
+      "Willkommen zur Mittagsstunde! Setz dich, Kkaebi öffnet dir die Tore des Glücks.",
+      "Ein neuer Besucher im warmen Sonnenlicht — beste Vorzeichen für den Tag!",
+      "Schön, dass du hier bist! Die Mittagsenergie bringt fruchtbare Begegnungen."
+    ],
+    "evening": [
+      "Ein erster Besuch im Abendlicht! Bereit, das Schicksal des Tages zu entschlüsseln?",
+      "Willkommen zur Abendstunde! Lass uns sehen, welche Schätze auf dich warten.",
+      "Guten Abend, Reisender! Tritt ein in Kkaebis mystische Kammer."
+    ],
+    "night": [
+      "Erster Besuch zu mitternächtlicher Stunde — hier sprechen die Geheimnisse klar!",
+      "Willkommen in der stillen Nacht. Welche Frage bewegt dein Herz?",
+      "Später Gast, tiefes Geheimnis — Kkaebi lauscht deinen Wünschen."
+    ]
+  },
+  "revisit": {
+    "morning": [
+      "Schön, dich wiederzusehen{nick}! Ein neuer Tag, ein neuer Glücksschlüssel!",
+      "Guten Morgen{nick}! Die Tore stehen für dich bereits weit offen.",
+      "Willkommen zurück{nick}! Lass uns das Schicksal von heute ergründen."
+    ],
+    "noon": [
+      "Guten Tag{nick}! Hast du dich für das heutige Orakel gestärkt?",
+      "Willkommen am Mittag{nick}! Gute Bande und Erfolg begleiten dich.",
+      "Schön, dass du wieder da bist{nick}! Zeit für deine nächste Ziehung."
+    ],
+    "evening": [
+      "Guten Abend{nick}! Lass uns den Tag mit Weisheit abrunden.",
+      "Willkommen zurück im Abendlicht{nick}! Wie stand das Glück heute?",
+      "Wieder da{nick}! Die Abendstunde belohnt treue Gefährten."
+    ],
+    "night": [
+      "Noch wach zu später Stunde{nick}? Kkaebi hält stets Wache für dich.",
+      "Mitternachtsbesuch{nick}! Die nächtliche Ziehung birgt tiefe Einblicke.",
+      "Gute Nacht{nick}! Lass Sorgen los und schöpfe frische Kraft."
+    ]
+  },
+  "long_absence": {
+    "morning": [
+      "{nick}! Welch eine Freude nach all den Tagen! Wie die Morgensonne kehrst du zurück!",
+      "Schau an, {nick} ist wieder da! Die ältesten Schlüssel passen am besten. Tritt ein!",
+      "Willkommen daheim{nick}! Dein Platz bei Kkaebi war stets reserviert."
+    ],
+    "noon": [
+      "{nick}! Wie lange ist es her? Schön, dass du zur Mittagsstunde wieder da bist!",
+      "Alte Freunde kehren stets zurück! Willkommen{nick}, nimm Platz.",
+      "Ein freudiges Wiedersehen{nick}! Lass uns an vergangene Triumphe anknüpfen."
+    ],
+    "evening": [
+      "{nick} ist zurückgekehrt! Sogar das Abendrot strahlt heute heller.",
+      "Lange nicht gesehen{nick}! Hast du unterwegs viele Weisheiten gesammelt?",
+      "Endlich wieder da{nick}! Jeder Neuanfang beginnt mit einem Wiedersehen."
+    ],
+    "night": [
+      "In tiefer Nacht kehrt {nick} zurück! Wie eine vertraute Sternschnuppe.",
+      "{nick}! Auch nach langer Abwesenheit kennt Kkaebi dein Herz.",
+      "Willkommen zurück in der Nacht{nick}! Schlafe heute mit leichtem Geist."
+    ]
+  }
+}

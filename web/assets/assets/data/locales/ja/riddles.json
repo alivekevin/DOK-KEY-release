@@ -2,271 +2,901 @@
   {
     "id": "rid_001",
     "difficulty": 1,
-    "category": "nature",
-    "question": "雨の日にだけ姿を現し、屋根の下では決して会えないオレの友達は誰だ？",
+    "category": "wit",
+    "question": "なぞなぞ #01: 물에 떠도 가라앉지 않고, 사람을 태우고 바다를 건너는 것은?",
     "options": [
-      "虹",
-      "雷",
-      "霧",
-      "雫"
+      "배(Ship) (正解)",
+      "그물",
+      "돌",
+      "풍선"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！虹は空に住んでいるから、屋根の下では会えないのさ！",
-      "wrong": "残念！雨上がりの空にだけ会える友達、それは虹だよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_002",
     "difficulty": 1,
-    "category": "wordplay",
-    "question": "季節の変わり目に必ず来るのに、一度も椅子に座ったことのない客は？",
+    "category": "nature",
+    "question": "なぞなぞ #02: 낮에는 나를 따라다니고, 밤에는 사라지는 그림자 같은 친구는?",
     "options": [
-      "風",
-      "猫",
-      "郵便屋",
-      "月"
+      "그림자 (正解)",
+      "바람",
+      "발자국",
+      "메아리"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "さすが！風は窓から入ってくるが、椅子に座ってお茶を飲まないからね！",
-      "wrong": "ぶっぶー！座りもせず帰っていく客といえば、風だよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_003",
     "difficulty": 1,
-    "category": "wit",
-    "question": "千年前も今も同じ顔なのに、昨日と今日で気分が変わっているものは？",
+    "category": "wordplay",
+    "question": "なぞなぞ #03: 세상에서 가장 빠른 닭은 무엇일까?",
     "options": [
-      "月",
-      "山",
-      "川",
-      "星"
+      "후다닥 (正解)",
+      "토종닭",
+      "통닭",
+      "오골계"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "その通り！満ちたり欠けたり、月は千年前から気分屋なんだ！",
-      "wrong": "惜しい！毎晩表情を変える気分屋は、月さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_004",
     "difficulty": 2,
     "category": "nature",
-    "question": "たくさん食べれば食べるほど、持つ側がすっからかんになっていくものは？",
+    "question": "なぞなぞ #04: 눈으로는 볼 수 없지만 소리로 들리고, 손으로는 잡을 수 없지만 피부로 느껴지는 것은?",
     "options": [
-      "財布",
-      "備蓄米",
-      "胃袋",
-      "貯金箱"
+      "바람 (正解)",
+      "안개",
+      "햇빛",
+      "구름"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解！中身を全部召し上がられた財布の気持ち、少しは考えてあげな！",
-      "wrong": "ぶっぶー！食えば食うほど軽くなるのは、中身が減った財布さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_005",
     "difficulty": 2,
     "category": "wordplay",
-    "question": "世界中の宝を全部抱えているのに、一歩も動けない富豪は誰だ？",
+    "question": "なぞなぞ #05: 왕이 넘어지면 무엇이 될까?",
     "options": [
-      "地面",
-      "海",
-      "雲",
-      "山"
+      "킹콩 (正解)",
+      "여왕",
+      "세자",
+      "신하"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "その通り！大地の上のすべてが地面の財産さ。でも大地は永遠に不動だ！",
-      "wrong": "残念！世界のすべてを抱えて動けない富豪は、地面だよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_006",
     "difficulty": 2,
     "category": "wit",
-    "question": "朝は長く、昼は短く、夜には消えるが、決して死なないものは？",
+    "question": "なぞなぞ #06: 가면 갈수록 점점 더 좁아지고, 끝에 도달하면 되돌아서야 하는 길은?",
     "options": [
-      "影",
-      "露",
-      "朝焼け",
-      "灯り"
+      "골목길 (正解)",
+      "미로",
+      "터널",
+      "고속도로"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！影は夜に消えるが、翌朝また元気に生き返るんだよ！",
-      "wrong": "惜しい！朝長く夜に消えるが死なないのは影さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_007",
     "difficulty": 2,
     "category": "nature",
-    "question": "口はないのに歌い、手はないのに触れ、姿はないのに届くものは？",
+    "question": "なぞなぞ #07: 하늘에서 내려올 때는 하얗고 차가우나, 땅에 닿아 봄을 맞이하면 물이 되는 것은?",
     "options": [
-      "声",
-      "匂い",
-      "夢",
-      "風船"
+      "눈(Snow) (正解)",
+      "우박",
+      "서리",
+      "이슬"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解！声は姿がなくても、千キロ先の心まで届くんだ！",
-      "wrong": "ぶっぶー！口も手も姿もないのに届くのは、声さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_008",
     "difficulty": 3,
-    "category": "wit",
-    "question": "千回使っても減らず、一度も使わないと錆びてしまう宝物は？",
+    "category": "wisdom",
+    "question": "なぞなぞ #08: 남에게 주면 줄수록 내 마음은 더욱 풍요로워지고 결코 줄어들지 않는 것은?",
     "options": [
-      "心",
-      "刀",
-      "金貨",
-      "地図"
+      "사랑/자비 (正解)",
+      "금화",
+      "비단",
+      "양식"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "その通り！心は千回使っても減らないが、閉ざせば錆びるんだ！",
-      "wrong": "惜しい！使うほど輝き、しまい込むと錆びるのは心さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_009",
-    "difficulty": 3,
-    "category": "nature",
-    "question": "昨日の自分と絶対に会えず、明日の自分とは必ず会える存在は？",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #09: 바나나가 웃으면 무엇이라고 부를까?",
     "options": [
-      "今日",
-      "夢",
-      "風",
-      "光"
+      "바나나킥 (正解)",
+      "바나나칩",
+      "바나나우유",
+      "바나나빵"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解！今日は昨日には戻れず、明日へとしか歩かないからな！",
-      "wrong": "惜しい！昨日には会えず明日には必ず会えるのは、今日さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_010",
-    "difficulty": 3,
-    "category": "wordplay",
-    "question": "一人では決して歩けず、必ず誰かと一緒にしか行けない旅は？",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #10: 밤하늘에 은구슬처럼 떠올라 밤길을 밝혀주고 보름마다 둥글게 차오르는 것은?",
     "options": [
-      "未来",
-      "記憶",
-      "夢",
-      "地図"
+      "달(Moon) (正解)",
+      "북극성",
+      "샛별",
+      "은하수"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！未来は今日の自分と一緒にしか歩けない旅なんだよ！",
-      "wrong": "残念！必ず今日の自分と連れ立って行く旅は、未来さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_011",
-    "difficulty": 2,
-    "category": "nature",
-    "question": "扉が開いていれば静かに入り込み、閉まれば外でじっと待つ紳士は誰だ？",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #11: 한 번 잃어버리면 금이나 은으로도 결코 다시 살 수 없는 가장 소중한 보물은?",
     "options": [
-      "霧",
-      "雨",
-      "風",
-      "月光"
+      "시간(Time) (正解)",
+      "보석",
+      "명예",
+      "지위"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！霧は閉まった扉の外で静かに待つ紳士的な友達さ！",
-      "wrong": "ぶっぶー！閉まった扉の前で待つ紳士は、霧さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_012",
     "difficulty": 2,
     "category": "wordplay",
-    "question": "ドッケビが冷蔵庫の中で一番大事だという宝物は？",
+    "question": "なぞなぞ #12: 소가 도시에 살면 무엇이라고 부를까?",
     "options": [
-      "おにぎり一膳",
-      "炭酸飲料",
-      "キムチ",
-      "アイス"
+      "시티소(소시티) (正解)",
+      "도시소",
+      "서울소",
+      "한우"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "かっかっか！愛のこもったおにぎりの心臓、ごはん一膳さ！",
-      "wrong": "残念！冷蔵庫の本当の宝物は、心のこもったごはんだよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_013",
     "difficulty": 2,
-    "category": "wit",
-    "question": "扉を十個開けても入らないのに、一つ閉まると待ってくれる存在は？",
+    "category": "nature",
+    "question": "なぞなぞ #13: 뿌리는 땅속 깊이 박혀 있고 가지는 하늘을 향하며 사계절 내내 푸른 절개를 지키는 것은?",
     "options": [
-      "霧",
-      "風",
-      "影",
-      "匂い"
+      "소나무 (正解)",
+      "대나무",
+      "단풍나무",
+      "버드나무"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解！霧は扉を閉めると外で待ってくれる潔癖な友達さ。",
-      "wrong": "ぶっぶー！閉まった扉の前で待つのは霧だよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_014",
     "difficulty": 3,
-    "category": "nature",
-    "question": "食べれば食べるほど減るのではなく増えていくものは？",
+    "category": "wit",
+    "question": "なぞなぞ #14: 열쇠 구멍은 있지만 문은 없고, 건반은 있지만 음악은 나오지 않는 현대의 신물(神物)은?",
     "options": [
-      "知識",
-      "お菓子",
-      "麺",
-      "はちみつ"
+      "컴퓨터 자판(Keyboard) (正解)",
+      "피아노",
+      "오르간",
+      "자물쇠"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "お見事！知識は分け合うほど増える唯一の食べ物さ！",
-      "wrong": "惜しい！増えていく食べ物、それは知識だよ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   },
   {
     "id": "rid_015",
     "difficulty": 3,
-    "category": "wordplay",
-    "question": "ドッケビが百回言っても勝てないのに、一度言えば勝つ存在は？",
+    "category": "dokkaebi",
+    "question": "なぞなぞ #15: 도깨비가 밤마다 뚝딱 두드려 온갖 금은보화와 쌀을 쏟아내는 신비한 도구는?",
     "options": [
-      "記録",
-      "噂",
-      "歌",
-      "夢"
+      "도깨비 방망이 (正解)",
+      "도깨비 감투",
+      "요술 부채",
+      "보물 호리병"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正解だ！記録はドッケビの百回のおしゃべりより強力さ！",
-      "wrong": "ぶっぶー！百回のおしゃべりより強いのは、記録さ！"
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_016",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "なぞなぞ #16: 낮에는 붉은 빛으로 세상을 비추고 밤에는 서산 너머로 쉬러 가는 것은?",
+    "options": [
+      "태양 (正解)",
+      "달",
+      "등대",
+      "가로등"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_017",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "なぞなぞ #17: 머리에 뿔이 있고 두 발로 서며, 장난을 좋아하지만 착한 사람을 돕는 전통 요정은?",
+    "options": [
+      "도깨비 (正解)",
+      "구미호",
+      "해태",
+      "용"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_018",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #18: 차(Car) 문을 세게 닫으면 안 되는 이유는?",
+    "options": [
+      "카문(문)이 닫혀서 (正解)",
+      "차가 아파서",
+      "경찰이 와서",
+      "기름이 새서"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_019",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #19: 비가 온 뒤 하늘에 걸리는 일곱 빛깔의 다리는?",
+    "options": [
+      "무지개 (正解)",
+      "은하수",
+      "오작교",
+      "구름다리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_020",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "なぞなぞ #20: 몸은 쇠로 되어 있고 머리는 뾰족하여, 두드릴수록 깊숙이 들어가는 것은?",
+    "options": [
+      "못 (正解)",
+      "바늘",
+      "화살",
+      "칼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_021",
+    "difficulty": 2,
+    "category": "wisdom",
+    "question": "なぞなぞ #21: 지혜로운 자는 물처럼 흐르고, 어진 자는 무엇처럼 묵직하게 머무는가?",
+    "options": [
+      "산(Mountain) (正解)",
+      "바람",
+      "구름",
+      "불꽃"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_022",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #22: 오리가 얼면 무엇이 될까?",
+    "options": [
+      "언덕(Duck) (正解)",
+      "빙오리",
+      "오리얼음",
+      "냉동오리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_023",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "なぞなぞ #23: 봄에는 꽃을 피우고 가을에는 달콤한 열매를 맺으며 사람에게 그늘을 주는 것은?",
+    "options": [
+      "나무 (正解)",
+      "풀",
+      "바위",
+      "연못"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_024",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #24: 모든 강과 바다가 가장 낮은 곳으로 흘러가 이루어지듯, 사람을 크게 만드는 미덕은?",
+    "options": [
+      "겸손 (正解)",
+      "욕심",
+      "고집",
+      "자만"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_025",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "なぞなぞ #25: 가장 어두운 곳에서 스스로를 태워 주위를 환하게 밝혀주는 것은?",
+    "options": [
+      "촛불 (正解)",
+      "거울",
+      "유리창",
+      "항아리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_026",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #26: 신사가 자기소개를 할 때 하는 말은?",
+    "options": [
+      "신사임당 (正解)",
+      "신사입니다",
+      "신사숙녀",
+      "신사동"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_027",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #27: 바다에서는 헤엄치고 하늘에서는 날 수 없으나, 물속에서 가장 자유로운 생물은?",
+    "options": [
+      "물고기 (正解)",
+      "개구리",
+      "거북이",
+      "물개"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_028",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #28: 마음속에 품은 씨앗 하나가 자라나 인생의 숲을 이룬다. 이 씨앗의 이름은?",
+    "options": [
+      "생각/마음가짐 (正解)",
+      "재물",
+      "의복",
+      "음식"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_029",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "なぞなぞ #29: 입은 하나인데 수많은 사람의 말을 전달하고, 귀는 없는데 온갖 소리를 다 전하는 것은?",
+    "options": [
+      "전화기 (正解)",
+      "라디오",
+      "텔레비전",
+      "마이크"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_030",
+    "difficulty": 2,
+    "category": "dokkaebi",
+    "question": "なぞなぞ #30: 도깨비가 가장 좋아하는 음식이자, 잔치 때마다 빚어 먹는 쫀득한 별미는?",
+    "options": [
+      "메밀묵 (正解)",
+      "도토리묵",
+      "인절미",
+      "시루떡"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_031",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "なぞなぞ #31: 봄에 씨앗을 뿌려 가을에 노랗게 익어 온 백성의 양식이 되는 황금빛 곡식은?",
+    "options": [
+      "벼(쌀) (正解)",
+      "보리",
+      "옥수수",
+      "밀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_032",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #32: 호랑이가 타고 다니는 오토바이는?",
+    "options": [
+      "타이거(타 이거) (正解)",
+      "사자바이크",
+      "호호바이크",
+      "표범카"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_033",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "なぞなぞ #33: 몸에 수많은 바늘을 달고 있어 사자나 표범도 함부로 덤비지 못하는 동물은?",
+    "options": [
+      "고슴도치 (正解)",
+      "두더지",
+      "다람쥐",
+      "너구리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_034",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #34: 남의 허물을 덮어주고 스스로의 허물을 살피는 거울의 이름은?",
+    "options": [
+      "반성/성찰 (正解)",
+      "요술거울",
+      "청동거울",
+      "돋보기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_035",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #35: 물고기 중에서 가장 공부를 열심히 하는 물고기는?",
+    "options": [
+      "고등어 (正解)",
+      "명태",
+      "참치",
+      "갈치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_036",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #36: 밤에는 활짝 피어 은은한 향기를 풍기고 아침 햇살이 비추면 꽃잎을 닫는 꽃은?",
+    "options": [
+      "달맞이꽃 (正解)",
+      "해바라기",
+      "나팔꽃",
+      "장미"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_037",
+    "difficulty": 3,
+    "category": "wit",
+    "question": "なぞなぞ #37: 가장 단단한 쇠도 녹이고, 가장 차가운 얼음도 순식간에 물로 바꾸는 힘은?",
+    "options": [
+      "열정/불꽃 (正解)",
+      "칼날",
+      "바위",
+      "망치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_038",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #38: 비가 올 때 먹으면 가장 기분 좋은 빵은?",
+    "options": [
+      "우산빵(비빵) (正解)",
+      "식빵",
+      "단팥빵",
+      "크림빵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_039",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "なぞなぞ #39: 온 산을 붉고 노랗게 물들이며 가을의 절경을 완성하는 나뭇잎은?",
+    "options": [
+      "단풍잎 (正解)",
+      "솔잎",
+      "연잎",
+      "은행잎"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_040",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #40: 천 걸음 만 걸음을 걸어도 제자리에 머물지 않고 끝내 목적지에 닿게 하는 것은?",
+    "options": [
+      "꾸준함(끈기) (正解)",
+      "신발",
+      "지팡이",
+      "지도"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_041",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "なぞなぞ #41: 주머니 속에 넣으면 가벼워지고, 밖으로 꺼내어 쓰면 무거워지는 것은?",
+    "options": [
+      "비밀/약속 (正解)",
+      "돌멩이",
+      "손수건",
+      "동전"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_042",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #42: 자동차가 울면 무엇이 될까?",
+    "options": [
+      "잉카(Car) (正解)",
+      "붕붕이",
+      "카센터",
+      "트럭"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_043",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #43: 겨울잠에서 깨어나 봄비가 내리면 개굴개굴 노래를 부르는 동물은?",
+    "options": [
+      "개구리 (正解)",
+      "뱀",
+      "곰",
+      "다람쥐"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_044",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "なぞなぞ #44: 마음이 어지러울 때 침묵을 지키고 내면을 비추면 찾아오는 고요함은?",
+    "options": [
+      "평온(Zen) (正解)",
+      "소음",
+      "혼란",
+      "분노"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_045",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #45: 호박이 넝쿨째 굴러들어 오면 무엇을 외쳐야 할까?",
+    "options": [
+      "대박 (正解)",
+      "중박",
+      "소박",
+      "호박죽"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_046",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "なぞなぞ #46: 하늘 높이 날아올라 날카로운 눈으로 먹이를 찾고 용맹의 상징이 되는 새는?",
+    "options": [
+      "독수리 (正解)",
+      "참새",
+      "비둘기",
+      "까치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_047",
+    "difficulty": 3,
+    "category": "wit",
+    "question": "なぞなぞ #47: 비울수록 더 많은 것을 담을 수 있고, 가득 차면 더 이상 담을 수 없는 그릇은?",
+    "options": [
+      "마음의 그릇 (正解)",
+      "밥공기",
+      "물통",
+      "가방"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_048",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "なぞなぞ #48: 세상에서 가장 슬픈 나무는?",
+    "options": [
+      "유유자적(ㅠㅠ)나무 (正解)",
+      "소나무",
+      "감나무",
+      "밤나무"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_049",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "なぞなぞ #49: 어둠을 가르고 여명을 알리며 붉은 볏을 세우고 아침을 깨우는 십이지신 동물은?",
+    "options": [
+      "닭(Rooster) (正解)",
+      "소",
+      "호랑이",
+      "토끼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_050",
+    "difficulty": 3,
+    "category": "dokkaebi",
+    "question": "なぞなぞ #50: 도깨비가 99개 황금 열쇠를 모은 용사에게 수여하는 최고의 영예는?",
+    "options": [
+      "도깨비 마스터(DOKKEY Master) (正解)",
+      "보물사냥꾼",
+      "열쇠장인",
+      "골드캡틴"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "見事正解じゃ！クケビから黄金のボーナスキーを授けよう！",
+      "wrong": "惜しい！心を落ち着かせて次の問題に挑むのじゃ！"
     }
   }
 ]

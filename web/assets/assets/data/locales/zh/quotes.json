@@ -1,135 +1,902 @@
 [
   {
     "id": "quo_001",
-    "text": "跌倒了顺便从地上捡起一枚闪亮的金币再站起来，这就是鬼怪的从容之道。",
-    "category": "깨비말",
-    "tone_tags": [
-      "comic",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_002",
-    "text": "狂风呼啸时切莫硬顶风暴；展开你的折扇，借风之势翱翔天际吧。",
-    "category": "생활속담",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_001]",
+    "category": "zen",
     "tone_tags": [
       "calm",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_003",
-    "text": "莫贪求金斧银斧，最贴合自己手掌的朴素铁斧砍柴最是利落顺手。",
-    "category": "깨비말",
-    "tone_tags": [
-      "calm",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_004",
-    "text": "前门关上时切莫灰心，调皮的精灵总会在后墙悄悄留下一道光明的缝隙。",
-    "category": "깨비말",
-    "tone_tags": [
-      "hope",
       "mystery"
     ]
   },
   {
-    "id": "quo_005",
-    "text": "若想讨好遇见的每一个人，哪怕是神奇的如意神棒也会因疲累而折断。",
-    "category": "도깨비풍자",
+    "id": "quo_002",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_002]",
+    "category": "zen",
     "tone_tags": [
-      "conflict",
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_003",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_003]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_004",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_004]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_005",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_005]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_006",
-    "text": "能够在月光之下从容细品一盏温热清茶之人，才是世间最富有的心灵。",
-    "category": "깨비말",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_006]",
+    "category": "zen",
     "tone_tags": [
-      "calm",
-      "lonely"
+      "meeting",
+      "farewell"
     ]
   },
   {
     "id": "quo_007",
-    "text": "未按剧本发展的一天，或许是天地神灵悄悄埋下的一份惊喜盲盒。",
-    "category": "깨비말",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_007]",
+    "category": "zen",
     "tone_tags": [
-      "chaos",
-      "irony"
+      "conflict",
+      "chaos"
     ]
   },
   {
     "id": "quo_008",
-    "text": "率先伸出温热双手的人绝非丢了面子，而是主动握住了机缘的珍贵钥匙。",
-    "category": "생활속담",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_008]",
+    "category": "zen",
     "tone_tags": [
-      "meeting",
-      "hope"
+      "lonely",
+      "horror"
     ]
   },
   {
     "id": "quo_009",
-    "text": "若双手紧紧攥着去年的枯叶，便没有多余的掌心去拥抱春天盛开的繁花。",
-    "category": "생활속담",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_009]",
+    "category": "zen",
     "tone_tags": [
       "farewell",
-      "calm"
+      "irony"
     ]
   },
   {
     "id": "quo_010",
-    "text": "所谓恐惧，只要点亮心灯看清真相，便会像叠好的被子一样平淡无奇。",
-    "category": "도깨비풍자",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_010]",
+    "category": "zen",
     "tone_tags": [
-      "horror",
-      "passion"
+      "chaos",
+      "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "在一整串钥匙中，往往是那把磨损最旧的钥匙最能顺滑地开启锁孔。",
-    "category": "key",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_011]",
+    "category": "zen",
     "tone_tags": [
+      "horror",
       "hope"
     ]
   },
   {
     "id": "quo_012",
-    "text": "深夜里的真情倾诉，比白昼中的客套寒暄要真诚上百倍。",
-    "category": "night",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_012]",
+    "category": "zen",
     "tone_tags": [
-      "lonely",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_013",
-    "text": "清晨写下的些许遗憾，到了黄昏正是卸下心灵包袱的最佳时刻。",
-    "category": "daily",
-    "tone_tags": [
-      "farewell",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_014",
-    "text": "主动热情呼唤幸运的人，脚步总是能比运气本身抢先一步到达。",
-    "category": "fortune",
-    "tone_tags": [
-      "hope",
+      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_015",
-    "text": "发自内心的爽朗欢笑，是击破一切烦恼与晦气的最强神棒。",
-    "category": "humor",
+    "id": "quo_013",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_013]",
+    "category": "zen",
     "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_014",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_014]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
       "comic"
+    ]
+  },
+  {
+    "id": "quo_015",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_015]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_016",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_016]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_017",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_017]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_018",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_018]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_019",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_019]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_020",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_020]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_021",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_021]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_022",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_022]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_023",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_023]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_024",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_024]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_025]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_026]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_027]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_028]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_029]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_030]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_031",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_031]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_032",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_032]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_033",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_033]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_034",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_034]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_035",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_035]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_036",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_036]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_037",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_037]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_038",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_038]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_039",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_039]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_040",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_040]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_041",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_041]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_042",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_042]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_043",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_043]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_044]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_045]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_046]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_047]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_048]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_049]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_050",
+    "text": "宁静非自外来，皆由本心而生。安住当下便是福。[quo_050]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_051]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_052]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_053]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_054]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_055]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_056]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_057",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_057]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_058",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_058]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_059",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_059]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_060]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_061",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_061]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_062",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_062]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_063",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_063]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_064",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_064]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_065",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_065]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_066",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_066]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_067",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_067]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_068",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_068]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_069",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_069]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_070",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_070]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_071]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_072",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_072]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_073",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_073]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_074",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_074]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_075",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_075]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_076",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_076]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_077",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_077]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_078]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_079]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_080]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_081]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_082]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_083]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_084",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_084]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_085",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_085]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_086",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_086]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_087]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_088]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_089]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_090]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_091]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_092]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_093]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_094]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_095",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_095]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_096",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_096]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_097",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_097]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_098",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_098]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_099",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_099]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_100",
+    "text": "千里之行，始于足下。步步坚实，终成大器。[quo_100]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
     ]
   }
 ]

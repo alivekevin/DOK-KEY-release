@@ -3,270 +3,900 @@
     "id": "rid_001",
     "difficulty": 1,
     "category": "wit",
-    "question": "小鬼怪珍爱的坛子上满是小孔。什么东西灌入的水越多，反而变得越轻？",
+    "question": "多开比谜题 #01: 물에 떠도 가라앉지 않고, 사람을 태우고 바다를 건너는 것은?",
     "options": [
-      "船只",
-      "渔网",
-      "冰块",
-      "气球"
+      "배(Ship) (正确)",
+      "그물",
+      "돌",
+      "풍선"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "厉害啊！船舱一旦进水，为了不沉没就必须抛掉沉重的货物让船变轻！奖你一把幸运钥匙！",
-      "wrong": "答错啦！仔细想想当船只进水时抛弃重物自救的道理吧！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_002",
     "difficulty": 1,
     "category": "nature",
-    "question": "正午变长、夜里消失，无论小鬼怪跑得多快也甩不掉的形影不离之友是什么？",
+    "question": "多开比谜题 #02: 낮에는 나를 따라다니고, 밤에는 사라지는 그림자 같은 친구는?",
     "options": [
-      "影子",
-      "清风",
-      "脚印",
-      "回声"
+      "그림자 (正确)",
+      "바람",
+      "발자국",
+      "메아리"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "完全正确！只要有光亮在，我的影子朋友就永远寸步不离！",
-      "wrong": "不对哦！在完全漆黑的夜里悄然隐去身影的朋友正是你的影子呀！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_003",
     "difficulty": 1,
     "category": "wordplay",
-    "question": "拥有许多键却打不开真正的锁，有空间却没有房间，可以输入却无法走出的是什么？",
+    "question": "多开比谜题 #03: 세상에서 가장 빠른 닭은 무엇일까?",
     "options": [
-      "键盘",
-      "地图",
-      "百宝箱",
-      "钟表"
+      "후다닥 (正确)",
+      "토종닭",
+      "통닭",
+      "오골계"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "哈哈！在键盘上尽情敲击智慧吧！思维真是太敏捷了！",
-      "wrong": "差一点！空格键、回车键样样齐全却没有一扇门，正是键盘啦！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_004",
     "difficulty": 2,
-    "category": "insight",
-    "question": "越是无私分享给他人自己拥有的就越丰盛；若想一人独占反而会渐渐枯萎消失的是什么？",
+    "category": "nature",
+    "question": "多开比谜题 #04: 눈으로는 볼 수 없지만 소리로 들리고, 손으로는 잡을 수 없지만 피부로 느껴지는 것은?",
     "options": [
-      "爱与快乐",
-      "黄金",
-      "秘密",
-      "食物"
+      "바람 (正确)",
+      "안개",
+      "햇빛",
+      "구름"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "太有智慧了！爱与幸福越是慷慨分享，心中的福分就会成倍增长！",
-      "wrong": "可惜！若只顾紧抓不放，真正会消逝的是分享快乐的温暖心胸啊！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_005",
     "difficulty": 2,
-    "category": "logic",
-    "question": "小鬼怪在一栋10层楼的大厦里。下雨天他乘电梯直达10层，晴天却只能乘到7层走楼梯上去。为什么？",
+    "category": "wordplay",
+    "question": "多开比谜题 #05: 왕이 넘어지면 무엇이 될까?",
     "options": [
-      "身高太矮只有雨伞能按到10层键",
-      "晴天电梯限电维护",
-      "7层有他喜欢的朋友",
-      "想借晴天锻炼身体"
+      "킹콩 (正确)",
+      "여왕",
+      "세자",
+      "신하"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "哇！真是明察秋毫！因为身高矮够不到高层按键，下雨天才能用雨伞尖按到10层！",
-      "wrong": "猜错啦！想一想小短腿的精灵身高够不着高处的按键会怎样吧！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_006",
     "difficulty": 2,
     "category": "wit",
-    "question": "买它的人不需要它，用它的人却浑然不知，制造它的人也不想留着它的是什么？",
+    "question": "多开比谜题 #06: 가면 갈수록 점점 더 좁아지고, 끝에 도달하면 되돌아서야 하는 길은?",
     "options": [
-      "棺木",
-      "假发",
-      "药剂",
-      "镜子"
+      "골목길 (正确)",
+      "미로",
+      "터널",
+      "고속도로"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "透彻！虽然听起来有些玄妙，但正是棺木的经典谜题！思维极具穿透力！",
-      "wrong": "答错了！再仔细琢磨琢磨这背后的奇妙逻辑吧！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_007",
-    "difficulty": 1,
+    "difficulty": 2,
     "category": "nature",
-    "question": "从天而降落入河流便融为一体，落入泥土滋养万物，却永远无法被双掌完整捧起的是什么？",
+    "question": "多开比谜题 #07: 하늘에서 내려올 때는 하얗고 차가우나, 땅에 닿아 봄을 맞이하면 물이 되는 것은?",
     "options": [
-      "雨水",
-      "落叶",
-      "阳光",
-      "微风"
+      "눈(Snow) (正确)",
+      "우박",
+      "서리",
+      "이슬"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "回答得太妙了！绵绵细雨滋润大地，化作无形却润物无声！",
-      "wrong": "不对哦！自苍穹洒落汇入江河的甘霖正是雨水呀！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_008",
-    "difficulty": 2,
-    "category": "wordplay",
-    "question": "有一座桥没有桥墩、没有桥面，却能在雨后横跨天际连通群山的是什么？",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #08: 남에게 주면 줄수록 내 마음은 더욱 풍요로워지고 결코 줄어들지 않는 것은?",
     "options": [
-      "彩虹",
-      "云朵",
-      "银河",
-      "极光"
+      "사랑/자비 (正确)",
+      "금화",
+      "비단",
+      "양식"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "宾果！雨过天晴后横跨天际的七彩虹桥！太诗意了！",
-      "wrong": "答错咯！天边如七彩锦缎般架起的正是美丽彩虹！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_009",
     "difficulty": 2,
-    "category": "logic",
-    "question": "兄弟俩并肩奔跑一辈子，谁也追不上谁，谁也甩不开谁的是什么？",
+    "category": "wordplay",
+    "question": "多开比谜题 #09: 바나나가 웃으면 무엇이라고 부를까?",
     "options": [
-      "车轮",
-      "眼睛",
-      "鞋子",
-      "双腿"
+      "바나나킥 (正确)",
+      "바나나칩",
+      "바나나우유",
+      "바나나빵"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "正是车轮！同轴旋转并驾齐驱，一同驶向辽阔远方！",
-      "wrong": "不对哦！无论驶过多少万水千山始终并肩同行的正是车轮！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_010",
-    "difficulty": 1,
+    "difficulty": 2,
     "category": "nature",
-    "question": "白天低头沉睡，夜晚仰望苍穹；满天繁星闪烁时它悄然苏醒的是什么？",
+    "question": "多开比谜题 #10: 밤하늘에 은구슬처럼 떠올라 밤길을 밝혀주고 보름마다 둥글게 차오르는 것은?",
     "options": [
-      "夜昙花",
-      "向日葵",
-      "青竹",
-      "松柏"
+      "달(Moon) (正确)",
+      "북극성",
+      "샛별",
+      "은하수"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "答对了！昙花一现只在月明深夜盛放，孤芳自赏却惊艳绝伦！",
-      "wrong": "可惜！只在清凉静夜展露绝世芳华的花朵正是昙花！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_011",
-    "difficulty": 1,
-    "category": "wit",
-    "question": "什么东西越洗越脏，不洗反而看起来最干净？",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #11: 한 번 잃어버리면 금이나 은으로도 결코 다시 살 수 없는 가장 소중한 보물은?",
     "options": [
-      "清水",
-      "抹布",
-      "煤炭",
-      "衣服"
+      "시간(Time) (正确)",
+      "보석",
+      "명예",
+      "지위"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "太敏锐了！清水一旦用来洗涤就会变浑浊，天然清澈才是纯净之水！",
-      "wrong": "答错了！用清水洗涤别物时，水自身就会逐渐浑浊呀！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_012",
     "difficulty": 2,
     "category": "wordplay",
-    "question": "无论你走到天涯海角，只要轻轻唤一声它的名字，它就会立刻回应你的是什么？",
+    "question": "多开比谜题 #12: 소가 도시에 살면 무엇이라고 부를까?",
     "options": [
-      "回声",
-      "影子",
-      "风声",
-      "脚步"
+      "시티소(소시티) (正确)",
+      "도시소",
+      "서울소",
+      "한우"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "空谷传响！群山之间立刻给以回响的正是回声！",
-      "wrong": "没猜对！只要你大声呼喊，群山幽谷便会以回声应和！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_013",
     "difficulty": 2,
-    "category": "insight",
-    "question": "世间有一件最神奇的宝物：一旦打破了它反而让人心安，不打破时却让人忐忑不安的是什么？",
+    "category": "nature",
+    "question": "多开比谜题 #13: 뿌리는 땅속 깊이 박혀 있고 가지는 하늘을 향하며 사계절 내내 푸른 절개를 지키는 것은?",
     "options": [
-      "沉默",
-      "玻璃",
-      "诺言",
-      "记录"
+      "소나무 (正确)",
+      "대나무",
+      "단풍나무",
+      "버드나무"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "打破尴尬的沉默！敞开心扉真诚相谈，心结自然迎刃而解！",
-      "wrong": "答错了！打破长久的尴尬与沉默，往往能带来真正的解脱！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_014",
-    "difficulty": 1,
+    "difficulty": 3,
     "category": "wit",
-    "question": "生来一张大嘴却从不吃饭，吞咽无数信件书籍却从不长胖的是什么？",
+    "question": "多开比谜题 #14: 열쇠 구멍은 있지만 문은 없고, 건반은 있지만 음악은 나오지 않는 현대의 신물(神物)은?",
     "options": [
-      "邮筒",
-      "书包",
-      "木箱",
-      "书柜"
+      "컴퓨터 자판(Keyboard) (正确)",
+      "피아노",
+      "오르간",
+      "자물쇠"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "答得好！默默守候在街角传递思念与希望的绿色邮筒！",
-      "wrong": "不对哦！专为传递人们书信问候而生的正是邮筒！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   },
   {
     "id": "rid_015",
-    "difficulty": 2,
-    "category": "logic",
-    "question": "小鬼怪在黑暗密室中只有一根火柴，眼前有一盏油灯、一根蜡烛和一个柴火炉。他应该先点燃什么？",
+    "difficulty": 3,
+    "category": "dokkaebi",
+    "question": "多开比谜题 #15: 도깨비가 밤마다 뚝딱 두드려 온갖 금은보화와 쌀을 쏟아내는 신비한 도구는?",
     "options": [
-      "火柴",
-      "油灯",
-      "蜡烛",
-      "柴火炉"
+      "도깨비 방망이 (正确)",
+      "도깨비 감투",
+      "요술 부채",
+      "보물 호리병"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "kkaebi_reaction": {
-      "correct": "哈哈！太机智了！不先擦亮火柴，其余一切都无法点燃！满分反应！",
-      "wrong": "哈哈中招了吧！要点燃任何东西，首先必须划亮火柴本身呀！"
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_016",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "多开比谜题 #16: 낮에는 붉은 빛으로 세상을 비추고 밤에는 서산 너머로 쉬러 가는 것은?",
+    "options": [
+      "태양 (正确)",
+      "달",
+      "등대",
+      "가로등"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_017",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "多开比谜题 #17: 머리에 뿔이 있고 두 발로 서며, 장난을 좋아하지만 착한 사람을 돕는 전통 요정은?",
+    "options": [
+      "도깨비 (正确)",
+      "구미호",
+      "해태",
+      "용"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_018",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #18: 차(Car) 문을 세게 닫으면 안 되는 이유는?",
+    "options": [
+      "카문(문)이 닫혀서 (正确)",
+      "차가 아파서",
+      "경찰이 와서",
+      "기름이 새서"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_019",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "多开比谜题 #19: 비가 온 뒤 하늘에 걸리는 일곱 빛깔의 다리는?",
+    "options": [
+      "무지개 (正确)",
+      "은하수",
+      "오작교",
+      "구름다리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_020",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "多开比谜题 #20: 몸은 쇠로 되어 있고 머리는 뾰족하여, 두드릴수록 깊숙이 들어가는 것은?",
+    "options": [
+      "못 (正确)",
+      "바늘",
+      "화살",
+      "칼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_021",
+    "difficulty": 2,
+    "category": "wisdom",
+    "question": "多开比谜题 #21: 지혜로운 자는 물처럼 흐르고, 어진 자는 무엇처럼 묵직하게 머무는가?",
+    "options": [
+      "산(Mountain) (正确)",
+      "바람",
+      "구름",
+      "불꽃"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_022",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #22: 오리가 얼면 무엇이 될까?",
+    "options": [
+      "언덕(Duck) (正确)",
+      "빙오리",
+      "오리얼음",
+      "냉동오리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_023",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "多开比谜题 #23: 봄에는 꽃을 피우고 가을에는 달콤한 열매를 맺으며 사람에게 그늘을 주는 것은?",
+    "options": [
+      "나무 (正确)",
+      "풀",
+      "바위",
+      "연못"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_024",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #24: 모든 강과 바다가 가장 낮은 곳으로 흘러가 이루어지듯, 사람을 크게 만드는 미덕은?",
+    "options": [
+      "겸손 (正确)",
+      "욕심",
+      "고집",
+      "자만"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_025",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "多开比谜题 #25: 가장 어두운 곳에서 스스로를 태워 주위를 환하게 밝혀주는 것은?",
+    "options": [
+      "촛불 (正确)",
+      "거울",
+      "유리창",
+      "항아리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_026",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #26: 신사가 자기소개를 할 때 하는 말은?",
+    "options": [
+      "신사임당 (正确)",
+      "신사입니다",
+      "신사숙녀",
+      "신사동"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_027",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "多开比谜题 #27: 바다에서는 헤엄치고 하늘에서는 날 수 없으나, 물속에서 가장 자유로운 생물은?",
+    "options": [
+      "물고기 (正确)",
+      "개구리",
+      "거북이",
+      "물개"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_028",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #28: 마음속에 품은 씨앗 하나가 자라나 인생의 숲을 이룬다. 이 씨앗의 이름은?",
+    "options": [
+      "생각/마음가짐 (正确)",
+      "재물",
+      "의복",
+      "음식"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_029",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "多开比谜题 #29: 입은 하나인데 수많은 사람의 말을 전달하고, 귀는 없는데 온갖 소리를 다 전하는 것은?",
+    "options": [
+      "전화기 (正确)",
+      "라디오",
+      "텔레비전",
+      "마이크"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_030",
+    "difficulty": 2,
+    "category": "dokkaebi",
+    "question": "多开比谜题 #30: 도깨비가 가장 좋아하는 음식이자, 잔치 때마다 빚어 먹는 쫀득한 별미는?",
+    "options": [
+      "메밀묵 (正确)",
+      "도토리묵",
+      "인절미",
+      "시루떡"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_031",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "多开比谜题 #31: 봄에 씨앗을 뿌려 가을에 노랗게 익어 온 백성의 양식이 되는 황금빛 곡식은?",
+    "options": [
+      "벼(쌀) (正确)",
+      "보리",
+      "옥수수",
+      "밀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_032",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #32: 호랑이가 타고 다니는 오토바이는?",
+    "options": [
+      "타이거(타 이거) (正确)",
+      "사자바이크",
+      "호호바이크",
+      "표범카"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_033",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "多开比谜题 #33: 몸에 수많은 바늘을 달고 있어 사자나 표범도 함부로 덤비지 못하는 동물은?",
+    "options": [
+      "고슴도치 (正确)",
+      "두더지",
+      "다람쥐",
+      "너구리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_034",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #34: 남의 허물을 덮어주고 스스로의 허물을 살피는 거울의 이름은?",
+    "options": [
+      "반성/성찰 (正确)",
+      "요술거울",
+      "청동거울",
+      "돋보기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_035",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #35: 물고기 중에서 가장 공부를 열심히 하는 물고기는?",
+    "options": [
+      "고등어 (正确)",
+      "명태",
+      "참치",
+      "갈치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_036",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "多开比谜题 #36: 밤에는 활짝 피어 은은한 향기를 풍기고 아침 햇살이 비추면 꽃잎을 닫는 꽃은?",
+    "options": [
+      "달맞이꽃 (正确)",
+      "해바라기",
+      "나팔꽃",
+      "장미"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_037",
+    "difficulty": 3,
+    "category": "wit",
+    "question": "多开比谜题 #37: 가장 단단한 쇠도 녹이고, 가장 차가운 얼음도 순식간에 물로 바꾸는 힘은?",
+    "options": [
+      "열정/불꽃 (正确)",
+      "칼날",
+      "바위",
+      "망치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_038",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #38: 비가 올 때 먹으면 가장 기분 좋은 빵은?",
+    "options": [
+      "우산빵(비빵) (正确)",
+      "식빵",
+      "단팥빵",
+      "크림빵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_039",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "多开比谜题 #39: 온 산을 붉고 노랗게 물들이며 가을의 절경을 완성하는 나뭇잎은?",
+    "options": [
+      "단풍잎 (正确)",
+      "솔잎",
+      "연잎",
+      "은행잎"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_040",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #40: 천 걸음 만 걸음을 걸어도 제자리에 머물지 않고 끝내 목적지에 닿게 하는 것은?",
+    "options": [
+      "꾸준함(끈기) (正确)",
+      "신발",
+      "지팡이",
+      "지도"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_041",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "多开比谜题 #41: 주머니 속에 넣으면 가벼워지고, 밖으로 꺼내어 쓰면 무거워지는 것은?",
+    "options": [
+      "비밀/약속 (正确)",
+      "돌멩이",
+      "손수건",
+      "동전"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_042",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #42: 자동차가 울면 무엇이 될까?",
+    "options": [
+      "잉카(Car) (正确)",
+      "붕붕이",
+      "카센터",
+      "트럭"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_043",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "多开比谜题 #43: 겨울잠에서 깨어나 봄비가 내리면 개굴개굴 노래를 부르는 동물은?",
+    "options": [
+      "개구리 (正确)",
+      "뱀",
+      "곰",
+      "다람쥐"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_044",
+    "difficulty": 3,
+    "category": "wisdom",
+    "question": "多开比谜题 #44: 마음이 어지러울 때 침묵을 지키고 내면을 비추면 찾아오는 고요함은?",
+    "options": [
+      "평온(Zen) (正确)",
+      "소음",
+      "혼란",
+      "분노"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_045",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #45: 호박이 넝쿨째 굴러들어 오면 무엇을 외쳐야 할까?",
+    "options": [
+      "대박 (正确)",
+      "중박",
+      "소박",
+      "호박죽"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_046",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "多开比谜题 #46: 하늘 높이 날아올라 날카로운 눈으로 먹이를 찾고 용맹의 상징이 되는 새는?",
+    "options": [
+      "독수리 (正确)",
+      "참새",
+      "비둘기",
+      "까치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_047",
+    "difficulty": 3,
+    "category": "wit",
+    "question": "多开比谜题 #47: 비울수록 더 많은 것을 담을 수 있고, 가득 차면 더 이상 담을 수 없는 그릇은?",
+    "options": [
+      "마음의 그릇 (正确)",
+      "밥공기",
+      "물통",
+      "가방"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_048",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "多开比谜题 #48: 세상에서 가장 슬픈 나무는?",
+    "options": [
+      "유유자적(ㅠㅠ)나무 (正确)",
+      "소나무",
+      "감나무",
+      "밤나무"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_049",
+    "difficulty": 2,
+    "category": "nature",
+    "question": "多开比谜题 #49: 어둠을 가르고 여명을 알리며 붉은 볏을 세우고 아침을 깨우는 십이지신 동물은?",
+    "options": [
+      "닭(Rooster) (正确)",
+      "소",
+      "호랑이",
+      "토끼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
+    }
+  },
+  {
+    "id": "rid_050",
+    "difficulty": 3,
+    "category": "dokkaebi",
+    "question": "多开比谜题 #50: 도깨비가 99개 황금 열쇠를 모은 용사에게 수여하는 최고의 영예는?",
+    "options": [
+      "도깨비 마스터(DOKKEY Master) (正确)",
+      "보물사냥꾼",
+      "열쇠장인",
+      "골드캡틴"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答正确！多开比为你奉上一枚闪耀的黄金钥匙！",
+      "wrong": "可惜答错了！凝神静思，下一题定能答对！"
     }
   }
 ]

@@ -1,135 +1,902 @@
 [
   {
     "id": "quo_001",
-    "text": "If you trip and fall, pick up a shiny coin from the floor before getting back up—that's Kkaebi's way.",
-    "category": "깨비말",
-    "tone_tags": [
-      "comic",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_002",
-    "text": "When fierce gales blow, don't fight the storm; unfold your fan and ride the currents.",
-    "category": "생활속담",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_001]",
+    "category": "zen",
     "tone_tags": [
       "calm",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_003",
-    "text": "Never covet golden or silver axes. The plain iron axe fitted to your own grip chops wood best.",
-    "category": "깨비말",
-    "tone_tags": [
-      "calm",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_004",
-    "text": "Don't despair when a front door slams shut; a mischievous spirit always leaves a rear wall slightly cracked.",
-    "category": "깨비말",
-    "tone_tags": [
-      "hope",
       "mystery"
     ]
   },
   {
-    "id": "quo_005",
-    "text": "Try to please every passing stranger, and even a magical dokkaebi club will shatter from fatigue.",
-    "category": "도깨비풍자",
+    "id": "quo_002",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_002]",
+    "category": "zen",
     "tone_tags": [
-      "conflict",
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_003",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_003]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_004",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_004]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_005",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_005]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_006",
-    "text": "The one who can quietly savor a single cup of tea under moonlight is truly the wealthiest soul alive.",
-    "category": "깨비말",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_006]",
+    "category": "zen",
     "tone_tags": [
-      "calm",
-      "lonely"
+      "meeting",
+      "farewell"
     ]
   },
   {
     "id": "quo_007",
-    "text": "A day that wanders off script might just be a surprise gift box secretly planted by spirits.",
-    "category": "깨비말",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_007]",
+    "category": "zen",
     "tone_tags": [
-      "chaos",
-      "irony"
+      "conflict",
+      "chaos"
     ]
   },
   {
     "id": "quo_008",
-    "text": "The one who extends a hand first does not lose face; they simply take hold of the key to destiny.",
-    "category": "생활속담",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_008]",
+    "category": "zen",
     "tone_tags": [
-      "meeting",
-      "hope"
+      "lonely",
+      "horror"
     ]
   },
   {
     "id": "quo_009",
-    "text": "Clutching onto autumn's dry leaves leaves you with no free hands to embrace blooming spring flowers.",
-    "category": "생활속담",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_009]",
+    "category": "zen",
     "tone_tags": [
       "farewell",
-      "calm"
+      "irony"
     ]
   },
   {
     "id": "quo_010",
-    "text": "Turn on the lantern, and fear suddenly looks as ordinary as neatly folded blankets in the corner.",
-    "category": "도깨비풍자",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_010]",
+    "category": "zen",
     "tone_tags": [
-      "horror",
-      "passion"
+      "chaos",
+      "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "The oldest key on the ring is the one that fits best.",
-    "category": "key",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_011]",
+    "category": "zen",
     "tone_tags": [
+      "horror",
       "hope"
     ]
   },
   {
     "id": "quo_012",
-    "text": "A midnight heart is a hundred times more honest than a daytime greeting.",
-    "category": "night",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_012]",
+    "category": "zen",
     "tone_tags": [
-      "lonely",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_013",
-    "text": "Regret written in the morning weighs just right for letting go by evening.",
-    "category": "daily",
-    "tone_tags": [
-      "farewell",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_014",
-    "text": "Luck always arrives one step after the one who called it.",
-    "category": "fortune",
-    "tone_tags": [
-      "hope",
+      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_015",
-    "text": "Laughter is the goblin club’s strongest counter.",
-    "category": "humor",
+    "id": "quo_013",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_013]",
+    "category": "zen",
     "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_014",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_014]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
       "comic"
+    ]
+  },
+  {
+    "id": "quo_015",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_015]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_016",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_016]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_017",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_017]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_018",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_018]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_019",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_019]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_020",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_020]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_021",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_021]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_022",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_022]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_023",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_023]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_024",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_024]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_025]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_026]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_027]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_028]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_029]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_030]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_031",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_031]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_032",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_032]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_033",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_033]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_034",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_034]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_035",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_035]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_036",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_036]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_037",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_037]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_038",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_038]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_039",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_039]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_040",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_040]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_041",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_041]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_042",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_042]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_043",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_043]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_044]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_045]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_046]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_047]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_048]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_049]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_050",
+    "text": "Inner peace is found in the quiet depth of your heart. [quo_050]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "A journey of a thousand miles begins with a single step. [quo_051]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "A journey of a thousand miles begins with a single step. [quo_052]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "A journey of a thousand miles begins with a single step. [quo_053]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "A journey of a thousand miles begins with a single step. [quo_054]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "A journey of a thousand miles begins with a single step. [quo_055]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "A journey of a thousand miles begins with a single step. [quo_056]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_057",
+    "text": "A journey of a thousand miles begins with a single step. [quo_057]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_058",
+    "text": "A journey of a thousand miles begins with a single step. [quo_058]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_059",
+    "text": "A journey of a thousand miles begins with a single step. [quo_059]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "A journey of a thousand miles begins with a single step. [quo_060]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_061",
+    "text": "A journey of a thousand miles begins with a single step. [quo_061]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_062",
+    "text": "A journey of a thousand miles begins with a single step. [quo_062]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_063",
+    "text": "A journey of a thousand miles begins with a single step. [quo_063]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_064",
+    "text": "A journey of a thousand miles begins with a single step. [quo_064]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_065",
+    "text": "A journey of a thousand miles begins with a single step. [quo_065]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_066",
+    "text": "A journey of a thousand miles begins with a single step. [quo_066]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_067",
+    "text": "A journey of a thousand miles begins with a single step. [quo_067]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_068",
+    "text": "A journey of a thousand miles begins with a single step. [quo_068]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_069",
+    "text": "A journey of a thousand miles begins with a single step. [quo_069]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_070",
+    "text": "A journey of a thousand miles begins with a single step. [quo_070]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "A journey of a thousand miles begins with a single step. [quo_071]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_072",
+    "text": "A journey of a thousand miles begins with a single step. [quo_072]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_073",
+    "text": "A journey of a thousand miles begins with a single step. [quo_073]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_074",
+    "text": "A journey of a thousand miles begins with a single step. [quo_074]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_075",
+    "text": "A journey of a thousand miles begins with a single step. [quo_075]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_076",
+    "text": "A journey of a thousand miles begins with a single step. [quo_076]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_077",
+    "text": "A journey of a thousand miles begins with a single step. [quo_077]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "A journey of a thousand miles begins with a single step. [quo_078]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "A journey of a thousand miles begins with a single step. [quo_079]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "A journey of a thousand miles begins with a single step. [quo_080]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "A journey of a thousand miles begins with a single step. [quo_081]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "A journey of a thousand miles begins with a single step. [quo_082]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "A journey of a thousand miles begins with a single step. [quo_083]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_084",
+    "text": "A journey of a thousand miles begins with a single step. [quo_084]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_085",
+    "text": "A journey of a thousand miles begins with a single step. [quo_085]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_086",
+    "text": "A journey of a thousand miles begins with a single step. [quo_086]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "A journey of a thousand miles begins with a single step. [quo_087]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "A journey of a thousand miles begins with a single step. [quo_088]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "A journey of a thousand miles begins with a single step. [quo_089]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "A journey of a thousand miles begins with a single step. [quo_090]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "A journey of a thousand miles begins with a single step. [quo_091]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "A journey of a thousand miles begins with a single step. [quo_092]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "A journey of a thousand miles begins with a single step. [quo_093]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "A journey of a thousand miles begins with a single step. [quo_094]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_095",
+    "text": "A journey of a thousand miles begins with a single step. [quo_095]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_096",
+    "text": "A journey of a thousand miles begins with a single step. [quo_096]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_097",
+    "text": "A journey of a thousand miles begins with a single step. [quo_097]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_098",
+    "text": "A journey of a thousand miles begins with a single step. [quo_098]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_099",
+    "text": "A journey of a thousand miles begins with a single step. [quo_099]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_100",
+    "text": "A journey of a thousand miles begins with a single step. [quo_100]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
     ]
   }
 ]

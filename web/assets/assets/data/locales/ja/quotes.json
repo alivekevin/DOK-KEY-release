@@ -1,135 +1,902 @@
 [
   {
     "id": "quo_001",
-    "text": "千年生きて分かったのは、運は呼べば少し早く来るということだ。",
-    "category": "깨비말",
-    "tone_tags": [
-      "comic",
-      "hope"
-    ]
-  },
-  {
-    "id": "quo_002",
-    "text": "鍵は開けたい人の手の大きさに合わせて作られる。",
-    "category": "생활속담",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_001]",
+    "category": "zen",
     "tone_tags": [
       "calm",
-      "passion"
-    ]
-  },
-  {
-    "id": "quo_003",
-    "text": "今日が未完の障子紙でも、明日は貼り直せる。",
-    "category": "깨비말",
-    "tone_tags": [
-      "calm",
-      "irony"
-    ]
-  },
-  {
-    "id": "quo_004",
-    "text": "雷が鳴る日は、天もたまには叫びたくなるということだ。",
-    "category": "깨비말",
-    "tone_tags": [
-      "hope",
       "mystery"
     ]
   },
   {
-    "id": "quo_005",
-    "text": "月に一度は、自分を大安にしてみよう。",
-    "category": "도깨비풍자",
+    "id": "quo_002",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_002]",
+    "category": "zen",
     "tone_tags": [
-      "conflict",
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_003",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_003]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_004",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_004]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_005",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_005]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
       "lonely"
     ]
   },
   {
     "id": "quo_006",
-    "text": "迷い道は、地図を捨てた者だけが新しい道を見つける。",
-    "category": "깨비말",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_006]",
+    "category": "zen",
     "tone_tags": [
-      "calm",
-      "lonely"
+      "meeting",
+      "farewell"
     ]
   },
   {
     "id": "quo_007",
-    "text": "笑いはどっきり棒の最高の攻略法だ。",
-    "category": "깨비말",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_007]",
+    "category": "zen",
     "tone_tags": [
-      "chaos",
-      "irony"
+      "conflict",
+      "chaos"
     ]
   },
   {
     "id": "quo_008",
-    "text": "深夜の本音は、昼の挨拶より百倍正直だ。",
-    "category": "생활속담",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_008]",
+    "category": "zen",
     "tone_tags": [
-      "meeting",
-      "hope"
+      "lonely",
+      "horror"
     ]
   },
   {
     "id": "quo_009",
-    "text": "別れの残り香は、次の出会いの蝋燭になる。",
-    "category": "생활속담",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_009]",
+    "category": "zen",
     "tone_tags": [
       "farewell",
-      "calm"
+      "irony"
     ]
   },
   {
     "id": "quo_010",
-    "text": "鏡に映る自分は、いつも半拍遅れて育っている。",
-    "category": "도깨비풍자",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_010]",
+    "category": "zen",
     "tone_tags": [
-      "horror",
-      "passion"
+      "chaos",
+      "calm"
     ]
   },
   {
     "id": "quo_011",
-    "text": "宝くじより確率が高いのは、隣の席に座る誰かが味方になることだ。",
-    "category": "key",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_011]",
+    "category": "zen",
     "tone_tags": [
+      "horror",
       "hope"
     ]
   },
   {
     "id": "quo_012",
-    "text": "火傷しそうな情熱こそ、一番長持ちするお湯だ。",
-    "category": "night",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_012]",
+    "category": "zen",
     "tone_tags": [
-      "lonely",
-      "mystery"
-    ]
-  },
-  {
-    "id": "quo_013",
-    "text": "鍵束の中で一番古い鍵が、一番よく合う。",
-    "category": "daily",
-    "tone_tags": [
-      "farewell",
-      "calm"
-    ]
-  },
-  {
-    "id": "quo_014",
-    "text": "深夜の本音は、昼の挨拶より百倍正直だ。",
-    "category": "fortune",
-    "tone_tags": [
-      "hope",
+      "irony",
       "passion"
     ]
   },
   {
-    "id": "quo_015",
-    "text": "朝に書いた未練は、夕方に下ろすのにちょうどいい重さだ。",
-    "category": "humor",
+    "id": "quo_013",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_013]",
+    "category": "zen",
     "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_014",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_014]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
       "comic"
+    ]
+  },
+  {
+    "id": "quo_015",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_015]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_016",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_016]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_017",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_017]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_018",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_018]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_019",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_019]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_020",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_020]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_021",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_021]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_022",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_022]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_023",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_023]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_024",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_024]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_025",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_025]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_026",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_026]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_027",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_027]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_028",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_028]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_029",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_029]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_030",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_030]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_031",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_031]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_032",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_032]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_033",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_033]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_034",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_034]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_035",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_035]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_036",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_036]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_037",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_037]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_038",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_038]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_039",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_039]",
+    "category": "zen",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_040",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_040]",
+    "category": "zen",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_041",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_041]",
+    "category": "zen",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_042",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_042]",
+    "category": "zen",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_043",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_043]",
+    "category": "zen",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_044",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_044]",
+    "category": "zen",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_045",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_045]",
+    "category": "zen",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_046",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_046]",
+    "category": "zen",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_047",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_047]",
+    "category": "zen",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_048",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_048]",
+    "category": "zen",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_049",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_049]",
+    "category": "zen",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_050",
+    "text": "心の静けさは外の嵐ではなく、自らの内にこそ宿る。[quo_050]",
+    "category": "zen",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_051",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_051]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_052",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_052]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_053",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_053]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_054",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_054]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_055",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_055]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_056",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_056]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_057",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_057]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_058",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_058]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_059",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_059]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_060",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_060]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_061",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_061]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_062",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_062]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_063",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_063]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_064",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_064]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_065",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_065]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_066",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_066]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_067",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_067]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_068",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_068]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_069",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_069]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_070",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_070]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_071",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_071]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_072",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_072]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_073",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_073]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_074",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_074]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_075",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_075]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_076",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_076]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_077",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_077]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_078",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_078]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_079",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_079]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_080",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_080]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_081",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_081]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_082",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_082]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_083",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_083]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_084",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_084]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_085",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_085]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_086",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_086]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_087",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_087]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_088",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_088]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
+    ]
+  },
+  {
+    "id": "quo_089",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_089]",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely",
+      "horror"
+    ]
+  },
+  {
+    "id": "quo_090",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_090]",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_091",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_091]",
+    "category": "proverb",
+    "tone_tags": [
+      "chaos",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_092",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_092]",
+    "category": "proverb",
+    "tone_tags": [
+      "horror",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_093",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_093]",
+    "category": "proverb",
+    "tone_tags": [
+      "irony",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_094",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_094]",
+    "category": "proverb",
+    "tone_tags": [
+      "calm",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_095",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_095]",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "comic"
+    ]
+  },
+  {
+    "id": "quo_096",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_096]",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "meeting"
+    ]
+  },
+  {
+    "id": "quo_097",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_097]",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ]
+  },
+  {
+    "id": "quo_098",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_098]",
+    "category": "proverb",
+    "tone_tags": [
+      "comic",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_099",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_099]",
+    "category": "proverb",
+    "tone_tags": [
+      "meeting",
+      "farewell"
+    ]
+  },
+  {
+    "id": "quo_100",
+    "text": "千里の道も一歩から。確かな歩みが未来を拓く。[quo_100]",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict",
+      "chaos"
     ]
   }
 ]
