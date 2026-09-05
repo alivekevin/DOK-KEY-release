@@ -1,0 +1,442 @@
+{
+  "symbols": [
+    {
+      "id": "water",
+      "label": "清澈之水",
+      "keywords": [
+        "清水",
+        "溪流",
+        "大海",
+        "water"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "M08",
+      "meaning": "情绪得以净化、心神清爽宁静的吉兆",
+      "advice": "清澈流水象征净化心灵！今日放空杂念便能迎刃而解！"
+    },
+    {
+      "id": "fire",
+      "label": "烈焰之火",
+      "keywords": [
+        "火焰",
+        "大火",
+        "火灾",
+        "fire"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "Z06",
+      "meaning": "能量蓬勃燃烧、迎来崭新开端的征兆",
+      "advice": "星火燎原正当其时！今天就为搁置已久的计划点燃行动吧！"
+    },
+    {
+      "id": "flying",
+      "label": "翱翔天际",
+      "keywords": [
+        "天空",
+        "飞行",
+        "飞翔",
+        "flying"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "M01",
+      "meaning": "挣脱束缚、迈向自由与成就的上升之运",
+      "advice": "飞得越高视野越宽广！今天请为自己勾勒更宏伟的蓝图！"
+    },
+    {
+      "id": "pig",
+      "label": "金猪聚宝",
+      "keywords": [
+        "福猪",
+        "金猪",
+        "pig"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "Z12",
+      "meaning": "财源广进、福泽滚滚而来的代表性大吉之梦",
+      "advice": "福气只会眷顾有所准备的人！今天整理好钱包从容迎接好运吧！"
+    },
+    {
+      "id": "snake",
+      "label": "灵蛇蜕变",
+      "keywords": [
+        "灵蛇",
+        "巨蟒",
+        "snake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "Z06",
+      "meaning": "财富与变革齐至、迎来强力转机的吉兆",
+      "advice": "蜕去旧皮方能茁壮成长！今天勇敢舍弃一个陈旧拖沓的坏习惯吧！"
+    },
+    {
+      "id": "teeth",
+      "label": "牙齿脱落",
+      "keywords": [
+        "牙齿",
+        "掉牙",
+        "脱落",
+        "teeth"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "Z03",
+      "meaning": "虽有勇气暂时动摇之事，但旋即恢复生机之信号",
+      "advice": "牙齿脱落亦是更替之理！在微小的行动中重新找回坚定的自信吧！"
+    },
+    {
+      "id": "falling",
+      "label": "自高处坠落",
+      "keywords": [
+        "坠落",
+        "跌落",
+        "下坠",
+        "falling"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "Z25",
+      "meaning": "根基有所晃动、提示当心不稳状态的警示之梦",
+      "advice": "坠落是为了平稳着陆！今天请放慢脚步，认真检查底层根基！"
+    },
+    {
+      "id": "chased",
+      "label": "被追赶奔逃",
+      "keywords": [
+        "被追",
+        "逃跑",
+        "被虎追",
+        "chased"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "M02",
+      "meaning": "内心深处有急于逃避某事的情绪映射",
+      "advice": "切莫回头张望，只要正面勇敢迎上去，心中的阴霾便会烟消云散！"
+    },
+    {
+      "id": "star",
+      "label": "璀璨繁星",
+      "keywords": [
+        "星星",
+        "宇宙",
+        "流星",
+        "star"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "M20",
+      "meaning": "心愿交织、机缘线索悄然降临的希望之梦",
+      "advice": "繁星是远方的灯塔！今天将内心的一个重要愿望落笔于纸上吧！"
+    },
+    {
+      "id": "door",
+      "label": "开启之门",
+      "keywords": [
+        "大门",
+        "通道",
+        "入口",
+        "door"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "Z13",
+      "meaning": "崭新机缘之门扉赫然开启的启程之梦",
+      "advice": "门扉只为主动叩响之人而敞开！今天就请迈出第一步主动敲门吧！"
+    },
+    {
+      "id": "flower",
+      "label": "繁花盛开",
+      "keywords": [
+        "繁花",
+        "开花",
+        "flower"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "Z14",
+      "meaning": "善缘与吉运如花绽放的大好吉兆",
+      "advice": "繁花应时而开！今天率先向他人致以温暖微笑与问候的人必是赢家！"
+    },
+    {
+      "id": "sun",
+      "label": "旭日东升",
+      "keywords": [
+        "太阳",
+        "红日",
+        "阳光",
+        "sun"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "M10",
+      "meaning": "名誉加身、好消息光芒万丈降临的旭日之梦",
+      "advice": "朝阳指引明确方向！今天向着开阔明亮之处迈进必大有裨益！"
+    },
+    {
+      "id": "moon",
+      "label": "明月皎洁",
+      "keywords": [
+        "明月",
+        "满月",
+        "moon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "M20",
+      "meaning": "直觉敏锐、心灵丰盈从容的温润上升之运",
+      "advice": "明月渐圆渐满！不必急于求成，相信事物自然发展的内在节律！"
+    },
+    {
+      "id": "dreaming",
+      "label": "梦中之梦",
+      "keywords": [
+        "梦中梦",
+        "重叠梦",
+        "dream"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "M33",
+      "meaning": "深层潜意识中隐藏的真实心愿即将浮现的信号",
+      "advice": "梦中梦唤醒最深层的渴望！今天请认真记下你内心最本真的梦想！"
+    },
+    {
+      "id": "tiger",
+      "label": "威猛雄虎",
+      "keywords": [
+        "猛虎",
+        "雄威",
+        "tiger"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "Z03",
+      "meaning": "勇猛威武与辟邪祥瑞常伴身侧的王者之梦",
+      "advice": "猛虎之威助你一臂之力！今天果断做出的决断将为你引来大吉之运！"
+    },
+    {
+      "id": "dragon",
+      "label": "青龙腾云",
+      "keywords": [
+        "神龙",
+        "青龙",
+        "dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "Z05",
+      "meaning": "飞升腾达、预告大获成功的至尊上等吉梦",
+      "advice": "神龙正翱翔九天之上！今天遇上的重大机遇与提议绝不要错过！"
+    },
+    {
+      "id": "bird",
+      "label": "飞鸟鸣春",
+      "keywords": [
+        "飞鸟",
+        "鸟鸣",
+        "bird"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "Z19",
+      "meaning": "喜讯佳音与美好书信展翅飞来的吉庆之梦",
+      "advice": "飞鸟衔来吉祥佳音！今天请多留意身边的消息与联络！"
+    },
+    {
+      "id": "fish",
+      "label": "游鱼戏水",
+      "keywords": [
+        "游鱼",
+        "捕鱼",
+        "鲜鱼",
+        "fish"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "Z26",
+      "meaning": "财运如涓涓细流源源汇聚的捕鱼之梦",
+      "advice": "抓到鱼儿便当稳妥收纳！今天当行之事立即果断落实开启吧！"
+    },
+    {
+      "id": "mountain",
+      "label": "巍峨群山",
+      "keywords": [
+        "群山",
+        "登山",
+        "山峰",
+        "mountain"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "M01",
+      "meaning": "基业稳固、得遇贵人扶持的安定基石之运",
+      "advice": "大山乃万世之柱石！今天不妨主动联络久违的长辈或良师益友！"
+    },
+    {
+      "id": "baby",
+      "label": "初生婴儿",
+      "keywords": [
+        "婴儿",
+        "新生儿",
+        "baby"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 14,
+      "card_id": "M07",
+      "meaning": "新生命与全新契机孕育而生的诞生之梦",
+      "advice": "婴儿预示崭新事业与计划的萌芽！今天翻开搁置的企划书全力推进吧！"
+    },
+    {
+      "id": "money",
+      "label": "金玉财宝",
+      "keywords": [
+        "金钱",
+        "宝藏",
+        "金币",
+        "money"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "Z30",
+      "meaning": "财源爆发、金玉满堂的辉煌黄金之梦",
+      "advice": "金钱之梦伴随数字机缘！今天请妥善整理好你的票据与账目！"
+    },
+    {
+      "id": "cleaning",
+      "label": "清扫尘埃",
+      "keywords": [
+        "扫除",
+        "打扫",
+        "整理",
+        "cleaning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "Z22",
+      "meaning": "荡涤晦气与杂念、化解厄运的消灾之梦",
+      "advice": "清扫是消灾开运之王！哪怕只擦净一方书桌，运势亦会井然有序！"
+    },
+    {
+      "id": "eating",
+      "label": "畅快享食",
+      "keywords": [
+        "进食",
+        "美餐",
+        "美味",
+        "eating"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "Z31",
+      "meaning": "福气纳入口中、滋养身心的食禄之梦",
+      "advice": "腹中纳得天下之福！唯独今日饮食切记适度适量为佳！"
+    },
+    {
+      "id": "poo",
+      "label": "黄金如意",
+      "keywords": [
+        "秽物",
+        "排泄",
+        "poo"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "Z30",
+      "meaning": "滚滚财源涌入怀中的至尊大福之梦",
+      "advice": "哈哈！秽物化黄金！今天比起碰运气，先从整理钱包资产做起吧！"
+    },
+    {
+      "id": "rain",
+      "label": "甘霖细雨",
+      "keywords": [
+        "细雨",
+        "阵雨",
+        "雨季",
+        "rain"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "M11",
+      "meaning": "积压情绪得以洗涤疏导的释怀之梦",
+      "advice": "甘霖乃天地之洗礼！今天备好雨具，也顺便涤净心中的纷扰！"
+    },
+    {
+      "id": "snow",
+      "label": "白雪皑皑",
+      "keywords": [
+        "白雪",
+        "初雪",
+        "暴雪",
+        "snow"
+      ],
+      "fortune": "normal",
+      "lucky_number": 72,
+      "card_id": "Z08",
+      "meaning": "纯洁无暇与冷静理性并存的平稳祥和之梦",
+      "advice": "白雪如天然画卷！今天依靠冷静理性的权衡规划将大占先机！"
+    },
+    {
+      "id": "wedding",
+      "label": "喜庆婚礼",
+      "keywords": [
+        "婚礼",
+        "礼堂",
+        "大婚",
+        "wedding"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "M29",
+      "meaning": "崭新联结缔结、重要契约达成的喜庆之梦",
+      "advice": "婚礼预示契约之机！今天涉及的文件协议请务必审读两遍再行签署！"
+    },
+    {
+      "id": "funeral",
+      "label": "庄严葬礼",
+      "keywords": [
+        "葬礼",
+        "告别",
+        "funeral"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "M25",
+      "meaning": "告别陈旧迎来新生、传统预示长寿富贵的转机吉梦",
+      "advice": "切莫惊慌！旧事物落幕方有新天地！今天正是告别过往的最佳时刻！"
+    },
+    {
+      "id": "losing_money",
+      "label": "遗失钱财",
+      "keywords": [
+        "丢钱",
+        "遗失",
+        "lose"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "Z16",
+      "meaning": "提醒防范疏忽大意、关注财务安全的警醒之梦",
+      "advice": "今天请贴身保管好随身财物与手机！签订协议务必三思而后行！"
+    },
+    {
+      "id": "missed_bus",
+      "label": "错失车次",
+      "keywords": [
+        "错失",
+        "公交车",
+        "列车",
+        "missed"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "Z26",
+      "meaning": "提醒注意时间管理、切莫错失良机的警觉之梦",
+      "advice": "今天不妨多设几个闹钟！重要约会提前30分钟从容出发吧！"
+    }
+  ]
+}

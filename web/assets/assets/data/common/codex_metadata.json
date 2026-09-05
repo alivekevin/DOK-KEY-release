@@ -8,7 +8,9 @@
       "name_en": "Divine Beasts",
       "name_ja": "神獣図鑑",
       "totalRegular": 33,
-      "totalExt": 52
+      "totalExt": 52,
+      "name_zh": "神兽图鉴",
+      "name_hi": "दिव्य प्राणी संग्रह"
     },
     {
       "id": "myth",
@@ -16,7 +18,9 @@
       "name_en": "Mythic Gods",
       "name_ja": "神格図鑑",
       "totalRegular": 33,
-      "totalExt": 13
+      "totalExt": 13,
+      "name_zh": "神格图鉴",
+      "name_hi": "पौराणिक देव संग्रह"
     },
     {
       "id": "custom",
@@ -24,7 +28,9 @@
       "name_en": "MY Custom",
       "name_ja": "MYカスタム",
       "totalRegular": 33,
-      "totalExt": 0
+      "totalExt": 0,
+      "name_zh": "MY 自定义",
+      "name_hi": "मेरा कस्टम संग्रह"
     }
   ],
   "cards": {
@@ -41,7 +47,9 @@
         "title": "지혜와 재물의 전령",
         "desc": "어둠 속에서도 길을 찾아내고, 부의 황금 열쇠를 물어다 주는 아주 영특한 기운입니다.",
         "name_en": "자(子) 쥐",
-        "name_ja": "자(子) 쥐"
+        "name_ja": "자(子) 쥐",
+        "name_zh": "자(子) 쥐",
+        "name_hi": "자(子) 쥐"
       },
       {
         "id": "Z02",
@@ -55,7 +63,9 @@
         "title": "우직함과 성실의 대지",
         "desc": "한 걸음 한 걸음 우직하게 나아가 마침내 큰 결실을 맺게 돕는 든든한 황소의 힘입니다.",
         "name_en": "축(丑) 소",
-        "name_ja": "축(丑) 소"
+        "name_ja": "축(丑) 소",
+        "name_zh": "축(丑) 소",
+        "name_hi": "축(丑) 소"
       },
       {
         "id": "Z03",
@@ -69,7 +79,9 @@
         "title": "용맹과 벽사의 군주",
         "desc": "매서운 눈빛으로 나쁜 액운을 단칼에 베어 넘기고, 집안에 대운의 문을 활짝 열어 줍니다.",
         "name_en": "인(寅) 호랑이",
-        "name_ja": "인(寅) 호랑이"
+        "name_ja": "인(寅) 호랑이",
+        "name_zh": "인(寅) 호랑이",
+        "name_hi": "인(寅) 호랑이"
       },
       {
         "id": "Z04",
@@ -83,7 +95,9 @@
         "title": "민첩과 도약의 달빛",
         "desc": "달빛 아래서 번뜩이는 영감을 빚어내어, 위기를 껑충 뛰어넘는 지혜를 선물합니다.",
         "name_en": "묘(卯) 토끼",
-        "name_ja": "묘(卯) 토끼"
+        "name_ja": "묘(卯) 토끼",
+        "name_zh": "묘(卯) 토끼",
+        "name_hi": "묘(卯) 토끼"
       },
       {
         "id": "Z05",
@@ -97,7 +111,9 @@
         "title": "천상과 조화의 인도자",
         "desc": "사슴 뿔과 푸른 여의주를 품에 안고 승천하는 아기 청룡처럼, 하늘과 땅의 조화로운 대운을 열어 줍니다.",
         "name_en": "진(辰) 청룡",
-        "name_ja": "진(辰) 청룡"
+        "name_ja": "진(辰) 청룡",
+        "name_zh": "진(辰) 청룡",
+        "name_hi": "진(辰) 청룡"
       },
       {
         "id": "Z06",
@@ -111,7 +127,9 @@
         "title": "변혁과 직관의 불꽃",
         "desc": "허물을 벗고 새롭게 거듭나듯, 깊은 직관과 통찰력으로 인생의 중요한 전환점을 이끌어준다.",
         "name_en": "사(巳) 뱀",
-        "name_ja": "사(巳) 뱀"
+        "name_ja": "사(巳) 뱀",
+        "name_zh": "사(巳) 뱀",
+        "name_hi": "사(巳) 뱀"
       },
       {
         "id": "Z07",
@@ -125,7 +143,9 @@
         "title": "열정과 질주의 백마",
         "desc": "푸른 갈기를 휘날리며 거침없이 대지를 질주하듯, 목표를 향해 힘차게 뻗어나가는 기운을 북돋아 줍니다.",
         "name_en": "오(午) 백마",
-        "name_ja": "오(午) 백마"
+        "name_ja": "오(午) 백마",
+        "name_zh": "오(午) 백마",
+        "name_hi": "오(午) 백마"
       },
       {
         "id": "Z08",
@@ -139,7 +159,9 @@
         "title": "평화와 온화함을 잇는 순백의 영수",
         "desc": "포근하고 순백의 털처럼 주변 사람들과의 관계를 부드럽게 감싸고, 마음에 깊은 평안을 가져다줍니다.",
         "name_en": "미(未) 양",
-        "name_ja": "미(未) 양"
+        "name_ja": "미(未) 양",
+        "name_zh": "미(未) 양",
+        "name_hi": "미(未) 양"
       },
       {
         "id": "Z09",
@@ -153,7 +175,9 @@
         "title": "기지와 재능의 번뜩임",
         "desc": "나무를 자유롭게 넘나드는 영특함으로, 어떤 난관도 유쾌한 아이디어로 돌파하게 돕습니다.",
         "name_en": "신(申) 원숭이",
-        "name_ja": "신(申) 원숭이"
+        "name_ja": "신(申) 원숭이",
+        "name_zh": "신(申) 원숭이",
+        "name_hi": "신(申) 원숭이"
       },
       {
         "id": "Z10",
@@ -167,7 +191,9 @@
         "title": "여명을 깨우는 빛의 파수꾼",
         "desc": "어둠을 가르고 아침의 첫 빛을 알리듯, 새로운 기회와 번영의 시작을 알차게 깨워 줍니다.",
         "name_en": "유(酉) 닭",
-        "name_ja": "유(酉) 닭"
+        "name_ja": "유(酉) 닭",
+        "name_zh": "유(酉) 닭",
+        "name_hi": "유(酉) 닭"
       },
       {
         "id": "Z11",
@@ -181,7 +207,9 @@
         "title": "충직함으로 터전을 지키는 파수견",
         "desc": "언제나 한결같은 충성심으로 소중한 인연과 재산을 단단히 지켜내어 안심을 주는 든든한 벗입니다.",
         "name_en": "술(戌) 개",
-        "name_ja": "술(戌) 개"
+        "name_ja": "술(戌) 개",
+        "name_zh": "술(戌) 개",
+        "name_hi": "술(戌) 개"
       },
       {
         "id": "Z12",
@@ -195,7 +223,9 @@
         "title": "풍요와 대복의 결실",
         "desc": "황금빛 복을 가득 품고 집안에 부와 번영을 넉넉하게 쏟아부어주는 만복의 상징입니다.",
         "name_en": "해(亥) 황금돼지",
-        "name_ja": "해(亥) 황금돼지"
+        "name_ja": "해(亥) 황금돼지",
+        "name_zh": "해(亥) 황금돼지",
+        "name_hi": "해(亥) 황금돼지"
       },
       {
         "id": "Z13",
@@ -209,7 +239,9 @@
         "title": "정의를 가리는 벽사의 영물",
         "desc": "시비곡직을 올바르게 판단하고 화재와 재앙을 물리치는 상서로운 신수입니다.",
         "name_en": "해태",
-        "name_ja": "해태"
+        "name_ja": "해태",
+        "name_zh": "해태",
+        "name_hi": "해태"
       },
       {
         "id": "Z14",
@@ -223,7 +255,9 @@
         "title": "태평성대를 알리는 성수",
         "desc": "자비롭고 어진 성인의 출현과 세상의 평화로운 번영을 축복하는 신수입니다.",
         "name_en": "기린",
-        "name_ja": "기린"
+        "name_ja": "기린",
+        "name_zh": "기린",
+        "name_hi": "기린"
       },
       {
         "id": "Z15",
@@ -237,7 +271,9 @@
         "title": "남방을 수호하는 불사조",
         "desc": "붉은 불꽃의 날갯짓으로 사악한 기운을 태우고 불굴의 생명력을 불어넣습니다.",
         "name_en": "주작",
-        "name_ja": "주작"
+        "name_ja": "주작",
+        "name_zh": "주작",
+        "name_hi": "주작"
       },
       {
         "id": "Z16",
@@ -251,7 +287,9 @@
         "title": "북방의 장수와 북극성",
         "desc": "뱀과 거북이 하나 되어 영겁의 세월 동안 건강과 굳건한 터전을 지켜준다.",
         "name_en": "현무",
-        "name_ja": "현무"
+        "name_ja": "현무",
+        "name_zh": "현무",
+        "name_hi": "현무"
       },
       {
         "id": "Z17",
@@ -265,7 +303,9 @@
         "title": "신선이 타는 불로장생의 성수",
         "desc": "깊은 영산에서 맑은 이슬을 먹고 자라 순수한 치유와 무병장수의 기운을 건넵니다.",
         "name_en": "백록 (흰 사슴)",
-        "name_ja": "백록 (흰 사슴)"
+        "name_ja": "백록 (흰 사슴)",
+        "name_zh": "백록 (흰 사슴)",
+        "name_hi": "백록 (흰 사슴)"
       },
       {
         "id": "Z18",
@@ -279,7 +319,9 @@
         "title": "태평성대의 상징",
         "desc": "오색 깃털을 빛내며 가장 고귀하고 덕망 높은 복을 집안 가득 선물합니다.",
         "name_en": "봉황",
-        "name_ja": "봉황"
+        "name_ja": "봉황",
+        "name_zh": "봉황",
+        "name_hi": "봉황"
       },
       {
         "id": "Z19",
@@ -293,7 +335,9 @@
         "title": "태양 속에 깃든 세 발 까마귀",
         "desc": "천상의 빛을 이 땅에 전하며 하늘과 땅의 뜻을 잇는 위대한 광명의 사자입니다.",
         "name_en": "삼족오",
-        "name_ja": "삼족오"
+        "name_ja": "삼족오",
+        "name_zh": "삼족오",
+        "name_hi": "삼족오"
       },
       {
         "id": "Z20",
@@ -307,7 +351,9 @@
         "title": "천 년의 지혜를 품은 영호",
         "desc": "아홉 개의 꼬리마다 신통한 도술과 사람의 마음을 끄는 매혹의 지혜를 담고 있습니다.",
         "name_en": "구미호",
-        "name_ja": "구미호"
+        "name_ja": "구미호",
+        "name_zh": "구미호",
+        "name_hi": "구미호"
       },
       {
         "id": "Z21",
@@ -321,7 +367,9 @@
         "title": "치유와 순수의 외뿔 요정마",
         "desc": "영롱한 외뿔의 빛으로 상처 입은 마음을 어루만지고 기적 같은 행운을 부릅니다.",
         "name_en": "유니콘",
-        "name_ja": "유니콘"
+        "name_ja": "유니콘",
+        "name_zh": "유니콘",
+        "name_hi": "유니콘"
       },
       {
         "id": "Z22",
@@ -335,7 +383,9 @@
         "title": "귀신을 꿰뚫어보는 영안의 벽사견",
         "desc": "이마의 제3의 눈으로 숨은 액운까지 낱낱이 찾아내어 쫓아내는 영험한 수호견이다.",
         "name_en": "삼목구 (세 눈박이 개)",
-        "name_ja": "삼목구 (세 눈박이 개)"
+        "name_ja": "삼목구 (세 눈박이 개)",
+        "name_zh": "삼목구 (세 눈박이 개)",
+        "name_hi": "삼목구 (세 눈박이 개)"
       },
       {
         "id": "Z23",
@@ -349,7 +399,9 @@
         "title": "장애를 없애고 부를 부르는 지혜의 코끼리신",
         "desc": "모든 길 앞을 가로막는 장애물을 걷어내고 부귀영화를 안겨주는 지혜의 신수입니다.",
         "name_en": "가네샤",
-        "name_ja": "가네샤"
+        "name_ja": "가네샤",
+        "name_zh": "가네샤",
+        "name_hi": "가네샤"
       },
       {
         "id": "Z24",
@@ -363,7 +415,9 @@
         "title": "풍요와 생명수를 다스리는 악어신",
         "desc": "마르지 않는 강물의 축복으로 비옥한 땅과 마르지 않는 재물을 선사합니다.",
         "name_en": "세베크 (악어 신수)",
-        "name_ja": "세베크 (악어 신수)"
+        "name_ja": "세베크 (악어 신수)",
+        "name_zh": "세베크 (악어 신수)",
+        "name_hi": "세베크 (악어 신수)"
       },
       {
         "id": "Z25",
@@ -377,7 +431,9 @@
         "title": "승천을 향해 정진하는 영룡",
         "desc": "천 년의 수련 끝에 여의주를 품고 마침내 용으로 비상하는 끈기와 대성의 기운입니다.",
         "name_en": "이무기",
-        "name_ja": "이무기"
+        "name_ja": "이무기",
+        "name_zh": "이무기",
+        "name_hi": "이무기"
       },
       {
         "id": "Z26",
@@ -391,7 +447,9 @@
         "title": "잉어가 용으로 변하는 등용문",
         "desc": "거센 폭포를 거슬러 올라 큰 성공과 입신양명의 기적을 이루어낸다.",
         "name_en": "어룡",
-        "name_ja": "어룡"
+        "name_ja": "어룡",
+        "name_zh": "어룡",
+        "name_hi": "어룡"
       },
       {
         "id": "Z27",
@@ -405,7 +463,9 @@
         "title": "수수께끼와 지혜의 피라미드 수호수",
         "desc": "지혜로운 문답을 통해 감추어진 황금 보물 창고의 문을 열어 줍니다.",
         "name_en": "스핑크스",
-        "name_ja": "스핑크스"
+        "name_ja": "스핑크스",
+        "name_zh": "스핑크스",
+        "name_hi": "스핑크스"
       },
       {
         "id": "Z28",
@@ -419,7 +479,9 @@
         "title": "깊은 바다를 유영하는 푸른 숨결",
         "desc": "심해의 무한한 자원과 잠재력을 깨워 거대한 포용력과 활력을 선물합니다.",
         "name_en": "레비아탄",
-        "name_ja": "레비아탄"
+        "name_ja": "레비아탄",
+        "name_zh": "레비아탄",
+        "name_hi": "레비아탄"
       },
       {
         "id": "Z29",
@@ -433,7 +495,9 @@
         "title": "고양이 머리의 신비로운 영사",
         "desc": "예리한 감각으로 집안에 숨어든 나쁜 기운을 물리치고 편안한 잠자리를 지켜 냅니다.",
         "name_en": "묘두사",
-        "name_ja": "묘두사"
+        "name_ja": "묘두사",
+        "name_zh": "묘두사",
+        "name_hi": "묘두사"
       },
       {
         "id": "Z30",
@@ -447,7 +511,9 @@
         "title": "황금 엽전을 물고 오는 재물신",
         "desc": "세 발로 온 세상의 재물을 끌어모아 금고 가득 채워주는 복두꺼비입니다.",
         "name_en": "삼족섬 (복두꺼비)",
-        "name_ja": "삼족섬 (복두꺼비)"
+        "name_ja": "삼족섬 (복두꺼비)",
+        "name_zh": "삼족섬 (복두꺼비)",
+        "name_hi": "삼족섬 (복두꺼비)"
       },
       {
         "id": "Z31",
@@ -461,7 +527,9 @@
         "title": "황금과 보물을 지키는 사자독수리",
         "desc": "독수리의 날개와 사자의 힘으로 값진 보물과 명예를 철통같이 지켜낸다.",
         "name_en": "그리핀",
-        "name_ja": "그리핀"
+        "name_ja": "그리핀",
+        "name_zh": "그리핀",
+        "name_hi": "그리핀"
       },
       {
         "id": "Z32",
@@ -475,7 +543,9 @@
         "title": "불꽃 속에서 부활하는 영생의 신조",
         "desc": "어떤 시련이 닥쳐도 다시 타오르는 불꽃처럼 찬란한 재기와 성공을 보장한다.",
         "name_en": "피닉스 (불사조)",
-        "name_ja": "피닉스 (불사조)"
+        "name_ja": "피닉스 (불사조)",
+        "name_zh": "피닉스 (불사조)",
+        "name_hi": "피닉스 (불사조)"
       },
       {
         "id": "Z33",
@@ -489,7 +559,9 @@
         "title": "바람과 문명을 전하는 깃털뱀",
         "desc": "무지개 깃털로 하늘을 날며 새로운 지식과 풍요로운 문명의 씨앗을 뿌려 줍니다.",
         "name_en": "케찰코아틀",
-        "name_ja": "케찰코아틀"
+        "name_ja": "케찰코아틀",
+        "name_zh": "케찰코아틀",
+        "name_hi": "케찰코아틀"
       },
       {
         "id": "Z34",
@@ -503,7 +575,9 @@
         "title": "치유와 순수의 외뿔 요정마",
         "desc": "상처받은 마음에 맑은 쉼을 선물하고, 맑고 순수한 행운의 기적을 불러일으킨다.",
         "name_en": "Unicorn",
-        "name_ja": "ユニコーン"
+        "name_ja": "ユニコーン",
+        "name_zh": "유니콘",
+        "name_hi": "Unicorn"
       },
       {
         "id": "Z35",
@@ -517,7 +591,9 @@
         "title": "황금과 보물을 지키는 사자독수리",
         "desc": "하늘과 땅의 왕좌를 동시에 쥐고 누구도 넘볼 수 없는 부를 수호한다.",
         "name_en": "Griffin",
-        "name_ja": "グリフォン"
+        "name_ja": "グリフォン",
+        "name_zh": "그리핀",
+        "name_hi": "Griffin"
       },
       {
         "id": "Z36",
@@ -531,7 +607,9 @@
         "title": "어둠을 사르는 태양의 깃털",
         "desc": "가장 어두운 밤에도 꺼지지 않는 태양의 불꽃으로 희망의 아침을 연다.",
         "name_en": "Golden Phoenix",
-        "name_ja": "黄金の不死鳥"
+        "name_ja": "黄金の不死鳥",
+        "name_zh": "황금 불새",
+        "name_hi": "Golden Phoenix"
       },
       {
         "id": "Z37",
@@ -545,7 +623,9 @@
         "title": "숨겨진 수호수 (1의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #1",
-        "name_ja": "神秘の神獣 #1"
+        "name_ja": "神秘の神獣 #1",
+        "name_zh": "신비의 신수 1호",
+        "name_hi": "Mystic Divine Beast #1"
       },
       {
         "id": "Z38",
@@ -559,7 +639,9 @@
         "title": "숨겨진 수호수 (2의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #2",
-        "name_ja": "神秘の神獣 #2"
+        "name_ja": "神秘の神獣 #2",
+        "name_zh": "신비의 신수 2호",
+        "name_hi": "Mystic Divine Beast #2"
       },
       {
         "id": "Z39",
@@ -573,7 +655,9 @@
         "title": "숨겨진 수호수 (3의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #3",
-        "name_ja": "神秘の神獣 #3"
+        "name_ja": "神秘の神獣 #3",
+        "name_zh": "신비의 신수 3호",
+        "name_hi": "Mystic Divine Beast #3"
       },
       {
         "id": "Z40",
@@ -587,7 +671,9 @@
         "title": "숨겨진 수호수 (4의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #4",
-        "name_ja": "神秘の神獣 #4"
+        "name_ja": "神秘の神獣 #4",
+        "name_zh": "신비의 신수 4호",
+        "name_hi": "Mystic Divine Beast #4"
       },
       {
         "id": "Z41",
@@ -601,7 +687,9 @@
         "title": "숨겨진 수호수 (5의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #5",
-        "name_ja": "神秘の神獣 #5"
+        "name_ja": "神秘の神獣 #5",
+        "name_zh": "신비의 신수 5호",
+        "name_hi": "Mystic Divine Beast #5"
       },
       {
         "id": "Z42",
@@ -615,7 +703,9 @@
         "title": "숨겨진 수호수 (6의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #6",
-        "name_ja": "神秘の神獣 #6"
+        "name_ja": "神秘の神獣 #6",
+        "name_zh": "신비의 신수 6호",
+        "name_hi": "Mystic Divine Beast #6"
       },
       {
         "id": "Z43",
@@ -629,7 +719,9 @@
         "title": "숨겨진 수호수 (7의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #7",
-        "name_ja": "神秘の神獣 #7"
+        "name_ja": "神秘の神獣 #7",
+        "name_zh": "신비의 신수 7호",
+        "name_hi": "Mystic Divine Beast #7"
       },
       {
         "id": "Z44",
@@ -643,7 +735,9 @@
         "title": "숨겨진 수호수 (8의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #8",
-        "name_ja": "神秘の神獣 #8"
+        "name_ja": "神秘の神獣 #8",
+        "name_zh": "신비의 신수 8호",
+        "name_hi": "Mystic Divine Beast #8"
       },
       {
         "id": "Z45",
@@ -657,7 +751,9 @@
         "title": "숨겨진 수호수 (9의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #9",
-        "name_ja": "神秘の神獣 #9"
+        "name_ja": "神秘の神獣 #9",
+        "name_zh": "신비의 신수 9호",
+        "name_hi": "Mystic Divine Beast #9"
       },
       {
         "id": "Z46",
@@ -671,7 +767,9 @@
         "title": "숨겨진 수호수 (10의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #10",
-        "name_ja": "神秘の神獣 #10"
+        "name_ja": "神秘の神獣 #10",
+        "name_zh": "신비의 신수 10호",
+        "name_hi": "Mystic Divine Beast #10"
       },
       {
         "id": "Z47",
@@ -685,7 +783,9 @@
         "title": "숨겨진 수호수 (11의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #11",
-        "name_ja": "神秘の神獣 #11"
+        "name_ja": "神秘の神獣 #11",
+        "name_zh": "신비의 신수 11호",
+        "name_hi": "Mystic Divine Beast #11"
       },
       {
         "id": "Z48",
@@ -699,7 +799,9 @@
         "title": "숨겨진 수호수 (12의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #12",
-        "name_ja": "神秘の神獣 #12"
+        "name_ja": "神秘の神獣 #12",
+        "name_zh": "신비의 신수 12호",
+        "name_hi": "Mystic Divine Beast #12"
       },
       {
         "id": "Z49",
@@ -713,7 +815,9 @@
         "title": "숨겨진 수호수 (13의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #13",
-        "name_ja": "神秘の神獣 #13"
+        "name_ja": "神秘の神獣 #13",
+        "name_zh": "신비의 신수 13호",
+        "name_hi": "Mystic Divine Beast #13"
       },
       {
         "id": "Z50",
@@ -727,7 +831,9 @@
         "title": "숨겨진 수호수 (14의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #14",
-        "name_ja": "神秘の神獣 #14"
+        "name_ja": "神秘の神獣 #14",
+        "name_zh": "신비의 신수 14호",
+        "name_hi": "Mystic Divine Beast #14"
       },
       {
         "id": "Z51",
@@ -741,7 +847,9 @@
         "title": "숨겨진 수호수 (15의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #15",
-        "name_ja": "神秘の神獣 #15"
+        "name_ja": "神秘の神獣 #15",
+        "name_zh": "신비의 신수 15호",
+        "name_hi": "Mystic Divine Beast #15"
       },
       {
         "id": "Z52",
@@ -755,7 +863,9 @@
         "title": "숨겨진 수호수 (16의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #16",
-        "name_ja": "神秘の神獣 #16"
+        "name_ja": "神秘の神獣 #16",
+        "name_zh": "신비의 신수 16호",
+        "name_hi": "Mystic Divine Beast #16"
       },
       {
         "id": "Z53",
@@ -769,7 +879,9 @@
         "title": "숨겨진 수호수 (17의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #17",
-        "name_ja": "神秘の神獣 #17"
+        "name_ja": "神秘の神獣 #17",
+        "name_zh": "신비의 신수 17호",
+        "name_hi": "Mystic Divine Beast #17"
       },
       {
         "id": "Z54",
@@ -783,7 +895,9 @@
         "title": "숨겨진 수호수 (18의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #18",
-        "name_ja": "神秘の神獣 #18"
+        "name_ja": "神秘の神獣 #18",
+        "name_zh": "신비의 신수 18호",
+        "name_hi": "Mystic Divine Beast #18"
       },
       {
         "id": "Z55",
@@ -797,7 +911,9 @@
         "title": "숨겨진 수호수 (19의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #19",
-        "name_ja": "神秘の神獣 #19"
+        "name_ja": "神秘の神獣 #19",
+        "name_zh": "신비의 신수 19호",
+        "name_hi": "Mystic Divine Beast #19"
       },
       {
         "id": "Z56",
@@ -811,7 +927,9 @@
         "title": "숨겨진 수호수 (20의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #20",
-        "name_ja": "神秘の神獣 #20"
+        "name_ja": "神秘の神獣 #20",
+        "name_zh": "신비의 신수 20호",
+        "name_hi": "Mystic Divine Beast #20"
       },
       {
         "id": "Z57",
@@ -825,7 +943,9 @@
         "title": "숨겨진 수호수 (21의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #21",
-        "name_ja": "神秘の神獣 #21"
+        "name_ja": "神秘の神獣 #21",
+        "name_zh": "신비의 신수 21호",
+        "name_hi": "Mystic Divine Beast #21"
       },
       {
         "id": "Z58",
@@ -839,7 +959,9 @@
         "title": "숨겨진 수호수 (22의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #22",
-        "name_ja": "神秘の神獣 #22"
+        "name_ja": "神秘の神獣 #22",
+        "name_zh": "신비의 신수 22호",
+        "name_hi": "Mystic Divine Beast #22"
       },
       {
         "id": "Z59",
@@ -853,7 +975,9 @@
         "title": "숨겨진 수호수 (23의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #23",
-        "name_ja": "神秘の神獣 #23"
+        "name_ja": "神秘の神獣 #23",
+        "name_zh": "신비의 신수 23호",
+        "name_hi": "Mystic Divine Beast #23"
       },
       {
         "id": "Z60",
@@ -867,7 +991,9 @@
         "title": "숨겨진 수호수 (24의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #24",
-        "name_ja": "神秘の神獣 #24"
+        "name_ja": "神秘の神獣 #24",
+        "name_zh": "신비의 신수 24호",
+        "name_hi": "Mystic Divine Beast #24"
       },
       {
         "id": "Z61",
@@ -881,7 +1007,9 @@
         "title": "숨겨진 수호수 (25의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #25",
-        "name_ja": "神秘の神獣 #25"
+        "name_ja": "神秘の神獣 #25",
+        "name_zh": "신비의 신수 25호",
+        "name_hi": "Mystic Divine Beast #25"
       },
       {
         "id": "Z62",
@@ -895,7 +1023,9 @@
         "title": "숨겨진 수호수 (26의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #26",
-        "name_ja": "神秘の神獣 #26"
+        "name_ja": "神秘の神獣 #26",
+        "name_zh": "신비의 신수 26호",
+        "name_hi": "Mystic Divine Beast #26"
       },
       {
         "id": "Z63",
@@ -909,7 +1039,9 @@
         "title": "숨겨진 수호수 (27의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #27",
-        "name_ja": "神秘の神獣 #27"
+        "name_ja": "神秘の神獣 #27",
+        "name_zh": "신비의 신수 27호",
+        "name_hi": "Mystic Divine Beast #27"
       },
       {
         "id": "Z64",
@@ -923,7 +1055,9 @@
         "title": "숨겨진 수호수 (28의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #28",
-        "name_ja": "神秘の神獣 #28"
+        "name_ja": "神秘の神獣 #28",
+        "name_zh": "신비의 신수 28호",
+        "name_hi": "Mystic Divine Beast #28"
       },
       {
         "id": "Z65",
@@ -937,7 +1071,9 @@
         "title": "숨겨진 수호수 (29의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #29",
-        "name_ja": "神秘の神獣 #29"
+        "name_ja": "神秘の神獣 #29",
+        "name_zh": "신비의 신수 29호",
+        "name_hi": "Mystic Divine Beast #29"
       },
       {
         "id": "Z66",
@@ -951,7 +1087,9 @@
         "title": "숨겨진 수호수 (30의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #30",
-        "name_ja": "神秘の神獣 #30"
+        "name_ja": "神秘の神獣 #30",
+        "name_zh": "신비의 신수 30호",
+        "name_hi": "Mystic Divine Beast #30"
       },
       {
         "id": "Z67",
@@ -965,7 +1103,9 @@
         "title": "숨겨진 수호수 (31의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #31",
-        "name_ja": "神秘の神獣 #31"
+        "name_ja": "神秘の神獣 #31",
+        "name_zh": "신비의 신수 31호",
+        "name_hi": "Mystic Divine Beast #31"
       },
       {
         "id": "Z68",
@@ -979,7 +1119,9 @@
         "title": "숨겨진 수호수 (32의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #32",
-        "name_ja": "神秘の神獣 #32"
+        "name_ja": "神秘の神獣 #32",
+        "name_zh": "신비의 신수 32호",
+        "name_hi": "Mystic Divine Beast #32"
       },
       {
         "id": "Z69",
@@ -993,7 +1135,9 @@
         "title": "숨겨진 수호수 (33의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #33",
-        "name_ja": "神秘の神獣 #33"
+        "name_ja": "神秘の神獣 #33",
+        "name_zh": "신비의 신수 33호",
+        "name_hi": "Mystic Divine Beast #33"
       },
       {
         "id": "Z70",
@@ -1007,7 +1151,9 @@
         "title": "숨겨진 수호수 (34의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #34",
-        "name_ja": "神秘の神獣 #34"
+        "name_ja": "神秘の神獣 #34",
+        "name_zh": "신비의 신수 34호",
+        "name_hi": "Mystic Divine Beast #34"
       },
       {
         "id": "Z71",
@@ -1021,7 +1167,9 @@
         "title": "숨겨진 수호수 (35의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #35",
-        "name_ja": "神秘の神獣 #35"
+        "name_ja": "神秘の神獣 #35",
+        "name_zh": "신비의 신수 35호",
+        "name_hi": "Mystic Divine Beast #35"
       },
       {
         "id": "Z72",
@@ -1035,7 +1183,9 @@
         "title": "숨겨진 수호수 (36의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #36",
-        "name_ja": "神秘の神獣 #36"
+        "name_ja": "神秘の神獣 #36",
+        "name_zh": "신비의 신수 36호",
+        "name_hi": "Mystic Divine Beast #36"
       },
       {
         "id": "Z73",
@@ -1049,7 +1199,9 @@
         "title": "숨겨진 수호수 (37의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #37",
-        "name_ja": "神秘の神獣 #37"
+        "name_ja": "神秘の神獣 #37",
+        "name_zh": "신비의 신수 37호",
+        "name_hi": "Mystic Divine Beast #37"
       },
       {
         "id": "Z74",
@@ -1063,7 +1215,9 @@
         "title": "숨겨진 수호수 (38의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #38",
-        "name_ja": "神秘の神獣 #38"
+        "name_ja": "神秘の神獣 #38",
+        "name_zh": "신비의 신수 38호",
+        "name_hi": "Mystic Divine Beast #38"
       },
       {
         "id": "Z75",
@@ -1077,7 +1231,9 @@
         "title": "숨겨진 수호수 (39의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #39",
-        "name_ja": "神秘の神獣 #39"
+        "name_ja": "神秘の神獣 #39",
+        "name_zh": "신비의 신수 39호",
+        "name_hi": "Mystic Divine Beast #39"
       },
       {
         "id": "Z76",
@@ -1091,7 +1247,9 @@
         "title": "숨겨진 수호수 (40의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #40",
-        "name_ja": "神秘の神獣 #40"
+        "name_ja": "神秘の神獣 #40",
+        "name_zh": "신비의 신수 40호",
+        "name_hi": "Mystic Divine Beast #40"
       },
       {
         "id": "Z77",
@@ -1105,7 +1263,9 @@
         "title": "숨겨진 수호수 (41의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #41",
-        "name_ja": "神秘の神獣 #41"
+        "name_ja": "神秘の神獣 #41",
+        "name_zh": "신비의 신수 41호",
+        "name_hi": "Mystic Divine Beast #41"
       },
       {
         "id": "Z78",
@@ -1119,7 +1279,9 @@
         "title": "숨겨진 수호수 (42의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #42",
-        "name_ja": "神秘の神獣 #42"
+        "name_ja": "神秘の神獣 #42",
+        "name_zh": "신비의 신수 42호",
+        "name_hi": "Mystic Divine Beast #42"
       },
       {
         "id": "Z79",
@@ -1133,7 +1295,9 @@
         "title": "숨겨진 수호수 (43의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #43",
-        "name_ja": "神秘の神獣 #43"
+        "name_ja": "神秘の神獣 #43",
+        "name_zh": "신비의 신수 43호",
+        "name_hi": "Mystic Divine Beast #43"
       },
       {
         "id": "Z80",
@@ -1147,7 +1311,9 @@
         "title": "숨겨진 수호수 (44의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #44",
-        "name_ja": "神秘の神獣 #44"
+        "name_ja": "神秘の神獣 #44",
+        "name_zh": "신비의 신수 44호",
+        "name_hi": "Mystic Divine Beast #44"
       },
       {
         "id": "Z81",
@@ -1161,7 +1327,9 @@
         "title": "숨겨진 수호수 (45의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #45",
-        "name_ja": "神秘の神獣 #45"
+        "name_ja": "神秘の神獣 #45",
+        "name_zh": "신비의 신수 45호",
+        "name_hi": "Mystic Divine Beast #45"
       },
       {
         "id": "Z82",
@@ -1175,7 +1343,9 @@
         "title": "숨겨진 수호수 (46의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #46",
-        "name_ja": "神秘の神獣 #46"
+        "name_ja": "神秘の神獣 #46",
+        "name_zh": "신비의 신수 46호",
+        "name_hi": "Mystic Divine Beast #46"
       },
       {
         "id": "Z83",
@@ -1189,7 +1359,9 @@
         "title": "숨겨진 수호수 (47의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #47",
-        "name_ja": "神秘の神獣 #47"
+        "name_ja": "神秘の神獣 #47",
+        "name_zh": "신비의 신수 47호",
+        "name_hi": "Mystic Divine Beast #47"
       },
       {
         "id": "Z84",
@@ -1203,7 +1375,9 @@
         "title": "숨겨진 수호수 (48의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #48",
-        "name_ja": "神秘の神獣 #48"
+        "name_ja": "神秘の神獣 #48",
+        "name_zh": "신비의 신수 48호",
+        "name_hi": "Mystic Divine Beast #48"
       },
       {
         "id": "Z85",
@@ -1217,7 +1391,9 @@
         "title": "숨겨진 수호수 (49의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #49",
-        "name_ja": "神秘の神獣 #49"
+        "name_ja": "神秘の神獣 #49",
+        "name_zh": "신비의 신수 49호",
+        "name_hi": "Mystic Divine Beast #49"
       },
       {
         "id": "Z86",
@@ -1231,7 +1407,9 @@
         "title": "숨겨진 수호수 (50의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #50",
-        "name_ja": "神秘の神獣 #50"
+        "name_ja": "神秘の神獣 #50",
+        "name_zh": "신비의 신수 50호",
+        "name_hi": "Mystic Divine Beast #50"
       },
       {
         "id": "Z87",
@@ -1245,7 +1423,9 @@
         "title": "숨겨진 수호수 (51의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #51",
-        "name_ja": "神秘の神獣 #51"
+        "name_ja": "神秘の神獣 #51",
+        "name_zh": "신비의 신수 51호",
+        "name_hi": "Mystic Divine Beast #51"
       },
       {
         "id": "Z88",
@@ -1259,7 +1439,9 @@
         "title": "숨겨진 수호수 (52의 가호)",
         "desc": "비밀의 안개 속에 숨겨진 강력한 신수다깨비! 때가 되면 엄청난 기운을 뚝딱 안겨줄 것입니다.",
         "name_en": "Mystic Divine Beast #52",
-        "name_ja": "神秘の神獣 #52"
+        "name_ja": "神秘の神獣 #52",
+        "name_zh": "신비의 신수 52호",
+        "name_hi": "Mystic Divine Beast #52"
       }
     ],
     "myth": [
@@ -1277,7 +1459,9 @@
         "desc": "영산의 맑은 정기를 품고 산천을 굽어보며, 길을 잃은 이에게 자애로운 가호와 영험한 지혜를 내려 줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-e1b33e1f-77c9-4eb4-971b-44462c16be21-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-e1b33e1f-77c9-4eb4-971b-44462c16be21.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-e1b33e1f-77c9-4eb4-971b-44462c16be21.jpg",
+        "name_zh": "산신령",
+        "name_hi": "산신령"
       },
       {
         "id": "M02",
@@ -1293,7 +1477,9 @@
         "desc": "운명과 인연의 길을 인도하는 길잡이로서, 악한 액운을 끊어내고 바른 길로 나아갈 수 있도록 이끌어 줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-c88d7600-801e-497d-beeb-4fab406f3b0e-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c88d7600-801e-497d-beeb-4fab406f3b0e.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c88d7600-801e-497d-beeb-4fab406f3b0e.jpg",
+        "name_zh": "저승사자",
+        "name_hi": "저승사자"
       },
       {
         "id": "M03",
@@ -1309,7 +1495,9 @@
         "desc": "천상계의 질서와 조화를 다스리는 최고 천제로서, 온 세상의 균형을 맞추고 큰 대운을 베풀어 줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-7169e190-a148-4064-9846-aeb078a5ee6f-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7169e190-a148-4064-9846-aeb078a5ee6f.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7169e190-a148-4064-9846-aeb078a5ee6f.jpg",
+        "name_zh": "옥황상제",
+        "name_hi": "옥황상제"
       },
       {
         "id": "M04",
@@ -1325,7 +1513,9 @@
         "desc": "명경대로 진실을 비추는 공평무사한 심판관으로서, 정의를 바로 세우고 억울함을 씻어내 줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-3d6940f3-03a7-42dc-b4e2-286edcefbee2-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-3d6940f3-03a7-42dc-b4e2-286edcefbee2.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-3d6940f3-03a7-42dc-b4e2-286edcefbee2.jpg",
+        "name_zh": "염라대왕",
+        "name_hi": "염라대왕"
       },
       {
         "id": "M05",
@@ -1341,7 +1531,9 @@
         "desc": "태초의 대지와 삼라만상을 빚어낸 거신 창조주로서, 무한한 포용력과 생명력의 터전을 안겨 줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-a70c477d-4f5b-446b-8219-95d06f6c59e1-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a70c477d-4f5b-446b-8219-95d06f6c59e1.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a70c477d-4f5b-446b-8219-95d06f6c59e1.jpg",
+        "name_zh": "마고할미",
+        "name_hi": "마고할미"
       },
       {
         "id": "M06",
@@ -1357,7 +1549,9 @@
         "desc": "생명수를 길어 올려 영혼을 치유하는 자비로운 공주로서, 깊은 상처를 어루만지고 기적의 소생을 돕습니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-c03c4796-dcb3-4b5f-aa6d-be39814a4285-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c03c4796-dcb3-4b5f-aa6d-be39814a4285.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c03c4796-dcb3-4b5f-aa6d-be39814a4285.jpg",
+        "name_zh": "바리데기",
+        "name_hi": "바리데기"
       },
       {
         "id": "M07",
@@ -1373,7 +1567,9 @@
         "desc": "새 생명의 탄생과 가정의 안녕을 점지하는 온화한 어머니의 품처럼, 따뜻한 축복을 건넵니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-a31a0a65-7d6d-4056-b56c-ecde1e51f9f2-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a31a0a65-7d6d-4056-b56c-ecde1e51f9f2.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a31a0a65-7d6d-4056-b56c-ecde1e51f9f2.jpg",
+        "name_zh": "삼신할머니",
+        "name_hi": "삼신할머니"
       },
       {
         "id": "M08",
@@ -1389,7 +1585,9 @@
         "desc": "사해 바다의 모든 보물과 물길을 호령하는 해신으로서, 끝없는 풍요와 귀중한 기회를 가져다줍니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-37b92802-0ebd-4eaa-a5e9-aeef033fce64-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-37b92802-0ebd-4eaa-a5e9-aeef033fce64.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-37b92802-0ebd-4eaa-a5e9-aeef033fce64.jpg",
+        "name_zh": "용왕",
+        "name_hi": "용왕"
       },
       {
         "id": "M09",
@@ -1405,7 +1603,9 @@
         "desc": "터전의 안녕과 보금자리를 든든히 지켜주는 가신으로서, 집안의 평온과 재물이 흩어지지 않게 수호합니다.",
         "origin": "한국 토속",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-830c79c7-1041-43ae-8e3d-82ccd82f01d9-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-830c79c7-1041-43ae-8e3d-82ccd82f01d9.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-830c79c7-1041-43ae-8e3d-82ccd82f01d9.jpg",
+        "name_zh": "터줏대감",
+        "name_hi": "터줏대감"
       },
       {
         "id": "M10",
@@ -1421,7 +1621,9 @@
         "desc": "천공의 벼락과 별빛을 다스리는 주신으로서, 강력한 통솔력과 당당한 승리의 위엄을 선사합니다.",
         "origin": "그리스 (수정본)",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0-1\\myth_rembg_10__이미지 생성-b051a3d4-ee4b-4441-92f7-5401e677f1d7-rembg.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-b051a3d4-ee4b-4441-92f7-5401e677f1d7.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-b051a3d4-ee4b-4441-92f7-5401e677f1d7.jpg",
+        "name_zh": "제우스",
+        "name_hi": "제우스"
       },
       {
         "id": "M11",
@@ -1437,7 +1639,9 @@
         "desc": "대양의 거친 파도를 가르는 바다의 군주로서, 막힘없는 활력과 거대한 포부를 열어 줍니다.",
         "origin": "그리스",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-38616adb-5c24-48d0-b8c7-d35bd8ba93b7-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-38616adb-5c24-48d0-b8c7-d35bd8ba93b7.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-38616adb-5c24-48d0-b8c7-d35bd8ba93b7.jpg",
+        "name_zh": "포세이돈",
+        "name_hi": "포세이돈"
       },
       {
         "id": "M12",
@@ -1453,7 +1657,9 @@
         "desc": "지하에 숨겨진 보물과 대지의 광물을 다스리는 신으로서, 보이지 않는 깊은 곳에서 결실을 맺게 돕습니다.",
         "origin": "그리스",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-4f1a2bdf-8b07-4f0b-8b4d-b76583bb770c-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-4f1a2bdf-8b07-4f0b-8b4d-b76583bb770c.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-4f1a2bdf-8b07-4f0b-8b4d-b76583bb770c.jpg",
+        "name_zh": "하데스",
+        "name_hi": "하데스"
       },
       {
         "id": "M13",
@@ -1469,7 +1675,9 @@
         "desc": "천둥의 묠니르를 휘두르는 용맹한 전사로서, 어떤 난관도 단숨에 부수고 승리를 쟁취하게 돕습니다.",
         "origin": "북유럽",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-a3d3aa22-e577-4746-b093-0f810c14f2f4-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a3d3aa22-e577-4746-b093-0f810c14f2f4.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-a3d3aa22-e577-4746-b093-0f810c14f2f4.jpg",
+        "name_zh": "토르",
+        "name_hi": "토르"
       },
       {
         "id": "M14",
@@ -1485,7 +1693,9 @@
         "desc": "세상의 모든 지혜와 룬 문자를 탐구한 올파더로서, 깊은 통찰력과 지혜로운 결단을 이끌어 줍니다.",
         "origin": "북유럽",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0-1\\myth_rembg_14__이미지 생성-f2d60afe-6caa-4cda-97ca-78d2ce338e65-rembg.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-f2d60afe-6caa-4cda-97ca-78d2ce338e65.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-f2d60afe-6caa-4cda-97ca-78d2ce338e65.jpg",
+        "name_zh": "오딘",
+        "name_hi": "오딘"
       },
       {
         "id": "M15",
@@ -1501,7 +1711,9 @@
         "desc": "정의로운 지혜와 필승의 전략을 상징하는 여신으로서, 명석한 두뇌와 빈틈없는 성공을 인도합니다.",
         "origin": "그리스",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-bb2d55d8-67ed-4e83-9b2f-3f26f4b789e9-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-bb2d55d8-67ed-4e83-9b2f-3f26f4b789e9.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-bb2d55d8-67ed-4e83-9b2f-3f26f4b789e9.jpg",
+        "name_zh": "아테나",
+        "name_hi": "아테나"
       },
       {
         "id": "M16",
@@ -1517,7 +1729,9 @@
         "desc": "태양의 찬란한 광명과 예술의 영감을 비추는 신으로서, 마음에 깃든 어둠을 걷어내고 밝은 미래를 엽니다.",
         "origin": "그리스",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-5ad42d40-395d-42e8-9272-e723ab5437ec-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-5ad42d40-395d-42e8-9272-e723ab5437ec.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-5ad42d40-395d-42e8-9272-e723ab5437ec.jpg",
+        "name_zh": "아폴론",
+        "name_hi": "아폴론"
       },
       {
         "id": "M17",
@@ -1533,7 +1747,9 @@
         "desc": "틀에 갇히지 않는 유쾌한 반전과 기지를 선사하는 장난꾸러기로서, 막힌 상황을 번뜩이는 아이디어로 뚫어 줍니다.",
         "origin": "북유럽",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-cecd510d-c427-46af-b098-ec0f05b62e93-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-cecd510d-c427-46af-b098-ec0f05b62e93.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-cecd510d-c427-46af-b098-ec0f05b62e93.jpg",
+        "name_zh": "로키",
+        "name_hi": "로키"
       },
       {
         "id": "M18",
@@ -1549,7 +1765,9 @@
         "desc": "승리의 깃발을 들고 하늘을 가르는 메신저로서, 용기 있는 자에게 명예와 성공의 날개를 달아 줍니다.",
         "origin": "북유럽",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-e606c21a-f92a-4c66-bb94-76703833b7e8-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-e606c21a-f92a-4c66-bb94-76703833b7e8.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-e606c21a-f92a-4c66-bb94-76703833b7e8.jpg",
+        "name_zh": "발키리",
+        "name_hi": "발키리"
       },
       {
         "id": "M19",
@@ -1565,7 +1783,9 @@
         "desc": "영원한 평온과 자비의 깨달음을 전하는 성자로서, 번뇌를 씻어내고 마음에 고요한 안식을 선물합니다.",
         "origin": "동양/인도",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-de82cdb3-bcf1-48c6-a692-f117461c8a0d-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-de82cdb3-bcf1-48c6-a692-f117461c8a0d.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-de82cdb3-bcf1-48c6-a692-f117461c8a0d.jpg",
+        "name_zh": "붓다",
+        "name_hi": "붓다"
       },
       {
         "id": "M20",
@@ -1581,7 +1801,9 @@
         "desc": "세상 모든 중생의 아픔과 소리를 자애롭게 듣는 대자대비의 보살로서, 크나큰 구원과 평안을 베풉니다.",
         "origin": "동양/인도",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-747893e6-1689-470d-a0fe-71c18d5635c4-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-747893e6-1689-470d-a0fe-71c18d5635c4.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-747893e6-1689-470d-a0fe-71c18d5635c4.jpg",
+        "name_zh": "관음보살",
+        "name_hi": "관음보살"
       },
       {
         "id": "M21",
@@ -1597,7 +1819,9 @@
         "desc": "모든 장애물을 부수고 부를 부르는 지혜의 신으로서, 새로운 시작과 사업 번창의 문을 활짝 열어 줍니다.",
         "origin": "인도",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-0a08995b-8a67-4c81-9728-7c7fbfd27d3a-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-0a08995b-8a67-4c81-9728-7c7fbfd27d3a.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-0a08995b-8a67-4c81-9728-7c7fbfd27d3a.jpg",
+        "name_zh": "가네샤",
+        "name_hi": "가네샤"
       },
       {
         "id": "M22",
@@ -1613,7 +1837,9 @@
         "desc": "낡은 것을 허물고 새로운 생명을 잉태하는 춤의 군주로서, 강력한 변화와 창조의 원동력을 깨웁니다.",
         "origin": "인도",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-2919a782-bf02-4e23-b133-eae8e2a42f64-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2919a782-bf02-4e23-b133-eae8e2a42f64.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2919a782-bf02-4e23-b133-eae8e2a42f64.jpg",
+        "name_zh": "시바",
+        "name_hi": "시바"
       },
       {
         "id": "M23",
@@ -1629,7 +1855,9 @@
         "desc": "동방의 하늘과 번개를 호령하는 제석천으로서, 당당한 기상과 드높은 명예를 지켜 줍니다.",
         "origin": "인도/동양",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-785689d9-8734-48c1-a340-824cb8f8263c-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-785689d9-8734-48c1-a340-824cb8f8263c.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-785689d9-8734-48c1-a340-824cb8f8263c.jpg",
+        "name_zh": "인드라",
+        "name_hi": "인드라"
       },
       {
         "id": "M24",
@@ -1645,7 +1873,9 @@
         "desc": "온 세상을 골고루 비추는 태양의 매로서, 최고의 광명과 결코 식지 않는 활력을 불어넣습니다.",
         "origin": "이집트",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-4228f9a3-a8a5-483b-b441-0de97cb1031a-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-4228f9a3-a8a5-483b-b441-0de97cb1031a.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-4228f9a3-a8a5-483b-b441-0de97cb1031a.jpg",
+        "name_zh": "라",
+        "name_hi": "라"
       },
       {
         "id": "M25",
@@ -1661,7 +1891,9 @@
         "desc": "부활과 영원한 생명을 싹틔우는 군주로서, 꺾이지 않는 재생과 새로운 도약의 기운을 전합니다.",
         "origin": "이집트",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-29dff2fd-b248-4983-8266-c81fb906dcfc-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-29dff2fd-b248-4983-8266-c81fb906dcfc.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-29dff2fd-b248-4983-8266-c81fb906dcfc.jpg",
+        "name_zh": "오시리스",
+        "name_hi": "오시리스"
       },
       {
         "id": "M26",
@@ -1677,7 +1909,9 @@
         "desc": "기쁨과 풍요, 평화를 수호하는 묘신으로서, 가정의 화목을 지키고 상서로운 웃음을 가져다줍니다.",
         "origin": "이집트",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-81fd0954-4b0c-468c-b08a-784e782cccb2-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-81fd0954-4b0c-468c-b08a-784e782cccb2.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-81fd0954-4b0c-468c-b08a-784e782cccb2.jpg",
+        "name_zh": "바스테트",
+        "name_hi": "바스테트"
       },
       {
         "id": "M27",
@@ -1693,7 +1927,9 @@
         "desc": "진실의 무게를 저울에 다는 공정한 안내자로서, 올바른 판단과 평온한 영혼의 안식을 돕습니다.",
         "origin": "이집트",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\1-36_0-1\\zodiac_pair_43_v1__이미지 생성-d39bbdd8-f77f-4e5e-9589-8e81a39613d2-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d39bbdd8-f77f-4e5e-9589-8e81a39613d2.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d39bbdd8-f77f-4e5e-9589-8e81a39613d2.jpg",
+        "name_zh": "아누비스",
+        "name_hi": "아누비스"
       },
       {
         "id": "M28",
@@ -1709,7 +1945,9 @@
         "desc": "어둠을 가르는 정의의 검과 수호의 방패로서, 모든 사악한 기운을 물리치고 안전하게 보호합니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-2337e096-485b-4066-8d94-924daee570ce-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2337e096-485b-4066-8d94-924daee570ce.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2337e096-485b-4066-8d94-924daee570ce.jpg",
+        "name_zh": "대천사 미카엘",
+        "name_hi": "대천사 미카엘"
       },
       {
         "id": "M29",
@@ -1725,7 +1963,9 @@
         "desc": "기쁜 소식과 희망의 메시지를 전하는 천상 메신저로서, 반가운 인연과 행운의 서광을 알려 줍니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-b5789abe-2fb1-420c-af3d-9f2786913cc0-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-b5789abe-2fb1-420c-af3d-9f2786913cc0.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-b5789abe-2fb1-420c-af3d-9f2786913cc0.jpg",
+        "name_zh": "대천사 가브리엘",
+        "name_hi": "대천사 가브리엘"
       },
       {
         "id": "M30",
@@ -1741,7 +1981,9 @@
         "desc": "지친 여정과 상처받은 마음을 보듬는 치유의 천사로서, 온화한 위로와 건강한 회복을 선사합니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-2d9bd11b-559c-4316-b10b-e751e4e16edf-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2d9bd11b-559c-4316-b10b-e751e4e16edf.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2d9bd11b-559c-4316-b10b-e751e4e16edf.jpg",
+        "name_zh": "대천사 라파엘",
+        "name_hi": "대천사 라파엘"
       },
       {
         "id": "M31",
@@ -1757,7 +1999,9 @@
         "desc": "어둠을 사르는 지혜의 등대 천사로서, 혼란스러운 순간에 명확한 진리의 빛을 밝혀 줍니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-64e2f15b-f036-4065-b84d-14c75ab8d0ef-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-64e2f15b-f036-4065-b84d-14c75ab8d0ef.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-64e2f15b-f036-4065-b84d-14c75ab8d0ef.jpg",
+        "name_zh": "대천사 우리엘",
+        "name_hi": "대천사 우리엘"
       },
       {
         "id": "M32",
@@ -1773,7 +2017,9 @@
         "desc": "한순간도 곁을 떠나지 않는 다정한 수호자로서, 일상의 모든 발걸음을 따스하게 지켜 줍니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-2e43fe15-f4a4-4f72-b0f0-1654f0594fd3-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2e43fe15-f4a4-4f72-b0f0-1654f0594fd3.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-2e43fe15-f4a4-4f72-b0f0-1654f0594fd3.jpg",
+        "name_zh": "수호천사",
+        "name_hi": "수호천사"
       },
       {
         "id": "M33",
@@ -1789,7 +2035,9 @@
         "desc": "운명의 실타래를 아름답게 잣는 여신으로서, 헝클어진 인연을 풀고 고귀한 숙명을 엮어 줍니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-c24d8000-5fca-4b0e-aada-45387b4f1f76-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c24d8000-5fca-4b0e-aada-45387b4f1f76.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-c24d8000-5fca-4b0e-aada-45387b4f1f76.jpg",
+        "name_zh": "모이라이",
+        "name_hi": "모이라이"
       },
       {
         "id": "M34",
@@ -1805,7 +2053,9 @@
         "desc": "흘러가는 모든 순간을 담는 시간지기의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-68889ae7-61a6-4146-9f96-8a200e70726f-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-68889ae7-61a6-4146-9f96-8a200e70726f.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-68889ae7-61a6-4146-9f96-8a200e70726f.jpg",
+        "name_zh": "크로노스",
+        "name_hi": "크로노스"
       },
       {
         "id": "M35",
@@ -1821,7 +2071,9 @@
         "desc": "방황하는 별들을 인도하는 등대지기의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-fafd7ba0-75b0-4422-91a4-5108e49b38df-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-fafd7ba0-75b0-4422-91a4-5108e49b38df.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-fafd7ba0-75b0-4422-91a4-5108e49b38df.jpg",
+        "name_zh": "은하의 안식자",
+        "name_hi": "은하의 안식자"
       },
       {
         "id": "M36",
@@ -1837,7 +2089,9 @@
         "desc": "시공간의 문을 여는 수호자의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "천상계",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-5309efa1-92bb-4f2f-b824-b6bd4754c116-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-5309efa1-92bb-4f2f-b824-b6bd4754c116.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-5309efa1-92bb-4f2f-b824-b6bd4754c116.jpg",
+        "name_zh": "차원의 문지기",
+        "name_hi": "차원의 문지기"
       },
       {
         "id": "M37",
@@ -1853,7 +2107,9 @@
         "desc": "행운과 소식을 나르는 전령의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-7573fa96-bce2-44bb-abbb-c55a31ed81db-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7573fa96-bce2-44bb-abbb-c55a31ed81db.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7573fa96-bce2-44bb-abbb-c55a31ed81db.jpg",
+        "name_zh": "헤르메스",
+        "name_hi": "헤르메스"
       },
       {
         "id": "M38",
@@ -1869,7 +2125,9 @@
         "desc": "축제와 환희를 부르는 포도 신의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-52671aff-9953-45c1-8f4a-bad87c668748-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-52671aff-9953-45c1-8f4a-bad87c668748.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-52671aff-9953-45c1-8f4a-bad87c668748.jpg",
+        "name_zh": "디오니소스",
+        "name_hi": "디오니소스"
       },
       {
         "id": "M39",
@@ -1885,7 +2143,9 @@
         "desc": "운명의 수레바퀴와 풍요의 여신의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-d30617db-2034-4a3d-bfb2-bca59dace75f-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d30617db-2034-4a3d-bfb2-bca59dace75f.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d30617db-2034-4a3d-bfb2-bca59dace75f.jpg",
+        "name_zh": "포르투나",
+        "name_hi": "포르투나"
       },
       {
         "id": "M40",
@@ -1901,7 +2161,9 @@
         "desc": "사랑과 기쁨을 품은 온화의 여신의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-284c0bf8-e198-4508-b886-06758cbd2ffa-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-284c0bf8-e198-4508-b886-06758cbd2ffa.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-284c0bf8-e198-4508-b886-06758cbd2ffa.jpg",
+        "name_zh": "하토르",
+        "name_hi": "하토르"
       },
       {
         "id": "M41",
@@ -1917,7 +2179,9 @@
         "desc": "만물의 지혜를 기록하는 서기관의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-d51748df-f40e-4c92-b751-42275a5689b8-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d51748df-f40e-4c92-b751-42275a5689b8.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-d51748df-f40e-4c92-b751-42275a5689b8.jpg",
+        "name_zh": "토트",
+        "name_hi": "토트"
       },
       {
         "id": "M42",
@@ -1933,7 +2197,9 @@
         "desc": "온기를 전하는 화롯가의 수호자의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-fc266e82-9afd-4b26-b645-ce1f9c107bd5-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-fc266e82-9afd-4b26-b645-ce1f9c107bd5.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-fc266e82-9afd-4b26-b645-ce1f9c107bd5.jpg",
+        "name_zh": "브리지드",
+        "name_hi": "브리지드"
       },
       {
         "id": "M43",
@@ -1949,7 +2215,9 @@
         "desc": "헌신과 용기를 품은 바람의 전사의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-ec5daf40-a756-472d-a156-13def05e6891-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-ec5daf40-a756-472d-a156-13def05e6891.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-ec5daf40-a756-472d-a156-13def05e6891.jpg",
+        "name_zh": "하누만",
+        "name_hi": "하누만"
       },
       {
         "id": "M44",
@@ -1965,7 +2233,9 @@
         "desc": "물 위를 밝히는 번영의 전령의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격 (수정본)",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-7661a844-b4a4-49e7-bd3a-01b2403fd0a5-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7661a844-b4a4-49e7-bd3a-01b2403fd0a5.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-7661a844-b4a4-49e7-bd3a-01b2403fd0a5.jpg",
+        "name_zh": "연꽃 행운 요정",
+        "name_hi": "연꽃 행운 요정"
       },
       {
         "id": "M45",
@@ -1981,7 +2251,9 @@
         "desc": "청춘의 활력을 주는 황금 사과 지기의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-643a76b1-eb9a-49a5-a0a6-ac847b11eb99-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-643a76b1-eb9a-49a5-a0a6-ac847b11eb99.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-643a76b1-eb9a-49a5-a0a6-ac847b11eb99.jpg",
+        "name_zh": "이둔",
+        "name_hi": "이둔"
       },
       {
         "id": "M46",
@@ -1997,7 +2269,9 @@
         "desc": "최고조의 행운을 여는 보물 세공사의 상서롭고 신비로운 힘으로 운을 트이게 돕습니다.",
         "origin": "여분 신격 (수정본)",
         "nobg_source": "C:\\Works\\DOK-KEY\\images\\2-36_0\\이미지 생성-0565b73b-e2c7-49aa-b8bd-e5728bc83909-Photoroom.png",
-        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-0565b73b-e2c7-49aa-b8bd-e5728bc83909.jpg"
+        "raw_source": "C:\\Works\\DOK-KEY\\images\\2-download\\이미지 생성-0565b73b-e2c7-49aa-b8bd-e5728bc83909.jpg",
+        "name_zh": "황금 열쇠 장인",
+        "name_hi": "황금 열쇠 장인"
       }
     ]
   }

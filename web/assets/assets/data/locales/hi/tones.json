@@ -1,0 +1,338 @@
+{
+  "comic": {
+    "name": "हास्य और विनोद",
+    "color": "#F0A500",
+    "voice_guide": "सरल हास्य और जीवन को हल्के-फुल्के अंदाज में लेने की कला",
+    "templates": [
+      {
+        "id": "comic_tmpl_001",
+        "headline": "{card_name} आज पूरे आत्मविश्वास के साथ आपके साथ है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_002",
+        "headline": "द्वार खोलते ही, {card_name} शुभ भाव से आपका स्वागत करता है",
+        "body": "{timeslot_name} के समय में, नंबर {number} आपके प्रयासों को नया बल प्रदान करेगा।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "calm": {
+    "name": "परम शांति",
+    "color": "#4E9F8E",
+    "voice_guide": "गहरी सांसें, ठहराव और निर्मल शांति का अनुभव",
+    "templates": [
+      {
+        "id": "calm_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_002",
+        "headline": "द्वार खोलते ही, {card_name} शुभ भाव से आपका स्वागत करता है",
+        "body": "{timeslot_name} के समय में, नंबर {number} आपके प्रयासों को नया बल प्रदान करेगा।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_003",
+        "headline": "{timeslot_name} का समय आज आपके लिए शांति का उपहार लेकर आया है",
+        "body": "आशा और विश्वास के साथ, {card_name} और नंबर {number} आपको सही दिशा दिखाते हैं।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "conflict": {
+    "name": "चुनौती और मंथन",
+    "color": "#D14949",
+    "voice_guide": "चुनौतियों का डटकर सामना करने का ओजस्वी स्वर",
+    "templates": [
+      {
+        "id": "conflict_tmpl_001",
+        "headline": "{card_name} आज पूरे आत्मविश्वास के साथ आपके साथ है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_002",
+        "headline": "{timeslot_name} के समय में, नए अवसर का उदय होता है",
+        "body": "{card_name} के सान्निध्य में, नंबर {number} शांति और विवेक का मार्ग दिखाता है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_003",
+        "headline": "{card_name} के साथ आज एक नई ऊर्जा और दिशा प्राप्त होती है",
+        "body": "{timeslot_name} के प्रवाह में, नंबर {number} सभी बाधाओं को दूर कर सफलता दिलाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "meeting": {
+    "name": "मधुर मिलन",
+    "color": "#E07A5F",
+    "voice_guide": "नए रिश्तों और आत्मीय मिलन का सौहार्द",
+    "templates": [
+      {
+        "id": "meeting_tmpl_001",
+        "headline": "{card_name} आज पूरे आत्मविश्वास के साथ आपके साथ है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "horror": {
+    "name": "सजगता और विवेक",
+    "color": "#6A4C93",
+    "voice_guide": "अंधेरे से परे वास्तविक ज्ञान की जाग्रति",
+    "templates": [
+      {
+        "id": "horror_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "नंबर {number} आपके संग है, जो आपको सही दिशा की ओर अग्रसर करेगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_002",
+        "headline": "द्वार खोलते ही, {card_name} शुभ भाव से आपका स्वागत करता है",
+        "body": "{timeslot_name} के समय में, नंबर {number} आपके प्रयासों को नया बल प्रदान करेगा।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_003",
+        "headline": "{card_name} के साथ आज एक नई ऊर्जा और दिशा प्राप्त होती है",
+        "body": "{timeslot_name} के प्रवाह में, नंबर {number} सभी बाधाओं को दूर कर सफलता दिलाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "chaos": {
+    "name": "उलझन में अवसर",
+    "color": "#7F7F7F",
+    "voice_guide": "उथल-पुथल के बीच नई राह खोजने का साहस",
+    "templates": [
+      {
+        "id": "chaos_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "नंबर {number} आपके संग है, जो आपको सही दिशा की ओर अग्रसर करेगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_003",
+        "headline": "{card_name} के साथ आज एक नई ऊर्जा और दिशा प्राप्त होती है",
+        "body": "{timeslot_name} के प्रवाह में, नंबर {number} सभी बाधाओं को दूर कर सफलता दिलाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "lonely": {
+    "name": "एकांत साधना",
+    "color": "#2B3A67",
+    "voice_guide": "एकांत का आनंद और आत्म-मंथन की शक्ति",
+    "templates": [
+      {
+        "id": "lonely_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "नंबर {number} आपके संग है, जो आपको सही दिशा की ओर अग्रसर करेगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_002",
+        "headline": "द्वार खोलते ही, {card_name} शुभ भाव से आपका स्वागत करता है",
+        "body": "{timeslot_name} के समय में, नंबर {number} आपके प्रयासों को नया बल प्रदान करेगा।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "farewell": {
+    "name": "सुखद विदाई",
+    "color": "#607D8B",
+    "voice_guide": "अतीत को विदा कर आगे बढ़ने की सहजता",
+    "templates": [
+      {
+        "id": "farewell_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "नंबर {number} आपके संग है, जो आपको सही दिशा की ओर अग्रसर करेगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_003",
+        "headline": "{card_name} के साथ आज एक नई ऊर्जा और दिशा प्राप्त होती है",
+        "body": "{timeslot_name} के प्रवाह में, नंबर {number} सभी बाधाओं को दूर कर सफलता दिलाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "hope": {
+    "name": "आशा की किरण",
+    "color": "#F4A261",
+    "voice_guide": "उम्मीद का नया सवेरा और सकारात्मक विश्वास",
+    "templates": [
+      {
+        "id": "hope_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "passion": {
+    "name": "अदम्य उत्साह",
+    "color": "#E76F51",
+    "voice_guide": "लक्ष्य प्राप्ति के लिए अटूट लगन और ऊर्जा",
+    "templates": [
+      {
+        "id": "passion_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "mystery": {
+    "name": "गूढ़ रहस्य",
+    "color": "#8338EC",
+    "voice_guide": "रहस्यमयी संकेत और गूढ़ आध्यात्मिक अनुभव",
+    "templates": [
+      {
+        "id": "mystery_tmpl_001",
+        "headline": "{timeslot_name} के शांत समय में, {card_name} आपका मार्गदर्शन करता है",
+        "body": "नंबर {number} आपके संग है, जो आपको सही दिशा की ओर अग्रसर करेगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_002",
+        "headline": "{timeslot_name} की शीतल पवन में {card_name} नई चेतना का संचार करता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  },
+  "irony": {
+    "name": "रोचक मोड़",
+    "color": "#588157",
+    "voice_guide": "परिस्थितियों के अप्रत्याशित सुखद परिणाम",
+    "templates": [
+      {
+        "id": "irony_tmpl_001",
+        "headline": "{card_name} आज पूरे आत्मविश्वास के साथ आपके साथ है",
+        "body": "{timeslot_name} में, नंबर {number} आपके संग है। जल्दबाजी न करें, सब कुछ उचित समय पर सिद्ध होगा।",
+        "tip": "आज का मंत्र: शांत चित्त से लिया गया निर्णय ही सबसे उत्तम परिणाम देता है।",
+        "share_caption": "आज {timeslot_name} में {card_name} और नंबर {number} के साथ नई शुरुआत 🌿 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_002",
+        "headline": "{timeslot_name} के समय में, नए अवसर का उदय होता है",
+        "body": "नंबर {number} आज आपके हर कदम पर सकारात्मक ऊर्जा भर रहा है।",
+        "tip": "जब मन एकाग्र और शांत हो, तो हर समस्या का समाधान स्वतः दिखाई देने लगता है।",
+        "share_caption": "{timeslot_name} में {card_name} और लकी नंबर {number} के संग सुखद अनुभव ☕ #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_003",
+        "headline": "{timeslot_name} के मंच पर, {card_name} आपके मार्ग को आलोकित करता है",
+        "body": "नंबर {number} आपको नई संभावनाओं और अवसरों की ओर ले जाएगा।",
+        "tip": "जब सब कुछ सही चल रहा हो, तो सहज और विनम्र बने रहना ही सबसे बड़ी कला है।",
+        "share_caption": "{timeslot_name} में {card_name} और नंबर {number} का शुभ सान्निध्य 🍃 #DOK_KEY"
+      }
+    ]
+  }
+}

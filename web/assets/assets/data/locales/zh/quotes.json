@@ -1,0 +1,135 @@
+[
+  {
+    "id": "quo_001",
+    "text": "跌倒了顺便从地上捡起一枚闪亮的金币再站起来，这就是鬼怪的从容之道。",
+    "category": "깨비말",
+    "tone_tags": [
+      "comic",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_002",
+    "text": "狂风呼啸时切莫硬顶风暴；展开你的折扇，借风之势翱翔天际吧。",
+    "category": "생활속담",
+    "tone_tags": [
+      "calm",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_003",
+    "text": "莫贪求金斧银斧，最贴合自己手掌的朴素铁斧砍柴最是利落顺手。",
+    "category": "깨비말",
+    "tone_tags": [
+      "calm",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_004",
+    "text": "前门关上时切莫灰心，调皮的精灵总会在后墙悄悄留下一道光明的缝隙。",
+    "category": "깨비말",
+    "tone_tags": [
+      "hope",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_005",
+    "text": "若想讨好遇见的每一个人，哪怕是神奇的如意神棒也会因疲累而折断。",
+    "category": "도깨비풍자",
+    "tone_tags": [
+      "conflict",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_006",
+    "text": "能够在月光之下从容细品一盏温热清茶之人，才是世间最富有的心灵。",
+    "category": "깨비말",
+    "tone_tags": [
+      "calm",
+      "lonely"
+    ]
+  },
+  {
+    "id": "quo_007",
+    "text": "未按剧本发展的一天，或许是天地神灵悄悄埋下的一份惊喜盲盒。",
+    "category": "깨비말",
+    "tone_tags": [
+      "chaos",
+      "irony"
+    ]
+  },
+  {
+    "id": "quo_008",
+    "text": "率先伸出温热双手的人绝非丢了面子，而是主动握住了机缘的珍贵钥匙。",
+    "category": "생활속담",
+    "tone_tags": [
+      "meeting",
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_009",
+    "text": "若双手紧紧攥着去年的枯叶，便没有多余的掌心去拥抱春天盛开的繁花。",
+    "category": "생활속담",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_010",
+    "text": "所谓恐惧，只要点亮心灯看清真相，便会像叠好的被子一样平淡无奇。",
+    "category": "도깨비풍자",
+    "tone_tags": [
+      "horror",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_011",
+    "text": "在一整串钥匙中，往往是那把磨损最旧的钥匙最能顺滑地开启锁孔。",
+    "category": "key",
+    "tone_tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": "quo_012",
+    "text": "深夜里的真情倾诉，比白昼中的客套寒暄要真诚上百倍。",
+    "category": "night",
+    "tone_tags": [
+      "lonely",
+      "mystery"
+    ]
+  },
+  {
+    "id": "quo_013",
+    "text": "清晨写下的些许遗憾，到了黄昏正是卸下心灵包袱的最佳时刻。",
+    "category": "daily",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ]
+  },
+  {
+    "id": "quo_014",
+    "text": "主动热情呼唤幸运的人，脚步总是能比运气本身抢先一步到达。",
+    "category": "fortune",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ]
+  },
+  {
+    "id": "quo_015",
+    "text": "发自内心的爽朗欢笑，是击破一切烦恼与晦气的最强神棒。",
+    "category": "humor",
+    "tone_tags": [
+      "comic"
+    ]
+  }
+]

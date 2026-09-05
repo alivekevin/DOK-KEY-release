@@ -1,0 +1,272 @@
+[
+  {
+    "id": "rid_001",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "小鬼怪珍爱的坛子上满是小孔。什么东西灌入的水越多，反而变得越轻？",
+    "options": [
+      "船只",
+      "渔网",
+      "冰块",
+      "气球"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "厉害啊！船舱一旦进水，为了不沉没就必须抛掉沉重的货物让船变轻！奖你一把幸运钥匙！",
+      "wrong": "答错啦！仔细想想当船只进水时抛弃重物自救的道理吧！"
+    }
+  },
+  {
+    "id": "rid_002",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "正午变长、夜里消失，无论小鬼怪跑得多快也甩不掉的形影不离之友是什么？",
+    "options": [
+      "影子",
+      "清风",
+      "脚印",
+      "回声"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "完全正确！只要有光亮在，我的影子朋友就永远寸步不离！",
+      "wrong": "不对哦！在完全漆黑的夜里悄然隐去身影的朋友正是你的影子呀！"
+    }
+  },
+  {
+    "id": "rid_003",
+    "difficulty": 1,
+    "category": "wordplay",
+    "question": "拥有许多键却打不开真正的锁，有空间却没有房间，可以输入却无法走出的是什么？",
+    "options": [
+      "键盘",
+      "地图",
+      "百宝箱",
+      "钟表"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "哈哈！在键盘上尽情敲击智慧吧！思维真是太敏捷了！",
+      "wrong": "差一点！空格键、回车键样样齐全却没有一扇门，正是键盘啦！"
+    }
+  },
+  {
+    "id": "rid_004",
+    "difficulty": 2,
+    "category": "insight",
+    "question": "越是无私分享给他人自己拥有的就越丰盛；若想一人独占反而会渐渐枯萎消失的是什么？",
+    "options": [
+      "爱与快乐",
+      "黄金",
+      "秘密",
+      "食物"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "太有智慧了！爱与幸福越是慷慨分享，心中的福分就会成倍增长！",
+      "wrong": "可惜！若只顾紧抓不放，真正会消逝的是分享快乐的温暖心胸啊！"
+    }
+  },
+  {
+    "id": "rid_005",
+    "difficulty": 2,
+    "category": "logic",
+    "question": "小鬼怪在一栋10层楼的大厦里。下雨天他乘电梯直达10层，晴天却只能乘到7层走楼梯上去。为什么？",
+    "options": [
+      "身高太矮只有雨伞能按到10层键",
+      "晴天电梯限电维护",
+      "7层有他喜欢的朋友",
+      "想借晴天锻炼身体"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "哇！真是明察秋毫！因为身高矮够不到高层按键，下雨天才能用雨伞尖按到10层！",
+      "wrong": "猜错啦！想一想小短腿的精灵身高够不着高处的按键会怎样吧！"
+    }
+  },
+  {
+    "id": "rid_006",
+    "difficulty": 2,
+    "category": "wit",
+    "question": "买它的人不需要它，用它的人却浑然不知，制造它的人也不想留着它的是什么？",
+    "options": [
+      "棺木",
+      "假发",
+      "药剂",
+      "镜子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "透彻！虽然听起来有些玄妙，但正是棺木的经典谜题！思维极具穿透力！",
+      "wrong": "答错了！再仔细琢磨琢磨这背后的奇妙逻辑吧！"
+    }
+  },
+  {
+    "id": "rid_007",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "从天而降落入河流便融为一体，落入泥土滋养万物，却永远无法被双掌完整捧起的是什么？",
+    "options": [
+      "雨水",
+      "落叶",
+      "阳光",
+      "微风"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "回答得太妙了！绵绵细雨滋润大地，化作无形却润物无声！",
+      "wrong": "不对哦！自苍穹洒落汇入江河的甘霖正是雨水呀！"
+    }
+  },
+  {
+    "id": "rid_008",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "有一座桥没有桥墩、没有桥面，却能在雨后横跨天际连通群山的是什么？",
+    "options": [
+      "彩虹",
+      "云朵",
+      "银河",
+      "极光"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "宾果！雨过天晴后横跨天际的七彩虹桥！太诗意了！",
+      "wrong": "答错咯！天边如七彩锦缎般架起的正是美丽彩虹！"
+    }
+  },
+  {
+    "id": "rid_009",
+    "difficulty": 2,
+    "category": "logic",
+    "question": "兄弟俩并肩奔跑一辈子，谁也追不上谁，谁也甩不开谁的是什么？",
+    "options": [
+      "车轮",
+      "眼睛",
+      "鞋子",
+      "双腿"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "正是车轮！同轴旋转并驾齐驱，一同驶向辽阔远方！",
+      "wrong": "不对哦！无论驶过多少万水千山始终并肩同行的正是车轮！"
+    }
+  },
+  {
+    "id": "rid_010",
+    "difficulty": 1,
+    "category": "nature",
+    "question": "白天低头沉睡，夜晚仰望苍穹；满天繁星闪烁时它悄然苏醒的是什么？",
+    "options": [
+      "夜昙花",
+      "向日葵",
+      "青竹",
+      "松柏"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "答对了！昙花一现只在月明深夜盛放，孤芳自赏却惊艳绝伦！",
+      "wrong": "可惜！只在清凉静夜展露绝世芳华的花朵正是昙花！"
+    }
+  },
+  {
+    "id": "rid_011",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "什么东西越洗越脏，不洗反而看起来最干净？",
+    "options": [
+      "清水",
+      "抹布",
+      "煤炭",
+      "衣服"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "太敏锐了！清水一旦用来洗涤就会变浑浊，天然清澈才是纯净之水！",
+      "wrong": "答错了！用清水洗涤别物时，水自身就会逐渐浑浊呀！"
+    }
+  },
+  {
+    "id": "rid_012",
+    "difficulty": 2,
+    "category": "wordplay",
+    "question": "无论你走到天涯海角，只要轻轻唤一声它的名字，它就会立刻回应你的是什么？",
+    "options": [
+      "回声",
+      "影子",
+      "风声",
+      "脚步"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "空谷传响！群山之间立刻给以回响的正是回声！",
+      "wrong": "没猜对！只要你大声呼喊，群山幽谷便会以回声应和！"
+    }
+  },
+  {
+    "id": "rid_013",
+    "difficulty": 2,
+    "category": "insight",
+    "question": "世间有一件最神奇的宝物：一旦打破了它反而让人心安，不打破时却让人忐忑不安的是什么？",
+    "options": [
+      "沉默",
+      "玻璃",
+      "诺言",
+      "记录"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "打破尴尬的沉默！敞开心扉真诚相谈，心结自然迎刃而解！",
+      "wrong": "答错了！打破长久的尴尬与沉默，往往能带来真正的解脱！"
+    }
+  },
+  {
+    "id": "rid_014",
+    "difficulty": 1,
+    "category": "wit",
+    "question": "生来一张大嘴却从不吃饭，吞咽无数信件书籍却从不长胖的是什么？",
+    "options": [
+      "邮筒",
+      "书包",
+      "木箱",
+      "书柜"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "答得好！默默守候在街角传递思念与希望的绿色邮筒！",
+      "wrong": "不对哦！专为传递人们书信问候而生的正是邮筒！"
+    }
+  },
+  {
+    "id": "rid_015",
+    "difficulty": 2,
+    "category": "logic",
+    "question": "小鬼怪在黑暗密室中只有一根火柴，眼前有一盏油灯、一根蜡烛和一个柴火炉。他应该先点燃什么？",
+    "options": [
+      "火柴",
+      "油灯",
+      "蜡烛",
+      "柴火炉"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "kkaebi_reaction": {
+      "correct": "哈哈！太机智了！不先擦亮火柴，其余一切都无法点燃！满分反应！",
+      "wrong": "哈哈中招了吧！要点燃任何东西，首先必须划亮火柴本身呀！"
+    }
+  }
+]

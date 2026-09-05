@@ -1,0 +1,182 @@
+{
+  "rat": {
+    "name": "鼠",
+    "symbol": "灵敏敏捷与机智",
+    "description": "在最狭小的缝隙中也能洞见出路的敏锐双眸"
+  },
+  "ox": {
+    "name": "牛",
+    "symbol": "沉稳坚韧与执着",
+    "description": "风雨不动安如山、踏实迈进的沉静力量"
+  },
+  "tiger": {
+    "name": "虎",
+    "symbol": "勇猛果敢与决断",
+    "description": "锁定目标便决不犹疑、傲然飞跃的气概"
+  },
+  "rabbit": {
+    "name": "兔",
+    "symbol": "敏捷跃迁与灵动",
+    "description": "步履轻快地跃过层层障碍的灵动机敏"
+  },
+  "dragon": {
+    "name": "龙",
+    "symbol": "腾飞变革与潜能",
+    "description": "冲破云霄、呼风唤雨的无限潜能之象征"
+  },
+  "snake": {
+    "name": "蛇",
+    "symbol": "深邃智慧与蜕变",
+    "description": "褪去旧壳以换得新生的锐利直觉"
+  },
+  "horse": {
+    "name": "马",
+    "symbol": "自由奔放与驰骋",
+    "description": "掠过辽阔原野的热烈激情与奔腾之力"
+  },
+  "sheep": {
+    "name": "羊",
+    "symbol": "温和包容与和谐",
+    "description": "以柔克刚、抚平棱角分明心灵的祥和之气"
+  },
+  "monkey": {
+    "name": "猴",
+    "symbol": "多才多艺与妙计",
+    "description": "以出人意料之法巧妙解开死结的百般机变"
+  },
+  "rooster": {
+    "name": "鸡",
+    "symbol": "先见之明与破晓",
+    "description": "刺破长夜黑暗、唤醒崭新黎明的清亮啼鸣"
+  },
+  "dog": {
+    "name": "狗",
+    "symbol": "忠诚守护与信赖",
+    "description": "无论何时都守候身旁的诚挚温热"
+  },
+  "pig": {
+    "name": "猪",
+    "symbol": "富足丰盈与福泽",
+    "description": "将空缺之处悉数填满的醇厚福分"
+  },
+  "moon_jar": {
+    "name": "月亮罐",
+    "symbol": "留白包容与圆满",
+    "description": "以不刻意求全之圆融包罗万象的器量"
+  },
+  "inkstone": {
+    "name": "墨砚",
+    "symbol": "深邃思考与沉淀",
+    "description": "研磨浓墨以砥砺心志的沉潜时光"
+  },
+  "bamboo_flute": {
+    "name": "竹笛",
+    "symbol": "清亮悠远与共鸣",
+    "description": "汇聚清风化作荡涤心灵的绝妙乐章"
+  },
+  "folding_fan": {
+    "name": "折扇",
+    "symbol": "随机应变与开合",
+    "description": "深谙张弛收放之道的智慧之风"
+  },
+  "brass_bell": {
+    "name": "风铃",
+    "symbol": "警醒清明与觉察",
+    "description": "每当微风拂过便能唤醒灵台的清脆之音"
+  },
+  "wooden_comb": {
+    "name": "密齿梳",
+    "symbol": "梳理纷乱与平息",
+    "description": "将错综复杂的思绪温柔抚平的从容之手"
+  },
+  "lotus_lamp": {
+    "name": "莲花灯",
+    "symbol": "暗夜引路与希望",
+    "description": "出淤泥而不染、于暗夜中盛放的清辉"
+  },
+  "jade_ring": {
+    "name": "翡翠戒",
+    "symbol": "恒久誓言与高洁",
+    "description": "任凭岁月流转亦不失光彩的纯正初心"
+  },
+  "tea_bowl": {
+    "name": "茶盏",
+    "symbol": "从容静心与温润",
+    "description": "以一啜清茗荡尽尘嚣纷扰的闲适小憩"
+  },
+  "silk_pouch": {
+    "name": "福袋",
+    "symbol": "暗藏机缘与福气",
+    "description": "珍藏着不期而遇的美好馈赠的丝织锦囊"
+  },
+  "wooden_fish": {
+    "name": "木鱼",
+    "symbol": "觉悟警醒与专注",
+    "description": "如永不合眼之游鱼般澄澈连绵的定力"
+  },
+  "cloud_pillow": {
+    "name": "云枕",
+    "symbol": "甜美安歇与孕育",
+    "description": "安顿疲惫身躯、孕育崭新梦想的轻柔温床"
+  },
+  "dokkaebi_fire": {
+    "name": "鬼火灵光",
+    "symbol": "灵感闪烁与机趣",
+    "description": "在夜幕中忽明忽暗、照亮未知角落的精灵顽心"
+  },
+  "dokkaebi_club": {
+    "name": "如意宝棒",
+    "symbol": "万象显化与创生",
+    "description": "轻轻一挥便能显化万物的神奇创造力"
+  },
+  "mountain_spirit": {
+    "name": "泰岳山神",
+    "symbol": "高瞻远瞩与洞察",
+    "description": "于绝顶之上一览众山小的渊博慧眼"
+  },
+  "cloud_hermit": {
+    "name": "乘云仙翁",
+    "symbol": "超脱尘俗与从容",
+    "description": "随风漂泊、无拘无束的豁达胸襟"
+  },
+  "water_sprite": {
+    "name": "碧波水仙",
+    "symbol": "顺流而变与澄澈",
+    "description": "遇阻则绕、止水则清的至柔之智"
+  },
+  "wind_child": {
+    "name": "随风童子",
+    "symbol": "灵动消息与转机",
+    "description": "自远方轻快衔来崭新风讯的旅人"
+  },
+  "star_weaver": {
+    "name": "织星仙女",
+    "symbol": "宿命编织与坚守",
+    "description": "以无形金线穿梭相连人世机缘的巧匠"
+  },
+  "shadow_walker": {
+    "name": "隐影行者",
+    "symbol": "幕后助益与审慎",
+    "description": "在视线不及之处默默拨转乾坤的隐秘力量"
+  },
+  "flower_fairy": {
+    "name": "百花仙子",
+    "symbol": "喜悦芬芳与魅力",
+    "description": "在贫瘠土地上催开灿烂笑靥的勃勃生机"
+  },
+  "sun_messenger": {
+    "name": "逐日使者",
+    "symbol": "自信昂扬与宣示",
+    "description": "披星戴月引领晨曦、宣告全新一天的傲然使者"
+  },
+  "moon_rabbit": {
+    "name": "望月玉兔",
+    "symbol": "踏实耕耘与收获",
+    "description": "在星空之下默默捣药舂米的恒心"
+  },
+  "dream_eater": {
+    "name": "食梦祥兽",
+    "symbol": "化解忧虑与安眠",
+    "description": "将整夜纠缠之噩梦悉数吞噬净化的温柔守护"
+  }
+}
