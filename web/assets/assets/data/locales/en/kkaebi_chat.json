@@ -1,6 +1,18 @@
 {
   "topics": [
     {
+      "id": "passcode",
+      "chip_title": "Generate a passcode? 🔢",
+      "user_question": "Kkaebi, can I use today's drawn numbers as my door lock or bank PIN?",
+      "steps": [
+        "Oh! That's a brilliant and practical idea! Using today's lucky number '{number}' for your door lock, bank PIN, or app passcode brings positive energy every time you unlock it!",
+        "Struggling to pick a secure PIN? Rather than predictable birthdays, blending the sacred number from today's '{card_name}' card acts like a goblin shield—safe and memorable!",
+        "Every time you type in your passcode, whisper a cheerful affirmation like 'Prosperity opens today!'. Auspicious fortune will flow straight through the doorway!",
+        "Just remember: avoid overly simple repeating digits! Visit your KeyBox to combine multiple gathered fortune numbers into a solid 4 or 6-digit magic key.",
+        "Final conclusion: A passcode crafted with your own hands is not merely digits—it is your personal lucky charm and guardian talisman. Use it with confidence!"
+      ]
+    },
+    {
       "id": "lotto",
       "chip_title": "Should I buy lottery? 💰",
       "user_question": "Kkaebi, if I buy a lottery with today's drawn number, will I win?",
