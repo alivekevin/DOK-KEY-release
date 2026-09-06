@@ -1,0 +1,902 @@
+[
+  {
+    "question": "What floats on water, carries people across the sea, and never sinks?",
+    "options": [
+      "Boat",
+      "Stone",
+      "Net",
+      "Balloon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The one who sails the boat becomes master of the sea!",
+      "wrong": "Nope! A boat belongs on the waves, friend!"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "What burns itself to brighten the darkest corner?",
+    "options": [
+      "Mirror",
+      "Glass",
+      "Jar",
+      "Candle"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The candle gives its own light for others — noble sacrifice!",
+      "wrong": "Nope! What light gives itself away to shine?"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "What follows you only in sunlight, yet can never be caught?",
+    "options": [
+      "Shadow",
+      "Smoke",
+      "Sunset",
+      "Wind"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Your shadow stays beside you as long as you face the light!",
+      "wrong": "Nope! It clings to your heels beneath the light!"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "What guards your feet from falling rain, folding when not needed?",
+    "options": [
+      "Umbrella net",
+      "Rain boots",
+      "Tarp",
+      "Awning"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Rain boots hold the line where water attacks!",
+      "wrong": "Nope! It's worn on your feet in the rain!"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "What is a silver plate in the night sky that changes shape every evening?",
+    "options": [
+      "Star",
+      "Moon",
+      "Comet",
+      "Sun"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The moon keeps watch over every night with a new face!",
+      "wrong": "Nope! The silver dish that waxes and wanes!"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "What rises to the sky on the wind, yet never lets go of its string?",
+    "options": [
+      "Bird",
+      "Kite",
+      "Balloon",
+      "Plane"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A kite climbs higher because of its string — bonds do that!",
+      "wrong": "Nope! Held by a string, it owns the sky!"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "What is pressed silently, yet leaves your name behind?",
+    "options": [
+      "Postage stamp",
+      "Fist",
+      "Stamp seal",
+      "Palm"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! One press of a seal turns a name into a hundred-word promise!",
+      "wrong": "Nope! Pressed once, it speaks your name!"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "What sings when the wind passes, guarding the gate from above?",
+    "options": [
+      "Flag",
+      "Bell",
+      "Morning glory",
+      "Wind chime"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The chime's ringing is the wind's signature at your gate!",
+      "wrong": "Nope! It rattles merrily above the door!"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "What white food made of rice takes the highest place on the New Year's table?",
+    "options": [
+      "Steamed rice",
+      "Fruit",
+      "Noodles",
+      "Rice cake"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Rice cake bridges the living and the ancestors!",
+      "wrong": "Nope! White and soft, offered at the holiday table!"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "What grows smaller as it erases other people's mistakes?",
+    "options": [
+      "Fan",
+      "Rain",
+      "Brush",
+      "Eraser"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The eraser shrinks itself to fix your errors — what a friend!",
+      "wrong": "Nope! It fades away fixing your wrongs!"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "What can no one ever catch, no matter how fast they run?",
+    "options": [
+      "Smoke",
+      "Time",
+      "Wind",
+      "Light"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Time is the fastest thief in the world!",
+      "wrong": "Nope! It steals everything between two blinks!"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "What shows you every face but can never see its own?",
+    "options": [
+      "Glasses",
+      "Photo",
+      "Window",
+      "Mirror"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The mirror shows all but itself!",
+      "wrong": "Nope! It knows your face, never its own!"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "What gets shorter as it is sharpened, yet leaves more words behind?",
+    "options": [
+      "Arrow",
+      "Pencil",
+      "Chopstick",
+      "Flagpole"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A pencil gives up its body to leave wisdom!",
+      "wrong": "Nope! Sharpened to write another day!"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "Which guardian of the woods sleeps by day and sees sharply by night?",
+    "options": [
+      "Deer",
+      "Owl",
+      "Rabbit",
+      "Squirrel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The owl is the wise night watchman of the forest!",
+      "wrong": "Nope! Bright eyes at midnight — the forest sage!"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "What grinds ink to make writing, sitting quietly on the scholar's desk?",
+    "options": [
+      "Bowl",
+      "Kettle",
+      "Inkstone",
+      "Jar"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The inkstone is the quiet bridge between ink and brush!",
+      "wrong": "Nope! It turns black ink into words!"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "What lights the way for ships in the middle of the sea?",
+    "options": [
+      "Lighthouse",
+      "Moon",
+      "Lightning",
+      "Star"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Even in fog, the lighthouse never loses your path!",
+      "wrong": "Nope! Alone, it shines over the night waves!"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "What is the goblin's favorite weapon that grants wishes with a swing?",
+    "options": [
+      "Club",
+      "Spear",
+      "Shield",
+      "Bow"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! One swing of the club and gold comes pouring out!",
+      "wrong": "Nope! What symbol of the goblin swings gold into being?"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "What is small enough for a pocket, yet strong enough to open doors?",
+    "options": [
+      "Key",
+      "Coin",
+      "Button",
+      "Ring"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The key is the smallest but strongest magic of all!",
+      "wrong": "Nope! Tiny wizard that opens any door!"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "What crawls without legs and sheds its skin as medicine?",
+    "options": [
+      "Boot",
+      "Lizard",
+      "Worm",
+      "Snake"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Every time a snake sheds its skin, it is born again!",
+      "wrong": "Nope! Legless, yet it crosses the world!"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "Which flower turns its head all day to follow the sun?",
+    "options": [
+      "Hibiscus",
+      "Cosmos",
+      "Sunflower",
+      "Magnolia"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The sunflower gazes at the sun from dawn to dusk!",
+      "wrong": "Nope! The stubborn flower that only sees the sun!"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "What treasure chest in the kitchen pours out cold air in summer?",
+    "options": [
+      "Jar",
+      "Hearth",
+      "Fridge",
+      "Ondol"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fridge is the kitchen's ice cave in summer!",
+      "wrong": "Nope! Open it and winter pours out!"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "What carries you over a river without floating, made of stone and earth?",
+    "options": [
+      "Dam",
+      "Boat",
+      "Well",
+      "Bridge"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A bridge crosses with unshakable trust!",
+      "wrong": "Nope! Solid ground standing over water!"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "What becomes its best self wrapped around your neck in winter?",
+    "options": [
+      "Socks",
+      "Gloves",
+      "Scarf",
+      "Hat"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The scarf is a fortress between winter and your neck!",
+      "wrong": "Nope! A winter friend worn around the neck!"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "What song closes your eyes when you hear it, sung by mother's voice?",
+    "options": [
+      "Chant",
+      "Lullaby",
+      "Ballad",
+      "Folk song"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lullaby is the gentlest magic in the world!",
+      "wrong": "Nope! The song that shutters your eyes!"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "What blue flame blinks alone in the mountains and loves to spook travelers?",
+    "options": [
+      "Will-o'-the-wisp",
+      "Meteor",
+      "Firefly",
+      "Torch"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! The goblin fire is my cousins playing at night!",
+      "wrong": "Nope! A blue light blinking alone in the hills!"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "What round grain is thrown at the gate to chase away bad luck on the first cold day?",
+    "options": [
+      "Rice",
+      "Sesame",
+      "Bean",
+      "Red bean"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Beans shout 'Bad luck, be gone!' and guard the gate!",
+      "wrong": "Nope! Scattered with a rattle to block the evil!"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "What long straw rope hangs on the gate to invite good fortune?",
+    "options": [
+      "Straw shoe",
+      "Mat",
+      "Rope",
+      "Lucky straw rope"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lucky rope is a basket that hangs to fill the house with fortune!",
+      "wrong": "Nope! Hung high so luck may enter!"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "Who stands unbowed even in a typhoon, thanks to deep roots — the general of the forest?",
+    "options": [
+      "Vine",
+      "Boulder",
+      "Grass",
+      "Tree"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Deep roots keep the tree standing through any storm!",
+      "wrong": "Nope! Its deep roots laugh at the wind!"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "What white grain is neither bitter nor sweet, yet every dish needs it?",
+    "options": [
+      "Pepper",
+      "Salt",
+      "Sugar",
+      "Vinegar"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Without salt, every flavor feels lonely!",
+      "wrong": "Nope! A pinch of it saves the whole dish!"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "Which star shows itself for just a moment before sunrise?",
+    "options": [
+      "Meteor",
+      "Polaris",
+      "Morning star",
+      "Big Dipper"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The morning star is the most diligent of all!",
+      "wrong": "Nope! It greets you only before dawn!"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "What line where sky meets earth can you never reach?",
+    "options": [
+      "Subway",
+      "Horizon",
+      "Border",
+      "Rope"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The horizon retreats the moment you approach!",
+      "wrong": "Nope! The closer you get, the farther it goes!"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "Who lives a hundred years yet grows new leaves every spring — the wise elder of the mountain?",
+    "options": [
+      "Grass",
+      "Old tree",
+      "Boulder",
+      "Pond"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The old tree holds new life even in old age!",
+      "wrong": "Nope! Ancient, yet green again each spring!"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "What plays the sun inside the house all winter long?",
+    "options": [
+      "Stove",
+      "Hand fan",
+      "Fan",
+      "Window"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The stove lets you survive snowy nights!",
+      "wrong": "Nope! A small sun beside your bed!"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "What low wall must you step over to become a guest?",
+    "options": [
+      "Handle",
+      "Fence",
+      "Threshold",
+      "Stairs"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The moment you cross the threshold, you are a guest!",
+      "wrong": "Nope! Cross it and you belong indoors!"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "What holds a belly full of ink and draws one long stroke?",
+    "options": [
+      "Brush",
+      "Ruler",
+      "Scissors",
+      "Stick"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The brush drinks ink and writes a hundred words!",
+      "wrong": "Nope! One press, and it becomes writing!"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "What stones step across a river hand in hand, forming a path?",
+    "options": [
+      "Bridge",
+      "Boat",
+      "Stairs",
+      "Stepping stones"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Stepping stones are rocks holding hands to make a road!",
+      "wrong": "Nope! Stones in a row across the water!"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "Who became smooth after ages in the stream — the quiet philosopher of the riverbank?",
+    "options": [
+      "Vine",
+      "Pebble",
+      "Twig",
+      "Glass"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The waterworn pebble carries ages in its smoothness!",
+      "wrong": "Nope! Washed smooth by a thousand years of water!"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "What is the smallest river of the mountain that becomes a great one?",
+    "options": [
+      "Pond",
+      "Well",
+      "Sea",
+      "Stream"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Even the smallest stream reaches the sea!",
+      "wrong": "Nope! It trickles now, but meets the ocean!"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "What friend on the roof tells you the house is alive by its smoke?",
+    "options": [
+      "Chime",
+      "Cherry",
+      "Flagpole",
+      "Chimney"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Smoke from the chimney means life inside!",
+      "wrong": "Nope! Puff, puff — a living house!"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "What falls in autumn yet becomes food for the tree in spring?",
+    "options": [
+      "Branch",
+      "Pollen",
+      "Fallen leaf",
+      "Fruit"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fallen leaf is a great sacrifice that saves the tree!",
+      "wrong": "Nope! Falling now, feeding spring!"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "What lights up the whole world yet leaves its own feet dark?",
+    "options": [
+      "Torch",
+      "Lamp",
+      "Star",
+      "Moon"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! 'The darkest place is under the candlestick'!",
+      "wrong": "Nope! Bright for all, dark beneath itself!"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "What spins round and round on the wind — a child's sky-riding friend?",
+    "options": [
+      "Pinwheel",
+      "Paper plane",
+      "Kite",
+      "Balloon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The pinwheel proves the wind is alive!",
+      "wrong": "Nope! Spin, spin, spinning on the breeze!"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "Which mythical beast guards the gate by devouring evil spirits?",
+    "options": [
+      "Deer",
+      "Tiger",
+      "Haetae",
+      "Rabbit"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Haetae bites injustice — the guardian beast of justice!",
+      "wrong": "Nope! The lion-like guardian at the gate!"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "What pattern of blue and red circling in harmony decorates flags and robes?",
+    "options": [
+      "Rainbow",
+      "Floral",
+      "Five colors",
+      "Taegeuk"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Taegeuk is the cosmic law of yin and yang in motion!",
+      "wrong": "Nope! Blue and red chasing each other forever!"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "What ribbon hangs long from a hanbok collar, completing its grace?",
+    "options": [
+      "Button",
+      "Goreum",
+      "Cord",
+      "Zipper"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The goreum is a long whisper of elegance!",
+      "wrong": "Nope! The long ribbon on a Korean dress!"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "What bamboo instrument sings with a breath of sadness?",
+    "options": [
+      "Gong",
+      "Daegeum flute",
+      "Janggu",
+      "Drum"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The daegeum lets bamboo sing of sorrow!",
+      "wrong": "Nope! One breath of wind, one sad note!"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "What grows louder the more it is struck — the wide-hearted heart of music?",
+    "options": [
+      "Trumpet",
+      "Bell",
+      "Drum",
+      "Flute"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The drum's beat is the heartbeat of the crowd!",
+      "wrong": "Nope! The more you strike, the louder it roars!"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "What great voice rings when struck and falls silent after — the temple's bell?",
+    "options": [
+      "Drum",
+      "Trumpet",
+      "Bell",
+      "Gong"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The bell's sound wakes the world like Buddha's voice!",
+      "wrong": "Nope! Strike once, and it hums forever!"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "Which mountain wears a different face in every season?",
+    "options": [
+      "Hallasan",
+      "Seoraksan",
+      "Jirisan",
+      "Geumgangsan"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! 'Geumgangsan after a meal!' — a mountain of four thousand faces!",
+      "wrong": "Nope! Four seasons, four faces — which mountain?"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "What highest title does the goblin grant the hero who gathers 99 golden keys?",
+    "options": [
+      "Key master",
+      "Goblin Master",
+      "Treasure hunter",
+      "Gold captain"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! It's you, Goblin Master! From today, you are my friend!",
+      "wrong": "Nope! Collect 99 keys and the title is yours!"
+    },
+    "id": "rid_050"
+  }
+]

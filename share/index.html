@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOK-KEY — 오늘의 명언 카드</title>
+  <meta name="description" content="매일 아침 나를 깨우는 한 줄의 격언, 3D 깨비와 나누는 수수께끼와 마음 운세.">
+  <meta property="og:title" content="DOK-KEY — 깨비가 전하는 오늘의 명언">
+  <meta property="og:description" content="매일 아침 나를 깨우는 한 줄의 격언, 3D 깨비와 나누는 수수께끼와 마음 운세.">
+  <meta property="og:type" content="website">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;900&family=Noto+Sans+KR:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0A0C10; --card:#141822; --border:#2A3042; --gold:#D4AF37; --gold-l:#F3E5AB; --fire:#FF5E36; --text:#EAEFF8; --muted:#8E9BAE; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { background:var(--bg); color:var(--text); font-family:'Noto Sans KR',sans-serif; min-height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:24px 16px; }
+    .bg-glow { position:fixed; width:480px; height:480px; background:radial-gradient(circle, rgba(212,175,55,0.16) 0%, transparent 70%); top:50%; left:50%; transform:translate(-50%,-50%); filter:blur(50px); pointer-events:none; }
+    .card { max-width:520px; width:100%; background:var(--card); border:1.5px solid var(--gold); border-radius:24px; padding:40px 28px; text-align:center; position:relative; z-index:1; box-shadow:0 16px 44px rgba(0,0,0,0.6), 0 0 40px rgba(212,175,55,0.15); }
+    .badge { display:inline-block; font-size:11px; letter-spacing:2px; color:var(--gold-l); border:1px solid var(--gold); border-radius:20px; padding:5px 14px; margin-bottom:20px; font-weight:600; }
+    .quote { font-family:'Noto Serif KR',serif; font-size:21px; line-height:1.75; font-weight:600; color:var(--text); margin:18px 0 14px; }
+    .author { color:var(--gold); font-size:13px; margin-bottom:18px; font-weight:600; }
+    .kkaebi { background:rgba(255,255,255,0.04); border:1px solid var(--border); border-radius:14px; padding:14px; font-size:13px; line-height:1.65; color:var(--muted); margin-bottom:8px; }
+    .kkaebi b { color:var(--gold-l); }
+    .mascot { font-size:40px; margin:6px 0; }
+    .divider { height:1px; background:linear-gradient(90deg, transparent, var(--gold), transparent); margin:22px 0; }
+    .cta { display:block; text-decoration:none; background:var(--gold); color:#000; font-weight:800; padding:15px; border-radius:14px; font-size:15px; }
+    .cta-sub { display:block; text-decoration:none; color:var(--muted); font-size:12px; margin-top:12px; }
+    .loading { color:var(--muted); font-size:13px; }
+  </style>
+</head>
+<body>
+  <div class="bg-glow"></div>
+  <div class="card">
+    <div class="badge">📜 DOK-KEY 오늘의 명언</div>
+    <div class="mascot">👺🔥</div>
+    <div id="content" class="loading">명언을 불러오는 중...</div>
+    <div class="divider"></div>
+    <a class="cta" href="../index.html">앱에서 깨비와 대화하기 →</a>
+    <a class="cta-sub" href="../web/index.html">웹에서 바로 체험하기</a>
+  </div>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const quoteId = (params.get('quote_id') || 'quo_001').trim();
+    const lang = (params.get('lang') || 'ko').trim();
+
+    const LABELS = {
+      ko: ['📜 DOK-KEY 오늘의 명언', '깨비의 한마디', '앱에서 깨비와 대화하기 →'],
+      en: ['📜 DOK-KEY Daily Quote', "Kkaebi says", 'Talk to Kkaebi in the app →'],
+      ja: ['📜 DOK-KEY 今日の名言', 'クケビの一言', 'アプリでクケビと話す →'],
+      zh: ['📜 DOK-KEY 今日名言', '多吉比说', '在应用中和多吉比对话 →'],
+      hi: ['📜 DOK-KEY आज का सुवचन', 'कैकैबी कहते हैं', 'ऐप में कैकैबी से बात करें →'],
+      de: ['📜 DOK-KEY Tageszitat', 'Kkaebi sagt', 'Im App mit Kkaebi sprechen →'],
+    };
+    const L = LABELS[lang] || LABELS.ko;
+
+    document.querySelector('.badge').textContent = L[0];
+    document.querySelector('.cta').textContent = L[2];
+
+    fetch(`../assets/data/locales/${lang}/quotes.json`)
+      .then(r => r.json())
+      .then(list => {
+        const q = list.find(x => x.id === quoteId) || list[0];
+        const box = document.getElementById('content');
+        let html = `<div class="quote">“${q.text}”</div>`;
+        html += `<div class="author">- ${q.author || ''}${q.source ? ' <' + q.source + '>' : ''}</div>`;
+        if (q.kkaebi_comment) {
+          html += `<div class="kkaebi"><b>👺 ${L[1]}:</b> ${q.kkaebi_comment}</div>`;
+        }
+        box.innerHTML = html;
+        box.classList.remove('loading');
+        // OG 갱신 (공유 최적화)
+        const ogT = document.querySelector('meta[property="og:title"]');
+        if (ogT) ogT.setAttribute('content', `DOK-KEY — ${q.text}`);
+      })
+      .catch(() => {
+        document.getElementById('content').textContent = '명언을 불러오지 못했습니다. 앱에서 다시 시도해주세요.';
+      });
+  </script>
+</body>
+</html>

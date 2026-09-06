@@ -1,0 +1,902 @@
+[
+  {
+    "question": "浮在水上不沉底，载着人渡过大海的是什么？",
+    "options": [
+      "气球",
+      "石头",
+      "船",
+      "渔网"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！驾驭渡船的人才是海洋的主人！",
+      "wrong": "不对！船要浮在水上才算真本事！"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "燃烧自己，照亮最黑暗角落的是什么？",
+    "options": [
+      "蜡烛",
+      "镜子",
+      "坛子",
+      "玻璃"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！蜡烛燃尽自己照亮他人，是伟大的牺牲！",
+      "wrong": "不对！什么东西会自己燃烧发出光芒呢？"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "只在阳光下跟随你，却永远抓不住的是什么？",
+    "options": [
+      "晚霞",
+      "烟",
+      "影子",
+      "风"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！只要你面对光，影子就一直在你身边！",
+      "wrong": "不对！在光下紧贴你脚跟的东西呀！"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "折起来收好，撑开就能挡住天降之水的是什么？",
+    "options": [
+      "雨靴",
+      "凉棚",
+      "塑料布",
+      "伞网"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！雨靴守住双脚，不让洪水入侵！",
+      "wrong": "不对！下雨天穿在脚上的伙伴呀！"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "昨晚是圆盘，今晚变成月牙，夜空的银盘是什么？",
+    "options": [
+      "星星",
+      "彗星",
+      "太阳",
+      "月亮"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！月亮每晚都以新面孔守护夜空！",
+      "wrong": "不对！每晚都在变模样的天上银盘呀！"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "乘风飞上天际，却始终不肯放开手中线的是什么？",
+    "options": [
+      "气球",
+      "鸟",
+      "飞机",
+      "风筝"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！风筝因为有线才飞得更高——缘分也是如此！",
+      "wrong": "不对！被线牵着才能上天的东西呀！"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "被无声地按下，却留下你的名字的是什么？",
+    "options": [
+      "拳头",
+      "印章",
+      "手掌",
+      "邮票"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！一印落下，名字就成了百字诺言！",
+      "wrong": "不对！一按下去，名字就出现的呀！"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "风吹过就歌唱，在大门上方守护家园的是什么？",
+    "options": [
+      "风铃",
+      "旗帜",
+      "钟",
+      "牵牛花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！风铃声是风经过大门的签名！",
+      "wrong": "不对！风一吹就叮当作响的门上饰物呀！"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "用米做成，在新年祭桌上位居首位的是？",
+    "options": [
+      "白饭",
+      "年糕",
+      "面条",
+      "水果"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！年糕是连接祖先与我们的白色桥梁！",
+      "wrong": "不对！节日餐桌上那白色软糯的米制食物呀！"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "越是替别人擦去痕迹，自己就越变越小的是什么？",
+    "options": [
+      "雨",
+      "刷子",
+      "橡皮擦",
+      "扇子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！橡皮擦磨掉自己，抹去你的错误——多么可贵的奉献！",
+      "wrong": "不对！越擦越小的忠实的伙伴呀！"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "无论跑得多快都抓不住的是什么？",
+    "options": [
+      "时间",
+      "风",
+      "光",
+      "烟"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！时间是世上最快的小偷！",
+      "wrong": "不对！一眨眼就偷走一切的东西呀！"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "照出所有面孔，自己却什么也看不见的是什么？",
+    "options": [
+      "眼镜",
+      "窗户",
+      "镜子",
+      "照片"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！镜子照亮众人，却看不见自己！",
+      "wrong": "不对！认识你的脸，却不认识自己的呀！"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "越削越短，留下的字却越来越多的东西？",
+    "options": [
+      "筷子",
+      "铅笔",
+      "箭",
+      "旗杆"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！铅笔削掉自身，留下智慧！",
+      "wrong": "不对！被削尖了才能继续写字的呀！"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "白天睡觉、夜里目光如炬的森林守护者是谁？",
+    "options": [
+      "松鼠",
+      "狍子",
+      "猫头鹰",
+      "兔子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！猫头鹰是森林黑夜里的智者！",
+      "wrong": "不对！半夜眼睛发亮的森林贤者呀！"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "磨出墨汁才能写字、安坐在书桌上的器皿是什么？",
+    "options": [
+      "水壶",
+      "坛子",
+      "碗",
+      "砚台"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！砚台是墨与笔之间安静的桥梁！",
+      "wrong": "不对！把墨磨成字的器皿呀！"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "在大海中央用光芒为船只指路的是什么？",
+    "options": [
+      "星星",
+      "月亮",
+      "闪电",
+      "灯塔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！就算大雾弥漫，灯塔也不会让你迷路！",
+      "wrong": "不对！夜海上独自发光的引路者呀！"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "挥一挥就能实现愿望的多吉比(도깨비)必杀武器是什么？",
+    "options": [
+      "矛",
+      "盾",
+      "弓",
+      "棒槌"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈！棒槌一挥，金子哗啦啦地出来！",
+      "wrong": "不对！多吉比的象征武器是什么呀？"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "小得能放进口袋，却有开门伟力的口袋英雄是什么？",
+    "options": [
+      "钥匙",
+      "戒指",
+      "纽扣",
+      "硬币"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！钥匙虽小，却是最强的魔法！",
+      "wrong": "不对！能打开大门的小小魔法师呀！"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "没有脚却能长距离爬行，蜕下的皮还能入药的是什么？",
+    "options": [
+      "蚯蚓",
+      "靴子",
+      "蛇",
+      "蜥蜴"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！蛇每次蜕皮都是一次新生！",
+      "wrong": "不对！没有脚也能走遍世界的呀！"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "从早到晚追着太阳转头的花是什么？",
+    "options": [
+      "木槿",
+      "向日葵",
+      "波斯菊",
+      "玉兰"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！向日葵从早到晚仰望太阳！",
+      "wrong": "不对！只肯看太阳的倔强花朵呀！"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "夏天一打开就涌出冷气、厨房里的宝箱是什么？",
+    "options": [
+      "火炉",
+      "温突",
+      "坛子",
+      "冰箱"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！冰箱是夏日厨房的冰洞！",
+      "wrong": "不对！一打开就冒冷气的箱子呀！"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "不用漂浮、以石土之躯驮人过河的是什么？",
+    "options": [
+      "船",
+      "堤坝",
+      "桥",
+      "水井"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！桥以坚定不移的信任渡人过河！",
+      "wrong": "不对！稳稳立在水上的石土之路呀！"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "冬天围在脖子上才称职的柔软伙伴是什么？",
+    "options": [
+      "帽子",
+      "手套",
+      "袜子",
+      "围巾"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！围巾是冬天与脖颈之间的城墙！",
+      "wrong": "不对！要围在脖子上才暖和的冬友呀！"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "闭上眼一听就入睡的、用妈妈的嗓音唱的歌是什么？",
+    "options": [
+      "情歌",
+      "民谣",
+      "摇篮曲",
+      "童谣"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！摇篮曲是世界上最温柔的魔法！",
+      "wrong": "不对！听着听着就闭眼的歌呀！"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "在山里独自闪烁的蓝火，还爱吓唬行人的是什么？",
+    "options": [
+      "鬼火",
+      "流星",
+      "火把",
+      "萤火虫"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈！鬼火是我们多吉比家族在夜里玩闹呢！",
+      "wrong": "不对！山里独自闪烁的蓝色火光呀！"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "立冬时节撒在大门口驱邪的圆滚滚的谷物是什么？",
+    "options": [
+      "红豆",
+      "豆子",
+      "芝麻",
+      "大米"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！豆子一边喊'恶鬼出去！'一边驱赶邪祟！",
+      "wrong": "不对！哗啦啦撒出去挡邪的谷物呀！"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "倒着挂在大门上也会招福的、用稻草编成的长物是什么？",
+    "options": [
+      "草鞋",
+      "绳",
+      "草席",
+      "福绳"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！福绳是挂在门上迎接福气的篮子！",
+      "wrong": "不对！挂起来迎接福气的稻草绳呀！"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "根扎得深、台风来了也纹丝不动的森林将军是谁？",
+    "options": [
+      "树",
+      "草",
+      "巨石",
+      "藤"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！根深的大树再大的风暴也不怕！",
+      "wrong": "不对！根扎得深才能笑对狂风呀！"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "味道不苦不甜、但每道菜都少不了的白色颗粒是什么？",
+    "options": [
+      "醋",
+      "胡椒",
+      "盐",
+      "糖"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！没有盐，所有的味道都会孤单！",
+      "wrong": "不对！一点点就能提味的白色颗粒呀！"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "日出之前只出现一瞬的最勤快的星星是什么？",
+    "options": [
+      "启明星",
+      "流星",
+      "北斗七星",
+      "北极星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！启明星是天上最勤快的星！",
+      "wrong": "不对！只在日出前打招呼的星呀！"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "无论怎么走都到不了、天与地相接的那条线是什么？",
+    "options": [
+      "绳索",
+      "地平线",
+      "边界线",
+      "地铁"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！地平线是一条越追越远谜一般的线！",
+      "wrong": "不对！越走近越后退的天与地的约会呀！"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "活了一百年、每年春天仍发新芽的山中智慧老者是谁？",
+    "options": [
+      "古树",
+      "草",
+      "池塘",
+      "巨石"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！古树即使年迈，也孕育着新生命！",
+      "wrong": "不对！年迈了春天照样发芽的山中老者呀！"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "整个冬天在屋里扮演太阳的温暖伙伴是什么？",
+    "options": [
+      "风扇",
+      "火炉",
+      "窗户",
+      "扇子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！火炉让你熬过下雪的夜晚！",
+      "wrong": "不对！雪夜里守在身边的太阳呀！"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "必须跨过去才能进屋的、门下的矮墙是什么？",
+    "options": [
+      "台阶",
+      "门槛",
+      "围墙",
+      "门把"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！跨过门槛的那一刻，你就成了客人！",
+      "wrong": "不对！跨过去才算进门的矮墙呀！"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "肚里装满墨水、一按就是长长一画的东西是什么？",
+    "options": [
+      "毛笔",
+      "尺子",
+      "棍子",
+      "剪刀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！毛笔饮下墨水，写下百字文章！",
+      "wrong": "不对！一按下去就变成字迹的呀！"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "一个个排在河上、供人踏着过河的石阶是什么？",
+    "options": [
+      "船",
+      "桥",
+      "楼梯",
+      "踏脚石"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！踏脚石是石头们手拉手搭成的路！",
+      "wrong": "不对！水里一字排开的石头台阶呀！"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "在水中生活千年、被磨得光滑的河边哲学家是什么？",
+    "options": [
+      "藤蔓",
+      "鹅卵石",
+      "玻璃",
+      "细枝"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！被河水冲刷的鹅卵石，光滑里藏着岁月！",
+      "wrong": "不对！被千年的水流磨光滑的呀！"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "哗哗流淌最终成为大江的山间小河是什么？",
+    "options": [
+      "井",
+      "溪流",
+      "大海",
+      "池塘"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！溪流虽小，终会抵达大海！",
+      "wrong": "不对！涓涓细流终成大海的呀！"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "用炊烟告诉大家这户人家有人烟的屋顶伙伴是什么？",
+    "options": [
+      "旗杆",
+      "风铃",
+      "烟囱",
+      "樱桃"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！烟囱冒烟，说明屋里生气勃勃！",
+      "wrong": "不对！冒出炊烟就代表家里有人呀！"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "秋天从树上落下、春天却化作大树的养料的是什么？",
+    "options": [
+      "花粉",
+      "果实",
+      "落叶",
+      "树枝"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！落叶是滋养大树的伟大牺牲！",
+      "wrong": "不对！落下来却在为春天准备的呀！"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "照亮全世界、自己脚底下却是一片漆黑的是什么？",
+    "options": [
+      "月亮",
+      "星星",
+      "油灯",
+      "火把"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！'灯下黑'说的就是它！",
+      "wrong": "不对！照亮所有人、照不到自己脚下呀！"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "迎风呼啦啦转动的、孩子们的空中玩伴是什么？",
+    "options": [
+      "纸飞机",
+      "风筝",
+      "气球",
+      "风车"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！风车证明风是活的！",
+      "wrong": "不对！迎着风滴溜溜转的呀！"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "只活在想象中、却能吞食恶鬼守卫大门的神兽是谁？",
+    "options": [
+      "獬豸",
+      "老虎",
+      "鹿",
+      "兔子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！獬豸见恶就吞，是正义的神兽！",
+      "wrong": "不对！守在门口吞恶鬼的神兽呀！"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "蓝与红循环交融、装点旗帜与衣袍的纹样是什么？",
+    "options": [
+      "五彩",
+      "太极",
+      "彩虹",
+      "花纹"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！太极纹是阴阳流转的宇宙法则！",
+      "wrong": "不对！蓝与红相互追逐的纹样呀！"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "从韩服衣襟垂下、为端庄增色的长丝带是什么？",
+    "options": [
+      "纽扣",
+      "拉链",
+      "衣带",
+      "绳"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！衣带是诉说韩服品格的悠长低语！",
+      "wrong": "不对!从衣襟长长垂下的丝带呀！"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "一吹气就发出哀婉之音的、竹子做成的乐器是什么？",
+    "options": [
+      "鼓",
+      "杖鼓",
+      "锣",
+      "大笒"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！大笒让竹子唱出悲伤！",
+      "wrong": "不对！一口气吹出哀愁的乐器呀！"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "越敲越响的、音乐的宽宏之心是什么？",
+    "options": [
+      "笛",
+      "钟",
+      "喇叭",
+      "鼓"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！鼓声就是万众的心跳！",
+      "wrong": "不对！越敲声音越响的心脏呀！"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "一敲就响、敲完归于沉默的寺庙巨声是什么？",
+    "options": [
+      "鼓",
+      "锣",
+      "喇叭",
+      "钟"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！钟声是唤醒世界的佛陀之声！",
+      "wrong": "不对！敲一下就久久回响的巨声呀！"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "春、夏、秋、冬四季面貌都不同的山是哪座？",
+    "options": [
+      "智异山",
+      "汉拿山",
+      "金刚山",
+      "雪岳山"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！'金刚山是食后景'！四季都有不同面貌！",
+      "wrong": "不对！四季换四张脸的山是哪座呀！"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "集齐99把黄金钥匙的英雄，会被多吉比授予的最高称号是什么？",
+    "options": [
+      "多吉比大师",
+      "钥匙匠",
+      "寻宝猎人",
+      "黄金船长"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈！就是你，多吉比大师！从今天起你就是我的朋友！",
+      "wrong": "不对！集齐99把钥匙才能得到的称号呀！"
+    },
+    "id": "rid_050"
+  }
+]

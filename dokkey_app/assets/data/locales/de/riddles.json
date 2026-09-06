@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Was schwimmt auf dem Wasser, trägt Menschen über das Meer und geht nie unter?",
+    "options": [
+      "Netz",
+      "Luftballon",
+      "Boot",
+      "Stein"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Wer das Boot lenkt, ist der Herr der See!",
+      "wrong": "Daneben! Ein Boot gehört auf die Wellen!"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "Was verbrennt sich selbst und erhellt die dunkelste Ecke?",
+    "options": [
+      "Kerze",
+      "Glas",
+      "Krug",
+      "Spiegel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Kerze opfert sich selbst, um andre zu erhellen — edel!",
+      "wrong": "Daneben! Was gibt sein eigenes Licht fort?"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "Was folgt dir nur bei Sonnenschein und lässt sich nie fangen?",
+    "options": [
+      "Wind",
+      "Abendrot",
+      "Rauch",
+      "Schatten"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! So lang du ins Licht schaust, bleibt dein Schatten bei dir!",
+      "wrong": "Daneben! Es klebt dir unter dem Licht an den Fersen!"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "Was schützt die Füße vor Regen, gefaltet, wenn es trocken ist?",
+    "options": [
+      "Vordach",
+      "Gummistiefel",
+      "Plane",
+      "Schirmnetz"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Gummistiefel halten die Front, wo das Wasser angreift!",
+      "wrong": "Daneben! An den Füßen getragen, wenn es regnet!"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "Was ist ein silberner Teller am Nachthimmel, der jede Nacht seine Form wechselt?",
+    "options": [
+      "Stern",
+      "Sonne",
+      "Komet",
+      "Mond"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Mond wacht mit neuem Gesicht über jede Nacht!",
+      "wrong": "Daneben! Der silberne Teller, der zu- und abnimmt!"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "Was steigt mit dem Wind in den Himmel und lässt doch nie die Schnur los?",
+    "options": [
+      "Ballon",
+      "Flugzeug",
+      "Vogel",
+      "Drachen"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Drachen steigt höher wegen seiner Schnur — so sind Bande!",
+      "wrong": "Daneben! An der Schnur gehoben, besitzt es den Himmel!"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "Was wird lautlos aufgedrückt und hinterlässt doch deinen Namen?",
+    "options": [
+      "Handfläche",
+      "Briefmarke",
+      "Faust",
+      "Siegel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Siegel macht einen Namen zum hundertwortigen Versprechen!",
+      "wrong": "Daneben! Einmal gedrückt, spricht es deinen Namen!"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "Was klingt, wenn der Wind kommt, und bewacht das Tor von oben?",
+    "options": [
+      "Fahne",
+      "Glocke",
+      "Windspiel",
+      "Winde"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Klingen des Windspiels ist die Unterschrift des Windes am Tor!",
+      "wrong": "Daneben! Oben am Tor klappert es lustig!"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "Welche weiße Speise aus Reis steht beim Neujahrsfest ganz oben auf dem Tisch?",
+    "options": [
+      "Reiskuchen",
+      "Nudeln",
+      "Reis",
+      "Frucht"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Reiskuchen ist die weiße Brücke zwischen Ahnen und Lebenden!",
+      "wrong": "Daneben! Weich und weiß, dem Festtisch dargeboten!"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "Was wird kleiner, je mehr es die Fehler anderer ausradiert?",
+    "options": [
+      "Radiergummi",
+      "Besen",
+      "Fächer",
+      "Regen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Radiergummi opfert sich selbst, um deine Fehler zu tilgen!",
+      "wrong": "Daneben! Es schwindet, während es deine Fehler tilgt!"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "Was kann niemand fangen, so schnell er auch rennt?",
+    "options": [
+      "Wind",
+      "Zeit",
+      "Licht",
+      "Rauch"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Zeit ist der schnellste Dieb der Welt!",
+      "wrong": "Daneben! Zwischen zwei Blinzeln stiehlt es alles!"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "Was zeigt dir jedes Gesicht und kann doch sich selbst nie sehen?",
+    "options": [
+      "Spiegel",
+      "Foto",
+      "Brille",
+      "Fenster"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Spiegel zeigt alles — nur sich selbst nie!",
+      "wrong": "Daneben! Es kennt dein Gesicht, nie sein eigenes!"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "Was wird beim Spitzen kürzer und hinterlässt doch mehr Worte?",
+    "options": [
+      "Pfeil",
+      "Bleistift",
+      "Fahnenmast",
+      "Stäbchen"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Bleistift gibt seinen Körper hin, um Weisheit zu hinterlassen!",
+      "wrong": "Daneben! Gespitzt, um ein weiteres Wort zu schreiben!"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "Welcher Wächter des Waldes schläft tagsüber und sieht nachts scharf?",
+    "options": [
+      "Eichhörnchen",
+      "Eule",
+      "Hase",
+      "Reh"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Eule ist der weise Nachtwächter des Waldes!",
+      "wrong": "Daneben! Mitternachts leuchtende Augen — der Waldweise!"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "Was reibt Tinte zum Schreiben und sitzt still auf dem Pult des Gelehrten?",
+    "options": [
+      "Kanne",
+      "Schale",
+      "Tintenstein",
+      "Krug"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Tintenstein ist die stille Brücke zwischen Tinte und Pinsel!",
+      "wrong": "Daneben! Er macht aus Tinte Worte!"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "Was zeigt Schiffen mitten auf dem Meer mit Licht den Weg?",
+    "options": [
+      "Leuchtturm",
+      "Blitz",
+      "Mond",
+      "Stern"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Selbst im Nebel lässt der Leuchtturm dich den Weg nicht verlieren!",
+      "wrong": "Daneben! Allein leuchtet es über den nächtlichen Wellen!"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "Was ist die Lieblingswaffe des Kobolds, die bei einem Schwung Wünsche erfüllt?",
+    "options": [
+      "Bogen",
+      "Schild",
+      "Speer",
+      "Keule"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha ha! Ein Schwung mit der Keule — und Gold regnet herab!",
+      "wrong": "Daneben! Was für ein Symbol des Kobolds schwingt Gold!"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "Was passt in die Tasche und hat doch die Kraft, Türen zu öffnen?",
+    "options": [
+      "Knopf",
+      "Ring",
+      "Schlüssel",
+      "Münze"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schlüssel ist der kleinste und stärkste Zauber von allen!",
+      "wrong": "Daneben! Ein kleiner Zauberer, der jede Tür öffnet!"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "Was kriecht ohne Beine und häutet sich, seine Haut wird Medizin?",
+    "options": [
+      "Wurm",
+      "Stiefel",
+      "Echse",
+      "Schlange"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Jede Häutung ist für die Schlange eine Wiedergeburt!",
+      "wrong": "Daneben! Beinlos überquert sie die Welt!"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "Welche Blume dreht den Kopf den ganzen Tag der Sonne nach?",
+    "options": [
+      "Sonnenblume",
+      "Hibiskus",
+      "Magnolie",
+      "Cosmos"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Sonnenblume verehrt die Sonne von früh bis spät!",
+      "wrong": "Daneben! Die sture Blume, die nur die Sonne sieht!"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "Was ist die Schatztruhe der Küche, die im Sommer kalte Luft hervorströmen lässt?",
+    "options": [
+      "Ondol",
+      "Krug",
+      "Herd",
+      "Kühlschrank"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Kühlschrank ist die Eishöhle der Sommerküche!",
+      "wrong": "Daneben! Öffne ihn, und Winter strömt heraus!"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "Was trägt dich über den Fluss, ohne zu schwimmen — aus Stein und Erde?",
+    "options": [
+      "Brücke",
+      "Brunnen",
+      "Boot",
+      "Deich"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Brücke überquert mit unerschütterlichem Vertrauen!",
+      "wrong": "Daneben! Fester Grund, über dem Wasser stehend!"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "Was entfaltet seine beste Seite, um den Hals im Winter gewickelt?",
+    "options": [
+      "Handschuhe",
+      "Mütze",
+      "Schal",
+      "Socken"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schal ist die Festung zwischen Winter und Hals!",
+      "wrong": "Daneben! Ein Winterfreund, um den Hals gewickelt!"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "Welches Lied lässt dich beim Hören einschlafen, gesungen in Mutters Stimme?",
+    "options": [
+      "Volkslied",
+      "Ballade",
+      "Kinderreim",
+      "Wiegenlied"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Wiegenlied ist der sanfteste Zauber der Welt!",
+      "wrong": "Daneben! Das Lied, das deine Augen schließt!"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "Was blinkt allein blau in den Bergen und liebt es, Wanderer zu erschrecken?",
+    "options": [
+      "Glühwürmchen",
+      "Irrlicht",
+      "Sternschnuppe",
+      "Fackel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! Das Irrlicht sind meine Vettern, die nachts spielen!",
+      "wrong": "Daneben! Ein blaues Licht, blinkend allein im Hügel!"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "Welches runde Korn wird am ersten Kaltofen-Tag verstreut, um das Unglück zu vertreiben?",
+    "options": [
+      "Sesam",
+      "Bohne",
+      "Adzukibohne",
+      "Reis"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Bohnen rufen 'Böses, weiche!' und schützen das Tor!",
+      "wrong": "Daneben! Rasselnd verstreut, hält es das Böse ab!"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "Was wird aus Stroh geflochten, am Tor aufgehängt und lädt Glück ein?",
+    "options": [
+      "Strohschuh",
+      "Seil",
+      "Glückstau",
+      "Matte"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Glückstau ist ein Korb, aufgehängt, dass das Haus sich mit Glück füllt!",
+      "wrong": "Daneben! Hoch gehängt, dass Glück einziehen mag!"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "Wer steht dank tiefer Wurzeln selbst im Taifun unbewegt — der General des Waldes?",
+    "options": [
+      "Gras",
+      "Baum",
+      "Ranke",
+      "Fels"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Tiefe Wurzeln halten den Baum in jedem Sturm!",
+      "wrong": "Daneben! Seine tiefen Wurzeln lachen den Wind aus!"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "Welches weiße Korn ist weder bitter noch süß, doch kein Gericht kommt ohne es aus?",
+    "options": [
+      "Essig",
+      "Salz",
+      "Pfeffer",
+      "Zucker"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ohne Salz fühlt sich jeder Geschmack einsam an!",
+      "wrong": "Daneben! Eine Prise davon rettet das ganze Gericht!"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "Welcher Stern zeigt sich nur einen Moment vor Sonnenaufgang?",
+    "options": [
+      "Großer Wagen",
+      "Polarstern",
+      "Morgenstern",
+      "Sternschnuppe"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Morgenstern ist der fleißigste von allen!",
+      "wrong": "Daneben! Es grüßt dich nur vor der Dämmerung!"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "Welche Linie, wo Himmel und Erde sich treffen, erreichst du nie?",
+    "options": [
+      "Seil",
+      "Grenze",
+      "Horizont",
+      "U-Bahn"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Horizont weicht zurück, je näher du kommst!",
+      "wrong": "Daneben! Je näher, desto weiter — die Begegnung von Himmel und Erde!"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "Wer lebt hundert Jahre und treibt doch jeden Frühling neue Blätter — der weise Greis des Berges?",
+    "options": [
+      "Teich",
+      "Alter Baum",
+      "Gras",
+      "Fels"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der alte Baum trägt neues Leben selbst im Alter!",
+      "wrong": "Daneben! Uralter, doch jeden Frühling wieder grün!"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "Was spielt den ganzen Winter die Sonne im Haus?",
+    "options": [
+      "Fächer",
+      "Fenster",
+      "Ventilator",
+      "Ofen"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Ofen lässt dich schneereiche Nächte überstehen!",
+      "wrong": "Daneben! Eine kleine Sonne neben deinem Bett!"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "Welche niedrige Mauer musst du überschreiten, um Gast zu werden?",
+    "options": [
+      "Türschwelle",
+      "Treppe",
+      "Zaun",
+      "Klinke"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! In dem Moment, wo du die Schwelle übertrittst, wirst du Gast!",
+      "wrong": "Daneben! Überschritt, gehört man ins Haus!"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "Was hat einen Bauch voll Tinte und wird ein langer Strich bei einem Zug?",
+    "options": [
+      "Schere",
+      "Stock",
+      "Lineal",
+      "Pinsel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Pinsel trinkt Tinte und schreibt hundert Worte!",
+      "wrong": "Daneben! Ein Druck, und es wird Schrift!"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "Welche Steine liegen Reihe für Reihe über den Fluss, dass man sie betritt?",
+    "options": [
+      "Brücke",
+      "Boot",
+      "Treppe",
+      "Trittsteine"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Trittsteine sind Steine, die Hände reichen, um einen Weg zu bauen!",
+      "wrong": "Daneben! Steine in einer Reihe über dem Wasser!"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "Wer wurde nach Zeitaltern im Bach glatt — der stille Philosoph am Ufer?",
+    "options": [
+      "Glas",
+      "Kieselstein",
+      "Ranke",
+      "Zweig"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der wasserglänzende Kiesel trägt Zeitalter in seiner Glätte!",
+      "wrong": "Daneben! Von tausend Jahren Wasser glatt gewaschen!"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "Was ist der kleinste Fluss des Berges, der zum großen wird?",
+    "options": [
+      "Teich",
+      "Bach",
+      "Brunnen",
+      "Meer"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Selbst der kleinste Bach erreicht das Meer!",
+      "wrong": "Daneben! Es plätschert jetzt — und trifft den Ozean!"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "Welcher Freund auf dem Dach verrät durch Rauch, dass das Haus lebt?",
+    "options": [
+      "Kamin",
+      "Fahnenmast",
+      "Windspiel",
+      "Kirsche"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Rauch aus dem Kamin heißt: Hier ist Leben!",
+      "wrong": "Daneben! Pust, pust — ein lebendiges Haus!"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "Was fällt im Herbst vom Baum und wird im Frühling zur Nahrung des Baumes?",
+    "options": [
+      "Frucht",
+      "Zweig",
+      "Polleng",
+      "Laubblatt"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das gefallene Blatt ist ein großes Opfer, das den Baum rettet!",
+      "wrong": "Daneben! Jetzt gefallen, den Frühling fütternd!"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "Was erhellt die ganze Welt und lässt doch die eigenen Füße dunkel?",
+    "options": [
+      "Stern",
+      "Öllampe",
+      "Fackel",
+      "Mond"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! 'Unter der Kerze ist es am dunkelsten'!",
+      "wrong": "Daneben! Hell für alle, dunkel unter sich!"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "Was dreht sich round und round im Wind — ein Himmelsfreund der Kinder?",
+    "options": [
+      "Windrad",
+      "Papierflieger",
+      "Drachen",
+      "Ballon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Windrad beweist, dass der Wind lebt!",
+      "wrong": "Daneben! Dreh, dreh, dreh dich im Wind!"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "Welches Fabelwesen lebt nur in der Vorstellung und frisst böse Geister am Tor?",
+    "options": [
+      "Hirsch",
+      "Hase",
+      "Tiger",
+      "Haetae"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Haetae zerpickt das Ungerechte — das Fabeltier der Gerechtigkeit!",
+      "wrong": "Daneben! Der löwenartige Wächter am Tor!"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "Welches Muster aus Blau und Rot, im Kreis Harmonie, schmückt Fahnen und Gewänder?",
+    "options": [
+      "Blütenmuster",
+      "Fünf Farben",
+      "Taegeuk",
+      "Regenbogen"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Taegeuk ist das kosmische Gesetz von Yin und Yang im Kreis!",
+      "wrong": "Daneben! Blau und Rot jagen einander ewig!"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "Welches Band hängt lang vom Hanbok-Kragen und vollendet seine Anmut?",
+    "options": [
+      "Goreum",
+      "Reißverschluss",
+      "Schnur",
+      "Knopf"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Goreum ist ein langes Flüstern der Anmut!",
+      "wrong": "Daneben! Das lange Band am koreanischen Kleid!"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "Welches Instrument aus Bambus klingt bei einem Atemzug traurig?",
+    "options": [
+      "Trommel",
+      "Gong",
+      "Janggu",
+      "Daegeum"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Daegeum lässt Bambus vom Kummer singen!",
+      "wrong": "Daneben! Ein Atemzug, eine klagende Note!"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "Was wird lauter, je mehr man darauf schlägt — das weite Herz der Musik?",
+    "options": [
+      "Trompete",
+      "Glocke",
+      "Trommel",
+      "Flöte"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Trommelschlag ist der Herzschlag der Menge!",
+      "wrong": "Daneben! Je mehr geschlagen, desto lauter!"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "Was erklingt bei jedem Schlag und verstummt danach — die große Stimme des Tempels?",
+    "options": [
+      "Trommel",
+      "Glocke",
+      "Gong",
+      "Trompete"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Klang der Glocke erweckt die Welt wie die Stimme Buddhas!",
+      "wrong": "Daneben! Einmal geschlagen, hallt es ewig nach!"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "Welcher Berg trägt in jeder Jahreszeit ein anderes Gesicht?",
+    "options": [
+      "Jirisan",
+      "Seoraksan",
+      "Geumgangsan",
+      "Hallasan"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! 'Geumgangsan nach dem Essen!' — ein Berg mit viertausend Gesichtern!",
+      "wrong": "Daneben! Vier Jahreszeiten, vier Gesichter — welcher Berg!"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "Welchen höchsten Titel verleiht der Kobold dem Helden, der 99 goldene Schlüssel sammelt?",
+    "options": [
+      "Schatzjäger",
+      "Goldkapitän",
+      "Schlüsselmeister",
+      "Goblin-Meister"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Ha! Du bist es, Goblin-Meister! Von heute an bist du mein Freund!",
+      "wrong": "Daneben! Sammle 99 Schlüssel, und der Titel ist dein!"
+    },
+    "id": "rid_050"
+  }
+]

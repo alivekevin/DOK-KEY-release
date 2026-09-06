@@ -1,0 +1,442 @@
+{
+  "symbols": [
+    {
+      "id": "water",
+      "label": "Traumsymbol: Clear water",
+      "keywords": [
+        "de_water",
+        "de_sea",
+        "de_river",
+        "de_ocean"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "M08",
+      "meaning": "Innere Wandlung und Erkenntnis durch Clear water.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "fire",
+      "label": "Traumsymbol: Fire & sparks",
+      "keywords": [
+        "de_fire",
+        "de_flame",
+        "de_burn",
+        "de_spark"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "Z06",
+      "meaning": "Innere Wandlung und Erkenntnis durch Fire & sparks.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "flying",
+      "label": "Traumsymbol: Flying high",
+      "keywords": [
+        "de_flying",
+        "de_sky",
+        "de_float",
+        "de_fly"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "M01",
+      "meaning": "Innere Wandlung und Erkenntnis durch Flying high.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "pig",
+      "label": "Traumsymbol: A pig",
+      "keywords": [
+        "de_pig",
+        "de_boar",
+        "de_hog"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "Z12",
+      "meaning": "Innere Wandlung und Erkenntnis durch A pig.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "snake",
+      "label": "Traumsymbol: A snake",
+      "keywords": [
+        "de_snake",
+        "de_serpent",
+        "de_python"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "Z06",
+      "meaning": "Innere Wandlung und Erkenntnis durch A snake.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "teeth",
+      "label": "Traumsymbol: Teeth falling",
+      "keywords": [
+        "de_teeth",
+        "de_tooth",
+        "de_dental",
+        "de_teethf"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "Z03",
+      "meaning": "Innere Wandlung und Erkenntnis durch Teeth falling.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "falling",
+      "label": "Traumsymbol: Falling",
+      "keywords": [
+        "de_falling",
+        "de_drop",
+        "de_plunge",
+        "de_fall"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "Z25",
+      "meaning": "Innere Wandlung und Erkenntnis durch Falling.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "chased",
+      "label": "Traumsymbol: Being chased",
+      "keywords": [
+        "de_chased",
+        "de_chase",
+        "de_running away",
+        "de_pursued"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "M02",
+      "meaning": "Innere Wandlung und Erkenntnis durch Being chased.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "star",
+      "label": "Traumsymbol: Stars",
+      "keywords": [
+        "de_star",
+        "de_space",
+        "de_shooting star",
+        "de_stars"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "M20",
+      "meaning": "Innere Wandlung und Erkenntnis durch Stars.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "door",
+      "label": "Traumsymbol: A door",
+      "keywords": [
+        "de_door",
+        "de_gate",
+        "de_entrance",
+        "de_passage"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "Z13",
+      "meaning": "Innere Wandlung und Erkenntnis durch A door.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "flower",
+      "label": "Traumsymbol: Flowers blooming",
+      "keywords": [
+        "de_flower",
+        "de_blossom",
+        "de_bloom"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "Z14",
+      "meaning": "Innere Wandlung und Erkenntnis durch Flowers blooming.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "sun",
+      "label": "Traumsymbol: The sun",
+      "keywords": [
+        "de_sun",
+        "de_sunlight",
+        "de_sunny",
+        "de_sunshine"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "M10",
+      "meaning": "Innere Wandlung und Erkenntnis durch The sun.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "moon",
+      "label": "Traumsymbol: The moon",
+      "keywords": [
+        "de_moon",
+        "de_full moon",
+        "de_lunar"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "M20",
+      "meaning": "Innere Wandlung und Erkenntnis durch The moon.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "dreaming",
+      "label": "Traumsymbol: A dream within a dream",
+      "keywords": [
+        "de_dream",
+        "de_lucid",
+        "de_dreaming"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "M33",
+      "meaning": "Innere Wandlung und Erkenntnis durch A dream within a dream.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "tiger",
+      "label": "Traumsymbol: A tiger",
+      "keywords": [
+        "de_tiger",
+        "de_beast",
+        "de_tiger spirit"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "Z03",
+      "meaning": "Innere Wandlung und Erkenntnis durch A tiger.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "dragon",
+      "label": "Traumsymbol: A dragon",
+      "keywords": [
+        "de_dragon",
+        "de_azure dragon",
+        "de_wyrm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "Z05",
+      "meaning": "Innere Wandlung und Erkenntnis durch A dragon.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "bird",
+      "label": "Traumsymbol: A bird",
+      "keywords": [
+        "de_bird",
+        "de_sparrow",
+        "de_birds"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "Z19",
+      "meaning": "Innere Wandlung und Erkenntnis durch A bird.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "fish",
+      "label": "Traumsymbol: Catching fish",
+      "keywords": [
+        "de_fish",
+        "de_fishing",
+        "de_catch fish",
+        "de_catchi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "Z26",
+      "meaning": "Innere Wandlung und Erkenntnis durch Catching fish.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "mountain",
+      "label": "Traumsymbol: A mountain",
+      "keywords": [
+        "de_mountain",
+        "de_hiking",
+        "de_peak",
+        "de_climb"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "M01",
+      "meaning": "Innere Wandlung und Erkenntnis durch A mountain.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "baby",
+      "label": "Traumsymbol: A baby",
+      "keywords": [
+        "de_baby",
+        "de_infant",
+        "de_newborn"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 14,
+      "card_id": "M07",
+      "meaning": "Innere Wandlung und Erkenntnis durch A baby.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "money",
+      "label": "Traumsymbol: Money & treasure",
+      "keywords": [
+        "de_money",
+        "de_treasure",
+        "de_gold coins",
+        "de_cash"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "Z30",
+      "meaning": "Innere Wandlung und Erkenntnis durch Money & treasure.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "cleaning",
+      "label": "Traumsymbol: Cleaning",
+      "keywords": [
+        "de_cleaning",
+        "de_sweep",
+        "de_tidy",
+        "de_organize"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "Z22",
+      "meaning": "Innere Wandlung und Erkenntnis durch Cleaning.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "eating",
+      "label": "Traumsymbol: Eating a feast",
+      "keywords": [
+        "de_eating",
+        "de_eat",
+        "de_feast",
+        "de_delicious"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "Z31",
+      "meaning": "Innere Wandlung und Erkenntnis durch Eating a feast.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "poo",
+      "label": "Traumsymbol: Stepping in poo",
+      "keywords": [
+        "de_poo",
+        "de_poop",
+        "de_dung"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "Z30",
+      "meaning": "Innere Wandlung und Erkenntnis durch Stepping in poo.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "rain",
+      "label": "Traumsymbol: Rain",
+      "keywords": [
+        "de_rain",
+        "de_drizzle",
+        "de_monsoon",
+        "de_raining"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "M11",
+      "meaning": "Innere Wandlung und Erkenntnis durch Rain.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "snow",
+      "label": "Traumsymbol: Snow",
+      "keywords": [
+        "de_snow",
+        "de_snowing",
+        "de_blizzard",
+        "de_snow3"
+      ],
+      "fortune": "normal",
+      "lucky_number": 72,
+      "card_id": "Z08",
+      "meaning": "Innere Wandlung und Erkenntnis durch Snow.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "wedding",
+      "label": "Traumsymbol: A wedding",
+      "keywords": [
+        "de_wedding",
+        "de_marriage",
+        "de_bride",
+        "de_aweddi"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "M29",
+      "meaning": "Innere Wandlung und Erkenntnis durch A wedding.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "funeral",
+      "label": "Traumsymbol: A funeral",
+      "keywords": [
+        "de_funeral",
+        "de_death",
+        "de_bury"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "M25",
+      "meaning": "Innere Wandlung und Erkenntnis durch A funeral.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "losing_money",
+      "label": "Traumsymbol: Losing money",
+      "keywords": [
+        "de_losing money",
+        "de_lost wallet",
+        "de_stolen"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "Z16",
+      "meaning": "Innere Wandlung und Erkenntnis durch Losing money.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "Traumsymbol: Missing the bus",
+      "keywords": [
+        "de_missed",
+        "de_bus",
+        "de_train",
+        "de_late"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "Z26",
+      "meaning": "Innere Wandlung und Erkenntnis durch Missing the bus.",
+      "advice": "Nutze die Botschaft dieses Traumes, um heute mit Zuversicht zu handeln!"
+    }
+  ]
+}
