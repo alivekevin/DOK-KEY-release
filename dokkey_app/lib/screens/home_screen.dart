@@ -654,7 +654,61 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
               ),
               const SizedBox(height: 30),
 
-              // Kkaebi's Riddle Banner
+              // 99종 도감 진행 현황 (3줄 진행바)
+              InkWell(
+                onTap: () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute(builder: (_) => const CardCodexScreen()),
+                  );
+                },
+                borderRadius: BorderRadius.circular(20),
+                child: Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: DokkeyTheme.cardDark,
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: DokkeyTheme.borderDark),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(Icons.auto_awesome, color: DokkeyTheme.gold, size: 18),
+                          const SizedBox(width: 8),
+                          Text(
+                            isKo ? '99종 신수 · 신격 도감' : (isJa ? '99種図鑑' : '99 Codex'),
+                            style: TextStyle(
+                              color: DokkeyTheme.textMain,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 13,
+                            ),
+                          ),
+                          const Spacer(),
+                          Text(
+                            '${(provider.codexMasterProgress / 66 * 100).toStringAsFixed(0)}%',
+                            style: TextStyle(
+                              color: DokkeyTheme.gold,
+                              fontWeight: FontWeight.w900,
+                              fontSize: 12,
+                            ),
+                          ),
+                          Icon(Icons.arrow_forward_ios_rounded, size: 12, color: DokkeyTheme.textMuted),
+                        ],
+                      ),
+                      const SizedBox(height: 10),
+                      _CodexProgressLine(label: isKo ? '신수' : (isJa ? '신수' : 'Zodiac'), color: DokkeyTheme.gold, value: codexZodiacUnlocked, total: 33),
+                      const SizedBox(height: 6),
+                      _CodexProgressLine(label: isKo ? '신격' : (isJa ? '신격' : 'Myth'), color: DokkeyTheme.mintCalm, value: codexMythUnlocked, total: 33),
+                      const SizedBox(height: 6),
+                      _CodexProgressLine(label: isKo ? '커스텀' : (isJa ? '커스텀' : 'Custom'), color: DokkeyTheme.dokFire, value: codexCustomFilled, total: 33),
+                    ],
+                  ),
+                ),
+              ),
+              const SizedBox(height: 14),
+
+              // 깨비의 수수께끼 풀기 (99신수 아래 배치)
               InkWell(
                 onTap: () {
                   final riddle = provider.getTodayRiddle();
@@ -711,61 +765,6 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                         ),
                       ),
                       Icon(Icons.arrow_forward_ios_rounded, size: 14, color: DokkeyTheme.dokFire),
-                    ],
-                  ),
-                ),
-              ),
-              const SizedBox(height: 14),
-
-
-              // v4.7.0 4순위: 99종 도감 진행 현황 (3줄)
-              InkWell(
-                onTap: () {
-                  Navigator.of(context).push(
-                    MaterialPageRoute(builder: (_) => const CardCodexScreen()),
-                  );
-                },
-                borderRadius: BorderRadius.circular(20),
-                child: Container(
-                  padding: const EdgeInsets.all(16),
-                  decoration: BoxDecoration(
-                    color: DokkeyTheme.cardDark,
-                    borderRadius: BorderRadius.circular(20),
-                    border: Border.all(color: DokkeyTheme.borderDark),
-                  ),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Row(
-                        children: [
-                          Icon(Icons.auto_awesome, color: DokkeyTheme.gold, size: 18),
-                          const SizedBox(width: 8),
-                          Text(
-                            isKo ? '99종 신수 · 신격 도감' : (isJa ? '99種図鑑' : '99 Codex'),
-                            style: TextStyle(
-                              color: DokkeyTheme.textMain,
-                              fontWeight: FontWeight.bold,
-                              fontSize: 13,
-                            ),
-                          ),
-                          const Spacer(),
-                          Text(
-                            '${(provider.codexMasterProgress / 66 * 100).toStringAsFixed(0)}%',
-                            style: TextStyle(
-                              color: DokkeyTheme.gold,
-                              fontWeight: FontWeight.w900,
-                              fontSize: 12,
-                            ),
-                          ),
-                          Icon(Icons.arrow_forward_ios_rounded, size: 12, color: DokkeyTheme.textMuted),
-                        ],
-                      ),
-                      const SizedBox(height: 10),
-                      _CodexProgressLine(label: isKo ? '신수' : (isJa ? '신수' : 'Zodiac'), color: DokkeyTheme.gold, value: codexZodiacUnlocked, total: 33),
-                      const SizedBox(height: 6),
-                      _CodexProgressLine(label: isKo ? '신격' : (isJa ? '신격' : 'Myth'), color: DokkeyTheme.mintCalm, value: codexMythUnlocked, total: 33),
-                      const SizedBox(height: 6),
-                      _CodexProgressLine(label: isKo ? '커스텀' : (isJa ? '커스텀' : 'Custom'), color: DokkeyTheme.dokFire, value: codexCustomFilled, total: 33),
                     ],
                   ),
                 ),
