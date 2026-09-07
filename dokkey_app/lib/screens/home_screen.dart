@@ -549,70 +549,6 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                   ),
                 ),
               if (provider.greeting.isNotEmpty) const SizedBox(height: 24),
-              // Kkaebi's Riddle Banner
-              InkWell(
-                onTap: () {
-                  final riddle = provider.getTodayRiddle();
-                  showDialog(
-                    context: context,
-                    builder: (_) => RiddleDialog(riddle: riddle),
-                  );
-                },
-                borderRadius: BorderRadius.circular(20),
-                child: Container(
-                  padding: const EdgeInsets.all(18),
-                  decoration: BoxDecoration(
-                    gradient: LinearGradient(
-                      colors: [
-                        DokkeyTheme.dokFire.withOpacity(0.15),
-                        DokkeyTheme.cardDark,
-                      ],
-                    ),
-                    borderRadius: BorderRadius.circular(20),
-                    border: Border.all(color: DokkeyTheme.dokFire.withOpacity(0.5)),
-                  ),
-                  child: Row(
-                    children: [
-                      Container(
-                        padding: const EdgeInsets.all(12),
-                        decoration: BoxDecoration(
-                          shape: BoxShape.circle,
-                          color: DokkeyTheme.dokFire.withOpacity(0.2),
-                        ),
-                        child: const Text('🧩', style: TextStyle(fontSize: 20)),
-                      ),
-                      const SizedBox(width: 14),
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              isKo ? '깨비의 수수께끼 풀기' : (isJa ? 'クケビのなぞなぞ' : "Solve Kkaebi's Riddle"),
-                              style: TextStyle(
-                                color: DokkeyTheme.textMain,
-                                fontWeight: FontWeight.bold,
-                                fontSize: 15,
-                              ),
-                            ),
-                            const SizedBox(height: 4),
-                            Text(
-                              isKo ? '정답을 맞히면 보너스 열쇠를 드려요!' : 'Get bonus keys by solving riddles!',
-                              style: TextStyle(
-                                color: DokkeyTheme.textMuted,
-                                fontSize: 12,
-                              ),
-                            ),
-                          ],
-                        ),
-                      ),
-                      Icon(Icons.arrow_forward_ios_rounded, size: 14, color: DokkeyTheme.dokFire),
-                    ],
-                  ),
-                ),
-              ),
-              const SizedBox(height: 14),
-
-
               // Center Gate & Draw Orb
               Center(
                 child: Column(
@@ -717,6 +653,70 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                 ),
               ),
               const SizedBox(height: 30),
+
+              // Kkaebi's Riddle Banner
+              InkWell(
+                onTap: () {
+                  final riddle = provider.getTodayRiddle();
+                  showDialog(
+                    context: context,
+                    builder: (_) => RiddleDialog(riddle: riddle),
+                  );
+                },
+                borderRadius: BorderRadius.circular(20),
+                child: Container(
+                  padding: const EdgeInsets.all(18),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      colors: [
+                        DokkeyTheme.dokFire.withOpacity(0.15),
+                        DokkeyTheme.cardDark,
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: DokkeyTheme.dokFire.withOpacity(0.5)),
+                  ),
+                  child: Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: DokkeyTheme.dokFire.withOpacity(0.2),
+                        ),
+                        child: const Text('🧩', style: TextStyle(fontSize: 20)),
+                      ),
+                      const SizedBox(width: 14),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              isKo ? '깨비의 수수께끼 풀기' : (isJa ? 'クケビのなぞなぞ' : "Solve Kkaebi's Riddle"),
+                              style: TextStyle(
+                                color: DokkeyTheme.textMain,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 15,
+                              ),
+                            ),
+                            const SizedBox(height: 4),
+                            Text(
+                              isKo ? '정답을 맞히면 보너스 열쇠를 드려요!' : 'Get bonus keys by solving riddles!',
+                              style: TextStyle(
+                                color: DokkeyTheme.textMuted,
+                                fontSize: 12,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      Icon(Icons.arrow_forward_ios_rounded, size: 14, color: DokkeyTheme.dokFire),
+                    ],
+                  ),
+                ),
+              ),
+              const SizedBox(height: 14),
+
 
               // v4.7.0 4순위: 99종 도감 진행 현황 (3줄)
               InkWell(
@@ -829,46 +829,6 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
               ),
               const SizedBox(height: 14),
 
-              // Codex Mini Banner
-              InkWell(
-                onTap: () {
-                  Navigator.of(context).push(
-                    MaterialPageRoute(builder: (_) => const CardCodexScreen()),
-                  );
-                },
-                borderRadius: BorderRadius.circular(20),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 14),
-                  decoration: BoxDecoration(
-                    color: DokkeyTheme.cardDark,
-                    borderRadius: BorderRadius.circular(20),
-                    border: Border.all(color: DokkeyTheme.borderDark),
-                  ),
-                  child: Row(
-                    children: [
-                      Icon(Icons.auto_awesome, color: DokkeyTheme.gold, size: 20),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: Text(
-                          isKo
-                              ? '카드 도감 (${provider.codexMasterProgress}/66 수집 완료)'
-                              : (isJa
-                                  ? 'カード図鑑 (${provider.codexMasterProgress}/66 収集完了)'
-                                  : 'Card Codex (${provider.codexMasterProgress}/66 Unlocked)'),
-                          style: TextStyle(
-                            color: DokkeyTheme.textMain,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 13,
-                          ),
-                        ),
-                      ),
-                      Icon(Icons.arrow_forward_ios_rounded, size: 12, color: DokkeyTheme.textMuted),
-                    ],
-                  ),
-                ),
-              ),
-              const SizedBox(height: 14),
-
               // Dream Interpretation Banner (꿈풀이)
               InkWell(
                 onTap: () => DreamDialog.show(context),
@@ -928,55 +888,6 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
               ),
               const SizedBox(height: 16),
 
-              // Kkaebi's Quote Ticker (Tap to Open Chat)
-              if (provider.todayQuote != null)
-                InkWell(
-                  onTap: () {
-                    Navigator.of(context).push(
-                      MaterialPageRoute(builder: (_) => const KkaebiChatScreen()),
-                    );
-                  },
-                  borderRadius: BorderRadius.circular(20),
-                  child: Container(
-                    padding: const EdgeInsets.all(18),
-                    decoration: BoxDecoration(
-                      color: DokkeyTheme.cardDark,
-                      borderRadius: BorderRadius.circular(20),
-                      border: Border.all(color: DokkeyTheme.borderDark),
-                    ),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Row(
-                          children: [
-                            const Text('💬', style: TextStyle(fontSize: 16)),
-                            const SizedBox(width: 8),
-                            Text(
-                              isKo ? '명언 아카이브 — 깨비의 서재' : (isJa ? '名言アーカイブ' : 'Wisdom Archive'),
-                              style: TextStyle(
-                                color: DokkeyTheme.gold,
-                                fontWeight: FontWeight.bold,
-                                fontSize: 13,
-                              ),
-                            ),
-                            const Spacer(),
-                            Icon(Icons.arrow_forward_ios_rounded, size: 12, color: DokkeyTheme.textMuted),
-                          ],
-                        ),
-                        const SizedBox(height: 10),
-                        Text(
-                          '“${provider.todayQuote!.text}”',
-                          style: TextStyle(
-                            color: DokkeyTheme.textMain,
-                            fontSize: 13,
-                            height: 1.5,
-                            fontStyle: FontStyle.italic,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
             ],
           ),
         ),

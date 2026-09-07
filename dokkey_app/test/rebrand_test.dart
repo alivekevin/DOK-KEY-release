@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/services.dart';
@@ -95,20 +94,23 @@ void main() {
   });
 
   group('P2: Home IA Order (Wisdom-First)', () {
-    test('home source declares sections in wisdom-first order: hero > riddle > fortune > codex > numbers', () {
+    test('home source declares sections in wisdom-first order: hero > fortune(orb) > riddle > codex > forge', () {
       final src = File('lib/screens/home_screen.dart').readAsStringSync();
       final hero = src.indexOf('QuoteHeroSection()');
+      final fortuneOrb = src.indexOf('명언의 흐름을 확인하는 오늘의 운세');
       final riddle = src.indexOf("Kkaebi's Riddle Banner");
-      final fortune = src.indexOf('명언의 흐름을 확인하는 오늘의 운세');
       final codex = src.indexOf('99종 신수 · 신격 도감');
       final numbers = src.indexOf('행운 숫자 연성소');
-      for (final v in [hero, riddle, fortune, codex, numbers]) {
-        expect(v, greaterThan(-1), reason: '홈 IA 5단계 섹션이 모두 존재해야 한다');
+      for (final v in [hero, fortuneOrb, riddle, codex, numbers]) {
+        expect(v, greaterThan(-1), reason: '홈 IA 핵심 섹션이 모두 존재해야 한다');
       }
-      expect(hero, lessThan(riddle), reason: '1순위 명언 히어로 > 2순위 수수께끼');
-      expect(riddle, lessThan(fortune), reason: '2순위 수수께끼 > 3순위 운세');
-      expect(fortune, lessThan(codex), reason: '3순위 운세 > 4순위 도감');
-      expect(codex, lessThan(numbers), reason: '4순위 도감 > 5순위 숫자');
+      expect(hero, lessThan(fortuneOrb), reason: '1순위 명언 티커 > 핵심 인터랙션 열쇠 돌리기');
+      expect(fortuneOrb, lessThan(riddle), reason: '열쇠 돌리기 > 수수께끼 (첫 화면 가시성)');
+      expect(riddle, lessThan(codex), reason: '수수께끼 > 도감');
+      expect(codex, lessThan(numbers), reason: '도감 > 숫자 연성소');
+      // 구 요소 제거 확인: 중복 Codex Mini Banner / Quote Ticker 잔재 없음
+      expect(src.indexOf('Codex Mini Banner'), -1, reason: '구 Codex 배지는 제거');
+      expect(src.indexOf("Kkaebi's Quote Ticker"), -1, reason: '구 명언 티커는 히어로로 대체');
     });
 
     test('home appbar uses 6-language sheet, not 3-cycle toggle', () {

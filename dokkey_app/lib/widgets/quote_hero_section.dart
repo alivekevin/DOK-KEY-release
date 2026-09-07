@@ -10,8 +10,9 @@ import 'kkaebi_3d_mascot_widget.dart';
 import 'quote_poster_dialog.dart';
 import 'screen_emotion_fx_overlay.dart';
 
-/// 📜 1순위 히어로 섹션 (v4.7.0 Wisdom-First)
-/// 오늘의 명언 + 3D 턴테이블 깨비 + 감정 매칭 FX + 깨비의 한마디 + 액션 3종.
+/// 📜 1순위: 컴팩트 오늘의 명언 티커 (v4.7.1)
+/// 약 120dp 골드 글래스 카드 — 좌측 미니 3D 깨비 / 중앙 명언 1~2줄 / 우측 미니 액션.
+/// 카드 탭 시 상세 팝업(부적 카드)이 열린다.
 class QuoteHeroSection extends StatelessWidget {
   const QuoteHeroSection({super.key});
 
@@ -122,216 +123,144 @@ class QuoteHeroSection extends StatelessWidget {
       orElse: () => EmotionType.normal,
     );
     final isBookmarked = provider.bookmarkedQuoteIds.contains(quote.id);
+    final isKo = provider.lang == 'ko';
 
-    return Container(
-      padding: const EdgeInsets.all(18),
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [Color(0xFF2A2214), DokkeyTheme.cardDark, DokkeyTheme.cardDark],
+    return GestureDetector(
+      onTap: () => QuotePosterDialog.show(context, quote),
+      child: Container(
+        height: 124,
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [Color(0xFF2A2214), DokkeyTheme.cardDark, DokkeyTheme.cardDark],
+          ),
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(color: DokkeyTheme.gold.withOpacity(0.7), width: 1.5),
+          boxShadow: [
+            BoxShadow(color: DokkeyTheme.gold.withOpacity(0.14), blurRadius: 18, spreadRadius: 1),
+          ],
         ),
-        borderRadius: BorderRadius.circular(24),
-        border: Border.all(color: DokkeyTheme.gold.withOpacity(0.7), width: 1.8),
-        boxShadow: [
-          BoxShadow(color: DokkeyTheme.gold.withOpacity(0.18), blurRadius: 24, spreadRadius: 2),
-        ],
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          // Header row: badge + showcase button
-          Row(
-            children: [
-              Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 18),
-              const SizedBox(width: 6),
-              Text(
-                provider.lang == 'ko'
-                    ? '오늘의 명언'
-                    : (provider.lang == 'ja' ? '今日の名言' : (provider.lang == 'zh' ? '今日名言' : (provider.lang == 'hi' ? 'आज का सुवचन' : (provider.lang == 'de' ? 'Tageszitat' : "Today's Quote")))),
-                style: TextStyle(
-                  color: DokkeyTheme.gold,
-                  fontWeight: FontWeight.w900,
-                  fontSize: 13,
-                  letterSpacing: 1.0,
-                ),
+        child: Row(
+          children: [
+            // 좌측: 미니 3D 깨비 (감정 동기화)
+            SizedBox(
+              width: 64,
+              height: 72,
+              child: Kkaebi3DMascotWidget(
+                size: 62,
+                initialEmotion: fxEmotion,
+                enableInteraction: false,
+                enableAutoFloat: true,
               ),
-              const Spacer(),
-              // 감정 배지 (탭 → 풀스크린 FX)
-              GestureDetector(
-                onTap: () => _playFx(context, fxEmotion),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                  decoration: BoxDecoration(
-                    color: DokkeyTheme.dokFire.withOpacity(0.15),
-                    borderRadius: BorderRadius.circular(10),
-                    border: Border.all(color: DokkeyTheme.dokFire.withOpacity(0.5)),
-                  ),
-                  child: Row(
-                    mainAxisSize: MainAxisSize.min,
+            ),
+            const SizedBox(width: 10),
+
+            // 중앙: 명언 1~2줄 + 저자
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Row(
                     children: [
-                      Icon(Icons.bolt_rounded, size: 12, color: DokkeyTheme.dokFire),
-                      const SizedBox(width: 3),
+                      Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 13),
+                      const SizedBox(width: 4),
                       Text(
-                        quote.emotion,
+                        isKo ? '오늘의 명언' : (provider.lang == 'ja' ? '今日の名言' : (provider.lang == 'zh' ? '今日名言' : (provider.lang == 'hi' ? 'आज का सुवचन' : (provider.lang == 'de' ? 'Tageszitat' : "Today's Quote")))),
                         style: TextStyle(
-                          color: DokkeyTheme.dokFire,
-                          fontSize: 10,
-                          fontWeight: FontWeight.bold,
+                          color: DokkeyTheme.gold,
+                          fontWeight: FontWeight.w900,
+                          fontSize: 11,
+                          letterSpacing: 0.8,
                         ),
                       ),
                     ],
                   ),
-                ),
-              ),
-              // 감정 쇼케이스 버튼 (8대 감정 원클릭 패널)
-              GestureDetector(
-                onTap: () => _showEmotionShowcase(context),
-                child: Padding(
-                  padding: const EdgeInsets.only(left: 6),
-                  child: Icon(Icons.theater_comedy_rounded,
-                      size: 18, color: DokkeyTheme.textMuted),
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 14),
-
-          // Quote body
-          Text(
-            '"${quote.text}"',
-            style: TextStyle(
-              color: DokkeyTheme.textMain,
-              fontSize: 16.5,
-              height: 1.55,
-              fontWeight: FontWeight.w600,
-              fontStyle: FontStyle.italic,
-            ),
-          ),
-          const SizedBox(height: 8),
-          Text(
-            '- ${quote.authorLabel}${quote.source.trim().isNotEmpty ? " <${quote.source}>" : ""}',
-            style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 12),
-          ),
-          const SizedBox(height: 12),
-
-          // 3D turntable Kkaebi + speech bubble (깨비의 한마디)
-          Row(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
-              SizedBox(
-                width: 104,
-                height: 116,
-                child: Kkaebi3DMascotWidget(
-                  size: 104,
-                  initialEmotion: fxEmotion,
-                  enableInteraction: true,
-                  showSpeechBubble: false,
-                ),
-              ),
-              const SizedBox(width: 6),
-              Expanded(
-                child: Container(
-                  padding: const EdgeInsets.all(10),
-                  decoration: BoxDecoration(
-                    color: DokkeyTheme.surfaceDark,
-                    borderRadius: BorderRadius.circular(14),
-                    border: Border.all(color: DokkeyTheme.borderDark),
-                  ),
-                  child: Text(
-                    quote.hasKkaebiComment
-                        ? '💬 ${quote.kkaebiComment}'
-                        : '💬 ${quote.text}',
+                  const SizedBox(height: 5),
+                  Text(
+                    '"${quote.text}"',
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
                     style: TextStyle(
                       color: DokkeyTheme.textMain,
-                      fontSize: 12.5,
-                      height: 1.5,
+                      fontSize: 13.5,
+                      height: 1.35,
+                      fontWeight: FontWeight.w600,
                     ),
                   ),
-                ),
+                  const SizedBox(height: 4),
+                  Text(
+                    '- ${quote.authorLabel}',
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 10.5),
+                  ),
+                ],
               ),
-            ],
-          ),
-          const SizedBox(height: 12),
+            ),
+            const SizedBox(width: 6),
 
-          // Actions: 저장 / 공유
-          Row(
-            children: [
-              Expanded(
-                child: _HeroAction(
-                  icon: isBookmarked ? Icons.favorite_rounded : Icons.favorite_border_rounded,
-                  label: isBookmarked
-                      ? (provider.lang == 'ko' ? '저장됨' : 'Saved')
-                      : (provider.lang == 'ko' ? '마음에 저장' : 'Save'),
-                  color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.gold,
-                  onTap: () async {
-                    await provider.bookmarkQuote(quote.id);
-                    if (!isBookmarked) {
-                      SoundService().playSuccessChime();
-                    }
-                  },
-                ),
-              ),
-              const SizedBox(width: 8),
-              Expanded(
-                child: _HeroAction(
+            // 우측: 미니 액션 아이콘 (공유 / 저장 / 감정)
+            Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                _MiniIcon(
                   icon: Icons.ios_share_rounded,
-                  label: provider.lang == 'ko' ? '부적 카드' : 'Card',
-                  color: DokkeyTheme.gold,
                   onTap: () {
                     SoundService().playSuccessChime();
                     QuotePosterDialog.show(context, quote);
                   },
                 ),
-              ),
-            ],
-          ),
-        ],
+                const SizedBox(height: 6),
+                _MiniIcon(
+                  icon: isBookmarked ? Icons.favorite_rounded : Icons.favorite_border_rounded,
+                  color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.textMuted,
+                  onTap: () async {
+                    await provider.bookmarkQuote(quote.id);
+                    if (!isBookmarked) SoundService().playSuccessChime();
+                  },
+                ),
+                const SizedBox(height: 6),
+                _MiniIcon(
+                  icon: Icons.theater_comedy_rounded,
+                  onTap: () => _showEmotionShowcase(context),
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
 }
 
-class _HeroAction extends StatelessWidget {
+class _MiniIcon extends StatelessWidget {
   final IconData icon;
-  final String label;
-  final Color color;
   final VoidCallback onTap;
+  final Color color;
 
-  const _HeroAction({
+  const _MiniIcon({
+    super.key,
     required this.icon,
-    required this.label,
-    required this.color,
     required this.onTap,
+    this.color = const Color(0xFFD4AF37),
   });
 
   @override
   Widget build(BuildContext context) {
-    return InkWell(
+    return GestureDetector(
       onTap: onTap,
-      borderRadius: BorderRadius.circular(14),
       child: Container(
-        padding: const EdgeInsets.symmetric(vertical: 10),
+        width: 30,
+        height: 30,
         decoration: BoxDecoration(
+          shape: BoxShape.circle,
           color: DokkeyTheme.surfaceDark,
-          borderRadius: BorderRadius.circular(14),
           border: Border.all(color: color.withOpacity(0.5)),
         ),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(icon, size: 16, color: color),
-            const SizedBox(width: 6),
-            Text(
-              label,
-              style: TextStyle(
-                color: color,
-                fontSize: 12,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ],
-        ),
+        child: Icon(icon, size: 15, color: color),
       ),
     );
   }

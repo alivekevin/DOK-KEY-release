@@ -54,4 +54,10 @@ class BrandConfig {
 
   /// 웹 히어로 문구 ("하루 한 줄, 나를 바꾸는 도깨비 명언")
   static String webHero(String lang) => _section('web_hero', lang);
+
+  /// 부적 카드 도장 텍스트 (언어별 로컬라이징 — 타언어 한자 혼입 방지)
+  static String posterStamp(String lang) => _section('poster_stamp', lang);
+
+  /// 부적 카드 푸터 태그라인
+  static String posterFooter(String lang) => _section('poster_footer', lang);
 }

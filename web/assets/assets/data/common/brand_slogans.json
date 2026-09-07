@@ -46,5 +46,21 @@
     "zh": "一天一句，改变我的多吉比名言",
     "hi": "रोज़ एक पंक्ति — बदल देने वाला कैकैबी सुवचन",
     "de": "Eine Zeile am Tag — das Koboldzitat, das dich verändert"
+  },
+  "poster_stamp": {
+    "ko": "오늘의 지혜 부적",
+    "en": "WISDOM AMULET",
+    "ja": "知恵の御守り",
+    "zh": "智慧神符",
+    "hi": "शुभ ज्ञान ताबीज",
+    "de": "WEISHEITS-TALISMAN"
+  },
+  "poster_footer": {
+    "ko": "깨비가 전하는 오늘의 명언",
+    "en": "Kkaebi's daily words",
+    "ja": "クケビが届ける今日の言葉",
+    "zh": "多吉比送来的今日名言",
+    "hi": "कैकैबी की देन — आज का सुवचन",
+    "de": "Kkaebis tägliche Weisheit"
   }
 }

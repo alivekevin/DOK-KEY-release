@@ -85,7 +85,7 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                 ),
                 child: Column(
                   children: [
-                    // 부적 두름 헤더
+                    // 부적 두름 헤더 (언어별 로컬라이징 도장 — 타언어 혼입 방지)
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
                       decoration: BoxDecoration(
@@ -93,7 +93,7 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                         borderRadius: BorderRadius.circular(20),
                       ),
                       child: Text(
-                        '黃金 부적 · DOK-KEY',
+                        '${BrandConfig.posterStamp(lang)} · DOK-KEY',
                         style: TextStyle(
                           color: DokkeyTheme.goldLight,
                           fontSize: 11,
@@ -152,7 +152,7 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      '#DOK_KEY · 깨비가 전하는 오늘의 명언',
+                      '#DOK_KEY · ${BrandConfig.posterFooter(lang)}',
                       style: TextStyle(
                         color: DokkeyTheme.gold,
                         fontSize: 10,
