@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
+import '../models/talisman_model.dart';
 import '../core/brand_config.dart';
 import '../core/image_share_service.dart';
 import '../core/theme.dart';
@@ -55,6 +56,8 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
     final lang = provider.lang;
     final q = widget.quote;
 
+    final matchedTalisman = TalismanRegistry.matchTalisman(q.text, emotion: q.emotion);
+
     return Dialog(
       backgroundColor: Colors.transparent,
       insetPadding: const EdgeInsets.symmetric(horizontal: 18, vertical: 22),
@@ -66,18 +69,18 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
               key: _posterKey,
               child: Container(
                 width: 320,
-                padding: const EdgeInsets.all(24),
+                padding: const EdgeInsets.all(20),
                 decoration: BoxDecoration(
                   gradient: const LinearGradient(
                     begin: Alignment.topCenter,
                     end: Alignment.bottomCenter,
-                    colors: [Color(0xFF3A2A10), Color(0xFF141822), Color(0xFF0F1116)],
+                    colors: [Color(0xFF2A1C0A), Color(0xFF141822), Color(0xFF0F1116)],
                   ),
                   borderRadius: BorderRadius.circular(26),
                   border: Border.all(color: DokkeyTheme.gold, width: 2.5),
                   boxShadow: [
                     BoxShadow(
-                      color: DokkeyTheme.gold.withOpacity(0.3),
+                      color: DokkeyTheme.gold.withOpacity(0.35),
                       blurRadius: 30,
                       spreadRadius: 4,
                     ),
@@ -91,6 +94,7 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                       decoration: BoxDecoration(
                         border: Border.all(color: DokkeyTheme.gold),
                         borderRadius: BorderRadius.circular(20),
+                        color: DokkeyTheme.gold.withOpacity(0.1),
                       ),
                       child: Text(
                         '${BrandConfig.posterStamp(lang)} · DOK-KEY',
@@ -102,60 +106,123 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 22),
-                    const Text('👺', style: TextStyle(fontSize: 40)),
-                    const SizedBox(height: 18),
+                    const SizedBox(height: 14),
+
+                    // 🎴 18종 고화질 부적 카드 비주얼 영역
+                    ClipRRect(
+                      borderRadius: BorderRadius.circular(16),
+                      child: Container(
+                        height: 200,
+                        width: double.infinity,
+                        decoration: BoxDecoration(
+                          border: Border.all(color: DokkeyTheme.gold.withOpacity(0.5), width: 1.5),
+                          borderRadius: BorderRadius.circular(16),
+                          color: Colors.black,
+                        ),
+                        child: Stack(
+                          fit: StackFit.expand,
+                          children: [
+                            Image.asset(
+                              matchedTalisman.imagePath,
+                              fit: BoxFit.cover,
+                            ),
+                            Container(
+                              decoration: BoxDecoration(
+                                gradient: LinearGradient(
+                                  begin: Alignment.topCenter,
+                                  end: Alignment.bottomCenter,
+                                  colors: [
+                                    Colors.transparent,
+                                    Colors.black.withOpacity(0.7),
+                                  ],
+                                ),
+                              ),
+                            ),
+                            Positioned(
+                              bottom: 8,
+                              left: 10,
+                              right: 10,
+                              child: Text(
+                                matchedTalisman.localizedName(lang),
+                                textAlign: TextAlign.center,
+                                style: TextStyle(
+                                  color: DokkeyTheme.goldLight,
+                                  fontSize: 12,
+                                  fontWeight: FontWeight.bold,
+                                  shadows: const [
+                                    Shadow(color: Colors.black, blurRadius: 6),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 16),
                     Text(
                       '"${q.text}"',
                       textAlign: TextAlign.center,
                       style: const TextStyle(
                         color: Color(0xFFF3E5AB),
-                        fontSize: 18,
-                        height: 1.7,
+                        fontSize: 17,
+                        height: 1.6,
                         fontWeight: FontWeight.w700,
                       ),
                     ),
-                    const SizedBox(height: 14),
+                    const SizedBox(height: 12),
                     Text(
                       '- ${q.authorLabel}${q.source.trim().isNotEmpty ? " <${q.source}>" : ""}',
-                      style: TextStyle(color: DokkeyTheme.gold, fontSize: 12.5),
+                      style: TextStyle(color: DokkeyTheme.gold, fontSize: 12),
                     ),
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
                     if (q.hasKkaebiComment)
                       Container(
                         width: double.infinity,
-                        padding: const EdgeInsets.all(12),
+                        margin: const EdgeInsets.only(top: 4),
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
                         decoration: BoxDecoration(
-                          color: Colors.white.withOpacity(0.05),
-                          borderRadius: BorderRadius.circular(12),
+                          color: DokkeyTheme.gold.withValues(alpha: 0.12),
+                          borderRadius: BorderRadius.circular(14),
+                          border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.45), width: 1.2),
                         ),
-                        child: Text(
-                          '👺 ${q.kkaebiComment}',
-                          style: TextStyle(
-                            color: DokkeyTheme.textMain,
-                            fontSize: 12,
-                            height: 1.5,
-                          ),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text('👺', style: TextStyle(fontSize: 18)),
+                            const SizedBox(width: 10),
+                            Expanded(
+                              child: Text(
+                                q.kkaebiComment,
+                                style: const TextStyle(
+                                  color: Color(0xFFFFEAA7),
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w600,
+                                  height: 1.45,
+                                ),
+                              ),
+                            ),
+                          ],
                         ),
                       ),
-                    const SizedBox(height: 18),
+                    const SizedBox(height: 16),
                     Divider(color: DokkeyTheme.borderDark),
-                    const SizedBox(height: 10),
+                    const SizedBox(height: 8),
                     Text(
                       BrandConfig.mainSlogan(lang),
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: DokkeyTheme.textMuted,
-                        fontSize: 10.5,
+                        fontSize: 10,
                         fontStyle: FontStyle.italic,
                       ),
                     ),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 6),
                     Text(
                       '#DOK_KEY · ${BrandConfig.posterFooter(lang)}',
                       style: TextStyle(
                         color: DokkeyTheme.gold,
-                        fontSize: 10,
+                        fontSize: 9.5,
                         letterSpacing: 1.2,
                       ),
                     ),

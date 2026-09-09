@@ -190,9 +190,10 @@ void main() {
       expect(provider.sourceNumbers.length, 99);
 
       // 중복 획득 시 count 누적 메타데이터 확인
+      final initialCount = provider.sourceNumbers.firstWhere((s) => s.numberStr == '77').count;
       await provider.injectNumber('77');
       final item = provider.sourceNumbers.firstWhere((s) => s.numberStr == '77');
-      expect(item.count, 2);
+      expect(item.count, initialCount + 1);
       expect(item.lastHeadline.contains('인스펙터'), true);
     });
 

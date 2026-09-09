@@ -1,3 +1,5 @@
+import '../models/dokkey_models.dart';
+import '../widgets/quote_poster_dialog.dart';
 import '../core/key_combiner_engine.dart';
 import '../core/sound_service.dart';
 import 'package:flutter/material.dart';
@@ -28,6 +30,7 @@ class KeyBoxScreen extends StatefulWidget {
 enum _KeySort { acquired, number, frequency }
 
 class _KeyBoxScreenState extends State<KeyBoxScreen> {
+  int _activeTab = 0; // 0: 🗝️ 숫자&연성실, 1: 📜 저장한 명언
   final Set<String> _selectedNumbers = {};
   int _targetCount = KeyCombinerEngine.defaultTargetCount;
   bool _allowDuplicates = false;
@@ -138,10 +141,10 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
               isKo
                   ? (isPro
                       ? '조합 키 99/99 슬롯이 모두 찼습니다. 보관함에서 오래된 키를 정리한 뒤 다시 연성해주세요.'
-                      : '무료 슬롯 9/9가 모두 찼습니다.\n\n🗑️ 보관함에서 오래된 키를 정리하거나\n👑 10년 안심 패스로 99개 슬롯으로 확장할 수 있습니다.')
+                      : '무료 슬롯 9/9가 모두 찼습니다.\n\n🗑️ 보관함에서 오래된 키를 정리하거나\n👑 프로 패스(PRO PASS)로 99개 슬롯으로 확장할 수 있습니다.')
                   : (isPro
                       ? 'All 99 slots are full. Clean old keys in the vault and try again.'
-                      : 'Free slots full (9/9).\n\n🗑️ Clean old keys in the vault, or\n👑 expand to 99 slots with the Pro Pass.'),
+                      : 'Free slots full (9/9).\n\n🗑️ Clean old keys in the vault, or\n👑 expand to 99 slots with the PRO PASS.'),
               style: TextStyle(color: DokkeyTheme.textMain, fontSize: 13, height: 1.5),
             ),
             actions: [
@@ -329,11 +332,116 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
           const SizedBox(width: 4),
         ],
       ),
-      body: sourceList.isEmpty
-          ? _buildEmptyState(provider, combinedCount)
-          : Column(
+      body: Column(
+        children: [
+          // 상단 탭 선택기: [🗝️ 행운 숫자 & 연성] / [📜 마음에 저장한 명언]
+          Container(
+            margin: const EdgeInsets.fromLTRB(16, 8, 16, 6),
+            padding: const EdgeInsets.all(4),
+            decoration: BoxDecoration(
+              color: DokkeyTheme.surfaceDark,
+              borderRadius: BorderRadius.circular(16),
+              border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.3)),
+            ),
+            child: Row(
               children: [
-                // Top Summary Bar
+                Expanded(
+                  child: GestureDetector(
+                    onTap: () => setState(() => _activeTab = 0),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 8),
+                      decoration: BoxDecoration(
+                        color: _activeTab == 0 ? DokkeyTheme.gold : Colors.transparent,
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                      child: Center(
+                        child: Text(
+                          isKo ? '🗝️ 행운 숫자 & 연성' : (isJa ? '🗝️ 数字・錬成' : '🗝️ Keys & Alchemy'),
+                          style: TextStyle(
+                            color: _activeTab == 0 ? Colors.black : DokkeyTheme.textMuted,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 12.5,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                Expanded(
+                  child: GestureDetector(
+                    onTap: () => setState(() => _activeTab = 1),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 8),
+                      decoration: BoxDecoration(
+                        color: _activeTab == 1 ? DokkeyTheme.gold : Colors.transparent,
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                      child: Center(
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              isKo ? '📜 저장한 명언' : (isJa ? '📜 保存した名言' : '📜 Saved Quotes'),
+                              style: TextStyle(
+                                color: _activeTab == 1 ? Colors.black : DokkeyTheme.textMuted,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 12.5,
+                              ),
+                            ),
+                            if (provider.bookmarkedQuoteIds.isNotEmpty) ...[
+                              const SizedBox(width: 5),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 1),
+                                decoration: BoxDecoration(
+                                  color: _activeTab == 1 ? Colors.black : DokkeyTheme.dokFire,
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: Text(
+                                  '${provider.bookmarkedQuoteIds.length}',
+                                  style: TextStyle(
+                                    color: _activeTab == 1 ? DokkeyTheme.goldLight : Colors.white,
+                                    fontSize: 10,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+
+          // 탭별 컨텐츠 뷰
+          Expanded(
+            child: _activeTab == 1
+                ? _buildBookmarkedQuotesView(provider, isKo)
+                : (sourceList.isEmpty
+                    ? _buildEmptyState(provider, combinedCount)
+                    : _buildNumbersView(provider, isKo, isJa, sourceList)),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildNumbersView(
+    DokkeyProvider provider,
+    bool isKo,
+    bool isJa,
+    List<SourceNumberItem> sourceList,
+  ) {
+    final sortedList = _applySortFilter(sourceList);
+    final maxAvailable = sourceList.length;
+    final toneColors = [null, '#F5BD42', '#388E3C', '#1976D2', '#C94A2E', '#8E24AA', '#D32F2F', '#00796B', '#455A64'];
+
+    return Column(
+      children: [
+        // Top Summary Bar
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                   color: DokkeyTheme.surfaceDark,
@@ -662,7 +770,187 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                   ),
                 ),
               ],
-            ),
+            );
+  }
+
+
+  Widget _buildBookmarkedQuotesView(DokkeyProvider provider, bool isKo) {
+    final savedQuotes = provider.bookmarkedQuotes;
+
+    if (savedQuotes.isEmpty) {
+      return Center(
+        child: Padding(
+          padding: const EdgeInsets.all(32),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Text('📜', style: TextStyle(fontSize: 48)),
+              const SizedBox(height: 16),
+              Text(
+                isKo ? '마음에 저장한 명언이 없습니다' : 'No Saved Quotes Yet',
+                style: TextStyle(
+                  color: DokkeyTheme.goldLight,
+                  fontSize: 16.5,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                isKo
+                    ? '홈 화면에서 명언 옆의 하트(❤️) 버튼을 누르면\n소중한 명언과 깨비의 조언이 여기에 보관됩니다!'
+                    : 'Tap the heart (❤️) icon next to the daily quote on the Home screen to save your favorite wisdom here!',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  color: DokkeyTheme.textMuted,
+                  fontSize: 13,
+                  height: 1.5,
+                ),
+              ),
+              const SizedBox(height: 24),
+              ElevatedButton.icon(
+                onPressed: () => Navigator.of(context).pop(),
+                icon: const Icon(Icons.arrow_back_rounded, size: 18),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: DokkeyTheme.gold,
+                  foregroundColor: Colors.black,
+                  padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+                ),
+                label: Text(
+                  isKo ? '홈으로 돌아가기' : 'Back to Home',
+                  style: const TextStyle(fontWeight: FontWeight.bold),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+
+    return ListView.separated(
+      padding: const EdgeInsets.all(16),
+      itemCount: savedQuotes.length,
+      separatorBuilder: (_, __) => const SizedBox(height: 14),
+      itemBuilder: (ctx, idx) {
+        final q = savedQuotes[idx];
+        return Container(
+          padding: const EdgeInsets.all(16),
+          decoration: BoxDecoration(
+            color: DokkeyTheme.cardDark,
+            borderRadius: BorderRadius.circular(18),
+            border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.45), width: 1.2),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.black.withValues(alpha: 0.35),
+                blurRadius: 10,
+                offset: const Offset(0, 3),
+              ),
+            ],
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                    decoration: BoxDecoration(
+                      color: DokkeyTheme.gold.withValues(alpha: 0.15),
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.4)),
+                    ),
+                    child: Text(
+                      '${q.theme.toUpperCase()} · ${q.authorLabel}',
+                      style: TextStyle(
+                        color: DokkeyTheme.goldLight,
+                        fontSize: 11,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                  const Spacer(),
+                  IconButton(
+                    icon: const Icon(Icons.favorite_rounded, color: Colors.redAccent, size: 20),
+                    tooltip: isKo ? '저장 해제' : 'Remove',
+                    onPressed: () async {
+                      await provider.bookmarkQuote(q.id);
+                      if (context.mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(isKo ? '명언 저장이 해제되었습니다.' : 'Removed from saved quotes.'),
+                            backgroundColor: DokkeyTheme.surfaceDark,
+                          ),
+                        );
+                      }
+                    },
+                  ),
+                ],
+              ),
+              const SizedBox(height: 8),
+              Text(
+                '“${q.text}”',
+                style: TextStyle(
+                  color: DokkeyTheme.textMain,
+                  fontSize: 14.5,
+                  fontWeight: FontWeight.w700,
+                  height: 1.45,
+                ),
+              ),
+              if (q.hasKkaebiComment) ...[
+                const SizedBox(height: 10),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: DokkeyTheme.gold.withValues(alpha: 0.12),
+                    borderRadius: BorderRadius.circular(10),
+                    border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.35)),
+                  ),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text('👺', style: TextStyle(fontSize: 15)),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: Text(
+                          q.kkaebiComment,
+                          style: const TextStyle(
+                            color: Color(0xFFFFEAA7),
+                            fontSize: 12.5,
+                            height: 1.4,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+              const SizedBox(height: 12),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  OutlinedButton.icon(
+                    onPressed: () {
+                      SoundService().playSuccessChime();
+                      QuotePosterDialog.show(context, q);
+                    },
+                    icon: Icon(Icons.ios_share_rounded, size: 15, color: DokkeyTheme.gold),
+                    style: OutlinedButton.styleFrom(
+                      side: BorderSide(color: DokkeyTheme.gold.withValues(alpha: 0.6)),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                    ),
+                    label: Text(
+                      isKo ? '🎴 부적 카드로 열기' : '🎴 View Amulet',
+                      style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 12, fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        );
+      },
     );
   }
 

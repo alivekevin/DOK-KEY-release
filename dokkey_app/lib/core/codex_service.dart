@@ -63,7 +63,7 @@ class CodexService {
     return null;
   }
 
-  /// 열쇠 번호(1~99) 획득 시 해당 도감 카드 즉시 10년 안심 해금
+  /// 열쇠 번호(1~99) 획득 시 해당 도감 카드 즉시 장기 보관 해금
   Future<bool> unlockNumber(int number) async {
     String? cardKey;
     if (number >= 1 && number <= 33) {

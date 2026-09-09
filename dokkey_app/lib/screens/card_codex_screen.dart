@@ -6,9 +6,11 @@ import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../core/codex_service.dart';
 import '../models/codex_models.dart';
+import '../models/talisman_model.dart';
 import '../providers/dokkey_provider.dart';
 import '../widgets/dokkaebi_fire_particles.dart';
 import '../widgets/rotating_key_home_button.dart';
+import '../widgets/pro_pass_dialog.dart';
 import 'keybox_screen.dart';
 
 class CardCodexScreen extends StatefulWidget {
@@ -27,7 +29,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
   @override
   void initState() {
     super.initState();
-    _tabController = TabController(length: 3, vsync: this);
+    _tabController = TabController(length: 4, vsync: this);
     _loadData();
   }
 
@@ -348,9 +350,11 @@ class _CardCodexScreenState extends State<CardCodexScreen>
           indicatorColor: DokkeyTheme.gold,
           labelColor: DokkeyTheme.gold,
           unselectedLabelColor: DokkeyTheme.textMuted,
+          isScrollable: true,
           tabs: [
             Tab(text: isKo ? '신수 ($zodiacUnlockedCount/33)' : (isJa ? '神獣 ($zodiacUnlockedCount/33)' : 'Beasts ($zodiacUnlockedCount/33)')),
             Tab(text: isKo ? '신격 ($mythUnlockedCount/33)' : (isJa ? '神格 ($mythUnlockedCount/33)' : 'Gods ($mythUnlockedCount/33)')),
+            Tab(text: isKo ? '🎴 부적 (33슬롯)' : (isJa ? '🎴 御札 (33枠)' : '🎴 Talismans (33)')),
             Tab(text: isKo ? 'MY 커스텀 ($customFilledCount/33)' : (isJa ? 'MY カスタム' : 'MY Custom ($customFilledCount/33)')),
           ],
         ),
@@ -360,8 +364,332 @@ class _CardCodexScreenState extends State<CardCodexScreen>
         children: [
           _buildCardGrid(context, zodiacList, 'zodiac'),
           _buildCardGrid(context, mythList, 'myth'),
+          _buildTalismanGrid(context),
           _buildCustomGrid(context, customList),
         ],
+      ),
+    );
+  }
+
+  Widget _buildTalismanGrid(BuildContext context) {
+    final provider = context.watch<DokkeyProvider>();
+    final lang = provider.lang;
+    final isKo = lang == 'ko';
+    final talismans = TalismanRegistry.items;
+    final customCards = _codexService.customCards;
+
+    return GridView.builder(
+      padding: const EdgeInsets.all(14),
+      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 3,
+        childAspectRatio: 0.65,
+        crossAxisSpacing: 10,
+        mainAxisSpacing: 12,
+      ),
+      itemCount: 33, // 1~18: 공식 부적 18종, 19~33: MY 커스텀 부적 15종
+      itemBuilder: (ctx, idx) {
+        if (idx < talismans.length) {
+          // 1 ~ 18번: 공식 18종 전통 부적 (발급된 부적만 컬러, 미발급은 실루엣)
+          final t = talismans[idx];
+          final name = t.localizedName(lang);
+          final collected = provider.isTalismanCollected(t.id);
+
+          return GestureDetector(
+            onTap: () => _showTalismanDetail(context, t),
+            child: Container(
+              decoration: BoxDecoration(
+                color: DokkeyTheme.cardDark,
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(
+                  color: collected ? DokkeyTheme.gold : DokkeyTheme.borderDark,
+                  width: collected ? 1.5 : 1.0,
+                ),
+                boxShadow: collected
+                    ? [
+                        BoxShadow(
+                          color: DokkeyTheme.gold.withOpacity(0.25),
+                          blurRadius: 8,
+                          spreadRadius: 1,
+                        ),
+                      ]
+                    : null,
+              ),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(15),
+                child: Stack(
+                  fit: StackFit.expand,
+                  children: [
+                    Opacity(
+                      opacity: collected ? 1.0 : 0.28,
+                      child: Image.asset(
+                        t.imagePath,
+                        fit: BoxFit.cover,
+                      ),
+                    ),
+                    if (!collected)
+                      Center(
+                        child: Icon(Icons.lock_outline_rounded,
+                            color: DokkeyTheme.textMuted, size: 30),
+                      ),
+                    Positioned(
+                      bottom: 0,
+                      left: 0,
+                      right: 0,
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 4),
+                        color: Colors.black.withOpacity(0.75),
+                        child: Text(
+                          collected
+                              ? '#${t.index} $name'
+                              : '#${t.index} ???',
+                          textAlign: TextAlign.center,
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                          style: TextStyle(
+                            color: collected
+                                ? DokkeyTheme.goldLight
+                                : DokkeyTheme.textMuted,
+                            fontSize: 10.5,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ),
+                    if (collected)
+                      Positioned(
+                        top: 4,
+                        right: 4,
+                        child: Icon(Icons.verified_rounded,
+                            size: 16, color: DokkeyTheme.gold),
+                      ),
+                  ],
+                ),
+              ),
+            ),
+          );
+        } else {
+          // 19 ~ 33번: 15종 MY 커스텀 부적 슬롯 (무료는 19~20번 2개 슬롯만 체험, 21~33번은 PRO 전용)
+          final customSlotIdx = idx - talismans.length; // 0 ~ 14
+          final isLockedForFree = !provider.isProUser && customSlotIdx >= 2;
+          final customCard = customSlotIdx < customCards.length
+              ? customCards[customSlotIdx]
+              : CustomCodexCard(slotIndex: customSlotIdx, isEmpty: true);
+          final isEmpty = customCard.isEmpty;
+
+          return GestureDetector(
+            onTap: () {
+              if (isLockedForFree) {
+                ProPassDialog.show(context);
+                return;
+              }
+              if (isEmpty) {
+                _showCustomCardDialog(context, customCard);
+              } else {
+                _showCustomCardDetail(context, customCard);
+              }
+            },
+            child: Container(
+              decoration: BoxDecoration(
+                color: DokkeyTheme.cardDark,
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(
+                  color: isLockedForFree
+                      ? DokkeyTheme.borderDark
+                      : (!isEmpty ? DokkeyTheme.gold : DokkeyTheme.gold.withOpacity(0.4)),
+                  width: !isEmpty ? 1.5 : 1.0,
+                ),
+                boxShadow: !isEmpty && !isLockedForFree
+                    ? [
+                        BoxShadow(
+                          color: DokkeyTheme.gold.withOpacity(0.25),
+                          blurRadius: 8,
+                          spreadRadius: 1,
+                        ),
+                      ]
+                    : null,
+              ),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(15),
+                child: Stack(
+                  fit: StackFit.expand,
+                  children: [
+                    if (!isEmpty)
+                      if (customCard.imageBase64 != null)
+                        Image.memory(
+                          base64Decode(customCard.imageBase64!),
+                          fit: BoxFit.cover,
+                        )
+                      else
+                        Image.asset(
+                          customCard.localImageUri ?? 'assets/images/kkaebi_mascot.png',
+                          fit: BoxFit.cover,
+                        )
+                    else
+                      Container(
+                        color: const Color(0xFF1B140B),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Icon(
+                              isLockedForFree ? Icons.lock_outline_rounded : Icons.auto_fix_high_rounded,
+                              size: 26,
+                              color: isLockedForFree ? DokkeyTheme.gold.withOpacity(0.4) : DokkeyTheme.gold.withOpacity(0.7),
+                            ),
+                            const SizedBox(height: 6),
+                            Text(
+                              '#${idx + 1}',
+                              style: TextStyle(
+                                color: isLockedForFree ? DokkeyTheme.textMuted : DokkeyTheme.goldLight,
+                                fontSize: 11,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                            const SizedBox(height: 2),
+                            Text(
+                              isLockedForFree
+                                  ? (isKo ? 'PRO 잠금' : 'PRO Lock')
+                                  : (isKo ? 'MY 부적 등록' : 'MY Charm'),
+                              style: TextStyle(
+                                color: isLockedForFree ? DokkeyTheme.gold.withOpacity(0.6) : DokkeyTheme.textMuted,
+                                fontSize: 9.5,
+                                fontWeight: isLockedForFree ? FontWeight.bold : FontWeight.normal,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    if (!isEmpty)
+                      Positioned(
+                        bottom: 0,
+                        left: 0,
+                        right: 0,
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 4),
+                          color: Colors.black.withOpacity(0.75),
+                          child: Text(
+                            '#${idx + 1} ${customCard.title ?? (isKo ? "나만의 부적" : "Custom Charm")}',
+                            textAlign: TextAlign.center,
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: TextStyle(
+                              color: DokkeyTheme.goldLight,
+                              fontSize: 10,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ),
+          );
+        }
+      },
+    );
+  }
+
+  void _showTalismanDetail(BuildContext context, TalismanItem item) {
+    final provider = context.read<DokkeyProvider>();
+    final lang = provider.lang;
+    final isKo = lang == 'ko';
+
+    SoundService().playCardFlip();
+
+    showDialog(
+      context: context,
+      builder: (ctx) => Dialog(
+        backgroundColor: Colors.transparent,
+        insetPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 24),
+        child: Container(
+          padding: const EdgeInsets.all(20),
+          decoration: BoxDecoration(
+            gradient: const LinearGradient(
+              begin: Alignment.topCenter,
+              end: Alignment.bottomCenter,
+              colors: [Color(0xFF2A1C0A), Color(0xFF141822), Color(0xFF0F1116)],
+            ),
+            borderRadius: BorderRadius.circular(24),
+            border: Border.all(color: DokkeyTheme.gold, width: 2.0),
+            boxShadow: [
+              BoxShadow(
+                color: DokkeyTheme.gold.withOpacity(0.4),
+                blurRadius: 25,
+                spreadRadius: 3,
+              ),
+            ],
+          ),
+          child: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    height: 280,
+                    decoration: BoxDecoration(
+                      border: Border.all(color: DokkeyTheme.gold, width: 1.5),
+                    ),
+                    child: Image.asset(item.imagePath, fit: BoxFit.cover),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  item.localizedName(lang),
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: DokkeyTheme.goldLight,
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  item.titleKo,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: DokkeyTheme.gold,
+                    fontSize: 12.5,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+                const SizedBox(height: 12),
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.5),
+                    borderRadius: BorderRadius.circular(12),
+                    border: Border.all(color: DokkeyTheme.borderDark),
+                  ),
+                  child: Text(
+                    item.localizedDesc(lang),
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      color: Color(0xFFE0D8C3),
+                      fontSize: 13,
+                      height: 1.5,
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 18),
+                ElevatedButton.icon(
+                  onPressed: () => Navigator.of(ctx).pop(),
+                  icon: const Icon(Icons.check_circle_outline, size: 18),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: DokkeyTheme.gold,
+                    foregroundColor: Colors.black,
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                    padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 10),
+                  ),
+                  label: Text(
+                    isKo ? '확인 및 보관' : 'Close',
+                    style: const TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       ),
     );
   }

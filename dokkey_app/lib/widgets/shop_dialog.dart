@@ -149,26 +149,58 @@ class ShopDialog extends StatelessWidget {
                   }
                 },
               ),
-              // Item 4: DOK-KEY 10-Year Safe Pro Pass
+              // Item 4: DOK-KEY PRO (1년 이용권) — BM v5
               _ShopItem(
                 icon: Icons.workspace_premium_rounded,
                 iconColor: DokkeyTheme.gold,
                 title: isKo
-                    ? 'DOK-KEY 10년 안심 프로 패스'
+                    ? '👑 DOK-KEY PRO (1년 이용권)'
                     : (isJa
-                        ? '10年安心プロパス (10,000₩)'
+                        ? 'DOK-KEY プロ (1年プラン)'
                         : (provider.lang == 'zh'
-                            ? '10年安心专业通行证'
-                            : (provider.lang == 'de' ? '10-Jahre-Sicherheitspass' : (provider.lang == 'hi' ? '10-वर्षीय सुरक्षित प्रो पास' : '10-Year Safe Pro Pass')))),
+                            ? 'DOK-KEY 专业版 (1年)'
+                            : (provider.lang == 'de' ? 'DOK-KEY PRO (1 Jahr)' : (provider.lang == 'hi' ? 'DOK-KEY प्रो (1 वर्ष)' : 'DOK-KEY PRO (1-Year)')))),
                 subtitle: isKo
-                    ? '₩10,000 / 10년 (연 1,000원꼴) · 99슬롯·클라우드·도감'
-                    : '10-Yr Safe Locker · 99 Slots · Custom Codex · Ad-Free',
-                badge: provider.isProUser ? 'PRO 👑' : '₩10,000',
+                    ? '₩2,500 / 1년 · 모든 기능 잠금해제 (99슬롯·부적 33·광고 제거·+3뽑기)'
+                    : '\$1.99 / Year · All-Features Unlocked (99 slots · talismans · ad-free · +3 draws)',
+                badge: provider.isProUser ? 'PRO 👑' : (isKo ? '₩2,500' : '\$1.99'),
                 badgeColor: DokkeyTheme.gold,
                 isEnabled: true,
                 onTap: () {
                   Navigator.of(context).pop();
                   ProPassDialog.show(context);
+                },
+              ),
+              // Item 5: 🗝️ 황금 열쇠 10개 주머니 (소모품)
+              _ShopItem(
+                icon: Icons.key_rounded,
+                iconColor: DokkeyTheme.mintCalm,
+                title: isKo
+                    ? '🗝️ 황금 열쇠 10개 주머니'
+                    : (isJa
+                        ? '🗝️ 黄金の鍵10個ポーチ'
+                        : (provider.lang == 'zh'
+                            ? '🗝️ 黄金钥匙10个锦囊'
+                            : (provider.lang == 'de' ? '🗝️ Goldschlüssel-Bundle (10)' : (provider.lang == 'hi' ? '🗝️ गोल्डन की 10 पाउच' : '🗝️ Golden Key Pouch ×10')))),
+                subtitle: isKo
+                    ? '₩1,200 · 소모품 — 지금 바로 뽑기/연성용 열쇠 10개'
+                    : '\$0.99 · Consumable — 10 keys for instant draws & forging',
+                badge: isKo ? '₩1,200' : '\$0.99',
+                badgeColor: DokkeyTheme.mintCalm,
+                isEnabled: true,
+                onTap: () async {
+                  await provider.addBonusKeys(10);
+                  SoundService().playCoinJangle();
+                  if (context.mounted) {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text(
+                          isKo ? '황금 열쇠 10개가 지급되었습니다! 🗝️' : (isJa ? '黄金の鍵10個を支給! 🗝️' : '10 Golden Keys added! 🗝️'),
+                        ),
+                        backgroundColor: DokkeyTheme.surfaceDark,
+                      ),
+                    );
+                  }
                 },
               ),
               const SizedBox(height: 20),

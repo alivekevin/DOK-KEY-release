@@ -9,12 +9,12 @@ import '../widgets/rotating_key_home_button.dart';
 import 'card_codex_screen.dart';
 
 /// 🔑 조합된 열쇠 보관함 (v4.1.0 Commercial)
-/// - 무료 9슬롯(7일 TTL 순환) / 10년 안심 패스 99슬롯(장기 고정)
+/// - 무료 9슬롯(7일 TTL 순환) / PRO 99슬롯 대용량 확장(장기 보관)
 /// - 슬롯 진행바, 삭제 2차 확인, 만료/전체 일괄 정리, 한도 도달 시 Pro 유도
 class CombinedKeysScreen extends StatelessWidget {
   const CombinedKeysScreen({super.key});
 
-  /// [💡 볼트 안내] 도움말 다이얼로그 (Zero-Login 원리 & 10년 안심 보관 가이드)
+  /// [💡 볼트 안내] 도움말 다이얼로그 (Zero-Login 원리 & 장기 보관 가이드)
   void _showVaultHelpDialog(BuildContext context) {
     final provider = context.read<DokkeyProvider>();
     final isKo = provider.lang == 'ko';
@@ -54,15 +54,15 @@ class CombinedKeysScreen extends StatelessWidget {
               icon: Icons.push_pin_outlined,
               title: isKo
                   ? (provider.isProUser
-                      ? '10년 안심 보관 (Pro)'
-                      : '7일 자동 순환과 10년 안심 보관 (📌)')
+                      ? '장기 보관 모드 (Pro)'
+                      : '7일 자동 순환과 장기 보관 (📌)')
                   : (provider.isProUser
                       ? '10-Year Safe Lock (Pro)'
                       : '7-Day Cycle & 10-Year Safe Pin'),
               desc: isKo
                   ? (provider.isProUser
-                      ? '10년 안심 패스로 조합 키가 장기 고정 보관되며, 원하지 않는 키는 언제든 개별 삭제하거나 일괄 정리할 수 있습니다.'
-                      : '조합 키는 7일 후 자동 정리되어 슬롯이 순환됩니다. 마음에 드는 번호는 📌 핀 아이콘으로 장기 보관하거나 10년 안심 패스로 슬롯을 99개까지 넓히세요.')
+                      ? 'PRO로 조합 키가 장기 고정 보관되며, 원하지 않는 키는 언제든 개별 삭제하거나 일괄 정리할 수 있습니다.'
+                      : '조합 키는 7일 후 자동 정리되어 슬롯이 순환됩니다. 마음에 드는 번호는 📌 핀 아이콘으로 장기 보관하거나 PRO로 슬롯을 99개까지 넓히세요.')
                   : (provider.isProUser
                       ? 'With the Pro Pass, keys are safely locked for 10 years. Delete or bulk-clean anytime.'
                       : 'Keys cycle out after 7 days. Pin favorites or upgrade to 99 slots with the Pro Pass.'),
@@ -601,7 +601,7 @@ class CombinedKeysScreen extends StatelessWidget {
                                   Expanded(
                                     child: Text(
                                       isKo
-                                          ? '무료 슬롯 9/9 꽉참! 지우거나 10년 안심 패스로 99개로 확장하세요 →'
+                                          ? '무료 슬롯 9/9 꽉참! 지우거나 PRO로 99개로 확장하세요 →'
                                           : 'Free slots full (9/9)! Delete one or expand to 99 with Pro →',
                                       style: TextStyle(
                                         color: DokkeyTheme.goldLight,

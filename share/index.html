@@ -55,7 +55,7 @@
     document.querySelector('.badge').textContent = L[0];
     document.querySelector('.cta').textContent = L[2];
 
-    fetch(`../assets/data/locales/${lang}/quotes.json`)
+    fetch(`../web/assets/assets/data/locales/${lang}/quotes.json`)
       .then(r => r.json())
       .then(list => {
         const q = list.find(x => x.id === quoteId) || list[0];

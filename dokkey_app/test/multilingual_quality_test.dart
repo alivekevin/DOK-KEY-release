@@ -35,7 +35,7 @@ void main() {
   };
 
   // 한자 허용 언어 (일본어·중국어는 본래 CJK 사용)
-  bool cjkAllowed(String lang) => lang == 'ja' || lang == 'zh';
+  // bool cjkAllowed(String lang) => lang == 'ja' || lang == 'zh';
 
   void assertNoCjk(dynamic value, String path) {
     if (value is String) {

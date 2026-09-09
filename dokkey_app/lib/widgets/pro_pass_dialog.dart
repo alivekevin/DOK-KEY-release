@@ -4,6 +4,8 @@ import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../providers/dokkey_provider.dart';
 
+/// 👑 DOK-KEY PRO (1년 이용권) — BM v5.0 최종 라인업
+/// '모든 기능 잠금해제 (All-Features Unlocked)' 중심. v5 용어 정비 규칙 준수 (레거시 표현 미사용).
 class ProPassDialog extends StatelessWidget {
   const ProPassDialog({super.key});
 
@@ -28,112 +30,138 @@ class ProPassDialog extends StatelessWidget {
     String feature2Title, feature2Desc;
     String feature3Title, feature3Desc;
     String feature4Title, feature4Desc;
+    String feature5Title, feature5Desc;
+    String pouchTitle, pouchDesc;
     String actionButtonText;
     String alreadyProText;
     String closeText;
 
     switch (lang) {
       case 'ja':
-        title = 'DOK-KEY 10年安心プロパス';
-        subtitle = 'たった1回1,100円で10年間すべてのプレミアム機能を快適に利用';
-        priceText = '¥1,100 / 10年間';
-        priceSub = '年間110円 (月約9円)の圧倒的バリュー';
-        feature1Title = '10年安心クラウドアカウント';
-        feature1Desc = '端末変更や再インストールでも10年間収集データと組合せキーを完全保護';
-        feature2Title = 'カスタム図鑑 99スロット拡張';
-        feature2Desc = '33種×最大99テーマスロット(計3,267枚)の自由入替＆拡張';
-        feature3Title = '組合せ保管箱 99スロット拡張';
-        feature3Desc = '無料版9個の制限解除 → 最大99個の大容量保管';
-        feature4Title = '快適な広告完全非表示';
-        feature4Desc = 'すべての広告を除去し、最速で快適な体験を提供';
-        actionButtonText = '10年安心プロパスを有効化';
-        alreadyProText = 'すでに10年安心プロパスをご利用中です 👑';
+        title = '👑 DOK-KEY PRO (1年プラン)';
+        subtitle = 'すべての機能をアンロック — 月のブレンドコーヒーより安い';
+        priceText = '¥250 / 1年間';
+        priceSub = 'すべての機能のロック解除 (追加料金なし)';
+        feature1Title = '組合せ保管箱 99スロット拡張';
+        feature1Desc = '無料9スロットの制限を解除し、99スロットの大容量保管';
+        feature2Title = 'カスタム図鑑 99テーマ拡張';
+        feature2Desc = '33種×最大99テーマスロット(計3,267枚)の自由入替';
+        feature3Title = ' 부적図鑑 33スロット全開放';
+        feature3Desc = '公式18種の即時コレクション＋MY custom 15スロット開放';
+        feature4Title = '広告完全非表示';
+        feature4Desc = '全ての広告をスキップした快適な体験';
+        feature5Title = '毎日追加ドロー +3回';
+        feature5Desc = '1日1回 → 合計4回のキー回転が毎日可能';
+        pouchTitle = '🗝️ 黄金の鍵10個ポーチ (消耗品)';
+        pouchDesc = '¥120 — 今すぐ回して錬成したい方向けの追加キーパック';
+        actionButtonText = 'PRO を有効化';
+        alreadyProText = 'PRO 利用中 — 全機能アンロック済 👑';
         closeText = '閉じる';
         break;
       case 'zh':
-        title = 'DOK-KEY 10年安心专业通行证';
-        subtitle = '仅需一次付费 ¥68，畅享10年全部高级特权';
-        priceText = '¥68 / 10年';
-        priceSub = '年均仅 ¥6.8 (月均不到 ¥0.6) 的超值体验';
-        feature1Title = '10年安心云端金库';
-        feature1Desc = '更换设备或重装系统，10年内所有钥匙与组合数据安全留存';
-        feature2Title = '自定义图鉴 99卡槽扩展';
-        feature2Desc = '支持33张×最大99主题卡槽(共3,267张)自由替换与扩容';
-        feature3Title = '组合库扩容至99格';
-        feature3Desc = '突破免费版9格限制，尊享99格超大组合空间';
-        feature4Title = '纯净无广告体验';
-        feature4Desc = '彻底去除所有插屏与奖励广告，秒速流畅';
-        actionButtonText = '立即开通 10年安心专业版';
-        alreadyProText = '您已尊享10年安心专业版特权 👑';
+        title = '👑 DOK-KEY 专业版 (1年)';
+        subtitle = '解锁全部功能 — 比一杯咖啡更实惠';
+        priceText = '¥68 / 1年';
+        priceSub = '全部功能一键解锁 (无额外费用)';
+        feature1Title = '组合库 99格大容量扩展';
+        feature1Desc = '解除免费9格限制，尊享99格本地组合空间';
+        feature2Title = '自定义图鉴 99主题扩展';
+        feature2Desc = '33张×最多99主题卡槽(共3,267张)自由替换';
+        feature3Title = ' 符咒图鉴 33格全开放';
+        feature3Desc = '官方18种立即收集＋MY custom 15格全开放';
+        feature4Title = '广告完全移除';
+        feature4Desc = '跳过所有广告，极速清爽体验';
+        feature5Title = '每日追加抽取 +3次';
+        feature5Desc = '每日1次 → 每天共4次转钥匙机会';
+        pouchTitle = '🗝️ 黄金钥匙10个锦囊 (消耗品)';
+        pouchDesc = '¥120 — 想立即抽取与炼成用户的追加钥匙包';
+        actionButtonText = '立即解锁专业版';
+        alreadyProText = '专业版使用中 — 全功能已解锁 👑';
         closeText = '关闭';
         break;
       case 'hi':
-        title = 'DOK-KEY 10-वर्षीय सुरक्षित प्रो पास';
-        subtitle = 'केवल ₹899 में 10 वर्षों के लिए प्रीमियम सुविधाएं';
-        priceText = '₹899 / 10 वर्ष';
-        priceSub = 'प्रति वर्ष मात्र ₹90 का अविश्वसनीय मूल्य';
-        feature1Title = '10-वर्षीय क्लाउड सुरक्षा';
-        feature1Desc = 'डिवाइस बदलने पर भी 10 वर्षों तक सारा डेटा सुरक्षित';
-        feature2Title = '99 कस्टम संग्रह स्लॉट (33×99)';
-        feature2Desc = '33×99 स्लॉट संरचना में कस्टम थीम जोड़ें और बदलें';
-        feature3Title = '99 संयोजन स्लॉट विस्तार';
-        feature3Desc = 'मुफ्त 9 स्लॉट से 99 विशाल संयोजन स्लॉट में अपग्रेड';
-        feature4Title = 'विज्ञापन मुक्त अनुभव';
-        feature4Desc = 'बिना किसी रुकावट के तेज़ और सहज उपयोग';
-        actionButtonText = '10-वर्षीय प्रो पास सक्रिय करें';
-        alreadyProText = 'आप पहले से ही 10-वर्षीय प्रो पास धारक हैं 👑';
+        title = '👑 DOK-KEY प्रो (1 वर्ष प्लान)';
+        subtitle = 'सभी फ़ीचर्स अनलॉक — एक कॉफ़ी से भी सस्ता';
+        priceText = '₹149 / 1 वर्ष';
+        priceSub = 'सभी फ़ीचर्स का वन-टैप अनलॉक (कोई अतिरिक्त शुल्क नहीं)';
+        feature1Title = '99 कंबिनेशन स्लॉट विस्तार';
+        feature1Desc = 'मुफ़्त 9 स्लॉट सीमा हटें — 99 विशाल स्लॉट';
+        feature2Title = 'कस्टम संग्रह 99 थीम विस्तार';
+        feature2Desc = '33×अधिकतम 99 थीम स्लॉट (कुल 3,267 कार्ड) स्वतंत्र उपयोग';
+        feature3Title = ' ताबीज संग्रह 33 स्लॉट पूर्ण खुले';
+        feature3Desc = 'आधिकारिक 18 का तुरंत संग्रह + MY custom 15 स्लॉट खुले';
+        feature4Title = 'विज्ञापन पूर्ण हटाए गए';
+        feature4Desc = 'सभी विज्ञापन छोड़कर तेज़ अनुभव';
+        feature5Title = 'रोज़ाना अतिरिक्त ड्रॉ +3';
+        feature5Desc = 'दिन में 1 → कुल 4 बार की चाबी घुमाव';
+        pouchTitle = '🗝️ गोल्डन की 10 पाउच (उपभोग्य)';
+        pouchDesc = '₹99 — तुरंत घुमाकर संग्रह बढ़ाने वालों के लिए';
+        actionButtonText = 'प्रो अनलॉक करें';
+        alreadyProText = 'PRO सक्रिय — सभी फ़ीचर्स अनलॉक्ड 👑';
         closeText = 'बंद करें';
         break;
       case 'de':
-        title = 'DOK-KEY 10-Jahre-Sicherheitspass';
-        subtitle = 'Einmalig 9,99 € für 10 volle Jahre unbegrenzten Premium-Zugang';
-        priceText = '9,99 € / 10 Jahre';
-        priceSub = 'Nur ~1,00 €/Jahr (~0,08 €/Monat) unglaublicher Wert';
-        feature1Title = '10-Jahre-Cloud-Tresor';
-        feature1Desc = 'Sichere Datensicherung und Synchronisation für 10 volle Jahre';
-        feature2Title = '99-Slot-Kompendium (33×99)';
-        feature2Desc = 'Bis zu 99 Themendecks (je 33 Karten, 3.267 Karten gesamt)';
-        feature3Title = '99 Kombinations-Slots';
-        feature3Desc = 'Upgrade von 9 freien Slots auf 99 geräumige Kombi-Plätze';
-        feature4Title = '100% Werbefreies Erlebnis';
-        feature4Desc = 'Vollkommen werbefrei, blitzschnell und ungestört';
-        actionButtonText = '10-Jahre-Pass aktivieren';
-        alreadyProText = 'Sie nutzen bereits den 10-Jahre-Sicherheitspass 👑';
+        title = '👑 DOK-KEY PRO (1-Jahres-Plan)';
+        subtitle = 'Alle Funktionen freischaltet — günstiger als ein Kaffee';
+        priceText = '1,99 € / 1 Jahr';
+        priceSub = 'Alle Funktionen mit einem Tap freischalten (ohne Zusatzkosten)';
+        feature1Title = '99 Kombinations-Slots';
+        feature1Desc = 'Gratis-Limit von 9 Slots fallen lassen — 99 geräumige Slots';
+        feature2Title = 'Custom-Kodex 99 Themes';
+        feature2Desc = '33 Karten × bis zu 99 Theme-Slots (3.267 Karten) frei tauschbar';
+        feature3Title = ' Talisman-Kodex: alle 33 Slots offen';
+        feature3Desc = '18 offizielle sofort gesammelt + 15 MY-Custom-Slots offen';
+        feature4Title = 'Werbung vollständig entfernt';
+        feature4Desc = 'Alle Werbung überspringen — blitzschnell';
+        feature5Title = 'Täglich +3 Extra-Ziehungen';
+        feature5Desc = '1× pro Tag → insgesamt 4× Schlüsseldrehen';
+        pouchTitle = '🗝️ Goldener Schlüssel-Bundle (10 Stk., Verbrauchsgut)';
+        pouchDesc = '0,99 € — für alle, die sofort drehen und sammeln wollen';
+        actionButtonText = 'PRO freischalten';
+        alreadyProText = 'PRO aktiv — alle Funktionen freigeschaltet 👑';
         closeText = 'Schließen';
         break;
       case 'en':
-        title = 'DOK-KEY 10-Year Safe Pro Pass';
-        subtitle = 'One-time \$9.99 for 10 full years of premium features';
-        priceText = '\$9.99 / 10 Years';
-        priceSub = 'Only ~\$1.00/year (~\$0.08/month) incredible value';
-        feature1Title = '10-Year Safe Cloud Locker';
-        feature1Desc = 'Safe backup & sync across devices for 10 full years';
-        feature2Title = 'Custom Codex 99-Slot Expansion';
-        feature2Desc = 'Expand up to 99 theme slots (33 cards each, 3,267 cards total)';
-        feature3Title = '99 Combined Key Vault Slots';
-        feature3Desc = 'Upgrade from 9 free slots to 99 massive combination slots';
-        feature4Title = '100% Ad-Free Experience';
-        feature4Desc = 'Remove all interstitial and rewarded ads for instant speed';
-        actionButtonText = 'Activate 10-Year Pro Pass';
-        alreadyProText = 'You are already a 10-Year Pro Pass member 👑';
+        title = '👑 DOK-KEY PRO (1-Year Plan)';
+        subtitle = 'All-Features Unlocked — cheaper than a cup of coffee';
+        priceText = '\$1.99 / 1 Year';
+        priceSub = 'All-Features Unlocked with one tap (no extra fees)';
+        feature1Title = '99 Combined Vault Slots';
+        feature1Desc = 'Drop the free 9-slot limit — 99 massive local slots';
+        feature2Title = 'Custom Codex 99 Themes';
+        feature2Desc = '33 cards × up to 99 theme slots (3,267 cards total), freely swappable';
+        feature3Title = ' Talisman Codex: all 33 slots open';
+        feature3Desc = 'Official 18 instantly collected + 15 MY custom slots open';
+        feature4Title = '100% Ads Removed';
+        feature4Desc = 'Skip all ads for a fast, clean experience';
+        feature5Title = 'Daily Extra Draws +3';
+        feature5Desc = '1 per day → 4 total key spins every day';
+        pouchTitle = '🗝️ Golden Key Pouch ×10 (Consumable)';
+        pouchDesc = '\$0.99 — for those who want to spin and collect right now';
+        actionButtonText = 'Unlock PRO';
+        alreadyProText = 'PRO Active — All-Features Unlocked 👑';
         closeText = 'Close';
         break;
       case 'ko':
       default:
-        title = 'DOK-KEY 10년 안심 프로 패스';
-        subtitle = '단 1회 10,000원으로 10년간 모든 프리미엄 기능을 안심 이용';
-        priceText = '₩10,000 / 10년 이용권';
-        priceSub = '연 1,000원꼴 (월 83원)의 압도적 가성비';
-        feature1Title = '10년 안심 클라우드 락커';
-        feature1Desc = '기기 변경·재설치 시에도 10년간 열쇠와 조합 데이터 100% 안전 보관';
-        feature2Title = '커스텀 도감 99슬롯 확장 (33×99)';
-        feature2Desc = '테마당 33종 × 최대 99개 슬롯(총 3,267장) 지원 및 자유 교체';
-        feature3Title = '조합 보관함 99슬롯 확장';
-        feature3Desc = '무료 9개 제한 해제 → 최대 99개 대용량 조합 키 보관';
-        feature4Title = '완벽한 광고 제거 (Ad-Free)';
-        feature4Desc = '전면 및 보상형 광고 없이 쾌적하고 빠른 이용 환경';
-        actionButtonText = '10년 안심 프로 패스 활성화';
-        alreadyProText = '이미 10년 안심 프로 패스를 이용 중입니다 👑';
+        title = '👑 DOK-KEY PRO (1년 이용권)';
+        subtitle = '모든 기능 잠금해제 — 커피 한 잔보다 저렴하게';
+        priceText = '₩2,500 / 1년';
+        priceSub = '모든 기능 잠금해제 (추가 결제 없음)';
+        feature1Title = '조합 보관함 99슬롯 대용량 확장';
+        feature1Desc = '무료 9슬롯 한도 해제 → 99슬롯 대용량 로컬 보관';
+        feature2Title = '커스텀 도감 99테마 확장';
+        feature2Desc = '테마당 33종 × 최대 99슬롯(총 3,267장) 자유 교체';
+        feature3Title = ' 부적 도감 33슬롯 전체 개방';
+        feature3Desc = '공식 18종 즉시 수집 + MY 커스텀 15슬롯 완전 개방';
+        feature4Title = '광고 100% 제거';
+        feature4Desc = '전면·배너 광고 없이 빠르고 쾌적한 실행';
+        feature5Title = '매일 데일리 추가 뽑기 +3회';
+        feature5Desc = '하루 1회 → 하루 총 4회 열쇠 돌리기';
+        pouchTitle = '🗝️ 황금 열쇠 10개 주머니 (소모품)';
+        pouchDesc = '₩1,200 — 지금 바로 돌리고 모으고 싶은 분께';
+        actionButtonText = 'PRO 잠금해제';
+        alreadyProText = 'PRO 이용 중 — 모든 기능 잠금해제 👑';
         closeText = '닫기';
         break;
     }
@@ -161,7 +189,7 @@ class ProPassDialog extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              // Pro Crown Icon & Badge
+              // Crown Icon
               Center(
                 child: Container(
                   padding: const EdgeInsets.all(14),
@@ -184,7 +212,6 @@ class ProPassDialog extends StatelessWidget {
               ),
               const SizedBox(height: 12),
 
-              // Title
               Text(
                 title,
                 textAlign: TextAlign.center,
@@ -203,7 +230,7 @@ class ProPassDialog extends StatelessWidget {
               ),
               const SizedBox(height: 16),
 
-              // Price Box
+              // Price Box — 1년 이용권
               Container(
                 padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 16),
                 decoration: BoxDecoration(
@@ -217,8 +244,8 @@ class ProPassDialog extends StatelessWidget {
                       priceText,
                       style: const TextStyle(
                         color: Colors.amber,
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
+                        fontSize: 19,
+                        fontWeight: FontWeight.w900,
                       ),
                     ),
                     const SizedBox(height: 2),
@@ -229,17 +256,56 @@ class ProPassDialog extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(height: 16),
+              const SizedBox(height: 14),
 
-              // 4 Benefits
-              _buildBenefitRow(Icons.cloud_done_rounded, feature1Title, feature1Desc),
-              const SizedBox(height: 10),
+              // 5 Benefits (All-Features Unlocked)
+              _buildBenefitRow(Icons.inventory_2_rounded, feature1Title, feature1Desc),
+              const SizedBox(height: 9),
               _buildBenefitRow(Icons.palette_rounded, feature2Title, feature2Desc),
-              const SizedBox(height: 10),
+              const SizedBox(height: 9),
               _buildBenefitRow(Icons.grid_view_rounded, feature3Title, feature3Desc),
-              const SizedBox(height: 10),
+              const SizedBox(height: 9),
               _buildBenefitRow(Icons.block_rounded, feature4Title, feature4Desc),
-              const SizedBox(height: 20),
+              const SizedBox(height: 9),
+              _buildBenefitRow(Icons.add_circle_outline_rounded, feature5Title, feature5Desc),
+              const SizedBox(height: 14),
+
+              // 🗝️ 황금 열쇠 10개 주머니 (소모품 안내)
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: DokkeyTheme.surfaceDark,
+                  borderRadius: BorderRadius.circular(14),
+                  border: Border.all(color: DokkeyTheme.borderDark),
+                ),
+                child: Row(
+                  children: [
+                    const Text('🗝️', style: TextStyle(fontSize: 20)),
+                    const SizedBox(width: 10),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            pouchTitle,
+                            style: TextStyle(
+                              color: DokkeyTheme.textMain,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 12,
+                            ),
+                          ),
+                          const SizedBox(height: 2),
+                          Text(
+                            pouchDesc,
+                            style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10.5),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 16),
 
               // Activation / Status Button
               if (isPro)
@@ -271,8 +337,8 @@ class ProPassDialog extends StatelessWidget {
                         SnackBar(
                           content: Text(
                             lang == 'ko'
-                                ? '🎉 10년 안심 프로 패스가 활성화되었습니다! 99개 조합 슬롯이 개방되었습니다.'
-                                : '🎉 10-Year Safe Pro Pass Activated!',
+                                ? '🎉 PRO가 잠금해제되었습니다! 99개 조합 슬롯과 부적 33슬롯이 열렸습니다.'
+                                : '🎉 PRO Unlocked! 99 vault slots & talisman codex are open.',
                           ),
                           backgroundColor: DokkeyTheme.surfaceDark,
                         ),

@@ -12,6 +12,7 @@ import '../core/widget_service.dart';
 import '../core/codex_service.dart';
 import '../core/notification_service.dart';
 import '../core/sound_service.dart';
+import '../models/talisman_model.dart';
 import '../core/source_number_manager.dart';
 import '../core/key_combiner_engine.dart';
 import '../core/ttl_manager.dart';
@@ -61,7 +62,7 @@ class DokkeyProvider extends ChangeNotifier {
   List<SourceNumberItem> _sourceNumbers = [];
   List<SourceNumberItem> get sourceNumbers => _sourceNumbers;
 
-  // --- Monetization & Pro Pass (10-Year Safe Pass) ---
+  // --- Monetization & Pro Pass (99-Slot Expansion & Ad-Free) ---
   bool _isProUser = false;
   bool get isProUser => _isProUser;
   static const int maxFreeCombinedSlots = 9;
@@ -73,7 +74,7 @@ class DokkeyProvider extends ChangeNotifier {
     _isProUser = true;
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('dokkey_is_pro_user', true);
-    // 기존 7일 유효 키를 10년 안심 보관으로 일괄 승격
+    // 프로 패스 활성화 시 만료 제한 해제 (장기 보관)
     final newExpiry = DateTime.now().add(proKeyTtl);
     for (final key in _combinedKeys) {
       if (key.expiresAt != null && key.expiresAt!.isBefore(newExpiry)) {
@@ -95,8 +96,12 @@ class DokkeyProvider extends ChangeNotifier {
   // --- v4.7.0: 명언 북마크 (마음에 저장) ---
   Set<String> _bookmarkedQuoteIds = {};
   Set<String> get bookmarkedQuoteIds => _bookmarkedQuoteIds;
-
   bool isQuoteBookmarked(String id) => _bookmarkedQuoteIds.contains(id);
+
+  List<QuoteModel> get bookmarkedQuotes {
+    final all = _engine.getAllQuotes(_lang);
+    return all.where((q) => _bookmarkedQuoteIds.contains(q.id)).toList();
+  }
 
   Future<void> bookmarkQuote(String id) async {
     if (!_bookmarkedQuoteIds.add(id)) {
@@ -106,6 +111,32 @@ class DokkeyProvider extends ChangeNotifier {
     await prefs.setStringList('pref_bookmark_quotes', _bookmarkedQuoteIds.toList());
     notifyListeners();
   }
+
+  // --- v4.7.1: 18종 부적 수집 (100% 온디바이스 저장) ---
+  Set<String> _issuedTalismanIds = {};
+  Set<String> get issuedTalismanIds => _issuedTalismanIds;
+
+  bool isTalismanCollected(String talismanId) =>
+      _issuedTalismanIds.contains(talismanId);
+
+  int get talismanCollectionCount => _issuedTalismanIds.length;
+
+  /// 명언 획득 시 키워드·감정·시간대에 맞춰 부적 1:1 자동 발급 (신규 발급 시 true)
+  Future<bool> issueTalismanForText(String text, {String? emotion}) async {
+    final item = TalismanRegistry.matchTalisman(text, emotion: emotion);
+    if (_issuedTalismanIds.contains(item.id)) return false;
+    _issuedTalismanIds.add(item.id);
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('pref_issued_talismans', _issuedTalismanIds.toList());
+    notifyListeners();
+    return true;
+  }
+
+  /// BM v5: PRO는 전면/보상형 광고 100% 제거
+  bool get adFreeExperience => _isProUser;
+
+  /// BM v5: PRO는 데일리 추가 뽑기 +3 (하루 총 4회)
+  int get dailyDrawQuota => _isProUser ? 4 : 1;
 
   // --- PHASE 5/6: 이벤트 숫자 수집 & 도감 완성 업적 ---
   Set<String> _collectedNumbers = {}; // "1" ~ "66" (도감 정례 카드와 1:1 매핑)
@@ -390,6 +421,10 @@ class DokkeyProvider extends ChangeNotifier {
     final claimedMilestonesRaw = prefs.getStringList('pref_claimed_streak_milestones') ?? [];
     _claimedStreakMilestones = claimedMilestonesRaw.map((s) => int.tryParse(s) ?? 0).where((m) => m > 0).toSet();
 
+    // v4.7.0: Saved / Bookmarked Quotes
+    final bookmarkedQuotesRaw = prefs.getStringList('pref_bookmark_quotes') ?? [];
+    _bookmarkedQuoteIds = bookmarkedQuotesRaw.toSet();
+
     // Check today draw & reset daily count if new date
     final todayStr = DateFormat('yyyy-MM-dd').format(DateTime.now());
 
@@ -415,7 +450,9 @@ class DokkeyProvider extends ChangeNotifier {
       }
     } else {
       _drawCountToday = 0;
-      if (_keys < 1) _keys = 1;
+      // v4.7.1 BM: 무료 하루 1회 / PRO 하루 총 4회 (데일리 추가 뽑기 +3)
+      _keys = _isProUser ? 4 : 1;
+      await prefs.setInt('pref_keys', _keys);
       await prefs.setInt('pref_draw_count_today', 0);
 
       // 어제도 안 들어왔고 오늘 처음 온 경우 스트릭 리셋 검사
@@ -454,6 +491,10 @@ class DokkeyProvider extends ChangeNotifier {
         luckyNumber: todayGoldLuckyNumber.toString().padLeft(2, '0'),
       );
     }
+
+    // v4.7.1: 부적 수집 로드 (18종)
+    _issuedTalismanIds =
+        (prefs.getStringList('pref_issued_talismans') ?? []).toSet();
 
     // Real morning notification scheduling (native only)
     await _notifications.initialize();
@@ -599,6 +640,13 @@ class DokkeyProvider extends ChangeNotifier {
     _unlockedCardIds.add(result.card.id);
     await prefs.setStringList('pref_unlocked_cards', _unlockedCardIds.toList());
     await prefs.setString('pref_today_result', json.encode(result.toJson()));
+
+    // v4.7.1: 드로우 결과의 기운에 맞춰 18종 부적 1:1 자동 발급 & 도감 수집
+    await issueTalismanForText(
+      '${result.headline} ${result.body} ${result.card.name}',
+      emotion: result.tone.id,
+    );
+
     notifyListeners();
     return result;
   }
@@ -806,6 +854,12 @@ class DokkeyProvider extends ChangeNotifier {
     await prefs.setStringList('pref_unlocked_cards', _unlockedCardIds.toList());
     await CodexService().unlockNumber(result.number);
 
+    // 1.5 v4.7.1: 18종 부적 1:1 자동 발급 & 도감 수집 (100% 온디바이스)
+    await issueTalismanForText(
+      '${result.headline} ${result.body} ${result.card.name}',
+      emotion: result.tone.id,
+    );
+
     // 2. Save to daily history archive (max 365 days, deduplicated by dateStr)
     _archive.removeWhere((a) => a.dateStr == result.dateStr);
     _archive.insert(0, result);
@@ -973,7 +1027,7 @@ class DokkeyProvider extends ChangeNotifier {
 
   // --- N-Key Combiner Operations ---
 
-  /// 무료: 7일 TTL 자동 만료 순환 / Pro: 10년 안심 고정 보관
+  /// 무료: 7일 TTL 자동 만료 순환 / Pro: 장기 고정 보관
   static const Duration freeKeyTtl = Duration(days: 7);
   static const Duration proKeyTtl = Duration(days: 3650);
 
@@ -1015,7 +1069,7 @@ class DokkeyProvider extends ChangeNotifier {
     final newKey = KeyCombinerEngine.createCombinedKeyItem(
       numbers: combinedNumbers,
       userTag: userTag,
-      ttl: combinedKeyTtl, // 무료 7일 순환 / Pro 10년 안심 고정
+      ttl: combinedKeyTtl, // 무료 7일 순환 / Pro 장기 고정
     );
 
     _combinedKeys.insert(0, newKey);
@@ -1033,7 +1087,7 @@ class DokkeyProvider extends ChangeNotifier {
     if (index != -1) {
       final key = _combinedKeys[index];
       if (key.isPermanent) {
-        // 잠금 해제 시 등급별 보관 기간 복원 (무료 7일 / Pro 10년)
+        // 잠금 해제 시 등급별 보관 기간 복원 (무료 7일 / Pro 장기)
         key.expiresAt = DateTime.now().add(combinedKeyTtl);
       } else {
         key.expiresAt = null;
@@ -1059,7 +1113,7 @@ class DokkeyProvider extends ChangeNotifier {
   }
 
   /// 만료된 키 + 무료 등급에서 7일이 지난 오래된 키를 포함해 일괄 정리
-  /// (Pro의 10년 안심 키는 만료 전이므로 보존됨)
+  /// (Pro의 장기 보관 키는 만료 전이므로 보존됨)
   Future<int> clearStaleCombinedKeys() async {
     final now = DateTime.now();
     final before = _combinedKeys.length;

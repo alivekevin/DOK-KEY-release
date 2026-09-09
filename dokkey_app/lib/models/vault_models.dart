@@ -55,7 +55,7 @@ class SourceNumberItem {
 class CombinedKeyItem {
   final String id; // UUID
   final DateTime createdAt;
-  DateTime? expiresAt; // 기본: createdAt + 7일, 10년 안심 보관 시 null
+  DateTime? expiresAt; // 기본: createdAt + 7일, PRO 장기 보관 시 null
   final int targetCount; // N자리 (2 <= N <= Max)
   final List<String> numbers; // ["07", "14", "28", "42"]
   String? userTag; // 유저 메모

@@ -81,7 +81,7 @@ class CombinedKeyItemWidget extends StatelessWidget {
                   ),
                   child: Text(
                     provider.lang == 'ko'
-                        ? '10년 보관'
+                        ? '장기 보관'
                         : (provider.lang == 'ja'
                             ? '10年保管'
                             : (provider.lang == 'zh'
@@ -126,7 +126,7 @@ class CombinedKeyItemWidget extends StatelessWidget {
                 ),
                 color: item.isPermanent ? DokkeyTheme.gold : DokkeyTheme.textMuted,
                 tooltip: provider.lang == 'ko'
-                    ? (item.isPermanent ? '10년 보관 해제' : '10년 안심 보관 고정')
+                    ? (item.isPermanent ? '장기 보관 해제' : '장기 보관 고정')
                     : (provider.lang == 'ja'
                         ? (item.isPermanent ? '10年保管解除' : '10年安心保管固定')
                         : (provider.lang == 'zh'

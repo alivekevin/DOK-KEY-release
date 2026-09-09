@@ -4,16 +4,14 @@ import 'package:provider/provider.dart';
 import '../core/daily_quote_engine.dart';
 import '../core/sound_service.dart';
 import '../core/theme.dart';
-import '../models/dokkey_models.dart';
 import '../providers/dokkey_provider.dart';
 import 'kkaebi_3d_mascot_widget.dart';
 import 'quote_poster_dialog.dart';
 import 'screen_emotion_fx_overlay.dart';
 
-/// 📜 1순위: 오늘의 명언 히어로 카드 (v4.7.2)
-/// - 1줄 (헤더): 오늘의 명언 뱃지
-/// - 2줄 (본문): 좌측 3D 턴테이블 깨비 + 우측 3줄 텍스트 (1. 명언 / 2. 저자<출처> / 3. 깨비의 한마디)
-/// - 3줄 (하단): [마음에 저장] [부적카드 공유] 액션 버튼
+/// 📜 1순위: 컴팩트 오늘의 명언 티커 (v4.7.1)
+/// 약 124dp 골드 글래스 카드 — 좌측 미니 3D 깨비 / 중앙 선명한 명언 2줄+저자 / 우측 미니 액션 3종.
+/// 카드 탭 시 부적 카드 상세 팝업이 열린다.
 class QuoteHeroSection extends StatelessWidget {
   const QuoteHeroSection({super.key});
 
@@ -60,29 +58,29 @@ class QuoteHeroSection extends StatelessWidget {
       ),
       builder: (sheetCtx) => SafeArea(
         child: Padding(
-          padding: const EdgeInsets.all(20),
+          padding: const EdgeInsets.all(18),
           child: Column(
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Row(
                 children: [
-                  Icon(Icons.theater_comedy_rounded, color: DokkeyTheme.gold, size: 22),
+                  Icon(Icons.theater_comedy_rounded, color: DokkeyTheme.gold, size: 20),
                   const SizedBox(width: 8),
                   Text(
                     '깨비 감정 쇼케이스 (8대 감정 FX)',
                     style: TextStyle(
                       color: DokkeyTheme.goldLight,
                       fontWeight: FontWeight.bold,
-                      fontSize: 16,
+                      fontSize: 15,
                     ),
                   ),
                 ],
               ),
-              const SizedBox(height: 14),
+              const SizedBox(height: 12),
               Wrap(
-                spacing: 10,
-                runSpacing: 10,
+                spacing: 8,
+                runSpacing: 8,
                 children: _showcase.map((e) {
                   return OutlinedButton(
                     onPressed: () {
@@ -95,15 +93,15 @@ class QuoteHeroSection extends StatelessWidget {
                       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                     ),
-                    child: Text(e.$3, style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600)),
+                    child: Text(e.$3, style: const TextStyle(fontSize: 12.5)),
                   );
                 }).toList(),
               ),
-              const SizedBox(height: 10),
+              const SizedBox(height: 8),
               Center(
                 child: Text(
                   '선택한 감정에 따라 화면 전체 풀스크린 Canvas 이펙트가 재생됩니다',
-                  style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
+                  style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10.5),
                 ),
               ),
             ],
@@ -139,234 +137,180 @@ class QuoteHeroSection extends StatelessWidget {
                 ? '今日名言'
                 : (isHi ? 'आज का सुवचन' : (isDe ? 'Tageszitat' : "Today's Quote"))));
 
-    final saveText = isBookmarked
-        ? (isKo ? '저장됨' : (isJa ? '保存済' : 'Saved'))
-        : (isKo ? '마음에 저장' : (isJa ? '心に保存' : (isZh ? '珍藏' : (isHi ? 'सहेजें' : (isDe ? 'Merken' : 'Bookmark')))));
-
-    final shareText = isKo
-        ? '부적카드'
-        : (isJa
-            ? '御守カード'
-            : (isZh ? '神符卡片' : (isHi ? 'ताबीज कार्ड' : (isDe ? 'Talisman' : 'Amulet Card'))));
-
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [
-            const Color(0xFF281F10),
-            DokkeyTheme.cardDark,
-            DokkeyTheme.surfaceDark,
+    return GestureDetector(
+      onTap: () => QuotePosterDialog.show(context, quote),
+      child: Container(
+        height: 124,
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              const Color(0xFF2A2214),
+              DokkeyTheme.cardDark,
+              DokkeyTheme.cardDark,
+            ],
+          ),
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.8), width: 1.5),
+          boxShadow: [
+            BoxShadow(
+              color: DokkeyTheme.gold.withValues(alpha: 0.16),
+              blurRadius: 18,
+              spreadRadius: 1,
+            ),
           ],
         ),
-        borderRadius: BorderRadius.circular(24),
-        border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.75), width: 1.6),
-        boxShadow: [
-          BoxShadow(
-            color: DokkeyTheme.gold.withValues(alpha: 0.16),
-            blurRadius: 22,
-            spreadRadius: 1,
-            offset: const Offset(0, 4),
-          ),
-        ],
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          // 1줄 (헤더): [오늘의 명언] 아이콘 및 타이틀 바
-          Row(
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                decoration: BoxDecoration(
-                  gradient: LinearGradient(
-                    colors: [
-                      DokkeyTheme.gold.withValues(alpha: 0.3),
-                      DokkeyTheme.dokFire.withValues(alpha: 0.2),
-                    ],
-                  ),
-                  borderRadius: BorderRadius.circular(12),
-                  border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.6)),
-                ),
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 14),
-                    const SizedBox(width: 6),
-                    Text(
-                      headerTitle,
-                      style: TextStyle(
-                        color: DokkeyTheme.goldLight,
-                        fontWeight: FontWeight.w900,
-                        fontSize: 12,
-                        letterSpacing: 0.8,
-                      ),
-                    ),
-                  ],
-                ),
+        child: Row(
+          children: [
+            // 좌측: 미니 3D 깨비 (감정 동기화 & 360도 턴테이블)
+            SizedBox(
+              width: 64,
+              height: 72,
+              child: Kkaebi3DMascotWidget(
+                size: 62,
+                initialEmotion: fxEmotion,
+                enableInteraction: false,
+                enableAutoFloat: true,
               ),
-              const Spacer(),
-              // 8대 감정 쇼케이스 미니 버튼
-              GestureDetector(
-                onTap: () => _showEmotionShowcase(context),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                  decoration: BoxDecoration(
-                    color: DokkeyTheme.cardDark,
-                    borderRadius: BorderRadius.circular(10),
-                    border: Border.all(color: DokkeyTheme.borderDark),
-                  ),
-                  child: Row(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      const Text('🎭', style: TextStyle(fontSize: 12)),
-                      const SizedBox(width: 4),
-                      Text(
-                        isKo ? '감정 리액션' : 'FX',
-                        style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10.5, fontWeight: FontWeight.bold),
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 12),
+            ),
+            const SizedBox(width: 10),
 
-          // 2줄 (본문): 좌측 3D 캐릭터 + 우측 3줄 텍스트 스택
-          Row(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
-              // 좌측: 3D 인터랙티브 깨비 마스코트 (360도 턴테이블)
-              SizedBox(
-                width: 90,
-                height: 98,
-                child: Kkaebi3DMascotWidget(
-                  size: 88,
-                  initialEmotion: fxEmotion,
-                  enableInteraction: true,
-                  enableAutoFloat: true,
-                ),
-              ),
-              const SizedBox(width: 14),
-
-              // 우측: 3줄 형식 (1. 명언 / 2. 저자<출처> / 3. 깨비의 한마디)
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    // 1) 명언 본문
-                    Text(
-                      '“${quote.text}”',
-                      style: TextStyle(
-                        color: DokkeyTheme.textMain,
-                        fontSize: 14.5,
-                        fontWeight: FontWeight.bold,
-                        height: 1.38,
-                        letterSpacing: -0.2,
-                      ),
-                      maxLines: 3,
-                      overflow: TextOverflow.ellipsis,
+            // 중앙: 선명한 [오늘의 명언] 뱃지 + 명언 2줄 + 저자
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  // 상단: 선명한 골드 뱃지
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: DokkeyTheme.gold.withValues(alpha: 0.22),
+                      borderRadius: BorderRadius.circular(6),
+                      border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.6), width: 0.8),
                     ),
-                    const SizedBox(height: 5),
-
-                    // 2) 저자 <출처>
-                    Text(
-                      '- ${quote.authorLabel}',
-                      style: TextStyle(
-                        color: DokkeyTheme.gold,
-                        fontSize: 11.5,
-                        fontWeight: FontWeight.w600,
-                      ),
-                      maxLines: 1,
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                    const SizedBox(height: 6),
-
-                    // 3) 깨비의 한마디
-                    Container(
-                      width: double.infinity,
-                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                      decoration: BoxDecoration(
-                        color: DokkeyTheme.bgDark.withValues(alpha: 0.6),
-                        borderRadius: BorderRadius.circular(10),
-                        border: Border.all(color: DokkeyTheme.borderDark.withValues(alpha: 0.8)),
-                      ),
-                      child: Text(
-                        '💬 ${quote.kkaebiComment}',
-                        style: TextStyle(
-                          color: DokkeyTheme.goldLight,
-                          fontSize: 11,
-                          height: 1.35,
-                          fontStyle: FontStyle.italic,
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 12),
+                        const SizedBox(width: 4),
+                        Text(
+                          headerTitle,
+                          style: TextStyle(
+                            color: DokkeyTheme.goldLight,
+                            fontWeight: FontWeight.w900,
+                            fontSize: 11,
+                            letterSpacing: 0.6,
+                          ),
                         ),
-                        maxLines: 2,
-                        overflow: TextOverflow.ellipsis,
-                      ),
+                      ],
                     ),
-                  ],
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 14),
-
-          // 3줄 (하단 액션 버튼): [마음에 저장] [부적카드 공유]
-          Row(
-            children: [
-              Expanded(
-                child: OutlinedButton.icon(
-                  onPressed: () async {
-                    await provider.bookmarkQuote(quote.id);
-                    if (!isBookmarked) SoundService().playSuccessChime();
-                  },
-                  icon: Icon(
-                    isBookmarked ? Icons.favorite_rounded : Icons.favorite_border_rounded,
-                    color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.goldLight,
-                    size: 16,
                   ),
-                  label: Text(
-                    saveText,
+                  const SizedBox(height: 5),
+                  // 명언 본문
+                  Text(
+                    '“${quote.text}”',
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.goldLight,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 12.5,
+                      color: DokkeyTheme.textMain,
+                      fontSize: 13.5,
+                      height: 1.35,
+                      fontWeight: FontWeight.w700,
+                      letterSpacing: -0.2,
                     ),
                   ),
-                  style: OutlinedButton.styleFrom(
-                    side: BorderSide(
-                      color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.gold.withValues(alpha: 0.6),
+                  const SizedBox(height: 3),
+                  // 저자 / 출처
+                  Text(
+                    '- ${quote.authorLabel}',
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      color: DokkeyTheme.gold,
+                      fontSize: 11,
+                      fontWeight: FontWeight.w600,
                     ),
-                    padding: const EdgeInsets.symmetric(vertical: 10),
-                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                   ),
-                ),
+                ],
               ),
-              const SizedBox(width: 10),
-              Expanded(
-                child: ElevatedButton.icon(
-                  onPressed: () {
+            ),
+            const SizedBox(width: 8),
+
+            // 우측: 3개 미니 액션 아이콘 (부적공유 / 북마크저장 / 감정FX)
+            Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                _MiniIcon(
+                  icon: Icons.ios_share_rounded,
+                  tooltip: isKo ? '부적카드 공유' : 'Share Amulet',
+                  onTap: () {
                     SoundService().playSuccessChime();
                     QuotePosterDialog.show(context, quote);
                   },
-                  icon: const Icon(Icons.ios_share_rounded, size: 16),
-                  label: Text(
-                    shareText,
-                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5),
-                  ),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: DokkeyTheme.gold,
-                    foregroundColor: DokkeyTheme.bgDark,
-                    padding: const EdgeInsets.symmetric(vertical: 10),
-                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                  ),
                 ),
+                const SizedBox(height: 6),
+                _MiniIcon(
+                  icon: isBookmarked ? Icons.favorite_rounded : Icons.favorite_border_rounded,
+                  color: isBookmarked ? DokkeyTheme.dokFire : DokkeyTheme.goldLight,
+                  tooltip: isBookmarked ? (isKo ? '저장됨' : 'Saved') : (isKo ? '마음에 저장' : 'Bookmark'),
+                  onTap: () async {
+                    await provider.bookmarkQuote(quote.id);
+                    if (!isBookmarked) SoundService().playSuccessChime();
+                  },
+                ),
+                const SizedBox(height: 6),
+                _MiniIcon(
+                  icon: Icons.theater_comedy_rounded,
+                  tooltip: isKo ? '감정 리액션' : 'Emotion FX',
+                  onTap: () => _showEmotionShowcase(context),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _MiniIcon extends StatelessWidget {
+  final IconData icon;
+  final VoidCallback onTap;
+  final Color color;
+  final String tooltip;
+
+  const _MiniIcon({
+    required this.icon,
+    required this.onTap,
+    this.color = const Color(0xFFD4AF37),
+    this.tooltip = '',
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Tooltip(
+      message: tooltip,
+      child: GestureDetector(
+        onTap: onTap,
+        child: Container(
+          width: 30,
+          height: 30,
+          decoration: BoxDecoration(
+            shape: BoxShape.circle,
+            color: DokkeyTheme.surfaceDark,
+            border: Border.all(color: color.withValues(alpha: 0.6), width: 1.1),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.black.withValues(alpha: 0.3),
+                blurRadius: 4,
               ),
             ],
           ),
-        ],
+          child: Icon(icon, size: 15, color: color),
+        ),
       ),
     );
   }
