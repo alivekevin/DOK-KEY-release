@@ -1,0 +1,182 @@
+{
+  "rat": {
+    "name": "Rat",
+    "symbol": "Agility & Sharp Wit (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Rat führt dich zu Klarheit und Erfolg."
+  },
+  "ox": {
+    "name": "Ox",
+    "symbol": "Steadfastness & Quiet Endurance (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Ox führt dich zu Klarheit und Erfolg."
+  },
+  "tiger": {
+    "name": "Tiger",
+    "symbol": "Courage & Decisiveness (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Tiger führt dich zu Klarheit und Erfolg."
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "symbol": "Swiftness & Flexible Leaps (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Rabbit führt dich zu Klarheit und Erfolg."
+  },
+  "dragon": {
+    "name": "Dragon",
+    "symbol": "Ascension & Grand Transformation (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Dragon führt dich zu Klarheit und Erfolg."
+  },
+  "snake": {
+    "name": "Snake",
+    "symbol": "Wisdom & Metamorphosis (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Snake führt dich zu Klarheit und Erfolg."
+  },
+  "horse": {
+    "name": "Horse",
+    "symbol": "Freedom & Boundless Sprint (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Horse führt dich zu Klarheit und Erfolg."
+  },
+  "sheep": {
+    "name": "Sheep",
+    "symbol": "Gentleness & Harmonious Grace (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Sheep führt dich zu Klarheit und Erfolg."
+  },
+  "monkey": {
+    "name": "Monkey",
+    "symbol": "Versatility & Playful Ingenuity (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Monkey führt dich zu Klarheit und Erfolg."
+  },
+  "rooster": {
+    "name": "Rooster",
+    "symbol": "Foresight & Dawn's Awakening (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Rooster führt dich zu Klarheit und Erfolg."
+  },
+  "dog": {
+    "name": "Dog",
+    "symbol": "Loyalty & Deep Trust (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Dog führt dich zu Klarheit und Erfolg."
+  },
+  "pig": {
+    "name": "Pig",
+    "symbol": "Abundance & Plentiful Harvest (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Pig führt dich zu Klarheit und Erfolg."
+  },
+  "moon_jar": {
+    "name": "Moon Jar",
+    "symbol": "Aesthetics of Emptiness & Embrace (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Moon Jar führt dich zu Klarheit und Erfolg."
+  },
+  "inkstone": {
+    "name": "Inkstone",
+    "symbol": "Deep Contemplation & Quiet Readiness (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Inkstone führt dich zu Klarheit und Erfolg."
+  },
+  "bamboo_flute": {
+    "name": "Bamboo Flute",
+    "symbol": "Resonant Melody & Soulful Waves (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Bamboo Flute führt dich zu Klarheit und Erfolg."
+  },
+  "folding_fan": {
+    "name": "Folding Fan",
+    "symbol": "Flexible Adaptation & Shifting Winds (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Folding Fan führt dich zu Klarheit und Erfolg."
+  },
+  "brass_bell": {
+    "name": "Wind Chime",
+    "symbol": "Mindful Alertness & Clear Awakening (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Wind Chime führt dich zu Klarheit und Erfolg."
+  },
+  "wooden_comb": {
+    "name": "Wooden Comb",
+    "symbol": "Order & Untangling Tangles (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Wooden Comb führt dich zu Klarheit und Erfolg."
+  },
+  "lotus_lamp": {
+    "name": "Lotus Lantern",
+    "symbol": "Beacon of Hope in the Dark (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Lotus Lantern führt dich zu Klarheit und Erfolg."
+  },
+  "jade_ring": {
+    "name": "Jade Ring",
+    "symbol": "Everlasting Promise & Noble Integrity (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Jade Ring führt dich zu Klarheit und Erfolg."
+  },
+  "tea_bowl": {
+    "name": "Tea Bowl",
+    "symbol": "Mindful Pause & Shared Warmth (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Tea Bowl führt dich zu Klarheit und Erfolg."
+  },
+  "silk_pouch": {
+    "name": "Fortune Pouch",
+    "symbol": "Hidden Opportunity & Good Fortune (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Fortune Pouch führt dich zu Klarheit und Erfolg."
+  },
+  "wooden_fish": {
+    "name": "Wooden Moktak",
+    "symbol": "Awakened Presence & Focus (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Wooden Moktak führt dich zu Klarheit und Erfolg."
+  },
+  "cloud_pillow": {
+    "name": "Cloud Pillow",
+    "symbol": "Sweet Rest & Incubation of Dreams (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Cloud Pillow führt dich zu Klarheit und Erfolg."
+  },
+  "dokkaebi_fire": {
+    "name": "Dokkaebi Fire",
+    "symbol": "Flickering Inspiration & Whimsy (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Dokkaebi Fire führt dich zu Klarheit und Erfolg."
+  },
+  "dokkaebi_club": {
+    "name": "Magic Club",
+    "symbol": "Manifestation & Creative Power (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Magic Club führt dich zu Klarheit und Erfolg."
+  },
+  "mountain_spirit": {
+    "name": "Mountain Sage",
+    "symbol": "Grand Perspective & Foresight (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Mountain Sage führt dich zu Klarheit und Erfolg."
+  },
+  "cloud_hermit": {
+    "name": "Cloud Hermit",
+    "symbol": "Detachment & Free Wandering (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Cloud Hermit führt dich zu Klarheit und Erfolg."
+  },
+  "water_sprite": {
+    "name": "Water Sprite",
+    "symbol": "Transparent Emotion & Adaptability (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Water Sprite führt dich zu Klarheit und Erfolg."
+  },
+  "wind_child": {
+    "name": "Wind Child",
+    "symbol": "Breezy News & Refreshing Shifts (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Wind Child führt dich zu Klarheit und Erfolg."
+  },
+  "star_weaver": {
+    "name": "Star Weaver",
+    "symbol": "Weaving Fates & Quiet Patience (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Star Weaver führt dich zu Klarheit und Erfolg."
+  },
+  "shadow_walker": {
+    "name": "Shadow Walker",
+    "symbol": "Hidden Support & Tactical Prudence (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Shadow Walker führt dich zu Klarheit und Erfolg."
+  },
+  "flower_fairy": {
+    "name": "Flower Sprite",
+    "symbol": "Gentle Charms & Small Delights (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Flower Sprite führt dich zu Klarheit und Erfolg."
+  },
+  "sun_messenger": {
+    "name": "Sun Herald",
+    "symbol": "Bold Declaration & Radiant Confidence (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Sun Herald führt dich zu Klarheit und Erfolg."
+  },
+  "moon_rabbit": {
+    "name": "Moon Crafter",
+    "symbol": "Devoted Repetition & Fruitful Craft (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Moon Crafter führt dich zu Klarheit und Erfolg."
+  },
+  "dream_eater": {
+    "name": "Dream Consumer",
+    "symbol": "Purifying Nightmares & Deep Comfort (Schutz & Kraft)",
+    "description": "Die erhabene Energie der Karte Dream Consumer führt dich zu Klarheit und Erfolg."
+  }
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "question": "물 위에 떠도 가라앉지 않고, 사람을 태우고 바다를 건너는 것은?",
+    "options": [
+      "배",
+      "그물",
+      "풍선",
+      "돌"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 배를 태워 건너는 자야말로 바다의 주인이다!",
+      "wrong": "땡! 배는 물 위에 떠야 제 맛이지!"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "스스로를 태워 가장 어두운 곳을 환하게 밝히는 것은?",
+    "options": [
+      "유리창",
+      "거울",
+      "촛불",
+      "항아리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답이다! 촛불은 자신을 태우며 남을 비춘다. 위대한 희생이지!",
+      "wrong": "아까워라! 스스로 타는 빛이라면 뭘까?"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "해가 있을 때만 따라오고, 잡으려 하면 잡을 수 없는 것은?",
+    "options": [
+      "연기",
+      "그림자",
+      "바람",
+      "노을"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 그림자는 네가 빛을 등지지 않는 한 늘 곁에 있다깨비!",
+      "wrong": "땡! 빛 아래에서 네 옆에 붙어 다니는 것이라네!"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "접었다 펴면 하늘에서 떨어지는 물을 막아주는 우산의 친구는?",
+    "options": [
+      "그늘막",
+      "비닐",
+      "장화",
+      "양산망"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 장화는 발을 물의 침입으로부터 지킨다깨비!",
+      "wrong": "땡! 발에 신는 물막이 친구라네!"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "어젯밤은 둥글었다가 오늘은 조각나는, 밤하늘의 은쟁이는?",
+    "options": [
+      "해",
+      "혜성",
+      "별",
+      "달"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 달은 매일 다른 모습으로 밤을 지켜준다깨비!",
+      "wrong": "땡! 밤마다 모양이 변하는 하늘 은쟁이 말이다!"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "바람을 타고 하늘로 오르지만, 끝내 줄을 놓지 못하는 것은?",
+    "options": [
+      "연",
+      "새",
+      "풍선",
+      "비행기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 연은 줄이 있어야 더 높이 오른다. 인연도 그렇지!",
+      "wrong": "땡! 줄에 묶여야 하늘로 오르는 것이라네!"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "소리 없이 찍히지만, 그 흔적에 이름이 남는 것은?",
+    "options": [
+      "우표",
+      "도장",
+      "손바닥",
+      "주먹"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 도장 한 방에 이름은 백 자짜리 약속이 된다깨비!",
+      "wrong": "땡! 찍는 순간 이름이 되는 것이라네!"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "바람이 불면 소리를 내어 집을 지키는 대문 위의 장식은?",
+    "options": [
+      "나팔꽃",
+      "풍경",
+      "깃발",
+      "종"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 풍경 소리는 바람이 대문을 지나가는 흔적이다깨비!",
+      "wrong": "땡! 바람 만나 딸랑거리는 대문 장식이라네!"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "쌀로 빚어 설날 차례상에 가장 먼저 오르는 흰 음식은?",
+    "options": [
+      "떡",
+      "밥",
+      "과일",
+      "국수"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 떡은 조상님과 우리를 잇는 하얀 다리다깨비!",
+      "wrong": "땡! 명절 상에 올라가는 쌀로 빚은 것이라네!"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "남의 흔적을 지워줄수록 자신은 점점 작아지는 것은?",
+    "options": [
+      "솔",
+      "부채",
+      "비",
+      "지우개"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 지우개는 자신을 깎아가며 남의 실수를 지워준다. 고마운 존재지!",
+      "wrong": "땡! 지울수록 작아지는 착한 것이라네!"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "아무리 빨리 달려도 그것을 잡을 수 없는 것은?",
+    "options": [
+      "시간",
+      "연기",
+      "바람",
+      "빛"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 시간은 세상에서 가장 빠른 도둑이다깨비!",
+      "wrong": "땡! 한숨 사이에 훔쳐 가는 것이라네!"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "보고 싶은 얼굴을 들고 다니지만, 스스로는 아무것도 볼 수 없는 것은?",
+    "options": [
+      "거울",
+      "사진",
+      "창문",
+      "안경"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 거울은 남을 비추지만 자신은 보지 못한다깨비!",
+      "wrong": "땡! 남의 얼굴은 아는데 자기 얼굴은 모른다네!"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "깎일수록 짧아지지만, 남기는 말은 늘어가는 것은?",
+    "options": [
+      "화살",
+      "깃대",
+      "연필",
+      "젓가락"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 연필은 몸을 깎아가며 지혜를 남긴다깨비!",
+      "wrong": "땡! 깎여가며 글자를 남기는 것이라네!"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "낮에는 잠들고 밤에 눈이 번쩍! 산의 수호자는?",
+    "options": [
+      "고라니",
+      "부엉이",
+      "토끼",
+      "다람쥐"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 부엉이는 산의 밤을 지키는 현자다깨비!",
+      "wrong": "땡! 밤에 눈이 번쩍인다면 산의 현자라네!"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "먹물을 갈아 글씨를 만들어내는, 스승의 책상 위 그릇은?",
+    "options": [
+      "벼루",
+      "주전자",
+      "그릇",
+      "항아리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 벼루는 먹과 붓 사이의 조용한 다리다깨비!",
+      "wrong": "땡! 먹을 갈아 글씨가 되게 하는 그릇이라네!"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "바다 한가운데서 빛으로 배의 길을 밝혀주는 것은?",
+    "options": [
+      "등대",
+      "별",
+      "번개",
+      "달"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 등대는 안개 속에서도 길을 놓치지 않게 해준다깨비!",
+      "wrong": "땡! 밤바다에 혼자 빛나는 길잡이라네!"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "휘두르면 소원이 이루어진다는, 도깨비의 필살 무기는?",
+    "options": [
+      "창",
+      "방패",
+      "활",
+      "방망이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 방망이 한 번 휘두르면 금이 쏟아진다깨비!",
+      "wrong": "땡! 도깨비의 상징이 무엇이겠느냐!"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "몸은 작아도 문을 열어주는 힘을 가진, 주머니 속의 영웅은?",
+    "options": [
+      "열쇠",
+      "동전",
+      "반지",
+      "단추"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 열쇠야말로 작지만 가장 강한 마법이다깨비!",
+      "wrong": "땡! 작지만 문을 여는 마법사라네!"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "다리가 없는데도 길게 기어가며, 벗은 껍질은 약이 되는 것은?",
+    "options": [
+      "뱀",
+      "도마뱀",
+      "지렁이",
+      "장화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 뱀은 허물을 벗을 때마다 새로 태어난다깨비!",
+      "wrong": "땡! 다리 없이도 세상을 건너는 자라네!"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "아침부터 저녁까지 해를 쫓아 고개를 돌리는 꽃은?",
+    "options": [
+      "코스모스",
+      "목련",
+      "해바라기",
+      "무궁화"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 해바라기는 하루 종일 태양을 우러러본다깨비!",
+      "wrong": "땡! 해만 바라보는 고집 센 꽃이라네!"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "여름에 문을 열면 찬 기운이 쏟아지는, 주방의 보물상자는?",
+    "options": [
+      "항아리",
+      "화롯가",
+      "냉장고",
+      "온돌"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 냉장고는 여름철 주방의 얼음 동굴이다깨비!",
+      "wrong": "땡! 열어젖히면 찬바람이 나오는 상자라네!"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "떠다니지 않고 등을 내주어 강을 건너게 하는 돌과 흙의 길은?",
+    "options": [
+      "배",
+      "둑",
+      "다리",
+      "우물"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 다리는 흔들리지 않는 믿음으로 사람을 건네준다깨비!",
+      "wrong": "땡! 물 위에 굳건히 선 흙과 돌의 길이라네!"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "목에 감겨야 제 맛이 나는, 겨울의 부드러운 벗은?",
+    "options": [
+      "장갑",
+      "양말",
+      "목도리",
+      "모자"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 목도리는 겨울 바람과 목 사이의 성벽이다깨비!",
+      "wrong": "땡! 목에 감아야 제 맛나는 겨울 벗이라네!"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "눈을 감고 들으면 잠이 오는, 엄마의 목소리로 부르는 노래는?",
+    "options": [
+      "아리랑",
+      "자장가",
+      "민요",
+      "동요"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 자장가는 세상에서 가장 부드러운 마법이다깨비!",
+      "wrong": "땡! 듣다 보면 눈이 감기는 노래라네!"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "산속에서 홀로 깜빡이는 푸른 불빛, 사람을 놀리는 것도 좋아하는 것은?",
+    "options": [
+      "반딧불",
+      "도깨비불",
+      "별똥별",
+      "화염"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 도깨비불은 우리 친척들이 밤에 노는 것이다깨비!",
+      "wrong": "땡! 산에서 혼자 깜빡이는 푸른 불이라네!"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "입동이 되면 대문에 뿌려서 액운을 쫓아내는 둥근 곡식은?",
+    "options": [
+      "쌀",
+      "팥",
+      "참깨",
+      "콩"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 콩은 '위염, 나가라!'를 외치며 악귀를 쫓는다깨비!",
+      "wrong": "땡! 팔랑팔랑 뿌려 액을 막는 곡식이라네!"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "거꾸로 걸어도 대문에 걸리면 복이 들어온다는 긴 짚으로 빚은 것은?",
+    "options": [
+      "자",
+      "멍석",
+      "복조리",
+      "짚신"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 복조리는 복을 담아 대문에 걸어두는 그릇이다깨비!",
+      "wrong": "땡! 복이 가득 들어오라며 걸어두는 것이라네!"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "뿌리가 깊어 태풍에도 끄떡없이 서 있는, 숲의 장군은?",
+    "options": [
+      "나무",
+      "바위",
+      "덩굴",
+      "풀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 나무는 깊은 뿌리가 있어 폭풍에도 흔들리지 않는다깨비!",
+      "wrong": "땡! 뿌리가 깊어야 폭풍도 견딘다네!"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "맛은 쓰지도 달지도 않은데 모든 요리에 빠지면 안 되는 흰 알갱이는?",
+    "options": [
+      "식초",
+      "후추",
+      "소금",
+      "설탕"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 소금은 없으면 모든 맛이 외로워진다깨비!",
+      "wrong": "땡! 조금만 있어도 맛을 살리는 흰 알갱이라네!"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "해가 뜨기 직전 잠깐만 모습을 드러내는 가장 빠른 별은?",
+    "options": [
+      "유성",
+      "북두칠성",
+      "새벽별",
+      "폴라리스"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 새벽별은 가장 부지런한 별이다깨비!",
+      "wrong": "땡! 해 뜨기 전에만 인사하는 별이라네!"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "아무리 걸어가도 닿지 않는, 하늘과 땅이 만나는 그 선은?",
+    "options": [
+      "지하철",
+      "밧줄",
+      "지평선",
+      "경계선"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 지평선은 다가가면 물러나는 수수께끼의 선이다깨비!",
+      "wrong": "땡! 갈수록 멀어지는 하늘과 땅의 만남이라네!"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "백 년을 살아도 봄이면 새순을 내는, 산의 지혜로운 노인은?",
+    "options": [
+      "풀",
+      "바위",
+      "고목",
+      "연못"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고목은 나이를 먹어도 새 생명을 품는다깨비!",
+      "wrong": "땡! 늙어도 봄이면 새싹을 내는 산의 노인이라네!"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "겨울 동안 집 안에서 태양 노릇 하는 따뜻한 벗은?",
+    "options": [
+      "선풍기",
+      "창문",
+      "난로",
+      "부채"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 난로는 눈 오는 밤을 견딜 수 있게 해주는 따뜻한 벗이다깨비!",
+      "wrong": "땡! 눈 오는 밤 곁을 지켜주는 작은 태양이라네!"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "발을 넘어야 집 안으로 들어오는, 문 아래의 낮은 성벽은?",
+    "options": [
+      "문고리",
+      "문지방",
+      "담장",
+      "계단"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 문지방을 넘는 순간 손님이 되는 것이다깨비!",
+      "wrong": "땡! 넘어야 손님이 되는 낮은 성벽이라네!"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "먹물을 배에 가득 담고, 한 번 누르면 긴 한 획이 되는 것은?",
+    "options": [
+      "붓",
+      "가위",
+      "막대",
+      "자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 붓은 먹을 삼켜 백 자짜리 글을 만든다깨비!",
+      "wrong": "땡! 먹물 한 모금으로 글이 되는 것이라네!"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "강 위에 하나씩 놓여 밟고 건너게 해주는 돌의 계단은?",
+    "options": [
+      "계단",
+      "배",
+      "징검다리",
+      "다리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 징검다리는 돌들이 손을 잡아 만든 길이다깨비!",
+      "wrong": "땡! 돌이 손잡고 건너게 해주는 계단이라네!"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "물속에서 오래 살아남아 매끈해진, 강가의 조용한 철학자는?",
+    "options": [
+      "자갈",
+      "조약돌",
+      "명줄",
+      "유리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 강물에 씻긴 자갈은 세월을 담은 매끈함이 있다깨비!",
+      "wrong": "땡! 물에 오래 씻겨 매끈해진 철학자라네!"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "졸졸 흘러가다 큰 강이 되는, 산의 가장 작은 강은?",
+    "options": [
+      "개울",
+      "바다",
+      "연못",
+      "우물"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 개울은 작아도 결국 바다에 닿는다깨비!",
+      "wrong": "땡! 졸졸 흘러 바다가 되는 산의 샘이라네!"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "연기로 집에 생명이 있다는 것을 알려주는 지붕 위의 친구는?",
+    "options": [
+      "풍경",
+      "깃대",
+      "앵두",
+      "굴뚝"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 굴뚝에서 연기가 나면 그 집은 살아있다깨비!",
+      "wrong": "땡! 연기가 피어오르면 그 집은 산다네!"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "가을에 나무에서 떨어져 봄에는 흙의 양식이 되는 것은?",
+    "options": [
+      "열매",
+      "낙엽",
+      "가지",
+      "꽃가루"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 낙엽은 떨어져도 나무를 살리는 위대한 희생이다깨비!",
+      "wrong": "땡! 떨어져도 봄을 준비하는 것이라네!"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "세상을 다 밝히면서도 자기 발밑만은 어두운 것은?",
+    "options": [
+      "별",
+      "달",
+      "횃불",
+      "등잔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 등잔 밑이 어둡다는 속담이 바로 이것이다깨비!",
+      "wrong": "땡! 남은 밝히는데 발밑은 어두운 것이라네!"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "바람을 먹고 빙글빙글 돌아가는, 아이들의 하늘 오르기 친구는?",
+    "options": [
+      "바람개비",
+      "풍선",
+      "연",
+      "종이비행기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 바람개비는 바람이 살아있다는 증거다깨비!",
+      "wrong": "땡! 바람 먹고 빙글빙글 도는 것이라네!"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "상상 속에만 살지만 악귀를 물어뜯어 지켜주는, 문 앞의 신수는?",
+    "options": [
+      "사슴",
+      "토끼",
+      "호랑이",
+      "해태"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 해태는 불의를 보면 물어뜯는 정의의 신수다깨비!",
+      "wrong": "땡! 악귀를 잡아먹는 문지기 신수라네!"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "파란색과 빨간색이 돌아가며 조화를 이루는, 깃발과 옷의 문양은?",
+    "options": [
+      "무지개",
+      "꽃무늬",
+      "오방",
+      "태극"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 태극 문양은 음과 양이 돌아가는 우주의 법칙이다깨비!",
+      "wrong": "땡! 파랑과 빨강이 어우러진 문양이라네!"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "옷 고개에서 길게 늘어뜨려 단정함을 더하는 한복의 리본은?",
+    "options": [
+      "단추",
+      "끈",
+      "고름",
+      "지퍼"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고름은 한복의 품격을 말해주는 긴 속삭임이다깨비!",
+      "wrong": "땡! 옷고개에서 길게 늘어지는 리본이라네!"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "입김을 불면 애절한 소리가 나는, 대나무로 만든 악기는?",
+    "options": [
+      "대금",
+      "장구",
+      "북",
+      "징"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 대금은 대나무가 슬픔을 노래하게 한 것이다깨비!",
+      "wrong": "땡! 입김 한 줄기로 애절함을 내는 악기라네!"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "두드릴수록 소리가 커지는, 가죽으로 만든 심장은?",
+    "options": [
+      "나팔",
+      "북",
+      "종",
+      "피리"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 북은 두드릴수록 마음이 뛰는 소리가 된다깨비!",
+      "wrong": "땡! 두드릴수록 커지는 소리의 심장이라네!"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "칠 때마다 울리고, 다 치면 침묵하는 절의 거대한 목소리는?",
+    "options": [
+      "꽹과리",
+      "북",
+      "종",
+      "나팔"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 종의 소리는 세상을 깨우는 부처의 목소리다깨비!",
+      "wrong": "땡! 한 번 치면 오래 울리는 거대한 목소리라네!"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "봄에도 여름에도 가을에도 겨울에도 얼굴이 다른 산은?",
+    "options": [
+      "설악산",
+      "한라산",
+      "지리산",
+      "금강산"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 금강산도 식후경! 계절마다 다른 얼굴을 가진 산이다깨비!",
+      "wrong": "땡! 사계절 내내 다른 얼굴이라면 어느 산이겠느냐!"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "99개의 황금 열쇠를 모은 용사에게 깨비가 내리는 최고의 칭호는?",
+    "options": [
+      "도깨비 마스터",
+      "보물사냥꾼",
+      "골드 캡틴",
+      "열쇠장인"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 바로 너다, 도깨비 마스터! 오늘부터 내 벗이다!",
+      "wrong": "땡! 99개 열쇠를 모으면 얻는 최고의 칭호라네!"
+    },
+    "id": "rid_050"
+  }
+]

@@ -1,0 +1,2424 @@
+[
+  {
+    "id": "quo_001",
+    "text": "Water takes the shape of its vessel, yet a heart must keep its own shape even when shaken.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Flow like water, root like a tree — a shaken heart still survives! - Kkaebi!"
+  },
+  {
+    "id": "quo_002",
+    "text": "The moment you call the road long, your steps have already half stopped.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "If the road feels long, your feet already stopped. Feet are stronger than thoughts! - Kkaebi!"
+  },
+  {
+    "id": "quo_003",
+    "text": "The mountain is never afraid of its height. Only those who climb know the summit.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The mountain never flinches. Only climbing legs know the summit! - Kkaebi!"
+  },
+  {
+    "id": "quo_004",
+    "text": "A deep well is silent. Only shallow knowledge makes noise.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Noisy knowledge is shallow. Stack quietly, stand greatly! - Kkaebi!"
+  },
+  {
+    "id": "quo_005",
+    "text": "Morning dew does not stay long. That is why it shines so brightly.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Dew doesn't shine to stay — it blooms now and vanishes now. - Kkaebi!"
+  },
+  {
+    "id": "quo_006",
+    "text": "A tree does not cling to withered leaves; it clears room for new ones.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Don't grip withered leaves. Empty the branch, and new ones come! - Kkaebi!"
+  },
+  {
+    "id": "quo_007",
+    "text": "The rock cannot defeat water. What flows is stronger than what hardens.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The hard doesn't beat the flowing. Flow wins! - Kkaebi!"
+  },
+  {
+    "id": "quo_008",
+    "text": "A lamp never knows its own shadow deepens the more it lights others.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "You who light others — mind your own shadow too. - Kkaebi!"
+  },
+  {
+    "id": "quo_009",
+    "text": "Grain bows lower as it ripens. People, too, grow lower as they mature.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The riper the grain, the lower the bow. Humility is skill! - Kkaebi!"
+  },
+  {
+    "id": "quo_010",
+    "text": "Hasty water is shallow. A deep river flows without a sound.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "A deep river is silent. Loud water is shallow water. - Kkaebi!"
+  },
+  {
+    "id": "quo_011",
+    "text": "Even when a stone strikes it, flowing water answers with new water. Reply through flow.",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Even stoned, flowing water answers with new flow. Flow is the reply! - Kkaebi!"
+  },
+  {
+    "id": "quo_012",
+    "text": "A bow is better taut, but a person must also know how to loosen.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Bow taut, heart loose! Know both, and you'll never miss. - Kkaebi!"
+  },
+  {
+    "id": "quo_013",
+    "text": "Rather than cursing the dark, light one small candle.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Don't curse the dark — light one candle. That's the goblin way! - Kkaebi!"
+  },
+  {
+    "id": "quo_014",
+    "text": "A thief steals from your house; time steals your life. Cherish today.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Time is the greatest thief. Lock in today before it's gone! - Kkaebi!"
+  },
+  {
+    "id": "quo_015",
+    "text": "A bell rings only when struck first. A heart opens only when knocked.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "meeting",
+      "noon"
+    ],
+    "kkaebi_comment": "Knock, and it opens — doors and hearts alike! - Kkaebi!"
+  },
+  {
+    "id": "quo_016",
+    "text": "A brimming vessel spills. Only an empty one receives what is new.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "A full vessel spills. Empty it, and new luck pours in! - Kkaebi!"
+  },
+  {
+    "id": "quo_017",
+    "text": "A forest is not one tree. Together, they block the wind.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "One tree may snap, but a forest stands. Together is strength! - Kkaebi!"
+  },
+  {
+    "id": "quo_018",
+    "text": "Water hidden in a valley reaches the sea first. The low road is fast.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "The low stream reaches the sea first. Humility is the shortcut! - Kkaebi!"
+  },
+  {
+    "id": "quo_019",
+    "text": "A hawk is a hawk even when flying low. Silence does not mean smallness.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "A hawk flying low is still a hawk. Silence isn't weakness! - Kkaebi!"
+  },
+  {
+    "id": "quo_020",
+    "text": "Roots are invisible, yet they are the whole of the tree. Skill grows underground.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Roots are invisible but they're everything. Grow your skill underground! - Kkaebi!"
+  },
+  {
+    "id": "quo_021",
+    "text": "To see a rainbow you must endure the rain. The order cannot be skipped.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "The rainbow comes after the rain. Never skip the order! - Kkaebi!"
+  },
+  {
+    "id": "quo_022",
+    "text": "A mirror breaks in anger, but the mirror of the heart you must polish yourself.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Don't blame the broken mirror — watch the hand that polishes! - Kkaebi!"
+  },
+  {
+    "id": "quo_023",
+    "text": "Sand clutched tightly runs through your fingers. Holding on begins with looseness.",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Sand escapes a tight fist. Hold gently! - Kkaebi!"
+  },
+  {
+    "id": "quo_024",
+    "text": "If you lost your way a hundred times, you also found it a hundred times.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Lost a hundred times, found a hundred times — that's mastery! - Kkaebi!"
+  },
+  {
+    "id": "quo_025",
+    "text": "Many candles split the dark without quarreling. Light stays together.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "meeting",
+      "evening"
+    ],
+    "kkaebi_comment": "Candles never fight each other. Lights share the dark! - Kkaebi!"
+  },
+  {
+    "id": "quo_026",
+    "text": "A scale speaks truth only when both sides are level.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A scale speaks truth only when level. Keep your balance! - Kkaebi!"
+  },
+  {
+    "id": "quo_027",
+    "text": "The sea holds fish because it lies low. The lower you are, the more you hold.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The sea holds much because it lies low. Lower yourself, hold more! - Kkaebi!"
+  },
+  {
+    "id": "quo_028",
+    "text": "The rooster wakes the morning, but the morning belongs to no one. Starting is your own share.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Nobody hands you your morning. Open your own day! - Kkaebi!"
+  },
+  {
+    "id": "quo_029",
+    "text": "Tap even a stepping stone twice before crossing. Safety comes from tapping.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tap even the stone bridge twice. Tapping is treasure! - Kkaebi!"
+  },
+  {
+    "id": "quo_030",
+    "text": "Melted spring snow makes the summer river. A small flow changes a season.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "A handful of spring snow builds the summer river. Flow, even small! - Kkaebi!"
+  },
+  {
+    "id": "quo_031",
+    "text": "A quiet night puts the day in order. Rest is part of the work.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "The resting night is work too. Tidying comes before the light! - Kkaebi!"
+  },
+  {
+    "id": "quo_032",
+    "text": "An arrow flies farther the farther it is drawn back. Retreat is a leap in preparation.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The arrow drawn back flies farthest. Don't be ashamed of retreat! - Kkaebi!"
+  },
+  {
+    "id": "quo_033",
+    "text": "Ice does not announce how cold it was; it melts and simply flows.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ice says nothing — it just melts and flows. That's the answer! - Kkaebi!"
+  },
+  {
+    "id": "quo_034",
+    "text": "A flower may bloom because the silence of its roots allowed it.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A flower blooms because its roots stayed silent. Praise prepared silence! - Kkaebi!"
+  },
+  {
+    "id": "quo_035",
+    "text": "The moon and the dew both return the day. Today is borrowed.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Today is borrowed. Spend it like you'll pay interest! - Kkaebi!"
+  },
+  {
+    "id": "quo_036",
+    "text": "A hundred words say less than one step that smells of earth.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "One earthy step beats a hundred words! - Kkaebi!"
+  },
+  {
+    "id": "quo_037",
+    "text": "Water in a sealed jar rots. A heart must flow to stay alive.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Stagnant rots, flowing lives. Change your heart's water! - Kkaebi!"
+  },
+  {
+    "id": "quo_038",
+    "text": "The seagull does not prophesy the storm. Wings are forged in storms.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Wings aren't forged in clear skies. The storm is the teacher! - Kkaebi!"
+  },
+  {
+    "id": "quo_039",
+    "text": "Even a small spring snow, once melted, moves the season.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Even a bit of melting snow moves the season. Never scorn small starts! - Kkaebi!"
+  },
+  {
+    "id": "quo_040",
+    "text": "Things can be set down, but the mind rarely does. Lay down the mind's load first.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Things can be put down, but the mind clings. Drop the mind's load first! - Kkaebi!"
+  },
+  {
+    "id": "quo_041",
+    "text": "A great tree grows deep roots only after weathering storms.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "No great tree without storms. Shaking deepens roots! - Kkaebi!"
+  },
+  {
+    "id": "quo_042",
+    "text": "A snake must shed its skin to grow. Clinging to the old self is not growth.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Shed the skin to grow! Clinging to the old you isn't growth! - Kkaebi!"
+  },
+  {
+    "id": "quo_043",
+    "text": "A climber watches the next foothold, not the summit.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Climbers watch the next foothold, not the peak! - Kkaebi!"
+  },
+  {
+    "id": "quo_044",
+    "text": "A bird does not fall when the branch breaks. Trust the wings, not the branch.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "When the branch breaks, the wings remain. Trust wings, not branches! - Kkaebi!"
+  },
+  {
+    "id": "quo_045",
+    "text": "Barley must endure winter to become bread.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Barley endures winter to become bread. Patience is the mill! - Kkaebi!"
+  },
+  {
+    "id": "quo_046",
+    "text": "You cannot clap with one hand. Relationships are each other's sound.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "meeting",
+      "evening"
+    ],
+    "kkaebi_comment": "One hand cannot clap. Relationships are each other's sound! - Kkaebi!"
+  },
+  {
+    "id": "quo_047",
+    "text": "The long night hides the morning inside. Night is not the end, but the waiting room.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "The long night is the morning's waiting room. It's not the end! - Kkaebi!"
+  },
+  {
+    "id": "quo_048",
+    "text": "A seed loses its shape underground. Change begins with letting go.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "A seed sheds its shape to sprout. Change starts with shedding! - Kkaebi!"
+  },
+  {
+    "id": "quo_049",
+    "text": "A river does not rush to arrive far. It deepens at every turn.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hasty rivers are shallow. They deepen at every bend! - Kkaebi!"
+  },
+  {
+    "id": "quo_050",
+    "text": "The day you live today becomes tomorrow's strength. A day cannot be rewritten.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Today cannot be rewritten. Leave it as a fine line of wisdom! - Kkaebi!"
+  },
+  {
+    "id": "quo_051",
+    "text": "Actions speak louder than words — what you do outweighs what you say.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Start, and you're halfway there. The goblin favors a good first button! - Kkaebi!"
+  },
+  {
+    "id": "quo_052",
+    "text": "A journey of a thousand miles begins with a single step — great things start small.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Dig one well deep. The spring belongs to the digger! - Kkaebi!"
+  },
+  {
+    "id": "quo_053",
+    "text": "The early bird catches the worm — preparation beats talent arriving late.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "meeting",
+      "noon"
+    ],
+    "kkaebi_comment": "Soft words come back soft. Words are a mirror! - Kkaebi!"
+  },
+  {
+    "id": "quo_054",
+    "text": "Don't count your chickens before they hatch — outcomes belong to the finished.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hardship is a savings account. Joy arrives as interest! - Kkaebi!"
+  },
+  {
+    "id": "quo_055",
+    "text": "When the going gets tough, the tough get going — pressure reveals character.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Speak of it and it appears? Then speak only good things! - Kkaebi!"
+  },
+  {
+    "id": "quo_056",
+    "text": "Every cloud has a silver lining — hardship hides a gift inside.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Acorns measure up much the same — stay humble, it's the seatbelt! - Kkaebi!"
+  },
+  {
+    "id": "quo_057",
+    "text": "Practice makes perfect — repetition is the mother of skill.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Fixing late is still wise. Losing the ox once teaches forever! - Kkaebi!"
+  },
+  {
+    "id": "quo_058",
+    "text": "Better late than never — a late start still beats standing still.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Familiar work is easy work — like eating cold porridge! - Kkaebi!"
+  },
+  {
+    "id": "quo_059",
+    "text": "Two heads are better than one — shared thinking multiplies answers.",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Even a ditch hides a dragon. Never mock the lowly! - Kkaebi!"
+  },
+  {
+    "id": "quo_060",
+    "text": "Rome wasn't built in a day — great things take time to stand.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Look at the seed and you'll see the harvest. What did you plant today? - Kkaebi!"
+  },
+  {
+    "id": "quo_061",
+    "text": "Where there's a will, there's a way — resolve carves the path.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Tap ten times. On the eleventh, the heart opens! - Kkaebi!"
+  },
+  {
+    "id": "quo_062",
+    "text": "Look before you leap — a second of checking saves a week of regret.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Over one hill, rest. The next hill always comes! - Kkaebi!"
+  },
+  {
+    "id": "quo_063",
+    "text": "The grass is always greener on the other side — envy distorts distance.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Groom your own wings instead of envying another's feathers! - Kkaebi!"
+  },
+  {
+    "id": "quo_064",
+    "text": "Make hay while the sun shines — opportunity has opening hours.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "No perfect chicken? The best alternative is still wisdom! - Kkaebi!"
+  },
+  {
+    "id": "quo_065",
+    "text": "Don't put all your eggs in one basket — spread what you cannot afford to lose.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "An empty cart is the loudest. Skill makes the sound! - Kkaebi!"
+  },
+  {
+    "id": "quo_066",
+    "text": "A bird in the hand is worth two in the bush — the sure thing holds value.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "hope",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Even a mouse hole gets its sunlight. Now is a time to endure! - Kkaebi!"
+  },
+  {
+    "id": "quo_067",
+    "text": "Strike while the iron is hot — timing turns effort into results.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "A thousand miles starts with one step. Today's step wins! - Kkaebi!"
+  },
+  {
+    "id": "quo_068",
+    "text": "You can't judge a book by its cover — depth lives under the surface.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "meeting",
+      "evening"
+    ],
+    "kkaebi_comment": "Heavy loads feel light when lifted together — asking is strength! - Kkaebi!"
+  },
+  {
+    "id": "quo_069",
+    "text": "Haste makes waste — rushed work returns as rework.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A brimming vessel speaks little. Learn from the deep and quiet! - Kkaebi!"
+  },
+  {
+    "id": "quo_070",
+    "text": "The apple doesn't fall far from the tree — origins echo onward.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Those in the same boat understand each other. Empathy is free comfort! - Kkaebi!"
+  },
+  {
+    "id": "quo_071",
+    "text": "Slow and steady wins the race — consistency outlasts bursts.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Everyone has their own seat. That seat is worthy too! - Kkaebi!"
+  },
+  {
+    "id": "quo_072",
+    "text": "Absence makes the heart grow fonder — distance tunes affection.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "This too shall pass. Storms have short shelf lives! - Kkaebi!"
+  },
+  {
+    "id": "quo_073",
+    "text": "Necessity is the mother of invention — being stuck births new doors.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Don't judge the melon by its rind! - Kkaebi!"
+  },
+  {
+    "id": "quo_074",
+    "text": "A chain is only as strong as its weakest link — strength is systemic.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "hope",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "At a dead end, look up. There are holes in the ceiling too! - Kkaebi!"
+  },
+  {
+    "id": "quo_075",
+    "text": "The squeaky wheel gets the grease — a voiced need gets answered.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Don't grab spilled water. Draw fresh water! - Kkaebi!"
+  },
+  {
+    "id": "quo_076",
+    "text": "Don't cry over spilled milk — what's gone is a lesson, not a loss.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Even lying down, the prepared eat the rice cakes! - Kkaebi!"
+  },
+  {
+    "id": "quo_077",
+    "text": "All that glitters is not gold — shine is not the same as worth.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Coincidence stacks into false cause. Don't be shaken! - Kkaebi!"
+  },
+  {
+    "id": "quo_078",
+    "text": "Fortune favors the bold — hesitation taxes the brave.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Even pearls must be strung to shine. Organization is a weapon! - Kkaebi!"
+  },
+  {
+    "id": "quo_079",
+    "text": "An ounce of prevention is worth a pound of cure — early care saves late pain.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "meeting",
+      "morning"
+    ],
+    "kkaebi_comment": "Words travel a thousand miles without feet — watch today's words! - Kkaebi!"
+  },
+  {
+    "id": "quo_080",
+    "text": "Every dog has its day — everyone's season comes around.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Skilled at what you chase, you'll catch anything! - Kkaebi!"
+  },
+  {
+    "id": "quo_081",
+    "text": "If it ain't broke, don't fix it — respect what already works.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Full belly, better judgment. Eat first, then decide! - Kkaebi!"
+  },
+  {
+    "id": "quo_082",
+    "text": "You reap what you sow — the harvest remembers the seed.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Sandcastles fall to water. Lay the foundation first! - Kkaebi!"
+  },
+  {
+    "id": "quo_083",
+    "text": "There's no such thing as a free lunch — everything costs something.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Fill the root first — a bottomless jug never fills! - Kkaebi!"
+  },
+  {
+    "id": "quo_084",
+    "text": "It takes two to tango — conflict and dance both need two.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The riper the barley, the lower the bow. Learning humbles! - Kkaebi!"
+  },
+  {
+    "id": "quo_085",
+    "text": "When in Rome, do as the Romans do — adapt to flourish.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Less greed, less storm! - Kkaebi!"
+  },
+  {
+    "id": "quo_086",
+    "text": "The pen is mightier than the sword — written ideas outlive battles.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Desperation is a voice that calls the sky. Spend it carefully! - Kkaebi!"
+  },
+  {
+    "id": "quo_087",
+    "text": "Still waters run deep — the quiet ones carry the most.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "Poorly dressed pretense always shows. Being real is more intimidating! - Kkaebi!"
+  },
+  {
+    "id": "quo_088",
+    "text": "Blood is thicker than water — family ties run first and deep.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Climb the height and it's just a mountain. Fear shrinks underfoot! - Kkaebi!"
+  },
+  {
+    "id": "quo_089",
+    "text": "Curiosity killed the cat, but satisfaction brought it back — asking is worth it.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "hope",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Waiting is also preparation. The sun will come! - Kkaebi!"
+  },
+  {
+    "id": "quo_090",
+    "text": "A watched pot never boils — waiting slows down the watchful.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Big decisions always cost something. Do the math! - Kkaebi!"
+  },
+  {
+    "id": "quo_091",
+    "text": "The best time to plant a tree was twenty years ago; the second best is now — start anyway.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "A floating heart lifts the body. Plant your feet first! - Kkaebi!"
+  },
+  {
+    "id": "quo_092",
+    "text": "What doesn't kill you makes you stronger — surviving is training.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The steady one smiles last, however steep the mountains! - Kkaebi!"
+  },
+  {
+    "id": "quo_093",
+    "text": "Many hands make light work — burdens divide when shared.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "hope",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The nearest things are easiest to miss. Look right in front of you! - Kkaebi!"
+  },
+  {
+    "id": "quo_094",
+    "text": "Out of sight, out of mind — presence is a kind of effort.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Even masters fall from trees. Add humility to mistakes! - Kkaebi!"
+  },
+  {
+    "id": "quo_095",
+    "text": "You can lead a horse to water, but you can't make it drink — change must be chosen.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "meeting",
+      "noon"
+    ],
+    "kkaebi_comment": "Alone you're fast; together you're far. Which do you want? - Kkaebi!"
+  },
+  {
+    "id": "quo_096",
+    "text": "Too many cooks spoil the broth — too many chiefs, no order.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "One word repays a thousand-nyang debt. Feel the weight of words! - Kkaebi!"
+  },
+  {
+    "id": "quo_097",
+    "text": "A picture is worth a thousand words — showing beats telling.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Patience is a hammer that turns impossible into possible! - Kkaebi!"
+  },
+  {
+    "id": "quo_098",
+    "text": "Good things come to those who wait — patience is a collector.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "hope",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tall trees know the wind will bend them — and grow tall anyway! - Kkaebi!"
+  },
+  {
+    "id": "quo_099",
+    "text": "If at first you don't succeed, try, try again — failure is a draft.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Small peppers are the hottest. Size isn't flavor! - Kkaebi!"
+  },
+  {
+    "id": "quo_100",
+    "text": "Time heals all wounds — the clock is also a medicine.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "English Proverb",
+    "source": "Traditional Wisdom",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Don't pour soy sauce from your old-age purse. Winter firewood is gathered in summer! - Kkaebi!"
+  },
+  {
+    "id": "quo_101",
+    "text": "A journey of a thousand miles begins with a single step.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Start with that first step — today's step is the beginning! - Kkaebi!"
+  },
+  {
+    "id": "quo_102",
+    "text": "Learning without thought is labor lost; thought without learning is perilous.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Learn and think — doing only one is half a person! - Kkaebi!"
+  },
+  {
+    "id": "quo_103",
+    "text": "Care about the end as much as the beginning, and nothing will fail.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Careful to the end knows no defeat! - Kkaebi!"
+  },
+  {
+    "id": "quo_104",
+    "text": "Knowing is not as good as loving; loving is not as good as delighting.",
+    "category": "classic",
+    "tone_tags": [
+      "joy"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Enjoy what you learn. What did you delight in today? - Kkaebi!"
+  },
+  {
+    "id": "quo_105",
+    "text": "Great wisdom is broad and at ease.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "장자",
+    "source": "장자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Great wisdom sits quietly. Respect depth that doesn't shout! - Kkaebi!"
+  },
+  {
+    "id": "quo_106",
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "세네카",
+    "source": "운문에 대하여",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Prepare the axe — luck knocks on prepared doors! - Kkaebi!"
+  },
+  {
+    "id": "quo_107",
+    "text": "It is not things that disturb you, but your judgments about them.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "마르쿠스 아우렐리우스",
+    "source": "명상록",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Can't change the world? Change the judgment first! - Kkaebi!"
+  },
+  {
+    "id": "quo_108",
+    "text": "People are disturbed not by things, but by the views they take of them.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에픽테토스",
+    "source": "강론",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "It's the eyes that hurt, not the facts. Wash them! - Kkaebi!"
+  },
+  {
+    "id": "quo_109",
+    "text": "Know thyself.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "전통 격언",
+    "source": "델포이 신전",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Knowing yourself is the first step of every journey! - Kkaebi!"
+  },
+  {
+    "id": "quo_110",
+    "text": "The beginning is the most important part of the work.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플라톤",
+    "source": "국가",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Beginnings are hardest — that's why they're greatest! - Kkaebi!"
+  },
+  {
+    "id": "quo_111",
+    "text": "We are what we repeatedly do. Excellence is a habit.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "아리스토텔레스",
+    "source": "니코마코스 윤리학",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Repeat, and it becomes you. Good habits build a good you! - Kkaebi!"
+  },
+  {
+    "id": "quo_112",
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "아리스토텔레스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The fruit of patience is sweet, even if the chewing isn't! - Kkaebi!"
+  },
+  {
+    "id": "quo_113",
+    "text": "Death is nothing to us.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에피쿠로스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Death isn't your business today. Think only of today! - Kkaebi!"
+  },
+  {
+    "id": "quo_114",
+    "text": "Fortune favors the bold.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "오비디우스",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Be bold! Goblins don't linger beside the timid! - Kkaebi!"
+  },
+  {
+    "id": "quo_115",
+    "text": "Be slow, but never stop.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "이솝",
+    "source": "우화",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Slow is fine. Just don't stop — that's everything! - Kkaebi!"
+  },
+  {
+    "id": "quo_116",
+    "text": "Knowledge is power.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "베이컨",
+    "source": "명상록",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Knowledge becomes power when it seeps into your bones. Read today! - Kkaebi!"
+  },
+  {
+    "id": "quo_117",
+    "text": "To thine own self be true.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "True to yourself, and nothing in the world is false! - Kkaebi!"
+  },
+  {
+    "id": "quo_118",
+    "text": "Our doubts are traitors.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Doubt betrays you. Try once, at least once! - Kkaebi!"
+  },
+  {
+    "id": "quo_119",
+    "text": "Man is a thinking reed.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "파스칼",
+    "source": "팡세",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A reed, yet great because it thinks. Don't be ashamed of thinking! - Kkaebi!"
+  },
+  {
+    "id": "quo_120",
+    "text": "I think, therefore I am.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "데카르트",
+    "source": "방법서설",
+    "theme": "mystery",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Think, therefore build — your inner world first! - Kkaebi!"
+  },
+  {
+    "id": "quo_121",
+    "text": "Two things fill me: the starry heavens and the moral law within.",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "칸트",
+    "source": "비판철학",
+    "theme": "mystery",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Look at stars and morals. Those two are enough! - Kkaebi!"
+  },
+  {
+    "id": "quo_122",
+    "text": "Knowing is not enough; we must apply.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "괴테",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Don't settle for knowing. Using it is truly knowing! - Kkaebi!"
+  },
+  {
+    "id": "quo_123",
+    "text": "Perfect is the enemy of good.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "볼테르",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Let go of perfectionism. Good is good enough! - Kkaebi!"
+  },
+  {
+    "id": "quo_124",
+    "text": "Man is born free, and everywhere he is in chains.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "루소",
+    "source": "사회계약론",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Count your chains — some you fastened yourself! - Kkaebi!"
+  },
+  {
+    "id": "quo_125",
+    "text": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "톨스토이",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "To change the world, look in the mirror first! - Kkaebi!"
+  },
+  {
+    "id": "quo_126",
+    "text": "He who has a why to live can bear almost any how.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "니체",
+    "source": "황혼의 우상",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "With a why, any path is bearable. Find your why! - Kkaebi!"
+  },
+  {
+    "id": "quo_127",
+    "text": "That which does not kill us makes us stronger.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "니체",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "What doesn't kill you leaves steel-pattern scars! - Kkaebi!"
+  },
+  {
+    "id": "quo_128",
+    "text": "Do not put off until tomorrow what you can do today.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Do today's work today. Tomorrow's you will smile! - Kkaebi!"
+  },
+  {
+    "id": "quo_129",
+    "text": "Who is strong? He who conquers himself.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The strongest enemy is inside, not outside. Conquer it! - Kkaebi!"
+  },
+  {
+    "id": "quo_130",
+    "text": "It is never too late to learn.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "솔론",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Learning while old means never growing old. Start now! - Kkaebi!"
+  },
+  {
+    "id": "quo_131",
+    "text": "Lost time is never found again.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "프랭클린",
+    "source": "격언",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Time never returns. Know the worth of a single day! - Kkaebi!"
+  },
+  {
+    "id": "quo_132",
+    "text": "An ounce of prevention is worth a pound of cure.",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "프랭클린",
+    "source": "빈약한 리처드의 연감",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "One prevention beats ten repairs! - Kkaebi!"
+  },
+  {
+    "id": "quo_133",
+    "text": "Life is either a daring adventure or nothing.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "헬렌 켈러",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Fearless, life is an adventure. Fearful, it is nothing! - Kkaebi!"
+  },
+  {
+    "id": "quo_134",
+    "text": "Alone we can do so little; together we can do so much.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "헬렌 켈러",
+    "source": "격언",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Small alone, great together! Who will you join today? - Kkaebi!"
+  },
+  {
+    "id": "quo_135",
+    "text": "Every oak has been an acorn.",
+    "category": "classic",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "에머슨",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The oak was once a mere acorn. Never scorn today's seed! - Kkaebi!"
+  },
+  {
+    "id": "quo_136",
+    "text": "The only way to have a friend is to be one.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "에머슨",
+    "source": "우정에 대하여",
+    "theme": "meeting",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Want a friend? Become one first. That's the only way! - Kkaebi!"
+  },
+  {
+    "id": "quo_137",
+    "text": "Simplicity is the ultimate sophistication.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "다 빈치",
+    "source": "노트",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Don't overwrap in complexity. Simplicity is ultimate sophistication! - Kkaebi!"
+  },
+  {
+    "id": "quo_138",
+    "text": "Learning never exhausts the mind.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "다 빈치",
+    "source": "노트",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "A learning mind never grows old! - Kkaebi!"
+  },
+  {
+    "id": "quo_139",
+    "text": "The mind is not a vessel to be filled but a fire to be kindled.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플루타르코스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The mind is firewood to light, not a jar to fill. Throw logs in! - Kkaebi!"
+  },
+  {
+    "id": "quo_140",
+    "text": "Seek death and live; seek life and die.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "이순신",
+    "source": "난중일기",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "The resolve to die opens the road to live. Decide! - Kkaebi!"
+  },
+  {
+    "id": "quo_141",
+    "text": "O youth, is there any place to send you back to?",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "허난설헌",
+    "source": "허난설헌 시화",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Youth cannot be sent back. Burn today without regret! - Kkaebi!"
+  },
+  {
+    "id": "quo_142",
+    "text": "Life is like carrying a heavy burden on a long road.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "도쿠가와 이에야스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Heavy loads make long walks. Life was always like that! - Kkaebi!"
+  },
+  {
+    "id": "quo_143",
+    "text": "Today, defeat yesterday's self; tomorrow, defeat today's self.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "무사시",
+    "source": "오륜서",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Beat yesterday's you. Today's enemy is not outside! - Kkaebi!"
+  },
+  {
+    "id": "quo_144",
+    "text": "Summer grass — the traces of warriors' dreams.",
+    "category": "classic",
+    "tone_tags": [
+      "sad"
+    ],
+    "author": "바쇼",
+    "source": "오쿠노호소미치",
+    "theme": "mystery",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Under summer grass sleep countless dreams. The world is wide and deep! - Kkaebi!"
+  },
+  {
+    "id": "quo_145",
+    "text": "When three walk together, one is surely my teacher.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "meeting",
+    "emotion": "curious",
+    "time_slot": [
+      "meeting",
+      "noon"
+    ],
+    "kkaebi_comment": "Among three people, there's a teacher. Learn one thing from today's encounter! - Kkaebi!"
+  },
+  {
+    "id": "quo_146",
+    "text": "The highest good is like water.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "The highest good flows low like water! - Kkaebi!"
+  },
+  {
+    "id": "quo_147",
+    "text": "He who knows contentment is rich.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "He who knows contentment is richest. Count what you have today! - Kkaebi!"
+  },
+  {
+    "id": "quo_148",
+    "text": "Know the enemy and know yourself, and you will never be defeated.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "손자",
+    "source": "손자병법",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Know the enemy and yourself — a hundred battles without loss. Prepare! - Kkaebi!"
+  },
+  {
+    "id": "quo_149",
+    "text": "When things do not go as planned, look within yourself.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "맹자",
+    "source": "맹자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "When things fail, look in the mirror. The answer is inside! - Kkaebi!"
+  },
+  {
+    "id": "quo_150",
+    "text": "Knowledge and action are one.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "왕양명",
+    "source": "전습록",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Knowing and doing are one. Make them one today! - Kkaebi!"
+  }
+]

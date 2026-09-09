@@ -1,0 +1,14 @@
+[
+  {"id": "ja", "hanja": "子", "zodiac": "rat", "start": 23, "end": 1},
+  {"id": "chuk", "hanja": "丑", "zodiac": "ox", "start": 1, "end": 3},
+  {"id": "in", "hanja": "寅", "zodiac": "tiger", "start": 3, "end": 5},
+  {"id": "myo", "hanja": "卯", "zodiac": "rabbit", "start": 5, "end": 7},
+  {"id": "jin", "hanja": "辰", "zodiac": "dragon", "start": 7, "end": 9},
+  {"id": "sa", "hanja": "巳", "zodiac": "snake", "start": 9, "end": 11},
+  {"id": "o", "hanja": "午", "zodiac": "horse", "start": 11, "end": 13},
+  {"id": "mi", "hanja": "未", "zodiac": "sheep", "start": 13, "end": 15},
+  {"id": "sin", "hanja": "申", "zodiac": "monkey", "start": 15, "end": 17},
+  {"id": "yu", "hanja": "酉", "zodiac": "rooster", "start": 17, "end": 19},
+  {"id": "sul", "hanja": "戌", "zodiac": "dog", "start": 19, "end": 21},
+  {"id": "hae", "hanja": "亥", "zodiac": "pig", "start": 21, "end": 23}
+]

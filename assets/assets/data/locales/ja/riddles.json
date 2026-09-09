@@ -1,0 +1,902 @@
+[
+  {
+    "question": "水に浮かんで沈まず、人を乗せて海を渡るものは？",
+    "options": [
+      "網",
+      "風船",
+      "舟",
+      "石"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！舟を操る者こそ海の主だ！",
+      "wrong": "ぶっぶー！舟は水面にこそ映えるのさ！"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "自らを燃やして、一番暗い場所を明るく照らすものは？",
+    "options": [
+      "鏡",
+      "壺",
+      "蝋燭",
+      "ガラス"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蝋燭は自らを燃やして人を照らす。尊い犠牲さ！",
+      "wrong": "惜しい！自分で燃えて光をくれるものは？"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "日のある時だけ付きまとって、決して掴めないものは？",
+    "options": [
+      "影",
+      "夕焼け",
+      "風",
+      "煙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！光を背中にしていれば、影はいつもそばにいるさ！",
+      "wrong": "ぶっぶー！光の下で足元にへばりつくものさ！"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "畳んで開けば、空から落ちる水を防ぐ傘の友は？",
+    "options": [
+      "日除け",
+      "長靴",
+      "傘ネット",
+      "ビニール"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！長靴は足を水の侵入から守るんだ！",
+      "wrong": "ぶっぶー！足にはいて水を防ぐ友さ！"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "昨夜は丸く、今夜は欠ける、夜空の銀の皿は？",
+    "options": [
+      "星",
+      "太陽",
+      "彗星",
+      "月"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！月は毎晩違う顔で夜を見守るんだ！",
+      "wrong": "ぶっぶー！毎晩形が変わる銀の皿さ！"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "風に乗って空へ昇るのに、糸を決して離さないものは？",
+    "options": [
+      "飛行機",
+      "鳥",
+      "凧",
+      "風船"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！凧は糸があるから高く昇れる。縁も同じさ！",
+      "wrong": "ぶっぶー！糸に繋がれて空を行くものさ！"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "音もなく押されるのに、その跡に名が残るものは？",
+    "options": [
+      "拳",
+      "印鑑",
+      "切手",
+      "手のひら"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！判一つで名前は百字の約束になるんだ！",
+      "wrong": "ぶっぶー！押した瞬間、名前になるものさ！"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "風が吹くと鳴って、門の上から家を守る飾りは？",
+    "options": [
+      "旗",
+      "風鈴",
+      "鐘",
+      "朝顔"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！風鈴の音は、風が門を通った証拠さ！",
+      "wrong": "ぶっぶー！風と一緒にちりんと鳴る飾りさ！"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "米で作られ、お正月の供え物の一番に置かれる白い食べ物は？",
+    "options": [
+      "果物",
+      "ご飯",
+      "麺",
+      "餅"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！餅はご先祖と私たちを繋ぐ白い橋だ！",
+      "wrong": "ぶっぶー！お正月の膳に昇る白いものさ！"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "人の跡を消すほどに、自分は小さくなっていくものは？",
+    "options": [
+      "箒",
+      "消しゴム",
+      "雨",
+      "扇子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！消しゴムは自分を削って人の過ちを消す。ありがたい存在さ！",
+      "wrong": "ぶっぶー！消すたびに小さくなる優れものさ！"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "どんなに速く走っても決して掴めないものは？",
+    "options": [
+      "光",
+      "時間",
+      "煙",
+      "風"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！時間は世界一速い泥棒さ！",
+      "wrong": "ぶっぶー！瞬きの間に盗んでいくものさ！"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "見たい顔は映すのに、自分自身は見えないものは？",
+    "options": [
+      "鏡",
+      "眼鏡",
+      "写真",
+      "窓"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鏡は人を映すが自分は見えないんだ！",
+      "wrong": "ぶっぶー！人の顔は知ってても自分は知らないさ！"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "削られるほど短くなるのに、残す言葉は増えていくものは？",
+    "options": [
+      "箸",
+      "矢",
+      "鉛筆",
+      "旗竿"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鉛筆は体を削って知恵を残すんだ！",
+      "wrong": "ぶっぶー！削られて文字を残すものさ！"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "昼は眠り、夜に目がパッ！森の守り神は？",
+    "options": [
+      "梟",
+      "兎",
+      "リス",
+      "鹿"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！梟は森の夜を見守る賢者さ！",
+      "wrong": "ぶっぶー！真夜中に目が光る森の賢者さ！"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "墨を擦って文字を作る、先生の机の上の器は？",
+    "options": [
+      "硯",
+      "茶碗",
+      "壺",
+      "薬罐"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！硯は墨と筆の間の静かな橋だ！",
+      "wrong": "ぶっぶー！墨を擦って文字にする器さ！"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "海の真ん中で光によって船の道を示すものは？",
+    "options": [
+      "雷",
+      "灯台",
+      "星",
+      "月"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！灯台があれば霧の中でも道に迷わない！",
+      "wrong": "ぶっぶー！夜の海で一人光る道しるべさ！"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "振ると願いが叶うという、ドッケビの必殺武器は？",
+    "options": [
+      "弓",
+      "盾",
+      "槍",
+      "棍棒"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！棍棒を一振りすれば金がドッと出るさ！",
+      "wrong": "ぶっぶー！ドッケビの象徴は何だろうな！"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "体は小さいのに扉を開ける力を持つ、ポケットの中の英雄は？",
+    "options": [
+      "ボタン",
+      "硬貨",
+      "指輪",
+      "鍵"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鍵こそ小さくて最強の魔法さ！",
+      "wrong": "ぶっぶー！小さいけど扉を開ける魔法使いさ！"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "足が無いのに長く這い、脱いだ皮は薬になるものは？",
+    "options": [
+      "蛇",
+      "ミミズ",
+      "長靴",
+      "トカゲ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蛇は脱皮するたびに生まれ変わるんだ！",
+      "wrong": "ぶっぶー！足無しで世界を渡る者さ！"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "朝から夕方まで太陽を追いて首を回す花は？",
+    "options": [
+      "ひまわり",
+      "木蓮",
+      "コスモス",
+      "槿の花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ひまわりは一日中太陽を仰ぎ見るんだ！",
+      "wrong": "ぶっぶー！太陽だけ見つめる頑固な花さ！"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "夏に扉を開ければ冷たい気が溢れる、台所の宝箱は？",
+    "options": [
+      "壺",
+      "冷蔵庫",
+      "温突",
+      "火鉢"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！冷蔵庫は夏の台所の氷の洞窟さ！",
+      "wrong": "ぶっぶー！開ければ冷気が飛び出す箱さ！"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "浮かばないで背中を貸して川を渡らせる、石と土の道は？",
+    "options": [
+      "井戸",
+      "橋",
+      "堤防",
+      "舟"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！橋は揺るがない信頼で人を渡すんだ！",
+      "wrong": "ぶっぶー！水の上にどっしり立つ土石の道さ！"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "首に巻けば本領を発揮する、冬の柔らかい友は？",
+    "options": [
+      "マフラー",
+      "帽子",
+      "靴下",
+      "手袋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！マフラーは冬の風と首の間の城壁さ！",
+      "wrong": "ぶっぶー！首に巻いてこそ映える冬の友さ！"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "目を閉じて聞けば眠くなる、母の声で歌う歌は？",
+    "options": [
+      "童謡",
+      "民謡",
+      "子守唄",
+      "バラード"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！子守唄は世界で一番柔らかい魔法さ！",
+      "wrong": "ぶっぶー！聞いていると目が閉じる歌さ！"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "山の中で一人点滅する青い火、人を驚かすのも好きなものは？",
+    "options": [
+      "蛍",
+      "炎",
+      "流れ星",
+      "鬼火"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！鬼火はうちの親類が夜に遊んでるのさ！",
+      "wrong": "ぶっぶー！山で一人瞬く青い火さ！"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "立冬になると門に撒いて厄を払う丸い穀物は？",
+    "options": [
+      "胡麻",
+      "豆",
+      "米",
+      "小豆"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！豆は『鬼は外！』と叫びながら悪霊を追うんだ！",
+      "wrong": "ぶっぶー！パラパラ撒いて厄を防ぐ穀物さ！"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "逆さに歩いても門に掛かれば福が来る、藁で作った長いものは？",
+    "options": [
+      "注連縄",
+      "筵",
+      "縄",
+      "草鞋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！注連縄は福を迎えるために門に掛けるものさ！",
+      "wrong": "ぶっぶー！福が入りますようにと掛けるものさ！"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "根が深くて台風にも動じない、森の将軍は？",
+    "options": [
+      "草",
+      "木",
+      "蔓",
+      "岩"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！根が深ければ嵐にも揺れないさ！",
+      "wrong": "ぶっぶー！根深ければ嵐も恐れないさ！"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "味は苦くも甘くもないのに、料理に欠かせない白い粒は？",
+    "options": [
+      "砂糖",
+      "酢",
+      "塩",
+      "胡椒"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！塩がなければ全ての味が淋しくなる！",
+      "wrong": "ぶっぶー！少しで味を生かす白い粒さ！"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "日の出の直前にほんの一瞬だけ現れる最も早い星は？",
+    "options": [
+      "北斗七星",
+      "明けの明星",
+      "北極星",
+      "流星"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！明けの明星は一番勤勉な星さ！",
+      "wrong": "ぶっぶー！日の出前にだけ挨拶する星さ！"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "どんなに歩いても届かない、空と地が交わるその線は？",
+    "options": [
+      "水平線",
+      "綱",
+      "地下鉄",
+      "境界線"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！水平線は近づくと引いていく謎の線さ！",
+      "wrong": "ぶっぶー！近づくほど遠のく空と地の出会いさ！"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "百年生れても春には新芽を出す、山の智恵ある老人は？",
+    "options": [
+      "草",
+      "池",
+      "岩",
+      "古木"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！古木は年を取っても新しい命を宿すんだ！",
+      "wrong": "ぶっぶー！年寄りでも春には若芽を出すさ！"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "冬の間、家の中で太陽代わりをする暖かい友は？",
+    "options": [
+      "团扇",
+      "扇風機",
+      "ストーブ",
+      "窓"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ストーブがあれば雪の夜も平気さ！",
+      "wrong": "ぶっぶー！雪の夜のそばにいる小さな太陽さ！"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "足を越えねば家に入れない、扉の下の低い城壁は？",
+    "options": [
+      "塀",
+      "取っ手",
+      "敷居",
+      "階段"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！敷居を跨いだ瞬間、客になるんだ！",
+      "wrong": "ぶっぶー！越えれば客になる低い壁さ！"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "墨を腹いっぱい溜めて、一度引けば長い一画になるものは？",
+    "options": [
+      "定規",
+      "鋏",
+      "筆",
+      "棒"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！筆は墨を飲んで百字の文章を作るんだ！",
+      "wrong": "ぶっぶー！墨ひと口で文章になるものさ！"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "川の上に一つずつ置かれ、踏んで渡らせる石の階段は？",
+    "options": [
+      "橋",
+      "飛石",
+      "階段",
+      "舟"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！飛石は石たちが手を繋いで作った道さ！",
+      "wrong": "ぶっぶー！石が手を取り合って作る階段さ！"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "水の中で長く生きて滑らかになった、川辺の静かな哲学者は？",
+    "options": [
+      "小石",
+      "小枝",
+      "蔦",
+      "ガラス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！川に洗われた小石は歳月を湛えた滑らかさがある！",
+      "wrong": "ぶっぶー！千年水に洗われて滑らかになったさ！"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "ちょろちょろ流れて大きな川になる、山の最も小さな川は？",
+    "options": [
+      "海",
+      "小川",
+      "井戸",
+      "池"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！小川も小さいけど最後は海に届くさ！",
+      "wrong": "ぶっぶー！ちょろちょろ流れて海になる山の水さ！"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "煙で家に命があることを知らせる、屋根の上の友は？",
+    "options": [
+      "桜",
+      "煙突",
+      "旗竿",
+      "風鈴"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！煙突から煙が出れば、その家は生きているさ！",
+      "wrong": "ぶっぶー！煙が昇ればその家は生きてるさ！"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "秋に木から落ちて、春には土の養分になるものは？",
+    "options": [
+      "実",
+      "枝",
+      "花粉",
+      "落葉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！落葉は落ちても木を生かす偉大な犠牲さ！",
+      "wrong": "ぶっぶー！落ちても春の準備をするものさ！"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "世界を明るくしながらも、自分の足元だけは暗いものは？",
+    "options": [
+      "月",
+      "灯",
+      "星",
+      "松明"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！『灯台の下は暗い』という諺のことさ！",
+      "wrong": "ぶっぶー！人を照らして足元は暗いさ！"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "風を食べてぐるぐる回る、子供の空を走る友は？",
+    "options": [
+      "凧",
+      "紙飛行機",
+      "風車",
+      "風船"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！風車は風が生きてる証拠さ！",
+      "wrong": "ぶっぶー！風を食べてくるくる回るさ！"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "想像の中にだけ住んで、悪霊を食べて守ってくれる門の神獣は？",
+    "options": [
+      "兎",
+      "鹿",
+      "虎",
+      "獬豸"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！獬豸は不正を見れば食いちぎる正義の神獣さ！",
+      "wrong": "ぶっぶー！悪霊を食べる門番の神獣さ！"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "青と赤が交互に回って調和を作る、旗や服の文様は？",
+    "options": [
+      "虹",
+      "五彩",
+      "花模様",
+      "太極"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！太極文様は陰と陽が巡る宇宙の法則さ！",
+      "wrong": "ぶっぶー！青と赤が調和する文様さ！"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "服の襟から長く垂れて品格を添える韓服のリボンは？",
+    "options": [
+      "ファスナー",
+      "紐",
+      "衣帯",
+      "ボタン"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！衣帯は韓服の品格を語る長い囁きさ！",
+      "wrong": "ぶっぶー！襟から長く垂れるリボンさ！"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "息を吹けば哀切な音が出る、竹で作った楽器は？",
+    "options": [
+      "太鼓",
+      "大笒",
+      "杖鼓",
+      "鉦"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！大笒は竹が悲しみを歌えるようにしたものさ！",
+      "wrong": "ぶっぶー！息ひとつで哀調を奏でる楽器さ！"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "叩くほど音が大きくなる、音楽の広い心臓は？",
+    "options": [
+      "鐘",
+      "太鼓",
+      "笛",
+      "喇叭"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！太鼓の響きは人の心臓の音さ！",
+      "wrong": "ぶっぶー！叩くほど大きくなる音の心臓さ！"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "打つたびに鳴り、打ち終われば沈黙するお寺の巨大な声は？",
+    "options": [
+      "鉦",
+      "太鼓",
+      "喇叭",
+      "鐘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鐘の音は世界を覚ます仏の声さ！",
+      "wrong": "ぶっぶー！一度鳴らせば長く響く声さ！"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "春も夏も秋も冬も顔が違う山は？",
+    "options": [
+      "雪嶽山",
+      "漢拏山",
+      "金剛山",
+      "智異山"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！金剛山も食後！季節ごとに違う顔を持つ山さ！",
+      "wrong": "ぶっぶー！四季ごとに顔が変わる山はどこだ！"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "99個の黄金の鍵を集めた勇者にドッケビが与える最高の称号は？",
+    "options": [
+      "ゴールドキャプテン",
+      "宝探し屋",
+      "ドッケビマスター",
+      "鍵職人"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！お前だ、ドッケビマスター！今日から友だ！",
+      "wrong": "ぶっぶー！鍵99個で得る最高の称号さ！"
+    },
+    "id": "rid_050"
+  }
+]
