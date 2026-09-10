@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "水的化学式是？",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "地球上最大的动物是？",
+    "options": [
+      "蓝鲸",
+      "大象",
+      "长颈鹿",
+      "大白鲨"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "光速大约是？",
+    "options": [
+      "每秒30万公里",
+      "每秒3万公里",
+      "每秒300公里",
+      "每秒3公里"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "平年一年有多少天？",
+    "options": [
+      "365天",
+      "360天",
+      "400天",
+      "300天"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "心脏有几个腔？",
+    "options": [
+      "4个",
+      "2个",
+      "3个",
+      "5个"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "太阳系有几大行星？",
+    "options": [
+      "8个",
+      "9个",
+      "7个",
+      "10个"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "最坚硬的天然物质是？",
+    "options": [
+      "钻石",
+      "钢",
+      "玻璃",
+      "钛"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "植物光合作用需要什么气体？",
+    "options": [
+      "二氧化碳",
+      "氧气",
+      "氮气",
+      "氢气"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "人体最大的器官是？",
+    "options": [
+      "皮肤",
+      "肝脏",
+      "肺",
+      "大脑"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "地球到月球的平均距离是？",
+    "options": [
+      "约38万公里",
+      "约3.8万公里",
+      "约380万公里",
+      "约3,800公里"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "指南针N极指向？",
+    "options": [
+      "北方",
+      "南方",
+      "东方",
+      "西方"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "食盐的化学成分是？",
+    "options": [
+      "氯化钠",
+      "碳酸钙",
+      "氧化铁",
+      "葡萄糖"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "彩虹有几种颜色？",
+    "options": [
+      "7种",
+      "5种",
+      "6种",
+      "8种"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "陆地上最快的动物是？",
+    "options": [
+      "猎豹",
+      "狮子",
+      "马",
+      "羚羊"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "植物生长必需的三样是？",
+    "options": [
+      "水·光·空气",
+      "石头·沙·火",
+      "盐·糖·冰",
+      "铁·铜·金"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "地球唯一的天然卫星是？",
+    "options": [
+      "月球",
+      "太阳",
+      "火星",
+      "金星"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "冰浮在水面上的原因是？",
+    "options": [
+      "密度比水低",
+      "重量轻",
+      "体积大",
+      "温度高"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "成人人体约有几块骨头？",
+    "options": [
+      "206块",
+      "106块",
+      "300块",
+      "156块"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]

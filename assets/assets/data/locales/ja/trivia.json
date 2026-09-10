@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "水の化学式は？",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "地球で最も大きな動物は？",
+    "options": [
+      "シロナガスクジラ",
+      "ゾウ",
+      "キリン",
+      "ホオジロザメ"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "光の速さはおよそ？",
+    "options": [
+      "毎秒30万km",
+      "毎秒3万km",
+      "毎秒300km",
+      "毎秒3km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "1年はふつう何日？",
+    "options": [
+      "365日",
+      "360日",
+      "400日",
+      "300日"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "心臓の部屋はいくつ？",
+    "options": [
+      "4つ",
+      "2つ",
+      "3つ",
+      "5つ"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "太陽系の惑星は全部でいくつ？",
+    "options": [
+      "8個",
+      "9個",
+      "7個",
+      "10個"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "最も硬い天然物質は？",
+    "options": [
+      "ダイヤモンド",
+      "鋼鉄",
+      "ガラス",
+      "チタン"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "植物の光合成に必要な気体は？",
+    "options": [
+      "二酸化炭素",
+      "酸素",
+      "窒素",
+      "水素"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "人体で最も大きい器官は？",
+    "options": [
+      "皮膚",
+      "肝臓",
+      "肺",
+      "脳"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "地球から月までの平均距離は？",
+    "options": [
+      "約38万km",
+      "約3.8万km",
+      "約380万km",
+      "約3,800km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "方位磁石のN極が指す方向は？",
+    "options": [
+      "北",
+      "南",
+      "東",
+      "西"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "食塩の化学成分は？",
+    "options": [
+      "塩化ナトリウム",
+      "炭酸カルシウム",
+      "酸化鉄",
+      "ブドウ糖"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "虹の色は全部で何色？",
+    "options": [
+      "7色",
+      "5色",
+      "6色",
+      "8色"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "陸上で最も速い動物は？",
+    "options": [
+      "チーター",
+      "ライオン",
+      "ウマ",
+      "レイヨウ"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "植物が育つのに必要な3つは？",
+    "options": [
+      "水・光・空気",
+      "石・砂・火",
+      "塩・砂糖・氷",
+      "鉄・銅・金"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "地球の唯一の自然衛星は？",
+    "options": [
+      "月",
+      "太陽",
+      "火星",
+      "金星"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "氷が水に浮く理由は？",
+    "options": [
+      "密度が低いから",
+      "重さが軽いから",
+      "大きいから",
+      "温度が高いから"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "大人の人体の骨は約いくつ？",
+    "options": [
+      "206個",
+      "106個",
+      "300個",
+      "156個"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]
