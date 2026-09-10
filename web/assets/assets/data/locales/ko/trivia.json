@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "물의 화학식은?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "지구에서 가장 큰 동물은?",
+    "options": [
+      "대왕고래",
+      "코끼리",
+      "기린",
+      "백상아리"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "빛의 속도는 약 얼마?",
+    "options": [
+      "초당 30만km",
+      "초당 3만km",
+      "초당 300km",
+      "초당 3km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "1년은 보통 며칠?",
+    "options": [
+      "365일",
+      "360일",
+      "400일",
+      "300일"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "심장은 몇 개의 방으로 되어 있을까?",
+    "options": [
+      "4개",
+      "2개",
+      "3개",
+      "5개"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "태양계 행성은 모두 몇 개?",
+    "options": [
+      "8개",
+      "9개",
+      "7개",
+      "10개"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "가장 단단한 천연 물질은?",
+    "options": [
+      "다이아몬드",
+      "강철",
+      "유리",
+      "티타늄"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "식물의 광합성에 필요한 기체는?",
+    "options": [
+      "이산화탄소",
+      "산소",
+      "질소",
+      "수소"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "인체에서 가장 큰 기관은?",
+    "options": [
+      "피부",
+      "간",
+      "폐",
+      "뇌"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "지구에서 달까지 평균 거리는?",
+    "options": [
+      "약 38만km",
+      "약 3.8만km",
+      "약 380만km",
+      "약 3,800km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "나침반 바늘 N극이 가리키는 방향은?",
+    "options": [
+      "북쪽",
+      "남쪽",
+      "동쪽",
+      "서쪽"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "소금의 화학 성분은?",
+    "options": [
+      "염화나트륨",
+      "탄산칼슘",
+      "산화철",
+      "포도당"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "무지개의 색은 모두 몇 가지?",
+    "options": [
+      "7가지",
+      "5가지",
+      "6가지",
+      "8가지"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "육지에서 가장 빠른 동물은?",
+    "options": [
+      "치타",
+      "사자",
+      "말",
+      "영양"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "식물이 자라는 데 꼭 필요한 세 가지는?",
+    "options": [
+      "물·빛·공기",
+      "돌·모래·불",
+      "소금·설탕·얼음",
+      "철·구리·금"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "지구의 유일한 자연 위성은?",
+    "options": [
+      "달",
+      "태양",
+      "화성",
+      "금성"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "얼음이 물 위에 뜨는 이유는?",
+    "options": [
+      "밀도가 물보다 낮아서",
+      "무게가 가벼워서",
+      "크기가 커서",
+      "온도가 높아서"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "성인 인체의 뼈는 약 몇 개?",
+    "options": [
+      "206개",
+      "106개",
+      "300개",
+      "156개"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]

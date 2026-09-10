@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "पानी का रासायनिक सूत्र क्या है?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "पृथ्वी का सबसे बड़ा जानवर कौन है?",
+    "options": [
+      "ब्लू व्हेल",
+      "हाथी",
+      "जिराफ़",
+      "ग्रेट व्हाइट शार्क"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "प्रकाश की गति लगभग…",
+    "options": [
+      "3 लाख किमी/सेकंड",
+      "30 हज़ार किमी/सेकंड",
+      "300 किमी/सेकंड",
+      "3 किमी/सेकंड"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "साधारण वर्ष में कितने दिन?",
+    "options": [
+      "365",
+      "360",
+      "400",
+      "300"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "मानव हृदय में कितने कक्ष होते हैं?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "सौर मंडल में कितने ग्रह हैं?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "सबसे कठोर प्राकृतिक पदार्थ…",
+    "options": [
+      "हीरा",
+      "इस्पात",
+      "काँच",
+      "टाइटेनियम"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "प्रकाश-संश्लेषण के लिए पौधों को कौन-सी गैस चाहिए?",
+    "options": [
+      "कार्बन डाइऑक्साइड",
+      "ऑक्सीजन",
+      "नाइट्रोजन",
+      "हाइड्रोजन"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "मानव शरीर का सबसे बड़ा अंग?",
+    "options": [
+      "त्वचा",
+      "यकृत",
+      "फेफड़े",
+      "मस्तिष्क"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "पृथ्वी से चंद्रमा की औसत दूरी…",
+    "options": [
+      "लगभग 384,000 किमी",
+      "लगभग 38,000 किमी",
+      "लगभग 38,40,000 किमी",
+      "लगभग 3,800 किमी"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "कंपास की N सुई दिशा दिखाती है…",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "नमक का रासायनिक घटक…",
+    "options": [
+      "सोडियम क्लोराइड",
+      "कैल्शियम कार्बोनेट",
+      "आयरन ऑक्साइड",
+      "ग्लूकोज"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "इंद्रधनुष में कितने रंग?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "ज़मीन का सबसे तेज़ जानवर…",
+    "options": [
+      "चीता",
+      "शेर",
+      "घोड़ा",
+      "हिरण"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "पौधों को बढ़ने के लिए तीन चीज़ें…",
+    "options": [
+      "पानी, रोशनी, हवा",
+      "पत्थर, रेत, आग",
+      "नमक, चीनी, बर्फ",
+      "लोहा, ताँबा, सोना"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह…",
+    "options": [
+      "चंद्रमा",
+      "सूर्य",
+      "मंगल",
+      "शुक्र"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "बर्फ़ पानी पर तैरती है क्योंकि…",
+    "options": [
+      "घनत्व कम होता है",
+      "वज़न कम होता है",
+      "आकार बड़ा होता है",
+      "तापमान अधिक होता है"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "वयस्क मानव कंकाल में लगभग हड्डियाँ…",
+    "options": [
+      "206",
+      "106",
+      "300",
+      "156"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]

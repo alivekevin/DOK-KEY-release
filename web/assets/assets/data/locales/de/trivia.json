@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "Wie lautet die chemische Formel von Wasser?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "Das größte Tier der Erde ist…",
+    "options": [
+      "der Blauwal",
+      "der Elefant",
+      "die Giraffe",
+      "der Weiße Hai"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "Die Lichtgeschwindigkeit beträgt etwa…",
+    "options": [
+      "300.000 km/s",
+      "30.000 km/s",
+      "300 km/s",
+      "3 km/s"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "Ein Gemeinjahr hat…",
+    "options": [
+      "365 Tage",
+      "360 Tage",
+      "400 Tage",
+      "300 Tage"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "Wie viele Kammern hat das menschliche Herz?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "Wie viele Planeten hat das Sonnensystem?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "Der härteste Naturstoff ist…",
+    "options": [
+      "Diamant",
+      "Stahl",
+      "Glas",
+      "Titan"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "Welches Gas brauchen Pflanzen für die Photosynthese?",
+    "options": [
+      "Kohlendioxid",
+      "Sauerstoff",
+      "Stickstoff",
+      "Wasserstoff"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "Das größte Organ des Menschen ist…",
+    "options": [
+      "die Haut",
+      "die Leber",
+      "die Lunge",
+      "das Gehirn"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "Die mittlere Entfernung Erde–Mond ist…",
+    "options": [
+      "ca. 384.000 km",
+      "ca. 38.000 km",
+      "ca. 3.840.000 km",
+      "ca. 3.800 km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "Die N-Spitze eines Kompasses zeigt…",
+    "options": [
+      "nach Norden",
+      "nach Süden",
+      "nach Osten",
+      "nach Westen"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "Kochsalz besteht chemisch aus…",
+    "options": [
+      "Natriumchlorid",
+      "Kalziumkarbonat",
+      "Eisenoxid",
+      "Glukose"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "Ein Regenbogen hat… Farben.",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "Das schnellste Landtier ist…",
+    "options": [
+      "der Gepard",
+      "der Löwe",
+      "das Pferd",
+      "die Antilope"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "Drei Dinge, die Pflanzen zum Wachsen brauchen…",
+    "options": [
+      "Wasser, Licht, Luft",
+      "Steine, Sand, Feuer",
+      "Salz, Zucker, Eis",
+      "Eisen, Kupfer, Gold"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "Der einzige natürliche Satellit der Erde…",
+    "options": [
+      "der Mond",
+      "die Sonne",
+      "der Mars",
+      "die Venus"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "Eis schwimmt auf Wasser, weil…",
+    "options": [
+      "seine Dichte geringer ist",
+      "es weniger wiegt",
+      "es größer ist",
+      "es wärmer ist"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "Der erwachsene menschliche Körper hat ca. …",
+    "options": [
+      "206 Knochen",
+      "106 Knochen",
+      "300 Knochen",
+      "156 Knochen"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]

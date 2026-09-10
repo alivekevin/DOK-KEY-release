@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tri_001",
+    "question": "What is the chemical formula of water?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "What is the largest animal on Earth?",
+    "options": [
+      "Blue whale",
+      "Elephant",
+      "Giraffe",
+      "Great white shark"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "The speed of light is about…",
+    "options": [
+      "300,000 km/s",
+      "30,000 km/s",
+      "300 km/s",
+      "3 km/s"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "How many days are in a common year?",
+    "options": [
+      "365",
+      "360",
+      "400",
+      "300"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "How many planets are in the Solar System?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "The hardest natural substance is…",
+    "options": [
+      "Diamond",
+      "Steel",
+      "Glass",
+      "Titanium"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "Which gas do plants need for photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      "Skin",
+      "Liver",
+      "Lungs",
+      "Brain"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "9 × 9 = ?",
+    "options": [
+      "81",
+      "72",
+      "63",
+      "90"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "The average distance from Earth to the Moon is…",
+    "options": [
+      "About 384,000 km",
+      "About 38,000 km",
+      "About 3,840,000 km",
+      "About 3,800 km"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "The N pole of a compass needle points…",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "Table salt is chemically…",
+    "options": [
+      "Sodium chloride",
+      "Calcium carbonate",
+      "Iron oxide",
+      "Glucose"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "The fastest land animal is the…",
+    "options": [
+      "Cheetah",
+      "Lion",
+      "Horse",
+      "Antelope"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "Three things plants need to grow are…",
+    "options": [
+      "Water, light, air",
+      "Rocks, sand, fire",
+      "Salt, sugar, ice",
+      "Iron, copper, gold"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "Earth's only natural satellite is…",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "Ice floats on water because…",
+    "options": [
+      "Its density is lower",
+      "It weighs less",
+      "It is bigger",
+      "It is warmer"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "An adult human skeleton has about…",
+    "options": [
+      "206 bones",
+      "106 bones",
+      "300 bones",
+      "156 bones"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "12 × 12 = ?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "154"
+    ],
+    "answer_index": 0,
+    "category": "math",
+    "reward_affection": 10
+  }
+]
