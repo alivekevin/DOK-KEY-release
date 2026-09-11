@@ -132,8 +132,8 @@ class _KkaebiFloatingMascotState extends State<KkaebiFloatingMascot>
                         tooltipText,
                         style: TextStyle(
                           color: DokkeyTheme.goldLight,
-                          fontSize: 11.5,
-                          fontWeight: FontWeight.bold,
+                          fontSize: 13.0,
+                          fontWeight: FontWeight.w800,
                         ),
                       ),
                       const SizedBox(width: 4),

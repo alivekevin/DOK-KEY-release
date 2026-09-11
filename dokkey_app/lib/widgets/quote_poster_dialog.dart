@@ -88,21 +88,33 @@ class _QuotePosterDialogState extends State<QuotePosterDialog> {
                 ),
                 child: Column(
                   children: [
-                    // 부적 두름 헤더 (언어별 로컬라이징 도장 — 타언어 혼입 방지)
+                    // 부적 두름 헤더 (황금 어보 인장 뱃지 — 선명한 고대비 가독성)
                     Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 7),
                       decoration: BoxDecoration(
-                        border: Border.all(color: DokkeyTheme.gold),
+                        gradient: LinearGradient(
+                          colors: [
+                            DokkeyTheme.goldLight,
+                            DokkeyTheme.gold,
+                          ],
+                        ),
                         borderRadius: BorderRadius.circular(20),
-                        color: DokkeyTheme.gold.withOpacity(0.1),
+                        boxShadow: [
+                          BoxShadow(
+                            color: DokkeyTheme.gold.withOpacity(0.4),
+                            blurRadius: 10,
+                            offset: const Offset(0, 2),
+                          ),
+                        ],
+                        border: Border.all(color: const Color(0xFFFFF2B2), width: 1.2),
                       ),
                       child: Text(
                         '${BrandConfig.posterStamp(lang)} · DOK-KEY',
-                        style: TextStyle(
-                          color: DokkeyTheme.goldLight,
-                          fontSize: 11,
-                          letterSpacing: 3,
-                          fontWeight: FontWeight.bold,
+                        style: const TextStyle(
+                          color: Colors.black,
+                          fontSize: 13,
+                          letterSpacing: 2.0,
+                          fontWeight: FontWeight.w900,
                         ),
                       ),
                     ),

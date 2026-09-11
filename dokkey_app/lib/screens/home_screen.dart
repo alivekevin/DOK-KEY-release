@@ -8,6 +8,7 @@ import '../providers/dokkey_provider.dart';
 import '../widgets/riddle_dialog.dart';
 import '../widgets/dream_dialog.dart';
 import '../widgets/codex_master_dialog.dart';
+import '../games/kkaebi_arcade_hub.dart';
 import '../widgets/draw_cinematic_dialog.dart';
 import '../widgets/shop_dialog.dart';
 import '../widgets/settings_dialog.dart';
@@ -123,8 +124,8 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                   ),
                   child: ClipOval(
                     child: Image.asset(
-                      'assets/images/2d_processed/kkebi_cheer.png',
-                      fit: BoxFit.contain,
+                      'assets/images/kkaebi_face/face_02.webp',
+                      fit: BoxFit.cover,
                       errorBuilder: (_, __, ___) => Image.asset('assets/images/kkaebi_mascot.png'),
                     ),
                   ),
@@ -349,53 +350,113 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
 
     return Scaffold(
       appBar: AppBar(
+        titleSpacing: 20,
+        centerTitle: false,
         title: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Icon(Icons.vpn_key_rounded, color: DokkeyTheme.gold, size: 20),
+            Container(
+              width: 22,
+              height: 22,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                border: Border.all(color: DokkeyTheme.gold, width: 1.2),
+                boxShadow: [
+                  BoxShadow(
+                    color: DokkeyTheme.gold.withOpacity(0.3),
+                    blurRadius: 4,
+                  ),
+                ],
+              ),
+              child: ClipOval(
+                child: Image.asset(
+                  'assets/images/kkaebi_face/face_05.webp',
+                  fit: BoxFit.cover,
+                  errorBuilder: (_, __, ___) => Icon(Icons.vpn_key_rounded, color: DokkeyTheme.gold, size: 18),
+                ),
+              ),
+            ),
             const SizedBox(width: 8),
-            const Text('DOK-KEY', style: TextStyle(fontWeight: FontWeight.w900, letterSpacing: 2.0)),
+            const Text(
+              'DOK-KEY',
+              style: TextStyle(
+                fontWeight: FontWeight.w900,
+                fontSize: 18,
+                letterSpacing: 1.0,
+              ),
+            ),
           ],
         ),
         actions: [
           IconButton(
+            visualDensity: const VisualDensity(horizontal: -3, vertical: -3),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(minWidth: 34, minHeight: 34),
             onPressed: () => KkaebiCalendarDialog.show(context),
-            icon: Icon(Icons.calendar_month_rounded, color: DokkeyTheme.gold),
+            icon: Icon(Icons.calendar_month_rounded, color: DokkeyTheme.gold, size: 20),
             tooltip: isKo ? '깨비 운세 캘린더' : (isJa ? '運勢カレンダー' : 'Fortune Calendar'),
           ),
           IconButton(
+            visualDensity: const VisualDensity(horizontal: -3, vertical: -3),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(minWidth: 34, minHeight: 34),
             onPressed: () => ShopDialog.show(context),
-            icon: Icon(Icons.storefront_outlined, color: DokkeyTheme.gold),
+            icon: Icon(Icons.storefront_outlined, color: DokkeyTheme.gold, size: 20),
             tooltip: isKo ? '깨비의 만물상' : (isJa ? '万物店' : 'Shop'),
           ),
+          // v4.8.0: 깨비 오락실 허브
           IconButton(
+            visualDensity: const VisualDensity(horizontal: -3, vertical: -3),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(minWidth: 34, minHeight: 34),
+            onPressed: () => KkaebiArcadeHubDialog.show(context),
+            icon: Icon(Icons.sports_esports_rounded, color: DokkeyTheme.dokFire, size: 20),
+            tooltip: isKo ? '깨비 오락실 (9게임)' : (isJa ? 'ゲームセンター' : 'Kkaebi Arcade'),
+          ),
+          IconButton(
+            visualDensity: const VisualDensity(horizontal: -3, vertical: -3),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(minWidth: 34, minHeight: 34),
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const CardCodexScreen()),
               );
             },
-            icon: Icon(Icons.menu_book_rounded, color: DokkeyTheme.goldLight),
+            icon: Icon(Icons.menu_book_rounded, color: DokkeyTheme.goldLight, size: 20),
             tooltip: isKo ? '99 그랜드 도감' : (isJa ? '99 グランド図鑑' : '99 Grand Codex'),
           ),
           IconButton(
+            visualDensity: const VisualDensity(horizontal: -3, vertical: -3),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(minWidth: 34, minHeight: 34),
             onPressed: () => SettingsDialog.show(context),
-            icon: Icon(Icons.settings_outlined, color: DokkeyTheme.textMuted),
+            icon: Icon(Icons.settings_outlined, color: DokkeyTheme.textMuted, size: 20),
             tooltip: isKo ? '설정' : (isJa ? '設定' : 'Settings'),
           ),
           Padding(
-            padding: const EdgeInsets.only(right: 8),
-            child: TextButton(
-              onPressed: () => _showLanguageSheet(context),
-              child: Text(
-                provider.lang.toUpperCase(),
-                style: TextStyle(
-                  color: DokkeyTheme.gold,
-                  fontWeight: FontWeight.bold,
-                  fontSize: 13,
+            padding: const EdgeInsets.symmetric(horizontal: 4),
+            child: InkWell(
+              borderRadius: BorderRadius.circular(8),
+              onTap: () => _showLanguageSheet(context),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+                decoration: BoxDecoration(
+                  color: DokkeyTheme.gold.withOpacity(0.12),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: DokkeyTheme.gold.withOpacity(0.4), width: 1.0),
+                ),
+                child: Text(
+                  provider.lang.toUpperCase(),
+                  style: TextStyle(
+                    color: DokkeyTheme.gold,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 11,
+                  ),
                 ),
               ),
             ),
           ),
+          const SizedBox(width: 8),
         ],
       ),
       body: SeasonalAmbientBackground(

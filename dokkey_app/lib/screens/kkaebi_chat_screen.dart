@@ -1,7 +1,23 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
+import '../games/kkaebi_arcade_hub.dart';
+import '../games/kkaebi_breakout_game.dart';
+import '../games/kkaebi_bubble_game.dart';
+import '../games/kkaebi_cave_game.dart';
+import '../games/kkaebi_jungle_game.dart';
+import '../games/kkaebi_magic_square_game.dart';
+import '../games/kkaebi_minesweeper_game.dart';
+import '../games/kkaebi_shooter_game.dart';
+import '../games/kkaebi_sudoku_game.dart';
+import '../games/kkaebi_tetris_game.dart';
+import '../games/kkaebi_trivia_game.dart';
+import '../games/kkaebi_xsudoku_game.dart';
+import '../games/kkaebi_cross_magicsquare_game.dart';
+import '../games/kkaebi_hex_minesweeper_game.dart';
+import '../games/kkaebi_jigsaw_game.dart';
 import '../providers/dokkey_provider.dart';
 import '../widgets/kkaebi_face_widget.dart';
 import '../widgets/profile_onboarding_sheet.dart';
@@ -19,6 +35,162 @@ class KkaebiChatScreen extends StatefulWidget {
 }
 
 class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
+  int _gameSuggestStep = 0;
+
+  void _onDirectQuizPressed() {
+    HapticFeedback.selectionClick();
+    Navigator.of(context).push(
+      MaterialPageRoute(builder: (_) => const KkaebiTriviaGame()),
+    );
+  }
+
+  void _onAskGameSuggestion() async {
+    if (_isTyping) return;
+    final step = _gameSuggestStep++;
+
+    setState(() {
+      _messages.add(_ChatMessage(
+        isUser: true,
+        text: '게임해볼까?',
+      ));
+      _isTyping = true;
+    });
+    _scrollToBottom();
+
+    await Future.delayed(const Duration(milliseconds: 550));
+    if (!mounted) return;
+
+    SoundService().playSuccessChime();
+
+    final (kkaebiMsg, btnLabel, onPlay) = _getGameSuggestion(step % 14);
+
+    setState(() {
+      _isTyping = false;
+      _messages.add(_ChatMessage(
+        isUser: false,
+        text: kkaebiMsg,
+        actionLabel: btnLabel,
+        onAction: onPlay,
+      ));
+    });
+    _scrollToBottom();
+  }
+
+  (String, String, VoidCallback) _getGameSuggestion(int index) {
+    switch (index) {
+      case 0:
+        return (
+          '좋아! 이건 오락실에도 없는 비밀 서당의 그림 맞추기 퍼즐인데... 도감 신수·신격 카드의 조각을 맞춰볼래? 🧩✨',
+          '🧩 신수 도감 직소 퍼즐',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiJigsawGame()),
+              ),
+        );
+      case 1:
+        return (
+          '그럼, 스도쿠 게임은 어때? 4x4부터 9x9까지 숫자 퍼즐로 뇌를 깨워보자구! 🔢',
+          '🔢 깨비 스도쿠 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiSudokuGame()),
+              ),
+        );
+      case 2:
+        return (
+          '그럼, 마방진 게임은 어때? 가로·세로·대각선 합을 맞추는 신비한 마법진 퍼즐이야! 🧮',
+          '🧮 깨비 마방진 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiMagicSquareGame()),
+              ),
+        );
+      case 3:
+        return (
+          '그럼, 지뢰찾기는 어때? 도깨비 함정을 쏙쏙 피해서 부적 깃발을 꽂아봐! 💣',
+          '💣 깨비 지뢰찾기 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiMinesweeperGame()),
+              ),
+        );
+      case 4:
+        return (
+          '그럼, 대각선 X-스도쿠는 어때? 두 대각선까지 겹치지 않아야 하는 인기 두뇌 챌린지야! 🔢✨',
+          '🔢 X-스도쿠 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiXSudokuGame()),
+              ),
+        );
+      case 5:
+        return (
+          '그럼, 음양 크로스 마방진은 어때? 십자와 대각선이 교차하는 신비한 마법진이야! ☯️',
+          '☯️ 크로스 마방진 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiCrossMagicSquareGame()),
+              ),
+        );
+      case 6:
+        return (
+          '그럼, 육각 벌집 지뢰찾기는 어때? 6방향 벌집 레이더로 함정을 간파해봐! ⬡💣',
+          '⬡ 육각 지뢰찾기 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiHexMinesweeperGame()),
+              ),
+        );
+      case 7:
+        return (
+          '그럼, 테트리스는 어때? 떨어지는 블록들을 싹 정리해보자구! 🧱',
+          '🧱 깨비 테트리스 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiTetrisGame()),
+              ),
+        );
+      case 8:
+        return (
+          '그럼, 벽돌깨기는 어때? 시원하게 공을 튕겨서 3D 벽돌을 박살내보자! 💥',
+          '💥 깨비 벽돌깨기 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiBreakoutGame()),
+              ),
+        );
+      case 9:
+        return (
+          '그럼, 깨비 뽀글뽀글은 어때? 방울을 쏴서 몬스터를 가두고 터뜨려봐! 🫧',
+          '🫧 깨비 뽀글뽀글 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiBubbleGame()),
+              ),
+        );
+      case 10:
+        return (
+          '그럼, 깨비 X-RION 슈팅은 어때? 트윈 레이저와 폭탄으로 우주를 정복해봐! 🚀',
+          '🚀 깨비 X-RION 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiShooterGame()),
+              ),
+        );
+      case 11:
+        return (
+          '그럼, 깨비 고대유적은 어때? 은/금 열쇠를 찾고 굴러오는 거대 바위를 피해봐! 🏛️',
+          '🏛️ 깨비 고대유적 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiJungleGame()),
+              ),
+        );
+      case 12:
+        return (
+          '그럼, 깨비 윈드서퍼는 어때? 파도를 타고 더블 점프와 공중 스턴트 트릭을 펼쳐봐! 🏄',
+          '🏄 깨비 윈드서퍼 하러가기',
+          () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => const KkaebiCaveGame()),
+              ),
+        );
+      default:
+        return (
+          '오락실에 있는 모든 명작 게임들을 전부 둘러볼래? 🕹️✨',
+          '🕹️ 깨비 오락실 허브 열기',
+          () => KkaebiArcadeHubDialog.show(context),
+        );
+    }
+  }
+
   final List<_ChatMessage> _messages = [];
   final ScrollController _scrollCtrl = ScrollController();
   final Map<String, int> _topicStepCounts = {};
@@ -152,6 +324,41 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
 
     // 친밀도 경험치 획득
     await provider.addKkaebiAffection(10, reason: 'chat');
+
+    // 🌟 오늘 너무 지쳤어(healing) 5단계 완료 시 특별 감성 위로 & 보너스 보상
+    if (topicId == 'healing' && currentStep == 5) {
+      await provider.addKkaebiAffection(30, reason: 'healing_comfort');
+      await provider.addBonusKeys(1);
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            backgroundColor: const Color(0xFF2A1C0A),
+            behavior: SnackBarBehavior.floating,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(14),
+              side: const BorderSide(color: Color(0xFFFFD54F), width: 1.5),
+            ),
+            content: Row(
+              children: [
+                const Text('🌟', style: TextStyle(fontSize: 18)),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    isKo
+                        ? '깨비의 따뜻한 위로! 친밀도 +30 & 보너스 황금 열쇠 1개 획득 🔑'
+                        : (isJa
+                            ? 'クケビの温かい慰め！親密度 +30 & ボーナス鍵 +1 獲得 🔑'
+                            : "Kkaebi's warm comfort! Affection +30 & Bonus Key +1 earned 🔑"),
+                    style: const TextStyle(color: Color(0xFFFFE082), fontWeight: FontWeight.bold, fontSize: 12),
+                  ),
+                ),
+              ],
+            ),
+            duration: const Duration(seconds: 4),
+          ),
+        );
+      }
+    }
   }
 
   void _scrollToBottom() {
@@ -331,7 +538,65 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                   SingleChildScrollView(
                     scrollDirection: Axis.horizontal,
                     child: Row(
-                      children: topics.map((t) {
+                      children: [
+                        // 1순위: [❓ 상식/과학 퀴즈] — 1-Tap 즉시 상식/과학 퀴즈 게임 구동
+                        Padding(
+                          padding: const EdgeInsets.only(right: 8),
+                          child: ActionChip(
+                            backgroundColor: const Color(0xFF003D45),
+                            side: const BorderSide(
+                              color: Color(0xFF00E5FF),
+                              width: 1.4,
+                            ),
+                            label: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Text('❓', style: TextStyle(fontSize: 13)),
+                                const SizedBox(width: 5),
+                                Text(
+                                  isKo ? '상식/과학 퀴즈' : (isJa ? '常識・科学クイズ' : 'Trivia Quiz'),
+                                  style: const TextStyle(
+                                    color: Color(0xFF00E5FF),
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w900,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            onPressed: _isTyping ? null : _onDirectQuizPressed,
+                          ),
+                        ),
+
+                        // 2순위: [🕹️ 게임해볼까?] — 깨비 대화형 순환 추천 & 인라인 플레이 액션 (도깨비불 네온 테마)
+                        Padding(
+                          padding: const EdgeInsets.only(right: 8),
+                          child: ActionChip(
+                            backgroundColor: const Color(0xFF281845),
+                            side: const BorderSide(
+                              color: Color(0xFFB388FF),
+                              width: 1.4,
+                            ),
+                            label: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Text('🕹️', style: TextStyle(fontSize: 13)),
+                                const SizedBox(width: 5),
+                                Text(
+                                  isKo ? '게임해볼까?' : (isJa ? 'ゲームしようか?' : 'Play Games?'),
+                                  style: const TextStyle(
+                                    color: Color(0xFFE040FB),
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w900,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            onPressed: _isTyping ? null : _onAskGameSuggestion,
+                          ),
+                        ),
+
+                        // 기존 운세/고민 대화 주제 칩들
+                        ...topics.map((t) {
                         final topicId = t['id'] as String;
                         final count = _topicStepCounts[topicId] ?? 0;
                         final isExhausted = count >= 5;
@@ -363,11 +628,12 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                           ),
                         );
                       }).toList(),
-                    ),
+                    ],
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
+          ),
           ),
         ],
       ),
@@ -408,14 +674,47 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                   color: msg.isUser ? DokkeyTheme.gold : DokkeyTheme.borderDark,
                 ),
               ),
-              child: Text(
-                msg.text,
-                style: TextStyle(
-                  color: msg.isUser ? Colors.black : DokkeyTheme.textMain,
-                  fontSize: 14,
-                  height: 1.45,
-                  fontWeight: msg.isUser ? FontWeight.w600 : FontWeight.normal,
-                ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    msg.text,
+                    style: TextStyle(
+                      color: msg.isUser ? Colors.black : DokkeyTheme.textMain,
+                      fontSize: 14,
+                      height: 1.45,
+                      fontWeight: msg.isUser ? FontWeight.w600 : FontWeight.normal,
+                    ),
+                  ),
+                  if (msg.actionLabel != null && msg.onAction != null) ...[
+                    const SizedBox(height: 10),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        HapticFeedback.selectionClick();
+                        msg.onAction!();
+                      },
+                      icon: const Icon(Icons.play_arrow_rounded, size: 16, color: Colors.black87),
+                      label: Text(
+                        msg.actionLabel!,
+                        style: const TextStyle(
+                          color: Colors.black87,
+                          fontWeight: FontWeight.w900,
+                          fontSize: 13,
+                        ),
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: DokkeyTheme.gold,
+                        foregroundColor: Colors.black87,
+                        elevation: 2,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                      ),
+                    ),
+                  ],
+                ],
               ),
             ),
           ),
@@ -465,6 +764,13 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
 class _ChatMessage {
   final bool isUser;
   final String text;
+  final String? actionLabel;
+  final VoidCallback? onAction;
 
-  _ChatMessage({required this.isUser, required this.text});
-}
+  _ChatMessage({
+    required this.isUser,
+    required this.text,
+    this.actionLabel,
+    this.onAction,
+  });
+}

@@ -34,6 +34,45 @@ class DokkeyProvider extends ChangeNotifier {
   String get lang => _lang;
 
   int _keys = 1;
+  int _coins = 0;
+  int get coins => _coins;
+
+  String _arcadePlaysDate = '';
+  int _arcadePlaysToday = 0;
+  int get arcadePlaysToday => _arcadePlaysToday;
+  bool get arcadeQuotaRemaining => _isProUser || _arcadePlaysToday < 3;
+  int get arcadeQuotaDisplay => _isProUser ? -1 : _arcadePlaysToday.clamp(0, 3);
+
+  /// 아케이드 플레이 1회 소비 (무료 일 3회 / PRO 무제한). false면 쿼터 소진.
+  Future<bool> consumeArcadePlay() async {
+    if (!arcadeQuotaRemaining) return false;
+    if (!_isProUser) {
+      _arcadePlaysToday += 1;
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt('pref_arcade_plays', _arcadePlaysToday);
+      await prefs.setString('pref_arcade_plays_date',
+          DateFormat('yyyy-MM-dd').format(DateTime.now()));
+    }
+    notifyListeners();
+    return true;
+  }
+
+  /// 아케이드 플레이 횟수 리셋 및 무료 충전 (광고 시청 또는 테스트용)
+  Future<void> rechargeArcadePlays() async {
+    _arcadePlaysToday = 0;
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('pref_arcade_plays', 0);
+    await prefs.setString('pref_arcade_plays_date',
+        DateFormat('yyyy-MM-dd').format(DateTime.now()));
+    notifyListeners();
+  }
+
+  Future<void> addCoins(int amount) async {
+    _coins = (_coins + amount).clamp(0, 999999);
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('pref_coins', _coins);
+    notifyListeners();
+  }
   int get keys => _keys;
 
   int _streak = 1;
@@ -368,6 +407,16 @@ class DokkeyProvider extends ChangeNotifier {
     _userId = prefs.getString('pref_user_id') ?? 'user_${DateTime.now().millisecondsSinceEpoch % 100000}';
     _keys = prefs.getInt('pref_keys') ?? 1;
     _streak = prefs.getInt('pref_streak') ?? 1;
+
+    // v4.8.0: 아케이드 코인 & 일일 플레이 쿼터 로드
+    _coins = prefs.getInt('pref_coins') ?? 0;
+    final playsDate = prefs.getString('pref_arcade_plays_date') ?? '';
+    final todayDate = DateFormat('yyyy-MM-dd').format(DateTime.now());
+    if (playsDate == todayDate) {
+      _arcadePlaysToday = prefs.getInt('pref_arcade_plays') ?? 0;
+    } else {
+      _arcadePlaysToday = 0;
+    }
 
     // Load daily draws archive
     final archiveRaw = prefs.getStringList('pref_archive') ?? [];

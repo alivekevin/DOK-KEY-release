@@ -164,14 +164,14 @@ class QuoteHeroSection extends StatelessWidget {
         ),
         child: Row(
           children: [
-            // 좌측: 미니 3D 깨비 (감정 동기화 & 360도 턴테이블)
+            // 좌측: 미니 3D 깨비 (터치 12타 이스터에그 & 감정 동기화 & 360도 턴테이블)
             SizedBox(
               width: 64,
               height: 72,
               child: Kkaebi3DMascotWidget(
                 size: 62,
                 initialEmotion: fxEmotion,
-                enableInteraction: false,
+                enableInteraction: true,
                 enableAutoFloat: true,
               ),
             ),
@@ -185,23 +185,23 @@ class QuoteHeroSection extends StatelessWidget {
                 children: [
                   // 상단: 선명한 골드 뱃지
                   Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                     decoration: BoxDecoration(
-                      color: DokkeyTheme.gold.withValues(alpha: 0.22),
-                      borderRadius: BorderRadius.circular(6),
-                      border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.6), width: 0.8),
+                      color: DokkeyTheme.gold.withValues(alpha: 0.25),
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.7), width: 1.0),
                     ),
                     child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 12),
+                        Icon(Icons.auto_stories_rounded, color: DokkeyTheme.gold, size: 13),
                         const SizedBox(width: 4),
                         Text(
                           headerTitle,
                           style: TextStyle(
                             color: DokkeyTheme.goldLight,
                             fontWeight: FontWeight.w900,
-                            fontSize: 11,
+                            fontSize: 11.5,
                             letterSpacing: 0.6,
                           ),
                         ),
@@ -216,9 +216,9 @@ class QuoteHeroSection extends StatelessWidget {
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
                       color: DokkeyTheme.textMain,
-                      fontSize: 13.5,
+                      fontSize: 14.5,
                       height: 1.35,
-                      fontWeight: FontWeight.w700,
+                      fontWeight: FontWeight.w800,
                       letterSpacing: -0.2,
                     ),
                   ),
@@ -230,8 +230,8 @@ class QuoteHeroSection extends StatelessWidget {
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
                       color: DokkeyTheme.gold,
-                      fontSize: 11,
-                      fontWeight: FontWeight.w600,
+                      fontSize: 12,
+                      fontWeight: FontWeight.w700,
                     ),
                   ),
                 ],

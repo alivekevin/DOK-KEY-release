@@ -898,5 +898,455 @@
       "wrong": "Nope! Collect 99 keys and the title is yours!"
     },
     "id": "rid_050"
+  },
+  {
+    "question": "발은 없지만 온 세상을 돌아다니고, 손은 없지만 문을 흔드는 것은?",
+    "options": [
+      "바람",
+      "구름",
+      "그림자",
+      "소문"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 보이지 않아도 천하를 흔드는 바람의 기운이라네!",
+      "wrong": "땡! 손발 없이도 어디든 스쳐 지나가는 것이 무엇이겠느냐!"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "낮에는 숨어 있다가 밤이 되면 까만 하늘에 보석처럼 박히는 것은?",
+    "options": [
+      "별",
+      "등대",
+      "반딧불이",
+      "달무리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "맞았다! 어두운 밤하늘을 수놓는 별빛은 지혜의 길잡이지!",
+      "wrong": "땡! 밤하늘에 반짝이는 수천 개의 보석을 생각해 보아라!"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "머리에 빨간 모자를 쓰고 온몸을 태워 어둠을 몰아내는 것은?",
+    "options": [
+      "성냥",
+      "단풍잎",
+      "고추",
+      "봉선화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "정답! 찰나의 마찰로 불꽃을 피워내는 작은 거인 성냥이라네!",
+      "wrong": "땡! 붉은 머리를 긁어 불을 켜는 물건이란다!"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "집집마다 하나씩 있고, 매일 얼굴을 마주하지만 결코 말을 하지 않는 것은?",
+    "options": [
+      "거울",
+      "벽지",
+      "시계",
+      "문고리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "명답이다! 거울은 네 마음과 표정을 한 치의 거짓 없이 비춰주지!",
+      "wrong": "아깝구나! 네 모습을 그대로 되비춰주는 물건을 보아라!"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "소리는 없지만 마음을 울리고, 글자는 없지만 감정을 전하는 것은?",
+    "options": [
+      "미소 (웃음)",
+      "낙엽",
+      "눈물",
+      "침묵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "참으로 훌륭하다! 따뜻한 미소야말로 도깨비 방망이보다 강한 힘이지!",
+      "wrong": "땡! 얼굴 가득 피어나는 가장 따스한 표정을 떠올려보게나!"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "가진 자는 감추려 하고, 잃은 자는 아쉬워하며, 남에게 말하면 사라지는 것은?",
+    "options": [
+      "비밀",
+      "보석",
+      "돈",
+      "열쇠"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "크하하! 입 밖에 내는 순간 더 이상 비밀이 아니게 되지!",
+      "wrong": "땡! 오직 너와 나만 알고 있어야 지켜지는 것이라네!"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "갈 때는 가볍게 날아가고, 올 때는 무겁게 내려앉아 세상을 하얗게 덮는 것은?",
+    "options": [
+      "눈 (Snow)",
+      "밀가루",
+      "안개",
+      "소금"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답이다! 온 세상을 순백으로 덮는 겨울의 선물, 눈꽃이지!",
+      "wrong": "땡! 하늘에서 송이송이 내려 세상을 덮는 하얀 가루라네!"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "뿌리는 하늘에 두고 줄기와 잎은 땅으로 자라는 겨울 고드름의 별칭은?",
+    "options": [
+      "얼음 처마새",
+      "처마 고드름",
+      "하늘 나무",
+      "겨울 싹"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "맞았다! 처마 끝에 거꾸로 자라나는 맑고 투명한 유리창살이지!",
+      "wrong": "땡! 겨울날 처마 밑에 길게 매달리는 얼음 기둥을 보아라!"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "태어날 때는 네 발, 자라서는 두 발, 늙어서는 세 발로 걷는 것은?",
+    "options": [
+      "사람 (인간)",
+      "호랑이",
+      "도깨비",
+      "두꺼비"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "스핑크스도 감탄할 지혜로다! 아기, 청년, 지팡이를 짚은 노인의 인생길이지!",
+      "wrong": "땡! 인생의 사계절을 걸어가는 사람의 모습이라네!"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "늘 한자리에 서서 지나가는 길손에게 방향을 가리켜주는 돌기둥은?",
+    "options": [
+      "장승 (이정표)",
+      "솟대",
+      "돌탑",
+      "비석"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "천하대장군 지하여장군! 마을 어귀를 지키는 우리 민족의 수호신 장승이다!",
+      "wrong": "땡! 익살스러운 얼굴로 길을 안내해 주는 마을의 벗이라네!"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "던지면 솟구치고 굴러서 네 쪽의 나무쪽이 승부를 가르는 전통 놀이는?",
+    "options": [
+      "윷놀이",
+      "비석치기",
+      "제기차기",
+      "투호"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "도·개·걸·윷·모! 온 가족이 흥겹게 마당을 달리는 윷판이라네!",
+      "wrong": "땡! 박달나무 토막을 공중에 던져 말을 달리는 놀이란다!"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "발로 차면 공중에서 깃털을 날리며 사뿐사뿐 춤추는 전통 놀이기구는?",
+    "options": [
+      "제기",
+      "팽이",
+      "연",
+      "굴렁쇠"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "정답! 엽전에 한지를 싸서 발로 툭툭 차올리는 제기라네!",
+      "wrong": "땡! 발끝으로 떨어뜨리지 않고 통통 튕기는 것이지!"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "바람을 타고 하늘 높이 날아오르지만 가느다란 실 하나에 묶여 있는 것은?",
+    "options": [
+      "방패연 (연)",
+      "풍선",
+      "새장",
+      "그네"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "훨훨 날아라! 얼레 실을 풀고 감으며 하늘을 누비는 방패연이지!",
+      "wrong": "땡! 정월 대보름에 액운을 실어 하늘로 날려 보내던 것이란다!"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "채로 칠수록 더 신나게 팽팽 돌아가는 얼음판 위의 작은 팽이는?",
+    "options": [
+      "나무 팽이",
+      "바퀴",
+      "구슬",
+      "맷돌"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "빙글빙글 잘도 돈다! 채찍질할수록 더 꼿꼿이 서는 팽이라네!",
+      "wrong": "땡! 채찍 끈으로 휘감아 얼음 위에서 돌리던 것이란다!"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "두 개의 둥근 돌을 겹쳐 놓고 손잡이를 돌려 콩이나 곡식을 곱게 가는 기구는?",
+    "options": [
+      "맷돌",
+      "절구",
+      "디딜방아",
+      "가마솥"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "어처구니가 없으면 못 돌리지! 고소한 두부를 만드는 맷돌이라네!",
+      "wrong": "땡! 어처구니 손잡이를 잡고 빙글빙글 돌려 갈아내는 도구란다!"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "숨을 쉴수록 줄어들고, 쓰면 쓸수록 귀해지는 인간의 가장 소중한 자산은?",
+    "options": [
+      "시간 (세월)",
+      "황금",
+      "다이아몬드",
+      "비단"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "촌음()도 아껴 쓰라 했거늘! 흘러간 시간은 금으로도 살 수 없지!",
+      "wrong": "땡! 한번 흘러가면 결코 되돌릴 수 없는 귀한 것이라네!"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "어두울수록 더 맑게 빛나고, 폭풍우 속에서도 마음의 안식처가 되는 것은?",
+    "options": [
+      "희망 (꿈)",
+      "등불",
+      "반지",
+      "보물상자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "가장 깊은 어둠 속에서도 희망의 불씨 하나만 있으면 살아갈 수 있다깨비!",
+      "wrong": "땡! 가슴속에 품고 내일을 기다리게 만드는 밝은 마음이라네!"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "나누면 배가 되고, 가슴속에 품으면 온 세상이 따뜻해지는 도깨비의 선물은?",
+    "options": [
+      "사랑과 정",
+      "금화",
+      "보물",
+      "술잔"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "우리네 도깨비는 따뜻한 정이 넘치는 사람을 가장 사랑한다깨비!",
+      "wrong": "땡! 나누어줄수록 오히려 내 가슴이 더 풍족해지는 것이란다!"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "넘어지면 일으켜 세우고, 슬플 때 등을 토닥여주는 벗의 가장 큰 미덕은?",
+    "options": [
+      "위로와 공감",
+      "재물",
+      "훈계",
+      "침묵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "맞다! 진정한 벗은 슬플 때 함께 울어주고 손을 내미는 법이지!",
+      "wrong": "땡! 지친 마음에 건네는 따스한 말 한마디를 생각해보아라!"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "아침에는 이슬을 머금고 낮에는 해를 바라보며 늘 성실하게 살아가는 상징은?",
+    "options": [
+      "해바라기",
+      "선인장",
+      "소나무",
+      "연꽃"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "오직 밝은 태양만을 향해 고개를 드는 일편단심 해바라기이지!",
+      "wrong": "땡! 황금빛 꽃잎으로 태양을 쫓아 도는 꽃이라네!"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "진흙 속에서 자라나지만 더러움에 물들지 않고 청초한 꽃을 피우는 지혜의 꽃은?",
+    "options": [
+      "연꽃",
+      "국화",
+      "매화",
+      "수선화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "처염상정()! 세상의 유혹 속에서도 맑은 본성을 지키는 연꽃이라네!",
+      "wrong": "땡! 흙탕물 속에서도 고결한 자태를 잃지 않는 꽃을 떠올려보게나!"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "추운 겨울 눈보라 속에서도 푸른 잎을 잃지 않는 지조와 절개의 나무는?",
+    "options": [
+      "소나무",
+      "버드나무",
+      "단풍나무",
+      "은행나무"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "송죽()의 기상! 천년의 비바람에도 굳건한 푸른 소나무로다!",
+      "wrong": "땡! 사계절 내내 변함없이 푸르름을 간직하는 나무라네!"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "가장 먼저 봄 소식을 알리며 차가운 눈 속에서도 붉은 꽃망울을 터뜨리는 꽃은?",
+    "options": [
+      "설중매 (매화)",
+      "장미",
+      "나팔꽃",
+      "코스모스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "매서운 추위를 이겨내고 그윽한 향기를 뿜는 선비의 꽃, 매화로다!",
+      "wrong": "땡! 눈 속에서 피어나는 봄의 전령사를 찾아보아라!"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "속은 텅 비어 있으나 곧게 자라 마디마디를 단단히 채우는 절개의 상징은?",
+    "options": [
+      "대나무",
+      "갈대",
+      "수수",
+      "억새"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "비움으로써 더 곧게 자라는 지혜! 사군자의 대나무가 맞다깨비!",
+      "wrong": "땡! 속을 비워 바람에 부러지지 않고 유연한 초록 나무라네!"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "도깨비의 보물 창고를 열고 인생의 참된 지혜를 열어주는 신비한 열쇠는?",
+    "options": [
+      "도깨비 황금 열쇠 (DOK-KEY)",
+      "쇠열쇠",
+      "돌도끼",
+      "보물지도"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "와하하! 네가 매일 모으고 있는 지혜의 열쇠, 바로 DOK-KEY로다!",
+      "wrong": "땡! 우리 앱의 이름이자 지혜를 여는 황금 열쇠를 잊었느냐!"
+    },
+    "id": "rid_075"
   }
 ]

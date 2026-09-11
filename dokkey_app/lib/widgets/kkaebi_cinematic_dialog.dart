@@ -245,21 +245,21 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
 
                     const SizedBox(height: 24),
 
-                    // 자막 & 대사 말풍선
+                    // 자막 & 대사 말풍선 (고대비 크림 골드 & 발광 테두리)
                     Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+                      padding: const EdgeInsets.symmetric(horizontal: 22, vertical: 12),
                       decoration: BoxDecoration(
-                        color: DokkeyTheme.cardDark.withOpacity(0.92),
-                        borderRadius: BorderRadius.circular(20),
+                        color: const Color(0xFF0F121A).withOpacity(0.96),
+                        borderRadius: BorderRadius.circular(22),
                         border: Border.all(
-                          color: isImpactOrBurst ? DokkeyTheme.goldLight : DokkeyTheme.gold.withOpacity(0.6),
-                          width: isImpactOrBurst ? 2.0 : 1.2,
+                          color: isImpactOrBurst ? const Color(0xFFFFD700) : DokkeyTheme.gold.withOpacity(0.85),
+                          width: isImpactOrBurst ? 2.2 : 1.6,
                         ),
                         boxShadow: [
                           BoxShadow(
-                            color: (isImpactOrBurst ? DokkeyTheme.gold : Colors.black).withOpacity(0.4),
-                            blurRadius: isImpactOrBurst ? 18 : 10,
-                            spreadRadius: isImpactOrBurst ? 2 : 0,
+                            color: (isImpactOrBurst ? const Color(0xFFFFD700) : DokkeyTheme.gold).withOpacity(0.4),
+                            blurRadius: isImpactOrBurst ? 20 : 12,
+                            spreadRadius: isImpactOrBurst ? 2 : 1,
                           ),
                         ],
                       ),
@@ -267,10 +267,13 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
                         subtitle,
                         textAlign: TextAlign.center,
                         style: TextStyle(
-                          color: isImpactOrBurst ? DokkeyTheme.goldLight : Colors.white,
-                          fontSize: isImpactOrBurst ? 16.5 : 15,
-                          fontWeight: FontWeight.bold,
-                          letterSpacing: 0.5,
+                          color: isImpactOrBurst ? const Color(0xFFFFE066) : const Color(0xFFFFF4D0),
+                          fontSize: isImpactOrBurst ? 18.0 : 16.5,
+                          fontWeight: FontWeight.w900,
+                          letterSpacing: 0.8,
+                          shadows: const [
+                            Shadow(color: Colors.black, blurRadius: 6, offset: Offset(0, 1.5)),
+                          ],
                         ),
                       ),
                     ),

@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import 'screen_emotion_fx_overlay.dart';
+import 'kkaebi_easter_egg_dialog.dart';
 
 /// 3D 도깨비 마스코트 인터랙티브 뷰어
 /// - 상하 카메라 완전 고정 (수평 좌/우/앞/뒤 360° 턴테이블 회전)
@@ -47,7 +48,7 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
   EmotionType _currentEmotion = EmotionType.normal;
   Timer? _emotionResetTimer;
 
-  // 콤보 탭 (광클 폭주 트리거용)
+  // 콤보 탭 (광클 폭주 & 12타 이스터에그 트리거용)
   int _tapComboCount = 0;
   Timer? _comboResetTimer;
 
@@ -174,39 +175,106 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     }
   }
 
-  /// 사용자의 탭/터치 인터랙션
+  /// 사용자의 탭/터치 인터랙션 (12타 이스터에그 포함)
   void _onTapMascot() {
     HapticFeedback.lightImpact();
     SoundService().playSuccessChime();
 
     _tapComboCount++;
     _comboResetTimer?.cancel();
-    _comboResetTimer = Timer(const Duration(milliseconds: 1800), () {
+    _comboResetTimer = Timer(const Duration(milliseconds: 3200), () {
       _tapComboCount = 0;
     });
 
-    // 5연속 광클 콤보 달성 시 -> 분노(Rage Earthquake) 발동!
-    if (_tapComboCount >= 5) {
+    // 💥 12회 탭: 히든 이스터에그 발동 (1시간 고정 사다리 숫자 게임 모달 오픈!)
+    if (_tapComboCount >= 12) {
       _tapComboCount = 0;
+      SoundService().playAlchemyFanfare();
+      HapticFeedback.heavyImpact();
       triggerEmotion(
-        EmotionType.rage,
-        triggerScreenFx: true,
-        message: '으아앗! 날 그만 찔러! 도깨비 폭주다~! ⚡💥',
+        EmotionType.joy,
+        triggerScreenFx: false,
+        message: '💥 도깨비 방망이 소환! 행운의 사다리 번호 오픈~! ✨',
       );
+      KkaebiEasterEggDialog.show(context);
+      widget.onTap?.call();
       return;
     }
 
-    // 3연속 탭 시 -> 도깨비불 각성
+    // ⚡ 11회 탭: 최종 이스터에그 소환 직전 예고 연출
+    if (_tapComboCount == 11) {
+      HapticFeedback.mediumImpact();
+      triggerEmotion(
+        EmotionType.shock,
+        triggerScreenFx: false,
+        message: '어라...? 방망이에서 신비한 숫자의 빛이 뿜어져 나온다...?! ✨',
+      );
+      widget.onTap?.call();
+      return;
+    }
+
+    // ⚡ 10회 탭: 2차 폭주 (2회전 지진/화면 깨짐 FX)
+    if (_tapComboCount == 10) {
+      HapticFeedback.heavyImpact();
+      triggerEmotion(
+        EmotionType.rage,
+        triggerScreenFx: true,
+        message: '우와아앗! 도깨비 대폭주 2단계!! ⚡💥🔥',
+      );
+      widget.onTap?.call();
+      return;
+    }
+
+    // 7~9회 탭: 호기심 및 도깨비불 점화
+    if (_tapComboCount == 7) {
+      triggerEmotion(
+        EmotionType.curious,
+        message: '또 찌르는 거야?! 방망이가 들썩거리는데...?! 🌀',
+      );
+      widget.onTap?.call();
+      return;
+    }
+    if (_tapComboCount == 8) {
+      triggerEmotion(
+        EmotionType.fire,
+        message: '도깨비불이 활활 타오른다! 🔥✨',
+      );
+      widget.onTap?.call();
+      return;
+    }
+    if (_tapComboCount == 9) {
+      triggerEmotion(
+        EmotionType.shy,
+        message: '간지럽다고 했잖아~! 헤헤 💖',
+      );
+      widget.onTap?.call();
+      return;
+    }
+
+    // ⚡ 5회 탭: 1차 폭주 (1회전 지진/화면 깨짐 FX)
+    if (_tapComboCount == 5) {
+      HapticFeedback.mediumImpact();
+      triggerEmotion(
+        EmotionType.rage,
+        triggerScreenFx: true,
+        message: '으아앗! 날 그만 찔러! 도깨비 폭주 1단계다~! ⚡💥',
+      );
+      widget.onTap?.call();
+      return;
+    }
+
+    // 3회 탭: 도깨비불 각성
     if (_tapComboCount == 3) {
       triggerEmotion(
         EmotionType.fire,
         triggerScreenFx: false,
         message: '도깨비불이 솟아오른다! 🔥✨',
       );
+      widget.onTap?.call();
       return;
     }
 
-    // 일반 1회 탭
+    // 일반 1, 2, 4, 6회 탭
     final randomMessages = [
       '안녕! 오늘도 좋은 기운이 가득해! ✨',
       '날 돌려보거나 만져봐도 돼! 🌀',
