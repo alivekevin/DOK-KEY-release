@@ -1,4 +1,3 @@
-import '../models/dokkey_models.dart';
 import '../widgets/quote_poster_dialog.dart';
 import '../core/key_combiner_engine.dart';
 import '../core/sound_service.dart';
@@ -196,72 +195,6 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
     );
   }
 
-  void _showCloudVaultDialog(BuildContext context) {
-    final provider = context.read<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
-
-    showDialog(
-      context: context,
-      builder: (ctx) => AlertDialog(
-        backgroundColor: DokkeyTheme.cardDark,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(24),
-          side: BorderSide(color: DokkeyTheme.gold, width: 1.5),
-        ),
-        title: Row(
-          children: [
-            Icon(Icons.cloud_sync_outlined, color: DokkeyTheme.gold),
-            const SizedBox(width: 8),
-            Text(
-              isKo ? 'Zero-Login 개인 클라우드 볼트' : 'Zero-Login Personal Vault',
-              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-            ),
-          ],
-        ),
-        content: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            Text(
-              isKo
-                  ? '내가 완성한 소중한 조합 키와 수집 숫자를 안전하게 백업하고 복원하는 Zero-Login 개인 볼트입니다.'
-                  : 'Backup and restore your generated combined keys and collected numbers safely without any central servers.',
-              style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 13),
-            ),
-            const SizedBox(height: 16),
-            ElevatedButton.icon(
-              onPressed: () {
-                final backupJson = provider.exportVaultBackup();
-                Clipboard.setData(ClipboardData(text: backupJson));
-                Navigator.of(ctx).pop();
-                ScaffoldMessenger.of(context).showSnackBar(
-                  SnackBar(
-                    content: Text(isKo ? '볼트 백업 JSON이 복사되었습니다! 📋' : 'Vault JSON copied to clipboard! 📋'),
-                    backgroundColor: DokkeyTheme.surfaceDark,
-                  ),
-                );
-              },
-              icon: const Icon(Icons.download_rounded, size: 18),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: DokkeyTheme.gold,
-                foregroundColor: Colors.black,
-              ),
-              label: Text(isKo ? '볼트 백업 데이터 내보내기 (복사)' : 'Export Vault Backup',
-                  style: const TextStyle(fontWeight: FontWeight.bold)),
-            ),
-          ],
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(ctx).pop(),
-            child: Text(isKo ? '닫기' : 'Close', style: TextStyle(color: DokkeyTheme.gold)),
-          ),
-        ],
-      ),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
@@ -269,17 +202,12 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
     final isJa = provider.lang == 'ja';
     final sourceList = provider.sourceNumbers;
     final maxAvailable = sourceList.length;
-    final sortedList = _applySortFilter(sourceList);
-
     // 유니크 모드에서 N이 보유 수를 넘으면 자동 보정
     if (!_allowDuplicates && maxAvailable >= 2 && _targetCount > maxAvailable) {
       _targetCount = maxAvailable;
     } else if (_targetCount < 2) {
       _targetCount = 2;
     }
-
-    // 기운 컬러 필터 옵션 (보유 풀 기준)
-    final toneColors = <String?>[null, ...{for (final s in sourceList) s.lastToneColor}];
 
     final combinedCount = provider.combinedKeys.length;
 

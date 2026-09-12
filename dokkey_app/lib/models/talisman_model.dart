@@ -1,5 +1,3 @@
-import 'package:flutter/foundation.dart';
-
 /// 🎴 DOK-KEY 18-Talisman Data Model & Master Registry
 enum TalismanCategory {
   daily,    // 상시 데일리 부적 (10종)

@@ -37,7 +37,6 @@ class DokkeyProvider extends ChangeNotifier {
   int _coins = 0;
   int get coins => _coins;
 
-  String _arcadePlaysDate = '';
   int _arcadePlaysToday = 0;
   int get arcadePlaysToday => _arcadePlaysToday;
   bool get arcadeQuotaRemaining => _isProUser || _arcadePlaysToday < 3;
@@ -55,16 +54,6 @@ class DokkeyProvider extends ChangeNotifier {
     }
     notifyListeners();
     return true;
-  }
-
-  /// 아케이드 플레이 횟수 리셋 및 무료 충전 (광고 시청 또는 테스트용)
-  Future<void> rechargeArcadePlays() async {
-    _arcadePlaysToday = 0;
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setInt('pref_arcade_plays', 0);
-    await prefs.setString('pref_arcade_plays_date',
-        DateFormat('yyyy-MM-dd').format(DateTime.now()));
-    notifyListeners();
   }
 
   Future<void> addCoins(int amount) async {
@@ -101,18 +90,31 @@ class DokkeyProvider extends ChangeNotifier {
   List<SourceNumberItem> _sourceNumbers = [];
   List<SourceNumberItem> get sourceNumbers => _sourceNumbers;
 
-  // --- Monetization & Pro Pass (99-Slot Expansion & Ad-Free) ---
+  // --- Monetization & Pro Pass (BM v5.1: 1년 구독 / 평생 소장) ---
   bool _isProUser = false;
   bool get isProUser => _isProUser;
+  String _proPlan = ''; // 'yearly' | 'lifetime' ('' = 미구매)
+  String get proPlan => _proPlan;
+  DateTime? _proExpiry; // 1년권 만료일 (평생권은 null)
+  DateTime? get proExpiry => _proExpiry;
   static const int maxFreeCombinedSlots = 9;
   static const int maxProCombinedSlots = 99;
   int get maxCombinedSlots => _isProUser ? maxProCombinedSlots : maxFreeCombinedSlots;
   bool get canAddCombinedKey => _combinedKeys.length < maxCombinedSlots;
 
-  Future<void> upgradeToProPass() async {
+  /// BM v5.1: 플랜별 PRO 활성화 (1년권 = 365일 후 자동 만료 / 평생권 = 만료 없음)
+  Future<void> upgradeToProPass({bool lifetime = false}) async {
     _isProUser = true;
+    _proPlan = lifetime ? 'lifetime' : 'yearly';
+    _proExpiry = lifetime ? null : DateTime.now().add(const Duration(days: 365));
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('dokkey_is_pro_user', true);
+    await prefs.setString('dokkey_pro_plan', _proPlan);
+    if (_proExpiry != null) {
+      await prefs.setInt('dokkey_pro_expiry_ms', _proExpiry!.millisecondsSinceEpoch);
+    } else {
+      await prefs.remove('dokkey_pro_expiry_ms');
+    }
     // 프로 패스 활성화 시 만료 제한 해제 (장기 보관)
     final newExpiry = DateTime.now().add(proKeyTtl);
     for (final key in _combinedKeys) {
@@ -452,6 +454,29 @@ class DokkeyProvider extends ChangeNotifier {
     _lastBonusBoxClaimDate = prefs.getString('pref_last_bonus_box_date');
     _onboardingDismissed = prefs.getBool('pref_onboarding_dismissed') ?? false;
     _isProUser = prefs.getBool('dokkey_is_pro_user') ?? false;
+    // BM v5.1: PRO 플랜/만료 복원 — 1년권 기간 경과 시 자동 강등 (무료 한도 재적용)
+    _proPlan = prefs.getString('dokkey_pro_plan') ?? '';
+    final proExpiryMs = prefs.getInt('dokkey_pro_expiry_ms');
+    _proExpiry = proExpiryMs != null ? DateTime.fromMillisecondsSinceEpoch(proExpiryMs) : null;
+    if (_isProUser && _proExpiry != null && !_proExpiry!.isAfter(DateTime.now())) {
+      _isProUser = false;
+      _proPlan = '';
+      _proExpiry = null;
+      await prefs.setBool('dokkey_is_pro_user', false);
+      await prefs.remove('dokkey_pro_plan');
+      await prefs.remove('dokkey_pro_expiry_ms');
+      // 무료 등급 복귀: PRO 기간에 10년으로 연장됐던 생존 키의 만료를
+      // 무료 7일 TTL 상한으로 클램프해야 7일 순환 정책이 유지된다.
+      final freeExpiryCap = DateTime.now().add(freeKeyTtl);
+      var ttlClamped = false;
+      for (final key in _combinedKeys) {
+        if (key.expiresAt != null && key.expiresAt!.isAfter(freeExpiryCap)) {
+          key.expiresAt = freeExpiryCap;
+          ttlClamped = true;
+        }
+      }
+      if (ttlClamped) await _saveCombinedKeys(prefs);
+    }
 
     // PHASE 5/6: collected numbers & codex master achievement
     final collectedRaw = prefs.getStringList('pref_collected_numbers') ?? [];

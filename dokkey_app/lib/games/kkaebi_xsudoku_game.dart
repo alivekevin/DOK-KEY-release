@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../core/sound_service.dart';
-import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 import 'core/game_shell.dart';
 

@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:math';
-import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -470,7 +469,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
     final score = max(100, (1000 * _size - _seconds * 3 - _moveCount * 5)).clamp(100, 5000);
     SoundService().playSuccessChime();
 
-    final reward = await dispatchGameReward(
+    await dispatchGameReward(
       context,
       gameId: KkaebiMagicSquareGame.gameId,
       score: score,

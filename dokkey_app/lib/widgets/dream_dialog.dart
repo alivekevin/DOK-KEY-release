@@ -84,9 +84,6 @@ class _DreamDialogState extends State<DreamDialog> {
     final selected = _selected;
 
     String title = isKo ? '깨비의 꿈풀이' : (isJa ? 'クケビの夢占い' : "Kkaebi's Dream Reading");
-    String prompt = isKo
-        ? '꿈의 내용을 검색하거나 상징을 골라보거라'
-        : (isJa ? '夢の内容を検索するか、象徴を選んでみて' : 'Search your dream or pick a symbol');
     String dailyLabel = isKo ? '오늘의 추천 상징' : (isJa ? '今日のおすすめ象徴' : "Today's Suggested Symbol");
     String searchHint = isKo
         ? '예: 호랑이한테 쫓기는 꿈'

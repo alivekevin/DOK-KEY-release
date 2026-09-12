@@ -2,8 +2,10 @@ import 'dart:async';
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
+import '../providers/dokkey_provider.dart';
 import 'screen_emotion_fx_overlay.dart';
 import 'kkaebi_easter_egg_dialog.dart';
 
@@ -175,6 +177,24 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     }
   }
 
+  /// 💥 12연타 사다리 번호 소환 메시지 (6개국어)
+  static String _ladderSummonText(String lang) {
+    switch (lang) {
+      case 'ja':
+        return '💥 魔棒召喚！運命のあみだくじ番号オープン~! ✨';
+      case 'zh':
+        return '💥 妖棒召唤！幸运梯子号码开启~! ✨';
+      case 'hi':
+        return '💥 जादुई छड़ी आह्वान! भाग्यशाली लैडर नंबर खुला~! ✨';
+      case 'de':
+        return '💥 Zauberkeule beschworen! Glücks-Leiterzahl offen~! ✨';
+      case 'en':
+        return '💥 Magic bat summoned! Lucky ladder number open~! ✨';
+      default:
+        return '💥 도깨비 방망이 소환! 행운의 사다리 번호 오픈~! ✨';
+    }
+  }
+
   /// 사용자의 탭/터치 인터랙션 (12타 이스터에그 포함)
   void _onTapMascot() {
     HapticFeedback.lightImpact();
@@ -194,7 +214,7 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.joy,
         triggerScreenFx: false,
-        message: '💥 도깨비 방망이 소환! 행운의 사다리 번호 오픈~! ✨',
+        message: _ladderSummonText(context.read<DokkeyProvider>().lang),
       );
       KkaebiEasterEggDialog.show(context);
       widget.onTap?.call();

@@ -1,10 +1,11 @@
+import 'dart:async';
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../core/theme.dart';
 import '../core/sound_service.dart';
+import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 
 /// 🎲 깨비 12연타 이스터에그 서비스 (1시간 고정 번호 관리)
@@ -63,10 +64,14 @@ class _KkaebiEasterEggDialogState extends State<KkaebiEasterEggDialog>
   late AnimationController _pulseCtrl;
   late Animation<double> _scaleAnim;
   late Animation<double> _glowAnim;
+  final math.Random _rollRandom = math.Random();
+  Timer? _tickTimer;
 
-  int? _number;
+  int? _displayNumber;
+  String? _loadedSlot;
   int _remainingMinutes = 60;
   bool _isLoading = true;
+  bool _isRevealing = false;
 
   @override
   void initState() {
@@ -85,21 +90,61 @@ class _KkaebiEasterEggDialogState extends State<KkaebiEasterEggDialog>
     );
 
     _loadNumber();
+    // 🕒 15초 주기: 카운트다운 갱신 + 정시 전환 감지 시 새 번호 자동 재추첨
+    _tickTimer = Timer.periodic(const Duration(seconds: 15), (_) => _onTick());
   }
 
   Future<void> _loadNumber() async {
+    if (_isRevealing) return;
+    _isRevealing = true;
+    final slot = KkaebiEasterEggService.getCurrentHourSlotKey();
     final num = await KkaebiEasterEggService.getHourlyNumber();
     final remaining = KkaebiEasterEggService.getRemainingMinutes();
-    if (!mounted) return;
+    if (!mounted) {
+      _isRevealing = false;
+      return;
+    }
+    _loadedSlot = slot;
+    // 🎰 슬롯머신 롤링 연출 후 운명 숫자 확정
+    setState(() => _isLoading = false);
+    for (var i = 0; i < 12; i++) {
+      if (!mounted) {
+        _isRevealing = false;
+        return;
+      }
+      setState(() => _displayNumber = _rollRandom.nextInt(10));
+      await Future.delayed(const Duration(milliseconds: 55));
+    }
+    if (!mounted) {
+      _isRevealing = false;
+      return;
+    }
+    HapticFeedback.mediumImpact();
+    SoundService().playGong();
     setState(() {
-      _number = num;
+      _displayNumber = num;
       _remainingMinutes = remaining;
-      _isLoading = false;
     });
+    _isRevealing = false;
+  }
+
+  /// 🕒 주기 동기화: 잔여 시간 갱신 + 정시 전환 감지 시 새 번호 재추첨
+  Future<void> _onTick() async {
+    if (_isRevealing) return;
+    final slot = KkaebiEasterEggService.getCurrentHourSlotKey();
+    if (slot != _loadedSlot) {
+      await _loadNumber();
+      return;
+    }
+    final remaining = KkaebiEasterEggService.getRemainingMinutes();
+    if (mounted && remaining != _remainingMinutes) {
+      setState(() => _remainingMinutes = remaining);
+    }
   }
 
   @override
   void dispose() {
+    _tickTimer?.cancel();
     _pulseCtrl.dispose();
     super.dispose();
   }
@@ -388,7 +433,7 @@ class _KkaebiEasterEggDialogState extends State<KkaebiEasterEggDialog>
                                     ],
                                   ),
                                   child: Text(
-                                    '${_number ?? 0}',
+                                    '${_displayNumber ?? 0}',
                                     style: TextStyle(
                                       fontSize: 115,
                                       fontWeight: FontWeight.w900,

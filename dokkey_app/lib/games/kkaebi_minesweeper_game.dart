@@ -328,7 +328,7 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
         ? max(150, (1200 * (_diff + 1) - _seconds * 4)).clamp(150, 6000)
         : max(20, (_seconds * 2));
 
-    final reward = await dispatchGameReward(
+    await dispatchGameReward(
       context,
       gameId: KkaebiMinesweeperGame.gameId,
       score: score,

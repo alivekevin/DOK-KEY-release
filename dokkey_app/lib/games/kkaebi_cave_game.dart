@@ -1,12 +1,10 @@
 import 'dart:math';
-import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../core/sound_service.dart';
-import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 import 'core/game_shell.dart';
 
@@ -1035,25 +1033,25 @@ class _OceanSurferPainter extends CustomPainter {
 
     // 1. 열대 바다 배경 그라데이션
     final bgPaint = Paint()
-      ..shader = ui.Gradient.linear(
-        Offset(0, 0),
-        Offset(0, h),
-        model.isFever
-            ? [
-                const Color(0xFF4A148C),
-                const Color(0xFF006064),
-                const Color(0xFF00E5FF),
+      ..shader = LinearGradient(
+        begin: Alignment.topCenter,
+        end: Alignment.bottomCenter,
+        colors: model.isFever
+            ? const [
+                Color(0xFF4A148C),
+                Color(0xFF006064),
+                Color(0xFF00E5FF),
               ]
-            : [
-                const Color(0xFF0D47A1),
-                const Color(0xFF00838F),
-                const Color(0xFF00E5FF),
+            : const [
+                Color(0xFF0D47A1),
+                Color(0xFF00838F),
+                Color(0xFF00E5FF),
               ],
-      );
+      ).createShader(Rect.fromLTWH(0, 0, w, h));
     canvas.drawRect(Rect.fromLTWH(0, 0, w, h), bgPaint);
 
     // 2. 부드럽고 우아한 바다 파도 너울 (4단 소프트 롤링 파도)
-    final numWaves = 4;
+    const numWaves = 4;
     final waveSpacing = (h + 120) / numWaves;
 
     for (var i = 0; i < numWaves; i++) {
@@ -1087,14 +1085,7 @@ class _OceanSurferPainter extends CustomPainter {
           ..lineTo(0, waveY + 22 + depth * 15)
           ..close();
         final fillPaint = Paint()
-          ..shader = ui.Gradient.linear(
-            Offset(0, waveY),
-            Offset(0, waveY + 22 + depth * 15),
-            [
-              Colors.cyanAccent.withOpacity(0.04 + depth * 0.04),
-              Colors.transparent,
-            ],
-          );
+          ..color = Colors.cyanAccent.withOpacity(0.04 + depth * 0.04);
         canvas.drawPath(shadowPath, fillPaint);
       }
     }

@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../core/sound_service.dart';
-import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 import 'core/game_shell.dart';
 
@@ -238,7 +237,6 @@ class _KkaebiHexMinesweeperGameState extends State<KkaebiHexMinesweeperGame> {
   @override
   Widget build(BuildContext context) {
     final isKo = context.watch<DokkeyProvider>().lang == 'ko';
-    final remainingMines = (model.totalMines - model.flagsPlaced).clamp(0, 99);
 
     return Scaffold(
       backgroundColor: const Color(0xFF0F172A),

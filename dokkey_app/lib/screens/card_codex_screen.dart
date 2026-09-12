@@ -140,7 +140,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                             )
                           else if (currentLocalUri != null && currentLocalUri.isNotEmpty)
                             Image.asset(
-                              currentLocalUri!,
+                              currentLocalUri,
                               fit: BoxFit.cover,
                               errorBuilder: (_, __, ___) => _buildSelectPhotoPlaceholder(),
                             )
@@ -1545,7 +1545,7 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                   child: Column(
                     children: [
                       Text(
-                        hasMemo ? memo! : '소원을 향해 한 걸음씩 나아가면\n황금 열쇠의 문이 열립니다!',
+                        hasMemo ? memo : '소원을 향해 한 걸음씩 나아가면\n황금 열쇠의 문이 열립니다!',
                         textAlign: TextAlign.center,
                         style: TextStyle(color: DokkeyTheme.textMain, fontSize: 11, height: 1.35),
                       ),

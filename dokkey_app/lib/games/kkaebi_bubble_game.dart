@@ -641,14 +641,6 @@ class _KkaebiBubbleGameState extends State<KkaebiBubbleGame>
       );
 
       // 깨비 캐릭터 (도깨비 요정)
-      final tp = TextPainter(
-        text: TextSpan(
-          text: model!.playerFacingLeft ? '👈 깨비' : '깨비 👉',
-          style: const TextStyle(fontSize: 0),
-        ),
-        textDirection: TextDirection.ltr,
-      );
-
       final kkaebiIcon = model!.playerFacingLeft ? '👺' : '👺';
       final charTp = TextPainter(
         text: TextSpan(

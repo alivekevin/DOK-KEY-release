@@ -8,7 +8,6 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../core/sound_service.dart';
-import '../../core/theme.dart';
 import '../../providers/dokkey_provider.dart';
 
 /// 🕹️ DOK-KEY 아케이드 공용 셸 (v4.8.0)

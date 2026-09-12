@@ -13,6 +13,12 @@ class BrandConfig {
   /// Wisdom-First IA 활성화 플래그 — 롤백 시 false 한 줄로 기존 운세 중심 홈 복귀.
   static bool wisdomFirstEnabled = true;
 
+  /// 💳 실제 결제(IAP) 연동 플래그 — 스토어 심사 안전장치.
+  /// false인 릴리즈 빌드에서는 유료 SKU(PRO 플랜·황금 열쇠 주머니)를
+  /// 무료로 지급하는 버튼이 작동하지 않는다 (가격 표시는 플랜 안내로 유지).
+  /// in_app_purchase 실연동(백로그 1순위) 완료 후 true로 전환.
+  static const bool billingEnabled = false;
+
   static Map<String, dynamic>? _data;
   static bool _loaded = false;
 

@@ -1,5 +1,8 @@
+import 'package:flutter/foundation.dart' show kDebugMode;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import '../core/brand_config.dart';
+import '../core/pricing.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../providers/dokkey_provider.dart';
@@ -21,6 +24,8 @@ class ShopDialog extends StatelessWidget {
     final provider = context.watch<DokkeyProvider>();
     final isKo = provider.lang == 'ko';
     final isJa = provider.lang == 'ja';
+    // 💰 BM v5.1 가격 SSOT (lib/core/pricing.dart) — 드리프트 방지 단일 공급원
+    final pricing = ProPricing.of(provider.lang);
 
     return Dialog(
       backgroundColor: Colors.transparent,
@@ -149,21 +154,29 @@ class ShopDialog extends StatelessWidget {
                   }
                 },
               ),
-              // Item 4: DOK-KEY PRO (1년 이용권) — BM v5
+              // Item 4: DOK-KEY PRO (1년 구독 / 평생 소장) — BM v5.1
               _ShopItem(
                 icon: Icons.workspace_premium_rounded,
                 iconColor: DokkeyTheme.gold,
                 title: isKo
-                    ? '👑 DOK-KEY PRO (1년 이용권)'
+                    ? '👑 DOK-KEY PRO (1년 구독 / 평생 소장)'
                     : (isJa
-                        ? 'DOK-KEY プロ (1年プラン)'
+                        ? '👑 DOK-KEY プロ (1年/永久)'
                         : (provider.lang == 'zh'
-                            ? 'DOK-KEY 专业版 (1年)'
-                            : (provider.lang == 'de' ? 'DOK-KEY PRO (1 Jahr)' : (provider.lang == 'hi' ? 'DOK-KEY प्रो (1 वर्ष)' : 'DOK-KEY PRO (1-Year)')))),
+                            ? '👑 DOK-KEY 专业版 (1年/终身)'
+                            : (provider.lang == 'de' ? '👑 DOK-KEY PRO (1 Jahr/Lifetime)' : (provider.lang == 'hi' ? '👑 DOK-KEY प्रो (1 वर्ष/लाइफटाइम)' : '👑 DOK-KEY PRO (Yearly/Lifetime)')))),
                 subtitle: isKo
-                    ? '₩2,500 / 1년 · 모든 기능 잠금해제 (99슬롯·부적 33·광고 제거·+3뽑기)'
-                    : '\$1.99 / Year · All-Features Unlocked (99 slots · talismans · ad-free · +3 draws)',
-                badge: provider.isProUser ? 'PRO 👑' : (isKo ? '₩2,500' : '\$1.99'),
+                    ? '1년 ${pricing.yearly} · 평생 ${pricing.lifetime} — 99슬롯·오락실 무제한·광고 제거·+3뽑기'
+                    : (isJa
+                        ? '1年 ${pricing.yearly} · 永久 ${pricing.lifetime} — 全機能アンロック (99スロット·広告なし·+3抽出)'
+                        : (provider.lang == 'zh'
+                            ? '1年 ${pricing.yearly} · 终身 ${pricing.lifetime} — 全功能解锁 (99格·无广告·+3抽取)'
+                            : (provider.lang == 'de'
+                                ? '${pricing.yearly}/Jahr · ${pricing.lifetime} Lifetime — Alle Funktionen (99 Slots · werbefrei · +3 Ziehungen)'
+                                : (provider.lang == 'hi'
+                                    ? '${pricing.yearly}/वर्ष · ${pricing.lifetime} लाइफटाइम — सभी फ़ीचर्स अनलॉक (99 स्लॉट · विज्ञापन मुक्त · +3 ड्रॉ)'
+                                    : '${pricing.yearly} / Year · ${pricing.lifetime} Lifetime — All-Features Unlocked (99 slots · ad-free · +3 draws)')))),
+                badge: provider.isProUser ? 'PRO 👑' : (isKo ? '${pricing.yearly}~' : 'From ${pricing.yearly}'),
                 badgeColor: DokkeyTheme.gold,
                 isEnabled: true,
                 onTap: () {
@@ -183,12 +196,33 @@ class ShopDialog extends StatelessWidget {
                             ? '🗝️ 黄金钥匙10个锦囊'
                             : (provider.lang == 'de' ? '🗝️ Goldschlüssel-Bundle (10)' : (provider.lang == 'hi' ? '🗝️ गोल्डन की 10 पाउच' : '🗝️ Golden Key Pouch ×10')))),
                 subtitle: isKo
-                    ? '₩1,200 · 소모품 — 지금 바로 뽑기/연성용 열쇠 10개'
-                    : '\$0.99 · Consumable — 10 keys for instant draws & forging',
-                badge: isKo ? '₩1,200' : '\$0.99',
+                    ? '${pricing.pouch} · 소모품 — 지금 바로 뽑기/연성용 열쇠 10개'
+                    : (isJa
+                        ? '${pricing.pouch} · 消耗品 — 今すぐ抽選/錬成用の鍵10個'
+                        : (provider.lang == 'zh'
+                            ? '${pricing.pouch} · 消耗品 — 立即抽取/炼成用钥匙10个'
+                            : (provider.lang == 'de'
+                                ? '${pricing.pouch} · Verbrauchsgut — 10 Schlüssel zum Sofort-Drehen & Schmieden'
+                                : (provider.lang == 'hi'
+                                    ? '${pricing.pouch} · उपभोग्य — तुरंत ड्रॉ/फोर्जिंग के लिए 10 चाबियाँ'
+                                    : '${pricing.pouch} · Consumable — 10 keys for instant draws & forging')))),
+                badge: pricing.pouch,
                 badgeColor: DokkeyTheme.mintCalm,
                 isEnabled: true,
                 onTap: () async {
+                  // 💳 결제 미연동 릴리즈 빌드: 유료 소모품 무료 지급 차단 (스토어 정책)
+                  if (!BrandConfig.billingEnabled && !kDebugMode) {
+                    SoundService().playCardFlip();
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text(
+                          isKo ? '🔒 스토어 출시 버전에서 구매할 수 있습니다' : '🔒 Available for purchase in the store release',
+                        ),
+                        backgroundColor: DokkeyTheme.surfaceDark,
+                      ),
+                    );
+                    return;
+                  }
                   await provider.addBonusKeys(10);
                   SoundService().playCoinJangle();
                   if (context.mounted) {

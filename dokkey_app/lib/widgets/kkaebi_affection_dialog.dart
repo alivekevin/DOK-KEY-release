@@ -25,7 +25,6 @@ class KkaebiAffectionDialog extends StatefulWidget {
 class _KkaebiAffectionDialogState extends State<KkaebiAffectionDialog>
     with SingleTickerProviderStateMixin {
   late AnimationController _pulseCtrl;
-  late Animation<double> _pulseAnim;
   String? _lastTouchMessage;
   final GlobalKey<Kkaebi3DMascotWidgetState> _mascotKey = GlobalKey();
 
@@ -36,9 +35,6 @@ class _KkaebiAffectionDialogState extends State<KkaebiAffectionDialog>
       vsync: this,
       duration: const Duration(milliseconds: 2000),
     )..repeat(reverse: true);
-    _pulseAnim = Tween<double>(begin: 0.96, end: 1.04).animate(
-      CurvedAnimation(parent: _pulseCtrl, curve: Curves.easeInOutSine),
-    );
   }
 
   @override

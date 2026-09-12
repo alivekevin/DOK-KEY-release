@@ -1,12 +1,10 @@
 import 'dart:math';
-import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../core/sound_service.dart';
-import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 import 'core/game_shell.dart';
 
@@ -624,14 +622,15 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
     }
     final m = model!;
 
-    // 1. 심우주 배경
+    // 1. 심우주 배경 (안전한 LinearGradient)
+    final bgRect = Offset.zero & size;
     final bgPaint = Paint()
-      ..shader = ui.Gradient.linear(
-        Offset.zero,
-        Offset(0, size.height),
-        [const Color(0xFF030712), const Color(0xFF0D1B2A), const Color(0xFF000814)],
-      );
-    canvas.drawRect(Offset.zero & size, bgPaint);
+      ..shader = const LinearGradient(
+        begin: Alignment.topCenter,
+        end: Alignment.bottomCenter,
+        colors: [Color(0xFF030712), Color(0xFF0D1B2A), Color(0xFF000814)],
+      ).createShader(bgRect);
+    canvas.drawRect(bgRect, bgPaint);
 
     // 2. 3D 원근 그리드 지형 (지평선 아래)
     final horizonY = m.horizonY;
@@ -664,9 +663,8 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
 
     // 지평선 네온 광선
     final glowLine = Paint()
-      ..color = const Color(0xFF00E5FF).withOpacity(0.8)
-      ..strokeWidth = 2.5
-      ..maskFilter = const MaskFilter.blur(BlurStyle.solid, 4);
+      ..color = const Color(0xFF00E5FF).withOpacity(0.85)
+      ..strokeWidth = 2.0;
     canvas.drawLine(Offset(0, horizonY), Offset(size.width, horizonY), glowLine);
 
     // 3. 패럴랙스 별무리
@@ -710,13 +708,17 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
             ..strokeCap = StrokeCap.round;
           canvas.drawLine(Offset(b.x, b.y), Offset(b.x, b.y + 12), vPaint);
         } else {
-          // 트윈 레이저 빔 (네온 시안 플라즈마)
+          // 트윈 레이저 빔 (네온 시안 플라즈마 & 화이트 코어)
           final lPaint = Paint()
             ..color = const Color(0xFF00E5FF)
             ..strokeWidth = 4.0
-            ..strokeCap = StrokeCap.round
-            ..maskFilter = const MaskFilter.blur(BlurStyle.solid, 2);
+            ..strokeCap = StrokeCap.round;
           canvas.drawLine(Offset(b.x, b.y), Offset(b.x, b.y + 18), lPaint);
+          final corePaint = Paint()
+            ..color = Colors.white
+            ..strokeWidth = 1.8
+            ..strokeCap = StrokeCap.round;
+          canvas.drawLine(Offset(b.x, b.y + 2), Offset(b.x, b.y + 16), corePaint);
         }
       } else {
         // 적 탄환 (붉은 플라즈마 구체)
@@ -749,7 +751,7 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
 
         // 보스 체력 게이지
         final hpRatio = (e.hp / e.maxHp).clamp(0.0, 1.0);
-        canvas.drawRect(Rect.fromLTWH(-40, -48, 80, 5), Paint()..color = Colors.black54);
+        canvas.drawRect(const Rect.fromLTWH(-40, -48, 80, 5), Paint()..color = Colors.black54);
         canvas.drawRect(Rect.fromLTWH(-40, -48, 80 * hpRatio, 5), Paint()..color = const Color(0xFFFF1744));
       } else {
         // 일반 적기 (그룬트, 다이버, 헤비)
@@ -790,7 +792,8 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
         ..lineTo(0, 16 + flameLength)
         ..lineTo(6, 16)
         ..close();
-      canvas.drawPath(flamePath, Paint()..color = const Color(0xFFFF9100)..maskFilter = const MaskFilter.blur(BlurStyle.solid, 3));
+      canvas.drawPath(flamePath, Paint()..color = const Color(0xFFFF9100));
+      canvas.drawPath(flamePath, Paint()..color = const Color(0xFFFFEA00)..style = PaintingStyle.stroke..strokeWidth = 1.0);
 
       // 메인 전투기 바디 (3D 사이버 제트)
       final shipPath = Path()
@@ -810,14 +813,14 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
         Paint()..color = const Color(0xFF00B0FF),
       );
 
-      // 에너지 쉴드
+      // 에너지 쉴드 (안전한 2중 스트로크 링)
       if (m.shields > 0) {
         final shieldPaint = Paint()
-          ..color = const Color(0xFF00E5FF).withOpacity(0.35)
+          ..color = const Color(0xFF00E5FF).withOpacity(0.45)
           ..style = PaintingStyle.stroke
-          ..strokeWidth = 2.2
-          ..maskFilter = const MaskFilter.blur(BlurStyle.solid, 4);
+          ..strokeWidth = 2.2;
         canvas.drawCircle(Offset.zero, 28, shieldPaint);
+        canvas.drawCircle(Offset.zero, 30, Paint()..color = const Color(0xFF00E5FF).withOpacity(0.2)..style = PaintingStyle.stroke..strokeWidth = 1.2);
       }
 
       // 아기 도깨비 위성 드론
@@ -825,6 +828,7 @@ class _KkaebiShooterGameState extends State<KkaebiShooterGame> with GameLoopMixi
         for (final dir in [-1, 1]) {
           final droneX = dir * 32.0;
           canvas.drawCircle(Offset(droneX, 2), 6, Paint()..color = const Color(0xFFFFD54F));
+          canvas.drawCircle(Offset(droneX, 2), 6, Paint()..color = Colors.white..style = PaintingStyle.stroke..strokeWidth = 1.2);
         }
       }
     }

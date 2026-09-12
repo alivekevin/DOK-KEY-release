@@ -203,7 +203,9 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                           ? (isKo ? 'PRO ∞' : 'PRO ∞')
                           : '${provider.arcadeQuotaRemaining ? quotaLeft : 0}/3',
                       style: TextStyle(
-                        color: provider.isProUser ? Colors.greenAccent : DokkeyTheme.goldLight,
+                        color: provider.isProUser
+                            ? Colors.greenAccent
+                            : (provider.arcadeQuotaRemaining ? DokkeyTheme.goldLight : Colors.redAccent),
                         fontSize: 11,
                         fontWeight: FontWeight.bold,
                       ),
@@ -277,27 +279,18 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                   ),
                   if (!provider.isProUser && provider.arcadePlaysToday >= 3)
                     TextButton.icon(
-                      onPressed: () async {
-                        await provider.rechargeArcadePlays();
-                        SoundService().playSuccessChime();
-                        if (context.mounted) {
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(
-                              content: Text(isKo ? '무료 플레이 3회가 충전되었습니다!' : '3 Free plays recharged!'),
-                              backgroundColor: DokkeyTheme.surfaceDark,
-                              duration: const Duration(seconds: 2),
-                            ),
-                          );
-                        }
+                      onPressed: () {
+                        SoundService().playCardFlip();
+                        ProPassDialog.show(context);
                       },
-                      icon: const Icon(Icons.replay_rounded, size: 14, color: Colors.greenAccent),
+                      icon: const Icon(Icons.workspace_premium_rounded, size: 14, color: Colors.amber),
                       label: Text(
-                        isKo ? '3회 무료충전' : 'Recharge 3',
-                        style: const TextStyle(color: Colors.greenAccent, fontSize: 11, fontWeight: FontWeight.bold),
+                        isKo ? 'PRO 무제한 해금 👑' : 'Go PRO for Unlimited 👑',
+                        style: const TextStyle(color: Colors.amber, fontSize: 11, fontWeight: FontWeight.bold),
                       ),
                       style: TextButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                        backgroundColor: Colors.green.withOpacity(0.12),
+                        backgroundColor: Colors.amber.withOpacity(0.12),
                         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
                       ),
                     ),

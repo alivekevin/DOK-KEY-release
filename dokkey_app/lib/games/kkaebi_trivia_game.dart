@@ -33,7 +33,6 @@ class _KkaebiTriviaGameState extends State<KkaebiTriviaGame>
   bool _answered = false;
   bool _finished = false;
   double _timeLeft = 10.0;
-  int _best = 0;
   bool _loading = true;
 
   static const int _targetQuestions = 10; // 10문제 돌파 시 클리어
@@ -50,7 +49,6 @@ class _KkaebiTriviaGameState extends State<KkaebiTriviaGame>
         await rootBundle.loadString('assets/data/locales/${provider.lang}/trivia.json');
     _questions = (json.decode(raw) as List).cast<Map<String, dynamic>>();
     _questions.shuffle(RandomProvider.random);
-    _best = await ArcadeScores.get(KkaebiTriviaGame.gameId);
     if (mounted) {
       setState(() => _loading = false);
     }
