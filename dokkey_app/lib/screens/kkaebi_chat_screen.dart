@@ -23,6 +23,7 @@ import '../widgets/kkaebi_face_widget.dart';
 import '../widgets/profile_onboarding_sheet.dart';
 import '../widgets/rotating_key_home_button.dart';
 import '../widgets/kkaebi_affection_dialog.dart';
+import '../widgets/kkaebi_lore_help_dialog.dart';
 import 'keybox_screen.dart';
 
 class KkaebiChatScreen extends StatefulWidget {
@@ -42,6 +43,53 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
     Navigator.of(context).push(
       MaterialPageRoute(builder: (_) => const KkaebiTriviaGame()),
     );
+  }
+
+  void _onAskLoreHelp() async {
+    if (_isTyping) return;
+    final provider = context.read<DokkeyProvider>();
+    final isKo = provider.lang == 'ko';
+    final isJa = provider.lang == 'ja';
+
+    setState(() {
+      _messages.add(_ChatMessage(
+        isUser: true,
+        text: isKo
+            ? '깨비야, 넌 누구고 DOK-KEY는 어떤 앱이야?'
+            : (isJa ? 'クケビ、君は誰でDOK-KEYってどんなアプリ？' : 'Kkaebi, who are you and what is DOK-KEY?'),
+      ));
+      _isTyping = true;
+    });
+    _scrollToBottom();
+
+    await Future.delayed(const Duration(milliseconds: 600));
+    if (!mounted) return;
+
+    SoundService().playSuccessChime();
+
+    final response = isKo
+        ? '내가 누구냐고? 푸하하! 나는 한국 설화 속에서 천 년 동안 사람들의 소원과 고민을 지켜봐 온 시간과 문의 수호 도깨비, "깨비"란다! ✨\n\n'
+          '도깨비의 \'독(DOK)\'과 행운을 여는 \'열쇠(KEY)\'가 만나 네 일상을 지키는 DOK-KEY가 탄생했지! 내 이야기와 앱 가이드북을 자세히 볼래?'
+        : (isJa
+            ? '僕が誰かって？ふふっ！僕は韓国の説話からやってきた守護トッケビ「クケビ」だよ！✨\n\n'
+              'トッケビの「DOK」と幸運を開く「KEY」が融合してDOK-KEYが誕生したんだ！詳しい物語とガイドを見てみる？'
+            : 'Who am I? Haha! I am "Kkaebi", the guardian Dokkaebi from Korean folklore who has watched over people’s hopes and dreams for a thousand years! ✨\n\n'
+              'Combining “DOK” (Dokkaebi) and “KEY” (unlocking your day), DOK-KEY was born! Would you like to read my story & the full app guide?');
+
+    final actionLabel = isKo
+        ? '📖 깨비 이야기 & 가이드북 열기'
+        : (isJa ? '📖 クケビ物語 ＆ ガイドを見る' : '📖 Open Lore & Guidebook');
+
+    setState(() {
+      _isTyping = false;
+      _messages.add(_ChatMessage(
+        isUser: false,
+        text: response,
+        actionLabel: actionLabel,
+        onAction: () => KkaebiLoreHelpDialog.show(context),
+      ));
+    });
+    _scrollToBottom();
   }
 
   void _onAskGameSuggestion() async {
@@ -383,18 +431,22 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
 
     return Scaffold(
       appBar: AppBar(
+        titleSpacing: 0,
         title: Row(
-          mainAxisSize: MainAxisSize.min,
           children: [
+            const SizedBox(width: 4),
             KkaebiFaceWidget(
-              size: 34,
+              size: 32,
               mode: _isTyping ? KkaebiFaceMode.talking : KkaebiFaceMode.greeting,
               enableGlow: true,
             ),
-            const SizedBox(width: 10),
-            Text(
-              isKo ? '깨비의 속마음 문답' : (isJa ? 'クケビのお悩み相談' : "Talk with Kkaebi"),
-              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+            const SizedBox(width: 8),
+            Flexible(
+              child: Text(
+                isKo ? '깨비의 속마음 문답' : (isJa ? 'クケビのお悩み相談' : "Talk with Kkaebi"),
+                style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                overflow: TextOverflow.ellipsis,
+              ),
             ),
           ],
         ),
@@ -403,8 +455,8 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
           GestureDetector(
             onTap: () => KkaebiAffectionDialog.show(context),
             child: Container(
-              margin: const EdgeInsets.symmetric(vertical: 10, horizontal: 4),
-              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+              margin: const EdgeInsets.symmetric(vertical: 10, horizontal: 2),
+              padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3.5),
               decoration: BoxDecoration(
                 color: DokkeyTheme.dokFire.withValues(alpha: 0.18),
                 borderRadius: BorderRadius.circular(12),
@@ -414,12 +466,12 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   const Text('💖', style: TextStyle(fontSize: 11)),
-                  const SizedBox(width: 4),
+                  const SizedBox(width: 3),
                   Text(
                     'Lv.${provider.kkaebiLevel}',
                     style: TextStyle(
                       color: DokkeyTheme.goldLight,
-                      fontSize: 11.5,
+                      fontSize: 11,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -427,27 +479,74 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
               ),
             ),
           ),
+          // [📖 깨비 이야기 & DOK-KEY 도움말]
+          IconButton(
+            icon: Icon(Icons.help_outline_rounded, color: DokkeyTheme.goldLight, size: 22),
+            tooltip: isKo ? '깨비 이야기 & 도움말' : (isJa ? '物語＆ヘルプ' : 'Lore & Guide'),
+            onPressed: () => KkaebiLoreHelpDialog.show(context),
+            constraints: const BoxConstraints(minWidth: 36, minHeight: 36),
+            padding: const EdgeInsets.all(6),
+          ),
           // [🔑 보관함 바로가기]
           IconButton(
-            icon: Icon(Icons.inventory_2_rounded, color: DokkeyTheme.goldLight),
+            icon: Icon(Icons.inventory_2_rounded, color: DokkeyTheme.goldLight, size: 22),
             tooltip: isKo ? '보관함 바로가기' : (isJa ? '保管箱へ移動' : 'Go to Vault'),
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KeyBoxScreen()),
               );
             },
+            constraints: const BoxConstraints(minWidth: 36, minHeight: 36),
+            padding: const EdgeInsets.all(6),
           ),
-          IconButton(
-            icon: const Icon(Icons.badge_outlined),
-            tooltip: isKo ? '내 프로필 수정' : (isJa ? 'プロフィール編集' : 'Edit Profile'),
-            onPressed: () {
-              showDialog(
-                context: context,
-                builder: (_) => const ProfileOnboardingSheet(),
-              );
+          // [⋮ 더보기 메뉴 (프로필 수정 / 홈 이동)]
+          PopupMenuButton<String>(
+            icon: const Icon(Icons.more_vert_rounded, color: Colors.white70, size: 22),
+            tooltip: isKo ? '더보기' : 'More',
+            color: DokkeyTheme.surfaceDark,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(14),
+              side: BorderSide(color: DokkeyTheme.borderDark),
+            ),
+            onSelected: (val) {
+              if (val == 'profile') {
+                showDialog(
+                  context: context,
+                  builder: (_) => const ProfileOnboardingSheet(),
+                );
+              } else if (val == 'home') {
+                Navigator.of(context).popUntil((route) => route.isFirst);
+              }
             },
+            itemBuilder: (ctx) => [
+              PopupMenuItem(
+                value: 'profile',
+                child: Row(
+                  children: [
+                    const Icon(Icons.badge_outlined, size: 18, color: Colors.white70),
+                    const SizedBox(width: 10),
+                    Text(
+                      isKo ? '내 프로필 수정' : (isJa ? 'プロフィール編集' : 'Edit Profile'),
+                      style: const TextStyle(fontSize: 13, color: Colors.white),
+                    ),
+                  ],
+                ),
+              ),
+              PopupMenuItem(
+                value: 'home',
+                child: Row(
+                  children: [
+                    Icon(Icons.home_rounded, size: 18, color: DokkeyTheme.goldLight),
+                    const SizedBox(width: 10),
+                    Text(
+                      isKo ? '홈으로 돌아가기' : (isJa ? 'ホームに戻る' : 'Go Home'),
+                      style: const TextStyle(fontSize: 13, color: Colors.white),
+                    ),
+                  ],
+                ),
+              ),
+            ],
           ),
-          const RotatingKeyHomeButton(),
           const SizedBox(width: 4),
         ],
       ),
@@ -628,6 +727,34 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                           ),
                         );
                       }).toList(),
+
+                      // 신설: [📖 깨비는 누구? & 도움말] — 도깨비 유래, 세계관 & DOK-KEY 완벽 가이드북
+                      Padding(
+                        padding: const EdgeInsets.only(right: 8),
+                        child: ActionChip(
+                          backgroundColor: const Color(0xFF1B2338),
+                          side: BorderSide(
+                            color: DokkeyTheme.goldLight.withValues(alpha: 0.85),
+                            width: 1.4,
+                          ),
+                          label: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              const Text('📖', style: TextStyle(fontSize: 13)),
+                              const SizedBox(width: 5),
+                              Text(
+                                isKo ? '깨비는 누구? & 도움말' : (isJa ? 'クケビとは？＆ヘルプ' : 'Who is Kkaebi? & Help'),
+                                style: TextStyle(
+                                  color: DokkeyTheme.goldLight,
+                                  fontSize: 12,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
+                          onPressed: _isTyping ? null : _onAskLoreHelp,
+                        ),
+                      ),
                     ],
                   ),
                 ),
