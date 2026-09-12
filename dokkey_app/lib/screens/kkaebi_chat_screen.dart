@@ -48,16 +48,54 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
   void _onAskLoreHelp() async {
     if (_isTyping) return;
     final provider = context.read<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
+
+    String userQuestion;
+    String kkaebiResponse;
+    String actionLabel;
+
+    switch (lang) {
+      case 'ko':
+        userQuestion = '깨비야, 넌 누구고 DOK-KEY는 어떤 앱이야?';
+        kkaebiResponse = '내가 누구냐고? 푸하하! 나는 한국 설화 속에서 천 년 동안 사람들의 소원과 고민을 지켜봐 온 시간과 문의 수호 도깨비, "깨비"란다! ✨\n\n'
+            '도깨비의 \'독(DOK)\'과 행운을 여는 \'열쇠(KEY)\'가 만나 네 일상을 지키는 DOK-KEY가 탄생했지! 내 이야기와 앱 가이드북을 자세히 볼래?';
+        actionLabel = '📖 깨비 이야기 & 가이드북 열기';
+        break;
+      case 'ja':
+        userQuestion = 'クケビ、君は誰でDOK-KEYってどんなアプリ？';
+        kkaebiResponse = '僕が誰かって？ふふっ！僕は韓国の伝統説話からやってきた守護トッケビ「クケビ」だよ！✨\n\n'
+            'トッケビの「DOK」と幸運の扉を開く「KEY」が融合してDOK-KEYが誕生したんだ！僕の物語とアプリ説明書を見てみる？';
+        actionLabel = '📖 クケビ物語 ＆ 説明書を見る';
+        break;
+      case 'zh':
+        userQuestion = '吉鬼，你是谁？DOK-KEY是一款怎样的应用？';
+        kkaebiResponse = '问我是谁？哈哈！我是在古老民间传说中千年间守护人类心愿与烦恼的守护精灵“吉鬼(Kkaebi)”！✨\n\n'
+            '融合了吉鬼的“DOK”与开启每日幸运之门的“KEY”，守护您日常的DOK-KEY就此诞生！想详细了解我的故事与系统指南吗？';
+        actionLabel = '📖 吉鬼故事 ＆ 使用指南';
+        break;
+      case 'de':
+        userQuestion = 'Kkaebi, wer bist du und was ist DOK-KEY?';
+        kkaebiResponse = 'Wer ich bin? Haha! Ich bin „Kkaebi“, der Schutzgeist der koreanischen Folklore, der seit tausend Jahren Wünsche und Sorgen behütet! ✨\n\n'
+            'Aus „DOK“ (Dokkaebi) und „KEY“ (Glücksschlüssel) wurde DOK-KEY geboren! Möchtest du meine Geschichte und die Anleitung lesen?';
+        actionLabel = '📖 Kkaebi-Story & Guide öffnen';
+        break;
+      case 'hi':
+        userQuestion = 'कैबी, तुम कौन हो और DOK-KEY क्या है?';
+        kkaebiResponse = 'मैं कौन हूँ? हाहा! मैं "कैबी" हूँ, कोरियाई लोककथाओं का रक्षक डोक्केबी जो सदियों से सबकी इच्छाओं का संरक्षक रहा है! ✨\n\n'
+            '“DOK” (डोक्केबी) और “KEY” (भाग्यशाली चाबी) से DOK-KEY का जन्म हुआ! क्या तुम मेरी कहानी और ऐप गाइड पढ़ना चाहते हो?';
+        actionLabel = '📖 कैबी की कहानी और गाइड खोलें';
+        break;
+      case 'en':
+      default:
+        userQuestion = 'Kkaebi, who are you and what is DOK-KEY?';
+        kkaebiResponse = 'Who am I? Haha! I am "Kkaebi", the guardian Dokkaebi from Korean folklore who has watched over people’s hopes and dreams for a thousand years! ✨\n\n'
+            'Combining “DOK” (Dokkaebi) and “KEY” (unlocking your day), DOK-KEY was born! Would you like to read my story & the full app guide?';
+        actionLabel = '📖 Open Lore & Guidebook';
+        break;
+    }
 
     setState(() {
-      _messages.add(_ChatMessage(
-        isUser: true,
-        text: isKo
-            ? '깨비야, 넌 누구고 DOK-KEY는 어떤 앱이야?'
-            : (isJa ? 'クケビ、君は誰でDOK-KEYってどんなアプリ？' : 'Kkaebi, who are you and what is DOK-KEY?'),
-      ));
+      _messages.add(_ChatMessage(isUser: true, text: userQuestion));
       _isTyping = true;
     });
     _scrollToBottom();
@@ -67,24 +105,11 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
 
     SoundService().playSuccessChime();
 
-    final response = isKo
-        ? '내가 누구냐고? 푸하하! 나는 한국 설화 속에서 천 년 동안 사람들의 소원과 고민을 지켜봐 온 시간과 문의 수호 도깨비, "깨비"란다! ✨\n\n'
-          '도깨비의 \'독(DOK)\'과 행운을 여는 \'열쇠(KEY)\'가 만나 네 일상을 지키는 DOK-KEY가 탄생했지! 내 이야기와 앱 가이드북을 자세히 볼래?'
-        : (isJa
-            ? '僕が誰かって？ふふっ！僕は韓国の説話からやってきた守護トッケビ「クケビ」だよ！✨\n\n'
-              'トッケビの「DOK」と幸運を開く「KEY」が融合してDOK-KEYが誕生したんだ！詳しい物語とガイドを見てみる？'
-            : 'Who am I? Haha! I am "Kkaebi", the guardian Dokkaebi from Korean folklore who has watched over people’s hopes and dreams for a thousand years! ✨\n\n'
-              'Combining “DOK” (Dokkaebi) and “KEY” (unlocking your day), DOK-KEY was born! Would you like to read my story & the full app guide?');
-
-    final actionLabel = isKo
-        ? '📖 깨비 이야기 & 가이드북 열기'
-        : (isJa ? '📖 クケビ物語 ＆ ガイドを見る' : '📖 Open Lore & Guidebook');
-
     setState(() {
       _isTyping = false;
       _messages.add(_ChatMessage(
         isUser: false,
-        text: response,
+        text: kkaebiResponse,
         actionLabel: actionLabel,
         onAction: () => KkaebiLoreHelpDialog.show(context),
       ));
