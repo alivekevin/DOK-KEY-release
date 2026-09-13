@@ -271,16 +271,10 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     _finished = true;
     _timer?.cancel();
     _score += 500 + (600 - _elapsed * 2).clamp(0, 600) + (_mistakes == 0 ? 300 : 0);
-    finishGame(
-      context,
-      gameId: KkaebiSudokuGame.gameId,
-      title: currentSize == 4 ? '스도쿠 4×4' : (currentSize == 6 ? '스도쿠 6×6' : '스도쿠 9×9'),
-      score: _score,
-      cleared: true,
-      onRetry: () => Navigator.of(context).pushReplacement(
-        MaterialPageRoute(builder: (_) => KkaebiSudokuGame(initialSize: currentSize)),
-      ),
-    );
+    SoundService().playSuccessChime();
+    SoundService().playGayageum();
+    HapticFeedback.heavyImpact();
+    setState(() {});
   }
 
   @override
@@ -306,6 +300,8 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     final cellSize = (gridWidth / puzzle.size).floorToDouble();
     final actualBoardInnerWidth = cellSize * puzzle.size;
 
+    final selectedVal = (selectedX >= 0 && selectedY >= 0) ? puzzle.board[selectedY][selectedX] : 0;
+
     return Scaffold(
       backgroundColor: DokkeyTheme.bgDark,
       body: gameCanvas(
@@ -317,7 +313,9 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                     ? '깨비 스도쿠 ($currentSize×$currentSize)'
                     : 'Sudoku ($currentSize×$currentSize)',
                 score: _score,
-                rightLabel: '⏱ ${_elapsed}s · ✗$_mistakes',
+                rightLabel: _finished
+                    ? (isKo ? '🏆 완성!' : '🏆 Solved!')
+                    : '⏱ ${_elapsed}s · ✗$_mistakes',
                 onQuit: () => Navigator.of(context).pop(),
               ),
               Expanded(
@@ -343,6 +341,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                         ),
                       ),
                       const SizedBox(height: 12),
+
                       // 2. 남은 빈칸 & 가이드 현황 배지
                       Container(
                         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
@@ -377,20 +376,26 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                         ),
                       ),
                       const SizedBox(height: 14),
-                      // 3. 한지 나무판 스도쿠 보드 (완벽한 중앙 정렬)
+
+                      // 3. 초고대비 고시인성 스도쿠 보드 (딥 블랙 & 골드 테두리)
                       Center(
-                        child: Container(
+                        child: AnimatedContainer(
+                          duration: const Duration(milliseconds: 350),
                           width: actualBoardInnerWidth + (boardPadding * 2),
                           padding: const EdgeInsets.all(boardPadding),
                           decoration: BoxDecoration(
-                            color: const Color(0xFF2E2012).withOpacity(0.85),
-                            borderRadius: BorderRadius.circular(14),
-                            border: Border.all(color: DokkeyTheme.gold.withOpacity(0.8), width: 2.2),
-                            boxShadow: const [
+                            color: const Color(0xFF0C101A),
+                            borderRadius: BorderRadius.circular(16),
+                            border: Border.all(
+                              color: _finished ? const Color(0xFFFFD700) : const Color(0xFFD4AF37),
+                              width: _finished ? 3.0 : 2.2,
+                            ),
+                            boxShadow: [
                               BoxShadow(
-                                color: Colors.black54,
-                                blurRadius: 10,
-                                offset: Offset(0, 4),
+                                color: (_finished ? const Color(0xFFFFD700) : const Color(0xFFD4AF37))
+                                    .withValues(alpha: _finished ? 0.45 : 0.2),
+                                blurRadius: _finished ? 24 : 12,
+                                spreadRadius: _finished ? 2 : 0,
                               ),
                             ],
                           ),
@@ -404,10 +409,37 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                   final value = puzzle.board[y][x];
                                   final conflict = puzzle.isConflict(x, y);
                                   final selected = selectedX == x && selectedY == y;
+                                  final isSameNumber = value != 0 && value == selectedVal;
+                                  final isRelated = selectedX == x || selectedY == y ||
+                                      ((x ~/ puzzle.boxW == selectedX ~/ puzzle.boxW) && (y ~/ puzzle.boxH == selectedY ~/ puzzle.boxH));
+
                                   final boldRight =
                                       (x + 1) % puzzle.boxW == 0 && x != puzzle.size - 1;
                                   final boldBottom =
                                       (y + 1) % puzzle.boxH == 0 && y != puzzle.size - 1;
+
+                                  Color cellBg;
+                                  if (conflict) {
+                                    cellBg = const Color(0xFF7F1D1D).withValues(alpha: 0.65);
+                                  } else if (selected) {
+                                    cellBg = const Color(0xFFFFD700).withValues(alpha: 0.35);
+                                  } else if (isSameNumber) {
+                                    cellBg = const Color(0xFF1E2D4A);
+                                  } else if (isRelated && selectedX >= 0) {
+                                    cellBg = const Color(0xFF121927);
+                                  } else {
+                                    cellBg = const Color(0xFF090D16);
+                                  }
+
+                                  Color numColor;
+                                  if (conflict) {
+                                    numColor = const Color(0xFFFF453A);
+                                  } else if (given) {
+                                    numColor = Colors.white; // 순백색 고대비
+                                  } else {
+                                    numColor = const Color(0xFFFFD54F); // 유저 입력: 선명한 비비드 골드
+                                  }
+
                                   return GestureDetector(
                                     onTap: () => setState(() {
                                       selectedX = x;
@@ -417,20 +449,18 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                       width: cellSize,
                                       height: cellSize,
                                       decoration: BoxDecoration(
-                                        color: selected
-                                            ? DokkeyTheme.gold.withOpacity(0.32)
-                                            : DokkeyTheme.surfaceDark.withOpacity(0.85),
+                                        color: cellBg,
                                         border: Border(
                                           right: BorderSide(
                                             color: boldRight
                                                 ? const Color(0xFFFFD700)
-                                                : const Color(0xFF4A5568),
+                                                : const Color(0xFF283244),
                                             width: boldRight ? 2.2 : 0.8,
                                           ),
                                           bottom: BorderSide(
                                             color: boldBottom
                                                 ? const Color(0xFFFFD700)
-                                                : const Color(0xFF4A5568),
+                                                : const Color(0xFF283244),
                                             width: boldBottom ? 2.2 : 0.8,
                                           ),
                                         ),
@@ -445,12 +475,21 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                                       : (currentSize == 6 ? 22 : 16.5),
                                                   fontWeight: given
                                                       ? FontWeight.w900
-                                                      : FontWeight.w700,
-                                                  color: conflict
-                                                      ? DokkeyTheme.dokFire
-                                                      : (given
-                                                          ? const Color(0xFFFFD700)
-                                                          : const Color(0xFF00E676)),
+                                                      : FontWeight.w800,
+                                                  color: numColor,
+                                                  shadows: [
+                                                    if (given)
+                                                      const Shadow(
+                                                        color: Colors.black,
+                                                        offset: Offset(0, 1),
+                                                        blurRadius: 2,
+                                                      ),
+                                                    if (!given)
+                                                      Shadow(
+                                                        color: const Color(0xFFFFD54F).withValues(alpha: 0.5),
+                                                        blurRadius: 4,
+                                                      ),
+                                                  ],
                                                 ),
                                               )
                                             : (notes[y][x].isNotEmpty
@@ -483,92 +522,123 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                           ),
                         ),
                       ),
-                      const SizedBox(height: 20),
-                      // 4. 숫자 패드 (9x9 대형 2줄 패드 / 선명한 골드 버튼)
-                      _buildNumberKeypad(screenWidth),
                       const SizedBox(height: 18),
-                      // 5. 하단 액션 버튼 그룹 (메모, 힌트, 지우기)
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          // ✏️ 연필 메모 토글
-                          ElevatedButton.icon(
-                            onPressed: () => setState(() => notesMode = !notesMode),
-                            icon: Icon(
-                              Icons.edit_note_rounded,
-                              size: 19,
-                              color: notesMode ? const Color(0xFF00E676) : Colors.white70,
-                            ),
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: notesMode ? const Color(0xFF004D25) : const Color(0xFF222B3D),
-                              foregroundColor: Colors.white,
-                              side: BorderSide(
-                                color: notesMode ? const Color(0xFF00E676) : const Color(0xFF64748B),
-                                width: 1.5,
+
+                      // 4. 완료 시 비차단 인라인 결과 바 or 숫자 패드 및 액션 버튼
+                      AnimatedSwitcher(
+                        duration: const Duration(milliseconds: 350),
+                        child: _finished
+                            ? GameResultBar(
+                                key: const ValueKey('sudoku_result_bar'),
+                                gameId: KkaebiSudokuGame.gameId,
+                                title: currentSize == 4
+                                    ? (isKo ? '스도쿠 4×4 완성!' : 'Sudoku 4x4 Cleared!')
+                                    : (currentSize == 6
+                                        ? (isKo ? '스도쿠 6×6 완성!' : 'Sudoku 6x6 Cleared!')
+                                        : (isKo ? '스도쿠 9×9 완성!' : 'Sudoku 9x9 Cleared!')),
+                                score: _score,
+                                best: _score,
+                                cleared: true,
+                                onChangeOption: () {
+                                  final nextSize = currentSize == 4 ? 6 : (currentSize == 6 ? 9 : 4);
+                                  _switchDifficulty(nextSize);
+                                },
+                                changeOptionLabel: isKo ? '다른 난이도' : 'Difficulty',
+                                changeOptionIcon: Icons.tune_rounded,
+                                onRetry: () => _switchDifficulty(currentSize),
+                                onExit: () => Navigator.of(context).pop(),
+                              )
+                            : Column(
+                                key: const ValueKey('sudoku_controls'),
+                                children: [
+                                  // 숫자 패드 (선명한 골드 버튼)
+                                  _buildNumberKeypad(screenWidth),
+                                  const SizedBox(height: 16),
+                                  // 하단 액션 버튼 그룹 (메모, 힌트, 지우기)
+                                  Row(
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    children: [
+                                      // ✏️ 연필 메모 토글
+                                      ElevatedButton.icon(
+                                        onPressed: () => setState(() => notesMode = !notesMode),
+                                        icon: Icon(
+                                          Icons.edit_note_rounded,
+                                          size: 19,
+                                          color: notesMode ? const Color(0xFF00E676) : Colors.white70,
+                                        ),
+                                        style: ElevatedButton.styleFrom(
+                                          backgroundColor: notesMode ? const Color(0xFF004D25) : const Color(0xFF222B3D),
+                                          foregroundColor: Colors.white,
+                                          side: BorderSide(
+                                            color: notesMode ? const Color(0xFF00E676) : const Color(0xFF64748B),
+                                            width: 1.5,
+                                          ),
+                                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
+                                        ),
+                                        label: Text(
+                                          notesMode
+                                              ? (isKo ? '메모: ON' : 'Memo: ON')
+                                              : (isKo ? '메모: OFF' : 'Memo: OFF'),
+                                          style: TextStyle(
+                                            fontSize: 13,
+                                            fontWeight: FontWeight.bold,
+                                            color: notesMode ? const Color(0xFF00E676) : Colors.white,
+                                          ),
+                                        ),
+                                      ),
+                                      const SizedBox(width: 10),
+                                      // 👺 깨비 지혜 힌트
+                                      ElevatedButton.icon(
+                                        onPressed: _hintsLeft > 0 ? _useHint : null,
+                                        icon: const Text('👺', style: TextStyle(fontSize: 15)),
+                                        style: ElevatedButton.styleFrom(
+                                          backgroundColor: const Color(0xFF3B2B15),
+                                          foregroundColor: const Color(0xFFFFD700),
+                                          disabledBackgroundColor: const Color(0xFF222B3D).withOpacity(0.5),
+                                          side: BorderSide(
+                                            color: _hintsLeft > 0 ? const Color(0xFFFFD700) : const Color(0xFF4A5568),
+                                            width: 1.5,
+                                          ),
+                                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
+                                        ),
+                                        label: Text(
+                                          isKo ? '지혜 힌트 ($_hintsLeft)' : 'Hint ($_hintsLeft)',
+                                          style: TextStyle(
+                                            fontSize: 13,
+                                            fontWeight: FontWeight.w900,
+                                            color: _hintsLeft > 0 ? const Color(0xFFFFE66D) : const Color(0xFF94A3B8),
+                                          ),
+                                        ),
+                                      ),
+                                      const SizedBox(width: 10),
+                                      // ⌫ 지우기 버튼
+                                      ElevatedButton.icon(
+                                        onPressed: _erase,
+                                        icon: const Icon(Icons.backspace_rounded, size: 16, color: Color(0xFFFF8A80)),
+                                        style: ElevatedButton.styleFrom(
+                                          backgroundColor: const Color(0xFF2B2024),
+                                          foregroundColor: const Color(0xFFFF8A80),
+                                          side: const BorderSide(color: Color(0xFFEF4444), width: 1.3),
+                                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
+                                        ),
+                                        label: Text(
+                                          isKo ? '지우기' : 'Erase',
+                                          style: const TextStyle(
+                                            fontSize: 13,
+                                            fontWeight: FontWeight.bold,
+                                            color: Color(0xFFFF8A80),
+                                          ),
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ],
                               ),
-                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
-                            ),
-                            label: Text(
-                              notesMode
-                                  ? (isKo ? '메모: ON' : 'Memo: ON')
-                                  : (isKo ? '메모: OFF' : 'Memo: OFF'),
-                              style: TextStyle(
-                                fontSize: 13,
-                                fontWeight: FontWeight.bold,
-                                color: notesMode ? const Color(0xFF00E676) : Colors.white,
-                              ),
-                            ),
-                          ),
-                          const SizedBox(width: 10),
-                          // 👺 깨비 지혜 힌트
-                          ElevatedButton.icon(
-                            onPressed: _hintsLeft > 0 ? _useHint : null,
-                            icon: const Text('👺', style: TextStyle(fontSize: 15)),
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: const Color(0xFF3B2B15),
-                              foregroundColor: const Color(0xFFFFD700),
-                              disabledBackgroundColor: const Color(0xFF222B3D).withOpacity(0.5),
-                              side: BorderSide(
-                                color: _hintsLeft > 0 ? const Color(0xFFFFD700) : const Color(0xFF4A5568),
-                                width: 1.5,
-                              ),
-                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
-                            ),
-                            label: Text(
-                              isKo ? '지혜 힌트 ($_hintsLeft)' : 'Hint ($_hintsLeft)',
-                              style: TextStyle(
-                                fontSize: 13,
-                                fontWeight: FontWeight.w900,
-                                color: _hintsLeft > 0 ? const Color(0xFFFFE66D) : const Color(0xFF94A3B8),
-                              ),
-                            ),
-                          ),
-                          const SizedBox(width: 10),
-                          // ⌫ 지우기 버튼
-                          ElevatedButton.icon(
-                            onPressed: _erase,
-                            icon: const Icon(Icons.backspace_rounded, size: 16, color: Color(0xFFFF8A80)),
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: const Color(0xFF2B2024),
-                              foregroundColor: const Color(0xFFFF8A80),
-                              side: const BorderSide(color: Color(0xFFEF4444), width: 1.3),
-                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
-                            ),
-                            label: Text(
-                              isKo ? '지우기' : 'Erase',
-                              style: const TextStyle(
-                                fontSize: 13,
-                                fontWeight: FontWeight.bold,
-                                color: Color(0xFFFF8A80),
-                              ),
-                            ),
-                          ),
-                        ],
                       ),
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 20),
                       // 6. 📜 스도쿠 규칙 및 클리어 안내 카드
                       Container(
                         padding: const EdgeInsets.all(16),
@@ -717,17 +787,29 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
   }
 
   Widget _buildKeyButton(int v, double w, double h, double fontSize) {
+    var count = 0;
+    for (var y = 0; y < puzzle.size; y++) {
+      for (var x = 0; x < puzzle.size; x++) {
+        if (puzzle.board[y][x] == v) count++;
+      }
+    }
+    final isDone = count >= puzzle.size;
+
     return ElevatedButton(
-      onPressed: () => _place(v),
+      onPressed: isDone ? null : () => _place(v),
       style: ElevatedButton.styleFrom(
-        backgroundColor: const Color(0xFF222B3D),
-        foregroundColor: const Color(0xFFFFD700),
+        backgroundColor: isDone ? const Color(0xFF101520) : const Color(0xFF1B2332),
+        foregroundColor: isDone ? Colors.white24 : const Color(0xFFFFD700),
+        disabledBackgroundColor: const Color(0xFF101520),
         minimumSize: Size(w, h),
         padding: EdgeInsets.zero,
-        elevation: 3,
+        elevation: isDone ? 0 : 3,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12),
-          side: const BorderSide(color: Color(0xFFFFD700), width: 1.5),
+          side: BorderSide(
+            color: isDone ? Colors.white12 : const Color(0xFFFFD700).withValues(alpha: 0.8),
+            width: isDone ? 1.0 : 1.5,
+          ),
         ),
       ),
       child: Text(
@@ -735,7 +817,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
         style: TextStyle(
           fontSize: fontSize,
           fontWeight: FontWeight.w900,
-          color: const Color(0xFFFFE66D),
+          color: isDone ? Colors.white24 : const Color(0xFFFFE66D),
         ),
       ),
     );

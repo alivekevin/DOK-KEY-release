@@ -200,14 +200,11 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
 
     if (!_finished && (model.isCleared || model.isGameOver)) {
       _finished = true;
-      finishGame(
-        context,
-        gameId: KkaebiXSudokuGame.gameId,
-        title: model.isCleared ? '대각선 X-스도쿠 클리어!' : '대각선 X-스도쿠',
-        score: model.score,
-        cleared: model.isCleared,
-        onRetry: () => _startNewGame(_difficultySize),
-      );
+      if (model.isCleared) {
+        SoundService().playSuccessChime();
+        SoundService().playGayageum();
+        HapticFeedback.heavyImpact();
+      }
     }
   }
 
@@ -220,14 +217,16 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
     ).join(' ');
 
     return Scaffold(
-      backgroundColor: const Color(0xFF0D131F),
+      backgroundColor: const Color(0xFF0A0F1A),
       body: SafeArea(
         child: Column(
           children: [
             GameHud(
               title: isKo ? '대각선 X-스도쿠' : 'Diagonal X-Sudoku',
               score: model.score,
-              rightLabel: hearts,
+              rightLabel: model.isCleared
+                  ? (isKo ? '🏆 완성!' : '🏆 Solved!')
+                  : hearts,
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFF00E5FF),
             ),
@@ -266,11 +265,24 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                   padding: const EdgeInsets.all(12),
                   child: AspectRatio(
                     aspectRatio: 1.0,
-                    child: Container(
+                    child: AnimatedContainer(
+                      duration: const Duration(milliseconds: 350),
                       decoration: BoxDecoration(
-                        color: const Color(0xFF151E2E),
+                        color: const Color(0xFF080C14),
                         borderRadius: BorderRadius.circular(16),
-                        border: Border.all(color: const Color(0xFF00E5FF).withOpacity(0.6), width: 2),
+                        border: Border.all(
+                          color: model.isCleared
+                              ? const Color(0xFFFFD700)
+                              : const Color(0xFF00E5FF).withValues(alpha: 0.8),
+                          width: model.isCleared ? 3.0 : 2.0,
+                        ),
+                        boxShadow: [
+                          BoxShadow(
+                            color: (model.isCleared ? const Color(0xFFFFD700) : const Color(0xFF00E5FF))
+                                .withValues(alpha: model.isCleared ? 0.45 : 0.2),
+                            blurRadius: model.isCleared ? 24 : 12,
+                          ),
+                        ],
                       ),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(14),
@@ -288,11 +300,11 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                             final isSel = model.selectedRow == r && model.selectedCol == c;
                             final isDiag = model.isDiagonal(r, c);
 
-                            Color cellBg = const Color(0xFF151E2E);
+                            Color cellBg = const Color(0xFF090D16);
                             if (isSel) {
-                              cellBg = const Color(0xFF00E5FF).withOpacity(0.35);
+                              cellBg = const Color(0xFF00E5FF).withValues(alpha: 0.35);
                             } else if (isDiag) {
-                              cellBg = const Color(0xFF00E5FF).withOpacity(0.12);
+                              cellBg = const Color(0xFF00E5FF).withValues(alpha: 0.16);
                             }
 
                             final rightBorder = (c + 1) % model.blockSize == 0 && c != model.size - 1;
@@ -305,22 +317,35 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                                   color: cellBg,
                                   border: Border(
                                     right: BorderSide(
-                                      color: rightBorder ? const Color(0xFF00E5FF).withOpacity(0.6) : Colors.white12,
+                                      color: rightBorder ? const Color(0xFF00E5FF).withValues(alpha: 0.8) : const Color(0xFF283244),
                                       width: rightBorder ? 2.0 : 0.6,
                                     ),
                                     bottom: BorderSide(
-                                      color: bottomBorder ? const Color(0xFF00E5FF).withOpacity(0.6) : Colors.white12,
+                                      color: bottomBorder ? const Color(0xFF00E5FF).withValues(alpha: 0.8) : const Color(0xFF283244),
                                       width: bottomBorder ? 2.0 : 0.6,
                                     ),
                                   ),
                                 ),
                                 child: Center(
                                   child: Text(
-                                    val > 0 ? '' : '',
+                                    val > 0 ? '$val' : '',
                                     style: TextStyle(
-                                      color: isInit ? Colors.white70 : const Color(0xFFFFD54F),
+                                      color: isInit ? Colors.white : const Color(0xFFFFD54F),
                                       fontSize: model.size == 4 ? 26 : 17,
-                                      fontWeight: FontWeight.w900,
+                                      fontWeight: isInit ? FontWeight.w900 : FontWeight.w800,
+                                      shadows: [
+                                        if (isInit)
+                                          const Shadow(
+                                            color: Colors.black,
+                                            offset: Offset(0, 1),
+                                            blurRadius: 2,
+                                          ),
+                                        if (!isInit && val > 0)
+                                          Shadow(
+                                            color: const Color(0xFFFFD54F).withValues(alpha: 0.5),
+                                            blurRadius: 4,
+                                          ),
+                                      ],
                                     ),
                                   ),
                                 ),
@@ -335,43 +360,63 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
               ),
             ),
 
-            // Number Pad
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-              decoration: const BoxDecoration(
-                color: Color(0xFF0A101C),
-                border: Border(top: BorderSide(color: Color(0xFF1E2D48))),
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  for (var i = 1; i <= model.size; i++)
-                    Expanded(
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(horizontal: 3),
-                        child: ElevatedButton(
-                          onPressed: () => _onNumTap(i),
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: const Color(0xFF1E2D48),
-                            foregroundColor: Colors.white,
-                            padding: const EdgeInsets.symmetric(vertical: 12),
-                            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-                            side: const BorderSide(color: Color(0xFF00E5FF), width: 1.2),
+            // Number Pad or GameResultBar upon Clear
+            AnimatedSwitcher(
+              duration: const Duration(milliseconds: 350),
+              child: (model.isCleared || model.isGameOver)
+                  ? GameResultBar(
+                      key: const ValueKey('xsudoku_result_bar'),
+                      gameId: KkaebiXSudokuGame.gameId,
+                      title: model.isCleared ? '대각선 X-스도쿠 완성!' : '대각선 X-스도쿠',
+                      score: model.score,
+                      best: model.score,
+                      cleared: model.isCleared,
+                      onChangeOption: () {
+                        _startNewGame(_difficultySize == 4 ? 9 : 4);
+                      },
+                      changeOptionLabel: _difficultySize == 4 ? '9x9 모드' : '4x4 모드',
+                      changeOptionIcon: Icons.tune_rounded,
+                      onRetry: () => _startNewGame(_difficultySize),
+                      onExit: () => Navigator.of(context).pop(),
+                    )
+                  : Container(
+                      key: const ValueKey('xsudoku_keypad'),
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      decoration: const BoxDecoration(
+                        color: Color(0xFF0A101C),
+                        border: Border(top: BorderSide(color: Color(0xFF1E2D48))),
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          for (var i = 1; i <= model.size; i++)
+                            Expanded(
+                              child: Padding(
+                                padding: const EdgeInsets.symmetric(horizontal: 3),
+                                child: ElevatedButton(
+                                  onPressed: () => _onNumTap(i),
+                                  style: ElevatedButton.styleFrom(
+                                    backgroundColor: const Color(0xFF1A263C),
+                                    foregroundColor: const Color(0xFFFFD54F),
+                                    padding: const EdgeInsets.symmetric(vertical: 12),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                                    side: BorderSide(color: const Color(0xFF00E5FF).withValues(alpha: 0.8), width: 1.2),
+                                  ),
+                                  child: Text('$i', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w900)),
+                                ),
+                              ),
+                            ),
+                          const SizedBox(width: 4),
+                          IconButton(
+                            onPressed: () {
+                              HapticFeedback.selectionClick();
+                              setState(() => model.erase());
+                            },
+                            icon: const Icon(Icons.backspace_outlined, color: Colors.white70),
                           ),
-                          child: Text('', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-                        ),
+                        ],
                       ),
                     ),
-                  const SizedBox(width: 4),
-                  IconButton(
-                    onPressed: () {
-                      HapticFeedback.selectionClick();
-                      setState(() => model.erase());
-                    },
-                    icon: const Icon(Icons.backspace_outlined, color: Colors.white70),
-                  ),
-                ],
-              ),
             ),
           ],
         ),
