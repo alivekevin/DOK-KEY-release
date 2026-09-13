@@ -288,7 +288,7 @@
     "id": "rid_016"
   },
   {
-    "question": "挥一挥就能实现愿望的多吉比(도깨비)必杀武器是什么？",
+    "question": "挥一挥就能实现愿望的小妖必杀武器是什么？",
     "options": [
       "矛",
       "盾",
@@ -301,7 +301,7 @@
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "哈哈！棒槌一挥，金子哗啦啦地出来！",
-      "wrong": "不对！多吉比的象征武器是什么呀？"
+      "wrong": "不对！小妖的象征武器是什么呀？"
     },
     "id": "rid_017"
   },
@@ -898,5 +898,455 @@
       "wrong": "不对！集齐99把钥匙才能得到的称号呀！"
     },
     "id": "rid_050"
+  },
+  {
+    "question": "没有脚却走遍世界，没有手却摇动门窗的是什么？",
+    "options": [
+      "风",
+      "云",
+      "影子",
+      "传闻"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "咔咔！无形之中撼动天下的正是风之气息！",
+      "wrong": "不对！没有手脚却能掠过任何地方的是什么？"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "白天藏起来，一到夜晚就像宝石一样镶嵌在黑夜里的是什么？",
+    "options": [
+      "星星",
+      "灯塔",
+      "萤火虫",
+      "月晕"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！绣满黑暗夜空的星光是智慧的向导！",
+      "wrong": "不对！想想夜空中闪烁的数千颗宝石！"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "头戴红帽、燃烧全身驱散黑暗的是什么？",
+    "options": [
+      "火柴",
+      "枫叶",
+      "辣椒",
+      "凤仙花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正确！用刹那摩擦迸出火花的巨人——火柴！",
+      "wrong": "不对！想想擦一擦红头就能点火的东西！"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "家家都有一个，每天见面却从不说话的是什么？",
+    "options": [
+      "镜子",
+      "墙纸",
+      "时钟",
+      "门把手"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "绝妙的回答！镜子会毫无虚假地映出你的心情和表情！",
+      "wrong": "好可惜！看看那个原样映出你模样的东西！"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "没有声音却打动人心，没有文字却传递感情的是什么？",
+    "options": [
+      "微笑",
+      "落叶",
+      "眼泪",
+      "沉默"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "实在了不起！温暖的微笑比小妖的棒子更有力量！",
+      "wrong": "不对！想想脸上绽放的最温暖表情！"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "拥有的人想隐藏，失去的人惋惜，一旦说出口就消失的是什么？",
+    "options": [
+      "秘密",
+      "宝石",
+      "钱",
+      "钥匙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "咔咔！说出口的瞬间就不再是秘密了！",
+      "wrong": "不对！只有你我两人知道才能守住的东西！"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "去时轻盈飞舞，来时沉重落下，把世界染成白色的是什么？",
+    "options": [
+      "雪",
+      "面粉",
+      "雾",
+      "盐"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正确！把整个世界覆盖成纯白的冬之礼物——雪花！",
+      "wrong": "不对！想想从天上一簇簇落下、覆盖世界的白色粉末！"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "根扎在天空、茎叶朝地面生长的冬季冰柱的别称是？",
+    "options": [
+      "檐下冰鸟",
+      "檐下冰柱",
+      "天空之树",
+      "冬日嫩芽"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在屋檐下倒着生长的清澈透明玻璃栏杆！",
+      "wrong": "不对！看看冬天屋檐下长长垂挂的冰柱！"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "出生时四条腿，长大后两条腿，年老时三条腿行走的是什么？",
+    "options": [
+      "人",
+      "老虎",
+      "小妖",
+      "蟾蜍"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "连斯芬克斯都要感叹的智慧！婴儿、青年、拄杖老人的人生之路！",
+      "wrong": "不对！那是走过人生四季的人的模样！"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "总是站在原地，为过往旅人指引方向的石柱是？",
+    "options": [
+      "长丞（路标）",
+      "索套竿",
+      "石塔",
+      "石碑"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "天下大将军、地下女将军！守护村口的长丞是民族守护神！",
+      "wrong": "不对！是那个带着诙谐面孔为村人指路的朋友！"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "抛向空中高高飞起、以四块木片的正反定胜负的传统游戏是？",
+    "options": [
+      "掷柶游戏（尤茨）",
+      "碑石游戏",
+      "踢毽子",
+      "投壶"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "道·开·杰·行·莫！全家人欢快奔跑在院子里的掷柶游戏！",
+      "wrong": "不对！把桦木块抛向空中、策马前行的游戏！"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "一脚踢起就在空中展开羽毛、轻盈起舞的传统游戏道具是？",
+    "options": [
+      "毽子",
+      "陀螺",
+      "风筝",
+      "铁环"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正确！用韩纸包住铜钱、用脚尖踢起的毽子！",
+      "wrong": "不对！是用脚尖不停颠起不让它落地的东西！"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "乘着风飞上高空、却被一根细线牵引着的是什么？",
+    "options": [
+      "盾风筝（风筝）",
+      "气球",
+      "鸟笼",
+      "秋千"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "尽情飞吧！一边放线一边翱翔天空的盾风筝！",
+      "wrong": "不对！是正月十五把厄运送上天的那件东西！"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "越抽越欢快地旋转的冰面上的小陀螺是？",
+    "options": [
+      "木陀螺",
+      "车轮",
+      "玻璃珠",
+      "石磨"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "转得多欢！越抽越挺立的小陀螺！",
+      "wrong": "不对！是用鞭绳缠住、在冰面上抽转的东西！"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "两个圆石叠放、转动手柄把豆子谷物磨细的工具是？",
+    "options": [
+      "石磨",
+      "臼",
+      "舂米杵",
+      "铁锅"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "没有中轴就转不起来！磨出香喷喷豆腐的石磨！",
+      "wrong": "不对！握住轴柄一圈圈转动研磨的工具！"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "越呼吸越减少、越使用越珍贵的人的最宝贵资产是？",
+    "options": [
+      "时间（岁月）",
+      "黄金",
+      "钻石",
+      "绸缎"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "一寸光阴一寸金！流逝的时间用黄金也买不回来！",
+      "wrong": "不对！一旦流逝就再也回不来的珍贵之物！"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "越黑暗越明亮，在暴风雨中也成为心灵港湾的是什么？",
+    "options": [
+      "希望（梦想）",
+      "灯火",
+      "戒指",
+      "宝箱"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "即使在最深的黑暗里，只要有一颗希望的火种就能活下去，小妖！",
+      "wrong": "不对！是藏在心里等待明天的明亮心情！"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "分享反而增多、藏在心里就能温暖全世界的小妖礼物是？",
+    "options": [
+      "爱与情义",
+      "金币",
+      "宝物",
+      "酒杯"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "我们小妖最爱充满温暖情义的人，小妖！",
+      "wrong": "不对！越是分给别人、自己内心反而越充裕的东西！"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "你跌倒时扶起你、你悲伤时轻拍你肩膀的朋友最大的美德是？",
+    "options": [
+      "安慰与共情",
+      "财富",
+      "说教",
+      "沉默"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "没错！真正的朋友懂得陪你一起流泪、向你伸出手！",
+      "wrong": "不对！想想递给疲惫心灵的那句温暖话语！"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "早晨沾着露水、白天面向太阳、始终勤奋生活的象征是？",
+    "options": [
+      "向日葵",
+      "仙人掌",
+      "松树",
+      "莲花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "只向着灿烂太阳抬头的丹心向日葵！",
+      "wrong": "不对！是用金色花瓣追着太阳打转的花！"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "生于淤泥却不被污浊沾染、绽放清雅花朵的智慧之花是？",
+    "options": [
+      "莲花",
+      "菊花",
+      "梅花",
+      "水仙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "出淤泥而不染！在世间诱惑中依然守护清白本性的莲花！",
+      "wrong": "不对！想想在泥水中也不失高洁姿态的花！"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "即使在寒冷冬天暴风雪中也保持绿针的气节之树是？",
+    "options": [
+      "松树",
+      "柳树",
+      "枫树",
+      "银杏树"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "松柏之气概！千年风霜中依然挺立的青松！",
+      "wrong": "不对！是一年四季都保持苍翠的树！"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "最先报春、在寒冷雪中绽放红色花蕾的花是？",
+    "options": [
+      "雪中梅（梅花）",
+      "玫瑰",
+      "牵牛花",
+      "波斯菊"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "战胜严寒吐露幽香的君子之花——梅花！",
+      "wrong": "不对！找找在雪中绽放的春天使者！"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "中空却笔直生长、节节坚实的气节象征是？",
+    "options": [
+      "竹子",
+      "芦苇",
+      "高粱",
+      "芒草"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "虚心才能更挺拔的智慧！四君子之竹，小妖！",
+      "wrong": "不对！是中空而不被风吹断、柔韧的绿树！"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "打开小妖宝库、揭示人生真智慧的神钥匙是？",
+    "options": [
+      "小妖黄金钥匙（DOK-KEY）",
+      "铁钥匙",
+      "石斧",
+      "藏宝图"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "哇哈哈！你每天收集的智慧之钥，正是DOK-KEY！",
+      "wrong": "不对！忘了我们应用的名字——打开智慧的黄金钥匙了吗！"
+    },
+    "id": "rid_075"
   }
 ]

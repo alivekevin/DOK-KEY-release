@@ -1,7 +1,7 @@
 name: dokkey_app
 description: "DOK-KEY - Global Daily Fortune Draw App"
 publish_to: 'none'
-version: 1.0.0+1
+version: 4.9.8+498
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

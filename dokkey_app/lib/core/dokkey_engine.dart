@@ -222,7 +222,7 @@ class DokkeyEngine {
         id: id,
         deck: c['deck'] ?? '',
         type: c['type'] ?? '',
-        artAsset: c['artAsset'] ?? '',
+        artAsset: c['art_asset'] ?? c['artAsset'] ?? '',
         name: loc['name'] ?? id,
         symbol: loc['symbol'] ?? '',
         description: loc['description'] ?? '',
@@ -400,7 +400,7 @@ class DokkeyEngine {
   }
 
   bool isZodiacCard(String cardId) =>
-      _commonCards.any((c) => c['id'] == cardId && c['deck'] == '12jishin');
+      _commonCards.any((c) => c['id'] == cardId && (c['deck'] == 'zodiac' || c['deck'] == '12jishin'));
 
   // --- Kkaebi Affection / Intimacy System (깨비 친밀도 시스템) ---
 

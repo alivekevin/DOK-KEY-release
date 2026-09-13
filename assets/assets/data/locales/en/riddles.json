@@ -898,5 +898,455 @@
       "wrong": "Nope! Collect 99 keys and the title is yours!"
     },
     "id": "rid_050"
+  },
+  {
+    "question": "What has no feet yet travels the whole world, and no hands yet rattles doors?",
+    "options": [
+      "The wind",
+      "A cloud",
+      "A shadow",
+      "A rumor"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kekeke! The wind shakes the whole world without ever being seen!",
+      "wrong": "Nope! What brushes past anywhere with neither hands nor feet?"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "What hides by day and, when night falls, studs the black sky like jewels?",
+    "options": [
+      "Stars",
+      "A lighthouse",
+      "Fireflies",
+      "A moon halo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Right! The starlight embroidering the dark night is a guide of wisdom!",
+      "wrong": "Nope! Think of the thousands of jewels sparkling in the night sky!"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "What wears a little red head and burns its whole body to drive away the dark?",
+    "options": [
+      "A match",
+      "A maple leaf",
+      "A chili pepper",
+      "A garden balsam"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Correct! The match is a tiny giant that strikes a flame in an instant!",
+      "wrong": "Nope! Think of the thing whose red head you strike to light a fire!"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "Every house has one, you meet its face every day, yet it never says a word. What is it?",
+    "options": [
+      "A mirror",
+      "Wallpaper",
+      "A clock",
+      "A door handle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Splendid! A mirror reflects your heart and your expression without a trace of lies!",
+      "wrong": "So close! Look to the thing that throws your own image right back at you!"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "What makes no sound yet moves the heart, and carries no letters yet delivers feelings?",
+    "options": [
+      "A smile",
+      "A fallen leaf",
+      "Tears",
+      "Silence"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Truly fine! A warm smile is a power stronger than any goblin club!",
+      "wrong": "Nope! Think of the warmest expression that blooms across a face!"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "Those who have it try to hide it, those who lose it grieve it, and it vanishes the moment you tell someone. What is it?",
+    "options": [
+      "A secret",
+      "A jewel",
+      "Money",
+      "A key"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Kekeke! The instant it leaves your lips, it is a secret no more!",
+      "wrong": "Nope! It stays a secret only while you and I alone know it!"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "It departs flying light and settles falling heavy, blanketing the world in white. What is it?",
+    "options": [
+      "Snow",
+      "Flour",
+      "Fog",
+      "Salt"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Snow flowers — winter's gift that wraps the whole world in pure white!",
+      "wrong": "Nope! Think of the white powder drifting down from the sky in clusters!"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "What is the winter nickname of icicles, rooting in the sky while stems and leaves grow into the ground?",
+    "options": [
+      "Eaves ice bird",
+      "Eaves icicle",
+      "Sky tree",
+      "Winter sprout"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Right! The clear, transparent glass bars growing upside down from the eaves!",
+      "wrong": "Nope! Look at the long ice pillars hanging beneath the eaves in winter!"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "What walks on four legs at birth, two legs in youth, and three legs in old age?",
+    "options": [
+      "A human",
+      "A tiger",
+      "A goblin",
+      "A toad"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Wisdom to impress the Sphinx itself! Baby, youth, and the cane-leaning elder — the road of life!",
+      "wrong": "Nope! It is a person walking through life's four seasons!"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "What stone pillar stands forever in one place, showing the way to passing travelers?",
+    "options": [
+      "A jangseung (village signpost)",
+      "A sotdae pole",
+      "A stone tower",
+      "A monument"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "General Under Heaven, General of the Earth! The jangseung — our guardian watching over the village entrance!",
+      "wrong": "Nope! The village friend with the comical face who guides your way!"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "What traditional game sends wooden sticks skyward, their fall deciding the match?",
+    "options": [
+      "Yunnori (the yut game)",
+      "Stone-tossing",
+      "Jegichagi",
+      "Tuho"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Do, gae, geol, yut, mo! The yut board where the whole family races around the yard in high spirits!",
+      "wrong": "Nope! The game of tossing birchwood blocks into the air and racing your pieces!"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "What traditional toy flutters its feathered skirt in mid-air, dancing lightly with every kick?",
+    "options": [
+      "A jegi",
+      "A spinning top",
+      "A kite",
+      "A hoop"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! The jegi — a coin wrapped in hanji paper, bounced off the instep!",
+      "wrong": "Nope! The thing you keep bouncing on your foot without letting it drop!"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "What rides the wind high into the sky, yet is always tethered by one slender string?",
+    "options": [
+      "A bangpaeyeon (shield kite)",
+      "A balloon",
+      "A birdcage",
+      "A swing"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Fly free! The shield kite that roams the heavens as the reel lets out its string!",
+      "wrong": "Nope! The one flown on Daeboreum to carry the year's bad luck skyward!"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "What little top on the ice spins all the merrier the more you whip it?",
+    "options": [
+      "A wooden top",
+      "A wheel",
+      "A marble",
+      "A millstone"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Spinning so merrily! The top stands all the straighter for every crack of the whip!",
+      "wrong": "Nope! The thing you wound with a whipcord and set spinning on the ice!"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "What device grinds beans and grain finely, with two round stones stacked and a handle to turn?",
+    "options": [
+      "A millstone (matdol)",
+      "A mortar",
+      "A foot-operated thresher",
+      "A cauldron"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "No axle, no grinding! The matdol that grinds the soybeans for savory tofu!",
+      "wrong": "Nope! The tool you turn round and round by its axle handle to grind!"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "What is humanity's most precious asset, dwindling the more you breathe it and growing dearer the more you spend it?",
+    "options": [
+      "Time (the years)",
+      "Gold",
+      "Diamonds",
+      "Silk"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Save even an inch of the sun's shadow! Time once lost cannot be bought back with gold!",
+      "wrong": "Nope! The precious thing that, once gone, never turns back!"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "What shines the clearer the darker it gets, and remains a refuge for the heart even in a storm?",
+    "options": [
+      "Hope (a dream)",
+      "A lamp",
+      "A ring",
+      "A treasure chest"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Even in the deepest dark, a single ember of hope is enough to live on, Kkaebi!",
+      "wrong": "Nope! The bright heart you hold inside as you wait for tomorrow!"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "What goblin gift multiplies when shared, and warms the whole world when held in the heart?",
+    "options": [
+      "Love and affection",
+      "Gold coins",
+      "Treasure",
+      "A wine cup"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "We goblins love best the people overflowing with warm affection, Kkaebi!",
+      "wrong": "Nope! The thing that makes your own heart richer the more you give away!"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "What is the greatest virtue of the friend who lifts you when you fall and pats your back when you grieve?",
+    "options": [
+      "Comfort and empathy",
+      "Wealth",
+      "Lecturing",
+      "Silence"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "That's it! A true friend knows how to weep with you and reach out a hand!",
+      "wrong": "Nope! Think of the one warm word offered to a weary heart!"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "Dew-laden at dawn and facing the sun at noon — what is the symbol of a diligent life?",
+    "options": [
+      "The sunflower",
+      "The cactus",
+      "The pine",
+      "The lotus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "The sunflower — single-hearted devotion, lifting its head only toward the bright sun!",
+      "wrong": "Nope! The flower that chases the sun around on its golden petals!"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "What flower of wisdom rises from the mud yet blooms unstained and pristine?",
+    "options": [
+      "The lotus",
+      "The chrysanthemum",
+      "The plum blossom",
+      "The daffodil"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Untainted by defilement! The lotus keeps its pure nature amid the world's temptations!",
+      "wrong": "Nope! Think of the flower that keeps its noble grace even in muddy water!"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "What tree of constancy keeps its green needles even through the winter blizzard?",
+    "options": [
+      "The pine",
+      "The willow",
+      "The maple",
+      "The ginkgo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "The spirit of pine and bamboo! The green pine stands firm through a thousand years of wind and rain!",
+      "wrong": "Nope! The tree that keeps its green unchanged through all four seasons!"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "What flower announces spring first, bursting red buds even in the cold snow?",
+    "options": [
+      "Plum blossoms in the snow",
+      "The rose",
+      "The morning glory",
+      "The cosmos"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "The scholar's flower — the plum, conquering the bitter cold to breathe out its subtle fragrance!",
+      "wrong": "Nope! Seek the herald of spring that blooms amid the snow!"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "What symbol of integrity grows hollow yet straight, firm and true at every joint?",
+    "options": [
+      "Bamboo",
+      "Reeds",
+      "Sorghum",
+      "Silver grass"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "The wisdom of growing straighter by staying empty! The bamboo of the Four Gracious Plants, Kkaebi!",
+      "wrong": "Nope! The green tree that empties itself and bends without breaking!"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "What mysterious key opens the goblin's treasure house and unlocks the true wisdom of life?",
+    "options": [
+      "The goblin golden key (DOK-KEY)",
+      "An iron key",
+      "A stone axe",
+      "A treasure map"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Wahaha! The key of wisdom you gather every day — it is DOK-KEY itself!",
+      "wrong": "Nope! Have you forgotten our app's very name, the golden key that opens wisdom!"
+    },
+    "id": "rid_075"
   }
 ]

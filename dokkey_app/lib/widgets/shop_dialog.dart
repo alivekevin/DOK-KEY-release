@@ -24,7 +24,7 @@ class ShopDialog extends StatelessWidget {
     final provider = context.watch<DokkeyProvider>();
     final isKo = provider.lang == 'ko';
     final isJa = provider.lang == 'ja';
-    // 💰 BM v5.1 가격 SSOT (lib/core/pricing.dart) — 드리프트 방지 단일 공급원
+    // 💰 BM v5.2 가격 SSOT (lib/core/pricing.dart) — 드리프트 방지 단일 공급원
     final pricing = ProPricing.of(provider.lang);
 
     return Dialog(

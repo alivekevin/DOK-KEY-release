@@ -340,17 +340,18 @@ void main() {
         expect(s['id'], isNotEmpty, reason: 'hour $h must map to a shichen');
         expect(s['zodiac'], isNotEmpty);
       }
-      // 자정(00:30)은 자시(쥐)
+      // 자정(00:30)은 자시(쥐: Z01)
       expect(engine.getShichenForNow(DateTime(2026, 9, 2, 0, 30))['id'], 'ja');
-      // 15:30은 신시(원숭이)
-      expect(engine.getShichenForNow(DateTime(2026, 9, 1, 15, 30))['zodiac'], 'monkey');
+      // 15:30은 신시(원숭이: Z09)
+      expect(engine.getShichenForNow(DateTime(2026, 9, 1, 15, 30))['zodiac'], 'Z09');
     });
 
     test('Zodiac card detection', () {
       final engine = DokkeyEngine();
-      expect(engine.isZodiacCard('tiger'), true);
-      expect(engine.isZodiacCard('moon_jar'), false);
-      expect(engine.isZodiacCard('dream_eater'), false);
+      expect(engine.isZodiacCard('Z01'), true);
+      expect(engine.isZodiacCard('Z03'), true);
+      expect(engine.isZodiacCard('M01'), false);
+      expect(engine.isZodiacCard('M10'), false);
     });
 
     test('Daily dream symbol is deterministic per date', () {

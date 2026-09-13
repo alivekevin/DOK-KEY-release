@@ -1,7 +1,7 @@
 [
   {
     "id": "tri_001",
-    "question": "What is the chemical formula of water?",
+    "question": "Wie lautet die chemische Formel von Wasser?",
     "options": [
       "H₂O",
       "CO₂",
@@ -14,12 +14,12 @@
   },
   {
     "id": "tri_002",
-    "question": "What is the largest living animal on Earth?",
+    "question": "Welches ist das größte heute lebende Tier der Erde?",
     "options": [
-      "African elephant",
-      "Blue whale",
-      "Sperm whale",
-      "Great white shark"
+      "Afrikanischer Elefant",
+      "Blauwal",
+      "Pottwal",
+      "Weißer Hai"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -27,12 +27,12 @@
   },
   {
     "id": "tri_003",
-    "question": "About how far does light travel in a vacuum in 1 second?",
+    "question": "Welche Strecke legt Licht im Vakuum in einer Sekunde ungefähr zurück?",
     "options": [
-      "~30,000 km",
-      "~150,000 km",
-      "~300,000 km",
-      "~500,000 km"
+      "Etwa 30.000 km",
+      "Etwa 150.000 km",
+      "Etwa 300.000 km",
+      "Etwa 500.000 km"
     ],
     "answer_index": 2,
     "category": "science",
@@ -40,12 +40,12 @@
   },
   {
     "id": "tri_004",
-    "question": "How many days does it take for Earth to orbit the Sun in a common solar year?",
+    "question": "Ein Jahr nach gregorianischem Kalender ist die Zeit, in der die Erde die Sonne einmal umkreist. Wie viele Tage sind es üblicherweise?",
     "options": [
-      "365 days",
-      "360 days",
-      "366 days",
-      "300 days"
+      "365 Tage",
+      "360 Tage",
+      "366 Tage",
+      "300 Tage"
     ],
     "answer_index": 0,
     "category": "science",
@@ -53,12 +53,12 @@
   },
   {
     "id": "tri_005",
-    "question": "How many chambers does the human heart have?",
+    "question": "Aus wie vielen Vorhöfen und Kammern besteht das menschliche Herz?",
     "options": [
-      "3 chambers",
-      "4 chambers",
-      "2 chambers",
-      "5 chambers"
+      "2 Vorhöfe, 1 Kammer",
+      "2 Vorhöfe, 2 Kammern (insgesamt 4)",
+      "1 Vorhof, 2 Kammern",
+      "3 Vorhöfe, 1 Kammer"
     ],
     "answer_index": 1,
     "category": "science",
@@ -66,7 +66,7 @@
   },
   {
     "id": "tri_006",
-    "question": "How many planets are in our solar system from Mercury to Neptune?",
+    "question": "Wie viele Planeten hat unser Sonnensystem von Merkur bis Neptun?",
     "options": [
       "7",
       "8",
@@ -79,12 +79,12 @@
   },
   {
     "id": "tri_007",
-    "question": "What is the hardest known natural mineral with a Mohs hardness of 10?",
+    "question": "Welches natürlich vorkommende Mineral ist mit der Mohshärte 10 das härteste?",
     "options": [
-      "Quartz",
-      "Corundum",
-      "Diamond",
-      "Titanium"
+      "Quarz",
+      "Rubin",
+      "Diamant",
+      "Titan"
     ],
     "answer_index": 2,
     "category": "science",
@@ -92,12 +92,12 @@
   },
   {
     "id": "tri_008",
-    "question": "Which gas do plants absorb from the air for photosynthesis?",
+    "question": "Welches Gas braucht eine Pflanze für die Photosynthese, mit der sie im Sonnenlicht Nährstoffe erzeugt?",
     "options": [
-      "Oxygen",
-      "Carbon Dioxide",
-      "Nitrogen",
-      "Hydrogen"
+      "Sauerstoff",
+      "Kohlendioxid",
+      "Stickstoff",
+      "Wasserstoff"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -105,12 +105,12 @@
   },
   {
     "id": "tri_009",
-    "question": "What is the largest organ of the human body by surface area and weight?",
+    "question": "Welches Organ hat die größte Oberfläche und das höchste Gewicht im menschlichen Körper?",
     "options": [
-      "Liver",
-      "Lungs",
-      "Large intestine",
-      "Skin"
+      "Leber",
+      "Lunge",
+      "Dickdarm",
+      "Haut"
     ],
     "answer_index": 3,
     "category": "science",
@@ -118,12 +118,12 @@
   },
   {
     "id": "tri_010",
-    "question": "What is the average distance from Earth to the Moon?",
+    "question": "Wie groß ist die mittlere Entfernung von der Erde zum Mond ungefähr?",
     "options": [
-      "~38,000 km",
-      "~384,000 km",
-      "~3,800,000 km",
-      "~1,500,000 km"
+      "Etwa 38.000 km",
+      "Etwa 380.000 km",
+      "Etwa 3,8 Mio. km",
+      "Etwa 1,5 Mio. km"
     ],
     "answer_index": 1,
     "category": "space",
@@ -131,12 +131,12 @@
   },
   {
     "id": "tri_011",
-    "question": "Why does the north needle of a magnetic compass point North?",
+    "question": "Warum zeigt die N-Spitze eines Kompasses immer nach Norden?",
     "options": [
-      "Earth geographic north is magnetic south",
-      "Magnetic iron mines at the pole",
-      "Sunlight concentrates north",
-      "Earth axial tilt"
+      "Weil der Nordpol der Erde ein Magnetfeld mit S-Pol-Charakter besitzt",
+      "Weil es am Nordpol eine riesige Magnetmine gibt",
+      "Weil sich das Sonnenlicht im Norden sammelt",
+      "Weil die Erdachse geneigt ist"
     ],
     "answer_index": 0,
     "category": "science",
@@ -144,12 +144,12 @@
   },
   {
     "id": "tri_012",
-    "question": "What is the chemical name of common table salt?",
+    "question": "Wie heißt die Hauptchemikalie des Salzes, das wir täglich essen?",
     "options": [
-      "Calcium carbonate",
-      "Sodium chloride (NaCl)",
-      "Magnesium sulfate",
-      "Potassium hydroxide"
+      "Kalziumkarbonat",
+      "Natriumchlorid (NaCl)",
+      "Magnesiumsulfat",
+      "Kaliumhydroxid"
     ],
     "answer_index": 1,
     "category": "science",
@@ -157,12 +157,12 @@
   },
   {
     "id": "tri_013",
-    "question": "How many primary colors are in a standard rainbow spectrum?",
+    "question": "Aus wie vielen Grundfarben besteht der Regenbogen, der entsteht, wenn Sonnenlicht nach dem Regen in Wassertropfen gebrochen und reflektiert wird?",
     "options": [
-      "5",
-      "6",
-      "7",
-      "9"
+      "5 Farben",
+      "6 Farben",
+      "7 Farben",
+      "9 Farben"
     ],
     "answer_index": 2,
     "category": "nature",
@@ -170,11 +170,11 @@
   },
   {
     "id": "tri_014",
-    "question": "What is the fastest land animal capable of reaching ~120 km/h?",
+    "question": "Welches Raubtier erreicht an Land die höchste Spitzengeschwindigkeit (rund 120 km/h)?",
     "options": [
-      "Cheetah",
+      "Gepard",
       "Leopard",
-      "Lion",
+      "Löwe",
       "Gazelle"
     ],
     "answer_index": 0,
@@ -183,12 +183,12 @@
   },
   {
     "id": "tri_015",
-    "question": "Why does solid ice float on liquid water?",
+    "question": "Warum schwimmt Eis wissenschaftlich gesehen auf flüssigem Wasser?",
     "options": [
-      "Ice has a lower density than liquid water",
-      "Ice is colder",
-      "Ice traps air bubbles",
-      "Lower surface tension"
+      "Weil Eis eine geringere Dichte als Wasser hat",
+      "Weil Eis kälter ist",
+      "Weil Eis viele Luftbläschen enthält",
+      "Weil die Oberflächenspannung von Eis schwach ist"
     ],
     "answer_index": 0,
     "category": "science",
@@ -196,7 +196,7 @@
   },
   {
     "id": "tri_016",
-    "question": "How many bones make up an adult human skeleton?",
+    "question": "Aus wie vielen Knochen besteht der erwachsene menschliche Körper?",
     "options": [
       "156",
       "206",
@@ -209,11 +209,11 @@
   },
   {
     "id": "tri_017",
-    "question": "Which is the largest planet in our solar system by volume and mass?",
+    "question": "Welcher Planet hat im Sonnensystem das größte Volumen und die größte Masse?",
     "options": [
       "Saturn",
       "Jupiter",
-      "Neptune",
+      "Neptun",
       "Uranus"
     ],
     "answer_index": 1,
@@ -222,12 +222,12 @@
   },
   {
     "id": "tri_018",
-    "question": "Which gas makes up about 78% of Earth atmosphere by volume?",
+    "question": "Welches Gas macht mit rund 78 % den größten Anteil der Luft aus?",
     "options": [
-      "Oxygen",
-      "Carbon dioxide",
+      "Sauerstoff",
+      "Kohlendioxid",
       "Argon",
-      "Nitrogen"
+      "Stickstoff"
     ],
     "answer_index": 3,
     "category": "science",
@@ -235,11 +235,11 @@
   },
   {
     "id": "tri_019",
-    "question": "What is the smallest basic unit of information in binary computing?",
+    "question": "Was ist die kleinste Grundeinheit zur Darstellung von Information im Binärsystem des Computers?",
     "options": [
       "Bit",
       "Byte",
-      "Word",
+      "Wort (Word)",
       "Nibble"
     ],
     "answer_index": 0,
@@ -248,12 +248,12 @@
   },
   {
     "id": "tri_020",
-    "question": "What is the approximate speed of sound in air at room temperature?",
+    "question": "Wie schnell breitet sich Schall in Luft aus (Schallgeschwindigkeit), etwa wie viele Meter pro Sekunde?",
     "options": [
-      "~140 m/s",
-      "~340 m/s",
-      "~740 m/s",
-      "~1,200 m/s"
+      "Etwa 140 m/s",
+      "Etwa 340 m/s",
+      "Etwa 740 m/s",
+      "Etwa 1.200 m/s"
     ],
     "answer_index": 1,
     "category": "science",
@@ -261,12 +261,12 @@
   },
   {
     "id": "tri_021",
-    "question": "태양에서 가장 가까운 행성은 무엇일까요?",
+    "question": "Welcher Planet ist der Sonne am nächsten?",
     "options": [
-      "수성",
-      "금성",
-      "지구",
-      "화성"
+      "Merkur",
+      "Venus",
+      "Erde",
+      "Mars"
     ],
     "answer_index": 0,
     "category": "space",
@@ -274,12 +274,12 @@
   },
   {
     "id": "tri_022",
-    "question": "지구 대기권 중 오존층이 위치하여 자외선을 흡수해 주는 층은?",
+    "question": "In welcher Schicht der Erdatmosphäre liegt die Ozonschicht, die Ultraviolettstrahlung absorbiert?",
     "options": [
-      "대류권",
-      "성층권",
-      "중간권",
-      "열권"
+      "Troposphäre",
+      "Stratosphäre",
+      "Mesosphäre",
+      "Thermosphäre"
     ],
     "answer_index": 1,
     "category": "science",
@@ -287,12 +287,12 @@
   },
   {
     "id": "tri_023",
-    "question": "스스로 빛을 내는 천체를 무엇이라고 부를까요?",
+    "question": "Wie nennt man einen Himmelskörper, der eigenes Licht aussendet?",
     "options": [
-      "행성",
-      "위성",
-      "항성(별)",
-      "혜성"
+      "Planet",
+      "Satellit",
+      "Stern",
+      "Komet"
     ],
     "answer_index": 2,
     "category": "space",
@@ -300,12 +300,12 @@
   },
   {
     "id": "tri_024",
-    "question": "지구에서 볼 때 가장 밝게 빛나는 행성으로 샛별이라고도 불리는 행성은?",
+    "question": "Welcher Planet leuchtet von der Erde aus am hellsten und wird auch Morgenstern genannt?",
     "options": [
-      "목성",
-      "금성",
-      "화성",
-      "토성"
+      "Jupiter",
+      "Venus",
+      "Mars",
+      "Saturn"
     ],
     "answer_index": 1,
     "category": "space",
@@ -313,12 +313,12 @@
   },
   {
     "id": "tri_025",
-    "question": "화성의 표면이 붉게 보이는 주된 이유는 무엇일까요?",
+    "question": "Warum erscheint die Oberfläche des Mars rot?",
     "options": [
-      "용암이 끓어 넘쳐서",
-      "산화철(녹슨 철) 성분이 많아서",
-      "태양빛이 붉게 반사되어서",
-      "대기 중 산소가 풍부해서"
+      "Weil Lava überkocht",
+      "Weil er reich an Eisenoxid (Rost) ist",
+      "Weil Sonnenlicht rot davon reflektiert wird",
+      "Weil seine Atmosphäre sauerstoffreich ist"
     ],
     "answer_index": 1,
     "category": "space",
@@ -326,12 +326,12 @@
   },
   {
     "id": "tri_026",
-    "question": "달의 인력과 태양의 인력 때문에 바닷물이 주기적으로 차오르고 빠지는 현상은?",
+    "question": "Wie heißt das periodische Steigen und Fallen des Meeres durch die Anziehungskraft von Mond und Sonne?",
     "options": [
-      "지진해일",
-      "조석(밀물과 썰물)",
-      "해류",
-      "엘니뇨"
+      "Tsunami",
+      "Gezeiten (Ebbe und Flut)",
+      "Meeresströmung",
+      "El Niño"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -339,12 +339,12 @@
   },
   {
     "id": "tri_027",
-    "question": "지구 중심부에 존재하는 가장 뜨겁고 무거운 금속핵의 주성분은?",
+    "question": "Woraus besteht hauptsächlich der heißeste und schwerste Metallkern im Zentrum der Erde?",
     "options": [
-      "알루미늄과 구리",
-      "철과 니켈",
-      "금과 은",
-      "마그네슘과 규소"
+      "Aluminium und Kupfer",
+      "Eisen und Nickel",
+      "Gold und Silber",
+      "Magnesium und Silizium"
     ],
     "answer_index": 1,
     "category": "science",
@@ -352,12 +352,12 @@
   },
   {
     "id": "tri_028",
-    "question": "별들이 중력 붕괴를 일으켜 빛조차 빠져나오지 못할 정도로 밀도가 극대화된 천체는?",
+    "question": "Welches Objekt entsteht, wenn Sterne unter Gravitationskollaps eine Dichte erreichen, bei der nicht einmal Licht entkommt?",
     "options": [
-      "백색왜성",
-      "블랙홀",
-      "중성자별",
-      "퀘이사"
+      "Weißer Zwerg",
+      "Schwarzes Loch",
+      "Neutronenstern",
+      "Quasar"
     ],
     "answer_index": 1,
     "category": "space",
@@ -365,12 +365,12 @@
   },
   {
     "id": "tri_029",
-    "question": "우리 은하(Milky Way)의 전체적인 형태는 어떤 모양일까요?",
+    "question": "Welche Grundform hat unsere Galaxie, die Milchstraße?",
     "options": [
-      "타원 은하",
-      "불규칙 은하",
-      "막대 나선 은하",
-      "원형 은하"
+      "Elliptische Galaxie",
+      "Irreguläre Galaxie",
+      "Balkenspiralgalaxie",
+      "Kugelförmige Galaxie"
     ],
     "answer_index": 2,
     "category": "space",
@@ -378,12 +378,12 @@
   },
   {
     "id": "tri_030",
-    "question": "태양계 행성 중 가장 거대하고 뚜렷한 얼음과 암석 고리를 가진 행성은?",
+    "question": "Welcher Planet des Sonnensystems ist der größte und hat deutliche Ringe aus Eis und Gestein?",
     "options": [
-      "목성",
-      "토성",
-      "천왕성",
-      "해왕성"
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptun"
     ],
     "answer_index": 1,
     "category": "space",
@@ -391,12 +391,12 @@
   },
   {
     "id": "tri_031",
-    "question": "달이 지구를 공전하는 주기와 스스로 자전하는 주기가 같아서 생기는 현상은?",
+    "question": "Welches Phänomen entsteht, weil die Umlaufzeit des Mondes um die Erde seiner Rotationszeit entspricht?",
     "options": [
-      "달의 앞면만 지구에서 볼 수 있다",
-      "달의 위상이 변하지 않는다",
-      "월식이 매달 일어난다",
-      "달의 중력이 0이 된다"
+      "Von der Erde ist nur die Vorderseite des Mondes sichtbar",
+      "Die Mondphasen ändern sich nie",
+      "Jeden Monat gibt es eine Mondfinsternis",
+      "Die Schwerkraft des Mondes wird null"
     ],
     "answer_index": 0,
     "category": "space",
@@ -404,12 +404,12 @@
   },
   {
     "id": "tri_032",
-    "question": "지구 자전축은 수직선에 대해 약 몇 도 기울어져 있을까요?",
+    "question": "Um wie viele Grad ist die Erdachse ungefähr gegenüber der Senkrechten geneigt?",
     "options": [
-      "약 15.5도",
-      "약 23.5도",
-      "약 33.5도",
-      "약 45.0도"
+      "Etwa 15,5°",
+      "Etwa 23,5°",
+      "Etwa 33,5°",
+      "Etwa 45,0°"
     ],
     "answer_index": 1,
     "category": "space",
@@ -417,12 +417,12 @@
   },
   {
     "id": "tri_033",
-    "question": "태양 표면의 폭발로 인해 지구 극지방 하늘에 나타나는 신비로운 빛의 커튼은?",
+    "question": "Welche geheimnisvollen Lichtvorhänge erscheinen nach Explosionen auf der Sonnenoberfläche am Polhimmel der Erde?",
     "options": [
-      "오로라",
-      "신기루",
-      "무지개",
-      "노을"
+      "Polarlichter",
+      "Fata Morgana",
+      "Regenbogen",
+      "Abendrot"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -430,12 +430,12 @@
   },
   {
     "id": "tri_034",
-    "question": "지진의 진원지에서 발생하여 가장 먼저 관측소에 도착하는 지진파는?",
+    "question": "Welche Seismische Welle entsteht am Epizentrum und erreicht die Messstation zuerst?",
     "options": [
-      "P파 (종파)",
-      "S파 (횡파)",
-      "L파 (표면파)",
-      "R파"
+      "P-Welle (Longitudinalwelle)",
+      "S-Welle (Transversalwelle)",
+      "L-Welle (Oberflächenwelle)",
+      "R-Welle"
     ],
     "answer_index": 0,
     "category": "science",
@@ -443,12 +443,12 @@
   },
   {
     "id": "tri_035",
-    "question": "바다 밑 화산 폭발이나 해저 지진으로 발생하는 거대한 파도는?",
+    "question": "Welche riesigen Wellen entstehen durch Unterwasservulkanausbrüche oder Seebeben?",
     "options": [
-      "풍랑",
-      "쓰나미(지진해일)",
-      "너울",
-      "조류"
+      "Sturmwellen",
+      "Tsunami (Erdbebenwellen)",
+      "Dünung",
+      "Gezeitenströmungen"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -456,12 +456,12 @@
   },
   {
     "id": "tri_036",
-    "question": "지구에서 가장 깊은 바다로 수심이 약 11,000m에 달하는 곳은?",
+    "question": "Welches Meer ist mit rund 11.000 m Tiefe das tiefste der Erde?",
     "options": [
-      "마리아나 해구",
-      "일본 해구",
-      "통가 해구",
-      "푸에르토리코 해구"
+      "Marianengraben",
+      "Japangraben",
+      "Tongagraben",
+      "Puerto-Rico-Graben"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -469,12 +469,12 @@
   },
   {
     "id": "tri_037",
-    "question": "사계절의 변화가 생기는 가장 근본적인 원인은?",
+    "question": "Was ist die grundlegendste Ursache für die vier Jahreszeiten?",
     "options": [
-      "지구와 태양 사이의 거리가 변해서",
-      "지구 자전축이 기울어진 채 태양을 공전해서",
-      "태양의 열 방출량이 계절마다 변해서",
-      "달의 인력이 달라져서"
+      "Der Abstand zwischen Erde und Sonne verändert sich",
+      "Die Erde umkreist die Sonne mit geneigter Achse",
+      "Die Wärmeabgabe der Sonne ändert sich je nach Jahreszeit",
+      "Die Anziehungskraft des Mondes verändert sich"
     ],
     "answer_index": 1,
     "category": "science",
@@ -482,12 +482,12 @@
   },
   {
     "id": "tri_038",
-    "question": "태양계에서 가장 온도가 높은 행성으로 표면이 약 460℃에 달하는 곳은?",
+    "question": "Welcher ist der heißeste Planet des Sonnensystems, dessen Oberfläche etwa 460 °C erreicht?",
     "options": [
-      "수성",
-      "금성 (온실효과)",
-      "화성",
-      "목성"
+      "Merkur",
+      "Venus (Treibhauseffekt)",
+      "Mars",
+      "Jupiter"
     ],
     "answer_index": 1,
     "category": "space",
@@ -495,12 +495,12 @@
   },
   {
     "id": "tri_039",
-    "question": "지구 대기 중에서 산소가 차지하는 부피 비율은 약 얼마일까요?",
+    "question": "Welchen Volumenanteil hat Sauerstoff in der Erdatmosphäre ungefähr?",
     "options": [
-      "약 10%",
-      "약 21%",
-      "약 35%",
-      "약 50%"
+      "Etwa 10 %",
+      "Etwa 21 %",
+      "Etwa 35 %",
+      "Etwa 50 %"
     ],
     "answer_index": 1,
     "category": "science",
@@ -508,12 +508,12 @@
   },
   {
     "id": "tri_040",
-    "question": "화산 분출 시 지하 깊은 곳에서 암석이 녹아있는 고온의 액체 물질을 무엇이라 할까요?",
+    "question": "Wie nennt man die heiße geschmolzene Gesteinsschmelze, die bei einem Vulkanausbruch tief unter der Erde ansteht?",
     "options": [
-      "용암",
-      "마그마",
-      "화산재",
-      "현무암"
+      "Lava",
+      "Magma",
+      "Vulkanasche",
+      "Basalt"
     ],
     "answer_index": 1,
     "category": "science",
@@ -521,12 +521,12 @@
   },
   {
     "id": "tri_041",
-    "question": "모든 물체가 서로 끌어당기는 힘을 가리키는 물리학 법칙은?",
+    "question": "Welches physikalische Gesetz beschreibt die Kraft, mit der sich alle Körper gegenseitig anziehen?",
     "options": [
-      "만유인력(중력)",
-      "마찰력",
-      "원심력",
-      "전자기력"
+      "Massengravitation (Gravitation)",
+      "Reibungskraft",
+      "Zentrifugalkraft",
+      "Elektromagnetische Kraft"
     ],
     "answer_index": 0,
     "category": "science",
@@ -534,12 +534,12 @@
   },
   {
     "id": "tri_042",
-    "question": "인간 혈액에서 산소를 온몸으로 운반해 주는 혈구 세포는?",
+    "question": "Welche Blutzellen transportieren Sauerstoff durch den ganzen menschlichen Körper?",
     "options": [
-      "백혈구",
-      "적혈구(헤모글로빈)",
-      "혈소판",
-      "혈장"
+      "Weiße Blutkörperchen",
+      "Rote Blutkörperchen (Hämoglobin)",
+      "Blutplättchen",
+      "Blutplasma"
     ],
     "answer_index": 1,
     "category": "science",
@@ -547,12 +547,12 @@
   },
   {
     "id": "tri_043",
-    "question": "전하의 흐름을 나타내는 전류의 표준 단위(SI)는 무엇일까요?",
+    "question": "Was ist die SI-Standardeinheit der elektrischen Stromstärke, des Flusses von Ladung?",
     "options": [
-      "볼트(V)",
-      "암페어(A)",
-      "와트(W)",
-      "옴(Ω)"
+      "Volt (V)",
+      "Ampere (A)",
+      "Watt (W)",
+      "Ohm (Ω)"
     ],
     "answer_index": 1,
     "category": "science",
@@ -560,12 +560,12 @@
   },
   {
     "id": "tri_044",
-    "question": "순수한 물이 표준 대기압(1기압)에서 끓는 온도는 몇 도(℃)일까요?",
+    "question": "Bei welcher Temperatur siedet reines Wasser bei Normaldruck (1 atm)?",
     "options": [
-      "90℃",
-      "100℃",
-      "120℃",
-      "80℃"
+      "90 °C",
+      "100 °C",
+      "120 °C",
+      "80 °C"
     ],
     "answer_index": 1,
     "category": "science",
@@ -573,12 +573,12 @@
   },
   {
     "id": "tri_045",
-    "question": "신체에 상처가 났을 때 혈액을 응고시켜 피를 멎게 돕는 혈액 성분은?",
+    "question": "Welcher Blutbestandteil gerinnt das Blut und stoppt die Blutung bei einer Wunde?",
     "options": [
-      "적혈구",
-      "혈소판",
-      "림프구",
-      "단핵구"
+      "Rote Blutkörperchen",
+      "Blutplättchen",
+      "Lymphozyten",
+      "Monozyten"
     ],
     "answer_index": 1,
     "category": "science",
@@ -586,12 +586,12 @@
   },
   {
     "id": "tri_046",
-    "question": "물질의 상태 변화 중 고체가 액체를 거치지 않고 바로 기체로 변하는 현상은?",
+    "question": "Wie heißt die Zustandsänderung, bei der ein Feststoff ohne flüssige Phase direkt zum Gas wird?",
     "options": [
-      "융해",
-      "기화",
-      "승화",
-      "응고"
+      "Schmelzen",
+      "Verdampfen",
+      "Sublimieren",
+      "Erstarren"
     ],
     "answer_index": 2,
     "category": "science",
@@ -599,12 +599,12 @@
   },
   {
     "id": "tri_047",
-    "question": "원자핵을 구성하는 양성자와 중성자 주위를 궤도로 돌고 있는 음전하 입자는?",
+    "question": "Welche negativ geladenen Teilchen umkreisen die Protonen und Neutronen eines Atomkerns auf ihrer Bahn?",
     "options": [
-      "전자",
-      "광자",
-      "양전자",
-      "쿼크"
+      "Elektronen",
+      "Photonen",
+      "Positronen",
+      "Quarks"
     ],
     "answer_index": 0,
     "category": "science",
@@ -612,12 +612,12 @@
   },
   {
     "id": "tri_048",
-    "question": "pH 수치에서 7보다 작은 용액의 성질은 무엇일까요?",
+    "question": "Welche Eigenschaft hat eine Lösung mit einem pH-Wert unter 7?",
     "options": [
-      "산성",
-      "염기성(알칼리성)",
-      "중성",
-      "무극성"
+      "Sauer",
+      "Basisch (alkalisch)",
+      "Neutral",
+      "Unpolar"
     ],
     "answer_index": 0,
     "category": "science",
@@ -625,12 +625,12 @@
   },
   {
     "id": "tri_049",
-    "question": "인체에서 해독 작용, 담즙 생성, 영양소 저장을 담당하는 가장 큰 장기는?",
+    "question": "Welches ist das größte Organ des Menschen, zuständig für Entgiftung, Gallenproduktion und Nährstoffspeicherung?",
     "options": [
-      "위",
-      "간",
-      "신장(콩팥)",
-      "비장"
+      "Magen",
+      "Leber",
+      "Nieren",
+      "Milz"
     ],
     "answer_index": 1,
     "category": "science",
@@ -638,12 +638,12 @@
   },
   {
     "id": "tri_050",
-    "question": "에너지는 생성되거나 소멸하지 않고 형태만 변한다는 물리학의 대원칙은?",
+    "question": "Welches große Prinzip der Physik besagt, dass Energie weder erzeugt noch vernichtet, sondern nur umgewandelt wird?",
     "options": [
-      "에너지 보존 법칙",
-      "관성의 법칙",
-      "작용 반작용 법칙",
-      "파스칼의 원리"
+      "Energieerhaltungssatz",
+      "Trägheitsgesetz",
+      "Aktions-Reaktions-Prinzip",
+      "Pascalsches Prinzip"
     ],
     "answer_index": 0,
     "category": "science",
@@ -651,12 +651,12 @@
   },
   {
     "id": "tri_051",
-    "question": "우주에서 가장 흔하고 가벼운 원소로 원자번호 1번인 물질은?",
+    "question": "Welches ist das häufigste und leichteste Element des Universums mit der Ordnungszahl 1?",
     "options": [
-      "헬륨",
-      "수소(H)",
-      "리튬",
-      "탄소"
+      "Helium",
+      "Wasserstoff (H)",
+      "Lithium",
+      "Kohlenstoff"
     ],
     "answer_index": 1,
     "category": "science",
@@ -664,12 +664,12 @@
   },
   {
     "id": "tri_052",
-    "question": "인간의 정상 체온은 일반적으로 약 몇 도(℃) 내외일까요?",
+    "question": "Wie hoch ist die normale Körpertemperatur des Menschen ungefähr?",
     "options": [
-      "약 35.0℃",
-      "약 36.5℃",
-      "약 38.0℃",
-      "약 39.5℃"
+      "Etwa 35,0 °C",
+      "Etwa 36,5 °C",
+      "Etwa 38,0 °C",
+      "Etwa 39,5 °C"
     ],
     "answer_index": 1,
     "category": "science",
@@ -677,12 +677,12 @@
   },
   {
     "id": "tri_053",
-    "question": "눈의 구조 중 빛을 굴절시켜 망막에 상이 맺히도록 돕는 렌즈 역할을 하는 부위는?",
+    "question": "Welcher Teil des Auges wirkt als Linse, die Licht bricht, damit ein Bild auf der Netzhaut entsteht?",
     "options": [
-      "수정체",
-      "홍채",
-      "각막",
-      "유리체"
+      "Die Augenlinse",
+      "Die Iris",
+      "Die Hornhaut",
+      "Der Glaskörper"
     ],
     "answer_index": 0,
     "category": "science",
@@ -690,12 +690,12 @@
   },
   {
     "id": "tri_054",
-    "question": "물질이 산소와 빠르게 결합하며 열과 빛을 내는 화학 반응을 무엇이라 할까요?",
+    "question": "Wie nennt man die chemische Reaktion, bei der ein Stoff sich rasch mit Sauerstoff verbindet und Wärme sowie Licht abgibt?",
     "options": [
-      "산화",
-      "연소",
-      "환원",
-      "중화"
+      "Oxidation",
+      "Verbrennung",
+      "Reduktion",
+      "Neutralisation"
     ],
     "answer_index": 1,
     "category": "science",
@@ -703,12 +703,12 @@
   },
   {
     "id": "tri_055",
-    "question": "인체에서 혈액 속 노폐물을 걸러내 소변으로 배출하는 정화 기관은?",
+    "question": "Welches Organ filtert Abfallstoffe aus dem Blut und scheidet sie als Urin aus?",
     "options": [
-      "쓸개",
-      "신장(콩팥)",
-      "췌장",
-      "십이지장"
+      "Gallenblase",
+      "Nieren",
+      "Bauchspeicheldrüse",
+      "Zwölffingerdarm"
     ],
     "answer_index": 1,
     "category": "science",
@@ -716,12 +716,12 @@
   },
   {
     "id": "tri_056",
-    "question": "철(Fe)이 공기 중의 산소와 수분을 만나 붉게 녹스는 반응은?",
+    "question": "Wie heißt die Reaktion, wenn Eisen auf Sauerstoff und Feuchtigkeit der Luft trifft und rot rostet?",
     "options": [
-      "산화 반응",
-      "환원 반응",
-      "치환 반응",
-      "발효 반응"
+      "Oxidationsreaktion",
+      "Reduktionsreaktion",
+      "Substitutionsreaktion",
+      "Fermentationsreaktion"
     ],
     "answer_index": 0,
     "category": "science",
@@ -729,12 +729,12 @@
   },
   {
     "id": "tri_057",
-    "question": "물체가 외부에서 힘을 받지 않으면 원래의 운동 상태를 유지하려는 성질은?",
+    "question": "Welche Eigenschaft lässt einen Körper seinen Bewegungszustand beibehalten, solange keine äußere Kraft einwirkt?",
     "options": [
-      "탄성",
-      "관성",
-      "마찰",
-      "점성"
+      "Elastizität",
+      "Trägheit",
+      "Reibung",
+      "Viskosität"
     ],
     "answer_index": 1,
     "category": "science",
@@ -742,12 +742,12 @@
   },
   {
     "id": "tri_058",
-    "question": "전기 에너지를 사용하는 가전제품의 소비 전력을 나타내는 단위는?",
+    "question": "In welcher Einheit wird der Leistungsverbrauch von Elektrogeräten angegeben?",
     "options": [
-      "볼트(V)",
-      "와트(W)",
-      "헤르츠(Hz)",
-      "줄(J)"
+      "Volt (V)",
+      "Watt (W)",
+      "Hertz (Hz)",
+      "Joule (J)"
     ],
     "answer_index": 1,
     "category": "tech",
@@ -755,12 +755,12 @@
   },
   {
     "id": "tri_059",
-    "question": "인체의 유전 정보를 담고 있는 세포핵 속의 이중 나선 분자 구조체는?",
+    "question": "Welche Doppelhelix-Molekülstruktur im Zellkern trägt die genetische Information des Menschen?",
     "options": [
       "DNA",
       "RNA",
       "ATP",
-      "단백질"
+      "Protein"
     ],
     "answer_index": 0,
     "category": "science",
@@ -768,12 +768,12 @@
   },
   {
     "id": "tri_060",
-    "question": "자석의 같은 극끼리는 서로 밀어내고 다른 극끼리는 끌어당기는 힘은?",
+    "question": "Welche Kraft lässt gleiche Pole eines Magneten sich abstoßen und ungleiche sich anziehen?",
     "options": [
-      "자기력",
-      "원심력",
-      "부력",
-      "중력"
+      "Magnetische Kraft",
+      "Zentrifugalkraft",
+      "Auftrieb",
+      "Schwerkraft"
     ],
     "answer_index": 0,
     "category": "science",
@@ -781,12 +781,12 @@
   },
   {
     "id": "tri_061",
-    "question": "날 수 있는 유일한 포유류 동물은 무엇일까요?",
+    "question": "Welches ist das einzige Säugetier, das wirklich fliegen kann?",
     "options": [
-      "날다람쥐",
-      "박쥐",
-      "타조",
-      "펭귄"
+      "Gleithörnchen",
+      "Fledermaus",
+      "Strauß",
+      "Pinguin"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -794,12 +794,12 @@
   },
   {
     "id": "tri_062",
-    "question": "지구상에서 가장 키가 큰 포유류 동물은?",
+    "question": "Welches ist das größte Säugetier der Erde?",
     "options": [
-      "코끼리",
-      "기린",
-      "하마",
-      "낙타"
+      "Elefant",
+      "Giraffe",
+      "Nilpferd",
+      "Kamel"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -807,12 +807,12 @@
   },
   {
     "id": "tri_063",
-    "question": "남극에 주로 서식하며 날지 못하지만 헤엄을 매우 잘 치는 조류는?",
+    "question": "Welcher Vogel lebt vorwiegend in der Antarktis, kann nicht fliegen, schwimmt aber hervorragend?",
     "options": [
-      "갈매기",
-      "펭귄",
-      "알바트로스",
-      "펠리컨"
+      "Möwe",
+      "Pinguin",
+      "Albatros",
+      "Pelikan"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -820,12 +820,12 @@
   },
   {
     "id": "tri_064",
-    "question": "사막에서 물과 먹이 없이도 며칠을 버티며 등에 육봉을 가진 동물은?",
+    "question": "Welches Tier mit Höckern auf dem Rücken übersteht im Wüstensand Tage ohne Wasser und Nahrung?",
     "options": [
-      "낙타",
-      "야크",
-      "라마",
-      "사막여우"
+      "Kamel",
+      "Jak",
+      "Lama",
+      "Fennek"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -833,12 +833,12 @@
   },
   {
     "id": "tri_065",
-    "question": "주변 환경의 색이나 빛에 따라 피부색을 자유자재로 바꾸는 파충류는?",
+    "question": "Welches Reptil wechselt seine Hautfarbe je nach Umgebungsfarbe und Licht?",
     "options": [
-      "카멜레온",
-      "도마뱀붙이",
-      "이구아나",
-      "악어"
+      "Chamäleon",
+      "Gecko",
+      "Leguan",
+      "Krokodil"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -846,12 +846,12 @@
   },
   {
     "id": "tri_066",
-    "question": "지구의 허파라고 불리며 전 세계 산소의 상당량을 생성하는 거대 열대우림은?",
+    "question": "Welcher gewaltige tropische Regenwald, die Lunge der Erde genannt, erzeugt einen großen Teil des weltweiten Sauerstoffs?",
     "options": [
-      "아마존 우림",
-      "콩고 우림",
-      "시베리아 타이가",
-      "보르네오 우림"
+      "Der Amazonas-Regenwald",
+      "Der Kongo-Regenwald",
+      "Die sibirische Taiga",
+      "Der Regenwald Borneos"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -859,12 +859,12 @@
   },
   {
     "id": "tri_067",
-    "question": "곤충의 몸은 머리, 가슴, 배의 3부분으로 나뉩니다. 다리는 모두 몇 개일까요?",
+    "question": "Der Körper eines Insekts gliedert sich in Kopf, Brust und Hinterleib. Wie viele Beine hat es insgesamt?",
     "options": [
-      "4개",
-      "6개",
-      "8개",
-      "10개"
+      "4",
+      "6",
+      "8",
+      "10"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -872,12 +872,12 @@
   },
   {
     "id": "tri_068",
-    "question": "거미는 곤충일까요, 아닐까요? (거미의 다리 개수는 8개)",
+    "question": "Ist eine Spinne ein Insekt oder nicht? (Spinnen haben 8 Beine)",
     "options": [
-      "곤충이 아니다 (절지동물 거미강)",
-      "곤충이다",
-      "연체동물이다",
-      "환형동물이다"
+      "Kein Insekt (Spinnentier, Klasse Arachnida)",
+      "Ein Insekt",
+      "Ein Weichtier",
+      "Ein Ringelwurm"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -885,12 +885,12 @@
   },
   {
     "id": "tri_069",
-    "question": "식물이 줄기와 잎을 통해 물을 수증기 상태로 공기 중에 배출하는 작용은?",
+    "question": "Wie heißt der Vorgang, bei dem Pflanzen über Stängel und Blätter Wasser als Dampf an die Luft abgeben?",
     "options": [
-      "증산 작용",
-      "광합성",
-      "호흡 작용",
-      "삼투 작용"
+      "Transpiration",
+      "Photosynthese",
+      "Atmung",
+      "Osmose"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -898,12 +898,12 @@
   },
   {
     "id": "tri_070",
-    "question": "바다에 살며 지능이 매우 높고 초음파로 서로 소통하는 대표적인 해양 포유류는?",
+    "question": "Welches ikonische Meeressäugetier lebt im Meer, ist hochintelligent und verständigt sich per Ultraschall?",
     "options": [
-      "돌고래",
-      "상어",
-      "참치",
-      "가오리"
+      "Delfin",
+      "Hai",
+      "Thunfisch",
+      "Rochen"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -911,12 +911,12 @@
   },
   {
     "id": "tri_071",
-    "question": "공룡이 약 6,600만 년 전 멸종하게 된 결정적 계기로 유력한 학설은?",
+    "question": "Welche Theorie gilt als die entscheidende Ursache für das Aussterben der Dinosaurier vor rund 66 Millionen Jahren?",
     "options": [
-      "빙하기 도래",
-      "소행성(운석) 충돌",
-      "전염병 유행",
-      "산소 고갈"
+      "Das Kommen einer Eiszeit",
+      "Der Einschlag eines Asteroiden (Meteoriten)",
+      "Eine Pandemie",
+      "Sauerstoffmangel"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -924,12 +924,12 @@
   },
   {
     "id": "tri_072",
-    "question": "지구 온난화를 일으키는 대표적인 온실가스 2가지는?",
+    "question": "Welches sind zwei repräsentative Treibhausgase der globalen Erwärmung?",
     "options": [
-      "이산화탄소와 메탄",
-      "산소와 질소",
-      "수소와 헬륨",
-      "아르곤과 네온"
+      "Kohlendioxid und Methan",
+      "Sauerstoff und Stickstoff",
+      "Wasserstoff und Helium",
+      "Argon und Neon"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -937,12 +937,12 @@
   },
   {
     "id": "tri_073",
-    "question": "올챙이가 자라서 개구리가 되는 것처럼 형태가 완전히 바뀌는 현상은?",
+    "question": "Wie heißt die Verwandlung, bei der aus einer Kaulquappe ein Frosch wird und sich die Gestalt völlig wandelt?",
     "options": [
-      "탈피",
-      "변태 (탈바꿈)",
-      "진화",
-      "분열"
+      "Häutung",
+      "Metamorphose",
+      "Evolution",
+      "Teilung"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -950,12 +950,12 @@
   },
   {
     "id": "tri_074",
-    "question": "대나무는 나무일까요, 풀일까요?",
+    "question": "Ist Bambus ein Baum oder ein Gras?",
     "options": [
-      "여러해살이 화본과 풀(초본)",
-      "목본 나무",
-      "덩굴식물",
-      "선태식물"
+      "Ein ausdauerndes Süßgras (Kraut)",
+      "Ein Holzgewächs",
+      "Eine Kletterpflanze",
+      "Ein Moos"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -963,12 +963,12 @@
   },
   {
     "id": "tri_075",
-    "question": "바다에서 뼈가 연골(물렁뼈)로만 이루어진 연골어류의 대표 동물은?",
+    "question": "Welche Meeresbewohner sind die klassischen Knorpelfische, deren Skelett nur aus weichem Knorpel besteht?",
     "options": [
-      "상어와 가오리",
-      "고등어와 꽁치",
-      "참돔과 넙치",
-      "연어와 송어"
+      "Haie und Rochen",
+      "Makrelen und Sauringe",
+      "Brassen und Steinbutte",
+      "Lachse und Forellen"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -976,12 +976,12 @@
   },
   {
     "id": "tri_076",
-    "question": "세계에서 가장 큰 바다로 지구 표면적의 약 3분의 1을 차지하는 대양은?",
+    "question": "Welches ist der größte Ozean der Erde, der etwa ein Drittel ihrer Oberfläche bedeckt?",
     "options": [
-      "대서양",
-      "태평양",
-      "인도양",
-      "북극해"
+      "Atlantischer Ozean",
+      "Pazifischer Ozean",
+      "Indischer Ozean",
+      "Arktischer Ozean"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -989,12 +989,12 @@
   },
   {
     "id": "tri_077",
-    "question": "꿀벌이 춤을 추며 동료들에게 알려주는 정보는 무엇일까요?",
+    "question": "Welche Information teilen Honigbienen ihren Stockgenossinnen durch Tanz mit?",
     "options": [
-      "먹이(꽃)가 있는 방향과 거리",
-      "적의 침입",
-      "여왕벌의 위치",
-      "날씨 예보"
+      "Richtung und Entfernung der Futterquelle (Blüten)",
+      "Ein Eindringen von Feinden",
+      "Den Aufenthaltsort der Königin",
+      "Eine Wettervorhersage"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -1002,12 +1002,12 @@
   },
   {
     "id": "tri_078",
-    "question": "자웅동체(암수한몸)로 비 온 뒤 땅 위로 기어 나와 흙을 기름지게 만드는 동물은?",
+    "question": "Welches zwittrige Tier kriecht nach dem Regen an die Oberfläche und macht den Boden fruchtbar?",
     "options": [
-      "지렁이",
-      "지네",
-      "달팽이",
-      "개미"
+      "Regenwurm",
+      "Tausendfüßler",
+      "Schnecke",
+      "Ameise"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -1015,12 +1015,12 @@
   },
   {
     "id": "tri_079",
-    "question": "북극곰의 털 밑에 있는 실제 피부색은 무슨 색일까요?",
+    "question": "Welche ist die tatsächliche Hautfarbe des Eisbären unter dem Fell?",
     "options": [
-      "흰색",
-      "검은색 (열 흡수용)",
-      "분홍색",
-      "회색"
+      "Weiß",
+      "Schwarz (zur Wärmeaufnahme)",
+      "Rosa",
+      "Grau"
     ],
     "answer_index": 1,
     "category": "nature",
@@ -1028,12 +1028,12 @@
   },
   {
     "id": "tri_080",
-    "question": "물속에서 아가미로 호흡하다가 성체가 되면 허파와 피부로 호흡하는 동물군은?",
+    "question": "Welche Tiergruppe atmet im Wasser durch Kiemen, als ausgewachsenes Tier aber durch Lunge und Haut?",
     "options": [
-      "양서류",
-      "파충류",
-      "조류",
-      "포유류"
+      "Amphibien",
+      "Reptilien",
+      "Vögel",
+      "Säugetiere"
     ],
     "answer_index": 0,
     "category": "nature",
@@ -1041,12 +1041,12 @@
   },
   {
     "id": "tri_081",
-    "question": "1바이트(Byte)는 모두 몇 개의 비트(Bit)로 구성될까요?",
+    "question": "Aus wie vielen Bits besteht ein Byte?",
     "options": [
-      "4비트",
-      "8비트",
-      "16비트",
-      "32비트"
+      "4 Bit",
+      "8 Bit",
+      "16 Bit",
+      "32 Bit"
     ],
     "answer_index": 1,
     "category": "tech",
@@ -1054,12 +1054,12 @@
   },
   {
     "id": "tri_082",
-    "question": "월드 와이드 웹(WWW)을 발명하여 인터넷 혁명을 연 영국의 과학자는?",
+    "question": "Welcher britische Wissenschaftler erfand das World Wide Web (WWW) und läutete die Internetrevolution ein?",
     "options": [
-      "팀 버너스리",
-      "빌 게이츠",
-      "스티브 잡스",
-      "앨런 튜링"
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Alan Turing"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1067,12 +1067,12 @@
   },
   {
     "id": "tri_083",
-    "question": "조선 시대 세종대왕이 창제한 우리나라 고유의 문자 이름은?",
+    "question": "Wie heißt die eigene Schrift Koreas, die König Sejong der Große der Joseon-Dynastie schuf?",
     "options": [
-      "훈민정음(한글)",
-      "이두",
-      "향찰",
-      "구결"
+      "Hunminjeongeum (Hangul)",
+      "Idu",
+      "Hyangchal",
+      "Gugyeol"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1080,12 +1080,12 @@
   },
   {
     "id": "tri_084",
-    "question": "세계에서 가장 높은 산으로 해발 8,848m에 달하는 히말라야 산맥의 봉우리는?",
+    "question": "Welches ist der höchste Berg der Welt, ein 8.848 m hoher Gipfel des Himalaya?",
     "options": [
       "K2",
-      "에베레스트산(초모룽마)",
-      "칸첸중가",
-      "마칼루"
+      "Mount Everest (Qomolangma)",
+      "Kangchendzönga",
+      "Makalu"
     ],
     "answer_index": 1,
     "category": "culture",
@@ -1093,12 +1093,12 @@
   },
   {
     "id": "tri_085",
-    "question": "인공지능(AI)의 아버지로 불리며 튜링 테스트를 고안한 수학자는?",
+    "question": "Welcher Mathematiker, genannt der Vater der künstlichen Intelligenz, entwarf den Turing-Test?",
     "options": [
-      "앨런 튜링",
-      "존 폰 노이만",
-      "노버트 위너",
-      "클로드 섀넌"
+      "Alan Turing",
+      "John von Neumann",
+      "Norbert Wiener",
+      "Claude Shannon"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1106,12 +1106,12 @@
   },
   {
     "id": "tri_086",
-    "question": "조선 시대 과학자 장영실 등이 만든 세계 최초의 자동 물시계는?",
+    "question": "Welches war die erste automatische Wasseruhr der Welt, gebaut vom Joseon-Wissenschaftler Jang Yeong-sil und anderen?",
     "options": [
-      "자격루",
-      "앙부일구",
-      "측우기",
-      "혼천의"
+      "Jagyungnu (selbstschlagende Wasseruhr)",
+      "Angbuilgu (Sonnenuhr)",
+      "Cheugugi (Regenmesser)",
+      "Honcheonui (Armillarsphäre)"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1119,12 +1119,12 @@
   },
   {
     "id": "tri_087",
-    "question": "컴퓨터의 뇌 역할을 하며 연산과 제어를 담당하는 핵심 부품은?",
+    "question": "Welches Kernbauteil ist das Gehirn des Computers und übernimmt Rechen- und Steuerungsaufgaben?",
     "options": [
-      "CPU (중앙처리장치)",
-      "RAM (주기억장치)",
-      "SSD (보조기억장치)",
-      "파워서플라이"
+      "CPU (Prozessor)",
+      "RAM (Arbeitsspeicher)",
+      "SSD (Massenspeicher)",
+      "Netzteil"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1132,12 +1132,12 @@
   },
   {
     "id": "tri_088",
-    "question": "금속활자로 인쇄된 현존 세계 최고(最古)의 책으로 유네스코 세계기록유산인 것은?",
+    "question": "Welches ist das älteste erhaltene Buch, gedruckt mit Metallletterndruck, und UNESCO-Weltdokumentenerbe?",
     "options": [
-      "직지심체요절",
-      "구텐베르크 성서",
-      "팔만대장경",
-      "삼국유사"
+      "Jikji Simche Yojeol",
+      "Die Gutenberg-Bibel",
+      "Der Tripitaka Koreana",
+      "Samguk Yusa"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1145,12 +1145,12 @@
   },
   {
     "id": "tri_089",
-    "question": "스마트폰 화면에 손가락을 대었을 때 미세한 정전기 변화를 감지하는 터치 방식은?",
+    "question": "Welches Touchverfahren spürt winzige elektrostatische Veränderungen, wenn ein Finger das Smartphone-Display berührt?",
     "options": [
-      "감압식",
-      "정전용량식(정전식)",
-      "초음파식",
-      "광학식"
+      "Resistiv",
+      "Kapazitiv",
+      "Ultraschall",
+      "Optisch"
     ],
     "answer_index": 1,
     "category": "tech",
@@ -1158,12 +1158,12 @@
   },
   {
     "id": "tri_090",
-    "question": "신라 시대 삼국통일을 주도한 청소년 심신 수련 조직의 명칭은?",
+    "question": "Wie hieß die Jugendorganisation von Silla, deren Ausbildung die Vereinigung der Drei Reiche führte?",
     "options": [
-      "화랑도",
-      "조의선인",
-      "싸울아비",
-      "별무반"
+      "Hwarangdo",
+      "Joüi Seonin",
+      "Ssaulabi",
+      "Byeolmuban"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1171,12 +1171,12 @@
   },
   {
     "id": "tri_091",
-    "question": "데이터를 분산 저장하여 위변조를 방지하는 분산 원장 기술은?",
+    "question": "Welche verteilte Ledger-Technologie speichert Daten über viele Knoten und verhindert Fälschung?",
     "options": [
-      "블록체인",
-      "클라우드",
-      "빅데이터",
-      "가상화"
+      "Blockchain",
+      "Cloud",
+      "Big Data",
+      "Virtualisierung"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1184,12 +1184,12 @@
   },
   {
     "id": "tri_092",
-    "question": "충무공 이순신 장군이 임진왜란 때 왜군을 격파하기 위해 고안한 철갑 전투선은?",
+    "question": "Welches gepanzerte Kriegsschiff entwarf Admiral Yi Sun-sin, um in dem Imjin-Krieg die japanische Flotte zu schlagen?",
     "options": [
-      "거북선(귀선)",
-      "판옥선",
-      "맹선",
-      "협선"
+      "Geobukseon (Schildkrötenschiff)",
+      "Panokseon",
+      "Maengseon",
+      "Hyeopseon"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "tri_093",
-    "question": "인터넷 통신 규약인 HTTP에서 보안 암호화(SSL/TLS)가 추가된 프로토콜은?",
+    "question": "Wie heißt das Protokoll, das dem Webprotokoll HTTP SSL/TLS-Verschlüsselung hinzufügt?",
     "options": [
       "HTTPS",
       "FTP",
@@ -1210,12 +1210,12 @@
   },
   {
     "id": "tri_094",
-    "question": "고려 시대 몽골의 침략을 불심으로 막아내기 위해 목판 8만여 장에 새긴 경전은?",
+    "question": "Welche Schriften ließ Goryeo auf über 80.000 Holzblöcke schnitzen, um die mongolische Invasion im Gebet abzuwenden?",
     "options": [
-      "팔만대장경(고려대장경)",
-      "직지",
-      "삼국사기",
-      "동국이상국집"
+      "Tripitaka Koreana (Palman Daejanggyeong)",
+      "Jikji",
+      "Samguk Sagi",
+      "Dongguk Isanggukjip"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1223,12 +1223,12 @@
   },
   {
     "id": "tri_095",
-    "question": "블루투스(Bluetooth) 기술 이름의 유래가 된 10세기 덴마크 왕은?",
+    "question": "Welcher dänische König des 10. Jahrhunderts gab der Bluetooth-Technologie ihren Namen?",
     "options": [
-      "하랄드 블라톤 (푸른 이빨)",
-      "크누트 대왕",
-      "에릭 로드브로크",
-      "구스타프"
+      "Harald Blauzahn",
+      "Knut der Große",
+      "Erik Blutaxt",
+      "Gustaf"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1236,12 +1236,12 @@
   },
   {
     "id": "tri_096",
-    "question": "조선 시대 정조 대왕이 건축한 계획도시이자 세계문화유산인 성곽은?",
+    "question": "Welche von König Jeongjo der Joseon-Dynastie erbaute Planstadt mit Festung ist UNESCO-Weltkulturerbe?",
     "options": [
-      "수원 화성",
-      "남한산성",
-      "북한산성",
-      "진주성"
+      "Suwon Hwaseong",
+      "Namhansanseong",
+      "Bukhansanseong",
+      "Jinjuseong"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1249,12 +1249,12 @@
   },
   {
     "id": "tri_097",
-    "question": "현대 컴퓨터 구조의 근간이 된 프로그램 내장 방식을 고안한 수학자는?",
+    "question": "Welcher Mathematiker entwarf die Speicherprogrammartitektur, die Grundlage moderner Computer?",
     "options": [
-      "존 폰 노이만",
-      "앨런 튜링",
-      "아이작 뉴턴",
-      "고트프리트 라이프니츠"
+      "John von Neumann",
+      "Alan Turing",
+      "Isaac Newton",
+      "Gottfried Leibniz"
     ],
     "answer_index": 0,
     "category": "tech",
@@ -1262,12 +1262,12 @@
   },
   {
     "id": "tri_098",
-    "question": "우리나라 전통 명절 중 음력 8월 15일로 햅쌀로 송편을 빚는 날은?",
+    "question": "An welchem koreanischen Feiertag, dem 15. Tag des 8. Mondmonats, formt man Songpyeon aus neuem Reis?",
     "options": [
-      "추석(한가위)",
-      "설날",
-      "단오",
-      "정월대보름"
+      "Chuseok (Hangawi)",
+      "Seollal",
+      "Dano",
+      "Daeboreum"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1275,9 +1275,9 @@
   },
   {
     "id": "tri_099",
-    "question": "QR 코드에서 QR의 약자는 무엇을 의미할까요?",
+    "question": "Wofür steht die Abkürzung QR im QR-Code?",
     "options": [
-      "Quick Response (빠른 응답)",
+      "Quick Response",
       "Quality Record",
       "Quantum Reader",
       "Query Route"
@@ -1288,12 +1288,12 @@
   },
   {
     "id": "tri_100",
-    "question": "조선 시대 허준이 편찬한 동양 의학의 집대성 백과사전은?",
+    "question": "Welches enzyklopädische Meisterwerk der östlichen Medizin kompilierte Heo Jun der Joseon-Dynastie?",
     "options": [
-      "동의보감",
-      "향약집성방",
-      "의방유취",
-      "본초강목"
+      "Dongui Bogam",
+      "Hyangyak Jipseongbang",
+      "Uibang Yuchwi",
+      "Bencao Gangmu"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": "tri_101",
-    "question": "위성 위치 확인 시스템으로 전 세계 위치를 실시간 측정하는 기술은?",
+    "question": "Welche satellitengestützte Technologie bestimmt Positionen weltweit in Echtzeit?",
     "options": [
       "GPS",
       "NFC",
@@ -1314,12 +1314,12 @@
   },
   {
     "id": "tri_102",
-    "question": "한국의 대표적인 전통 민요로 유네스코 인류무형문화유산인 노래는?",
+    "question": "Welches charakteristische koreanische Volkslied ist UNESCO-immaterielles Kulturerbe der Menschheit?",
     "options": [
-      "아리랑",
-      "도라지타령",
-      "밀양아리랑",
-      "군밤타령"
+      "Arirang",
+      "Doraji Taryeong",
+      "Miryang Arirang",
+      "Gunbam Taryeong"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1327,7 +1327,7 @@
   },
   {
     "id": "tri_103",
-    "question": "근거리 무선 통신 기술로 교통카드나 모바일 결제에 쓰이는 규격은?",
+    "question": "Welcher Nahfunk-Standard wird für Verkehrskarten und mobiles Bezahlen verwendet?",
     "options": [
       "NFC",
       "Wi-Fi",
@@ -1340,12 +1340,12 @@
   },
   {
     "id": "tri_104",
-    "question": "신라 선덕여왕 때 세워진 동양에서 가장 오래된 천문관측대 유적은?",
+    "question": "Welches ist die älteste Sternwarte des Ostens, errichtet unter Königin Seondeok von Silla?",
     "options": [
-      "첨성대",
-      "간의대",
-      "관천대",
-      "흠경각"
+      "Cheomseongdae",
+      "Ganuidae",
+      "Gwacheondae",
+      "Heumgyeonggak"
     ],
     "answer_index": 0,
     "category": "culture",
@@ -1353,12 +1353,12 @@
   },
   {
     "id": "tri_105",
-    "question": "도깨비의 지혜를 담은 우리 DOK-KEY 앱이 전하는 핵심 가치는?",
+    "question": "Welchen Kernwert vermittelt unsere DOK-KEY-App, die die Weisheit des Goblin trägt?",
     "options": [
-      "인생의 명언·조언과 지혜의 깨달음",
-      "단순 게임 점수",
-      "랜덤 행운",
-      "단기 오락"
+      "Lebensweisheit — Zitate, Ratschläge und Einsicht",
+      "Bloße Spielpunkte",
+      "Zufälliges Glück",
+      "Kurzweil"
     ],
     "answer_index": 0,
     "category": "culture",

@@ -1,182 +1,332 @@
 {
-  "rat": {
-    "name": "Rat",
-    "symbol": "Agility & Sharp Wit (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Rat führt dich zu Klarheit und Erfolg."
+  "Z01": {
+    "name": "Zi (Ratte)",
+    "symbol": "Bote der Weisheit & des Wohlstands",
+    "description": "Scharfsinn, der im Dunkeln Wege findet und goldene Schlüssel des Reichtums bringt."
   },
-  "ox": {
-    "name": "Ox",
-    "symbol": "Steadfastness & Quiet Endurance (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Ox führt dich zu Klarheit und Erfolg."
+  "Z02": {
+    "name": "Chou (Ochse)",
+    "symbol": "Beständigkeit & Fleiß",
+    "description": "Beharrliche Kraft, die Schritt für Schritt zu einer reichen Ernte führt."
   },
-  "tiger": {
-    "name": "Tiger",
-    "symbol": "Courage & Decisiveness (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Tiger führt dich zu Klarheit und Erfolg."
+  "Z03": {
+    "name": "Yin (Tiger)",
+    "symbol": "Herrscher des Mutes & Schutzes",
+    "description": "Kühne Tapferkeit, die Unheil abwendet und die Tore des großen Glücks öffnet."
   },
-  "rabbit": {
-    "name": "Rabbit",
-    "symbol": "Swiftness & Flexible Leaps (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Rabbit führt dich zu Klarheit und Erfolg."
+  "Z04": {
+    "name": "Mao (Hase)",
+    "symbol": "Mondlicht der Gewandtheit & des Sprungs",
+    "description": "Funkelnde Inspiration im Mondschein, die jede Hürde mit Leichtigkeit überwindet."
   },
-  "dragon": {
-    "name": "Dragon",
-    "symbol": "Ascension & Grand Transformation (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Dragon führt dich zu Klarheit und Erfolg."
+  "Z05": {
+    "name": "Chen (Blauer Drache)",
+    "symbol": "Führer der himmlischen Harmonie",
+    "description": "Erhebt sich mit dem Himmelsjuwel und bringt kosmische Harmonie und Wohlstand."
   },
-  "snake": {
-    "name": "Snake",
-    "symbol": "Wisdom & Metamorphosis (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Snake führt dich zu Klarheit und Erfolg."
+  "Z06": {
+    "name": "Si (Schlange)",
+    "symbol": "Flamme der Transformation & Intuition",
+    "description": "Streift das Alte ab zur Neugeburt und leitet Wendepunkte mit tiefer Einsicht."
   },
-  "horse": {
-    "name": "Horse",
-    "symbol": "Freedom & Boundless Sprint (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Horse führt dich zu Klarheit und Erfolg."
+  "Z07": {
+    "name": "Wu (Weißes Pferd)",
+    "symbol": "Leidenschaft & unaufhaltsamer Galopp",
+    "description": "Galoppiert mit wehender Mähne über weite Ebenen geradewegs auf Ihr Ziel zu."
   },
-  "sheep": {
-    "name": "Sheep",
-    "symbol": "Gentleness & Harmonious Grace (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Sheep führt dich zu Klarheit und Erfolg."
+  "Z08": {
+    "name": "Wei (Schaf)",
+    "symbol": "Friede & sanfte Harmonie",
+    "description": "Umhüllt Verbindungen mit reiner Wärme und schenkt tiefe innere Ruhe."
   },
-  "monkey": {
-    "name": "Monkey",
-    "symbol": "Versatility & Playful Ingenuity (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Monkey führt dich zu Klarheit und Erfolg."
+  "Z09": {
+    "name": "Shen (Affe)",
+    "symbol": "Funke des Witzes & Talents",
+    "description": "Gewandter Scharfsinn, der schwierige Aufgaben mit kreativem Humor meistert."
   },
-  "rooster": {
-    "name": "Rooster",
-    "symbol": "Foresight & Dawn's Awakening (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Rooster führt dich zu Klarheit und Erfolg."
+  "Z10": {
+    "name": "You (Hahn)",
+    "symbol": "Bote der Morgenröte & Weitsicht",
+    "description": "Durchbricht die Dunkelheit und kündigt neue Chancen und frischen Wohlstand an."
   },
-  "dog": {
-    "name": "Dog",
-    "symbol": "Loyalty & Deep Trust (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Dog führt dich zu Klarheit und Erfolg."
+  "Z11": {
+    "name": "Xu (Hund)",
+    "symbol": "Treue & Beschützer des Heims",
+    "description": "Unerschütterliche Loyalität, die wertvolle Beziehungen und das Glück beschützt."
   },
-  "pig": {
-    "name": "Pig",
-    "symbol": "Abundance & Plentiful Harvest (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Pig führt dich zu Klarheit und Erfolg."
+  "Z12": {
+    "name": "Hai (Goldenes Schwein)",
+    "symbol": "Fülle & Segen des großen Glücks",
+    "description": "Erfüllt von goldenem Segen, schenkt unendlichen Wohlstand und Lebensfreude."
   },
-  "moon_jar": {
-    "name": "Moon Jar",
-    "symbol": "Aesthetics of Emptiness & Embrace (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Moon Jar führt dich zu Klarheit und Erfolg."
+  "Z13": {
+    "name": "Haetae",
+    "symbol": "Wächter der Gerechtigkeit & des Schutzes",
+    "description": "Fabelwesen, das Wahrheit von Unrecht unterscheidet und Unheil abwehrt."
   },
-  "inkstone": {
-    "name": "Inkstone",
-    "symbol": "Deep Contemplation & Quiet Readiness (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Inkstone führt dich zu Klarheit und Erfolg."
+  "Z14": {
+    "name": "Qilin (Kirin)",
+    "symbol": "Bote des Friedens & Wohlstands",
+    "description": "Gütiges Fabelwesen, das die Welt mit Harmonie und Weisheit segnet."
   },
-  "bamboo_flute": {
-    "name": "Bamboo Flute",
-    "symbol": "Resonant Melody & Soulful Waves (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Bamboo Flute führt dich zu Klarheit und Erfolg."
+  "Z15": {
+    "name": "Zinnoberroter Vogel",
+    "symbol": "Phönix des Südens & Ewige Flamme",
+    "description": "Feurige Schwingen, die Negativität verbrennen und reine Vitalität schenken."
   },
-  "folding_fan": {
-    "name": "Folding Fan",
-    "symbol": "Flexible Adaptation & Shifting Winds (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Folding Fan führt dich zu Klarheit und Erfolg."
+  "Z16": {
+    "name": "Schwarze Schildkröte",
+    "symbol": "Langlebigkeit & Felsenfestes Fundament",
+    "description": "Schildkröte und Schlange vereint, schenken dauerhafte Gesundheit und Sicherheit."
   },
-  "brass_bell": {
-    "name": "Wind Chime",
-    "symbol": "Mindful Alertness & Clear Awakening (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Wind Chime führt dich zu Klarheit und Erfolg."
+  "Z17": {
+    "name": "Weißer Hirsch",
+    "symbol": "Reine Heilung & Langlebigkeit",
+    "description": "Heiliger Hirsch der Berge, der sanfte Genesung und inneren Frieden spendet."
   },
-  "wooden_comb": {
-    "name": "Wooden Comb",
-    "symbol": "Order & Untangling Tangles (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Wooden Comb führt dich zu Klarheit und Erfolg."
+  "Z18": {
+    "name": "Fenghuang (Phönix)",
+    "symbol": "Edle Würde & Erhabenheit",
+    "description": "Leuchtendes Gefieder in fünf Farben, das Würde, Harmonie und Ehre bringt."
   },
-  "lotus_lamp": {
-    "name": "Lotus Lantern",
-    "symbol": "Beacon of Hope in the Dark (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Lotus Lantern führt dich zu Klarheit und Erfolg."
+  "Z19": {
+    "name": "Dreibeinige Krähe",
+    "symbol": "Bote der Sonne & des Lichts",
+    "description": "Sonnenvogel, der himmlischen Glanz überträgt und den Weg erhellt."
   },
-  "jade_ring": {
-    "name": "Jade Ring",
-    "symbol": "Everlasting Promise & Noble Integrity (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Jade Ring führt dich zu Klarheit und Erfolg."
+  "Z20": {
+    "name": "Neunschwänziger Fuchs",
+    "symbol": "Jahrtausend-Weisheit & Charme",
+    "description": "Magischer Fuchs mit tiefer Einsicht und fesselnder Überzeugungskraft."
   },
-  "tea_bowl": {
-    "name": "Tea Bowl",
-    "symbol": "Mindful Pause & Shared Warmth (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Tea Bowl führt dich zu Klarheit und Erfolg."
+  "Z21": {
+    "name": "Einhorn",
+    "symbol": "Reinheit & Wunder der Hoffnung",
+    "description": "Glänzendes Horn, das müde Herzen heilt und wundersames Glück herbeiruft."
   },
-  "silk_pouch": {
-    "name": "Fortune Pouch",
-    "symbol": "Hidden Opportunity & Good Fortune (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Fortune Pouch führt dich zu Klarheit und Erfolg."
+  "Z22": {
+    "name": "Dreiäugiger Jagdhund",
+    "symbol": "Hellseherei & Bann des Bösen",
+    "description": "Das dritte Auge durchschaut alle Täuschungen und wehrt Gefahren ab."
   },
-  "wooden_fish": {
-    "name": "Wooden Moktak",
-    "symbol": "Awakened Presence & Focus (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Wooden Moktak führt dich zu Klarheit und Erfolg."
+  "Z23": {
+    "name": "Ganesha (Krafttier)",
+    "symbol": "Beseitiger von Hindernissen",
+    "description": "Räumt alle Barrieren aus dem Weg und eröffnet unbegrenzten Wohlstand."
   },
-  "cloud_pillow": {
-    "name": "Cloud Pillow",
-    "symbol": "Sweet Rest & Incubation of Dreams (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Cloud Pillow führt dich zu Klarheit und Erfolg."
+  "Z24": {
+    "name": "Sobek (Wächter)",
+    "symbol": "Lebenswasser & Unerschöpfliche Fülle",
+    "description": "Segnet Ihren Boden mit ewiger Fruchtbarkeit und reicher Lebenskraft."
   },
-  "dokkaebi_fire": {
-    "name": "Dokkaebi Fire",
-    "symbol": "Flickering Inspiration & Whimsy (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Dokkaebi Fire führt dich zu Klarheit und Erfolg."
+  "Z25": {
+    "name": "Imoogi (Drachenanwärter)",
+    "symbol": "Geduld & Großer Aufstieg",
+    "description": "Beharrliche Kraft, die nach langer Reifezeit triumphal aufsteigt."
   },
-  "dokkaebi_club": {
-    "name": "Magic Club",
-    "symbol": "Manifestation & Creative Power (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Magic Club führt dich zu Klarheit und Erfolg."
+  "Z26": {
+    "name": "Drachenfisch",
+    "symbol": "Sprung über das Drachentor",
+    "description": "Schwimmt gegen starke Strömungen, um Ruhm, Ehre und Meisterschaft zu erlangen."
   },
-  "mountain_spirit": {
-    "name": "Mountain Sage",
-    "symbol": "Grand Perspective & Foresight (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Mountain Sage führt dich zu Klarheit und Erfolg."
+  "Z27": {
+    "name": "Sphinx",
+    "symbol": "Meister der Rätsel & Goldtresor",
+    "description": "Wächter, der für scharfe Denker die Tore zu verborgenen Schätzen öffnet."
   },
-  "cloud_hermit": {
-    "name": "Cloud Hermit",
-    "symbol": "Detachment & Free Wandering (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Cloud Hermit führt dich zu Klarheit und Erfolg."
+  "Z28": {
+    "name": "Leviathan",
+    "symbol": "Unendliches Tiefenpotenzial",
+    "description": "Erweckt verborgene Ressourcen und grenzenlose Vitalität aus der Tiefe."
   },
-  "water_sprite": {
-    "name": "Water Sprite",
-    "symbol": "Transparent Emotion & Adaptability (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Water Sprite führt dich zu Klarheit und Erfolg."
+  "Z29": {
+    "name": "Katzenköpfige Schlange",
+    "symbol": "Scharfer Instinkt & Ruhiger Schlaf",
+    "description": "Schützt vor negativen Einflüssen und sichert friedliche Geborgenheit."
   },
-  "wind_child": {
-    "name": "Wind Child",
-    "symbol": "Breezy News & Refreshing Shifts (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Wind Child führt dich zu Klarheit und Erfolg."
+  "Z30": {
+    "name": "Dreinbeinige Kröte (Jin Chan)",
+    "symbol": "Anziehungskraft für Reichtum",
+    "description": "Sammelt Goldmünzen aus allen Himmelsrichtungen für Ihren Wohlstand."
   },
-  "star_weaver": {
-    "name": "Star Weaver",
-    "symbol": "Weaving Fates & Quiet Patience (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Star Weaver führt dich zu Klarheit und Erfolg."
+  "Z31": {
+    "name": "Greif",
+    "symbol": "Mut & Hüter goldener Schätze",
+    "description": "Adlerflügel und Löwenkraft zum eisernen Schutz von Ehre und Wohlstand."
   },
-  "shadow_walker": {
-    "name": "Shadow Walker",
-    "symbol": "Hidden Support & Tactical Prudence (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Shadow Walker führt dich zu Klarheit und Erfolg."
+  "Z32": {
+    "name": "Phönix",
+    "symbol": "Wiedergeburt & Unsterblicher Triumph",
+    "description": "Erhebt sich strahlend aus der Asche zu neuem, noch größerem Erfolg."
   },
-  "flower_fairy": {
-    "name": "Flower Sprite",
-    "symbol": "Gentle Charms & Small Delights (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Flower Sprite führt dich zu Klarheit und Erfolg."
+  "Z33": {
+    "name": "Quetzalcoatl",
+    "symbol": "Gefiederte Schlange der Weisheit",
+    "description": "Regenbogenflügel, die den Samen neuen Wissens und reichen Wohlstands säen."
   },
-  "sun_messenger": {
-    "name": "Sun Herald",
-    "symbol": "Bold Declaration & Radiant Confidence (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Sun Herald führt dich zu Klarheit und Erfolg."
+  "M01": {
+    "name": "Berggeist (Sansin)",
+    "symbol": "Gütiger Weiser der heiligen Berge",
+    "description": "Barmherziger Wächter der Berge, der geistige Klarheit und Schutz schenkt."
   },
-  "moon_rabbit": {
-    "name": "Moon Crafter",
-    "symbol": "Devoted Repetition & Fruitful Craft (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Moon Crafter führt dich zu Klarheit und Erfolg."
+  "M02": {
+    "name": "Schicksalsbote",
+    "symbol": "Trenner von Unheil & Wegweiser",
+    "description": "Trennt unheilvolle Bindungen und weist den Weg zu aufrichtiger Erneuerung."
   },
-  "dream_eater": {
-    "name": "Dream Consumer",
-    "symbol": "Purifying Nightmares & Deep Comfort (Schutz & Kraft)",
-    "description": "Die erhabene Energie der Karte Dream Consumer führt dich zu Klarheit und Erfolg."
+  "M03": {
+    "name": "Jade-Kaiser",
+    "symbol": "Kosmische Harmonie & Höchstes Glück",
+    "description": "Höchster Himmelsherrscher, der das Schicksal ordnet und großes Glück spendet."
+  },
+  "M04": {
+    "name": "König Yama (Richter der Wahrheit)",
+    "symbol": "Spiegel der Wahrheit & Gerechtigkeit",
+    "description": "Hält den Spiegel der Wahrheit, tilgt Unrecht und belohnt Rechtschaffenheit."
+  },
+  "M05": {
+    "name": "Mago Halmi (Erdmutter)",
+    "symbol": "Schöpfungskraft & Geborgenheit",
+    "description": "Urmutter, die Land und Flüsse formte und unendliche Geborgenheit schenkt."
+  },
+  "M06": {
+    "name": "Prinzessin Bari",
+    "symbol": "Heilendes Lebenswasser & Mitgefühl",
+    "description": "Bringt das Wasser des Lebens, um Wunden zu heilen und Wunder zu wirken."
+  },
+  "M07": {
+    "name": "Samshin Großmutter",
+    "symbol": "Segen des Lebens & Familienfrieden",
+    "description": "Beschützerin der Neuanfänge und des friedlichen Familienlebens."
+  },
+  "M08": {
+    "name": "Drachenkönig der Meere",
+    "symbol": "Schätze der Ozeane & Reichtum",
+    "description": "Herrscher über die Fluten, der verborgenen Reichtum und Chancen ans Licht bringt."
+  },
+  "M09": {
+    "name": "Hausgeist Teoju",
+    "symbol": "Wächter des Zuhauses & Wohlstandsanker",
+    "description": "Sichert den häuslichen Frieden und bewahrt den erarbeiteten Wohlstand."
+  },
+  "M10": {
+    "name": "Zeus",
+    "symbol": "Himmelsdonner & Höchste Führungskraft",
+    "description": "Beherrscht den Donner und verleiht souveräne Führungsstärke und Triumph."
+  },
+  "M11": {
+    "name": "Poseidon",
+    "symbol": "Meereswogen & Grenzenloser Tatendrang",
+    "description": "Beherrscht die Ozeane und entfacht unbändigen Mut zu neuen Horizonten."
+  },
+  "M12": {
+    "name": "Hades",
+    "symbol": "Verbogene Reichtümer & Stille Kraft",
+    "description": "Herrscher über die Schätze der Tiefe, schenkt beständigen Reichtum im Verborgenen."
+  },
+  "M13": {
+    "name": "Thor",
+    "symbol": "Mjölnirs Mut & Durchschlagskraft",
+    "description": "Zerschmettert jedes Hindernis mit dem Donnerhammer für den sicheren Sieg."
+  },
+  "M14": {
+    "name": "Odin",
+    "symbol": "Runenweisheit & Tiefe Einsicht",
+    "description": "Sucht kosmische Wahrheiten und verleiht erhabene strategische Weitsicht."
+  },
+  "M15": {
+    "name": "Athene",
+    "symbol": "Strategische Weisheit & Gerechter Sieg",
+    "description": "Göttin des taktischen Verstandes, führt zu makellosem und weisem Erfolg."
+  },
+  "M16": {
+    "name": "Apollo",
+    "symbol": "Sonnenglanz & Schöpferische Inspiration",
+    "description": "Erhellt den Geist mit goldenem Licht und inspiriert zu Kunst und Vitalität."
+  },
+  "M17": {
+    "name": "Loki",
+    "symbol": "Kreativer Twist & Unorthodoxer Witz",
+    "description": "Denkt quer und löst festgefahrene Situationen mit genialem Schalk."
+  },
+  "M18": {
+    "name": "Walküre",
+    "symbol": "Flügel des Sieges & Ehrenhafter Aufstieg",
+    "description": "Führt mutige Geister zu Ruhm, Ehre und erhabenen Erfolgen."
+  },
+  "M19": {
+    "name": "Buddha",
+    "symbol": "Unendliche Gelassenheit & Mitgefühl",
+    "description": "Spült alle Sorgen hinfort und schenkt vollkommenen inneren Frieden."
+  },
+  "M20": {
+    "name": "Guanyin (Göttin der Barmherzigkeit)",
+    "symbol": "Großes Mitgefühl & Trost",
+    "description": "Hört jedes leise Flehen und schenkt wohltuenden Trost und Erlösung."
+  },
+  "M21": {
+    "name": "Ganesha (Gottheit)",
+    "symbol": "Neuanfang & Blühender Erfolg",
+    "description": "Schirmherr neuer Unternehmungen, bahnt den Weg zu reichem Erfolg."
+  },
+  "M22": {
+    "name": "Shiva (Nataraja)",
+    "symbol": "Kosmischer Tanz & Wandlung",
+    "description": "Löst Stillstand auf und entfesselt mächtige Schöpfungskraft und Neugeburt."
+  },
+  "M23": {
+    "name": "Indra",
+    "symbol": "Östlicher Blitz & Hohe Ehre",
+    "description": "Beherrscht den Himmelssturm und schützt Würde, Tapferkeit und Ruhm."
+  },
+  "M24": {
+    "name": "Ra (Sonnengott)",
+    "symbol": "Sonnenfalke & Höchste Strahlkraft",
+    "description": "Goldener Falke am Himmel, der die Existenz mit unendlicher Kraft erfüllt."
+  },
+  "M25": {
+    "name": "Osiris",
+    "symbol": "Wiedergeburt & Ewiges Aufkeimen",
+    "description": "Herrscher der Erneuerung, lässt neue Hoffnung und Ertragskraft sprießen."
+  },
+  "M26": {
+    "name": "Bastet",
+    "symbol": "Freude & Hüterin des Herdes",
+    "description": "Katzengöttin, die das Heim mit Fröhlichkeit, Wärme und Schutz erfüllt."
+  },
+  "M27": {
+    "name": "Anubis",
+    "symbol": "Waage der Wahrheit & Seelenführer",
+    "description": "Wägt Dinge mit Gerechtigkeit ab und schenkt Klarheit in schwierigen Lagen."
+  },
+  "M28": {
+    "name": "Erzengel Michael",
+    "symbol": "Schwert der Gerechtigkeit & Schutzschild",
+    "description": "Vertreibt dunkle Energien mit strahlendem Lichtschwert und schützt verlässlich."
+  },
+  "M29": {
+    "name": "Erzengel Gabriel",
+    "symbol": "Posaune der Hoffnung & Frohe Kunde",
+    "description": "Verkündet gute Nachrichten und bringt erfreuliche Wendungen ins Leben."
+  },
+  "M30": {
+    "name": "Erzengel Raphael",
+    "symbol": "Heilende Wärme & Sichere Reise",
+    "description": "Sanfter Heiler, der müde Herzen tröstet und zu gesunder Genesung führt."
+  },
+  "M31": {
+    "name": "Erzengel Uriel",
+    "symbol": "Leuchtturm der Weisheit & Erleuchtung",
+    "description": "Erleuchtet dunkle Zweifel und zeigt den klaren, weisen Weg nach vorn."
+  },
+  "M32": {
+    "name": "Schutzengel",
+    "symbol": "Liebevolle Nähe & Täglicher Schutz",
+    "description": "Treu an Ihrer Seite, beschützt jeden Schritt des Alltags mit sanfter Fürsorge."
+  },
+  "M33": {
+    "name": "Moiren (Schicksalsgöttinnen)",
+    "symbol": "Weberinnen des Schicksals & Wertvolle Bande",
+    "description": "Entwirrt verstrickte Fäden und webt das Gewebe edlen Schicksals."
   }
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "comic": {
     "name": "Comic",
     "color": "#F0A500",
@@ -24,6 +24,27 @@
         "body": "Just when you were perfectly prepared, number {number} drops a plot twist. Like an actor who forgot the line — if the room laughed, that counts as a win.",
         "tip": "It's funny because it's imperfect. Go un-rehearsed today, on purpose.",
         "share_caption": "Improvised comedy in the {timeslot_name} with {card_name} No.{number} 🤡 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_004",
+        "headline": "Strutted in with confidence, only to find {card_name} wore shoes on the wrong feet",
+        "body": "During {timeslot_name}, your ultra-cool pose gets interrupted by number {number}'s playful prank. Yet this charming blunder melts hearts faster than any rehearsed speech.",
+        "tip": "Don't stress over perfection today. A quirky flaw is your greatest charisma.",
+        "share_caption": "Rocking {card_name} #{number} with quirky accidental charm in {timeslot_name} 😆 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_005",
+        "headline": "After a dramatic silence, {card_name}'s stomach growled like thunder",
+        "body": "Even in the serious air of {timeslot_name}, laughter breaks the tension. Number {number} gives you the superpower to turn awkward silence into cheerful camaraderie.",
+        "tip": "When tension rises, crack a warm self-deprecating joke to break the ice.",
+        "share_caption": "Breaking awkward vibes with {card_name} #{number} during {timeslot_name} 🍙 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_006",
+        "headline": "Took a wrong turn on the map, and {card_name} stumbled into a hidden bakery",
+        "body": "Don't fret over taking a wrong turn in {timeslot_name}. Number {number} is secretly steering you toward an unexpected treat and a hilarious encounter.",
+        "tip": "Getting lost is just an unplanned adventure. Savor the surprise detour.",
+        "share_caption": "Delicious detours with {card_name} #{number} in {timeslot_name} 🍕 #DOK_KEY"
       }
     ]
   },
@@ -52,6 +73,27 @@
         "body": "Between hope and worry, {card_name} quietly points at the middle. Number {number} says the current is already good — nothing needs fixing today.",
         "tip": "When things go well, not touching anything is the highest technique.",
         "share_caption": "Keeping the {timeslot_name} peaceful with {card_name} No.{number} 🍃 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_004",
+        "headline": "Beneath soft sunlight, {card_name} quietly savors a warm cup of tea",
+        "body": "During {timeslot_name}, worldly noise steps back. Inside the tranquil warmth of number {number}, your mind becomes calm and clear like a mirror lake.",
+        "tip": "Take three deep, gentle breaths to re-center your peaceful core.",
+        "share_caption": "Tranquil tea moments with {card_name} #{number} in {timeslot_name} 🍵 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_005",
+        "headline": "Watching slow clouds drift by, {card_name} smiles in gentle peace",
+        "body": "No matter how busy today is, set aside the clock during {timeslot_name}. Number {number} whispers that the deepest wisdom visits those who do not rush.",
+        "tip": "Put down your screen and gaze up at the sky for five peaceful minutes.",
+        "share_caption": "Drifting clouds with {card_name} #{number} during {timeslot_name} ☁️ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_006",
+        "headline": "In the gentle forest breeze, {card_name} rests in quiet harmony",
+        "body": "The soothing air of {timeslot_name} embraces your shoulders. Inside the sanctuary of number {number}, pure energy recharges for tomorrow.",
+        "tip": "Conclude your evening with a warm bath or soothing chamomile aroma.",
+        "share_caption": "Forest calm with {card_name} #{number} in {timeslot_name} 🌲 #DOK_KEY"
       }
     ]
   },
@@ -80,6 +122,27 @@
         "body": "One uncomfortable phrase from the {timeslot_name} may follow you all day. Number {number} reveals half of it was a misunderstanding — so delay your reply a little.",
         "tip": "Replies written in the heat are mostly regretted when cooled.",
         "share_caption": "{card_name} No.{number}: the {timeslot_name} conflict was only half real 🧨 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_004",
+        "headline": "In a tense tug-of-war, {card_name} makes the decisive call",
+        "body": "During {timeslot_name}, opinions clash sharply. Standing firm on the principles of number {number} ends unnecessary friction once and for all.",
+        "tip": "Cease emotional debates and let verified facts and numbers do the talking.",
+        "share_caption": "Cutting through tension with {card_name} #{number} in {timeslot_name} ⚔️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_005",
+        "headline": "When opinions divide, {card_name} reveals the golden third path",
+        "body": "The debates of {timeslot_name} won't resolve in black and white. Number {number} holds the key to an ingenious compromise that satisfies both sides.",
+        "tip": "Focus on a win-win resolution rather than simply defeating the other party.",
+        "share_caption": "Navigating conflict with {card_name} #{number} during {timeslot_name} 🛡️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_006",
+        "headline": "Amid calm before the storm, {card_name} maintains ice-cold focus",
+        "body": "Refuse to be baited by provocations. The composure from number {number} in {timeslot_name} crowns you the ultimate victor.",
+        "tip": "The louder the other voice becomes, the lower and firmer your tone should be.",
+        "share_caption": "Unshakable calm with {card_name} #{number} in {timeslot_name} ⚖️ #DOK_KEY"
       }
     ]
   },
@@ -108,6 +171,27 @@
         "body": "A casual crossing with a stranger is today's lucky point. Number {number} points to a light first conversation that may grow longer than you expect.",
         "tip": "Remember the name of anyone you meet today. It's your lucky charm.",
         "share_caption": "Received an invitation for the {timeslot_name} from {card_name} No.{number} 💌 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_004",
+        "headline": "In a chance glance, {card_name} discovers a missing piece of destiny",
+        "body": "The person you encounter in {timeslot_name} is no mere coincidence. Number {number} is weaving an invisible thread of golden opportunity between you.",
+        "tip": "Accompany every handshake or contact exchange with a sincere compliment.",
+        "share_caption": "Fateful connection with {card_name} #{number} in {timeslot_name} 🤝 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_005",
+        "headline": "Like an old friend, {card_name} extends a warm, welcoming hand",
+        "body": "Even in an unfamiliar circle, {timeslot_name} sparks instant chemistry. Number {number} gives you the perfect icebreaker topic.",
+        "tip": "Ask genuine questions about their passions to unlock rich conversation.",
+        "share_caption": "Warm new encounters with {card_name} #{number} in {timeslot_name} ☕ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_006",
+        "headline": "Just before parting ways, {card_name} turns around with a warm wave",
+        "body": "A modest greeting in {timeslot_name} blossoms into a powerful future partnership. Number {number} reminds you to value every new acquaintance.",
+        "tip": "Send a short follow-up note saying 'It was truly a pleasure meeting you today.'",
+        "share_caption": "Meeting a true benefactor with {card_name} #{number} in {timeslot_name} ✨ #DOK_KEY"
       }
     ]
   },
@@ -136,6 +220,27 @@
         "body": "Under the light of the {timeslot_name}, your own reflection may feel unfamiliar. Number {number} whispers: you haven't changed — you've grown. Greet the stranger in the glass.",
         "tip": "Today's strangeness is not a warning but proof of growth.",
         "share_caption": "Greeting my reflection with {card_name} No.{number} in the {timeslot_name} 🪞 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_004",
+        "headline": "In deep shadows, {card_name} raises a blazing torch high",
+        "body": "The vague dread lingering in {timeslot_name} is nothing more than an empty phantom. The radiant flame of number {number} dissolves all anxious thoughts into dust.",
+        "tip": "Turn on bright lights and play upbeat music to shift the atmosphere instantly.",
+        "share_caption": "Illuminating dark doubts with {card_name} #{number} in {timeslot_name} 🕯️ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_005",
+        "headline": "Mocking ominous whispers, {card_name} kicks open the heavy gate",
+        "body": "Your feared worst-case scenarios will never manifest during {timeslot_name}. Number {number} proves that your inner bravery outshines all negativity.",
+        "tip": "Stand tall with an open chest and take wide, confident strides today.",
+        "share_caption": "Breaking through dread with {card_name} #{number} in {timeslot_name} 🚪 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_006",
+        "headline": "The Guardian Dokkaebi stands right behind {card_name} with an iron shield",
+        "body": "Even if chills brush past in {timeslot_name}, fear nothing. Number {number} summons your guardian spirit to shield every step.",
+        "tip": "You are never alone. Whisper 'Kkaebi, protect my path' and feel the courage return.",
+        "share_caption": "Impenetrable guardian ward with {card_name} #{number} in {timeslot_name} 🛡️ #DOK_KEY"
       }
     ]
   },
@@ -164,6 +269,27 @@
         "body": "Notifications erupt through the {timeslot_name}, and number {number} plays with your priorities. One tip: finish the smallest task first, and the biggest noise shrinks itself.",
         "tip": "When everything is on fire, put out the smallest flame first.",
         "share_caption": "Becoming a regular in today's chaos with {card_name} No.{number}, {timeslot_name} 🔥 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_004",
+        "headline": "Amid the raging vortex, {card_name} firmly anchors the core",
+        "body": "Even if countless tasks tangle in {timeslot_name}, stay composed. Number {number} pinpoints the single critical priority you need to execute first.",
+        "tip": "Pick the single most vital task from your list and finish it before touching anything else.",
+        "share_caption": "Mastering chaos with {card_name} #{number} in {timeslot_name} 🌀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_005",
+        "headline": "Unraveling the messy tangle, {card_name} solves the knot in one strike",
+        "body": "No matter how messy circumstances appear in {timeslot_name}, a brilliant fix emerges. Number {number} reveals hidden order inside apparent chaos.",
+        "tip": "Tidying your desk for just 10 minutes sharpens your mental focus instantly.",
+        "share_caption": "Restoring pristine order with {card_name} #{number} during {timeslot_name} 🧶 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_006",
+        "headline": "While others panic, {card_name} calmly points out the clear runway",
+        "body": "The tumult of {timeslot_name} is a proving ground for your leadership. The unwavering clarity from number {number} puts everyone at ease.",
+        "tip": "Speak in short, crisp, decisive sentences when complexity mounts.",
+        "share_caption": "Guiding through chaos with {card_name} #{number} in {timeslot_name} 🧭 #DOK_KEY"
       }
     ]
   },
@@ -192,6 +318,27 @@
         "body": "People may not match your pace today. But number {number} promises there is someone walking at your speed in another time zone. Keep your stride as it is.",
         "tip": "Walking alone isn't the wrong path — you just haven't met your companion yet.",
         "share_caption": "Sitting side by side at the {timeslot_name} window with {card_name} No.{number} 🪟 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_004",
+        "headline": "Standing alone under starlight, {card_name} discovers deep inner power",
+        "body": "Solitude during {timeslot_name} does not weaken you; it forges an unbreakable self-reliance. Number {number} stands silently as your steadfast companion.",
+        "tip": "Gift yourself unconditional quiet time. A single line in your journal brings deep solace.",
+        "share_caption": "Finding strength in solitude with {card_name} #{number} in {timeslot_name} 🌌 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_005",
+        "headline": "In sacred silence, {card_name} polishes a precious inner gem",
+        "body": "The quiet of {timeslot_name} sparks far greater creative genius than crowded chatter. Number {number} heralds an inspired masterpiece born from solitude.",
+        "tip": "Immerse yourself deeply in soothing music within your private space.",
+        "share_caption": "Solitude into gold with {card_name} #{number} during {timeslot_name} 💎 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_006",
+        "headline": "While the world slumbers, {card_name} whispers words of tender comfort",
+        "body": "Never feel desolate on your solitary path. The warmth from number {number} in {timeslot_name} is the gentle dawn before sweet new bonds arrive.",
+        "tip": "Give yourself a warm embrace tonight and whisper: 'You did wonderfully today.'",
+        "share_caption": "Gentle warmth with {card_name} #{number} in {timeslot_name} 🕯️ #DOK_KEY"
       }
     ]
   },
@@ -220,6 +367,27 @@
         "body": "A departing figure from the {timeslot_name} may hurt today. Yet number {number} quietly reminds you: that figure is what carried you all the way here.",
         "tip": "Thank the stretch of road you walked together, then move on. That's enough.",
         "share_caption": "Thanking the {timeslot_name} companion that was {card_name} No.{number} 🌾 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_004",
+        "headline": "Waving a serene farewell, {card_name} strides toward fresh horizons",
+        "body": "Parting ways in {timeslot_name} is no dead end; it is a launchpad to a grander world. Number {number} prepares to fill the emptied space with radiant blessings.",
+        "tip": "Say 'thank you' without lingering regrets and turn around with a light heart.",
+        "share_caption": "Graceful farewells and bold new starts with {card_name} #{number} in {timeslot_name} 🌅 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_005",
+        "headline": "As the old door clicks shut, a golden gate opens before {card_name}",
+        "body": "Do not cling to bygone ties or concluded chapters. In {timeslot_name}, number {number} hands you far more rewarding new horizons.",
+        "tip": "Declutter old files or drawers to clear mental room for the new.",
+        "share_caption": "Closing old chapters with {card_name} #{number} in {timeslot_name} 🚪 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_006",
+        "headline": "Framed by a blazing sunset, {card_name} departs with noble poise",
+        "body": "The pang of parting is brief. The boldness bestowed by number {number} in {timeslot_name} will make your next voyage your finest triumph yet.",
+        "tip": "Treat yourself to a celebratory cup of fragrant coffee or tea today.",
+        "share_caption": "Golden departures with {card_name} #{number} during {timeslot_name} 🌇 #DOK_KEY"
       }
     ]
   },
@@ -248,6 +416,27 @@
         "body": "Anxiety looks large, but number {number} counts today's advantages past three fingers. Hope has evidence — especially today.",
         "tip": "Write down three things that went well tonight. They're tomorrow's confidence.",
         "share_caption": "Proof the {timeslot_name} is on my side: {card_name} No.{number} 🌈 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_004",
+        "headline": "Piercing morning mists, {card_name} greets the radiant first dawn",
+        "body": "The tiny hope you harbor in {timeslot_name} is no mere daydream; it is the seed of glorious reality. Number {number} throws open the gate of miraculous breakthroughs.",
+        "tip": "Write down your most cherished goal in clear, elegant handwriting today.",
+        "share_caption": "Radiant hope blooming with {card_name} #{number} in {timeslot_name} 🌅 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_005",
+        "headline": "Unfurling golden wings, {card_name} soars into the azure skies",
+        "body": "No shadow can forestall the dawn. In {timeslot_name}, number {number} declares an open golden highway laid out before you.",
+        "tip": "Instead of worrying, visualize the moment of your grand triumph vividly.",
+        "share_caption": "Soaring high on wings of hope with {card_name} #{number} in {timeslot_name} 🕊️ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_006",
+        "headline": "Upon parched lands, {card_name} blooms as a miraculous flower of joy",
+        "body": "What once seemed impossible unravels effortlessly in {timeslot_name}. The positive aura of number {number} rallies the entire universe to your side.",
+        "tip": "Share a warm, encouraging compliment with someone close to you today.",
+        "share_caption": "Miracles blooming with {card_name} #{number} in {timeslot_name} 🌸 #DOK_KEY"
       }
     ]
   },
@@ -276,6 +465,27 @@
         "body": "The only enemy is trying to finish everything at once. Number {number} tells you to split today's goal in half — finishing half is still a win, and that's how passion lasts.",
         "tip": "Cut your goal in half. Today's half-finish is tomorrow's full power.",
         "share_caption": "Two steps from the summit with {card_name} No.{number} in the {timeslot_name} ⛰️ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_004",
+        "headline": "With a heart blazing like a furnace, {card_name} sprints at full throttle",
+        "body": "No barrier can resist your searing momentum in {timeslot_name}. Number {number} infuses explosive focus and unstoppable drive to claim victory.",
+        "tip": "Make your decision right now and put it into action within 10 minutes.",
+        "share_caption": "Unstoppable drive with {card_name} #{number} in {timeslot_name} 🔥 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_005",
+        "headline": "With an unquenchable flame, {card_name} incinerates all hesitation",
+        "body": "Hesitation is a luxury you don't need. In {timeslot_name}, number {number} signals the exact moment for an aggressive, flawless sprint toward your goals.",
+        "tip": "Power through your primary mission with high-tempo, energetic music.",
+        "share_caption": "Igniting raw passion with {card_name} #{number} during {timeslot_name} ⚡ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_006",
+        "headline": "Like a falcon locking on target, {card_name} strikes without hesitation",
+        "body": "Your instinct is dead-on in {timeslot_name}. The razor-sharp ferocity from number {number} seizes the supreme prize.",
+        "tip": "Refuse all distractions and pour 100% firepower into your singular target.",
+        "share_caption": "Flawless finish with {card_name} #{number} in {timeslot_name} 🎯 #DOK_KEY"
       }
     ]
   },
@@ -304,6 +514,27 @@
         "body": "Count the coincidences and intention appears. Number {number} says three repeated coincidences today point the same way. Take one step in that direction.",
         "tip": "Track any word or sign repeated three times today. That's the message.",
         "share_caption": "Reading the stars with {card_name} No.{number} in the {timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_004",
+        "headline": "Beyond moonlit mists, {card_name} discovers an arcane treasure chest",
+        "body": "Invisible cosmic currents conspire in your favor during {timeslot_name}. The unexpected twist concealed by number {number} will leave you in awe.",
+        "tip": "Don't rely solely on dry logic; follow the luminous sparks of your intuition.",
+        "share_caption": "Unlocking deep mysteries with {card_name} #{number} in {timeslot_name} 🔮 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_005",
+        "headline": "Ancient celestial runes glow brightly under {card_name}'s fingertips",
+        "body": "What seemed like pure chance holds profound destiny. In {timeslot_name}, number {number} reveals the ultimate answer you've long sought.",
+        "tip": "Jot down striking symbols or fragments from today's dreams and encounters.",
+        "share_caption": "Decoding cosmic ciphers with {card_name} #{number} in {timeslot_name} 📜 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_006",
+        "headline": "Smiling serenely from the shadows, {card_name} sees through the veil",
+        "body": "The true verdict of {timeslot_name} is decided away from the public gaze. Piercing insight from number {number} lets you read the unseen currents.",
+        "tip": "Speak less and keenly observe subtle body language and hidden motives today.",
+        "share_caption": "Seeing beyond the veil with {card_name} #{number} during {timeslot_name} 👁️ #DOK_KEY"
       }
     ]
   },
@@ -332,6 +563,27 @@
         "body": "Standing next to a shining person makes you look dim — a trick of lighting. Number {number} says it's the spotlight, not your skill, and predicts your own stage opens today.",
         "tip": "Today's comparison is a lighting problem. Your stage opens separately.",
         "share_caption": "{card_name} No.{number} says let's fix the lighting first, {timeslot_name} 🎬 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_004",
+        "headline": "Dove into the puddle to avoid it, only to find a jewel in the mud",
+        "body": "The little mishap during {timeslot_name} was no blunder; it was a plot twist. Number {number} converts your accidental slip into your luckiest windfall.",
+        "tip": "Smile when things diverge from the script. A far sweeter ending is queued up.",
+        "share_caption": "Ironic miracles with {card_name} #{number} in {timeslot_name} 🎭 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_005",
+        "headline": "On discarded scrap paper, {card_name} discovers the jackpot clue",
+        "body": "Never be fooled by conventional appearances. In {timeslot_name}, number {number} helps you dig out shining diamonds where others saw mere clutter.",
+        "tip": "The most overlooked item holds today's master key.",
+        "share_caption": "Turning irony into treasure with {card_name} #{number} in {timeslot_name} 💎 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_006",
+        "headline": "Turned away at a modest door, {card_name} stumbles upon a royal palace",
+        "body": "A missed pass in {timeslot_name} was a blessing in disguise. Number {number} is steering you away from crumbs toward a grand banquet table.",
+        "tip": "Say 'Even better!' aloud and stride toward the next magnificent gate.",
+        "share_caption": "Blessings in disguise with {card_name} #{number} in {timeslot_name} 🏰 #DOK_KEY"
       }
     ]
   }

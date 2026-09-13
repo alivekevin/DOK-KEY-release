@@ -898,5 +898,455 @@
       "wrong": "ぶっぶー！鍵99個で得る最高の称号さ！"
     },
     "id": "rid_050"
+  },
+  {
+    "question": "足はないのに世界中を駆け巡り、手はないのに扉を揺らすものは？",
+    "options": [
+      "風",
+      "雲",
+      "影",
+      "うわさ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "くかか！見えなくても天下を揺るがす風の気配だ！",
+      "wrong": "ぶっぶー！手足なしでどこへでも通り過ぎるものは何だ？"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "昼は隠れていて、夜になると黒い空に宝石のように嵌り込むものは？",
+    "options": [
+      "星",
+      "灯台",
+      "ホタル",
+      "月の暈"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！暗い夜空を彩る星の光は知恵の道しるべだ！",
+      "wrong": "ぶっぶー！夜空に瞬く何千もの宝石を思い浮かべてみよ！"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "頭に赤い帽子をかぶり、全身を燃やして闇を追い払うものは？",
+    "options": [
+      "マッチ",
+      "紅葉",
+      "唐辛子",
+      "鳳仙花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正解！一瞬の摩擦で火花を散らす小さな巨人、マッチだ！",
+      "wrong": "ぶっぶー！赤い頭を擦って火をつけるものだぞ！"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "家ごとにひとつあり、毎日顔を合わせるのに決して話さないものは？",
+    "options": [
+      "鏡",
+      "壁紙",
+      "時計",
+      "ドアノブ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "名答だ！鏡は君の心と表情を少しの嘘もなく映してくれる！",
+      "wrong": "おしい！君の姿をそのまま映し出すものを見てみよ！"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "音はないのに心を揺さぶり、字はないのに気持ちを伝えるものは？",
+    "options": [
+      "笑顔",
+      "落ち葉",
+      "涙",
+      "沈黙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "実に見事だ！温かな笑顔こそ、トッケビの棍棒よりも強い力だ！",
+      "wrong": "ぶっぶー！顔いっぱいに咲くいちばん温かな表情を思い出してみよ！"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "持つ者は隠したがり、失くした者は惜しみ、人に話すと消えてしまうものは？",
+    "options": [
+      "秘密",
+      "宝石",
+      "お金",
+      "鍵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "くかか！口にした瞬間、もう秘密ではなくなるからな！",
+      "wrong": "ぶっぶー！君と俺だけが知っていてこそ守られるものだ！"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "行くときは軽々と飛んでいき、戻るときは重く降りて世界を真っ白に覆うものは？",
+    "options": [
+      "雪",
+      "小麦粉",
+      "霧",
+      "塩"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！世界を純白に包む冬の贈り物、雪の花だ！",
+      "wrong": "ぶっぶー！空からひらひらと降りて世界を覆う白い粉だぞ！"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "根は空に置き、茎と葉は地面へ伸ばすという、冬のつららの別名は？",
+    "options": [
+      "軒の氷鳥",
+      "軒のつらら",
+      "空の木",
+      "冬の芽"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！軒先に逆さに伸びる澄んだガラスの格子だ！",
+      "wrong": "ぶっぶー！冬の軒下に長く垂れ下がる氷の柱を見てみよ！"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "生まれたときは四本足、育てば二本足、老いては三本足で歩くものは？",
+    "options": [
+      "人間",
+      "トラ",
+      "トッケビ",
+      "ヒキガエル"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "スフィンクスも感嘆する知恵だ！赤ちゃん、若者、杖をつく老人の人生の道だ！",
+      "wrong": "ぶっぶー！人生の四季を歩む人の姿だぞ！"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "いつも同じ場所に立って、通り過ぎる旅人に道を指し示す石の柱は？",
+    "options": [
+      "長承（キロ標）",
+      "ソッテ",
+      "石塔",
+      "石碑"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "天下大将軍・地下女将軍！村の入口を守る我らの守護神、長承だ！",
+      "wrong": "ぶっぶー！こっけいな顔で道を案内してくれる村の友だぞ！"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "投げると空高く舞い上がり、転がった木の片の向きで勝負を決める伝統遊びは？",
+    "options": [
+      "ユンノリ（四大ゲーム）",
+      "石投げ",
+      "チャギ",
+      "トホ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "ド・ゲ・ゴル・ユ・モ！家族みんなが庭を楽しく走るユンノリだ！",
+      "wrong": "ぶっぶー！樺の木の切れ端を空中に投げて駒を走らせる遊びだぞ！"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "蹴ると空中で羽を広げ、ふわりと舞う伝統的な遊び道具は？",
+    "options": [
+      "チェギ",
+      "コマ",
+      "凧",
+      "フープ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正解！銅貨に韓紙を巻いて足で蹴り上げるチェギだ！",
+      "wrong": "ぶっぶー！足先で落とさず跳ね上げるものだぞ！"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "風に乗って空高く舞い上がるのに、細い糸ひとつに繋がれているものは？",
+    "options": [
+      "盾凧（ヨン）",
+      "風船",
+      "鳥かご",
+      "ブランコ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "のびのびと飛べ！リールを繰り出しながら空を駆ける盾凧だ！",
+      "wrong": "ぶっぶー！正月の満月の日に厄を空へ飛ばしたものだぞ！"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "鞭で打つほど楽しくぐるぐる回る、氷の上の小さなコマは？",
+    "options": [
+      "木のコマ",
+      "車輪",
+      "ビー玉",
+      "臼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "くるくるよく回るな！鞭で打つほどまっすぐ立つコマだ！",
+      "wrong": "ぶっぶー！鞭の紐を巻きつけて氷の上で回していたものだぞ！"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "二つの丸い石を重ね、取っ手を回して豆や穀物を細かく挽く道具は？",
+    "options": [
+      "石臼",
+      "臼",
+      "キネ",
+      "釜"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "軸がなければ回せない！香ばしい豆腐をつくる石臼だ！",
+      "wrong": "ぶっぶー！軸の取っ手を掴んでぐるぐる回して挽く道具だぞ！"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "息をするほど減っていき、使うほど尊くなる、人間の最も大切な財産は？",
+    "options": [
+      "時間（歳月）",
+      "黄金",
+      "ダイヤモンド",
+      "絹"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "寸陰も大切にせよと言ったろう！過ぎ去った時間は金でも買えない！",
+      "wrong": "ぶっぶー！一度流れたら決して戻らない尊いものだぞ！"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "暗いほど澄んで輝き、嵐の中でも心の拠り所となるものは？",
+    "options": [
+      "希望（夢）",
+      "灯火",
+      "指輪",
+      "宝箱"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "いちばん深い闇の中でも、希望の火種ひとつあれば生きていけるんだ、ケビ！",
+      "wrong": "ぶっぶー！胸に抱いて明日を待たせる明るい心だぞ！"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "分ければ増えて、胸に抱けば世界全体が温かくなる、トッケビの贈り物は？",
+    "options": [
+      "愛と情",
+      "金貨",
+      "宝物",
+      "酒杯"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "我らトッケビは温かい情あふれる人をいちばん愛するんだ、ケビ！",
+      "wrong": "ぶっぶー！分け与えるほど自分の胸が豊かになるものだぞ！"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "転べば起こしてやり、悲しいときは背をさすってくれる友の最大の美徳は？",
+    "options": [
+      "慰めと共感",
+      "富",
+      "説教",
+      "沈黙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "その通り！真の友は悲しいときに一緒に泣き、手を差し伸べるものだ！",
+      "wrong": "ぶっぶー！疲れた心に捧げる温かな一言を思い出してみよ！"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "朝には露を浴び、昼には太陽を見つめて誠実に生きる象徴は？",
+    "options": [
+      "ひまわり",
+      "サボテン",
+      "松",
+      "蓮の花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "明るい太陽だけを見つめて首を上げる、一片丹心のひまわりだ！",
+      "wrong": "ぶっぶー！黄金の花びらで太陽を追いかけ回す花だぞ！"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "泥の中で育つのに汚れに染まらず、清らかな花を咲かせる知恵の花は？",
+    "options": [
+      "蓮の花",
+      "菊",
+      "梅の花",
+      "スイセン"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "処染常浄！世の誘惑の中でも清らかな本心を守る蓮の花だ！",
+      "wrong": "ぶっぶー！泥水の中でも高潔な姿を失わない花を思い出してみよ！"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "寒い冬の吹雪の中でも青い葉を失わない、節義と気概の木は？",
+    "options": [
+      "松",
+      "柳",
+      "紅葉（カエデ）",
+      "イチョウ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "松竹の気概！千年の風雪にも固く立つ青い松だ！",
+      "wrong": "ぶっぶー！四季を通じて変わらず青さを保つ木だぞ！"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "いちばん早く春の便りを届け、冷たい雪の中でも赤い蕾を咲かせる花は？",
+    "options": [
+      "雪中梅（梅の花）",
+      "バラ",
+      "アサガオ",
+      "コスモス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "厳しい寒さに打ち勝ち、ほのかな香りを放つ士の花、梅だ！",
+      "wrong": "ぶっぶー！雪の中に咲く春の使者を探してみよ！"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "中は空っぽでもまっすぐ伸び、節ごとにしっかり満たす節義の象徴は？",
+    "options": [
+      "竹",
+      "アシ",
+      "モロコシ",
+      "ススキ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "空っぽだからこそまっすぐ伸びる知恵！四君子の竹だ、ケビ！",
+      "wrong": "ぶっぶー！中を空にして風に折れずしなやかな緑の木だぞ！"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "トッケビの宝物庫を開き、人生の真の知恵を授ける神秘の鍵は？",
+    "options": [
+      "トッケビの黄金の鍵（DOK-KEY）",
+      "鉄の鍵",
+      "石斧",
+      "宝の地図"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "わはは！君が毎日集めている知恵の鍵、まさにDOK-KEYだ！",
+      "wrong": "ぶっぶー！我らアプリの名前でもある知恵を開く黄金の鍵を忘れたのか！"
+    },
+    "id": "rid_075"
   }
 ]

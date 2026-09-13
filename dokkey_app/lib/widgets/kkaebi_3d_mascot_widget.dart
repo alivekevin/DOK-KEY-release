@@ -177,6 +177,32 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     }
   }
 
+  /// 6개국어 문자열 선택 헬퍼 (미지원 언어는 한국어 폴백)
+  static String _t(
+    String lang, {
+    required String ko,
+    required String en,
+    required String ja,
+    required String zh,
+    required String de,
+    required String hi,
+  }) {
+    switch (lang) {
+      case 'en':
+        return en;
+      case 'ja':
+        return ja;
+      case 'zh':
+        return zh;
+      case 'de':
+        return de;
+      case 'hi':
+        return hi;
+      default:
+        return ko;
+    }
+  }
+
   /// 💥 12연타 사다리 번호 소환 메시지 (6개국어)
   static String _ladderSummonText(String lang) {
     switch (lang) {
@@ -197,6 +223,7 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
 
   /// 사용자의 탭/터치 인터랙션 (12타 이스터에그 포함)
   void _onTapMascot() {
+    final lang = context.read<DokkeyProvider>().lang;
     HapticFeedback.lightImpact();
     SoundService().playSuccessChime();
 
@@ -214,7 +241,7 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.joy,
         triggerScreenFx: false,
-        message: _ladderSummonText(context.read<DokkeyProvider>().lang),
+        message: _ladderSummonText(lang),
       );
       KkaebiEasterEggDialog.show(context);
       widget.onTap?.call();
@@ -227,7 +254,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.shock,
         triggerScreenFx: false,
-        message: '어라...? 방망이에서 신비한 숫자의 빛이 뿜어져 나온다...?! ✨',
+        message: _t(
+          lang,
+          ko: '어라...? 방망이에서 신비한 숫자의 빛이 뿜어져 나온다...?! ✨',
+          en: 'Huh...? A mysterious glow of numbers is bursting from my bat...?! ✨',
+          ja: 'あれ...？こん棒から不思議な数字の光が吹き出してくる...?! ✨',
+          zh: '咦...？妖棒里迸发出神秘的数字光芒...？！ ✨',
+          de: 'Huch...? Aus der Keule leuchtet eine geheimnisvolle Zahl...?! ✨',
+          hi: 'अरे...? छड़ी से रहस्यमयी अंकों की रोशनी निकल रही है...?! ✨',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -239,7 +274,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.rage,
         triggerScreenFx: true,
-        message: '우와아앗! 도깨비 대폭주 2단계!! ⚡💥🔥',
+        message: _t(
+          lang,
+          ko: '우와아앗! 도깨비 대폭주 2단계!! ⚡💥🔥',
+          en: 'Whoa! Kkaebi rampage stage 2!! ⚡💥🔥',
+          ja: 'うわぁぁ! クケビ大暴走ステージ2!! ⚡💥🔥',
+          zh: '哇啊啊！小妖暴走第2阶段！！ ⚡💥🔥',
+          de: 'WOW! Kkaebi-Amoklauf Stufe 2!! ⚡💥🔥',
+          hi: 'वाह! क्काएबी प्रचंड रैली स्तर 2!! ⚡💥🔥',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -249,7 +292,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     if (_tapComboCount == 7) {
       triggerEmotion(
         EmotionType.curious,
-        message: '또 찌르는 거야?! 방망이가 들썩거리는데...?! 🌀',
+        message: _t(
+          lang,
+          ko: '또 찌르는 거야?! 방망이가 들썩거리는데...?! 🌀',
+          en: 'Poking me again?! My bat is wobbling...?! 🌀',
+          ja: 'またつつくの?! こん棒が揺れてるんだけど...?! 🌀',
+          zh: '又戳我？！妖棒都在晃动了...？！ 🌀',
+          de: 'Schon wieder stupsen?! Meine Keule wackelt...?! 🌀',
+          hi: 'फिर से गोद रहे हो?! मेरी छड़ी हिल रही है...?! 🌀',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -257,7 +308,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     if (_tapComboCount == 8) {
       triggerEmotion(
         EmotionType.fire,
-        message: '도깨비불이 활활 타오른다! 🔥✨',
+        message: _t(
+          lang,
+          ko: '도깨비불이 활활 타오른다! 🔥✨',
+          en: 'The kkaebi fire blazes high! 🔥✨',
+          ja: '鬼火が燃え盛る! 🔥✨',
+          zh: '妖火熊熊燃烧！ 🔥✨',
+          de: 'Das Kkaebi-Feuer flackert hoch! 🔥✨',
+          hi: 'क्काएबी की आग जोश से जल रही है! 🔥✨',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -265,7 +324,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     if (_tapComboCount == 9) {
       triggerEmotion(
         EmotionType.shy,
-        message: '간지럽다고 했잖아~! 헤헤 💖',
+        message: _t(
+          lang,
+          ko: '간지럽다고 했잖아~! 헤헤 💖',
+          en: "I told you I'm ticklish~! Hehe 💖",
+          ja: 'くすぐったいってば〜! へへっ 💖',
+          zh: '都说了很痒嘛~！嘿嘿 💖',
+          de: 'Ich bin doch kitzelig~! Hihi 💖',
+          hi: 'कहा था न, गुदगुदी होती है~! हीही 💖',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -277,7 +344,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.rage,
         triggerScreenFx: true,
-        message: '으아앗! 날 그만 찔러! 도깨비 폭주 1단계다~! ⚡💥',
+        message: _t(
+          lang,
+          ko: '으아앗! 날 그만 찔러! 도깨비 폭주 1단계다~! ⚡💥',
+          en: 'Aaah! Stop poking me! Kkaebi rampage stage 1~! ⚡💥',
+          ja: 'うわぁ! つつくのやめて! クケビ暴走ステージ1だ〜! ⚡💥',
+          zh: '啊啊！别再戳我了！小妖暴走第1阶段~！ ⚡💥',
+          de: 'Aaah! Hör auf zu stupsen! Kkaebi-Amoklauf Stufe 1~! ⚡💥',
+          hi: 'आह! अब गोदना बंद करो! क्काएबी रैली स्तर 1~! ⚡💥',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -288,7 +363,15 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
       triggerEmotion(
         EmotionType.fire,
         triggerScreenFx: false,
-        message: '도깨비불이 솟아오른다! 🔥✨',
+        message: _t(
+          lang,
+          ko: '도깨비불이 솟아오른다! 🔥✨',
+          en: 'The kkaebi fire rises! 🔥✨',
+          ja: '鬼火が立ち上る! 🔥✨',
+          zh: '妖火升腾而起！ 🔥✨',
+          de: 'Das Kkaebi-Feuer steigt auf! 🔥✨',
+          hi: 'क्काएबी की आग उठ रही है! 🔥✨',
+        ),
       );
       widget.onTap?.call();
       return;
@@ -296,11 +379,51 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
 
     // 일반 1, 2, 4, 6회 탭
     final randomMessages = [
-      '안녕! 오늘도 좋은 기운이 가득해! ✨',
-      '날 돌려보거나 만져봐도 돼! 🌀',
-      '금 나와라 뚝딱~! 💰',
-      '무엇이 궁금하니? 🔮',
-      '헤헤, 간지러워~! 💖',
+      _t(
+        lang,
+        ko: '안녕! 오늘도 좋은 기운이 가득해! ✨',
+        en: 'Hi! Full of good energy today too! ✨',
+        ja: 'やっほー! 今日もいい運気でいっぱい! ✨',
+        zh: '嗨！今天也充满好运气！ ✨',
+        de: 'Hi! Heute steckt wieder gute Energie in mir! ✨',
+        hi: 'नमस्ते! आज भी अच्छी ऊर्जा से भरा हूँ! ✨',
+      ),
+      _t(
+        lang,
+        ko: '날 돌려보거나 만져봐도 돼! 🌀',
+        en: 'Spin me around or give me a pat! 🌀',
+        ja: '回したり撫でたりしていいよ! 🌀',
+        zh: '可以转动我或摸摸我哦！ 🌀',
+        de: 'Dreh mich oder streichel mich ruhig! 🌀',
+        hi: 'मुझे घुमाओ या सहलाओ! 🌀',
+      ),
+      _t(
+        lang,
+        ko: '금 나와라 뚝딱~! 💰',
+        en: 'Gold, come out now~! 💰',
+        ja: '金が出ろ出ろ〜! 💰',
+        zh: '金子快出来~！ 💰',
+        de: 'Gold, komm raus~! 💰',
+        hi: 'सोना निकल जाओ~! 💰',
+      ),
+      _t(
+        lang,
+        ko: '무엇이 궁금하니? 🔮',
+        en: 'What are you curious about? 🔮',
+        ja: '何が気になるの? 🔮',
+        zh: '你在好奇什么呢？ 🔮',
+        de: 'Was macht dich neugierig? 🔮',
+        hi: 'किस बात की जिज्ञासा है? 🔮',
+      ),
+      _t(
+        lang,
+        ko: '헤헤, 간지러워~! 💖',
+        en: 'Hehe, that tickles~! 💖',
+        ja: 'へへっ、くすぐったい〜! 💖',
+        zh: '嘿嘿，好痒~！ 💖',
+        de: 'Hihi, das kitzelt~! 💖',
+        hi: 'हीही, गुदगुदी हो रही है~! 💖',
+      ),
     ];
     final randomMsg = randomMessages[math.Random().nextInt(randomMessages.length)];
     triggerEmotion(EmotionType.joy, message: randomMsg);
@@ -332,7 +455,19 @@ class Kkaebi3DMascotWidgetState extends State<Kkaebi3DMascotWidget>
     // 드래그 속도가 빠르면 회전 관성 및 Joy 감정 유발
     final velocityX = details.velocity.pixelsPerSecond.dx;
     if (velocityX.abs() > 800) {
-      triggerEmotion(EmotionType.joy, message: '우와아~! 핑글핑글 신난다! 🌀🎉');
+      final lang = context.read<DokkeyProvider>().lang;
+      triggerEmotion(
+        EmotionType.joy,
+        message: _t(
+          lang,
+          ko: '우와아~! 핑글핑글 신난다! 🌀🎉',
+          en: 'Wheee~! Spinning like crazy! 🌀🎉',
+          ja: 'うわぁ〜! ぐるぐる回ってスリリング! 🌀🎉',
+          zh: '哇哦~！转得飞起来了！ 🌀🎉',
+          de: 'Wheee~! Mir wird schwindelig! 🌀🎉',
+          hi: 'वाह~! चक्कर आ रहे हैं! 🌀🎉',
+        ),
+      );
     }
 
     // 드래그 종료 시 부드럽게 정면 각도로 스냅 복귀

@@ -311,7 +311,20 @@ class DreamSymbol {
 
   String get luckyNumberStr => luckyNumber.toString().padLeft(2, '0');
 
-  /// 자연어 검색: 입력 문장을 토큰화하여 라벨/키워드와 유사어 매칭
+  static const Set<String> _stopWords = {
+    '꿈', '꿈을', '꿈에', '꿈속', '꿈풀이', '꾸는', '꾸었어', '꿨어', '꾼', '보는', '나오는', '하는', '있는', '없는', '나는', '타는', '가는', '오는', '되다', '된다', '하다', '했다', '해서',
+    'dream', 'dreams', 'dreaming', 'dreamt', 'in', 'of', 'appearing', 'seeing', 'having', 'about', 'the', 'a', 'an', 'to', 'and',
+    '夢', 'の夢', '夢を見る', '夢に', '見る', '出た', '出る', '飛ぶ', '乗る',
+    '梦', '做梦', '梦见', '梦到', '的梦', '飞天', '乘',
+    'सपना', 'सपने', 'में', 'का', 'की', 'को',
+    'traum', 'träume', 'im', 'von', 'haben', 'sehen', 'der', 'die', 'das', 'ein', 'eine', 'und', 'zu'
+  };
+
+  static bool _isCjkOrHangul(String text) {
+    return RegExp(r'[\uac00-\ud7a3\u4e00-\u9fff\u3040-\u30ff]').hasMatch(text);
+  }
+
+  /// 자연어 검색: 입력 문장을 토큰화하여 라벨/키워드/ID와 정밀 유사어 매칭 (6개국어 완벽 지원)
   bool matchesQuery(String rawQuery) {
     final q = rawQuery.trim().toLowerCase();
     if (q.isEmpty) return false;
@@ -320,33 +333,80 @@ class DreamSymbol {
       ...keywords.map((k) => k.toLowerCase()),
       id.toLowerCase(),
     ];
-    // 토큰 분리 매칭: "호랑이한테 쫓기는 꿈" -> 호랑이, 쫓기
-    for (final token in _tokenize(q)) {
-      if (token.length < 2) continue;
-      if (haystack.any((h) => h.contains(token))) return true;
+
+    // 1. 직접 전체 일치 또는 단순 포함 검사 (3자 이상)
+    for (final h in haystack) {
+      if (h == q) return true;
+      if (q.length >= 3 && h.contains(q)) return true;
+      if (h.length >= 3 && q.contains(h)) return true;
+    }
+
+    // 2. 토큰 분리 정밀 매칭 ("조상님이 나오는 꿈" -> 조상, 등)
+    final tokens = _tokenize(q);
+    for (final token in tokens) {
+      if (token.isEmpty || _stopWords.contains(token)) continue;
+      for (final h in haystack) {
+        if (h == token) return true;
+        if (_isCjkOrHangul(token)) {
+          if (token.length == 1) {
+            if (h == token) return true;
+          } else {
+            if (h.contains(token) || token.contains(h)) return true;
+          }
+        } else {
+          // 알파벳 / 힌디어 등 단어 기반 언어: 단어 단위 접두사 및 완전 일치 (최소 3글자)
+          final words = h.split(RegExp(r'[\s,\./\-_]+'));
+          for (final w in words) {
+            if (w == token) return true;
+            if (token.length >= 3 && w.length >= 3 && (w.startsWith(token) || token.startsWith(w))) {
+              return true;
+            }
+          }
+        }
+      }
     }
     return false;
   }
 
   static List<String> _tokenize(String query) {
     final tokens = <String>{};
-    // 1. 공백/조사 분리
-    for (final raw in query.split(RegExp(r'[\s,\.]+'))) {
-      var t = raw;
-      for (final josa in ['한테', '에게', '에서', '으로', '로', '하는', '하는', '꾸는', '꾼', '싸는', '빠지는', '나는', '보는']) {
-        if (t.endsWith(josa) && t.length > josa.length + 1) {
-          t = t.substring(0, t.length - josa.length);
+    // 1. 공백 및 특수문자 분리
+    for (final raw in query.split(RegExp(r'[\s,\.\?!~]+'))) {
+      if (raw.isEmpty) continue;
+      var t = raw.toLowerCase();
+      if (!_stopWords.contains(t)) tokens.add(t);
+
+      // 다단계 조사/어미 제거
+      const josaList = [
+        '한테서', '에게서', '한테', '에게', '에서', '으로', '부터', '까지', '이나', '하고',
+        '이며', '처럼', '마저', '조차', '하는꿈', '꾼꿈', '보는꿈', '타는꿈', '먹는꿈',
+        '하는', '꾸는', '싸는', '빠진', '빠지는', '흘리는', '자르는', '나오는', '입는',
+        '타는', '걸리는', '있는', '없는', '되는', '잡는', '보는', '나는', '가는', '오는',
+        '나서', '타서', '샀어', '샀어요', '봤어', '봤어요', '났어', '났어요', '했어', '했어요',
+        '꾼', '님', '님이', '님을', '이', '가', '을', '를', '은', '는',
+        '과', '와', '의', '도', '만', '에', '로', '꿈'
+      ];
+
+      for (var pass = 0; pass < 3; pass++) {
+        for (final josa in josaList) {
+          if (t.endsWith(josa) && t.length > josa.length) {
+            t = t.substring(0, t.length - josa.length);
+            if (t.isNotEmpty && !_stopWords.contains(t)) tokens.add(t);
+          }
         }
       }
-      if (t.length >= 2) tokens.add(t);
-      // 2. 2글자 슬라이딩 부분 매칭 (유사어: 쫓기다 -> 쫓기)
-      if (t.length >= 3) {
+
+      if (t.isNotEmpty && !_stopWords.contains(t)) tokens.add(t);
+
+      // 2. 2글자 슬라이딩 윈도우 매칭 (CJK / 한글 전용)
+      if (_isCjkOrHangul(t) && t.length >= 3) {
         for (var i = 0; i + 2 <= t.length; i++) {
-          tokens.add(t.substring(i, i + 2));
+          final sub = t.substring(i, i + 2);
+          if (!_stopWords.contains(sub)) tokens.add(sub);
         }
       }
     }
-    return tokens.toList();
+    return tokens.where((tok) => !_stopWords.contains(tok)).toList();
   }
 
   factory DreamSymbol.fromJson(Map<String, dynamic> json) => DreamSymbol(

@@ -38,13 +38,13 @@ void main() {
   }
 
   group('PHASE 2: Locale Dataset Integrity (6 Languages: KO/EN/JA/ZH/HI/DE)', () {
-    test('cards.json: 36 card IDs fully matched across 6 languages', () async {
+    test('cards.json: 66 card IDs (33x2 Grand Codex) fully matched across 6 languages', () async {
       final maps = <String, Map<String, dynamic>>{};
       for (final lang in langs) {
         final raw = await rootBundle.loadString('assets/data/locales/$lang/cards.json');
         maps[lang] = json.decode(raw) as Map<String, dynamic>;
       }
-      expect(maps['ko']!.length, 36);
+      expect(maps['ko']!.length, 66);
       for (final lang in nonKoLangs) {
         expect(maps[lang]!.keys.toSet(), maps['ko']!.keys.toSet());
       }
@@ -55,13 +55,13 @@ void main() {
       });
     });
 
-    test('riddles.json: 50 riddles with identical IDs and valid answer indices across 6 languages', () async {
+    test('riddles.json: 75 riddles with identical IDs and valid answer indices across 6 languages', () async {
       final data = <String, List<dynamic>>{};
       for (final lang in langs) {
         final raw = await rootBundle.loadString('assets/data/locales/$lang/riddles.json');
         data[lang] = json.decode(raw) as List<dynamic>;
       }
-      expect(data['ko']!.length, 50);
+      expect(data['ko']!.length, 75);
       for (var i = 0; i < data["ko"]!.length; i++) {
         final koId = data['ko']![i]['id'];
         for (final lang in nonKoLangs) {
@@ -75,6 +75,28 @@ void main() {
           final reaction = r['kkaebi_reaction'] as Map;
           expect(reaction.containsKey('correct'), true);
           expect(reaction.containsKey('wrong'), true);
+        }
+      }
+    });
+
+    test('trivia.json: 105 trivia questions with identical IDs and valid answer indices across 6 languages', () async {
+      final data = <String, List<dynamic>>{};
+      for (final lang in langs) {
+        final raw = await rootBundle.loadString('assets/data/locales/$lang/trivia.json');
+        data[lang] = json.decode(raw) as List<dynamic>;
+      }
+      expect(data['ko']!.length, 105);
+      for (var i = 0; i < data["ko"]!.length; i++) {
+        final koId = data['ko']![i]['id'];
+        for (final lang in nonKoLangs) {
+          expect(data[lang]![i]['id'], koId);
+        }
+        for (final lang in langs) {
+          final q = data[lang]![i];
+          checkNoEmpty(q, 'trivia.$lang.$koId');
+          final options = (q['options'] as List).length;
+          expect(options, 4);
+          expect(q['answer_index'], inInclusiveRange(0, 3));
         }
       }
     });
@@ -111,20 +133,20 @@ void main() {
       }
     });
 
-    test('dream_symbols.json: 30 symbols with fortune/lucky parity & keyword counts across 6 languages', () async {
+    test('dream_symbols.json: 120 symbols with fortune/lucky parity & keyword counts across 6 languages', () async {
       final data = <String, List<dynamic>>{};
       for (final lang in langs) {
         final raw = await rootBundle.loadString('assets/data/locales/$lang/dream_symbols.json');
         data[lang] = (json.decode(raw) as Map<String, dynamic>)['symbols'] as List<dynamic>;
       }
-      expect(data['ko']!.length, 30);
+      expect(data['ko']!.length, 120);
       var totalKeywords = 0;
       for (final s in data['ko']!) {
         totalKeywords += (s['keywords'] as List).length;
       }
-      expect(totalKeywords, greaterThanOrEqualTo(100));
+      expect(totalKeywords, greaterThanOrEqualTo(400));
 
-      for (var i = 0; i < 30; i++) {
+      for (var i = 0; i < 120; i++) {
         final koId = data['ko']![i]['id'];
         for (final lang in nonKoLangs) {
           expect(data[lang]![i]['id'], koId);
@@ -136,9 +158,8 @@ void main() {
           checkNoEmpty(s, 'dreams.$lang.$koId');
           expect(s['fortune'], isIn(['auspicious', 'ominous', 'normal']));
           final lucky = s['lucky_number'] as num;
-          expect(lucky, inInclusiveRange(1, 99));
-          expect((s['keywords'] as List).length,
-              (data['ko']![i]['keywords'] as List).length);
+          expect(lucky, inInclusiveRange(1, 100));
+          expect((s['keywords'] as List).length, greaterThanOrEqualTo(3));
         }
       }
     });

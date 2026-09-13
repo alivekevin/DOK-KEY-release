@@ -24,6 +24,27 @@
         "body": "Zur Stunde Just when you were perfectly prepared, number {number} drops a plot twist. Like an actor who forgot the line — if the room laughed, that counts as a win.",
         "tip": "Tipp: It's funny because it's imperfect. Go un-rehearsed today, on purpose.",
         "share_caption": "Improvised comedy in the {timeslot_name} with {card_name} No.{number} 🤡 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_004",
+        "headline": "Mit stolzem Schritt voran, bemerkte {card_name}, dass die Socken ungleich waren",
+        "body": "Während {timeslot_name} sorgt Zahl {number} für einen heiteren kleinen Streich. Doch genau dieser sympathische Fehltritt erobert alle Herzen im Sturm.",
+        "tip": "Perfektion ist langweilig. Ein liebenswerter Makel macht dich unwiderstehlich.",
+        "share_caption": "Mit {card_name} Nr. {number} in {timeslot_name} für Lacher gesorgt 😆 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_005",
+        "headline": "Nach dramatischer Pause knurrte der Magen von {card_name}",
+        "body": "Selbst in ernsten Momenten von {timeslot_name} bricht das Lachen durch. Zahl {number} schenkt dir das Talent, jede Steifheit mit Humor zu lösen.",
+        "tip": "Wenn die Stimmung drückt, bricht ein lockerer Scherz sofort das Eis.",
+        "share_caption": "Mit {card_name} Nr. {number} in {timeslot_name} das Eis gebrochen 🍙 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_006",
+        "headline": "Vom Weg abgekommen, stand {card_name} direkt vor einer feinen Konditorei",
+        "body": "Ärgere dich nicht über kleine Umwege in {timeslot_name}. Zahl {number} führt dich zu einer unverhofften süßen Belohnung und netten Begegnung.",
+        "tip": "Ein Umweg ist der Beginn einer Entdeckungsreise. Genieße die Überraschung.",
+        "share_caption": "Süßer Umweg mit {card_name} Nr. {number} in {timeslot_name} 🍕 #DOK_KEY"
       }
     ]
   },
@@ -52,6 +73,27 @@
         "body": "Zur Stunde Between hope and worry, {card_name} quietly points at the middle. Number {number} says the current is already good — nothing needs fixing today.",
         "tip": "Tipp: When things go well, not touching anything is the highest technique.",
         "share_caption": "Keeping the {timeslot_name} peaceful with {card_name} No.{number} 🍃 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_004",
+        "headline": "Im sanften Sonnenlicht genießt {card_name} still eine Tasse Tee",
+        "body": "Während {timeslot_name} tritt der Lärm der Welt zurück. In der stillen Wärme von Zahl {number} wird dein Geist ruhig wie ein spiegelglatter See.",
+        "tip": "Nimm drei tiefe, bewusste Atemzüge, um deine innere Mitte zu spüren.",
+        "share_caption": "Stille Teestunde mit {card_name} Nr. {number} in {timeslot_name} 🍵 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_005",
+        "headline": "Blickt auf ziehende Wolken: {card_name} lächelt in stiller Einkehr",
+        "body": "Egal wie voll der Tag ist, lege die Uhr in {timeslot_name} beiseite. Zahl {number} erinnert dich daran, dass tiefe Weisheit in der Ruhe liegt.",
+        "tip": "Lege das Smartphone weg und schaue fünf Minuten in den Himmel.",
+        "share_caption": "Wolkenziehend mit {card_name} Nr. {number} in {timeslot_name} ☁️ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_006",
+        "headline": "Im leisen Waldwind atmet {card_name} tief und friedvoll durch",
+        "body": "Die milde Luft von {timeslot_name} umhüllt sanft deine Schultern. In der Geborgenheit von Zahl {number} schöpfst du frische Kraft für morgen.",
+        "tip": "Schließe den Abend mit einem warmen Bad oder beruhigendem Duft ab.",
+        "share_caption": "Waldesruh mit {card_name} Nr. {number} in {timeslot_name} 🌲 #DOK_KEY"
       }
     ]
   },
@@ -80,6 +122,27 @@
         "body": "Zur Stunde One uncomfortable phrase from the {timeslot_name} may follow you all day. Number {number} reveals half of it was a misunderstanding — so delay your reply a little.",
         "tip": "Tipp: Replies written in the heat are mostly regretted when cooled.",
         "share_caption": "{card_name} No.{number}: the {timeslot_name} conflict was only half real 🧨 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_004",
+        "headline": "Im Tauziehen der Meinungen trifft {card_name} die klare Entscheidung",
+        "body": "Während {timeslot_name} prallen Standpunkte aufeinander. Wer den Prinzipien von Zahl {number} folgt, beendet unnötige Reibung.",
+        "tip": "Beende emotionale Debatten und lasse nüchterne Fakten sprechen.",
+        "share_caption": "Konflikt gelöst mit {card_name} Nr. {number} in {timeslot_name} ⚔️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_005",
+        "headline": "Wenn Wege sich trennen, weist {card_name} den goldenen Mittelweg",
+        "body": "Die Streitfragen von {timeslot_name} sind nicht schwarz-weiß. Zahl {number} birgt den Schlüssel zu einem meisterhaften Kompromiss.",
+        "tip": "Suche nach einer Lösung, bei der alle Seiten ihr Gesicht wahren.",
+        "share_caption": "Kluger Ausgleich mit {card_name} Nr. {number} in {timeslot_name} 🛡️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_006",
+        "headline": "Inmitten der Gewitterstimmung bewahrt {card_name} kühlen Kopf",
+        "body": "Lasse dich nicht provozieren. Die eiserne Gelassenheit von Zahl {number} in {timeslot_name} macht dich zum Sieger.",
+        "tip": "Je lauter die Gegenseite wird, desto ruhiger und fester sprichst du.",
+        "share_caption": "Eiserne Ruhe mit {card_name} Nr. {number} in {timeslot_name} ⚖️ #DOK_KEY"
       }
     ]
   },
@@ -108,6 +171,27 @@
         "body": "Zur Stunde A casual crossing with a stranger is today's lucky point. Number {number} points to a light first conversation that may grow longer than you expect.",
         "tip": "Tipp: Remember the name of anyone you meet today. It's your lucky charm.",
         "share_caption": "Received an invitation for the {timeslot_name} from {card_name} No.{number} 💌 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_004",
+        "headline": "Im flüchtigen Blickkontakt erkennt {card_name} ein Schicksalsband",
+        "body": "Wer dir in {timeslot_name} begegnet, ist kein Zufall. Zahl {number} webt ein unsichtbares Band goldener Möglichkeiten.",
+        "tip": "Verbinde jeden Kontakt mit einem aufrichtigen, herzlichen Kompliment.",
+        "share_caption": "Schicksalhafte Begegnung mit {card_name} Nr. {number} in {timeslot_name} 🤝 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_005",
+        "headline": "Wie ein alter Vertrauter reicht {card_name} herzlich die Hand",
+        "body": "Selbst unter Fremden entsteht in {timeslot_name} sofortige Vertrautheit. Zahl {number} schenkt das perfekte Gesprächsthema.",
+        "tip": "Frage nach den Interessen deines Gegenübers, um das Eis zu brechen.",
+        "share_caption": "Herzliche Begegnung mit {card_name} Nr. {number} in {timeslot_name} ☕ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_006",
+        "headline": "Im Moment des Abschieds dreht sich {card_name} noch einmal um",
+        "body": "Eine kleine Begegnung in {timeslot_name} wird zum Keim einer starken Partnerschaft. Zahl {number} mahnt, keinen Kontakt zu unterschätzen.",
+        "tip": "Sende eine kurze Nachricht: 'Es war mir heute eine große Freude.'",
+        "share_caption": "Wunderbare Fügung mit {card_name} Nr. {number} in {timeslot_name} ✨ #DOK_KEY"
       }
     ]
   },
@@ -136,6 +220,27 @@
         "body": "Zur Stunde Under the light of the {timeslot_name}, your own reflection may feel unfamiliar. Number {number} whispers: you haven't changed — you've grown. Greet the stranger in the glass.",
         "tip": "Tipp: Today's strangeness is not a warning but proof of growth.",
         "share_caption": "Greeting my reflection with {card_name} No.{number} in the {timeslot_name} 🪞 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_004",
+        "headline": "Im Dunkeln hebt {card_name} die flammende Fackel empor",
+        "body": "Das vage Unbehagen in {timeslot_name} ist bloß ein schattenhaftes Trugbild. Das Licht von Zahl {number} vertreibt jeden Zweifel restlos.",
+        "tip": "Mache volles Licht an und lausche belebender Musik.",
+        "share_caption": "Schatten besiegt mit {card_name} Nr. {number} in {timeslot_name} 🕯️ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_005",
+        "headline": "Spottet böser Omen: {card_name} stößt das schwere Tor auf",
+        "body": "Deine schlimmsten Befürchtungen werden in {timeslot_name} niemals wahr. Zahl {number} beweist, dass dein Mut alle Furcht überstrahlt.",
+        "tip": "Richte dich auf und gehe mit festem, breitem Schritt voran.",
+        "share_caption": "Furchtlos voran mit {card_name} Nr. {number} in {timeslot_name} 🚪 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_006",
+        "headline": "Der Schutzgeist steht mit festem Schild hinter {card_name}",
+        "body": "Selbst wenn dich in {timeslot_name} Schauer streifen: Fürchte nichts. Zahl {number} ruft deinen mächtigen Schutzgeist an deine Seite.",
+        "tip": "Du bist nicht allein. Finde deine innere Zuversicht wieder.",
+        "share_caption": "Eiserner Schutz mit {card_name} Nr. {number} in {timeslot_name} 🛡️ #DOK_KEY"
       }
     ]
   },
@@ -164,6 +269,27 @@
         "body": "Zur Stunde Notifications erupt through the {timeslot_name}, and number {number} plays with your priorities. One tip: finish the smallest task first, and the biggest noise shrinks itself.",
         "tip": "Tipp: When everything is on fire, put out the smallest flame first.",
         "share_caption": "Becoming a regular in today's chaos with {card_name} No.{number}, {timeslot_name} 🔥 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_004",
+        "headline": "Im wirbelnden Chaos steht {card_name} felsenfest im Zentrum",
+        "body": "Auch wenn in {timeslot_name} vieles drunter und drüber geht: Bleibe ruhig. Zahl {number} zeigt dir genau die eine entscheidende Priorität.",
+        "tip": "Wähle die wichtigste Aufgabe des Tages und schließe sie zuerst ab.",
+        "share_caption": "Chaos gemeistert mit {card_name} Nr. {number} in {timeslot_name} 🌀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_005",
+        "headline": "Löst den gordischen Knoten: {card_name} bringt sofortige Klarheit",
+        "body": "Wie verworren die Lage in {timeslot_name} auch wirkt: Ein Geistesblitz entwirrt alles. Zahl {number} offenbart verborgene Ordnung.",
+        "tip": "10 Minuten Schreibtisch aufräumen schafft sofort mentale Frische.",
+        "share_caption": "Ordnung hergestellt mit {card_name} Nr. {number} in {timeslot_name} 🧶 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_006",
+        "headline": "Während andere schwanken, weist {card_name} gelassen den Weg",
+        "body": "Der Trubel in {timeslot_name} beweist deine Führungsstärke. Die Klarheit von Zahl {number} beruhigt alle Gemüter.",
+        "tip": "Formuliere deine Worte kurz, präzise und unmissverständlich.",
+        "share_caption": "Sicherer Lotse mit {card_name} Nr. {number} in {timeslot_name} 🧭 #DOK_KEY"
       }
     ]
   },
@@ -192,6 +318,27 @@
         "body": "Zur Stunde People may not match your pace today. But number {number} promises there is someone walking at your speed in another time zone. Keep your stride as it is.",
         "tip": "Tipp: Walking alone isn't the wrong path — you just haven't met your companion yet.",
         "share_caption": "Sitting side by side at the {timeslot_name} window with {card_name} No.{number} 🪟 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_004",
+        "headline": "Einsam unter Sternen entdeckt {card_name} ungeahnte innere Stärke",
+        "body": "Die Stille in {timeslot_name} schwächt dich nicht; sie schmiedet unerschütterliche Selbstsicherheit. Zahl {number} wacht treu an deiner Seite.",
+        "tip": "Gönne dir bewusste Ich-Zeit. Ein Satz im Tagebuch schenkt tiefen Trost.",
+        "share_caption": "Kraft aus der Stille mit {card_name} Nr. {number} in {timeslot_name} 🌌 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_005",
+        "headline": "In feierlicher Stille schleift {card_name} den Edelstein des Geistes",
+        "body": "Die Abgeschiedenheit von {timeslot_name} gebiert mehr Schöpferkraft als laute Runden. Zahl {number} kündet von einer genialen Idee.",
+        "tip": "Tauche in deinem stillen Raum ganz in deine Lieblingsmusik ein.",
+        "share_caption": "Kreative Einkehr mit {card_name} Nr. {number} in {timeslot_name} 💎 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_006",
+        "headline": "Während die Welt schläft, schenkt {card_name} herzerwärmenden Trost",
+        "body": "Fühle dich nicht verloren auf deinem stillen Pfad. Die Wärme von Zahl {number} in {timeslot_name} kündet von liebevollen neuen Banden.",
+        "tip": "Umarme dich heute selbst und sage dir: 'Du hast es großartig gemacht.'",
+        "share_caption": "Herzenswärme mit {card_name} Nr. {number} in {timeslot_name} 🕯️ #DOK_KEY"
       }
     ]
   },
@@ -220,6 +367,27 @@
         "body": "Zur Stunde A departing figure from the {timeslot_name} may hurt today. Yet number {number} quietly reminds you: that figure is what carried you all the way here.",
         "tip": "Tipp: Thank the stretch of road you walked together, then move on. That's enough.",
         "share_caption": "Thanking the {timeslot_name} companion that was {card_name} No.{number} 🌾 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_004",
+        "headline": "Mit gelassenem Winken schreitet {card_name} neuem Horizont entgegen",
+        "body": "Der Abschied in {timeslot_name} ist kein Ende, sondern ein Sprungbrett in eine größere Welt. Zahl {number} füllt die Lücke mit goldenem Segen.",
+        "tip": "Sage ohne Reue 'Danke' und wende dich leichten Herzens nach vorn.",
+        "share_caption": "Würdiger Abschied & Neuanfang mit {card_name} Nr. {number} in {timeslot_name} 🌅 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_005",
+        "headline": "Schließt sich die alte Tür, öffnet sich vor {card_name} ein goldenes Tor",
+        "body": "Hänge Vergangenem nicht nach. In {timeslot_name} schenkt Zahl {number} dir weitaus lohnendere Möglichkeiten.",
+        "tip": "Miste alte Papiere aus, um Platz für Neues zu schaffen.",
+        "share_caption": "Altes verabschiedet mit {card_name} Nr. {number} in {timeslot_name} 🚪 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_006",
+        "headline": "Im flammenden Abendrot bricht {card_name} mutig zu neuen Ufern auf",
+        "body": "Der Abschiedsschmerz verfliegt rasch. Die Zuversicht von Zahl {number} in {timeslot_name} lässt deine nächste Reise strahlen.",
+        "tip": "Gönne dir heute ein gutes Heißgetränk zur Feier des Neuanfangs.",
+        "share_caption": "Goldener Aufbruch mit {card_name} Nr. {number} in {timeslot_name} 🌇 #DOK_KEY"
       }
     ]
   },
@@ -248,6 +416,27 @@
         "body": "Zur Stunde Anxiety looks large, but number {number} counts today's advantages past three fingers. Hope has evidence — especially today.",
         "tip": "Tipp: Write down three things that went well tonight. They're tomorrow's confidence.",
         "share_caption": "Proof the {timeslot_name} is on my side: {card_name} No.{number} 🌈 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_004",
+        "headline": "Durchbricht den Frühnebel: {card_name} begrüßt das erste Morgenlicht",
+        "body": "Deine Hoffnung in {timeslot_name} ist kein Traum, sondern der Keim goldener Wirklichkeit. Zahl {number} öffnet das Tor zu Wundern.",
+        "tip": "Schreibe deinen Herzenswunsch in klarer Schrift auf ein Blatt Papier.",
+        "share_caption": "Strahlende Hoffnung mit {card_name} Nr. {number} in {timeslot_name} 🌅 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_005",
+        "headline": "Breitet goldene Schwingen aus: {card_name} steigt in den blauen Himmel",
+        "body": "Keine Finsternis kann den Morgen aufhalten. In {timeslot_name} verkündet Zahl {number} eine freie goldene Straße vor dir.",
+        "tip": "Male dir den Moment deines großen Erfolges lebhaft vor Augen aus.",
+        "share_caption": "Flug der Hoffnung mit {card_name} Nr. {number} in {timeslot_name} 🕊️ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_006",
+        "headline": "Auf trockenem Boden erblüht durch {card_name} eine Wunderblume",
+        "body": "Was unmöglich schien, fügt sich in {timeslot_name} auf wundersame Weise. Die positive Aura von Zahl {number} stellt die Welt an deine Seite.",
+        "tip": "Schenke heute jemandem ein aufrichtiges, stärkendes Wort.",
+        "share_caption": "Erblühte Wunder mit {card_name} Nr. {number} in {timeslot_name} 🌸 #DOK_KEY"
       }
     ]
   },
@@ -276,6 +465,27 @@
         "body": "Zur Stunde The only enemy is trying to finish everything at once. Number {number} tells you to split today's goal in half — finishing half is still a win, and that's how passion lasts.",
         "tip": "Tipp: Cut your goal in half. Today's half-finish is tomorrow's full power.",
         "share_caption": "Two steps from the summit with {card_name} No.{number} in the {timeslot_name} ⛰️ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_004",
+        "headline": "Mit einem Herzen wie ein Schmelzofen stürmt {card_name} voran",
+        "body": "Keine Hürde hält deinem Vorwärtsdrang in {timeslot_name} stand. Zahl {number} verleiht dir explosive Konzentration für den triumphalen Sieg.",
+        "tip": "Triff jetzt die Entscheidung und setze sie binnen 10 Minuten um.",
+        "share_caption": "Grenzen gesprengt mit {card_name} Nr. {number} in {timeslot_name} 🔥 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_005",
+        "headline": "Mit unlöschbarem Feuer verbrennt {card_name} jedes Zögern",
+        "body": "Zaudern ist fehl am Platz. In {timeslot_name} signalisiert Zahl {number} den idealen Zeitpunkt für einen beherzten Endspurt.",
+        "tip": "Erledige deine Hauptaufgabe heute mit schwungvoller Musik in einem Zug.",
+        "share_caption": "Feuer entfacht mit {card_name} Nr. {number} in {timeslot_name} ⚡ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_006",
+        "headline": "Wie ein Falke im Sturzflug schlägt {card_name} zielsicher zu",
+        "body": "Dein Instinkt trifft in {timeslot_name} ins Schwarze. Die Entschlossenheit von Zahl {number} schnappt sich den Hauptgewinn.",
+        "tip": "Bündele all deine Energie kompromisslos auf das eine Ziel.",
+        "share_caption": "Präziser Volltreffer mit {card_name} Nr. {number} in {timeslot_name} 🎯 #DOK_KEY"
       }
     ]
   },
@@ -304,6 +514,27 @@
         "body": "Zur Stunde Count the coincidences and intention appears. Number {number} says three repeated coincidences today point the same way. Take one step in that direction.",
         "tip": "Tipp: Track any word or sign repeated three times today. That's the message.",
         "share_caption": "Reading the stars with {card_name} No.{number} in the {timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_004",
+        "headline": "Hinter mondhellem Nebel findet {card_name} eine geheimnisvolle Schatulle",
+        "body": "Unsichtbare Kräfte wirken in {timeslot_name} zu deinen Gunsten. Die Wendung, die Zahl {number} verbirgt, wird dich in Staunen versetzen.",
+        "tip": "Verlasse dich nicht nur auf Logik; folge deiner feinen Intuition.",
+        "share_caption": "Geheimnis gelüftet mit {card_name} Nr. {number} in {timeslot_name} 🔮 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_005",
+        "headline": "Alte Schriftzeichen leuchten unter den Händen von {card_name} auf",
+        "body": "Im scheinbaren Zufall liegt tiefe Schicksalhaftigkeit. In {timeslot_name} offenbart Zahl {number} die gesuchte Antwort.",
+        "tip": "Notiere dir heute besondere Traumbilder oder auffallende Worte.",
+        "share_caption": "Mysterium entschlüsselt mit {card_name} Nr. {number} in {timeslot_name} 📜 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_006",
+        "headline": "Aus den Schatten lächelnd blickt {card_name} durch jeden Schleier",
+        "body": "Die wahre Entscheidung in {timeslot_name} fällt im Verborgenen. Der Scharfblick von Zahl {number} lässt dich das Gesamtbild erkennen.",
+        "tip": "Halte dich mit Worten zurück und beobachte aufmerksam die Zwischentöne.",
+        "share_caption": "Tiefe Einsicht mit {card_name} Nr. {number} in {timeslot_name} 👁️ #DOK_KEY"
       }
     ]
   },
@@ -332,6 +563,27 @@
         "body": "Zur Stunde Standing next to a shining person makes you look dim — a trick of lighting. Number {number} says it's the spotlight, not your skill, and predicts your own stage opens today.",
         "tip": "Tipp: Today's comparison is a lighting problem. Your stage opens separately.",
         "share_caption": "{card_name} No.{number} says let's fix the lighting first, {timeslot_name} 🎬 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_004",
+        "headline": "Fiel in die Pfütze, die er meiden wollte, und fand darin Gold",
+        "body": "Das Missgeschick in {timeslot_name} war kein Fehler, sondern ein genialer Plot-Twist. Zahl {number} wandelt das Versehen in reines Glück.",
+        "tip": "Lächle, wenn Pläne kippen. Ein weitaus besseres Ende wartet.",
+        "share_caption": "Ironische Wendung mit {card_name} Nr. {number} in {timeslot_name} 🎭 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_005",
+        "headline": "Auf altem Altpapier entdeckt {card_name} die entscheidende Spur",
+        "body": "Lasse dich vom Schein nicht täuschen. In {timeslot_name} birgt Zahl {number} echte Diamanten dort, wo andere nur Müll sahen.",
+        "tip": "Das unscheinbarste Detail birgt heute den Hauptschlüssel.",
+        "share_caption": "Aus Ironie Gold gemacht mit {card_name} Nr. {number} in {timeslot_name} 💎 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_006",
+        "headline": "Vor verschlossener Tür stand {card_name} plötzlich vor einem Palast",
+        "body": "Die Absage in {timeslot_name} war ein wahrer Glücksfall. Zahl {number} führt dich zu einer viel größeren Bühne.",
+        "tip": "Sage dir: 'Umso besser!' und gehe frohen Mutes zum nächsten Tor.",
+        "share_caption": "Glück im Unglück mit {card_name} Nr. {number} in {timeslot_name} 🏰 #DOK_KEY"
       }
     ]
   }

@@ -1,4 +1,4 @@
-﻿{
+{
   "comic": {
     "name": "コミカル (吉)",
     "color": "#F0A500",
@@ -24,6 +24,27 @@
         "body": "完璧に準備した直後、数字の{number}が急にどんでん返しを演出。台詞を忘れた役者のように途中下車しても、会場が笑ったなら今日の勝ちです。",
         "tip": "不完全だから面白い。今日はわざとリハーサルなしで行きましょう。",
         "share_caption": "{timeslot_name}に{card_name}{number}番と即興ギャグ一本 🤡 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_004",
+        "headline": "自信満々に歩いたが、{card_name}はズボンを前後逆に穿いていた",
+        "body": "{timeslot_name}にかっこよく決めようとしたら、数字の{number}がお茶目なイタズラを仕掛けます。でもその愛嬌こそが皆の心を和ませる最強の武器になります。",
+        "tip": "完璧を目指しすぎないこと。ちょっとした隙が最高の人徳です。",
+        "share_caption": "{card_name} {number}番を手に{timeslot_name}でお茶目パワー全開 😆 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_005",
+        "headline": "重々しい沈黙を破り、{card_name}のお腹がグ〜と鳴り響いた",
+        "body": "真剣な場面でも{timeslot_name}には思わず笑いがこぼれます。数字の{number}は今日、気まずい空気をユーモアで一気に打ち解けさせる力をくれます。",
+        "tip": "場が重い時は自虐ジョークで氷を溶かしてしまいましょう。",
+        "share_caption": "{timeslot_name}に{card_name} {number}番と気まずさを笑いに変換 🍙 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_006",
+        "headline": "道に迷ってたどり着いたら、{card_name}は隠れた名店の前に立っていた",
+        "body": "{timeslot_name}に予定と違う道に入っても焦らないで。数字の{number}が思いがけない美味しいご褒美と楽しい出会いへと導いています。",
+        "tip": "道に迷えば新しい旅が始まります。偶然の巡り合わせを楽しんで。",
+        "share_caption": "{timeslot_name}の寄り道で{card_name} {number}番と出会った美味しい幸運 🍕 #DOK_KEY"
       }
     ]
   },
@@ -52,6 +73,27 @@
         "body": "期待と心配の間で、{card_name}は静かに中間地点を示します。数字の{number}によれば、今日は何も直さなくても流れはすでに良好だとか。",
         "tip": "うまくいっている日は触らないのが最高の技術です。今日はメンテナンスモードで。",
         "share_caption": "{timeslot_name}の平穏、{card_name}{number}番と維持中 🍃 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_004",
+        "headline": "窓辺の柔らかな光の下で、{card_name}は静かにお茶を味わう",
+        "body": "{timeslot_name}には世の喧騒が一歩退きます。数字の{number}がもたらす静かな温もりの中で、あなたの心も澄んだ湖のように穏やかになります。",
+        "tip": "深呼吸をゆっくり三回して、心の中心をやさしく整えましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番と過ごす静かなお茶の時間 🍵 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_005",
+        "headline": "ゆっくり流れる雲を眺め、{card_name}は優しく微笑む",
+        "body": "どんなに忙しい日でも、{timeslot_name}には時計を置いても大丈夫。数字の{number}は、急がない者にこそ深い英知が宿ると語りかけています。",
+        "tip": "スマホを置いて、五分間空を見上げてみましょう。",
+        "share_caption": "{timeslot_name}の雲と共に{card_name} {number}番と安らぐ時間 ☁️ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_006",
+        "headline": "森を渡るそよ風に、{card_name}はそっと息を整える",
+        "body": "{timeslot_name}の空気は、疲れた肩を優しく包み込んでくれます。数字の{number}がくれる安らぎの中で、明日への清らかな活力が満ちていきます。",
+        "tip": "今夜はお気に入りのアロマや温かい入浴で一日を締めくくりましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の森の風を感じて 🌲 #DOK_KEY"
       }
     ]
   },
@@ -80,6 +122,27 @@
         "body": "{timeslot_name}に交わった不快な一言が、一日中つきまとうかもしれません。数字の{number}はその半分が誤解だと言っています。返信は少し遅らせましょう。",
         "tip": "熱く書いた返信は、冷めてから読むとほとんど後悔です。",
         "share_caption": "{card_name}{number}番、{timeslot_name}の葛藤は半分だけ本物 🧨 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_004",
+        "headline": "張り詰めた綱引きの中で、{card_name}は果断な決断を下す",
+        "body": "{timeslot_name}には互いの主張が鋭く対立します。数字の{number}が示す原則を貫くことで、不毛な摩擦に終止符を打てます。",
+        "tip": "感情的な口論を避け、事実とデータで勝負しましょう。",
+        "share_caption": "{timeslot_name}の対立、{card_name} {number}番で鮮やかに解決 ⚔️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_005",
+        "headline": "意見が割れる時、{card_name}は第三の道を指し示す",
+        "body": "{timeslot_name}の議論は白黒二元論では解けません。数字の{number}は双方が納得する絶妙な妥協案の鍵を握っています。",
+        "tip": "打ち負かすことより双方が活きる解決策を模索しましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の対立を知恵で突破 🛡️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_006",
+        "headline": "嵐の前の緊張感の中、{card_name}は冷静沈着に構える",
+        "body": "挑発に決して乗らないこと。{timeslot_name}に数字の{number}が授ける冷静な落ち着きこそが、最終的な勝利をもたらします。",
+        "tip": "相手が声を荒らげるほど、こちらは低く威厳ある声で応じましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番で冷静な平常心を維持 ⚖️ #DOK_KEY"
       }
     ]
   },
@@ -108,6 +171,27 @@
         "body": "知らない人との偶然の交差が今日の幸運ポイントです。数字の{number}が指すのは軽い最初の会話 — そこから伸びる糸は思ったより長いかもしれません。",
         "tip": "今日会った人の名前を正確に覚えましょう。それが今日のお守りです。",
         "share_caption": "{timeslot_name}に{card_name}{number}番から新しい縁の招待状 💌 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_004",
+        "headline": "偶然の出会いの中で、{card_name}は運命の欠片を見出す",
+        "body": "{timeslot_name}に出会う人は単なる偶然ではありません。数字の{number}が二人の間に目に見えない好機の糸を紡いでいます。",
+        "tip": "連絡先を交換する際は、笑顔と共に心からの褒め言葉を添えましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番と出会う特別なご縁 🤝 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_005",
+        "headline": "旧友のように、{card_name}は温かく手を差し伸べる",
+        "body": "初対面の場でも{timeslot_name}には不思議な共感が芽生えます。数字の{number}は距離を一気に縮める共通の話題を授けてくれます。",
+        "tip": "相手の関心事を先に尋ねることで会話の扉を開きましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}に温かな出会い成就 ☕ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_006",
+        "headline": "すれ違いざま、{card_name}は振り返って手を振った",
+        "body": "{timeslot_name}の小さな縁が、後に巨大な協力の種となります。数字の{number}は訪れた貴人を見逃さないよう告げています。",
+        "tip": "別れ際に『今日はお会いできて本当に光栄でした』とメッセージを送りましょう。",
+        "share_caption": "{timeslot_name}の貴人と{card_name} {number}番の素晴らしい邂逅 ✨ #DOK_KEY"
       }
     ]
   },
@@ -136,6 +220,27 @@
         "body": "{timeslot_name}の光の中で、自分の姿が妙に見えるかもしれません。数字の{number}は、変わったのではなく育った証だと囁きます。見知らぬ自分に挨拶してみましょう。",
         "tip": "今日の見知らぬ感覚は警告ではなく、一歩成長したという信号です。",
         "share_caption": "{timeslot_name}、{card_name}{number}番と鏡の中の自分に挨拶 🪞 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_004",
+        "headline": "深い闇の中で、{card_name}は松明を高く掲げた",
+        "body": "{timeslot_name}に忍び寄る漠然とした恐怖は、実体のない影に過ぎません。数字の{number}が放つ強烈な光が、すべての不安を綺麗に消し去ります。",
+        "tip": "部屋を明るく照らし、テンポの良い音楽を流してみましょう。",
+        "share_caption": "{timeslot_name}の闇を{card_name} {number}番の灯火で一掃 🕯️ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_005",
+        "headline": "不吉な予感を一蹴し、{card_name}は扉を蹴破って進む",
+        "body": "心配していた最悪の展開は、{timeslot_name}には決して起こりません。数字の{number}は君の勇気があらゆる厄災を圧倒している証拠です。",
+        "tip": "不安な時ほど背筋を伸ばし、大股で堂々と歩きましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の不安を堂々突破 🚪 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_006",
+        "headline": "トッケビが背後から{card_name}を力強く見守っている",
+        "body": "{timeslot_name}に薄気味悪さを感じても恐れることはありません。数字の{number}が呼ぶ守護霊が、君の完璧な盾となってくれます。",
+        "tip": "一人ではありません。心の中で『クケビ、守ってくれ』と唱えてみましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番の無敵の加護完了 🛡️ #DOK_KEY"
       }
     ]
   },
@@ -164,6 +269,27 @@
         "body": "{timeslot_name}に通知が連続で鳴り響き、数字の{number}が優先順位で遊んでいます。秘訣はひとつ、一番小さな用事から終わらせれば、大きな騒ぎは勝手に縮みます。",
         "tip": "全部が燃えているときは、一番小さな炎から消しましょう。それが消火の原則です。",
         "share_caption": "{timeslot_name}、{card_name}{number}番と大騒ぎの常連に 🔥 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_004",
+        "headline": "渦巻く混沌の中で、{card_name}はしっかりと軸を保った",
+        "body": "{timeslot_name}に様々な問題が絡み合っても慌てる必要はありません。数字の{number}が今最優先すべき唯一の重要課題を照らし出します。",
+        "tip": "ToDoリストの中から最も重要な一つだけを選び、まず完遂しましょう。",
+        "share_caption": "{timeslot_name}の混乱を{card_name} {number}番の集中力で制圧 🌀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_005",
+        "headline": "複雑にもつれた糸の結び目を、{card_name}が一気に解き明かす",
+        "body": "どれほど煩雑な状況でも、{timeslot_name}には鮮やかな解決策が現れます。数字の{number}が無秩序の中に隠された整然たる地図を示しています。",
+        "tip": "デスクの上を十分間片付けるだけで頭が驚くほど冴え渡ります。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の無秩序を見事に整理 🧶 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_006",
+        "headline": "周囲が右往左往する中、{card_name}は冷静に正しい道を指した",
+        "body": "{timeslot_name}の混乱は君のリーダーシップを輝かせる舞台です。数字の{number}が授ける明確な判断基準が、周囲を安心させます。",
+        "tip": "状況が複雑な時ほど、短く明確な言葉で指示を伝えましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番で混乱の中の確かな道標 🧭 #DOK_KEY"
       }
     ]
   },
@@ -192,6 +318,27 @@
         "body": "人は今日、あなたの速度についてこられないかもしれません。しかし数字の{number}は、別の時刻に必ず同じ速度で歩く人がいると約束します。今日は自分の歩幅のまま進みましょう。",
         "tip": "一人で歩く道が間違いではありません。まだ会っていない同行者がいるだけです。",
         "share_caption": "{timeslot_name}、{card_name}{number}番と窓際に並んで座る 🪟 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_004",
+        "headline": "星空の下で一人佇む{card_name}は、内なる真の強さに出会う",
+        "body": "{timeslot_name}の孤独は君を弱くするものではなく、何物にも揺るがぬ自立心を鍛える貴重な時間です。数字の{number}が静かに寄り添っています。",
+        "tip": "自分だけのための時間を慈しみましょう。日記の一行が深い癒しになります。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番と心強くなる自分だけの時間 🌌 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_005",
+        "headline": "静寂の中で、{card_name}は心に眠る宝石を磨き上げる",
+        "body": "群衆の喧騒よりも、{timeslot_name}の静けさこそが偉大な創造性を生みます。数字の{number}は孤独の中で生まれる傑作の予兆です。",
+        "tip": "静かな空間で好きな音楽に深く浸ってみましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の静寂を創造の力に 💎 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_006",
+        "headline": "世界が眠りにつく頃、{card_name}は温かな慰めを囁いた",
+        "body": "一人で歩む道だからと寂しがらないで。{timeslot_name}に数字の{number}が灯す温もりは、明日訪れる良縁の優しい前触れです。",
+        "tip": "今夜は誰よりも自分自身に『今日もよく頑張った』と抱きしめてあげましょう。",
+        "share_caption": "{timeslot_name}の静けさに{card_name} {number}番が灯す温もり 🕯️ #DOK_KEY"
       }
     ]
   },
@@ -220,6 +367,27 @@
         "body": "{timeslot_name}にすれ違った縁の後ろ姿が痛むかもしれません。それでも数字の{number}は、その後ろ姿があなたをここまで連れてきた事実を静かに教えてくれます。",
         "tip": "今日は一緒に歩いた区間に感謝を言って先に進みましょう。それで十分です。",
         "share_caption": "{card_name}{number}番、{timeslot_name}の同行にありがとう 🌾 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_004",
+        "headline": "手を振りながら、{card_name}は新たな地平線へ歩み出す",
+        "body": "{timeslot_name}の別れは終わりではなく、より広大な世界への跳躍台です。数字の{number}が空いたスペースをさらに輝かしい祝福で満たします。",
+        "tip": "未練を残さず感謝を伝え、軽やかな足取りで前を向きましょう。",
+        "share_caption": "{timeslot_name}の美しい旅立ち、{card_name} {number}番と新出発 🌅 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_005",
+        "headline": "古い扉を閉ざすと、{card_name}の前に黄金の新しい扉が開いた",
+        "body": "過去の執着や終了した案件に縛られないで。{timeslot_name}に数字の{number}は、遥かに価値ある新しいチャンスを手渡してくれます。",
+        "tip": "引き出しの中の古い物を整理し、新しい幸運のための空間を空けましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}に古いものを送り出し新福を迎える 🚪 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_006",
+        "headline": "夕焼けを背にして、{card_name}は堂々と旅立った",
+        "body": "別れの寂しさはほんのひと時。{timeslot_name}に数字の{number}が授ける勇猛さが、君の次の旅路を燦然と照らし出します。",
+        "tip": "新たな門出を祝して、自分にお気に入りの一杯をご馳走しましょう。",
+        "share_caption": "{timeslot_name}の夕日の下で{card_name} {number}番と誇り高き新航海 🌇 #DOK_KEY"
       }
     ]
   },
@@ -248,6 +416,27 @@
         "body": "不安は大きく見えますが、数字の{number}が数えてくれる今日の有利な点は三本の指を超えます。希望には根拠があるのです、特に今日は。",
         "tip": "今夜、うまくいったことを三つ書いてみましょう。明日の自信の材料になります。",
         "share_caption": "{timeslot_name}が味方だという証拠、{card_name}{number}番 🌈 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_004",
+        "headline": "朝霧を切り裂き、{card_name}は燦然たる最初の旭光を迎える",
+        "body": "{timeslot_name}に君が抱く小さな希望は、単なる夢想ではなく現実となる種です。数字の{number}が目の前に信じがたい奇跡の扉を開け放ちます。",
+        "tip": "一番叶えたい願いを丁寧な文字で紙に書き留めてみましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番と花開く眩い希望 🌅 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_005",
+        "headline": "黄金の翼を広げ、{card_name}は青空高く舞い上がる",
+        "body": "いかなる闇も夜明けを阻むことはできません。{timeslot_name}に数字の{number}は、君の前に遮るもののない大通路が広がっていると告げています。",
+        "tip": "心配する代わりに、大成功した瞬間の情景を生き生きと思い描きましょう。",
+        "share_caption": "{card_name} {number}番を手に{timeslot_name}に希望の飛翔開始 🕊️ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_006",
+        "headline": "乾いた大地に、{card_name}が咲かせた一輪の奇跡の花",
+        "body": "不可能に思えた難問が、{timeslot_name}には魔法のように解け始めます。数字の{number}が放つポジティブな波動が、世界を君の味方にします。",
+        "tip": "身近な人に温かい励ましの言葉をかけてあげましょう。",
+        "share_caption": "{timeslot_name}に{card_name} {number}番と咲き誇る奇跡 🌸 #DOK_KEY"
       }
     ]
   },
@@ -276,6 +465,27 @@
         "body": "一度に全部やろうとする欲が唯一の敵です。数字の{number}は今日の目標を半分に割ってみろと言います。半分でも終われば今日は成功、それが情熱を長く続ける方法です。",
         "tip": "目標を半分に分けましょう。今日の半分完走が明日の全速力です。",
         "share_caption": "{timeslot_name}、{card_name}{number}番と頂上まで二歩 ⛰️ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_004",
+        "headline": "溶鉱炉のように燃える心臓で、{card_name}は全速力で疾走する",
+        "body": "{timeslot_name}にはどんな障壁も君の熱い勢いを止められません。数字の{number}が爆発的な集中力と推進力を吹き込み、勝利を掴み取らせます。",
+        "tip": "今すぐ決断を下し、十分以内に行動を起こしましょう。",
+        "share_caption": "{timeslot_name}の熱き疾走、{card_name} {number}番で限界突破 🔥 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_005",
+        "headline": "消えることのない情熱の炎で、{card_name}は闇を焼き尽くす",
+        "body": "躊躇は無用です。{timeslot_name}に数字の{number}は、目標へ向かって最もアグレッシブかつ完璧なラストスパートをかける時だと告げています。",
+        "tip": "アップテンポな音楽と共に、本日のメイン課題を一気に撃破しましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}に爆発的エネルギー点火 ⚡ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_006",
+        "headline": "獲物を捉えた鷹のように、{card_name}は迷わず急降下した",
+        "body": "{timeslot_name}の直感は百発百中です。数字の{number}が授ける鋭い野生と決断力が、最高の成果を鷲掴みにします。",
+        "tip": "余所見をせず、ただ一つの目標に全火力を集中させましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番の無敗の疾走と完璧なフィニッシュ 🎯 #DOK_KEY"
       }
     ]
   },
@@ -304,6 +514,27 @@
         "body": "偶然を数えると意図が見えてきます。数字の{number}は、今日三回以上繰り返された偶然が同じ方向を指していると言います。その方向へ一歩歩いてみてください。",
         "tip": "今日三回以上繰り返された単語や表示を覚えましょう。それが今日のメッセージです。",
         "share_caption": "{timeslot_name}、{card_name}{number}番と星の並びを読む中 ✨ #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_004",
+        "headline": "月光差す霧の彼方に、{card_name}は秘密の小箱を見出す",
+        "body": "{timeslot_name}には見えざる運命の歯車が君のために回転します。数字の{number}が隠した予期せぬどんでん返しが、深い感嘆を呼び起こします。",
+        "tip": "論理だけに頼らず、直感にひらめく神秘的な予感を信じましょう。",
+        "share_caption": "{timeslot_name}の神秘、{card_name} {number}番で隠された真実を発見 🔮 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_005",
+        "headline": "古代の秘文が、{card_name}の指先で青白く光を放った",
+        "body": "偶然の出来事の中に必然の教えが秘められています。{timeslot_name}に数字の{number}は、君が探し求めていた究極の答えを指し示します。",
+        "tip": "今日見た夢や気になった言葉をノートにメモしておきましょう。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の暗号を鮮やかに解読 📜 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_006",
+        "headline": "影の中から静かに微笑む{card_name}の深淵なる慧眼",
+        "body": "{timeslot_name}の真の勝負は、表に現れない舞台裏で決します。数字の{number}が授ける洞察力で、全体の流れを鋭く見抜きましょう。",
+        "tip": "言葉を慎み、相手の視線や仕草の奥にある本心を見つめてみてください。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番の深い洞察で大局を掌握 👁️ #DOK_KEY"
       }
     ]
   },
@@ -332,6 +563,27 @@
         "body": "輝く人の隣に立つと自分まで暗く見える錯視があります。数字の{number}は実力の問題ではなく照明の問題だと言い、今日はあなたの舞台が別に開くと予告します。",
         "tip": "今日の比較は照明のせいです。あなたの舞台は別に開きます。",
         "share_caption": "{timeslot_name}、{card_name}{number}番が照明から変えようと言う 🎬 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_004",
+        "headline": "避けようとした水たまりに落ちたら、そこに宝物が沈んでいた",
+        "body": "{timeslot_name}に起きた小さなハプニングは失敗ではなく大逆転の伏線です。数字の{number}が君の思わぬ誤算を最大の幸運へと塗り替えます。",
+        "tip": "予定通りに進まなくても笑い飛ばしましょう。もっと素敵な結末が待っています。",
+        "share_caption": "{timeslot_name}の皮肉な逆転劇、{card_name} {number}番で大勝利 🎭 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_005",
+        "headline": "捨てようとした反故紙から、{card_name}は大当たりの手掛かりを発見した",
+        "body": "世間の固定観念に惑わされないで。{timeslot_name}に数字の{number}は、他人が見捨てた場所から眩いダイヤモンドを掘り出させます。",
+        "tip": "一見最もくだらなく見えるものの中に、今日の核心の鍵があります。",
+        "share_caption": "{card_name} {number}番と{timeslot_name}の皮肉を宝物に変える 💎 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_006",
+        "headline": "断られた扉の前で、{card_name}はさらに巨大な宮殿を見出した",
+        "body": "{timeslot_name}の不本意な断りは、君を守る天の配慮でした。数字の{number}は君にふさわしい真の巨大な舞台へと導いています。",
+        "tip": "『かえって好都合だ！』と呟き、次の大門へ向かって歩き出しましょう。",
+        "share_caption": "{timeslot_name}、{card_name} {number}番で災い転じて福となす 🏰 #DOK_KEY"
       }
     ]
   }

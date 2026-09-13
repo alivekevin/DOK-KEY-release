@@ -24,14 +24,14 @@ class ProPassDialog extends StatefulWidget {
 }
 
 class _ProPassDialogState extends State<ProPassDialog> {
-  int _selectedPlan = 0; // 0: 1년 이용권 ($9.99), 1: 평생 소장권 ($49.99)
+  int _selectedPlan = 0; // 0: 1년 이용권 ($4.99/₩6,900), 1: 평생 소장권 ($14.99/₩19,900)
 
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
     final lang = provider.lang;
     final isPro = provider.isProUser;
-    // 💰 BM v5.1 가격 SSOT (lib/core/pricing.dart) — 드리프트 방지 단일 공급원
+    // 💰 BM v5.2 가격 SSOT (lib/core/pricing.dart) — 드리프트 방지 단일 공급원
     final pricing = ProPricing.of(lang);
 
     String title;
@@ -59,10 +59,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = 'すべての制限を解除し、完全な機能をお楽しみください';
         plan1Name = '1年プラン';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = '月額わずか ¥116';
+        plan1Sub = '月額わずか ¥56 · 毎日のお札と知恵';
         plan2Name = '永久ライセンス';
         plan2Price = pricing.lifetime;
-        plan2Sub = '1回のみのお支払い・生涯有効';
+        plan2Sub = '1回のみのお支払い · 4年分よりお得な永久版';
         plan2Badge = '一番人気 ⭐';
         feature1Title = '組合せ保管箱 99スロット拡張';
         feature1Desc = '無料9スロットの制限を解除し、99スロットの大容量保管';
@@ -91,10 +91,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = '解锁全部限制，畅享完整高阶体验';
         plan1Name = '1年订阅';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = '每月仅需 ¥5.6';
+        plan1Sub = '每月仅需 ¥2.75 · 每日守护符咒与小妖智慧';
         plan2Name = '终身买断版';
         plan2Price = pricing.lifetime;
-        plan2Sub = '一次性付款 · 永久有效';
+        plan2Sub = '一次性付款 · 比3年订阅更划算的终身版';
         plan2Badge = '最超值 ⭐';
         feature1Title = '组合库 99格大容量扩展';
         feature1Desc = '解除免费9格限制，尊享99格本地组合空间';
@@ -123,10 +123,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = 'सभी सीमाएं हटाएं और संपूर्ण अनुभव का आनंद लें';
         plan1Name = '1 वर्ष प्लान';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = 'प्रति माह केवल ₹66';
+        plan1Sub = 'प्रति माह केवल ₹33 · दैनिक ताबीज और बुद्धि';
         plan2Name = 'लाइफटाइम पास';
         plan2Price = pricing.lifetime;
-        plan2Sub = 'एकमुश्त भुगतान · आजीवन सक्रिय';
+        plan2Sub = 'एकमुश्त भुगतान · 4 साल के सब्सक्रिप्शन से भी सस्ता';
         plan2Badge = 'सर्वोत्तम मूल्य ⭐';
         feature1Title = '99 कंबिनेशन स्लॉट विस्तार';
         feature1Desc = 'मुफ़्त 9 स्लॉट सीमा हटें — 99 विशाल स्लॉट';
@@ -155,10 +155,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = 'Alle Limits aufheben — volles Premium-Erlebnis genießen';
         plan1Name = '1-Jahres-Abo';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = 'Nur 0,83 € / Monat';
+        plan1Sub = 'Nur 0,41 € / Monat · Tägliche Talismane & Weisheit';
         plan2Name = 'Lifetime VIP';
         plan2Price = pricing.lifetime;
-        plan2Sub = 'Einmalzahlung · lebenslang gültig';
+        plan2Sub = 'Einmalzahlung · Günstiger als 4 Jahre Abo';
         plan2Badge = 'Bester Wert ⭐';
         feature1Title = '99 Kombinations-Slots';
         feature1Desc = 'Gratis-Limit von 9 Slots fallen lassen — 99 geräumige Slots';
@@ -187,10 +187,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = 'Unlock all limits — enjoy the ultimate full-tier experience';
         plan1Name = '1-Year Pass';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = 'Only \$0.83 / month';
+        plan1Sub = 'Only \$0.41 / month · Daily guardian talismans & wisdom';
         plan2Name = 'Lifetime VIP';
         plan2Price = pricing.lifetime;
-        plan2Sub = 'One-time payment · Forever yours';
+        plan2Sub = 'One-time payment · Cheaper than 4 years of subscription';
         plan2Badge = 'Best Value ⭐';
         feature1Title = '99 Combined Vault Slots';
         feature1Desc = 'Drop the free 9-slot limit — 99 massive local slots';
@@ -220,11 +220,11 @@ class _ProPassDialogState extends State<ProPassDialog> {
         subtitle = '모든 한도를 해제하고 완전한 고품격 기능을 누리세요';
         plan1Name = '1년 정기 이용권';
         plan1Price = pricing.yearlyLabel;
-        plan1Sub = '월 1,000원 꼴의 합리적 가격';
+        plan1Sub = '월 500원대 (월 575원 꼴)로 매일 깨비의 행운 부적과 명언';
         plan2Name = '평생 소장권 (VIP)';
         plan2Price = pricing.lifetime;
-        plan2Sub = '추가 결제 없이 영구 소장';
-        plan2Badge = '최고 인기 ⭐';
+        plan2Sub = '구독 없는 1회 결제 (3년 구독보다 저렴한 평생 소장권)';
+        plan2Badge = 'BEST 평생 소장 ⭐';
         feature1Title = '조합 보관함 99슬롯 대용량 확장';
         feature1Desc = '무료 9슬롯 한도 해제 → 99슬롯 대용량 로컬 보관';
         feature2Title = '커스텀 도감 99테마 확장';

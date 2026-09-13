@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:dokkey_app/core/key_combiner_engine.dart';
+import 'package:dokkey_app/core/pricing.dart';
 import 'package:dokkey_app/providers/dokkey_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -212,6 +213,106 @@ void main() {
 
       await provider.clearAllCombinedKeys();
       expect(provider.sourceNumbers.length, baseline + newUnique, reason: '조합키 삭제는 원천 번호 풀에 영향 없음');
+    });
+  });
+
+  group('BM v5.1 PRO Plans (1년 구독 / 평생 소장)', () {
+    test('default upgrade is the yearly plan: expires in ~365 days', () async {
+      final provider = DokkeyProvider();
+      await provider.initialize();
+
+      await provider.upgradeToProPass();
+      expect(provider.isProUser, true);
+      expect(provider.proPlan, 'yearly');
+      final days = provider.proExpiry!.difference(DateTime.now()).inDays;
+      expect(days, inExclusiveRange(363, 366), reason: '1년권은 약 365일 후 만료');
+    });
+
+    test('lifetime plan never expires and unlocks full tier', () async {
+      final provider = DokkeyProvider();
+      await provider.initialize();
+
+      await provider.upgradeToProPass(lifetime: true);
+      expect(provider.isProUser, true);
+      expect(provider.proPlan, 'lifetime');
+      expect(provider.proExpiry, isNull, reason: '평생권은 만료 개념이 없다');
+      expect(provider.maxCombinedSlots, 99);
+      expect(provider.dailyDrawQuota, 4);
+      expect(provider.adFreeExperience, true);
+    });
+
+    test('expired yearly pass downgrades to free tier on relaunch', () async {
+      final provider = DokkeyProvider();
+      await provider.initialize();
+      await provider.upgradeToProPass();
+      expect(provider.isProUser, true);
+
+      // 1년권 만료 상태 시뮬레이션 (어제 만료)
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt(
+        'dokkey_pro_expiry_ms',
+        DateTime.now().subtract(const Duration(days: 1)).millisecondsSinceEpoch,
+      );
+
+      final relaunched = DokkeyProvider();
+      await relaunched.initialize();
+      expect(relaunched.isProUser, false, reason: '만료된 1년권은 재실행 시 무료 등급으로 자동 강등');
+      expect(relaunched.maxCombinedSlots, 9);
+      expect(relaunched.proPlan, '');
+      expect(relaunched.proExpiry, isNull);
+    });
+
+    test('expired downgrade clamps surviving 10-year keys to free 7-day TTL', () async {
+      final provider = DokkeyProvider();
+      await provider.initialize();
+      await provider.upgradeToProPass();
+      for (var n = 1; n <= 3; n++) {
+        await provider.injectNumber(n.toString().padLeft(2, '0'));
+      }
+      await provider.combineAndSaveKeys(targetCount: 2, selectedPool: {});
+      expect(
+        provider.combinedKeys.first.expiresAt!.difference(DateTime.now()).inDays,
+        greaterThan(3000),
+        reason: 'PRO 기간 중 생성된 키는 10년 안심보관',
+      );
+
+      // 1년권 만료 시뮬레이션 (어제 만료)
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt(
+        'dokkey_pro_expiry_ms',
+        DateTime.now().subtract(const Duration(days: 1)).millisecondsSinceEpoch,
+      );
+
+      final relaunched = DokkeyProvider();
+      await relaunched.initialize();
+      expect(relaunched.isProUser, false);
+      final remainingDays =
+          relaunched.combinedKeys.first.expiresAt!.difference(DateTime.now()).inDays;
+      expect(
+        remainingDays,
+        inExclusiveRange(0, 8),
+        reason: '강등 후 생존 키는 무료 7일 TTL 상한으로 클램프되어 순환 정책이 유지된다',
+      );
+    });
+  });
+
+  group('BM v5.2 Pricing SSOT (ProPricing)', () {
+    test('single source of truth matches the final price lineup', () {
+      const expected = <String, List<String>>{
+        'ko': ['₩6,900', '₩19,900', '₩1,000'],
+        'en': [r'$4.99', r'$14.99', r'$0.99'],
+        'ja': ['¥680', '¥2,200', '¥120'],
+        'zh': ['¥33', '¥98', '¥6'],
+        'de': ['4,99 €', '14,99 €', '0,99 €'],
+        'hi': ['₹399', '₹1,299', '₹79'],
+      };
+      expected.forEach((lang, v) {
+        final p = ProPricing.of(lang);
+        expect(p.yearly, v[0], reason: '$lang 1년권 가격');
+        expect(p.lifetime, v[1], reason: '$lang 평생권 가격');
+        expect(p.pouch, v[2], reason: '$lang 황금 열쇠 주머니 가격');
+      });
+      expect(ProPricing.of('xx').yearly, r'$4.99', reason: '미지원 언어는 영문 가격 폴백');
     });
   });
 }

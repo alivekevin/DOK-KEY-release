@@ -61,6 +61,42 @@
       ]
     },
     {
+      "id": "burnout",
+      "chip_title": "Ich fühle mich ausgebrannt 🛋️",
+      "user_question": "Kkaebi, ich glaube, ich habe einen Burnout. Ich bin kraftlos und habe keine Motivation...",
+      "steps": [
+        "Wenn der Motor heißläuft, muss man ihn abkühlen lassen! Ausruhen ist ein Meisterstück. Genieße heute die Kunst des Nichtstuns!",
+        "Nur wer aus vollem Herzen gerannt ist, spürt Erschöpfung. Es ist der Beweis deines großen Einsatzes. Mache dir niemals Vorwürfe!",
+        "Selbst ein Kobold bekommt lahme Arme, wenn er täglich die Keule schwingt. Lass wie bei der '{card_name}'-Karte allen Druck los.",
+        "Habe keine Eile. Wenn Bäume im Winter das Laub abwerfen, sterben sie nicht—sie sammeln Kraft für die Frühlingsblüte. Du sammelst neue Pracht!",
+        "Fazit des Tages: Wirf alle Pflichten für heute ab. Gönne dir deinen Lieblingssnack und schöpfe Ruhe. Ich halte Wache an deiner Seite!"
+      ]
+    },
+    {
+      "id": "career",
+      "chip_title": "Ist das der richtige Weg? 🧭",
+      "user_question": "Kkaebi, ich zweifle an meiner Karriere und Lebensrichtung. Gehe ich den richtigen Weg?",
+      "steps": [
+        "Dass du den Weg hinterfragst, beweist deinen Blick auf höhere Gipfel! Im Moment des Nachdenkens hat dein Wachstum bereits begonnen.",
+        "Passe dich nicht fremden Schablonen an. In tausend Jahren habe ich gesehen: Wer seinem inneren Feuer folgt, wird wahrhaft groß.",
+        "Betrachte die '{card_name}'-Karte genau. Die jetzige Ungewissheit ist nur das Sprungbrett für deinen nächsten Flug—kein Scheitern.",
+        "Wenn die Wahl schwerfällt, frage dich: 'Was würde mein Ich in 10 Jahren mir heute raten?' Dein innerer Kompass wird leuchten.",
+        "Fazit des Tages: Höre auf zu zweifeln und vertraue deinem Potenzial. Dein Weg wird zur Legende. Mache mutig den ersten Schritt!"
+      ]
+    },
+    {
+      "id": "confidence",
+      "chip_title": "Ich vergleiche mich zu viel 🪞",
+      "user_question": "Kkaebi, ich vergleiche mich ständig mit anderen und fühle mich unzulänglich...",
+      "steps": [
+        "Vergleiche niemals die Höhepunkte anderer mit deinen stillen Mühen! Im ganzen Universum bist du ein unersetzliches Meisterwerk.",
+        "Selbst wenn die Koboldkeule Gold zaubert, hat jedes Stück seine eigene Maserung. Lass dich nicht vom Tempo anderer beirren—bleibe in deinem Rhythmus.",
+        "Sieh das Strahlen der '{card_name}'-Karte. Du bist keine Kopie; du bist ein Stern, der mit eigenem Licht leuchtet.",
+        "Wichtiger als fremdes Lob ist deine eigene liebevolle Anerkennung. Lege die Hand aufs Herz und sage dir: 'Ich bin vollkommen gut so, wie ich bin.'",
+        "Fazit des Tages: Verlasse das Gefängnis fremder Meinungen. Du bist bereits vom tiefsten Segen des Universums umarmt!"
+      ]
+    },
+    {
       "id": "joke",
       "chip_title": "DE Can I touch your horns? 😈",
       "user_question": "DE Kkaebi, can I touch the cute little horns on your head?",
@@ -78,10 +114,46 @@
     "Möge dieser Rat dir heute Kraft und Klarheit schenken!"
   ],
   "weekly_openers": {
-    "lotto": "Heute steht das Glück im Zeichen des Schicksals...",
-    "interview": "Heute ist der Tag, um deine wahre Stärke zu zeigen...",
-    "relationship": "Zwischenmenschliche Bande blühen heute auf...",
-    "healing": "Ruhe und Gelassenheit begleiten deinen Abend...",
-    "joke": "Ein heiteres Koboldlachen vertreibt alle Sorgen..."
+    "lotto": "Heute s",
+    "interview": "Heute i",
+    "relationship": "Zwische",
+    "healing": "Ruhe un",
+    "joke": "Ein hei",
+    "burnout": [
+      "Atme erst einmal tief durch,",
+      "Ruhe ist heilig für müde Seelen,",
+      "Eine Batterie braucht neue Energie,",
+      "Du darfst die Last ablegen,",
+      "Deine Schultern tragen schwer,",
+      "Willkommen in der Zuflucht des Kobolds,",
+      "Zeit für vollkommene Ruhe,"
+    ],
+    "career": [
+      "Lass uns den Kompass des Lebens befragen,",
+      "Du stehst an einer wichtigen Weggabelung,",
+      "Zeit, die Zukunft mutig zu zeichnen,",
+      "Vertraue dem Feuer in deinen Augen,",
+      "Zweifel markieren den Beginn großer Wenden,",
+      "Hier ist die uralte Weisheit des Kobolds,",
+      "Eine mutige Frage eines wahren Wanderers,"
+    ],
+    "confidence": [
+      "Polieren wir den klaren Spiegel,",
+      "Zeit, deinen inneren Schatz zu heben,",
+      "Befreie dich von fremden Blicken,",
+      "An die einzigartige Seele, die du bist,",
+      "Zeit für eine herzliche Selbstumarmung,",
+      "In den Augen des Kobolds bist du wundervoll,",
+      "Willkommen im Tempel des Selbstwerts,"
+    ],
+    "passcode": [
+      "Denkst du über einen neuen Passcode nach?",
+      "Lass uns deine geheime Zahlenkombination schmieden,",
+      "Das Tastenfeld des goldenen Schlüssels,",
+      "Zeit, ein unknackbares Schutzschloss zu bauen,",
+      "Sicherheit vereint mit großem Glück,",
+      "Dokkaebis Schutzschild aktivieren,",
+      "Einen einprägsamen Glückscode wählen,"
+    ]
   }
 }

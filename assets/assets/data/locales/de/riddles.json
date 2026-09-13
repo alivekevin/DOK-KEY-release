@@ -898,5 +898,455 @@
       "wrong": "Daneben! Sammle 99 Schlüssel, und der Titel ist dein!"
     },
     "id": "rid_050"
+  },
+  {
+    "question": "Was hat keine Füße und reist doch um die ganze Welt, keine Hände und schüttelt doch Türen?",
+    "options": [
+      "Der Wind",
+      "Eine Wolke",
+      "Ein Schatten",
+      "Ein Gerücht"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kekeke! Der Wind erschüttert die ganze Welt, ohne je gesehen zu werden!",
+      "wrong": "Daneben! Was streift überall vorbei, ohne Hände und Füße?"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "Was versteckt sich tagsüber und bettet sich bei Nacht wie Juwelen in den schwarzen Himmel ein?",
+    "options": [
+      "Sterne",
+      "Ein Leuchtturm",
+      "Glühwürmchen",
+      "Ein Hof um den Mond"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Sternenlicht, das die dunkle Nacht bestickt, ist ein Wegweiser der Weisheit!",
+      "wrong": "Daneben! Denke an die tausenden Juwelen, die am Nachthimmel funkeln!"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "Was trägt ein rotes Köpfchen und verbrennt seinen ganzen Körper, um die Dunkelheit zu vertreiben?",
+    "options": [
+      "Ein Streichholz",
+      "Ein Ahornblatt",
+      "Eine Chilischote",
+      "Das Springkraut"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Streichholz ist ein kleiner Riese, der in einem Augenblick die Flamme entfacht!",
+      "wrong": "Daneben! Denke an das Ding, an dessen rotem Kopf man reibt, um Feuer zu machen!"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "In jedem Haus gibt es eines, man begegnet seinem Gesicht jeden Tag, doch es spricht nie. Was ist es?",
+    "options": [
+      "Ein Spiegel",
+      "Tapete",
+      "Eine Uhr",
+      "Ein Türknauf"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Vortrefflich! Der Spiegel spiegelt dein Herz und deinen Ausdruck ohne eine Spur von Lüge!",
+      "wrong": "Schade! Schau nach dem Ding, das dir dein eigenes Bild zurückwirft!"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "Was macht keinen Laut und bewegt doch das Herz, trägt keine Buchstaben und überbringt doch Gefühle?",
+    "options": [
+      "Ein Lächeln",
+      "Ein gefallenes Blatt",
+      "Tränen",
+      "Schweigen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Wahrlich großartig! Ein warmes Lächeln ist stärker als jeder Goblinknüppel!",
+      "wrong": "Daneben! Denke an den wärmsten Ausdruck, der über ein Gesicht blüht!"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "Wer es hat, will es verbergen, wer es verliert, beklagt es, und sobald man es jemandem erzählt, verschwindet es. Was ist es?",
+    "options": [
+      "Ein Geheimnis",
+      "Ein Juwel",
+      "Geld",
+      "Ein Schlüssel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Kekeke! In dem Moment, in dem es deine Lippen verlässt, ist es kein Geheimnis mehr!",
+      "wrong": "Daneben! Es bleibt nur gewahrt, solange du und ich allein es wissen!"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "Es fliegt leicht davon und setzt sich schwer wieder herab und hüllt die Welt in Weiß. Was ist es?",
+    "options": [
+      "Schnee",
+      "Mehl",
+      "Nebel",
+      "Salz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Schneeflocken — das Geschenk des Winters, das die ganze Welt in Reinstweiß hüllt!",
+      "wrong": "Daneben! Denke an das weiße Puder, das in Büscheln vom Himmel fällt!"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "Wie heißt der Winterruf der Eiszapfen, die ihre Wurzeln im Himmel haben, während Stängel und Blätter zur Erde wachsen?",
+    "options": [
+      "Eisvogel unter dem Dach",
+      "Eiszapfen unter dem Dach",
+      "Baum des Himmels",
+      "Winterspross"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die klaren, gläsernen Gitterstäbe, die verkehrt herum vom Dachrand wachsen!",
+      "wrong": "Daneben! Sieh die langen Eissäulen, die im Winter unter dem Dach hängen!"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "Was geht bei der Geburt auf vier Beinen, in der Jugend auf zwei und im Alter auf drei Beinen?",
+    "options": [
+      "Der Mensch",
+      "Der Tiger",
+      "Der Goblin",
+      "Die Kröte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Weisheit, die selbst die Sphinx beeindrucken würde! Das Baby, der Jüngling und der alte Mann am Stock — der Weg des Lebens!",
+      "wrong": "Daneben! Es ist ein Mensch, der durch die vier Jahreszeiten des Lebens geht!"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "Welche Steinsäule steht immer am selben Ort und weist den vorüberziehenden Reisenden den Weg?",
+    "options": [
+      "Ein Jangseung (Wegweiserpfahl)",
+      "Ein Sotdae",
+      "Ein Steinturm",
+      "Ein Denkmalstein"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "General unter dem Himmel, General der Erde! Der Jangseung — unser Wächter am Dorfeingang!",
+      "wrong": "Daneben! Der Dorf Freund mit dem komischen Gesicht, der dir den Weg weist!"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "Welches traditionelle Spiel wirft hölzerne Stäbe in die Höhe, und ihr Fall entscheidet das Spiel?",
+    "options": [
+      "Yunnori (das Yut-Spiel)",
+      "Steinwerfen",
+      "Jegichagi",
+      "Tuho"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Do, gae, geol, yut, mo! Das Yut-Brett, auf dem die ganze Familie vergnügt über den Hof rennt!",
+      "wrong": "Daneben! Das Spiel, bei dem man Birkenholzklötze in die Luft wirft und seine Figuren rennen lässt!"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "Welches traditionelle Spielzeug breitet bei jedem Tritt seinen gefiederten Rock in der Luft aus und tanzt leichtfüßig?",
+    "options": [
+      "Ein Jegi",
+      "Ein Kreisel",
+      "Ein Drachen",
+      "Ein Reifen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Jegi — eine Münze, gewickelt in Hanji-Papier, getanzt auf dem Fußrücken!",
+      "wrong": "Daneben! Das Ding, das du mit dem Fuß tanzend in der Luft hältst, ohne es fallen zu lassen!"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "Was steigt mit dem Wind hoch in den Himmel und ist doch stets an einer einzigen feinen Schnur befestigt?",
+    "options": [
+      "Ein Schildkröten-Drachen (Bangpaeyeon)",
+      "Ein Luftballon",
+      "Ein Vogelkäfig",
+      "Eine Schaukel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Flieg frei! Der Schildkrötendrachen, der den Himmel durchstreift, während die Spule die Schnur ablässt!",
+      "wrong": "Daneben! Das Ding, mit dem man zu Daeboreum das Pech des Jahres in den Himmel schickte!"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "Welcher kleine Kreisel auf dem Eis dreht sich umso fröhlicher, je mehr man ihn peitscht?",
+    "options": [
+      "Ein Holzkreisel",
+      "Ein Rad",
+      "Eine Glasmurmel",
+      "Ein Mühlstein"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Wie er dreht! Der Kreisel steht umso strammer, je mehr man die Peitsche knallen lässt!",
+      "wrong": "Daneben! Das Ding, das man mit der Peitschenschnur umwickelte und auf dem Eis drehte!"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "Welches Gerät mahlt Bohnen und Getreide fein, mit zwei aufeinanderliegenden runden Steinen und einer zu drehenden Kurbel?",
+    "options": [
+      "Ein Handmühlstein",
+      "Ein Mörser",
+      "Eine Wippmühle",
+      "Ein Kessel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Ohne Achse kein Mahlen! Der Handmühlstein, der die Sojabohnen für wohlschmeckenden Tofu mahlt!",
+      "wrong": "Daneben! Das Werkzeug, das man an der Kurbel rundum dreht und mahlt!"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "Was ist der kostbarste Besitz des Menschen, der schwindet, je mehr man ihn atmet, und kostbarer wird, je mehr man ihn ausgibt?",
+    "options": [
+      "Zeit (die Jahre)",
+      "Gold",
+      "Diamanten",
+      "Seide"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Schone nur einen Zoll des Schattens der Sonne! Verflossene Zeit kann man mit Gold nicht zurückkaufen!",
+      "wrong": "Daneben! Das kostbare Ding, das, einmal vergangen, nie zurückkehrt!"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "Was leuchtet umso klarer, je dunkler es wird, und bleibt selbst im Sturm eine Zuflucht fürs Herz?",
+    "options": [
+      "Hoffnung (ein Traum)",
+      "Eine Lampe",
+      "Ein Ring",
+      "Eine Schatztruhe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Selbst in der tiefsten Dunkelheit genügt ein einziges Glimmen der Hoffnung, um weiterzuleben, Kkaebi!",
+      "wrong": "Daneben! Das helle Herz, das du in dir trägst, während du auf morgen wartest!"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "Welche Goblingabe wird mehr, wenn man sie teilt, und wärmt die ganze Welt, wenn man sie im Herzen trägt?",
+    "options": [
+      "Liebe und Zuneigung",
+      "Goldmünzen",
+      "Schätze",
+      "Ein Weinkelch"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Wir Goblins lieben am meisten die Menschen, die überfließen vor warmer Zuneigung, Kkaebi!",
+      "wrong": "Daneben! Das Ding, das das eigene Herz umso reicher macht, je mehr man es verschenkt!"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "Was ist die größte Tugend des Freundes, der dich aufrichtet, wenn du fällst, und dir den Rücken tätschelt, wenn du trauerst?",
+    "options": [
+      "Trost und Empathie",
+      "Reichtum",
+      "Belehrung",
+      "Schweigen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Genau! Ein wahrer Freund weiß, mit dir zu weinen und dir die Hand zu reichen!",
+      "wrong": "Daneben! Denke an das eine warme Wort für ein müdes Herz!"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "Am Morgen taufrisch, am Mittag dem Licht zugewandt — was ist das Sinnbild eines fleißigen Lebens?",
+    "options": [
+      "Die Sonnenblume",
+      "Der Kaktus",
+      "Die Kiefer",
+      "Die Lotosblume"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Die Sonnenblume — ungeteilte Treue, den Kopf nur der hellen Sonne zugewandt!",
+      "wrong": "Daneben! Die Blume, die mit goldenen Blütenblättern der Sonne nachjagt!"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "Welche Blume der Weisheit wächst im Schlamm auf und blüht doch unbefleckt und rein?",
+    "options": [
+      "Die Lotosblume",
+      "Die Chrysantheme",
+      "Die Pflaumenblüte",
+      "Die Narzisse"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Unberührt vom Schmutz! Der Lotus bewahrt sein reines Wesen mitten in den Versuchungen der Welt!",
+      "wrong": "Daneben! Denke an die Blume, die selbst im schlammigen Wasser ihre edle Anmut bewahrt!"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "Welcher Baum der Beständigkeit behält seine grünen Nadeln selbst im Wintersturm?",
+    "options": [
+      "Die Kiefer",
+      "Die Weide",
+      "Der Ahorn",
+      "Der Ginkgo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Der Geist von Kiefer und Bambus! Die grüne Kiefer steht fest durch tausend Jahre Wind und Regen!",
+      "wrong": "Daneben! Der Baum, der durch alle vier Jahreszeiten sein Grün bewahrt!"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "Welche Blume verkündet als erste den Frühling und öffnet rote Knospen selbst in kaltem Schnee?",
+    "options": [
+      "Pflaumenblüten im Schnee",
+      "Die Rose",
+      "Die Winde",
+      "Das Cosmea"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Die Blume der Gelehrten — die Pflaume, die die bittere Kälte überwindet und ihren zarten Duft verströmt!",
+      "wrong": "Daneben! Suche den Frühlingsboten, der mitten im Schnee blüht!"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "Welches Symbol der Rechtschaffenheit wächst hohl und doch gerade, fest an jedem Knoten?",
+    "options": [
+      "Der Bambus",
+      "Das Schilf",
+      "Die Sorghumhirse",
+      "Das Silbergras"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Die Weisheit, geradezu zu wachsen, indem man leer bleibt! Der Bambus der Vier Edlen, Kkaebi!",
+      "wrong": "Daneben! Der grüne Baum, der sich leert und doch nicht vom Wind bricht!"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "Welcher geheimnisvolle Schlüssel öffnet die Schatzkammer der Goblins und erschließt die wahre Weisheit des Lebens?",
+    "options": [
+      "Der goldene Goblingschlüssel (DOK-KEY)",
+      "Ein eiserner Schlüssel",
+      "Eine Steinaxt",
+      "Eine Schatzkarte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Wahaha! Der Schlüssel der Weisheit, den du jeden Tag sammelst — es ist DOK-KEY selbst!",
+      "wrong": "Daneben! Hast du den Namen unserer App vergessen, den goldenen Schlüssel, der Weisheit öffnet!"
+    },
+    "id": "rid_075"
   }
 ]

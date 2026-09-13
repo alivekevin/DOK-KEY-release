@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:dokkey_app/models/dokkey_models.dart';
 import 'package:dokkey_app/models/talisman_model.dart';
 import 'package:dokkey_app/providers/dokkey_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';

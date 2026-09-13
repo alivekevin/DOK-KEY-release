@@ -61,6 +61,42 @@
       ]
     },
     {
+      "id": "burnout",
+      "chip_title": "I feel so burnt out 🛋️",
+      "user_question": "Kkaebi, I think I'm totally burnt out. I have zero motivation and feel empty...",
+      "steps": [
+        "When an engine overheats, you must turn it off to cool down! Resting is part of the craft. Savor the art of doing absolutely nothing today!",
+        "Only those who ran with all their heart experience burnout. It is proof that you gave your absolute best without slacking off. Never blame yourself!",
+        "Even a goblin's wrists get sore if he swings his magic club every single day. Like today's '{card_name}' card, release all tension and let things flow effortlessly.",
+        "Do not be in a hurry. When winter trees shed all their leaves, they are not dying—they are gathering deep strength to bloom in spring. You are preparing your greatest bloom!",
+        "Final verdict: Cast aside all obligations for tonight. Treat yourself to your favorite snack, watch a cozy movie, and recharge. I'm right here guarding your peace!"
+      ]
+    },
+    {
+      "id": "career",
+      "chip_title": "Is this the right path? 🧭",
+      "user_question": "Kkaebi, I'm worried about my career and life direction. Am I on the right path?",
+      "steps": [
+        "Questioning your path is proof that your eyes are set on higher horizons! The moment you ponder, growth has already ignited.",
+        "Never force yourself into formulas set by others. In a thousand years, I've seen that those who walk the path of their true passion become the true titans.",
+        "Look closely at today's '{card_name}' card. Today's uncertainty is merely the springboard for your next leap—never a defeat.",
+        "When a choice feels difficult, ask yourself: 'What advice would the 10-year-future-me give to me right now?' Your true compass will shine.",
+        "Final verdict: Stop doubting and trust your boundless potential. The trail you blaze today will become a legendary path. Take that bold first step!"
+      ]
+    },
+    {
+      "id": "confidence",
+      "chip_title": "Struggling with comparison 🪞",
+      "user_question": "Kkaebi, I keep comparing myself to others and feel so inadequate...",
+      "steps": [
+        "Never compare someone else's public highlight reel with your private behind-the-scenes! In all creation, you are an irreplaceable masterpiece.",
+        "Even when a goblin club crafts gold, every ingot has its unique grain. Do not be intimidated by another's pace—cherish your own divine tempo.",
+        "Look at the radiance of today's '{card_name}' card. You are no replica of anyone else; you are a star shining with singular brilliance.",
+        "Far more vital than outside validation is your own gentle self-approval. Place a hand over your heart and say: 'I am worthy and remarkable.'",
+        "Final verdict: Walk out of the prison of external opinions. You are already blessed and guarded by the deepest magic of the universe!"
+      ]
+    },
+    {
       "id": "joke",
       "chip_title": "Can I touch your horns? 😈",
       "user_question": "Kkaebi, can I touch the cute little horns on your head?",
@@ -123,6 +159,42 @@
       "Even gatekeepers need rest,",
       "Even horn talk has seasons,",
       "Put the club down first,"
+    ],
+    "burnout": [
+      "Breathe deeply first,",
+      "Rest is sacred for weary souls,",
+      "A battery needing recharge,",
+      "It is okay to put it down,",
+      "Your shoulders carry heavy weight,",
+      "Welcome to the goblin sanctuary,",
+      "Time for pure, gentle rest,"
+    ],
+    "career": [
+      "Let us open the compass of destiny,",
+      "Standing at a meaningful crossroads,",
+      "Painting the canvas of tomorrow,",
+      "Trust the fire in your eyes,",
+      "Moments of doubt mark great turning points,",
+      "Here is ancient goblin wisdom for your journey,",
+      "A courageous question from a noble heart,"
+    ],
+    "confidence": [
+      "Let us polish the clear mirror,",
+      "Time to unearth your inner jewel,",
+      "Stepping free from others' gazes,",
+      "To the one and only soul like you,",
+      "Time for a warm self-embrace,",
+      "Through goblin eyes, you are magnificent,",
+      "Welcome to the sanctuary of self-worth,"
+    ],
+    "passcode": [
+      "Thinking about a new passcode?",
+      "Let's craft your secret number combination,",
+      "The golden key's sacred keypad,",
+      "Time to forge an unbreakable digital shield,",
+      "Fusing security with boundless good fortune,",
+      "Raising Dokkaebi's protective ward,",
+      "Picking a lucky and memorable passcode,"
     ]
   }
 }

@@ -56,17 +56,17 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
       child: Container(
         constraints: const BoxConstraints(maxWidth: 520, maxHeight: 680),
         decoration: BoxDecoration(
-          color: DokkeyTheme.cardDark,
+          color: const Color(0xFF0F141F), // 100% Solid Deep Navy
           borderRadius: BorderRadius.circular(24),
-          border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.6), width: 1.5),
+          border: Border.all(color: const Color(0xFFFFD54F), width: 1.5),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withValues(alpha: 0.7),
-              blurRadius: 28,
+              color: Colors.black.withValues(alpha: 0.85),
+              blurRadius: 30,
               offset: const Offset(0, 10),
             ),
             BoxShadow(
-              color: DokkeyTheme.gold.withValues(alpha: 0.15),
+              color: DokkeyTheme.gold.withValues(alpha: 0.2),
               blurRadius: 36,
               spreadRadius: 2,
             ),
@@ -77,10 +77,10 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
             // Header
             Container(
               padding: const EdgeInsets.fromLTRB(20, 18, 16, 12),
-              decoration: BoxDecoration(
-                color: DokkeyTheme.surfaceDark,
-                borderRadius: const BorderRadius.vertical(top: Radius.circular(23)),
-                border: Border(bottom: BorderSide(color: DokkeyTheme.borderDark)),
+              decoration: const BoxDecoration(
+                color: Color(0xFF161E2E), // Solid Dark Header
+                borderRadius: BorderRadius.vertical(top: Radius.circular(22.5)),
+                border: Border(bottom: BorderSide(color: Color(0xFF2A364E), width: 1.2)),
               ),
               child: Row(
                 children: [
@@ -105,6 +105,7 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                             fontWeight: FontWeight.bold,
                           ),
                         ),
+                        const SizedBox(height: 2),
                         Text(
                           _t(lang,
                             ko: '당신만의 수호 도깨비와 행운의 열쇠 이야기',
@@ -114,9 +115,10 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                             de: 'Das Geheimnis Ihres Schutzgeistes & der Glücksschlüssel',
                             hi: 'आपके रक्षक डोक्केबी और भाग्यशाली चाबियों का रहस्य',
                           ),
-                          style: TextStyle(
-                            color: DokkeyTheme.goldLight,
+                          style: const TextStyle(
+                            color: Color(0xFFFFD54F),
                             fontSize: 11.5,
+                            fontWeight: FontWeight.w600,
                           ),
                         ),
                       ],
@@ -132,13 +134,13 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
 
             // Tab Bar
             Container(
-              color: DokkeyTheme.surfaceDark,
+              color: const Color(0xFF161E2E),
               child: TabBar(
                 controller: _tabCtrl,
-                indicatorColor: DokkeyTheme.gold,
+                indicatorColor: const Color(0xFFFFD54F),
                 indicatorWeight: 3,
-                labelColor: DokkeyTheme.goldLight,
-                unselectedLabelColor: DokkeyTheme.textMuted,
+                labelColor: const Color(0xFFFFD54F),
+                unselectedLabelColor: const Color(0xFF90A4AE),
                 labelStyle: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5),
                 tabs: [
                   Tab(
@@ -169,41 +171,45 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
 
             // Tab View Body
             Expanded(
-              child: TabBarView(
-                controller: _tabCtrl,
-                children: [
-                  _buildLoreTab(context, lang),
-                  _buildHelpTab(context, lang, pricing),
-                ],
+              child: Container(
+                color: const Color(0xFF0F141F),
+                child: TabBarView(
+                  controller: _tabCtrl,
+                  children: [
+                    _buildLoreTab(context, lang),
+                    _buildHelpTab(context, lang, pricing),
+                  ],
+                ),
               ),
             ),
 
             // Footer Close Button
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-              decoration: BoxDecoration(
-                color: DokkeyTheme.surfaceDark,
-                borderRadius: const BorderRadius.vertical(bottom: Radius.circular(23)),
-                border: Border(top: BorderSide(color: DokkeyTheme.borderDark)),
+              decoration: const BoxDecoration(
+                color: Color(0xFF161E2E),
+                borderRadius: BorderRadius.vertical(bottom: Radius.circular(22.5)),
+                border: Border(top: BorderSide(color: Color(0xFF2A364E), width: 1.2)),
               ),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text(
-                    'DOK-KEY v4.9.5 · Dokkey Studio',
-                    style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
+                  const Text(
+                    'DOK-KEY v4.9.8 · Dokkey Studio',
+                    style: TextStyle(color: Color(0xFF90A4AE), fontSize: 11),
                   ),
                   ElevatedButton(
                     onPressed: () => Navigator.of(context).pop(),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: DokkeyTheme.gold,
+                      backgroundColor: const Color(0xFFFFD54F),
                       foregroundColor: Colors.black,
-                      padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
+                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 9),
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                      elevation: 4,
                     ),
                     child: Text(
                       _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
-                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+                      style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5),
                     ),
                   ),
                 ],
@@ -506,9 +512,16 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: DokkeyTheme.surfaceDark,
+        color: const Color(0xFF182234), // 100% Solid Dark Slate Card
         borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: color.withValues(alpha: 0.35)),
+        border: Border.all(color: color.withValues(alpha: 0.55), width: 1.3),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withValues(alpha: 0.35),
+            blurRadius: 8,
+            offset: const Offset(0, 3),
+          ),
+        ],
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -522,24 +535,40 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                   title,
                   style: TextStyle(
                     color: color,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 14.5,
+                    fontWeight: FontWeight.w900,
+                    fontSize: 15,
+                    letterSpacing: -0.2,
                   ),
                 ),
               ),
             ],
           ),
-          const SizedBox(height: 10),
-          Text(
-            content,
-            style: const TextStyle(
-              color: Color(0xFFD4DCED),
-              fontSize: 12.5,
-              height: 1.55,
-            ),
-          ),
+          const SizedBox(height: 12),
+          _buildFormattedText(content),
         ],
       ),
+    );
+  }
+
+  Widget _buildFormattedText(String text) {
+    final spans = <TextSpan>[];
+    final parts = text.split('**');
+    for (int i = 0; i < parts.length; i++) {
+      final isBold = i % 2 == 1;
+      spans.add(
+        TextSpan(
+          text: parts[i],
+          style: TextStyle(
+            color: isBold ? const Color(0xFFFFE082) : const Color(0xFFF1F5F9),
+            fontWeight: isBold ? FontWeight.w800 : FontWeight.w400,
+            fontSize: 13,
+            height: 1.6,
+          ),
+        ),
+      );
+    }
+    return RichText(
+      text: TextSpan(children: spans),
     );
   }
 

@@ -1,7 +1,7 @@
 [
   {
     "id": "tri_001",
-    "question": "물의 화학식은?",
+    "question": "물의 화학식은 무엇일까요?",
     "options": [
       "H₂O",
       "CO₂",
@@ -14,37 +14,37 @@
   },
   {
     "id": "tri_002",
-    "question": "지구에서 가장 큰 동물은?",
+    "question": "지구상에 현존하는 가장 거대한 동물은?",
     "options": [
+      "아프리카코끼리",
       "대왕고래",
-      "코끼리",
-      "기린",
+      "향유고래",
       "백상아리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "category": "nature",
     "reward_affection": 10
   },
   {
     "id": "tri_003",
-    "question": "빛의 속도는 약 얼마?",
+    "question": "빛이 진공에서 1초 동안 이동하는 거리는 약 얼마일까요?",
     "options": [
-      "초당 30만km",
-      "초당 3만km",
-      "초당 300km",
-      "초당 3km"
+      "약 3만 km",
+      "약 15만 km",
+      "약 30만 km",
+      "약 50만 km"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_004",
-    "question": "1년은 보통 며칠?",
+    "question": "태양력 1년은 지구가 태양을 한 바퀴 도는 데 걸리는 시간입니다. 보통 며칠일까요?",
     "options": [
       "365일",
       "360일",
-      "400일",
+      "366일",
       "300일"
     ],
     "answer_index": 0,
@@ -53,90 +53,90 @@
   },
   {
     "id": "tri_005",
-    "question": "심장은 몇 개의 방으로 되어 있을까?",
+    "question": "인간의 심장은 몇 개의 심방과 심실로 이루어져 있을까요?",
     "options": [
-      "4개",
-      "2개",
-      "3개",
-      "5개"
+      "2심방 1심실",
+      "2심방 2심실 (총 4개)",
+      "1심방 2심실",
+      "3심방 1심실"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_006",
-    "question": "태양계 행성은 모두 몇 개?",
+    "question": "태양계의 행성은 수성부터 해왕성까지 모두 몇 개일까요?",
     "options": [
+      "7개",
       "8개",
       "9개",
-      "7개",
       "10개"
     ],
-    "answer_index": 0,
-    "category": "science",
+    "answer_index": 1,
+    "category": "space",
     "reward_affection": 10
   },
   {
     "id": "tri_007",
-    "question": "가장 단단한 천연 물질은?",
+    "question": "자연계에 존재하는 물질 중 모스 굳기가 10으로 가장 단단한 광물은?",
     "options": [
-      "다이아몬드",
-      "강철",
-      "유리",
+      "석영",
+      "강옥",
+      "다이아몬드(금강석)",
       "티타늄"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_008",
-    "question": "식물의 광합성에 필요한 기체는?",
+    "question": "식물이 햇빛을 받아 영양분을 만드는 광합성에 필요한 기체는?",
     "options": [
-      "이산화탄소",
       "산소",
+      "이산화탄소",
       "질소",
       "수소"
     ],
-    "answer_index": 0,
-    "category": "science",
+    "answer_index": 1,
+    "category": "nature",
     "reward_affection": 10
   },
   {
     "id": "tri_009",
-    "question": "인체에서 가장 큰 기관은?",
+    "question": "인간의 몸에서 면적이 가장 넓고 무게가 가장 많이 나가는 기관은?",
     "options": [
-      "피부",
       "간",
       "폐",
-      "뇌"
+      "대장",
+      "피부"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_010",
-    "question": "9 × 9 = ?",
+    "question": "지구에서 달까지의 평균 거리는 약 얼마일까요?",
     "options": [
-      "81",
-      "72",
-      "63",
-      "90"
+      "약 3.8만 km",
+      "약 38만 km",
+      "약 380만 km",
+      "약 150만 km"
     ],
-    "answer_index": 0,
-    "category": "math",
+    "answer_index": 1,
+    "category": "space",
     "reward_affection": 10
   },
   {
     "id": "tri_011",
-    "question": "지구에서 달까지 평균 거리는?",
+    "question": "나침반의 N극이 항상 북쪽을 가리키는 이유는?",
     "options": [
-      "약 38만km",
-      "약 3.8만km",
-      "약 380만km",
-      "약 3,800km"
+      "지구 북극이 S극 성질의 자기장을 띠기 때문",
+      "북극에 거대한 자석 광산이 있어서",
+      "태양빛이 북쪽으로 모이기 때문",
+      "지구 자전축이 기울어져 있어서"
     ],
     "answer_index": 0,
     "category": "science",
@@ -144,119 +144,1224 @@
   },
   {
     "id": "tri_012",
-    "question": "나침반 바늘 N극이 가리키는 방향은?",
+    "question": "우리가 매일 먹는 소금의 주된 화학 성분 명칭은?",
     "options": [
-      "북쪽",
-      "남쪽",
-      "동쪽",
-      "서쪽"
+      "탄산칼슘",
+      "염화나트륨(NaCl)",
+      "황산마그네슘",
+      "수산화칼륨"
     ],
-    "answer_index": 0,
-    "category": "nature",
+    "answer_index": 1,
+    "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_013",
-    "question": "소금의 화학 성분은?",
+    "question": "비 온 뒤 햇빛이 물방울에 굴절·반사되어 생기는 무지개의 기본 색상은?",
     "options": [
-      "염화나트륨",
-      "탄산칼슘",
-      "산화철",
-      "포도당"
+      "5색",
+      "6색",
+      "7색",
+      "9색"
     ],
-    "answer_index": 0,
-    "category": "science",
+    "answer_index": 2,
+    "category": "nature",
     "reward_affection": 10
   },
   {
     "id": "tri_014",
-    "question": "무지개의 색은 모두 몇 가지?",
-    "options": [
-      "7가지",
-      "5가지",
-      "6가지",
-      "8가지"
-    ],
-    "answer_index": 0,
-    "category": "science",
-    "reward_affection": 10
-  },
-  {
-    "id": "tri_015",
-    "question": "육지에서 가장 빠른 동물은?",
+    "question": "육상에서 가장 빠른 순간 속도(시속 약 120km)를 내는 맹수는?",
     "options": [
       "치타",
+      "표범",
       "사자",
-      "말",
-      "영양"
+      "가젤"
     ],
     "answer_index": 0,
     "category": "nature",
     "reward_affection": 10
   },
   {
-    "id": "tri_016",
-    "question": "식물이 자라는 데 꼭 필요한 세 가지는?",
+    "id": "tri_015",
+    "question": "얼음이 액체인 물 위에 뜨는 과학적인 이유는 무엇일까요?",
     "options": [
-      "물·빛·공기",
-      "돌·모래·불",
-      "소금·설탕·얼음",
-      "철·구리·금"
+      "얼음의 밀도가 물보다 낮아서",
+      "얼음의 온도가 더 차가워서",
+      "얼음 속에 공기 방울이 많아서",
+      "얼음의 표면장력이 약해서"
     ],
     "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "성인 인체의 뼈는 모두 몇 개로 이루어져 있을까요?",
+    "options": [
+      "156개",
+      "206개",
+      "256개",
+      "306개"
+    ],
+    "answer_index": 1,
     "category": "science",
     "reward_affection": 10
   },
   {
     "id": "tri_017",
-    "question": "지구의 유일한 자연 위성은?",
+    "question": "태양계에서 가장 거대한 부피와 질량을 가진 행성은?",
     "options": [
-      "달",
-      "태양",
+      "토성",
+      "목성",
+      "해왕성",
+      "천왕성"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "공기 중에서 부피 비율이 약 78%로 가장 많이 차지하는 기체는?",
+    "options": [
+      "산소",
+      "이산화탄소",
+      "아르곤",
+      "질소"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "컴퓨터 2진법에서 정보를 나타내는 가장 작은 기본 단위는?",
+    "options": [
+      "비트(bit)",
+      "바이트(Byte)",
+      "워드(Word)",
+      "니블(Nibble)"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "소리가 공기 중에서 전파되는 속도(음속)는 약 초당 몇 미터일까요?",
+    "options": [
+      "초당 약 140m",
+      "초당 약 340m",
+      "초당 약 740m",
+      "초당 약 1,200m"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_021",
+    "question": "태양에서 가장 가까운 행성은 무엇일까요?",
+    "options": [
+      "수성",
+      "금성",
+      "지구",
+      "화성"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_022",
+    "question": "지구 대기권 중 오존층이 위치하여 자외선을 흡수해 주는 층은?",
+    "options": [
+      "대류권",
+      "성층권",
+      "중간권",
+      "열권"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_023",
+    "question": "스스로 빛을 내는 천체를 무엇이라고 부를까요?",
+    "options": [
+      "행성",
+      "위성",
+      "항성(별)",
+      "혜성"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_024",
+    "question": "지구에서 볼 때 가장 밝게 빛나는 행성으로 샛별이라고도 불리는 행성은?",
+    "options": [
+      "목성",
+      "금성",
       "화성",
-      "금성"
+      "토성"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_025",
+    "question": "화성의 표면이 붉게 보이는 주된 이유는 무엇일까요?",
+    "options": [
+      "용암이 끓어 넘쳐서",
+      "산화철(녹슨 철) 성분이 많아서",
+      "태양빛이 붉게 반사되어서",
+      "대기 중 산소가 풍부해서"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_026",
+    "question": "달의 인력과 태양의 인력 때문에 바닷물이 주기적으로 차오르고 빠지는 현상은?",
+    "options": [
+      "지진해일",
+      "조석(밀물과 썰물)",
+      "해류",
+      "엘니뇨"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_027",
+    "question": "지구 중심부에 존재하는 가장 뜨겁고 무거운 금속핵의 주성분은?",
+    "options": [
+      "알루미늄과 구리",
+      "철과 니켈",
+      "금과 은",
+      "마그네슘과 규소"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_028",
+    "question": "별들이 중력 붕괴를 일으켜 빛조차 빠져나오지 못할 정도로 밀도가 극대화된 천체는?",
+    "options": [
+      "백색왜성",
+      "블랙홀",
+      "중성자별",
+      "퀘이사"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_029",
+    "question": "우리 은하(Milky Way)의 전체적인 형태는 어떤 모양일까요?",
+    "options": [
+      "타원 은하",
+      "불규칙 은하",
+      "막대 나선 은하",
+      "원형 은하"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_030",
+    "question": "태양계 행성 중 가장 거대하고 뚜렷한 얼음과 암석 고리를 가진 행성은?",
+    "options": [
+      "목성",
+      "토성",
+      "천왕성",
+      "해왕성"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_031",
+    "question": "달이 지구를 공전하는 주기와 스스로 자전하는 주기가 같아서 생기는 현상은?",
+    "options": [
+      "달의 앞면만 지구에서 볼 수 있다",
+      "달의 위상이 변하지 않는다",
+      "월식이 매달 일어난다",
+      "달의 중력이 0이 된다"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_032",
+    "question": "지구 자전축은 수직선에 대해 약 몇 도 기울어져 있을까요?",
+    "options": [
+      "약 15.5도",
+      "약 23.5도",
+      "약 33.5도",
+      "약 45.0도"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_033",
+    "question": "태양 표면의 폭발로 인해 지구 극지방 하늘에 나타나는 신비로운 빛의 커튼은?",
+    "options": [
+      "오로라",
+      "신기루",
+      "무지개",
+      "노을"
     ],
     "answer_index": 0,
     "category": "nature",
     "reward_affection": 10
   },
   {
-    "id": "tri_018",
-    "question": "얼음이 물 위에 뜨는 이유는?",
+    "id": "tri_034",
+    "question": "지진의 진원지에서 발생하여 가장 먼저 관측소에 도착하는 지진파는?",
     "options": [
-      "밀도가 물보다 낮아서",
-      "무게가 가벼워서",
-      "크기가 커서",
-      "온도가 높아서"
+      "P파 (종파)",
+      "S파 (횡파)",
+      "L파 (표면파)",
+      "R파"
     ],
     "answer_index": 0,
     "category": "science",
     "reward_affection": 10
   },
   {
-    "id": "tri_019",
-    "question": "성인 인체의 뼈는 약 몇 개?",
+    "id": "tri_035",
+    "question": "바다 밑 화산 폭발이나 해저 지진으로 발생하는 거대한 파도는?",
     "options": [
-      "206개",
-      "106개",
-      "300개",
-      "156개"
+      "풍랑",
+      "쓰나미(지진해일)",
+      "너울",
+      "조류"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_036",
+    "question": "지구에서 가장 깊은 바다로 수심이 약 11,000m에 달하는 곳은?",
+    "options": [
+      "마리아나 해구",
+      "일본 해구",
+      "통가 해구",
+      "푸에르토리코 해구"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_037",
+    "question": "사계절의 변화가 생기는 가장 근본적인 원인은?",
+    "options": [
+      "지구와 태양 사이의 거리가 변해서",
+      "지구 자전축이 기울어진 채 태양을 공전해서",
+      "태양의 열 방출량이 계절마다 변해서",
+      "달의 인력이 달라져서"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_038",
+    "question": "태양계에서 가장 온도가 높은 행성으로 표면이 약 460℃에 달하는 곳은?",
+    "options": [
+      "수성",
+      "금성 (온실효과)",
+      "화성",
+      "목성"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_039",
+    "question": "지구 대기 중에서 산소가 차지하는 부피 비율은 약 얼마일까요?",
+    "options": [
+      "약 10%",
+      "약 21%",
+      "약 35%",
+      "약 50%"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_040",
+    "question": "화산 분출 시 지하 깊은 곳에서 암석이 녹아있는 고온의 액체 물질을 무엇이라 할까요?",
+    "options": [
+      "용암",
+      "마그마",
+      "화산재",
+      "현무암"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_041",
+    "question": "모든 물체가 서로 끌어당기는 힘을 가리키는 물리학 법칙은?",
+    "options": [
+      "만유인력(중력)",
+      "마찰력",
+      "원심력",
+      "전자기력"
     ],
     "answer_index": 0,
     "category": "science",
     "reward_affection": 10
   },
   {
-    "id": "tri_020",
-    "question": "12 × 12 = ?",
+    "id": "tri_042",
+    "question": "인간 혈액에서 산소를 온몸으로 운반해 주는 혈구 세포는?",
     "options": [
-      "144",
-      "124",
-      "132",
-      "154"
+      "백혈구",
+      "적혈구(헤모글로빈)",
+      "혈소판",
+      "혈장"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_043",
+    "question": "전하의 흐름을 나타내는 전류의 표준 단위(SI)는 무엇일까요?",
+    "options": [
+      "볼트(V)",
+      "암페어(A)",
+      "와트(W)",
+      "옴(Ω)"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_044",
+    "question": "순수한 물이 표준 대기압(1기압)에서 끓는 온도는 몇 도(℃)일까요?",
+    "options": [
+      "90℃",
+      "100℃",
+      "120℃",
+      "80℃"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_045",
+    "question": "신체에 상처가 났을 때 혈액을 응고시켜 피를 멎게 돕는 혈액 성분은?",
+    "options": [
+      "적혈구",
+      "혈소판",
+      "림프구",
+      "단핵구"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_046",
+    "question": "물질의 상태 변화 중 고체가 액체를 거치지 않고 바로 기체로 변하는 현상은?",
+    "options": [
+      "융해",
+      "기화",
+      "승화",
+      "응고"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_047",
+    "question": "원자핵을 구성하는 양성자와 중성자 주위를 궤도로 돌고 있는 음전하 입자는?",
+    "options": [
+      "전자",
+      "광자",
+      "양전자",
+      "쿼크"
     ],
     "answer_index": 0,
-    "category": "math",
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_048",
+    "question": "pH 수치에서 7보다 작은 용액의 성질은 무엇일까요?",
+    "options": [
+      "산성",
+      "염기성(알칼리성)",
+      "중성",
+      "무극성"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_049",
+    "question": "인체에서 해독 작용, 담즙 생성, 영양소 저장을 담당하는 가장 큰 장기는?",
+    "options": [
+      "위",
+      "간",
+      "신장(콩팥)",
+      "비장"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_050",
+    "question": "에너지는 생성되거나 소멸하지 않고 형태만 변한다는 물리학의 대원칙은?",
+    "options": [
+      "에너지 보존 법칙",
+      "관성의 법칙",
+      "작용 반작용 법칙",
+      "파스칼의 원리"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_051",
+    "question": "우주에서 가장 흔하고 가벼운 원소로 원자번호 1번인 물질은?",
+    "options": [
+      "헬륨",
+      "수소(H)",
+      "리튬",
+      "탄소"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_052",
+    "question": "인간의 정상 체온은 일반적으로 약 몇 도(℃) 내외일까요?",
+    "options": [
+      "약 35.0℃",
+      "약 36.5℃",
+      "약 38.0℃",
+      "약 39.5℃"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_053",
+    "question": "눈의 구조 중 빛을 굴절시켜 망막에 상이 맺히도록 돕는 렌즈 역할을 하는 부위는?",
+    "options": [
+      "수정체",
+      "홍채",
+      "각막",
+      "유리체"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_054",
+    "question": "물질이 산소와 빠르게 결합하며 열과 빛을 내는 화학 반응을 무엇이라 할까요?",
+    "options": [
+      "산화",
+      "연소",
+      "환원",
+      "중화"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_055",
+    "question": "인체에서 혈액 속 노폐물을 걸러내 소변으로 배출하는 정화 기관은?",
+    "options": [
+      "쓸개",
+      "신장(콩팥)",
+      "췌장",
+      "십이지장"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_056",
+    "question": "철(Fe)이 공기 중의 산소와 수분을 만나 붉게 녹스는 반응은?",
+    "options": [
+      "산화 반응",
+      "환원 반응",
+      "치환 반응",
+      "발효 반응"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_057",
+    "question": "물체가 외부에서 힘을 받지 않으면 원래의 운동 상태를 유지하려는 성질은?",
+    "options": [
+      "탄성",
+      "관성",
+      "마찰",
+      "점성"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_058",
+    "question": "전기 에너지를 사용하는 가전제품의 소비 전력을 나타내는 단위는?",
+    "options": [
+      "볼트(V)",
+      "와트(W)",
+      "헤르츠(Hz)",
+      "줄(J)"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_059",
+    "question": "인체의 유전 정보를 담고 있는 세포핵 속의 이중 나선 분자 구조체는?",
+    "options": [
+      "DNA",
+      "RNA",
+      "ATP",
+      "단백질"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_060",
+    "question": "자석의 같은 극끼리는 서로 밀어내고 다른 극끼리는 끌어당기는 힘은?",
+    "options": [
+      "자기력",
+      "원심력",
+      "부력",
+      "중력"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_061",
+    "question": "날 수 있는 유일한 포유류 동물은 무엇일까요?",
+    "options": [
+      "날다람쥐",
+      "박쥐",
+      "타조",
+      "펭귄"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_062",
+    "question": "지구상에서 가장 키가 큰 포유류 동물은?",
+    "options": [
+      "코끼리",
+      "기린",
+      "하마",
+      "낙타"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_063",
+    "question": "남극에 주로 서식하며 날지 못하지만 헤엄을 매우 잘 치는 조류는?",
+    "options": [
+      "갈매기",
+      "펭귄",
+      "알바트로스",
+      "펠리컨"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_064",
+    "question": "사막에서 물과 먹이 없이도 며칠을 버티며 등에 육봉을 가진 동물은?",
+    "options": [
+      "낙타",
+      "야크",
+      "라마",
+      "사막여우"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_065",
+    "question": "주변 환경의 색이나 빛에 따라 피부색을 자유자재로 바꾸는 파충류는?",
+    "options": [
+      "카멜레온",
+      "도마뱀붙이",
+      "이구아나",
+      "악어"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_066",
+    "question": "지구의 허파라고 불리며 전 세계 산소의 상당량을 생성하는 거대 열대우림은?",
+    "options": [
+      "아마존 우림",
+      "콩고 우림",
+      "시베리아 타이가",
+      "보르네오 우림"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_067",
+    "question": "곤충의 몸은 머리, 가슴, 배의 3부분으로 나뉩니다. 다리는 모두 몇 개일까요?",
+    "options": [
+      "4개",
+      "6개",
+      "8개",
+      "10개"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_068",
+    "question": "거미는 곤충일까요, 아닐까요? (거미의 다리 개수는 8개)",
+    "options": [
+      "곤충이 아니다 (절지동물 거미강)",
+      "곤충이다",
+      "연체동물이다",
+      "환형동물이다"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_069",
+    "question": "식물이 줄기와 잎을 통해 물을 수증기 상태로 공기 중에 배출하는 작용은?",
+    "options": [
+      "증산 작용",
+      "광합성",
+      "호흡 작용",
+      "삼투 작용"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_070",
+    "question": "바다에 살며 지능이 매우 높고 초음파로 서로 소통하는 대표적인 해양 포유류는?",
+    "options": [
+      "돌고래",
+      "상어",
+      "참치",
+      "가오리"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_071",
+    "question": "공룡이 약 6,600만 년 전 멸종하게 된 결정적 계기로 유력한 학설은?",
+    "options": [
+      "빙하기 도래",
+      "소행성(운석) 충돌",
+      "전염병 유행",
+      "산소 고갈"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_072",
+    "question": "지구 온난화를 일으키는 대표적인 온실가스 2가지는?",
+    "options": [
+      "이산화탄소와 메탄",
+      "산소와 질소",
+      "수소와 헬륨",
+      "아르곤과 네온"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_073",
+    "question": "올챙이가 자라서 개구리가 되는 것처럼 형태가 완전히 바뀌는 현상은?",
+    "options": [
+      "탈피",
+      "변태 (탈바꿈)",
+      "진화",
+      "분열"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_074",
+    "question": "대나무는 나무일까요, 풀일까요?",
+    "options": [
+      "여러해살이 화본과 풀(초본)",
+      "목본 나무",
+      "덩굴식물",
+      "선태식물"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_075",
+    "question": "바다에서 뼈가 연골(물렁뼈)로만 이루어진 연골어류의 대표 동물은?",
+    "options": [
+      "상어와 가오리",
+      "고등어와 꽁치",
+      "참돔과 넙치",
+      "연어와 송어"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_076",
+    "question": "세계에서 가장 큰 바다로 지구 표면적의 약 3분의 1을 차지하는 대양은?",
+    "options": [
+      "대서양",
+      "태평양",
+      "인도양",
+      "북극해"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_077",
+    "question": "꿀벌이 춤을 추며 동료들에게 알려주는 정보는 무엇일까요?",
+    "options": [
+      "먹이(꽃)가 있는 방향과 거리",
+      "적의 침입",
+      "여왕벌의 위치",
+      "날씨 예보"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_078",
+    "question": "자웅동체(암수한몸)로 비 온 뒤 땅 위로 기어 나와 흙을 기름지게 만드는 동물은?",
+    "options": [
+      "지렁이",
+      "지네",
+      "달팽이",
+      "개미"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_079",
+    "question": "북극곰의 털 밑에 있는 실제 피부색은 무슨 색일까요?",
+    "options": [
+      "흰색",
+      "검은색 (열 흡수용)",
+      "분홍색",
+      "회색"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_080",
+    "question": "물속에서 아가미로 호흡하다가 성체가 되면 허파와 피부로 호흡하는 동물군은?",
+    "options": [
+      "양서류",
+      "파충류",
+      "조류",
+      "포유류"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_081",
+    "question": "1바이트(Byte)는 모두 몇 개의 비트(Bit)로 구성될까요?",
+    "options": [
+      "4비트",
+      "8비트",
+      "16비트",
+      "32비트"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_082",
+    "question": "월드 와이드 웹(WWW)을 발명하여 인터넷 혁명을 연 영국의 과학자는?",
+    "options": [
+      "팀 버너스리",
+      "빌 게이츠",
+      "스티브 잡스",
+      "앨런 튜링"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_083",
+    "question": "조선 시대 세종대왕이 창제한 우리나라 고유의 문자 이름은?",
+    "options": [
+      "훈민정음(한글)",
+      "이두",
+      "향찰",
+      "구결"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_084",
+    "question": "세계에서 가장 높은 산으로 해발 8,848m에 달하는 히말라야 산맥의 봉우리는?",
+    "options": [
+      "K2",
+      "에베레스트산(초모룽마)",
+      "칸첸중가",
+      "마칼루"
+    ],
+    "answer_index": 1,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_085",
+    "question": "인공지능(AI)의 아버지로 불리며 튜링 테스트를 고안한 수학자는?",
+    "options": [
+      "앨런 튜링",
+      "존 폰 노이만",
+      "노버트 위너",
+      "클로드 섀넌"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_086",
+    "question": "조선 시대 과학자 장영실 등이 만든 세계 최초의 자동 물시계는?",
+    "options": [
+      "자격루",
+      "앙부일구",
+      "측우기",
+      "혼천의"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_087",
+    "question": "컴퓨터의 뇌 역할을 하며 연산과 제어를 담당하는 핵심 부품은?",
+    "options": [
+      "CPU (중앙처리장치)",
+      "RAM (주기억장치)",
+      "SSD (보조기억장치)",
+      "파워서플라이"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_088",
+    "question": "금속활자로 인쇄된 현존 세계 최고(最古)의 책으로 유네스코 세계기록유산인 것은?",
+    "options": [
+      "직지심체요절",
+      "구텐베르크 성서",
+      "팔만대장경",
+      "삼국유사"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_089",
+    "question": "스마트폰 화면에 손가락을 대었을 때 미세한 정전기 변화를 감지하는 터치 방식은?",
+    "options": [
+      "감압식",
+      "정전용량식(정전식)",
+      "초음파식",
+      "광학식"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_090",
+    "question": "신라 시대 삼국통일을 주도한 청소년 심신 수련 조직의 명칭은?",
+    "options": [
+      "화랑도",
+      "조의선인",
+      "싸울아비",
+      "별무반"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_091",
+    "question": "데이터를 분산 저장하여 위변조를 방지하는 분산 원장 기술은?",
+    "options": [
+      "블록체인",
+      "클라우드",
+      "빅데이터",
+      "가상화"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_092",
+    "question": "충무공 이순신 장군이 임진왜란 때 왜군을 격파하기 위해 고안한 철갑 전투선은?",
+    "options": [
+      "거북선(귀선)",
+      "판옥선",
+      "맹선",
+      "협선"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_093",
+    "question": "인터넷 통신 규약인 HTTP에서 보안 암호화(SSL/TLS)가 추가된 프로토콜은?",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_094",
+    "question": "고려 시대 몽골의 침략을 불심으로 막아내기 위해 목판 8만여 장에 새긴 경전은?",
+    "options": [
+      "팔만대장경(고려대장경)",
+      "직지",
+      "삼국사기",
+      "동국이상국집"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_095",
+    "question": "블루투스(Bluetooth) 기술 이름의 유래가 된 10세기 덴마크 왕은?",
+    "options": [
+      "하랄드 블라톤 (푸른 이빨)",
+      "크누트 대왕",
+      "에릭 로드브로크",
+      "구스타프"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_096",
+    "question": "조선 시대 정조 대왕이 건축한 계획도시이자 세계문화유산인 성곽은?",
+    "options": [
+      "수원 화성",
+      "남한산성",
+      "북한산성",
+      "진주성"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_097",
+    "question": "현대 컴퓨터 구조의 근간이 된 프로그램 내장 방식을 고안한 수학자는?",
+    "options": [
+      "존 폰 노이만",
+      "앨런 튜링",
+      "아이작 뉴턴",
+      "고트프리트 라이프니츠"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_098",
+    "question": "우리나라 전통 명절 중 음력 8월 15일로 햅쌀로 송편을 빚는 날은?",
+    "options": [
+      "추석(한가위)",
+      "설날",
+      "단오",
+      "정월대보름"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_099",
+    "question": "QR 코드에서 QR의 약자는 무엇을 의미할까요?",
+    "options": [
+      "Quick Response (빠른 응답)",
+      "Quality Record",
+      "Quantum Reader",
+      "Query Route"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_100",
+    "question": "조선 시대 허준이 편찬한 동양 의학의 집대성 백과사전은?",
+    "options": [
+      "동의보감",
+      "향약집성방",
+      "의방유취",
+      "본초강목"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_101",
+    "question": "위성 위치 확인 시스템으로 전 세계 위치를 실시간 측정하는 기술은?",
+    "options": [
+      "GPS",
+      "NFC",
+      "RFID",
+      "LTE"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_102",
+    "question": "한국의 대표적인 전통 민요로 유네스코 인류무형문화유산인 노래는?",
+    "options": [
+      "아리랑",
+      "도라지타령",
+      "밀양아리랑",
+      "군밤타령"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_103",
+    "question": "근거리 무선 통신 기술로 교통카드나 모바일 결제에 쓰이는 규격은?",
+    "options": [
+      "NFC",
+      "Wi-Fi",
+      "GPS",
+      "Zigbee"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_104",
+    "question": "신라 선덕여왕 때 세워진 동양에서 가장 오래된 천문관측대 유적은?",
+    "options": [
+      "첨성대",
+      "간의대",
+      "관천대",
+      "흠경각"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_105",
+    "question": "도깨비의 지혜를 담은 우리 DOK-KEY 앱이 전하는 핵심 가치는?",
+    "options": [
+      "인생의 명언·조언과 지혜의 깨달음",
+      "단순 게임 점수",
+      "랜덤 행운",
+      "단기 오락"
+    ],
+    "answer_index": 0,
+    "category": "culture",
     "reward_affection": 10
   }
 ]
