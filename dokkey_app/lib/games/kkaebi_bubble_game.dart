@@ -661,7 +661,7 @@ class _KkaebiBubbleGameState extends State<KkaebiBubbleGame>
     final hearts = List.generate(3, (i) => i < (model?.lives ?? 3) ? '❤️' : '🖤').join(' ');
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF0B101B),
       body: SafeArea(
         child: Column(
           children: [

@@ -387,13 +387,11 @@ class GameResultBar extends StatelessWidget {
         }
 
         return Container(
-          margin: const EdgeInsets.fromLTRB(12, 4, 12, 12),
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+          width: double.infinity,
+          margin: const EdgeInsets.symmetric(vertical: 6),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
           decoration: BoxDecoration(
-            gradient: const LinearGradient(
-              begin: Alignment.topCenter,
-              colors: [Color(0xFF222B38), Color(0xFF141923)],
-            ),
+            color: const Color(0xFF141923),
             borderRadius: BorderRadius.circular(18),
             border: Border.all(
               color: cleared ? const Color(0xFFFFD700) : const Color(0xFFFF5252),
@@ -401,7 +399,7 @@ class GameResultBar extends StatelessWidget {
             ),
             boxShadow: [
               BoxShadow(
-                color: (cleared ? const Color(0xFFFFD700) : const Color(0xFFFF5252)).withValues(alpha: 0.25),
+                color: (cleared ? const Color(0xFFFFD700) : const Color(0xFFFF5252)).withValues(alpha: 0.3),
                 blurRadius: 14,
                 spreadRadius: 1,
               ),
@@ -409,53 +407,85 @@ class GameResultBar extends StatelessWidget {
           ),
           child: Column(
             mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              // Header & Score Summary Row
+              // Tier 1: Header & Score Summary Row
               Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text(
-                    clearText,
-                    style: TextStyle(
-                      fontSize: 14.5,
-                      fontWeight: FontWeight.w900,
-                      color: cleared ? const Color(0xFFFFE66D) : const Color(0xFFFF5252),
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                    decoration: BoxDecoration(
-                      color: Colors.black38,
-                      borderRadius: BorderRadius.circular(8),
-                    ),
-                    child: Text(
-                      '$score pt',
-                      style: const TextStyle(
-                        color: Color(0xFFE2E8F0),
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
+                  Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Text(
+                        clearText,
+                        style: TextStyle(
+                          fontSize: 15,
+                          fontWeight: FontWeight.w900,
+                          color: cleared ? const Color(0xFFFFE66D) : const Color(0xFFFF5252),
+                        ),
                       ),
+                      const SizedBox(width: 8),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                        decoration: BoxDecoration(
+                          color: Colors.black54,
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.white24, width: 0.8),
+                        ),
+                        child: Text(
+                          '$score pt',
+                          style: const TextStyle(
+                            color: Color(0xFFE2E8F0),
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                  Text(
+                    isKo ? '최고: $best pt' : 'Best: $best pt',
+                    style: const TextStyle(
+                      color: Color(0xFFFFD700),
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
                     ),
                   ),
-                  const Spacer(),
-                  if (reward != null) ...[
-                    _RewardChip(icon: Icons.monetization_on_rounded, label: '+${reward.coins}'),
-                    const SizedBox(width: 4),
-                    _RewardChip(icon: Icons.favorite_rounded, label: '+${reward.affection}'),
-                    if (reward.keys > 0) ...[
-                      const SizedBox(width: 4),
-                      _RewardChip(icon: Icons.key_rounded, label: '+${reward.keys}'),
-                    ],
-                  ] else
-                    Text(
-                      isKo ? '최고: $best pt' : 'Best: $best pt',
-                      style: const TextStyle(color: Color(0xFFFFD700), fontSize: 11, fontWeight: FontWeight.bold),
-                    ),
                 ],
               ),
-              const SizedBox(height: 8),
 
-              // Action Buttons Row
+              // Tier 2: Rewards Chips Row (if rewarded)
+              if (reward != null) ...[
+                const SizedBox(height: 10),
+                Wrap(
+                  alignment: WrapAlignment.center,
+                  spacing: 6,
+                  runSpacing: 6,
+                  children: [
+                    _RewardChip(
+                      icon: Icons.monetization_on_rounded,
+                      label: isKo ? '+${reward.coins} 코인' : '+${reward.coins}',
+                    ),
+                    _RewardChip(
+                      icon: Icons.favorite_rounded,
+                      label: isKo ? '+${reward.affection} 친밀도' : '+${reward.affection}',
+                    ),
+                    if (reward.keys > 0)
+                      _RewardChip(
+                        icon: Icons.key_rounded,
+                        label: isKo ? '+${reward.keys} 열쇠' : '+${reward.keys} Key',
+                      ),
+                    if (reward.newRecord)
+                      _RewardChip(
+                        icon: Icons.emoji_events_rounded,
+                        label: isKo ? 'NEW 신기록!' : 'NEW Best!',
+                      ),
+                  ],
+                ),
+              ],
+              const SizedBox(height: 12),
+
+              // Tier 3: Action Buttons Row
               Row(
                 children: [
                   if (onChangeOption != null && changeOptionLabel != null) ...[
@@ -468,7 +498,7 @@ class GameResultBar extends StatelessWidget {
                           backgroundColor: const Color(0xFF2D2214),
                           foregroundColor: const Color(0xFFFFD54F),
                           side: const BorderSide(color: Color(0xFFFFD54F), width: 1.2),
-                          padding: const EdgeInsets.symmetric(vertical: 8),
+                          padding: const EdgeInsets.symmetric(vertical: 10),
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                         ),
                         label: Text(
@@ -488,7 +518,7 @@ class GameResultBar extends StatelessWidget {
                       style: ElevatedButton.styleFrom(
                         backgroundColor: const Color(0xFFFFD700),
                         foregroundColor: Colors.black,
-                        padding: const EdgeInsets.symmetric(vertical: 8),
+                        padding: const EdgeInsets.symmetric(vertical: 10),
                         elevation: 2,
                         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                       ),
@@ -508,7 +538,7 @@ class GameResultBar extends StatelessWidget {
                         backgroundColor: const Color(0xFF2D3748),
                         foregroundColor: Colors.white,
                         side: const BorderSide(color: Color(0xFF4A5568), width: 1),
-                        padding: const EdgeInsets.symmetric(vertical: 8),
+                        padding: const EdgeInsets.symmetric(vertical: 10),
                         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                       ),
                       label: Text(

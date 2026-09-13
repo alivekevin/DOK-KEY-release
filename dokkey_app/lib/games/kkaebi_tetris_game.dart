@@ -387,7 +387,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
     final isKo = context.watch<DokkeyProvider>().lang == 'ko';
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF0F141C),
       body: SafeArea(
         child: gameCanvas(
           overlayBuilder: () => Column(

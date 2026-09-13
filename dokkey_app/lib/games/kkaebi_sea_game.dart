@@ -332,7 +332,7 @@ class _KkaebiSeaGameState extends State<KkaebiSeaGame>
     final isKo = context.watch<DokkeyProvider>().lang == 'ko';
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF071426),
       body: SafeArea(
         child: Column(
           children: [

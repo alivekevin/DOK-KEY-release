@@ -908,27 +908,62 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
     required VoidCallback? onTap,
     bool highlight = false,
   }) {
-    return TextButton.icon(
-      onPressed: onTap,
-      icon: Icon(
-        icon,
-        size: 16,
-        color: onTap == null
-            ? Colors.white24
-            : (highlight ? Colors.amberAccent : DokkeyTheme.goldLight),
-      ),
-      label: Text(
-        label,
-        style: TextStyle(
-          color: onTap == null
-              ? Colors.white24
-              : (highlight ? Colors.amberAccent : DokkeyTheme.goldLight),
-          fontSize: 12,
-          fontWeight: highlight ? FontWeight.bold : FontWeight.normal,
+    final enabled = onTap != null;
+    Color bg;
+    Color fg;
+    Color border;
+
+    if (!enabled) {
+      bg = const Color(0xFF1E1710);
+      fg = Colors.white38;
+      border = const Color(0xFF3E2D1E);
+    } else if (highlight) {
+      bg = const Color(0xFF5D4017);
+      fg = const Color(0xFFFFE66D);
+      border = const Color(0xFFFFD700);
+    } else {
+      bg = const Color(0xFF332415);
+      fg = const Color(0xFFFFF9C4);
+      border = const Color(0xFFFFB300);
+    }
+
+    return InkWell(
+      onTap: onTap,
+      borderRadius: BorderRadius.circular(12),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+        decoration: BoxDecoration(
+          color: bg,
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: border, width: 1.3),
+          boxShadow: enabled && highlight
+              ? [
+                  BoxShadow(
+                    color: const Color(0xFFFFD700).withValues(alpha: 0.35),
+                    blurRadius: 6,
+                  ),
+                ]
+              : null,
         ),
-      ),
-      style: TextButton.styleFrom(
-        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(
+              icon,
+              size: 17,
+              color: fg,
+            ),
+            const SizedBox(width: 6),
+            Text(
+              label,
+              style: TextStyle(
+                color: fg,
+                fontSize: 13,
+                fontWeight: FontWeight.w800,
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }

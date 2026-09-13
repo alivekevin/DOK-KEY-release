@@ -573,7 +573,7 @@ class _KkaebiBreakoutGameState extends State<KkaebiBreakoutGame>
     final hearts = List.generate(3, (i) => i < (model?.lives ?? 3) ? '❤️' : '🖤').join(' ');
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF0D1117),
       body: SafeArea(
         child: Column(
           children: [

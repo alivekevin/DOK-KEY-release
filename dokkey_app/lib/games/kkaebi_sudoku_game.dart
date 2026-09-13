@@ -204,7 +204,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
   }
 
   void _switchDifficulty(int size) {
-    if (_finished) return;
+    // 완성 후 재시작/난이도 변경도 허용 — _startNewGame이 상태를 초기화한다
     setState(() {
       _startNewGame(size);
     });
@@ -284,7 +284,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
   void onPaint(Canvas canvas, Size size) {
     canvas.drawRect(
       Offset.zero & size,
-      Paint()..color = DokkeyTheme.bgDark,
+      Paint()..color = const Color(0xFF101216),
     );
   }
 
@@ -293,17 +293,17 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     final isKo = context.watch<DokkeyProvider>().lang == 'ko';
     final screenWidth = MediaQuery.of(context).size.width;
 
-    // 모바일 가로폭에 맞춰 동적 셀 크기 계산 (완벽 중앙 정렬)
-    final maxBoardWidth = min(screenWidth - 24, 380.0);
+    // 📐 통일 콘텐츠 폭: 보드·결과 바·안내 카드·키패드가 모두 동일 폭으로 정렬
+    final contentWidth = min(screenWidth - 32, 396.0);
     const boardPadding = 10.0;
-    final gridWidth = maxBoardWidth - (boardPadding * 2);
+    final gridWidth = contentWidth - (boardPadding * 2);
     final cellSize = (gridWidth / puzzle.size).floorToDouble();
-    final actualBoardInnerWidth = cellSize * puzzle.size;
+    final actualBoardWidth = (cellSize * puzzle.size) + (boardPadding * 2);
 
     final selectedVal = (selectedX >= 0 && selectedY >= 0) ? puzzle.board[selectedY][selectedX] : 0;
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF101216),
       body: gameCanvas(
         overlayBuilder: () => SafeArea(
           child: Column(
@@ -325,6 +325,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                     children: [
                       // 1. 난이도 선택 탭 (4x4 초급, 6x6 중급, 9x9 고급)
                       Container(
+                        width: actualBoardWidth,
                         padding: const EdgeInsets.all(4),
                         decoration: BoxDecoration(
                           color: const Color(0xFF1B2230),
@@ -381,10 +382,11 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                       Center(
                         child: AnimatedContainer(
                           duration: const Duration(milliseconds: 350),
-                          width: actualBoardInnerWidth + (boardPadding * 2),
+                          width: actualBoardWidth,
+                          alignment: Alignment.center,
                           padding: const EdgeInsets.all(boardPadding),
                           decoration: BoxDecoration(
-                            color: const Color(0xFF0C101A),
+                            color: const Color(0xFF1E170E),
                             borderRadius: BorderRadius.circular(16),
                             border: Border.all(
                               color: _finished ? const Color(0xFFFFD700) : const Color(0xFFD4AF37),
@@ -399,160 +401,180 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                               ),
                             ],
                           ),
-                          child: Column(
-                            mainAxisSize: MainAxisSize.min,
-                            children: List.generate(puzzle.size, (y) {
-                              return Row(
-                                mainAxisSize: MainAxisSize.min,
-                                children: List.generate(puzzle.size, (x) {
-                                  final given = puzzle.given[y][x];
-                                  final value = puzzle.board[y][x];
-                                  final conflict = puzzle.isConflict(x, y);
-                                  final selected = selectedX == x && selectedY == y;
-                                  final isSameNumber = value != 0 && value == selectedVal;
-                                  final isRelated = selectedX == x || selectedY == y ||
-                                      ((x ~/ puzzle.boxW == selectedX ~/ puzzle.boxW) && (y ~/ puzzle.boxH == selectedY ~/ puzzle.boxH));
+                          child: ClipRRect(
+                            borderRadius: BorderRadius.circular(10),
+                            child: Column(
+                              mainAxisSize: MainAxisSize.min,
+                              children: List.generate(puzzle.size, (y) {
+                                return Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: List.generate(puzzle.size, (x) {
+                                    final given = puzzle.given[y][x];
+                                    final value = puzzle.board[y][x];
+                                    final conflict = puzzle.isConflict(x, y);
+                                    final selected = selectedX == x && selectedY == y;
+                                    final isSameNumber = value != 0 && value == selectedVal;
+                                    final isRelated = selectedX == x || selectedY == y ||
+                                        ((x ~/ puzzle.boxW == selectedX ~/ puzzle.boxW) && (y ~/ puzzle.boxH == selectedY ~/ puzzle.boxH));
 
-                                  final boldRight =
-                                      (x + 1) % puzzle.boxW == 0 && x != puzzle.size - 1;
-                                  final boldBottom =
-                                      (y + 1) % puzzle.boxH == 0 && y != puzzle.size - 1;
+                                    final isLastCol = x == puzzle.size - 1;
+                                    final isLastRow = y == puzzle.size - 1;
+                                    final boldRight = (x + 1) % puzzle.boxW == 0 && !isLastCol;
+                                    final boldBottom = (y + 1) % puzzle.boxH == 0 && !isLastRow;
 
-                                  Color cellBg;
-                                  if (conflict) {
-                                    cellBg = const Color(0xFF7F1D1D).withValues(alpha: 0.65);
-                                  } else if (selected) {
-                                    cellBg = const Color(0xFFFFD700).withValues(alpha: 0.35);
-                                  } else if (isSameNumber) {
-                                    cellBg = const Color(0xFF1E2D4A);
-                                  } else if (isRelated && selectedX >= 0) {
-                                    cellBg = const Color(0xFF121927);
-                                  } else {
-                                    cellBg = const Color(0xFF090D16);
-                                  }
+                                    Color cellBg;
+                                    if (conflict) {
+                                      cellBg = const Color(0xFF7F1D1D).withValues(alpha: 0.75);
+                                    } else if (selected) {
+                                      cellBg = const Color(0xFFB45309).withValues(alpha: 0.65);
+                                    } else if (isSameNumber) {
+                                      cellBg = const Color(0xFF5D4037).withValues(alpha: 0.75);
+                                    } else if (isRelated && selectedX >= 0) {
+                                      cellBg = const Color(0xFF261D13);
+                                    } else {
+                                      cellBg = given ? const Color(0xFF2B2114) : const Color(0xFF3B2C19);
+                                    }
 
-                                  Color numColor;
-                                  if (conflict) {
-                                    numColor = const Color(0xFFFF453A);
-                                  } else if (given) {
-                                    numColor = Colors.white; // 순백색 고대비
-                                  } else {
-                                    numColor = const Color(0xFFFFD54F); // 유저 입력: 선명한 비비드 골드
-                                  }
+                                    Color numColor;
+                                    if (conflict) {
+                                      numColor = const Color(0xFFFF453A);
+                                    } else if (given) {
+                                      numColor = Colors.amber.shade200; // 고대비 부드러운 골드 크림 (마방진 기본 제시 번호와 동일)
+                                    } else {
+                                      numColor = const Color(0xFFFFF9C4); // 사용자 입력: 최고 시인성 밝은 크림 화이트
+                                    }
 
-                                  return GestureDetector(
-                                    onTap: () => setState(() {
-                                      selectedX = x;
-                                      selectedY = y;
-                                    }),
-                                    child: Container(
-                                      width: cellSize,
-                                      height: cellSize,
-                                      decoration: BoxDecoration(
-                                        color: cellBg,
-                                        border: Border(
-                                          right: BorderSide(
-                                            color: boldRight
-                                                ? const Color(0xFFFFD700)
-                                                : const Color(0xFF283244),
-                                            width: boldRight ? 2.2 : 0.8,
-                                          ),
-                                          bottom: BorderSide(
-                                            color: boldBottom
-                                                ? const Color(0xFFFFD700)
-                                                : const Color(0xFF283244),
-                                            width: boldBottom ? 2.2 : 0.8,
+                                    return GestureDetector(
+                                      onTap: () => setState(() {
+                                        selectedX = x;
+                                        selectedY = y;
+                                      }),
+                                      child: Container(
+                                        width: cellSize,
+                                        height: cellSize,
+                                        decoration: BoxDecoration(
+                                          color: cellBg,
+                                          border: Border(
+                                            right: isLastCol
+                                                ? BorderSide.none
+                                                : BorderSide(
+                                                    color: boldRight
+                                                        ? const Color(0xFFFFD700)
+                                                        : const Color(0xFF5D4037),
+                                                    width: boldRight ? 2.2 : 0.8,
+                                                  ),
+                                            bottom: isLastRow
+                                                ? BorderSide.none
+                                                : BorderSide(
+                                                    color: boldBottom
+                                                        ? const Color(0xFFFFD700)
+                                                        : const Color(0xFF5D4037),
+                                                    width: boldBottom ? 2.2 : 0.8,
+                                                  ),
                                           ),
                                         ),
-                                      ),
-                                      child: Center(
-                                        child: value != 0
-                                            ? Text(
-                                                '$value',
-                                                style: TextStyle(
-                                                  fontSize: currentSize == 4
-                                                      ? 28
-                                                      : (currentSize == 6 ? 22 : 16.5),
-                                                  fontWeight: given
-                                                      ? FontWeight.w900
-                                                      : FontWeight.w800,
-                                                  color: numColor,
-                                                  shadows: [
-                                                    if (given)
-                                                      const Shadow(
-                                                        color: Colors.black,
-                                                        offset: Offset(0, 1),
-                                                        blurRadius: 2,
+                                        child: Center(
+                                          child: value != 0
+                                              ? Text(
+                                                  '$value',
+                                                  style: TextStyle(
+                                                    fontSize: currentSize == 4
+                                                        ? 28
+                                                        : (currentSize == 6 ? 22 : 16.5),
+                                                    fontWeight: given
+                                                        ? FontWeight.w900
+                                                        : FontWeight.w900,
+                                                    color: numColor,
+                                                    shadows: [
+                                                      if (given)
+                                                        const Shadow(
+                                                          color: Colors.black,
+                                                          offset: Offset(0, 1),
+                                                          blurRadius: 4,
+                                                        ),
+                                                      if (!given)
+                                                        const Shadow(
+                                                          color: Color(0xFFFFB300),
+                                                          blurRadius: 6,
+                                                        ),
+                                                    ],
+                                                  ),
+                                                )
+                                              : (notes[y][x].isNotEmpty
+                                                  ? Padding(
+                                                      padding: const EdgeInsets.all(2),
+                                                      child: Wrap(
+                                                        alignment: WrapAlignment.center,
+                                                        spacing: 2,
+                                                        children: (notes[y][x].toList()..sort())
+                                                            .map((n) => Text(
+                                                                  '$n',
+                                                                  style: TextStyle(
+                                                                    fontSize: currentSize == 4
+                                                                        ? 12
+                                                                        : (currentSize == 6 ? 10 : 8),
+                                                                    fontWeight: FontWeight.bold,
+                                                                    color: const Color(0xFF38BDF8),
+                                                                  ),
+                                                                ))
+                                                            .toList(),
                                                       ),
-                                                    if (!given)
-                                                      Shadow(
-                                                        color: const Color(0xFFFFD54F).withValues(alpha: 0.5),
-                                                        blurRadius: 4,
-                                                      ),
-                                                  ],
-                                                ),
-                                              )
-                                            : (notes[y][x].isNotEmpty
-                                                ? Padding(
-                                                    padding: const EdgeInsets.all(2),
-                                                    child: Wrap(
-                                                      alignment: WrapAlignment.center,
-                                                      spacing: 2,
-                                                      children: (notes[y][x].toList()..sort())
-                                                          .map((n) => Text(
-                                                                '$n',
-                                                                style: TextStyle(
-                                                                  fontSize: currentSize == 4
-                                                                      ? 12
-                                                                      : (currentSize == 6 ? 10 : 8),
-                                                                  fontWeight: FontWeight.bold,
-                                                                  color: const Color(0xFF38BDF8),
-                                                                ),
-                                                              ))
-                                                          .toList(),
-                                                    ),
-                                                  )
-                                                : null),
+                                                    )
+                                                  : null),
+                                        ),
                                       ),
-                                    ),
-                                  );
-                                }),
-                              );
-                            }),
+                                    );
+                                  }),
+                                );
+                              }),
+                            ),
                           ),
                         ),
                       ),
                       const SizedBox(height: 18),
 
-                      // 4. 완료 시 비차단 인라인 결과 바 or 숫자 패드 및 액션 버튼
+                      // 4. 완료 시 완성 축하 카드 + 결과 바 / 미완료 시 숫자 패드 및 액션 버튼
                       AnimatedSwitcher(
                         duration: const Duration(milliseconds: 350),
                         child: _finished
-                            ? GameResultBar(
-                                key: const ValueKey('sudoku_result_bar'),
-                                gameId: KkaebiSudokuGame.gameId,
-                                title: currentSize == 4
-                                    ? (isKo ? '스도쿠 4×4 완성!' : 'Sudoku 4x4 Cleared!')
-                                    : (currentSize == 6
-                                        ? (isKo ? '스도쿠 6×6 완성!' : 'Sudoku 6x6 Cleared!')
-                                        : (isKo ? '스도쿠 9×9 완성!' : 'Sudoku 9x9 Cleared!')),
-                                score: _score,
-                                best: _score,
-                                cleared: true,
-                                onChangeOption: () {
-                                  final nextSize = currentSize == 4 ? 6 : (currentSize == 6 ? 9 : 4);
-                                  _switchDifficulty(nextSize);
-                                },
-                                changeOptionLabel: isKo ? '다른 난이도' : 'Difficulty',
-                                changeOptionIcon: Icons.tune_rounded,
-                                onRetry: () => _switchDifficulty(currentSize),
-                                onExit: () => Navigator.of(context).pop(),
+                            ? Column(
+                                key: const ValueKey('sudoku_result'),
+                                children: [
+                                  SizedBox(
+                                    width: actualBoardWidth,
+                                    child: _buildClearCard(isKo),
+                                  ),
+                                  const SizedBox(height: 10),
+                                  SizedBox(
+                                    width: actualBoardWidth,
+                                    child: GameResultBar(
+                                      key: const ValueKey('sudoku_result_bar'),
+                                      gameId: KkaebiSudokuGame.gameId,
+                                      title: currentSize == 4
+                                          ? (isKo ? '스도쿠 4×4 완성!' : 'Sudoku 4x4 Cleared!')
+                                          : (currentSize == 6
+                                              ? (isKo ? '스도쿠 6×6 완성!' : 'Sudoku 6x6 Cleared!')
+                                              : (isKo ? '스도쿠 9×9 완성!' : 'Sudoku 9x9 Cleared!')),
+                                      score: _score,
+                                      best: _score,
+                                      cleared: true,
+                                      onChangeOption: () {
+                                        final nextSize = currentSize == 4 ? 6 : (currentSize == 6 ? 9 : 4);
+                                        _switchDifficulty(nextSize);
+                                      },
+                                      changeOptionLabel: isKo ? '다른 난이도' : 'Difficulty',
+                                      changeOptionIcon: Icons.tune_rounded,
+                                      onRetry: () => _switchDifficulty(currentSize),
+                                      onExit: () => Navigator.of(context).pop(),
+                                    ),
+                                  ),
+                                ],
                               )
                             : Column(
                                 key: const ValueKey('sudoku_controls'),
                                 children: [
                                   // 숫자 패드 (선명한 골드 버튼)
-                                  _buildNumberKeypad(screenWidth),
+                                  _buildNumberKeypad(actualBoardWidth),
                                   const SizedBox(height: 16),
                                   // 하단 액션 버튼 그룹 (메모, 힌트, 지우기)
                                   Row(
@@ -641,6 +663,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                       const SizedBox(height: 20),
                       // 6. 📜 스도쿠 규칙 및 클리어 안내 카드
                       Container(
+                        width: actualBoardWidth,
                         padding: const EdgeInsets.all(16),
                         decoration: BoxDecoration(
                           color: const Color(0xFF141A24),
@@ -691,6 +714,99 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     );
   }
 
+  /// 🏆 완성 축하 카드 — 게임판과 동일 폭의 골드 그라데이션 카드 (점수/시간/실수 3칸 통계)
+  Widget _buildClearCard(bool isKo) {
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 20),
+      decoration: BoxDecoration(
+        gradient: const LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [Color(0xFF2B2114), Color(0xFF14201B)],
+        ),
+        borderRadius: BorderRadius.circular(20),
+        border: Border.all(color: const Color(0xFFFFD700), width: 2),
+        boxShadow: [
+          BoxShadow(
+            color: const Color(0xFFFFD700).withValues(alpha: 0.35),
+            blurRadius: 24,
+            spreadRadius: 1,
+          ),
+        ],
+      ),
+      child: Column(
+        children: [
+          const Text('🏆', style: TextStyle(fontSize: 44)),
+          const SizedBox(height: 6),
+          Text(
+            isKo ? '스도쿠 $currentSize×$currentSize 완성!' : 'Sudoku $currentSize×$currentSize Cleared!',
+            textAlign: TextAlign.center,
+            style: const TextStyle(
+              fontSize: 20,
+              fontWeight: FontWeight.w900,
+              color: Color(0xFFFFE66D),
+              shadows: [Shadow(color: Colors.black54, offset: Offset(0, 2), blurRadius: 6)],
+            ),
+          ),
+          const SizedBox(height: 14),
+          Row(
+            children: [
+              _buildClearStat(
+                isKo ? '점수' : 'Score',
+                '$_score',
+                Icons.stars_rounded,
+              ),
+              _buildClearStat(
+                isKo ? '시간' : 'Time',
+                isKo ? '$_elapsed초' : '${_elapsed}s',
+                Icons.timer_rounded,
+              ),
+              _buildClearStat(
+                isKo ? '실수' : 'Mistakes',
+                '$_mistakes',
+                Icons.close_rounded,
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildClearStat(String label, String value, IconData icon) {
+    return Expanded(
+      child: Container(
+        margin: const EdgeInsets.symmetric(horizontal: 4),
+        padding: const EdgeInsets.symmetric(vertical: 10),
+        decoration: BoxDecoration(
+          color: Colors.black38,
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.35), width: 1),
+        ),
+        child: Column(
+          children: [
+            Icon(icon, size: 16, color: const Color(0xFFFFD700)),
+            const SizedBox(height: 4),
+            Text(
+              value,
+              style: const TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.w900,
+                color: Color(0xFFFFF9C4),
+              ),
+            ),
+            const SizedBox(height: 2),
+            Text(
+              label,
+              style: const TextStyle(fontSize: 10.5, color: Color(0xFFB8C4D9)),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
   Widget _buildDifficultyTab({required int size, required String label}) {
     final isSelected = currentSize == size;
     return Expanded(
@@ -722,8 +838,8 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     );
   }
 
-  Widget _buildNumberKeypad(double screenWidth) {
-    final availableWidth = min(screenWidth - 32, 380.0);
+  Widget _buildNumberKeypad(double contentWidth) {
+    final availableWidth = contentWidth;
 
     if (currentSize == 9) {
       // 9x9의 경우 2줄(1~5, 6~9)로 분할하여 모바일 터치에 충분한 대형 크기(54px+) 확보
@@ -812,13 +928,27 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
           ),
         ),
       ),
-      child: Text(
-        '$v',
-        style: TextStyle(
-          fontSize: fontSize,
-          fontWeight: FontWeight.w900,
-          color: isDone ? Colors.white24 : const Color(0xFFFFE66D),
-        ),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Text(
+            '$v',
+            style: TextStyle(
+              fontSize: fontSize,
+              fontWeight: FontWeight.w900,
+              color: isDone ? Colors.white24 : const Color(0xFFFFE66D),
+            ),
+          ),
+          const SizedBox(height: 1),
+          Text(
+            isDone ? '✔' : '×${max(0, puzzle.size - count)}',
+            style: TextStyle(
+              fontSize: 9.5,
+              fontWeight: FontWeight.bold,
+              color: isDone ? const Color(0xFF00E676) : const Color(0xFF8FA3C8),
+            ),
+          ),
+        ],
       ),
     );
   }

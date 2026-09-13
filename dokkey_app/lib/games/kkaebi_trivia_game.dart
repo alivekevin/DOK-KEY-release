@@ -178,7 +178,7 @@ class _KkaebiTriviaGameState extends State<KkaebiTriviaGame>
     final heartsStr = List.generate(3, (i) => i < _lives ? '❤️' : '🖤').join(' ');
 
     return Scaffold(
-      backgroundColor: DokkeyTheme.bgDark,
+      backgroundColor: const Color(0xFF10141E),
       body: gameCanvas(
         overlayBuilder: () => SafeArea(
           child: _loading

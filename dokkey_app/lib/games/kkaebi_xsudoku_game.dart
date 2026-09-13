@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../core/sound_service.dart';
+import '../core/theme.dart';
 import '../providers/dokkey_provider.dart';
 import 'core/game_shell.dart';
 
@@ -300,11 +301,11 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                             final isSel = model.selectedRow == r && model.selectedCol == c;
                             final isDiag = model.isDiagonal(r, c);
 
-                            Color cellBg = const Color(0xFF090D16);
+                            Color cellBg = isInit ? const Color(0xFF2B2114) : const Color(0xFF3B2C19);
                             if (isSel) {
-                              cellBg = const Color(0xFF00E5FF).withValues(alpha: 0.35);
+                              cellBg = DokkeyTheme.gold.withValues(alpha: 0.38);
                             } else if (isDiag) {
-                              cellBg = const Color(0xFF00E5FF).withValues(alpha: 0.16);
+                              cellBg = const Color(0xFF4E371F);
                             }
 
                             final rightBorder = (c + 1) % model.blockSize == 0 && c != model.size - 1;
@@ -317,12 +318,12 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                                   color: cellBg,
                                   border: Border(
                                     right: BorderSide(
-                                      color: rightBorder ? const Color(0xFF00E5FF).withValues(alpha: 0.8) : const Color(0xFF283244),
-                                      width: rightBorder ? 2.0 : 0.6,
+                                      color: rightBorder ? const Color(0xFFFFD700) : const Color(0xFF5D4037),
+                                      width: rightBorder ? 2.0 : 0.8,
                                     ),
                                     bottom: BorderSide(
-                                      color: bottomBorder ? const Color(0xFF00E5FF).withValues(alpha: 0.8) : const Color(0xFF283244),
-                                      width: bottomBorder ? 2.0 : 0.6,
+                                      color: bottomBorder ? const Color(0xFFFFD700) : const Color(0xFF5D4037),
+                                      width: bottomBorder ? 2.0 : 0.8,
                                     ),
                                   ),
                                 ),
@@ -330,20 +331,20 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                                   child: Text(
                                     val > 0 ? '$val' : '',
                                     style: TextStyle(
-                                      color: isInit ? Colors.white : const Color(0xFFFFD54F),
+                                      color: isInit ? Colors.amber.shade200 : const Color(0xFFFFF9C4),
                                       fontSize: model.size == 4 ? 26 : 17,
-                                      fontWeight: isInit ? FontWeight.w900 : FontWeight.w800,
+                                      fontWeight: isInit ? FontWeight.w900 : FontWeight.w900,
                                       shadows: [
                                         if (isInit)
                                           const Shadow(
                                             color: Colors.black,
                                             offset: Offset(0, 1),
-                                            blurRadius: 2,
+                                            blurRadius: 4,
                                           ),
                                         if (!isInit && val > 0)
-                                          Shadow(
-                                            color: const Color(0xFFFFD54F).withValues(alpha: 0.5),
-                                            blurRadius: 4,
+                                          const Shadow(
+                                            color: Color(0xFFFFB300),
+                                            blurRadius: 6,
                                           ),
                                       ],
                                     ),
