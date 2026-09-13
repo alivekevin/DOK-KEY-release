@@ -109,6 +109,20 @@ void main() {
   });
 
   group('토크나이저 엣지 케이스', () {
+    test('[ko] "조상", "용", "용꿈", "조상님" 단일 및 복합 키워드 매칭', () async {
+      final symbols = await loadSymbols('ko');
+      final ancestor = symbols.firstWhere((s) => s.id == 'ancestor');
+      final dragon = symbols.firstWhere((s) => s.id == 'dragon');
+
+      expect(ancestor.matchesQuery('조상'), isTrue, reason: '"조상" 단일어 매칭');
+      expect(ancestor.matchesQuery('조상님'), isTrue, reason: '"조상님" 단일어 매칭');
+      expect(ancestor.matchesQuery('조상꿈'), isTrue, reason: '"조상꿈" 복합어 매칭');
+
+      expect(dragon.matchesQuery('용'), isTrue, reason: '"용" 단일어 매칭');
+      expect(dragon.matchesQuery('용꿈'), isTrue, reason: '"용꿈" 복합어 매칭');
+      expect(dragon.matchesQuery('용이 나오는 꿈'), isTrue, reason: '"용이 나오는 꿈" 자연어 매칭');
+    });
+
     test('[ko] 토큰 분리 정밀 매칭 — 전체 문장에 키워드가 없어도 토큰으로 발견', () async {
       final symbols = await loadSymbols('ko');
       // "조상님" 키워드는 있으나 문장 전체는 키워드와 완전히 다름

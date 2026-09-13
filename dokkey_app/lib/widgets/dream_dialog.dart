@@ -40,26 +40,102 @@ class _DreamDialogState extends State<DreamDialog> {
     return KkaebiFaceMode.wink;
   }
 
-  String _fortuneLine(bool isKo, bool isJa, DreamSymbol s) {
+  String _fortuneLine(String lang, DreamSymbol s) {
     if (s.isAuspicious) {
-      return isKo
-          ? '대박 꿈이다깨비! 오늘 기운을 놓치지 마라!'
-          : (isJa ? '大当たりの夢だケビ！今日の気運を逃すな！' : 'A jackpot dream! Ride today\'s energy!');
+      switch (lang) {
+        case 'ko':
+          return '대박 꿈이다깨비! 오늘 기운을 놓치지 마라!';
+        case 'ja':
+          return '大当たりの夢だケビ！今日の気運を逃すな！';
+        case 'zh':
+          return '大吉之梦！千万别错过今日的好运！';
+        case 'hi':
+          return 'यह एक बहुत ही शुभ सपना है! आज के अवसर को न चूकें!';
+        case 'de':
+          return 'Ein absoluter Glückstraum! Nutze die heutige Energie!';
+        default:
+          return 'A jackpot dream! Ride today\'s energy!';
+      }
     }
     if (s.isOminous) {
-      return isKo
-          ? '내가 나쁜 기운은 방망이로 쳐서 없애줄게! 걱정 마라!'
-          : (isJa ? '悪い気はこん棒で叩いて消してやる！心配するな！' : 'I\'ll smash the bad vibes with my club! Don\'t worry!');
+      switch (lang) {
+        case 'ko':
+          return '내가 나쁜 기운은 방망이로 쳐서 없애줄게! 걱정 마라!';
+        case 'ja':
+          return '悪い気はこん棒で叩いて消してやる！心配するな！';
+        case 'zh':
+          return '我会用神棒驱散厄运！别担心！';
+        case 'hi':
+          return 'मैं अपनी गदा से सारी नकारात्मक ऊर्जा दूर कर दूँगा! चिंता न करें!';
+        case 'de':
+          return 'Ich vertreibe das Unheil mit meiner Keule! Keine Sorge!';
+        default:
+          return 'I\'ll smash the bad vibes with my club! Don\'t worry!';
+      }
     }
-    return isKo
-        ? '오늘 하루 차분하게 보내면 돼! 무난하다깨비!'
-        : (isJa ? '今日は穏やかに過ごせば大丈夫！' : 'Just take it easy today — all is calm!');
+    switch (lang) {
+      case 'ko':
+        return '오늘 하루 차분하게 보내면 돼! 무난하다깨비!';
+      case 'ja':
+        return '今日は穏やかに過ごせば大丈夫！';
+      case 'zh':
+        return '今天平平安安度过即可，一切顺遂！';
+      case 'hi':
+        return 'आज का दिन शांति से बिताएं, सब ठीक रहेगा!';
+      case 'de':
+        return 'Verbringe den Tag in Ruhe, alles verläuft harmonisch!';
+      default:
+        return 'Just take it easy today — all is calm!';
+    }
   }
 
-  String _fortuneBadge(bool isKo, bool isJa, DreamSymbol s) {
-    if (s.isAuspicious) return isKo ? '길몽 ✨' : (isJa ? '吉夢 ✨' : 'Auspicious ✨');
-    if (s.isOminous) return isKo ? '흉몽 ⚡' : (isJa ? '凶夢 ⚡' : 'Ominous ⚡');
-    return isKo ? '평몽 🌿' : (isJa ? '平夢 🌿' : 'Normal 🌿');
+  String _fortuneBadge(String lang, DreamSymbol s) {
+    if (s.isAuspicious) {
+      switch (lang) {
+        case 'ko':
+          return '길몽 ✨';
+        case 'ja':
+          return '吉夢 ✨';
+        case 'zh':
+          return '吉梦 ✨';
+        case 'hi':
+          return 'शुभ सपना ✨';
+        case 'de':
+          return 'Glückstraum ✨';
+        default:
+          return 'Auspicious ✨';
+      }
+    }
+    if (s.isOminous) {
+      switch (lang) {
+        case 'ko':
+          return '흉몽 ⚡';
+        case 'ja':
+          return '凶夢 ⚡';
+        case 'zh':
+          return '凶梦 ⚡';
+        case 'hi':
+          return 'अशुभ सपना ⚡';
+        case 'de':
+          return 'Unheilstraum ⚡';
+        default:
+          return 'Ominous ⚡';
+      }
+    }
+    switch (lang) {
+      case 'ko':
+        return '평몽 🌿';
+      case 'ja':
+        return '平夢 🌿';
+      case 'zh':
+        return '平梦 🌿';
+      case 'hi':
+        return 'सामान्य सपना 🌿';
+      case 'de':
+        return 'Neutraler Traum 🌿';
+      default:
+        return 'Normal 🌿';
+    }
   }
 
   Color _fortuneColor(DreamSymbol s) {
@@ -68,11 +144,27 @@ class _DreamDialogState extends State<DreamDialog> {
     return DokkeyTheme.mintCalm;
   }
 
+  String _depositBannerText(String lang, DreamSymbol s) {
+    switch (lang) {
+      case 'ko':
+        return '꿈 상징수 #${s.luckyNumberStr} 보관함 입고 완료!';
+      case 'ja':
+        return '夢の象徴数 #${s.luckyNumberStr} 入庫完了！';
+      case 'zh':
+        return '梦境幸运数 #${s.luckyNumberStr} 已存入宝箱！';
+      case 'hi':
+        return 'स्वप्न लकी नंबर #${s.luckyNumberStr} तिजोरी में जोड़ा गया!';
+      case 'de':
+        return 'Traumnummer #${s.luckyNumberStr} im Tresor gespeichert!';
+      default:
+        return 'Dream No.#${s.luckyNumberStr} added to KeyBox!';
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
     final symbols = provider.dreamSymbols;
     final daily = provider.todayDreamSymbol;
 
@@ -81,13 +173,148 @@ class _DreamDialogState extends State<DreamDialog> {
         ? symbols
         : symbols.where((s) => s.matchesQuery(query)).toList();
 
-    final selected = _selected;
+    // 실시간 검색 시 첫 번째 매칭 상징 자동 활성화 (검색 즉시 해몽 카드 표출)
+    DreamSymbol? effectiveSelected;
+    if (query.isNotEmpty) {
+      if (filtered.isNotEmpty) {
+        if (_selected != null && filtered.any((s) => s.id == _selected!.id)) {
+          effectiveSelected = _selected;
+        } else {
+          effectiveSelected = filtered.first;
+        }
+      } else {
+        effectiveSelected = null;
+      }
+    } else {
+      effectiveSelected = _selected ?? daily;
+    }
 
-    String title = isKo ? '깨비의 꿈풀이' : (isJa ? 'クケビの夢占い' : "Kkaebi's Dream Reading");
-    String dailyLabel = isKo ? '오늘의 추천 상징' : (isJa ? '今日のおすすめ象徴' : "Today's Suggested Symbol");
-    String searchHint = isKo
-        ? '예: 호랑이한테 쫓기는 꿈'
-        : (isJa ? '例: 虎に追いかけられる夢' : 'e.g. being chased by a tiger');
+    String title;
+    switch (lang) {
+      case 'ko':
+        title = '깨비의 꿈풀이';
+        break;
+      case 'ja':
+        title = 'クケビの夢占い';
+        break;
+      case 'zh':
+        title = '小妖解梦';
+        break;
+      case 'hi':
+        title = 'कैकबी का स्वप्न फल';
+        break;
+      case 'de':
+        title = 'Kkaebis Traumdeutung';
+        break;
+      default:
+        title = "Kkaebi's Dream Reading";
+    }
+
+    String dailyLabel;
+    switch (lang) {
+      case 'ko':
+        dailyLabel = '오늘의 추천 상징';
+        break;
+      case 'ja':
+        dailyLabel = '今日のおすすめ象徴';
+        break;
+      case 'zh':
+        dailyLabel = '今日推荐梦境';
+        break;
+      case 'hi':
+        dailyLabel = 'आज का अनुशंसित प्रतीक';
+        break;
+      case 'de':
+        dailyLabel = 'Heutiges Traumsymbol';
+        break;
+      default:
+        dailyLabel = "Today's Suggested Symbol";
+    }
+
+    String searchHint;
+    switch (lang) {
+      case 'ko':
+        searchHint = '예: 조상님, 용, 돼지, 하늘을 나는 꿈';
+        break;
+      case 'ja':
+        searchHint = '例: ご先祖様、龍、豚、空を飛ぶ夢';
+        break;
+      case 'zh':
+        searchHint = '例: 祖先、龙、金猪、飞天之梦';
+        break;
+      case 'hi':
+        searchHint = 'उदा.: पूर्वज, ड्रैगन, सुअर, उड़ना';
+        break;
+      case 'de':
+        searchHint = 'z.B. Ahnen, Drache, Schwein, Fliegen';
+        break;
+      default:
+        searchHint = 'e.g. ancestors, dragon, pig, flying';
+    }
+
+    String searchSectionHeader;
+    if (query.isNotEmpty) {
+      switch (lang) {
+        case 'ko':
+          searchSectionHeader = '🔍 검색된 꿈 상징 (${filtered.length})';
+          break;
+        case 'ja':
+          searchSectionHeader = '🔍 検索された夢象徴 (${filtered.length})';
+          break;
+        case 'zh':
+          searchSectionHeader = '🔍 匹配的梦境 (${filtered.length})';
+          break;
+        case 'hi':
+          searchSectionHeader = '🔍 खोजे गए प्रतीक (${filtered.length})';
+          break;
+        case 'de':
+          searchSectionHeader = '🔍 Gefundene Symbole (${filtered.length})';
+          break;
+        default:
+          searchSectionHeader = '🔍 Matched Symbols (${filtered.length})';
+      }
+    } else {
+      switch (lang) {
+        case 'ko':
+          searchSectionHeader = '🔮 인기 꿈 상징';
+          break;
+        case 'ja':
+          searchSectionHeader = '🔮 人気の夢象徴';
+          break;
+        case 'zh':
+          searchSectionHeader = '🔮 热门梦境';
+          break;
+        case 'hi':
+          searchSectionHeader = '🔮 लोकप्रिय स्वप्न प्रतीक';
+          break;
+        case 'de':
+          searchSectionHeader = '🔮 Beliebte Traumsymbole';
+          break;
+        default:
+          searchSectionHeader = '🔮 Popular Dream Symbols';
+      }
+    }
+
+    String closeLabel;
+    switch (lang) {
+      case 'ko':
+        closeLabel = '닫기';
+        break;
+      case 'ja':
+        closeLabel = '閉じる';
+        break;
+      case 'zh':
+        closeLabel = '关闭';
+        break;
+      case 'hi':
+        closeLabel = 'बंद करें';
+        break;
+      case 'de':
+        closeLabel = 'Schließen';
+        break;
+      default:
+        closeLabel = 'Close';
+    }
 
     return Dialog(
       backgroundColor: Colors.transparent,
@@ -124,7 +351,7 @@ class _DreamDialogState extends State<DreamDialog> {
                     icon: Icon(Icons.close_rounded, color: DokkeyTheme.textMuted, size: 22),
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
-                    tooltip: isKo ? '닫기' : (isJa ? '閉じる' : 'Close'),
+                    tooltip: closeLabel,
                     onPressed: () => Navigator.of(context).pop(),
                   ),
                 ],
@@ -134,7 +361,21 @@ class _DreamDialogState extends State<DreamDialog> {
               // 자연어 검색 필드 (유사어 매칭)
               TextField(
                 controller: _searchCtrl,
-                onChanged: (_) => setState(() {}),
+                textInputAction: TextInputAction.search,
+                onSubmitted: (_) {
+                  FocusScope.of(context).unfocus();
+                  if (effectiveSelected != null) {
+                    provider.onDreamAnalyzed(effectiveSelected);
+                    if (effectiveSelected.isAuspicious) {
+                      SoundService().playGayageum();
+                    }
+                  }
+                },
+                onChanged: (_) {
+                  setState(() {
+                    _selected = null; // 검색어 변경 시 자동 매칭 갱신
+                  });
+                },
                 style: TextStyle(color: DokkeyTheme.textMain, fontSize: 13),
                 decoration: InputDecoration(
                   hintText: searchHint,
@@ -144,9 +385,12 @@ class _DreamDialogState extends State<DreamDialog> {
                       ? null
                       : IconButton(
                           icon: Icon(Icons.close_rounded, size: 16, color: DokkeyTheme.textMuted),
+                          tooltip: 'Clear',
                           onPressed: () {
                             _searchCtrl.clear();
-                            setState(() {});
+                            setState(() {
+                              _selected = null;
+                            });
                           },
                         ),
                   enabledBorder: OutlineInputBorder(
@@ -162,18 +406,58 @@ class _DreamDialogState extends State<DreamDialog> {
                   isDense: true,
                 ),
               ),
-              const SizedBox(height: 12),
+              const SizedBox(height: 10),
+
+              // 상징 목록 헤더
+              Row(
+                children: [
+                  Text(
+                    searchSectionHeader,
+                    style: TextStyle(
+                      color: query.isNotEmpty ? DokkeyTheme.mintCalm : DokkeyTheme.textMuted,
+                      fontSize: 11.5,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                  const Spacer(),
+                  if (query.isEmpty)
+                    Text(
+                      '✨ $dailyLabel: ${daily.label}',
+                      style: TextStyle(color: DokkeyTheme.gold, fontSize: 11),
+                    ),
+                ],
+              ),
+              const SizedBox(height: 8),
 
               // Symbol chips (검색 결과)
               if (filtered.isEmpty)
                 Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 12),
+                  padding: const EdgeInsets.symmetric(vertical: 14),
                   child: Center(
-                    child: Text(
-                      isKo
-                          ? '검색 결과가 없다깨비... 다른 단어로 찾아봐라!'
-                          : (isJa ? '検索結果がないケビ...別の言葉で探して！' : 'No matches... try another word!'),
-                      style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 12),
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        KkaebiFaceWidget(
+                          size: 48,
+                          mode: KkaebiFaceMode.surprise,
+                        ),
+                        const SizedBox(height: 8),
+                        Text(
+                          lang == 'ko'
+                              ? '검색 결과가 없다깨비... (예: 용, 조상, 돼지, 불, 돈)'
+                              : (lang == 'ja'
+                                  ? '検索結果がないケビ...（例：龍、先祖、豚、火、お金）'
+                                  : (lang == 'zh'
+                                      ? '未找到匹配结果...（例如：龙、祖先、金猪、火焰、财富）'
+                                      : (lang == 'hi'
+                                          ? 'कोई परिणाम नहीं मिला... (उदा.: ड्रैगन, पूर्वज, सुअर, आग)'
+                                          : (lang == 'de'
+                                              ? 'Keine Treffer gefunden... (z.B. Drache, Ahnen, Schwein)'
+                                              : 'No matches found... (e.g. dragon, ancestor, pig)')))),
+                          textAlign: TextAlign.center,
+                          style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 12),
+                        ),
+                      ],
                     ),
                   ),
                 )
@@ -182,7 +466,7 @@ class _DreamDialogState extends State<DreamDialog> {
                   spacing: 6,
                   runSpacing: 6,
                   children: filtered.take(12).map((s) {
-                    final active = selected?.id == s.id;
+                    final active = effectiveSelected?.id == s.id;
                     final isDaily = s.id == daily.id;
                     return ChoiceChip(
                       label: Row(
@@ -200,6 +484,7 @@ class _DreamDialogState extends State<DreamDialog> {
                       backgroundColor: DokkeyTheme.surfaceDark,
                       labelStyle: TextStyle(
                         color: active ? DokkeyTheme.mintCalm : DokkeyTheme.textMuted,
+                        fontWeight: active ? FontWeight.bold : FontWeight.normal,
                       ),
                       side: BorderSide(
                         color: active ? DokkeyTheme.mintCalm : DokkeyTheme.borderDark,
@@ -216,19 +501,12 @@ class _DreamDialogState extends State<DreamDialog> {
                     );
                   }).toList(),
                 ),
-              const SizedBox(height: 8),
-              Center(
-                child: Text(
-                  '✨ $dailyLabel: ${daily.label}',
-                  style: TextStyle(color: DokkeyTheme.gold, fontSize: 11),
-                ),
-              ),
               const SizedBox(height: 14),
 
-              // Interpretation result
+              // Interpretation result (즉시 표출되는 해몽 카드)
               AnimatedSwitcher(
-                duration: const Duration(milliseconds: 300),
-                child: selected == null
+                duration: const Duration(milliseconds: 250),
+                child: effectiveSelected == null
                     ? SizedBox(
                         key: const ValueKey('empty'),
                         height: 72,
@@ -240,13 +518,13 @@ class _DreamDialogState extends State<DreamDialog> {
                         ),
                       )
                     : Container(
-                        key: ValueKey(selected.id),
+                        key: ValueKey(effectiveSelected.id),
                         padding: const EdgeInsets.all(14),
                         decoration: BoxDecoration(
                           color: DokkeyTheme.surfaceDark,
                           borderRadius: BorderRadius.circular(16),
                           border: Border.all(
-                            color: _fortuneColor(selected).withOpacity(0.5),
+                            color: _fortuneColor(effectiveSelected).withOpacity(0.5),
                           ),
                         ),
                         child: Column(
@@ -257,8 +535,8 @@ class _DreamDialogState extends State<DreamDialog> {
                                 // 길흉 판정 감정 연동: 길몽 jackpot / 흉몽 angry / 평몽 wink
                                 KkaebiFaceWidget(
                                   size: 44,
-                                  mode: _faceModeFor(selected),
-                                  glowColor: _fortuneColor(selected),
+                                  mode: _faceModeFor(effectiveSelected),
+                                  glowColor: _fortuneColor(effectiveSelected),
                                 ),
                                 const SizedBox(width: 10),
                                 Expanded(
@@ -269,7 +547,7 @@ class _DreamDialogState extends State<DreamDialog> {
                                         children: [
                                           Flexible(
                                             child: Text(
-                                              selected.label,
+                                              effectiveSelected.label,
                                               style: TextStyle(
                                                 color: DokkeyTheme.goldLight,
                                                 fontWeight: FontWeight.bold,
@@ -282,13 +560,13 @@ class _DreamDialogState extends State<DreamDialog> {
                                             padding: const EdgeInsets.symmetric(
                                                 horizontal: 6, vertical: 2),
                                             decoration: BoxDecoration(
-                                              color: _fortuneColor(selected).withOpacity(0.2),
+                                              color: _fortuneColor(effectiveSelected).withOpacity(0.2),
                                               borderRadius: BorderRadius.circular(6),
                                             ),
                                             child: Text(
-                                              _fortuneBadge(isKo, isJa, selected),
+                                              _fortuneBadge(lang, effectiveSelected),
                                               style: TextStyle(
-                                                color: _fortuneColor(selected),
+                                                color: _fortuneColor(effectiveSelected),
                                                 fontSize: 10,
                                                 fontWeight: FontWeight.bold,
                                               ),
@@ -298,7 +576,7 @@ class _DreamDialogState extends State<DreamDialog> {
                                       ),
                                       const SizedBox(height: 2),
                                       Text(
-                                        _fortuneLine(isKo, isJa, selected),
+                                        _fortuneLine(lang, effectiveSelected),
                                         style: TextStyle(
                                           color: DokkeyTheme.textMain,
                                           fontSize: 12,
@@ -312,7 +590,7 @@ class _DreamDialogState extends State<DreamDialog> {
                             ),
                             const SizedBox(height: 8),
                             Text(
-                              selected.meaning,
+                              effectiveSelected.meaning,
                               style: TextStyle(color: DokkeyTheme.textMain, fontSize: 12),
                             ),
                             const SizedBox(height: 8),
@@ -331,7 +609,7 @@ class _DreamDialogState extends State<DreamDialog> {
                                   const SizedBox(width: 6),
                                   Expanded(
                                     child: Text(
-                                      selected.advice,
+                                      effectiveSelected.advice,
                                       style: TextStyle(
                                         color: DokkeyTheme.textMuted,
                                         fontSize: 12,
@@ -349,8 +627,7 @@ class _DreamDialogState extends State<DreamDialog> {
                               padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 7),
                               decoration: BoxDecoration(
                                 gradient: const LinearGradient(
-                                  colors: [Color(0xFFFFE29A), Color(0xFFB8860B)],
-                                ),
+                                    colors: [Color(0xFFFFE29A), Color(0xFFB8860B)]),
                                 borderRadius: BorderRadius.circular(10),
                               ),
                               child: Row(
@@ -359,11 +636,7 @@ class _DreamDialogState extends State<DreamDialog> {
                                   const SizedBox(width: 6),
                                   Expanded(
                                     child: Text(
-                                      isKo
-                                          ? '꿈 상징수 #${selected.luckyNumberStr} 보관함 입고 완료!'
-                                          : (isJa
-                                              ? '夢の象徴数 #${selected.luckyNumberStr} 入庫完了！'
-                                              : 'Dream No.#${selected.luckyNumberStr} added to KeyBox!'),
+                                      _depositBannerText(lang, effectiveSelected),
                                       style: const TextStyle(
                                         color: Colors.black,
                                         fontWeight: FontWeight.w900,
@@ -383,7 +656,7 @@ class _DreamDialogState extends State<DreamDialog> {
               TextButton(
                 onPressed: () => Navigator.of(context).pop(),
                 child: Text(
-                  isKo ? '닫기' : (isJa ? '閉じる' : 'Close'),
+                  closeLabel,
                   style: TextStyle(color: DokkeyTheme.textMuted),
                 ),
               ),
