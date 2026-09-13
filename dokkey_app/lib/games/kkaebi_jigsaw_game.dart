@@ -498,14 +498,8 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
     if (!wasCleared && model.isCleared && !_finished) {
       _finished = true;
       SoundService().playSuccessChime();
-      finishGame(
-        context,
-        gameId: KkaebiJigsawGame.gameId,
-        title: '${model.cardName} 퍼즐 완성!',
-        score: model.score,
-        cleared: true,
-        onRetry: () => _initPuzzle(),
-      );
+      SoundService().playGayageum();
+      HapticFeedback.heavyImpact();
     }
   }
 
@@ -568,7 +562,9 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
             GameHud(
               title: isKo ? '깨비 신수 도감 퍼즐' : 'Kkaebi Deity Puzzle',
               score: model.score,
-              rightLabel: '${model.moves} 이동',
+              rightLabel: model.isCleared
+                  ? (isKo ? '🏆 완성!' : '🏆 Done!')
+                  : '${model.moves} 이동',
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFFFFD54F),
             ),
@@ -667,18 +663,26 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
             Expanded(
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.all(14),
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
                   child: AspectRatio(
                     aspectRatio: 3 / 4,
-                    child: Container(
+                    child: AnimatedContainer(
+                      duration: const Duration(milliseconds: 400),
                       decoration: BoxDecoration(
                         color: const Color(0xFF241910),
                         borderRadius: BorderRadius.circular(18),
-                        border: Border.all(color: const Color(0xFFFFD54F).withValues(alpha: 0.8), width: 2),
+                        border: Border.all(
+                          color: model.isCleared
+                              ? const Color(0xFFFFD700)
+                              : const Color(0xFFFFD54F).withValues(alpha: 0.8),
+                          width: model.isCleared ? 3.0 : 2.0,
+                        ),
                         boxShadow: [
                           BoxShadow(
-                            color: const Color(0xFFFFD54F).withValues(alpha: 0.25),
-                            blurRadius: 16,
+                            color: (model.isCleared ? const Color(0xFFFFD700) : const Color(0xFFFFD54F))
+                                .withValues(alpha: model.isCleared ? 0.6 : 0.25),
+                            blurRadius: model.isCleared ? 28 : 16,
+                            spreadRadius: model.isCleared ? 3 : 0,
                           ),
                         ],
                       ),
@@ -702,16 +706,36 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
               ),
             ),
 
-            // Footer Guide
-            Padding(
-              padding: const EdgeInsets.fromLTRB(16, 4, 16, 14),
-              child: Text(
-                isKo
-                    ? '💡 상단 [그림 변경]으로 도감 카드나 내 사진을 골라 힐링 퍼즐을 맞춰보세요!'
-                    : '💡 Tap [Change] to pick divine cards or your photo and restore the puzzle!',
-                textAlign: TextAlign.center,
-                style: const TextStyle(color: Colors.white70, fontSize: 11.5),
-              ),
+            // Footer (Non-blocking GameResultBar upon Clear or Guide Text during play)
+            AnimatedSwitcher(
+              duration: const Duration(milliseconds: 350),
+              child: model.isCleared
+                  ? GameResultBar(
+                      key: const ValueKey('jigsaw_result_bar'),
+                      gameId: KkaebiJigsawGame.gameId,
+                      title: '${model.cardName} 퍼즐 완성!',
+                      score: model.score,
+                      best: model.score,
+                      cleared: true,
+                      onChangeOption: () {
+                        SoundService().playCardFlip();
+                        _showImagePickerSheet(context);
+                      },
+                      changeOptionLabel: isKo ? '다른 그림' : 'Change',
+                      onRetry: () => _initPuzzle(),
+                      onExit: () => Navigator.of(context).pop(),
+                    )
+                  : Padding(
+                      key: const ValueKey('jigsaw_guide_text'),
+                      padding: const EdgeInsets.fromLTRB(16, 4, 16, 14),
+                      child: Text(
+                        isKo
+                            ? '💡 상단 [그림 변경]으로 도감 카드나 내 사진을 골라 힐링 퍼즐을 맞춰보세요!'
+                            : '💡 Tap [Change] to pick divine cards or your photo and restore the puzzle!',
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(color: Colors.white70, fontSize: 11.5),
+                      ),
+                    ),
             ),
           ],
         ),

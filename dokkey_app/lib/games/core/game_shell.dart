@@ -261,6 +261,272 @@ class GameResultDialog extends StatelessWidget {
   }
 }
 
+// ---------------------------------------------------------------------------
+// 게임 결과 인라인 바 (화면 가림 없는 하단 도킹 UI - 6개국어 완벽 지원)
+// ---------------------------------------------------------------------------
+class GameResultBar extends StatelessWidget {
+  final String gameId;
+  final String title;
+  final int score;
+  final int best;
+  final bool cleared;
+  final VoidCallback onRetry;
+  final VoidCallback onExit;
+  final VoidCallback? onChangeOption;
+  final String? changeOptionLabel;
+  final IconData changeOptionIcon;
+
+  const GameResultBar({
+    super.key,
+    required this.gameId,
+    required this.title,
+    required this.score,
+    required this.best,
+    required this.cleared,
+    required this.onRetry,
+    required this.onExit,
+    this.onChangeOption,
+    this.changeOptionLabel,
+    this.changeOptionIcon = Icons.photo_library_rounded,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final provider = context.watch<DokkeyProvider>();
+    final lang = provider.lang;
+    final isKo = lang == 'ko';
+
+    return FutureBuilder<GameReward>(
+      future: dispatchGameReward(context, gameId: gameId, score: score, cleared: cleared),
+      builder: (context, snap) {
+        final reward = snap.data;
+
+        String clearText;
+        if (cleared) {
+          switch (lang) {
+            case 'ko':
+              clearText = '🏆 완성/클리어!';
+              break;
+            case 'ja':
+              clearText = '🏆 クリア！';
+              break;
+            case 'zh':
+              clearText = '🏆 通关成功！';
+              break;
+            case 'hi':
+              clearText = '🏆 पूर्ण!';
+              break;
+            case 'de':
+              clearText = '🏆 GESCHAFFT!';
+              break;
+            default:
+              clearText = '🏆 CLEAR!';
+          }
+        } else {
+          switch (lang) {
+            case 'ko':
+              clearText = '💥 게임 종료';
+              break;
+            case 'ja':
+              clearText = '💥 ゲームオーバー';
+              break;
+            case 'zh':
+              clearText = '💥 游戏结束';
+              break;
+            case 'hi':
+              clearText = '💥 खेल समाप्त';
+              break;
+            case 'de':
+              clearText = '💥 SPIEL ENDE';
+              break;
+            default:
+              clearText = '💥 GAME OVER';
+          }
+        }
+
+        String retryLabel;
+        switch (lang) {
+          case 'ko':
+            retryLabel = '다시하기';
+            break;
+          case 'ja':
+            retryLabel = '再挑戦';
+            break;
+          case 'zh':
+            retryLabel = '再试一次';
+            break;
+          case 'hi':
+            retryLabel = 'पुनः प्रयास';
+            break;
+          case 'de':
+            retryLabel = 'Nochmal';
+            break;
+          default:
+            retryLabel = 'Retry';
+        }
+
+        String exitLabel;
+        switch (lang) {
+          case 'ko':
+            exitLabel = '나가기';
+            break;
+          case 'ja':
+            exitLabel = '終了';
+            break;
+          case 'zh':
+            exitLabel = '退出';
+            break;
+          case 'hi':
+            exitLabel = 'बाहर';
+            break;
+          case 'de':
+            exitLabel = 'Beenden';
+            break;
+          default:
+            exitLabel = 'Exit';
+        }
+
+        return Container(
+          margin: const EdgeInsets.fromLTRB(12, 4, 12, 12),
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+          decoration: BoxDecoration(
+            gradient: const LinearGradient(
+              begin: Alignment.topCenter,
+              colors: [Color(0xFF222B38), Color(0xFF141923)],
+            ),
+            borderRadius: BorderRadius.circular(18),
+            border: Border.all(
+              color: cleared ? const Color(0xFFFFD700) : const Color(0xFFFF5252),
+              width: 1.8,
+            ),
+            boxShadow: [
+              BoxShadow(
+                color: (cleared ? const Color(0xFFFFD700) : const Color(0xFFFF5252)).withValues(alpha: 0.25),
+                blurRadius: 14,
+                spreadRadius: 1,
+              ),
+            ],
+          ),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // Header & Score Summary Row
+              Row(
+                children: [
+                  Text(
+                    clearText,
+                    style: TextStyle(
+                      fontSize: 14.5,
+                      fontWeight: FontWeight.w900,
+                      color: cleared ? const Color(0xFFFFE66D) : const Color(0xFFFF5252),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: Colors.black38,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Text(
+                      '$score pt',
+                      style: const TextStyle(
+                        color: Color(0xFFE2E8F0),
+                        fontSize: 12,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                  const Spacer(),
+                  if (reward != null) ...[
+                    _RewardChip(icon: Icons.monetization_on_rounded, label: '+${reward.coins}'),
+                    const SizedBox(width: 4),
+                    _RewardChip(icon: Icons.favorite_rounded, label: '+${reward.affection}'),
+                    if (reward.keys > 0) ...[
+                      const SizedBox(width: 4),
+                      _RewardChip(icon: Icons.key_rounded, label: '+${reward.keys}'),
+                    ],
+                  ] else
+                    Text(
+                      isKo ? '최고: $best pt' : 'Best: $best pt',
+                      style: const TextStyle(color: Color(0xFFFFD700), fontSize: 11, fontWeight: FontWeight.bold),
+                    ),
+                ],
+              ),
+              const SizedBox(height: 8),
+
+              // Action Buttons Row
+              Row(
+                children: [
+                  if (onChangeOption != null && changeOptionLabel != null) ...[
+                    Expanded(
+                      flex: 3,
+                      child: ElevatedButton.icon(
+                        onPressed: onChangeOption,
+                        icon: Icon(changeOptionIcon, size: 14, color: const Color(0xFFFFD54F)),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: const Color(0xFF2D2214),
+                          foregroundColor: const Color(0xFFFFD54F),
+                          side: const BorderSide(color: Color(0xFFFFD54F), width: 1.2),
+                          padding: const EdgeInsets.symmetric(vertical: 8),
+                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                        ),
+                        label: Text(
+                          changeOptionLabel!,
+                          style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 11.5),
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 6),
+                  ],
+                  Expanded(
+                    flex: 3,
+                    child: ElevatedButton.icon(
+                      onPressed: onRetry,
+                      icon: const Icon(Icons.replay_rounded, size: 14, color: Colors.black),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFFFFD700),
+                        foregroundColor: Colors.black,
+                        padding: const EdgeInsets.symmetric(vertical: 8),
+                        elevation: 2,
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                      ),
+                      label: Text(
+                        retryLabel,
+                        style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 12),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 6),
+                  Expanded(
+                    flex: 2,
+                    child: ElevatedButton.icon(
+                      onPressed: onExit,
+                      icon: const Icon(Icons.logout_rounded, size: 13, color: Colors.white70),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFF2D3748),
+                        foregroundColor: Colors.white,
+                        side: const BorderSide(color: Color(0xFF4A5568), width: 1),
+                        padding: const EdgeInsets.symmetric(vertical: 8),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                      ),
+                      label: Text(
+                        exitLabel,
+                        style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 11.5),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+}
+
 class _RewardChip extends StatelessWidget {
   final IconData icon;
   final String label;
