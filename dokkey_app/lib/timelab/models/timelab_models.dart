@@ -88,8 +88,9 @@ class ChainStep {
 enum ChainTimerStatus {
   idle,
   running,
+  audioPlaying, // 단계 완료 후 음악/종료음 재생 중 (3분/5분 완곡 대기)
+  delaying,     // 음악 완료 후 설정된 지연(Delay) 대기
   paused,
-  delaying,
   finished,
 }
 

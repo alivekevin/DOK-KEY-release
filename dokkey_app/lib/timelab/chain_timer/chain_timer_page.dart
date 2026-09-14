@@ -220,6 +220,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
   }
 
   Widget _buildPhaseHeader(TimelabThemeConfig cfg) {
+    final isAudioPlaying = _engine.status == ChainTimerStatus.audioPlaying;
+    final isDelaying = _engine.status == ChainTimerStatus.delaying;
+
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 16),
       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
@@ -231,41 +234,73 @@ class _ChainTimerPageState extends State<ChainTimerPage>
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          // Current Stage Badge
+          // Current Stage Badge & Status Indicator
           Row(
             children: [
               Container(
                 padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                 decoration: BoxDecoration(
-                  color: _engine.status == ChainTimerStatus.delaying
-                      ? const Color(0xFFFF9100).withOpacity(0.25)
-                      : cfg.primaryColor.withOpacity(0.2),
+                  color: isAudioPlaying
+                      ? const Color(0xFF00E5FF).withOpacity(0.2)
+                      : (isDelaying
+                          ? const Color(0xFFFF9100).withOpacity(0.25)
+                          : cfg.primaryColor.withOpacity(0.2)),
                   borderRadius: BorderRadius.circular(8),
                   border: Border.all(
-                    color: _engine.status == ChainTimerStatus.delaying
-                        ? const Color(0xFFFF9100)
-                        : cfg.primaryColor,
+                    color: isAudioPlaying
+                        ? const Color(0xFF00E5FF)
+                        : (isDelaying
+                            ? const Color(0xFFFF9100)
+                            : cfg.primaryColor),
                     width: 1.2,
                   ),
                 ),
-                child: Text(
-                  _engine.status == ChainTimerStatus.delaying
-                      ? '⏸ DELAY 대기'
-                      : 'PHASE ${_engine.currentStepIndex + 1} / ${_engine.activeSlotCount}',
-                  style: TextStyle(
-                    color: _engine.status == ChainTimerStatus.delaying
-                        ? const Color(0xFFFFAB40)
-                        : cfg.primaryColor,
-                    fontWeight: FontWeight.w900,
-                    fontSize: 12,
-                  ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(
+                      isAudioPlaying
+                          ? '🎵 음악 재생 중'
+                          : (isDelaying
+                              ? '⏸ DELAY 대기'
+                              : 'PHASE ${_engine.currentStepIndex + 1} / ${_engine.activeSlotCount}'),
+                      style: TextStyle(
+                        color: isAudioPlaying
+                            ? const Color(0xFF00E5FF)
+                            : (isDelaying
+                                ? const Color(0xFFFFAB40)
+                                : cfg.primaryColor),
+                        fontWeight: FontWeight.w900,
+                        fontSize: 12,
+                      ),
+                    ),
+                  ],
                 ),
               ),
-              const SizedBox(width: 10),
-              if (_engine.status == ChainTimerStatus.delaying)
-                Text(
-                  '다음 단계까지 ${(_engine.remainingDelay.inMilliseconds / 1000).toStringAsFixed(1)}s',
-                  style: const TextStyle(color: Color(0xFFFFAB40), fontSize: 12, fontWeight: FontWeight.bold),
+              const SizedBox(width: 8),
+              if (isAudioPlaying || isDelaying)
+                InkWell(
+                  onTap: () {
+                    HapticFeedback.lightImpact();
+                    _engine.skipAudioOrDelay();
+                  },
+                  borderRadius: BorderRadius.circular(6),
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFFFD700).withOpacity(0.2),
+                      borderRadius: BorderRadius.circular(6),
+                      border: Border.all(color: const Color(0xFFFFD700)),
+                    ),
+                    child: const Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(Icons.fast_forward_rounded, size: 12, color: Color(0xFFFFD700)),
+                        SizedBox(width: 3),
+                        Text('스킵', style: TextStyle(color: Color(0xFFFFD700), fontSize: 10.5, fontWeight: FontWeight.bold)),
+                      ],
+                    ),
+                  ),
                 ),
             ],
           ),
@@ -301,6 +336,76 @@ class _ChainTimerPageState extends State<ChainTimerPage>
   }
 
   Widget _buildDigitalDisplay(TimelabThemeConfig cfg, Color displayColor) {
+    if (_engine.status == ChainTimerStatus.audioPlaying) {
+      final currentStep = _engine.steps[_engine.currentStepIndex];
+      return Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+            decoration: BoxDecoration(
+              color: const Color(0xFF0F172A).withOpacity(0.85),
+              borderRadius: BorderRadius.circular(24),
+              border: Border.all(color: const Color(0xFF00E5FF).withOpacity(0.6), width: 1.8),
+              boxShadow: [
+                BoxShadow(
+                  color: const Color(0xFF00E5FF).withOpacity(0.3),
+                  blurRadius: 24,
+                  spreadRadius: 2,
+                ),
+              ],
+            ),
+            child: Column(
+              children: [
+                const Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(Icons.graphic_eq_rounded, color: Color(0xFF00E5FF), size: 30),
+                    SizedBox(width: 8),
+                    Text(
+                      'MUSIC PLAYING',
+                      style: TextStyle(color: Color(0xFF00E5FF), fontSize: 13, fontWeight: FontWeight.w900, letterSpacing: 2),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 10),
+                Text(
+                  currentStep.soundDisplayName,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w900,
+                    fontSize: 20,
+                  ),
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                ),
+                const SizedBox(height: 6),
+                const Text(
+                  '음악이 끝난 후 다음 단계로 자동 이동합니다.',
+                  style: TextStyle(color: Colors.white60, fontSize: 11),
+                ),
+                const SizedBox(height: 14),
+                ElevatedButton.icon(
+                  onPressed: () {
+                    HapticFeedback.heavyImpact();
+                    _engine.skipAudioOrDelay();
+                  },
+                  icon: const Icon(Icons.skip_next_rounded, size: 18, color: Colors.black),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: const Color(0xFFFFD700),
+                    foregroundColor: Colors.black,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                  ),
+                  label: const Text('다음 단계로 즉시 넘어가기 (스킵)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5)),
+                ),
+              ],
+            ),
+          ),
+        ],
+      );
+    }
+
     final timeStr = _formatTime(
       _engine.status == ChainTimerStatus.delaying
           ? _engine.remainingDelay
@@ -598,7 +703,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
   }
 
   Widget _buildControls(TimelabThemeConfig cfg) {
-    final isRunning = _engine.status == ChainTimerStatus.running || _engine.status == ChainTimerStatus.delaying;
+    final isRunning = _engine.status == ChainTimerStatus.running ||
+        _engine.status == ChainTimerStatus.delaying ||
+        _engine.status == ChainTimerStatus.audioPlaying;
 
     return Row(
       children: [

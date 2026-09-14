@@ -98,6 +98,28 @@ void main() {
       expect(restored.customSoundPath, '/storage/emulated/0/Music/quiet_song.mp3');
       expect(restored.customSoundName, 'quiet_song.mp3');
     });
+
+    test('오디오 재생 상태(audioPlaying) 전환 및 스킵(skipAudioOrDelay) 동작 검증', () {
+      engine.setActiveSlotCount(2);
+      engine.updateStepDuration(0, const Duration(seconds: 10));
+      engine.updateStepDelay(0, const Duration(seconds: 2));
+
+      engine.startOrResume();
+      expect(engine.status, ChainTimerStatus.running);
+
+      // 타이머 완료 시뮬레이션: audioPlaying 상태 진입
+      engine.status = ChainTimerStatus.audioPlaying;
+
+      // 스킵 호출 시 지연 대기(delaying)로 전환
+      engine.skipAudioOrDelay();
+      expect(engine.status, ChainTimerStatus.delaying);
+      expect(engine.remainingDelay.inSeconds, 2);
+
+      // 딜레이 중 스킵 호출 시 2단계로 즉시 전환
+      engine.skipAudioOrDelay();
+      expect(engine.status, ChainTimerStatus.running);
+      expect(engine.currentStepIndex, 1);
+    });
   });
 
   group('Velocity Grid Stopwatch Engine Tests', () {

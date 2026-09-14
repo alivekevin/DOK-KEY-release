@@ -101,6 +101,10 @@ class ChainTimerEngine extends ChangeNotifier {
 
   // --- 타이머 실행 제어 ---
 
+  ChainTimerStatus _pausedPreviousStatus = ChainTimerStatus.running;
+
+  // --- 타이머 실행 제어 ---
+
   void startOrResume() {
     if (status == ChainTimerStatus.idle || status == ChainTimerStatus.finished) {
       currentSet = 1;
@@ -110,7 +114,14 @@ class ChainTimerEngine extends ChangeNotifier {
       remainingDelay = Duration.zero;
       status = ChainTimerStatus.running;
     } else if (status == ChainTimerStatus.paused) {
-      status = remainingDelay > Duration.zero ? ChainTimerStatus.delaying : ChainTimerStatus.running;
+      if (_pausedPreviousStatus == ChainTimerStatus.audioPlaying) {
+        _sound.resumeCustomAudio();
+        status = ChainTimerStatus.audioPlaying;
+      } else if (_pausedPreviousStatus == ChainTimerStatus.delaying || remainingDelay > Duration.zero) {
+        status = ChainTimerStatus.delaying;
+      } else {
+        status = ChainTimerStatus.running;
+      }
     }
 
     _lastTick = DateTime.now();
@@ -121,7 +132,13 @@ class ChainTimerEngine extends ChangeNotifier {
   }
 
   void pause() {
-    if (status == ChainTimerStatus.running || status == ChainTimerStatus.delaying) {
+    if (status == ChainTimerStatus.running ||
+        status == ChainTimerStatus.delaying ||
+        status == ChainTimerStatus.audioPlaying) {
+      _pausedPreviousStatus = status;
+      if (status == ChainTimerStatus.audioPlaying) {
+        _sound.pauseCustomAudio();
+      }
       status = ChainTimerStatus.paused;
       _ticker?.cancel();
       notifyListeners();
@@ -130,8 +147,28 @@ class ChainTimerEngine extends ChangeNotifier {
 
   void reset() {
     _ticker?.cancel();
+    _sound.stopCustomAudio();
     _resetToInitial();
     notifyListeners();
+  }
+
+  /// ⏭️ 음악 재생 또는 지연(Delay) 대기 즉시 건너뛰기
+  void skipAudioOrDelay() {
+    if (status == ChainTimerStatus.audioPlaying) {
+      _sound.stopCustomAudio();
+      final currentStep = steps[currentStepIndex];
+      if (currentStep.delayAfter > Duration.zero) {
+        status = ChainTimerStatus.delaying;
+        remainingDelay = currentStep.delayAfter;
+      } else {
+        _advanceToNextStep();
+      }
+      notifyListeners();
+    } else if (status == ChainTimerStatus.delaying) {
+      remainingDelay = Duration.zero;
+      _advanceToNextStep();
+      notifyListeners();
+    }
   }
 
   void _onTick(Timer timer) {
@@ -171,19 +208,29 @@ class ChainTimerEngine extends ChangeNotifier {
 
   void _onStepCompleted() {
     final currentStep = steps[currentStepIndex];
+    status = ChainTimerStatus.audioPlaying;
+    notifyListeners();
+
     _sound.playCustomOrPreset(
       soundId: currentStep.soundId,
       customFilePath: currentStep.customSoundPath,
       fallbackTheme: theme,
+      onComplete: _onAudioCompleted,
     );
+  }
 
-    // 지연(Delay)이 설정되어 있으면 delaying 상태로 진입
+  void _onAudioCompleted() {
+    // 이미 일시정지, 리셋, 스킵 등으로 상태가 변경된 경우 무시
+    if (status != ChainTimerStatus.audioPlaying) return;
+
+    final currentStep = steps[currentStepIndex];
     if (currentStep.delayAfter > Duration.zero) {
       status = ChainTimerStatus.delaying;
       remainingDelay = currentStep.delayAfter;
     } else {
       _advanceToNextStep();
     }
+    notifyListeners();
   }
 
   void _advanceToNextStep() {

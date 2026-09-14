@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:io';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/foundation.dart';
@@ -54,17 +55,30 @@ class TimelabSoundEngine {
     }
   }
 
-  /// 3. 커스텀 파일 또는 지정된 SFX 프리셋 재생 (미지정 시 테마 기본음 폴백)
+  StreamSubscription? _completeSub;
+
+  /// 3. 커스텀 파일 또는 지정된 SFX 프리셋 재생 (완료 시 onComplete 콜백 트리거)
   Future<void> playCustomOrPreset({
     String? soundId,
     String? customFilePath,
     required TimelabTheme fallbackTheme,
+    VoidCallback? onComplete,
   }) async {
+    _completeSub?.cancel();
+
     // 1) 휴대폰 내 커스텀 오디오 파일 (.mp3, .wav, .m4a 등)이 등록된 경우
     if (customFilePath != null && customFilePath.isNotEmpty) {
       try {
         if (!kIsWeb && File(customFilePath).existsSync()) {
           await _player.stop();
+
+          if (onComplete != null) {
+            _completeSub = _player.onPlayerComplete.listen((_) {
+              _completeSub?.cancel();
+              onComplete();
+            });
+          }
+
           await _player.play(DeviceFileSource(customFilePath));
           HapticFeedback.heavyImpact();
           return;
@@ -79,31 +93,68 @@ class TimelabSoundEngine {
       case 'gate':
         _sound.playBoxOpen();
         HapticFeedback.heavyImpact();
+        _scheduleSfxCompletion(const Duration(milliseconds: 1800), onComplete);
         return;
       case 'blast':
         _sound.playGong();
         HapticFeedback.heavyImpact();
+        _scheduleSfxCompletion(const Duration(milliseconds: 2200), onComplete);
         return;
       case 'buzzer':
         _sound.playRiddleWrong();
         HapticFeedback.mediumImpact();
+        _scheduleSfxCompletion(const Duration(milliseconds: 1400), onComplete);
         return;
       case 'beep':
         _sound.playSuccessChime();
         HapticFeedback.selectionClick();
+        _scheduleSfxCompletion(const Duration(milliseconds: 1200), onComplete);
         return;
       case 'gong':
         _sound.playGong();
         HapticFeedback.heavyImpact();
+        _scheduleSfxCompletion(const Duration(milliseconds: 2000), onComplete);
         return;
       case 'magic':
         _sound.playKkaebiCastShort();
         HapticFeedback.heavyImpact();
+        _scheduleSfxCompletion(const Duration(milliseconds: 1600), onComplete);
         return;
     }
 
     // 3) 폴백: 테마별 기본 단계 완료 사운드
     playStepComplete(fallbackTheme);
+    _scheduleSfxCompletion(const Duration(milliseconds: 1500), onComplete);
+  }
+
+  void _scheduleSfxCompletion(Duration duration, VoidCallback? onComplete) {
+    if (onComplete != null) {
+      Future.delayed(duration, () {
+        onComplete();
+      });
+    }
+  }
+
+  /// 재생 중인 커스텀 오디오 즉시 중단
+  Future<void> stopCustomAudio() async {
+    _completeSub?.cancel();
+    try {
+      await _player.stop();
+    } catch (_) {}
+  }
+
+  /// 커스텀 오디오 일시 정지
+  Future<void> pauseCustomAudio() async {
+    try {
+      await _player.pause();
+    } catch (_) {}
+  }
+
+  /// 커스텀 오디오 이어서 재생
+  Future<void> resumeCustomAudio() async {
+    try {
+      await _player.resume();
+    } catch (_) {}
   }
 
   /// 4. 타이머 단계 기본 완료 SFX
