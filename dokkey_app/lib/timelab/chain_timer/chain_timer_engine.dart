@@ -170,8 +170,12 @@ class ChainTimerEngine extends ChangeNotifier {
   }
 
   void _onStepCompleted() {
-    _sound.playStepComplete(theme);
     final currentStep = steps[currentStepIndex];
+    _sound.playCustomOrPreset(
+      soundId: currentStep.soundId,
+      customFilePath: currentStep.customSoundPath,
+      fallbackTheme: theme,
+    );
 
     // 지연(Delay)이 설정되어 있으면 delaying 상태로 진입
     if (currentStep.delayAfter > Duration.zero) {

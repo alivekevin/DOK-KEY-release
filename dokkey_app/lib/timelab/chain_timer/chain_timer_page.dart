@@ -1,9 +1,14 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
+import '../../core/sound_service.dart';
+import '../../providers/dokkey_provider.dart';
+import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
 import 'chain_timer_engine.dart';
+import 'chain_timer_settings_page.dart';
 
 /// 💣 모듈 1: 3단 시퀀스 체인 타이머 (The Defuser) 풀스크린 뷰
 class ChainTimerPage extends StatefulWidget {
@@ -72,7 +77,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               SafeArea(
                 child: Column(
                   children: [
-                    // Top App Bar & Theme Switcher
+                    // Top App Bar & Theme Switcher & Settings Button
                     _buildTopBar(cfg),
 
                     const SizedBox(height: 10),
@@ -140,6 +145,21 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             ],
           ),
           const Spacer(),
+          // 설정 페이지 이동 버튼 (종료음 & 딜레이 & PRO 관리)
+          IconButton(
+            icon: Container(
+              padding: const EdgeInsets.all(6),
+              decoration: BoxDecoration(
+                color: cfg.cardColor,
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(color: cfg.borderColor.withOpacity(0.6), width: 1.2),
+              ),
+              child: const Icon(Icons.settings_outlined, color: Colors.white, size: 17),
+            ),
+            tooltip: '체인 & 사운드 설정',
+            onPressed: () => ChainTimerSettingsPage.show(context, _engine),
+          ),
+          const SizedBox(width: 4),
           // 테마 전환 버튼 (팝업 메뉴)
           PopupMenuButton<TimelabTheme>(
             icon: Container(
@@ -398,8 +418,18 @@ class _ChainTimerPageState extends State<ChainTimerPage>
 
   Widget _buildSlotCountChip(int count) {
     final active = _engine.activeSlotCount == count;
+    final isPro = context.read<DokkeyProvider>().isProUser;
+
     return InkWell(
-      onTap: () => _engine.setActiveSlotCount(count),
+      onTap: () {
+        if (!isPro && count > 1) {
+          SoundService().playCardFlip();
+          ProPassDialog.show(context);
+          return;
+        }
+        HapticFeedback.selectionClick();
+        _engine.setActiveSlotCount(count);
+      },
       borderRadius: BorderRadius.circular(6),
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
@@ -407,13 +437,22 @@ class _ChainTimerPageState extends State<ChainTimerPage>
           color: active ? const Color(0xFFFFD700) : Colors.white10,
           borderRadius: BorderRadius.circular(6),
         ),
-        child: Text(
-          '$count단',
-          style: TextStyle(
-            color: active ? Colors.black : Colors.white70,
-            fontSize: 10.5,
-            fontWeight: FontWeight.bold,
-          ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text(
+              '$count단',
+              style: TextStyle(
+                color: active ? Colors.black : Colors.white70,
+                fontSize: 10.5,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            if (!isPro && count > 1) ...[
+              const SizedBox(width: 3),
+              const Text('👑', style: TextStyle(fontSize: 8.5)),
+            ],
+          ],
         ),
       ),
     );

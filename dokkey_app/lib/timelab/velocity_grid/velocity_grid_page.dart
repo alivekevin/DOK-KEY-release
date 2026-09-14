@@ -1,8 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
+import '../../core/sound_service.dart';
+import '../../core/theme.dart';
+import '../../providers/dokkey_provider.dart';
+import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
 import 'velocity_grid_engine.dart';
+import 'velocity_records_dialog.dart';
 
 /// ⚡ 모듈 2: 9-레인 그리드 스톱워치 (The Velocity Grid) 가변형 벤토 그리드
 class VelocityGridPage extends StatefulWidget {
@@ -54,12 +60,91 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     return '$m:$s.$ms';
   }
 
+  void _showSaveRecordDialog(BuildContext dialogCtx) {
+    final isPro = context.read<DokkeyProvider>().isProUser;
+    if (!isPro) {
+      SoundService().playCardFlip();
+      ProPassDialog.show(context);
+      return;
+    }
+
+    final titleCtrl = TextEditingController(text: '스톱워치 기록 (${_engine.laneCount}인)');
+
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: const Color(0xFF161E2E),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        title: const Row(
+          children: [
+            Text('💾', style: TextStyle(fontSize: 20)),
+            SizedBox(width: 8),
+            Text('기록 보관함에 저장', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text('기록의 제목을 입력해 주세요:', style: TextStyle(color: Colors.white70, fontSize: 13)),
+            const SizedBox(height: 10),
+            TextField(
+              controller: titleCtrl,
+              autofocus: true,
+              style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+              decoration: InputDecoration(
+                filled: true,
+                fillColor: const Color(0xFF0D131F),
+                hintText: '예: 50m 달리기 결승전',
+                hintStyle: const TextStyle(color: Colors.white38),
+                contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+                border: OutlineInputBorder(borderRadius: BorderRadius.circular(12), borderSide: const BorderSide(color: Colors.white24)),
+                focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(12), borderSide: const BorderSide(color: Color(0xFFFFD700), width: 1.5)),
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(),
+            child: const Text('취소', style: TextStyle(color: Colors.white54)),
+          ),
+          ElevatedButton(
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFD700),
+              foregroundColor: Colors.black,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            ),
+            onPressed: () async {
+              final title = titleCtrl.text.trim();
+              await _engine.saveCurrentRecord(title);
+              if (ctx.mounted) Navigator.of(ctx).pop();
+              if (mounted) {
+                HapticFeedback.heavyImpact();
+                SoundService().playCoinJangle();
+                ScaffoldMessenger.of(context).showSnackBar(
+                  SnackBar(
+                    content: Text('✅ "$title" 기록이 보관함에 안전하게 저장되었습니다!'),
+                    backgroundColor: DokkeyTheme.cardDark,
+                  ),
+                );
+              }
+            },
+            child: const Text('저장하기', style: TextStyle(fontWeight: FontWeight.bold)),
+          ),
+        ],
+      ),
+    );
+  }
+
   void _showFinishSummaryModal() {
     final sorted = [..._engine.lanes]..sort((a, b) {
         if (a.rank == null) return 1;
         if (b.rank == null) return -1;
         return a.rank!.compareTo(b.rank!);
       });
+
+    final isPro = context.read<DokkeyProvider>().isProUser;
 
     showDialog(
       context: context,
@@ -171,7 +256,34 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                     },
                   ),
                 ),
-                const SizedBox(height: 20),
+                const SizedBox(height: 16),
+
+                // 💾 기록 영구 저장 버튼 (PRO)
+                SizedBox(
+                  width: double.infinity,
+                  child: ElevatedButton.icon(
+                    onPressed: () => _showSaveRecordDialog(ctx),
+                    icon: const Icon(Icons.bookmark_add_rounded, size: 18, color: Colors.black),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: const Color(0xFFFFE66D),
+                      foregroundColor: Colors.black,
+                      padding: const EdgeInsets.symmetric(vertical: 12),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+                    ),
+                    label: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        const Text('기록 보관함에 저장', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5)),
+                        if (!isPro) ...[
+                          const SizedBox(width: 6),
+                          const Text('👑 PRO', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold)),
+                        ],
+                      ],
+                    ),
+                  ),
+                ),
+
+                const SizedBox(height: 10),
                 Row(
                   children: [
                     Expanded(
@@ -181,14 +293,14 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                           _summaryShown = false;
                           _engine.reset();
                         },
-                        icon: const Icon(Icons.replay_rounded, size: 18, color: Colors.black),
+                        icon: const Icon(Icons.replay_rounded, size: 18, color: Colors.white70),
                         style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color(0xFFFFD700),
-                          foregroundColor: Colors.black,
-                          padding: const EdgeInsets.symmetric(vertical: 14),
+                          backgroundColor: const Color(0xFF2D3748),
+                          foregroundColor: Colors.white,
+                          padding: const EdgeInsets.symmetric(vertical: 12),
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                         ),
-                        label: const Text('다시 측정', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 14)),
+                        label: const Text('다시 측정', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
                       ),
                     ),
                     const SizedBox(width: 10),
@@ -196,12 +308,12 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                       child: ElevatedButton(
                         onPressed: () => Navigator.of(ctx).pop(),
                         style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color(0xFF2D3748),
-                          foregroundColor: Colors.white,
-                          padding: const EdgeInsets.symmetric(vertical: 14),
+                          backgroundColor: const Color(0xFF1E2532),
+                          foregroundColor: Colors.white70,
+                          padding: const EdgeInsets.symmetric(vertical: 12),
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                         ),
-                        child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+                        child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
                       ),
                     ),
                   ],
@@ -302,7 +414,30 @@ class _VelocityGridPageState extends State<VelocityGridPage>
             ],
           ),
           const Spacer(),
-          // Lane Count Picker (1~9)
+          // 기록 보관함 버튼 (PRO 기능)
+          IconButton(
+            icon: Container(
+              padding: const EdgeInsets.all(6),
+              decoration: BoxDecoration(
+                color: cfg.cardColor,
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(color: cfg.borderColor.withOpacity(0.6), width: 1.2),
+              ),
+              child: const Icon(Icons.history_edu_rounded, color: Colors.white, size: 17),
+            ),
+            tooltip: '스톱워치 기록 보관함',
+            onPressed: () {
+              final isPro = context.read<DokkeyProvider>().isProUser;
+              if (!isPro) {
+                SoundService().playCardFlip();
+                ProPassDialog.show(context);
+                return;
+              }
+              VelocityRecordsDialog.show(context, _engine);
+            },
+          ),
+          const SizedBox(width: 4),
+          // Lane Count Picker (1~9, >1인은 PRO)
           if (!_engine.isRunning)
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
@@ -318,13 +453,32 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 icon: const Icon(Icons.arrow_drop_down, color: Colors.white70),
                 items: List.generate(
                   9,
-                  (i) => DropdownMenuItem(
-                    value: i + 1,
-                    child: Text('${i + 1}인', style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold)),
-                  ),
+                  (i) {
+                    final num = i + 1;
+                    final isPro = context.read<DokkeyProvider>().isProUser;
+                    return DropdownMenuItem(
+                      value: num,
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text('${num}인', style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold)),
+                          if (num > 1 && !isPro) ...[
+                            const SizedBox(width: 4),
+                            const Text('👑', style: TextStyle(fontSize: 10)),
+                          ],
+                        ],
+                      ),
+                    );
+                  },
                 ),
                 onChanged: (val) {
                   if (val != null) {
+                    final isPro = context.read<DokkeyProvider>().isProUser;
+                    if (val > 1 && !isPro) {
+                      SoundService().playCardFlip();
+                      ProPassDialog.show(context);
+                      return;
+                    }
                     _summaryShown = false;
                     _engine.setLaneCount(val);
                   }

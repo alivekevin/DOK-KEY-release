@@ -79,6 +79,25 @@ void main() {
       expect(engine.status, ChainTimerStatus.idle);
       expect(engine.currentStepIndex, 0);
     });
+
+    test('ChainStep 커스텀 사운드 및 지연시간(Delay) 설정 & 직렬화 검증', () {
+      engine.updateStepDuration(0, const Duration(seconds: 15));
+      engine.updateStepDelay(0, const Duration(seconds: 3));
+      engine.steps[0].soundId = 'custom';
+      engine.steps[0].customSoundPath = '/storage/emulated/0/Music/quiet_song.mp3';
+      engine.steps[0].customSoundName = 'quiet_song.mp3';
+
+      expect(engine.steps[0].duration.inSeconds, 15);
+      expect(engine.steps[0].delayAfter.inSeconds, 3);
+      expect(engine.steps[0].soundDisplayName, '📁 quiet_song.mp3');
+
+      final json = engine.steps[0].toJson();
+      final restored = ChainStep.fromJson(json);
+      expect(restored.duration.inSeconds, 15);
+      expect(restored.delayAfter.inSeconds, 3);
+      expect(restored.customSoundPath, '/storage/emulated/0/Music/quiet_song.mp3');
+      expect(restored.customSoundName, 'quiet_song.mp3');
+    });
   });
 
   group('Velocity Grid Stopwatch Engine Tests', () {
@@ -126,6 +145,29 @@ void main() {
       expect(gridEngine.lanes[2].rank, 3);
       expect(gridEngine.allFinished, true);
       expect(gridEngine.isRunning, false);
+    });
+
+    test('VelocityRecord 영구 저장 및 삭제 기능 검증', () async {
+      gridEngine.setLaneCount(2);
+      gridEngine.start();
+      gridEngine.recordRunnerFinish(0);
+      gridEngine.recordRunnerFinish(1);
+
+      final record = await gridEngine.saveCurrentRecord('결승전 테스트');
+      expect(gridEngine.savedRecords.length, 1);
+      expect(gridEngine.savedRecords.first.title, '결승전 테스트');
+      expect(gridEngine.savedRecords.first.laneCount, 2);
+      expect(gridEngine.savedRecords.first.results.length, 2);
+
+      // JSON 직렬화 & 역직렬화
+      final json = record.toJson();
+      final restored = VelocityRecord.fromJson(json);
+      expect(restored.title, '결승전 테스트');
+      expect(restored.results.first.rank, 1);
+
+      // 삭제
+      await gridEngine.deleteRecord(record.id);
+      expect(gridEngine.savedRecords.isEmpty, true);
     });
   });
 }

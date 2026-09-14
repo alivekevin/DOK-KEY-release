@@ -1,10 +1,14 @@
 import 'dart:async';
+import 'dart:convert';
 import 'package:flutter/foundation.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../core/timelab_sound_engine.dart';
 import '../models/timelab_models.dart';
 
 /// ⚡ 9-레인 그리드 스톱워치 (The Velocity Grid) 상태 관리 엔진
 class VelocityGridEngine extends ChangeNotifier {
+  static const String _storageKey = 'dokkey_velocity_records_v1';
+
   TimelabTheme theme = TimelabTheme.orbitalLaunch;
 
   int laneCount = 4; // 1 ~ 9 인원
@@ -20,9 +24,59 @@ class VelocityGridEngine extends ChangeNotifier {
   Duration _pausedElapsed = Duration.zero;
 
   final TimelabSoundEngine _sound = TimelabSoundEngine();
+  List<VelocityRecord> savedRecords = [];
 
   VelocityGridEngine() {
     _initLanes();
+    loadRecords();
+  }
+
+  /// 기록 목록 불러오기 (SharedPreferences)
+  Future<void> loadRecords() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final jsonStr = prefs.getString(_storageKey);
+      if (jsonStr != null && jsonStr.isNotEmpty) {
+        final List<dynamic> decoded = jsonDecode(jsonStr);
+        savedRecords = decoded.map((item) => VelocityRecord.fromJson(item as Map<String, dynamic>)).toList();
+        notifyListeners();
+      }
+    } catch (e) {
+      debugPrint('Error loading velocity records: $e');
+    }
+  }
+
+  /// 현재 완주 기록 영구 저장 (PRO 전용)
+  Future<VelocityRecord> saveCurrentRecord(String title) async {
+    final newRecord = VelocityRecord(
+      id: 'vr_${DateTime.now().millisecondsSinceEpoch}',
+      title: title.trim().isEmpty ? '스톱워치 기록 (${laneCount}인)' : title.trim(),
+      date: DateTime.now(),
+      laneCount: laneCount,
+      results: lanes.map((l) => l.copyWith()).toList(),
+    );
+
+    savedRecords.insert(0, newRecord);
+    await _persistRecords();
+    notifyListeners();
+    return newRecord;
+  }
+
+  /// 기록 삭제
+  Future<void> deleteRecord(String id) async {
+    savedRecords.removeWhere((r) => r.id == id);
+    await _persistRecords();
+    notifyListeners();
+  }
+
+  Future<void> _persistRecords() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final jsonList = savedRecords.map((r) => r.toJson()).toList();
+      await prefs.setString(_storageKey, jsonEncode(jsonList));
+    } catch (e) {
+      debugPrint('Error saving velocity records: $e');
+    }
   }
 
   void _initLanes() {
