@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
+import '../providers/dokkey_provider.dart';
+import 'core/timelab_i18n.dart';
 import 'chain_timer/chain_timer_page.dart';
 import 'velocity_grid/velocity_grid_page.dart';
 import 'tally_clicker/tally_clicker_page.dart';
 
-/// ⏱️ DOK-KEY 시네마틱 타임 랩 허브 (Cinematic Time Lab Hub)
+/// ⏱️ DOK-KEY 시네마틱 타임 랩 허브 (Cinematic Time Lab Hub) - 6개국어 완벽 지원
 class TimelabHubPage extends StatelessWidget {
   const TimelabHubPage({super.key});
 
@@ -18,6 +21,8 @@ class TimelabHubPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final lang = context.watch<DokkeyProvider>().lang;
+
     return Scaffold(
       backgroundColor: const Color(0xFF0A0C10),
       appBar: AppBar(
@@ -33,7 +38,7 @@ class TimelabHubPage extends StatelessWidget {
             const Text('⏱️', style: TextStyle(fontSize: 20)),
             const SizedBox(width: 8),
             Text(
-              '시네마틱 타임 랩',
+              TimelabI18n.timeLabTitle(lang),
               style: TextStyle(
                 color: DokkeyTheme.goldLight,
                 fontWeight: FontWeight.w900,
@@ -84,10 +89,10 @@ class TimelabHubPage extends StatelessWidget {
                       ),
                     ),
                     const SizedBox(height: 6),
-                    const Text(
-                      '밀리초 단위의 초정밀 디지털 카운트다운과 9-레인 동시 계측 스톱워치.\n3대 시네마틱 테마와 SFX 사운드로 시간의 긴장감을 극대화합니다.',
+                    Text(
+                      TimelabI18n.hubHeroDesc(lang),
                       textAlign: TextAlign.center,
-                      style: TextStyle(color: Color(0xFFE2E8F0), fontSize: 12.5, height: 1.5),
+                      style: const TextStyle(color: Color(0xFFE2E8F0), fontSize: 12.5, height: 1.5),
                     ),
                   ],
                 ),
@@ -95,21 +100,22 @@ class TimelabHubPage extends StatelessWidget {
 
               const SizedBox(height: 24),
 
-              const Text(
-                '🔥 타임 랩 전문 모듈',
-                style: TextStyle(color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold),
+              Text(
+                TimelabI18n.specializedModules(lang),
+                style: const TextStyle(color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 12),
 
               // Module 1 Card: The Defuser (3단 시퀀스 체인 타이머)
               _buildModuleCard(
                 context,
-                title: '3단 시퀀스 체인 타이머',
+                title: TimelabI18n.module1Title(lang),
                 tag: 'THE DEFUSER',
                 icon: '💣',
                 accentColor: const Color(0xFFFF0055),
-                desc: '3-Phase 시퀀스 파이프라인 [타이머 ➔ SFX ➔ 지연 대기 ➔ 다음 타이머]와 1~9회 세트 루프 카운트다운.',
-                badge: '밀리초 풀스크린 뷰',
+                desc: TimelabI18n.module1Desc(lang),
+                badge: TimelabI18n.module1Badge(lang),
+                launchLabel: TimelabI18n.launchModule(lang),
                 onTap: () {
                   SoundService().playCardFlip();
                   Navigator.of(context).push(
@@ -123,12 +129,13 @@ class TimelabHubPage extends StatelessWidget {
               // Module 2 Card: The Velocity Grid (9-레인 그리드 스톱워치)
               _buildModuleCard(
                 context,
-                title: '9-레인 그리드 스톱워치',
+                title: TimelabI18n.module2Title(lang),
                 tag: 'THE VELOCITY GRID',
                 icon: '⚡',
                 accentColor: const Color(0xFF00E5FF),
-                desc: '1~9인 가변형 벤토 그리드. 하단 일괄 START/GO 동시 출발 & 주자 터치 즉시 랭킹/랩타임 Freeze & Lock.',
-                badge: '원터치 랭킹 계측',
+                desc: TimelabI18n.module2Desc(lang),
+                badge: TimelabI18n.module2Badge(lang),
+                launchLabel: TimelabI18n.launchModule(lang),
                 onTap: () {
                   SoundService().playCardFlip();
                   Navigator.of(context).push(
@@ -142,12 +149,13 @@ class TimelabHubPage extends StatelessWidget {
               // Module 3 Card: The Tactical Clicker (택티컬 탭 카운터)
               _buildModuleCard(
                 context,
-                title: '택티컬 탭 카운터',
+                title: TimelabI18n.module3Title(lang),
                 tag: 'THE TACTICAL CLICKER',
                 icon: '🔢',
                 accentColor: const Color(0xFF00FF66),
-                desc: '화면 어디를 두드려도 반응하는 풀스크린 네온 계수기. 0~99,999 카운트, 목표치(TARGET) 설정 & 10·100단위 마일스톤 피드백.',
-                badge: '초직관 탭 계수기',
+                desc: TimelabI18n.module3Desc(lang),
+                badge: TimelabI18n.module3Badge(lang),
+                launchLabel: TimelabI18n.launchModule(lang),
                 onTap: () {
                   SoundService().playCardFlip();
                   Navigator.of(context).push(
@@ -169,13 +177,16 @@ class TimelabHubPage extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Text('🎨 탑재된 3대 테마 프리셋', style: TextStyle(color: Color(0xFFFFD700), fontWeight: FontWeight.w900, fontSize: 13.5)),
+                    Text(
+                      TimelabI18n.themesTitle(lang),
+                      style: const TextStyle(color: Color(0xFFFFD700), fontWeight: FontWeight.w900, fontSize: 13.5),
+                    ),
                     const SizedBox(height: 8),
-                    _buildThemeInfoRow('🟢 클래식 디지털', '매트 카본 텍스처 · 7-세그먼트 그린 LCD · 릴레이 틱 SFX'),
+                    _buildThemeInfoRow('🟢 ${TimelabI18n.themeClassic(lang)}', TimelabI18n.themeClassicDesc(lang)),
                     const SizedBox(height: 6),
-                    _buildThemeInfoRow('🔴 사이버 디퓨저', '다크 HUD 글래스 · 네온 레드 글리치 · 심장박동음 & 폭발 쉐이크'),
+                    _buildThemeInfoRow('🔴 ${TimelabI18n.themeCyber(lang)}', TimelabI18n.themeCyberDesc(lang)),
                     const SizedBox(height: 6),
-                    _buildThemeInfoRow('🔵 우주 발사', '딥 스페이스 궤도선 · 사이언 블루 · 10초 전 플래시 & 부스터 럼블'),
+                    _buildThemeInfoRow('🔵 ${TimelabI18n.themeOrbital(lang)}', TimelabI18n.themeOrbitalDesc(lang)),
                   ],
                 ),
               ),
@@ -207,6 +218,7 @@ class TimelabHubPage extends StatelessWidget {
     required Color accentColor,
     required String desc,
     required String badge,
+    required String launchLabel,
     required VoidCallback onTap,
   }) {
     return Material(
@@ -272,7 +284,7 @@ class TimelabHubPage extends StatelessWidget {
                 child: Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Text('모듈 가동하기', style: TextStyle(color: accentColor, fontWeight: FontWeight.bold, fontSize: 12.5)),
+                    Text(launchLabel, style: TextStyle(color: accentColor, fontWeight: FontWeight.bold, fontSize: 12.5)),
                     const SizedBox(width: 4),
                     Icon(Icons.arrow_forward_rounded, size: 14, color: accentColor),
                   ],

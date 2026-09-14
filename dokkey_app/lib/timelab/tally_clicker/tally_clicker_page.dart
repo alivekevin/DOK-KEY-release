@@ -1,14 +1,17 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
 import '../../core/theme.dart';
 import '../../core/sound_service.dart';
+import '../../providers/dokkey_provider.dart';
 import '../models/timelab_models.dart';
 import '../core/timelab_theme_engine.dart';
+import '../core/timelab_i18n.dart';
 import 'tally_clicker_engine.dart';
 
 /// 🔢 택티컬 탭 카운터 (The Tactical Clicker)
-/// 풀스크린 네온 터치패드 & 7-세그먼트 스타일 계수기 UI
+/// 풀스크린 네온 터치패드 & 7-세그먼트 스타일 계수기 UI (6개국어 완벽 지원)
 class TallyClickerPage extends StatefulWidget {
   const TallyClickerPage({super.key});
 
@@ -105,7 +108,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
     });
   }
 
-  void _startResetHold() {
+  void _startResetHold(String lang) {
     setState(() {
       _isResetHolding = true;
       _resetHoldProgress = 0.0;
@@ -134,9 +137,9 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
             _resetHoldProgress = 0.0;
           });
           ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('🔄 카운터가 0으로 초기화되었습니다.'),
-              duration: Duration(milliseconds: 1000),
+            SnackBar(
+              content: Text(TimelabI18n.resetDone(lang)),
+              duration: const Duration(milliseconds: 1000),
               behavior: SnackBarBehavior.floating,
             ),
           );
@@ -155,7 +158,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
     }
   }
 
-  void _showTargetDialog(TimelabThemeConfig themeCfg) {
+  void _showTargetDialog(TimelabThemeConfig themeCfg, String lang) {
     final controller = TextEditingController(
       text: _engine.targetCount != null ? _engine.targetCount.toString() : '',
     );
@@ -170,11 +173,11 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
         ),
         title: Row(
           children: [
-            Text('🎯', style: TextStyle(fontSize: 22)),
+            const Text('🎯', style: TextStyle(fontSize: 22)),
             const SizedBox(width: 8),
             Text(
-              '목표 수치 (Target) 설정',
-              style: TextStyle(
+              TimelabI18n.targetSettingTitle(lang),
+              style: const TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
                 fontSize: 16,
@@ -186,9 +189,9 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text(
-              '목표 카운트에 도달하면 화려한 시네마틱 피날레와 진동이 울립니다.',
-              style: TextStyle(color: Color(0xFF94A3B8), fontSize: 13, height: 1.4),
+            Text(
+              TimelabI18n.targetSettingDesc(lang),
+              style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 13, height: 1.4),
             ),
             const SizedBox(height: 16),
             TextField(
@@ -202,7 +205,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                 fontFamily: 'monospace',
               ),
               decoration: InputDecoration(
-                hintText: '예: 100 (0 입력 시 해제)',
+                hintText: TimelabI18n.targetHint(lang),
                 hintStyle: const TextStyle(color: Colors.white24, fontSize: 14),
                 filled: true,
                 fillColor: const Color(0xFF0A0C10),
@@ -241,7 +244,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
               _engine.setTargetCount(null);
               Navigator.of(ctx).pop();
             },
-            child: const Text('목표 해제', style: TextStyle(color: Colors.white54)),
+            child: Text(TimelabI18n.clearTarget(lang), style: const TextStyle(color: Colors.white54)),
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
@@ -254,14 +257,14 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
               _engine.setTargetCount(parsed);
               Navigator.of(ctx).pop();
             },
-            child: const Text('설정 완료', style: TextStyle(fontWeight: FontWeight.bold)),
+            child: Text(TimelabI18n.saveSetting(lang), style: const TextStyle(fontWeight: FontWeight.bold)),
           ),
         ],
       ),
     );
   }
 
-  void _showThemeSelector() {
+  void _showThemeSelector(String lang) {
     showModalBottomSheet(
       context: context,
       backgroundColor: const Color(0xFF121620),
@@ -276,14 +279,32 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                const Text(
-                  '🎨 시네마틱 테마 선택',
-                  style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
+                Text(
+                  TimelabI18n.selectThemeTitle(lang),
+                  style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
                 ),
                 const SizedBox(height: 16),
                 ...TimelabTheme.values.map((t) {
                   final cfg = TimelabThemeConfig.of(t);
                   final isSel = _engine.theme == t;
+
+                  String displayName;
+                  String subtitle;
+                  switch (t) {
+                    case TimelabTheme.classicDigital:
+                      displayName = TimelabI18n.themeClassic(lang);
+                      subtitle = TimelabI18n.themeClassicDesc(lang);
+                      break;
+                    case TimelabTheme.cyberDefuser:
+                      displayName = TimelabI18n.themeCyber(lang);
+                      subtitle = TimelabI18n.themeCyberDesc(lang);
+                      break;
+                    case TimelabTheme.orbitalLaunch:
+                      displayName = TimelabI18n.themeOrbital(lang);
+                      subtitle = TimelabI18n.themeOrbitalDesc(lang);
+                      break;
+                  }
+
                   return Padding(
                     padding: const EdgeInsets.only(bottom: 10),
                     child: InkWell(
@@ -318,7 +339,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
-                                    cfg.displayName,
+                                    displayName,
                                     style: TextStyle(
                                       color: isSel ? cfg.primaryColor : Colors.white,
                                       fontWeight: FontWeight.bold,
@@ -326,7 +347,9 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                     ),
                                   ),
                                   Text(
-                                    cfg.subtitle,
+                                    subtitle,
+                                    maxLines: 1,
+                                    overflow: TextOverflow.ellipsis,
                                     style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 11),
                                   ),
                                 ],
@@ -350,6 +373,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
 
   @override
   Widget build(BuildContext context) {
+    final lang = context.watch<DokkeyProvider>().lang;
     final themeCfg = TimelabThemeConfig.of(_engine.theme);
 
     return Scaffold(
@@ -404,7 +428,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                           size: 20,
                         ),
                         onPressed: () => _engine.toggleSound(),
-                        tooltip: '사운드 켜기/끄기',
+                        tooltip: 'Sound ON/OFF',
                       ),
                       // 진동 토글
                       IconButton(
@@ -414,13 +438,13 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                           size: 20,
                         ),
                         onPressed: () => _engine.toggleVibration(),
-                        tooltip: '진동 켜기/끄기',
+                        tooltip: 'Vibrate ON/OFF',
                       ),
                       // 테마 변경
                       IconButton(
                         icon: const Icon(Icons.palette_outlined, color: Colors.white70, size: 20),
-                        onPressed: _showThemeSelector,
-                        tooltip: '테마 변경',
+                        onPressed: () => _showThemeSelector(lang),
+                        tooltip: 'Theme',
                       ),
                     ],
                   ),
@@ -540,7 +564,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                       Icon(Icons.touch_app_rounded, color: themeCfg.primaryColor, size: 14),
                                       const SizedBox(width: 6),
                                       Text(
-                                        '화면 어디든 탭하여 +1 카운트',
+                                        TimelabI18n.tapAnywhere(lang),
                                         style: TextStyle(
                                           color: themeCfg.primaryColor,
                                           fontSize: 12,
@@ -595,7 +619,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                       Expanded(
                         flex: 3,
                         child: GestureDetector(
-                          onLongPressStart: (_) => _startResetHold(),
+                          onLongPressStart: (_) => _startResetHold(lang),
                           onLongPressEnd: (_) => _cancelResetHold(),
                           onLongPressCancel: () => _cancelResetHold(),
                           child: Container(
@@ -633,7 +657,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                       ),
                                       const SizedBox(width: 6),
                                       Text(
-                                        _isResetHolding ? '초기화 중...' : 'RESET (길게)',
+                                        _isResetHolding ? TimelabI18n.resetting(lang) : TimelabI18n.resetHold(lang),
                                         style: TextStyle(
                                           color: _isResetHolding ? const Color(0xFFFF9100) : Colors.white,
                                           fontSize: 13,
@@ -662,7 +686,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                             padding: const EdgeInsets.symmetric(vertical: 14),
                             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                           ),
-                          onPressed: () => _showTargetDialog(themeCfg),
+                          onPressed: () => _showTargetDialog(themeCfg, lang),
                           child: const Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
