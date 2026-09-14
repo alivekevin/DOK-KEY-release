@@ -5,6 +5,7 @@ import '../../core/sound_service.dart';
 import '../../core/theme.dart';
 import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
+import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
 import 'velocity_grid_engine.dart';
@@ -27,7 +28,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
   @override
   void initState() {
     super.initState();
-    _engine = VelocityGridEngine();
+    _engine = VelocityGridEngine(lang: context.read<DokkeyProvider>().lang);
     _animCtrl = AnimationController(
       vsync: this,
       duration: const Duration(seconds: 4),
@@ -40,7 +41,9 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     if (_engine.allFinished && !_summaryShown) {
       _summaryShown = true;
       WidgetsBinding.instance.addPostFrameCallback((_) {
-        if (mounted) _showFinishSummaryModal();
+        if (mounted) {
+          _showFinishSummaryModal(context.read<DokkeyProvider>().lang);
+        }
       });
     }
   }
@@ -60,7 +63,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     return '$m:$s.$ms';
   }
 
-  void _showSaveRecordDialog(BuildContext dialogCtx) {
+  void _showSaveRecordDialog(BuildContext dialogCtx, String lang) {
     final isPro = context.read<DokkeyProvider>().isProUser;
     if (!isPro) {
       SoundService().playCardFlip();
@@ -68,25 +71,32 @@ class _VelocityGridPageState extends State<VelocityGridPage>
       return;
     }
 
-    final titleCtrl = TextEditingController(text: '스톱워치 기록 (${_engine.laneCount}인)');
+    final titleCtrl = TextEditingController(
+      text: TimelabI18n.defaultRecordTitle(lang, _engine.laneCount),
+    );
 
     showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
         backgroundColor: const Color(0xFF161E2E),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-        title: const Row(
+        title: Row(
           children: [
-            Text('💾', style: TextStyle(fontSize: 20)),
-            SizedBox(width: 8),
-            Text('기록 보관함에 저장', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
+            const Text('💾', style: TextStyle(fontSize: 20)),
+            const SizedBox(width: 8),
+            Flexible(
+              child: Text(
+                TimelabI18n.saveToVault(lang),
+                style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16),
+              ),
+            ),
           ],
         ),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text('기록의 제목을 입력해 주세요:', style: TextStyle(color: Colors.white70, fontSize: 13)),
+            Text(TimelabI18n.recordTitlePrompt(lang), style: const TextStyle(color: Colors.white70, fontSize: 13)),
             const SizedBox(height: 10),
             TextField(
               controller: titleCtrl,
@@ -95,7 +105,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               decoration: InputDecoration(
                 filled: true,
                 fillColor: const Color(0xFF0D131F),
-                hintText: '예: 50m 달리기 결승전',
+                hintText: TimelabI18n.recordTitleHint(lang),
                 hintStyle: const TextStyle(color: Colors.white38),
                 contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
                 border: OutlineInputBorder(borderRadius: BorderRadius.circular(12), borderSide: const BorderSide(color: Colors.white24)),
@@ -107,7 +117,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
         actions: [
           TextButton(
             onPressed: () => Navigator.of(ctx).pop(),
-            child: const Text('취소', style: TextStyle(color: Colors.white54)),
+            child: Text(TimelabI18n.cancelLabel(lang), style: const TextStyle(color: Colors.white54)),
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
@@ -124,20 +134,20 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 SoundService().playCoinJangle();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
-                    content: Text('✅ "$title" 기록이 보관함에 안전하게 저장되었습니다!'),
+                    content: Text(TimelabI18n.recordSavedToast(lang, title)),
                     backgroundColor: DokkeyTheme.cardDark,
                   ),
                 );
               }
             },
-            child: const Text('저장하기', style: TextStyle(fontWeight: FontWeight.bold)),
+            child: Text(TimelabI18n.saveRecordLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold)),
           ),
         ],
       ),
     );
   }
 
-  void _showFinishSummaryModal() {
+  void _showFinishSummaryModal(String lang) {
     final sorted = [..._engine.lanes]..sort((a, b) {
         if (a.rank == null) return 1;
         if (b.rank == null) return -1;
@@ -177,9 +187,9 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               children: [
                 const Text('🏆', style: TextStyle(fontSize: 42)),
                 const SizedBox(height: 6),
-                const Text(
-                  '전원 완주! 공식 기록표',
-                  style: TextStyle(
+                Text(
+                  TimelabI18n.allFinishedTitle(lang),
+                  style: const TextStyle(
                     color: Color(0xFFFFE66D),
                     fontSize: 20,
                     fontWeight: FontWeight.w900,
@@ -202,10 +212,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                       final isSecond = l.rank == 2;
                       final isThird = l.rank == 3;
 
-                      String medal = '${l.rank}위';
-                      if (isFirst) medal = '🥇 1위';
-                      if (isSecond) medal = '🥈 2위';
-                      if (isThird) medal = '🥉 3위';
+                      final medal = TimelabI18n.rankLabel(lang, l.rank ?? 0);
 
                       return Container(
                         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
@@ -262,7 +269,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 SizedBox(
                   width: double.infinity,
                   child: ElevatedButton.icon(
-                    onPressed: () => _showSaveRecordDialog(ctx),
+                    onPressed: () => _showSaveRecordDialog(ctx, lang),
                     icon: const Icon(Icons.bookmark_add_rounded, size: 18, color: Colors.black),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: const Color(0xFFFFE66D),
@@ -273,7 +280,14 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                     label: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        const Text('기록 보관함에 저장', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5)),
+                        Flexible(
+                          child: Text(
+                            TimelabI18n.saveToVault(lang),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5),
+                          ),
+                        ),
                         if (!isPro) ...[
                           const SizedBox(width: 6),
                           const Text('👑 PRO', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold)),
@@ -300,7 +314,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                           padding: const EdgeInsets.symmetric(vertical: 12),
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                         ),
-                        label: const Text('다시 측정', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
+                        label: Text(TimelabI18n.remeasureLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
                       ),
                     ),
                     const SizedBox(width: 10),
@@ -313,7 +327,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                           padding: const EdgeInsets.symmetric(vertical: 12),
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                         ),
-                        child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
+                        child: Text(TimelabI18n.closeLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
                       ),
                     ),
                   ],
@@ -331,6 +345,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     return AnimatedBuilder(
       animation: Listenable.merge([_engine, _animCtrl]),
       builder: (context, _) {
+        final lang = context.watch<DokkeyProvider>().lang;
         final cfg = TimelabThemeConfig.of(_engine.theme);
 
         return Scaffold(
@@ -352,7 +367,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 child: Column(
                   children: [
                     // Top Bar (Back, Title, Runner Count Selector, Theme)
-                    _buildTopBar(cfg),
+                    _buildTopBar(cfg, lang),
 
                     // Stopwatch Global Master Timer Display
                     Padding(
@@ -364,7 +379,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                     Expanded(
                       child: Padding(
                         padding: const EdgeInsets.symmetric(horizontal: 14),
-                        child: _buildBentoGrid(cfg),
+                        child: _buildBentoGrid(cfg, lang),
                       ),
                     ),
 
@@ -373,7 +388,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                     // Bottom Big START/GO / RESET Bar
                     Padding(
                       padding: const EdgeInsets.fromLTRB(14, 0, 14, 16),
-                      child: _buildBottomControls(cfg),
+                      child: _buildBottomControls(cfg, lang),
                     ),
                   ],
                 ),
@@ -385,7 +400,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     );
   }
 
-  Widget _buildTopBar(TimelabThemeConfig cfg) {
+  Widget _buildTopBar(TimelabThemeConfig cfg, String lang) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
       child: Row(
@@ -399,7 +414,9 @@ class _VelocityGridPageState extends State<VelocityGridPage>
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                '9-레인 그리드 스톱워치',
+                TimelabI18n.module2Title(lang),
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
                 style: TextStyle(
                   color: cfg.primaryColor,
                   fontWeight: FontWeight.w900,
@@ -408,7 +425,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 ),
               ),
               Text(
-                'THE VELOCITY GRID · ${_engine.laneCount}인 레인',
+                'THE VELOCITY GRID · ${TimelabI18n.runnersCount(lang, _engine.laneCount)}',
                 style: const TextStyle(color: Colors.white54, fontSize: 10.5, fontWeight: FontWeight.bold),
               ),
             ],
@@ -425,7 +442,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               ),
               child: const Icon(Icons.history_edu_rounded, color: Colors.white, size: 17),
             ),
-            tooltip: '스톱워치 기록 보관함',
+            tooltip: TimelabI18n.viewRecords(lang),
             onPressed: () {
               final isPro = context.read<DokkeyProvider>().isProUser;
               if (!isPro) {
@@ -461,7 +478,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
                         children: [
-                          Text('${num}인', style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold)),
+                          Text(TimelabI18n.personShort(lang, num), style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold)),
                           if (num > 1 && !isPro) ...[
                             const SizedBox(width: 4),
                             const Text('👑', style: TextStyle(fontSize: 10)),
@@ -532,7 +549,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     );
   }
 
-  Widget _buildBentoGrid(TimelabThemeConfig cfg) {
+  Widget _buildBentoGrid(TimelabThemeConfig cfg, String lang) {
     final count = _engine.laneCount;
 
     if (count <= 3) {
@@ -543,7 +560,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
             Expanded(
               child: Padding(
                 padding: const EdgeInsets.symmetric(vertical: 4),
-                child: _buildRunnerCard(i, cfg, isWide: true),
+                child: _buildRunnerCard(i, cfg, lang, isWide: true),
               ),
             ),
         ],
@@ -559,7 +576,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
           mainAxisSpacing: 8,
         ),
         itemCount: count,
-        itemBuilder: (_, idx) => _buildRunnerCard(idx, cfg),
+        itemBuilder: (_, idx) => _buildRunnerCard(idx, cfg, lang),
       );
     } else {
       // 7~9인: 3×3 터치 패드
@@ -572,12 +589,12 @@ class _VelocityGridPageState extends State<VelocityGridPage>
           mainAxisSpacing: 6,
         ),
         itemCount: count,
-        itemBuilder: (_, idx) => _buildRunnerCard(idx, cfg, isCompact: true),
+        itemBuilder: (_, idx) => _buildRunnerCard(idx, cfg, lang, isCompact: true),
       );
     }
   }
 
-  Widget _buildRunnerCard(int idx, TimelabThemeConfig cfg, {bool isWide = false, bool isCompact = false}) {
+  Widget _buildRunnerCard(int idx, TimelabThemeConfig cfg, String lang, {bool isWide = false, bool isCompact = false}) {
     final runner = _engine.lanes[idx];
     final isFinished = runner.isFinished;
     final rank = runner.rank;
@@ -628,17 +645,23 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               ? Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Row(
-                      children: [
-                        _buildRankBadge(runner, isCompact),
-                        const SizedBox(width: 14),
-                        Text(
-                          runner.name,
-                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16),
-                        ),
-                      ],
+                    Flexible(
+                      child: Row(
+                        children: [
+                          _buildRankBadge(runner, lang, isCompact),
+                          const SizedBox(width: 14),
+                          Flexible(
+                            child: Text(
+                              runner.name,
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
+                              style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16),
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
-                    _buildLapDisplay(runner, cfg, isWide: true),
+                    _buildLapDisplay(runner, cfg, lang, isWide: true),
                   ],
                 )
               : Column(
@@ -647,7 +670,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        _buildRankBadge(runner, isCompact),
+                        _buildRankBadge(runner, lang, isCompact),
                         Flexible(
                           child: Text(
                             runner.name,
@@ -661,7 +684,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                         ),
                       ],
                     ),
-                    _buildLapDisplay(runner, cfg, isCompact: isCompact),
+                    _buildLapDisplay(runner, cfg, lang, isCompact: isCompact),
                   ],
                 ),
         ),
@@ -669,24 +692,20 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     );
   }
 
-  Widget _buildRankBadge(RunnerLane runner, bool isCompact) {
+  Widget _buildRankBadge(RunnerLane runner, String lang, bool isCompact) {
     if (runner.isFinished && runner.rank != null) {
-      final r = runner.rank!;
-      String text = '$r위';
-      if (r == 1) text = '🥇 1위';
-      if (r == 2) text = '🥈 2위';
-      if (r == 3) text = '🥉 3위';
+      final text = TimelabI18n.rankLabel(lang, runner.rank!);
 
       return Container(
         padding: EdgeInsets.symmetric(horizontal: isCompact ? 5 : 8, vertical: 3),
         decoration: BoxDecoration(
-          color: r == 1 ? const Color(0xFFFFD700) : Colors.black45,
+          color: runner.rank == 1 ? const Color(0xFFFFD700) : Colors.black45,
           borderRadius: BorderRadius.circular(8),
         ),
         child: Text(
           text,
           style: TextStyle(
-            color: r == 1 ? Colors.black : Colors.white,
+            color: runner.rank == 1 ? Colors.black : Colors.white,
             fontWeight: FontWeight.w900,
             fontSize: isCompact ? 10 : 12,
           ),
@@ -707,7 +726,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     );
   }
 
-  Widget _buildLapDisplay(RunnerLane runner, TimelabThemeConfig cfg, {bool isWide = false, bool isCompact = false}) {
+  Widget _buildLapDisplay(RunnerLane runner, TimelabThemeConfig cfg, String lang, {bool isWide = false, bool isCompact = false}) {
     if (runner.isFinished && runner.lapTime != null) {
       return Text(
         _formatLapTime(runner.lapTime!),
@@ -721,7 +740,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     }
 
     return Text(
-      _engine.isRunning ? '터치하여 완주' : '대기 중',
+      _engine.isRunning ? TimelabI18n.touchToFinish(lang) : TimelabI18n.waitingLabel(lang),
       style: TextStyle(
         color: _engine.isRunning ? cfg.primaryColor : Colors.white30,
         fontSize: isCompact ? 10 : 12,
@@ -730,7 +749,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     );
   }
 
-  Widget _buildBottomControls(TimelabThemeConfig cfg) {
+  Widget _buildBottomControls(TimelabThemeConfig cfg, String lang) {
     return Row(
       children: [
         // Reset Button
@@ -752,7 +771,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                 side: const BorderSide(color: Color(0xFF30363D), width: 1.2),
               ),
             ),
-            label: const Text('리셋', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+            label: Text(TimelabI18n.resetLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
           ),
         ),
         const SizedBox(width: 10),
@@ -783,7 +802,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
             ),
             label: Text(
-              _engine.isRunning ? '일괄 일시정지' : 'START / GO (동시 출발)',
+              _engine.isRunning ? TimelabI18n.pauseAllLabel(lang) : TimelabI18n.startGoLabel(lang),
               style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 16),
             ),
           ),

@@ -6,9 +6,8 @@ import '../../core/sound_service.dart';
 import '../../core/theme.dart';
 import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
+import '../core/timelab_i18n.dart';
 import '../core/timelab_sound_engine.dart';
-import '../core/timelab_theme_engine.dart';
-import '../models/timelab_models.dart';
 import 'chain_timer_engine.dart';
 
 /// ⚙️ 3단 시퀀스 체인 타이머 전용 설정 페이지
@@ -33,8 +32,8 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
+    final lang = provider.lang;
     final isPro = provider.isProUser;
-    final cfg = TimelabThemeConfig.of(widget.engine.theme);
 
     return Scaffold(
       backgroundColor: const Color(0xFF0C0F17),
@@ -45,9 +44,9 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           icon: const Icon(Icons.arrow_back_ios_new_rounded, color: Colors.white, size: 20),
           onPressed: () => Navigator.of(context).pop(),
         ),
-        title: const Text(
-          '시퀀스 체인 & 종료음 설정',
-          style: TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
+        title: Text(
+          TimelabI18n.settingsHeader(lang),
+          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
         ),
         centerTitle: true,
       ),
@@ -71,24 +70,24 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   children: [
                     const Text('💣', style: TextStyle(fontSize: 26)),
                     const SizedBox(width: 12),
-                    Expanded(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          const Text(
-                            '3-Phase 시네마틱 체인 플로우',
-                            style: TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 13.5),
-                          ),
-                          const SizedBox(height: 3),
-                          Text(
-                            isPro
-                              ? '각 단계별 타이머 시간, 내 폰의 음악/효과음, 완료 후 지연시간(Delay)을 완벽하게 커스텀 설정할 수 있습니다.'
-                              : '무료 티어는 1단계 타이머를 이용할 수 있습니다. 2~3단계 커스텀 체인 및 내 폰 사운드 지정은 PRO 전용입니다 👑',
-                            style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 11.5, height: 1.35),
-                          ),
-                        ],
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              TimelabI18n.settingsFlowTitle(lang),
+                              style: const TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 13.5),
+                            ),
+                            const SizedBox(height: 3),
+                            Text(
+                              isPro
+                                ? TimelabI18n.settingsDescPro(lang)
+                                : TimelabI18n.settingsDescFree(lang),
+                              style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 11.5, height: 1.35),
+                            ),
+                          ],
+                        ),
                       ),
-                    ),
                   ],
                 ),
               ),
@@ -99,14 +98,14 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  const Text('체인 단계 수', style: TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold)),
+                  Text(TimelabI18n.chainStepCountLabel(lang), style: const TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold)),
                   Row(
                     children: [
-                      _buildSlotTab(1, isPro: true),
+                      _buildSlotTab(1, lang: lang, isPro: true),
                       const SizedBox(width: 6),
-                      _buildSlotTab(2, isPro: isPro),
+                      _buildSlotTab(2, lang: lang, isPro: isPro),
                       const SizedBox(width: 6),
-                      _buildSlotTab(3, isPro: isPro),
+                      _buildSlotTab(3, lang: lang, isPro: isPro),
                     ],
                   ),
                 ],
@@ -115,17 +114,17 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
               const SizedBox(height: 18),
 
               // 1단계 슬롯 카드 (기본)
-              _buildStepCard(0, isLocked: false),
+              _buildStepCard(0, lang: lang, isLocked: false),
 
               const SizedBox(height: 14),
 
               // 2단계 슬롯 카드 (PRO)
-              _buildStepCard(1, isLocked: !isPro),
+              _buildStepCard(1, lang: lang, isLocked: !isPro),
 
               const SizedBox(height: 14),
 
               // 3단계 슬롯 카드 (PRO)
-              _buildStepCard(2, isLocked: !isPro),
+              _buildStepCard(2, lang: lang, isLocked: !isPro),
 
               const SizedBox(height: 24),
 
@@ -140,11 +139,11 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    const Column(
+                    Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('세트 완주 반복 횟수', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13.5)),
-                        Text('1~9회 세트 루프 지원', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                        Text(TimelabI18n.setRepeatTitle(lang), style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13.5)),
+                        Text(TimelabI18n.setRepeatDesc(lang), style: const TextStyle(color: Colors.white54, fontSize: 11)),
                       ],
                     ),
                     Row(
@@ -156,7 +155,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                               : null,
                         ),
                         Text(
-                          '${widget.engine.totalSets} 세트',
+                          TimelabI18n.setsCount(lang, widget.engine.totalSets),
                           style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
                         ),
                         IconButton(
@@ -184,7 +183,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   HapticFeedback.lightImpact();
                   Navigator.of(context).pop();
                 },
-                child: const Text('설정 완료 및 타이머로 돌아가기', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 15)),
+                child: Text(TimelabI18n.saveAndReturnLabel(lang), style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 15)),
               ),
               const SizedBox(height: 20),
             ],
@@ -194,7 +193,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
     );
   }
 
-  Widget _buildSlotTab(int count, {required bool isPro}) {
+  Widget _buildSlotTab(int count, {required String lang, required bool isPro}) {
     final active = widget.engine.activeSlotCount == count;
 
     return InkWell(
@@ -222,7 +221,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              '$count단',
+              TimelabI18n.phaseUnit(lang, count),
               style: TextStyle(
                 color: active ? Colors.black : Colors.white70,
                 fontWeight: FontWeight.bold,
@@ -239,7 +238,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
     );
   }
 
-  Widget _buildStepCard(int idx, {required bool isLocked}) {
+  Widget _buildStepCard(int idx, {required String lang, required bool isLocked}) {
     final step = widget.engine.steps[idx];
     final isEnabled = idx < widget.engine.activeSlotCount;
 
@@ -280,7 +279,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   ),
                   const SizedBox(width: 8),
                   Text(
-                    isEnabled ? '가동 중' : '비활성',
+                    isEnabled ? TimelabI18n.statusActive(lang) : TimelabI18n.statusInactive(lang),
                     style: TextStyle(
                       color: isEnabled ? Colors.greenAccent : Colors.white38,
                       fontSize: 12,
@@ -299,11 +298,9 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       borderRadius: BorderRadius.circular(8),
                       border: Border.all(color: Colors.amber),
                     ),
-                    child: const Row(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Text('👑 PRO 전용', style: TextStyle(color: Colors.amber, fontSize: 11, fontWeight: FontWeight.bold)),
-                      ],
+                    child: Text(
+                      TimelabI18n.proOnlyBadge(lang),
+                      style: const TextStyle(color: Colors.amber, fontSize: 11, fontWeight: FontWeight.bold),
                     ),
                   ),
                 ),
@@ -316,7 +313,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              const Text('타이머 시간', style: TextStyle(color: Colors.white70, fontSize: 13)),
+              Text(TimelabI18n.timerDurationLabel(lang), style: const TextStyle(color: Colors.white70, fontSize: 13)),
               Row(
                 children: [
                   IconButton(
@@ -328,7 +325,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                         : null,
                   ),
                   Text(
-                    '${step.duration.inSeconds}초',
+                    TimelabI18n.secondsShort(lang, step.duration.inSeconds),
                     style: TextStyle(
                       color: isLocked ? Colors.white38 : Colors.white,
                       fontWeight: FontWeight.w900,
@@ -354,14 +351,20 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              const Text('종료 시 효과음', style: TextStyle(color: Colors.white70, fontSize: 13)),
+              Flexible(
+                child: Text(
+                  TimelabI18n.endSoundLabel(lang),
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Colors.white70, fontSize: 13),
+                ),
+              ),
               Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   if (!isLocked && isEnabled)
                     IconButton(
                       icon: const Icon(Icons.volume_up_rounded, color: Colors.amberAccent, size: 20),
-                      tooltip: '효과음 미리듣기',
+                      tooltip: TimelabI18n.previewSfxTooltip(lang),
                       onPressed: () {
                         _soundEngine.playCustomOrPreset(
                           soundId: step.soundId,
@@ -372,7 +375,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       },
                     ),
                   InkWell(
-                    onTap: !isLocked && isEnabled ? () => _showSoundPickerSheet(idx) : null,
+                    onTap: !isLocked && isEnabled ? () => _showSoundPickerSheet(idx, lang) : null,
                     borderRadius: BorderRadius.circular(8),
                     child: Container(
                       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
@@ -384,12 +387,15 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
                         children: [
-                          Text(
-                            step.soundDisplayName,
-                            style: TextStyle(
-                              color: isLocked ? Colors.white38 : const Color(0xFFFFE66D),
-                              fontSize: 12,
-                              fontWeight: FontWeight.bold,
+                          Flexible(
+                            child: Text(
+                              step.soundDisplayName(lang),
+                              overflow: TextOverflow.ellipsis,
+                              style: TextStyle(
+                                color: isLocked ? Colors.white38 : const Color(0xFFFFE66D),
+                                fontSize: 12,
+                                fontWeight: FontWeight.bold,
+                              ),
                             ),
                           ),
                           const SizedBox(width: 4),
@@ -409,7 +415,13 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              const Text('완료 후 다음 지연(Delay)', style: TextStyle(color: Colors.white70, fontSize: 13)),
+              Flexible(
+                child: Text(
+                  TimelabI18n.delayAfterStep(lang),
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Colors.white70, fontSize: 13),
+                ),
+              ),
               Row(
                 children: [
                   IconButton(
@@ -421,7 +433,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                         : null,
                   ),
                   Text(
-                    '${step.delayAfter.inSeconds}초',
+                    TimelabI18n.secondsShort(lang, step.delayAfter.inSeconds),
                     style: TextStyle(
                       color: isLocked ? Colors.white38 : const Color(0xFFFFAB40),
                       fontWeight: FontWeight.w900,
@@ -445,7 +457,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
     );
   }
 
-  void _showSoundPickerSheet(int stepIndex) {
+  void _showSoundPickerSheet(int stepIndex, String lang) {
     final step = widget.engine.steps[stepIndex];
 
     showModalBottomSheet(
@@ -465,9 +477,11 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text(
-                      '🔊 단계 ${stepIndex + 1} 종료 효과음 선택',
-                      style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                    Expanded(
+                      child: Text(
+                        TimelabI18n.soundPickerTitle(lang, stepIndex + 1),
+                        style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                      ),
                     ),
                     IconButton(
                       icon: const Icon(Icons.close, color: Colors.white70),
@@ -489,13 +503,13 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                     ),
                   ),
                   icon: const Icon(Icons.folder_open_rounded, size: 20),
-                  label: const Text(
-                    '📁 내 휴대폰에서 오디오 파일 선택 (.mp3, .wav, .m4a)',
-                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5),
+                  label: Text(
+                    TimelabI18n.pickCustomSound(lang),
+                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5),
                   ),
                   onPressed: () async {
                     Navigator.of(sheetCtx).pop();
-                    await _pickCustomAudioFile(stepIndex);
+                    await _pickCustomAudioFile(stepIndex, lang);
                   },
                 ),
 
@@ -513,7 +527,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       children: [
                         Expanded(
                           child: Text(
-                            '현재 등록: 📁 ${step.customSoundName}',
+                            TimelabI18n.currentlyRegistered(lang, step.customSoundName ?? ''),
                             style: const TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 12),
                             overflow: TextOverflow.ellipsis,
                           ),
@@ -535,17 +549,17 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                 ],
 
                 const SizedBox(height: 14),
-                const Text('⚡ 시네마틱 내장 사운드 팩', style: TextStyle(color: Colors.white54, fontSize: 11.5, fontWeight: FontWeight.bold)),
+                Text(TimelabI18n.builtinPackTitle(lang), style: const TextStyle(color: Colors.white54, fontSize: 11.5, fontWeight: FontWeight.bold)),
                 const SizedBox(height: 8),
 
                 // 2. 내장 프리셋 사운드 목록
-                _buildPresetTile(sheetCtx, stepIndex, null, '⚡ 테마 기본 사운드'),
-                _buildPresetTile(sheetCtx, stepIndex, 'gate', '🚪 묵직한 철문 개방음'),
-                _buildPresetTile(sheetCtx, stepIndex, 'blast', '💥 시한폭탄 대폭발음'),
-                _buildPresetTile(sheetCtx, stepIndex, 'buzzer', '🏁 레이싱 출발 부저'),
-                _buildPresetTile(sheetCtx, stepIndex, 'beep', '📡 관제탑 비프음'),
-                _buildPresetTile(sheetCtx, stepIndex, 'gong', '🔔 황금 징 피날레'),
-                _buildPresetTile(sheetCtx, stepIndex, 'magic', '🪄 도깨비 방망이 마법'),
+                _buildPresetTile(sheetCtx, stepIndex, null, TimelabI18n.soundDefault(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'gate', TimelabI18n.soundGate(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'blast', TimelabI18n.soundBlast(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'buzzer', TimelabI18n.soundBuzzer(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'beep', TimelabI18n.soundBeep(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'gong', TimelabI18n.soundGong(lang)),
+                _buildPresetTile(sheetCtx, stepIndex, 'magic', TimelabI18n.soundMagic(lang)),
               ],
             ),
           ),
@@ -594,7 +608,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
     );
   }
 
-  Future<void> _pickCustomAudioFile(int stepIndex) async {
+  Future<void> _pickCustomAudioFile(int stepIndex, String lang) async {
     try {
       final file = await FilePicker.pickFile(
         type: FileType.custom,
@@ -624,7 +638,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(
-              content: Text('🎵 "$fileName" 오디오 등록 및 로드 완료!'),
+              content: Text(TimelabI18n.audioLoadedToast(lang, fileName)),
               backgroundColor: DokkeyTheme.cardDark,
             ),
           );

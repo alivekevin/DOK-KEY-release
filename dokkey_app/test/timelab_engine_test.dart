@@ -1,5 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:dokkey_app/timelab/models/timelab_models.dart';
+import 'package:dokkey_app/timelab/core/timelab_i18n.dart';
 import 'package:dokkey_app/timelab/core/timelab_theme_engine.dart';
 import 'package:dokkey_app/timelab/chain_timer/chain_timer_engine.dart';
 import 'package:dokkey_app/timelab/velocity_grid/velocity_grid_engine.dart';
@@ -90,7 +91,8 @@ void main() {
 
       expect(engine.steps[0].duration.inSeconds, 15);
       expect(engine.steps[0].delayAfter.inSeconds, 3);
-      expect(engine.steps[0].soundDisplayName, '📁 quiet_song.mp3');
+      expect(engine.steps[0].soundDisplayName('ko'), '📁 quiet_song.mp3');
+      expect(engine.steps[0].soundDisplayName('en'), '📁 quiet_song.mp3', reason: '커스텀 파일명은 언어 무관');
 
       final json = engine.steps[0].toJson();
       final restored = ChainStep.fromJson(json);
@@ -191,6 +193,41 @@ void main() {
       // 삭제
       await gridEngine.deleteRecord(record.id);
       expect(gridEngine.savedRecords.isEmpty, true);
+    });
+
+    test('6개국어 현지화: 러너 이름·기본 기록 제목·순위 라벨 검증', () async {
+      final koEngine = VelocityGridEngine(lang: 'ko');
+      final enEngine = VelocityGridEngine(lang: 'en');
+
+      expect(koEngine.lanes.first.name, '주자 1');
+      expect(enEngine.lanes.first.name, 'Runner 1');
+
+      final koRecord = await koEngine.saveCurrentRecord('');
+      expect(koRecord.title, '스톱워치 기록 (${koEngine.laneCount}인)');
+      final enRecord = await enEngine.saveCurrentRecord('');
+      expect(enRecord.title.contains('Stopwatch Record'), true);
+
+      expect(TimelabI18n.rankLabel('ko', 1), '🥇 1위');
+      expect(TimelabI18n.rankLabel('en', 1), '🥇 1st');
+      expect(TimelabI18n.rankLabel('ja', 2), '🥈 2位');
+      expect(TimelabI18n.rankLabel('zh', 3), '🥉 第3名');
+      expect(TimelabI18n.rankLabel('de', 4), '4.', reason: '독일어 서수 표기는 4.');
+      expect(TimelabI18n.rankLabel('hi', 5), '#5');
+
+      // 테마 이름 현지화 (displayName은 레거시 폴백, localizedName이 실제 경로)
+      expect(TimelabThemeConfig.of(TimelabTheme.classicDigital).localizedName('en'), 'Classic Digital');
+      expect(TimelabThemeConfig.of(TimelabTheme.cyberDefuser).localizedName('zh'), '赛博拆弹雷达');
+      expect(TimelabThemeConfig.of(TimelabTheme.orbitalLaunch).localizedName('hi'), 'कक्षीय प्रक्षेपण');
+
+      // 사운드 프리셋 이름 6개국어
+      expect(ChainStep(index: 0, duration: const Duration(seconds: 5)).soundDisplayName('en'), '⚡ Theme default SFX');
+      expect(ChainStep(index: 0, duration: const Duration(seconds: 5), soundId: 'magic').soundDisplayName('ko'), '🪄 도깨비 방망이 마법');
+      expect(ChainStep(index: 0, duration: const Duration(seconds: 5), soundId: 'gate').soundDisplayName('ja'), '🚪 重厚な鉄門開放');
+
+      await koEngine.deleteRecord(koRecord.id);
+      await enEngine.deleteRecord(enRecord.id);
+      koEngine.dispose();
+      enEngine.dispose();
     });
   });
 

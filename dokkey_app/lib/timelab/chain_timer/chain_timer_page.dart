@@ -1,10 +1,10 @@
-import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import '../../core/sound_service.dart';
 import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
+import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
 import 'chain_timer_engine.dart';
@@ -52,6 +52,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     return AnimatedBuilder(
       animation: Listenable.merge([_engine, _animCtrl]),
       builder: (context, _) {
+        final lang = context.watch<DokkeyProvider>().lang;
         final cfg = TimelabThemeConfig.of(_engine.theme);
         final displayColor = cfg.getDynamicDisplayColor(
           progress: _engine.currentStepProgress,
@@ -78,25 +79,25 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                 child: Column(
                   children: [
                     // Top App Bar & Theme Switcher & Settings Button
-                    _buildTopBar(cfg),
+                    _buildTopBar(cfg, lang),
 
                     const SizedBox(height: 10),
 
                     // Set Loop & Current Phase Indicator
-                    _buildPhaseHeader(cfg),
+                    _buildPhaseHeader(cfg, lang),
 
                     // Main Fullscreen Digital Countdown View
                     Expanded(
                       flex: 4,
                       child: Center(
-                        child: _buildDigitalDisplay(cfg, displayColor),
+                        child: _buildDigitalDisplay(cfg, displayColor, lang),
                       ),
                     ),
 
                     // 3-Phase Sequence Slot Pipeline Card
                     Padding(
                       padding: const EdgeInsets.symmetric(horizontal: 16),
-                      child: _buildSequencePipelineCard(cfg),
+                      child: _buildSequencePipelineCard(cfg, lang),
                     ),
 
                     const SizedBox(height: 14),
@@ -104,7 +105,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                     // Bottom Control Buttons (START / PAUSE / RESET)
                     Padding(
                       padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
-                      child: _buildControls(cfg),
+                      child: _buildControls(cfg, lang),
                     ),
                   ],
                 ),
@@ -116,7 +117,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildTopBar(TimelabThemeConfig cfg) {
+  Widget _buildTopBar(TimelabThemeConfig cfg, String lang) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
       child: Row(
@@ -126,25 +127,30 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             onPressed: () => Navigator.of(context).pop(),
           ),
           const SizedBox(width: 4),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(
-                '3단 시퀀스 체인 타이머',
-                style: TextStyle(
-                  color: cfg.primaryColor,
-                  fontWeight: FontWeight.w900,
-                  fontSize: 16,
-                  letterSpacing: 0.5,
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  TimelabI18n.module1Title(lang),
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    color: cfg.primaryColor,
+                    fontWeight: FontWeight.w900,
+                    fontSize: 16,
+                    letterSpacing: 0.5,
+                  ),
                 ),
-              ),
-              Text(
-                'THE DEFUSER · ${cfg.displayName}',
-                style: const TextStyle(color: Colors.white54, fontSize: 10.5, fontWeight: FontWeight.bold),
-              ),
-            ],
+                Text(
+                  'THE DEFUSER · ${cfg.localizedName(lang)}',
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Colors.white54, fontSize: 10.5, fontWeight: FontWeight.bold),
+                ),
+              ],
+            ),
           ),
-          const Spacer(),
           // 설정 페이지 이동 버튼 (종료음 & 딜레이 & PRO 관리)
           IconButton(
             icon: Container(
@@ -156,7 +162,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               ),
               child: const Icon(Icons.settings_outlined, color: Colors.white, size: 17),
             ),
-            tooltip: '체인 & 사운드 설정',
+            tooltip: TimelabI18n.settingsHeader(lang),
             onPressed: () => ChainTimerSettingsPage.show(context, _engine),
           ),
           const SizedBox(width: 4),
@@ -175,7 +181,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   const Icon(Icons.palette_outlined, size: 14, color: Colors.white),
                   const SizedBox(width: 4),
                   Text(
-                    cfg.displayName,
+                    cfg.localizedName(lang),
                     style: const TextStyle(color: Colors.white, fontSize: 11, fontWeight: FontWeight.bold),
                   ),
                 ],
@@ -185,9 +191,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
             onSelected: _engine.setTheme,
             itemBuilder: (_) => [
-              _buildThemeMenuItem(TimelabTheme.classicDigital, '클래식 디지털', '7-Segment LCD'),
-              _buildThemeMenuItem(TimelabTheme.cyberDefuser, '사이버 디퓨저', 'Neon Cyber HUD'),
-              _buildThemeMenuItem(TimelabTheme.orbitalLaunch, '우주 발사', 'Orbital Aerospace'),
+              _buildThemeMenuItem(TimelabTheme.classicDigital, TimelabI18n.themeClassic(lang), '7-Segment LCD'),
+              _buildThemeMenuItem(TimelabTheme.cyberDefuser, TimelabI18n.themeCyber(lang), 'Neon Cyber HUD'),
+              _buildThemeMenuItem(TimelabTheme.orbitalLaunch, TimelabI18n.themeOrbital(lang), 'Orbital Aerospace'),
             ],
           ),
         ],
@@ -219,7 +225,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildPhaseHeader(TimelabThemeConfig cfg) {
+  Widget _buildPhaseHeader(TimelabThemeConfig cfg, String lang) {
     final isAudioPlaying = _engine.status == ChainTimerStatus.audioPlaying;
     final isDelaying = _engine.status == ChainTimerStatus.delaying;
 
@@ -260,9 +266,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   children: [
                     Text(
                       isAudioPlaying
-                          ? '🎵 음악 재생 중'
+                          ? TimelabI18n.musicPlayingBadge(lang)
                           : (isDelaying
-                              ? '⏸ DELAY 대기'
+                              ? TimelabI18n.delayWaitingBadge(lang)
                               : 'PHASE ${_engine.currentStepIndex + 1} / ${_engine.activeSlotCount}'),
                       style: TextStyle(
                         color: isAudioPlaying
@@ -292,12 +298,12 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                       borderRadius: BorderRadius.circular(6),
                       border: Border.all(color: const Color(0xFFFFD700)),
                     ),
-                    child: const Row(
+                    child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.fast_forward_rounded, size: 12, color: Color(0xFFFFD700)),
-                        SizedBox(width: 3),
-                        Text('스킵', style: TextStyle(color: Color(0xFFFFD700), fontSize: 10.5, fontWeight: FontWeight.bold)),
+                        Icon(Icons.fast_forward_rounded, size: 12, color: const Color(0xFFFFD700)),
+                        const SizedBox(width: 3),
+                        Text(TimelabI18n.skipLabel(lang), style: const TextStyle(color: Color(0xFFFFD700), fontSize: 10.5, fontWeight: FontWeight.bold)),
                       ],
                     ),
                   ),
@@ -324,7 +330,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                       color: Colors.white12,
                       borderRadius: BorderRadius.circular(6),
                     ),
-                    child: const Text('+세트', style: TextStyle(color: Colors.white70, fontSize: 10, fontWeight: FontWeight.bold)),
+                    child: Text(TimelabI18n.addSetLabel(lang), style: const TextStyle(color: Colors.white70, fontSize: 10, fontWeight: FontWeight.bold)),
                   ),
                 ),
               ],
@@ -335,7 +341,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildDigitalDisplay(TimelabThemeConfig cfg, Color displayColor) {
+  Widget _buildDigitalDisplay(TimelabThemeConfig cfg, Color displayColor, String lang) {
     if (_engine.status == ChainTimerStatus.audioPlaying) {
       final currentStep = _engine.steps[_engine.currentStepIndex];
       return Column(
@@ -370,7 +376,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                 ),
                 const SizedBox(height: 10),
                 Text(
-                  currentStep.soundDisplayName,
+                  currentStep.soundDisplayName(lang),
                   style: const TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.w900,
@@ -380,9 +386,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   overflow: TextOverflow.ellipsis,
                 ),
                 const SizedBox(height: 6),
-                const Text(
-                  '음악이 끝난 후 다음 단계로 자동 이동합니다.',
-                  style: TextStyle(color: Colors.white60, fontSize: 11),
+                Text(
+                  TimelabI18n.musicAutoNext(lang),
+                  style: const TextStyle(color: Colors.white60, fontSize: 11),
                 ),
                 const SizedBox(height: 14),
                 ElevatedButton.icon(
@@ -397,7 +403,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                     padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                   ),
-                  label: const Text('다음 단계로 즉시 넘어가기 (스킵)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5)),
+                  label: Text(TimelabI18n.skipToNextLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5)),
                 ),
               ],
             ),
@@ -461,7 +467,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildSequencePipelineCard(TimelabThemeConfig cfg) {
+  Widget _buildSequencePipelineCard(TimelabThemeConfig cfg, String lang) {
     return Container(
       padding: const EdgeInsets.all(14),
       decoration: BoxDecoration(
@@ -475,24 +481,31 @@ class _ChainTimerPageState extends State<ChainTimerPage>
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              const Row(
-                children: [
-                  Text('🔗', style: TextStyle(fontSize: 16)),
-                  SizedBox(width: 6),
-                  Text(
-                    '3-Phase 시퀀스 체인 파이프라인',
-                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: 13),
-                  ),
-                ],
+              Flexible(
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Text('🔗', style: TextStyle(fontSize: 16)),
+                    const SizedBox(width: 6),
+                    Flexible(
+                      child: Text(
+                        TimelabI18n.pipelineTitle(lang),
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: 13),
+                      ),
+                    ),
+                  ],
+                ),
               ),
               if (_engine.status == ChainTimerStatus.idle)
                 Row(
                   children: [
-                    _buildSlotCountChip(1),
+                    _buildSlotCountChip(1, lang),
                     const SizedBox(width: 4),
-                    _buildSlotCountChip(2),
+                    _buildSlotCountChip(2, lang),
                     const SizedBox(width: 4),
-                    _buildSlotCountChip(3),
+                    _buildSlotCountChip(3, lang),
                   ],
                 ),
             ],
@@ -511,7 +524,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                     ),
                   ),
                 Expanded(
-                  child: _buildSlotItem(i, cfg),
+                  child: _buildSlotItem(i, cfg, lang),
                 ),
               ],
             ],
@@ -521,7 +534,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildSlotCountChip(int count) {
+  Widget _buildSlotCountChip(int count, String lang) {
     final active = _engine.activeSlotCount == count;
     final isPro = context.read<DokkeyProvider>().isProUser;
 
@@ -546,7 +559,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              '$count단',
+              TimelabI18n.phaseUnit(lang, count),
               style: TextStyle(
                 color: active ? Colors.black : Colors.white70,
                 fontSize: 10.5,
@@ -563,14 +576,14 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildSlotItem(int idx, TimelabThemeConfig cfg) {
+  Widget _buildSlotItem(int idx, TimelabThemeConfig cfg, String lang) {
     final isEnabled = idx < _engine.activeSlotCount;
     final isCurrent = _engine.status != ChainTimerStatus.idle && _engine.currentStepIndex == idx;
     final step = _engine.steps[idx];
 
     return InkWell(
       onTap: _engine.status == ChainTimerStatus.idle && isEnabled
-          ? () => _showDurationEditSheet(idx)
+          ? () => _showDurationEditSheet(idx, lang)
           : null,
       borderRadius: BorderRadius.circular(12),
       child: Container(
@@ -590,7 +603,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
         child: Column(
           children: [
             Text(
-              '단계 ${idx + 1}',
+              TimelabI18n.stepItemLabel(lang, idx + 1),
               style: TextStyle(
                 color: isEnabled ? Colors.white70 : Colors.white24,
                 fontSize: 10.5,
@@ -599,7 +612,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             ),
             const SizedBox(height: 4),
             Text(
-              isEnabled ? '${step.duration.inSeconds}초' : 'OFF',
+              isEnabled ? TimelabI18n.secondsShort(lang, step.duration.inSeconds) : 'OFF',
               style: TextStyle(
                 color: isEnabled ? (isCurrent ? cfg.primaryColor : Colors.white) : Colors.white24,
                 fontSize: 15,
@@ -609,7 +622,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             if (isEnabled && step.delayAfter > Duration.zero) ...[
               const SizedBox(height: 3),
               Text(
-                '+${step.delayAfter.inSeconds}s 대기',
+                TimelabI18n.waitShort(lang, step.delayAfter.inSeconds),
                 style: const TextStyle(color: Color(0xFFFFAB40), fontSize: 9.5, fontWeight: FontWeight.bold),
               ),
             ],
@@ -619,7 +632,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  void _showDurationEditSheet(int idx) {
+  void _showDurationEditSheet(int idx, String lang) {
     var sec = _engine.steps[idx].duration.inSeconds;
     var delaySec = _engine.steps[idx].delayAfter.inSeconds;
 
@@ -637,19 +650,19 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   mainAxisSize: MainAxisSize.min,
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    Text('⏱️ 단계 ${idx + 1} 시간 & 지연(Delay) 설정', style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+                    Text(TimelabI18n.durationEditTitle(lang, idx + 1), style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
                     const SizedBox(height: 16),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        const Text('타이머 시간', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                        Text(TimelabI18n.timerDurationLabel(lang), style: const TextStyle(color: Colors.white70, fontSize: 14)),
                         Row(
                           children: [
                             IconButton(
                               icon: const Icon(Icons.remove_circle_outline, color: Colors.amber),
                               onPressed: sec > 1 ? () => setModalState(() => sec--) : null,
                             ),
-                            Text('$sec 초', style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
+                            Text(TimelabI18n.secondsShort(lang, sec), style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
                             IconButton(
                               icon: const Icon(Icons.add_circle_outline, color: Colors.amber),
                               onPressed: () => setModalState(() => sec++),
@@ -661,14 +674,14 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        const Text('완료 후 지연(Delay)', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                        Text(TimelabI18n.delayAfterStep(lang), style: const TextStyle(color: Colors.white70, fontSize: 14)),
                         Row(
                           children: [
                             IconButton(
                               icon: const Icon(Icons.remove_circle_outline, color: Colors.amber),
                               onPressed: delaySec > 0 ? () => setModalState(() => delaySec--) : null,
                             ),
-                            Text('$delaySec 초', style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
+                            Text(TimelabI18n.secondsShort(lang, delaySec), style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
                             IconButton(
                               icon: const Icon(Icons.add_circle_outline, color: Colors.amber),
                               onPressed: () => setModalState(() => delaySec++),
@@ -690,7 +703,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                         _engine.updateStepDelay(idx, Duration(seconds: delaySec));
                         Navigator.of(ctx).pop();
                       },
-                      child: const Text('저장 완료', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),
+                      child: Text(TimelabI18n.saveDoneLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),
                     ),
                   ],
                 ),
@@ -702,7 +715,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     );
   }
 
-  Widget _buildControls(TimelabThemeConfig cfg) {
+  Widget _buildControls(TimelabThemeConfig cfg, String lang) {
     final isRunning = _engine.status == ChainTimerStatus.running ||
         _engine.status == ChainTimerStatus.delaying ||
         _engine.status == ChainTimerStatus.audioPlaying;
@@ -727,7 +740,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                 side: const BorderSide(color: Color(0xFF30363D), width: 1.2),
               ),
             ),
-            label: const Text('리셋', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+            label: Text(TimelabI18n.resetLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
           ),
         ),
         const SizedBox(width: 10),
@@ -757,7 +770,11 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
             ),
             label: Text(
-              isRunning ? '일시 정지' : (_engine.status == ChainTimerStatus.paused ? '이어하기' : '시퀀스 시작'),
+              isRunning
+                  ? TimelabI18n.pauseLabel(lang)
+                  : (_engine.status == ChainTimerStatus.paused
+                      ? TimelabI18n.resumeLabel(lang)
+                      : TimelabI18n.startSequenceLabel(lang)),
               style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 16),
             ),
           ),

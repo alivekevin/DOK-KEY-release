@@ -249,27 +249,49 @@ class TimelabHubPage extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Row(
-                    children: [
-                      Text(icon, style: const TextStyle(fontSize: 24)),
-                      const SizedBox(width: 10),
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(title, style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16)),
-                          Text(tag, style: TextStyle(color: accentColor, fontWeight: FontWeight.bold, fontSize: 10.5, letterSpacing: 0.5)),
-                        ],
-                      ),
-                    ],
-                  ),
-                  Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                    decoration: BoxDecoration(
-                      color: accentColor.withOpacity(0.2),
-                      borderRadius: BorderRadius.circular(8),
-                      border: Border.all(color: accentColor.withOpacity(0.5)),
+                  Expanded(
+                    child: Row(
+                      children: [
+                        Text(icon, style: const TextStyle(fontSize: 24)),
+                        const SizedBox(width: 10),
+                        Flexible(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                title,
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
+                              ),
+                              Text(
+                                tag,
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: TextStyle(color: accentColor, fontWeight: FontWeight.bold, fontSize: 10.5, letterSpacing: 0.5),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
                     ),
-                    child: Text(badge, style: TextStyle(color: accentColor, fontSize: 10, fontWeight: FontWeight.bold)),
+                  ),
+                  const SizedBox(width: 8),
+                  Flexible(
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: accentColor.withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: accentColor.withOpacity(0.5)),
+                      ),
+                      child: Text(
+                        badge,
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(color: accentColor, fontSize: 10, fontWeight: FontWeight.bold),
+                      ),
+                    ),
                   ),
                 ],
               ),

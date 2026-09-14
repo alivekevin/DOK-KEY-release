@@ -19,6 +19,7 @@ import 'kkaebi_cross_magicsquare_game.dart';
 import 'kkaebi_hex_minesweeper_game.dart';
 import 'core/game_shell.dart';
 import '../timelab/timelab_hub_page.dart';
+import '../timelab/core/timelab_i18n.dart';
 
 /// 🕹️ 깨비 오락실 허브 (v4.9.1)
 /// 3x3 9개 클래식 아케이드 그리드 & 상단 3개(스도쿠·마방진·지뢰찾기) 전용 '+ 변형 모드' 탑재.
@@ -287,7 +288,7 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                               Row(
                                 children: [
                                   Text(
-                                    isKo ? '시네마틱 타임 랩' : 'Cinematic Time Lab',
+                                    TimelabI18n.timeLabTitle(provider.lang),
                                     style: const TextStyle(
                                       color: Color(0xFFFFE66D),
                                       fontWeight: FontWeight.w900,

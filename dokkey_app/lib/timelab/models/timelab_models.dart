@@ -1,6 +1,5 @@
-import 'dart:convert';
 import 'dart:typed_data';
-import 'package:flutter/material.dart';
+import '../core/timelab_i18n.dart';
 
 /// ⏱️ 시네마틱 타임 랩 3대 테마 프리셋
 enum TimelabTheme {
@@ -29,25 +28,26 @@ class ChainStep {
     this.delayAfter = Duration.zero,
   });
 
-  String get soundDisplayName {
+  /// 🌐 6개국어 사운드 표시 이름
+  String soundDisplayName(String lang) {
     if (customSoundName != null && customSoundName!.isNotEmpty) {
       return '📁 $customSoundName';
     }
     switch (soundId) {
       case 'gate':
-        return '🚪 묵직한 철문 개방';
+        return TimelabI18n.soundGate(lang);
       case 'blast':
-        return '💥 시한폭탄 대폭발';
+        return TimelabI18n.soundBlast(lang);
       case 'buzzer':
-        return '🏁 레이싱 출발 부저';
+        return TimelabI18n.soundBuzzer(lang);
       case 'beep':
-        return '📡 관제탑 비프음';
+        return TimelabI18n.soundBeep(lang);
       case 'gong':
-        return '🔔 황금 징 피날레';
+        return TimelabI18n.soundGong(lang);
       case 'magic':
-        return '🪄 도깨비 방망이 마법';
+        return TimelabI18n.soundMagic(lang);
       default:
-        return '⚡ 테마 기본 사운드';
+        return TimelabI18n.soundDefault(lang);
     }
   }
 

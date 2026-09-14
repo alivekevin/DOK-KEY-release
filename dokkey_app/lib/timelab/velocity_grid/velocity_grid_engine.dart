@@ -1,13 +1,17 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import '../core/timelab_i18n.dart';
 import '../core/timelab_sound_engine.dart';
 import '../models/timelab_models.dart';
 
 /// ⚡ 9-레인 그리드 스톱워치 (The Velocity Grid) 상태 관리 엔진
 class VelocityGridEngine extends ChangeNotifier {
   static const String _storageKey = 'dokkey_velocity_records_v1';
+
+  /// 🌐 현재 UI 언어 (페이지에서 주입) — 러너 이름·기본 기록 제목 현지화용
+  final String lang;
 
   TimelabTheme theme = TimelabTheme.orbitalLaunch;
 
@@ -26,7 +30,7 @@ class VelocityGridEngine extends ChangeNotifier {
   final TimelabSoundEngine _sound = TimelabSoundEngine();
   List<VelocityRecord> savedRecords = [];
 
-  VelocityGridEngine() {
+  VelocityGridEngine({this.lang = 'ko'}) {
     _initLanes();
     loadRecords();
   }
@@ -50,7 +54,9 @@ class VelocityGridEngine extends ChangeNotifier {
   Future<VelocityRecord> saveCurrentRecord(String title) async {
     final newRecord = VelocityRecord(
       id: 'vr_${DateTime.now().millisecondsSinceEpoch}',
-      title: title.trim().isEmpty ? '스톱워치 기록 (${laneCount}인)' : title.trim(),
+      title: title.trim().isEmpty
+          ? TimelabI18n.defaultRecordTitle(lang, laneCount)
+          : title.trim(),
       date: DateTime.now(),
       laneCount: laneCount,
       results: lanes.map((l) => l.copyWith()).toList(),
@@ -82,7 +88,7 @@ class VelocityGridEngine extends ChangeNotifier {
   void _initLanes() {
     lanes = List.generate(
       laneCount,
-      (i) => RunnerLane(laneNumber: i + 1, name: '주자 ${i + 1}'),
+      (i) => RunnerLane(laneNumber: i + 1, name: TimelabI18n.runnerName(lang, i + 1)),
     );
     _nextRank = 1;
     allFinished = false;

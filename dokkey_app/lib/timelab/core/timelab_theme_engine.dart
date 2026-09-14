@@ -1,6 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import '../models/timelab_models.dart';
+import 'timelab_i18n.dart';
 
 /// 🎨 시네마틱 타임 랩 테마 프리셋 엔진
 class TimelabThemeConfig {
@@ -69,6 +70,18 @@ class TimelabThemeConfig {
           borderColor: Color(0xFF00E5FF),
           fontTag: 'Aerospace',
         );
+    }
+  }
+
+  /// 🌐 6개국어 테마 표시 이름 (displayName은 레거시/폴백용)
+  String localizedName(String lang) {
+    switch (theme) {
+      case TimelabTheme.classicDigital:
+        return TimelabI18n.themeClassic(lang);
+      case TimelabTheme.cyberDefuser:
+        return TimelabI18n.themeCyber(lang);
+      case TimelabTheme.orbitalLaunch:
+        return TimelabI18n.themeOrbital(lang);
     }
   }
 

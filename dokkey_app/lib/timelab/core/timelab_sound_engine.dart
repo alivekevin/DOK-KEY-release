@@ -57,6 +57,9 @@ class TimelabSoundEngine {
 
   StreamSubscription? _completeSub;
 
+  /// 🛡️ 재생 시퀀스 번호 — 프리셋 SFX 지연 콜백이 이전 재생에 속하면 무시 (경합 방지)
+  int _playSeq = 0;
+
   /// 3. 커스텀 파일 또는 지정된 SFX 프리셋 재생 (완료 시 onComplete 콜백 트리거)
   Future<void> playCustomOrPreset({
     String? soundId,
@@ -66,16 +69,22 @@ class TimelabSoundEngine {
     VoidCallback? onComplete,
   }) async {
     _completeSub?.cancel();
+    final seq = ++_playSeq;
+    final guardedComplete = onComplete == null
+        ? null
+        : () {
+            if (seq == _playSeq) onComplete();
+          };
 
     // 1) 커스텀 오디오 바이트 데이터 (Web 및 모든 플랫폼 100% 호환)
     if (customSoundBytes != null && customSoundBytes.isNotEmpty) {
       try {
         await _player.stop();
 
-        if (onComplete != null) {
+        if (guardedComplete != null) {
           _completeSub = _player.onPlayerComplete.listen((_) {
             _completeSub?.cancel();
-            onComplete();
+            guardedComplete();
           });
         }
 
@@ -93,10 +102,10 @@ class TimelabSoundEngine {
         if (!kIsWeb && File(customFilePath).existsSync()) {
           await _player.stop();
 
-          if (onComplete != null) {
-            _completeSub = _player.onPlayerComplete.listen((_) {
-              _completeSub?.cancel();
-              onComplete();
+          if (guardedComplete != null) {
+          _completeSub = _player.onPlayerComplete.listen((_) {
+            _completeSub?.cancel();
+            guardedComplete();
             });
           }
 
@@ -114,38 +123,38 @@ class TimelabSoundEngine {
       case 'gate':
         _sound.playBoxOpen();
         HapticFeedback.heavyImpact();
-        _scheduleSfxCompletion(const Duration(milliseconds: 1800), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 1800), guardedComplete);
         return;
       case 'blast':
         _sound.playGong();
         HapticFeedback.heavyImpact();
-        _scheduleSfxCompletion(const Duration(milliseconds: 2200), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 2200), guardedComplete);
         return;
       case 'buzzer':
         _sound.playRiddleWrong();
         HapticFeedback.mediumImpact();
-        _scheduleSfxCompletion(const Duration(milliseconds: 1400), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 1400), guardedComplete);
         return;
       case 'beep':
         _sound.playSuccessChime();
         HapticFeedback.selectionClick();
-        _scheduleSfxCompletion(const Duration(milliseconds: 1200), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 1200), guardedComplete);
         return;
       case 'gong':
         _sound.playGong();
         HapticFeedback.heavyImpact();
-        _scheduleSfxCompletion(const Duration(milliseconds: 2000), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 2000), guardedComplete);
         return;
       case 'magic':
         _sound.playKkaebiCastShort();
         HapticFeedback.heavyImpact();
-        _scheduleSfxCompletion(const Duration(milliseconds: 1600), onComplete);
+        _scheduleSfxCompletion(const Duration(milliseconds: 1600), guardedComplete);
         return;
     }
 
     // 3) 폴백: 테마별 기본 단계 완료 사운드
     playStepComplete(fallbackTheme);
-    _scheduleSfxCompletion(const Duration(milliseconds: 1500), onComplete);
+    _scheduleSfxCompletion(const Duration(milliseconds: 1500), guardedComplete);
   }
 
   void _scheduleSfxCompletion(Duration duration, VoidCallback? onComplete) {

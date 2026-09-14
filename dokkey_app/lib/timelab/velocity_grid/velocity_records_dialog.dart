@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
+import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
-import '../../core/theme.dart';
+import '../../providers/dokkey_provider.dart';
+import '../core/timelab_i18n.dart';
 import '../models/timelab_models.dart';
 import 'velocity_grid_engine.dart';
 
@@ -36,7 +38,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
     return DateFormat('yyyy-MM-dd HH:mm').format(dt);
   }
 
-  void _shareRecord(VelocityRecord record) {
+  void _shareRecord(VelocityRecord record, String lang) {
     final sorted = [...record.results]..sort((a, b) {
         if (a.rank == null) return 1;
         if (b.rank == null) return -1;
@@ -44,21 +46,18 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
       });
 
     final buffer = StringBuffer();
-    buffer.writeln('⏱️ [DOK-KEY] 스톱워치 공식 기록표');
-    buffer.writeln('📌 ${record.title} (${record.laneCount}인 레인)');
+    buffer.writeln(TimelabI18n.shareHeader(lang));
+    buffer.writeln('📌 ${record.title} (${TimelabI18n.runnersCount(lang, record.laneCount)})');
     buffer.writeln('📅 ${_formatDate(record.date)}');
     buffer.writeln('---------------------------');
 
     for (final r in sorted) {
-      String rankStr = '${r.rank}위';
-      if (r.rank == 1) rankStr = '🥇 1위';
-      if (r.rank == 2) rankStr = '🥈 2위';
-      if (r.rank == 3) rankStr = '🥉 3위';
+      final rankStr = TimelabI18n.rankLabel(lang, r.rank ?? 0);
       final lapStr = r.lapTime != null ? _formatLapTime(r.lapTime!) : '--:--.--';
       buffer.writeln('$rankStr | ${r.name} : $lapStr');
     }
     buffer.writeln('---------------------------');
-    buffer.writeln('🔥 DOK-KEY 시네마틱 타임 랩에서 측정됨');
+    buffer.writeln(TimelabI18n.shareFooter(lang));
 
     Share.share(buffer.toString());
   }
@@ -66,6 +65,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
   @override
   Widget build(BuildContext context) {
     final records = widget.engine.savedRecords;
+    final lang = context.watch<DokkeyProvider>().lang;
 
     return Dialog(
       backgroundColor: Colors.transparent,
@@ -92,19 +92,25 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  const Row(
-                    children: [
-                      Text('📜', style: TextStyle(fontSize: 22)),
-                      SizedBox(width: 8),
-                      Text(
-                        '스톱워치 기록 보관함',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 17,
-                          fontWeight: FontWeight.w900,
+                  Flexible(
+                    child: Row(
+                      children: [
+                        const Text('📜', style: TextStyle(fontSize: 22)),
+                        const SizedBox(width: 8),
+                        Flexible(
+                          child: Text(
+                            TimelabI18n.viewRecords(lang),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 17,
+                              fontWeight: FontWeight.w900,
+                            ),
+                          ),
                         ),
-                      ),
-                    ],
+                      ],
+                    ),
                   ),
                   IconButton(
                     icon: const Icon(Icons.close, color: Colors.white70),
@@ -127,15 +133,15 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                           children: [
                             Icon(Icons.history_toggle_off_rounded, size: 56, color: Colors.white.withOpacity(0.2)),
                             const SizedBox(height: 14),
-                            const Text(
-                              '저장된 기록이 없습니다',
-                              style: TextStyle(color: Colors.white70, fontWeight: FontWeight.bold, fontSize: 15),
+                            Text(
+                              TimelabI18n.emptyRecords(lang),
+                              style: const TextStyle(color: Colors.white70, fontWeight: FontWeight.bold, fontSize: 15),
                             ),
                             const SizedBox(height: 6),
-                            const Text(
-                              '스톱워치 완주 후 [기록 저장]을 누르면\n이곳에 영구 보관됩니다.',
+                            Text(
+                              TimelabI18n.emptyRecordsDesc(lang),
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.white38, fontSize: 12, height: 1.4),
+                              style: const TextStyle(color: Colors.white38, fontSize: 12, height: 1.4),
                             ),
                           ],
                         ),
@@ -145,7 +151,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
                       itemCount: records.length,
                       separatorBuilder: (_, __) => const SizedBox(height: 12),
-                      itemBuilder: (ctx, idx) => _buildRecordCard(records[idx]),
+                      itemBuilder: (ctx, idx) => _buildRecordCard(records[idx], lang),
                     ),
             ),
 
@@ -164,7 +170,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                   ),
                   onPressed: () => Navigator.of(context).pop(),
-                  child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+                  child: Text(TimelabI18n.closeLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
                 ),
               ),
             ),
@@ -174,7 +180,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
     );
   }
 
-  Widget _buildRecordCard(VelocityRecord record) {
+  Widget _buildRecordCard(VelocityRecord record, String lang) {
     final sorted = [...record.results]..sort((a, b) {
         if (a.rank == null) return 1;
         if (b.rank == null) return -1;
@@ -212,7 +218,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                     ),
                     const SizedBox(height: 2),
                     Text(
-                      '${_formatDate(record.date)} · ${record.laneCount}인 레인',
+                      '${_formatDate(record.date)} · ${TimelabI18n.runnersCount(lang, record.laneCount)}',
                       style: const TextStyle(color: Colors.white38, fontSize: 11),
                     ),
                   ],
@@ -223,13 +229,13 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                 children: [
                   IconButton(
                     icon: const Icon(Icons.share_outlined, color: Colors.white70, size: 18),
-                    tooltip: '공유하기',
-                    onPressed: () => _shareRecord(record),
+                    tooltip: TimelabI18n.shareTooltip(lang),
+                    onPressed: () => _shareRecord(record, lang),
                   ),
                   IconButton(
                     icon: const Icon(Icons.delete_outline_rounded, color: Colors.redAccent, size: 18),
-                    tooltip: '기록 삭제',
-                    onPressed: () => _confirmDelete(record.id),
+                    tooltip: TimelabI18n.deleteRecordTitle(lang),
+                    onPressed: () => _confirmDelete(record.id, lang),
                   ),
                 ],
               ),
@@ -284,9 +290,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                 runSpacing: 6,
                 children: sorted.skip(1).map((r) {
                   final lapStr = r.lapTime != null ? _formatLapTime(r.lapTime!) : '--:--.--';
-                  String rankStr = '${r.rank}위';
-                  if (r.rank == 2) rankStr = '🥈 2위';
-                  if (r.rank == 3) rankStr = '🥉 3위';
+                  final rankStr = TimelabI18n.rankLabel(lang, r.rank ?? 0);
 
                   return Container(
                     padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
@@ -307,18 +311,18 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
     );
   }
 
-  void _confirmDelete(String id) {
+  void _confirmDelete(String id, String lang) {
     showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
         backgroundColor: const Color(0xFF1A2333),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
-        title: const Text('기록 삭제', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
-        content: const Text('이 스톱워치 기록을 완전히 삭제하시겠습니까?', style: TextStyle(color: Colors.white70, fontSize: 13)),
+        title: Text(TimelabI18n.deleteRecordTitle(lang), style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
+        content: Text(TimelabI18n.deleteRecordConfirm(lang), style: const TextStyle(color: Colors.white70, fontSize: 13)),
         actions: [
           TextButton(
             onPressed: () => Navigator.of(ctx).pop(),
-            child: const Text('취소', style: TextStyle(color: Colors.white54)),
+            child: Text(TimelabI18n.cancelLabel(lang), style: const TextStyle(color: Colors.white54)),
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
@@ -331,7 +335,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
               await widget.engine.deleteRecord(id);
               if (mounted) setState(() {});
             },
-            child: const Text('삭제', style: TextStyle(fontWeight: FontWeight.bold)),
+            child: Text(TimelabI18n.deleteLabel(lang), style: const TextStyle(fontWeight: FontWeight.bold)),
           ),
         ],
       ),
