@@ -1,0 +1,332 @@
+{
+  "Z01": {
+    "name": "Zi (Rat)",
+    "symbol": "Messenger of Wisdom & Wealth",
+    "description": "Sharp wit that discovers pathways in the dark, bringing golden keys of abundance."
+  },
+  "Z02": {
+    "name": "Chou (Ox)",
+    "symbol": "Steadfast Earth & Diligence",
+    "description": "Unyielding perseverance advancing step by step toward monumental harvest."
+  },
+  "Z03": {
+    "name": "Yin (Tiger)",
+    "symbol": "Lord of Valor & Protection",
+    "description": "Fierce courage that cuts through misfortune and flings wide the gates of fortune."
+  },
+  "Z04": {
+    "name": "Mao (Rabbit)",
+    "symbol": "Moonlight of Agility & Leap",
+    "description": "Sparkling inspiration beneath the moon, leaping gracefully over all hurdles."
+  },
+  "Z05": {
+    "name": "Chen (Azure Dragon)",
+    "symbol": "Guide of Celestial Harmony",
+    "description": "Ascending heaven with the azure jewel, ushering in grand celestial harmony."
+  },
+  "Z06": {
+    "name": "Si (Snake)",
+    "symbol": "Flame of Transformation & Intuition",
+    "description": "Shedding the old to be reborn, guiding life turning points with piercing insight."
+  },
+  "Z07": {
+    "name": "Wu (White Horse)",
+    "symbol": "Passion & Unstoppable Gallop",
+    "description": "Galloping across open plains with wind-swept mane, surging toward your destiny."
+  },
+  "Z08": {
+    "name": "Wei (Sheep)",
+    "symbol": "Serenity & Gentle Harmony",
+    "description": "Embracing relationships with pure warmth, bringing profound inner tranquility."
+  },
+  "Z09": {
+    "name": "Shen (Monkey)",
+    "symbol": "Spark of Wit & Talent",
+    "description": "Clever agility that turns complicated challenges into cheerful creative breakthroughs."
+  },
+  "Z10": {
+    "name": "You (Rooster)",
+    "symbol": "Herald of Dawn & Foresight",
+    "description": "Piercing the dark to welcome the morning sun, calling forth fresh opportunity and wealth."
+  },
+  "Z11": {
+    "name": "Xu (Dog)",
+    "symbol": "Loyalty & Guardian of Home",
+    "description": "Steadfast fidelity guarding cherished bonds and fortune with unwavering warmth."
+  },
+  "Z12": {
+    "name": "Hai (Golden Pig)",
+    "symbol": "Harvest of Abundance & Fortune",
+    "description": "Overflowing with golden blessings, pouring boundless wealth and joy into your life."
+  },
+  "Z13": {
+    "name": "Haetae",
+    "symbol": "Guardian of Justice & Fire Protection",
+    "description": "Mythical beast discerning truth from falsehood, repelling disasters and bringing justice."
+  },
+  "Z14": {
+    "name": "Qilin (Kirin)",
+    "symbol": "Herald of Peace & Prosperity",
+    "description": "Benevolent mythical creature blessing the world with tranquility and enlightened wisdom."
+  },
+  "Z15": {
+    "name": "Vermilion Bird (Jujak)",
+    "symbol": "Southern Phoenix & Eternal Flame",
+    "description": "Fiery wings consuming negativity and igniting inexhaustible passion and vitality."
+  },
+  "Z16": {
+    "name": "Black Tortoise (Hyeonmu)",
+    "symbol": "Longevity & Northern Shield",
+    "description": "Turtle and serpent united, securing everlasting stability, health, and firm foundations."
+  },
+  "Z17": {
+    "name": "White Deer (Baengnok)",
+    "symbol": "Pure Healing & Longevity",
+    "description": "Sacred mountain deer drinking pure morning dew, granting gentle recovery and serenity."
+  },
+  "Z18": {
+    "name": "Fenghuang (Phoenix)",
+    "symbol": "Noble Dignity & Harmony",
+    "description": "Luminous five-colored plumage blessing your home with supreme grace and prosperity."
+  },
+  "Z19": {
+    "name": "Three-Legged Crow",
+    "symbol": "Solar Messenger & Radiance",
+    "description": "Sun crow channeling celestial radiance, connecting heaven's will to human endeavor."
+  },
+  "Z20": {
+    "name": "Nine-Tailed Fox (Gumiho)",
+    "symbol": "Millennial Wisdom & Charm",
+    "description": "Mystical fox weaving enchantment and deep psychological insight across nine tails."
+  },
+  "Z21": {
+    "name": "Unicorn",
+    "symbol": "Purity & Miraculous Hope",
+    "description": "Radiant horned steed cleansing tired spirits and welcoming miraculous luck."
+  },
+  "Z22": {
+    "name": "Three-Eyed Hound",
+    "symbol": "Clairvoyance & Ward of Evil",
+    "description": "The third eye penetrating all hidden illusions, warding off misfortune instantly."
+  },
+  "Z23": {
+    "name": "Ganesha (Beast Avatar)",
+    "symbol": "Remover of Obstacles & Fortune",
+    "description": "Destroying all barriers on your path and inaugurating vast prosperity and wisdom."
+  },
+  "Z24": {
+    "name": "Sobek (Guardian)",
+    "symbol": "Nile Fertility & Abundance",
+    "description": "River vitality blessing your soil with everlasting fertility and abundant wealth."
+  },
+  "Z25": {
+    "name": "Imoogi (Lesser Dragon)",
+    "symbol": "Patience & Great Ascendance",
+    "description": "Unbending persistence evolving through patience to finally seize the celestial jewel."
+  },
+  "Z26": {
+    "name": "Fish Dragon (Eoryong)",
+    "symbol": "Leap over Dragon Gate & Success",
+    "description": "Swimming against strong rapids to transform into a dragon of high prestige."
+  },
+  "Z27": {
+    "name": "Sphinx",
+    "symbol": "Riddle Master & Golden Vault",
+    "description": "Guardian opening hidden vaults of gold for minds possessing deep discernment."
+  },
+  "Z28": {
+    "name": "Leviathan",
+    "symbol": "Deep Ocean Potential & Depth",
+    "description": "Vast marine majesty stirring dormant inner potentials and limitless vitality."
+  },
+  "Z29": {
+    "name": "Cat-Headed Serpent",
+    "symbol": "Keen Instinct & Serene Rest",
+    "description": "Sharp sensory guard repelling negative energies to ensure tranquil peace."
+  },
+  "Z30": {
+    "name": "Three-Legged Money Toad (Chan Chu)",
+    "symbol": "Attractor of Golden Wealth",
+    "description": "Gathering gold coins from all corners to fill your treasury with prosperity."
+  },
+  "Z31": {
+    "name": "Griffin",
+    "symbol": "Courage & Guardian of Treasure",
+    "description": "Eagle wings and lion strength fiercely protecting honor, legacy, and wealth."
+  },
+  "Z32": {
+    "name": "Phoenix",
+    "symbol": "Rebirth & Immortal Triumph",
+    "description": "Rising triumphantly from embers to achieve even greater radiance and success."
+  },
+  "Z33": {
+    "name": "Quetzalcoatl",
+    "symbol": "Feathered Serpent of Wisdom",
+    "description": "Rainbow-winged serpent sowing seeds of revolutionary knowledge and abundance."
+  },
+  "M01": {
+    "name": "Mountain Spirit (Sansin)",
+    "symbol": "Benevolent Sage of Sacred Peaks",
+    "description": "Compassionate mountain guardian overseeing valleys, bestowing spiritual clarity."
+  },
+  "M02": {
+    "name": "Grim Messenger (Jeoseung Saja)",
+    "symbol": "Severer of Ill Fate & Guide",
+    "description": "Severing cursed attachments decisively to lead the soul toward rightful renewal."
+  },
+  "M03": {
+    "name": "Jade Emperor",
+    "symbol": "Celestial Harmony & Sovereign Luck",
+    "description": "Supreme ruler of heavenly realms harmonizing cosmos and pouring forth boundless fortune."
+  },
+  "M04": {
+    "name": "King Yama (Judge of Truth)",
+    "symbol": "Mirror of Truth & Impartial Justice",
+    "description": "Holding the mirror of absolute truth, restoring balance and vindicating rightful deeds."
+  },
+  "M05": {
+    "name": "Mago Halmi (Earth Mother)",
+    "symbol": "Primordial Creation & Abundant Earth",
+    "description": "Giant primordial creatrix shaping land and rivers, cradling life with boundless nurture."
+  },
+  "M06": {
+    "name": "Princess Bari",
+    "symbol": "Elixir of Life & Devotion",
+    "description": "Retrieving the water of resurrection to heal deep spiritual wounds with tender compassion."
+  },
+  "M07": {
+    "name": "Samshin Grandma",
+    "symbol": "Blessing of Birth & Family Peace",
+    "description": "Guardian of life and family well-being, bestowing warm maternal grace upon all beginnings."
+  },
+  "M08": {
+    "name": "Dragon King of the Sea",
+    "symbol": "Ocean Treasures & Boundless Wealth",
+    "description": "Commanding oceanic depths and tides, uncovering hidden riches and infinite fortunes."
+  },
+  "M09": {
+    "name": "Teoju Daegam (Household Protector)",
+    "symbol": "Sanctuary Guardian & Wealth Anchor",
+    "description": "Anchor of domestic tranquility preventing fortune from scattering, ensuring peace."
+  },
+  "M10": {
+    "name": "Zeus",
+    "symbol": "Sky Thunder & Supreme Authority",
+    "description": "Wielding celestial thunder, granting majestic leadership and resounding victory."
+  },
+  "M11": {
+    "name": "Poseidon",
+    "symbol": "Ocean Surges & Untamed Ambition",
+    "description": "Ruler of tumultuous seas, opening wide frontiers of daring venture and power."
+  },
+  "M12": {
+    "name": "Hades",
+    "symbol": "Subterranean Wealth & Silent Power",
+    "description": "Lord of hidden minerals and precious stones, yielding solid wealth in silent depth."
+  },
+  "M13": {
+    "name": "Thor",
+    "symbol": "Mjolnir's Courage & Breakthrough",
+    "description": "Shattering obstacles with the thunder hammer, championing decisive triumph."
+  },
+  "M14": {
+    "name": "Odin",
+    "symbol": "Runic Wisdom & Deep Insight",
+    "description": "Allfather seeking cosmic truth, guiding minds with profound strategic vision."
+  },
+  "M15": {
+    "name": "Athena",
+    "symbol": "Strategic Wisdom & Just Victory",
+    "description": "Goddess of tactical intellect, guiding endeavors toward flawless, righteous victory."
+  },
+  "M16": {
+    "name": "Apollo",
+    "symbol": "Solar Radiance & Creative Inspiration",
+    "description": "Illuminating the spirit with warm golden light, inspiring art, health, and bright futures."
+  },
+  "M17": {
+    "name": "Loki",
+    "symbol": "Playful Twist & Unorthodox Wit",
+    "description": "Thinking outside all boxes to flip gridlocked stalemates with ingenious flair."
+  },
+  "M18": {
+    "name": "Valkyrie",
+    "symbol": "Wings of Victory & Honorable Ascent",
+    "description": "Lifting courageous spirits toward halls of honor, glory, and noble achievement."
+  },
+  "M19": {
+    "name": "Buddha",
+    "symbol": "Infinite Serenity & Compassion",
+    "description": "Washing away all worries, gifting absolute inner stillness and boundless peace."
+  },
+  "M20": {
+    "name": "Guanyin (Avalokiteshvara)",
+    "symbol": "Universal Compassion & Relief",
+    "description": "Listening tenderly to every whispered plea, bestowing soothing solace and relief."
+  },
+  "M21": {
+    "name": "Lord Ganesha",
+    "symbol": "New Beginnings & Golden Prosperity",
+    "description": "Patron of successful ventures, clearing paths for new beginnings and flourishing trade."
+  },
+  "M22": {
+    "name": "Shiva (Nataraja)",
+    "symbol": "Cosmic Dance & Mighty Transformation",
+    "description": "Dissolving stagnation through cosmic rhythm, igniting powerful rebirth and vitality."
+  },
+  "M23": {
+    "name": "Indra (King of Devas)",
+    "symbol": "Lightning of the East & High Honor",
+    "description": "Commanding celestial skies with righteous storm, defending nobility and valor."
+  },
+  "M24": {
+    "name": "Ra (Sun God)",
+    "symbol": "Solar Falcon & Supreme Radiance",
+    "description": "Golden solar falcon soaring across skies, infusing existence with radiant strength."
+  },
+  "M25": {
+    "name": "Osiris",
+    "symbol": "Rebirth & Eternal Sprouting",
+    "description": "Lord of fertile regeneration, nurturing resilient seeds of revival and fruitful rebirth."
+  },
+  "M26": {
+    "name": "Bastet",
+    "symbol": "Joy & Protector of the Hearth",
+    "description": "Feline goddess shielding homes with gentle joy, warmth, and protective blessings."
+  },
+  "M27": {
+    "name": "Anubis",
+    "symbol": "Scales of Truth & Guiding Beacon",
+    "description": "Weighing matters with pure justice, providing crystal clarity in moments of dilemma."
+  },
+  "M28": {
+    "name": "Archangel Michael",
+    "symbol": "Sword of Justice & Celestial Shield",
+    "description": "Smiting dark energies with incandescent blade, providing absolute protection."
+  },
+  "M29": {
+    "name": "Archangel Gabriel",
+    "symbol": "Trumpet of Hope & Joyful Tidings",
+    "description": "Blowing the horn of good news, heralding joyful reunions and fortunate breakthroughs."
+  },
+  "M30": {
+    "name": "Archangel Raphael",
+    "symbol": "Healing Warmth & Safe Journey",
+    "description": "Gentle healer mending weary hearts and guiding travelers toward safe recovery."
+  },
+  "M31": {
+    "name": "Archangel Uriel",
+    "symbol": "Beacon of Wisdom & Illumination",
+    "description": "Illuminating complex dilemmas with divine spark, showing clear direction."
+  },
+  "M32": {
+    "name": "Guardian Angel",
+    "symbol": "Gentle Presence & Daily Protection",
+    "description": "Unwavering loving companion watching over every quiet step of daily life."
+  },
+  "M33": {
+    "name": "Moirai (Fates)",
+    "symbol": "Weaver of Destiny & Precious Ties",
+    "description": "Untangling complicated threads to weave a tapestry of noble destiny and serendipity."
+  }
+}

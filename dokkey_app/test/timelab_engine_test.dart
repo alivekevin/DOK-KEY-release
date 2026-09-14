@@ -3,6 +3,7 @@ import 'package:dokkey_app/timelab/models/timelab_models.dart';
 import 'package:dokkey_app/timelab/core/timelab_theme_engine.dart';
 import 'package:dokkey_app/timelab/chain_timer/chain_timer_engine.dart';
 import 'package:dokkey_app/timelab/velocity_grid/velocity_grid_engine.dart';
+import 'package:dokkey_app/timelab/tally_clicker/tally_clicker_engine.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
@@ -190,6 +191,74 @@ void main() {
       // 삭제
       await gridEngine.deleteRecord(record.id);
       expect(gridEngine.savedRecords.isEmpty, true);
+    });
+  });
+
+  group('Tally Clicker Engine Tests', () {
+    late TallyClickerEngine clickerEngine;
+
+    setUp(() {
+      clickerEngine = TallyClickerEngine();
+    });
+
+    test('기본값 및 증가(+1), 감소(-1), 리셋(0) 검증', () {
+      clickerEngine.reset();
+      expect(clickerEngine.count, 0);
+
+      clickerEngine.increment();
+      clickerEngine.increment();
+      clickerEngine.increment();
+      expect(clickerEngine.count, 3);
+
+      clickerEngine.decrement();
+      expect(clickerEngine.count, 2);
+
+      clickerEngine.reset();
+      expect(clickerEngine.count, 0);
+
+      // 0 이하로는 감소되지 않음
+      clickerEngine.decrement();
+      expect(clickerEngine.count, 0);
+    });
+
+    test('목표 수치(Target) 설정 및 달성(Target Reached) 검증', () {
+      clickerEngine.reset();
+      clickerEngine.setTargetCount(5);
+      expect(clickerEngine.targetCount, 5);
+      expect(clickerEngine.progressToTarget, 0.0);
+
+      clickerEngine.increment(); // 1
+      clickerEngine.increment(); // 2
+      expect(clickerEngine.progressToTarget, 0.4);
+
+      clickerEngine.increment(); // 3
+      clickerEngine.increment(); // 4
+      clickerEngine.increment(); // 5
+      expect(clickerEngine.count, 5);
+      expect(clickerEngine.progressToTarget, 1.0);
+      expect(clickerEngine.isTargetReached, true);
+    });
+
+    test('10단위 및 100단위 마일스톤 트리거 검증', () {
+      clickerEngine.reset();
+      clickerEngine.setTargetCount(null); // 목표치 해제
+
+      for (int i = 0; i < 9; i++) {
+        clickerEngine.increment();
+      }
+      expect(clickerEngine.count, 9);
+      expect(clickerEngine.isMilestone10, false);
+
+      clickerEngine.increment(); // 10
+      expect(clickerEngine.count, 10);
+      expect(clickerEngine.isMilestone10, true);
+
+      // 100까지 증가 시뮬레이션
+      for (int i = 11; i <= 100; i++) {
+        clickerEngine.increment();
+      }
+      expect(clickerEngine.count, 100);
+      expect(clickerEngine.isMilestone100, true);
     });
   });
 }

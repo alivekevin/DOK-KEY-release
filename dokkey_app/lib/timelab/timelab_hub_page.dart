@@ -4,6 +4,7 @@ import '../core/theme.dart';
 import '../core/sound_service.dart';
 import 'chain_timer/chain_timer_page.dart';
 import 'velocity_grid/velocity_grid_page.dart';
+import 'tally_clicker/tally_clicker_page.dart';
 
 /// ⏱️ DOK-KEY 시네마틱 타임 랩 허브 (Cinematic Time Lab Hub)
 class TimelabHubPage extends StatelessWidget {
@@ -132,6 +133,25 @@ class TimelabHubPage extends StatelessWidget {
                   SoundService().playCardFlip();
                   Navigator.of(context).push(
                     MaterialPageRoute(builder: (_) => const VelocityGridPage()),
+                  );
+                },
+              ),
+
+              const SizedBox(height: 14),
+
+              // Module 3 Card: The Tactical Clicker (택티컬 탭 카운터)
+              _buildModuleCard(
+                context,
+                title: '택티컬 탭 카운터',
+                tag: 'THE TACTICAL CLICKER',
+                icon: '🔢',
+                accentColor: const Color(0xFF00FF66),
+                desc: '화면 어디를 두드려도 반응하는 풀스크린 네온 계수기. 0~99,999 카운트, 목표치(TARGET) 설정 & 10·100단위 마일스톤 피드백.',
+                badge: '초직관 탭 계수기',
+                onTap: () {
+                  SoundService().playCardFlip();
+                  Navigator.of(context).push(
+                    MaterialPageRoute(builder: (_) => const TallyClickerPage()),
                   );
                 },
               ),

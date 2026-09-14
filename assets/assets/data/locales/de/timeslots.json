@@ -1,0 +1,26 @@
+{
+  "morning": {
+    "name": "Morgen",
+    "emoji": "🌅",
+    "meaning_axis": "Neuanfang und Aufbruch",
+    "description": "Wenn die Sonne aufgeht, ist die Zeit reif für frische Entschlüsse."
+  },
+  "noon": {
+    "name": "Mittag",
+    "emoji": "☀️",
+    "meaning_axis": "Verbindung und Kraft",
+    "description": "Unter klarem Licht entfalten sich Begegnungen und Schaffenskraft."
+  },
+  "evening": {
+    "name": "Abend",
+    "emoji": "🌇",
+    "meaning_axis": "Ernte und Besinnung",
+    "description": "Im Abendlicht sammeln wir die Früchte des Tages und finden Ruhe."
+  },
+  "night": {
+    "name": "Späte Nacht",
+    "emoji": "🌙",
+    "meaning_axis": "Innere Einkehr und Weisheit",
+    "description": "In der Stille der Nacht wachsen Erkenntnis und tiefe Klarheit."
+  }
+}

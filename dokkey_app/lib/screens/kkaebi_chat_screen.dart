@@ -23,6 +23,7 @@ import '../widgets/kkaebi_face_widget.dart';
 import '../widgets/profile_onboarding_sheet.dart';
 import '../widgets/kkaebi_affection_dialog.dart';
 import '../widgets/kkaebi_lore_help_dialog.dart';
+import '../timelab/tally_clicker/tally_clicker_page.dart';
 import 'keybox_screen.dart';
 
 class KkaebiChatScreen extends StatefulWidget {
@@ -42,6 +43,77 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
     Navigator.of(context).push(
       MaterialPageRoute(builder: (_) => const KkaebiTriviaGame()),
     );
+  }
+
+  void _onAskTallyClicker() async {
+    if (_isTyping) return;
+    final provider = context.read<DokkeyProvider>();
+    final lang = provider.lang;
+
+    String userQuestion;
+    String kkaebiResponse;
+    String actionLabel;
+
+    switch (lang) {
+      case 'ko':
+        userQuestion = '깨비야, 운동/기도/방문자 숫자 좀 세어줄래?';
+        kkaebiResponse = '푸하하! 집중해서 숫자를 셀 일이 있느냐? 손가락만 갖다 대면 착착 올라가는 내 특제 "택티컬 탭 카운터"를 꺼내주마! 0~99,999 카운트와 목표 달성 알림까지 완벽하다구! 😈🔢';
+        actionLabel = '🔢 택티컬 탭 카운터 가동하기';
+        break;
+      case 'ja':
+        userQuestion = 'クケビ、運動や祈りの回数を数えてくれる？';
+        kkaebiResponse = 'ふふっ！集中して数字を数えたいのか？指でタップするだけでサクサク進むオレ特製の「タクティカル・タップカウンター」を起動してやるぞ！0〜99,999カウント＆目標達成アラート付きだ！😈🔢';
+        actionLabel = '🔢 タップカウンターを起動';
+        break;
+      case 'zh':
+        userQuestion = '吉鬼，能帮我数运动或祈祷的次数吗？';
+        kkaebiResponse = '哈哈！需要专心计数吗？拿出我的特制“战术轻触计数器”！全屏感应、0~99,999计数与目标达成提醒全都有！😈🔢';
+        actionLabel = '🔢 启动战术轻触计数器';
+        break;
+      case 'de':
+        userQuestion = 'Kkaebi, kannst du mir beim Zählen helfen?';
+        kkaebiResponse = 'Haha! Musst du etwas genau mitzählen? Hier ist mein "Tactical Tally Clicker"! Bis zu 99.999 Zähler mit Zielvorgaben-Alarm! 😈🔢';
+        actionLabel = '🔢 Tactical Clicker starten';
+        break;
+      case 'hi':
+        userQuestion = 'कैबी, क्या तुम गिनती गिनने में मदद कर सकते हो?';
+        kkaebiResponse = 'हाहा! क्या गिनती गिनने की ज़रूरत है? पेश है मेरा "टैक्टिकल टैली क्लिकर"! 0 से 99,999 तक गिनती और लक्ष्य पूरा होने का अलर्ट! 😈🔢';
+        actionLabel = '🔢 टैली क्लिकर शुरू करें';
+        break;
+      case 'en':
+      default:
+        userQuestion = 'Kkaebi, can you help me count reps or tallies?';
+        kkaebiResponse = 'Haha! Need to count reps, prayers, or visitors? Here is my "Tactical Tally Clicker"! Fullscreen neon pad with target milestones! 😈🔢';
+        actionLabel = '🔢 Launch Tactical Clicker';
+        break;
+    }
+
+    setState(() {
+      _messages.add(_ChatMessage(isUser: true, text: userQuestion));
+      _isTyping = true;
+    });
+    _scrollToBottom();
+
+    await Future.delayed(const Duration(milliseconds: 550));
+    if (!mounted) return;
+
+    SoundService().playSuccessChime();
+
+    setState(() {
+      _isTyping = false;
+      _messages.add(_ChatMessage(
+        isUser: false,
+        text: kkaebiResponse,
+        actionLabel: actionLabel,
+        onAction: () {
+          SoundService().playCardFlip();
+          Navigator.of(context).push(
+            MaterialPageRoute(builder: (_) => const TallyClickerPage()),
+          );
+        },
+      ));
+    });
+    _scrollToBottom();
   }
 
   void _onAskLoreHelp() async {
@@ -734,6 +806,34 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                               ],
                             ),
                             onPressed: _isTyping ? null : _onAskGameSuggestion,
+                          ),
+                        ),
+
+                        // 3순위: [🔢 탭 카운터] — 운동/기도/방문자 숫자 세기 즉시 질의 및 가동
+                        Padding(
+                          padding: const EdgeInsets.only(right: 8),
+                          child: ActionChip(
+                            backgroundColor: const Color(0xFF003820),
+                            side: const BorderSide(
+                              color: Color(0xFF00FF66),
+                              width: 1.4,
+                            ),
+                            label: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Text('🔢', style: TextStyle(fontSize: 13)),
+                                const SizedBox(width: 5),
+                                Text(
+                                  isKo ? '숫자/횟수 세기' : (isJa ? '数字・回数カウント' : 'Tally Counter'),
+                                  style: const TextStyle(
+                                    color: Color(0xFF00FF66),
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w900,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            onPressed: _isTyping ? null : _onAskTallyClicker,
                           ),
                         ),
 

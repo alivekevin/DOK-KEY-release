@@ -1,0 +1,590 @@
+{
+  "comic": {
+    "name": "诙谐幽默",
+    "color": "#F0A500",
+    "voice_guide": "短促有力的笑点与幽默风趣的自嘲",
+    "templates": [
+      {
+        "id": "comic_tmpl_001",
+        "headline": "{card_name}今日昂然驻足，展现非凡气魄",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_002",
+        "headline": "推开门扉之时，{card_name}正带着从容笑意守候",
+        "body": "你在{timeslot_name}精心准备的安排，因数字 {number} 的机缘而更显生动顺遂。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_004",
+        "headline": "昂首阔步走过去，却发现{card_name}把裤子穿反了",
+        "body": "在{timeslot_name}本想帅气登场，数字{number}却开了个可爱的小玩笑。不过这番呆萌反差反而成了瞬间拉近所有人距离的无敌法宝。",
+        "tip": "不必强求百分之百的完美，偶尔的小破绽才是最迷人的魅力。",
+        "share_caption": "手持{card_name}第{number}号在{timeslot_name}散发爆笑可爱魅力 😆 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_005",
+        "headline": "在一片庄严肃穆的沉默中，{card_name}的肚子咕噜噜响了",
+        "body": "哪怕在严肃紧张的{timeslot_name}，笑声也会悄然绽放。数字{number}今天赋予你用一句幽默自嘲瞬间打破僵局的奇妙魔力。",
+        "tip": "气氛沉闷时，一句温暖的玩笑就是最好的破冰利器。",
+        "share_caption": "{timeslot_name}与{card_name}{number}号幽默化解尴尬时刻 🍙 #DOK_KEY"
+      },
+      {
+        "id": "comic_tmpl_006",
+        "headline": "跟着导航走岔了路，{card_name}却正好停在一座网红美食店前",
+        "body": "在{timeslot_name}走错了路也无需自责。数字{number}正悄悄把你引向一份意料之外的美味奖励与愉悦邂逅。",
+        "tip": "迷路是奇妙旅程的开始，尽情享受意外偏航带来的惊喜吧。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号偶遇意外惊喜美味 🍕 #DOK_KEY"
+      }
+    ]
+  },
+  "calm": {
+    "name": "宁静从容",
+    "color": "#4E9F8E",
+    "voice_guide": "深长的呼吸、充裕的停顿与沉静的洞察",
+    "templates": [
+      {
+        "id": "calm_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_002",
+        "headline": "推开门扉之时，{card_name}正带着从容笑意守候",
+        "body": "你在{timeslot_name}精心准备的安排，因数字 {number} 的机缘而更显生动顺遂。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_003",
+        "headline": "{timeslot_name}，万事从容顺遂就是今日最好的馈赠",
+        "body": "在期待与从容之间，{card_name}与数字 {number} 告诉你当下一切皆在最好的节律中。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_004",
+        "headline": "窗畔暖阳倾洒，{card_name}静静品味一盏清茶",
+        "body": "在{timeslot_name}，世间喧嚣悄然退去。在数字{number}蕴含的宁静温存中，你的内心也如镜湖般澄澈安详。",
+        "tip": "三次缓慢深长地呼吸，温柔抚平内心的波澜。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号享受静谧茶香 🍵 #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_005",
+        "headline": "仰望闲云徐徐飘过，{card_name}泛起恬淡微笑",
+        "body": "无论生活多忙碌，在{timeslot_name}都不妨暂且放下时钟。数字{number}低语道：最深邃的智慧永远留给从容不迫的人。",
+        "tip": "放下手中的屏幕，仰望天空放空五分钟吧。",
+        "share_caption": "在{timeslot_name}随白云与{card_name}{number}号悠然安度 ☁️ #DOK_KEY"
+      },
+      {
+        "id": "calm_tmpl_006",
+        "headline": "林间清风穿堂而过，{card_name}轻拂衣角静享安宁",
+        "body": "{timeslot_name}的清新微风温柔拥抱着你疲惫的双肩。在数字{number}给予的静谧港湾中，全新的元气正缓缓充盈蓄力。",
+        "tip": "今晚点上一支喜爱的香氛或泡个热水澡，静心安歇。",
+        "share_caption": "与{card_name}{number}号在{timeslot_name}感受林间清风 🌲 #DOK_KEY"
+      }
+    ]
+  },
+  "conflict": {
+    "name": "交锋破局",
+    "color": "#D14949",
+    "voice_guide": "紧凑有力的交锋与激荡人心的碰撞",
+    "templates": [
+      {
+        "id": "conflict_tmpl_001",
+        "headline": "{card_name}今日昂然驻足，展现非凡气魄",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_002",
+        "headline": "在{timeslot_name}的时刻，全新的机缘悄然绽放",
+        "body": "与{card_name}相伴之时，数字 {number} 指引着最纯粹从容的平安与智慧。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_003",
+        "headline": "{card_name}展现出不凡从容，气象焕然一新",
+        "body": "在{timeslot_name}的流转中，数字 {number} 会为你化解一切阻滞，顺遂向前。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_004",
+        "headline": "在僵持不下的拉锯战中，{card_name}做出果断抉择",
+        "body": "在{timeslot_name}，各方立场针锋相对。坚守数字{number}指引的核心原则，方能快刀斩乱麻终结无谓摩擦。",
+        "tip": "停止情绪化争论，用确凿的事实与数据一锤定音。",
+        "share_caption": "在{timeslot_name}用{card_name}{number}号果断化解对立 ⚔️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_005",
+        "headline": "当意见各执一词时，{card_name}提出了第三条绝妙通途",
+        "body": "{timeslot_name}的纷争非非黑即白所能化解。数字{number}掌握着让各方皆大欢喜的折中妙计钥匙。",
+        "tip": "与其非要争出输赢，不如探寻各方共赢的双全法门。",
+        "share_caption": "与{card_name}{number}号在{timeslot_name}以智破局 🛡️ #DOK_KEY"
+      },
+      {
+        "id": "conflict_tmpl_006",
+        "headline": "暴风雨前的紧绷时刻，{card_name}沉稳自若平心静气",
+        "body": "切莫被挑衅扰乱心智。在{timeslot_name}，数字{number}赋予你的冷峻定力将助你成为最终大赢家。",
+        "tip": "对方音量越高，你的语气越要沉稳有力、斩钉截铁。",
+        "share_caption": "在{timeslot_name}携{card_name}{number}号保持绝对从容 ⚖️ #DOK_KEY"
+      }
+    ]
+  },
+  "meeting": {
+    "name": "机缘相遇",
+    "color": "#E07A5F",
+    "voice_guide": "温润包容与敞开心扉的相聚之喜",
+    "templates": [
+      {
+        "id": "meeting_tmpl_001",
+        "headline": "{card_name}今日昂然驻足，展现非凡气魄",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_004",
+        "headline": "不经意的目光交汇中，{card_name}发现了命运的拼图",
+        "body": "在{timeslot_name}遇见的人绝非偶然过客。数字{number}正在你们之间悄悄织就一条看不见的良机金线。",
+        "tip": "交换名片或联系方式时，附上一句发自内心的赞美。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号结下宿命良缘 🤝 #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_005",
+        "headline": "宛如相识多年的故交，{card_name}热情地伸出双手",
+        "body": "即便初次相见，在{timeslot_name}也能迅速建立深厚共鸣。数字{number}赋予你瞬间化解生疏的绝妙共同话题。",
+        "tip": "先询问对方近期最热衷的事物，打开话题大门。",
+        "share_caption": "手持{card_name}{number}号在{timeslot_name}促成温暖相逢 ☕ #DOK_KEY"
+      },
+      {
+        "id": "meeting_tmpl_006",
+        "headline": "就在即将错身的瞬间，{card_name}蓦然回首挥手示意",
+        "body": "在{timeslot_name}播下的一粒社交种子，未来必将长成参天合作大树。数字{number}提醒你切莫忽视眼前的贵人。",
+        "tip": "离别后不妨发送一条‘今天能与您相识倍感荣幸’的温暖信息。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号邂逅命中贵人 ✨ #DOK_KEY"
+      }
+    ]
+  },
+  "horror": {
+    "name": "警醒破执",
+    "color": "#6A4C93",
+    "voice_guide": "警醒内省、刺破虚妄的锐利之感",
+    "templates": [
+      {
+        "id": "horror_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "数字 {number} 悄然站在你身旁，为你指引顺畅的前行方向。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_002",
+        "headline": "推开门扉之时，{card_name}正带着从容笑意守候",
+        "body": "你在{timeslot_name}精心准备的安排，因数字 {number} 的机缘而更显生动顺遂。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_003",
+        "headline": "{card_name}展现出不凡从容，气象焕然一新",
+        "body": "在{timeslot_name}的流转中，数字 {number} 会为你化解一切阻滞，顺遂向前。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_004",
+        "headline": "深邃幽暗之中，{card_name}高高举起了熊熊火把",
+        "body": "在{timeslot_name}袭来的莫须有恐惧不过是虚幻泡影。数字{number}绽放的万丈光芒将所有不安顷刻化为乌有。",
+        "tip": "打开房间所有明灯，播放几首欢快振奋的音乐。",
+        "share_caption": "在{timeslot_name}用{card_name}{number}号火炬驱散所有阴霾 🕯️ #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_005",
+        "headline": "直面不祥低语，{card_name}一脚踢开紧闭重门",
+        "body": "你所担忧的最坏可能在{timeslot_name}绝不会上演。数字{number}昭示着你内心的果敢坚毅足以镇压一切厄运。",
+        "tip": "感到不安时挺直脊梁，迈出坚定有力的大步伐。",
+        "share_caption": "与{card_name}{number}号在{timeslot_name}无畏破门向前 🚪 #DOK_KEY"
+      },
+      {
+        "id": "horror_tmpl_006",
+        "headline": "守护神小妖正手持金棒在{card_name}身后铜墙铁壁般护航",
+        "body": "哪怕在{timeslot_name}感到丝丝凉意也无所畏惧。数字{number}召唤的随身守护灵是你最牢固的避风港与金刚盾牌。",
+        "tip": "你从来不是孤身一人，在心中默念‘小妖护佑’重获无限勇气。",
+        "share_caption": "在{timeslot_name}得{card_name}{number}号金刚护体 🛡️ #DOK_KEY"
+      }
+    ]
+  },
+  "chaos": {
+    "name": "乱局转机",
+    "color": "#7F7F7F",
+    "voice_guide": "打破陈规、于乱局中洞见生机的变奏",
+    "templates": [
+      {
+        "id": "chaos_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "数字 {number} 悄然站在你身旁，为你指引顺畅的前行方向。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_003",
+        "headline": "{card_name}展现出不凡从容，气象焕然一新",
+        "body": "在{timeslot_name}的流转中，数字 {number} 会为你化解一切阻滞，顺遂向前。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_004",
+        "headline": "在席卷的混乱漩涡中，{card_name}稳稳立住了定海神针",
+        "body": "哪怕在{timeslot_name}千头万绪蜂拥而至也切莫慌乱。数字{number}为你精准锁定当前最核心、最必须立刻攻克的第一要务。",
+        "tip": "在待办清单中挑出最关键的那一项，全力以赴优先搞定。",
+        "share_caption": "在{timeslot_name}用{card_name}{number}号绝对专注平定混乱 🌀 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_005",
+        "headline": "快刀斩断千条乱麻，{card_name}顷刻理顺乱局",
+        "body": "无论局势看起来多么纷繁复杂，在{timeslot_name}都会迎来绝妙的破局点。数字{number}为你揭示混沌深处隐藏的秩序地图。",
+        "tip": "花十分钟收拾一下杂乱的桌面，思路立刻清澈见底。",
+        "share_caption": "携手{card_name}{number}号在{timeslot_name}理清所有乱象 🧶 #DOK_KEY"
+      },
+      {
+        "id": "chaos_tmpl_006",
+        "headline": "在众人六神无主时，{card_name}泰然自若指明通途",
+        "body": "{timeslot_name}的动荡正是见证你非凡统帅力的黄金舞台。数字{number}赋予你的清晰标准让所有人吃下定心丸。",
+        "tip": "局势越复杂，指令越要简短、精炼、掷地有声。",
+        "share_caption": "在{timeslot_name}以{card_name}{number}号指引破局航向 🧭 #DOK_KEY"
+      }
+    ]
+  },
+  "lonely": {
+    "name": "静谧独处",
+    "color": "#2B3A67",
+    "voice_guide": "独处的安宁与与自我的深度对话",
+    "templates": [
+      {
+        "id": "lonely_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "数字 {number} 悄然站在你身旁，为你指引顺畅的前行方向。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_002",
+        "headline": "推开门扉之时，{card_name}正带着从容笑意守候",
+        "body": "你在{timeslot_name}精心准备的安排，因数字 {number} 的机缘而更显生动顺遂。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_004",
+        "headline": "独伫于浩瀚星空下，{card_name}邂逅了内心深处的强大力量",
+        "body": "在{timeslot_name}的独处并非软弱，而是淬炼坚不可摧独立人格的黄金时刻。数字{number}正如忠诚守卫般默默伴你左右。",
+        "tip": "送给自己一段全然放松的独处时光，写下一行日记便能抚慰心灵。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号于独处中蓄力蜕变 🌌 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_005",
+        "headline": "在静默无声处，{card_name}静心雕琢心灵深处的璀璨宝石",
+        "body": "相比喧嚣浮躁的聚会，{timeslot_name}的宁静更能孕育旷世巧思。数字{number}预示着孤独中即将诞生的非凡创意。",
+        "tip": "在独属于自己的私密空间里，静心聆听一首触动灵魂的乐曲。",
+        "share_caption": "与{card_name}{number}号在{timeslot_name}化寂寞为惊艳创想 💎 #DOK_KEY"
+      },
+      {
+        "id": "lonely_tmpl_006",
+        "headline": "万籁俱寂时分，{card_name}轻声诉说着最深情的抚慰",
+        "body": "莫要为踽踽独行而感到落寞。在{timeslot_name}，数字{number}传递的温存正是明日美好良缘叩门前最温暖的黎明曙光。",
+        "tip": "今晚给自己一个温暖的拥抱，对自己说一声‘今天辛苦了’。",
+        "share_caption": "在{timeslot_name}感受{card_name}{number}号带来的深情温存 🕯️ #DOK_KEY"
+      }
+    ]
+  },
+  "farewell": {
+    "name": "释怀告别",
+    "color": "#607D8B",
+    "voice_guide": "干净利落的放下与从容告别",
+    "templates": [
+      {
+        "id": "farewell_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "数字 {number} 悄然站在你身旁，为你指引顺畅的前行方向。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_003",
+        "headline": "{card_name}展现出不凡从容，气象焕然一新",
+        "body": "在{timeslot_name}的流转中，数字 {number} 会为你化解一切阻滞，顺遂向前。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_004",
+        "headline": "从容挥手告别，{card_name}大步迈向全新的壮阔地平线",
+        "body": "在{timeslot_name}的告别绝非终点，而是跃入更辽阔天地的起跳台。数字{number}早已准备好用更璀璨的祥瑞填满空缺。",
+        "tip": "毫无留恋地道一声感恩，脚步轻快地转身开启新篇。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号体面告别优雅启航 🌅 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_005",
+        "headline": "关上陈旧木门，{card_name}眼前瞬间洞开一座金色新殿堂",
+        "body": "切莫执着于过去的人事或项目。在{timeslot_name}，数字{number}正在为你递上一把通往更高价值机遇的金钥匙。",
+        "tip": "清理抽屉里过期的旧物，腾出心灵的纳福空间。",
+        "share_caption": "携{card_name}{number}号在{timeslot_name}辞旧迎新福满堂 🚪 #DOK_KEY"
+      },
+      {
+        "id": "farewell_tmpl_006",
+        "headline": "披着漫天壮美晚霞，{card_name}昂首阔步踏上新征程",
+        "body": "离别的不舍转瞬即逝。在{timeslot_name}，数字{number}赋予你的豪迈魄力将让你的下一段旅程绽放无与伦比的璀璨光芒。",
+        "tip": "为自己点一杯香浓美味的饮品，庆祝这崭新的启程。",
+        "share_caption": "在{timeslot_name}晚霞中携{card_name}{number}号自信踏上征途 🌇 #DOK_KEY"
+      }
+    ]
+  },
+  "hope": {
+    "name": "曙光希望",
+    "color": "#F4A261",
+    "voice_guide": "如晨曦初现般的明朗与坚定信心",
+    "templates": [
+      {
+        "id": "hope_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_004",
+        "headline": "穿透晨雾薄霭，{card_name}迎来了灿烂的第一缕旭日光芒",
+        "body": "在{timeslot_name}你心中萌生的小小希望绝非空想，而是即将化为壮美现实的种子。数字{number}将为你洞开一扇通往不可思议奇迹的大门。",
+        "tip": "用端正的字迹在一张白纸上写下你最渴望达成的愿望。",
+        "share_caption": "在{timeslot_name}携{card_name}{number}号点燃璀璨希望之光 🌅 #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_005",
+        "headline": "舒展金色羽翼，{card_name}向着蔚蓝苍穹展翅高飞",
+        "body": "任何黑夜都阻挡不了黎明的升起。在{timeslot_name}，数字{number}庄严宣告前方的金色康庄大道已全面为你铺开。",
+        "tip": "与其忧虑重重，不如在脑海中生动描摹成功登顶的荣耀画面。",
+        "share_caption": "与{card_name}{number}号在{timeslot_name}乘希望之翼翱翔 🕊️ #DOK_KEY"
+      },
+      {
+        "id": "hope_tmpl_006",
+        "headline": "在干涸龟裂的大地上，{card_name}绽放出一朵惊世奇迹之花",
+        "body": "曾经看似不可能的艰难阻碍在{timeslot_name}将如奇迹般烟消云散。数字{number}带来的强大正能量让全世界都成为你的坚强后盾。",
+        "tip": "向身边的伙伴送上一句温暖且充满力量的真诚鼓励吧。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号共同见证奇迹盛放 🌸 #DOK_KEY"
+      }
+    ]
+  },
+  "passion": {
+    "name": "炽热激情",
+    "color": "#E76F51",
+    "voice_guide": "斩断迟疑、昂扬向上的炽热力量",
+    "templates": [
+      {
+        "id": "passion_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_004",
+        "headline": "怀揣如熔炉般滚烫的心，{card_name}全速向前冲刺",
+        "body": "在{timeslot_name}，没有任何壁垒能够阻挡你雷霆万钧的炽热势头。数字{number}注入的爆发式专注力与推进力助你拔得头筹。",
+        "tip": "此刻当机立断，并在十分钟内立刻付诸实际行动。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号以炽热激情突破极限 🔥 #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_005",
+        "headline": "以永不熄灭的激情烈焰，{card_name}将一切迟疑燃烧殆尽",
+        "body": "犹豫不决是此刻最大的浪费。在{timeslot_name}，数字{number}指示着向既定目标发起最凌厉、最完美冲刺的最佳窗口期已至。",
+        "tip": "伴随激昂节奏的音乐，一口气拿下今天最重要的核心攻坚战。",
+        "share_caption": "手持{card_name}{number}号在{timeslot_name}引爆核能级斗志 ⚡ #DOK_KEY"
+      },
+      {
+        "id": "passion_tmpl_006",
+        "headline": "如猎鹰锁死猎物般，{card_name}毫不犹豫俯冲破敌",
+        "body": "在{timeslot_name}你的洞察与直觉百发百中。数字{number}赐予你的犀利敏锐与果决魄力将精准捕获最丰厚的胜利果实。",
+        "tip": "心无旁骛，将全部火力倾注于唯一的至高目标。",
+        "share_caption": "在{timeslot_name}以{card_name}{number}号实现完美一击必杀 🎯 #DOK_KEY"
+      }
+    ]
+  },
+  "mystery": {
+    "name": "玄妙幽微",
+    "color": "#8338EC",
+    "voice_guide": "朦胧诗意与意味深长的留白",
+    "templates": [
+      {
+        "id": "mystery_tmpl_001",
+        "headline": "在{timeslot_name}的宁静时刻，{card_name}昂然驻足",
+        "body": "数字 {number} 悄然站在你身旁，为你指引顺畅的前行方向。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_002",
+        "headline": "在{timeslot_name}的风中，{card_name}深呼吸调匀心神",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_004",
+        "headline": "在月华笼罩的迷雾深处，{card_name}发现了神秘宝匣",
+        "body": "在{timeslot_name}，宇宙间无形的法则正在为你悄然运转。数字{number}埋藏的意想不到惊天反转将令你赞叹不已。",
+        "tip": "不必仅执拗于死板逻辑，追随心中灵光一现的神秘直觉吧。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号解开神秘未知之谜 🔮 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_005",
+        "headline": "古老典籍上的神秘符文在{card_name}指尖下泛起微光",
+        "body": "看似偶然的相遇中蕴藏着命中注定的深意。在{timeslot_name}，数字{number}为你揭晓苦苦追寻已久的终极答案。",
+        "tip": "把今天梦境中的碎片或不经意闪过的词句认真记录在备忘录里。",
+        "share_caption": "携手{card_name}{number}号在{timeslot_name}破译天机密码 📜 #DOK_KEY"
+      },
+      {
+        "id": "mystery_tmpl_006",
+        "headline": "隐于深邃阴影中安详微笑，{card_name}慧眼洞察秋毫",
+        "body": "{timeslot_name}真正的胜负手往往在不为人知的暗处决定。数字{number}赋予你的深邃洞察力助你一眼看穿整个棋局大势。",
+        "tip": "寡言慎行，敏锐观察他人眼神与肢体背后潜藏的真实意图。",
+        "share_caption": "在{timeslot_name}以{card_name}{number}号深邃洞察掌控全盘 👁️ #DOK_KEY"
+      }
+    ]
+  },
+  "irony": {
+    "name": "反转机趣",
+    "color": "#588157",
+    "voice_guide": "峰回路转、笑对意外的从容豁达",
+    "templates": [
+      {
+        "id": "irony_tmpl_001",
+        "headline": "{card_name}今日昂然驻足，展现非凡气魄",
+        "body": "在{timeslot_name}里，数字 {number} 已然站在你身旁。从容迈出脚步，事情自会顺理成章地推进。",
+        "tip": "今日良策：保持从容的微笑，世界自会对你温柔以待。",
+        "share_caption": "今日在{timeslot_name}遇见 {card_name} 与数字 {number} 🍀 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_002",
+        "headline": "在{timeslot_name}的时刻，全新的机缘悄然绽放",
+        "body": "数字 {number} 正在默默守护着今日的每一步前行。",
+        "tip": "越是关键时刻，越要把专注与从容当作你最强大的武器。",
+        "share_caption": "带着 {card_name} 与幸运数字 {number} 度过从容的{timeslot_name} ✨ #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_003",
+        "headline": "在{timeslot_name}的舞台上，{card_name}为你点亮灵光",
+        "body": "数字 {number} 悄然为你揭示了崭新的转机与可能。",
+        "tip": "不刻意求全的自然与松弛，往往能带来意料之外的美妙惊喜。",
+        "share_caption": "在{timeslot_name}与 {card_name} 和数字 {number} 相伴 🌟 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_004",
+        "headline": "躲避水坑却踩了进去，却在泥沼中摸出了绝世宝物",
+        "body": "在{timeslot_name}发生的微小插曲绝非失败，而是惊天大反转的伏笔。数字{number}将你的意外小失误巧妙蜕变为千载难逢的巨大鸿运。",
+        "tip": "事情没按剧本发展时不妨淡然一笑，更精彩的大结局已在后头候场。",
+        "share_caption": "在{timeslot_name}与{card_name}{number}号戏剧性绝地大逆转 🎭 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_005",
+        "headline": "在险些丢弃的废纸堆里，{card_name}发现了通往暴富的关键线索",
+        "body": "莫要被世俗的表面价值所蒙蔽。在{timeslot_name}，数字{number}助你在无人问津的冷门角落淘出货真价实的璀璨钻石。",
+        "tip": "最容易被所有人忽视的微小细节，正掌握着今天的决胜王牌。",
+        "share_caption": "携{card_name}{number}号在{timeslot_name}点石成金化腐朽为神奇 💎 #DOK_KEY"
+      },
+      {
+        "id": "irony_tmpl_006",
+        "headline": "被一扇柴门拒之门外，{card_name}转身却遇见了一座宏伟皇宫",
+        "body": "在{timeslot_name}遭到的婉拒实则是上天对你的福佑庇护。数字{number}正在指引你离开小池塘，迈向真正属于你的广阔汪洋。",
+        "tip": "大声对自己说一句‘塞翁失马焉知非福’，自信推开下一扇大门！",
+        "share_caption": "在{timeslot_name}以{card_name}{number}号实现因祸得福华丽蜕变 🏰 #DOK_KEY"
+      }
+    ]
+  }
+}
