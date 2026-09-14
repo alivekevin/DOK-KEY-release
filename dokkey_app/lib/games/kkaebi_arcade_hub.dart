@@ -18,6 +18,7 @@ import 'kkaebi_xsudoku_game.dart';
 import 'kkaebi_cross_magicsquare_game.dart';
 import 'kkaebi_hex_minesweeper_game.dart';
 import 'core/game_shell.dart';
+import '../timelab/timelab_hub_page.dart';
 
 /// 🕹️ 깨비 오락실 허브 (v4.9.1)
 /// 3x3 9개 클래식 아케이드 그리드 & 상단 3개(스도쿠·마방진·지뢰찾기) 전용 '+ 변형 모드' 탑재.
@@ -239,6 +240,88 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 18),
               child: Divider(color: DokkeyTheme.gold.withOpacity(0.25), thickness: 1),
+            ),
+
+            // ⏱️ 시네마틱 타임 랩 (The Time Lab) 특별관 배너
+            Padding(
+              padding: const EdgeInsets.fromLTRB(14, 2, 14, 8),
+              child: Material(
+                color: Colors.transparent,
+                child: InkWell(
+                  onTap: () {
+                    SoundService().playCardFlip();
+                    Navigator.of(context).pop();
+                    TimelabHubPage.show(context);
+                  },
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+                    decoration: BoxDecoration(
+                      gradient: const LinearGradient(
+                        colors: [Color(0xFF331608), Color(0xFF161F33)],
+                      ),
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(color: const Color(0xFFFFD700), width: 1.4),
+                      boxShadow: [
+                        BoxShadow(
+                          color: const Color(0xFFFFD700).withOpacity(0.2),
+                          blurRadius: 10,
+                        ),
+                      ],
+                    ),
+                    child: Row(
+                      children: [
+                        Container(
+                          padding: const EdgeInsets.all(6),
+                          decoration: BoxDecoration(
+                            color: const Color(0xFFFFD700).withOpacity(0.2),
+                            shape: BoxShape.circle,
+                          ),
+                          child: const Text('⏱️', style: TextStyle(fontSize: 16)),
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                children: [
+                                  Text(
+                                    isKo ? '시네마틱 타임 랩' : 'Cinematic Time Lab',
+                                    style: const TextStyle(
+                                      color: Color(0xFFFFE66D),
+                                      fontWeight: FontWeight.w900,
+                                      fontSize: 13,
+                                    ),
+                                  ),
+                                  const SizedBox(width: 6),
+                                  Container(
+                                    padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),
+                                    decoration: BoxDecoration(
+                                      color: const Color(0xFFFF0055).withOpacity(0.25),
+                                      borderRadius: BorderRadius.circular(6),
+                                      border: Border.all(color: const Color(0xFFFF0055), width: 0.8),
+                                    ),
+                                    child: const Text(
+                                      'NEW 특별관',
+                                      style: TextStyle(color: Color(0xFFFF5252), fontSize: 9, fontWeight: FontWeight.bold),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              Text(
+                                isKo ? '3단 체인 타이머 · 9-레인 그리드 스톱워치' : '3-Phase Chain Timer · 9-Lane Stopwatch',
+                                style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 10.5),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.arrow_forward_ios_rounded, size: 12, color: Color(0xFFFFD700)),
+                      ],
+                    ),
+                  ),
+                ),
+              ),
             ),
 
             // 3x3 Classic Game Grid
