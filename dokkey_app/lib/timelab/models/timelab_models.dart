@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:typed_data';
 import 'package:flutter/material.dart';
 
 /// ⏱️ 시네마틱 타임 랩 3대 테마 프리셋
@@ -15,6 +16,7 @@ class ChainStep {
   String? soundId; // 'gate', 'blast', 'buzzer', 'beep', 'gong', 'magic', 'custom' 등
   String? customSoundPath; // 휴대폰 내부 오디오 파일 절대 경로
   String? customSoundName; // 사용자 표시용 파일명 (예: "조용한 노래.mp3")
+  Uint8List? customSoundBytes; // 웹 및 모바일 범용 오디오 바이너리 데이터
   Duration delayAfter; // 해당 타이머 완료 후 다음 단계까지의 대기 시간
 
   ChainStep({
@@ -23,6 +25,7 @@ class ChainStep {
     this.soundId,
     this.customSoundPath,
     this.customSoundName,
+    this.customSoundBytes,
     this.delayAfter = Duration.zero,
   });
 
@@ -53,6 +56,7 @@ class ChainStep {
     String? soundId,
     String? customSoundPath,
     String? customSoundName,
+    Uint8List? customSoundBytes,
     Duration? delayAfter,
   }) {
     return ChainStep(
@@ -61,6 +65,7 @@ class ChainStep {
       soundId: soundId ?? this.soundId,
       customSoundPath: customSoundPath ?? this.customSoundPath,
       customSoundName: customSoundName ?? this.customSoundName,
+      customSoundBytes: customSoundBytes ?? this.customSoundBytes,
       delayAfter: delayAfter ?? this.delayAfter,
     );
   }

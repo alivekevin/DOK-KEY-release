@@ -355,32 +355,50 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               const Text('종료 시 효과음', style: TextStyle(color: Colors.white70, fontSize: 13)),
-              InkWell(
-                onTap: !isLocked && isEnabled ? () => _showSoundPickerSheet(idx) : null,
-                borderRadius: BorderRadius.circular(8),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                  decoration: BoxDecoration(
-                    color: Colors.white10,
+              Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  if (!isLocked && isEnabled)
+                    IconButton(
+                      icon: const Icon(Icons.volume_up_rounded, color: Colors.amberAccent, size: 20),
+                      tooltip: '효과음 미리듣기',
+                      onPressed: () {
+                        _soundEngine.playCustomOrPreset(
+                          soundId: step.soundId,
+                          customFilePath: step.customSoundPath,
+                          customSoundBytes: step.customSoundBytes,
+                          fallbackTheme: widget.engine.theme,
+                        );
+                      },
+                    ),
+                  InkWell(
+                    onTap: !isLocked && isEnabled ? () => _showSoundPickerSheet(idx) : null,
                     borderRadius: BorderRadius.circular(8),
-                    border: Border.all(color: Colors.white24),
-                  ),
-                  child: Row(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      Text(
-                        step.soundDisplayName,
-                        style: TextStyle(
-                          color: isLocked ? Colors.white38 : const Color(0xFFFFE66D),
-                          fontSize: 12,
-                          fontWeight: FontWeight.bold,
-                        ),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      decoration: BoxDecoration(
+                        color: Colors.white10,
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: Colors.white24),
                       ),
-                      const SizedBox(width: 4),
-                      const Icon(Icons.arrow_drop_down, color: Colors.white70, size: 18),
-                    ],
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            step.soundDisplayName,
+                            style: TextStyle(
+                              color: isLocked ? Colors.white38 : const Color(0xFFFFE66D),
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          const SizedBox(width: 4),
+                          const Icon(Icons.arrow_drop_down, color: Colors.white70, size: 18),
+                        ],
+                      ),
+                    ),
                   ),
-                ),
+                ],
               ),
             ],
           ),
@@ -428,6 +446,8 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
   }
 
   void _showSoundPickerSheet(int stepIndex) {
+    final step = widget.engine.steps[stepIndex];
+
     showModalBottomSheet(
       context: context,
       backgroundColor: const Color(0xFF161B24),
@@ -479,6 +499,41 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   },
                 ),
 
+                if (step.customSoundName != null) ...[
+                  const SizedBox(height: 10),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFFFD700).withOpacity(0.12),
+                      borderRadius: BorderRadius.circular(10),
+                      border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.4)),
+                    ),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Expanded(
+                          child: Text(
+                            '현재 등록: 📁 ${step.customSoundName}',
+                            style: const TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 12),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                        IconButton(
+                          icon: const Icon(Icons.volume_up_rounded, color: Colors.amberAccent, size: 18),
+                          onPressed: () {
+                            _soundEngine.playCustomOrPreset(
+                              soundId: 'custom',
+                              customFilePath: step.customSoundPath,
+                              customSoundBytes: step.customSoundBytes,
+                              fallbackTheme: widget.engine.theme,
+                            );
+                          },
+                        ),
+                      ],
+                    ),
+                  ),
+                ],
+
                 const SizedBox(height: 14),
                 const Text('⚡ 시네마틱 내장 사운드 팩', style: TextStyle(color: Colors.white54, fontSize: 11.5, fontWeight: FontWeight.bold)),
                 const SizedBox(height: 8),
@@ -501,7 +556,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
 
   Widget _buildPresetTile(BuildContext sheetCtx, int stepIndex, String? soundId, String title) {
     final isSelected = widget.engine.steps[stepIndex].soundId == soundId &&
-        widget.engine.steps[stepIndex].customSoundPath == null;
+        widget.engine.steps[stepIndex].customSoundName == null;
 
     return ListTile(
       dense: true,
@@ -532,6 +587,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
           widget.engine.steps[stepIndex].soundId = soundId;
           widget.engine.steps[stepIndex].customSoundPath = null;
           widget.engine.steps[stepIndex].customSoundName = null;
+          widget.engine.steps[stepIndex].customSoundBytes = null;
         });
         Navigator.of(sheetCtx).pop();
       },
@@ -545,27 +601,30 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
         allowedExtensions: ['mp3', 'wav', 'm4a', 'ogg', 'aac', 'flac'],
       );
 
-      if (file != null && file.path != null) {
-        final filePath = file.path!;
+      if (file != null) {
         final fileName = file.name;
+        final filePath = file.path;
+        final bytes = await file.readAsBytes();
 
         setState(() {
           widget.engine.steps[stepIndex].soundId = 'custom';
           widget.engine.steps[stepIndex].customSoundPath = filePath;
           widget.engine.steps[stepIndex].customSoundName = fileName;
+          widget.engine.steps[stepIndex].customSoundBytes = bytes;
         });
 
         // 미리듣기 재생
         await _soundEngine.playCustomOrPreset(
           soundId: 'custom',
           customFilePath: filePath,
+          customSoundBytes: bytes,
           fallbackTheme: widget.engine.theme,
         );
 
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(
-              content: Text('🎵 $fileName 등록 완료!'),
+              content: Text('🎵 "$fileName" 오디오 등록 및 로드 완료!'),
               backgroundColor: DokkeyTheme.cardDark,
             ),
           );

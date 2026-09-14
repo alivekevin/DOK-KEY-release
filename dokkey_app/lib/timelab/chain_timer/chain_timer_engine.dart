@@ -214,6 +214,7 @@ class ChainTimerEngine extends ChangeNotifier {
     _sound.playCustomOrPreset(
       soundId: currentStep.soundId,
       customFilePath: currentStep.customSoundPath,
+      customSoundBytes: currentStep.customSoundBytes,
       fallbackTheme: theme,
       onComplete: _onAudioCompleted,
     );

@@ -61,12 +61,33 @@ class TimelabSoundEngine {
   Future<void> playCustomOrPreset({
     String? soundId,
     String? customFilePath,
+    Uint8List? customSoundBytes,
     required TimelabTheme fallbackTheme,
     VoidCallback? onComplete,
   }) async {
     _completeSub?.cancel();
 
-    // 1) 휴대폰 내 커스텀 오디오 파일 (.mp3, .wav, .m4a 등)이 등록된 경우
+    // 1) 커스텀 오디오 바이트 데이터 (Web 및 모든 플랫폼 100% 호환)
+    if (customSoundBytes != null && customSoundBytes.isNotEmpty) {
+      try {
+        await _player.stop();
+
+        if (onComplete != null) {
+          _completeSub = _player.onPlayerComplete.listen((_) {
+            _completeSub?.cancel();
+            onComplete();
+          });
+        }
+
+        await _player.play(BytesSource(customSoundBytes));
+        HapticFeedback.heavyImpact();
+        return;
+      } catch (e) {
+        debugPrint('Failed to play custom sound bytes: $e');
+      }
+    }
+
+    // 2) 휴대폰 로컬 파일 경로 (모바일 / 데스크톱)
     if (customFilePath != null && customFilePath.isNotEmpty) {
       try {
         if (!kIsWeb && File(customFilePath).existsSync()) {
