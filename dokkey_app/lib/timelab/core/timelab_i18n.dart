@@ -901,4 +901,97 @@ class TimelabI18n {
       zh: '🔥 由DOK-KEY电影级时间实验室测量',
       de: '🔥 Gemessen mit DOK-KEY Cinematic Time Lab',
       hi: '🔥 DOK-KEY सिनेमाई टाइम लैब द्वारा मापा गया');
+
+  // --- Duration Formatter & Direct Time Input ---
+  static String formatDurationHuman(String lang, int totalSeconds) {
+    if (totalSeconds < 60) {
+      return secondsShort(lang, totalSeconds);
+    }
+    final hours = totalSeconds ~/ 3600;
+    final mins = (totalSeconds % 3600) ~/ 60;
+    final secs = totalSeconds % 60;
+
+    if (hours > 0) {
+      if (mins == 0 && secs == 0) {
+        return t(lang, ko: '${hours}시간', en: '${hours}h', ja: '${hours}時間', zh: '${hours}小时', de: '${hours}h', hi: '${hours} घंटे');
+      } else if (secs == 0) {
+        return t(lang, ko: '${hours}시간 ${mins}분', en: '${hours}h ${mins}m', ja: '${hours}時間${mins}分', zh: '${hours}小时${mins}分', de: '${hours}h ${mins}m', hi: '${hours}h ${mins}m');
+      } else {
+        return t(lang, ko: '${hours}시간 ${mins}분 ${secs}초', en: '${hours}h ${mins}m ${secs}s', ja: '${hours}時間${mins}分${secs}秒', zh: '${hours}小时${mins}分${secs}秒', de: '${hours}h ${mins}m ${secs}s', hi: '${hours}h ${mins}m ${secs}s');
+      }
+    } else {
+      if (secs == 0) {
+        return t(lang, ko: '${mins}분', en: '${mins}m', ja: '${mins}分', zh: '${mins}分', de: '${mins}m', hi: '${mins} मिनट');
+      } else {
+        return t(lang, ko: '${mins}분 ${secs}초', en: '${mins}m ${secs}s', ja: '${mins}分${secs}秒', zh: '${mins}分${secs}秒', de: '${mins}m ${secs}s', hi: '${mins}m ${secs}s');
+      }
+    }
+  }
+
+  static String directInputTitle(String lang, int phase, bool isDelay) {
+    if (isDelay) {
+      return t(lang,
+          ko: '⏱️ 단계 $phase 지연(Delay) 직접 입력',
+          en: '⏱️ Phase $phase Delay Direct Input',
+          ja: '⏱️ 第$phase段階 遅延(Delay) 直接入力',
+          zh: '⏱️ 第$phase阶段 延迟(Delay) 直接输入',
+          de: '⏱️ Phase $phase Verzögerung eingeben',
+          hi: '⏱️ चरण $phase देरी सीधे दर्ज करें');
+    }
+    return t(lang,
+        ko: '⏱️ 단계 $phase 타이머 시간 직접 입력',
+        en: '⏱️ Phase $phase Duration Direct Input',
+        ja: '⏱️ 第$phase段階 タイマー時間 直接入力',
+        zh: '⏱️ 第$phase阶段 计时器时长 直接输入',
+        de: '⏱️ Phase $phase Dauer direkt eingeben',
+        hi: '⏱️ चरण $phase टाइमर अवधि सीधे दर्ज करें');
+  }
+
+  static String hoursUnit(String lang) => t(lang,
+      ko: '시간',
+      en: 'hr',
+      ja: '時間',
+      zh: '时',
+      de: 'Std',
+      hi: 'घंटे');
+
+  static String minutesUnit(String lang) => t(lang,
+      ko: '분',
+      en: 'min',
+      ja: '分',
+      zh: '分',
+      de: 'Min',
+      hi: 'मिनट');
+
+  static String secondsUnit(String lang) => t(lang,
+      ko: '초',
+      en: 'sec',
+      ja: '秒',
+      zh: '秒',
+      de: 'Sek',
+      hi: 'सेकंड');
+
+  static String quickAddTitle(String lang) => t(lang,
+      ko: '⚡ 빠른 시간 추가 / 점프',
+      en: '⚡ Quick Add / Presets',
+      ja: '⚡ クイック追加 / プリセット',
+      zh: '⚡ 快捷加时 / 预设',
+      de: '⚡ Schnellauswahl / Presets',
+      hi: '⚡ त्वरित जोड़ें / प्रीसेट');
+
+  static String resetDefaultTime(String lang) => t(lang,
+      ko: '10초 리셋',
+      en: '10s Reset',
+      ja: '10秒リセット',
+      zh: '10秒重置',
+      de: '10s Reset',
+      hi: '10s रीसेट');
+
+  static String tapToEditTooltip(String lang) => t(lang,
+      ko: '탭하여 시간 직접 입력',
+      en: 'Tap to enter exact time',
+      ja: 'タップして直接入力',
+      zh: '点击直接输入具体时间',
+      de: 'Tippen für direkte Eingabe',
+      hi: 'सटीक समय दर्ज करने के लिए टैप करें');
 }

@@ -1,0 +1,66 @@
+{
+  "main_slogan": {
+    "ko": "어둠을 밝히는 도깨비불처럼, 매일 마음에 켜지는 한 줄의 지혜",
+    "en": "Illuminating your day with Kkaebi's Wisdom & Daily Words",
+    "ja": "心に灯す一言の知恵、クケビが届ける今日の言葉",
+    "zh": "如照亮黑夜的灯火，每天点亮心间的一句智慧",
+    "hi": "अंधकार रोशन करने वाली धीमी लौ की तरह, रोज़ दिल में जगने वाली ज्ञान की एक पंक्ति",
+    "de": "Wie ein Koboldfeuer in der Nacht — ein Weisheitswort, das täglich dein Herz erleuchtet"
+  },
+  "sub_slogan": {
+    "ko": "3D 깨비가 건네는 오늘의 명언 · 수수께끼 · 인생 운세",
+    "en": "Kkaebi's daily quotes, riddles & life fortune",
+    "ja": "クケビが届ける今日の名言・なぞなぞ・人生運勢",
+    "zh": "多吉比送来的今日名言・谜题・人生运势",
+    "hi": "3D कैकैबी की देन: आज का सुवचन, पहेली और जीवन भविष्यवाणी",
+    "de": "3D-Kkaebis tägliche Weisheit, Rätsel & Lebensweissagung"
+  },
+  "app_purpose": {
+    "ko": "매일 아침 깨비가 건네는 한 줄의 지혜로 하루를 열고, 수수께끼와 운세로 마음을 돌보는 지혜 플랫폼",
+    "en": "Open your day with a line of wisdom from Kkaebi, then care for your mind with riddles and fortune.",
+    "ja": "毎朝クケビが届ける一言の知恵で一日を開き、なぞなぞと運勢で心をいたわる知恵プラットフォーム。",
+    "zh": "每天早晨由多吉比送上一句智慧开启一天，用谜题与运势照护心灵。",
+    "hi": "हर सुबह कैकैबी की ज्ञान की एक पंक्ति से दिन शुरू करें, पहेली और भविष्यवाणी से मन का ध्यान रखें।",
+    "de": "Beginne den Tag mit einer Zeile Weisheit von Kkaebi und pflege dein Herz mit Rätseln und Weisssagung."
+  },
+  "og_title": {
+    "ko": "DOK-KEY (도깨비키) - 깨비가 전하는 오늘의 명언 & 지혜",
+    "en": "DOK-KEY — Today's Quote & Wisdom, delivered by Kkaebi",
+    "ja": "DOK-KEY — クケビが届ける今日の名言＆知恵",
+    "zh": "DOK-KEY — 多吉比送来的今日名言与智慧",
+    "hi": "DOK-KEY — कैकैबी की देन: आज का सुवचन और ज्ञान",
+    "de": "DOK-KEY — Kkaebis Tageszitat & Weisheit"
+  },
+  "og_description": {
+    "ko": "매일 아침 나를 깨우는 한 줄의 격언, 3D 깨비와 나누는 수수께끼와 마음 운세. 오늘의 지혜를 열쇠로 잠금 해제하세요.",
+    "en": "A morning maxim that wakes you up, riddles with a 3D goblin, and heart fortune. Unlock today's wisdom with your key.",
+    "ja": "毎朝目覚める一句の格言、3Dクケビとなぞなぞ、心の運勢。今日の知恵を鍵で解き放とう。",
+    "zh": "每天清晨唤醒你的一句格言，与3D多吉比一起解谜、观心运。用钥匙开启今日的智慧。",
+    "hi": "हर सुबह जगाने वाला एक सुवचन, 3D कैकैबी के साथ पहेली और मन की भविष्यवाणी। आज का ज्ञान चाबी से खोलें।",
+    "de": "Ein morgendlicher Weckruf der Weisheit, Rätsel mit dem 3D-Kobold und Herzensweissagung. Schließe die heutige Weisheit mit deinem Schlüssel auf."
+  },
+  "web_hero": {
+    "ko": "하루 한 줄, 나를 바꾸는 도깨비 명언",
+    "en": "One line a day — the goblin quote that changes you",
+    "ja": "一日ひとこと、自分を変えるドッケビの名言",
+    "zh": "一天一句，改变我的多吉比名言",
+    "hi": "रोज़ एक पंक्ति — बदल देने वाला कैकैबी सुवचन",
+    "de": "Eine Zeile am Tag — das Koboldzitat, das dich verändert"
+  },
+  "poster_stamp": {
+    "ko": "오늘의 지혜 부적",
+    "en": "WISDOM AMULET",
+    "ja": "知恵の御守り",
+    "zh": "智慧神符",
+    "hi": "शुभ ज्ञान ताबीज",
+    "de": "WEISHEITS-TALISMAN"
+  },
+  "poster_footer": {
+    "ko": "깨비가 전하는 오늘의 명언",
+    "en": "Kkaebi's daily words",
+    "ja": "クケビが届ける今日の言葉",
+    "zh": "多吉比送来的今日名言",
+    "hi": "कैकैबी की देन — आज का सुवचन",
+    "de": "Kkaebis tägliche Weisheit"
+  }
+}

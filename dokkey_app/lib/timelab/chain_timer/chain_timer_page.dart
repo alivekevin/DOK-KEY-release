@@ -8,6 +8,7 @@ import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
 import 'chain_timer_engine.dart';
+import '../core/hold_repeat_button.dart';
 import 'chain_timer_settings_page.dart';
 
 /// 💣 모듈 1: 3단 시퀀스 체인 타이머 (The Defuser) 풀스크린 뷰
@@ -612,7 +613,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
             ),
             const SizedBox(height: 4),
             Text(
-              isEnabled ? TimelabI18n.secondsShort(lang, step.duration.inSeconds) : 'OFF',
+              isEnabled ? TimelabI18n.formatDurationHuman(lang, step.duration.inSeconds) : 'OFF',
               style: TextStyle(
                 color: isEnabled ? (isCurrent ? cfg.primaryColor : Colors.white) : Colors.white24,
                 fontSize: 15,
@@ -650,46 +651,118 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   mainAxisSize: MainAxisSize.min,
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    Text(TimelabI18n.durationEditTitle(lang, idx + 1), style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+                    Text(
+                      TimelabI18n.durationEditTitle(lang, idx + 1),
+                      style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
+                    ),
                     const SizedBox(height: 16),
+                    // 1) 타이머 시간 (홀드 연속 증감)
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text(TimelabI18n.timerDurationLabel(lang), style: const TextStyle(color: Colors.white70, fontSize: 14)),
                         Row(
                           children: [
-                            IconButton(
-                              icon: const Icon(Icons.remove_circle_outline, color: Colors.amber),
-                              onPressed: sec > 1 ? () => setModalState(() => sec--) : null,
+                            HoldRepeatButton(
+                              icon: Icons.remove_circle_outline,
+                              color: Colors.amber,
+                              isEnabled: sec > 1,
+                              onStep: (delta) => setModalState(() {
+                                sec = (sec - delta).clamp(1, 86400);
+                              }),
                             ),
-                            Text(TimelabI18n.secondsShort(lang, sec), style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
-                            IconButton(
-                              icon: const Icon(Icons.add_circle_outline, color: Colors.amber),
-                              onPressed: () => setModalState(() => sec++),
+                            Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 8),
+                              child: Text(
+                                TimelabI18n.formatDurationHuman(lang, sec),
+                                style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w900),
+                              ),
+                            ),
+                            HoldRepeatButton(
+                              icon: Icons.add_circle_outline,
+                              color: Colors.amber,
+                              isEnabled: sec < 86400,
+                              onStep: (delta) => setModalState(() {
+                                sec = (sec + delta).clamp(1, 86400);
+                              }),
                             ),
                           ],
                         ),
                       ],
                     ),
+
+                    // Quick presets in runtime sheet
+                    const SizedBox(height: 6),
+                    SingleChildScrollView(
+                      scrollDirection: Axis.horizontal,
+                      child: Row(
+                        children: [
+                          for (final p in [10, 60, 300, 600, 1800, 3600])
+                            Padding(
+                              padding: const EdgeInsets.only(right: 6),
+                              child: InkWell(
+                                onTap: () {
+                                  HapticFeedback.lightImpact();
+                                  setModalState(() {
+                                    sec = (sec + p).clamp(1, 86400);
+                                  });
+                                },
+                                borderRadius: BorderRadius.circular(8),
+                                child: Container(
+                                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                  decoration: BoxDecoration(
+                                    color: const Color(0xFF1E2838),
+                                    borderRadius: BorderRadius.circular(8),
+                                    border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.35)),
+                                  ),
+                                  child: Text(
+                                    p >= 3600 ? '+1h' : (p >= 60 ? '+${p ~/ 60}m' : '+${p}s'),
+                                    style: const TextStyle(color: Color(0xFFFFE66D), fontSize: 11, fontWeight: FontWeight.bold),
+                                  ),
+                                ),
+                              ),
+                            ),
+                        ],
+                      ),
+                    ),
+
+                    const SizedBox(height: 12),
+
+                    // 2) 지연 대기 시간 (홀드 연속 증감)
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text(TimelabI18n.delayAfterStep(lang), style: const TextStyle(color: Colors.white70, fontSize: 14)),
                         Row(
                           children: [
-                            IconButton(
-                              icon: const Icon(Icons.remove_circle_outline, color: Colors.amber),
-                              onPressed: delaySec > 0 ? () => setModalState(() => delaySec--) : null,
+                            HoldRepeatButton(
+                              icon: Icons.remove_circle_outline,
+                              color: Colors.amber,
+                              isEnabled: delaySec > 0,
+                              onStep: (delta) => setModalState(() {
+                                delaySec = (delaySec - delta).clamp(0, 3600);
+                              }),
                             ),
-                            Text(TimelabI18n.secondsShort(lang, delaySec), style: const TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.w900)),
-                            IconButton(
-                              icon: const Icon(Icons.add_circle_outline, color: Colors.amber),
-                              onPressed: () => setModalState(() => delaySec++),
+                            Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 8),
+                              child: Text(
+                                TimelabI18n.formatDurationHuman(lang, delaySec),
+                                style: const TextStyle(color: Color(0xFFFFAB40), fontSize: 16, fontWeight: FontWeight.w900),
+                              ),
+                            ),
+                            HoldRepeatButton(
+                              icon: Icons.add_circle_outline,
+                              color: Colors.amber,
+                              isEnabled: delaySec < 3600,
+                              onStep: (delta) => setModalState(() {
+                                delaySec = (delaySec + delta).clamp(0, 3600);
+                              }),
                             ),
                           ],
                         ),
                       ],
                     ),
+
                     const SizedBox(height: 16),
                     ElevatedButton(
                       style: ElevatedButton.styleFrom(

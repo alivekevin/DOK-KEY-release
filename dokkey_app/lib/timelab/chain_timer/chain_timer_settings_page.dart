@@ -6,6 +6,7 @@ import '../../core/sound_service.dart';
 import '../../core/theme.dart';
 import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
+import '../core/hold_repeat_button.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_sound_engine.dart';
 import 'chain_timer_engine.dart';
@@ -70,24 +71,24 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   children: [
                     const Text('💣', style: TextStyle(fontSize: 26)),
                     const SizedBox(width: 12),
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              TimelabI18n.settingsFlowTitle(lang),
-                              style: const TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 13.5),
-                            ),
-                            const SizedBox(height: 3),
-                            Text(
-                              isPro
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            TimelabI18n.settingsFlowTitle(lang),
+                            style: const TextStyle(color: Color(0xFFFFE66D), fontWeight: FontWeight.bold, fontSize: 13.5),
+                          ),
+                          const SizedBox(height: 3),
+                          Text(
+                            isPro
                                 ? TimelabI18n.settingsDescPro(lang)
                                 : TimelabI18n.settingsDescFree(lang),
-                              style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 11.5, height: 1.35),
-                            ),
-                          ],
-                        ),
+                            style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 11.5, height: 1.35),
+                          ),
+                        ],
                       ),
+                    ),
                   ],
                 ),
               ),
@@ -148,21 +149,24 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                     ),
                     Row(
                       children: [
-                        IconButton(
-                          icon: const Icon(Icons.remove_circle_outline, color: Colors.amber),
-                          onPressed: widget.engine.totalSets > 1
-                              ? () => setState(() => widget.engine.setTotalSets(widget.engine.totalSets - 1))
-                              : null,
+                        HoldRepeatButton(
+                          icon: Icons.remove_circle_outline,
+                          color: Colors.amber,
+                          isEnabled: widget.engine.totalSets > 1,
+                          onStep: (_) => setState(() => widget.engine.setTotalSets(widget.engine.totalSets - 1)),
                         ),
-                        Text(
-                          TimelabI18n.setsCount(lang, widget.engine.totalSets),
-                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
+                        Padding(
+                          padding: const EdgeInsets.symmetric(horizontal: 6),
+                          child: Text(
+                            TimelabI18n.setsCount(lang, widget.engine.totalSets),
+                            style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 16),
+                          ),
                         ),
-                        IconButton(
-                          icon: const Icon(Icons.add_circle_outline, color: Colors.amber),
-                          onPressed: widget.engine.totalSets < 9
-                              ? () => setState(() => widget.engine.setTotalSets(widget.engine.totalSets + 1))
-                              : null,
+                        HoldRepeatButton(
+                          icon: Icons.add_circle_outline,
+                          color: Colors.amber,
+                          isEnabled: widget.engine.totalSets < 9,
+                          onStep: (_) => setState(() => widget.engine.setTotalSets(widget.engine.totalSets + 1)),
                         ),
                       ],
                     ),
@@ -309,43 +313,103 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
 
           const SizedBox(height: 14),
 
-          // 1) 타이머 시간 설정
+          // 1) 타이머 시간 설정 (홀드 연속 가속 증감 + 터치 시 직접 입력)
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Text(TimelabI18n.timerDurationLabel(lang), style: const TextStyle(color: Colors.white70, fontSize: 13)),
+              Flexible(
+                child: Text(
+                  TimelabI18n.timerDurationLabel(lang),
+                  style: const TextStyle(color: Colors.white70, fontSize: 13),
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ),
               Row(
                 children: [
-                  IconButton(
-                    icon: const Icon(Icons.remove_circle_outline, color: Colors.amber, size: 20),
-                    onPressed: !isLocked && isEnabled && step.duration.inSeconds > 1
-                        ? () => setState(() {
-                            widget.engine.updateStepDuration(idx, Duration(seconds: step.duration.inSeconds - 1));
-                          })
-                        : null,
+                  HoldRepeatButton(
+                    icon: Icons.remove_circle_outline,
+                    color: Colors.amber,
+                    isEnabled: !isLocked && isEnabled && step.duration.inSeconds > 1,
+                    onStep: (delta) {
+                      final currentSec = step.duration.inSeconds;
+                      final nextSec = (currentSec - delta).clamp(1, 86400);
+                      setState(() {
+                        widget.engine.updateStepDuration(idx, Duration(seconds: nextSec));
+                      });
+                    },
                   ),
-                  Text(
-                    TimelabI18n.secondsShort(lang, step.duration.inSeconds),
-                    style: TextStyle(
-                      color: isLocked ? Colors.white38 : Colors.white,
-                      fontWeight: FontWeight.w900,
-                      fontSize: 16,
+                  InkWell(
+                    onTap: !isLocked && isEnabled
+                        ? () => _showDirectTimeInputDialog(idx, isDelay: false, lang: lang)
+                        : null,
+                    borderRadius: BorderRadius.circular(8),
+                    child: Tooltip(
+                      message: TimelabI18n.tapToEditTooltip(lang),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.06),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.white12),
+                        ),
+                        child: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Text(
+                              TimelabI18n.formatDurationHuman(lang, step.duration.inSeconds),
+                              style: TextStyle(
+                                color: isLocked ? Colors.white38 : Colors.white,
+                                fontWeight: FontWeight.w900,
+                                fontSize: 15,
+                              ),
+                            ),
+                            if (step.duration.inSeconds >= 60)
+                              Text(
+                                '(${step.duration.inSeconds}s)',
+                                style: const TextStyle(color: Colors.white38, fontSize: 9.5),
+                              ),
+                          ],
+                        ),
+                      ),
                     ),
                   ),
-                  IconButton(
-                    icon: const Icon(Icons.add_circle_outline, color: Colors.amber, size: 20),
-                    onPressed: !isLocked && isEnabled
-                        ? () => setState(() {
-                            widget.engine.updateStepDuration(idx, Duration(seconds: step.duration.inSeconds + 1));
-                          })
-                        : null,
+                  HoldRepeatButton(
+                    icon: Icons.add_circle_outline,
+                    color: Colors.amber,
+                    isEnabled: !isLocked && isEnabled && step.duration.inSeconds < 86400,
+                    onStep: (delta) {
+                      final currentSec = step.duration.inSeconds;
+                      final nextSec = (currentSec + delta).clamp(1, 86400);
+                      setState(() {
+                        widget.engine.updateStepDuration(idx, Duration(seconds: nextSec));
+                      });
+                    },
                   ),
                 ],
               ),
             ],
           ),
 
-          const Divider(color: Colors.white10, height: 16),
+          // ⚡ 퀵 프리셋 칩 (+10s, +1m, +5m, +10m, +30m, +1h)
+          if (!isLocked && isEnabled) ...[
+            const SizedBox(height: 8),
+            _buildQuickPresetChips(
+              onAdd: (addedSec) {
+                final nextSec = (step.duration.inSeconds + addedSec).clamp(1, 86400);
+                setState(() {
+                  widget.engine.updateStepDuration(idx, Duration(seconds: nextSec));
+                });
+              },
+              onReset: () {
+                setState(() {
+                  widget.engine.updateStepDuration(idx, const Duration(seconds: 10));
+                });
+              },
+              lang: lang,
+            ),
+          ],
+
+          const Divider(color: Colors.white10, height: 20),
 
           // 2) 종료음 선택 (내 폰 사운드 or 내장 프리셋)
           Row(
@@ -409,7 +473,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
             ],
           ),
 
-          const Divider(color: Colors.white10, height: 16),
+          const Divider(color: Colors.white10, height: 20),
 
           // 3) 완료 후 지연 대기 시간 (Delay)
           Row(
@@ -424,35 +488,346 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
               ),
               Row(
                 children: [
-                  IconButton(
-                    icon: const Icon(Icons.remove_circle_outline, color: Colors.amber, size: 20),
-                    onPressed: !isLocked && isEnabled && step.delayAfter.inSeconds > 0
-                        ? () => setState(() {
-                            widget.engine.updateStepDelay(idx, Duration(seconds: step.delayAfter.inSeconds - 1));
-                          })
-                        : null,
+                  HoldRepeatButton(
+                    icon: Icons.remove_circle_outline,
+                    color: Colors.amber,
+                    isEnabled: !isLocked && isEnabled && step.delayAfter.inSeconds > 0,
+                    onStep: (delta) {
+                      final currentSec = step.delayAfter.inSeconds;
+                      final nextSec = (currentSec - delta).clamp(0, 3600);
+                      setState(() {
+                        widget.engine.updateStepDelay(idx, Duration(seconds: nextSec));
+                      });
+                    },
                   ),
-                  Text(
-                    TimelabI18n.secondsShort(lang, step.delayAfter.inSeconds),
-                    style: TextStyle(
-                      color: isLocked ? Colors.white38 : const Color(0xFFFFAB40),
-                      fontWeight: FontWeight.w900,
-                      fontSize: 16,
+                  InkWell(
+                    onTap: !isLocked && isEnabled
+                        ? () => _showDirectTimeInputDialog(idx, isDelay: true, lang: lang)
+                        : null,
+                    borderRadius: BorderRadius.circular(8),
+                    child: Tooltip(
+                      message: TimelabI18n.tapToEditTooltip(lang),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.06),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.white12),
+                        ),
+                        child: Text(
+                          TimelabI18n.formatDurationHuman(lang, step.delayAfter.inSeconds),
+                          style: TextStyle(
+                            color: isLocked ? Colors.white38 : const Color(0xFFFFAB40),
+                            fontWeight: FontWeight.w900,
+                            fontSize: 15,
+                          ),
+                        ),
+                      ),
                     ),
                   ),
-                  IconButton(
-                    icon: const Icon(Icons.add_circle_outline, color: Colors.amber, size: 20),
-                    onPressed: !isLocked && isEnabled
-                        ? () => setState(() {
-                            widget.engine.updateStepDelay(idx, Duration(seconds: step.delayAfter.inSeconds + 1));
-                          })
-                        : null,
+                  HoldRepeatButton(
+                    icon: Icons.add_circle_outline,
+                    color: Colors.amber,
+                    isEnabled: !isLocked && isEnabled && step.delayAfter.inSeconds < 3600,
+                    onStep: (delta) {
+                      final currentSec = step.delayAfter.inSeconds;
+                      final nextSec = (currentSec + delta).clamp(0, 3600);
+                      setState(() {
+                        widget.engine.updateStepDelay(idx, Duration(seconds: nextSec));
+                      });
+                    },
                   ),
                 ],
               ),
             ],
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildQuickPresetChips({
+    required ValueChanged<int> onAdd,
+    required VoidCallback onReset,
+    required String lang,
+  }) {
+    final chips = [
+      {'label': '+10s', 'sec': 10},
+      {'label': '+1m', 'sec': 60},
+      {'label': '+5m', 'sec': 300},
+      {'label': '+10m', 'sec': 600},
+      {'label': '+30m', 'sec': 1800},
+      {'label': '+1h', 'sec': 3600},
+    ];
+
+    return SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      child: Row(
+        children: [
+          for (final c in chips)
+            Padding(
+              padding: const EdgeInsets.only(right: 6),
+              child: InkWell(
+                onTap: () {
+                  HapticFeedback.lightImpact();
+                  onAdd(c['sec'] as int);
+                },
+                borderRadius: BorderRadius.circular(8),
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF1E2838),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.35)),
+                  ),
+                  child: Text(
+                    c['label'] as String,
+                    style: const TextStyle(
+                      color: Color(0xFFFFE66D),
+                      fontSize: 11,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          InkWell(
+            onTap: () {
+              HapticFeedback.lightImpact();
+              onReset();
+            },
+            borderRadius: BorderRadius.circular(8),
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+              decoration: BoxDecoration(
+                color: Colors.white10,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.white24),
+              ),
+              child: Text(
+                TimelabI18n.resetDefaultTime(lang),
+                style: const TextStyle(
+                  color: Colors.white70,
+                  fontSize: 10.5,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _showDirectTimeInputDialog(int idx, {required bool isDelay, required String lang}) {
+    final currentSeconds = isDelay
+        ? widget.engine.steps[idx].delayAfter.inSeconds
+        : widget.engine.steps[idx].duration.inSeconds;
+
+    int curHours = currentSeconds ~/ 3600;
+    int curMins = (currentSeconds % 3600) ~/ 60;
+    int curSecs = currentSeconds % 60;
+
+    final hrCtrl = TextEditingController(text: curHours.toString());
+    final minCtrl = TextEditingController(text: curMins.toString());
+    final secCtrl = TextEditingController(text: curSecs.toString());
+
+    showModalBottomSheet(
+      context: context,
+      isScrollControlled: true,
+      backgroundColor: const Color(0xFF161B24),
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
+      ),
+      builder: (sheetCtx) {
+        return Padding(
+          padding: EdgeInsets.only(
+            bottom: MediaQuery.of(sheetCtx).viewInsets.bottom,
+            left: 20,
+            right: 20,
+            top: 20,
+          ),
+          child: StatefulBuilder(
+            builder: (ctx, setDialogState) {
+              return SafeArea(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Expanded(
+                          child: Text(
+                            TimelabI18n.directInputTitle(lang, idx + 1, isDelay),
+                            style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                          ),
+                        ),
+                        IconButton(
+                          icon: const Icon(Icons.close, color: Colors.white70),
+                          onPressed: () => Navigator.of(sheetCtx).pop(),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 16),
+
+                    // Inputs: Hours, Minutes, Seconds
+                    Row(
+                      children: [
+                        Expanded(
+                          child: _buildTimeInputField(
+                            controller: hrCtrl,
+                            unit: TimelabI18n.hoursUnit(lang),
+                            maxVal: 24,
+                            onChanged: (_) => setDialogState(() {}),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: _buildTimeInputField(
+                            controller: minCtrl,
+                            unit: TimelabI18n.minutesUnit(lang),
+                            maxVal: 59,
+                            onChanged: (_) => setDialogState(() {}),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: _buildTimeInputField(
+                            controller: secCtrl,
+                            unit: TimelabI18n.secondsUnit(lang),
+                            maxVal: 59,
+                            onChanged: (_) => setDialogState(() {}),
+                          ),
+                        ),
+                      ],
+                    ),
+
+                    const SizedBox(height: 16),
+
+                    // Quick Jump Presets
+                    Text(
+                      TimelabI18n.quickAddTitle(lang),
+                      style: const TextStyle(color: Colors.white54, fontSize: 11.5, fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(height: 8),
+                    Wrap(
+                      spacing: 8,
+                      runSpacing: 8,
+                      children: [
+                        _buildPresetButton('10s', 10, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('30s', 30, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('1m', 60, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('5m', 300, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('10m', 600, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('30m', 1800, hrCtrl, minCtrl, secCtrl, setDialogState),
+                        _buildPresetButton('1h', 3600, hrCtrl, minCtrl, secCtrl, setDialogState),
+                      ],
+                    ),
+
+                    const SizedBox(height: 20),
+
+                    ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFFFFD700),
+                        foregroundColor: Colors.black,
+                        padding: const EdgeInsets.symmetric(vertical: 14),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+                      ),
+                      onPressed: () {
+                        final h = int.tryParse(hrCtrl.text) ?? 0;
+                        final m = int.tryParse(minCtrl.text) ?? 0;
+                        final s = int.tryParse(secCtrl.text) ?? 0;
+                        final total = (h * 3600 + m * 60 + s).clamp(isDelay ? 0 : 1, 86400);
+
+                        setState(() {
+                          if (isDelay) {
+                            widget.engine.updateStepDelay(idx, Duration(seconds: total));
+                          } else {
+                            widget.engine.updateStepDuration(idx, Duration(seconds: total));
+                          }
+                        });
+                        HapticFeedback.lightImpact();
+                        Navigator.of(sheetCtx).pop();
+                      },
+                      child: Text(TimelabI18n.saveSetting(lang), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),
+                    ),
+                    const SizedBox(height: 12),
+                  ],
+                ),
+              );
+            },
+          ),
+        );
+      },
+    );
+  }
+
+  Widget _buildTimeInputField({
+    required TextEditingController controller,
+    required String unit,
+    required int maxVal,
+    required ValueChanged<String> onChanged,
+  }) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+      decoration: BoxDecoration(
+        color: const Color(0xFF0F141C),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white24),
+      ),
+      child: Column(
+        children: [
+          TextField(
+            controller: controller,
+            keyboardType: TextInputType.number,
+            textAlign: TextAlign.center,
+            style: const TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.w900),
+            decoration: const InputDecoration(
+              isDense: true,
+              border: InputBorder.none,
+              contentPadding: EdgeInsets.zero,
+            ),
+            onChanged: onChanged,
+          ),
+          const SizedBox(height: 2),
+          Text(unit, style: const TextStyle(color: Colors.white54, fontSize: 11, fontWeight: FontWeight.bold)),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildPresetButton(
+    String label,
+    int totalSec,
+    TextEditingController hrCtrl,
+    TextEditingController minCtrl,
+    TextEditingController secCtrl,
+    StateSetter setDialogState,
+  ) {
+    return InkWell(
+      onTap: () {
+        HapticFeedback.selectionClick();
+        final h = totalSec ~/ 3600;
+        final m = (totalSec % 3600) ~/ 60;
+        final s = totalSec % 60;
+        hrCtrl.text = h.toString();
+        minCtrl.text = m.toString();
+        secCtrl.text = s.toString();
+        setDialogState(() {});
+      },
+      borderRadius: BorderRadius.circular(8),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+        decoration: BoxDecoration(
+          color: const Color(0xFF1F2937),
+          borderRadius: BorderRadius.circular(8),
+          border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.4)),
+        ),
+        child: Text(
+          label,
+          style: const TextStyle(color: Color(0xFFFFE66D), fontSize: 12, fontWeight: FontWeight.bold),
+        ),
       ),
     );
   }

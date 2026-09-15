@@ -298,4 +298,30 @@ void main() {
       expect(clickerEngine.isMilestone100, true);
     });
   });
+
+  group('Duration Formatter & Hold-to-Repeat Tests', () {
+    test('스마트 시간 포맷팅 formatDurationHuman 6개국어 및 분/시간 변환 검증', () {
+      // 1. 60초 미만 (초 단위)
+      expect(TimelabI18n.formatDurationHuman('ko', 45), '45초');
+      expect(TimelabI18n.formatDurationHuman('en', 45), '45s');
+
+      // 2. 분 단위 (정수 분)
+      expect(TimelabI18n.formatDurationHuman('ko', 1800), '30분');
+      expect(TimelabI18n.formatDurationHuman('en', 1800), '30m');
+      expect(TimelabI18n.formatDurationHuman('ja', 1800), '30分');
+
+      // 3. 분 + 초 복합
+      expect(TimelabI18n.formatDurationHuman('ko', 1845), '30분 45초');
+      expect(TimelabI18n.formatDurationHuman('en', 1845), '30m 45s');
+
+      // 4. 시간 단위 (정수 시간)
+      expect(TimelabI18n.formatDurationHuman('ko', 3600), '1시간');
+      expect(TimelabI18n.formatDurationHuman('en', 3600), '1h');
+      expect(TimelabI18n.formatDurationHuman('zh', 3600), '1小时');
+
+      // 5. 시간 + 분 복합
+      expect(TimelabI18n.formatDurationHuman('ko', 5400), '1시간 30분');
+      expect(TimelabI18n.formatDurationHuman('en', 5400), '1h 30m');
+    });
+  });
 }
