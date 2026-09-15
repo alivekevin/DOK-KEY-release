@@ -171,7 +171,7 @@ class TallyClickerEngine extends ChangeNotifier {
     if (_count > 0 && _count % 10 == 0) {
       _isMilestone10 = true;
       if (_soundEnabled) {
-        _soundEngine.playTick(_theme);
+        _soundEngine.playSuccessChime();
       }
       if (_vibrationEnabled) {
         HapticFeedback.mediumImpact();
@@ -179,9 +179,9 @@ class TallyClickerEngine extends ChangeNotifier {
       return;
     }
 
-    // 4. 일반 1회 탭
+    // 4. 일반 1회 탭 (명랑한 코인 사운드)
     if (_soundEnabled) {
-      _soundEngine.playTick(_theme);
+      _soundEngine.playClickerTap();
     }
     if (_vibrationEnabled) {
       HapticFeedback.selectionClick();

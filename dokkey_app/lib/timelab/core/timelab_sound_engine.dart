@@ -24,7 +24,7 @@ class TimelabSoundEngine {
   void playTick(TimelabTheme theme) {
     switch (theme) {
       case TimelabTheme.classicDigital:
-        _sound.playCardFlip();
+        _sound.playUnlock();
         HapticFeedback.selectionClick();
         break;
       case TimelabTheme.cyberDefuser:
@@ -55,14 +55,27 @@ class TimelabSoundEngine {
     }
   }
 
-  /// 2.1 종료 직전 3초(3, 2, 1초) 카운트다운 비프 & 햅틱
+  /// 2.1 종료 직전 3초(3, 2, 1초) 고조되는 카운트다운 비프 & 햅틱
   void playCountdownBeep(int second) {
-    _sound.playCardFlip();
     if (second == 1) {
+      // 1초: 맑고 영롱한 크리스탈 차임 (최종 1초 경고)
+      _sound.playSuccessChime();
       HapticFeedback.heavyImpact();
     } else {
+      // 3초, 2초: 명랑하고 밝은 코인 비프 ("챤! 챤!")
+      _sound.playCoinJangle();
       HapticFeedback.mediumImpact();
     }
+  }
+
+  /// 2.2 탭 계수기(클리커) 전용 명랑한 코인 탭 사운드
+  void playClickerTap() {
+    _sound.playCoinJangle();
+  }
+
+  /// 2.3 맑은 크리스탈 마일스톤 차임
+  void playSuccessChime() {
+    _sound.playSuccessChime();
   }
 
   StreamSubscription? _completeSub;
