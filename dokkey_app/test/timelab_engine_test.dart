@@ -402,6 +402,48 @@ void main() {
       expect(restored.steps[0].delayAfter.inSeconds, 5);
       expect(restored.steps[1].duration.inMinutes, 2);
     });
+
+    test('타이머 사운드 정책 기본값 및 프리셋 연계 검증', () {
+      final engine = ChainTimerEngine();
+
+      // 1) 기본값: 초음 비활성화(false), 3초 전 카운트다운 활성화(true)
+      expect(engine.enableTicking, isFalse, reason: '기본값은 무음(소리 없음)이어야 함');
+      expect(engine.enableCountdownBeep, isTrue, reason: '기본값은 3초 전 카운트다운 활성화이어야 함');
+
+      // 2) 포모도로 적용 시: 초음 OFF, 카운트다운 OFF (완전 몰입 무소음)
+      final pomodoro = builtinRoutinePresets.firstWhere((p) => p.id == 'pomodoro');
+      engine.applyRoutinePreset(pomodoro);
+      expect(engine.enableTicking, isFalse);
+      expect(engine.enableCountdownBeep, isFalse);
+
+      // 3) 디퓨저 적용 시: 초음 ON, 카운트다운 ON (긴장감 유지)
+      final defuser = builtinRoutinePresets.firstWhere((p) => p.id == 'defuser');
+      engine.applyRoutinePreset(defuser);
+      expect(engine.enableTicking, isTrue);
+      expect(engine.enableCountdownBeep, isTrue);
+
+      // 4) 커스텀 사운드 설정 직렬화 및 복원 검증
+      final custom = ChainRoutinePreset(
+        id: 'cr_sound_test',
+        icon: '🥊',
+        customName: '스파링 루틴',
+        activeSlots: 2,
+        totalSets: 3,
+        enableTicking: false,
+        enableCountdownBeep: true,
+        steps: [
+          ChainStep(index: 1, duration: const Duration(minutes: 3)),
+          ChainStep(index: 2, duration: const Duration(minutes: 1)),
+          ChainStep(index: 3, duration: const Duration(seconds: 3)),
+        ],
+      );
+      final restored = ChainRoutinePreset.fromJson(custom.toJson());
+      expect(restored.enableTicking, isFalse);
+      expect(restored.enableCountdownBeep, isTrue);
+
+      engine.dispose();
+    });
   });
 }
+
 

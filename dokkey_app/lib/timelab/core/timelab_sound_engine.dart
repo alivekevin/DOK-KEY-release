@@ -55,6 +55,16 @@ class TimelabSoundEngine {
     }
   }
 
+  /// 2.1 종료 직전 3초(3, 2, 1초) 카운트다운 비프 & 햅틱
+  void playCountdownBeep(int second) {
+    _sound.playCardFlip();
+    if (second == 1) {
+      HapticFeedback.heavyImpact();
+    } else {
+      HapticFeedback.mediumImpact();
+    }
+  }
+
   StreamSubscription? _completeSub;
 
   /// 🛡️ 재생 시퀀스 번호 — 프리셋 SFX 지연 콜백이 이전 재생에 속하면 무시 (경합 방지)

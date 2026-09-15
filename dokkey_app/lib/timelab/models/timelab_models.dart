@@ -191,6 +191,8 @@ class ChainRoutinePreset {
   final int activeSlots;
   final int totalSets;
   final List<ChainStep> steps;
+  final bool? enableTicking;
+  final bool? enableCountdownBeep;
 
   const ChainRoutinePreset({
     required this.id,
@@ -199,6 +201,8 @@ class ChainRoutinePreset {
     required this.activeSlots,
     required this.totalSets,
     required this.steps,
+    this.enableTicking,
+    this.enableCountdownBeep,
   });
 
   String localizedTitle(String lang) {
@@ -222,6 +226,8 @@ class ChainRoutinePreset {
     'activeSlots': activeSlots,
     'totalSets': totalSets,
     'steps': steps.map((s) => s.toJson()).toList(),
+    'enableTicking': enableTicking,
+    'enableCountdownBeep': enableCountdownBeep,
   };
 
   factory ChainRoutinePreset.fromJson(Map<String, dynamic> json) => ChainRoutinePreset(
@@ -234,6 +240,8 @@ class ChainRoutinePreset {
             ?.map((s) => ChainStep.fromJson(s as Map<String, dynamic>))
             .toList() ??
         [],
+    enableTicking: json['enableTicking'] as bool?,
+    enableCountdownBeep: json['enableCountdownBeep'] as bool?,
   );
 }
 
@@ -244,6 +252,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '🍅',
     activeSlots: 2,
     totalSets: 4,
+    enableTicking: false,
+    enableCountdownBeep: false,
     steps: [
       ChainStep(index: 1, duration: const Duration(minutes: 25), delayAfter: Duration.zero),
       ChainStep(index: 2, duration: const Duration(minutes: 5), delayAfter: Duration.zero),
@@ -255,6 +265,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '🔥',
     activeSlots: 2,
     totalSets: 8,
+    enableTicking: false,
+    enableCountdownBeep: true,
     steps: [
       ChainStep(index: 1, duration: const Duration(seconds: 20), delayAfter: Duration.zero),
       ChainStep(index: 2, duration: const Duration(seconds: 10), delayAfter: Duration.zero),
@@ -266,6 +278,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '🥊',
     activeSlots: 2,
     totalSets: 3,
+    enableTicking: false,
+    enableCountdownBeep: true,
     steps: [
       ChainStep(index: 1, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
       ChainStep(index: 2, duration: const Duration(minutes: 1), delayAfter: Duration.zero),
@@ -277,6 +291,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '🍜',
     activeSlots: 1,
     totalSets: 1,
+    enableTicking: false,
+    enableCountdownBeep: true,
     steps: [
       ChainStep(index: 1, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
       ChainStep(index: 2, duration: const Duration(seconds: 5), delayAfter: Duration.zero),
@@ -288,6 +304,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '🎤',
     activeSlots: 2,
     totalSets: 1,
+    enableTicking: false,
+    enableCountdownBeep: true,
     steps: [
       ChainStep(index: 1, duration: const Duration(minutes: 5), delayAfter: const Duration(seconds: 3)),
       ChainStep(index: 2, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
@@ -299,6 +317,8 @@ final List<ChainRoutinePreset> builtinRoutinePresets = [
     icon: '💣',
     activeSlots: 3,
     totalSets: 1,
+    enableTicking: true,
+    enableCountdownBeep: true,
     steps: [
       ChainStep(index: 1, duration: const Duration(seconds: 10), delayAfter: const Duration(seconds: 2)),
       ChainStep(index: 2, duration: const Duration(seconds: 5), delayAfter: const Duration(seconds: 1)),

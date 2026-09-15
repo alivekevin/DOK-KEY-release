@@ -1189,6 +1189,48 @@ class TimelabI18n {
       zh: '保存',
       de: 'Speichern',
       hi: 'सहेजें');
+
+  // --- 사운드 정책 및 설정 현지화 ---
+
+  static String soundSectionTitle(String lang) => t(lang,
+      ko: '사운드 및 피드백',
+      en: 'Sound & Feedback',
+      ja: 'サウンド＆フィードバック',
+      zh: '声音与反馈',
+      de: 'Sound & Feedback',
+      hi: 'ध्वनि और प्रतिक्रिया');
+
+  static String enableTickingTitle(String lang) => t(lang,
+      ko: '동작 중 초음(틱) 재생',
+      en: 'Play Ticking Sound',
+      ja: '動作中の秒針音(カチカチ)',
+      zh: '运行中秒针音',
+      de: 'Ticken während des Betriebs',
+      hi: 'चलते समय टिक ध्वनि');
+
+  static String enableTickingDesc(String lang) => t(lang,
+      ko: '타이머가 동작하는 동안 1초마다 째깍거리는 효과음을 재생합니다.',
+      en: 'Plays a ticking sound every second while running.',
+      ja: 'タイマー作動中、1秒ごとにカチカチ効果音を再生します。',
+      zh: '计时器运行期间每秒播放滴答提示音。',
+      de: 'Spielt jede Sekunde ein Ticken ab, während der Timer läuft.',
+      hi: 'टाइमर चलने के दौरान हर सेकंड टिक ध्वनि बजाता है।');
+
+  static String countdownBeepTitle(String lang) => t(lang,
+      ko: '종료 직전 3초 카운트다운',
+      en: 'Last 3-Second Countdown',
+      ja: '終了直前3秒カウントダウン',
+      zh: '倒计时最后3秒提示',
+      de: 'Letzte 3 Sekunden Countdown',
+      hi: 'अंतिम 3 सेकंड काउंटडाउन');
+
+  static String countdownBeepDesc(String lang) => t(lang,
+      ko: '단계 전환 3초 전(3, 2, 1) 경고음을 울려 전환을 준비시킵니다.',
+      en: 'Plays warning beeps at 3, 2, 1 seconds before transition.',
+      ja: '段階切り替え3秒前(3, 2, 1)に予告音を鳴らします。',
+      zh: '阶段切换前3秒(3, 2, 1)发出预警提示音。',
+      de: 'Spielt 3, 2, 1 Sekunden vor dem Phasenwechsel Warntöne ab.',
+      hi: 'चरण संक्रमण से 3, 2, 1 सेकंड पहले चेतावनी बीप बजाता है।');
 }
 
 

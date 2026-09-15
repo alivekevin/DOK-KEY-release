@@ -33,6 +33,22 @@ class ChainTimerEngine extends ChangeNotifier {
   Duration totalStepDuration = Duration.zero;
   Duration remainingDelay = Duration.zero;
 
+  /// 🔇 타이머 동작 중 1초 단위 틱 효과음 활성화 여부 (기본값: false / 완전 무음)
+  bool enableTicking = false;
+
+  /// 🚨 단계 종료 3초 전(3, 2, 1) 카운트다운 예고 비프음 (기본값: true)
+  bool enableCountdownBeep = true;
+
+  void setEnableTicking(bool value) {
+    enableTicking = value;
+    notifyListeners();
+  }
+
+  void setEnableCountdownBeep(bool value) {
+    enableCountdownBeep = value;
+    notifyListeners();
+  }
+
   Timer? _ticker;
   DateTime? _lastTick;
   int _lastTickSecond = -1;
@@ -55,6 +71,12 @@ class ChainTimerEngine extends ChangeNotifier {
       if (preset.steps[i].soundId != null) {
         steps[i].soundId = preset.steps[i].soundId;
       }
+    }
+    if (preset.enableTicking != null) {
+      enableTicking = preset.enableTicking!;
+    }
+    if (preset.enableCountdownBeep != null) {
+      enableCountdownBeep = preset.enableCountdownBeep!;
     }
     _resetToInitial();
     notifyListeners();
@@ -85,6 +107,8 @@ class ChainTimerEngine extends ChangeNotifier {
       customName: name.trim().isEmpty ? '나만의 루틴' : name.trim(),
       activeSlots: activeSlotCount,
       totalSets: totalSets,
+      enableTicking: enableTicking,
+      enableCountdownBeep: enableCountdownBeep,
       steps: [
         for (var i = 0; i < 3; i++)
           ChainStep(
@@ -269,14 +293,19 @@ class ChainTimerEngine extends ChangeNotifier {
     if (status == ChainTimerStatus.running) {
       remainingTime -= elapsed;
 
-      // 1초 단위 틱 사운드 & 크리티컬 펄스
+      // 사운드 피드백 (종료 직전 3초 예고 비프음 및 선택적 초음/틱)
       final currentSec = remainingTime.inSeconds;
       if (currentSec != _lastTickSecond && remainingTime > Duration.zero) {
         _lastTickSecond = currentSec;
-        if (isCritical) {
-          _sound.playCriticalPulse(theme);
-        } else {
-          _sound.playTick(theme);
+
+        if (enableCountdownBeep && currentSec <= 3 && currentSec >= 1) {
+          _sound.playCountdownBeep(currentSec);
+        } else if (enableTicking) {
+          if (isCritical) {
+            _sound.playCriticalPulse(theme);
+          } else {
+            _sound.playTick(theme);
+          }
         }
       }
 

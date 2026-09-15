@@ -174,6 +174,126 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                 ),
               ),
 
+              const SizedBox(height: 16),
+
+              // 🔊 사운드 및 피드백 정책 섹션
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF141A26),
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(color: const Color(0xFF2E384D), width: 1.0),
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        const Text('🔊', style: TextStyle(fontSize: 18)),
+                        const SizedBox(width: 8),
+                        Text(
+                          TimelabI18n.soundSectionTitle(lang),
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 14,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 12),
+
+                    // 1. 동작 중 초음(틱) 재생 토글
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      children: [
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                TimelabI18n.enableTickingTitle(lang),
+                                style: const TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
+                              const SizedBox(height: 2),
+                              Text(
+                                TimelabI18n.enableTickingDesc(lang),
+                                style: const TextStyle(
+                                  color: Colors.white54,
+                                  fontSize: 11,
+                                  height: 1.3,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Switch(
+                          value: widget.engine.enableTicking,
+                          activeThumbColor: const Color(0xFFFFD700),
+                          activeTrackColor: const Color(0xFFFFD700).withValues(alpha: 0.3),
+                          inactiveThumbColor: Colors.white60,
+                          inactiveTrackColor: Colors.white12,
+                          onChanged: (val) {
+                            HapticFeedback.selectionClick();
+                            setState(() => widget.engine.setEnableTicking(val));
+                          },
+                        ),
+                      ],
+                    ),
+
+                    const Divider(color: Colors.white10, height: 20),
+
+                    // 2. 종료 직전 3초 카운트다운 비프음 토글
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      children: [
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                TimelabI18n.countdownBeepTitle(lang),
+                                style: const TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
+                              const SizedBox(height: 2),
+                              Text(
+                                TimelabI18n.countdownBeepDesc(lang),
+                                style: const TextStyle(
+                                  color: Colors.white54,
+                                  fontSize: 11,
+                                  height: 1.3,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Switch(
+                          value: widget.engine.enableCountdownBeep,
+                          activeThumbColor: const Color(0xFFFFD700),
+                          activeTrackColor: const Color(0xFFFFD700).withValues(alpha: 0.3),
+                          inactiveThumbColor: Colors.white60,
+                          inactiveTrackColor: Colors.white12,
+                          onChanged: (val) {
+                            HapticFeedback.selectionClick();
+                            setState(() => widget.engine.setEnableCountdownBeep(val));
+                          },
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+
               const SizedBox(height: 24),
 
               ElevatedButton(
