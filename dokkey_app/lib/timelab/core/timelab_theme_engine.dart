@@ -142,7 +142,7 @@ class TimelabBackgroundPainter extends CustomPainter {
     canvas.drawRect(Offset.zero & size, bgPaint);
 
     final linePaint = Paint()
-      ..color = const Color(0xFF151C24).withOpacity(0.4)
+      ..color = const Color(0xFF151C24).withValues(alpha: 0.4)
       ..strokeWidth = 1.0;
 
     const step = 20.0;
@@ -167,7 +167,7 @@ class TimelabBackgroundPainter extends CustomPainter {
       final r = (maxRadius * (i / 3) + animationValue * 30) % maxRadius;
       final circlePaint = Paint()
         ..color = (isCritical ? const Color(0xFFFF0055) : const Color(0xFF8A00FF))
-            .withOpacity((1.0 - (r / maxRadius)).clamp(0.05, 0.25))
+            .withValues(alpha: (1.0 - (r / maxRadius)).clamp(0.05, 0.25))
         ..style = PaintingStyle.stroke
         ..strokeWidth = 1.2;
       canvas.drawCircle(center, r, circlePaint);
@@ -175,7 +175,7 @@ class TimelabBackgroundPainter extends CustomPainter {
 
     // CRT 수평 스캔라인 FX
     final scanPaint = Paint()
-      ..color = Colors.black.withOpacity(0.25)
+      ..color = Colors.black.withValues(alpha: 0.25)
       ..strokeWidth = 1.0;
     for (double y = 0; y < size.height; y += 4.0) {
       canvas.drawLine(Offset(0, y), Offset(size.width, y), scanPaint);
@@ -187,7 +187,7 @@ class TimelabBackgroundPainter extends CustomPainter {
         ..shader = RadialGradient(
           center: Alignment.center,
           radius: 0.9,
-          colors: [Colors.transparent, const Color(0xFFFF0033).withOpacity(0.22)],
+          colors: [Colors.transparent, const Color(0xFFFF0033).withValues(alpha: 0.22)],
         ).createShader(Offset.zero & size);
       canvas.drawRect(Offset.zero & size, vignette);
     }
@@ -207,7 +207,7 @@ class TimelabBackgroundPainter extends CustomPainter {
     canvas.rotate(animationValue * 2 * pi);
 
     final orbitPaint = Paint()
-      ..color = const Color(0xFF00E5FF).withOpacity(0.12)
+      ..color = const Color(0xFF00E5FF).withValues(alpha: 0.12)
       ..style = PaintingStyle.stroke
       ..strokeWidth = 1.0;
 
@@ -225,7 +225,7 @@ class TimelabBackgroundPainter extends CustomPainter {
 
     // 십자 에어로스페이스 조준선
     final crossPaint = Paint()
-      ..color = const Color(0xFF00E5FF).withOpacity(0.18)
+      ..color = const Color(0xFF00E5FF).withValues(alpha: 0.18)
       ..strokeWidth = 0.8;
     canvas.drawLine(Offset(0, center.dy), Offset(size.width, center.dy), crossPaint);
     canvas.drawLine(Offset(center.dx, 0), Offset(center.dx, size.height), crossPaint);

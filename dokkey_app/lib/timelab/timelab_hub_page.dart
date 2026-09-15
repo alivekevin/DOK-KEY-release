@@ -68,7 +68,7 @@ class TimelabHubPage extends StatelessWidget {
                   border: Border.all(color: DokkeyTheme.gold, width: 1.8),
                   boxShadow: [
                     BoxShadow(
-                      color: DokkeyTheme.gold.withOpacity(0.25),
+                      color: DokkeyTheme.gold.withValues(alpha: 0.25),
                       blurRadius: 24,
                       spreadRadius: 1,
                     ),
@@ -234,10 +234,10 @@ class TimelabHubPage extends StatelessWidget {
           decoration: BoxDecoration(
             color: const Color(0xFF141923),
             borderRadius: BorderRadius.circular(20),
-            border: Border.all(color: accentColor.withOpacity(0.6), width: 1.5),
+            border: Border.all(color: accentColor.withValues(alpha: 0.6), width: 1.5),
             boxShadow: [
               BoxShadow(
-                color: accentColor.withOpacity(0.18),
+                color: accentColor.withValues(alpha: 0.18),
                 blurRadius: 16,
                 spreadRadius: 1,
               ),
@@ -281,9 +281,9 @@ class TimelabHubPage extends StatelessWidget {
                     child: Container(
                       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                       decoration: BoxDecoration(
-                        color: accentColor.withOpacity(0.2),
+                        color: accentColor.withValues(alpha: 0.2),
                         borderRadius: BorderRadius.circular(8),
-                        border: Border.all(color: accentColor.withOpacity(0.5)),
+                        border: Border.all(color: accentColor.withValues(alpha: 0.5)),
                       ),
                       child: Text(
                         badge,

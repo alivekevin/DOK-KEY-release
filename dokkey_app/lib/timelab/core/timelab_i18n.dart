@@ -447,12 +447,12 @@ class TimelabI18n {
       hi: 'फेज $n');
 
   static String secondsShort(String lang, int s) => t(lang,
-      ko: '${s}초',
+      ko: '$s초',
       en: '${s}s',
-      ja: '${s}秒',
-      zh: '${s}秒',
+      ja: '$s秒',
+      zh: '$s秒',
       de: '${s}s',
-      hi: '${s} सेकंड');
+      hi: '$s सेकंड');
 
   static String waitShort(String lang, int s) => t(lang,
       ko: '+${s}s 대기',
@@ -913,17 +913,17 @@ class TimelabI18n {
 
     if (hours > 0) {
       if (mins == 0 && secs == 0) {
-        return t(lang, ko: '${hours}시간', en: '${hours}h', ja: '${hours}時間', zh: '${hours}小时', de: '${hours}h', hi: '${hours} घंटे');
+        return t(lang, ko: '$hours시간', en: '${hours}h', ja: '$hours時間', zh: '$hours小时', de: '${hours}h', hi: '$hours घंटे');
       } else if (secs == 0) {
-        return t(lang, ko: '${hours}시간 ${mins}분', en: '${hours}h ${mins}m', ja: '${hours}時間${mins}分', zh: '${hours}小时${mins}分', de: '${hours}h ${mins}m', hi: '${hours}h ${mins}m');
+        return t(lang, ko: '$hours시간 $mins분', en: '${hours}h ${mins}m', ja: '$hours時間$mins分', zh: '$hours小时$mins分', de: '${hours}h ${mins}m', hi: '${hours}h ${mins}m');
       } else {
-        return t(lang, ko: '${hours}시간 ${mins}분 ${secs}초', en: '${hours}h ${mins}m ${secs}s', ja: '${hours}時間${mins}分${secs}秒', zh: '${hours}小时${mins}分${secs}秒', de: '${hours}h ${mins}m ${secs}s', hi: '${hours}h ${mins}m ${secs}s');
+        return t(lang, ko: '$hours시간 $mins분 $secs초', en: '${hours}h ${mins}m ${secs}s', ja: '$hours時間$mins分$secs秒', zh: '$hours小时$mins分$secs秒', de: '${hours}h ${mins}m ${secs}s', hi: '${hours}h ${mins}m ${secs}s');
       }
     } else {
       if (secs == 0) {
-        return t(lang, ko: '${mins}분', en: '${mins}m', ja: '${mins}分', zh: '${mins}分', de: '${mins}m', hi: '${mins} मिनट');
+        return t(lang, ko: '$mins분', en: '${mins}m', ja: '$mins分', zh: '$mins分', de: '${mins}m', hi: '$mins मिनट');
       } else {
-        return t(lang, ko: '${mins}분 ${secs}초', en: '${mins}m ${secs}s', ja: '${mins}分${secs}秒', zh: '${mins}分${secs}秒', de: '${mins}m ${secs}s', hi: '${mins}m ${secs}s');
+        return t(lang, ko: '$mins분 $secs초', en: '${mins}m ${secs}s', ja: '$mins分$secs秒', zh: '$mins分$secs秒', de: '${mins}m ${secs}s', hi: '${mins}m ${secs}s');
       }
     }
   }
@@ -994,4 +994,201 @@ class TimelabI18n {
       zh: '点击直接输入具体时间',
       de: 'Tippen für direkte Eingabe',
       hi: 'सटीक समय दर्ज करने के लिए टैप करें');
+
+  // --- Routine Presets (포모도로 / 타바타 / 복싱 / 3분 라면 / 피칭 / 디퓨저) ---
+  static String routinePresetsTitle(String lang) => t(lang,
+      ko: '루틴 프리셋 라이브러리',
+      en: 'Routine Preset Library',
+      ja: 'ルーティン・プリセット',
+      zh: '预设例程库',
+      de: 'Routine-Vorlagen-Bibliothek',
+      hi: 'रूटीन प्रीसेट लाइब्रेरी');
+
+  static String routinePresetsDesc(String lang) => t(lang,
+      ko: '자주 쓰는 추천 루틴을 원클릭으로 세팅하세요',
+      en: 'Instantly load popular routines with one tap',
+      ja: 'よく使うおすすめルーティンをワンタップで設定',
+      zh: '一键载入常用的推荐例程',
+      de: 'Beliebte Routinen mit einem Fingertipp laden',
+      hi: 'एक टैप में लोकप्रिय रूटीन लोड करें');
+
+  static String customRoutinesTitle(String lang) => t(lang,
+      ko: '내가 저장한 루틴',
+      en: 'Saved Custom Routines',
+      ja: '保存したカスタムルーティン',
+      zh: '我保存的自定义例程',
+      de: 'Gespeicherte eigene Routinen',
+      hi: 'सहेजे गए कस्टम रूटीन');
+
+  static String saveCurrentAsRoutine(String lang) => t(lang,
+      ko: '현재 설정을 새 루틴으로 저장',
+      en: 'Save Current as New Routine',
+      ja: '現在の設定を新規ルーティンとして保存',
+      zh: '将当前设置保存为新例程',
+      de: 'Aktuelle Einstellung als Routine speichern',
+      hi: 'वर्तमान को नए रूटीन के रूप में सहेजें');
+
+  static String routineNameInputHint(String lang) => t(lang,
+      ko: '루틴 이름을 입력하세요 (예: 아침 요가)',
+      en: 'Enter routine name (e.g. Morning Yoga)',
+      ja: 'ルーティン名を入力 (例: 朝のヨガ)',
+      zh: '输入例程名称 (例如: 早晨瑜伽)',
+      de: 'Routinenamen eingeben (z. B. Morgen-Yoga)',
+      hi: 'रूटीन का नाम दर्ज करें (उदा. सुबह का योग)');
+
+  static String routineSavedToast(String lang) => t(lang,
+      ko: '루틴이 안전하게 저장되었습니다',
+      en: 'Routine saved successfully',
+      ja: 'ルーティンが保存されました',
+      zh: '例程已成功保存',
+      de: 'Routine erfolgreich gespeichert',
+      hi: 'रूटीन सफलतापूर्वक सहेजा गया');
+
+  static String routineAppliedToast(String lang, String title) => t(lang,
+      ko: '$title 설정이 적용되었습니다',
+      en: '$title routine applied',
+      ja: '$title ルーティンが適用されました',
+      zh: '已应用 $title 例程',
+      de: '$title Routine angewendet',
+      hi: '$title रूटीन लागू किया गया');
+
+  static String deleteRoutineConfirm(String lang) => t(lang,
+      ko: '이 루틴을 삭제하시겠습니까?',
+      en: 'Delete this custom routine?',
+      ja: 'このルーティンを削除しますか？',
+      zh: '确定要删除此例程吗？',
+      de: 'Diese Routine löschen?',
+      hi: 'क्या आप इस रूटीन को हटाना चाहते हैं?');
+
+  static String noSavedRoutines(String lang) => t(lang,
+      ko: '저장된 커스텀 루틴이 없습니다',
+      en: 'No custom routines saved yet',
+      ja: '保存されたルーティンがありません',
+      zh: '暂无保存的自定义例程',
+      de: 'Noch keine eigenen Routinen gespeichert',
+      hi: 'अभी तक कोई कस्टम रूटीन सहेजा नहीं गया');
+
+  static String setsCountLabel(String lang, int sets) => t(lang,
+      ko: '$sets세트 반복',
+      en: '$sets Sets Loop',
+      ja: '$setsセット反復',
+      zh: '$sets组循环',
+      de: '$sets Sätze',
+      hi: '$sets सेट');
+
+  static String customRoutineSummary(String lang, int slots, int sets) => t(lang,
+      ko: '$slots단계 · $sets세트 반복',
+      en: '$slots Phases · $sets Sets',
+      ja: '$slots段階 · $setsセット',
+      zh: '$slots阶段 · $sets组循环',
+      de: '$slots Phasen · $sets Sätze',
+      hi: '$slots चरण · $sets सेट');
+
+  static String routinePresetTitle(String lang, String id) {
+    switch (id) {
+      case 'pomodoro':
+        return t(lang, ko: '포모도로 (집중 25분 / 휴식 5분)', en: 'Pomodoro (Focus 25m / Break 5m)', ja: 'ポモドーロ (集中 25分 / 休憩 5分)', zh: '番茄工作法 (专注25分 / 休息5分)', de: 'Pomodoro (Fokus 25m / Pause 5m)', hi: 'पोमोडोरो (ध्यान 25m / विराम 5m)');
+      case 'tabata':
+        return t(lang, ko: '타바타 HIIT (운동 20초 / 휴식 10초)', en: 'Tabata HIIT (Work 20s / Rest 10s)', ja: 'タバタ HIIT (運動 20秒 / 休憩 10秒)', zh: 'Tabata HIIT (运动20秒 / 间歇10秒)', de: 'Tabata HIIT (Training 20s / Pause 10s)', hi: 'तबाता HIIT (व्यायाम 20s / आराम 10s)');
+      case 'boxing':
+        return t(lang, ko: '복싱 라운드 (3분 경기 / 1분 휴식)', en: 'Boxing Round (3m Round / 1m Rest)', ja: 'ボクシング (3分ラウンド / 1分インターバル)', zh: '拳击回合 (3分比赛 / 1分局间休息)', de: 'Boxrunde (3m Runde / 1m Pause)', hi: 'बॉक्सिंग राउंड (3m राउंड / 1m विराम)');
+      case 'ramen':
+        return t(lang, ko: '3분 컵라면 (완벽 조리)', en: '3-Min Ramen Timer', ja: '3分カップ麺 (完璧調理)', zh: '3分钟拉面速食', de: '3-Minuten Ramen-Timer', hi: '3 मिनट रेमन टाइमर');
+      case 'pitch':
+        return t(lang, ko: '5+3 피칭 (발표 5분 / Q&A 3분)', en: '5+3 Pitch (Speech 5m / Q&A 3m)', ja: '5+3 ピッチ (発表 5分 / 質疑応答 3分)', zh: '5+3 演讲展示 (展示5分 / 问答3分)', de: '5+3 Pitch (Präsentation 5m / Q&A 3m)', hi: '5+3 पिच (भाषण 5m / प्रश्नोत्तर 3m)');
+      case 'defuser':
+        return t(lang, ko: '시한폭탄 디퓨저 (10초 / 5초 / 3초)', en: 'Bomb Defuser (10s / 5s / 3s)', ja: '時限爆弾デフューザー (10秒 / 5秒 / 3秒)', zh: '定时炸弹拆弹器 (10秒 / 5秒 / 3秒)', de: 'Bombenentschärfer (10s / 5s / 3s)', hi: 'बम डिफ्यूज़र (10s / 5s / 3s)');
+      default:
+        return id;
+    }
+  }
+
+  static String routinePresetDesc(String lang, String id) {
+    switch (id) {
+      case 'pomodoro':
+        return t(lang,
+            ko: '업무와 학습 몰입을 극대화하는 표준 집중 4세트 루틴',
+            en: 'Standard 4-set cycle to maximize deep work & focus',
+            ja: '仕事や学習の集中力を最大化する標準4セットルーティン',
+            zh: '最大化深度工作和学习专注力的标准4组循环',
+            de: 'Standard-Zyklus aus 4 Sätzen für maximale Konzentration',
+            hi: 'गहरे काम और ध्यान को अधिकतम करने के लिए 4-सेट चक्र');
+      case 'tabata':
+        return t(lang,
+            ko: '짧고 굵게 심폐와 근력을 폭발시키는 8세트 간헐적 운동',
+            en: '8 intense sets of explosive interval training',
+            ja: '短時間で心肺と筋力を追い込む8セット高強度インターバル',
+            zh: '8组短时高效的高强度间歇心肺肌力训练',
+            de: '8 intensive Sätze explosives Intervalltraining',
+            hi: 'विस्फोटक अंतराल प्रशिक्षण के 8 तीव्र सेट');
+      case 'boxing':
+        return t(lang,
+            ko: '공식 링 규격 3분 라운드와 1분 코너 휴식 3라운드',
+            en: 'Official ring timing: 3m active round & 1m corner rest (3 sets)',
+            ja: '公式リング規格: 3分ラウンドと1分インターバル 3セット',
+            zh: '正规擂台节奏: 3分钟回合与1分钟休息 3回合',
+            de: 'Offizielle Ringzeit: 3 Min Runde & 1 Min Pause (3 Sätze)',
+            hi: 'आधिकारिक रिंग टाइमिंग: 3m राउंड और 1m आराम (3 सेट)');
+      case 'ramen':
+        return t(lang,
+            ko: '꼬들꼬들하고 가장 맛있는 면발을 완성하는 황금 180초',
+            en: 'Golden 180 seconds for perfect, chewy instant noodles',
+            ja: 'コシのある最高の麺を仕上げる黄金の180秒',
+            zh: '掌握爽弹面条的最佳黄金180秒',
+            de: 'Goldene 180 Sekunden für perfekt al dente Nudeln',
+            hi: 'परफेक्ट नूडल्स के लिए सुनहरे 180 सेकंड');
+      case 'pitch':
+        return t(lang,
+            ko: '스타트업 IR 및 과제 발표 5분 후 3초 브릿지, 질의응답 3분',
+            en: '5-minute presentation followed by 3s bridge and 3m Q&A',
+            ja: 'スタートアップIRや発表5分の後、3秒転換を経て質疑応答3分',
+            zh: '创业路演或方案汇报5分钟，3秒过渡，问答交流3分钟',
+            de: '5 Min Präsentation gefolgt von 3s Übergang und 3 Min Q&A',
+            hi: '5 मिनट की प्रस्तुति, 3s अंतराल और 3m प्रश्नोत्तर');
+      case 'defuser':
+        return t(lang,
+            ko: '3단계로 점점 가속되는 오리지널 카운트다운 긴장감',
+            en: 'Original cinematic 3-phase accelerating countdown tension',
+            ja: '3段階で加速するスリル満点のオリジナルカウントダウン',
+            zh: '三阶段逐步加速的原版电影级紧张倒计时',
+            de: 'Originale filmische 3-Phasen-Countdown-Spannung',
+            hi: 'मूल सिनेमाई 3-चरण त्वरित उलटी गिनती');
+      default:
+        return '';
+    }
+  }
+
+  static String confirm(String lang) => t(lang,
+      ko: '확인',
+      en: 'Confirm',
+      ja: '確認',
+      zh: '确认',
+      de: 'Bestätigen',
+      hi: 'पुष्टि करें');
+
+  static String cancel(String lang) => t(lang,
+      ko: '취소',
+      en: 'Cancel',
+      ja: 'キャンセル',
+      zh: '取消',
+      de: 'Abbrechen',
+      hi: 'रद्द करें');
+
+  static String delete(String lang) => t(lang,
+      ko: '삭제',
+      en: 'Delete',
+      ja: '削除',
+      zh: '删除',
+      de: 'Löschen',
+      hi: 'हटाएं');
+
+  static String save(String lang) => t(lang,
+      ko: '저장',
+      en: 'Save',
+      ja: '保存',
+      zh: '保存',
+      de: 'Speichern',
+      hi: 'सहेजें');
 }
+
+

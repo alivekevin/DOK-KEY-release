@@ -8,6 +8,7 @@ import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
+import '../core/timelab_screen_keeper.dart';
 import 'velocity_grid_engine.dart';
 import 'velocity_records_dialog.dart';
 
@@ -53,6 +54,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     _engine.removeListener(_onEngineUpdate);
     _animCtrl.dispose();
     _engine.dispose();
+    TimeLabScreenKeeper.release();
     super.dispose();
   }
 
@@ -176,7 +178,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               border: Border.all(color: const Color(0xFFFFD700), width: 2),
               boxShadow: [
                 BoxShadow(
-                  color: const Color(0xFFFFD700).withOpacity(0.35),
+                  color: const Color(0xFFFFD700).withValues(alpha: 0.35),
                   blurRadius: 28,
                   spreadRadius: 2,
                 ),
@@ -218,7 +220,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
                         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
                         decoration: BoxDecoration(
                           color: isFirst
-                              ? const Color(0xFFFFD700).withOpacity(0.18)
+                              ? const Color(0xFFFFD700).withValues(alpha: 0.18)
                               : Colors.black26,
                           borderRadius: BorderRadius.circular(12),
                           border: Border.all(
@@ -438,7 +440,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               decoration: BoxDecoration(
                 color: cfg.cardColor,
                 borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: cfg.borderColor.withOpacity(0.6), width: 1.2),
+                border: Border.all(color: cfg.borderColor.withValues(alpha: 0.6), width: 1.2),
               ),
               child: const Icon(Icons.history_edu_rounded, color: Colors.white, size: 17),
             ),
@@ -461,7 +463,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
               decoration: BoxDecoration(
                 color: cfg.cardColor,
                 borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: cfg.primaryColor.withOpacity(0.4)),
+                border: Border.all(color: cfg.primaryColor.withValues(alpha: 0.4)),
               ),
               child: DropdownButton<int>(
                 value: _engine.laneCount,
@@ -514,12 +516,12 @@ class _VelocityGridPageState extends State<VelocityGridPage>
       margin: const EdgeInsets.symmetric(horizontal: 14),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
       decoration: BoxDecoration(
-        color: cfg.cardColor.withOpacity(0.9),
+        color: cfg.cardColor.withValues(alpha: 0.9),
         borderRadius: BorderRadius.circular(18),
-        border: Border.all(color: cfg.borderColor.withOpacity(0.5), width: 1.5),
+        border: Border.all(color: cfg.borderColor.withValues(alpha: 0.5), width: 1.5),
         boxShadow: [
           BoxShadow(
-            color: cfg.primaryColor.withOpacity(0.2),
+            color: cfg.primaryColor.withValues(alpha: 0.2),
             blurRadius: 16,
           ),
         ],
@@ -600,21 +602,21 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     final rank = runner.rank;
 
     Color cardBg = cfg.cardColor;
-    Color borderC = cfg.borderColor.withOpacity(0.3);
+    Color borderC = cfg.borderColor.withValues(alpha: 0.3);
 
     if (isFinished) {
       if (rank == 1) {
-        cardBg = const Color(0xFFFFD700).withOpacity(0.22);
+        cardBg = const Color(0xFFFFD700).withValues(alpha: 0.22);
         borderC = const Color(0xFFFFD700);
       } else if (rank == 2) {
-        cardBg = const Color(0xFFE2E8F0).withOpacity(0.18);
+        cardBg = const Color(0xFFE2E8F0).withValues(alpha: 0.18);
         borderC = const Color(0xFFE2E8F0);
       } else if (rank == 3) {
-        cardBg = const Color(0xFFFF9800).withOpacity(0.18);
+        cardBg = const Color(0xFFFF9800).withValues(alpha: 0.18);
         borderC = const Color(0xFFFF9800);
       } else {
-        cardBg = const Color(0xFF102A43).withOpacity(0.5);
-        borderC = cfg.primaryColor.withOpacity(0.6);
+        cardBg = const Color(0xFF102A43).withValues(alpha: 0.5);
+        borderC = cfg.primaryColor.withValues(alpha: 0.6);
       }
     }
 
@@ -635,7 +637,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
             boxShadow: isFinished && rank == 1
                 ? [
                     BoxShadow(
-                      color: const Color(0xFFFFD700).withOpacity(0.4),
+                      color: const Color(0xFFFFD700).withValues(alpha: 0.4),
                       blurRadius: 14,
                     ),
                   ]

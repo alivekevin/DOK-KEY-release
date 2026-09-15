@@ -128,7 +128,7 @@ class _HoldRepeatButtonState extends State<HoldRepeatButton> {
   @override
   Widget build(BuildContext context) {
     final effectiveColor = widget.isEnabled
-        ? (_isPressed ? widget.color.withOpacity(0.7) : widget.color)
+        ? (_isPressed ? widget.color.withValues(alpha: 0.7) : widget.color)
         : Colors.white24;
 
     Widget child = Padding(

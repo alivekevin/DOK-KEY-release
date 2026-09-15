@@ -75,10 +75,10 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
         decoration: BoxDecoration(
           color: const Color(0xFF101522),
           borderRadius: BorderRadius.circular(24),
-          border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.6), width: 1.5),
+          border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.6), width: 1.5),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.8),
+              color: Colors.black.withValues(alpha: 0.8),
               blurRadius: 30,
               spreadRadius: 4,
             ),
@@ -131,7 +131,7 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
                         child: Column(
                           mainAxisSize: MainAxisSize.min,
                           children: [
-                            Icon(Icons.history_toggle_off_rounded, size: 56, color: Colors.white.withOpacity(0.2)),
+                            Icon(Icons.history_toggle_off_rounded, size: 56, color: Colors.white.withValues(alpha: 0.2)),
                             const SizedBox(height: 14),
                             Text(
                               TimelabI18n.emptyRecords(lang),
@@ -249,9 +249,9 @@ class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
               decoration: BoxDecoration(
-                color: const Color(0xFFFFD700).withOpacity(0.14),
+                color: const Color(0xFFFFD700).withValues(alpha: 0.14),
                 borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.4)),
+                border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.4)),
               ),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,

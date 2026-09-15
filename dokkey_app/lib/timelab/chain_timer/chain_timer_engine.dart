@@ -1,10 +1,15 @@
 import 'dart:async';
+import 'dart:convert';
 import 'package:flutter/foundation.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../core/timelab_sound_engine.dart';
+import '../core/timelab_screen_keeper.dart';
 import '../models/timelab_models.dart';
 
 /// 💣 3단 시퀀스 체인 타이머 (The Defuser) 상태 관리 엔진
 class ChainTimerEngine extends ChangeNotifier {
+  static const String _customRoutinesKey = 'dokkey_chain_custom_routines_v1';
+
   TimelabTheme theme = TimelabTheme.cyberDefuser;
 
   // 3-Phase 시퀀스 슬롯 (1번 필수, 2번/3번 선택)
@@ -33,9 +38,90 @@ class ChainTimerEngine extends ChangeNotifier {
   int _lastTickSecond = -1;
 
   final TimelabSoundEngine _sound = TimelabSoundEngine();
+  List<ChainRoutinePreset> customRoutines = [];
 
   ChainTimerEngine() {
     _resetToInitial();
+    loadCustomRoutines();
+  }
+
+  /// ⚡ 완성형 루틴 프리셋 적용
+  void applyRoutinePreset(ChainRoutinePreset preset) {
+    activeSlotCount = preset.activeSlots.clamp(1, 3);
+    totalSets = preset.totalSets.clamp(1, 9);
+    for (var i = 0; i < steps.length && i < preset.steps.length; i++) {
+      steps[i].duration = preset.steps[i].duration;
+      steps[i].delayAfter = preset.steps[i].delayAfter;
+      if (preset.steps[i].soundId != null) {
+        steps[i].soundId = preset.steps[i].soundId;
+      }
+    }
+    _resetToInitial();
+    notifyListeners();
+  }
+
+  /// 커스텀 루틴 목록 불러오기 (SharedPreferences)
+  Future<void> loadCustomRoutines() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final jsonStr = prefs.getString(_customRoutinesKey);
+      if (jsonStr != null && jsonStr.isNotEmpty) {
+        final List<dynamic> decoded = jsonDecode(jsonStr);
+        customRoutines = decoded
+            .map((item) => ChainRoutinePreset.fromJson(item as Map<String, dynamic>))
+            .toList();
+        notifyListeners();
+      }
+    } catch (e) {
+      debugPrint('Error loading custom routines: $e');
+    }
+  }
+
+  /// 현재 설정을 커스텀 루틴으로 저장
+  Future<ChainRoutinePreset> saveCustomRoutine(String name, {String icon = '⭐'}) async {
+    final newPreset = ChainRoutinePreset(
+      id: 'cr_${DateTime.now().millisecondsSinceEpoch}',
+      icon: icon,
+      customName: name.trim().isEmpty ? '나만의 루틴' : name.trim(),
+      activeSlots: activeSlotCount,
+      totalSets: totalSets,
+      steps: [
+        for (var i = 0; i < 3; i++)
+          ChainStep(
+            index: i + 1,
+            duration: steps[i].duration,
+            delayAfter: steps[i].delayAfter,
+            soundId: steps[i].soundId,
+          ),
+      ],
+    );
+
+    customRoutines.insert(0, newPreset);
+    notifyListeners();
+
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final jsonStr = jsonEncode(customRoutines.map((r) => r.toJson()).toList());
+      await prefs.setString(_customRoutinesKey, jsonStr);
+    } catch (e) {
+      debugPrint('Error saving custom routine: $e');
+    }
+
+    return newPreset;
+  }
+
+  /// 커스텀 루틴 삭제
+  Future<void> deleteCustomRoutine(String id) async {
+    customRoutines.removeWhere((r) => r.id == id);
+    notifyListeners();
+
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final jsonStr = jsonEncode(customRoutines.map((r) => r.toJson()).toList());
+      await prefs.setString(_customRoutinesKey, jsonStr);
+    } catch (e) {
+      debugPrint('Error deleting custom routine: $e');
+    }
   }
 
   void setTheme(TimelabTheme newTheme) {
@@ -128,6 +214,7 @@ class ChainTimerEngine extends ChangeNotifier {
     _lastTickSecond = remainingTime.inSeconds;
     _ticker?.cancel();
     _ticker = Timer.periodic(const Duration(milliseconds: 20), _onTick);
+    TimeLabScreenKeeper.setKeepScreenOn(true);
     notifyListeners();
   }
 
@@ -141,6 +228,7 @@ class ChainTimerEngine extends ChangeNotifier {
       }
       status = ChainTimerStatus.paused;
       _ticker?.cancel();
+      TimeLabScreenKeeper.setKeepScreenOn(false);
       notifyListeners();
     }
   }
@@ -149,6 +237,7 @@ class ChainTimerEngine extends ChangeNotifier {
     _ticker?.cancel();
     _sound.stopCustomAudio();
     _resetToInitial();
+    TimeLabScreenKeeper.setKeepScreenOn(false);
     notifyListeners();
   }
 
@@ -258,6 +347,7 @@ class ChainTimerEngine extends ChangeNotifier {
         status = ChainTimerStatus.finished;
         _ticker?.cancel();
         _sound.playFinale(theme);
+        TimeLabScreenKeeper.setKeepScreenOn(false);
       }
     }
   }
@@ -265,6 +355,7 @@ class ChainTimerEngine extends ChangeNotifier {
   @override
   void dispose() {
     _ticker?.cancel();
+    TimeLabScreenKeeper.setKeepScreenOn(false);
     super.dispose();
   }
 }

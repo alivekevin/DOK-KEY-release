@@ -13,15 +13,15 @@ void main() {
     test('3대 테마 프리셋 설정값 검증', () {
       final classic = TimelabThemeConfig.of(TimelabTheme.classicDigital);
       expect(classic.displayName, '클래식 디지털');
-      expect(classic.primaryColor.value, 0xFF00FF66);
+      expect(classic.primaryColor.toARGB32(), 0xFF00FF66);
 
       final cyber = TimelabThemeConfig.of(TimelabTheme.cyberDefuser);
       expect(cyber.displayName, '사이버 디퓨저');
-      expect(cyber.primaryColor.value, 0xFFFF0055);
+      expect(cyber.primaryColor.toARGB32(), 0xFFFF0055);
 
       final orbital = TimelabThemeConfig.of(TimelabTheme.orbitalLaunch);
       expect(orbital.displayName, '우주 발사');
-      expect(orbital.primaryColor.value, 0xFF00E5FF);
+      expect(orbital.primaryColor.toARGB32(), 0xFF00E5FF);
     });
 
     test('잔여 시간에 따른 앰버/크리티컬 동적 컬러 전환 검증', () {
@@ -324,4 +324,84 @@ void main() {
       expect(TimelabI18n.formatDurationHuman('en', 5400), '1h 30m');
     });
   });
+
+  group('Chain Timer Routine Preset & Custom Routine Tests', () {
+    test('빌트인 6종 프리셋 규격 및 6개국어 타이틀/설명 검증', () {
+      expect(builtinRoutinePresets.length, 6);
+
+      final langs = ['ko', 'en', 'ja', 'zh', 'de', 'hi'];
+
+      for (final preset in builtinRoutinePresets) {
+        expect(preset.id.isNotEmpty, true);
+        expect(preset.icon.isNotEmpty, true);
+        expect(preset.activeSlots >= 1 && preset.activeSlots <= 3, true);
+        expect(preset.totalSets >= 1 && preset.totalSets <= 9, true);
+
+        for (final lang in langs) {
+          final title = preset.localizedTitle(lang);
+          final desc = preset.localizedDesc(lang);
+          expect(title.isNotEmpty, true);
+          expect(desc.isNotEmpty, true);
+        }
+      }
+    });
+
+    test('포모도로 프리셋 적용 시 2단계/4세트 및 25분/5분 설정 검증', () {
+      final engine = ChainTimerEngine();
+      final pomodoro = builtinRoutinePresets.firstWhere((p) => p.id == 'pomodoro');
+
+      engine.applyRoutinePreset(pomodoro);
+
+      expect(engine.activeSlotCount, 2);
+      expect(engine.totalSets, 4);
+      expect(engine.steps[0].duration, const Duration(minutes: 25));
+      expect(engine.steps[1].duration, const Duration(minutes: 5));
+      expect(engine.status, ChainTimerStatus.idle);
+      expect(engine.remainingTime, const Duration(minutes: 25));
+
+      engine.dispose();
+    });
+
+    test('타바타 프리셋 적용 시 2단계/8세트 및 20초/10초 설정 검증', () {
+      final engine = ChainTimerEngine();
+      final tabata = builtinRoutinePresets.firstWhere((p) => p.id == 'tabata');
+
+      engine.applyRoutinePreset(tabata);
+
+      expect(engine.activeSlotCount, 2);
+      expect(engine.totalSets, 8);
+      expect(engine.steps[0].duration, const Duration(seconds: 20));
+      expect(engine.steps[1].duration, const Duration(seconds: 10));
+
+      engine.dispose();
+    });
+
+    test('커스텀 루틴 모델 JSON 직렬화 및 역직렬화 무결성 검증', () {
+      final custom = ChainRoutinePreset(
+        id: 'cr_test_123',
+        icon: '🧘',
+        customName: '저녁 요가 루틴',
+        activeSlots: 2,
+        totalSets: 3,
+        steps: [
+          ChainStep(index: 1, duration: const Duration(minutes: 10), delayAfter: const Duration(seconds: 5)),
+          ChainStep(index: 2, duration: const Duration(minutes: 2), delayAfter: Duration.zero),
+          ChainStep(index: 3, duration: const Duration(seconds: 3)),
+        ],
+      );
+
+      final json = custom.toJson();
+      final restored = ChainRoutinePreset.fromJson(json);
+
+      expect(restored.id, 'cr_test_123');
+      expect(restored.icon, '🧘');
+      expect(restored.customName, '저녁 요가 루틴');
+      expect(restored.activeSlots, 2);
+      expect(restored.totalSets, 3);
+      expect(restored.steps[0].duration.inMinutes, 10);
+      expect(restored.steps[0].delayAfter.inSeconds, 5);
+      expect(restored.steps[1].duration.inMinutes, 2);
+    });
+  });
 }
+

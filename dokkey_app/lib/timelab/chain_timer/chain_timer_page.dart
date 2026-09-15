@@ -7,6 +7,7 @@ import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
 import '../models/timelab_models.dart';
+import '../core/timelab_screen_keeper.dart';
 import 'chain_timer_engine.dart';
 import '../core/hold_repeat_button.dart';
 import 'chain_timer_settings_page.dart';
@@ -38,6 +39,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
   void dispose() {
     _animCtrl.dispose();
     _engine.dispose();
+    TimeLabScreenKeeper.release();
     super.dispose();
   }
 
@@ -152,6 +154,26 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               ],
             ),
           ),
+          // ⚡ 루틴 프리셋 라이브러리 버튼
+          IconButton(
+            icon: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6),
+              decoration: BoxDecoration(
+                color: cfg.cardColor,
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.6), width: 1.2),
+              ),
+              child: const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text('⚡', style: TextStyle(fontSize: 13)),
+                ],
+              ),
+            ),
+            tooltip: TimelabI18n.routinePresetsTitle(lang),
+            onPressed: () => _showRoutinePresetsModal(context, lang, cfg),
+          ),
+          const SizedBox(width: 4),
           // 설정 페이지 이동 버튼 (종료음 & 딜레이 & PRO 관리)
           IconButton(
             icon: Container(
@@ -159,7 +181,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               decoration: BoxDecoration(
                 color: cfg.cardColor,
                 borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: cfg.borderColor.withOpacity(0.6), width: 1.2),
+                border: Border.all(color: cfg.borderColor.withValues(alpha: 0.6), width: 1.2),
               ),
               child: const Icon(Icons.settings_outlined, color: Colors.white, size: 17),
             ),
@@ -174,7 +196,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
               decoration: BoxDecoration(
                 color: cfg.cardColor,
                 borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: cfg.primaryColor.withOpacity(0.5), width: 1.2),
+                border: Border.all(color: cfg.primaryColor.withValues(alpha: 0.5), width: 1.2),
               ),
               child: Row(
                 mainAxisSize: MainAxisSize.min,
@@ -234,9 +256,9 @@ class _ChainTimerPageState extends State<ChainTimerPage>
       margin: const EdgeInsets.symmetric(horizontal: 16),
       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
       decoration: BoxDecoration(
-        color: cfg.cardColor.withOpacity(0.85),
+        color: cfg.cardColor.withValues(alpha: 0.85),
         borderRadius: BorderRadius.circular(14),
-        border: Border.all(color: cfg.borderColor.withOpacity(0.4), width: 1),
+        border: Border.all(color: cfg.borderColor.withValues(alpha: 0.4), width: 1),
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -248,10 +270,10 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                 padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                 decoration: BoxDecoration(
                   color: isAudioPlaying
-                      ? const Color(0xFF00E5FF).withOpacity(0.2)
+                      ? const Color(0xFF00E5FF).withValues(alpha: 0.2)
                       : (isDelaying
-                          ? const Color(0xFFFF9100).withOpacity(0.25)
-                          : cfg.primaryColor.withOpacity(0.2)),
+                          ? const Color(0xFFFF9100).withValues(alpha: 0.25)
+                          : cfg.primaryColor.withValues(alpha: 0.2)),
                   borderRadius: BorderRadius.circular(8),
                   border: Border.all(
                     color: isAudioPlaying
@@ -295,14 +317,14 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                   child: Container(
                     padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
                     decoration: BoxDecoration(
-                      color: const Color(0xFFFFD700).withOpacity(0.2),
+                      color: const Color(0xFFFFD700).withValues(alpha: 0.2),
                       borderRadius: BorderRadius.circular(6),
                       border: Border.all(color: const Color(0xFFFFD700)),
                     ),
                     child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.fast_forward_rounded, size: 12, color: const Color(0xFFFFD700)),
+                        const Icon(Icons.fast_forward_rounded, size: 12, color: Color(0xFFFFD700)),
                         const SizedBox(width: 3),
                         Text(TimelabI18n.skipLabel(lang), style: const TextStyle(color: Color(0xFFFFD700), fontSize: 10.5, fontWeight: FontWeight.bold)),
                       ],
@@ -351,12 +373,12 @@ class _ChainTimerPageState extends State<ChainTimerPage>
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
             decoration: BoxDecoration(
-              color: const Color(0xFF0F172A).withOpacity(0.85),
+              color: const Color(0xFF0F172A).withValues(alpha: 0.85),
               borderRadius: BorderRadius.circular(24),
-              border: Border.all(color: const Color(0xFF00E5FF).withOpacity(0.6), width: 1.8),
+              border: Border.all(color: const Color(0xFF00E5FF).withValues(alpha: 0.6), width: 1.8),
               boxShadow: [
                 BoxShadow(
-                  color: const Color(0xFF00E5FF).withOpacity(0.3),
+                  color: const Color(0xFF00E5FF).withValues(alpha: 0.3),
                   blurRadius: 24,
                   spreadRadius: 2,
                 ),
@@ -437,7 +459,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                 letterSpacing: 2.0,
                 shadows: [
                   Shadow(
-                    color: displayColor.withOpacity(0.85),
+                    color: displayColor.withValues(alpha: 0.85),
                     blurRadius: _engine.isCritical ? 28 : 16,
                   ),
                   if (_engine.isCritical)
@@ -474,7 +496,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
       decoration: BoxDecoration(
         color: cfg.cardColor,
         borderRadius: BorderRadius.circular(20),
-        border: Border.all(color: cfg.borderColor.withOpacity(0.5), width: 1.5),
+        border: Border.all(color: cfg.borderColor.withValues(alpha: 0.5), width: 1.5),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -591,13 +613,13 @@ class _ChainTimerPageState extends State<ChainTimerPage>
         padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
         decoration: BoxDecoration(
           color: isCurrent
-              ? cfg.primaryColor.withOpacity(0.18)
+              ? cfg.primaryColor.withValues(alpha: 0.18)
               : (isEnabled ? const Color(0xFF1E2532) : Colors.black26),
           borderRadius: BorderRadius.circular(12),
           border: Border.all(
             color: isCurrent
                 ? cfg.primaryColor
-                : (isEnabled ? cfg.borderColor.withOpacity(0.6) : Colors.white12),
+                : (isEnabled ? cfg.borderColor.withValues(alpha: 0.6) : Colors.white12),
             width: isCurrent ? 1.8 : 1.0,
           ),
         ),
@@ -713,7 +735,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
                                   decoration: BoxDecoration(
                                     color: const Color(0xFF1E2838),
                                     borderRadius: BorderRadius.circular(8),
-                                    border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.35)),
+                                    border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.35)),
                                   ),
                                   child: Text(
                                     p >= 3600 ? '+1h' : (p >= 60 ? '+${p ~/ 60}m' : '+${p}s'),
@@ -855,4 +877,451 @@ class _ChainTimerPageState extends State<ChainTimerPage>
       ],
     );
   }
+
+  void _showRoutinePresetsModal(BuildContext context, String lang, TimelabThemeConfig cfg) {
+    HapticFeedback.mediumImpact();
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: const Color(0xFF161B22),
+      isScrollControlled: true,
+      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(24))),
+      builder: (ctx) {
+        return StatefulBuilder(
+          builder: (ctx, setSheetState) {
+            return DraggableScrollableSheet(
+              initialChildSize: 0.75,
+              minChildSize: 0.4,
+              maxChildSize: 0.92,
+              expand: false,
+              builder: (ctx, scrollCtrl) {
+                return Column(
+                  children: [
+                    // Handle bar
+                    const SizedBox(height: 12),
+                    Container(
+                      width: 40,
+                      height: 4,
+                      decoration: BoxDecoration(
+                        color: Colors.white24,
+                        borderRadius: BorderRadius.circular(2),
+                      ),
+                    ),
+                    const SizedBox(height: 14),
+
+                    // Title Header
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 20),
+                      child: Row(
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(8),
+                            decoration: BoxDecoration(
+                              color: const Color(0xFFFFD700).withValues(alpha: 0.15),
+                              shape: BoxShape.circle,
+                            ),
+                            child: const Text('⚡', style: TextStyle(fontSize: 18)),
+                          ),
+                          const SizedBox(width: 12),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  TimelabI18n.routinePresetsTitle(lang),
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 17,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                                Text(
+                                  TimelabI18n.routinePresetsDesc(lang),
+                                  style: const TextStyle(color: Colors.white54, fontSize: 11.5),
+                                ),
+                              ],
+                            ),
+                          ),
+                          IconButton(
+                            icon: const Icon(Icons.close_rounded, color: Colors.white70, size: 20),
+                            onPressed: () => Navigator.pop(ctx),
+                          ),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(height: 10),
+                    const Divider(color: Colors.white10, height: 1),
+
+                    // Content List
+                    Expanded(
+                      child: ListView(
+                        controller: scrollCtrl,
+                        padding: const EdgeInsets.all(16),
+                        children: [
+                          // 1. Built-in Recommended Presets
+                          for (final preset in builtinRoutinePresets)
+                            _buildRoutinePresetCard(preset, lang, cfg, ctx),
+
+                          const SizedBox(height: 16),
+
+                          // 2. Save Current Routine Button
+                          Container(
+                            decoration: BoxDecoration(
+                              color: const Color(0xFF1E2532),
+                              borderRadius: BorderRadius.circular(16),
+                              border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.4), width: 1.2),
+                            ),
+                            child: ListTile(
+                              leading: Container(
+                                padding: const EdgeInsets.all(8),
+                                decoration: BoxDecoration(
+                                  color: const Color(0xFFFFD700).withValues(alpha: 0.15),
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: const Icon(Icons.bookmark_add_rounded, color: Color(0xFFFFD700), size: 22),
+                              ),
+                              title: Text(
+                                TimelabI18n.saveCurrentAsRoutine(lang),
+                                style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14),
+                              ),
+                              subtitle: Text(
+                                TimelabI18n.customRoutineSummary(lang, _engine.activeSlotCount, _engine.totalSets),
+                                style: const TextStyle(color: Colors.white54, fontSize: 11),
+                              ),
+                              trailing: const Icon(Icons.arrow_forward_ios_rounded, color: Colors.white38, size: 14),
+                              onTap: () async {
+                                final saved = await _showSaveRoutineDialog(context, lang);
+                                if (saved != null) {
+                                  setSheetState(() {});
+                                }
+                              },
+                            ),
+                          ),
+
+                          const SizedBox(height: 22),
+
+                          // 3. Saved Custom Routines Section
+                          Row(
+                            children: [
+                              const Text('⭐', style: TextStyle(fontSize: 14)),
+                              const SizedBox(width: 6),
+                              Text(
+                                TimelabI18n.customRoutinesTitle(lang),
+                                style: const TextStyle(
+                                  color: Color(0xFFFFD700),
+                                  fontSize: 14,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                decoration: BoxDecoration(
+                                  color: Colors.white10,
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: Text(
+                                  '${_engine.customRoutines.length}',
+                                  style: const TextStyle(color: Colors.white70, fontSize: 11, fontWeight: FontWeight.bold),
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 10),
+
+                          if (_engine.customRoutines.isEmpty)
+                            Container(
+                              padding: const EdgeInsets.symmetric(vertical: 24, horizontal: 16),
+                              decoration: BoxDecoration(
+                                color: const Color(0xFF12161E),
+                                borderRadius: BorderRadius.circular(14),
+                                border: Border.all(color: Colors.white10),
+                              ),
+                              child: Center(
+                                child: Text(
+                                  TimelabI18n.noSavedRoutines(lang),
+                                  style: const TextStyle(color: Colors.white38, fontSize: 12.5),
+                                ),
+                              ),
+                            )
+                          else
+                            for (final customPreset in _engine.customRoutines)
+                              _buildCustomRoutineCard(customPreset, lang, cfg, ctx, setSheetState),
+
+                          const SizedBox(height: 30),
+                        ],
+                      ),
+                    ),
+                  ],
+                );
+              },
+            );
+          },
+        );
+      },
+    );
+  }
+
+  Widget _buildRoutinePresetCard(
+    ChainRoutinePreset preset,
+    String lang,
+    TimelabThemeConfig cfg,
+    BuildContext sheetCtx,
+  ) {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 10),
+      decoration: BoxDecoration(
+        color: const Color(0xFF1A202C),
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(color: Colors.white10, width: 1.0),
+      ),
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          borderRadius: BorderRadius.circular(16),
+          onTap: () {
+            HapticFeedback.mediumImpact();
+            _engine.applyRoutinePreset(preset);
+            Navigator.pop(sheetCtx);
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(TimelabI18n.routineAppliedToast(lang, preset.localizedTitle(lang))),
+                backgroundColor: const Color(0xFF1E2532),
+                behavior: SnackBarBehavior.floating,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          },
+          child: Padding(
+            padding: const EdgeInsets.all(14),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Text(preset.icon, style: const TextStyle(fontSize: 22)),
+                    const SizedBox(width: 10),
+                    Expanded(
+                      child: Text(
+                        preset.localizedTitle(lang),
+                        style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14.5),
+                      ),
+                    ),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFFFD700).withValues(alpha: 0.15),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.4)),
+                      ),
+                      child: Text(
+                        TimelabI18n.setsCountLabel(lang, preset.totalSets),
+                        style: const TextStyle(color: Color(0xFFFFD700), fontSize: 11, fontWeight: FontWeight.bold),
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  preset.localizedDesc(lang),
+                  style: const TextStyle(color: Colors.white60, fontSize: 11.5, height: 1.35),
+                ),
+                const SizedBox(height: 10),
+                Wrap(
+                  spacing: 6,
+                  runSpacing: 4,
+                  children: [
+                    for (var i = 0; i < preset.activeSlots; i++)
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withValues(alpha: 0.07),
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(color: Colors.white12),
+                        ),
+                        child: Text(
+                          'P${i + 1}: ${TimelabI18n.formatDurationHuman(lang, preset.steps[i].duration.inSeconds)}${preset.steps[i].delayAfter > Duration.zero ? " (+${preset.steps[i].delayAfter.inSeconds}s)" : ""}',
+                          style: const TextStyle(color: Colors.white70, fontSize: 10.5, fontWeight: FontWeight.w600),
+                        ),
+                      ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildCustomRoutineCard(
+    ChainRoutinePreset customPreset,
+    String lang,
+    TimelabThemeConfig cfg,
+    BuildContext sheetCtx,
+    void Function(void Function()) setSheetState,
+  ) {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 10),
+      decoration: BoxDecoration(
+        color: const Color(0xFF1E2532),
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.3), width: 1.0),
+      ),
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          borderRadius: BorderRadius.circular(16),
+          onTap: () {
+            HapticFeedback.mediumImpact();
+            _engine.applyRoutinePreset(customPreset);
+            Navigator.pop(sheetCtx);
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(TimelabI18n.routineAppliedToast(lang, customPreset.localizedTitle(lang))),
+                backgroundColor: const Color(0xFF1E2532),
+                behavior: SnackBarBehavior.floating,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          },
+          child: Padding(
+            padding: const EdgeInsets.all(12),
+            child: Row(
+              children: [
+                Text(customPreset.icon, style: const TextStyle(fontSize: 20)),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        customPreset.localizedTitle(lang),
+                        style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14),
+                      ),
+                      const SizedBox(height: 3),
+                      Text(
+                        customPreset.localizedDesc(lang),
+                        style: const TextStyle(color: Colors.white54, fontSize: 11),
+                      ),
+                    ],
+                  ),
+                ),
+                IconButton(
+                  icon: const Icon(Icons.delete_outline_rounded, color: Colors.white38, size: 18),
+                  tooltip: TimelabI18n.delete(lang),
+                  onPressed: () async {
+                    final confirm = await showDialog<bool>(
+                      context: context,
+                      builder: (dCtx) => AlertDialog(
+                        backgroundColor: const Color(0xFF1F2633),
+                        title: Text(
+                          TimelabI18n.deleteRoutineConfirm(lang),
+                          style: const TextStyle(color: Colors.white, fontSize: 15),
+                        ),
+                        actions: [
+                          TextButton(
+                            onPressed: () => Navigator.pop(dCtx, false),
+                            child: Text(TimelabI18n.cancel(lang), style: const TextStyle(color: Colors.white54)),
+                          ),
+                          TextButton(
+                            onPressed: () => Navigator.pop(dCtx, true),
+                            child: Text(
+                              TimelabI18n.delete(lang),
+                              style: const TextStyle(color: Colors.redAccent, fontWeight: FontWeight.bold),
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                    if (confirm == true) {
+                      await _engine.deleteCustomRoutine(customPreset.id);
+                      setSheetState(() {});
+                    }
+                  },
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Future<ChainRoutinePreset?> _showSaveRoutineDialog(BuildContext context, String lang) async {
+    final textController = TextEditingController(text: '루틴 ${_engine.customRoutines.length + 1}');
+    var selectedIcon = '⭐';
+
+    return showDialog<ChainRoutinePreset>(
+      context: context,
+      builder: (dCtx) => StatefulBuilder(
+        builder: (dCtx, setDialogState) => AlertDialog(
+          backgroundColor: const Color(0xFF1A2230),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Text(
+            TimelabI18n.saveCurrentAsRoutine(lang),
+            style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              TextField(
+                controller: textController,
+                autofocus: true,
+                style: const TextStyle(color: Colors.white),
+                decoration: InputDecoration(
+                  hintText: TimelabI18n.routineNameInputHint(lang),
+                  hintStyle: const TextStyle(color: Colors.white38, fontSize: 13),
+                  filled: true,
+                  fillColor: const Color(0xFF10141D),
+                  border: OutlineInputBorder(borderRadius: BorderRadius.circular(12), borderSide: BorderSide.none),
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                ),
+              ),
+              const SizedBox(height: 12),
+              Wrap(
+                spacing: 8,
+                children: ['⭐', '🏃', '🧘', '🍳', '📖', '🎯', '🥊', '🔥'].map((ico) {
+                  final isSelected = selectedIcon == ico;
+                  return InkWell(
+                    onTap: () => setDialogState(() => selectedIcon = ico),
+                    borderRadius: BorderRadius.circular(8),
+                    child: Container(
+                      padding: const EdgeInsets.all(6),
+                      decoration: BoxDecoration(
+                        color: isSelected ? const Color(0xFFFFD700).withValues(alpha: 0.25) : Colors.white10,
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: isSelected ? const Color(0xFFFFD700) : Colors.transparent),
+                      ),
+                      child: Text(ico, style: const TextStyle(fontSize: 18)),
+                    ),
+                  );
+                }).toList(),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(dCtx, null),
+              child: Text(TimelabI18n.cancel(lang), style: const TextStyle(color: Colors.white54)),
+            ),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFFD700),
+                foregroundColor: Colors.black,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+              ),
+              onPressed: () async {
+                final name = textController.text.trim();
+                final preset = await _engine.saveCustomRoutine(name, icon: selectedIcon);
+                if (dCtx.mounted) Navigator.pop(dCtx, preset);
+              },
+              child: Text(TimelabI18n.save(lang), style: const TextStyle(fontWeight: FontWeight.bold)),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
 }
+

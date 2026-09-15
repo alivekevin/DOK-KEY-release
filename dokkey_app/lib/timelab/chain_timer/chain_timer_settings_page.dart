@@ -65,7 +65,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                     colors: [Color(0xFF24180A), Color(0xFF161F33)],
                   ),
                   borderRadius: BorderRadius.circular(20),
-                  border: Border.all(color: DokkeyTheme.gold.withOpacity(0.6), width: 1.2),
+                  border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.6), width: 1.2),
                 ),
                 child: Row(
                   children: [
@@ -254,7 +254,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
         border: Border.all(
           color: isLocked
               ? Colors.white10
-              : (isEnabled ? const Color(0xFFFFD700).withOpacity(0.5) : const Color(0xFF2E384D)),
+              : (isEnabled ? const Color(0xFFFFD700).withValues(alpha: 0.5) : const Color(0xFF2E384D)),
           width: isEnabled && !isLocked ? 1.5 : 1.0,
         ),
       ),
@@ -298,7 +298,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   child: Container(
                     padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                     decoration: BoxDecoration(
-                      color: Colors.amber.withOpacity(0.2),
+                      color: Colors.amber.withValues(alpha: 0.2),
                       borderRadius: BorderRadius.circular(8),
                       border: Border.all(color: Colors.amber),
                     ),
@@ -348,7 +348,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       child: Container(
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                         decoration: BoxDecoration(
-                          color: Colors.white.withOpacity(0.06),
+                          color: Colors.white.withValues(alpha: 0.06),
                           borderRadius: BorderRadius.circular(8),
                           border: Border.all(color: Colors.white12),
                         ),
@@ -510,7 +510,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                       child: Container(
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                         decoration: BoxDecoration(
-                          color: Colors.white.withOpacity(0.06),
+                          color: Colors.white.withValues(alpha: 0.06),
                           borderRadius: BorderRadius.circular(8),
                           border: Border.all(color: Colors.white12),
                         ),
@@ -578,7 +578,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   decoration: BoxDecoration(
                     color: const Color(0xFF1E2838),
                     borderRadius: BorderRadius.circular(8),
-                    border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.35)),
+                    border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.35)),
                   ),
                   child: Text(
                     c['label'] as String,
@@ -822,7 +822,7 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
         decoration: BoxDecoration(
           color: const Color(0xFF1F2937),
           borderRadius: BorderRadius.circular(8),
-          border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.4)),
+          border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.4)),
         ),
         child: Text(
           label,
@@ -893,9 +893,9 @@ class _ChainTimerSettingsPageState extends State<ChainTimerSettingsPage> {
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                     decoration: BoxDecoration(
-                      color: const Color(0xFFFFD700).withOpacity(0.12),
+                      color: const Color(0xFFFFD700).withValues(alpha: 0.12),
                       borderRadius: BorderRadius.circular(10),
-                      border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.4)),
+                      border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.4)),
                     ),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,

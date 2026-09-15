@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_sound_engine.dart';
+import '../core/timelab_screen_keeper.dart';
 import '../models/timelab_models.dart';
 
 /// ⚡ 9-레인 그리드 스톱워치 (The Velocity Grid) 상태 관리 엔진
@@ -123,6 +124,7 @@ class VelocityGridEngine extends ChangeNotifier {
     _ticker?.cancel();
     _ticker = Timer.periodic(const Duration(milliseconds: 16), _onTick);
     _sound.playTick(theme);
+    TimeLabScreenKeeper.setKeepScreenOn(true);
     notifyListeners();
   }
 
@@ -131,12 +133,14 @@ class VelocityGridEngine extends ChangeNotifier {
     _ticker?.cancel();
     isRunning = false;
     _pausedElapsed = elapsedTime;
+    TimeLabScreenKeeper.setKeepScreenOn(false);
     notifyListeners();
   }
 
   void reset() {
     _ticker?.cancel();
     _initLanes();
+    TimeLabScreenKeeper.setKeepScreenOn(false);
     notifyListeners();
   }
 
@@ -172,6 +176,7 @@ class VelocityGridEngine extends ChangeNotifier {
       _ticker?.cancel();
       isRunning = false;
       _sound.playFinale(theme);
+      TimeLabScreenKeeper.setKeepScreenOn(false);
     }
 
     notifyListeners();
@@ -180,6 +185,7 @@ class VelocityGridEngine extends ChangeNotifier {
   @override
   void dispose() {
     _ticker?.cancel();
+    TimeLabScreenKeeper.setKeepScreenOn(false);
     super.dispose();
   }
 }

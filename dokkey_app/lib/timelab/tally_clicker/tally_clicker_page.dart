@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import '../../core/sound_service.dart';
 import '../../providers/dokkey_provider.dart';
@@ -224,7 +223,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
               children: [50, 100, 300, 500, 1000].map((preset) {
                 return ActionChip(
                   backgroundColor: const Color(0xFF1E2638),
-                  side: BorderSide(color: themeCfg.primaryColor.withOpacity(0.4)),
+                  side: BorderSide(color: themeCfg.primaryColor.withValues(alpha: 0.4)),
                   label: Text(
                     '+$preset',
                     style: TextStyle(color: themeCfg.primaryColor, fontSize: 12, fontWeight: FontWeight.bold),
@@ -315,7 +314,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                       child: Container(
                         padding: const EdgeInsets.all(14),
                         decoration: BoxDecoration(
-                          color: isSel ? cfg.primaryColor.withOpacity(0.15) : const Color(0xFF1B2232),
+                          color: isSel ? cfg.primaryColor.withValues(alpha: 0.15) : const Color(0xFF1B2232),
                           borderRadius: BorderRadius.circular(14),
                           border: Border.all(
                             color: isSel ? cfg.primaryColor : const Color(0xFF2A364F),
@@ -455,9 +454,9 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                     margin: const EdgeInsets.symmetric(horizontal: 20, vertical: 4),
                     padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
                     decoration: BoxDecoration(
-                      color: const Color(0xFF141923).withOpacity(0.9),
+                      color: const Color(0xFF141923).withValues(alpha: 0.9),
                       borderRadius: BorderRadius.circular(12),
-                      border: Border.all(color: themeCfg.primaryColor.withOpacity(0.5)),
+                      border: Border.all(color: themeCfg.primaryColor.withValues(alpha: 0.5)),
                     ),
                     child: Row(
                       children: [
@@ -514,7 +513,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                   decoration: BoxDecoration(
                                     shape: BoxShape.circle,
                                     border: Border.all(
-                                      color: themeCfg.primaryColor.withOpacity(0.6),
+                                      color: themeCfg.primaryColor.withValues(alpha: 0.6),
                                       width: 2.0,
                                     ),
                                   ),
@@ -539,11 +538,11 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                     letterSpacing: 4.0,
                                     shadows: [
                                       Shadow(
-                                        color: themeCfg.primaryColor.withOpacity(0.8),
+                                        color: themeCfg.primaryColor.withValues(alpha: 0.8),
                                         blurRadius: 28,
                                       ),
                                       Shadow(
-                                        color: themeCfg.primaryColor.withOpacity(0.4),
+                                        color: themeCfg.primaryColor.withValues(alpha: 0.4),
                                         blurRadius: 56,
                                       ),
                                     ],
@@ -553,9 +552,9 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                 Container(
                                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
                                   decoration: BoxDecoration(
-                                    color: themeCfg.primaryColor.withOpacity(0.12),
+                                    color: themeCfg.primaryColor.withValues(alpha: 0.12),
                                     borderRadius: BorderRadius.circular(20),
-                                    border: Border.all(color: themeCfg.primaryColor.withOpacity(0.4)),
+                                    border: Border.all(color: themeCfg.primaryColor.withValues(alpha: 0.4)),
                                   ),
                                   child: Row(
                                     mainAxisSize: MainAxisSize.min,
@@ -587,7 +586,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                   padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
                   decoration: BoxDecoration(
                     color: const Color(0xFF10141D),
-                    border: Border(top: BorderSide(color: themeCfg.borderColor.withOpacity(0.4))),
+                    border: Border(top: BorderSide(color: themeCfg.borderColor.withValues(alpha: 0.4))),
                   ),
                   child: Row(
                     children: [
@@ -641,7 +640,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                                       alignment: Alignment.centerLeft,
                                       widthFactor: _resetHoldProgress,
                                       child: Container(
-                                        color: const Color(0xFFFF9100).withOpacity(0.35),
+                                        color: const Color(0xFFFF9100).withValues(alpha: 0.35),
                                       ),
                                     ),
                                   ),
@@ -678,7 +677,7 @@ class _TallyClickerPageState extends State<TallyClickerPage> with SingleTickerPr
                         flex: 2,
                         child: ElevatedButton(
                           style: ElevatedButton.styleFrom(
-                            backgroundColor: themeCfg.primaryColor.withOpacity(0.18),
+                            backgroundColor: themeCfg.primaryColor.withValues(alpha: 0.18),
                             foregroundColor: themeCfg.primaryColor,
                             elevation: 0,
                             side: BorderSide(color: themeCfg.primaryColor, width: 1.5),

@@ -182,3 +182,128 @@ class VelocityRecord {
         [],
   );
 }
+
+/// ⚡ 체인 타이머 완성형 루틴 프리셋 모델
+class ChainRoutinePreset {
+  final String id;
+  final String icon;
+  final String? customName;
+  final int activeSlots;
+  final int totalSets;
+  final List<ChainStep> steps;
+
+  const ChainRoutinePreset({
+    required this.id,
+    required this.icon,
+    this.customName,
+    required this.activeSlots,
+    required this.totalSets,
+    required this.steps,
+  });
+
+  String localizedTitle(String lang) {
+    if (customName != null && customName!.isNotEmpty) {
+      return customName!;
+    }
+    return TimelabI18n.routinePresetTitle(lang, id);
+  }
+
+  String localizedDesc(String lang) {
+    if (customName != null && customName!.isNotEmpty) {
+      return TimelabI18n.customRoutineSummary(lang, activeSlots, totalSets);
+    }
+    return TimelabI18n.routinePresetDesc(lang, id);
+  }
+
+  Map<String, dynamic> toJson() => {
+    'id': id,
+    'icon': icon,
+    'customName': customName,
+    'activeSlots': activeSlots,
+    'totalSets': totalSets,
+    'steps': steps.map((s) => s.toJson()).toList(),
+  };
+
+  factory ChainRoutinePreset.fromJson(Map<String, dynamic> json) => ChainRoutinePreset(
+    id: json['id'] as String? ?? '',
+    icon: json['icon'] as String? ?? '⏱️',
+    customName: json['customName'] as String?,
+    activeSlots: json['activeSlots'] as int? ?? 3,
+    totalSets: json['totalSets'] as int? ?? 1,
+    steps: (json['steps'] as List<dynamic>?)
+            ?.map((s) => ChainStep.fromJson(s as Map<String, dynamic>))
+            .toList() ??
+        [],
+  );
+}
+
+/// 🚀 기본 제공 빌트인 실전 루틴 프리셋 6종
+final List<ChainRoutinePreset> builtinRoutinePresets = [
+  ChainRoutinePreset(
+    id: 'pomodoro',
+    icon: '🍅',
+    activeSlots: 2,
+    totalSets: 4,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(minutes: 25), delayAfter: Duration.zero),
+      ChainStep(index: 2, duration: const Duration(minutes: 5), delayAfter: Duration.zero),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+  ChainRoutinePreset(
+    id: 'tabata',
+    icon: '🔥',
+    activeSlots: 2,
+    totalSets: 8,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(seconds: 20), delayAfter: Duration.zero),
+      ChainStep(index: 2, duration: const Duration(seconds: 10), delayAfter: Duration.zero),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+  ChainRoutinePreset(
+    id: 'boxing',
+    icon: '🥊',
+    activeSlots: 2,
+    totalSets: 3,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
+      ChainStep(index: 2, duration: const Duration(minutes: 1), delayAfter: Duration.zero),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+  ChainRoutinePreset(
+    id: 'ramen',
+    icon: '🍜',
+    activeSlots: 1,
+    totalSets: 1,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
+      ChainStep(index: 2, duration: const Duration(seconds: 5), delayAfter: Duration.zero),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+  ChainRoutinePreset(
+    id: 'pitch',
+    icon: '🎤',
+    activeSlots: 2,
+    totalSets: 1,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(minutes: 5), delayAfter: const Duration(seconds: 3)),
+      ChainStep(index: 2, duration: const Duration(minutes: 3), delayAfter: Duration.zero),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+  ChainRoutinePreset(
+    id: 'defuser',
+    icon: '💣',
+    activeSlots: 3,
+    totalSets: 1,
+    steps: [
+      ChainStep(index: 1, duration: const Duration(seconds: 10), delayAfter: const Duration(seconds: 2)),
+      ChainStep(index: 2, duration: const Duration(seconds: 5), delayAfter: const Duration(seconds: 1)),
+      ChainStep(index: 3, duration: const Duration(seconds: 3), delayAfter: Duration.zero),
+    ],
+  ),
+];
+
