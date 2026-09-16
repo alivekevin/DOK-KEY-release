@@ -655,8 +655,16 @@ class GameHud extends StatelessWidget {
               title,
               style: const TextStyle(
                 color: Colors.white,
-                fontWeight: FontWeight.w800,
-                fontSize: 15,
+                fontWeight: FontWeight.w900,
+                fontSize: 16.5,
+                letterSpacing: 0.3,
+                shadows: [
+                  Shadow(
+                    color: Colors.black,
+                    offset: Offset(0, 1.2),
+                    blurRadius: 3,
+                  ),
+                ],
               ),
             ),
             const Spacer(),

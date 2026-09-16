@@ -39,10 +39,18 @@ class TimelabHubPage extends StatelessWidget {
             const SizedBox(width: 8),
             Text(
               TimelabI18n.timeLabTitle(lang),
-              style: TextStyle(
-                color: DokkeyTheme.goldLight,
+              style: const TextStyle(
+                color: Color(0xFFFFD54F),
                 fontWeight: FontWeight.w900,
-                fontSize: 17,
+                fontSize: 19,
+                letterSpacing: 0.3,
+                shadows: [
+                  Shadow(
+                    color: Colors.black,
+                    offset: Offset(0, 1.5),
+                    blurRadius: 4,
+                  ),
+                ],
               ),
             ),
           ],
@@ -83,16 +91,28 @@ class TimelabHubPage extends StatelessWidget {
                       style: TextStyle(
                         fontFamily: 'monospace',
                         color: Color(0xFFFFE66D),
-                        fontSize: 18,
+                        fontSize: 19,
                         fontWeight: FontWeight.w900,
                         letterSpacing: 2.0,
+                        shadows: [
+                          Shadow(
+                            color: Colors.black,
+                            offset: Offset(0, 1.5),
+                            blurRadius: 4,
+                          ),
+                        ],
                       ),
                     ),
                     const SizedBox(height: 6),
                     Text(
                       TimelabI18n.hubHeroDesc(lang),
                       textAlign: TextAlign.center,
-                      style: const TextStyle(color: Color(0xFFE2E8F0), fontSize: 12.5, height: 1.5),
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 13.0,
+                        height: 1.5,
+                        fontWeight: FontWeight.w500,
+                      ),
                     ),
                   ],
                 ),

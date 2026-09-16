@@ -175,13 +175,18 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                   Text(
                     isKo ? '깨비 오락실' : 'Kkaebi Arcade',
                     style: TextStyle(
-                      color: DokkeyTheme.goldLight,
+                      color: const Color(0xFFFFD54F),
                       fontWeight: FontWeight.w900,
-                      fontSize: 18.5,
+                      fontSize: 19.5,
                       letterSpacing: 0.5,
                       shadows: [
                         Shadow(
-                          color: DokkeyTheme.gold.withOpacity(0.6),
+                          color: Colors.black.withOpacity(0.9),
+                          offset: const Offset(0, 1.5),
+                          blurRadius: 3.5,
+                        ),
+                        Shadow(
+                          color: const Color(0xFFFFD700).withOpacity(0.4),
                           blurRadius: 10,
                         ),
                       ],
@@ -292,27 +297,40 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                                     style: const TextStyle(
                                       color: Color(0xFFFFE66D),
                                       fontWeight: FontWeight.w900,
-                                      fontSize: 13,
+                                      fontSize: 15.0,
+                                      letterSpacing: 0.3,
+                                      shadows: [
+                                        Shadow(
+                                          color: Colors.black,
+                                          offset: Offset(0, 1.2),
+                                          blurRadius: 3.0,
+                                        ),
+                                      ],
                                     ),
                                   ),
-                                  const SizedBox(width: 6),
+                                  const SizedBox(width: 8),
                                   Container(
-                                    padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),
+                                    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
                                     decoration: BoxDecoration(
-                                      color: const Color(0xFFFF0055).withOpacity(0.25),
+                                      color: const Color(0xFFFF0055).withOpacity(0.3),
                                       borderRadius: BorderRadius.circular(6),
-                                      border: Border.all(color: const Color(0xFFFF0055), width: 0.8),
+                                      border: Border.all(color: const Color(0xFFFF3366), width: 1.0),
                                     ),
                                     child: const Text(
                                       'NEW 특별관',
-                                      style: TextStyle(color: Color(0xFFFF5252), fontSize: 9, fontWeight: FontWeight.bold),
+                                      style: TextStyle(color: Color(0xFFFF80AB), fontSize: 9.5, fontWeight: FontWeight.w900),
                                     ),
                                   ),
                                 ],
                               ),
+                              const SizedBox(height: 2),
                               Text(
                                 isKo ? '3단 체인 타이머 · 9-레인 그리드 스톱워치' : '3-Phase Chain Timer · 9-Lane Stopwatch',
-                                style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 10.5),
+                                style: const TextStyle(
+                                  color: Color(0xFFE2E8F0),
+                                  fontSize: 11.0,
+                                  fontWeight: FontWeight.w500,
+                                ),
                               ),
                             ],
                           ),
@@ -478,9 +496,16 @@ class _GameCard extends StatelessWidget {
                     overflow: TextOverflow.ellipsis,
                     style: const TextStyle(
                       color: Colors.white,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 11.5,
+                      fontWeight: FontWeight.w900,
+                      fontSize: 12.5,
                       letterSpacing: -0.2,
+                      shadows: [
+                        Shadow(
+                          color: Colors.black,
+                          offset: Offset(0, 1.2),
+                          blurRadius: 3,
+                        ),
+                      ],
                     ),
                   ),
                   const SizedBox(height: 2),

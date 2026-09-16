@@ -378,10 +378,18 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
             const SizedBox(width: 8),
             Text(
               isKo ? '깨비 지뢰찾기' : 'Minesweeper',
-              style: TextStyle(
-                color: DokkeyTheme.goldLight,
+              style: const TextStyle(
+                color: Color(0xFFFFD54F),
                 fontWeight: FontWeight.w900,
-                fontSize: 17,
+                fontSize: 19,
+                letterSpacing: 0.3,
+                shadows: [
+                  Shadow(
+                    color: Colors.black,
+                    offset: Offset(0, 1.5),
+                    blurRadius: 4,
+                  ),
+                ],
               ),
             ),
           ],
