@@ -4,7 +4,6 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import '../core/brand_config.dart';
 import '../core/pricing.dart';
-import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../providers/dokkey_provider.dart';
 
@@ -78,7 +77,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = '1日1回 → 合計4回のキー回転が毎日可能';
         pouchTitle = '🗝️ 黄金の鍵10個ポーチ (消耗品)';
         pouchDesc = '${pricing.pouch} — 今すぐ回して錬成したい方向けの追加キーパック';
-        actionButtonText = 'PRO を有効化';
+        actionButtonText = '👑 全機能アンロック';
         alreadyProText = 'PRO 利用中 — 全機能アンロック済 👑';
         proStatusYearly = '1年プラン · {date}まで有効';
         proStatusLifetime = '永久ライセンス · 期限なし';
@@ -110,7 +109,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = '每日1次 → 每天共4次转钥匙机会';
         pouchTitle = '🗝️ 黄金钥匙10个锦囊 (消耗品)';
         pouchDesc = '${pricing.pouch} — 想立即抽取与炼成用户的追加钥匙包';
-        actionButtonText = '立即解锁专业版';
+        actionButtonText = '👑 解锁全部功能';
         alreadyProText = '专业版使用中 — 全功能已解锁 👑';
         proStatusYearly = '1年订阅 · 有效期至 {date}';
         proStatusLifetime = '终身买断 · 永不过期';
@@ -134,7 +133,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature2Desc = '33×अधिकतम 99 थीम स्लॉट (कुल 3,267 कार्ड) स्वतंत्र उपयोग';
         feature3Title = 'ताबीज संग्रह 33 स्लॉट पूर्ण खुले';
         feature3Desc = 'आधिकारिक 18 का तुरंत संग्रह + MY custom 15 स्लॉट खुले';
-        feature4Title = '13 आर्केड गेम्स असीमित खेल';
+        feature4Title = '13 आर्के드 गेम्स असीमित खेल';
         feature4Desc = 'दैनिक 3 बार की सीमा समाप्त — जब चाहें खेलें';
         feature5Title = 'विज्ञापन पूर्ण हटाए गए';
         feature5Desc = 'सभी विज्ञापन छोड़कर तेज़ अनुभव';
@@ -142,7 +141,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = 'दिन में 1 → कुल 4 बार की चाबी घुमाव';
         pouchTitle = '🗝️ गोल्डन की 10 पाउच (उपभोग्य)';
         pouchDesc = '${pricing.pouch} — तुरंत घुमाकर संग्रह बढ़ाने वालों के लिए';
-        actionButtonText = 'प्रो अनलॉक करें';
+        actionButtonText = '👑 सभी फ़ीचर्स अनलॉक करें';
         alreadyProText = 'PRO सक्रिय — सभी फ़ीचर्स अनलॉक्ड 👑';
         proStatusYearly = '1 वर्ष प्लान · {date} तक वैध';
         proStatusLifetime = 'लाइफटाइम पास · कभी समाप्त नहीं होता';
@@ -174,7 +173,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = '1× pro Tag → insgesamt 4× Schlüsseldrehen';
         pouchTitle = '🗝️ Goldener Schlüssel-Bundle (10 Stk., Verbrauchsgut)';
         pouchDesc = '${pricing.pouch} — für alle, die sofort drehen und sammeln wollen';
-        actionButtonText = 'PRO freischalten';
+        actionButtonText = '👑 Alle Funktionen freischalten';
         alreadyProText = 'PRO aktiv — alle Funktionen freigeschaltet 👑';
         proStatusYearly = '1-Jahres-Abo · gültig bis {date}';
         proStatusLifetime = 'Lifetime VIP · läuft nie ab';
@@ -206,7 +205,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = '1 per day → 4 total key spins every day';
         pouchTitle = '🗝️ Golden Key Pouch ×10 (Consumable)';
         pouchDesc = '${pricing.pouch} — for those who want to spin and collect right now';
-        actionButtonText = 'Unlock PRO';
+        actionButtonText = '👑 Unlock All Features';
         alreadyProText = 'PRO Active — All-Features Unlocked 👑';
         proStatusYearly = '1-Year Pass · valid until {date}';
         proStatusLifetime = 'Lifetime Pass · never expires';
@@ -239,12 +238,12 @@ class _ProPassDialogState extends State<ProPassDialog> {
         feature6Desc = '하루 1회 → 하루 총 4회 열쇠 돌리기';
         pouchTitle = '🗝️ 황금 열쇠 10개 주머니 (소모품)';
         pouchDesc = '${pricing.pouch} — 지금 바로 돌리고 모으고 싶은 분께';
-        actionButtonText = 'PRO 잠금해제';
+        actionButtonText = '👑 모든 기능 잠금해제';
         alreadyProText = 'PRO 이용 중 — 모든 기능 잠금해제 👑';
         proStatusYearly = '1년 이용권 · {date}까지 이용';
         proStatusLifetime = '평생 소장권 · 만료 없음';
         proStatusLegacy = '기존 PRO 등급이 유지됩니다';
-        comingSoonText = '🔒 스톱워치 결제 기능은 곧 출시될 업데이트에서 제공됩니다.';
+        comingSoonText = '🔒 스토어 결제 기능은 곧 출시될 업데이트에서 제공됩니다.';
         closeText = '닫기';
         break;
     }
@@ -255,12 +254,12 @@ class _ProPassDialogState extends State<ProPassDialog> {
       child: Container(
         constraints: const BoxConstraints(maxWidth: 460),
         decoration: BoxDecoration(
-          color: DokkeyTheme.cardDark,
+          color: const Color(0xFF131822),
           borderRadius: BorderRadius.circular(28),
-          border: Border.all(color: DokkeyTheme.gold, width: 2),
+          border: Border.all(color: const Color(0xFFFFD54F), width: 2),
           boxShadow: [
             BoxShadow(
-              color: DokkeyTheme.gold.withValues(alpha: 0.25),
+              color: const Color(0xFFFFD54F).withValues(alpha: 0.25),
               blurRadius: 30,
               spreadRadius: 2,
             ),
@@ -278,14 +277,14 @@ class _ProPassDialogState extends State<ProPassDialog> {
                   padding: const EdgeInsets.all(12),
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    gradient: LinearGradient(
-                      colors: [DokkeyTheme.goldLight, DokkeyTheme.gold],
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFFFFE082), Color(0xFFFFD54F)],
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
                     ),
                     boxShadow: [
                       BoxShadow(
-                        color: DokkeyTheme.gold.withValues(alpha: 0.4),
+                        color: const Color(0xFFFFD54F).withValues(alpha: 0.4),
                         blurRadius: 16,
                       ),
                     ],
@@ -298,10 +297,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
               Text(
                 title,
                 textAlign: TextAlign.center,
-                style: TextStyle(
-                  fontSize: 18.5,
+                style: const TextStyle(
+                  fontSize: 19,
                   fontWeight: FontWeight.w900,
-                  color: DokkeyTheme.goldLight,
+                  color: Color(0xFFFFE66D),
                   letterSpacing: 0.5,
                 ),
               ),
@@ -309,9 +308,9 @@ class _ProPassDialogState extends State<ProPassDialog> {
               Text(
                 subtitle,
                 textAlign: TextAlign.center,
-                style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11.5, height: 1.35),
+                style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 11.5, height: 1.35),
               ),
-              const SizedBox(height: 14),
+              const SizedBox(height: 16),
 
               // Dual Plan Selectors (1-Year vs Lifetime)
               Row(
@@ -324,34 +323,49 @@ class _ProPassDialogState extends State<ProPassDialog> {
                         SoundService().playCardFlip();
                       },
                       child: Container(
-                        padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 10),
+                        padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 10),
                         decoration: BoxDecoration(
                           color: _selectedPlan == 0
-                              ? DokkeyTheme.gold.withValues(alpha: 0.18)
-                              : DokkeyTheme.surfaceDark,
+                              ? const Color(0xFF2C220E)
+                              : const Color(0xFF1E2636),
                           borderRadius: BorderRadius.circular(16),
                           border: Border.all(
-                            color: _selectedPlan == 0 ? DokkeyTheme.gold : DokkeyTheme.borderDark,
-                            width: _selectedPlan == 0 ? 2.0 : 1.0,
+                            color: _selectedPlan == 0 ? const Color(0xFFFFD54F) : const Color(0xFF38455D),
+                            width: _selectedPlan == 0 ? 2.0 : 1.2,
                           ),
                         ),
                         child: Column(
                           children: [
-                            Text(
-                              plan1Name,
-                              style: TextStyle(
-                                color: _selectedPlan == 0 ? DokkeyTheme.goldLight : Colors.white70,
-                                fontSize: 12,
-                                fontWeight: FontWeight.bold,
-                              ),
+                            Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Icon(
+                                  _selectedPlan == 0 ? Icons.radio_button_checked : Icons.radio_button_off,
+                                  color: _selectedPlan == 0 ? const Color(0xFFFFD54F) : const Color(0xFF94A3B8),
+                                  size: 16,
+                                ),
+                                const SizedBox(width: 6),
+                                Flexible(
+                                  child: Text(
+                                    plan1Name,
+                                    maxLines: 1,
+                                    overflow: TextOverflow.ellipsis,
+                                    style: TextStyle(
+                                      color: _selectedPlan == 0 ? const Color(0xFFFFE66D) : Colors.white,
+                                      fontSize: 13,
+                                      fontWeight: FontWeight.w900,
+                                    ),
+                                  ),
+                                ),
+                              ],
                             ),
                             // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 표기를 숨긴다
                             if (BrandConfig.billingEnabled) ...[
-                              const SizedBox(height: 4),
+                              const SizedBox(height: 5),
                               Text(
                                 plan1Price,
-                                style: const TextStyle(
-                                  color: Colors.amber,
+                                style: TextStyle(
+                                  color: _selectedPlan == 0 ? const Color(0xFFFFD54F) : const Color(0xFFCBD5E1),
                                   fontSize: 15,
                                   fontWeight: FontWeight.w900,
                                 ),
@@ -359,7 +373,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                               const SizedBox(height: 2),
                               Text(
                                 plan1Sub,
-                                style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                                style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 10),
                                 textAlign: TextAlign.center,
                               ),
                             ],
@@ -381,34 +395,49 @@ class _ProPassDialogState extends State<ProPassDialog> {
                         clipBehavior: Clip.none,
                         children: [
                           Container(
-                            padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 10),
+                            padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 10),
                             decoration: BoxDecoration(
                               color: _selectedPlan == 1
-                                  ? const Color(0xFFFFD54F).withValues(alpha: 0.22)
-                                  : DokkeyTheme.surfaceDark,
+                                  ? const Color(0xFF2C220E)
+                                  : const Color(0xFF1E2636),
                               borderRadius: BorderRadius.circular(16),
                               border: Border.all(
-                                color: _selectedPlan == 1 ? const Color(0xFFFFD54F) : DokkeyTheme.borderDark,
-                                width: _selectedPlan == 1 ? 2.0 : 1.0,
+                                color: _selectedPlan == 1 ? const Color(0xFFFFD54F) : const Color(0xFF38455D),
+                                width: _selectedPlan == 1 ? 2.0 : 1.2,
                               ),
                             ),
                             child: Column(
                               children: [
-                                Text(
-                                  plan2Name,
-                                  style: TextStyle(
-                                    color: _selectedPlan == 1 ? DokkeyTheme.goldLight : Colors.white70,
-                                    fontSize: 12,
-                                    fontWeight: FontWeight.bold,
-                                  ),
+                                Row(
+                                  mainAxisAlignment: MainAxisAlignment.center,
+                                  children: [
+                                    Icon(
+                                      _selectedPlan == 1 ? Icons.radio_button_checked : Icons.radio_button_off,
+                                      color: _selectedPlan == 1 ? const Color(0xFFFFD54F) : const Color(0xFF94A3B8),
+                                      size: 16,
+                                    ),
+                                    const SizedBox(width: 6),
+                                    Flexible(
+                                      child: Text(
+                                        plan2Name,
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: TextStyle(
+                                          color: _selectedPlan == 1 ? const Color(0xFFFFE66D) : Colors.white,
+                                          fontSize: 13,
+                                          fontWeight: FontWeight.w900,
+                                        ),
+                                      ),
+                                    ),
+                                  ],
                                 ),
                                 // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 표기를 숨긴다
                                 if (BrandConfig.billingEnabled) ...[
-                                  const SizedBox(height: 4),
+                                  const SizedBox(height: 5),
                                   Text(
                                     plan2Price,
-                                    style: const TextStyle(
-                                      color: Color(0xFFFFD54F),
+                                    style: TextStyle(
+                                      color: _selectedPlan == 1 ? const Color(0xFFFFD54F) : const Color(0xFFCBD5E1),
                                       fontSize: 15,
                                       fontWeight: FontWeight.w900,
                                     ),
@@ -416,7 +445,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                                   const SizedBox(height: 2),
                                   Text(
                                     plan2Sub,
-                                    style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                                    style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 10),
                                     textAlign: TextAlign.center,
                                   ),
                                 ],
@@ -427,17 +456,24 @@ class _ProPassDialogState extends State<ProPassDialog> {
                             top: -8,
                             right: 8,
                             child: Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                              padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2.5),
                               decoration: BoxDecoration(
-                                color: const Color(0xFFFF5252),
+                                color: const Color(0xFFFF334B),
                                 borderRadius: BorderRadius.circular(8),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: const Color(0x66000000),
+                                    blurRadius: 4,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
                               ),
                               child: Text(
                                 plan2Badge,
                                 style: const TextStyle(
                                   color: Colors.white,
-                                  fontSize: 9,
-                                  fontWeight: FontWeight.bold,
+                                  fontSize: 9.5,
+                                  fontWeight: FontWeight.w900,
                                 ),
                               ),
                             ),
@@ -448,7 +484,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                   ),
                 ],
               ),
-              const SizedBox(height: 14),
+              const SizedBox(height: 16),
 
               // 6 Benefits
               _buildBenefitRow(Icons.inventory_2_rounded, feature1Title, feature1Desc),
@@ -462,30 +498,30 @@ class _ProPassDialogState extends State<ProPassDialog> {
               _buildBenefitRow(Icons.block_rounded, feature5Title, feature5Desc),
               const SizedBox(height: 8),
               _buildBenefitRow(Icons.add_circle_outline_rounded, feature6Title, feature6Desc),
-              const SizedBox(height: 12),
+              const SizedBox(height: 14),
 
               // 🗝️ 황금 열쇠 10개 주머니 (소모품 안내)
               Container(
-                padding: const EdgeInsets.all(10),
+                padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
-                  color: DokkeyTheme.surfaceDark,
+                  color: const Color(0xFF18202C),
                   borderRadius: BorderRadius.circular(14),
-                  border: Border.all(color: DokkeyTheme.borderDark),
+                  border: Border.all(color: const Color(0xFF2C384D)),
                 ),
                 child: Row(
                   children: [
                     const Text('🗝️', style: TextStyle(fontSize: 18)),
-                    const SizedBox(width: 8),
+                    const SizedBox(width: 10),
                     Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
                             pouchTitle,
-                            style: TextStyle(
-                              color: DokkeyTheme.textMain,
+                            style: const TextStyle(
+                              color: Colors.white,
                               fontWeight: FontWeight.bold,
-                              fontSize: 11.5,
+                              fontSize: 12,
                             ),
                           ),
                           const SizedBox(height: 2),
@@ -493,7 +529,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                           if (BrandConfig.billingEnabled)
                             Text(
                               pouchDesc,
-                              style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                              style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 10.5),
                             ),
                         ],
                       ),
@@ -501,12 +537,12 @@ class _ProPassDialogState extends State<ProPassDialog> {
                   ],
                 ),
               ),
-              const SizedBox(height: 14),
+              const SizedBox(height: 16),
 
               // Activation / Status Button
               if (isPro)
                 Container(
-                  padding: const EdgeInsets.symmetric(vertical: 11, horizontal: 10),
+                  padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 10),
                   decoration: BoxDecoration(
                     color: Colors.green.withValues(alpha: 0.15),
                     borderRadius: BorderRadius.circular(16),
@@ -520,7 +556,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                         style: const TextStyle(
                           color: Colors.greenAccent,
                           fontWeight: FontWeight.bold,
-                          fontSize: 13,
+                          fontSize: 13.5,
                         ),
                       ),
                       const SizedBox(height: 4),
@@ -550,7 +586,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
                         ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(
                             content: Text(comingSoonText),
-                            backgroundColor: DokkeyTheme.surfaceDark,
+                            backgroundColor: const Color(0xFF1E2636),
                           ),
                         );
                       }
@@ -568,38 +604,44 @@ class _ProPassDialogState extends State<ProPassDialog> {
                                 ? '🎉 PRO가 잠금해제되었습니다! 99개 조합 슬롯과 오락실 무제한 플레이가 열렸습니다.'
                                 : '🎉 PRO Unlocked! 99 vault slots & unlimited arcade are active.',
                           ),
-                          backgroundColor: DokkeyTheme.surfaceDark,
+                          backgroundColor: const Color(0xFF1E2636),
                         ),
                       );
                     }
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: DokkeyTheme.gold,
+                    backgroundColor: const Color(0xFFFFD54F),
                     foregroundColor: Colors.black,
-                    padding: const EdgeInsets.symmetric(vertical: 13),
+                    padding: const EdgeInsets.symmetric(vertical: 14),
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
                     elevation: 6,
+                    shadowColor: const Color(0xFFFFD54F).withValues(alpha: 0.4),
                   ),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Icon(Icons.flash_on_rounded, size: 20, color: Colors.black),
-                      const SizedBox(width: 6),
+                      const Icon(Icons.flash_on_rounded, size: 22, color: Colors.black),
+                      const SizedBox(width: 8),
                       Text(
                         // 🛡️ 결제 미연동 빌드에서는 가격 없이 플랜명만 노출
                         !BrandConfig.billingEnabled
                             ? actionButtonText
                             : (_selectedPlan == 0 ? '$actionButtonText ($plan1Price)' : '$actionButtonText ($plan2Price)'),
-                        style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5),
+                        style: const TextStyle(
+                          color: Colors.black, // Explicitly pure black on bright gold
+                          fontWeight: FontWeight.w900,
+                          fontSize: 15,
+                          letterSpacing: 0.5,
+                        ),
                       ),
                     ],
                   ),
                 ),
 
-              const SizedBox(height: 6),
+              const SizedBox(height: 8),
               TextButton(
                 onPressed: () => Navigator.of(context).pop(),
-                child: Text(closeText, style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 12.5)),
+                child: Text(closeText, style: const TextStyle(color: Color(0xFF94A3B8), fontSize: 13)),
               ),
             ],
           ),
@@ -613,12 +655,13 @@ class _ProPassDialogState extends State<ProPassDialog> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Container(
-          padding: const EdgeInsets.all(5),
+          padding: const EdgeInsets.all(6),
           decoration: BoxDecoration(
-            color: DokkeyTheme.gold.withValues(alpha: 0.15),
+            color: const Color(0xFF2C220E),
             borderRadius: BorderRadius.circular(8),
+            border: Border.all(color: const Color(0xFFFFD54F).withValues(alpha: 0.3)),
           ),
-          child: Icon(icon, color: DokkeyTheme.goldLight, size: 16),
+          child: Icon(icon, color: const Color(0xFFFFD54F), size: 16),
         ),
         const SizedBox(width: 10),
         Expanded(
@@ -627,18 +670,18 @@ class _ProPassDialogState extends State<ProPassDialog> {
             children: [
               Text(
                 title,
-                style: TextStyle(
-                  color: DokkeyTheme.textMain,
+                style: const TextStyle(
+                  color: Colors.white,
                   fontWeight: FontWeight.bold,
-                  fontSize: 12.5,
+                  fontSize: 13,
                 ),
               ),
               const SizedBox(height: 1.5),
               Text(
                 desc,
-                style: TextStyle(
-                  color: DokkeyTheme.textMuted,
-                  fontSize: 10.5,
+                style: const TextStyle(
+                  color: Color(0xFFCBD5E1),
+                  fontSize: 11,
                   height: 1.3,
                 ),
               ),
