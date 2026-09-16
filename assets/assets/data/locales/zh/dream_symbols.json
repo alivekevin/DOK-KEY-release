@@ -1,0 +1,2023 @@
+{
+  "symbols": [
+    {
+      "id": "tiger",
+      "label": "猛虎",
+      "keywords": [
+        "虎",
+        "猛虎",
+        "老虎",
+        "猛兽",
+        "tiger"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "tiger",
+      "meaning": "权势、大荣誉与强力贵人相助的超级吉兆",
+      "advice": "拿出猛虎的气势！今天犹豫不决的事要果断推进！"
+    },
+    {
+      "id": "pig",
+      "label": "福猪",
+      "keywords": [
+        "猪",
+        "福猪",
+        "财运猪",
+        "金猪",
+        "pig"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "pig",
+      "meaning": "财运亨通、意想不到的横财滚滚而来的传统大吉兆",
+      "advice": "金猪敲门送财！今天收拾好钱包准备迎接好运吧！"
+    },
+    {
+      "id": "snake",
+      "label": "灵蛇",
+      "keywords": [
+        "蛇",
+        "灵蛇",
+        "白蛇",
+        "巨蟒",
+        "snake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "snake",
+      "meaning": "智慧、蜕变重生、重大契约与财运高涨的吉兆",
+      "advice": "如灵蛇蜕皮般新生！放下旧执念，迎接崭新的机遇！"
+    },
+    {
+      "id": "dragon",
+      "label": "神龙",
+      "keywords": [
+        "龙",
+        "青龙",
+        "金龙",
+        "飞龙",
+        "dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "dragon",
+      "meaning": "飞黄腾达、人生重大突破与最高级别的成功吉兆",
+      "advice": "乘风破浪、飞龙在天！昂首挺胸展现你的真正实力吧！"
+    },
+    {
+      "id": "bird",
+      "label": "喜鹊 / 灵鸟",
+      "keywords": [
+        "鸟",
+        "喜鹊",
+        "仙鹤",
+        "飞鸟",
+        "白鸽",
+        "bird"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "wind_child",
+      "meaning": "喜讯临门、贵客到访与名誉地位晋升之兆",
+      "advice": "好消息正在飞来！今天多留意收到的信息和电话吧！"
+    },
+    {
+      "id": "fish",
+      "label": "游鱼 / 锦鲤",
+      "keywords": [
+        "鱼",
+        "锦鲤",
+        "金鱼",
+        "抓鱼",
+        "游鱼",
+        "fish"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "water_sprite",
+      "meaning": "年年有余、财源广进与才华绽放的大吉之兆",
+      "advice": "如鱼得水的好日子！尽情施展你的才华和本领吧！"
+    },
+    {
+      "id": "dog",
+      "label": "忠犬 / 小狗",
+      "keywords": [
+        "狗",
+        "小狗",
+        "宠物狗",
+        "忠犬",
+        "dog"
+      ],
+      "fortune": "normal",
+      "lucky_number": 19,
+      "card_id": "dog",
+      "meaning": "忠诚挚友相伴、人际信任加深与稳固伙伴关系",
+      "advice": "真正的朋友就在身旁！今天向身边的人送上一句温暖问候吧！"
+    },
+    {
+      "id": "cat",
+      "label": "灵猫",
+      "keywords": [
+        "猫",
+        "灵猫",
+        "小猫",
+        "黑猫",
+        "cat"
+      ],
+      "fortune": "normal",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "敏锐的直觉洞察、隐藏的良机与内心探索",
+      "advice": "直觉特别敏锐的一天！相信你最初的第六感去行动吧！"
+    },
+    {
+      "id": "ox",
+      "label": "金牛 / 黄牛",
+      "keywords": [
+        "牛",
+        "黄牛",
+        "金牛",
+        "奶牛",
+        "ox",
+        "bull"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 8,
+      "card_id": "ox",
+      "meaning": "脚踏实地的成果收获、稳固根基与财富稳步积累",
+      "advice": "步步为营定能跨越泰山！不要急躁，保持自己的节奏！"
+    },
+    {
+      "id": "horse",
+      "label": "骏马 / 白马",
+      "keywords": [
+        "马",
+        "白马",
+        "骏马",
+        "奔跑",
+        "horse"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "马到成功、势不可挡的推进力与远大目标的实现",
+      "advice": "马蹄声声催人进！不要犹豫，带着全速冲向目标吧！"
+    },
+    {
+      "id": "turtle",
+      "label": "神龟 / 灵龟",
+      "keywords": [
+        "龟",
+        "神龟",
+        "乌龟",
+        "长寿",
+        "turtle"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 80,
+      "card_id": "moon_jar",
+      "meaning": "健康长寿、基业长青与永续富贵安康之吉兆",
+      "advice": "汲取千年灵龟的智慧！眼光放长远，不为眼前的急躁所动！"
+    },
+    {
+      "id": "rooster",
+      "label": "雄鸡 / 金鸡",
+      "keywords": [
+        "鸡",
+        "雄鸡",
+        "公鸡",
+        "金鸡",
+        "报晓",
+        "rooster"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 31,
+      "card_id": "rooster",
+      "meaning": "雄鸡报晓、驱散阴霾、金榜题名与事业新曙光",
+      "advice": "黎明已至，旭日东升！振作精神把握迎面而来的大好机会！"
+    },
+    {
+      "id": "butterfly",
+      "label": "彩蝶 / 蜜蜂",
+      "keywords": [
+        "蝴蝶",
+        "蜜蜂",
+        "彩蝶",
+        "花丛",
+        "butterfly"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 44,
+      "card_id": "flower_fairy",
+      "meaning": "桃花运盛开、甜蜜成果、艺术魅力与人缘大旺",
+      "advice": "伴随花香翩翩起舞！散发你的独特魅力，好运自会追随！"
+    },
+    {
+      "id": "bug",
+      "label": "昆虫 / 蚂蚁 / 蜘蛛",
+      "keywords": [
+        "虫",
+        "昆虫",
+        "蚂蚁",
+        "蜘蛛",
+        "小虫",
+        "bug"
+      ],
+      "fortune": "normal",
+      "lucky_number": 16,
+      "card_id": "wooden_comb",
+      "meaning": "清理微小烦扰、如蚂蚁般勤劳积累的启示",
+      "advice": "拂去琐碎的顾虑！先从打扫整理身边的环境做起吧！"
+    },
+    {
+      "id": "mouse",
+      "label": "灵鼠 / 松鼠",
+      "keywords": [
+        "鼠",
+        "老鼠",
+        "松鼠",
+        "仓鼠",
+        "mouse"
+      ],
+      "fortune": "normal",
+      "lucky_number": 1,
+      "card_id": "rat",
+      "meaning": "敏锐捕捉缝隙商机、精明积蓄与意外获知内幕",
+      "advice": "他人忽视的角落藏着机会！睁大眼睛细心观察周围吧！"
+    },
+    {
+      "id": "lion",
+      "label": "雄狮",
+      "keywords": [
+        "狮子",
+        "雄狮",
+        "万兽之王",
+        "狮王",
+        "lion"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "mountain_spirit",
+      "meaning": "统领大局的领导力、稳固的权威与强大后盾相助",
+      "advice": "像万兽之王一样号令全场！今天你就是绝对的核心主角！"
+    },
+    {
+      "id": "monkey",
+      "label": "灵猴",
+      "keywords": [
+        "猴",
+        "猴子",
+        "灵猴",
+        "灵巧",
+        "monkey"
+      ],
+      "fortune": "normal",
+      "lucky_number": 51,
+      "card_id": "monkey",
+      "meaning": "以机智幽默化解难题，但需谨防过于自负而失足",
+      "advice": "施展机巧才干的同时，务必留心脚下每一步！"
+    },
+    {
+      "id": "deer",
+      "label": "仙鹿 / 梅花鹿",
+      "keywords": [
+        "鹿",
+        "梅花鹿",
+        "仙鹿",
+        "祥瑞",
+        "deer"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 75,
+      "card_id": "cloud_hermit",
+      "meaning": "高尚品格获得认可、得遇贵人厚爱与祥和福气",
+      "advice": "清雅纯正之气围绕！保持温和微笑，福泽自然常伴！"
+    },
+    {
+      "id": "bear",
+      "label": "巨熊",
+      "keywords": [
+        "熊",
+        "大熊",
+        "黑熊",
+        "力量",
+        "bear"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 82,
+      "card_id": "mountain_spirit",
+      "meaning": "得大人物庇护、喜得贵子胎梦与巨额财富沉淀",
+      "advice": "沉稳厚重的毅力将大放异彩！持之以恒定见成效！"
+    },
+    {
+      "id": "toad",
+      "label": "金蟾 / 蟾蜍",
+      "keywords": [
+        "蟾蜍",
+        "金蟾",
+        "青蛙",
+        "聚财",
+        "toad"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 93,
+      "card_id": "silk_pouch",
+      "meaning": "金蟾招财、意外之财进门与家族兴旺昌盛之兆",
+      "advice": "财源滚滚进门来！与家人共享这份喜悦和福气吧！"
+    },
+    {
+      "id": "teeth",
+      "label": "掉牙之梦",
+      "keywords": [
+        "牙齿",
+        "掉牙",
+        "拔牙",
+        "牙疼",
+        "teeth"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "wooden_comb",
+      "meaning": "多问候家人与亲朋好友的安康，化解暂时焦虑",
+      "advice": "小妖会用木棒打碎一切厄运！今天给家人打个问候电话吧！"
+    },
+    {
+      "id": "poo",
+      "label": "脚踩/沾染粪便",
+      "keywords": [
+        "大便",
+        "粪便",
+        "踩屎",
+        "牛粪",
+        "黄金万两",
+        "poo"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "silk_pouch",
+      "meaning": "黄金万两沾身、财运滔天挡不住的超级大吉兆",
+      "advice": "大财运找上门来了！今天果断启动之前犹豫的计划吧！"
+    },
+    {
+      "id": "blood",
+      "label": "流血 / 见鲜血",
+      "keywords": [
+        "血",
+        "流血",
+        "鲜血",
+        "见血",
+        "blood"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "生机爆发、财源滚滚破局而出、厄运化为大吉之兆",
+      "advice": "见红发财、生机盎然！积压已久的难题今天将彻底迎刃而解！"
+    },
+    {
+      "id": "urine",
+      "label": "畅快小便 / 撒尿",
+      "keywords": [
+        "小便",
+        "撒尿",
+        "解手",
+        "尿尿",
+        "pee"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 55,
+      "card_id": "water_sprite",
+      "meaning": "夙愿达成、积压烦恼彻底排出、神清气爽大快人心",
+      "advice": "心中豁然开朗！今天彻底斩断所有拖泥带水的烦心事吧！"
+    },
+    {
+      "id": "hair_cut",
+      "label": "剪发 / 理发修整",
+      "keywords": [
+        "头发",
+        "剪发",
+        "理发",
+        "理发店",
+        "发型",
+        "hair"
+      ],
+      "fortune": "normal",
+      "lucky_number": 28,
+      "card_id": "wooden_comb",
+      "meaning": "崭新决心、告别陈旧人际关系与个人形象焕然一新",
+      "advice": "像梳理头发一样整理生活！新的人脉和机遇即将到来！"
+    },
+    {
+      "id": "tears",
+      "label": "放声大哭 / 泪如雨下",
+      "keywords": [
+        "哭",
+        "眼泪",
+        "放声大哭",
+        "痛哭",
+        "流泪",
+        "tears"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 90,
+      "card_id": "water_sprite",
+      "meaning": "心中郁结彻底化解、苦尽甘来、名扬四海的大喜事",
+      "advice": "泪水洗净铅华！前方正有让人热泪盈眶的莫大喜悦等待着你！"
+    },
+    {
+      "id": "injury",
+      "label": "手脚受伤 / 磕碰",
+      "keywords": [
+        "受伤",
+        "伤口",
+        "手伤",
+        "脚伤",
+        "骨折",
+        "injury"
+      ],
+      "fortune": "normal",
+      "lucky_number": 34,
+      "card_id": "brass_bell",
+      "meaning": "提醒放缓当前工作节奏、仔细核对合同条款",
+      "advice": "摸着石头过河！今天切忌急于求成，多检查细节最为稳妥！"
+    },
+    {
+      "id": "bath",
+      "label": "沐浴 / 洗澡",
+      "keywords": [
+        "洗澡",
+        "沐浴",
+        "冲凉",
+        "温泉",
+        "洗浴",
+        "bath"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "lotus_lamp",
+      "meaning": "误会冰释、身心康复、洗净前尘重获崭新活力",
+      "advice": "洗净陈旧尘埃！以轻盈清爽的身心重新踏上征途吧！"
+    },
+    {
+      "id": "surgery",
+      "label": "接受手术 / 治疗",
+      "keywords": [
+        "手术",
+        "医院",
+        "治疗",
+        "医生",
+        "手术室",
+        "surgery"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "folding_fan",
+      "meaning": "根本性革新、组织结构优化与脱胎换骨的重大突破",
+      "advice": "刮骨疗毒方能重获新生！以果断的决心重整旗鼓吧！"
+    },
+    {
+      "id": "pregnancy",
+      "label": "怀孕 / 怀胎",
+      "keywords": [
+        "怀孕",
+        "受孕",
+        "孕妇",
+        "新生命",
+        "pregnancy"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "moon_jar",
+      "meaning": "孕育重大新项目、巨大潜能爆发与创造性丰硕成果",
+      "advice": "你孕育着无限可能的种子！悉心呵护，必将结出丰硕果实！"
+    },
+    {
+      "id": "twins",
+      "label": "喜生双胞胎",
+      "keywords": [
+        "双胞胎",
+        "龙凤胎",
+        "双喜临门",
+        "双生子",
+        "twins"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 22,
+      "card_id": "silk_pouch",
+      "meaning": "双喜临门！一举两得、一份耕耘收获双倍丰厚回报",
+      "advice": "双倍福气降临！今天完全有一箭双雕、两全其美的好运！"
+    },
+    {
+      "id": "growing_tall",
+      "label": "身材长高 / 拔节生长",
+      "keywords": [
+        "长高",
+        "身体长高",
+        "拔高",
+        "成长",
+        "growing tall"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "cloud_hermit",
+      "meaning": "地位晋升、眼界格局大开、荣登更高阶层与要职",
+      "advice": "站在更高处俯瞰全局！你的格局与气度正在飞速提升！"
+    },
+    {
+      "id": "face_change",
+      "label": "容光焕发 / 变俊美",
+      "keywords": [
+        "变美",
+        "变帅",
+        "容光焕发",
+        "美貌",
+        "面容",
+        "beauty"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "jade_ring",
+      "meaning": "人气爆棚、受众人赞赏瞩目、个人魅力与社会声望攀升",
+      "advice": "容颜熠熠生辉！今天在任何场合都要自信展现非凡魅力！"
+    },
+    {
+      "id": "naked",
+      "label": "衣不蔽体 / 赤身裸体",
+      "keywords": [
+        "赤身",
+        "裸体",
+        "脱衣",
+        "光着身子",
+        "naked"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "folding_fan",
+      "meaning": "担心隐秘曝光，亦或坦诚相待、卸下所有伪装的转折点",
+      "advice": "无所隐瞒时最坦荡！真诚与坦率是你今天最强大的通行证！"
+    },
+    {
+      "id": "sweating",
+      "label": "大汗淋漓 / 出冷汗",
+      "keywords": [
+        "出汗",
+        "冷汗",
+        "大汗",
+        "流汗",
+        "疲惫",
+        "sweat"
+      ],
+      "fortune": "normal",
+      "lucky_number": 60,
+      "card_id": "tea_bowl",
+      "meaning": "精力消耗过度的预警信号，需要及时休整与补充元气",
+      "advice": "身体在呼唤休息！今天泡一杯温热的好茶，好好放松一下吧！"
+    },
+    {
+      "id": "water",
+      "label": "清澈泉水",
+      "keywords": [
+        "水",
+        "清水",
+        "泉水",
+        "清溪",
+        "溪流",
+        "water"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "water_sprite",
+      "meaning": "心灵净化、心旷神怡、万事顺遂流畅开展之吉兆",
+      "advice": "清冽泉水涤荡心灵！先清空杂念再出发，大事自会迎刃而解！"
+    },
+    {
+      "id": "fire",
+      "label": "熊熊烈火 / 火灾",
+      "keywords": [
+        "火",
+        "大火",
+        "火焰",
+        "烈火",
+        "红火",
+        "fire"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "dokkaebi_fire",
+      "meaning": "势不可挡的蓬勃气势、事业兴旺红火与名声大振之兆",
+      "advice": "红红火火大运至！今天就将搁置的计划彻底点燃引爆吧！"
+    },
+    {
+      "id": "star",
+      "label": "璀璨繁星 / 流星",
+      "keywords": [
+        "星",
+        "繁星",
+        "流星",
+        "银河",
+        "星光",
+        "star"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "star_weaver",
+      "meaning": "灵感迸发、作品大受欢迎、万众瞩目的大吉星兆",
+      "advice": "如繁星般璀璨的灵感正不断涌现！随时随地做好记录吧！"
+    },
+    {
+      "id": "sun",
+      "label": "旭日东升 / 艳阳",
+      "keywords": [
+        "太阳",
+        "日出",
+        "朝阳",
+        "阳光",
+        "艳阳",
+        "sun"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "sun_messenger",
+      "meaning": "如日中天、名扬四海、前程似锦的至尊大吉之象",
+      "advice": "灿烂红日照耀四方！挺起胸膛，展现你王者般的风采吧！"
+    },
+    {
+      "id": "moon",
+      "label": "朗朗明月 / 皎洁月光",
+      "keywords": [
+        "月亮",
+        "满月",
+        "月光",
+        "新月",
+        "圆月",
+        "moon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "moon_rabbit",
+      "meaning": "阖家幸福美满、丰硕收获、心灵安宁祥和之吉兆",
+      "advice": "月华如水赋予宁静智慧！今晚与挚爱的人促膝长谈吧！"
+    },
+    {
+      "id": "mountain",
+      "label": "巍峨高山 / 登顶",
+      "keywords": [
+        "山",
+        "高山",
+        "登山",
+        "山顶",
+        "顶峰",
+        "mountain"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "雄心壮志得偿所愿、克服重重艰难登临人生巅峰",
+      "advice": "登顶方能一览众山小！莫在半山腰停步，一鼓作气登上顶峰吧！"
+    },
+    {
+      "id": "sea",
+      "label": "浩瀚大海 / 浪潮",
+      "keywords": [
+        "海",
+        "大海",
+        "海洋",
+        "波浪",
+        "大浪",
+        "sea",
+        "ocean"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "water_sprite",
+      "meaning": "迈向国际大舞台、宏大格局与浩瀚壮阔的商业成功",
+      "advice": "扬帆起航驶向大洋！格局打开，切莫为眼前鸡毛蒜皮所困！"
+    },
+    {
+      "id": "river",
+      "label": "滔滔江河 / 宁静湖泊",
+      "keywords": [
+        "江",
+        "河",
+        "大河",
+        "湖泊",
+        "江水",
+        "river"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 26,
+      "card_id": "tea_bowl",
+      "meaning": "资金顺畅周转、高明谈判化解矛盾、源远流长",
+      "advice": "如江河奔流顺畅无阻！以柔克刚，灵活协调各方意见吧！"
+    },
+    {
+      "id": "muddy_water",
+      "label": "浑水 / 泥水浊浪",
+      "keywords": [
+        "泥水",
+        "浑水",
+        "浊水",
+        "烂泥",
+        "污泥",
+        "muddy water"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 42,
+      "card_id": "wooden_comb",
+      "meaning": "谨防判断力受蒙蔽、警惕模糊不清的合作或诱惑圈套",
+      "advice": "静待泥沙沉淀水自清！今天暂缓签署重大合约与重要决断！"
+    },
+    {
+      "id": "heavy_rain",
+      "label": "甘霖 / 暴雨倾盆",
+      "keywords": [
+        "雨",
+        "大雨",
+        "暴雨",
+        "甘霖",
+        "骤雨",
+        "rain"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "water_sprite",
+      "meaning": "如降甘霖化解干渴难题，或短暂的情绪阵雨即将放晴",
+      "advice": "阵雨转瞬即逝！准备好雨伞，从容淡定应对即可！"
+    },
+    {
+      "id": "snow",
+      "label": "瑞雪纷飞 / 银装素裹",
+      "keywords": [
+        "雪",
+        "大雪",
+        "白雪",
+        "瑞雪",
+        "积雪",
+        "snow"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 72,
+      "card_id": "moon_jar",
+      "meaning": "瑞雪兆丰年、荡涤过往瑕疵、重获纯净与祥和祝福",
+      "advice": "如新雪般展开纯白篇章！敞开心扉，书写全新的精彩吧！"
+    },
+    {
+      "id": "lightning",
+      "label": "惊雷闪电 / 霹雳",
+      "keywords": [
+        "雷",
+        "闪电",
+        "惊雷",
+        "霹雳",
+        "雷鸣",
+        "lightning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 97,
+      "card_id": "dokkaebi_club",
+      "meaning": "电光石火般的顿悟、一鸣惊人震撼业界的突飞猛进",
+      "advice": "灵光一闪胜过千思万虑！立刻把脑海中的绝妙构想写下来！"
+    },
+    {
+      "id": "rainbow",
+      "label": "七彩彩虹 / 双彩虹",
+      "keywords": [
+        "彩虹",
+        "双彩虹",
+        "七彩",
+        "虹桥",
+        "rainbow"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "lotus_lamp",
+      "meaning": "风雨过后的灿烂辉煌、梦寐以求的愿望戏剧性达成",
+      "advice": "风雨散尽彩虹高挂！是时候举杯庆祝属于你的荣耀时刻了！"
+    },
+    {
+      "id": "earthquake",
+      "label": "地震 / 地陷地裂",
+      "keywords": [
+        "地震",
+        "地裂",
+        "地陷",
+        "摇晃",
+        "震动",
+        "earthquake"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "folding_fan",
+      "meaning": "生活根基面临重大变动、务必筑牢安全底线、守住资产",
+      "advice": "动荡之时更需站稳脚跟！今天切忌盲目投机，保本为上！"
+    },
+    {
+      "id": "money",
+      "label": "捡到钱 / 拾获钞票",
+      "keywords": [
+        "钱",
+        "钞票",
+        "捡钱",
+        "硬币",
+        "发财",
+        "money"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "财运亨通、物质奖励丰厚、带来实质性丰沛收益",
+      "advice": "正财偏财滚滚来！今天合理理财，检查一下你的积蓄吧！"
+    },
+    {
+      "id": "losing_money",
+      "label": "丢失钱财 / 遗失钱包",
+      "keywords": [
+        "丢钱",
+        "丢钱包",
+        "失窃",
+        "破财",
+        "漏财",
+        "lost money"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "brass_bell",
+      "meaning": "提醒控制开支、谨防不必要的挥霍与资金漏洞",
+      "advice": "堵住漏财的窟窿！仔细核对账单，取消不必要的订阅吧！"
+    },
+    {
+      "id": "jewel",
+      "label": "获得珠宝 / 金银财宝",
+      "keywords": [
+        "珠宝",
+        "钻石",
+        "金条",
+        "财宝",
+        "珍宝",
+        "jewel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "jade_ring",
+      "meaning": "尊贵地位加身、最高价值获得公认、荣耀至极",
+      "advice": "你如绝世美玉般璀璨！永远不要低估自身的非凡价值！"
+    },
+    {
+      "id": "wallet",
+      "label": "换新钱包 / 获赠钱夹",
+      "keywords": [
+        "钱包",
+        "新钱包",
+        "皮夹",
+        "收礼",
+        "钱包礼物",
+        "wallet"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 36,
+      "card_id": "silk_pouch",
+      "meaning": "开辟全新收入渠道、财务管理能力大幅跃升",
+      "advice": "新器皿容纳新福气！今天好好规划新的账户和投资方向吧！"
+    },
+    {
+      "id": "lottery",
+      "label": "中大奖 / 存款暴涨",
+      "keywords": [
+        "彩票",
+        "中奖",
+        "大奖",
+        "头奖",
+        "暴富",
+        "lottery"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "silk_pouch",
+      "meaning": "人生重大转折点、天降横财、巨额回报或奖金进账",
+      "advice": "幸运之神正在向你微笑！今天带着满满的自信去迎接挑战吧！"
+    },
+    {
+      "id": "new_clothes",
+      "label": "身穿新衣 / 换新装",
+      "keywords": [
+        "新衣服",
+        "新装",
+        "换衣",
+        "礼服",
+        "西装",
+        "clothes"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 15,
+      "card_id": "lotus_lamp",
+      "meaning": "荣获崭新职位、人际关系极大改善、身份地位升华",
+      "advice": "人靠衣装马靠鞍！以优雅自信的仪态迎接所有人吧！"
+    },
+    {
+      "id": "lost_shoes",
+      "label": "丢失鞋履 / 赤脚走路",
+      "keywords": [
+        "丢鞋",
+        "光脚",
+        "赤脚",
+        "遗失鞋子",
+        "鞋子",
+        "shoes"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "与倚重之人或职场产生摩擦、需培养独立自主能力",
+      "advice": "莫要过度依赖他人，用双脚站稳！相信自己的能力走出新路！"
+    },
+    {
+      "id": "new_shoes",
+      "label": "穿上新鞋 / 获赠新鞋",
+      "keywords": [
+        "新鞋",
+        "买鞋",
+        "穿新鞋",
+        "球鞋",
+        "皮鞋",
+        "new shoes"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "folding_fan",
+      "meaning": "崭新征程启航、强力合伙人现身、前路一帆风顺",
+      "advice": "穿上新鞋大步流星！前方的道路一片坦途，勇敢出发吧！"
+    },
+    {
+      "id": "ring",
+      "label": "佩戴戒指 / 项链",
+      "keywords": [
+        "戒指",
+        "项链",
+        "金戒指",
+        "婚戒",
+        "首饰",
+        "ring"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "jade_ring",
+      "meaning": "誓约永结、喜结良缘、建立牢不可破的深厚信任",
+      "advice": "信诺的信物已在手中！悉心珍惜生命中每一个重要缘分！"
+    },
+    {
+      "id": "bag",
+      "label": "打包行囊 / 整理皮包",
+      "keywords": [
+        "包",
+        "行囊",
+        "行李箱",
+        "背包",
+        "打包",
+        "bag"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 30,
+      "card_id": "silk_pouch",
+      "meaning": "受命担任新要职、准备远行拓展、收获满满硕果",
+      "advice": "机会永远留给有准备的人！将必要的知识和技能装满行囊吧！"
+    },
+    {
+      "id": "key",
+      "label": "钥匙开锁 / 打开大门",
+      "keywords": [
+        "钥匙",
+        "开锁",
+        "大门",
+        "开门",
+        "解决办法",
+        "key"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "brass_bell",
+      "meaning": "觅得解题金钥匙、突破重重封锁关卡、掌握绝对主导权",
+      "advice": "万能钥匙已握在你手中！毫不犹豫地推开那扇紧闭的大门吧！"
+    },
+    {
+      "id": "clock",
+      "label": "钟表 / 查看准确时间",
+      "keywords": [
+        "钟表",
+        "手表",
+        "时间",
+        "时机",
+        "秒表",
+        "clock"
+      ],
+      "fortune": "normal",
+      "lucky_number": 12,
+      "card_id": "inkstone",
+      "meaning": "黄金时机已至、精密制定时间表、把握决胜关键节点",
+      "advice": "万事俱备只欠东风！分秒必争，在最精准的时刻果断出击！"
+    },
+    {
+      "id": "knife",
+      "label": "持刀 / 剪刀剪断之梦",
+      "keywords": [
+        "刀",
+        "剪刀",
+        "利刃",
+        "斩断",
+        "宝刀",
+        "knife"
+      ],
+      "fortune": "normal",
+      "lucky_number": 47,
+      "card_id": "dokkaebi_club",
+      "meaning": "当机立断斩断乱麻、快刀斩乱麻清理纠缠人际关系",
+      "advice": "快刀斩乱麻！该断则断，清清爽爽才能迎来大好运势！"
+    },
+    {
+      "id": "mirror",
+      "label": "明镜高悬 / 照镜子",
+      "keywords": [
+        "镜子",
+        "照镜子",
+        "明镜",
+        "倒影",
+        "反思",
+        "mirror"
+      ],
+      "fortune": "normal",
+      "lucky_number": 18,
+      "card_id": "inkstone",
+      "meaning": "抚心自省、直面事实真相、对真我产生深刻觉察",
+      "advice": "答案就在明镜中！莫要怨天尤人，静下心来看看自己的内心吧！"
+    },
+    {
+      "id": "gift",
+      "label": "收到意外礼物 / 惊喜",
+      "keywords": [
+        "礼物",
+        "收礼",
+        "赠品",
+        "惊喜",
+        "礼盒",
+        "gift"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 70,
+      "card_id": "silk_pouch",
+      "meaning": "贵人倾力相助、浪漫表白或意外丰厚奖赏降临",
+      "advice": "率先表达由衷的感恩！分享福气会让你的财富成倍倍增！"
+    },
+    {
+      "id": "ancestor",
+      "label": "已故先祖 / 父母托梦",
+      "keywords": [
+        "祖先",
+        "先祖",
+        "父母",
+        "托梦",
+        "爷爷",
+        "奶奶",
+        "ancestor"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "mountain_spirit",
+      "meaning": "祖先庇佑与精神指引、化险为夷、迎来改写一生的重大转机",
+      "advice": "列祖列宗为你开辟通途！怀着敬畏之心做出最端正的决断吧！"
+    },
+    {
+      "id": "mountain_god",
+      "label": "山神仙翁 / 白发长者",
+      "keywords": [
+        "山神",
+        "仙人",
+        "长者",
+        "仙翁",
+        "老者",
+        "mountain god"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "得获至高智慧启迪、指点迷津、获得化解死局的妙计",
+      "advice": "得道高人的指引！虚心向经验丰富的前辈和专家请教吧！"
+    },
+    {
+      "id": "dokkaebi",
+      "label": "遇见小妖 / 守护精灵",
+      "keywords": [
+        "小妖",
+        "守护精灵",
+        "精灵",
+        "福鬼",
+        "法宝",
+        "dokkaebi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "创想魔法启动、得神灵护佑、财宝福泽顷刻幻化成真",
+      "advice": "我亲自来为你护航啦！木棒一挥万事顺意，开心大笑迎接好运吧！"
+    },
+    {
+      "id": "ghost",
+      "label": "撞见鬼怪 / 恶灵",
+      "keywords": [
+        "鬼",
+        "幽灵",
+        "恶灵",
+        "鬼魂",
+        "怪物",
+        "ghost"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "brass_bell",
+      "meaning": "内心焦虑与外界压力的投射、需尽快调整心态重归平静",
+      "advice": "幻象本无实体！小妖一棒子将邪气打飞，昂起头不必害怕！"
+    },
+    {
+      "id": "saint",
+      "label": "参拜佛陀 / 圣人 / 神明",
+      "keywords": [
+        "佛祖",
+        "菩萨",
+        "神明",
+        "圣人",
+        "耶稣",
+        "saint"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "lotus_lamp",
+      "meaning": "佛光普照、大慈大悲化解一切苦难、功德无量福泽深厚",
+      "advice": "圣洁光芒护佑加持！今天行一件小善，必获万倍福报福泽！"
+    },
+    {
+      "id": "angel",
+      "label": "天女下凡 / 天使临门",
+      "keywords": [
+        "天使",
+        "仙女",
+        "天女",
+        "羽翼",
+        "精灵",
+        "angel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "flower_fairy",
+      "meaning": "纯洁真爱、天作之合结良缘、艺术灵感达到巅峰",
+      "advice": "心灵如晴空般明净！以最纯粹真挚的心去表达你的爱吧！"
+    },
+    {
+      "id": "ritual",
+      "label": "祭祖祈福 / 虔诚祈祷",
+      "keywords": [
+        "祭祀",
+        "祈祷",
+        "礼拜",
+        "拜佛",
+        "祈福",
+        "prayer"
+      ],
+      "fortune": "normal",
+      "lucky_number": 50,
+      "card_id": "wooden_fish",
+      "meaning": "诚心上达天听、洗涤心灵、以虔诚心态化解困境",
+      "advice": "念念不忘必有回响！收摄心神，静心从容开启美好的一天！"
+    },
+    {
+      "id": "talisman",
+      "label": "手绘灵符 / 佩戴护身符",
+      "keywords": [
+        "护身符",
+        "灵符",
+        "开光",
+        "避邪",
+        "符咒",
+        "talisman"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "inkstone",
+      "meaning": "结下坚不可摧的护身法界、挡去一切霉运晦气",
+      "advice": "金光护体百邪不侵！没有任何负面能量可以阻挡你的脚步！"
+    },
+    {
+      "id": "coffin",
+      "label": "见棺发财 / 棺木入殓",
+      "keywords": [
+        "棺材",
+        "见棺发财",
+        "棺木",
+        "入殓",
+        "尸体",
+        "coffin"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "见棺发财、脱胎换骨浴火重生、继承丰厚遗产大富大贵",
+      "advice": "升官发财大吉兆！斩断旧我，一场惊天动地的人生大逆转正要开启！"
+    },
+    {
+      "id": "reaper",
+      "label": "直面黑白无常 / 冥使",
+      "keywords": [
+        "无常",
+        "黑白无常",
+        "冥使",
+        "死神",
+        "命运转折",
+        "reaper"
+      ],
+      "fortune": "normal",
+      "lucky_number": 13,
+      "card_id": "shadow_walker",
+      "meaning": "人生重大抉择关头、督促体检养生、彻底戒除不良恶习",
+      "advice": "警醒珍惜韶华光阴！今天下定决心戒除一个顽固的坏习惯吧！"
+    },
+    {
+      "id": "flying",
+      "label": "翱翔蓝天 / 自由飞翔",
+      "keywords": [
+        "飞翔",
+        "飞天",
+        "凌空",
+        "翱翔",
+        "升空",
+        "flying"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "wind_child",
+      "meaning": "打破束缚展翅高飞、迈向自由与宏伟成就的上升气运",
+      "advice": "飞得越高眼界越阔！今天放开手脚绘制最宏大的蓝图吧！"
+    },
+    {
+      "id": "falling",
+      "label": "从悬崖/高空坠落",
+      "keywords": [
+        "坠落",
+        "跌落",
+        "掉下",
+        "悬崖",
+        "滑倒",
+        "falling"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "brass_bell",
+      "meaning": "对失控或地位滑落的内心担忧、督促夯实基本盘",
+      "advice": "下坠时莫闭眼！找准落脚的支点，立刻就能触底绝地反弹！"
+    },
+    {
+      "id": "chased",
+      "label": "被野兽/恶徒追赶逃命",
+      "keywords": [
+        "被追",
+        "逃跑",
+        "追赶",
+        "逃命",
+        "追逐",
+        "chased"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "shadow_walker",
+      "meaning": "截止期限与外界压力倍增、无需逃避应直面问题",
+      "advice": "越逃跑阴影越庞大！止住脚步转过身来，勇敢与困境正面对决！"
+    },
+    {
+      "id": "dreaming",
+      "label": "梦中做梦 / 清醒梦",
+      "keywords": [
+        "梦中梦",
+        "清醒梦",
+        "多重梦境",
+        "幻境",
+        "dream in dream"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "dream_eater",
+      "meaning": "对现实与理想的深度省思、探索潜意识深处",
+      "advice": "莫要困在思维的迷宫中！今天走出门去，在微风中轻快散步吧！"
+    },
+    {
+      "id": "cleaning",
+      "label": "打扫房间 / 整理大扫除",
+      "keywords": [
+        "打扫",
+        "大扫除",
+        "收拾",
+        "整理",
+        "保洁",
+        "cleaning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "wooden_comb",
+      "meaning": "扫除陈年烦忧、开门迎贵客、开启崭新清爽好运势",
+      "advice": "福气最爱干净通透的居所！今天先把自己的办公桌彻底擦干净吧！"
+    },
+    {
+      "id": "wedding",
+      "label": "参加/举行盛大婚礼",
+      "keywords": [
+        "婚礼",
+        "结婚",
+        "新娘",
+        "新郎",
+        "喜事",
+        "结亲",
+        "wedding"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "jade_ring",
+      "meaning": "达成重要战略合作、与强力盟友携手开启新宏图",
+      "advice": "携手同心其利断金！今天严格遵守对合作伙伴的每一项承诺！"
+    },
+    {
+      "id": "funeral",
+      "label": "参加葬礼 / 送葬出殡",
+      "keywords": [
+        "葬礼",
+        "出殡",
+        "丧事",
+        "悼念",
+        "送葬",
+        "funeral"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "过往所有磨难彻底终结、绝地反击、迎来惊天横财大运",
+      "advice": "旧的痛苦已然归零！准备好迎接全新的大喜事，尽情庆祝吧！"
+    },
+    {
+      "id": "exam_pass",
+      "label": "金榜题名 / 考试高中",
+      "keywords": [
+        "考试通过",
+        "金榜题名",
+        "中举",
+        "录取",
+        "考中",
+        "exam pass"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 100,
+      "card_id": "rooster",
+      "meaning": "十年寒窗苦读终获回报、荣获权威认证与万众欢呼",
+      "advice": "流淌的每一滴汗水都化作了金灿灿的果实！好好嘉奖犒劳自己吧！"
+    },
+    {
+      "id": "exam_fail",
+      "label": "考试失利 / 考场迟到",
+      "keywords": [
+        "考砸",
+        "落榜",
+        "考试迟到",
+        "没考好",
+        "复习",
+        "exam fail"
+      ],
+      "fortune": "normal",
+      "lucky_number": 31,
+      "card_id": "inkstone",
+      "meaning": "谨防过于追求完美导致的焦虑、实战前放松并复习要点",
+      "advice": "这就像打了一剂预防针！放下紧绷的神经，从容再检查一遍吧！"
+    },
+    {
+      "id": "fight",
+      "label": "激烈争斗 / 挥拳肉搏",
+      "keywords": [
+        "打架",
+        "争斗",
+        "搏斗",
+        "决斗",
+        "打人",
+        "fight"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "dokkaebi_club",
+      "meaning": "正面迎击彻底化解冲突、力克对手取得决定性全胜",
+      "advice": "勇者相逢勇者胜！挺起腰杆，有理有据展现你无可辩驳的气势！"
+    },
+    {
+      "id": "murder",
+      "label": "制敌除恶 / 斩杀对手",
+      "keywords": [
+        "杀敌",
+        "制胜",
+        "除恶",
+        "制服",
+        "铲除障碍",
+        "murder"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dokkaebi_club",
+      "meaning": "彻底铲除长期绊脚石、夙愿彻底达成、大获全胜",
+      "advice": "所有阻碍已被彻底粉碎！前路毫无阻挡，放手去大干一场吧！"
+    },
+    {
+      "id": "thief",
+      "label": "盗贼入室 / 强盗闯入",
+      "keywords": [
+        "小偷",
+        "强盗",
+        "盗贼",
+        "入侵",
+        "偷窃",
+        "thief"
+      ],
+      "fortune": "normal",
+      "lucky_number": 38,
+      "card_id": "brass_bell",
+      "meaning": "提醒加强安全防护、保护核心创意与知识产权机密",
+      "advice": "守护好自己的核心机密！今天及时更换密码，做好安全检查！"
+    },
+    {
+      "id": "police",
+      "label": "警察登门 / 接受盘问",
+      "keywords": [
+        "警察",
+        "公安",
+        "盘查",
+        "录口供",
+        "派出所",
+        "police"
+      ],
+      "fortune": "normal",
+      "lucky_number": 11,
+      "card_id": "inkstone",
+      "meaning": "遵规守矩、核查账目与合同文本、确保法务合规万无一失",
+      "advice": "按章办事自当坦荡荡！把所有手续和文档规范整理周全！"
+    },
+    {
+      "id": "lost_way",
+      "label": "迷失方向 / 徘徊彷徨",
+      "keywords": [
+        "迷路",
+        "迷失",
+        "走失",
+        "分岔路",
+        "彷徨",
+        "lost way"
+      ],
+      "fortune": "normal",
+      "lucky_number": 44,
+      "card_id": "brass_bell",
+      "meaning": "重新校准人生目标的信号、暂停脚步核准心中的罗盘",
+      "advice": "迷茫时停下就是最快的捷径！回归初心，重新审视你的终极目标吧！"
+    },
+    {
+      "id": "moving_house",
+      "label": "乔迁新居 / 盖起大厦",
+      "keywords": [
+        "搬家",
+        "乔迁",
+        "新房",
+        "盖房",
+        "建房",
+        "moving house"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 65,
+      "card_id": "folding_fan",
+      "meaning": "生活与事业环境巨变升级、开疆拓土建立大运根据地",
+      "advice": "新居纳祥千祥云集！在全新的环境中大展拳脚开创新篇章吧！"
+    },
+    {
+      "id": "eating",
+      "label": "大快朵颐 / 享用珍馐盛宴",
+      "keywords": [
+        "吃饭",
+        "美食",
+        "盛宴",
+        "聚餐",
+        "佳肴",
+        "eating"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "tea_bowl",
+      "meaning": "物质生活丰沛满足、宾主尽欢、充满温馨与欢聚乐事",
+      "advice": "为身心充满丰沛营养！今天与好友共进美餐分享喜悦吧！"
+    },
+    {
+      "id": "flower",
+      "label": "百花齐放 / 繁花似锦",
+      "keywords": [
+        "花",
+        "花海",
+        "开花",
+        "花束",
+        "鲜花",
+        "flower"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "flower_fairy",
+      "meaning": "声名鹊起芳名远扬、爱情开花结果、艺术硕果累累",
+      "advice": "繁花盛开香气四溢！向世界从容展现你最绚丽的成果吧！"
+    },
+    {
+      "id": "rice_cake",
+      "label": "热腾腾的年糕 / 喷香米饭",
+      "keywords": [
+        "年糕",
+        "米饭",
+        "白米饭",
+        "饭食",
+        "丰盛",
+        "rice cake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "silk_pouch",
+      "meaning": "年年高升、家庭丰足和美、福禄寿全万事大吉",
+      "advice": "年年高升福运临门！吃得饱饱，元气满满迎接全新挑战吧！"
+    },
+    {
+      "id": "fruit",
+      "label": "硕果累累 / 鲜美桃李苹果",
+      "keywords": [
+        "水果",
+        "苹果",
+        "桃子",
+        "仙桃",
+        "硕果",
+        "fruit"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 76,
+      "card_id": "lotus_lamp",
+      "meaning": "喜得贵子胎梦、甜蜜爱情结晶、丰厚收成与延年益寿",
+      "advice": "硕果成熟正是收获时节！理直气壮去收获属于你的丰硕回报吧！"
+    },
+    {
+      "id": "big_tree",
+      "label": "参天大树 / 郁郁葱葱森林",
+      "keywords": [
+        "大树",
+        "古树",
+        "森林",
+        "树林",
+        "苍松",
+        "tree"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 92,
+      "card_id": "mountain_spirit",
+      "meaning": "培养栋梁之才、家族基业长青、为众人遮风避雨的参天后盾",
+      "advice": "根深叶茂任凭风吹雨打！稳如泰山，做大家最坚实的顶梁柱！"
+    },
+    {
+      "id": "meat_dish",
+      "label": "大口吃肉 / 盛宴款待",
+      "keywords": [
+        "肉",
+        "烤肉",
+        "牛排",
+        "大鱼大肉",
+        "肉食",
+        "meat"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 64,
+      "card_id": "tea_bowl",
+      "meaning": "体力精力重返巅峰、获实力财团盛情款待与全方位鼎力支持",
+      "advice": "浑身充满澎湃力量！打起十二分精神，把积压的工作一口气拿下吧！"
+    },
+    {
+      "id": "drinking",
+      "label": "举杯畅饮 / 把酒言欢",
+      "keywords": [
+        "喝酒",
+        "饮酒",
+        "干杯",
+        "美酒",
+        "敬酒",
+        "drinking"
+      ],
+      "fortune": "normal",
+      "lucky_number": 45,
+      "card_id": "tea_bowl",
+      "meaning": "人际交往融洽热络，但需谨防酒后失言与过度放纵",
+      "advice": "举杯欢庆切莫失态！在轻松愉悦的氛围中保持得体从容吧！"
+    },
+    {
+      "id": "rotten_food",
+      "label": "变质食物 / 腐烂瓜果",
+      "keywords": [
+        "腐烂",
+        "变质",
+        "发霉",
+        "馊饭",
+        "坏果",
+        "rotten food"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 14,
+      "card_id": "brass_bell",
+      "meaning": "过期的机会陷阱、警惕盲信过时信息与陈旧思维",
+      "advice": "当断不断必受其乱！果断扔掉腐朽过期的旧事物，寻找新颖机遇！"
+    },
+    {
+      "id": "planting_seeds",
+      "label": "播种幼苗 / 破土发芽",
+      "keywords": [
+        "播种",
+        "发芽",
+        "幼苗",
+        "播撒希望",
+        "种田",
+        "planting"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 28,
+      "card_id": "cloud_pillow",
+      "meaning": "开辟未来宏伟投资、崭新希望生机勃勃破土而出",
+      "advice": "一粒微尘般的种子终成参天大树！今天养成的微小习惯将改变一生！"
+    },
+    {
+      "id": "ginseng",
+      "label": "采获千年野山参 / 灵芝",
+      "keywords": [
+        "山参",
+        "人参",
+        "灵芝",
+        "仙草",
+        "神药",
+        "ginseng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "mountain_spirit",
+      "meaning": "天赐无上仙药、福寿双全、千载难逢的旷世奇珍大运",
+      "advice": "挖到至尊宝藏啦！天赐良机千载难逢，紧紧把握绝不可错过！"
+    },
+    {
+      "id": "wind",
+      "label": "清风拂面 / 强劲飓风",
+      "keywords": [
+        "风",
+        "大风",
+        "台风",
+        "微风",
+        "阵风",
+        "wind"
+      ],
+      "fortune": "normal",
+      "lucky_number": 37,
+      "card_id": "wind_child",
+      "meaning": "变革之风吹拂、旧体制推陈出新、迎来迁徙调动良机",
+      "advice": "好风凭借力送我上青云！莫要抗拒变化，顺应大势乘风而上！"
+    },
+    {
+      "id": "door",
+      "label": "推开大门 / 踏入崭新关口",
+      "keywords": [
+        "门",
+        "大门",
+        "开门",
+        "入口",
+        "城门",
+        "door"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "dokkaebi_club",
+      "meaning": "全新机遇之门豁然洞开、迈向更加广阔辉煌的新天地",
+      "advice": "毫不犹豫跨过门槛！大门背后就是为你量身打造的璀璨舞台！"
+    },
+    {
+      "id": "missed_bus",
+      "label": "错过渡轮/公交/火车",
+      "keywords": [
+        "赶不上车",
+        "误车",
+        "错过公交",
+        "错过火车",
+        "末班车",
+        "missed bus"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "担心错失良机引发的焦虑、提示合理预留时间富余",
+      "advice": "下一趟班车正在驶来！不必焦躁，在下一站优雅等候即可！"
+    },
+    {
+      "id": "airplane",
+      "label": "搭乘飞机直上云霄",
+      "keywords": [
+        "飞机",
+        "起飞",
+        "航班",
+        "升空",
+        "登机",
+        "airplane"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "wind_child",
+      "meaning": "事业火箭般高速攀升、跨国业务拓展与超级大项目落地",
+      "advice": "引擎已经全开！系好安全带，准备迎接跨越式的高速起飞吧！"
+    },
+    {
+      "id": "car_driving",
+      "label": "驾驶豪车畅行无阻",
+      "keywords": [
+        "开车",
+        "驾驶",
+        "自驾",
+        "豪车",
+        "疾驰",
+        "driving"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "牢牢掌握人生方向盘、事业如疾驰骏马般一往无前",
+      "advice": "命运的方向盘就在你手中！踩下油门，风驰电掣奔向目标吧！"
+    },
+    {
+      "id": "car_accident",
+      "label": "车祸碰撞 / 交通事故",
+      "keywords": [
+        "车祸",
+        "撞车",
+        "追尾",
+        "交通事故",
+        "碰擦",
+        "car accident"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 32,
+      "card_id": "brass_bell",
+      "meaning": "谨防突如其来的意见激烈碰撞、以柔克刚适时退让",
+      "advice": "黄灯亮起务必减速！退一步海阔天空，让一分胜过争十分！"
+    },
+    {
+      "id": "ship",
+      "label": "搭乘巨轮乘风破浪",
+      "keywords": [
+        "大船",
+        "轮船",
+        "游轮",
+        "航海",
+        "起航",
+        "ship"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 74,
+      "card_id": "water_sprite",
+      "meaning": "大型团队扬帆起航、行稳致远的长期大航程与辉煌战果",
+      "advice": "顺风顺水正当时！与同舟共济的战友们步调一致全力前行吧！"
+    },
+    {
+      "id": "bicycle",
+      "label": "骑行自行车 / 摩托车",
+      "keywords": [
+        "自行车",
+        "单车",
+        "摩托车",
+        "骑行",
+        "踏板",
+        "bicycle"
+      ],
+      "fortune": "normal",
+      "lucky_number": 25,
+      "card_id": "wind_child",
+      "meaning": "敏捷行动力、保持动态平衡、轻快稳健地向前迈进",
+      "advice": "保持踩踏方能不倒！不偏不倚，稳稳掌控内心的平衡点！"
+    },
+    {
+      "id": "elevator",
+      "label": "电梯疾速直达顶层",
+      "keywords": [
+        "电梯",
+        "直达顶层",
+        "升降梯",
+        "升职",
+        "暴涨",
+        "elevator"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "sun_messenger",
+      "meaning": "火箭式垂直极速升迁、顷刻间荣登至高殿堂",
+      "advice": "高速直梯已载你直冲云霄！电梯门开时，以王者之姿俯瞰顶峰吧！"
+    },
+    {
+      "id": "stairs",
+      "label": "拾级而上 / 步步登高",
+      "keywords": [
+        "台阶",
+        "楼梯",
+        "登高",
+        "步步高升",
+        "爬楼梯",
+        "stairs"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 63,
+      "card_id": "mountain_spirit",
+      "meaning": "步步为营的扎实成功、凭真才实学稳健升迁大展宏图",
+      "advice": "每一个台阶都是你实力的沉淀！踩稳脚下每一步，踏实登顶！"
+    },
+    {
+      "id": "bridge",
+      "label": "跨越坚固大桥 / 过桥",
+      "keywords": [
+        "过桥",
+        "大桥",
+        "桥梁",
+        "立交桥",
+        "通途",
+        "bridge"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 46,
+      "card_id": "star_weaver",
+      "meaning": "平安过渡至崭新人生阶段、化解鸿沟架起和平桥梁",
+      "advice": "既已过河便莫再频频回顾！崭新的广阔天地已在前方展开！"
+    },
+    {
+      "id": "tunnel",
+      "label": "穿透黑暗隧道见光明",
+      "keywords": [
+        "隧道",
+        "出隧道",
+        "重见光明",
+        "黑暗尽头",
+        "破晓",
+        "tunnel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 51,
+      "card_id": "lotus_lamp",
+      "meaning": "至暗时刻彻底终结、在出口迎来无比耀眼的灿烂曙光",
+      "advice": "隧道尽头的光芒无比耀眼！苦尽甘来，属于你的幸福时代开启了！"
+    },
+    {
+      "id": "laughing",
+      "label": "开怀大笑 / 捧腹大笑",
+      "keywords": [
+        "大笑",
+        "欢笑",
+        "捧腹大笑",
+        "开怀",
+        "喜笑颜开",
+        "laughing"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "欢声笑语驱散所有阴霾、阖家欢乐普天同庆之兆",
+      "advice": "笑口常开好运自然来！今天对遇见的每一个人绽放灿烂笑容吧！"
+    },
+    {
+      "id": "sleep_paralysis",
+      "label": "遭遇鬼压床 / 身体僵硬动弹不得",
+      "keywords": [
+        "鬼压床",
+        "梦魇",
+        "动不了",
+        "僵硬",
+        "梦瘫",
+        "sleep paralysis"
+      ],
+      "fortune": "normal",
+      "lucky_number": 33,
+      "card_id": "brass_bell",
+      "meaning": "身心极度疲惫透支、急需充足深度睡眠与温热疗愈",
+      "advice": "身体在发出紧急警报！今晚早点关掉手机，好好睡个大饱觉吧！"
+    },
+    {
+      "id": "anger",
+      "label": "雷霆大怒 / 厉声斥责",
+      "keywords": [
+        "大怒",
+        "发火",
+        "怒吼",
+        "愤怒",
+        "大发雷霆",
+        "anger"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "dokkaebi_fire",
+      "meaning": "正当宣泄压抑情绪、展现领导魄力、确立威信与底线",
+      "advice": "将怒火转化为坚定的魄力！明确树立你的原则与底线吧！"
+    },
+    {
+      "id": "ecstasy",
+      "label": "无与伦比的极乐与安详",
+      "keywords": [
+        "至福",
+        "极乐",
+        "安详",
+        "狂喜",
+        "圆满",
+        "ecstasy"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "cloud_pillow",
+      "meaning": "灵魂彻底圆满丰足、人生至高大运与无上祥和福报",
+      "advice": "天地间的一切祥瑞尽归于你！敞开胸怀尽情享受这无上幸福吧！"
+    },
+    {
+      "id": "kkaebi_bat",
+      "label": "手握小妖金法棒 / 摇钱树",
+      "keywords": [
+        "金法棒",
+        "摇钱树",
+        "小妖木棒",
+        "变金子",
+        "法宝木棒",
+        "magic club"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "金子出来吧敲一敲！心想事成、将一切构想幻化为真金白银",
+      "advice": "大声说出你的愿望！小妖木棒一敲，统统为你变现成真！"
+    },
+    {
+      "id": "kkaebi_hat",
+      "label": "戴上小妖隐形神帽",
+      "keywords": [
+        "隐形帽",
+        "隐身草",
+        "神帽",
+        "隐匿",
+        "暗中布局",
+        "magic hat"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "摆脱对手窥视获得全然自由、暗中稳操胜券掌控全盘",
+      "advice": "何必在意他人目光！静悄悄布局，将所有实质收益尽收囊中！"
+    },
+    {
+      "id": "lucky_pouch",
+      "label": "开启黄金纳福锦囊",
+      "keywords": [
+        "福袋",
+        "黄金锦囊",
+        "锦囊",
+        "聚宝袋",
+        "聚财囊",
+        "lucky pouch"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "取之不尽用之不竭的聚宝盆、世代相传的家族鼎盛福泽",
+      "advice": "锦囊满满全聚福！今天所行善念与慷慨，必将成倍回馈于你！"
+    },
+    {
+      "id": "magic_broom",
+      "label": "挥动金色神仙扫帚",
+      "keywords": [
+        "神扫帚",
+        "金扫帚",
+        "扫除霉运",
+        "聚财扫帚",
+        "除尘",
+        "magic broom"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 68,
+      "card_id": "wooden_comb",
+      "meaning": "扫除一切霉运晦气、将万两黄金扫入家门的神奇大净化",
+      "advice": "把晦气一扫而光，把万贯家财迎进门！打开窗户通通风换换气吧！"
+    },
+    {
+      "id": "dragon_jewel",
+      "label": "怀抱神龙如意龙珠",
+      "keywords": [
+        "如意宝珠",
+        "龙珠",
+        "神龙宝珠",
+        "宝珠",
+        "万事如意",
+        "dragon orb"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dragon",
+      "meaning": "得获号令天下的至尊龙珠、千愿万愿必定100%圆满达成",
+      "advice": "天下至尊如意龙珠入怀！世间再无你无法实现的宏伟梦想！"
+    }
+  ]
+}

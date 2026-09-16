@@ -7,6 +7,7 @@ import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
+import '../core/timelab_utils.dart';
 import '../models/timelab_models.dart';
 import '../core/timelab_screen_keeper.dart';
 import 'velocity_grid_engine.dart';
@@ -58,12 +59,7 @@ class _VelocityGridPageState extends State<VelocityGridPage>
     super.dispose();
   }
 
-  String _formatLapTime(Duration d) {
-    final m = d.inMinutes.remainder(60).toString().padLeft(2, '0');
-    final s = d.inSeconds.remainder(60).toString().padLeft(2, '0');
-    final ms = (d.inMilliseconds.remainder(1000) ~/ 10).toString().padLeft(2, '0');
-    return '$m:$s.$ms';
-  }
+  String _formatLapTime(Duration d) => TimelabUtils.formatStopwatch(d);
 
   void _showSaveRecordDialog(BuildContext dialogCtx, String lang) {
     final isPro = context.read<DokkeyProvider>().isProUser;

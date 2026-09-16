@@ -165,18 +165,35 @@ class ShopDialog extends StatelessWidget {
                         : (provider.lang == 'zh'
                             ? '👑 DOK-KEY 专业版 (1年/终身)'
                             : (provider.lang == 'de' ? '👑 DOK-KEY PRO (1 Jahr/Lifetime)' : (provider.lang == 'hi' ? '👑 DOK-KEY प्रो (1 वर्ष/लाइफटाइम)' : '👑 DOK-KEY PRO (Yearly/Lifetime)')))),
-                subtitle: isKo
-                    ? '1년 ${pricing.yearly} · 평생 ${pricing.lifetime} — 99슬롯·오락실 무제한·광고 제거·+3뽑기'
-                    : (isJa
-                        ? '1年 ${pricing.yearly} · 永久 ${pricing.lifetime} — 全機能アンロック (99スロット·広告なし·+3抽出)'
-                        : (provider.lang == 'zh'
-                            ? '1年 ${pricing.yearly} · 终身 ${pricing.lifetime} — 全功能解锁 (99格·无广告·+3抽取)'
-                            : (provider.lang == 'de'
-                                ? '${pricing.yearly}/Jahr · ${pricing.lifetime} Lifetime — Alle Funktionen (99 Slots · werbefrei · +3 Ziehungen)'
-                                : (provider.lang == 'hi'
-                                    ? '${pricing.yearly}/वर्ष · ${pricing.lifetime} लाइफटाइम — सभी फ़ीचर्स अनलॉक (99 स्लॉट · विज्ञापन मुक्त · +3 ड्रॉ)'
-                                    : '${pricing.yearly} / Year · ${pricing.lifetime} Lifetime — All-Features Unlocked (99 slots · ad-free · +3 draws)')))),
-                badge: provider.isProUser ? 'PRO 👑' : (isKo ? '${pricing.yearly}~' : 'From ${pricing.yearly}'),
+                // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 대신 기능 중심 안내 노출
+                subtitle: !BrandConfig.billingEnabled
+                    ? (isKo
+                        ? '99슬롯 · 오락실 무제한 · 광고 제거 · +3뽑기 — 모든 기능 해제'
+                        : (isJa
+                            ? '99スロット · 無制限 · 広告なし · +3抽出 — 全機能アンロック'
+                            : (provider.lang == 'zh'
+                                ? '99格 · 无限 · 无广告 · +3抽取 — 全功能解锁'
+                                : (provider.lang == 'de'
+                                    ? '99 Slots · unbegrenzt · werbefrei · +3 Ziehungen — alles frei'
+                                    : (provider.lang == 'hi'
+                                        ? '99 स्लॉट · असीमित · विज्ञापन मुक्त · +3 ड्रॉ — सभी फ़ीचर्स अनलॉक'
+                                        : '99 slots · unlimited arcade · ad-free · +3 draws — all features unlocked')))))
+                    : (isKo
+                        ? '1년 ${pricing.yearly} · 평생 ${pricing.lifetime} — 99슬롯·오락실 무제한·광고 제거·+3뽑기'
+                        : (isJa
+                            ? '1年 ${pricing.yearly} · 永久 ${pricing.lifetime} — 全機能アンロック (99スロット·広告なし·+3抽出)'
+                            : (provider.lang == 'zh'
+                                ? '1年 ${pricing.yearly} · 终身 ${pricing.lifetime} — 全功能解锁 (99格·无广告·+3抽取)'
+                                : (provider.lang == 'de'
+                                    ? '${pricing.yearly}/Jahr · ${pricing.lifetime} Lifetime — Alle Funktionen (99 Slots · werbefrei · +3 Ziehungen)'
+                                    : (provider.lang == 'hi'
+                                        ? '${pricing.yearly}/वर्ष · ${pricing.lifetime} लाइफटाइम — सभी फ़ीचर्स अनलॉक (99 स्लॉट · विज्ञापन मुक्त · +3 ड्रॉ)'
+                                        : '${pricing.yearly} / Year · ${pricing.lifetime} Lifetime — All-Features Unlocked (99 slots · ad-free · +3 draws)'))))),
+                badge: provider.isProUser
+                    ? 'PRO 👑'
+                    : (!BrandConfig.billingEnabled
+                        ? '👑'
+                        : (isKo ? '${pricing.yearly}~' : 'From ${pricing.yearly}')),
                 badgeColor: DokkeyTheme.gold,
                 isEnabled: true,
                 onTap: () {
@@ -195,18 +212,31 @@ class ShopDialog extends StatelessWidget {
                         : (provider.lang == 'zh'
                             ? '🗝️ 黄金钥匙10个锦囊'
                             : (provider.lang == 'de' ? '🗝️ Goldschlüssel-Bundle (10)' : (provider.lang == 'hi' ? '🗝️ गोल्डन की 10 पाउच' : '🗝️ Golden Key Pouch ×10')))),
-                subtitle: isKo
-                    ? '${pricing.pouch} · 소모품 — 지금 바로 뽑기/연성용 열쇠 10개'
-                    : (isJa
-                        ? '${pricing.pouch} · 消耗品 — 今すぐ抽選/錬成用の鍵10個'
-                        : (provider.lang == 'zh'
-                            ? '${pricing.pouch} · 消耗品 — 立即抽取/炼成用钥匙10个'
-                            : (provider.lang == 'de'
-                                ? '${pricing.pouch} · Verbrauchsgut — 10 Schlüssel zum Sofort-Drehen & Schmieden'
-                                : (provider.lang == 'hi'
-                                    ? '${pricing.pouch} · उपभोग्य — तुरंत ड्रॉ/फोर्जिंग के लिए 10 चाबियाँ'
-                                    : '${pricing.pouch} · Consumable — 10 keys for instant draws & forging')))),
-                badge: pricing.pouch,
+                // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 대신 구성 안내 노출
+                subtitle: !BrandConfig.billingEnabled
+                    ? (isKo
+                        ? '소모품 — 지금 바로 뽑기/연성용 황금 열쇠 10개'
+                        : (isJa
+                            ? '消耗品 — 今すぐ抽選/錬成用の鍵10個'
+                            : (provider.lang == 'zh'
+                                ? '消耗品 — 立即抽取/炼成用钥匙10个'
+                                : (provider.lang == 'de'
+                                    ? 'Verbrauchsgut — 10 Schlüssel zum Sofort-Drehen & Schmieden'
+                                    : (provider.lang == 'hi'
+                                        ? 'उपभोग्य — तुरंत ड्रॉ/फोर्जिंग के लिए 10 चाबियाँ'
+                                        : 'Consumable — 10 keys for instant draws & forging')))))
+                    : (isKo
+                        ? '${pricing.pouch} · 소모품 — 지금 바로 뽑기/연성용 열쇠 10개'
+                        : (isJa
+                            ? '${pricing.pouch} · 消耗品 — 今すぐ抽選/錬成用の鍵10個'
+                            : (provider.lang == 'zh'
+                                ? '${pricing.pouch} · 消耗品 — 立即抽取/炼成用钥匙10个'
+                                : (provider.lang == 'de'
+                                    ? '${pricing.pouch} · Verbrauchsgut — 10 Schlüssel zum Sofort-Drehen & Schmieden'
+                                    : (provider.lang == 'hi'
+                                        ? '${pricing.pouch} · उपभोग्य — तुरंत ड्रॉ/फोर्जिंग के लिए 10 चाबियाँ'
+                                        : '${pricing.pouch} · Consumable — 10 keys for instant draws & forging'))))),
+                badge: !BrandConfig.billingEnabled ? '🔑 ×10' : pricing.pouch,
                 badgeColor: DokkeyTheme.mintCalm,
                 isEnabled: true,
                 onTap: () async {

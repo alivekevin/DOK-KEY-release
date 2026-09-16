@@ -6,6 +6,7 @@ import '../../providers/dokkey_provider.dart';
 import '../../widgets/pro_pass_dialog.dart';
 import '../core/timelab_i18n.dart';
 import '../core/timelab_theme_engine.dart';
+import '../core/timelab_utils.dart';
 import '../models/timelab_models.dart';
 import '../core/timelab_screen_keeper.dart';
 import 'chain_timer_engine.dart';
@@ -43,12 +44,7 @@ class _ChainTimerPageState extends State<ChainTimerPage>
     super.dispose();
   }
 
-  String _formatTime(Duration d) {
-    final minutes = d.inMinutes.remainder(60).toString().padLeft(2, '0');
-    final seconds = d.inSeconds.remainder(60).toString().padLeft(2, '0');
-    final millis = (d.inMilliseconds.remainder(1000) ~/ 10).toString().padLeft(2, '0');
-    return '$minutes:$seconds.$millis';
-  }
+  String _formatTime(Duration d) => TimelabUtils.formatStopwatch(d);
 
   @override
   Widget build(BuildContext context) {

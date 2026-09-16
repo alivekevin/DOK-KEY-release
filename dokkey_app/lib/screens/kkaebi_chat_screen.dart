@@ -824,7 +824,15 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                                 const Text('🔢', style: TextStyle(fontSize: 13)),
                                 const SizedBox(width: 5),
                                 Text(
-                                  isKo ? '숫자/횟수 세기' : (isJa ? '数字・回数カウント' : 'Tally Counter'),
+                                  isKo
+                                      ? '숫자/횟수 세기'
+                                      : (isJa
+                                          ? '数字・回数カウント'
+                                          : (provider.lang == 'zh'
+                                              ? '数字计数'
+                                              : (provider.lang == 'de'
+                                                  ? 'Zähler'
+                                                  : (provider.lang == 'hi' ? 'टैली काउंटर' : 'Tally Counter')))),
                                   style: const TextStyle(
                                     color: Color(0xFF00FF66),
                                     fontSize: 12,

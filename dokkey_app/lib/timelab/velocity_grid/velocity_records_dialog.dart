@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 import '../../providers/dokkey_provider.dart';
 import '../core/timelab_i18n.dart';
+import '../core/timelab_utils.dart';
 import '../models/timelab_models.dart';
 import 'velocity_grid_engine.dart';
 
@@ -27,12 +28,7 @@ class VelocityRecordsDialog extends StatefulWidget {
 }
 
 class _VelocityRecordsDialogState extends State<VelocityRecordsDialog> {
-  String _formatLapTime(Duration d) {
-    final m = d.inMinutes.remainder(60).toString().padLeft(2, '0');
-    final s = d.inSeconds.remainder(60).toString().padLeft(2, '0');
-    final ms = (d.inMilliseconds.remainder(1000) ~/ 10).toString().padLeft(2, '0');
-    return '$m:$s.$ms';
-  }
+  String _formatLapTime(Duration d) => TimelabUtils.formatStopwatch(d);
 
   String _formatDate(DateTime dt) {
     return DateFormat('yyyy-MM-dd HH:mm').format(dt);

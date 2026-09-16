@@ -83,7 +83,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1年プラン · {date}まで有効';
         proStatusLifetime = '永久ライセンス · 期限なし';
         proStatusLegacy = '既存のPRO等級を維持中';
-        comingSoonText = '🔒 ストア版でご購入いただけます（決済機能準備中）';
+        comingSoonText = '🔒 決済機能は今後のアップデートで提供されます。';
         closeText = '閉じる';
         break;
       case 'zh':
@@ -115,7 +115,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1年订阅 · 有效期至 {date}';
         proStatusLifetime = '终身买断 · 永不过期';
         proStatusLegacy = '保留原有PRO等级';
-        comingSoonText = '🔒 将在商店版本中提供购买（支付功能准备中）';
+        comingSoonText = '🔒 支付功能将在后续更新中提供。';
         closeText = '关闭';
         break;
       case 'hi':
@@ -147,7 +147,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1 वर्ष प्लान · {date} तक वैध';
         proStatusLifetime = 'लाइफटाइम पास · कभी समाप्त नहीं होता';
         proStatusLegacy = 'मौजूदा PRO स्तर बना रहेगा';
-        comingSoonText = '🔒 स्टोर संस्करण में खरीदा जा सकेगा (भुगतान जल्द आ रहा है)';
+        comingSoonText = '🔒 भुगतान आने वाले अपडेट में उपलब्ध होगा।';
         closeText = 'बंद करें';
         break;
       case 'de':
@@ -179,7 +179,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1-Jahres-Abo · gültig bis {date}';
         proStatusLifetime = 'Lifetime VIP · läuft nie ab';
         proStatusLegacy = 'Bisheriger PRO-Status bleibt erhalten';
-        comingSoonText = '🔒 Kauf in der Store-Version möglich (Zahlung folgt bald)';
+        comingSoonText = '🔒 Zahlungen folgen in einem künftigen Update.';
         closeText = 'Schließen';
         break;
       case 'en':
@@ -211,7 +211,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1-Year Pass · valid until {date}';
         proStatusLifetime = 'Lifetime Pass · never expires';
         proStatusLegacy = 'Existing PRO tier preserved';
-        comingSoonText = '🔒 Purchases will be available in the store release (billing coming soon)';
+        comingSoonText = '🔒 Purchases will arrive in a future update.';
         closeText = 'Close';
         break;
       case 'ko':
@@ -244,7 +244,7 @@ class _ProPassDialogState extends State<ProPassDialog> {
         proStatusYearly = '1년 이용권 · {date}까지 이용';
         proStatusLifetime = '평생 소장권 · 만료 없음';
         proStatusLegacy = '기존 PRO 등급이 유지됩니다';
-        comingSoonText = '🔒 스토어 출시 버전에서 구매할 수 있습니다 (결제 기능 준비 중)';
+        comingSoonText = '🔒 스톱워치 결제 기능은 곧 출시될 업데이트에서 제공됩니다.';
         closeText = '닫기';
         break;
     }
@@ -345,21 +345,24 @@ class _ProPassDialogState extends State<ProPassDialog> {
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
-                            const SizedBox(height: 4),
-                            Text(
-                              plan1Price,
-                              style: const TextStyle(
-                                color: Colors.amber,
-                                fontSize: 15,
-                                fontWeight: FontWeight.w900,
+                            // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 표기를 숨긴다
+                            if (BrandConfig.billingEnabled) ...[
+                              const SizedBox(height: 4),
+                              Text(
+                                plan1Price,
+                                style: const TextStyle(
+                                  color: Colors.amber,
+                                  fontSize: 15,
+                                  fontWeight: FontWeight.w900,
+                                ),
                               ),
-                            ),
-                            const SizedBox(height: 2),
-                            Text(
-                              plan1Sub,
-                              style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
-                              textAlign: TextAlign.center,
-                            ),
+                              const SizedBox(height: 2),
+                              Text(
+                                plan1Sub,
+                                style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                                textAlign: TextAlign.center,
+                              ),
+                            ],
                           ],
                         ),
                       ),
@@ -399,21 +402,24 @@ class _ProPassDialogState extends State<ProPassDialog> {
                                     fontWeight: FontWeight.bold,
                                   ),
                                 ),
-                                const SizedBox(height: 4),
-                                Text(
-                                  plan2Price,
-                                  style: const TextStyle(
-                                    color: Color(0xFFFFD54F),
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.w900,
+                                // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 표기를 숨긴다
+                                if (BrandConfig.billingEnabled) ...[
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    plan2Price,
+                                    style: const TextStyle(
+                                      color: Color(0xFFFFD54F),
+                                      fontSize: 15,
+                                      fontWeight: FontWeight.w900,
+                                    ),
                                   ),
-                                ),
-                                const SizedBox(height: 2),
-                                Text(
-                                  plan2Sub,
-                                  style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
-                                  textAlign: TextAlign.center,
-                                ),
+                                  const SizedBox(height: 2),
+                                  Text(
+                                    plan2Sub,
+                                    style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                                    textAlign: TextAlign.center,
+                                  ),
+                                ],
                               ],
                             ),
                           ),
@@ -483,10 +489,12 @@ class _ProPassDialogState extends State<ProPassDialog> {
                             ),
                           ),
                           const SizedBox(height: 2),
-                          Text(
-                            pouchDesc,
-                            style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
-                          ),
+                          // 🛡️ 결제 미연동 빌드(스토어 심사 중)에는 가격 표기를 숨긴다
+                          if (BrandConfig.billingEnabled)
+                            Text(
+                              pouchDesc,
+                              style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+                            ),
                         ],
                       ),
                     ),
@@ -578,7 +586,10 @@ class _ProPassDialogState extends State<ProPassDialog> {
                       const Icon(Icons.flash_on_rounded, size: 20, color: Colors.black),
                       const SizedBox(width: 6),
                       Text(
-                        _selectedPlan == 0 ? '$actionButtonText ($plan1Price)' : '$actionButtonText ($plan2Price)',
+                        // 🛡️ 결제 미연동 빌드에서는 가격 없이 플랜명만 노출
+                        !BrandConfig.billingEnabled
+                            ? actionButtonText
+                            : (_selectedPlan == 0 ? '$actionButtonText ($plan1Price)' : '$actionButtonText ($plan2Price)'),
                         style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5),
                       ),
                     ],
