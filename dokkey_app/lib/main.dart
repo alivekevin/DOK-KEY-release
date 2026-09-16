@@ -38,6 +38,7 @@ class DokkeyApp extends StatelessWidget {
         Locale('ja', 'JP'),
         Locale('zh', 'CN'),
         Locale('hi', 'IN'),
+        Locale('de', 'DE'),
       ],
       localizationsDelegates: const [
         GlobalMaterialLocalizations.delegate,

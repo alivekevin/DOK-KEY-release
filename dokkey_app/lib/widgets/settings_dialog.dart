@@ -411,6 +411,37 @@ class _SettingsDialogState extends State<SettingsDialog> {
                 },
               ),
 
+              // Privacy Policy (개인정보처리방침 - Google Play 정책 준수)
+              ListTile(
+                contentPadding: EdgeInsets.zero,
+                leading: Container(
+                  padding: const EdgeInsets.all(6),
+                  decoration: BoxDecoration(
+                    color: DokkeyTheme.gold.withValues(alpha: 0.15),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: DokkeyTheme.gold.withValues(alpha: 0.3)),
+                  ),
+                  child: Icon(Icons.privacy_tip_outlined, color: DokkeyTheme.gold, size: 16),
+                ),
+                title: Text(
+                  isKo ? '개인정보처리방침' : (isJa ? 'プライバシーポリシー' : (provider.lang == 'zh' ? '隐私政策' : (provider.lang == 'de' ? 'Datenschutzerklärung' : (provider.lang == 'hi' ? 'गोपनीयता नीति' : 'Privacy Policy')))),
+                  style: TextStyle(color: DokkeyTheme.textMain, fontWeight: FontWeight.bold, fontSize: 14),
+                ),
+                subtitle: Text(
+                  isKo ? '서버 저장 없는 완벽한 프라이버시 원칙' : '100% Privacy & Zero-Login Policy',
+                  style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
+                ),
+                trailing: Icon(Icons.open_in_new_rounded, color: DokkeyTheme.gold, size: 18),
+                onTap: () async {
+                  final uri = Uri.parse('https://alivekevin.github.io/DOK-KEY-release/privacy.html');
+                  try {
+                    await launchUrl(uri, mode: LaunchMode.externalApplication);
+                  } catch (_) {
+                    await launchUrl(uri, mode: LaunchMode.platformDefault);
+                  }
+                },
+              ),
+
               Divider(color: DokkeyTheme.borderDark),
               const SizedBox(height: 4),
 
@@ -433,7 +464,7 @@ class _SettingsDialogState extends State<SettingsDialog> {
                   child: Column(
                     children: [
                       Text(
-                        'DOK-KEY v1.0.0 • Zero-Login Architecture',
+                        'DOK-KEY v5.2.0 • Zero-Login Architecture',
                         style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
                       ),
                       SizedBox(height: 4),
