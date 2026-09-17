@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
+import '../core/app_version.dart';
 import '../games/kkaebi_arcade_hub.dart';
 import '../games/kkaebi_breakout_game.dart';
 import '../games/kkaebi_bubble_game.dart';
@@ -44,7 +45,7 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
     SoundService().playCardFlip();
     final provider = context.read<DokkeyProvider>();
     final lang = provider.lang;
-    const version = 'v5.2.0 (Build 523)';
+    final version = AppVersion.fullVersion;
     final kkaebiLevel = provider.kkaebiLevel;
 
     final subject = Uri.encodeComponent('[DOK-KEY $version] 테스터 피드백 및 제안');

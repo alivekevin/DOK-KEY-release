@@ -5,6 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../core/pricing.dart';
+import '../core/app_version.dart';
 import '../providers/dokkey_provider.dart';
 import 'kkaebi_face_widget.dart';
 
@@ -235,28 +236,35 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                       ),
                     ),
                   ),
-                  Row(
-                    children: [
-                      const Text(
-                        'v5.2.0 · Dokkey Studio',
-                        style: TextStyle(color: Color(0xFF90A4AE), fontSize: 11),
-                      ),
-                      const SizedBox(width: 12),
-                      ElevatedButton(
-                        onPressed: () => Navigator.of(context).pop(),
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color(0xFFFFD54F),
-                          foregroundColor: Colors.black,
-                          padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
-                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                          elevation: 4,
-                        ),
-                        child: Text(
-                          _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
-                          style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
+                  Expanded(
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 8),
+                      child: Text(
+                        AppVersion.studioTag,
+                        textAlign: TextAlign.center,
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        style: const TextStyle(
+                          color: Color(0xFF90A4AE),
+                          fontSize: 11,
+                          fontWeight: FontWeight.w500,
                         ),
                       ),
-                    ],
+                    ),
+                  ),
+                  ElevatedButton(
+                    onPressed: () => Navigator.of(context).pop(),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: const Color(0xFFFFD54F),
+                      foregroundColor: Colors.black,
+                      padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                      elevation: 4,
+                    ),
+                    child: Text(
+                      _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
+                      style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
+                    ),
                   ),
                 ],
               ),
@@ -270,7 +278,7 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
   Future<void> _sendFeedbackEmail(BuildContext context, String lang) async {
     HapticFeedback.selectionClick();
     SoundService().playCardFlip();
-    const version = 'v5.2.0 (Build 523)';
+    final version = AppVersion.fullVersion;
 
     final subject = Uri.encodeComponent('[DOK-KEY $version] 테스터 피드백 및 제안');
     final bodyTemplate = Uri.encodeComponent(

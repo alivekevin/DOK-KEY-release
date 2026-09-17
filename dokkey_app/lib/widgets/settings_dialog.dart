@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../core/brand_config.dart';
+import '../core/app_version.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../providers/dokkey_provider.dart';
@@ -464,7 +465,7 @@ class _SettingsDialogState extends State<SettingsDialog> {
                   child: Column(
                     children: [
                       Text(
-                        'DOK-KEY v5.2.0 • Zero-Login Architecture',
+                        AppVersion.zeroLoginTag,
                         style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
                       ),
                       SizedBox(height: 4),

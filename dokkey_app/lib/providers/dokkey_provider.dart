@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../core/brand_config.dart';
+import '../core/app_version.dart';
 import '../core/context_key_engine.dart';
 import '../core/daily_quote_engine.dart';
 import '../core/dokkey_engine.dart';
@@ -400,6 +401,7 @@ class DokkeyProvider extends ChangeNotifier {
     await _engine.initialize();
     await BrandConfig.ensureLoaded();
     await CodexService().init();
+    await AppVersion.ensureInitialized();
 
     DokkeyTheme.applyBrightness(_context.isLightTheme);
 
