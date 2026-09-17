@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../games/kkaebi_arcade_hub.dart';
@@ -37,6 +38,179 @@ class KkaebiChatScreen extends StatefulWidget {
 
 class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
   int _gameSuggestStep = 0;
+
+  Future<void> _sendFeedbackEmail() async {
+    HapticFeedback.selectionClick();
+    SoundService().playCardFlip();
+    final provider = context.read<DokkeyProvider>();
+    final lang = provider.lang;
+    const version = 'v5.2.0 (Build 523)';
+    final kkaebiLevel = provider.kkaebiLevel;
+
+    final subject = Uri.encodeComponent('[DOK-KEY $version] 테스터 피드백 및 제안');
+    final bodyTemplate = Uri.encodeComponent(
+      '안녕하세요, DOK-KEY 개발팀!\n\n'
+      '-----------------------------------------\n'
+      '📱 환경 정보\n'
+      '- 앱 버전: $version\n'
+      '- 언어 설정: $lang\n'
+      '- 깨비 친밀도: Lv.$kkaebiLevel\n'
+      '-----------------------------------------\n\n'
+      '💬 의견 / 건의사항 / 버그 내용:\n'
+      '(여기에 자유롭게 작성해 주세요)\n\n\n'
+      '✨ 바라는 기능이나 새로운 아이디어:\n'
+      '(여기에 자유롭게 작성해 주세요)\n\n',
+    );
+
+    final mailtoUri = Uri.parse('mailto:alivekevin@gmail.com?subject=$subject&body=$bodyTemplate');
+
+    try {
+      final launched = await launchUrl(mailtoUri, mode: LaunchMode.externalApplication);
+      if (!launched) {
+        _showEmailFallbackModal();
+      }
+    } catch (_) {
+      _showEmailFallbackModal();
+    }
+  }
+
+  void _showEmailFallbackModal() {
+    if (!mounted) return;
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: DokkeyTheme.surfaceDark,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: BorderSide(color: DokkeyTheme.gold.withValues(alpha: 0.6)),
+        ),
+        title: Row(
+          children: [
+            const Text('✉️', style: TextStyle(fontSize: 20)),
+            const SizedBox(width: 8),
+            Text(
+              '피드백 이메일 안내',
+              style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 16, fontWeight: FontWeight.bold),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              '메일 앱을 열 수 없습니다. 아래 개발자 이메일로 직접 의견을 보내주시면 감사하겠습니다!',
+              style: TextStyle(color: Colors.white70, fontSize: 13, height: 1.4),
+            ),
+            const SizedBox(height: 12),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              decoration: BoxDecoration(
+                color: Colors.black38,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: DokkeyTheme.borderDark),
+              ),
+              child: SelectableText(
+                'alivekevin@gmail.com',
+                style: TextStyle(color: DokkeyTheme.goldLight, fontWeight: FontWeight.bold, fontSize: 14),
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Clipboard.setData(const ClipboardData(text: 'alivekevin@gmail.com'));
+              Navigator.of(ctx).pop();
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: const Text('이메일 주소가 클립보드에 복사되었습니다.'),
+                  backgroundColor: DokkeyTheme.surfaceDark,
+                ),
+              );
+            },
+            child: Text('주소 복사', style: TextStyle(color: DokkeyTheme.goldLight)),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(),
+            child: const Text('닫기', style: TextStyle(color: Colors.white60)),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _onAskFeedback() async {
+    if (_isTyping) return;
+    final provider = context.read<DokkeyProvider>();
+    final lang = provider.lang;
+
+    String userQuestion;
+    String kkaebiResponse;
+    String actionLabel;
+
+    switch (lang) {
+      case 'ko':
+        userQuestion = '깨비야, 앱에 대한 의견/피드백을 전하고 싶어!';
+        kkaebiResponse = '오호! DOK-KEY를 더 완벽하게 만들어 줄 소중한 지혜를 빌려주겠느냐? 💡\n\n'
+            '작은 불편함이나 버그 제보, 바라는 점, 응원 한마디까지 무엇이든 솔직하게 들려다오! 네 한마디가 나를 더 신통방통하게 만든단다! 😈📝';
+        actionLabel = '✉️ 피드백 메일 보내기';
+        break;
+      case 'ja':
+        userQuestion = 'クケビ、アプリの意見・要望を伝えたい！';
+        kkaebiResponse = 'おおっ！DOK-KEYをもっと良くするための貴重なアイデアをくれるのか？💡\n\n'
+            'ちょっとした改善要望やバグ報告、応援メッセージなど、何でも気軽に送ってくれ！君の声がオレをさらに進化させるぞ！😈📝';
+        actionLabel = '✉️ フィードバックを送る';
+        break;
+      case 'zh':
+        userQuestion = '吉鬼，我想提些建议与反馈！';
+        kkaebiResponse = '哇！愿意为让DOK-KEY更完美提供宝贵的建议吗？💡\n\n'
+            '无论是小小的使用不便、漏洞反馈，还是新功能构想与鼓励，请随时告诉我！你的每一句声音都让我更强大！😈📝';
+        actionLabel = '✉️ 发送意见反馈';
+        break;
+      case 'de':
+        userQuestion = 'Kkaebi, ich möchte Feedback/Vorschläge geben!';
+        kkaebiResponse = 'Ohh! Möchtest du wertvolles Feedback teilen, um DOK-KEY noch besser zu machen? 💡\n\n'
+            'Ob Fehlerberichte, Verbesserungswünsche oder nette Worte — lass es mich wissen! Dein Feedback hilft mir sehr! 😈📝';
+        actionLabel = '✉️ Feedback per E-Mail';
+        break;
+      case 'hi':
+        userQuestion = 'कैबी, मैं ऐप के लिए सुझाव/फीडबैक देना चाहता हूँ!';
+        kkaebiResponse = 'अरे वाह! क्या तुम DOK-KEY को और बेहतर बनाने के लिए सुझाव देना चाहते हो? 💡\n\n'
+            'बग रिपोर्ट, नए फीचर्स के विचार या कोई भी राय — कृपया बेझिझक साझा करें! आपकी राय बहुत मूल्यवान है! 😈📝';
+        actionLabel = '✉️ फीडबैक ईमेल भेजें';
+        break;
+      case 'en':
+      default:
+        userQuestion = 'Kkaebi, I want to share feedback & suggestions!';
+        kkaebiResponse = 'Oho! Would you like to share your wisdom to make DOK-KEY even more legendary? 💡\n\n'
+            'Bug reports, feature wishes, or warm cheers — share anything on your mind! Your feedback empowers my magic! 😈📝';
+        actionLabel = '✉️ Send Feedback Email';
+        break;
+    }
+
+    setState(() {
+      _messages.add(_ChatMessage(isUser: true, text: userQuestion));
+      _isTyping = true;
+    });
+    _scrollToBottom();
+
+    await Future.delayed(const Duration(milliseconds: 550));
+    if (!mounted) return;
+
+    SoundService().playSuccessChime();
+
+    setState(() {
+      _isTyping = false;
+      _messages.add(_ChatMessage(
+        isUser: false,
+        text: kkaebiResponse,
+        actionLabel: actionLabel,
+        onAction: _sendFeedbackEmail,
+      ));
+    });
+    _scrollToBottom();
+  }
 
   void _onDirectQuizPressed() {
     HapticFeedback.selectionClick();
@@ -628,6 +802,8 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                       context: context,
                       builder: (_) => const ProfileOnboardingSheet(),
                     );
+                  } else if (val == 'feedback') {
+                    _sendFeedbackEmail();
                   } else if (val == 'home') {
                     Navigator.of(context).popUntil((route) => route.isFirst);
                   }
@@ -641,6 +817,19 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                         const SizedBox(width: 10),
                         Text(
                           isKo ? '내 프로필 수정' : (isJa ? 'プロフィール編集' : 'Edit Profile'),
+                          style: const TextStyle(fontSize: 13, color: Colors.white),
+                        ),
+                      ],
+                    ),
+                  ),
+                  PopupMenuItem(
+                    value: 'feedback',
+                    child: Row(
+                      children: [
+                        Icon(Icons.feedback_outlined, size: 18, color: DokkeyTheme.goldLight),
+                        const SizedBox(width: 10),
+                        Text(
+                          isKo ? '피드백 / 의견 제보' : (isJa ? 'フィードバック送信' : 'Send Feedback'),
                           style: const TextStyle(fontSize: 13, color: Colors.white),
                         ),
                       ],
@@ -842,6 +1031,42 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                               ],
                             ),
                             onPressed: _isTyping ? null : _onAskTallyClicker,
+                          ),
+                        ),
+
+                        // 4순위: [💬 피드백] — 깨비에게 앱 개선 의견/버그 제보
+                        Padding(
+                          padding: const EdgeInsets.only(right: 8),
+                          child: ActionChip(
+                            backgroundColor: const Color(0xFF0F1B2E),
+                            side: const BorderSide(
+                              color: Color(0xFF38BDF8),
+                              width: 1.4,
+                            ),
+                            label: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Text('💬', style: TextStyle(fontSize: 13)),
+                                const SizedBox(width: 5),
+                                Text(
+                                  isKo
+                                      ? '피드백'
+                                      : (isJa
+                                          ? 'フィードバック'
+                                          : (provider.lang == 'zh'
+                                              ? '意见反馈'
+                                              : (provider.lang == 'de'
+                                                  ? 'Feedback'
+                                                  : (provider.lang == 'hi' ? 'फीडबैक' : 'Feedback')))),
+                                  style: const TextStyle(
+                                    color: Color(0xFFBAE6FD),
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w900,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            onPressed: _isTyping ? null : _onAskFeedback,
                           ),
                         ),
 
