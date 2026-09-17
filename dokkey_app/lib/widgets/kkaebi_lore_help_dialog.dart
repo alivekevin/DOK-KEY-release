@@ -199,51 +199,16 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                 borderRadius: BorderRadius.vertical(bottom: Radius.circular(22.5)),
                 border: Border(top: BorderSide(color: Color(0xFF2A364E), width: 1.2)),
               ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  InkWell(
-                    onTap: () => _sendFeedbackEmail(context, lang),
-                    borderRadius: BorderRadius.circular(10),
-                    child: Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
-                      decoration: BoxDecoration(
-                        color: const Color(0xFF0F1B2E),
-                        borderRadius: BorderRadius.circular(10),
-                        border: Border.all(color: const Color(0xFF38BDF8).withValues(alpha: 0.6), width: 1.2),
-                      ),
-                      child: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          const Icon(Icons.mail_outline_rounded, size: 14, color: Color(0xFF38BDF8)),
-                          const SizedBox(width: 6),
-                          Text(
-                            _t(lang,
-                              ko: '피드백 / 버그 제보',
-                              en: 'Send Feedback',
-                              ja: 'ご意見・不具合報告',
-                              zh: '意见 / 问题反馈',
-                              de: 'Feedback senden',
-                              hi: 'फीडबैक भेजें',
-                            ),
-                            style: const TextStyle(
-                              color: Color(0xFFBAE6FD),
-                              fontSize: 11.5,
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
-                  Expanded(
-                    child: Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 8),
+              child: SizedBox(
+                height: 40,
+                child: Stack(
+                  alignment: Alignment.center,
+                  children: [
+                    // 1. Exact Center of Dialog Width
+                    Center(
                       child: Text(
                         AppVersion.studioTag,
                         textAlign: TextAlign.center,
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
                         style: const TextStyle(
                           color: Color(0xFF90A4AE),
                           fontSize: 11,
@@ -251,22 +216,64 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                         ),
                       ),
                     ),
-                  ),
-                  ElevatedButton(
-                    onPressed: () => Navigator.of(context).pop(),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFFFFD54F),
-                      foregroundColor: Colors.black,
-                      padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                      elevation: 4,
+                    // 2. Left Aligned Feedback Button
+                    Align(
+                      alignment: Alignment.centerLeft,
+                      child: InkWell(
+                        onTap: () => _sendFeedbackEmail(context, lang),
+                        borderRadius: BorderRadius.circular(10),
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
+                          decoration: BoxDecoration(
+                            color: const Color(0xFF0F1B2E),
+                            borderRadius: BorderRadius.circular(10),
+                            border: Border.all(color: const Color(0xFF38BDF8).withValues(alpha: 0.6), width: 1.2),
+                          ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              const Icon(Icons.mail_outline_rounded, size: 14, color: Color(0xFF38BDF8)),
+                              const SizedBox(width: 6),
+                              Text(
+                                _t(lang,
+                                  ko: '피드백 / 버그 제보',
+                                  en: 'Send Feedback',
+                                  ja: 'ご意見・不具合報告',
+                                  zh: '意见 / 问题反馈',
+                                  de: 'Feedback senden',
+                                  hi: 'फीडबैक भेजें',
+                                ),
+                                style: const TextStyle(
+                                  color: Color(0xFFBAE6FD),
+                                  fontSize: 11.5,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
                     ),
-                    child: Text(
-                      _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
-                      style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
+                    // 3. Right Aligned OK Button
+                    Align(
+                      alignment: Alignment.centerRight,
+                      child: ElevatedButton(
+                        onPressed: () => Navigator.of(context).pop(),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: const Color(0xFFFFD54F),
+                          foregroundColor: Colors.black,
+                          padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
+                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                          elevation: 4,
+                        ),
+                        child: Text(
+                          _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
+                          style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
+                        ),
+                      ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
             ),
           ],
