@@ -51,10 +51,10 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
     'assets/images/animation/2d/02_bat_swing.webp',
     'assets/images/animation/2d/03_bat_rush.webp',
     BrandConfig.cinematicFxV2Enabled
-        ? 'assets/images/animation/2d/04_bat_impact_v2.webp'
+        ? 'assets/images/animation/2d/04_bat_impact_v3.webp'
         : 'assets/images/animation/2d/04_bat_impact.webp',
     BrandConfig.cinematicFxV2Enabled
-        ? 'assets/images/animation/2d/05_magic_burst_v2.webp'
+        ? 'assets/images/animation/2d/05_magic_burst_v3.webp'
         : 'assets/images/animation/2d/05_magic_burst.webp',
     'assets/images/animation/2d/06_key_rise.webp',
     'assets/images/animation/2d/07_celebrate_1.webp',
@@ -268,14 +268,12 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    // 캐릭터 일러스트 프레임 (3D 바운스 & 스케일)
+                    // 캐릭터 일러스트 영역 (2D 프레임 전환 - 튀거나 축소되지 않도록 일정한 스케일 유지)
                     AnimatedSwitcher(
-                      duration: const Duration(milliseconds: 140),
-                      transitionBuilder: (child, anim) => ScaleTransition(
-                        scale: Tween<double>(begin: 0.94, end: 1.0).animate(
-                          CurvedAnimation(parent: anim, curve: Curves.easeOutBack),
-                        ),
-                        child: FadeTransition(opacity: anim, child: child),
+                      duration: const Duration(milliseconds: 70),
+                      transitionBuilder: (child, anim) => FadeTransition(
+                        opacity: anim,
+                        child: child,
                       ),
                       child: Container(
                         key: ValueKey<int>(_currentFrame),
