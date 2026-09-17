@@ -46,12 +46,16 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
   int _currentFrame = 1; // 1 ~ 8
   bool _hitTriggered = false;
 
-  final List<String> _frames = [
+  List<String> get _frames => [
     'assets/images/animation/2d/01_bat_up.webp',
     'assets/images/animation/2d/02_bat_swing.webp',
     'assets/images/animation/2d/03_bat_rush.webp',
-    'assets/images/animation/2d/04_bat_impact.webp',
-    'assets/images/animation/2d/05_magic_burst.webp',
+    BrandConfig.cinematicFxV2Enabled
+        ? 'assets/images/animation/2d/04_bat_impact_v2.webp'
+        : 'assets/images/animation/2d/04_bat_impact.webp',
+    BrandConfig.cinematicFxV2Enabled
+        ? 'assets/images/animation/2d/05_magic_burst_v2.webp'
+        : 'assets/images/animation/2d/05_magic_burst.webp',
     'assets/images/animation/2d/06_key_rise.webp',
     'assets/images/animation/2d/07_celebrate_1.webp',
     'assets/images/animation/2d/08_celebrate_2.webp',

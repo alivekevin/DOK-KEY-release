@@ -11945,16 +11945,15 @@ this.a=b},
 asS:function asS(a,b){this.a=a
 this.b=b},
 asT:function asT(){},
-Nf:function Nf(a,b,c,d,e,f){var _=this
+Nf:function Nf(a,b,c,d,e){var _=this
 _.d=$
 _.e=1
 _.f=!1
 _.r=a
 _.w=b
 _.x=c
-_.y=d
-_.cX$=e
-_.aE$=f
+_.cX$=d
+_.aE$=e
 _.c=_.a=null},
 aUC:function aUC(a){this.a=a},
 aUB:function aUB(a,b){this.a=a
@@ -70645,7 +70644,7 @@ $1(a){return new A.p4(this.a.c,null)},
 $S:119}
 A.v2.prototype={
 a_(){var s=t.s
-return new A.Nf(A.a(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact.webp","assets/images/animation/2d/05_magic_burst.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"],s),A.a(["\ubc29\ub9dd\uc774\ub97c \ubc88\uca4d!","\ud798\ucc28\uac8c \ub0b4\ub9ac\uce58\uba70!","\ub545\uc73c\ub85c \uc1c4\ub3c4!","\ud83d\udca5 \ucf85! \uae08 \ub098\uc640\ub77c \ub69d\ub531! \ud83d\udca5","\u26a1 \ud669\uae08 \ub9c8\ubc95\uc774 \ud3ed\ubc1c\ud55c\ub2e4! \u26a1","\u2728 \ud669\uae08 \uc5f4\uc1e0\uac00 \uc19f\uc544\uc624\ub978\ub2e4! \u2728","\ud83d\udddd\ufe0f \uae30\uc6b4\uc744 \ud488\uc740 \uc5f4\uc1e0! \ud83d\udddd\ufe0f","\ud83c\udf89 \ub300\ubc15\uc774\ub2e4\uae68\ube44! \ud83c\udf89"],s),A.a(["Raising the magic club!","Swinging with all might!","Striking towards the earth!","\ud83d\udca5 Geum Nawara, Ttook-Ttak! \ud83d\udca5","\u26a1 Golden magic erupts! \u26a1","\u2728 The Golden Key Awakens! \u2728","\ud83d\udddd\ufe0f The Key of Fortune! \ud83d\udddd\ufe0f","\ud83c\udf89 Fortune is Granted, Kkaebi! \ud83c\udf89"],s),A.a(["\u30c8\u30c3\u30b1\u30d3\u306e\u5c0f\u69cc\u3092\u9ad8\u304f\u632f\u308a\u4e0a\u3052\uff01","\u529b\u5f37\u304f\u632f\u308a\u4e0b\u308d\u3059\uff01","\u5927\u5730\u3078\u632f\u308a\u4e0b\u308d\u3059\uff01","\ud83d\udca5 \u30c9\u30ab\u30f3\uff01\u30af\u30e0\u30ca\u30ef\u30e9\u3001\u30c8\u30a5\u30af\u30bf\u30af\uff01 \ud83d\udca5","\u26a1 \u9ec4\u91d1\u306e\u9b54\u6cd5\u304c\u7206\u767a\u3059\u308b\uff01 \u26a1","\u2728 \u9ec4\u91d1\u306e\u9375\u304c\u6e67\u304d\u4e0a\u304c\u308b\uff01 \u2728","\ud83d\udddd\ufe0f \u5e78\u904b\u3092\u5bbf\u3057\u305f\u9375\uff01 \ud83d\udddd\ufe0f","\ud83c\udf89 \u5927\u5f53\u305f\u308a\u3060\u30b1\u30d3\uff01 \ud83c\udf89"],s),null,null)}}
+return new A.Nf(A.a(["\ubc29\ub9dd\uc774\ub97c \ubc88\uca4d!","\ud798\ucc28\uac8c \ub0b4\ub9ac\uce58\uba70!","\ub545\uc73c\ub85c \uc1c4\ub3c4!","\ud83d\udca5 \ucf85! \uae08 \ub098\uc640\ub77c \ub69d\ub531! \ud83d\udca5","\u26a1 \ud669\uae08 \ub9c8\ubc95\uc774 \ud3ed\ubc1c\ud55c\ub2e4! \u26a1","\u2728 \ud669\uae08 \uc5f4\uc1e0\uac00 \uc19f\uc544\uc624\ub978\ub2e4! \u2728","\ud83d\udddd\ufe0f \uae30\uc6b4\uc744 \ud488\uc740 \uc5f4\uc1e0! \ud83d\udddd\ufe0f","\ud83c\udf89 \ub300\ubc15\uc774\ub2e4\uae68\ube44! \ud83c\udf89"],s),A.a(["Raising the magic club!","Swinging with all might!","Striking towards the earth!","\ud83d\udca5 Geum Nawara, Ttook-Ttak! \ud83d\udca5","\u26a1 Golden magic erupts! \u26a1","\u2728 The Golden Key Awakens! \u2728","\ud83d\udddd\ufe0f The Key of Fortune! \ud83d\udddd\ufe0f","\ud83c\udf89 Fortune is Granted, Kkaebi! \ud83c\udf89"],s),A.a(["\u30c8\u30c3\u30b1\u30d3\u306e\u5c0f\u69cc\u3092\u9ad8\u304f\u632f\u308a\u4e0a\u3052\uff01","\u529b\u5f37\u304f\u632f\u308a\u4e0b\u308d\u3059\uff01","\u5927\u5730\u3078\u632f\u308a\u4e0b\u308d\u3059\uff01","\ud83d\udca5 \u30c9\u30ab\u30f3\uff01\u30af\u30e0\u30ca\u30ef\u30e9\u3001\u30c8\u30a5\u30af\u30bf\u30af\uff01 \ud83d\udca5","\u26a1 \u9ec4\u91d1\u306e\u9b54\u6cd5\u304c\u7206\u767a\u3059\u308b\uff01 \u26a1","\u2728 \u9ec4\u91d1\u306e\u9375\u304c\u6e67\u304d\u4e0a\u304c\u308b\uff01 \u2728","\ud83d\udddd\ufe0f \u5e78\u904b\u3092\u5bbf\u3057\u305f\u9375\uff01 \ud83d\udddd\ufe0f","\ud83c\udf89 \u5927\u5f53\u305f\u308a\u3060\u30b1\u30d3\uff01 \ud83c\udf89"],s),null,null)}}
 A.asS.prototype={
 $3(a,b,c){return new A.v2(this.a,null)},
 $C:"$3",
@@ -70681,9 +70680,9 @@ s.l()
 this.ahp()},
 E(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=A.bf(a,!0,t.n).e,b=c==="ko"
 if(b){s=e.e
-r=e.w[s-1]}else{s=e.e
+r=e.r[s-1]}else{s=e.e
 q=s-1
-r=c==="ja"?e.y[q]:e.x[q]}if(s===4){s=e.d
+r=c==="ja"?e.x[q]:e.w[q]}if(s===4){s=e.d
 s===$&&A.b()
 s=s.x
 s===$&&A.b()
@@ -70703,7 +70702,7 @@ s.push(A.dd(e.d,new A.aUy(e),d))
 k=e.e
 j=l?310:270
 i=l?310:270
-j=A.pZ(A.A(B.P,A.dN(e.r[k-1],new A.aUz(),B.b1,B.cg,d,d),B.f,d,d,d,d,i,new A.cR(k,t.f3),d,d,d,d,j),B.yX,A.tq(),B.ap,new A.aUA())
+j=A.pZ(A.A(B.P,A.dN(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact_v2.webp","assets/images/animation/2d/05_magic_burst_v2.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"][k-1],new A.aUz(),B.b1,B.cg,d,d),B.f,d,d,d,d,i,new A.cR(k,t.f3),d,d,d,d,j),B.yX,A.tq(),B.ap,new A.aUA())
 k=A.q(245,B.qF.h()>>>16&255,B.qF.h()>>>8&255,B.qF.h()&255)
 i=A.o(22)
 if(l)h=B.C
