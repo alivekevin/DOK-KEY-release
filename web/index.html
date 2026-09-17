@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <base href="./">
+  <base href="/DOK-KEY-release/web/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -404,6 +404,17 @@
 
     // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
     setTimeout(hideLoader, 3500);
+
+    // 구버전 Service Worker 캐시 정리
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (let registration of registrations) {
+          if (!registration.scope.includes('/DOK-KEY-release/web/')) {
+            registration.unregister();
+          }
+        }
+      });
+    }
   </script>
 
   <script src="flutter_bootstrap.js" async></script>
