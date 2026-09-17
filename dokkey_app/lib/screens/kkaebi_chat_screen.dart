@@ -1034,42 +1034,6 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                           ),
                         ),
 
-                        // 4순위: [💬 피드백] — 깨비에게 앱 개선 의견/버그 제보
-                        Padding(
-                          padding: const EdgeInsets.only(right: 8),
-                          child: ActionChip(
-                            backgroundColor: const Color(0xFF0F1B2E),
-                            side: const BorderSide(
-                              color: Color(0xFF38BDF8),
-                              width: 1.4,
-                            ),
-                            label: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                const Text('💬', style: TextStyle(fontSize: 13)),
-                                const SizedBox(width: 5),
-                                Text(
-                                  isKo
-                                      ? '피드백'
-                                      : (isJa
-                                          ? 'フィードバック'
-                                          : (provider.lang == 'zh'
-                                              ? '意见反馈'
-                                              : (provider.lang == 'de'
-                                                  ? 'Feedback'
-                                                  : (provider.lang == 'hi' ? 'फीडबैक' : 'Feedback')))),
-                                  style: const TextStyle(
-                                    color: Color(0xFFBAE6FD),
-                                    fontSize: 12,
-                                    fontWeight: FontWeight.w900,
-                                  ),
-                                ),
-                              ],
-                            ),
-                            onPressed: _isTyping ? null : _onAskFeedback,
-                          ),
-                        ),
-
                         // 기존 운세/고민 대화 주제 칩들
                         ...topics.map((t) {
                         final topicId = t['id'] as String;

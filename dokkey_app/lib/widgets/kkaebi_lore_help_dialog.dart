@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../core/theme.dart';
 import '../core/sound_service.dart';
 import '../core/pricing.dart';
@@ -125,6 +127,11 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                     ),
                   ),
                   IconButton(
+                    icon: const Icon(Icons.feedback_outlined, color: Color(0xFFFFD54F), size: 20),
+                    tooltip: _t(lang, ko: '피드백 / 버그 제보', en: 'Feedback', ja: 'フィードバック', zh: '意见反馈', de: 'Feedback', hi: 'फीडबैक'),
+                    onPressed: () => _sendFeedbackEmail(context, lang),
+                  ),
+                  IconButton(
                     icon: const Icon(Icons.close_rounded, color: Colors.white70),
                     onPressed: () => Navigator.of(context).pop(),
                   ),
@@ -183,7 +190,7 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
               ),
             ),
 
-            // Footer Close Button
+            // Footer Close Button & Feedback Action
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               decoration: const BoxDecoration(
@@ -194,29 +201,166 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  const Text(
-                    'DOK-KEY v4.9.8 · Dokkey Studio',
-                    style: TextStyle(color: Color(0xFF90A4AE), fontSize: 11),
+                  InkWell(
+                    onTap: () => _sendFeedbackEmail(context, lang),
+                    borderRadius: BorderRadius.circular(10),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF0F1B2E),
+                        borderRadius: BorderRadius.circular(10),
+                        border: Border.all(color: const Color(0xFF38BDF8).withValues(alpha: 0.6), width: 1.2),
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(Icons.mail_outline_rounded, size: 14, color: Color(0xFF38BDF8)),
+                          const SizedBox(width: 6),
+                          Text(
+                            _t(lang,
+                              ko: '피드백 / 버그 제보',
+                              en: 'Send Feedback',
+                              ja: 'ご意見・不具合報告',
+                              zh: '意见 / 问题反馈',
+                              de: 'Feedback senden',
+                              hi: 'फीडबैक भेजें',
+                            ),
+                            style: const TextStyle(
+                              color: Color(0xFFBAE6FD),
+                              fontSize: 11.5,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
                   ),
-                  ElevatedButton(
-                    onPressed: () => Navigator.of(context).pop(),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFFFFD54F),
-                      foregroundColor: Colors.black,
-                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 9),
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                      elevation: 4,
-                    ),
-                    child: Text(
-                      _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
-                      style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13.5),
-                    ),
+                  Row(
+                    children: [
+                      const Text(
+                        'v5.2.0 · Dokkey Studio',
+                        style: TextStyle(color: Color(0xFF90A4AE), fontSize: 11),
+                      ),
+                      const SizedBox(width: 12),
+                      ElevatedButton(
+                        onPressed: () => Navigator.of(context).pop(),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: const Color(0xFFFFD54F),
+                          foregroundColor: Colors.black,
+                          padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
+                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                          elevation: 4,
+                        ),
+                        child: Text(
+                          _t(lang, ko: '확인', en: 'OK', ja: '確認', zh: '确认', de: 'OK', hi: 'ठीक है'),
+                          style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
+                        ),
+                      ),
+                    ],
                   ),
                 ],
               ),
             ),
           ],
         ),
+      ),
+    );
+  }
+
+  Future<void> _sendFeedbackEmail(BuildContext context, String lang) async {
+    HapticFeedback.selectionClick();
+    SoundService().playCardFlip();
+    const version = 'v5.2.0 (Build 523)';
+
+    final subject = Uri.encodeComponent('[DOK-KEY $version] 테스터 피드백 및 제안');
+    final bodyTemplate = Uri.encodeComponent(
+      '안녕하세요, DOK-KEY 개발팀!\n\n'
+      '-----------------------------------------\n'
+      '📱 환경 정보\n'
+      '- 앱 버전: $version\n'
+      '- 언어 설정: $lang\n'
+      '-----------------------------------------\n\n'
+      '💬 의견 / 건의사항 / 버그 내용:\n'
+      '(여기에 자유롭게 작성해 주세요)\n\n\n'
+      '✨ 바라는 기능이나 새로운 아이디어:\n'
+      '(여기에 자유롭게 작성해 주세요)\n\n',
+    );
+
+    final mailtoUri = Uri.parse('mailto:alivekevin@gmail.com?subject=$subject&body=$bodyTemplate');
+
+    try {
+      final launched = await launchUrl(mailtoUri, mode: LaunchMode.externalApplication);
+      if (!launched && context.mounted) {
+        _showEmailFallbackModal(context);
+      }
+    } catch (_) {
+      if (context.mounted) {
+        _showEmailFallbackModal(context);
+      }
+    }
+  }
+
+  void _showEmailFallbackModal(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: const Color(0xFF0F141F),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: const BorderSide(color: Color(0xFFFFD54F)),
+        ),
+        title: const Row(
+          children: [
+            Text('✉️', style: TextStyle(fontSize: 20)),
+            SizedBox(width: 8),
+            Text(
+              '피드백 이메일 안내',
+              style: TextStyle(color: Color(0xFFFFD54F), fontSize: 16, fontWeight: FontWeight.bold),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              '메일 앱을 열 수 없습니다. 아래 개발자 이메일로 직접 의견을 보내주시면 감사하겠습니다!',
+              style: TextStyle(color: Colors.white70, fontSize: 13, height: 1.4),
+            ),
+            const SizedBox(height: 12),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              decoration: BoxDecoration(
+                color: Colors.black38,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: const Color(0xFF2A364E)),
+              ),
+              child: const SelectableText(
+                'alivekevin@gmail.com',
+                style: TextStyle(color: Color(0xFFFFD54F), fontWeight: FontWeight.bold, fontSize: 14),
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Clipboard.setData(const ClipboardData(text: 'alivekevin@gmail.com'));
+              Navigator.of(ctx).pop();
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('이메일 주소가 클립보드에 복사되었습니다.'),
+                  backgroundColor: Color(0xFF161E2E),
+                ),
+              );
+            },
+            child: const Text('주소 복사', style: TextStyle(color: Color(0xFFFFD54F))),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(),
+            child: const Text('닫기', style: TextStyle(color: Colors.white60)),
+          ),
+        ],
       ),
     );
   }
