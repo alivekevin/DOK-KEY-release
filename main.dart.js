@@ -70700,10 +70700,8 @@ s=A.a([A.dd(s,new A.aUw(e,l),d)],q)
 s.push(A.lF(0,A.dd(e.d,new A.aUx(e),d)))
 s.push(A.dd(e.d,new A.aUy(e),d))
 k=e.e
-j=l?310:270
-i=l?310:270
-j=A.pZ(A.A(B.P,A.dN(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact_v2.webp","assets/images/animation/2d/05_magic_burst_v2.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"][k-1],new A.aUz(),B.b1,B.cg,d,d),B.f,d,d,d,d,i,new A.cR(k,t.f3),d,d,d,d,j),B.yX,A.tq(),B.ap,new A.aUA())
-k=A.q(245,B.qF.h()>>>16&255,B.qF.h()>>>8&255,B.qF.h()&255)
+k=A.pZ(A.A(B.P,A.dN(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact_v2.webp","assets/images/animation/2d/05_magic_burst_v2.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"][k-1],new A.aUz(),B.b1,B.cg,d,d),B.f,d,d,d,d,310,new A.cR(k,t.f3),d,d,d,d,310),B.yX,A.tq(),B.ap,new A.aUA())
+j=A.q(245,B.qF.h()>>>16&255,B.qF.h()>>>8&255,B.qF.h()&255)
 i=A.o(22)
 if(l)h=B.C
 else{h=$.c?B.m:B.k
@@ -70714,7 +70712,7 @@ g=A.q(102,g.h()>>>16&255,g.h()>>>8&255,g.h()&255)
 f=l?20:12
 g=A.a([new A.aq(l?2:1,B.B,g,B.p,f)],t.V)
 f=l?B.a1m:B.a_N
-s.push(A.ni(A.bs(A.a_(A.a([j,B.ds,A.A(d,A.f(r,d,d,d,d,A.z(d,d,f,d,d,d,d,d,d,d,d,l?18:16.5,d,d,B.H,d,d,!0,d,0.8,d,d,d,B.am4,d,d),B.af,d,d),B.f,d,d,new A.C(k,d,h,i,g,d,B.n),d,d,d,d,B.a3N,d,d,d)],q),B.i,d,B.h,B.A,0,B.q),d,d),new A.j(n,m)))
+s.push(A.ni(A.bs(A.a_(A.a([k,B.ds,A.A(d,A.f(r,d,d,d,d,A.z(d,d,f,d,d,d,d,d,d,d,d,l?18:16.5,d,d,B.H,d,d,!0,d,0.8,d,d,d,B.am4,d,d),B.af,d,d),B.f,d,d,new A.C(j,d,h,i,g,d,B.n),d,d,d,d,B.a3N,d,d,d)],q),B.i,d,B.h,B.A,0,B.q),d,d),new A.j(n,m)))
 k=A.q(B.d.a2(127.5),B.o.h()>>>16&255,B.o.h()>>>8&255,B.o.h()&255)
 j=A.o(12)
 i=A.S(B.bX,0.8)

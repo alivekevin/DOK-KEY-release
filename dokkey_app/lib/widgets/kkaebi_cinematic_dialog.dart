@@ -279,8 +279,8 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
                       ),
                       child: Container(
                         key: ValueKey<int>(_currentFrame),
-                        width: (BrandConfig.cinematicFxV2Enabled && isImpactOrBurst) ? 310 : 270,
-                        height: (BrandConfig.cinematicFxV2Enabled && isImpactOrBurst) ? 310 : 270,
+                        width: BrandConfig.cinematicFxV2Enabled ? 310.0 : 270.0,
+                        height: BrandConfig.cinematicFxV2Enabled ? 310.0 : 270.0,
                         alignment: Alignment.center,
                         child: Image.asset(
                           _frames[_currentFrame - 1],
