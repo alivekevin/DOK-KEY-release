@@ -19,6 +19,11 @@ class BrandConfig {
   /// in_app_purchase 실연동(백로그 1순위) 완료 후 true로 전환.
   static const bool billingEnabled = false;
 
+  /// 🎬 시네마틱 타격 이펙트 V2 (Canvas 충격파 & 파티클) 활성화 플래그
+  /// true: 신규 V2 화면 전체 광역 충격파 & 파티클 연출
+  /// false: 기존 v5.2.0 기본 렌더링으로 0.1초 즉시 복구 (100% 롤백 안전장치)
+  static const bool cinematicFxV2Enabled = true;
+
   static Map<String, dynamic>? _data;
   static bool _loaded = false;
 

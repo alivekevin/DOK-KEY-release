@@ -8,8 +8,8 @@ import 'package:flutter/foundation.dart';
 class AppVersion {
   AppVersion._();
 
-  static const String _defaultVersion = '5.2.0';
-  static const String _defaultBuild = '523';
+  static const String _defaultVersion = '5.2.1';
+  static const String _defaultBuild = '524';
 
   static const String version = String.fromEnvironment(
     'FLUTTER_BUILD_NAME',

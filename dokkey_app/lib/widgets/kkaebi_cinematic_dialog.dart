@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import '../core/sound_service.dart';
 import '../core/theme.dart';
+import '../core/brand_config.dart';
 import '../providers/dokkey_provider.dart';
 
 /// 깨비 2D 8단계 풀 시네마틱 애니메이션 다이얼로그 (금 나와라 뚝딱!)
@@ -211,6 +212,51 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
               },
             ),
 
+            // 1.5 [V2 NEW] 광역 충격파 & 황금 스파크 파티클 오버레이 (화면 전체 폭으로 비산)
+            if (BrandConfig.cinematicFxV2Enabled)
+              Positioned.fill(
+                child: AnimatedBuilder(
+                  animation: _ctrl,
+                  builder: (context, _) {
+                    final val = _ctrl.value;
+                    double impactProgress = 0.0;
+                    if (val >= 0.38 && val <= 0.68) {
+                      impactProgress = (val - 0.38) / (0.68 - 0.38);
+                    }
+                    return CustomPaint(
+                      size: Size.infinite,
+                      painter: KkaebiImpactParticlePainter(
+                        progress: impactProgress,
+                        isImpact: _currentFrame == 4,
+                        isBurst: _currentFrame == 5,
+                      ),
+                    );
+                  },
+                ),
+              ),
+
+            // 1.6 [V2 NEW] 찰나의 황금 스크린 플래시 (0.08초 동안 잔상 완화)
+            if (BrandConfig.cinematicFxV2Enabled)
+              AnimatedBuilder(
+                animation: _ctrl,
+                builder: (context, _) {
+                  final val = _ctrl.value;
+                  double flashOpacity = 0.0;
+                  if (val >= 0.38 && val <= 0.46) {
+                    final p = (val - 0.38) / 0.08;
+                    flashOpacity = math.sin(p * math.pi) * 0.20;
+                  }
+                  if (flashOpacity <= 0.005) return const SizedBox.shrink();
+                  return Positioned.fill(
+                    child: IgnorePointer(
+                      child: Container(
+                        color: const Color(0xFFFFE082).withOpacity(flashOpacity),
+                      ),
+                    ),
+                  );
+                },
+              ),
+
             // 2. 메인 2D 깨비 캐릭터 8단계 컷
             Transform.translate(
               offset: Offset(shakeX, shakeY),
@@ -229,8 +275,8 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
                       ),
                       child: Container(
                         key: ValueKey<int>(_currentFrame),
-                        width: 270,
-                        height: 270,
+                        width: (BrandConfig.cinematicFxV2Enabled && isImpactOrBurst) ? 310 : 270,
+                        height: (BrandConfig.cinematicFxV2Enabled && isImpactOrBurst) ? 310 : 270,
                         alignment: Alignment.center,
                         child: Image.asset(
                           _frames[_currentFrame - 1],
@@ -310,5 +356,134 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
         ),
       ),
     );
+  }
+}
+
+/// 💥 V2: 방망이 타격 시 화면 전체(100% Width)로 뻗어나가는 광역 충격파 & 황금 스파크 파티클 페인터
+class KkaebiImpactParticlePainter extends CustomPainter {
+  final double progress; // 0.0 ~ 1.0 (Frame 4 타격 ~ Frame 5 폭발 구간)
+  final bool isImpact;
+  final bool isBurst;
+
+  KkaebiImpactParticlePainter({
+    required this.progress,
+    required this.isImpact,
+    required this.isBurst,
+  });
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    if (progress <= 0.0 || progress >= 1.0) return;
+
+    // 방망이가 바닥에 닿는 타격 중심점 (캐릭터 중심 아래쪽 바닥 지점)
+    final impactCenter = Offset(size.width / 2, size.height / 2 + 55);
+    final fade = (1.0 - progress).clamp(0.0, 1.0);
+
+    // ──────────────────────────────────────────────────────────
+    // 1. 수평 광역 충격파 타원 (Horizontal Shockwave Oval)
+    // ──────────────────────────────────────────────────────────
+    // 화면 전체 폭을 가뿐히 넘어 좌우 끝까지 시원하게 퍼지도록 가로 반경을 화면 폭 * 1.3배로 확장
+    final maxRadiusX = size.width * 0.75;
+    final maxRadiusY = size.width * 0.28;
+
+    final shockwaveEase = math.pow(progress, 0.55).toDouble();
+    final currentRadiusX = shockwaveEase * maxRadiusX;
+    final currentRadiusY = shockwaveEase * maxRadiusY;
+
+    // 메인 골드 충격파 링
+    final shockwavePaint = Paint()
+      ..color = const Color(0xFFFFD54F).withOpacity(fade * 0.85)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = math.max(1.5, (1.0 - progress) * 7.5)
+      ..maskFilter = const MaskFilter.blur(BlurStyle.normal, 8);
+
+    canvas.drawOval(
+      Rect.fromCenter(
+        center: impactCenter,
+        width: currentRadiusX * 2,
+        height: currentRadiusY * 2,
+      ),
+      shockwavePaint,
+    );
+
+    // 세컨더리 아우라 링 (내부에서 빠르게 따라붙는 맑은 청록/사파이어 에너지)
+    if (progress > 0.08) {
+      final innerProgress = ((progress - 0.08) / 0.92).clamp(0.0, 1.0);
+      final innerEase = math.pow(innerProgress, 0.65).toDouble();
+      final innerRadiusX = innerEase * maxRadiusX * 0.78;
+      final innerRadiusY = innerEase * maxRadiusY * 0.78;
+      final innerFade = (1.0 - innerProgress).clamp(0.0, 1.0);
+
+      final innerPaint = Paint()
+        ..color = const Color(0xFF38BDF8).withOpacity(innerFade * 0.6)
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = math.max(1.0, (1.0 - innerProgress) * 4.0)
+        ..maskFilter = const MaskFilter.blur(BlurStyle.normal, 5);
+
+      canvas.drawOval(
+        Rect.fromCenter(
+          center: impactCenter,
+          width: innerRadiusX * 2,
+          height: innerRadiusY * 2,
+        ),
+        innerPaint,
+      );
+    }
+
+    // ──────────────────────────────────────────────────────────
+    // 2. 사방으로 비산하는 42개의 황금빛 별가루 파티클 (Stardust Particles)
+    // ──────────────────────────────────────────────────────────
+    final particlePaint = Paint()..style = PaintingStyle.fill;
+
+    for (int i = 0; i < 42; i++) {
+      final seed = i * 47.123;
+      final baseAngle = (i / 42.0) * 2 * math.pi;
+      final angle = baseAngle + math.sin(seed) * 0.25;
+
+      final speed = 110.0 + (i % 7) * 32.0;
+      final particleDist = speed *
+          math.pow(progress, 0.68).toDouble() *
+          (size.width / 360).clamp(0.85, 1.6);
+
+      final px = impactCenter.dx + math.cos(angle) * particleDist * 1.35;
+      final gravity = math.pow(progress, 2.2).toDouble() * (55.0 + (i % 5) * 15.0);
+      final py = impactCenter.dy + math.sin(angle) * particleDist * 0.75 + gravity;
+
+      final baseSize = 2.2 + (i % 5) * 1.2;
+      final currentSize = math.max(0.5, baseSize * (1.0 - progress));
+      final particleAlpha = (fade * (0.55 + (i % 4) * 0.15)).clamp(0.0, 1.0);
+
+      Color pColor;
+      if (i % 5 == 0) {
+        pColor = const Color(0xFFFFFFFF);
+      } else if (i % 3 == 0) {
+        pColor = const Color(0xFF38BDF8);
+      } else if (i % 2 == 0) {
+        pColor = const Color(0xFFFFD54F);
+      } else {
+        pColor = const Color(0xFFFF9100);
+      }
+
+      particlePaint.color = pColor.withOpacity(particleAlpha);
+
+      if (i % 2 == 0) {
+        final path = Path()
+          ..moveTo(px, py - currentSize * 1.5)
+          ..lineTo(px + currentSize * 1.1, py)
+          ..lineTo(px, py + currentSize * 1.5)
+          ..lineTo(px - currentSize * 1.1, py)
+          ..close();
+        canvas.drawPath(path, particlePaint);
+      } else {
+        canvas.drawCircle(Offset(px, py), currentSize, particlePaint);
+      }
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant KkaebiImpactParticlePainter oldDelegate) {
+    return oldDelegate.progress != progress ||
+        oldDelegate.isImpact != isImpact ||
+        oldDelegate.isBurst != isBurst;
   }
 }
