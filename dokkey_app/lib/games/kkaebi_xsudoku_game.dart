@@ -211,11 +211,38 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
     final hearts = List.generate(
       XSudokuModel.maxMistakes,
       (i) => i < (XSudokuModel.maxMistakes - model.mistakes) ? '❤️' : '🖤',
     ).join(' ');
+
+    final gameTitle = switch (lang) {
+      'ja' => '対角線X数独',
+      'zh' => '对角线X数独',
+      'de' => 'Diagonal X-Sudoku',
+      'hi' => 'विकर्ण X-सुडोकू',
+      'en' => 'Diagonal X-Sudoku',
+      _ => '대각선 X-스도쿠',
+    };
+
+    final solvedLabel = switch (lang) {
+      'ja' => '🏆 完成!',
+      'zh' => '🏆 完成!',
+      'de' => '🏆 Gelöst!',
+      'hi' => '🏆 पूर्ण!',
+      'en' => '🏆 Solved!',
+      _ => '🏆 완성!',
+    };
+
+    final diagHint = switch (lang) {
+      'ja' => '✨ 2本の対角線(X)も重複なし！',
+      'zh' => '✨ 两条对角线(X)亦无重复！',
+      'de' => '✨ Auch Diagonalen (X) ohne Duplikate!',
+      'hi' => '✨ दोनों विकर्णों (X) में भी कोई दोहराव नहीं!',
+      'en' => '✨ Diagonals (X) must be unique!',
+      _ => '✨ 두 대각선(X)도 중복 없음!',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF0A0F1A),
@@ -223,10 +250,10 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
         child: Column(
           children: [
             GameHud(
-              title: isKo ? '대각선 X-스도쿠' : 'Diagonal X-Sudoku',
+              title: gameTitle,
               score: model.score,
               rightLabel: model.isCleared
-                  ? (isKo ? '🏆 완성!' : '🏆 Solved!')
+                  ? solvedLabel
                   : hearts,
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFF00E5FF),
@@ -238,7 +265,7 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
               child: Row(
                 children: [
                   Text(
-                    isKo ? '✨ 두 대각선(X)도 중복 없음!' : '✨ Diagonals (X) must be unique!',
+                    diagHint,
                     style: const TextStyle(color: Color(0xFF00E5FF), fontSize: 11, fontWeight: FontWeight.bold),
                   ),
                   const Spacer(),
@@ -368,14 +395,39 @@ class _KkaebiXSudokuGameState extends State<KkaebiXSudokuGame> {
                   ? GameResultBar(
                       key: const ValueKey('xsudoku_result_bar'),
                       gameId: KkaebiXSudokuGame.gameId,
-                      title: model.isCleared ? '대각선 X-스도쿠 완성!' : '대각선 X-스도쿠',
+                      title: model.isCleared
+                          ? switch (lang) {
+                              'ja' => '対角線X数独 完成!',
+                              'zh' => '对角线X数独 完成!',
+                              'de' => 'Diagonal X-Sudoku Gelöst!',
+                              'hi' => 'विकर्ण X-सुडोकू पूर्ण!',
+                              'en' => 'Diagonal X-Sudoku Cleared!',
+                              _ => '대각선 X-스도쿠 완성!',
+                            }
+                          : gameTitle,
                       score: model.score,
                       best: model.score,
                       cleared: model.isCleared,
                       onChangeOption: () {
                         _startNewGame(_difficultySize == 4 ? 9 : 4);
                       },
-                      changeOptionLabel: _difficultySize == 4 ? '9x9 모드' : '4x4 모드',
+                      changeOptionLabel: _difficultySize == 4
+                          ? switch (lang) {
+                              'ja' => '9x9 モード',
+                              'zh' => '9x9 模式',
+                              'de' => '9x9 Modus',
+                              'hi' => '9x9 मोड',
+                              'en' => '9x9 Mode',
+                              _ => '9x9 모드',
+                            }
+                          : switch (lang) {
+                              'ja' => '4x4 モード',
+                              'zh' => '4x4 模式',
+                              'de' => '4x4 Modus',
+                              'hi' => '4x4 मोड',
+                              'en' => '4x4 Mode',
+                              _ => '4x4 모드',
+                            },
                       changeOptionIcon: Icons.tune_rounded,
                       onRetry: () => _startNewGame(_difficultySize),
                       onExit: () => Navigator.of(context).pop(),

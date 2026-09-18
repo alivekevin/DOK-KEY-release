@@ -362,21 +362,54 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
   }
 
   void _showRulesDialog() {
-    final isKo = context.read<DokkeyProvider>().lang == 'ko';
+    final lang = context.read<DokkeyProvider>().lang;
+    final rulesTitle = switch (lang) {
+      'ja' => '魔方陣のルール解説',
+      'zh' => '幻方游戏规则',
+      'de' => 'Regeln des Magischen Quadrats',
+      'hi' => 'जादुई वर्ग के नियम',
+      'en' => 'Magic Square Rules',
+      _ => '마방진 규칙 설명',
+    };
+    final rulesIntro = switch (lang) {
+      'ja' => '魔方陣は縦、横、2本の対角線のすべての数字の合計が一致するように1からN²までの数字を重複なく埋める古代の数字パズルです。',
+      'zh' => '幻方是一种古老的数字谜题，要求在横、竖、两对角线上的数字之和完全一致，且填入1至N²的数字不得重复。',
+      'de' => 'Ein Magisches Quadrat ist ein antikes Rätsel, bei dem alle Zeilen, Spalten und Diagonalen dieselbe Summe aus Zahlen von 1 bis N² ohne Duplikate ergeben.',
+      'hi' => 'जादुई वर्ग एक प्राचीन पहेली है जहाँ सभी पंक्तियों, स्तंभों और विकर्णों का योग 1 से N² तक की संख्याओं का उपयोग करके समान होना चाहिए।',
+      'en' => 'A Magic Square is an ancient puzzle where all rows, columns, and diagonals sum to the exact same magic constant using numbers 1 to N² without duplicates.',
+      _ => '마방진(魔方陣)은 가로, 세로, 두 대각선의 모든 숫자 합이 정확히 일치하도록 1부터 N²까지의 숫자를 겹치지 않게 채우는 고대 신비의 숫자 퍼즐입니다.',
+    };
+    final tipText = switch (lang) {
+      'ja' => '💡 ヒント: 合計が揃った行・列・対角線は緑色に光ります。下部の数字パレットで残りを確認しましょう。',
+      'zh' => '💡 提示: 达成目标和的行、列、对角线会发出绿光，可在下方数字盘查看剩余数字。',
+      'de' => '💡 Tipp: Vollendete Linien leuchten grün. Nutze das Zahlenfeld unten, um verbleibende Zahlen zu sehen.',
+      'hi' => '💡 संकेत: पूर्ण पंक्तियाँ हरी चमकती हैं। बची हुई संख्याओं को नीचे नंबर पैड में देखें।',
+      'en' => '💡 Tip: Completed rows/cols glow green. Use the number tray below to track remaining numbers.',
+      _ => '💡 팁: 합이 완성된 행/열/대각선은 초록색으로 빛나며, 하단 숫자패드에서 남은 숫자를 확인하고 배치할 수 있습니다.',
+    };
+    final gotItText = switch (lang) {
+      'ja' => '了解！',
+      'zh' => '明白！',
+      'de' => 'Verstanden!',
+      'hi' => 'समझ गया!',
+      'en' => 'Got it!',
+      _ => '알겠어!',
+    };
+
     showDialog(
       context: context,
       builder: (_) => AlertDialog(
-        backgroundColor: const Color(0xFF1F170C),
+        backgroundColor: const Color(0xFF1E170E),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(20),
-          side: BorderSide(color: DokkeyTheme.gold, width: 1.5),
+          side: BorderSide(color: DokkeyTheme.gold.withOpacity(0.6), width: 1.5),
         ),
         title: Row(
           children: [
-            const Text('🧮', style: TextStyle(fontSize: 22)),
+            const Text('📜', style: TextStyle(fontSize: 22)),
             const SizedBox(width: 8),
             Text(
-              isKo ? '깨비 마방진의 비법' : 'Magic Square Secrets',
+              rulesTitle,
               style: TextStyle(
                 color: DokkeyTheme.goldLight,
                 fontWeight: FontWeight.w900,
@@ -391,9 +424,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                isKo
-                  ? '마방진(魔方陣)은 가로, 세로, 두 대각선의 모든 숫자 합이 정확히 일치하도록 1부터 N²까지의 숫자를 겹치지 않게 채우는 고대 신비의 숫자 퍼즐입니다.'
-                  : 'A Magic Square is an ancient puzzle where all rows, columns, and diagonals sum to the exact same magic constant using numbers 1 to N² without duplicates.',
+                rulesIntro,
                 style: const TextStyle(color: Colors.white70, fontSize: 13, height: 1.5),
               ),
               const SizedBox(height: 12),
@@ -416,9 +447,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
               ),
               const SizedBox(height: 12),
               Text(
-                isKo
-                  ? '💡 팁: 합이 완성된 행/열/대각선은 초록색으로 빛나며, 하단 숫자패드에서 남은 숫자를 확인하고 배치할 수 있습니다.'
-                  : '💡 Tip: Completed rows/cols glow green. Use the number tray below to track remaining numbers.',
+                tipText,
                 style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 12, height: 1.4),
               ),
             ],
@@ -428,7 +457,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
           TextButton(
             onPressed: () => Navigator.of(context).pop(),
             child: Text(
-              isKo ? '알겠어!' : 'Got it!',
+              gotItText,
               style: TextStyle(color: DokkeyTheme.gold, fontWeight: FontWeight.bold),
             ),
           ),
@@ -477,12 +506,22 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
     );
     if (!mounted) return;
 
+    final lang = context.read<DokkeyProvider>().lang;
+    final clearTitle = switch (lang) {
+      'ja' => '🧮 神秘の魔方陣完成！',
+      'zh' => '🧮 神秘幻方已解开！',
+      'de' => '🧮 Magisches Quadrat gelöst!',
+      'hi' => '🧮 रहस्यमयी जादुई वर्ग पूर्ण!',
+      'en' => '🧮 Magic Square Solved!',
+      _ => '🧮 신비의 마방진 완성!',
+    };
+
     showDialog(
       context: context,
       barrierDismissible: false,
       builder: (_) => GameResultDialog(
         gameId: KkaebiMagicSquareGame.gameId,
-        title: '🧮 신비의 마방진 완성!',
+        title: clearTitle,
         score: score,
         best: score,
         cleared: true,
@@ -500,17 +539,122 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
+    final isKo = lang == 'ko';
     final maxNum = _size * _size;
+
+    final titleText = switch (lang) {
+      'ja' => 'クケビ魔方陣',
+      'zh' => '吉鬼幻方',
+      'de' => 'Magisches Quadrat',
+      'hi' => 'जादुई वर्ग',
+      'en' => 'Magic Square',
+      _ => '깨비 마방진',
+    };
+
+    final rulesTooltip = switch (lang) {
+      'ja' => 'ルール',
+      'zh' => '规则说明',
+      'de' => 'Regeln',
+      'hi' => 'नियम',
+      'en' => 'Rules',
+      _ => '규칙 설명',
+    };
+
+    final restartTooltip = switch (lang) {
+      'ja' => 'やり直し',
+      'zh' => '重新开始',
+      'de' => 'Neustart',
+      'hi' => 'पुनः आरंभ',
+      'en' => 'Restart',
+      _ => '다시 시작',
+    };
+
+    final tab3 = switch (lang) {
+      'ja' => '3x3 初級',
+      'zh' => '3x3 初级',
+      'de' => '3x3 Leicht',
+      'hi' => '3x3 सरल',
+      'en' => '3x3 Easy',
+      _ => '3x3 초급',
+    };
+    final tab4 = switch (lang) {
+      'ja' => '4x4 中級',
+      'zh' => '4x4 中级',
+      'de' => '4x4 Mittel',
+      'hi' => '4x4 मध्यम',
+      'en' => '4x4 Med',
+      _ => '4x4 중급',
+    };
+    final tab5 = switch (lang) {
+      'ja' => '5x5 上級',
+      'zh' => '5x5 高级',
+      'de' => '5x5 Schwer',
+      'hi' => '5x5 कठिन',
+      'en' => '5x5 Hard',
+      _ => '5x5 상급',
+    };
+
+    final targetSumLabel = switch (lang) {
+      'ja' => '和: ${_puzzle.targetSum}',
+      'zh' => '目标: ${_puzzle.targetSum}',
+      'de' => 'Ziel: ${_puzzle.targetSum}',
+      'hi' => 'योग: ${_puzzle.targetSum}',
+      'en' => 'Sum: ${_puzzle.targetSum}',
+      _ => '합: ${_puzzle.targetSum}',
+    };
+
+    final diag1Label = switch (lang) {
+      'ja' => '↘ 対角線',
+      'zh' => '↘ 对角线',
+      'de' => '↘ Diagonale',
+      'hi' => '↘ विकर्ण',
+      'en' => '↘ Diag',
+      _ => '↘ 대각선',
+    };
+    final diag2Label = switch (lang) {
+      'ja' => '↙ 対角線',
+      'zh' => '↙ 对角线',
+      'de' => '↙ Diagonale',
+      'hi' => '↙ विकर्ण',
+      'en' => '↙ Diag',
+      _ => '↙ 대각선',
+    };
+
+    final undoLabel = switch (lang) {
+      'ja' => '元に戻す',
+      'zh' => '撤销',
+      'de' => 'Rückgängig',
+      'hi' => 'पूर्ववत',
+      'en' => 'Undo',
+      _ => '되돌리기',
+    };
+    final eraseLabel = switch (lang) {
+      'ja' => '消去',
+      'zh' => '擦除',
+      'de' => 'Löschen',
+      'hi' => 'मिटाएं',
+      'en' => 'Erase',
+      _ => '지우기',
+    };
+    final hintLabel = switch (lang) {
+      'ja' => 'ヒント ($_hintsLeft)',
+      'zh' => '提示 ($_hintsLeft)',
+      'de' => 'Tipp ($_hintsLeft)',
+      'hi' => 'संकेत ($_hintsLeft)',
+      'en' => 'Hint ($_hintsLeft)',
+      _ => '깨비 힌트 ($_hintsLeft)',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF140F07),
       appBar: AppBar(
         backgroundColor: const Color(0xFF1F170C),
         elevation: 0,
-        leading: IconButton(
-          icon: const Icon(Icons.arrow_back_ios_new_rounded, color: Colors.white, size: 20),
-          onPressed: () => Navigator.of(context).pop(),
+        leading: Center(
+          child: KkaebiGameCloseButton(
+            onPressed: () => Navigator.of(context).pop(),
+          ),
         ),
         title: Row(
           mainAxisSize: MainAxisSize.min,
@@ -518,7 +662,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
             const Text('🧮', style: TextStyle(fontSize: 20)),
             const SizedBox(width: 8),
             Text(
-              isKo ? '깨비 마방진' : 'Magic Square',
+              titleText,
               style: const TextStyle(
                 color: Color(0xFFFFD54F),
                 fontWeight: FontWeight.w900,
@@ -539,12 +683,12 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
         actions: [
           IconButton(
             icon: const Icon(Icons.help_outline_rounded, color: Colors.amberAccent, size: 22),
-            tooltip: isKo ? '규칙 설명' : 'Rules',
+            tooltip: rulesTooltip,
             onPressed: _showRulesDialog,
           ),
           IconButton(
             icon: const Icon(Icons.refresh_rounded, color: Colors.amberAccent, size: 22),
-            tooltip: isKo ? '다시 시작' : 'Restart',
+            tooltip: restartTooltip,
             onPressed: () => _startNewGame(_size),
           ),
         ],
@@ -570,11 +714,11 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
                   padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
                   child: Row(
                     children: [
-                      _buildDiffTab(3, isKo ? '3x3 초급' : '3x3 Easy'),
+                      _buildDiffTab(3, tab3),
                       const SizedBox(width: 5),
-                      _buildDiffTab(4, isKo ? '4x4 중급' : '4x4 Med'),
+                      _buildDiffTab(4, tab4),
                       const SizedBox(width: 5),
-                      _buildDiffTab(5, isKo ? '5x5 상급' : '5x5 Hard'),
+                      _buildDiffTab(5, tab5),
                       const Spacer(),
                       // 타이머
                       Container(
@@ -623,7 +767,7 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
                             const Icon(Icons.auto_awesome_rounded, color: Colors.amber, size: 13),
                             const SizedBox(width: 3),
                             Text(
-                              '합: ${_puzzle.targetSum}',
+                              targetSumLabel,
                               style: const TextStyle(
                                 color: Colors.white,
                                 fontSize: 12,
@@ -650,13 +794,13 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               _buildDiagBadge(
-                                '↘ 대각선',
+                                diag1Label,
                                 _puzzle.diag1Sum(),
                                 _puzzle.isDiag1Complete(),
                               ),
                               const SizedBox(width: 14),
                               _buildDiagBadge(
-                                '↙ 대각선',
+                                diag2Label,
                                 _puzzle.diag2Sum(),
                                 _puzzle.isDiag2Complete(),
                               ),
@@ -680,17 +824,17 @@ class _KkaebiMagicSquareGameState extends State<KkaebiMagicSquareGame>
                     children: [
                       _buildToolBtn(
                         icon: Icons.undo_rounded,
-                        label: isKo ? '되돌리기' : 'Undo',
+                        label: undoLabel,
                         onTap: _history.isNotEmpty ? _undo : null,
                       ),
                       _buildToolBtn(
                         icon: Icons.backspace_outlined,
-                        label: isKo ? '지우기' : 'Erase',
+                        label: eraseLabel,
                         onTap: (_selX >= 0 && !_puzzle.given[_selY][_selX]) ? _clearSelectedCell : null,
                       ),
                       _buildToolBtn(
                         icon: Icons.auto_fix_high_rounded,
-                        label: isKo ? '깨비 힌트 ($_hintsLeft)' : 'Hint ($_hintsLeft)',
+                        label: hintLabel,
                         highlight: _hintsLeft > 0,
                         onTap: _hintsLeft > 0 ? _useHint : null,
                       ),

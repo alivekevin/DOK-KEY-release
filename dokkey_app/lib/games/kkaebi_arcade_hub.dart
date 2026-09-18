@@ -220,26 +220,7 @@ class KkaebiArcadeHubDialog extends StatelessWidget {
                   ),
                   const SizedBox(width: 8),
                   // 닫기 (✕) 버튼
-                  InkWell(
-                    onTap: () {
-                      SoundService().playCardFlip();
-                      Navigator.of(context).pop();
-                    },
-                    borderRadius: BorderRadius.circular(20),
-                    child: Container(
-                      padding: const EdgeInsets.all(5),
-                      decoration: BoxDecoration(
-                        color: Colors.black.withOpacity(0.5),
-                        shape: BoxShape.circle,
-                        border: Border.all(color: DokkeyTheme.gold.withOpacity(0.6), width: 1.2),
-                      ),
-                      child: Icon(
-                        Icons.close_rounded,
-                        size: 17,
-                        color: DokkeyTheme.goldLight,
-                      ),
-                    ),
-                  ),
+                  const KkaebiGameCloseButton(),
                 ],
               ),
             ),

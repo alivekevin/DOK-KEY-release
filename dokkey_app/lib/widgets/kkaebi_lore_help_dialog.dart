@@ -92,36 +92,47 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
+                      mainAxisSize: MainAxisSize.min,
                       children: [
-                        Text(
-                          _t(lang,
-                            ko: '깨비 이야기 & DOK-KEY 가이드',
-                            en: 'Kkaebi Lore & DOK-KEY Guide',
-                            ja: 'クケビの物語 ＆ 利用ガイド',
-                            zh: '吉鬼的故事 ＆ 使用指南',
-                            de: 'Kkaebi-Geschichte & DOK-KEY Guide',
-                            hi: 'कैबी की कहानी और DOK-KEY गाइड',
-                          ),
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 16,
-                            fontWeight: FontWeight.bold,
+                        FittedBox(
+                          fit: BoxFit.scaleDown,
+                          alignment: Alignment.centerLeft,
+                          child: Text(
+                            _t(lang,
+                              ko: 'DOK-KEY 가이드',
+                              en: 'DOK-KEY Guide',
+                              ja: 'DOK-KEY 利用ガイド',
+                              zh: 'DOK-KEY 使用指南',
+                              de: 'DOK-KEY Guide',
+                              hi: 'DOK-KEY गाइड',
+                            ),
+                            maxLines: 1,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                            ),
                           ),
                         ),
                         const SizedBox(height: 2),
-                        Text(
-                          _t(lang,
-                            ko: '당신만의 수호 도깨비와 행운의 열쇠 이야기',
-                            en: 'The Secret of Your Guardian Dokkaebi & Lucky Keys',
-                            ja: '守護トッケビと幸運の鍵の秘密',
-                            zh: '专属于您的守护精灵与幸运钥匙之秘',
-                            de: 'Das Geheimnis Ihres Schutzgeistes & der Glücksschlüssel',
-                            hi: 'आपके रक्षक डोक्केबी और भाग्यशाली चाबियों का रहस्य',
-                          ),
-                          style: const TextStyle(
-                            color: Color(0xFFFFD54F),
-                            fontSize: 11.5,
-                            fontWeight: FontWeight.w600,
+                        FittedBox(
+                          fit: BoxFit.scaleDown,
+                          alignment: Alignment.centerLeft,
+                          child: Text(
+                            _t(lang,
+                              ko: '당신만의 수호 도깨비와 행운의 열쇠 이야기',
+                              en: 'The Secret of Your Guardian Dokkaebi & Lucky Keys',
+                              ja: '守護トッケビと幸運の鍵の秘密',
+                              zh: '专属于您的守护精灵与幸运钥匙之秘',
+                              de: 'Das Geheimnis Ihres Schutzgeistes & der Glücksschlüssel',
+                              hi: 'आपके रक्षक डोक्केबी और भाग्यशाली चाबियों का रहस्य',
+                            ),
+                            maxLines: 1,
+                            style: const TextStyle(
+                              color: Color(0xFFFFD54F),
+                              fontSize: 11.5,
+                              fontWeight: FontWeight.w600,
+                            ),
                           ),
                         ),
                       ],
@@ -193,33 +204,20 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
 
             // Footer Close Button & Feedback Action
             Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
               decoration: const BoxDecoration(
                 color: Color(0xFF161E2E),
                 borderRadius: BorderRadius.vertical(bottom: Radius.circular(22.5)),
                 border: Border(top: BorderSide(color: Color(0xFF2A364E), width: 1.2)),
               ),
-              child: SizedBox(
-                height: 40,
-                child: Stack(
-                  alignment: Alignment.center,
-                  children: [
-                    // 1. Exact Center of Dialog Width
-                    Center(
-                      child: Text(
-                        AppVersion.studioTag,
-                        textAlign: TextAlign.center,
-                        style: const TextStyle(
-                          color: Color(0xFF90A4AE),
-                          fontSize: 11,
-                          fontWeight: FontWeight.w500,
-                        ),
-                      ),
-                    ),
-                    // 2. Left Aligned Feedback Button
-                    Align(
-                      alignment: Alignment.centerLeft,
-                      child: InkWell(
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      // Left: Feedback Button
+                      InkWell(
                         onTap: () => _sendFeedbackEmail(context, lang),
                         borderRadius: BorderRadius.circular(10),
                         child: Container(
@@ -253,11 +251,8 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                           ),
                         ),
                       ),
-                    ),
-                    // 3. Right Aligned OK Button
-                    Align(
-                      alignment: Alignment.centerRight,
-                      child: ElevatedButton(
+                      // Right: OK Button
+                      ElevatedButton(
                         onPressed: () => Navigator.of(context).pop(),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: const Color(0xFFFFD54F),
@@ -271,9 +266,22 @@ class _KkaebiLoreHelpDialogState extends State<KkaebiLoreHelpDialog>
                           style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 13),
                         ),
                       ),
+                    ],
+                  ),
+                  const SizedBox(height: 6),
+                  // Studio Tag (Centered cleanly on its own row without collision)
+                  Center(
+                    child: Text(
+                      AppVersion.studioTag,
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        color: Color(0xFF90A4AE),
+                        fontSize: 10.5,
+                        fontWeight: FontWeight.w500,
+                      ),
                     ),
-                  ],
-                ),
+                  ),
+                ],
               ),
             ),
           ],

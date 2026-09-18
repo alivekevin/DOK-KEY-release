@@ -162,7 +162,15 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
   }
 
   Future<void> _pickImageFromGallery(BuildContext context) async {
-    final isKo = context.read<DokkeyProvider>().lang == 'ko';
+    final lang = context.read<DokkeyProvider>().lang;
+    final albumPhotoName = switch (lang) {
+      'ja' => 'アルバム写真',
+      'zh' => '相册照片',
+      'de' => 'Mein Foto',
+      'hi' => 'मेरी तस्वीर',
+      'en' => 'My Photo',
+      _ => '내 앨범 사진',
+    };
     try {
       final picker = ImagePicker();
       final picked = await picker.pickImage(
@@ -173,7 +181,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
       );
       if (picked != null) {
         final bytes = await picked.readAsBytes();
-        _startWithBytes(bytes, isKo ? '내 앨범 사진' : 'My Photo');
+        _startWithBytes(bytes, albumPhotoName);
         SoundService().playSuccessChime();
         if (context.mounted) {
           Navigator.of(context).pop();
@@ -181,9 +189,17 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
       }
     } catch (_) {
       if (context.mounted) {
+        final errorMsg = switch (lang) {
+          'ja' => '画像の読み込み中にエラーが発生しました。',
+          'zh' => '读取照片时出错。',
+          'de' => 'Fehler beim Laden des Bildes.',
+          'hi' => 'चित्र लोड करने में विफल।',
+          'en' => 'Failed to load image.',
+          _ => '사진을 불러오는 중 오류가 발생했습니다.',
+        };
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text(isKo ? '사진을 불러오는 중 오류가 발생했습니다.' : 'Failed to pick image.'),
+            content: Text(errorMsg),
             backgroundColor: DokkeyTheme.cardDark,
           ),
         );
@@ -192,11 +208,68 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
   }
 
   void _showImagePickerSheet(BuildContext context) {
-    final isKo = context.read<DokkeyProvider>().lang == 'ko';
+    final lang = context.read<DokkeyProvider>().lang;
     final codex = CodexService();
 
     final zodiacs = codex.zodiacCards;
     final myths = codex.mythCards;
+
+    final sheetTitle = switch (lang) {
+      'ja' => 'パズル画像を選択',
+      'zh' => '选择拼图图片',
+      'de' => 'Puzzle-Bild wählen',
+      'hi' => 'पहेली चित्र चुनें',
+      'en' => 'Choose Puzzle Image',
+      _ => '퍼즐 이미지 선택',
+    };
+    final importTitle = switch (lang) {
+      'ja' => '📸 アルバムから写真を取り込む',
+      'zh' => '📸 从相册导入照片',
+      'de' => '📸 Foto aus Album importieren',
+      'hi' => '📸 एल्बम से फोटो आयात करें',
+      'en' => '📸 Import Photo from Album',
+      _ => '📸 내 앨범에서 사진 가져오기',
+    };
+    final importSubtitle = switch (lang) {
+      'ja' => '512px自動最適化 (軽量でサクサク動作)',
+      'zh' => '自动512px轻量优化 (轻巧流畅)',
+      'de' => 'Automatisch 512px optimiert (Leicht & schnell)',
+      'hi' => 'स्वचालित 512px अनुकूलित (हल्का व तेज़)',
+      'en' => 'Auto 512px optimized (Light & fast)',
+      _ => '자동 512px 경량 최적화 (가볍고 빠르게 실행)',
+    };
+    final mascotSectionTitle = switch (lang) {
+      'ja' => '👑 公式マスコット',
+      'zh' => '👑 官方吉祥物',
+      'de' => '👑 Offizielles Maskottchen',
+      'hi' => '👑 आधिकारिक शुभंकर',
+      'en' => '👑 Official Mascot',
+      _ => '👑 대표 마스코트',
+    };
+    final kkaebiMascotName = switch (lang) {
+      'ja' => 'クケビ (マスコット)',
+      'zh' => '吉鬼 (吉祥物)',
+      'de' => 'Kkaebi (Maskottchen)',
+      'hi' => 'कैबी (शुभंकर)',
+      'en' => 'Kkaebi (Mascot)',
+      _ => '깨비 (마스코트)',
+    };
+    final zodiacSectionTitle = switch (lang) {
+      'ja' => '🐉 十二支神獣カード (12種)',
+      'zh' => '🐉 十二生肖神兽卡 (12种)',
+      'de' => '🐉 Tierkreis-Fabelwesen (12)',
+      'hi' => '🐉 राशि चक्र जीव (12)',
+      'en' => '🐉 Zodiac Deities (12)',
+      _ => '🐉 십이지신 신수 카드 (12종)',
+    };
+    final mythSectionTitle = switch (lang) {
+      'ja' => '✨ 神話・神格カード (21種)',
+      'zh' => '✨ 神话神格卡 (21种)',
+      'de' => '✨ Mythologische Götter (21)',
+      'hi' => '✨ पौराणिक देवता (21)',
+      'en' => '✨ Mythic Gods (21)',
+      _ => '✨ 신화 & 신격 카드 (21종)',
+    };
 
     showModalBottomSheet(
       context: context,
@@ -239,7 +312,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                           const Text('🖼️', style: TextStyle(fontSize: 20)),
                           const SizedBox(width: 8),
                           Text(
-                            isKo ? '퍼즐 이미지 선택' : 'Choose Puzzle Image',
+                            sheetTitle,
                             style: const TextStyle(
                               color: Color(0xFFFFD54F),
                               fontWeight: FontWeight.w900,
@@ -291,7 +364,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
-                                  isKo ? '📸 내 앨범에서 사진 가져오기' : '📸 Import Photo from Album',
+                                  importTitle,
                                   style: const TextStyle(
                                     color: Colors.white,
                                     fontSize: 13.5,
@@ -300,7 +373,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                                 ),
                                 const SizedBox(height: 2),
                                 Text(
-                                  isKo ? '자동 512px 경량 최적화 (가볍고 빠르게 실행)' : 'Auto 512px optimized (Light & fast)',
+                                  importSubtitle,
                                   style: const TextStyle(color: Colors.white70, fontSize: 10.5),
                                 ),
                               ],
@@ -319,25 +392,25 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                       controller: scrollController,
                       children: [
                         // Kkaebi Mascot
-                        _buildSectionTitle(isKo ? '👑 대표 마스코트' : '👑 Mascot'),
+                        _buildSectionTitle(mascotSectionTitle),
                         _buildCardTile(
                           path: 'assets/images/kkaebi_mascot.png',
-                          name: isKo ? '깨비 (마스코트)' : 'Kkaebi Mascot',
+                          name: kkaebiMascotName,
                           onTap: () {
-                            _startWithAsset('assets/images/kkaebi_mascot.png', isKo ? '깨비 (마스코트)' : 'Kkaebi Mascot');
+                            _startWithAsset('assets/images/kkaebi_mascot.png', kkaebiMascotName);
                             Navigator.of(ctx).pop();
                           },
                         ),
                         const SizedBox(height: 12),
 
                         // Zodiac (12 Cards)
-                        _buildSectionTitle(isKo ? '🐉 십이지신 신수 카드 (12종)' : '🐉 Zodiac Deities (12)'),
-                        _buildCardGrid(zodiacs, isKo, ctx),
+                        _buildSectionTitle(zodiacSectionTitle),
+                        _buildCardGrid(zodiacs, lang, ctx),
                         const SizedBox(height: 12),
 
                         // Mythic Deities (21 Cards)
-                        _buildSectionTitle(isKo ? '✨ 신화 & 신격 카드 (21종)' : '✨ Mythic Gods (21)'),
-                        _buildCardGrid(myths, isKo, ctx),
+                        _buildSectionTitle(mythSectionTitle),
+                        _buildCardGrid(myths, lang, ctx),
                       ],
                     ),
                   ),
@@ -408,13 +481,20 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
     );
   }
 
-  Widget _buildCardGrid(List<CodexCardItem> list, bool isKo, BuildContext ctx) {
+  Widget _buildCardGrid(List<CodexCardItem> list, String lang, BuildContext ctx) {
     if (list.isEmpty) {
       return Container(
         height: 60,
         alignment: Alignment.center,
         child: Text(
-          isKo ? '도감 카드를 불러오는 중입니다...' : 'Loading cards...',
+          switch (lang) {
+            'ja' => '図鑑カードを読み込み中...',
+            'zh' => '正在加载图鉴卡片...',
+            'de' => 'Karten werden geladen...',
+            'hi' => 'कार्ड लोड हो रहे हैं...',
+            'en' => 'Loading cards...',
+            _ => '도감 카드를 불러오는 중입니다...',
+          },
           style: const TextStyle(color: Colors.white54, fontSize: 11),
         ),
       );
@@ -431,10 +511,11 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
       itemCount: list.length,
       itemBuilder: (_, idx) {
         final card = list[idx];
+        final cardName = card.localizedName(lang);
         final isSelected = _currentAssetPath == card.imagePath;
         return InkWell(
           onTap: () {
-            _startWithAsset(card.imagePath, card.name);
+            _startWithAsset(card.imagePath, cardName);
             Navigator.of(ctx).pop();
           },
           borderRadius: BorderRadius.circular(10),
@@ -466,7 +547,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                   padding: const EdgeInsets.symmetric(vertical: 3, horizontal: 4),
                   color: Colors.black54,
                   child: Text(
-                    card.name,
+                    cardName,
                     style: TextStyle(
                       color: isSelected ? const Color(0xFFFFD54F) : Colors.white,
                       fontSize: 10,
@@ -552,7 +633,80 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
+    final isKo = lang == 'ko';
+
+    final titleText = switch (lang) {
+      'ja' => 'クケビ神獣図鑑パズル',
+      'zh' => '吉鬼神兽图鉴拼图',
+      'de' => 'Kkaebi Fabelwesen-Puzzle',
+      'hi' => 'कैबी पौराणिक पहेली',
+      'en' => 'Kkaebi Deity Puzzle',
+      _ => '깨비 신수 도감 퍼즐',
+    };
+
+    final rightLabelText = model.isCleared
+        ? switch (lang) {
+            'ja' => '🏆 完成!',
+            'zh' => '🏆 完成!',
+            'de' => '🏆 Fertig!',
+            'hi' => '🏆 पूर्ण!',
+            'en' => '🏆 Done!',
+            _ => '🏆 완성!',
+          }
+        : switch (lang) {
+            'ja' => '${model.moves} 手',
+            'zh' => '${model.moves} 步',
+            'de' => '${model.moves} Züge',
+            'hi' => '${model.moves} चाल',
+            'en' => '${model.moves} Moves',
+            _ => '${model.moves} 이동',
+          };
+
+    final changeText = switch (lang) {
+      'ja' => '画像変更',
+      'zh' => '更换图片',
+      'de' => 'Bild ändern',
+      'hi' => 'चित्र बदलें',
+      'en' => 'Change',
+      _ => '그림 변경',
+    };
+
+    final viewOriginalTooltip = switch (lang) {
+      'ja' => '原本を見る',
+      'zh' => '查看原图',
+      'de' => 'Original anzeigen',
+      'hi' => 'मूल चित्र देखें',
+      'en' => 'View Original',
+      _ => '원본 보기',
+    };
+
+    final clearTitle = switch (lang) {
+      'ja' => '${model.cardName} パズル完成！',
+      'zh' => '${model.cardName} 拼图完成！',
+      'de' => '${model.cardName} Puzzle gelöst!',
+      'hi' => '${model.cardName} पहेली पूरी हुई!',
+      'en' => '${model.cardName} Puzzle Solved!',
+      _ => '${model.cardName} 퍼즐 완성!',
+    };
+
+    final changeOptionLabel = switch (lang) {
+      'ja' => '別の画像',
+      'zh' => '更换图鉴',
+      'de' => 'Anderes Bild',
+      'hi' => 'दूसरा चित्र',
+      'en' => 'Pick Another',
+      _ => '다른 그림',
+    };
+
+    final guideText = switch (lang) {
+      'ja' => '💡 上部の[画像変更]からカードや写真を選んで癒しのパズルを楽しもう！',
+      'zh' => '💡 点击顶部[更换图片]选择图鉴卡或照片，享受解谜时光！',
+      'de' => '💡 Tippe oben auf [Bild ändern], um Karten oder dein Foto auszuwählen und das Puzzle zu lösen!',
+      'hi' => '💡 शीर्ष पर [चित्र बदलें] दबाकर कार्ड या अपना फोटो चुनें और पहेली को सुलझाएँ!',
+      'en' => '💡 Tap [Change] to pick divine cards or your photo and restore the puzzle!',
+      _ => '💡 상단 [그림 변경]으로 도감 카드나 내 사진을 골라 힐링 퍼즐을 맞춰보세요!',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF140F0A),
@@ -560,11 +714,9 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
         child: Column(
           children: [
             GameHud(
-              title: isKo ? '깨비 신수 도감 퍼즐' : 'Kkaebi Deity Puzzle',
+              title: titleText,
               score: model.score,
-              rightLabel: model.isCleared
-                  ? (isKo ? '🏆 완성!' : '🏆 Done!')
-                  : '${model.moves} 이동',
+              rightLabel: rightLabelText,
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFFFFD54F),
             ),
@@ -594,7 +746,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                           const Icon(Icons.photo_library_rounded, color: Color(0xFFFFD54F), size: 14),
                           const SizedBox(width: 4),
                           Text(
-                            isKo ? '그림 변경' : 'Change',
+                            changeText,
                             style: const TextStyle(
                               color: Color(0xFFFFD54F),
                               fontSize: 11,
@@ -645,7 +797,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                   ),
                   const SizedBox(width: 4),
                   IconButton(
-                    tooltip: isKo ? '원본 보기' : 'View Original',
+                    tooltip: viewOriginalTooltip,
                     icon: Icon(
                       _showOriginal ? Icons.visibility : Icons.visibility_outlined,
                       color: const Color(0xFFFFD54F),
@@ -713,7 +865,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                   ? GameResultBar(
                       key: const ValueKey('jigsaw_result_bar'),
                       gameId: KkaebiJigsawGame.gameId,
-                      title: '${model.cardName} 퍼즐 완성!',
+                      title: clearTitle,
                       score: model.score,
                       best: model.score,
                       cleared: true,
@@ -721,7 +873,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                         SoundService().playCardFlip();
                         _showImagePickerSheet(context);
                       },
-                      changeOptionLabel: isKo ? '다른 그림' : 'Change',
+                      changeOptionLabel: changeOptionLabel,
                       onRetry: () => _initPuzzle(),
                       onExit: () => Navigator.of(context).pop(),
                     )
@@ -729,9 +881,7 @@ class _KkaebiJigsawGameState extends State<KkaebiJigsawGame> {
                       key: const ValueKey('jigsaw_guide_text'),
                       padding: const EdgeInsets.fromLTRB(16, 4, 16, 14),
                       child: Text(
-                        isKo
-                            ? '💡 상단 [그림 변경]으로 도감 카드나 내 사진을 골라 힐링 퍼즐을 맞춰보세요!'
-                            : '💡 Tap [Change] to pick divine cards or your photo and restore the puzzle!',
+                        guideText,
                         textAlign: TextAlign.center,
                         style: const TextStyle(color: Colors.white70, fontSize: 11.5),
                       ),

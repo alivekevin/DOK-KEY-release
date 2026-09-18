@@ -383,7 +383,76 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
+    final isKo = lang == 'ko';
+
+    final titleText = switch (lang) {
+      'ja' => 'クケビテトリス',
+      'zh' => '吉鬼方块',
+      'de' => 'Kkaebi Tetris',
+      'hi' => 'कैबी टेट्रिस',
+      'en' => 'Tetris',
+      _ => '깨비 테트리스',
+    };
+
+    final scoreStatsText = switch (lang) {
+      'ja' => 'スコア: ${model.score} · LV.${model.level} · 🧱${model.lines}列',
+      'zh' => '得分: ${model.score} · LV.${model.level} · 🧱${model.lines}行',
+      'de' => 'Punkte: ${model.score} · LV.${model.level} · 🧱${model.lines} Reihen',
+      'hi' => 'अंक: ${model.score} · LV.${model.level} · 🧱${model.lines} पंक्तियाँ',
+      'en' => 'Score: ${model.score} · LV.${model.level} · 🧱${model.lines} Lines',
+      _ => '점수: ${model.score} · LV.${model.level} · 🧱${model.lines}줄',
+    };
+
+    final nextLabel = switch (lang) {
+      'ja' => '次 ',
+      'zh' => '下一个 ',
+      'de' => 'NÄCHSTE ',
+      'hi' => 'अगला ',
+      'en' => 'NEXT ',
+      _ => '다음 ',
+    };
+
+    final leftLabel = switch (lang) {
+      'ja' => '左',
+      'zh' => '左',
+      'de' => 'Links',
+      'hi' => 'बाएँ',
+      'en' => 'Left',
+      _ => '좌',
+    };
+    final rightLabel = switch (lang) {
+      'ja' => '右',
+      'zh' => '右',
+      'de' => 'Rechts',
+      'hi' => 'दाएँ',
+      'en' => 'Right',
+      _ => '우',
+    };
+    final downLabel = switch (lang) {
+      'ja' => '下降',
+      'zh' => '下降',
+      'de' => 'Runter',
+      'hi' => 'नीचे',
+      'en' => 'Down',
+      _ => '하강',
+    };
+    final rotateLabel = switch (lang) {
+      'ja' => '回転',
+      'zh' => '旋转',
+      'de' => 'Drehen',
+      'hi' => 'घुमाएँ',
+      'en' => 'Rotate',
+      _ => '회전',
+    };
+    final dropLabel = switch (lang) {
+      'ja' => '急降下',
+      'zh' => '直降',
+      'de' => 'Fallen',
+      'hi' => 'गिराएँ',
+      'en' => 'Drop',
+      _ => '즉시 낙하',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF0F141C),
@@ -400,11 +469,8 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                 ),
                 child: Row(
                   children: [
-                    // 나가기 버튼
-                    IconButton(
-                      icon: const Icon(Icons.arrow_back_ios_new_rounded, color: Colors.white, size: 18),
-                      padding: EdgeInsets.zero,
-                      constraints: const BoxConstraints(),
+                    // 🕹️ 나가기 버튼 (원형 골드 닫기 버튼 통일)
+                    KkaebiGameCloseButton(
                       onPressed: () => Navigator.of(context).pop(),
                     ),
                     const SizedBox(width: 8),
@@ -413,11 +479,11 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          isKo ? '깨비 테트리스' : 'Kkaebi Tetris',
+                          titleText,
                           style: const TextStyle(color: Color(0xFFFFD700), fontWeight: FontWeight.w900, fontSize: 14),
                         ),
                         Text(
-                          '점수: ${model.score} · LV.${model.level} · 🧱${model.lines}줄',
+                          scoreStatsText,
                           style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 11.5, fontWeight: FontWeight.bold),
                         ),
                       ],
@@ -435,7 +501,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Text(
-                            isKo ? '다음 ' : 'NEXT ',
+                            nextLabel,
                             style: const TextStyle(color: Color(0xFFFFD700), fontSize: 10.5, fontWeight: FontWeight.w900),
                           ),
                           const SizedBox(width: 4),
@@ -499,7 +565,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                               Expanded(
                                 child: _GamepadBtn(
                                   icon: Icons.arrow_back_rounded,
-                                  label: isKo ? '좌' : 'Left',
+                                  label: leftLabel,
                                   color: const Color(0xFF38BDF8),
                                   height: 46,
                                   onTap: () => model.move(-1, 0),
@@ -509,7 +575,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                               Expanded(
                                 child: _GamepadBtn(
                                   icon: Icons.arrow_forward_rounded,
-                                  label: isKo ? '우' : 'Right',
+                                  label: rightLabel,
                                   color: const Color(0xFF38BDF8),
                                   height: 46,
                                   onTap: () => model.move(1, 0),
@@ -520,7 +586,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                           const SizedBox(height: 6),
                           _GamepadBtn(
                             icon: Icons.arrow_downward_rounded,
-                            label: isKo ? '소프트 하강' : 'Down',
+                            label: downLabel,
                             color: const Color(0xFF4ADE80),
                             height: 38,
                             onTap: () => model.move(0, 1),
@@ -538,7 +604,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                         children: [
                           _GamepadBtn(
                             icon: Icons.rotate_right_rounded,
-                            label: isKo ? '블록 회전' : 'Rotate',
+                            label: rotateLabel,
                             color: const Color(0xFFFFD700),
                             height: 46,
                             isPrimary: true,
@@ -547,7 +613,7 @@ class _KkaebiTetrisGameState extends State<KkaebiTetrisGame>
                           const SizedBox(height: 6),
                           _GamepadBtn(
                             icon: Icons.keyboard_double_arrow_down_rounded,
-                            label: isKo ? '즉시 낙하' : 'Drop',
+                            label: dropLabel,
                             color: const Color(0xFFFF5252),
                             height: 38,
                             isAccent: true,

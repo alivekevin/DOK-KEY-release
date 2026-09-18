@@ -568,8 +568,44 @@ class _KkaebiBreakoutGameState extends State<KkaebiBreakoutGame>
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
     final hearts = List.generate(3, (i) => i < (model?.lives ?? 3) ? '❤️' : '🖤').join(' ');
+
+    final titleText = switch (lang) {
+      'ja' => 'クケビブロック崩し',
+      'zh' => '吉鬼打砖块',
+      'de' => 'Kkaebi Breakout',
+      'hi' => 'कैबी ब्रिक ब्रेकर',
+      'en' => 'Kkaebi Breakout',
+      _ => '깨비 벽돌깨기',
+    };
+
+    final livesLabel = hearts;
+
+    final fireballName = switch (lang) {
+      'ja' => '🔥 ファイアボール',
+      'zh' => '🔥 火球',
+      'de' => '🔥 Feuerball',
+      'hi' => '🔥 आग का गोला',
+      'en' => '🔥 Fireball',
+      _ => '🔥 파이어볼',
+    };
+    final widePaddleName = switch (lang) {
+      'ja' => '↔ ワイドパドル',
+      'zh' => '↔ 宽挡板',
+      'de' => '↔ Breites Paddel',
+      'hi' => '↔ चौड़ा पैडल',
+      'en' => '↔ Wide Paddle',
+      _ => '↔ 와이드패들',
+    };
+    final laserName = switch (lang) {
+      'ja' => '⚡ レーザーガン',
+      'zh' => '⚡ 激光枪',
+      'de' => '⚡ Laserkanone',
+      'hi' => '⚡ लेजर गन',
+      'en' => '⚡ Laser Gun',
+      _ => '⚡ 레이저건',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF0D1117),
@@ -577,9 +613,9 @@ class _KkaebiBreakoutGameState extends State<KkaebiBreakoutGame>
         child: Column(
           children: [
             GameHud(
-              title: isKo ? '깨비 벽돌깨기' : 'Kkaebi Breakout',
+              title: titleText,
               score: model?.score ?? 0,
-              rightLabel: '생명: $hearts',
+              rightLabel: livesLabel,
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFFFF5722),
             ),
@@ -594,11 +630,11 @@ class _KkaebiBreakoutGameState extends State<KkaebiBreakoutGame>
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     if (model!.fireballActive)
-                      _buildBuffTag('🔥 파이어볼 ${model!.fireballTimer.toStringAsFixed(1)}s', const Color(0xFFFF5722)),
+                      _buildBuffTag('$fireballName ${model!.fireballTimer.toStringAsFixed(1)}s', const Color(0xFFFF5722)),
                     if (model!.paddleWideTimer > 0)
-                      _buildBuffTag('↔ 와이드패들 ${model!.paddleWideTimer.toStringAsFixed(1)}s', const Color(0xFF00E676)),
+                      _buildBuffTag('$widePaddleName ${model!.paddleWideTimer.toStringAsFixed(1)}s', const Color(0xFF00E676)),
                     if (model!.laserActive)
-                      _buildBuffTag('⚡ 레이저건 ${model!.laserTimer.toStringAsFixed(1)}s', const Color(0xFF00E5FF)),
+                      _buildBuffTag('$laserName ${model!.laserTimer.toStringAsFixed(1)}s', const Color(0xFF00E5FF)),
                   ],
                 ),
               ),

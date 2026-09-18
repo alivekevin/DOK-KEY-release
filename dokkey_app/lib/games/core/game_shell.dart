@@ -8,6 +8,7 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../core/sound_service.dart';
+import '../../core/theme.dart';
 import '../../providers/dokkey_provider.dart';
 
 /// 🕹️ DOK-KEY 아케이드 공용 셸 (v4.8.0)
@@ -145,8 +146,22 @@ class GameResultDialog extends StatelessWidget {
               children: [
                 Text(
                   cleared
-                      ? (isKo ? '🏆 게임 클리어!' : '🏆 CLEAR!')
-                      : (isKo ? '💥 게임 종료' : '💥 GAME OVER'),
+                      ? switch (lang) {
+                          'ja' => '🏆 クリア!',
+                          'zh' => '🏆 顺利通关!',
+                          'hi' => '🏆 पूर्ण!',
+                          'de' => '🏆 GESCHAFFT!',
+                          'en' => '🏆 CLEAR!',
+                          _ => '🏆 게임 클리어!',
+                        }
+                      : switch (lang) {
+                          'ja' => '💥 ゲームオーバー',
+                          'zh' => '💥 游戏结束',
+                          'hi' => '💥 खेल समाप्त',
+                          'de' => '💥 SPIEL ENDE',
+                          'en' => '💥 GAME OVER',
+                          _ => '💥 게임 종료',
+                        },
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.w900,
@@ -172,9 +187,14 @@ class GameResultDialog extends StatelessWidget {
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  isKo
-                      ? '최고 기록: $best pt'
-                      : (lang == 'ja' ? 'ハ이스コア: $best pt' : 'Best: $best pt'),
+                  switch (lang) {
+                    'ja' => 'ハイスコア: $best pt',
+                    'zh' => '最高纪录: $best pt',
+                    'hi' => 'सर्वश्रेष्ठ: $best pt',
+                    'de' => 'Beste: $best pt',
+                    'en' => 'Best: $best pt',
+                    _ => '최고 기록: $best pt',
+                  },
                   style: const TextStyle(
                     color: Color(0xFFFFD700),
                     fontSize: 14,
@@ -189,15 +209,51 @@ class GameResultDialog extends StatelessWidget {
                     runSpacing: 6,
                     children: [
                       _RewardChip(
-                          icon: Icons.monetization_on_rounded,
-                          label: '+${reward.coins} 코인'),
+                        icon: Icons.monetization_on_rounded,
+                        label: switch (lang) {
+                          'ja' => '+${reward.coins} コイン',
+                          'zh' => '+${reward.coins} 金币',
+                          'hi' => '+${reward.coins} सिक्के',
+                          'de' => '+${reward.coins} Münzen',
+                          'en' => '+${reward.coins} Coins',
+                          _ => '+${reward.coins} 코인',
+                        },
+                      ),
                       _RewardChip(
-                          icon: Icons.favorite_rounded,
-                          label: '+${reward.affection} 친밀도'),
+                        icon: Icons.favorite_rounded,
+                        label: switch (lang) {
+                          'ja' => '+${reward.affection} 親愛度',
+                          'zh' => '+${reward.affection} 亲密度',
+                          'hi' => '+${reward.affection} आत्मीयता',
+                          'de' => '+${reward.affection} Zuneigung',
+                          'en' => '+${reward.affection} Affection',
+                          _ => '+${reward.affection} 친밀도',
+                        },
+                      ),
                       if (reward.keys > 0)
-                        _RewardChip(icon: Icons.key_rounded, label: '+${reward.keys} 열쇠'),
+                        _RewardChip(
+                          icon: Icons.key_rounded,
+                          label: switch (lang) {
+                            'ja' => '+${reward.keys} 鍵',
+                            'zh' => '+${reward.keys} 钥匙',
+                            'hi' => '+${reward.keys} चाबियां',
+                            'de' => '+${reward.keys} Schlüssel',
+                            'en' => '+${reward.keys} Keys',
+                            _ => '+${reward.keys} 열쇠',
+                          },
+                        ),
                       if (reward.newRecord)
-                        const _RewardChip(icon: Icons.emoji_events_rounded, label: 'NEW 최고기록!'),
+                        _RewardChip(
+                          icon: Icons.emoji_events_rounded,
+                          label: switch (lang) {
+                            'ja' => 'NEW 新記録!',
+                            'zh' => 'NEW 创下新纪录!',
+                            'hi' => 'NEW नया रिकॉर्ड!',
+                            'de' => 'NEW REKORD!',
+                            'en' => 'NEW RECORD!',
+                            _ => 'NEW 최고기록!',
+                          },
+                        ),
                     ],
                   ),
                 ],
@@ -217,7 +273,14 @@ class GameResultDialog extends StatelessWidget {
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
                         ),
                         label: Text(
-                          isKo ? '다시하기' : 'Retry',
+                          switch (lang) {
+                            'ja' => 'リトライ',
+                            'zh' => '重试',
+                            'hi' => 'पुनः प्रयास',
+                            'de' => 'Wiederholen',
+                            'en' => 'Retry',
+                            _ => '다시하기',
+                          },
                           style: const TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.w900,
@@ -241,7 +304,14 @@ class GameResultDialog extends StatelessWidget {
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
                         ),
                         label: Text(
-                          isKo ? '나가기' : 'Exit',
+                          switch (lang) {
+                            'ja' => '終了',
+                            'zh' => '退出',
+                            'hi' => 'बाहर निकलें',
+                            'de' => 'Beenden',
+                            'en' => 'Exit',
+                            _ => '나가기',
+                          },
                           style: const TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w900,
@@ -592,7 +662,48 @@ class _RewardChip extends StatelessWidget {
 }
 
 // ---------------------------------------------------------------------------
-// 게임 HUD (상단 점수바 + 고시인성 나가기 버튼)
+// 🕹️ 깨비 오락실 공통 원형 골드 닫기(X) 버튼 (v5.2.3)
+// ---------------------------------------------------------------------------
+class KkaebiGameCloseButton extends StatelessWidget {
+  final VoidCallback? onPressed;
+  final double size;
+
+  const KkaebiGameCloseButton({
+    super.key,
+    this.onPressed,
+    this.size = 17,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return InkWell(
+      onTap: onPressed ?? () {
+        SoundService().playCardFlip();
+        Navigator.of(context).pop();
+      },
+      borderRadius: BorderRadius.circular(20),
+      child: Container(
+        padding: const EdgeInsets.all(5),
+        decoration: BoxDecoration(
+          color: Colors.black.withOpacity(0.5),
+          shape: BoxShape.circle,
+          border: Border.all(
+            color: DokkeyTheme.gold.withOpacity(0.6),
+            width: 1.2,
+          ),
+        ),
+        child: Icon(
+          Icons.close_rounded,
+          size: size,
+          color: DokkeyTheme.goldLight,
+        ),
+      ),
+    );
+  }
+}
+
+// ---------------------------------------------------------------------------
+// 게임 HUD (상단 점수바 + 고시인성 원형 골드 나가기 버튼)
 // ---------------------------------------------------------------------------
 class GameHud extends StatelessWidget {
   final String title;
@@ -622,34 +733,8 @@ class GameHud extends StatelessWidget {
         bottom: false,
         child: Row(
           children: [
-            // 선명한 나가기 뱃지 버튼
-            InkWell(
-              onTap: onQuit,
-              borderRadius: BorderRadius.circular(10),
-              child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-                decoration: BoxDecoration(
-                  color: const Color(0xFF333D4F),
-                  borderRadius: BorderRadius.circular(10),
-                  border: Border.all(color: const Color(0xFF64748B), width: 1.2),
-                ),
-                child: const Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(Icons.arrow_back_ios_new_rounded, size: 12, color: Colors.white),
-                    SizedBox(width: 4),
-                    Text(
-                      '종료',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ),
+            // 🕹️ 원형 골드 닫기(X) 버튼 (아케이드 허브와 100% 디자인 통일)
+            KkaebiGameCloseButton(onPressed: onQuit),
             const SizedBox(width: 12),
             Text(
               title,

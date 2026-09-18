@@ -15,15 +15,33 @@ import 'screen_emotion_fx_overlay.dart';
 class QuoteHeroSection extends StatelessWidget {
   const QuoteHeroSection({super.key});
 
-  static const List<(String, EmotionType, String)> _showcase = [
-    ('rage', EmotionType.rage, '💢 분노 (지진)'),
-    ('joy', EmotionType.joy, '✨ 환희 (폭죽)'),
-    ('normal', EmotionType.normal, '❄️ 온화 (평온)'),
-    ('shock', EmotionType.shock, '⚡ 경악 (충격)'),
-    ('curious', EmotionType.curious, '🌀 궁금 (호기심)'),
-    ('sad', EmotionType.sad, '💧 슬픔 (빗방울)'),
-    ('shy', EmotionType.shy, '💖 설렘 (하트)'),
-    ('fire', EmotionType.fire, '🔥 각성 (도깨비불)'),
+  static String _t(String lang, {
+    required String ko,
+    required String en,
+    required String ja,
+    required String zh,
+    required String de,
+    required String hi,
+  }) {
+    switch (lang) {
+      case 'en': return en;
+      case 'ja': return ja;
+      case 'zh': return zh;
+      case 'de': return de;
+      case 'hi': return hi;
+      default: return ko;
+    }
+  }
+
+  static List<(String, EmotionType, String)> _getShowcase(String lang) => [
+    ('rage', EmotionType.rage, _t(lang, ko: '💢 분노 (지진)', en: '💢 Rage (Quake)', ja: '💢 怒り (地震)', zh: '💢 愤怒 (地震)', de: '💢 Wut (Beben)', hi: '💢 क्रोध (भूकंप)')),
+    ('joy', EmotionType.joy, _t(lang, ko: '✨ 환희 (폭죽)', en: '✨ Joy (Fireworks)', ja: '✨ 歓喜 (花火)', zh: '✨ 欢喜 (烟花)', de: '✨ Freude (Feuerwerk)', hi: '✨ आनंद (पटाखे)')),
+    ('normal', EmotionType.normal, _t(lang, ko: '❄️ 온화 (평온)', en: '❄️ Calm (Serenity)', ja: '❄️ 温和 (平穏)', zh: '❄️ 温和 (宁静)', de: '❄️ Sanft (Ruhe)', hi: '❄️ शांत (सुकून)')),
+    ('shock', EmotionType.shock, _t(lang, ko: '⚡ 경악 (충격)', en: '⚡ Shock (Thunder)', ja: '⚡ 驚愕 (衝撃)', zh: '⚡ 震惊 (冲击)', de: '⚡ Schock (Blitz)', hi: '⚡ झटका (बिजली)')),
+    ('curious', EmotionType.curious, _t(lang, ko: '🌀 궁금 (호기심)', en: '🌀 Curious (Wonder)', ja: '🌀 好奇 (探求)', zh: '🌀 好奇 (探寻)', de: '🌀 Neugier (Wirbel)', hi: '🌀 उत्सुक (जिज्ञासा)')),
+    ('sad', EmotionType.sad, _t(lang, ko: '💧 슬픔 (빗방울)', en: '💧 Sadness (Rain)', ja: '💧 悲しみ (雨滴)', zh: '💧 悲伤 (雨滴)', de: '💧 Trauer (Regen)', hi: '💧 उदासी (बारिश)')),
+    ('shy', EmotionType.shy, _t(lang, ko: '💖 설렘 (하트)', en: '💖 Flutter (Heart)', ja: '💖 ときめき (ハート)', zh: '💖 心动 (爱心)', de: '💖 Herzklopfen (Herz)', hi: '💖 उत्साह (हार्ट)')),
+    ('fire', EmotionType.fire, _t(lang, ko: '🔥 각성 (도깨비불)', en: '🔥 Awakening (Wisp)', ja: '🔥 覚醒 (鬼火)', zh: '🔥 觉醒 (鬼火)', de: '🔥 Erwachen (Feuer)', hi: '🔥 जागृति (अग्नि)')),
   ];
 
   void _playFx(BuildContext context, EmotionType emotion) {
@@ -50,6 +68,9 @@ class QuoteHeroSection extends StatelessWidget {
   }
 
   void _showEmotionShowcase(BuildContext context) {
+    final lang = context.read<DokkeyProvider>().lang;
+    final showcase = _getShowcase(lang);
+
     showModalBottomSheet(
       context: context,
       backgroundColor: DokkeyTheme.cardDark,
@@ -68,7 +89,14 @@ class QuoteHeroSection extends StatelessWidget {
                   Icon(Icons.theater_comedy_rounded, color: DokkeyTheme.gold, size: 20),
                   const SizedBox(width: 8),
                   Text(
-                    '깨비 감정 쇼케이스 (8대 감정 FX)',
+                    _t(lang,
+                      ko: '깨비 감정 쇼케이스 (8대 감정 FX)',
+                      en: 'Kkaebi Emotion Showcase (8 VFX)',
+                      ja: 'クケビ感情ショーケース (8大感情FX)',
+                      zh: '吉鬼情感剧场 (8大情绪特效)',
+                      de: 'Kkaebi-Emotions-Showcase (8 VFX)',
+                      hi: 'कैबी भावना शोकेस (8 भाव FX)',
+                    ),
                     style: TextStyle(
                       color: DokkeyTheme.goldLight,
                       fontWeight: FontWeight.bold,
@@ -81,7 +109,7 @@ class QuoteHeroSection extends StatelessWidget {
               Wrap(
                 spacing: 8,
                 runSpacing: 8,
-                children: _showcase.map((e) {
+                children: showcase.map((e) {
                   return OutlinedButton(
                     onPressed: () {
                       Navigator.of(sheetCtx).pop();
@@ -100,7 +128,14 @@ class QuoteHeroSection extends StatelessWidget {
               const SizedBox(height: 8),
               Center(
                 child: Text(
-                  '선택한 감정에 따라 화면 전체 풀스크린 Canvas 이펙트가 재생됩니다',
+                  _t(lang,
+                    ko: '선택한 감정에 따라 화면 전체 풀스크린 Canvas 이펙트가 재생됩니다',
+                    en: 'Plays a full-screen canvas effect matching the selected emotion',
+                    ja: '選択した感情に応じて全画面Canvasエフェクトが再生されます',
+                    zh: '根据所选情绪播放全屏Canvas特效',
+                    de: 'Spielt Vollbild-Canvas-Effekte passend zur gewählten Emotion',
+                    hi: 'चुने गए भाव के अनुसार पूर्ण-स्क्रीन कैनवास प्रभाव चलेगा',
+                  ),
                   style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10.5),
                 ),
               ),
@@ -264,7 +299,14 @@ class QuoteHeroSection extends StatelessWidget {
                 const SizedBox(height: 6),
                 _MiniIcon(
                   icon: Icons.theater_comedy_rounded,
-                  tooltip: isKo ? '감정 리액션' : 'Emotion FX',
+                  tooltip: _t(provider.lang,
+                    ko: '감정 리액션',
+                    en: 'Emotion FX',
+                    ja: '感情リアクション',
+                    zh: '情绪特效',
+                    de: 'Emotions-FX',
+                    hi: 'भाव प्रभाव',
+                  ),
                   onTap: () => _showEmotionShowcase(context),
                 ),
               ],

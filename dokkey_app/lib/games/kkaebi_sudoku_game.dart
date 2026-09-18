@@ -289,7 +289,6 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
     final screenWidth = MediaQuery.of(context).size.width;
 
     // 📐 통일 콘텐츠 폭: 보드·결과 바·안내 카드·키패드가 모두 동일 폭으로 정렬
@@ -304,75 +303,133 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
     return Scaffold(
       backgroundColor: const Color(0xFF101216),
       body: gameCanvas(
-        overlayBuilder: () => SafeArea(
-          child: Column(
-            children: [
-              GameHud(
-                title: isKo
-                    ? '깨비 스도쿠 ($currentSize×$currentSize)'
-                    : 'Sudoku ($currentSize×$currentSize)',
-                score: _score,
-                rightLabel: _finished
-                    ? (isKo ? '🏆 완성!' : '🏆 Solved!')
-                    : '⏱ ${_elapsed}s · ✗$_mistakes',
-                onQuit: () => Navigator.of(context).pop(),
-              ),
-              Expanded(
-                child: SingleChildScrollView(
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                  child: Column(
-                    children: [
-                      // 1. 난이도 선택 탭 (4x4 초급, 6x6 중급, 9x9 고급)
-                      Container(
-                        width: actualBoardWidth,
-                        padding: const EdgeInsets.all(4),
-                        decoration: BoxDecoration(
-                          color: const Color(0xFF1B2230),
-                          borderRadius: BorderRadius.circular(14),
-                          border: Border.all(color: const Color(0xFF334155), width: 1.2),
-                        ),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            _buildDifficultyTab(size: 4, label: isKo ? '4×4 초급' : '4×4 Easy'),
-                            _buildDifficultyTab(size: 6, label: isKo ? '6×6 중급' : '6×6 Medium'),
-                            _buildDifficultyTab(size: 9, label: isKo ? '9×9 고급' : '9×9 Hard'),
-                          ],
-                        ),
-                      ),
-                      const SizedBox(height: 12),
+        overlayBuilder: () {
+          final lang = context.watch<DokkeyProvider>().lang;
+          final isKo = lang == 'ko';
 
-                      // 2. 남은 빈칸 & 가이드 현황 배지
-                      Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
-                        decoration: BoxDecoration(
-                          color: notesMode ? const Color(0xFF004D25).withOpacity(0.85) : const Color(0xFF1E2638),
-                          borderRadius: BorderRadius.circular(12),
-                          border: Border.all(
-                            color: notesMode ? const Color(0xFF00E676) : const Color(0xFF3B4861),
-                            width: 1.2,
+          final titleText = switch (lang) {
+            'ja' => 'クケビ数独 ($currentSize×$currentSize)',
+            'zh' => '吉鬼数独 ($currentSize×$currentSize)',
+            'de' => 'Kkaebi Sudoku ($currentSize×$currentSize)',
+            'hi' => 'कैबी सुडोकू ($currentSize×$currentSize)',
+            'en' => 'Kkaebi Sudoku ($currentSize×$currentSize)',
+            _ => '깨비 스도쿠 ($currentSize×$currentSize)',
+          };
+
+          final solvedLabel = switch (lang) {
+            'ja' => '🏆 完成!',
+            'zh' => '🏆 完成!',
+            'de' => '🏆 Gelöst!',
+            'hi' => '🏆 पूर्ण!',
+            'en' => '🏆 Solved!',
+            _ => '🏆 완성!',
+          };
+
+          final tab4 = switch (lang) {
+            'ja' => '4×4 初級',
+            'zh' => '4×4 初级',
+            'de' => '4×4 Leicht',
+            'hi' => '4×4 सरल',
+            'en' => '4×4 Easy',
+            _ => '4×4 초급',
+          };
+          final tab6 = switch (lang) {
+            'ja' => '6×6 中級',
+            'zh' => '6×6 中级',
+            'de' => '6×6 Mittel',
+            'hi' => '6×6 Medium',
+            'en' => '6×6 Medium',
+            _ => '6×6 중급',
+          };
+          final tab9 = switch (lang) {
+            'ja' => '9×9 上級',
+            'zh' => '9×9 高级',
+            'de' => '9×9 Schwer',
+            'hi' => '9×9 कठिन',
+            'en' => '9×9 Hard',
+            _ => '9×9 고급',
+          };
+
+          final memoActiveText = switch (lang) {
+            'ja' => '✏️ メモモード (候補番号記録)',
+            'zh' => '✏️ 笔记模式 (记录候选数字)',
+            'de' => '✏️ Notizmodus (Kandidaten)',
+            'hi' => '✏️ नोट मोड (संभावित अंक)',
+            'en' => '✏️ Memo Active',
+            _ => '✏️ 메모 모드 (후보 번호 기록)',
+          };
+          final emptyCountText = switch (lang) {
+            'ja' => '🎯 空きマス: ${puzzle.emptyCount}個',
+            'zh' => '🎯 剩余空格: ${puzzle.emptyCount}个',
+            'de' => '🎯 Frei: ${puzzle.emptyCount}',
+            'hi' => '🎯 शेष रिक्त: ${puzzle.emptyCount}',
+            'en' => '🎯 Empty: ${puzzle.emptyCount}',
+            _ => '🎯 남은 빈칸: ${puzzle.emptyCount}개',
+          };
+
+          return SafeArea(
+            child: Column(
+              children: [
+                GameHud(
+                  title: titleText,
+                  score: _score,
+                  rightLabel: _finished ? solvedLabel : '⏱ ${_elapsed}s · ✗$_mistakes',
+                  onQuit: () => Navigator.of(context).pop(),
+                ),
+                Expanded(
+                  child: SingleChildScrollView(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    child: Column(
+                      children: [
+                        // 1. 난이도 선택 탭 (4x4 초급, 6x6 중급, 9x9 고급)
+                        Container(
+                          width: actualBoardWidth,
+                          padding: const EdgeInsets.all(4),
+                          decoration: BoxDecoration(
+                            color: const Color(0xFF1B2230),
+                            borderRadius: BorderRadius.circular(14),
+                            border: Border.all(color: const Color(0xFF334155), width: 1.2),
+                          ),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                            children: [
+                              _buildDifficultyTab(size: 4, label: tab4),
+                              _buildDifficultyTab(size: 6, label: tab6),
+                              _buildDifficultyTab(size: 9, label: tab9),
+                            ],
                           ),
                         ),
-                        child: Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Icon(
-                              notesMode ? Icons.edit_note_rounded : Icons.grid_on_rounded,
-                              size: 18,
-                              color: notesMode ? const Color(0xFF00E676) : const Color(0xFFFFD700),
+                        const SizedBox(height: 12),
+
+                        // 2. 남은 빈칸 & 가이드 현황 배지
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
+                          decoration: BoxDecoration(
+                            color: notesMode ? const Color(0xFF004D25).withOpacity(0.85) : const Color(0xFF1E2638),
+                            borderRadius: BorderRadius.circular(12),
+                            border: Border.all(
+                              color: notesMode ? const Color(0xFF00E676) : const Color(0xFF3B4861),
+                              width: 1.2,
                             ),
-                            const SizedBox(width: 8),
-                            Text(
-                              notesMode
-                                  ? (isKo ? '✏️ 메모 모드 (후보 번호 기록)' : '✏️ Memo Active')
-                                  : (isKo ? '🎯 남은 빈칸: ${puzzle.emptyCount}개' : '🎯 Empty: ${puzzle.emptyCount}'),
-                              style: TextStyle(
-                                fontSize: 13,
-                                fontWeight: FontWeight.bold,
-                                color: notesMode ? const Color(0xFF00E676) : const Color(0xFFFFE66D),
+                          ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Icon(
+                                notesMode ? Icons.edit_note_rounded : Icons.grid_on_rounded,
+                                size: 18,
+                                color: notesMode ? const Color(0xFF00E676) : const Color(0xFFFFD700),
                               ),
-                            ),
-                          ],
+                              const SizedBox(width: 8),
+                              Text(
+                                notesMode ? memoActiveText : emptyCountText,
+                                style: TextStyle(
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.bold,
+                                  color: notesMode ? const Color(0xFF00E676) : const Color(0xFFFFE66D),
+                                ),
+                              ),
+                            ],
                         ),
                       ),
                       const SizedBox(height: 14),
@@ -541,7 +598,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                 children: [
                                   SizedBox(
                                     width: actualBoardWidth,
-                                    child: _buildClearCard(isKo),
+                                    child: _buildClearCard(lang),
                                   ),
                                   const SizedBox(height: 10),
                                   SizedBox(
@@ -549,11 +606,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                     child: GameResultBar(
                                       key: const ValueKey('sudoku_result_bar'),
                                       gameId: KkaebiSudokuGame.gameId,
-                                      title: currentSize == 4
-                                          ? (isKo ? '스도쿠 4×4 완성!' : 'Sudoku 4x4 Cleared!')
-                                          : (currentSize == 6
-                                              ? (isKo ? '스도쿠 6×6 완성!' : 'Sudoku 6x6 Cleared!')
-                                              : (isKo ? '스도쿠 9×9 완성!' : 'Sudoku 9x9 Cleared!')),
+                                      title: switch (lang) {
+                                        'ja' => '数独 $currentSize×$currentSize 完成!',
+                                        'zh' => '数独 $currentSize×$currentSize 完成!',
+                                        'de' => 'Sudoku $currentSize×$currentSize Gelöst!',
+                                        'hi' => 'सुडोकू $currentSize×$currentSize पूर्ण!',
+                                        'en' => 'Sudoku $currentSize×$currentSize Cleared!',
+                                        _ => '스도쿠 $currentSize×$currentSize 완성!',
+                                      },
                                       score: _score,
                                       best: _score,
                                       cleared: true,
@@ -561,7 +621,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                         final nextSize = currentSize == 4 ? 6 : (currentSize == 6 ? 9 : 4);
                                         _switchDifficulty(nextSize);
                                       },
-                                      changeOptionLabel: isKo ? '다른 난이도' : 'Difficulty',
+                                      changeOptionLabel: switch (lang) {
+                                        'ja' => '難易度変更',
+                                        'zh' => '切换难度',
+                                        'de' => 'Schwierigkeit',
+                                        'hi' => 'कठिनाई',
+                                        'en' => 'Difficulty',
+                                        _ => '다른 난이도',
+                                      },
                                       changeOptionIcon: Icons.tune_rounded,
                                       onRetry: () => _switchDifficulty(currentSize),
                                       onExit: () => Navigator.of(context).pop(),
@@ -599,8 +666,22 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                         ),
                                         label: Text(
                                           notesMode
-                                              ? (isKo ? '메모: ON' : 'Memo: ON')
-                                              : (isKo ? '메모: OFF' : 'Memo: OFF'),
+                                              ? switch (lang) {
+                                                  'ja' => 'メモ: ON',
+                                                  'zh' => '笔记: 开',
+                                                  'de' => 'Notiz: AN',
+                                                  'hi' => 'नोट: ON',
+                                                  'en' => 'Memo: ON',
+                                                  _ => '메모: ON',
+                                                }
+                                              : switch (lang) {
+                                                  'ja' => 'メモ: OFF',
+                                                  'zh' => '笔记: 关',
+                                                  'de' => 'Notiz: AUS',
+                                                  'hi' => 'नोट: OFF',
+                                                  'en' => 'Memo: OFF',
+                                                  _ => '메모: OFF',
+                                                },
                                           style: TextStyle(
                                             fontSize: 13,
                                             fontWeight: FontWeight.bold,
@@ -625,7 +706,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
                                         ),
                                         label: Text(
-                                          isKo ? '지혜 힌트 ($_hintsLeft)' : 'Hint ($_hintsLeft)',
+                                          switch (lang) {
+                                            'ja' => '知恵ヒント ($_hintsLeft)',
+                                            'zh' => '提示 ($_hintsLeft)',
+                                            'de' => 'Hinweis ($_hintsLeft)',
+                                            'hi' => 'संकेत ($_hintsLeft)',
+                                            'en' => 'Hint ($_hintsLeft)',
+                                            _ => '지혜 힌트 ($_hintsLeft)',
+                                          },
                                           style: TextStyle(
                                             fontSize: 13,
                                             fontWeight: FontWeight.w900,
@@ -646,7 +734,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 11),
                                         ),
                                         label: Text(
-                                          isKo ? '지우기' : 'Erase',
+                                          switch (lang) {
+                                            'ja' => '消去',
+                                            'zh' => '擦除',
+                                            'de' => 'Löschen',
+                                            'hi' => 'मिटाएं',
+                                            'en' => 'Erase',
+                                            _ => '지우기',
+                                          },
                                           style: const TextStyle(
                                             fontSize: 13,
                                             fontWeight: FontWeight.bold,
@@ -660,7 +755,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                               ),
                       ),
                       const SizedBox(height: 20),
-                      // 6. 📜 스도쿠 규칙 및 클리어 안내 카드
+                      // 6. 📜 스도쿠 규칙 및 목표 카드 (종료 안내 문구 제거 & 6개국어 지원)
                       Container(
                         width: actualBoardWidth,
                         padding: const EdgeInsets.all(16),
@@ -677,7 +772,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                                 const Text('📜', style: TextStyle(fontSize: 18)),
                                 const SizedBox(width: 8),
                                 Text(
-                                  isKo ? '깨비 스도쿠 게임 규칙 & 종료 안내' : 'Sudoku Rules & Goal',
+                                  switch (lang) {
+                                    'ja' => 'クケビ数独のルール & 目標',
+                                    'zh' => '吉鬼数独规则与目标',
+                                    'de' => 'Kkaebi Sudoku Regeln & Ziel',
+                                    'hi' => 'कैबी सुडोकू नियम और लक्ष्य',
+                                    'en' => 'Sudoku Rules & Goal',
+                                    _ => '깨비 스도쿠 규칙 & 목표',
+                                  },
                                   style: const TextStyle(
                                     color: Color(0xFFFFD700),
                                     fontWeight: FontWeight.w900,
@@ -688,9 +790,14 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
                             ),
                             const SizedBox(height: 10),
                             Text(
-                              isKo
-                                  ? '• [기본 룰]: 가로줄, 세로줄, 굵은 테두리 상자 안에 각 번호가 중복 없이 딱 한 번씩만 들어가야 합니다.\n  - 4×4: 1~4 숫자 / 2×2 상자\n  - 6×6: 1~6 숫자 / 3×2 상자\n  - 9×9: 1~9 숫자 / 3×3 상자\n• [종료 시점]: 화면의 모든 빈칸(🎯 남은 빈칸: 0)을 오류 없이 채우면 즉시 스테이지 클리어 및 리워드(코인·친밀도·열쇠)가 지급됩니다!\n• [팁]: 확실치 않은 숫자는 [메모: ON] 상태에서 후보 숫자로 적어두며 추리할 수 있습니다.'
-                                  : '• Rules: Every row, column, and bold box must contain unique numbers without duplicates.\n• Goal: Fill all empty cells correctly to clear the stage and win rewards!\n• Tip: Use [Memo: ON] to write down candidate numbers.',
+                              switch (lang) {
+                                'ja' => '• [基本ルール]: 各行・各列・太枠ブロック内に1〜$currentSizeの数字を重複なく1つずつ配置します。\n• [クリア目標]: すべての空きマス(🎯 空きマス: 0)を正しく埋めるとステージクリア！\n• [ヒント]: 確信が持てない時は [メモ: ON] で候補の数字を記入できます。',
+                                'zh' => '• [基本规则]: 每一行、每一列及粗线宫内必须填入1至$currentSize的不重复数字。\n• [通关目标]: 正确填满所有空格(🎯 剩余空格: 0)即可通关并获得奖励！\n• [技巧]: 不确定时可开启 [笔记: 开] 记录候选数字。',
+                                'de' => '• [Regeln]: Jede Zeile, Spalte und jeder Block muss die Zahlen 1 bis $currentSize ohne Wiederholung enthalten.\n• [Ziel]: Fülle alle leeren Felder fehlerfrei aus, um die Belohnungen zu erhalten!\n• [Tipp]: Nutze [Notiz: AN], um Kandidatenzahlen festzuhalten.',
+                                'hi' => '• [नियम]: प्रत्येक पंक्ति, स्तंभ और बॉक्स में 1 से $currentSize तक के अंक बिना दोहराए होने चाहिए।\n• [लक्ष्य]: सभी रिक्त स्थानों को सही ढंग से भरकर स्तर पूरा करें और पुरस्कार जीतें!\n• [सुझाव]: अनिश्चित होने पर [नोट: ON] का उपयोग करके संभावित अंक लिखें।',
+                                'en' => '• [Rules]: Every row, column, and block must contain digits 1 to $currentSize without duplicates.\n• [Goal]: Fill all empty cells accurately to clear the stage and earn rewards!\n• [Tip]: Toggle [Memo: ON] to jot down candidate numbers.',
+                                _ => '• [기본 룰]: 가로줄, 세로줄, 굵은 테두리 상자 안에 각 번호가 중복 없이 딱 한 번씩만 들어가야 합니다.\n  - 4×4: 1~4 숫자 / 2×2 상자\n  - 6×6: 1~6 숫자 / 3×2 상자\n  - 9×9: 1~9 숫자 / 3×3 상자\n• [목표]: 화면의 모든 빈칸(🎯 남은 빈칸: 0)을 오류 없이 채우면 즉시 스테이지 클리어 및 리워드가 지급됩니다!\n• [팁]: 확실치 않은 숫자는 [메모: ON] 상태에서 후보 숫자로 적어두며 추리할 수 있습니다.',
+                              },
                               style: const TextStyle(
                                 color: Color(0xFFE2E8F0),
                                 fontSize: 13,
@@ -708,13 +815,48 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
               ),
             ],
           ),
-        ),
-      ),
-    );
-  }
+        );
+      },
+    ),
+  );
+}
 
   /// 🏆 완성 축하 카드 — 게임판과 동일 폭의 골드 그라데이션 카드 (점수/시간/실수 3칸 통계)
-  Widget _buildClearCard(bool isKo) {
+  Widget _buildClearCard(String lang) {
+    final title = switch (lang) {
+      'ja' => 'クケビ数独 $currentSize×$currentSize 完成!',
+      'zh' => '吉鬼数独 $currentSize×$currentSize 完成!',
+      'de' => 'Sudoku $currentSize×$currentSize Gelöst!',
+      'hi' => 'सुडोकू $currentSize×$currentSize पूर्ण!',
+      'en' => 'Sudoku $currentSize×$currentSize Cleared!',
+      _ => '스도쿠 $currentSize×$currentSize 완성!',
+    };
+    final scoreLabel = switch (lang) {
+      'ja' => 'スコア',
+      'zh' => '得分',
+      'de' => 'Punkte',
+      'hi' => 'स्कोर',
+      'en' => 'Score',
+      _ => '점수',
+    };
+    final timeLabel = switch (lang) {
+      'ja' => '時間',
+      'zh' => '用时',
+      'de' => 'Zeit',
+      'hi' => 'समय',
+      'en' => 'Time',
+      _ => '시간',
+    };
+    final mistakeLabel = switch (lang) {
+      'ja' => 'ミス',
+      'zh' => '失误',
+      'de' => 'Fehler',
+      'hi' => 'गलतियां',
+      'en' => 'Mistakes',
+      _ => '실수',
+    };
+    final timeVal = lang == 'ko' ? '$_elapsed초' : '${_elapsed}s';
+
     return Container(
       width: double.infinity,
       padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 20),
@@ -739,7 +881,7 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
           const Text('🏆', style: TextStyle(fontSize: 44)),
           const SizedBox(height: 6),
           Text(
-            isKo ? '스도쿠 $currentSize×$currentSize 완성!' : 'Sudoku $currentSize×$currentSize Cleared!',
+            title,
             textAlign: TextAlign.center,
             style: const TextStyle(
               fontSize: 20,
@@ -752,17 +894,17 @@ class _KkaebiSudokuGameState extends State<KkaebiSudokuGame>
           Row(
             children: [
               _buildClearStat(
-                isKo ? '점수' : 'Score',
+                scoreLabel,
                 '$_score',
                 Icons.stars_rounded,
               ),
               _buildClearStat(
-                isKo ? '시간' : 'Time',
-                isKo ? '$_elapsed초' : '${_elapsed}s',
+                timeLabel,
+                timeVal,
                 Icons.timer_rounded,
               ),
               _buildClearStat(
-                isKo ? '실수' : 'Mistakes',
+                mistakeLabel,
                 '$_mistakes',
                 Icons.close_rounded,
               ),

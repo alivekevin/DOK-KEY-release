@@ -334,14 +334,31 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
       score: score,
       cleared: cleared,
     );
-    if (!mounted) return;
+    final lang = Provider.of<DokkeyProvider>(context, listen: false).lang;
+    final dialogTitle = cleared
+        ? switch (lang) {
+            'ja' => '💣 罠の解除に成功!',
+            'zh' => '💣 拆除陷阱成功!',
+            'de' => '💣 Fallen entschärft!',
+            'hi' => '💣 जाल निष्क्रिय सफल!',
+            'en' => '💣 Traps Cleared!',
+            _ => '💣 함정 해체 성공!',
+          }
+        : switch (lang) {
+            'ja' => '💥 トッケビの罠が爆発!',
+            'zh' => '💥 妖怪陷阱爆炸!',
+            'de' => '💥 Goblin-Falle explodiert!',
+            'hi' => '💥 भूतिया जाल फट गया!',
+            'en' => '💥 Goblin Trap Exploded!',
+            _ => '💥 도깨비 함정 폭발!',
+          };
 
     showDialog(
       context: context,
       barrierDismissible: false,
       builder: (_) => GameResultDialog(
         gameId: KkaebiMinesweeperGame.gameId,
-        title: cleared ? '💣 함정 해체 성공!' : '💥 도깨비 함정 폭발!',
+        title: dialogTitle,
         score: score,
         best: score,
         cleared: cleared,
@@ -359,17 +376,61 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
     final minesLeft = _model.totalMines - _model.flagsPlaced;
+
+    final gameTitle = switch (lang) {
+      'ja' => 'クケビマインスイーパ',
+      'zh' => '吉鬼扫雷',
+      'de' => 'Kkaebi Minesweeper',
+      'hi' => 'कैबी माइनस्वीपर',
+      'en' => 'Minesweeper',
+      _ => '깨비 지뢰찾기',
+    };
+
+    final restartTooltip = switch (lang) {
+      'ja' => 'やり直し',
+      'zh' => '重新开始',
+      'de' => 'Neustart',
+      'hi' => 'पुनरारंभ',
+      'en' => 'Restart',
+      _ => '다시 시작',
+    };
+
+    final easyTab = switch (lang) {
+      'ja' => '初級 (8x8)',
+      'zh' => '初级 (8x8)',
+      'de' => 'Leicht (8x8)',
+      'hi' => 'सरल (8x8)',
+      'en' => 'Easy (8x8)',
+      _ => '초급 (8x8)',
+    };
+    final medTab = switch (lang) {
+      'ja' => '中級 (10x10)',
+      'zh' => '中级 (10x10)',
+      'de' => 'Mittel (10x10)',
+      'hi' => 'मध्यम (10x10)',
+      'en' => 'Med (10x10)',
+      _ => '중급 (10x10)',
+    };
+    final hardTab = switch (lang) {
+      'ja' => '上級 (12x14)',
+      'zh' => '高级 (12x14)',
+      'de' => 'Schwer (12x14)',
+      'hi' => 'कठिन (12x14)',
+      'en' => 'Hard (12x14)',
+      _ => '상급 (12x14)',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF0F151B),
       appBar: AppBar(
         backgroundColor: const Color(0xFF18232D),
         elevation: 0,
-        leading: IconButton(
-          icon: const Icon(Icons.arrow_back_ios_new_rounded, color: Colors.white, size: 20),
-          onPressed: () => Navigator.of(context).pop(),
+        leading: Center(
+          child: KkaebiGameCloseButton(
+            onPressed: () => Navigator.of(context).pop(),
+          ),
         ),
         title: Row(
           mainAxisSize: MainAxisSize.min,
@@ -377,7 +438,7 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
             const Text('💣', style: TextStyle(fontSize: 20)),
             const SizedBox(width: 8),
             Text(
-              isKo ? '깨비 지뢰찾기' : 'Minesweeper',
+              gameTitle,
               style: const TextStyle(
                 color: Color(0xFFFFD54F),
                 fontWeight: FontWeight.w900,
@@ -398,7 +459,7 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
         actions: [
           IconButton(
             icon: const Icon(Icons.refresh_rounded, color: Colors.cyanAccent),
-            tooltip: isKo ? '다시 시작' : 'Restart',
+            tooltip: restartTooltip,
             onPressed: () => _startNewGame(_diff),
           ),
         ],
@@ -411,11 +472,11 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               child: Row(
                 children: [
-                  _buildDiffTab(0, isKo ? '초급 (8x8)' : 'Easy (8x8)'),
+                  _buildDiffTab(0, easyTab),
                   const SizedBox(width: 6),
-                  _buildDiffTab(1, isKo ? '중급 (10x10)' : 'Med (10x10)'),
+                  _buildDiffTab(1, medTab),
                   const SizedBox(width: 6),
-                  _buildDiffTab(2, isKo ? '상급 (12x14)' : 'Hard (12x14)'),
+                  _buildDiffTab(2, hardTab),
                 ],
               ),
             ),
@@ -539,7 +600,14 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
                     child: _buildModeButton(
                       isFlag: false,
                       icon: Icons.touch_app_rounded,
-                      label: isKo ? '타일 열기 모드' : 'Open Mode',
+                      label: switch (lang) {
+                        'ja' => 'タイル解放',
+                        'zh' => '翻开方块',
+                        'de' => 'Aufdecken',
+                        'hi' => 'खोलें मोड',
+                        'en' => 'Open Mode',
+                        _ => '타일 열기 모드',
+                      },
                       active: !_flagMode,
                     ),
                   ),
@@ -548,7 +616,14 @@ class _KkaebiMinesweeperGameState extends State<KkaebiMinesweeperGame> {
                     child: _buildModeButton(
                       isFlag: true,
                       icon: Icons.flag_rounded,
-                      label: isKo ? '부적 깃발 모드' : 'Flag Mode',
+                      label: switch (lang) {
+                        'ja' => '護符フラグ',
+                        'zh' => '插旗标记',
+                        'de' => 'Markieren',
+                        'hi' => 'झंडा मोड',
+                        'en' => 'Flag Mode',
+                        _ => '부적 깃발 모드',
+                      },
                       active: _flagMode,
                     ),
                   ),

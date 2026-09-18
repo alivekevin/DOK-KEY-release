@@ -13,6 +13,24 @@ import '../widgets/rotating_key_home_button.dart';
 import '../widgets/pro_pass_dialog.dart';
 import 'keybox_screen.dart';
 
+String _t(String lang, {
+  required String ko,
+  required String en,
+  required String ja,
+  required String zh,
+  required String de,
+  required String hi,
+}) {
+  switch (lang) {
+    case 'en': return en;
+    case 'ja': return ja;
+    case 'zh': return zh;
+    case 'de': return de;
+    case 'hi': return hi;
+    default: return ko;
+  }
+}
+
 class CardCodexScreen extends StatefulWidget {
   const CardCodexScreen({super.key});
 
@@ -48,9 +66,8 @@ class _CardCodexScreenState extends State<CardCodexScreen>
 
   void _showCardDetail(BuildContext context, CodexCardItem card, bool isUnlocked) {
     final provider = context.read<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
-    final cardName = card.localizedName(provider.lang);
+    final lang = provider.lang;
+    final cardName = card.localizedName(lang);
 
     SoundService().playCardFlip();
 
@@ -60,13 +77,13 @@ class _CardCodexScreenState extends State<CardCodexScreen>
         card: card,
         cardName: cardName,
         isUnlocked: isUnlocked,
-        isKo: isKo,
-        isJa: isJa,
+        lang: lang,
       ),
     );
   }
 
   void _showCustomCardDialog(BuildContext context, CustomCodexCard customCard) {
+    final lang = context.read<DokkeyProvider>().lang;
     final titleCtrl = TextEditingController(text: customCard.title ?? '');
     final memoCtrl = TextEditingController(text: customCard.memo ?? '');
     String? currentImageBase64 = customCard.imageBase64;
@@ -85,9 +102,18 @@ class _CardCodexScreenState extends State<CardCodexScreen>
             children: [
               Icon(Icons.photo_library_rounded, color: DokkeyTheme.gold),
               const SizedBox(width: 8),
-              Text(
-                'MY 커스텀 슬롯 #${customCard.slotIndex + 1}',
-                style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 17, fontWeight: FontWeight.bold),
+              Expanded(
+                child: Text(
+                  _t(lang,
+                    ko: 'MY 커스텀 슬롯 #${customCard.slotIndex + 1}',
+                    en: 'MY Custom Slot #${customCard.slotIndex + 1}',
+                    ja: 'MY カスタムスロット #${customCard.slotIndex + 1}',
+                    zh: '我的专属卡槽 #${customCard.slotIndex + 1}',
+                    de: 'Mein Custom-Slot #${customCard.slotIndex + 1}',
+                    hi: 'माई कस्टम स्लॉट #${customCard.slotIndex + 1}',
+                  ),
+                  style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 16, fontWeight: FontWeight.bold),
+                ),
               ),
             ],
           ),
@@ -96,7 +122,14 @@ class _CardCodexScreenState extends State<CardCodexScreen>
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  '스마트폰 앨범에서 사진을 선택하면 400×600 카드 규격으로 자동 최적화됩니다 (기기 로컬 안전 보관)',
+                  _t(lang,
+                    ko: '스마트폰 앨범에서 사진을 선택하면 400×600 카드 규격으로 자동 최적화됩니다 (기기 로컬 안전 보관)',
+                    en: 'Select a photo from your album. It will be optimized to 400×600 (safely stored locally)',
+                    ja: 'アルバムから写真を選択すると400×600規格に最適化されます（端末ローカル保存）',
+                    zh: '从相册选择照片后将自动优化为400×600标准卡片规格（安全保存在本地）',
+                    de: 'Foto auswählen; wird automatisch auf 400×600 optimiert (sicher lokal gespeichert)',
+                    hi: 'एल्बम से फ़ोटो चुनें, यह 400×600 में अनुकूलित होगी (सुरक्षित स्थानीय भंडारण)',
+                  ),
                   style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11.5),
                 ),
                 const SizedBox(height: 14),
@@ -142,10 +175,10 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                             Image.asset(
                               currentLocalUri,
                               fit: BoxFit.cover,
-                              errorBuilder: (_, __, ___) => _buildSelectPhotoPlaceholder(),
+                              errorBuilder: (_, __, ___) => _buildSelectPhotoPlaceholder(lang),
                             )
                           else
-                            _buildSelectPhotoPlaceholder(),
+                            _buildSelectPhotoPlaceholder(lang),
 
                           Positioned(
                             bottom: 0,
@@ -160,7 +193,9 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                                   Icon(Icons.camera_alt_rounded, size: 12, color: DokkeyTheme.goldLight),
                                   const SizedBox(width: 4),
                                   Text(
-                                    currentImageBase64 != null ? '사진 변경' : '사진 선택',
+                                    currentImageBase64 != null
+                                        ? _t(lang, ko: '사진 변경', en: 'Change Photo', ja: '写真変更', zh: '更换照片', de: 'Foto ändern', hi: 'फ़ोटो बदलें')
+                                        : _t(lang, ko: '사진 선택', en: 'Select Photo', ja: '写真選択', zh: '选择照片', de: 'Foto wählen', hi: 'फ़ोटो चुनें'),
                                     style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 10.5, fontWeight: FontWeight.bold),
                                   ),
                                 ],
@@ -185,7 +220,17 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                     padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                   ),
                   icon: const Icon(Icons.add_photo_alternate_rounded, size: 18),
-                  label: const Text('📷 앨범에서 사진 선택 (400×600 자동 크롭)', style: TextStyle(fontSize: 12)),
+                  label: Text(
+                    _t(lang,
+                      ko: '📷 앨범에서 사진 선택 (400×600 자동 크롭)',
+                      en: '📷 Pick Photo from Album (400×600 Auto Crop)',
+                      ja: '📷 アルバムから写真選択 (400×600自動調整)',
+                      zh: '📷 从相册选取照片 (400×600自动裁剪)',
+                      de: '📷 Foto aus Album wählen (400×600 Auto-Crop)',
+                      hi: '📷 एल्बम से फ़ोटो चुनें (400×600 स्वतः क्रॉप)',
+                    ),
+                    style: const TextStyle(fontSize: 12),
+                  ),
                   onPressed: () async {
                     final croppedBase64 = await _codexService.pickAndCropCardImage();
                     if (croppedBase64 != null) {
@@ -202,8 +247,22 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                   controller: titleCtrl,
                   style: TextStyle(color: DokkeyTheme.textMain),
                   decoration: InputDecoration(
-                    labelText: '카드 이름 / 소원 제목',
-                    hintText: '예: 우리집 복덩이 초코 🐶',
+                    labelText: _t(lang,
+                      ko: '카드 이름 / 소원 제목',
+                      en: 'Card Name / Wish Title',
+                      ja: 'カード名 / 願い事のタイトル',
+                      zh: '卡片名称 / 许愿标题',
+                      de: 'Kartenname / Wunschtitel',
+                      hi: 'कार्ड का नाम / इच्छा का शीर्षक',
+                    ),
+                    hintText: _t(lang,
+                      ko: '예: 우리집 복덩이 초코 🐶',
+                      en: 'e.g., Lucky Puppy Choco 🐶',
+                      ja: '例: 我が家の福招きチョコ 🐶',
+                      zh: '例：我家的福气小狗可可 🐶',
+                      de: 'z. B. Mein Glücksbringer Choco 🐶',
+                      hi: 'उदा: हमारे घर का लकी पपी 🐶',
+                    ),
                     hintStyle: TextStyle(color: DokkeyTheme.textMuted.withOpacity(0.5), fontSize: 12),
                     labelStyle: TextStyle(color: DokkeyTheme.gold),
                     filled: true,
@@ -217,8 +276,22 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                   maxLines: 2,
                   style: TextStyle(color: DokkeyTheme.textMain),
                   decoration: InputDecoration(
-                    labelText: '나만의 한마디 / 소원 다짐',
-                    hintText: '예: 매일매일 웃으며 살기!',
+                    labelText: _t(lang,
+                      ko: '나만의 한마디 / 소원 다짐',
+                      en: 'My Note / Wish Oath',
+                      ja: 'ひとこと / 願いの誓い',
+                      zh: '我的心语 / 许愿誓言',
+                      de: 'Persönliche Notiz / Schwur',
+                      hi: 'मेरा संदेश / संकल्प',
+                    ),
+                    hintText: _t(lang,
+                      ko: '예: 매일매일 웃으며 살기!',
+                      en: 'e.g., Smile every single day!',
+                      ja: '例: 毎日笑顔で過ごす！',
+                      zh: '例：每天都要开开心心！',
+                      de: 'z. B. Jeden Tag mit einem Lächeln leben!',
+                      hi: 'उदा: हर दिन मुस्कुराते हुए जीना!',
+                    ),
                     hintStyle: TextStyle(color: DokkeyTheme.textMuted.withOpacity(0.5), fontSize: 12),
                     labelStyle: TextStyle(color: DokkeyTheme.gold),
                     filled: true,
@@ -237,11 +310,17 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                   if (mounted) setState(() {});
                   Navigator.of(ctx).pop();
                 },
-                child: const Text('삭제 (비우기)', style: TextStyle(color: Colors.redAccent)),
+                child: Text(
+                  _t(lang, ko: '삭제 (비우기)', en: 'Delete (Clear)', ja: '削除（クリア）', zh: '删除（清空）', de: 'Löschen', hi: 'हटाएं'),
+                  style: const TextStyle(color: Colors.redAccent),
+                ),
               ),
             TextButton(
               onPressed: () => Navigator.of(ctx).pop(),
-              child: Text('취소', style: TextStyle(color: DokkeyTheme.textMuted)),
+              child: Text(
+                _t(lang, ko: '취소', en: 'Cancel', ja: 'キャンセル', zh: '取消', de: 'Abbrechen', hi: 'रद्द करें'),
+                style: TextStyle(color: DokkeyTheme.textMuted),
+              ),
             ),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
@@ -250,7 +329,15 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
               ),
               onPressed: () async {
-                final title = titleCtrl.text.trim().isEmpty ? 'MY 소원 카드 #${customCard.slotIndex + 1}' : titleCtrl.text.trim();
+                final defaultTitle = _t(lang,
+                  ko: 'MY 소원 카드 #${customCard.slotIndex + 1}',
+                  en: 'MY Wish Card #${customCard.slotIndex + 1}',
+                  ja: 'MY 願い事カード #${customCard.slotIndex + 1}',
+                  zh: '我的许愿卡片 #${customCard.slotIndex + 1}',
+                  de: 'Meine Wunschkarte #${customCard.slotIndex + 1}',
+                  hi: 'माई विश कार्ड #${customCard.slotIndex + 1}',
+                );
+                final title = titleCtrl.text.trim().isEmpty ? defaultTitle : titleCtrl.text.trim();
                 await _codexService.saveCustomCard(
                   customCard.slotIndex,
                   imageBase64: currentImageBase64,
@@ -261,7 +348,9 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                 if (mounted) setState(() {});
                 Navigator.of(ctx).pop();
               },
-              child: const Text('🪄 저장 뚝딱!'),
+              child: Text(
+                _t(lang, ko: '🪄 저장 뚝딱!', en: '🪄 Save!', ja: '🪄 保存する！', zh: '🪄 保存完成！', de: '🪄 Speichern!', hi: '🪄 सहेजें!'),
+              ),
             ),
           ],
         ),
@@ -269,24 +358,32 @@ class _CardCodexScreenState extends State<CardCodexScreen>
     );
   }
 
-  Widget _buildSelectPhotoPlaceholder() {
+  Widget _buildSelectPhotoPlaceholder(String lang) {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Icon(Icons.add_photo_alternate_rounded, size: 38, color: DokkeyTheme.gold.withOpacity(0.7)),
         const SizedBox(height: 6),
-        Text('사진 선택', style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 12, fontWeight: FontWeight.bold)),
-        Text('400×600 크롭', style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10)),
+        Text(
+          _t(lang, ko: '사진 선택', en: 'Select Photo', ja: '写真選択', zh: '选择照片', de: 'Foto wählen', hi: 'फ़ोटो चुनें'),
+          style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 12, fontWeight: FontWeight.bold),
+        ),
+        Text(
+          _t(lang, ko: '400×600 크롭', en: '400×600 Crop', ja: '400×600 クロップ', zh: '400×600 裁剪', de: '400×600 Crop', hi: '400×600 क्रॉप'),
+          style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 10),
+        ),
       ],
     );
   }
 
   void _showCustomCardDetail(BuildContext context, CustomCodexCard customCard) {
+    final provider = context.read<DokkeyProvider>();
     SoundService().playCardFlip();
     showDialog(
       context: context,
       builder: (ctx) => _CustomCardDetailDialog(
         card: customCard,
+        lang: provider.lang,
         onEdit: () {
           Navigator.of(ctx).pop();
           _showCustomCardDialog(context, customCard);
@@ -303,12 +400,13 @@ class _CardCodexScreenState extends State<CardCodexScreen>
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
+    final isKo = lang == 'ko';
+    final isJa = lang == 'ja';
 
     if (_isLoading) {
       return Scaffold(
-        appBar: AppBar(title: Text(isKo ? '99 그랜드 도감' : (isJa ? '99 グランド図鑑' : '99 Grand Codex'))),
+        appBar: AppBar(title: Text(_t(lang, ko: '99 그랜드 도감', en: '99 Grand Codex', ja: '99 グランド図鑑', zh: '99 宏伟图鉴', de: '99 Grand Codex', hi: '99 ग्रैंड कोडेक्स'))),
         body: Center(child: CircularProgressIndicator(color: DokkeyTheme.gold)),
       );
     }
@@ -325,7 +423,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
       appBar: AppBar(
         title: Column(
           children: [
-            Text(isKo ? '99 그랜드 도감' : (isJa ? '99 グランド図鑑' : '99 Grand Codex')),
+            Text(_t(lang, ko: '99 그랜드 도감', en: '99 Grand Codex', ja: '99 グランド図鑑', zh: '99 宏伟图鉴', de: '99 Grand Codex', hi: '99 ग्रैंड कोडेक्स')),
             Text(
               'DOK-KEY : TTOOK-TTAK!',
               style: TextStyle(color: DokkeyTheme.gold, fontSize: 11, fontWeight: FontWeight.bold, letterSpacing: 1.2),
@@ -335,7 +433,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
         actions: [
           IconButton(
             icon: Icon(Icons.vpn_key_outlined, color: DokkeyTheme.gold),
-            tooltip: isKo ? '황금열쇠 보관함' : (isJa ? '鍵保管箱' : 'Keybox Vault'),
+            tooltip: _t(lang, ko: '황금열쇠 보관함', en: 'Keybox Vault', ja: '鍵保管箱', zh: '黄金钥匙金库', de: 'Schlüsseltresor', hi: 'कुंजी तिजोरी'),
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KeyBoxScreen()),
@@ -352,10 +450,38 @@ class _CardCodexScreenState extends State<CardCodexScreen>
           unselectedLabelColor: DokkeyTheme.textMuted,
           isScrollable: true,
           tabs: [
-            Tab(text: isKo ? '신수 ($zodiacUnlockedCount/33)' : (isJa ? '神獣 ($zodiacUnlockedCount/33)' : 'Beasts ($zodiacUnlockedCount/33)')),
-            Tab(text: isKo ? '신격 ($mythUnlockedCount/33)' : (isJa ? '神格 ($mythUnlockedCount/33)' : 'Gods ($mythUnlockedCount/33)')),
-            Tab(text: isKo ? '🎴 부적 (33슬롯)' : (isJa ? '🎴 御札 (33枠)' : '🎴 Talismans (33)')),
-            Tab(text: isKo ? 'MY 커스텀 ($customFilledCount/33)' : (isJa ? 'MY カスタム' : 'MY Custom ($customFilledCount/33)')),
+            Tab(text: _t(lang,
+              ko: '신수 ($zodiacUnlockedCount/33)',
+              en: 'Beasts ($zodiacUnlockedCount/33)',
+              ja: '神獣 ($zodiacUnlockedCount/33)',
+              zh: '神兽 ($zodiacUnlockedCount/33)',
+              de: 'Bestien ($zodiacUnlockedCount/33)',
+              hi: 'दिव्य पशु ($zodiacUnlockedCount/33)',
+            )),
+            Tab(text: _t(lang,
+              ko: '신격 ($mythUnlockedCount/33)',
+              en: 'Gods ($mythUnlockedCount/33)',
+              ja: '神格 ($mythUnlockedCount/33)',
+              zh: '神祇 ($mythUnlockedCount/33)',
+              de: 'Gottheiten ($mythUnlockedCount/33)',
+              hi: 'देवता ($mythUnlockedCount/33)',
+            )),
+            Tab(text: _t(lang,
+              ko: '🎴 부적 (33슬롯)',
+              en: '🎴 Talismans (33)',
+              ja: '🎴 御札 (33枠)',
+              zh: '🎴 灵符 (33格)',
+              de: '🎴 Talismane (33)',
+              hi: '🎴 ताबीज (33)',
+            )),
+            Tab(text: _t(lang,
+              ko: 'MY 커스텀 ($customFilledCount/33)',
+              en: 'MY Custom ($customFilledCount/33)',
+              ja: 'MY カスタム ($customFilledCount/33)',
+              zh: '专属卡槽 ($customFilledCount/33)',
+              de: 'MY Custom ($customFilledCount/33)',
+              hi: 'माई कस्टम ($customFilledCount/33)',
+            )),
           ],
         ),
       ),
@@ -547,8 +673,8 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                             const SizedBox(height: 2),
                             Text(
                               isLockedForFree
-                                  ? (isKo ? 'PRO 잠금' : 'PRO Lock')
-                                  : (isKo ? 'MY 부적 등록' : 'MY Charm'),
+                                  ? _t(lang, ko: 'PRO 잠금', en: 'PRO Lock', ja: 'PROロック', zh: 'PRO锁定', de: 'PRO-Gesperrt', hi: 'PRO लॉक')
+                                  : _t(lang, ko: 'MY 부적 등록', en: 'MY Charm', ja: 'MY お守り登録', zh: '登记专属灵符', de: 'MY Talisman', hi: 'माई ताबीज'),
                               style: TextStyle(
                                 color: isLockedForFree ? DokkeyTheme.gold.withOpacity(0.6) : DokkeyTheme.textMuted,
                                 fontSize: 9.5,
@@ -567,7 +693,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                           padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 4),
                           color: Colors.black.withOpacity(0.75),
                           child: Text(
-                            '#${idx + 1} ${customCard.title ?? (isKo ? "나만의 부적" : "Custom Charm")}',
+                            '#${idx + 1} ${customCard.title ?? _t(lang, ko: "나만의 부적", en: "Custom Charm", ja: "マイお守り", zh: "专属灵符", de: "Mein Talisman", hi: "कस्टम ताबीज")}',
                             textAlign: TextAlign.center,
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
@@ -645,7 +771,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  item.titleKo,
+                  item.localizedTitle(lang),
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: DokkeyTheme.gold,
@@ -682,7 +808,15 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                     padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 10),
                   ),
                   label: Text(
-                    isKo ? '확인 및 보관' : 'Close',
+                    _t(
+                      lang,
+                      ko: '확인 및 보관',
+                      en: 'Confirm & Keep',
+                      ja: '確認・保管',
+                      zh: '确认并保存',
+                      de: 'Bestätigen & Behalten',
+                      hi: 'पुष्टि करें और सहेजें',
+                    ),
                     style: const TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),
@@ -832,6 +966,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
   }
 
   Widget _buildCustomGrid(BuildContext context, List<CustomCodexCard> customCards) {
+    final lang = context.watch<DokkeyProvider>().lang;
     return GridView.builder(
       padding: const EdgeInsets.all(14),
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
@@ -889,7 +1024,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                         Icon(Icons.add_photo_alternate_rounded, size: 28, color: DokkeyTheme.gold.withOpacity(0.6)),
                         const SizedBox(height: 6),
                         Text(
-                          '#${idx + 1} 등록',
+                          '#${idx + 1} ${_t(lang, ko: '등록', en: 'Add', ja: '登録', zh: '登记', de: 'Neu', hi: 'जोड़ें')}',
                           style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
                         ),
                       ],
@@ -904,7 +1039,7 @@ class _CardCodexScreenState extends State<CardCodexScreen>
                         padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 4),
                         color: Colors.black.withOpacity(0.75),
                         child: Text(
-                          card.title ?? '나만의 카드',
+                          card.title ?? _t(lang, ko: '나만의 카드', en: 'My Custom Card', ja: 'マイカード', zh: '我的专属卡片', de: 'Meine Wunschkarte', hi: 'मेरी कस्टम कार्ड'),
                           textAlign: TextAlign.center,
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
@@ -927,15 +1062,13 @@ class _CodexDetailDialog extends StatefulWidget {
   final CodexCardItem card;
   final String cardName;
   final bool isUnlocked;
-  final bool isKo;
-  final bool isJa;
+  final String lang;
 
   const _CodexDetailDialog({
     required this.card,
     required this.cardName,
     required this.isUnlocked,
-    required this.isKo,
-    required this.isJa,
+    required this.lang,
   });
 
   @override
@@ -1030,7 +1163,15 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
 
             const SizedBox(height: 18),
             Text(
-              '💡 카드를 탭하면 앞/뒤 3D로 뒤집어집니다!',
+              _t(
+                widget.lang,
+                ko: '💡 카드를 탭하면 앞/뒤 3D로 뒤집어집니다!',
+                en: '💡 Tap the card to flip front/back in 3D!',
+                ja: '💡 カードをタップすると表裏が3D反転します！',
+                zh: '💡 点击卡片可在正面/反面3D翻转！',
+                de: '💡 Tippe auf die Karte, um sie in 3D zu drehen!',
+                hi: '💡 कार्ड को 3D में पलटने के लिए टैप करें!',
+              ),
               style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11.5),
             ),
             const SizedBox(height: 12),
@@ -1042,7 +1183,18 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
                 padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 10),
               ),
               onPressed: () => Navigator.of(context).pop(),
-              child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold)),
+              child: Text(
+                _t(
+                  widget.lang,
+                  ko: '닫기',
+                  en: 'Close',
+                  ja: '閉じる',
+                  zh: '关闭',
+                  de: 'Schließen',
+                  hi: 'बंद करें',
+                ),
+                style: const TextStyle(fontWeight: FontWeight.bold),
+              ),
             ),
           ],
         ),
@@ -1149,8 +1301,16 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
                     ),
                     Text(
                       widget.isUnlocked
-                          ? widget.card.title
-                          : (widget.isKo ? '🔒 미수집 카드' : (widget.isJa ? '🔒 未収集カード' : '🔒 Locked Card')),
+                          ? widget.card.localizedTitle(widget.lang)
+                          : _t(
+                              widget.lang,
+                              ko: '🔒 미수집 카드',
+                              en: '🔒 Locked Card',
+                              ja: '🔒 未収集カード',
+                              zh: '🔒 未解锁卡片',
+                              de: '🔒 Gesperrte Karte',
+                              hi: '🔒 अनलॉक नहीं हुआ',
+                            ),
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: widget.isUnlocked ? DokkeyTheme.textMuted : DokkeyTheme.gold.withOpacity(0.8),
@@ -1226,8 +1386,16 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
                 ),
                 Text(
                   widget.isUnlocked
-                      ? widget.card.title
-                      : (widget.isKo ? '열쇠 번호를 모아 해금' : (widget.isJa ? '鍵番号を集めて解除' : 'Collect Key to Unlock')),
+                      ? widget.card.localizedTitle(widget.lang)
+                      : _t(
+                          widget.lang,
+                          ko: '열쇠 번호를 모아 해금',
+                          en: 'Collect key numbers to unlock',
+                          ja: '鍵番号を集めて解除',
+                          zh: '收集钥匙号码解锁',
+                          de: 'Schlüsselnummern sammeln zum Freischalten',
+                          hi: 'अनलॉक करने के लिए कुंजी नंबर एकत्र करें',
+                        ),
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: widget.isUnlocked ? DokkeyTheme.goldLight.withOpacity(0.8) : DokkeyTheme.textMuted,
@@ -1246,12 +1414,16 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
                   ),
                   child: Text(
                     widget.isUnlocked
-                        ? widget.card.desc
-                        : (widget.isKo
-                            ? '🔒 아직 수집되지 않은 비밀 도감 카드입니다.\n행운의 번호 뽑기, 수수께끼 퀴즈, 깨비 대화로 숫자를 모으면 도감이 해금됩니다깨비!'
-                            : (widget.isJa
-                                ? '🔒 まだ収集されていない秘密の図鑑カードです。\n運勢の数字引き、クイズ、対話で数字を集めると解除されますケビ！'
-                                : '🔒 This card is currently locked.\nCollect fortune numbers, solve riddles, or chat with Kkaebi to unlock!')),
+                        ? widget.card.localizedDesc(widget.lang)
+                        : _t(
+                            widget.lang,
+                            ko: '🔒 아직 수집되지 않은 비밀 도감 카드입니다.\n행운의 번호 뽑기, 수수께끼 퀴즈, 깨비 대화로 숫자를 모으면 도감이 해금됩니다깨비!',
+                            en: '🔒 This secret codex card is currently locked.\nCollect numbers via Lucky Draw, Riddles, or chatting with Kkaebi to unlock it!',
+                            ja: '🔒 まだ収集されていない秘密の図鑑カードです。\n運勢の数字引き、クイズ、対話で数字を集めると解除されますケビ！',
+                            zh: '🔒 尚未收集的神秘图鉴卡片。\n通过幸运抽签、灯谜问答或与吉鬼对话收集数字即可解锁！',
+                            de: '🔒 Diese geheime Kodex-Karte ist noch gesperrt.\nSammle Zahlen beim Glücksziehen, bei Rätseln oder im Chat mit Kkaebi!',
+                            hi: '🔒 यह गुप्त कोडेक्स कार्ड वर्तमान में बंद है।\nलकी ड्रा, पहेलियों या कैबी से बातचीत करके नंबर एकत्र करें और इसे अनलॉक करें!',
+                          ),
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: widget.isUnlocked ? DokkeyTheme.textMain : DokkeyTheme.textMuted,
@@ -1272,11 +1444,13 @@ class _CodexDetailDialogState extends State<_CodexDetailDialog>
 /// 3D Flip Card Detail Dialog for MY Custom Codex
 class _CustomCardDetailDialog extends StatefulWidget {
   final CustomCodexCard card;
+  final String lang;
   final VoidCallback onEdit;
   final VoidCallback onDelete;
 
   const _CustomCardDetailDialog({
     required this.card,
+    required this.lang,
     required this.onEdit,
     required this.onDelete,
   });
@@ -1370,7 +1544,16 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
 
             const SizedBox(height: 18),
             Text(
-              '💡 카드를 탭하면 앞/뒤 3D로 뒤집어집니다!',
+              _t(
+                widget.lang,
+                ko: '💡 카드를 탭하면 앞/뒤 3D로 뒤집어집니다!',
+                en: '💡 Tap the card to flip front/back in 3D!',
+                ja: '💡 カードをタップすると表裏が3D反転します！',
+                zh: '💡 点击卡片可在正面/反面3D翻转！',
+                de: '💡 Tippe auf die Karte, um sie in 3D zu drehen!',
+                hi: '💡 कार्ड को 3D में पलटने के लिए टैप करें!',
+              ),
+              textAlign: TextAlign.center,
               style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11.5),
             ),
             const SizedBox(height: 14),
@@ -1385,7 +1568,17 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                   ),
                   icon: const Icon(Icons.delete_outline_rounded, size: 16),
-                  label: const Text('삭제'),
+                  label: Text(
+                    _t(
+                      widget.lang,
+                      ko: '삭제',
+                      en: 'Delete',
+                      ja: '削除',
+                      zh: '删除',
+                      de: 'Löschen',
+                      hi: 'हटाएं',
+                    ),
+                  ),
                   onPressed: widget.onDelete,
                 ),
                 const SizedBox(width: 10),
@@ -1397,7 +1590,17 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                   ),
                   icon: const Icon(Icons.edit_rounded, size: 16),
-                  label: const Text('수정'),
+                  label: Text(
+                    _t(
+                      widget.lang,
+                      ko: '수정',
+                      en: 'Edit',
+                      ja: '編集',
+                      zh: '编辑',
+                      de: 'Bearbeiten',
+                      hi: 'संपादित करें',
+                    ),
+                  ),
                   onPressed: widget.onEdit,
                 ),
                 const SizedBox(width: 10),
@@ -1408,7 +1611,18 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                   ),
                   onPressed: () => Navigator.of(context).pop(),
-                  child: const Text('닫기', style: TextStyle(fontWeight: FontWeight.bold)),
+                  child: Text(
+                    _t(
+                      widget.lang,
+                      ko: '닫기',
+                      en: 'Close',
+                      ja: '閉じる',
+                      zh: '关闭',
+                      de: 'Schließen',
+                      hi: 'बंद करें',
+                    ),
+                    style: const TextStyle(fontWeight: FontWeight.bold),
+                  ),
                 ),
               ],
             ),
@@ -1472,7 +1686,16 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                 padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 10),
                 color: Colors.black.withOpacity(0.8),
                 child: Text(
-                  widget.card.title ?? '나만의 소원 카드',
+                  widget.card.title ??
+                      _t(
+                        widget.lang,
+                        ko: '나만의 소원 카드',
+                        en: 'My Wish Card',
+                        ja: 'マイ願いカード',
+                        zh: '我的心愿卡',
+                        de: 'Meine Wunschkarte',
+                        hi: 'मेरा इच्छा कार्ड',
+                      ),
                   textAlign: TextAlign.center,
                   style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 14, fontWeight: FontWeight.bold),
                 ),
@@ -1530,7 +1753,16 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  widget.card.title ?? '나만의 소원 카드',
+                  widget.card.title ??
+                      _t(
+                        widget.lang,
+                        ko: '나만의 소원 카드',
+                        en: 'My Wish Card',
+                        ja: 'マイ願いカード',
+                        zh: '我的心愿卡',
+                        de: 'Meine Wunschkarte',
+                        hi: 'मेरा इच्छा कार्ड',
+                      ),
                   textAlign: TextAlign.center,
                   style: TextStyle(color: DokkeyTheme.gold, fontWeight: FontWeight.bold, fontSize: 14),
                 ),
@@ -1545,13 +1777,31 @@ class _CustomCardDetailDialogState extends State<_CustomCardDetailDialog>
                   child: Column(
                     children: [
                       Text(
-                        hasMemo ? memo : '소원을 향해 한 걸음씩 나아가면\n황금 열쇠의 문이 열립니다!',
+                        hasMemo
+                            ? memo
+                            : _t(
+                                widget.lang,
+                                ko: '소원을 향해 한 걸음씩 나아가면\n황금 열쇠의 문이 열립니다!',
+                                en: 'Step by step toward your wish,\nthe Golden Key door will open!',
+                                ja: '願いに向かって一歩ずつ進めば、\n黄金の鍵の扉が開かれます！',
+                                zh: '向着心愿迈出每一步，\n金钥匙之门终将开启！',
+                                de: 'Schritt für Schritt zum Wunsch,\ndas Tor des Goldenen Schlüssels öffnet sich!',
+                                hi: 'अपनी इच्छा की ओर एक-एक कदम बढ़ें,\nस्वर्ण कुंजी का द्वार खुलेगा!',
+                              ),
                         textAlign: TextAlign.center,
                         style: TextStyle(color: DokkeyTheme.textMain, fontSize: 11, height: 1.35),
                       ),
                       const SizedBox(height: 6),
                       Text(
-                        '✨ 소원이 이루어진다깨비! 🔮',
+                        _t(
+                          widget.lang,
+                          ko: '✨ 소원이 이루어진다깨비! 🔮',
+                          en: '✨ Your wish will come true! 🔮',
+                          ja: '✨ 願いが叶うケビ！ 🔮',
+                          zh: '✨ 心愿必定成真鬼！ 🔮',
+                          de: '✨ Dein Wunsch wird wahr! 🔮',
+                          hi: '✨ आपकी इच्छा पूरी होगी! 🔮',
+                        ),
                         style: TextStyle(color: DokkeyTheme.goldLight, fontSize: 10, fontWeight: FontWeight.bold),
                       ),
                     ],

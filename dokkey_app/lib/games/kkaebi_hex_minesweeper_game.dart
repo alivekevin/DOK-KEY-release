@@ -223,10 +223,29 @@ class _KkaebiHexMinesweeperGameState extends State<KkaebiHexMinesweeperGame> {
 
     if (!_finished && (model.isCleared || model.isGameOver)) {
       _finished = true;
+      final lang = Provider.of<DokkeyProvider>(context, listen: false).lang;
+      final finishTitle = model.isCleared
+          ? switch (lang) {
+              'ja' => '六角ハニカムマインスイーパ クリア!',
+              'zh' => '六角蜂巢扫雷通关!',
+              'de' => 'Hex-Minensucher Geschafft!',
+              'hi' => 'षट्कोण माइनस्वीपर पूर्ण!',
+              'en' => 'Hex Minesweeper Cleared!',
+              _ => '육각 벌집 지뢰찾기 클리어!',
+            }
+          : switch (lang) {
+              'ja' => '六角ハニカムマインスイーパ',
+              'zh' => '六角蜂巢扫雷',
+              'de' => 'Hex-Minensucher',
+              'hi' => 'षट्कोण माइनस्वीपर',
+              'en' => 'Hex Minesweeper',
+              _ => '육각 벌집 지뢰찾기',
+            };
+
       finishGame(
         context,
         gameId: KkaebiHexMinesweeperGame.gameId,
-        title: model.isCleared ? '육각 벌집 지뢰찾기 클리어!' : '육각 벌집 지뢰찾기',
+        title: finishTitle,
         score: model.score,
         cleared: model.isCleared,
         onRetry: _startNewGame,
@@ -236,7 +255,43 @@ class _KkaebiHexMinesweeperGameState extends State<KkaebiHexMinesweeperGame> {
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
+
+    final gameTitle = switch (lang) {
+      'ja' => '六角ハニカムマインスイーパ',
+      'zh' => '六角蜂巢扫雷',
+      'de' => 'Hex-Minensucher',
+      'hi' => 'षट्कोण माइनस्वीपर',
+      'en' => 'Hex Minesweeper',
+      _ => '육각 벌집 지뢰찾기',
+    };
+
+    final radarText = switch (lang) {
+      'ja' => '⬡ 6方向ハニカムレーダー',
+      'zh' => '⬡ 6方向蜂巢探测',
+      'de' => '⬡ 6-Richtungs-Radar',
+      'hi' => '⬡ 6-दिशा रडार',
+      'en' => '⬡ 6-Direction Radar',
+      _ => '⬡ 6방향 벌집 탐지',
+    };
+
+    final modeChipLabel = _flagMode
+        ? switch (lang) {
+            'ja' => '護符フラグ',
+            'zh' => '插旗标记',
+            'de' => 'Markieren',
+            'hi' => 'झंडा मोड',
+            'en' => 'Flag Mode',
+            _ => '부적 깃발 모드',
+          }
+        : switch (lang) {
+            'ja' => '掘削(探索)モード',
+            'zh' => '挖掘探索模式',
+            'de' => 'Graben-Modus',
+            'hi' => 'खुदाई मोड',
+            'en' => 'Dig Mode',
+            _ => '탐색(파기) 모드',
+          };
 
     return Scaffold(
       backgroundColor: const Color(0xFF0F172A),
@@ -244,9 +299,9 @@ class _KkaebiHexMinesweeperGameState extends State<KkaebiHexMinesweeperGame> {
         child: Column(
           children: [
             GameHud(
-              title: isKo ? '육각 벌집 지뢰찾기' : 'Hex Minesweeper',
+              title: gameTitle,
               score: model.score,
-              rightLabel: '💣 ',
+              rightLabel: '💣 ${model.totalMines - model.flagsPlaced}',
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFFFFD54F),
             ),
@@ -257,14 +312,14 @@ class _KkaebiHexMinesweeperGameState extends State<KkaebiHexMinesweeperGame> {
               child: Row(
                 children: [
                   Text(
-                    isKo ? '⬡ 6방향 벌집 탐지' : '⬡ 6-Direction Radar',
+                    radarText,
                     style: const TextStyle(color: Color(0xFFFFD54F), fontSize: 12, fontWeight: FontWeight.bold),
                   ),
                   const Spacer(),
                   FilterChip(
                     avatar: Text(_flagMode ? '🚩' : '⛏️', style: const TextStyle(fontSize: 12)),
                     label: Text(
-                      _flagMode ? (isKo ? '부적 깃발 모드' : 'Flag Mode') : (isKo ? '탐색(파기) 모드' : 'Dig Mode'),
+                      modeChipLabel,
                       style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
                     ),
                     selected: _flagMode,

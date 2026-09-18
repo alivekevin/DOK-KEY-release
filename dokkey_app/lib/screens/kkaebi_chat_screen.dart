@@ -366,11 +366,22 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
   void _onAskGameSuggestion() async {
     if (_isTyping) return;
     final step = _gameSuggestStep++;
+    final provider = context.read<DokkeyProvider>();
+    final lang = provider.lang;
+
+    final userQuestion = switch (lang) {
+      'ja' => 'ゲームしようか？',
+      'zh' => '来玩个游戏吧？',
+      'de' => 'Wollen wir ein Spiel spielen?',
+      'hi' => 'क्या हम कोई खेल खेलें?',
+      'en' => 'Shall we play a game?',
+      _ => '게임해볼까?',
+    };
 
     setState(() {
       _messages.add(_ChatMessage(
         isUser: true,
-        text: '게임해볼까?',
+        text: userQuestion,
       ));
       _isTyping = true;
     });
@@ -381,7 +392,7 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
 
     SoundService().playSuccessChime();
 
-    final (kkaebiMsg, btnLabel, onPlay) = _getGameSuggestion(step % 14);
+    final (kkaebiMsg, btnLabel, onPlay) = _getGameSuggestion(step % 14, lang);
 
     setState(() {
       _isTyping = false;
@@ -395,116 +406,340 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
     _scrollToBottom();
   }
 
-  (String, String, VoidCallback) _getGameSuggestion(int index) {
+  (String, String, VoidCallback) _getGameSuggestion(int index, String lang) {
     switch (index) {
       case 0:
+        final msg = switch (lang) {
+          'ja' => 'いいね！これは図鑑の神獣・神格カードのピースを合わせる秘密のジグソーパズルだよ！やってみる？🧩✨',
+          'zh' => '好呀！这是拼出神兽图鉴卡片的神秘拼图... 想挑战一下吗？🧩✨',
+          'de' => 'Klasse! Hier ist ein geheimes Puzzle... Möchtest du die Teile der Fabelwesen-Karten zusammensetzen? 🧩✨',
+          'hi' => 'बहुत बढ़िया! यह गुप्त पहेली है... क्या तुम पौराणिक जीवों के कार्ड के टुकड़े जोड़ना चाहोगे? 🧩✨',
+          'en' => 'Great! Here is a secret puzzle from the academy... Would you like to piece together the Divine Beast codex cards? 🧩✨',
+          _ => '좋아! 이건 오락실에도 없는 비밀 서당의 그림 맞추기 퍼즐인데... 도감 신수·신격 카드의 조각을 맞춰볼래? 🧩✨',
+        };
+        final label = switch (lang) {
+          'ja' => '🧩 神獣図鑑ジグソーパズル',
+          'zh' => '🧩 神兽图鉴拼图',
+          'de' => '🧩 Fabelwesen-Puzzle',
+          'hi' => '🧩 पौराणिक जीव जिग्सॉ',
+          'en' => '🧩 Divine Beast Jigsaw',
+          _ => '🧩 신수 도감 직소 퍼즐',
+        };
         return (
-          '좋아! 이건 오락실에도 없는 비밀 서당의 그림 맞추기 퍼즐인데... 도감 신수·신격 카드의 조각을 맞춰볼래? 🧩✨',
-          '🧩 신수 도감 직소 퍼즐',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiJigsawGame()),
               ),
         );
       case 1:
+        final msg = switch (lang) {
+          'ja' => 'それじゃ、数独はどう？4x4から9x9まで数字パズルで脳を鍛えよう！🔢',
+          'zh' => '那玩数独怎么样？从4x4到9x9的数字谜题，激活你的大脑吧！🔢',
+          'de' => 'Wie wäre es mit Sudoku? Trainiere dein Gehirn mit Zahlenrätseln von 4x4 bis 9x9! 🔢',
+          'hi' => 'तो सुडोकू कैसा रहेगा? 4x4 से 9x9 तक संख्या पहेलियों से दिमाग तेज़ करो! 🔢',
+          'en' => 'How about Sudoku? Wake up your brain with number puzzles from 4x4 to 9x9! 🔢',
+          _ => '그럼, 스도쿠 게임은 어때? 4x4부터 9x9까지 숫자 퍼즐로 뇌를 깨워보자구! 🔢',
+        };
+        final label = switch (lang) {
+          'ja' => '🔢 クケビ数独をプレイ',
+          'zh' => '🔢 畅玩吉鬼数独',
+          'de' => '🔢 Kkaebi Sudoku spielen',
+          'hi' => '🔢 कैबी सुडोकू खेलें',
+          'en' => '🔢 Play Kkaebi Sudoku',
+          _ => '🔢 깨비 스도쿠 하러가기',
+        };
         return (
-          '그럼, 스도쿠 게임은 어때? 4x4부터 9x9까지 숫자 퍼즐로 뇌를 깨워보자구! 🔢',
-          '🔢 깨비 스도쿠 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiSudokuGame()),
               ),
         );
       case 2:
+        final msg = switch (lang) {
+          'ja' => '魔方陣ゲームはどう？縦・横・斜めの合計を揃える神秘の魔法陣パズルだよ！🧮',
+          'zh' => '那幻方游戏怎么样？使横、竖、对角线之和相等的神秘阵法谜题！🧮',
+          'de' => 'Wie wäre es mit dem Magischen Quadrat? Bring Zeilen, Spalten und Diagonalen in Einklang! 🧮',
+          'hi' => 'तो जादुई वर्ग कैसा रहेगा? पंक्तियों, स्तंभों और विकर्णों के योग को समान बनाओ! 🧮',
+          'en' => 'How about Magic Square? Match the sums of rows, columns, and diagonals in this mystical puzzle! 🧮',
+          _ => '그럼, 마방진 게임은 어때? 가로·세로·대각선 합을 맞추는 신비한 마법진 퍼즐이야! 🧮',
+        };
+        final label = switch (lang) {
+          'ja' => '🧮 クケビ魔方陣をプレイ',
+          'zh' => '🧮 畅玩吉鬼幻方',
+          'de' => '🧮 Magisches Quadrat spielen',
+          'hi' => '🧮 जादुई वर्ग खेलें',
+          'en' => '🧮 Play Magic Square',
+          _ => '🧮 깨비 마방진 하러가기',
+        };
         return (
-          '그럼, 마방진 게임은 어때? 가로·세로·대각선 합을 맞추는 신비한 마법진 퍼즐이야! 🧮',
-          '🧮 깨비 마방진 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiMagicSquareGame()),
               ),
         );
       case 3:
+        final msg = switch (lang) {
+          'ja' => 'マインスイーパーはどう？トッケビの罠を避けてお札フラグを立てよう！💣',
+          'zh' => '那扫雷游戏怎么样？巧妙避开妖怪陷阱，插上符咒旗帜吧！💣',
+          'de' => 'Wie wäre es mit Minesweeper? Weiche Fallen aus und platziere Talisman-Flaggen! 💣',
+          'hi' => 'माइनस्वीपर कैसा रहेगा? जादुई जाल से बचो और ताबीज के झंडे लगाओ! 💣',
+          'en' => 'How about Minesweeper? Dodge goblin traps and plant talisman flags! 💣',
+          _ => '그럼, 지뢰찾기는 어때? 도깨비 함정을 쏙쏙 피해서 부적 깃발을 꽂아봐! 💣',
+        };
+        final label = switch (lang) {
+          'ja' => '💣 クケビマインスイーパー',
+          'zh' => '💣 畅玩吉鬼扫雷',
+          'de' => '💣 Minesweeper spielen',
+          'hi' => '💣 माइनस्वीपर खेलें',
+          'en' => '💣 Play Minesweeper',
+          _ => '💣 깨비 지뢰찾기 하러가기',
+        };
         return (
-          '그럼, 지뢰찾기는 어때? 도깨비 함정을 쏙쏙 피해서 부적 깃발을 꽂아봐! 💣',
-          '💣 깨비 지뢰찾기 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiMinesweeperGame()),
               ),
         );
       case 4:
+        final msg = switch (lang) {
+          'ja' => '対角線X-数独はどう？2本の対角線まで数字が重ならない頭脳チャレンジだよ！🔢✨',
+          'zh' => '对角线X-数独怎么样？两条对角线上的数字也不能重复的大脑挑战！🔢✨',
+          'de' => 'Wie wäre es mit Diagonal-X-Sudoku? Auch beide Diagonalen dürfen keine Doppelten haben! 🔢✨',
+          'hi' => 'विकर्ण X-सुडोकू कैसा रहेगा? दोनों विकर्णों में भी संख्याएँ अद्वितीय होनी चाहिए! 🔢✨',
+          'en' => 'How about Diagonal X-Sudoku? Even the two diagonals must have unique numbers! 🔢✨',
+          _ => '그럼, 대각선 X-스도쿠는 어때? 두 대각선까지 겹치지 않아야 하는 인기 두뇌 챌린지야! 🔢✨',
+        };
+        final label = switch (lang) {
+          'ja' => '🔢 X-数独をプレイ',
+          'zh' => '🔢 畅玩X-数独',
+          'de' => '🔢 X-Sudoku spielen',
+          'hi' => '🔢 X-सुडोकू खेलें',
+          'en' => '🔢 Play X-Sudoku',
+          _ => '🔢 X-스도쿠 하러가기',
+        };
         return (
-          '그럼, 대각선 X-스도쿠는 어때? 두 대각선까지 겹치지 않아야 하는 인기 두뇌 챌린지야! 🔢✨',
-          '🔢 X-스도쿠 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiXSudokuGame()),
               ),
         );
       case 5:
+        final msg = switch (lang) {
+          'ja' => '陰陽クロスマジックスクエアはどう？十文字と対角線が交差する神秘のパズルだよ！☯️',
+          'zh' => '阴阳十字幻方怎么样？十字与对角线交织的神秘魔法阵！☯️',
+          'de' => 'Wie wäre es mit dem Yin-Yang Kreuz-Quadrat? Kreuzende Linien und Diagonalen! ☯️',
+          'hi' => 'क्रॉस जादुई वर्ग कैसा रहेगा? क्रॉस और विकर्णों का रहस्यमयी संगम! ☯️',
+          'en' => 'How about Yin-Yang Cross Magic Square? Mystical intersecting cross and diagonals! ☯️',
+          _ => '그럼, 음양 크로스 마방진은 어때? 십자와 대각선이 교차하는 신비한 마법진이야! ☯️',
+        };
+        final label = switch (lang) {
+          'ja' => '☯️ クロス魔方陣をプレイ',
+          'zh' => '☯️ 畅玩十字幻方',
+          'de' => '☯️ Kreuz-Quadrat spielen',
+          'hi' => '☯️ क्रॉस जादुई वर्ग खेलें',
+          'en' => '☯️ Play Cross Magic Square',
+          _ => '☯️ 크로스 마방진 하러가기',
+        };
         return (
-          '그럼, 음양 크로스 마방진은 어때? 십자와 대각선이 교차하는 신비한 마법진이야! ☯️',
-          '☯️ 크로스 마방진 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiCrossMagicSquareGame()),
               ),
         );
       case 6:
+        final msg = switch (lang) {
+          'ja' => '六角ハニカムマインスイーパーはどう？6方向のレーダーで罠を見破ろう！⬡💣',
+          'zh' => '六角蜂巢扫雷怎么样？用6向蜂窝雷达侦破陷阱！⬡💣',
+          'de' => 'Wie wäre es mit Hexagon-Minesweeper? Erkenne Fallen im 6-Wege-Wabenmuster! ⬡💣',
+          'hi' => 'षट्कोणीय माइनस्वीपर कैसा रहेगा? 6 दिशाओं वाले रडार से जाल का पता लगाओ! ⬡💣',
+          'en' => 'How about Hexagonal Minesweeper? Scan traps with 6-direction honeycomb radar! ⬡💣',
+          _ => '그럼, 육각 벌집 지뢰찾기는 어때? 6방향 벌집 레이더로 함정을 간파해봐! ⬡💣',
+        };
+        final label = switch (lang) {
+          'ja' => '⬡ 六角マインスイーパー',
+          'zh' => '⬡ 畅玩六角扫雷',
+          'de' => '⬡ Hex-Minesweeper spielen',
+          'hi' => '⬡ हेक्स माइनस्वीपर खेलें',
+          'en' => '⬡ Play Hex Minesweeper',
+          _ => '⬡ 육각 지뢰찾기 하러가기',
+        };
         return (
-          '그럼, 육각 벌집 지뢰찾기는 어때? 6방향 벌집 레이더로 함정을 간파해봐! ⬡💣',
-          '⬡ 육각 지뢰찾기 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiHexMinesweeperGame()),
               ),
         );
       case 7:
+        final msg = switch (lang) {
+          'ja' => 'テトリスはどう？落ちてくるブロックを綺麗に消していこう！🧱',
+          'zh' => '那俄罗斯方块怎么样？消除落下的方块，畅享连击快感！🧱',
+          'de' => 'Wie wäre es mit Tetris? Beseitige die fallenden Blöcke und räume Reihen ab! 🧱',
+          'hi' => 'टेट्रिस कैसा रहेगा? गिरते हुए ब्लॉकों को साफ करो और पंक्तियाँ बनाओ! 🧱',
+          'en' => 'How about Tetris? Clear out the falling blocks and stack up lines! 🧱',
+          _ => '그럼, 테트리스는 어때? 떨어지는 블록들을 싹 정리해보자구! 🧱',
+        };
+        final label = switch (lang) {
+          'ja' => '🧱 クケビテトリスをプレイ',
+          'zh' => '🧱 畅玩吉鬼方块',
+          'de' => '🧱 Kkaebi Tetris spielen',
+          'hi' => '🧱 कैबी टेट्रिस खेलें',
+          'en' => '🧱 Play Kkaebi Tetris',
+          _ => '🧱 깨비 테트리스 하러가기',
+        };
         return (
-          '그럼, 테트리스는 어때? 떨어지는 블록들을 싹 정리해보자구! 🧱',
-          '🧱 깨비 테트리스 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiTetrisGame()),
               ),
         );
       case 8:
+        final msg = switch (lang) {
+          'ja' => 'ブロック崩しはどう？ボールを爽快に跳ね返して3Dブロックを壊そう！💥',
+          'zh' => '那打砖块怎么样？弹射小球，爽快击碎3D积木砖块！💥',
+          'de' => 'Wie wäre es mit Breakout? Lass den Ball abprallen und zerschmettere die Steine! 💥',
+          'hi' => 'ब्रिक ब्रेकर कैसा रहेगा? गेंद को उछालो और रंग-बिरंगी ईंटों को तोड़ो! 💥',
+          'en' => 'How about Breakout? Bounce the ball and smash the vibrant 3D bricks! 💥',
+          _ => '그럼, 벽돌깨기는 어때? 시원하게 공을 튕겨서 3D 벽돌을 박살내보자! 💥',
+        };
+        final label = switch (lang) {
+          'ja' => '💥 クケビブロック崩し',
+          'zh' => '💥 畅玩打砖块',
+          'de' => '💥 Breakout spielen',
+          'hi' => '💥 ब्रिक ब्रेकर खेलें',
+          'en' => '💥 Play Breakout',
+          _ => '💥 깨비 벽돌깨기 하러가기',
+        };
         return (
-          '그럼, 벽돌깨기는 어때? 시원하게 공을 튕겨서 3D 벽돌을 박살내보자! 💥',
-          '💥 깨비 벽돌깨기 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiBreakoutGame()),
               ),
         );
       case 9:
+        final msg = switch (lang) {
+          'ja' => 'バブルボブルはどう？泡を発射してモンスターを閉じ込めて破裂させよう！🫧',
+          'zh' => '那吉鬼泡泡龙怎么样？发射气泡困住怪物并将其击破！🫧',
+          'de' => 'Wie wäre es mit Bubble Bobble? Fange Monster in Blasen und bring sie zum Platzen! 🫧',
+          'hi' => 'बबल बॉबल कैसा रहेगा? राक्षसों को बुलबुलों में फँसाओ और फोड़ो! 🫧',
+          'en' => 'How about Bubble Bobble? Trap monsters in bubbles and pop them! 🫧',
+          _ => '그럼, 깨비 뽀글뽀글은 어때? 방울을 쏴서 몬스터를 가두고 터뜨려봐! 🫧',
+        };
+        final label = switch (lang) {
+          'ja' => '🫧 クケビバブルボブル',
+          'zh' => '🫧 畅玩吉鬼泡泡',
+          'de' => '🫧 Bubble Bobble spielen',
+          'hi' => '🫧 बबल बॉबल खेलें',
+          'en' => '🫧 Play Bubble Bobble',
+          _ => '🫧 깨비 뽀글뽀글 하러가기',
+        };
         return (
-          '그럼, 깨비 뽀글뽀글은 어때? 방울을 쏴서 몬스터를 가두고 터뜨려봐! 🫧',
-          '🫧 깨비 뽀글뽀글 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiBubbleGame()),
               ),
         );
       case 10:
+        final msg = switch (lang) {
+          'ja' => 'クケビ X-RION シューティングはどう？ツインレーザーとボムで宇宙を征服しよう！🚀',
+          'zh' => '吉鬼 X-RION 太空射击怎么样？双重激光与炸弹征服银河！🚀',
+          'de' => 'Wie wäre es mit dem X-RION Shooter? Erobere das Weltall mit Zwillingslasern! 🚀',
+          'hi' => 'कैबी X-RION शूटर कैसा रहेगा? ट्विन लेजर और बमों से अंतरिक्ष जीतो! 🚀',
+          'en' => 'How about X-RION Space Shooter? Conquer the galaxy with twin lasers and smart bombs! 🚀',
+          _ => '그럼, 깨비 X-RION 슈팅은 어때? 트윈 레이저와 폭탄으로 우주를 정복해봐! 🚀',
+        };
+        final label = switch (lang) {
+          'ja' => '🚀 X-RIONをプレイ',
+          'zh' => '🚀 畅玩X-RION射击',
+          'de' => '🚀 X-RION Shooter spielen',
+          'hi' => '🚀 X-RION शूटर खेलें',
+          'en' => '🚀 Play X-RION Shooter',
+          _ => '🚀 깨비 X-RION 하러가기',
+        };
         return (
-          '그럼, 깨비 X-RION 슈팅은 어때? 트윈 레이저와 폭탄으로 우주를 정복해봐! 🚀',
-          '🚀 깨비 X-RION 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiShooterGame()),
               ),
         );
       case 11:
+        final msg = switch (lang) {
+          'ja' => '古代遺跡はどう？銀と金の鍵を見つけて転がる巨岩をかわそう！🏛️',
+          'zh' => '那古迹探险怎么样？寻找银匙金匙，躲避翻滚巨石！🏛️',
+          'de' => 'Wie wäre es mit den Antiken Ruinen? Finde Schlüssel und weiche Riesensteinen aus! 🏛️',
+          'hi' => 'प्राचीन खंडहर कैसा रहेगा? लुढ़कते पत्थरों से बचते हुए सोने-चाँदी की चाबियाँ ढूँढो! 🏛️',
+          'en' => 'How about Ancient Ruins? Find the silver and gold keys while dodging rolling boulders! 🏛️',
+          _ => '그럼, 깨비 고대유적은 어때? 은/금 열쇠를 찾고 굴러오는 거대 바위를 피해봐! 🏛️',
+        };
+        final label = switch (lang) {
+          'ja' => '🏛️ 古代遺跡をプレイ',
+          'zh' => '🏛️ 畅玩古迹探险',
+          'de' => '🏛️ Antike Ruinen spielen',
+          'hi' => '🏛️ प्राचीन खंडहर खेलें',
+          'en' => '🏛️ Play Ancient Ruins',
+          _ => '🏛️ 깨비 고대유적 하러가기',
+        };
         return (
-          '그럼, 깨비 고대유적은 어때? 은/금 열쇠를 찾고 굴러오는 거대 바위를 피해봐! 🏛️',
-          '🏛️ 깨비 고대유적 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiJungleGame()),
               ),
         );
       case 12:
+        final msg = switch (lang) {
+          'ja' => 'ウィンドサーファーはどう？波に乗ってダブルジャンプや空中トリックを決めよう！🏄',
+          'zh' => '那风暴冲浪者怎么样？乘风破浪，施展双重跳跃与空中特技！🏄',
+          'de' => 'Wie wäre es mit Windsurfer? Reite die Wellen mit Doppelsprüngen und Lufttricks! 🏄',
+          'hi' => 'विंडसर्फर कैसा रहेगा? लहरों पर डबल जंप और हवाई स्टंट ट्रिक्स दिखाओ! 🏄',
+          'en' => 'How about Windsurfer? Ride the ocean waves with double jumps and aerial stunt tricks! 🏄',
+          _ => '그럼, 깨비 윈드서퍼는 어때? 파도를 타고 더블 점프와 공중 스턴트 트릭을 펼쳐봐! 🏄',
+        };
+        final label = switch (lang) {
+          'ja' => '🏄 ウィンドサーファー',
+          'zh' => '🏄 畅玩风暴冲浪',
+          'de' => '🏄 Windsurfer spielen',
+          'hi' => '🏄 विंडसर्फर खेलें',
+          'en' => '🏄 Play Windsurfer',
+          _ => '🏄 깨비 윈드서퍼 하러가기',
+        };
         return (
-          '그럼, 깨비 윈드서퍼는 어때? 파도를 타고 더블 점프와 공중 스턴트 트릭을 펼쳐봐! 🏄',
-          '🏄 깨비 윈드서퍼 하러가기',
+          msg,
+          label,
           () => Navigator.of(context).push(
                 MaterialPageRoute(builder: (_) => const KkaebiCaveGame()),
               ),
         );
       default:
+        final msg = switch (lang) {
+          'ja' => 'ゲームセンターにある名作ゲームを全部見てみる？🕹️✨',
+          'zh' => '想逛逛游戏厅里的所有经典游戏吗？🕹️✨',
+          'de' => 'Möchtest du alle Retro-Arcade-Spiele erkunden? 🕹️✨',
+          'hi' => 'क्या तुम आर्केड के सभी शानदार गेम देखना चाहोगे? 🕹️✨',
+          'en' => 'Would you like to explore all the legendary games in the arcade? 🕹️✨',
+          _ => '오락실에 있는 모든 명작 게임들을 전부 둘러볼래? 🕹️✨',
+        };
+        final label = switch (lang) {
+          'ja' => '🕹️ アーケードハブを開く',
+          'zh' => '🕹️ 打开街机大厅',
+          'de' => '🕹️ Spielhallen-Hub öffnen',
+          'hi' => '🕹️ आर्केड हब खोलें',
+          'en' => '🕹️ Open Arcade Hub',
+          _ => '🕹️ 깨비 오락실 허브 열기',
+        };
         return (
-          '오락실에 있는 모든 명작 게임들을 전부 둘러볼래? 🕹️✨',
-          '🕹️ 깨비 오락실 허브 열기',
+          msg,
+          label,
           () => KkaebiArcadeHubDialog.show(context),
         );
     }
@@ -958,7 +1193,14 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                                 const Text('❓', style: TextStyle(fontSize: 13)),
                                 const SizedBox(width: 5),
                                 Text(
-                                  isKo ? '상식/과학 퀴즈' : (isJa ? '常識・科学クイズ' : 'Trivia Quiz'),
+                                  switch (provider.lang) {
+                                    'ja' => '常識・科学クイズ',
+                                    'zh' => '常识科学问答',
+                                    'de' => 'Wissensquiz',
+                                    'hi' => 'ज्ञान प्रश्नोत्तरी',
+                                    'en' => 'Trivia Quiz',
+                                    _ => '상식/과학 퀴즈',
+                                  },
                                   style: const TextStyle(
                                     color: Color(0xFF00E5FF),
                                     fontSize: 12,
@@ -986,7 +1228,14 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                                 const Text('🕹️', style: TextStyle(fontSize: 13)),
                                 const SizedBox(width: 5),
                                 Text(
-                                  isKo ? '게임해볼까?' : (isJa ? 'ゲームしようか?' : 'Play Games?'),
+                                  switch (provider.lang) {
+                                    'ja' => 'ゲームしようか？',
+                                    'zh' => '来玩游戏吗？',
+                                    'de' => 'Spielen wir?',
+                                    'hi' => 'खेल खेलें?',
+                                    'en' => 'Play Games?',
+                                    _ => '게임해볼까?',
+                                  },
                                   style: const TextStyle(
                                     color: Color(0xFFE040FB),
                                     fontSize: 12,
@@ -1084,7 +1333,14 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
                               const Text('📖', style: TextStyle(fontSize: 13)),
                               const SizedBox(width: 5),
                               Text(
-                                isKo ? '깨비는 누구? & 도움말' : (isJa ? 'クケビとは？＆ヘルプ' : 'Who is Kkaebi? & Help'),
+                                switch (provider.lang) {
+                                  'ja' => 'クケビとは？＆ヘルプ',
+                                  'zh' => '谁是吉鬼？＆帮助',
+                                  'de' => 'Wer ist Kkaebi? & Hilfe',
+                                  'hi' => 'कैबी कौन है? व सहायता',
+                                  'en' => 'Who is Kkaebi? & Help',
+                                  _ => '깨비는 누구? & 도움말',
+                                },
                                 style: const TextStyle(
                                   color: Color(0xFFFFE082),
                                   fontSize: 12,
@@ -1217,7 +1473,14 @@ class _KkaebiChatScreenState extends State<KkaebiChatScreen> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  '깨비가 방망이를 고르는 중...',
+                  switch (context.watch<DokkeyProvider>().lang) {
+                    'ja' => 'クケビが小槌を選び中...',
+                    'zh' => '吉鬼正在挑选金箍棒...',
+                    'de' => 'Kkaebi wählt eine Zauberkeule...',
+                    'hi' => 'कैबी जादुई गदा चुन रहा है...',
+                    'en' => 'Kkaebi is choosing a club...',
+                    _ => '깨비가 방망이를 고르는 중...',
+                  },
                   style: TextStyle(color: DokkeyTheme.gold, fontSize: 12, fontStyle: FontStyle.italic),
                 ),
               ],

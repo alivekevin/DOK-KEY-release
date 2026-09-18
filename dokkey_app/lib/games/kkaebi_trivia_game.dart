@@ -251,7 +251,7 @@ class _KkaebiTriviaGameState extends State<KkaebiTriviaGame>
                                       ),
                                       const Spacer(),
                                       Text(
-                                        '생명: $heartsStr',
+                                        heartsStr,
                                         style: const TextStyle(fontSize: 13),
                                       ),
                                     ],

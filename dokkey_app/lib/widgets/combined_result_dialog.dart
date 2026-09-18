@@ -45,7 +45,88 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
 
   @override
   Widget build(BuildContext context) {
+    final provider = context.watch<DokkeyProvider>();
+    final lang = provider.lang;
     final formattedStr = widget.combinedKey.formattedNumbers;
+    final count = widget.combinedKey.numbers.length;
+
+    final String titleText;
+    final String subtitleText;
+    final String tagLabel;
+    final String copyLabel;
+    final String copyToast;
+    final String viewVaultLabel;
+    final String closeLabel;
+
+    switch (lang) {
+      case 'ja':
+        titleText = '$count Keys 錬成完了';
+        subtitleText = _hasDuplicates
+            ? '✨ 重複の気運発動！トッケビの秘術が誕生したケビ！✨'
+            : '強大な気運を秘めた鍵が誕生したケビ！（7日間保管）';
+        tagLabel = 'カスタムタグ（例：今週のロト、幸運の鍵）';
+        copyLabel = 'クリップボードにコピー';
+        copyToast = '$formattedStr コピーしました！📋';
+        viewVaultLabel = '🔑 保存された組合せキーを見る';
+        closeLabel = '閉じる';
+        break;
+      case 'zh':
+        titleText = '$count Keys 炼制完成';
+        subtitleText = _hasDuplicates
+            ? '✨ 叠加气韵触发！诞生了独角鬼叠加秘术！✨'
+            : '蕴含强大气韵的组合钥匙诞生了！（保存7天）';
+        tagLabel = '自定义标签（例：本周乐透，幸运组合）';
+        copyLabel = '复制到剪贴板';
+        copyToast = '$formattedStr 已复制到剪贴板！📋';
+        viewVaultLabel = '🔑 查看已保存的组合钥匙';
+        closeLabel = '关闭';
+        break;
+      case 'de':
+        titleText = '$count Keys Geschmiedet!';
+        subtitleText = _hasDuplicates
+            ? '✨ Resonanz ausgelöst! Ein Dokkaebi-Geheimnis ist erwacht! ✨'
+            : 'Eine kraftvolle Schlüsselkombination wurde geschmiedet! (7 Tage Tresor)';
+        tagLabel = 'Benutzerdefinierter Tag (z.B. Glücksziehung)';
+        copyLabel = 'In Zwischenablage kopieren';
+        copyToast = '$formattedStr in die Zwischenablage kopiert! 📋';
+        viewVaultLabel = '🔑 Gespeicherte Schlüssel ansehen';
+        closeLabel = 'Schließen';
+        break;
+      case 'hi':
+        titleText = '$count Keys संयोजन पूर्ण!';
+        subtitleText = _hasDuplicates
+            ? '✨ प्रतिध्वनि सक्रिय! एक रहस्यमय शक्ति का जन्म हुआ! ✨'
+            : 'एक शक्तिशाली संयोजन तैयार किया गया है! (7-दिवसीय वॉल्ट)';
+        tagLabel = 'कस्टम टैग (उदा. इस सप्ताह का लकी ड्रा)';
+        copyLabel = 'क्लिपबोर्ड पर कॉपी करें';
+        copyToast = '$formattedStr क्लिपबोर्ड पर कॉपी हो गया! 📋';
+        viewVaultLabel = '🔑 सहेजी गई कुंजियाँ देखें';
+        closeLabel = 'बंद करें';
+        break;
+      case 'en':
+        titleText = '$count Keys Combined!';
+        subtitleText = _hasDuplicates
+            ? '✨ Duplicate Resonance! A Dokkaebi Secret Synergy is born! ✨'
+            : 'A powerful Key combination has been forged! (7-Day Vault)';
+        tagLabel = "Custom Tag (e.g. This week's lucky draw)";
+        copyLabel = 'Copy to Clipboard';
+        copyToast = '$formattedStr copied to clipboard! 📋';
+        viewVaultLabel = '🔑 View Saved Combined Keys';
+        closeLabel = 'Close';
+        break;
+      case 'ko':
+      default:
+        titleText = '$count Keys 조합 완료';
+        subtitleText = _hasDuplicates
+            ? '✨ 중첩 기운 발동! 도깨비 중첩비기가 탄생했다깨비! ✨'
+            : '엄청난 기운의 조합 열쇠가 탄생했다깨비! (7일 보관)';
+        tagLabel = '커스텀 태그 (예: 이번 주 로또, 도깨비 중첩비기)';
+        copyLabel = '클립보드 복사';
+        copyToast = '$formattedStr 복사되었습니다! 📋';
+        viewVaultLabel = '🔑 저장된 조합 키 보러가기';
+        closeLabel = '닫기';
+        break;
+    }
 
     return Dialog(
       backgroundColor: Colors.transparent,
@@ -122,7 +203,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
                 const SizedBox(width: 8),
                 Flexible(
                   child: Text(
-                    '${widget.combinedKey.numbers.length} Keys 조합 완료',
+                    titleText,
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
@@ -135,9 +216,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
             ),
             const SizedBox(height: 6),
             Text(
-              _hasDuplicates
-                  ? '✨ 중첩 기운 발동! 도깨비 중첩비기가 탄생했다깨비! ✨'
-                  : '엄청난 기운의 조합 열쇠가 탄생했다깨비! (7일 보관)',
+              subtitleText,
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: _hasDuplicates ? DokkeyTheme.dokFire : DokkeyTheme.textMuted,
@@ -210,7 +289,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
               style: TextStyle(color: DokkeyTheme.textMain, fontSize: 13),
               decoration: InputDecoration(
                 counterText: '',
-                labelText: '커스텀 태그 (예: 이번 주 로또, 도깨비 중첩비기)',
+                labelText: tagLabel,
                 labelStyle: TextStyle(color: DokkeyTheme.textMuted, fontSize: 11),
                 prefixIcon: Icon(Icons.label_outline_rounded,
                     color: DokkeyTheme.gold, size: 18),
@@ -236,7 +315,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
                 Clipboard.setData(ClipboardData(text: formattedStr));
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
-                    content: Text('$formattedStr 복사되었습니다! 📋'),
+                    content: Text(copyToast),
                     backgroundColor: DokkeyTheme.surfaceDark,
                     duration: const Duration(seconds: 2),
                   ),
@@ -248,7 +327,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
                 foregroundColor: Colors.black,
                 padding: const EdgeInsets.symmetric(vertical: 12),
               ),
-              label: const Text('클립보드 복사 (Copy)', style: TextStyle(fontWeight: FontWeight.bold)),
+              label: Text(copyLabel, style: const TextStyle(fontWeight: FontWeight.bold)),
             ),
             const SizedBox(height: 8),
 
@@ -266,7 +345,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
                 padding: const EdgeInsets.symmetric(vertical: 12),
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
               ),
-              label: const Text('🔑 저장된 조합 키 보러가기'),
+              label: Text(viewVaultLabel),
             ),
             const SizedBox(height: 4),
 
@@ -280,7 +359,7 @@ class _CombinedResultDialogState extends State<CombinedResultDialog> {
                 }
                 Navigator.of(context).pop();
               },
-              child: Text('닫기', style: TextStyle(color: DokkeyTheme.textMuted)),
+              child: Text(closeLabel, style: TextStyle(color: DokkeyTheme.textMuted)),
             ),
           ],
         ),

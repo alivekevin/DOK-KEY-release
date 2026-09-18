@@ -166,10 +166,19 @@ class _KkaebiCrossMagicSquareGameState extends State<KkaebiCrossMagicSquareGame>
 
     if (!_finished && model.isCleared) {
       _finished = true;
+      final lang = Provider.of<DokkeyProvider>(context, listen: false).lang;
+      final clearTitle = switch (lang) {
+        'ja' => '陰陽クロスマジックスクエア完成!',
+        'zh' => '阴阳十字魔方阵通关!',
+        'de' => 'Yin-Yang Magisches Quadrat Gelöst!',
+        'hi' => 'यिन-यांग क्रॉस मैजिक स्क्वायर पूर्ण!',
+        'en' => 'Cross Magic Square Cleared!',
+        _ => '음양 크로스 마방진 완성!',
+      };
       finishGame(
         context,
         gameId: KkaebiCrossMagicSquareGame.gameId,
-        title: '음양 크로스 마방진 완성!',
+        title: clearTitle,
         score: model.score,
         cleared: true,
         onRetry: _startNewGame,
@@ -179,7 +188,34 @@ class _KkaebiCrossMagicSquareGameState extends State<KkaebiCrossMagicSquareGame>
 
   @override
   Widget build(BuildContext context) {
-    final isKo = context.watch<DokkeyProvider>().lang == 'ko';
+    final lang = context.watch<DokkeyProvider>().lang;
+
+    final gameTitle = switch (lang) {
+      'ja' => '陰陽クロスマジックスクエア',
+      'zh' => '阴阳十字魔方阵',
+      'de' => 'Yin-Yang Magisches Quadrat',
+      'hi' => 'यिन-यांग क्रॉस मैजिक स्क्वायर',
+      'en' => 'Cross Magic Square',
+      _ => '음양 크로스 마방진',
+    };
+
+    final targetSumLabel = switch (lang) {
+      'ja' => '目標和 15',
+      'zh' => '目标和 15',
+      'de' => 'Zielsumme 15',
+      'hi' => 'लक्ष्य 15',
+      'en' => 'Target 15',
+      _ => '목표합 15',
+    };
+
+    final guideText = switch (lang) {
+      'ja' => '行・列・対角線の合計をすべて15に揃えましょう！',
+      'zh' => '让所有横行、竖列与对角线之和均为15！',
+      'de' => 'Bringe alle Zeilen, Spalten und Diagonalen auf die Summe 15!',
+      'hi' => 'सभी पंक्तियों, स्तंभों और विकर्णों का योग 15 बनाएं!',
+      'en' => 'Make all rows, cols & diagonals sum to 15!',
+      _ => '가로·세로·대각선 모든 라인의 합을 15로 완성하세요!',
+    };
 
     return Scaffold(
       backgroundColor: const Color(0xFF140D24),
@@ -187,9 +223,9 @@ class _KkaebiCrossMagicSquareGameState extends State<KkaebiCrossMagicSquareGame>
         child: Column(
           children: [
             GameHud(
-              title: isKo ? '음양 크로스 마방진' : 'Cross Magic Square',
+              title: gameTitle,
               score: model.score,
-              rightLabel: '목표합 15',
+              rightLabel: targetSumLabel,
               onQuit: () => Navigator.of(context).pop(),
               accent: const Color(0xFFE040FB),
             ),
@@ -209,9 +245,7 @@ class _KkaebiCrossMagicSquareGameState extends State<KkaebiCrossMagicSquareGame>
                     const SizedBox(width: 8),
                     Expanded(
                       child: Text(
-                        isKo
-                            ? '가로·세로·대각선 모든 라인의 합을 15로 완성하세요!'
-                            : 'Make all rows, cols & diagonals sum to 15!',
+                        guideText,
                         style: const TextStyle(color: Color(0xFFE1BEE7), fontSize: 11.5, fontWeight: FontWeight.bold),
                       ),
                     ),
@@ -317,7 +351,17 @@ class _KkaebiCrossMagicSquareGameState extends State<KkaebiCrossMagicSquareGame>
                           setState(() => model.erase());
                         },
                         icon: const Icon(Icons.backspace_outlined, size: 16, color: Colors.white70),
-                        label: Text(isKo ? '지우기' : 'Erase', style: const TextStyle(color: Colors.white70)),
+                        label: Text(
+                          switch (lang) {
+                            'ja' => '消去',
+                            'zh' => '擦除',
+                            'de' => 'Löschen',
+                            'hi' => 'मिटाएं',
+                            'en' => 'Erase',
+                            _ => '지우기',
+                          },
+                          style: const TextStyle(color: Colors.white70),
+                        ),
                       ),
                     ],
                   ),

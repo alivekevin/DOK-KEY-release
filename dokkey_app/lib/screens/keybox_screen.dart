@@ -59,8 +59,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
 
   void _onCombinePressed(BuildContext context) async {
     final provider = context.read<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
     final available = provider.sourceNumbers;
 
     if (!provider.canAddCombinedKey) {
@@ -69,18 +68,30 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
     }
 
     if (available.isEmpty) {
-      _toast(context, isKo ? '모은 숫자가 하나도 없습니다!' : 'No numbers collected yet!');
+      final msg = switch (lang) {
+        'ja' => '集めた数字がまだありません！',
+        'zh' => '还没有收集任何数字！',
+        'de' => 'Noch keine Zahlen gesammelt!',
+        'hi' => 'अभी तक कोई संख्या एकत्र नहीं की गई!',
+        'en' => 'No numbers collected yet!',
+        _ => '모은 숫자가 하나도 없습니다!',
+      };
+      _toast(context, msg);
       return;
     }
 
     if (!_allowDuplicates && available.length < _targetCount) {
+      final text = switch (lang) {
+        'ja' => '固有の数字が不足しています！（必要: $_targetCount個、所持: ${available.length}個）\n💡 重複許可モードで今すぐ錬成できます！',
+        'zh' => '持有的唯一数字不足！（需要: $_targetCount个，拥有: ${available.length}个）\n💡 切换为允许重复模式即可立即炼制！',
+        'de' => 'Nicht genug eindeutige Zahlen! (Benötigt: $_targetCount, Vorhanden: ${available.length})\n💡 Duplikate-Modus aktivieren!',
+        'hi' => 'पर्याप्त अद्वितीय संख्याएँ नहीं हैं! (आवश्यक: $_targetCount, उपलब्ध: ${available.length})\n💡 दोहराव मोड आज़माएँ!',
+        'en' => 'Not enough unique numbers! (Need: $_targetCount, Have: ${available.length})\n💡 Try Allow Duplicates mode!',
+        _ => '보유한 고유 숫자가 부족합니다! (필요: $_targetCount개, 보유: ${available.length}개)\n💡 중복 허용 모드로 전환하면 지금 바로 연성할 수 있어요!',
+      };
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text(
-            isKo
-                ? '보유한 고유 숫자가 부족합니다! (필요: $_targetCount개, 보유: ${available.length}개)\n💡 중복 허용 모드로 전환하면 지금 바로 연성할 수 있어요!'
-                : 'Not enough unique numbers! (Need: $_targetCount, Have: ${available.length})\n💡 Try Allow Duplicates mode!',
-          ),
+          content: Text(text),
           backgroundColor: DokkeyTheme.cardDark,
         ),
       );
@@ -116,6 +127,51 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
       if (e.toString().contains('MAX_SLOTS_REACHED')) {
         // 무료 9/9 한도 도달 → 삭제 유도 또는 Pro 업그레이드
         final isPro = provider.isProUser;
+        final title = switch (lang) {
+          'ja' => '保管箱が満杯です',
+          'zh' => '钥匙保管箱已满',
+          'de' => 'Tresor ist voll',
+          'hi' => 'वॉल्ट भर गया है',
+          'en' => 'Vault is full',
+          _ => '조합 보관함이 가득 찼습니다',
+        };
+        final desc = switch (lang) {
+          'ja' => isPro
+              ? '99/99スロットがすべて満杯です。保管箱で古いキーを整理してから再錬成してください。'
+              : '無料スロット9/9が満杯です。\n\n🗑️ 保管箱で古いキーを整理するか\n👑 プロパス(PRO PASS)で99スロットに拡張できます。',
+          'zh' => isPro
+              ? '99/99个槽位已满。请在保管箱清理旧钥匙后再炼制。'
+              : '免费9/9槽位已满。\n\n🗑️ 在保管箱清理旧钥匙，或\n👑 通过 PRO PASS 扩充至99个槽位。',
+          'de' => isPro
+              ? 'Alle 99 Plätze belegt. Räume alte Schlüssel im Tresor auf.'
+              : 'Gratis-Plätze voll (9/9).\n\n🗑️ Alte Schlüssel löschen oder\n👑 mit PRO PASS auf 99 erweitern.',
+          'hi' => isPro
+              ? 'सभी 99 स्लॉट भरे हैं। पुराने कुंजी साफ़ करें और पुनः प्रयास करें।'
+              : 'निःशुल्क 9/9 स्लॉट भरे हैं।\n\n🗑️ वॉल्ट साफ़ करें या\n👑 PRO PASS से 99 स्लॉट पाएँ।',
+          'en' => isPro
+              ? 'All 99 slots are full. Clean old keys in the vault and try again.'
+              : 'Free slots full (9/9).\n\n🗑️ Clean old keys in the vault, or\n👑 expand to 99 slots with the PRO PASS.',
+          _ => isPro
+              ? '조합 키 99/99 슬롯이 모두 찼습니다. 보관함에서 오래된 키를 정리한 뒤 다시 연성해주세요.'
+              : '무료 슬롯 9/9가 모두 찼습니다.\n\n🗑️ 보관함에서 오래된 키를 정리하거나\n👑 프로 패스(PRO PASS)로 99개 슬롯으로 확장할 수 있습니다.',
+        };
+        final cleanLabel = switch (lang) {
+          'ja' => '保管箱へ',
+          'zh' => '前往保管箱',
+          'de' => 'Tresor öffnen',
+          'hi' => 'वॉल्ट खोलें',
+          'en' => 'Open Vault',
+          _ => '보관함 정리하러 가기',
+        };
+        final upgradeLabel = switch (lang) {
+          'ja' => '99スロット拡張',
+          'zh' => '获取99槽位',
+          'de' => '99 Plätze holen',
+          'hi' => '99 स्लॉट पाएँ',
+          'en' => 'Get 99 Slots',
+          _ => '99슬롯 확장',
+        };
+
         showDialog(
           context: context,
           builder: (ctx) => AlertDialog(
@@ -130,20 +186,14 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                 const SizedBox(width: 8),
                 Flexible(
                   child: Text(
-                    isKo ? '조합 보관함이 가득 찼습니다' : (isJa ? '保管箱が満杯です' : 'Vault is full'),
+                    title,
                     style: const TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
                   ),
                 ),
               ],
             ),
             content: Text(
-              isKo
-                  ? (isPro
-                      ? '조합 키 99/99 슬롯이 모두 찼습니다. 보관함에서 오래된 키를 정리한 뒤 다시 연성해주세요.'
-                      : '무료 슬롯 9/9가 모두 찼습니다.\n\n🗑️ 보관함에서 오래된 키를 정리하거나\n👑 프로 패스(PRO PASS)로 99개 슬롯으로 확장할 수 있습니다.')
-                  : (isPro
-                      ? 'All 99 slots are full. Clean old keys in the vault and try again.'
-                      : 'Free slots full (9/9).\n\n🗑️ Clean old keys in the vault, or\n👑 expand to 99 slots with the PRO PASS.'),
+              desc,
               style: TextStyle(color: DokkeyTheme.textMain, fontSize: 13, height: 1.5),
             ),
             actions: [
@@ -155,7 +205,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                   );
                 },
                 child: Text(
-                  isKo ? '보관함 정리하러 가기' : (isJa ? '保管箱へ' : 'Open Vault'),
+                  cleanLabel,
                   style: TextStyle(color: DokkeyTheme.textMuted),
                 ),
               ),
@@ -171,7 +221,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                     foregroundColor: Colors.black,
                   ),
                   label: Text(
-                    isKo ? '99슬롯 확장' : (isJa ? '99スロット' : 'Get 99 Slots'),
+                    upgradeLabel,
                     style: const TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),
@@ -198,8 +248,9 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
   @override
   Widget build(BuildContext context) {
     final provider = context.watch<DokkeyProvider>();
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
+    final isKo = lang == 'ko';
+    final isJa = lang == 'ja';
     final sourceList = provider.sourceNumbers;
     final maxAvailable = sourceList.length;
     // 유니크 모드에서 N이 보유 수를 넘으면 자동 보정
@@ -211,9 +262,54 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
 
     final combinedCount = provider.combinedKeys.length;
 
+    final String appbarTitle = switch (lang) {
+      'ja' => '保管箱',
+      'zh' => '保管箱',
+      'de' => 'Schlüsselbox',
+      'hi' => 'कुंजी बॉक्स',
+      'en' => 'Key Box',
+      _ => '보관함',
+    };
+
+    final String keysButtonLabel = switch (lang) {
+      'ja' => '組合せ ($combinedCount)',
+      'zh' => '组合钥匙 ($combinedCount)',
+      'de' => 'Schlüssel ($combinedCount)',
+      'hi' => 'कुंजियाँ ($combinedCount)',
+      'en' => 'Keys ($combinedCount)',
+      _ => '조합 키 ($combinedCount)',
+    };
+
+    final String codexTooltip = switch (lang) {
+      'ja' => '99 グランド図鑑',
+      'zh' => '99 宏伟图鉴',
+      'de' => '99 Grand Codex',
+      'hi' => '99 ग्रैंड कोडेक्स',
+      'en' => '99 Grand Codex',
+      _ => '99 그랜드 도감',
+    };
+
+    final String tab0Label = switch (lang) {
+      'ja' => '🗝️ 数字・錬成',
+      'zh' => '🗝️ 幸运数字与炼制',
+      'de' => '🗝️ Zahlen & Schmiede',
+      'hi' => '🗝️ अंक और संयोजन',
+      'en' => '🗝️ Keys & Alchemy',
+      _ => '🗝️ 행운 숫자 & 연성',
+    };
+
+    final String tab1Label = switch (lang) {
+      'ja' => '📜 保存した名言',
+      'zh' => '📜 已收藏名言',
+      'de' => '📜 Gespeicherte Zitate',
+      'hi' => '📜 सहेजे गए विचार',
+      'en' => '📜 Saved Quotes',
+      _ => '📜 저장한 명언',
+    };
+
     return Scaffold(
       appBar: AppBar(
-        title: Text(isKo ? '보관함' : (isJa ? '保管箱' : 'Key Box')),
+        title: Text(appbarTitle),
         actions: [
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 2),
@@ -225,9 +321,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
               },
               icon: Icon(Icons.vpn_key_rounded, color: DokkeyTheme.gold, size: 15),
               label: Text(
-                isKo
-                    ? '조합 키 ($combinedCount)'
-                    : (isJa ? '組合せ ($combinedCount)' : 'Keys ($combinedCount)'),
+                keysButtonLabel,
                 style: TextStyle(
                   color: DokkeyTheme.goldLight,
                   fontWeight: FontWeight.bold,
@@ -254,7 +348,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
               );
             },
             icon: Icon(Icons.menu_book_rounded, color: DokkeyTheme.goldLight),
-            tooltip: isKo ? '99 그랜드 도감' : (isJa ? '99 グランド図鑑' : '99 Grand Codex'),
+            tooltip: codexTooltip,
           ),
           const RotatingKeyHomeButton(),
           const SizedBox(width: 4),
@@ -284,7 +378,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                       ),
                       child: Center(
                         child: Text(
-                          isKo ? '🗝️ 행운 숫자 & 연성' : (isJa ? '🗝️ 数字・錬成' : '🗝️ Keys & Alchemy'),
+                          tab0Label,
                           style: TextStyle(
                             color: _activeTab == 0 ? Colors.black : DokkeyTheme.textMuted,
                             fontWeight: FontWeight.bold,
@@ -309,7 +403,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
-                              isKo ? '📜 저장한 명언' : (isJa ? '📜 保存した名言' : '📜 Saved Quotes'),
+                              tab1Label,
                               style: TextStyle(
                                 color: _activeTab == 1 ? Colors.black : DokkeyTheme.textMuted,
                                 fontWeight: FontWeight.bold,
@@ -363,6 +457,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
     bool isJa,
     List<SourceNumberItem> sourceList,
   ) {
+    final lang = provider.lang;
     final sortedList = _applySortFilter(sourceList);
     final maxAvailable = sourceList.length;
     final toneColors = [null, '#F5BD42', '#388E3C', '#1976D2', '#C94A2E', '#8E24AA', '#D32F2F', '#00796B', '#455A64'];
@@ -520,7 +615,14 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                         Row(
                           children: [
                             Text(
-                              isKo ? '프리셋' : 'Preset',
+                              switch (lang) {
+                                'ja' => 'プリセット',
+                                'zh' => '预设',
+                                'de' => 'Vorgabe',
+                                'hi' => 'प्रीसेट',
+                                'en' => 'Preset',
+                                _ => '프리셋',
+                              },
                               style: TextStyle(
                                 color: DokkeyTheme.textMuted,
                                 fontSize: 11,
@@ -567,7 +669,14 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                                     ),
                                     const SizedBox(width: 3),
                                     Text(
-                                      isKo ? '중복 허용' : (isJa ? '重複許可' : 'Dupes'),
+                                      switch (lang) {
+                                        'ja' => '重複許可',
+                                        'zh' => '允许重复',
+                                        'de' => 'Duplikate',
+                                        'hi' => 'दोहराव',
+                                        'en' => 'Dupes',
+                                        _ => '중복 허용',
+                                      },
                                       style: TextStyle(
                                         fontSize: 10.5,
                                         fontWeight: FontWeight.bold,
@@ -602,11 +711,23 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                                 mainAxisSize: MainAxisSize.min,
                                 children: [
                                   Text(
-                                    isKo
-                                        ? (_allowDuplicates
-                                            ? '중첩 연성 모드 (빈도 가중치 반영)'
-                                            : '고유 번호 연성 모드')
-                                        : (_allowDuplicates ? 'Restoration + Weighted' : 'Unique Mode'),
+                                    _allowDuplicates
+                                        ? switch (lang) {
+                                            'ja' => '重複錬成モード（頻度重み反映）',
+                                            'zh' => '叠加炼制模式（权重累加）',
+                                            'de' => 'Resonanz-Modus (Gewichtet)',
+                                            'hi' => 'प्रतिध्वनि मोड (भारित)',
+                                            'en' => 'Restoration + Weighted',
+                                            _ => '중첩 연성 모드 (빈도 가중치 반영)',
+                                          }
+                                        : switch (lang) {
+                                            'ja' => '固有番号錬成モード',
+                                            'zh' => '唯一编号炼制模式',
+                                            'de' => 'Einzigartiger Modus',
+                                            'hi' => 'अद्वितीय मोड',
+                                            'en' => 'Unique Mode',
+                                            _ => '고유 번호 연성 모드',
+                                          },
                                     style: TextStyle(
                                       color: _allowDuplicates ? DokkeyTheme.dokFire : DokkeyTheme.gold,
                                       fontWeight: FontWeight.bold,
@@ -615,9 +736,14 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                                   ),
                                   const SizedBox(height: 2),
                                   Text(
-                                    isKo
-                                        ? '고정: ${_selectedNumbers.length} / 보유: $maxAvailable'
-                                        : 'Fixed: ${_selectedNumbers.length} / Pool: $maxAvailable',
+                                    switch (lang) {
+                                      'ja' => '固定: ${_selectedNumbers.length} / 所持: $maxAvailable',
+                                      'zh' => '固定: ${_selectedNumbers.length} / 拥有: $maxAvailable',
+                                      'de' => 'Fixiert: ${_selectedNumbers.length} / Vorrat: $maxAvailable',
+                                      'hi' => 'निश्चित: ${_selectedNumbers.length} / कुल: $maxAvailable',
+                                      'en' => 'Fixed: ${_selectedNumbers.length} / Pool: $maxAvailable',
+                                      _ => '고정: ${_selectedNumbers.length} / 보유: $maxAvailable',
+                                    },
                                     style: TextStyle(
                                       color: DokkeyTheme.textMuted,
                                       fontSize: 11,
@@ -687,7 +813,14 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
                               ),
                               child: Text(
-                                isKo ? '연성하기' : 'Combine',
+                                switch (lang) {
+                                  'ja' => '錬成する',
+                                  'zh' => '炼制',
+                                  'de' => 'Kombinieren',
+                                  'hi' => 'संयोजित करें',
+                                  'en' => 'Combine',
+                                  _ => '연성하기',
+                                },
                                 style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
                               ),
                             ),
@@ -883,8 +1016,32 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
   }
 
   Widget _buildEmptyState(DokkeyProvider provider, int combinedCount) {
-    final isKo = provider.lang == 'ko';
-    final isJa = provider.lang == 'ja';
+    final lang = provider.lang;
+    final emptyMsg = switch (lang) {
+      'ja' => '集めた数字がまだありません。',
+      'zh' => '还没有收集任何数字。',
+      'de' => 'Noch keine Zahlen gesammelt.',
+      'hi' => 'अभी तक कोई संख्या एकत्र नहीं की गई।',
+      'en' => 'No numbers collected yet.',
+      _ => '아직 모은 숫자가 없습니다.',
+    };
+    final tipMsg = switch (lang) {
+      'ja' => '運勢カード・なぞなぞ・夢占いから幸運の数字を集めよう！',
+      'zh' => '从运势卡片、谜语和解梦中收集幸运数字吧！',
+      'de' => 'Sammle Glückszahlen aus Ziehungen, Rätseln & Träumen!',
+      'hi' => 'ड्रा, पहेलियों और सपनों से भाग्यशाली अंक एकत्र करें!',
+      'en' => 'Collect lucky numbers from draws, riddles & dreams!',
+      _ => '운세 카드 · 수수께끼 · 꿈풀이에서 행운의 숫자를 모아보세요!',
+    };
+    final buttonLabel = switch (lang) {
+      'ja' => '組合せキー保管箱 ($combinedCount)',
+      'zh' => '查看组合钥匙保管箱 ($combinedCount)',
+      'de' => 'Kombinierte Schlüssel ansehen ($combinedCount)',
+      'hi' => 'संयोजित कुंजियाँ देखें ($combinedCount)',
+      'en' => 'View Combined Keys ($combinedCount)',
+      _ => '완성된 조합 키 보관함 열기 ($combinedCount)',
+    };
+
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(24.0),
@@ -894,12 +1051,12 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
             Icon(Icons.inventory_2_outlined, size: 64, color: DokkeyTheme.textMuted),
             const SizedBox(height: 16),
             Text(
-              isKo ? '아직 모은 숫자가 없습니다.' : 'No numbers collected yet.',
+              emptyMsg,
               style: TextStyle(color: DokkeyTheme.textMuted, fontSize: 15),
             ),
             const SizedBox(height: 8),
             Text(
-              isKo ? '운세 카드 · 수수께끼 · 꿈풀이에서 행운의 숫자를 모아보세요!' : 'Collect lucky numbers from draws, riddles & dreams!',
+              tipMsg,
               textAlign: TextAlign.center,
               style: TextStyle(color: DokkeyTheme.gold, fontSize: 13),
             ),
@@ -918,9 +1075,7 @@ class _KeyBoxScreenState extends State<KeyBoxScreen> {
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
               ),
               label: Text(
-                isKo
-                    ? '완성된 조합 키 보관함 열기 ($combinedCount)'
-                    : (isJa ? '組合せキー保管箱 ($combinedCount)' : 'View Combined Keys ($combinedCount)'),
+                buttonLabel,
                 style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
               ),
             ),
