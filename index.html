@@ -214,6 +214,17 @@
       cursor: pointer;
       white-space: nowrap;
     }
+    .dokkey-web-btn-apk {
+      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+      border: 1px solid #34D399;
+      color: #FFFFFF !important;
+      box-shadow: 0 2px 8px rgba(16, 185, 129, 0.35);
+    }
+    .dokkey-web-btn-apk:hover {
+      background: linear-gradient(135deg, #34D399 0%, #10B981 100%);
+      box-shadow: 0 3px 12px rgba(16, 185, 129, 0.55);
+      transform: translateY(-1px);
+    }
     .dokkey-web-btn-step1 {
       background: rgba(255, 255, 255, 0.08);
       border: 1px solid rgba(212, 175, 55, 0.4);
@@ -305,10 +316,13 @@
       .dokkey-web-actions {
         width: 100%;
         justify-content: space-between;
+        gap: 4px;
       }
       .dokkey-web-btn {
         flex: 1;
         justify-content: center;
+        padding: 6px 4px;
+        font-size: 10px;
       }
       .dokkey-web-desc {
         display: none;
@@ -322,16 +336,19 @@
         <span class="dokkey-web-pulse"></span> 테스터 모집
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ 구글 플레이 비공개 테스터(20인) 모집 중!</div>
-        <div class="dokkey-web-desc">14일간 함께하고 정식 출시 VIP 특전을 받으세요</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.2.2)</div>
+        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
+      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.2.2)">
+        <span>📱 APK 다운로드</span>
+      </a>
       <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
         <span class="dokkey-web-step">1</span> 그룹 가입
       </a>
       <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2" title="2단계: 플레이스토어 테스터 다운로드">
-        <span class="dokkey-web-step">2</span> 앱 다운로드
+        <span class="dokkey-web-step">2</span> 플레이스토어
       </a>
       <button type="button" class="dokkey-web-close" onclick="closeWebTesterBanner()" title="배너 닫기">&times;</button>
     </div>
