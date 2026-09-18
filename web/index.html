@@ -1,12 +1,428 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+  <base href="/DOK-KEY-release/">
+
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=../">
-  <script>window.location.replace('../');</script>
-  <title>DOK-KEY 공식 페이지로 이동 중...</title>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠. 99종 그랜드 도감과 8가지 표정의 깨비가 전하는 데일리 운세 드로우 & 황금 열쇠 조합기.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <!-- OpenGraph for Social Sharing -->
+  <meta property="og:title" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠">
+  <meta property="og:description" content="99종 그랜드 도감 & 깨비와 함께하는 1-Draw 데일리 운세 드로우 & N-Key 조합기">
+  <meta property="og:type" content="website">
+
+  <!-- Mobile meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="DOK-KEY">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>DOK-KEY (독키) — 오늘 하루를 여는 단 하나의 열쇠</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans+SC:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #0A0C10;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", "Noto Sans SC", "Noto Sans Devanagari", sans-serif;
+      color: #EAEFF8;
+    }
+
+    #loading-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at center, #1A1E29 0%, #0A0C10 70%);
+      z-index: 9999;
+      pointer-events: all;
+    }
+
+    .key-icon {
+      font-size: 48px;
+      margin-bottom: 20px;
+      animation: keyBounce 2s ease-in-out infinite;
+      filter: drop-shadow(0 0 16px rgba(212, 175, 55, 0.5));
+    }
+
+    @keyframes keyBounce {
+      0%, 100% { transform: translateY(0px) rotate(0deg) scale(1); }
+      50% { transform: translateY(-10px) rotate(6deg) scale(1.08); }
+    }
+
+    .brand-name {
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: 3px;
+      color: #D4AF37;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #FFF6D6 0%, #D4AF37 50%, #997A15 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .loading-msg {
+      font-size: 14px;
+      color: #8E9BAE;
+      margin-bottom: 24px;
+      letter-spacing: -0.2px;
+    }
+
+    .spinner-bar {
+      width: 180px;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 4px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .spinner-bar::after {
+      content: '';
+      position: absolute;
+      left: -50%;
+      height: 100%;
+      width: 50%;
+      background: linear-gradient(90deg, transparent, #D4AF37, #FF5E36, transparent);
+      border-radius: 4px;
+      animation: sweep 1.4s ease-in-out infinite;
+    }
+
+    @keyframes sweep {
+      0% { left: -50%; }
+      100% { left: 100%; }
+    }
+  </style>
 </head>
-<body style="background:#0A0C10; color:#FFD700; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; text-align:center; padding-top:20vh;">
-  <p style="font-size:18px;">🗝️ DOK-KEY 공식 페이지로 이동 중입니다...</p>
+<body>
+  <!-- DOK-KEY 구글 플레이 비공개 테스터 모집 플로팅 배너 & 위젯 -->
+  <style>
+    .dokkey-web-tester-banner {
+      position: fixed;
+      top: 14px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% - 28px);
+      max-width: 760px;
+      background: rgba(14, 18, 27, 0.94);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(212, 175, 55, 0.45);
+      border-radius: 16px;
+      padding: 10px 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.25);
+      z-index: 10000;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+      box-sizing: border-box;
+      pointer-events: auto;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .dokkey-web-tester-banner.hidden {
+      opacity: 0;
+      transform: translate(-50%, -20px) scale(0.95);
+      pointer-events: none;
+    }
+    .dokkey-web-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+    .dokkey-web-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: rgba(212, 175, 55, 0.18);
+      border: 1px solid rgba(212, 175, 55, 0.6);
+      color: #FFD700;
+      padding: 3px 8px;
+      border-radius: 12px;
+      font-size: 11px;
+      font-weight: 700;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .dokkey-web-pulse {
+      width: 6px;
+      height: 6px;
+      background-color: #10B981;
+      border-radius: 50%;
+      box-shadow: 0 0 6px #10B981;
+      animation: webPulse 1.8s infinite;
+    }
+    @keyframes webPulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.4); opacity: 0.6; }
+    }
+    .dokkey-web-info {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+    .dokkey-web-title {
+      color: #FFFFFF;
+      font-size: 13px;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .dokkey-web-desc {
+      color: #94A3B8;
+      font-size: 11px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .dokkey-web-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+    .dokkey-web-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 11px;
+      font-weight: 700;
+      text-decoration: none !important;
+      transition: all 0.2s;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .dokkey-web-btn-apk {
+      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+      border: 1px solid #34D399;
+      color: #FFFFFF !important;
+      box-shadow: 0 2px 8px rgba(16, 185, 129, 0.35);
+    }
+    .dokkey-web-btn-apk:hover {
+      background: linear-gradient(135deg, #34D399 0%, #10B981 100%);
+      box-shadow: 0 3px 12px rgba(16, 185, 129, 0.55);
+      transform: translateY(-1px);
+    }
+    .dokkey-web-btn-step1 {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(212, 175, 55, 0.4);
+      color: #E2E8F0 !important;
+    }
+    .dokkey-web-btn-step1:hover {
+      background: rgba(212, 175, 55, 0.25);
+      border-color: #FFD700;
+      color: #FFD700 !important;
+    }
+    .dokkey-web-btn-step2 {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      border: 1px solid #FFD700;
+      color: #0A0C10 !important;
+      box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
+    }
+    .dokkey-web-btn-step2:hover {
+      background: linear-gradient(135deg, #FFF59D 0%, #FFA000 100%);
+      box-shadow: 0 3px 12px rgba(245, 158, 11, 0.6);
+      transform: translateY(-1px);
+    }
+    .dokkey-web-step {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      font-size: 9px;
+      font-weight: 800;
+    }
+    .dokkey-web-btn-step1 .dokkey-web-step {
+      background: rgba(212, 175, 55, 0.3);
+      color: #FFD700;
+    }
+    .dokkey-web-btn-step2 .dokkey-web-step {
+      background: #0A0C10;
+      color: #FFD700;
+    }
+    .dokkey-web-close {
+      background: transparent;
+      border: none;
+      color: #64748B;
+      font-size: 16px;
+      cursor: pointer;
+      padding: 4px;
+      line-height: 1;
+      border-radius: 4px;
+      transition: color 0.2s;
+    }
+    .dokkey-web-close:hover {
+      color: #FFFFFF;
+    }
+    /* 플로팅 미니 버튼 (닫았을 때) */
+    .dokkey-web-float-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: rgba(14, 18, 27, 0.92);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(212, 175, 55, 0.6);
+      border-radius: 24px;
+      padding: 7px 14px 7px 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #FFD700;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      z-index: 10000;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 10px rgba(212, 175, 55, 0.3);
+      transition: all 0.25s ease;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+    }
+    .dokkey-web-float-btn:hover {
+      transform: translateY(-2px) scale(1.04);
+      border-color: #FFD700;
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
+    }
+    @media (max-width: 680px) {
+      .dokkey-web-tester-banner {
+        top: 8px;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 8px 12px;
+        gap: 8px;
+      }
+      .dokkey-web-actions {
+        width: 100%;
+        justify-content: space-between;
+        gap: 4px;
+      }
+      .dokkey-web-btn {
+        flex: 1;
+        justify-content: center;
+        padding: 6px 4px;
+        font-size: 10px;
+      }
+      .dokkey-web-desc {
+        display: none;
+      }
+    }
+  </style>
+
+  <div id="dokkey-web-banner" class="dokkey-web-tester-banner">
+    <div class="dokkey-web-left">
+      <div class="dokkey-web-badge">
+        <span class="dokkey-web-pulse"></span> 테스터 모집
+      </div>
+      <div class="dokkey-web-info">
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.2.2)</div>
+        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
+      </div>
+    </div>
+    <div class="dokkey-web-actions">
+      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.2.2)">
+        <span>📱 APK 다운로드</span>
+      </a>
+      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
+        <span class="dokkey-web-step">1</span> 그룹 가입
+      </a>
+      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2" title="2단계: 플레이스토어 테스터 다운로드">
+        <span class="dokkey-web-step">2</span> 플레이스토어
+      </a>
+      <button type="button" class="dokkey-web-close" onclick="closeWebTesterBanner()" title="배너 닫기">&times;</button>
+    </div>
+  </div>
+
+  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebTesterBanner()" style="display:none;" title="테스터 모집 안내 열기">
+    <span class="dokkey-web-pulse"></span>
+    <span>🗝️ 테스터 모집</span>
+  </div>
+
+  <script>
+    function closeWebTesterBanner() {
+      var banner = document.getElementById('dokkey-web-banner');
+      var floatBtn = document.getElementById('dokkey-web-float');
+      if (banner) banner.classList.add('hidden');
+      if (floatBtn) floatBtn.style.display = 'flex';
+      try { sessionStorage.setItem('dokkey_web_banner_closed', '1'); } catch(e) {}
+    }
+    function openWebTesterBanner() {
+      var banner = document.getElementById('dokkey-web-banner');
+      var floatBtn = document.getElementById('dokkey-web-float');
+      if (banner) banner.classList.remove('hidden');
+      if (floatBtn) floatBtn.style.display = 'none';
+      try { sessionStorage.removeItem('dokkey_web_banner_closed'); } catch(e) {}
+    }
+    (function() {
+      try {
+        if (sessionStorage.getItem('dokkey_web_banner_closed') === '1') {
+          var banner = document.getElementById('dokkey-web-banner');
+          var floatBtn = document.getElementById('dokkey-web-float');
+          if (banner) banner.classList.add('hidden');
+          if (floatBtn) floatBtn.style.display = 'flex';
+        }
+      } catch(e) {}
+    })();
+  </script>
+
+  <div id="loading-container">
+    <div class="key-icon">🗝️</div>
+    <div class="brand-name">DOK-KEY</div>
+    <div class="loading-msg">도깨비의 열쇠를 불러오는 중...</div>
+    <div class="spinner-bar"></div>
+  </div>
+
+  <script>
+    function hideLoader() {
+      var loader = document.getElementById('loading-container');
+      if (loader && !loader.classList.contains('hidden')) {
+        loader.classList.add('hidden');
+        loader.style.transition = 'opacity 0.4s ease-out';
+        loader.style.opacity = '0';
+        loader.style.pointerEvents = 'none';
+        setTimeout(function () {
+          if (loader.parentNode) loader.parentNode.removeChild(loader);
+        }, 450);
+      }
+    }
+
+    // 1. Flutter 첫 프레임 이벤트 수신 시 제거
+    window.addEventListener('flutter-first-frame', hideLoader);
+
+    // 2. Flutter DOM 렌더링 감지 시 제거
+    var observer = new MutationObserver(function(mutations) {
+      if (document.querySelector('flutter-view, flt-glass-pane, flt-scene-host')) {
+        hideLoader();
+        observer.disconnect();
+      }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
+    setTimeout(hideLoader, 3500);
+  </script>
+
+  <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
