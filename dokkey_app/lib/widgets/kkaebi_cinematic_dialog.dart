@@ -51,10 +51,10 @@ class _KkaebiCinematicDialogState extends State<KkaebiCinematicDialog>
     'assets/images/animation/2d/02_bat_swing.webp',
     'assets/images/animation/2d/03_bat_rush.webp',
     BrandConfig.cinematicFxV2Enabled
-        ? 'assets/images/animation/2d/04_bat_impact_v3.webp'
+        ? 'assets/images/animation/2d/04_bat_impact_v4.webp'
         : 'assets/images/animation/2d/04_bat_impact.webp',
     BrandConfig.cinematicFxV2Enabled
-        ? 'assets/images/animation/2d/05_magic_burst_v3.webp'
+        ? 'assets/images/animation/2d/05_magic_burst_v4.webp'
         : 'assets/images/animation/2d/05_magic_burst.webp',
     'assets/images/animation/2d/06_key_rise.webp',
     'assets/images/animation/2d/07_celebrate_1.webp',

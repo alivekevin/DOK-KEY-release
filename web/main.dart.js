@@ -70700,7 +70700,7 @@ s=A.a([A.dd(s,new A.aUv(e,l),d)],q)
 s.push(A.lF(0,A.dd(e.d,new A.aUw(e),d)))
 s.push(A.dd(e.d,new A.aUx(e),d))
 k=e.e
-k=A.pZ(A.A(B.Q,A.dN(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact_v3.webp","assets/images/animation/2d/05_magic_burst_v3.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"][k-1],new A.aUy(),B.b1,B.cg,d,d),B.f,d,d,d,d,310,new A.cR(k,t.f3),d,d,d,d,310),B.r9,A.tq(),B.ap,new A.aUz())
+k=A.pZ(A.A(B.Q,A.dN(["assets/images/animation/2d/01_bat_up.webp","assets/images/animation/2d/02_bat_swing.webp","assets/images/animation/2d/03_bat_rush.webp","assets/images/animation/2d/04_bat_impact_v4.webp","assets/images/animation/2d/05_magic_burst_v4.webp","assets/images/animation/2d/06_key_rise.webp","assets/images/animation/2d/07_celebrate_1.webp","assets/images/animation/2d/08_celebrate_2.webp"][k-1],new A.aUy(),B.b1,B.cg,d,d),B.f,d,d,d,d,310,new A.cR(k,t.f3),d,d,d,d,310),B.r9,A.tq(),B.ap,new A.aUz())
 j=A.q(245,B.qF.h()>>>16&255,B.qF.h()>>>8&255,B.qF.h()&255)
 i=A.o(22)
 if(l)h=B.C
