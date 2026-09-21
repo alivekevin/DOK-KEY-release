@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Curious Visitor",
+      "subtitle": "Polite observer with curious caution",
+      "quote": "Who travels from afar? Are you gazing curiously at my goblin club?",
+      "perks": [
+        "Daily 1-Draw Fortune Unlock",
+        "Standard Kkaebi Dialogue"
+      ]
+    },
+    "2": {
+      "title": "Familiar Friend",
+      "subtitle": "Playful goblin companion",
+      "quote": "Aha! You came back, my friend! What brings you to see me today?",
+      "perks": [
+        "Floating Kkaebi Wink & Cheer Expressions",
+        "Daily Poke Reaction (+5 Affection)",
+        "Friendly Fortune Result Voice"
+      ]
+    },
+    "3": {
+      "title": "Best Buddy",
+      "subtitle": "Close companion sharing beast & god secrets",
+      "quote": "Let me share a secret with you... the energy of today’s Divine Beast is remarkable!",
+      "perks": [
+        "Secret Chat Dialogue Topics",
+        "Exclusive Secret Tip on Fortune Result",
+        "Enhanced Golden Sparkle Particles"
+      ]
+    },
+    "4": {
+      "title": "Kkaebi Soulmate",
+      "subtitle": "Trusted buddy bestowing golden fortune",
+      "quote": "Look how close we have become! You are truly my dearest soulmate.",
+      "perks": [
+        "Floating Goblin Fire Aura Effect",
+        "Weekly Monday Bonus Key (+1)",
+        "Deep Empathy Guidance in Chat"
+      ]
+    },
+    "5": {
+      "title": "Eternal Legend",
+      "subtitle": "Guardian spirit bound by a thousand years",
+      "quote": "I feel as though I waited a thousand years for you. I shall summon boundless fortune for you!",
+      "perks": [
+        "Golden Kkaebi Master Badge",
+        "Ultimate Golden Blessing Aura",
+        "Secret Legendary Lore Dialogue"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Hey, that tickles! Why poke me? 😆",
+    "Hehe, you really like petting me, don’t you! ✨",
+    "Gold come forth! May grand fortune be yours! 🔮",
+    "They say touching my goblin horns grants your wish! 😈",
+    "Cheer up today! I am watching over you! 💖"
+  ]
+}
