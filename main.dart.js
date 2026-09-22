@@ -74699,7 +74699,7 @@ aAI(a,b){var s=0,r=A.u(t.H),q=1,p=[],o=this,n,m,l,k
 var $async$F2=A.v(function(c,d){if(c===1){p.push(d)
 s=q}for(;;)switch(s){case 0:A.cg()
 $.aC().dk()
-n=A.fF("mailto:alivekevin@gmail.com?subject="+A.kd(2,"[DOK-KEY v5.2.13 (Build 537)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bm,!1)+"&body="+A.kd(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.2.13 (Build 537)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bm,!1),0,null)
+n=A.fF("mailto:alivekevin@gmail.com?subject="+A.kd(2,"[DOK-KEY v5.2.14 (Build 538)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bm,!1)+"&body="+A.kd(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.2.14 (Build 538)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bm,!1),0,null)
 m=!1
 q=3
 s=6
@@ -74959,7 +74959,7 @@ g=A.n(10)
 h=A.Q(B.bW.I(0.6),1.2)
 g=A.bP(!1,j,!0,A.x(e,A.G(A.a([B.a7i,B.am,A.d(f.fE(a0,"Feedback senden","Send Feedback","\u092b\u0940\u0921\u092c\u0948\u0915 \u092d\u0947\u091c\u0947\u0902","\u3054\u610f\u898b\u30fb\u4e0d\u5177\u5408\u5831\u544a",b,"\u610f\u89c1 / \u95ee\u9898\u53cd\u9988"),e,e,e,e,e,B.aHV,e,e,e)],s),B.i,B.h,B.z,0,e),B.e,e,e,new A.y(B.a03,e,h,g,e,e,B.n),e,e,e,e,B.rL,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aX4(f,a5,a0),e,e,e,e,e,e,e)
 h=A.c2(e,e,B.K,e,e,e,4,e,e,B.o,e,e,B.a4r,e,new A.aV(A.n(12),B.v),e,e,e,e,e)
-return A.eK(e,B.G,A.x(e,A.Y(A.a([r,q,p,A.x(e,A.Y(A.a([A.G(A.a([g,A.eL(A.d(f.fE(a0,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),e,e,e,e,e,B.Tj,e,e,e),new A.aX5(a5),h)],s),B.i,B.ay,B.k,0,e),B.aX,A.bj(A.d("v5.2.13 \xb7 Dokkey Studio",e,e,e,e,e,B.aGw,B.ac,e,e),e,e)],s),B.i,e,B.h,B.z,0,B.q),B.e,e,e,B.W1,e,e,e,e,B.iS,e,e,e)],s),B.i,e,B.h,B.k,0,B.q),B.e,e,B.VQ,new A.y(B.mE,e,a3,a2,a4,e,B.n),e,e,e,e,e,e,e,e),e,e,e,B.kG,B.bP,e,e,e)},
+return A.eK(e,B.G,A.x(e,A.Y(A.a([r,q,p,A.x(e,A.Y(A.a([A.G(A.a([g,A.eL(A.d(f.fE(a0,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),e,e,e,e,e,B.Tj,e,e,e),new A.aX5(a5),h)],s),B.i,B.ay,B.k,0,e),B.aX,A.bj(A.d("v5.2.14 \xb7 Dokkey Studio",e,e,e,e,e,B.aGw,B.ac,e,e),e,e)],s),B.i,e,B.h,B.z,0,B.q),B.e,e,e,B.W1,e,e,e,e,B.iS,e,e,e)],s),B.i,e,B.h,B.k,0,B.q),B.e,e,B.VQ,new A.y(B.mE,e,a3,a2,a4,e,B.n),e,e,e,e,e,e,e,e),e,e,e,B.kG,B.bP,e,e,e)},
 F3(a,b){return this.aAJ(a,b)},
 aAJ(a,b){var s=0,r=A.u(t.H)
 var $async$F3=A.v(function(c,d){if(c===1)return A.q(d,r)
@@ -76580,7 +76580,7 @@ a5=a6}else{a6=j.e?"Online":"Offline"
 j="Context: "+a5.toUpperCase()+" \xb7 "+a6+" \xb7 "+j.d+" visits"
 a5=j}}e.push(A.d(a5,a,a,a,a,a,A.A(a,a,$.c?B.B:B.C,a,a,a,a,a,a,a,a,10,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),B.ac,a,a))
 e.push(B.au)
-a5=A.d("DOK-KEY v5.2.13 \u2022 Zero-Login Architecture",a,a,a,a,a,A.A(a,a,$.c?B.B:B.C,a,a,a,a,a,a,a,a,11,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)
+a5=A.d("DOK-KEY v5.2.14 \u2022 Zero-Login Architecture",a,a,a,a,a,A.A(a,a,$.c?B.B:B.C,a,a,a,a,a,a,a,a,11,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)
 a6=A.EC("main_slogan",a0.e)
 e.push(A.bx(a,A.bj(A.Y(A.a([a5,new A.bp(a,4,a,a),A.d(a6,a,a,a,a,a,A.A(a,a,$.c?B.L:B.I,a,a,a,a,a,a,a,a,10.5,B.hM,a,a,a,a,!0,a,a,a,a,a,a,a,a),B.ac,a,a)],n),B.i,a,B.h,B.k,0,B.q),a,a),B.E,!1,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,b.gaxs(),a,a,a,a,a,a))
 e.push(B.aK)
