@@ -239,7 +239,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "noon"
     ],
     "kkaebi_comment": "敲了才开。门如此，心也如此！ - 小妖!"
@@ -402,7 +401,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "evening"
     ],
     "kkaebi_comment": "蜡烛从不互相争斗。光与光一起分享黑暗。 - 小妖!"
@@ -742,7 +740,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "evening"
     ],
     "kkaebi_comment": "一只手拍不响。关系是彼此的声音。 - 小妖!"
@@ -825,7 +822,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "开始就等于成功一半。多吉比也喜欢扣好第一颗扣子的人！ - 小妖!"
+    "kkaebi_comment": "千里路，从脚下第一步算起！别数远近，数步数。 - 小妖!"
   },
   {
     "id": "quo_052",
@@ -841,7 +838,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "挖井要挖一口深的。泉水属于挖井人！ - 小妖!"
+    "kkaebi_comment": "最高的善像水——不争，却没人争得过它！学水，往低处走反而到得了所有地方。 - 小妖!"
   },
   {
     "id": "quo_053",
@@ -852,13 +849,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "noon"
     ],
-    "kkaebi_comment": "好话好还。言语是一面镜子！ - 小妖!"
+    "kkaebi_comment": "三人同行，必有我师！把身边人都当老师，这学费最便宜。 - 小妖!"
   },
   {
     "id": "quo_054",
@@ -874,7 +870,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "吃苦是储蓄，享受是利息！ - 小妖!"
+    "kkaebi_comment": "苦药治病，忠言治心！逆耳的话，往往是救命的方子。 - 小妖!"
   },
   {
     "id": "quo_055",
@@ -886,12 +882,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "说曹操曹操到？那就只说好话吧！ - 小妖!"
+    "kkaebi_comment": "丢了羊再修圈，不叫晚，叫醒得早！补一个圈，救一群羊。 - 小妖!"
   },
   {
     "id": "quo_056",
@@ -907,7 +903,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "橡子比高矮——天下相似的人太多，谦逊点！ - 小妖!"
+    "kkaebi_comment": "水滴不喊累，石头就认输！柔的东西坚持久了最硬。 - 小妖!"
   },
   {
     "id": "quo_057",
@@ -923,7 +919,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "丢了羊再修圈也不晚。吃一堑长一智！ - 小妖!"
+    "kkaebi_comment": "祸福是轮流坐庄的！今天丢的马，明天可能驮着好运回来。 - 小妖!"
   },
   {
     "id": "quo_058",
@@ -939,7 +935,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "熟练的事就像喝凉粥一样容易！ - 小妖!"
+    "kkaebi_comment": "先磨刀，不误工！准备不是耽误，是给刀开光。 - 小妖!"
   },
   {
     "id": "quo_059",
@@ -955,7 +951,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "小水沟里也能飞出龙。别小看低处！ - 小妖!"
+    "kkaebi_comment": "地里不撒谎！你种什么，土地就记什么账。 - 小妖!"
   },
   {
     "id": "quo_060",
@@ -971,7 +967,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "看种子就知道收成。你今天播种了什么？ - 小妖!"
+    "kkaebi_comment": "给鱼管一顿，教钓鱼管一生！手艺才是带得走的粮仓。 - 小妖!"
   },
   {
     "id": "quo_061",
@@ -987,7 +983,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "敲十次。第十一次，心就打开了！ - 小妖!"
+    "kkaebi_comment": "跟什么人走，染什么色！选朋友，就是选自己的颜色。 - 小妖!"
   },
   {
     "id": "quo_062",
@@ -1003,7 +999,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "翻过一座山就休息。下一座山总会来！ - 小妖!"
+    "kkaebi_comment": "三尺冰，是一天天冻出来的！厚积的东西，急不得也化得慢。 - 小妖!"
   },
   {
     "id": "quo_063",
@@ -1019,7 +1015,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "与其羡慕别人的羽毛，不如修剪自己的翅膀！ - 小妖!"
+    "kkaebi_comment": "路远才知马力，日久才见人心！急着下结论的人，都走不了远路。 - 小妖!"
   },
   {
     "id": "quo_064",
@@ -1035,7 +1031,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "没有完美的鸡，最优的替代也是智慧！ - 小妖!"
+    "kkaebi_comment": "后浪推前浪，别怕被推！前浪的功课，是教后浪怎么推得漂亮。 - 小妖!"
   },
   {
     "id": "quo_065",
@@ -1046,12 +1042,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "空车最吵。实力才出声！ - 小妖!"
+    "kkaebi_comment": "尺有短处，寸有长处！别拿自己的短处，去比别人的长处。 - 小妖!"
   },
   {
     "id": "quo_066",
@@ -1063,13 +1059,13 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "hope",
+    "theme": "comfort",
     "emotion": "joy",
     "time_slot": [
       "morning",
       "evening"
     ],
-    "kkaebi_comment": "老鼠洞也有晒到太阳的日子。现在是要忍耐的时候！ - 小妖!"
+    "kkaebi_comment": "听一百次，不如亲眼看一次！耳朵收的租，不如眼睛挣的粮。 - 小妖!"
   },
   {
     "id": "quo_067",
@@ -1085,7 +1081,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "千里之路从第一步开始。今天的脚步决定胜负！ - 小妖!"
+    "kkaebi_comment": "路走到头，就该转弯了！穷不是绝路，是变法的起点。 - 小妖!"
   },
   {
     "id": "quo_068",
@@ -1096,13 +1092,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "meeting",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "evening"
     ],
-    "kkaebi_comment": "并肩抬担，重担也轻。开口求助也是一种力量！ - 小妖!"
+    "kkaebi_comment": "流动的水不臭，常转的门轴不蛀！人也一样，动着才有活气。 - 小妖!"
   },
   {
     "id": "quo_069",
@@ -1113,12 +1108,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "满器寡言。深者少语！ - 小妖!"
+    "kkaebi_comment": "不想远路的人，近处全是坑！今天的远虑，是明天的近福。 - 小妖!"
   },
   {
     "id": "quo_070",
@@ -1129,12 +1124,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "meeting",
+    "theme": "comfort",
     "emotion": "shy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "同病相怜。共情是免费的安慰！ - 小妖!"
+    "kkaebi_comment": "诚心够重，金石都开门！真意是最硬的钥匙。 - 小妖!"
   },
   {
     "id": "quo_071",
@@ -1150,7 +1145,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "各有其位。那个位置也很了不起！ - 小妖!"
+    "kkaebi_comment": "海大，因为不挑水！能容下的越多，格局就越大。 - 小妖!"
   },
   {
     "id": "quo_072",
@@ -1166,7 +1161,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "这一切都会过去。风暴的保质期很短！ - 小妖!"
+    "kkaebi_comment": "玉不琢不成器，人不磨不成才！怕疼的玉，一辈子是块石头。 - 小妖!"
   },
   {
     "id": "quo_073",
@@ -1182,7 +1177,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "别只看表面就下判断，否则西瓜总是挑错！ - 小妖!"
+    "kkaebi_comment": "光阴比金子贵——金子丢了能再赚，时间丢了就是丢了！今天先用今天的。 - 小妖!"
   },
   {
     "id": "quo_074",
@@ -1193,13 +1188,13 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "hope",
+    "theme": "growth",
     "emotion": "joy",
     "time_slot": [
       "morning",
       "noon"
     ],
-    "kkaebi_comment": "山穷水尽时抬头看——天上也有出口！ - 小妖!"
+    "kkaebi_comment": "静的水流得深，闹的水吵得浅！有深度的人，声量都不大。 - 小妖!"
   },
   {
     "id": "quo_075",
@@ -1215,7 +1210,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "别去抓洒掉的水。去接新的水！ - 小妖!"
+    "kkaebi_comment": "凡事别推到头！月满则亏，水满则溢，留三分才转得动。 - 小妖!"
   },
   {
     "id": "quo_076",
@@ -1231,7 +1226,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "躺着也能吃年糕——有准备的人不怕困难！ - 小妖!"
+    "kkaebi_comment": "站在水边羡慕鱼，不如回家织网！羡慕是白费力气，织网才是正经事。 - 小妖!"
   },
   {
     "id": "quo_077",
@@ -1242,12 +1237,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "巧合叠加就像因果。别动摇！ - 小妖!"
+    "kkaebi_comment": "旧事是免费的老师！记住的亏，都不会白吃。 - 小妖!"
   },
   {
     "id": "quo_078",
@@ -1263,7 +1258,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "珍珠也要串起来才发光。整理就是武器！ - 小妖!"
+    "kkaebi_comment": "知足的人天天过节！快乐不在东西多，在于欲望少。 - 小妖!"
   },
   {
     "id": "quo_079",
@@ -1274,13 +1269,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "morning"
     ],
-    "kkaebi_comment": "话没有脚却走千里。小心今天说出的话！ - 小妖!"
+    "kkaebi_comment": "大风过后，才认得出哪根草最韧！风，是草的考官。 - 小妖!"
   },
   {
     "id": "quo_080",
@@ -1296,7 +1290,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "熟能生巧，追什么抓什么！ - 小妖!"
+    "kkaebi_comment": "宝剑的锋，是磨出来的！没人天生开刃，都是磨的。 - 小妖!"
   },
   {
     "id": "quo_081",
@@ -1312,7 +1306,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "吃饱了看世界都不一样。先吃饭再判断！ - 小妖!"
+    "kkaebi_comment": "万众一心，就是城池！人心齐的地方，墙都不用砌。 - 小妖!"
   },
   {
     "id": "quo_082",
@@ -1328,7 +1322,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "沙城会被水冲垮。先打地基！ - 小妖!"
+    "kkaebi_comment": "越想快，越到不了！快是熟出来的，不是赶出来的。 - 小妖!"
   },
   {
     "id": "quo_083",
@@ -1344,7 +1338,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "先填根本——没有底的瓮永远装不满！ - 小妖!"
+    "kkaebi_comment": "旧的温一遍，新的自己冒出来！老书翻第二遍，才读得出第二层。 - 小妖!"
   },
   {
     "id": "quo_084",
@@ -1360,7 +1354,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "麦穗越熟头垂得越低。学得越多越谦逊。 - 小妖!"
+    "kkaebi_comment": "有志的人，事会给他让路！志气不是喊出来的，是熬出来的。 - 小妖!"
   },
   {
     "id": "quo_085",
@@ -1376,7 +1370,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "欲望少了，风波也少了！ - 小妖!"
+    "kkaebi_comment": "自满吃亏，谦虚进账！肯低头的人，口袋反而鼓。 - 小妖!"
   },
   {
     "id": "quo_086",
@@ -1392,7 +1386,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "绝境的呼喊能感动上天。珍惜那声音！ - 小妖!"
+    "kkaebi_comment": "千里大堤，输给一个蚂蚁洞！小隐患不补，大堤就得哭。 - 小妖!"
   },
   {
     "id": "quo_087",
@@ -1403,13 +1397,13 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "morning",
       "night"
     ],
-    "kkaebi_comment": "拙劣的装饰总是露馅。真实才最有底气！ - 小妖!"
+    "kkaebi_comment": "高手的答案常常一样！如果你和对的人想的不一样，再想想。 - 小妖!"
   },
   {
     "id": "quo_088",
@@ -1425,7 +1419,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "登上去山也不过是山。恐惧被踩在脚下就变矮了！ - 小妖!"
+    "kkaebi_comment": "水太清，鱼不来！人太苛，友不留。留点浑，才有活气。 - 小妖!"
   },
   {
     "id": "quo_089",
@@ -1436,12 +1430,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "hope",
+    "theme": "comfort",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "等待也是准备的一种。阳光一定会来！ - 小妖!"
+    "kkaebi_comment": "自己不想要的，别塞给别人！待人的尺子，先量自己。 - 小妖!"
   },
   {
     "id": "quo_090",
@@ -1457,7 +1451,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "大的决定总要失去些什么。算清楚再走！ - 小妖!"
+    "kkaebi_comment": "读万卷书，也要走万里路！书里的路，要用脚来验证。 - 小妖!"
   },
   {
     "id": "quo_091",
@@ -1468,12 +1462,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "心飘了，人就飘了。先脚踏实地！ - 小妖!"
+    "kkaebi_comment": "难事只怕有心人！世上没有撬不开的门，只有不合适的钥匙。 - 小妖!"
   },
   {
     "id": "quo_092",
@@ -1489,7 +1483,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "越走越难，但坚持的人笑到最后！ - 小妖!"
+    "kkaebi_comment": "疑无路的时候，柳暗花明往往就在下一个弯！天无绝人之路，路绝了人自己转弯。 - 小妖!"
   },
   {
     "id": "quo_093",
@@ -1500,12 +1494,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "hope",
+    "theme": "zen",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "最近的东西最容易错过。看看眼前！ - 小妖!"
+    "kkaebi_comment": "局里的人糊涂，局外的人清醒！下不赢的棋，站起身看一眼。 - 小妖!"
   },
   {
     "id": "quo_094",
@@ -1521,7 +1515,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "高手也会掉下来。给失误加上谦逊！ - 小妖!"
+    "kkaebi_comment": "树要十年，人要百年！育人是最慢的庄稼，也是最值的收成。 - 小妖!"
   },
   {
     "id": "quo_095",
@@ -1532,13 +1526,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "meeting",
+    "theme": "challenge",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "noon"
     ],
-    "kkaebi_comment": "独自走得快，同行走得远。你想要哪个？ - 小妖!"
+    "kkaebi_comment": "机会敲门的时候，你至少要在家里！准备好的人，才有资格说运气好。 - 小妖!"
   },
   {
     "id": "quo_096",
@@ -1554,7 +1547,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "一句话能还千两债。感受话语的重量！ - 小妖!"
+    "kkaebi_comment": "熟了，巧自己找上门！第一遍叫学，第一百遍才叫巧。 - 小妖!"
   },
   {
     "id": "quo_097",
@@ -1570,7 +1563,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "忍耐是把不可能变成可能的锤子！ - 小妖!"
+    "kkaebi_comment": "青出蓝而胜蓝！学生赢过先生，才是先生最体面的功劳。 - 小妖!"
   },
   {
     "id": "quo_098",
@@ -1581,12 +1574,12 @@
     ],
     "author": "中国谚语",
     "source": "传统格言",
-    "theme": "hope",
+    "theme": "challenge",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "高树明知招风，依然向高处生长！ - 小妖!"
+    "kkaebi_comment": "笨鸟先飞不丢人，后到才丢人！起点低，就早点出发。 - 小妖!"
   },
   {
     "id": "quo_099",
@@ -1602,7 +1595,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "辣椒虽小却最辣。大小不等于味道！ - 小妖!"
+    "kkaebi_comment": "和气生财，戾气破财！笑脸是最便宜的招财符。 - 小妖!"
   },
   {
     "id": "quo_100",
@@ -1618,7 +1611,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "养老的钱别乱花。冬天的柴要夏天备！ - 小妖!"
+    "kkaebi_comment": "活到老，学到老！人这一生，毕业典礼永远在明天。 - 小妖!"
   },
   {
     "id": "quo_101",
@@ -1757,7 +1750,7 @@
     ],
     "author": "전통 격언",
     "source": "델포이 신전",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1782,19 +1775,19 @@
   },
   {
     "id": "quo_111",
-    "text": "我们就是我们反复做的事。卓越是一种习惯。",
+    "text": "美德由行动而成。我们通过做正确的事，成为正确的人。",
     "category": "classic",
     "tone_tags": [
       "fire"
     ],
-    "author": "아리스토텔레스",
-    "source": "니코마코스 윤리학",
+    "author": "亚里士多德",
+    "source": "尼各马可伦理学",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "重复下去，它就成了你。好习惯塑造好的人！ - 小妖!"
+    "kkaebi_comment": "亚里士多德说：行动先于思考！- 小妖!"
   },
   {
     "id": "quo_112",
@@ -1835,8 +1828,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "오비디우스",
-    "source": "격언",
+    "author": "베르길리우스",
+    "source": "아이네이스 제10권",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
@@ -1917,7 +1910,7 @@
     ],
     "author": "파스칼",
     "source": "팡세",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1933,7 +1926,7 @@
     ],
     "author": "데카르트",
     "source": "방법서설",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1949,7 +1942,7 @@
     ],
     "author": "칸트",
     "source": "비판철학",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "normal",
     "time_slot": [
       "night"
@@ -2134,35 +2127,35 @@
   },
   {
     "id": "quo_133",
-    "text": "人生要么是一场勇敢的冒险，要么什么都不是。",
+    "text": "相信你自己吧——每一颗心都会随那根铁弦振动。",
     "category": "classic",
     "tone_tags": [
       "fire"
     ],
-    "author": "헬렌 켈러",
-    "source": "격언",
+    "author": "拉尔夫·沃尔多·爱默生",
+    "source": "《自助论》（1841）",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "不怕，人生就是冒险。怕了，就什么都不是！ - 小妖!"
+    "kkaebi_comment": "信任别去赊账！你心里的弦最先响，现在就拨动它！- 小妖!"
   },
   {
     "id": "quo_134",
-    "text": "独行者事少，众行者路远。",
+    "text": "如果我比别人看得更远，那是因为我站在巨人的肩膀上。",
     "category": "classic",
     "tone_tags": [
       "shy"
     ],
-    "author": "헬렌 켈러",
-    "source": "격언",
-    "theme": "meeting",
+    "author": "艾萨克·牛顿",
+    "source": "致胡克的信 (1675)",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "一个人做小事，一起做大事！你今天和谁联手？ - 小妖!"
+    "kkaebi_comment": "牛顿也站在巨人肩上！一起看得更远！- 小妖!"
   },
   {
     "id": "quo_135",
@@ -2189,7 +2182,7 @@
     ],
     "author": "에머슨",
     "source": "우정에 대하여",
-    "theme": "meeting",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
       "noon"
@@ -2203,8 +2196,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "다 빈치",
-    "source": "노트",
+    "author": "미상",
+    "source": "출전 불명 (다 빈치 귀속설)",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2317,7 +2310,7 @@
     ],
     "author": "바쇼",
     "source": "오쿠노호소미치",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "sad",
     "time_slot": [
       "night"
@@ -2333,10 +2326,9 @@
     ],
     "author": "공자",
     "source": "논어",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "noon"
     ],
     "kkaebi_comment": "三人同行，必有我师。今天从遇见的人身上学一样东西！ - 小妖!"
@@ -2420,5 +2412,2027 @@
       "morning"
     ],
     "kkaebi_comment": "知与行本是一体。今天把它们合而为一吧！ - 小妖!"
+  },
+  {
+    "id": "quo_151",
+    "text": "熟路也要问着走 — 再熟的路，多问一遍才能少出错。",
+    "category": "proverb",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "不懂装懂才是祸根！千年小妖上路，也要开口问路！ - 小妖!"
+  },
+  {
+    "id": "quo_152",
+    "text": "上水清则下水清 — 正人先正己，以身作则才是榜样。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "清水从上面流下来！你先变清，下面自然跟着清！ - 小妖!"
+  },
+  {
+    "id": "quo_153",
+    "text": "龙虎相斗，虾背遭殃 — 强者相争，受伤的总是小鱼小虾。",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "龙虎相争，你的壳却裂了……这次先退一步休息，养好伤再回来！ - 小妖!"
+  },
+  {
+    "id": "quo_154",
+    "text": "井底之蛙 — 只见过小小的天，就敢笑大海的宽。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "爬出井口看看海吧！世界比你的那口井大得多！ - 小妖!"
+  },
+  {
+    "id": "quo_155",
+    "text": "书堂的狗听三年，也会吟风月 — 常在好环境里，学问自然上身。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "狗待三年都能吟诗，你在好地方待三周试试！坐到高手身边去！ - 小妖!"
+  },
+  {
+    "id": "quo_156",
+    "text": "一句夸赞，鲸鱼起舞 — 真心的赞美能撼动不可能。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天给人一句真心夸赞！鲸鱼跳起舞，整片海都会晃！ - 小妖!"
+  },
+  {
+    "id": "quo_157",
+    "text": "第一杯酒喝不饱 — 别醉在第一次成功里，好结果是熬出来的。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "别被第一杯灌醉！好酒要一杯一杯慢慢酿！ - 小妖!"
+  },
+  {
+    "id": "quo_158",
+    "text": "三岁看八十 — 年轻时养成的习惯，会跟你一辈子。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "习惯会长成影子！今天种下的习惯，要给你遮八十年的荫！ - 小妖!"
+  },
+  {
+    "id": "quo_159",
+    "text": "笑着的脸，谁忍心啐 — 温和的容颜，能化掉大半的恶意。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天带着笑脸出门！再想啐人，见了笑脸也下不去口！ - 小妖!"
+  },
+  {
+    "id": "quo_160",
+    "text": "被鳖吓过的心，见了锅盖也跳 — 受过大惊的心，小事也会晃。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "吓破胆的心，锅盖也当鳖！可锅盖不是鳖——喘口气，再看一眼！ - 小妖!"
+  },
+  {
+    "id": "quo_161",
+    "text": "初生之犬不畏虎 — 鲁莽的勇气虽险，却常常是一切的启动资金。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "怕老虎就不上山了？绝不行！勇气是越用越亮的！ - 小妖!"
+  },
+  {
+    "id": "quo_162",
+    "text": "尘土堆成泰山 — 再小的东西，攒起来也能成高山。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "别小看今天的一粒尘！泰山，不过是不肯散开的尘土！ - 小妖!"
+  },
+  {
+    "id": "quo_163",
+    "text": "毛毛雨也能湿衣裳 — 小事渗进来，留下的是大痕迹。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "小心毛毛雨！等你觉得衣服湿了，早就湿透了——小事要一件件数清！ - 小妖!"
+  },
+  {
+    "id": "quo_164",
+    "text": "蚯蚓被踩也会扭 — 再弱的生灵，到了极限也会反抗。",
+    "category": "proverb",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "蚯蚓也会挣扎！别小看弱小者——这既是礼貌，也是谋略！ - 小妖!"
+  },
+  {
+    "id": "quo_165",
+    "text": "天上摘星 — 难归难，难不等于不可能。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "想要星星？先造梯子！「难」和「不可能」是两颗不同的星！ - 小妖!"
+  },
+  {
+    "id": "quo_166",
+    "text": "画上的糕 — 看得再久，也填不饱肚子。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "画里的糕点充不了饥！真想吃，就进厨房！ - 小妖!"
+  },
+  {
+    "id": "quo_167",
+    "text": "给出一斗，收回一石 — 播出去的人情，常常几倍地回来。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "给出一斗，就等着收回一石！人情比金子利息高！ - 小妖!"
+  },
+  {
+    "id": "quo_168",
+    "text": "糕还没上桌，别先喝汤 — 事还没成，先别急着沾光。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "糕还没端上桌，汤先喝了要伤胃！期待像凉白开，要小口慢喝！ - 小妖!"
+  },
+  {
+    "id": "quo_169",
+    "text": "绕着走也行，到了京城就算 — 路再弯，抵达才是正经事。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "别为弯路叹气！重要的是抵达！ - 小妖!"
+  },
+  {
+    "id": "quo_170",
+    "text": "十丈水底可测，一寸人心难量 — 人心才是最深的潭。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "水深有尺可量，人心无尺可测！别瞎猜了，好好开口问吧！ - 小妖!"
+  },
+  {
+    "id": "quo_171",
+    "text": "至诚感天 — 真心实意，连老天爷也会给你开门。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "诚心连小妖都能感动！天开路之前，你先迈开脚！ - 小妖!"
+  },
+  {
+    "id": "quo_172",
+    "text": "青蛙忘了自己是蝌蚪的时候 — 日子一好，最容易忘了恩和根。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "记得自己是蝌蚪的青蛙，才长得大！别忘了养你的那口塘！ - 小妖!"
+  },
+  {
+    "id": "quo_173",
+    "text": "对牛弹琴 — 没有想听的心，说得再多也是白说。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "念经给谁听，比念多大声更要紧！别对着牛念了——去找愿意听的耳朵吧！ - 小妖!"
+  },
+  {
+    "id": "quo_174",
+    "text": "到了井边找锅巴汤 — 果实只留给守得住顺序的人。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "锅巴汤要等饭煮好才有！抢着跳步，只会摔跤！ - 小妖!"
+  },
+  {
+    "id": "quo_175",
+    "text": "越急越要绕着走 — 越是赶时间，越要挑那条稳妥的路。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "赶时间也别抄近道！要过小妖桥，先走石桥！ - 小妖!"
+  },
+  {
+    "id": "quo_176",
+    "text": "草鞋也有配对 — 天底下，谁都有个合拍的那一半。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "草鞋都成双！你的那一半不是没有，是还没找到！ - 小妖!"
+  },
+  {
+    "id": "quo_177",
+    "text": "艄公多了，船开上山 — 你一言我一语，事情准砸。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "舵只能一个人握！艄公一多，船就忘了海！ - 小妖!"
+  },
+  {
+    "id": "quo_178",
+    "text": "花无十日红 — 好时候总会过去，所以才珍贵。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "别为花期短而伤心！会谢才叫花，老不谢的那是墙纸！ - 小妖!"
+  },
+  {
+    "id": "quo_179",
+    "text": "月满则亏 — 满了就会缺，别只追着完美跑。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "别为满月西沉而失望！那月亮在休息——在酿下一个月圆！ - 小妖!"
+  },
+  {
+    "id": "quo_180",
+    "text": "凉水也分上下 — 再小的事，也有要守的规矩。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "凉水也分上下！舀水都有顺序——礼数不分大小！ - 小妖!"
+  },
+  {
+    "id": "quo_181",
+    "text": "拆了下面的石头垫上面 — 补了一头，塌了另一头。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "底下的石头是承重的！抽掉它，上面的跟着一起倒——换个顺序重新垒！ - 小妖!"
+  },
+  {
+    "id": "quo_182",
+    "text": "山中无老虎，兔子称大王 — 高手不在，像样的也能当师父。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "谷里没老虎，兔子就是王！身边没师父，就把你学的教给别人！ - 小妖!"
+  },
+  {
+    "id": "quo_183",
+    "text": "带鱼咬带鱼尾巴 — 自己人互相咬，两头都见血。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "同一张网里别互咬！带鱼咬带鱼，整张网跟着遭殃！ - 小妖!"
+  },
+  {
+    "id": "quo_184",
+    "text": "不烧柴，哪来的烟 — 世上没有无缘无故的事。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "看见烟，就去找火种！放着原因不管，火迟早再烧起来！ - 小妖!"
+  },
+  {
+    "id": "quo_185",
+    "text": "自家鼻子三尺长，还替别人擤鼻涕 — 自己焦头烂额，还先帮别人。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "自己一鼻子麻烦还顾着别人的人！福气就爱在这样的人身边搭窝！ - 小妖!"
+  },
+  {
+    "id": "quo_186",
+    "text": "隔岸观火 — 没烧到自己，总觉得是别人的事。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "对岸的火不是别人家的火！风向一转，火就过河了！ - 小妖!"
+  },
+  {
+    "id": "quo_187",
+    "text": "脓包迟早要破 — 硬憋着攒下的，总有一天会炸开。",
+    "category": "proverb",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "捂着的伤会化脓！趁没破先排掉——那样疼得轻些！ - 小妖!"
+  },
+  {
+    "id": "quo_188",
+    "text": "又气又疼的交情 — 恨着恨着有了情，有了情就断不干净。",
+    "category": "proverb",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "气的交情能生出疼的交情！千年小妖也是拗不过人情，才落到这儿来的！ - 小妖!"
+  },
+  {
+    "id": "quo_189",
+    "text": "捂着眼学猫头鹰叫 — 骗得了自己，骗不了别人。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "捂住自己的眼，捂不住别人的眼！费劲遮掩，不如痛快认了！ - 小妖!"
+  },
+  {
+    "id": "quo_190",
+    "text": "做贼心虚 — 错事藏得再好，自己先露馅。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "发麻的脚一定瘸！藏着的亏心事，从脚尖就往外漏！ - 小妖!"
+  },
+  {
+    "id": "quo_191",
+    "text": "够不着的柿子，也捅一下试试 — 再难的事，先试一次不亏。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "柿子挂得再高，也要捅一下！会掉的，都是捅过的柿子！ - 小妖!"
+  },
+  {
+    "id": "quo_192",
+    "text": "半瓣豆子也分着吃 — 情分在于分，不在于多少。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "肯分半瓣豆子的才是真交情！豆子一分，就成了饭！ - 小妖!"
+  },
+  {
+    "id": "quo_193",
+    "text": "爬不上的树，看也别看 — 放下够不着的，也是一种本事。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "找一棵爬得上去的树！林子里的树，从来不止一棵！ - 小妖!"
+  },
+  {
+    "id": "quo_194",
+    "text": "良药苦口 — 越是扎耳朵的话，越能治深处的病。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "扎耳朵的话就是药！光吃甜的，病就躲起来悄悄长！ - 小妖!"
+  },
+  {
+    "id": "quo_195",
+    "text": "躺在柿子树下等柿子掉 — 运气，也偏爱站对地方的人。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "柿子只会掉在柿子树下！要等运气，至少先躺到树底下去！ - 小妖!"
+  },
+  {
+    "id": "quo_196",
+    "text": "十年河东，十年河西 — 世事常新，今天的堵心也不会久留。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "十年就能改了山河！今天堵死的路，十年后说不定已经变成河！ - 小妖!"
+  },
+  {
+    "id": "quo_197",
+    "text": "十指连心，咬咬哪根都疼 — 没有一根不金贵。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "疼的指头不会因为疼就剁掉！你的疼，不比谁的轻贱！ - 小妖!"
+  },
+  {
+    "id": "quo_198",
+    "text": "话是种子 — 说出去的话，会发芽长成现实再回来。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "撒好话的种子吧！它们会生根回来！好话连小妖都竖起耳朵听！ - 小妖!"
+  },
+  {
+    "id": "quo_199",
+    "text": "有去情，才有来情 — 先给的人，先收得到。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "情分是往返票！先寄出去，回信不用等也会来！今天先开口打招呼吧！ - 小妖!"
+  },
+  {
+    "id": "quo_200",
+    "text": "雨后地面更硬 — 淋过的苦日子，是把你夯实，不是把你压垮。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韩国谚语",
+    "source": "传统格言",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "暴雨过后的地面更结实！那些淋湿你的日子不是压垮你，是把你砸瓷实了！ - 小妖!"
+  },
+  {
+    "id": "quo_201",
+    "text": "清晨醒来时想一想——能呼吸、能思考、能享受、能去爱，活着是多么珍贵的特权。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "马可·奥勒留",
+    "source": "沉思录 第5卷",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "能呼吸一次就已经中奖了！好好用掉今天早晨的特权！ - 小妖!"
+  },
+  {
+    "id": "quo_202",
+    "text": "感恩不仅是至高的美德，更是一切美德之母。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "西塞罗",
+    "source": "《为普兰基乌斯辩护》（公元前54年）",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "一切美德都从谢谢两个字发芽！今天至少喊三遍！ - 小妖!"
+  },
+  {
+    "id": "quo_203",
+    "text": "我之所以看得更远，是因为我站在巨人的肩膀上。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "艾萨克·牛顿",
+    "source": "致罗伯特·胡克的信（1675年）",
+    "theme": "gratitude",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "别装作全靠自己看见！也谢谢脚下托着你的巨人们！ - 小妖!"
+  },
+  {
+    "id": "quo_204",
+    "text": "再小的善举，也绝不会白费。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "伊索",
+    "source": "伊索寓言——狮子与老鼠",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "还记得帮狮子拔掉爪刺的小老鼠吗？善良是带利息的！ - 小妖!"
+  },
+  {
+    "id": "quo_205",
+    "text": "想想你身边还留着的美好，然后快乐起来。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "安妮·弗兰克",
+    "source": "《安妮日记》（1942–1944）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "就算躲在阁楼里也能看见星星！美好不会跑，是你的眼睛出了问题！ - 小妖!"
+  },
+  {
+    "id": "quo_206",
+    "text": "专注的注视，是最稀有、最纯粹的慷慨。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "西蒙娜·薇依",
+    "source": "致若埃·布斯凯的信（1942年）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "真正的礼物不是盒子，是注视！好好看看身边的人吧！ - 小妖!"
+  },
+  {
+    "id": "quo_207",
+    "text": "教师最大的成功，是说得出这句话——孩子们如今在自主做事，仿佛我不存在。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "玛丽亚·蒙台梭利",
+    "source": "《有吸收力的心灵》（1949）",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "看不见的手才是最高明的手！笑嘻嘻地退到一边吧！ - 小妖!"
+  },
+  {
+    "id": "quo_208",
+    "text": "富足不在于拥有什么，而在于享受了什么。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "伊壁鸠鲁",
+    "source": "梵蒂冈格言集",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "仓库堆成山，不笑还是穷！今天好好尝一小块吧！ - 小妖!"
+  },
+  {
+    "id": "quo_209",
+    "text": "教育不是为生活做准备；教育本身就是生活。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "约翰·杜威",
+    "source": "《我的教育信条》（1897）",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "学习的日子就是活着的日子！小妖我也学了一千年啦！ - 小妖!"
+  },
+  {
+    "id": "quo_210",
+    "text": "亚当的子孙同属一身；一处疼痛，处处皆痛。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "萨迪",
+    "source": "《蔷薇园》（1258）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "一人疼，人人疼！别去踩旁边人的脚！ - 小妖!"
+  },
+  {
+    "id": "quo_211",
+    "text": "让一切都发生在你身上——美与恐惧皆是。只管走下去。没有哪种感觉是最后的。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "莱纳·玛利亚·里尔克",
+    "source": "《时辰之书》（1899–1903）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "眼泪会停，黑夜会尽！最后赢的总是早晨——继续走！ - 小妖!"
+  },
+  {
+    "id": "quo_212",
+    "text": "我们生命里的龙，也许都是公主——只等着我们带着美与勇氧行动哪怕一次。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "莱纳·玛利亚·里尔克",
+    "source": "《给青年诗人的信》（1929）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "在龙面前冻僵还太早！一次勇气就能把尾巴变成翅膀！ - 小妖!"
+  },
+  {
+    "id": "quo_213",
+    "text": "我从没见过野生动物自怜。小鸟不曾怜悯自己，就从冻僵的枝头坠落。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "D. H. 劳伦斯",
+    "source": "诗《自怜》（1929）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "自怜填不饱肚子！鸟是哭呢，还是飞？是飞！ - 小妖!"
+  },
+  {
+    "id": "quo_214",
+    "text": "我被压弯、被打碎过，但——但愿——碎成了更好的形状。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "查尔斯·狄更斯",
+    "source": "《远大前程》（1861）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "碎过的地方比接缝更结实！有裂纹的瓷器照样发光！ - 小妖!"
+  },
+  {
+    "id": "quo_215",
+    "text": "没有什么比内心的温柔更有魅力。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "简·奥斯汀",
+    "source": "《爱玛》（1815）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "温柔比刀锋切得更深！今天说话放软一点！ - 小妖!"
+  },
+  {
+    "id": "quo_216",
+    "text": "去爱，或者爱过——这就够了。别再奢求更多。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "维克多·雨果",
+    "source": "《悲惨世界》（1862）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "爱过的痕迹橡皮擦不掉！那本身就已经是财富！ - 小妖!"
+  },
+  {
+    "id": "quo_217",
+    "text": "只有用心才能看得真切；本质的东西，眼睛是看不见的。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "安托万·德·圣埃克苏佩里",
+    "source": "《小王子》（1943）",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "眼睛只看得见外壳！想看内里，就点亮胸口的火！ - 小妖!"
+  },
+  {
+    "id": "quo_218",
+    "text": "爱不是彼此凝视，而是一起朝同一个方向眺望。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "安托万·德·圣埃克苏佩里",
+    "source": "《人类的大地》（1939）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "脚尖同向，胜过目光相接！并肩走吧！ - 小妖!"
+  },
+  {
+    "id": "quo_219",
+    "text": "知道为什么而活的人，几乎能承受任何一种怎样活。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "弗里德里希·尼采",
+    "source": "《偶像的黄昏》（1889）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "丢了理由，腿也会软！抓紧你的为什么！ - 小妖!"
+  },
+  {
+    "id": "quo_220",
+    "text": "心有心的理由，理智并不知晓。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "布莱兹·帕斯卡",
+    "source": "《思想录》（1670）",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "理智理不顺的心也没关系！跟着胸口的方向走！ - 小妖!"
+  },
+  {
+    "id": "quo_221",
+    "text": "幸福的生活需要的很少；一切都在你自己心里，在你的思考方式里。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "马可·奥勒留",
+    "source": "沉思录 第7卷",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "幸福不是购物篮，是看法！现在就换个角度看世界！ - 小妖!"
+  },
+  {
+    "id": "quo_222",
+    "text": "不是活的时间短，而是我们浪费得太多。会用，人生就长。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "塞涅卡",
+    "source": "致卢基利乌斯书信集 第一封",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "时间不是跑掉的，是被你漏掉的！今天就赢回一个小时！ - 小妖!"
+  },
+  {
+    "id": "quo_223",
+    "text": "我们都身在沟渠，但总有人正仰望星空。",
+    "category": "world",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "奥斯卡·王尔德",
+    "source": "《温德米尔夫人的扇子》（1892）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "就算在沟里，抬头就是星星！现在就抬头看！ - 小妖!"
+  },
+  {
+    "id": "quo_224",
+    "text": "用自己的方式走错，也好过用别人的方式走对。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "陀思妥耶夫斯基",
+    "source": "《罪与罚》（1866）",
+    "theme": "comfort",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "困在别人的路上，走一千年也是别人的人生！用自己的脚走自己的路！ - 小妖!"
+  },
+  {
+    "id": "quo_225",
+    "text": "恨不能止恨，唯有无恨能止恨。这是永恒的法则。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "佛陀（传世）",
+    "source": "《法句经》第5偈",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "往恨里倒恨，锅只会越熬越深！今天就放下一件吧！ - 小妖!"
+  },
+  {
+    "id": "quo_226",
+    "text": "孩子既是人类的希望，也是人类的承诺。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "玛丽亚·蒙台梭利",
+    "source": "《教育中的和平》（1936）",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "孩子的脚步声就是地球的心跳！让他们闪闪发光地长大！ - 小妖!"
+  },
+  {
+    "id": "quo_227",
+    "text": "你的孩子并不是你的孩子。他们经由你而来，却不是从你而出。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "卡里·纪伯伦",
+    "source": "《先知》（1923）",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "孩子是借来的箭！别攥紧，射向远方吧！ - 小妖!"
+  },
+  {
+    "id": "quo_228",
+    "text": "感恩是高贵灵魂的标志。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "伊索",
+    "source": "伊索寓言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "一句谢谢，灵魂就升一级！今天再说两次！ - 小妖!"
+  },
+  {
+    "id": "quo_229",
+    "text": "扰乱人的不是事物本身，而是人对事物的看法。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "爱比克泰德",
+    "source": "《手册》第五章",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "摇动棋盘的不是事件，是你的眼睛！先把目光重新铺好！ - 小妖!"
+  },
+  {
+    "id": "quo_230",
+    "text": "故事如人生：重要的不是长短，而是好坏。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "塞涅卡",
+    "source": "致卢基利乌斯书信集 第77封",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "好味道的人生胜过厚厚的人生！今天这页要好好写！ - 小妖!"
+  },
+  {
+    "id": "quo_231",
+    "text": "逆境之用是甜的；它像蟾蜍，丑陋而有毒，额头上却镶着珍贵的宝石。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "威廉·莎士比亚",
+    "source": "《皆大欢喜》（1599）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "毒液里藏着珍珠！别在蟾蜍面前逃跑！ - 小妖!"
+  },
+  {
+    "id": "quo_232",
+    "text": "美的事物是永恒的喜悦：它的美与日俱增，永不消逝于虚无。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "约翰·济慈",
+    "source": "《恩底弥翁》（1818）",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "美是一笔永不掉息的存款！今天找出三样美的东西！ - 小妖!"
+  },
+  {
+    "id": "quo_233",
+    "text": "音乐表达的是无法言说、却又不能沉默的东西。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "维克多·雨果",
+    "source": "《论威廉·莎士比亚》（1864）",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "词穷了就哼歌！小妖也是靠歌声熬过长夜的！ - 小妖!"
+  },
+  {
+    "id": "quo_234",
+    "text": "世上最了不起的事，是懂得如何属于自己。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "米歇尔·德·蒙田",
+    "source": "《随笔集》第一卷第39章",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "你心里的那一间房，谁也抢不走！学会属于自己吧！ - 小妖!"
+  },
+  {
+    "id": "quo_235",
+    "text": "我不怕风暴，因为我正在学习驾驶自己的船。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "路易莎·梅·奥尔科特",
+    "source": "《小妇人》（1868）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "风暴是水手的作业！别下船！ - 小妖!"
+  },
+  {
+    "id": "quo_236",
+    "text": "我自相矛盾吗？好吧，我就是自相矛盾。（我辽阔广大，包罗万象。）",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "沃尔特·惠特曼",
+    "source": "《自己之歌》（《草叶集》，1855）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "和昨天不一样也没什么大不了！小妖早上是怒吼，晚上是摇篮曲！ - 小妖!"
+  },
+  {
+    "id": "quo_237",
+    "text": "你不必离开房间。坐在桌前侧耳倾听就好。世界会主动向你袒露自己。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "弗兰兹·卡夫卡",
+    "source": "《祖劳箴言》（1917–1918）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "你一急，世界就躲！安安静静坐着，它就露脸！ - 小妖!"
+  },
+  {
+    "id": "quo_238",
+    "text": "不可能，这个词只存在于愚人的字典里。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "拿破仑·波拿巴",
+    "source": "《圣赫勒拿回忆录》",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "连小妖的字典里都没有不可能！嚼碎吞下去！ - 小妖!"
+  },
+  {
+    "id": "quo_239",
+    "text": "在这个世界上成功的，是起身去寻找自己想要的环境、找不到就亲手创造的人。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "萧伯纳",
+    "source": "《华伦夫人的职业》（1893）",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "环境不是捡来的，是打出来的！现在就起来！ - 小妖!"
+  },
+  {
+    "id": "quo_240",
+    "text": "朝着梦想的方向自信地前进吧，去过上你想象中的生活。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "亨利·戴维·梭罗",
+    "source": "《瓦尔登湖》（1854）",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "脚一停，梦想就只剩一张地图！现在就走一步！ - 小妖!"
+  },
+  {
+    "id": "quo_241",
+    "text": "真正的荣誉属于真正站在竞技场上的人——脸上沾满尘土、汗水与血的人。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "西奥多·罗斯福",
+    "source": "《共和国的公民》（1910年演讲）",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "看台很吵，赛场很静！让你脸上也沾点尘土吧！ - 小妖!"
+  },
+  {
+    "id": "quo_242",
+    "text": "地上本没有路，走的人多了，也便成了路。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "鲁迅",
+    "source": "《故乡》（1921）",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "没有的路是脚踩出来的！第一步小妖可不会替你踩！ - 小妖!"
+  },
+  {
+    "id": "quo_243",
+    "text": "知道是不够的，必须运用；愿意是不够的，必须行动。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "约翰·沃尔夫冈·冯·歌德",
+    "source": "《威廉·迈斯特的漫游时代》（1829）",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "学完放进口袋会发霉！今天掏一样出来用！ - 小妖!"
+  },
+  {
+    "id": "quo_244",
+    "text": "千里之行，始于足下。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "老子",
+    "source": "《道德经》第六十四章",
+    "theme": "growth",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "千里面前别发怵！脚尖一步就够！ - 小妖!"
+  },
+  {
+    "id": "quo_245",
+    "text": "障碍压不垮我；任何障碍在坚定的决心面前都会让步。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "列奥纳多·达·芬奇",
+    "source": "手稿笔记",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "障碍是墙，你就做梯子！达·芬奇就是这么活的！ - 小妖!"
+  },
+  {
+    "id": "quo_246",
+    "text": "人人都想着改变世界，却没有人想着改变自己。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "列夫·托尔斯泰",
+    "source": "《改革的三种方法》（1900）",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "整个世界你修不完！今天先修剪自己的指甲吧！ - 小妖!"
+  },
+  {
+    "id": "quo_247",
+    "text": "多么美好啊——在着手让世界变得更好之前，谁也不必等待哪怕一瞬。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "安妮·弗兰克",
+    "source": "《安妮日记》（1942–1944）",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "不需要等票！今天早上就是开场！ - 小妖!"
+  },
+  {
+    "id": "quo_248",
+    "text": "生活中没有什么是应该恐惧的，只需要去理解。现在是多去理解的时候，这样我们才能更少恐惧。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "玛丽·居里",
+    "source": "《居里夫人传》（1937）",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "因为未知才可怕！翻开一页看看吧！ - 小妖!"
+  },
+  {
+    "id": "quo_249",
+    "text": "真正的发现之旅，不在于寻找新的风景，而在于拥有新的眼睛。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "马塞尔·普鲁斯特",
+    "source": "《追忆似水年华·女囚》（1923）",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "风景早就卖光了！换上一双崭新的眼睛吧！ - 小妖!"
+  },
+  {
+    "id": "quo_250",
+    "text": "愿你活过你生命中的每一天。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "乔纳森·斯威夫特",
+    "source": "《文雅的对话》（1738）",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天你还活着，昨天已经翻篇！睁着眼的每一天都要好好活！ - 小妖!"
+  },
+  {
+    "id": "quo_251",
+    "text": "就连狗屎，要用作药时也找不到 — 需要的时候，连最平凡的东西也难觅踪影。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "狗屎提前备好也是宝！只有有备而来的人，才能在需要时得到！- 小妖!"
+  },
+  {
+    "id": "quo_252",
+    "text": "去的那天偏偏是集市日 — 出乎意料的时机，也是生活奥秘的一部分。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "巧合也是命运的一块！像小妖一样享受集市日！- 小妖!"
+  },
+  {
+    "id": "quo_253",
+    "text": "偷针的人会变成偷牛的人 — 轻视小错，终将酿成大错。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "小火星能烧山！今天的小选择是明天的命运！- 小妖!"
+  },
+  {
+    "id": "quo_254",
+    "text": "解梦比做梦更重要 — 同样的事，怎么理解，结果就不同。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "同样的天空在不同的眼睛里不同！用小妖的眼睛看，一切都是宝！- 小妖!"
+  },
+  {
+    "id": "quo_255",
+    "text": "一条泥鳅搅浑整个水塘 — 少数人的坏行为会毁掉整体。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "一个人的坏气场会破坏氛围！小妖只散发好气场！- 小妖!"
+  },
+  {
+    "id": "quo_256",
+    "text": "像追鸡的狗望着屋顶发呆 — 努力落空时，正是准备下一次的好时机。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "失手也是经验！望着屋顶的狗下次跳得更高！- 小妖!"
+  },
+  {
+    "id": "quo_257",
+    "text": "白天说的话有鸟听，晚上说的话有老鼠听 — 无论何时，言语总会传播。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "小妖什么都听到了！话语飞得比你想象的远得多！- 小妖!"
+  },
+  {
+    "id": "quo_258",
+    "text": "一句话能还清千两债 — 真诚的一句话比金钱更有力量。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "今天对某人说一句真心话！价值千两！- 小妖!"
+  },
+  {
+    "id": "quo_259",
+    "text": "别人手中的糕总是看起来更大 — 攀比会夺走满足感，让我们忘记感恩。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "kkaebi_comment": "自己手中的糕也足够好吃！别比较，好好品味！- 小妖!"
+  },
+  {
+    "id": "quo_260",
+    "text": "情人眼里出西施 — 自己的标准不是世界的标准。接受差异才是智慧。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "在小妖眼中，每个人都很特别！差异就是美！- 小妖!"
+  },
+  {
+    "id": "quo_261",
+    "text": "知道太多是病，不知道是药 — 过多的知识反而增加烦恼。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "不要什么都想知道！小妖就是因为有很多不知道的，所以才快乐！- 小妖!"
+  },
+  {
+    "id": "quo_262",
+    "text": "麻雀学白鹤的步伐，腿会裂开 — 智慧就是了解自己的步伐。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "麻雀的翅膀可能比白鹤更快！走自己的路！- 小妖!"
+  },
+  {
+    "id": "quo_263",
+    "text": "见一知十 — 一个小线索可以揭示整体的本质。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "小妖一眼就能读心！关注细微之处，大局就会浮现！- 小妖!"
+  },
+  {
+    "id": "quo_264",
+    "text": "今日事，今日毕 — 此刻是最快的开始。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "现在就开始！小妖就活在当下！- 小妖!"
+  },
+  {
+    "id": "quo_265",
+    "text": "好树从叶子就能看出来 — 潜力从一开始就会显现出来。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "现在的小努力就是将来的大树！珍惜小苗！- 小妖!"
+  },
+  {
+    "id": "quo_266",
+    "text": "有志者，事竟成 — 有真正的意志，就一定能找到方法。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "小妖的意志始终清晰！意志坚定，路就会打开！- 小妖!"
+  },
+  {
+    "id": "quo_267",
+    "text": "不入虎穴，焉得虎子 — 不冒险，就没有真正的成就。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "小妖也害怕但还是跳进去！洞里有宝贝在等着！- 小妖!"
+  },
+  {
+    "id": "quo_268",
+    "text": "上游的水清澈，下游的水才清澈 — 领导者必须以身作则，跟随者才能走正道。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "小妖也总是努力成为清澈的水！以身作则才是最好的！- 小妖!"
+  },
+  {
+    "id": "quo_269",
+    "text": "趁热打铁，拔牛角 — 下定决心就立刻行动。热情冷却后只会更难。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "现在就是那个热劲！别犹豫，马上行动！- 小妖!"
+  },
+  {
+    "id": "quo_270",
+    "text": "成功一半靠运气，另一半靠准备 — 在怪运气之前，先检查自己的准备。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "在等运气之前先像小妖一样准备！运气奔向有准备的人！- 小妖!"
+  },
+  {
+    "id": "quo_271",
+    "text": "被甲鱼吓过的心，看到锅盖也会吓一跳 — 伤口持续很久，但察觉的那一刻，疗愈就开始了。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "锅盖不是甲鱼！今天的恐惧会变成明天的勇气！- 小妖!"
+  },
+  {
+    "id": "quo_272",
+    "text": "蚯蚓被踩了也会扭动 — 无论多么渺小脆弱的存在，都有其尊严。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "每个人都有自己的分量！不要因为渺小就轻视！- 小妖!"
+  },
+  {
+    "id": "quo_273",
+    "text": "苦尽甘来 — 坚持到最后的人才能迎来喜悦。今日的痛苦终将过去。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "小妖也有难熬的日子。但坚持下来了，所以现在这么快乐！- 小妖!"
+  },
+  {
+    "id": "quo_274",
+    "text": "光舔西瓜皮，不知甜滋味 — 浅尝辄止永远无法领略真正的深度。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "西瓜得切开才好吃！深入才能挖到真正的东西！- 小妖!"
+  },
+  {
+    "id": "quo_275",
+    "text": "话会成为种子 — 说出口的话会塑造现实。播下积极的话语吧。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韩国谚语",
+    "source": "口头传统",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "今天你要种下什么种子？小妖只种好种子！- 小妖!"
   }
 ]

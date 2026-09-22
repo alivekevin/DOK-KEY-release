@@ -239,7 +239,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "noon"
     ],
     "kkaebi_comment": "叩けば開く。扉も心もな！ - クケビ!"
@@ -402,7 +401,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "evening"
     ],
     "kkaebi_comment": "蝋燭は争わない。光は一緒に闇を分かつんだ。 - クケビ!"
@@ -742,7 +740,6 @@
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "evening"
     ],
     "kkaebi_comment": "拍手は片手では鳴らない。関係とは互いの音だ！ - クケビ!"
@@ -825,7 +822,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "始めれば半分だ。ドッケビも最初のボタンを上手く留める者を好くさ！ - クケビ!"
+    "kkaebi_comment": "三年石の上でも、我慢の実は甘いぞ！修行は裏切らんさ。 - クケビ!"
   },
   {
     "id": "quo_052",
@@ -841,7 +838,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "一つの井戸を深く掘れ。泉は掘った者のものだ！ - クケビ!"
+    "kkaebi_comment": "七回転んでも八回立ち上がれ！起きる回数こそ実力だ。 - クケビ!"
   },
   {
     "id": "quo_053",
@@ -852,13 +849,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "noon"
     ],
-    "kkaebi_comment": "言葉は鏡だ。優しい言葉には優しく返る！ - クケビ!"
+    "kkaebi_comment": "名人だって木から落ちる！大事なのは落ち方と、起き上がりの速さだ。 - クケビ!"
   },
   {
     "id": "quo_054",
@@ -874,7 +870,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "苦労は貯金だ。楽は利子として来るさ！ - クケビ!"
+    "kkaebi_comment": "井戸から出て海を見ろ！狭い自慢は干上がる。 - クケビ!"
   },
   {
     "id": "quo_055",
@@ -886,12 +882,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "言えば来るのか？なら良いことだけ言おうじゃないか！ - クケビ!"
+    "kkaebi_comment": "打たれる杭を恐れるな！打たれる価値のある杭だけが、頭を出すのさ。 - クケビ!"
   },
   {
     "id": "quo_056",
@@ -907,7 +903,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "どんぐりも背比べ。謙遜はシートベルトさ！ - クケビ!"
+    "kkaebi_comment": "口は禍の元、耳は福の元！言葉を選べ、聞く耳を育てろ。 - クケビ!"
   },
   {
     "id": "quo_057",
@@ -923,7 +919,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "遅く直すのは賢いことだ。牛を失っても次は失わない！ - クケビ!"
+    "kkaebi_comment": "咲くなら満開に咲け！散り際まで美しいのが花の作法だ。 - クケビ!"
   },
   {
     "id": "quo_058",
@@ -939,7 +935,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "慣れが最高の実力。冷やし飯みたいなもんさ！ - クケビ!"
+    "kkaebi_comment": "ごまかしは必ず尻を出す！堂々と全部見せろ、隠さないのが一番の隠し技だ。 - クケビ!"
   },
   {
     "id": "quo_059",
@@ -955,7 +951,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "溝にも龍は潜んでる。低い所を見下すな！ - クケビ!"
+    "kkaebi_comment": "千里の旅も今日の一歩から！歩幅より歩数を信じろ。 - クケビ!"
   },
   {
     "id": "quo_060",
@@ -971,7 +967,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "種を見れば収穫が見える。今日、何を撒いた？ - クケビ!"
+    "kkaebi_comment": "年寄りの冷や水より現場の知恵！謙虚に学べば浅瀬も深く渡れる。 - クケビ!"
   },
   {
     "id": "quo_061",
@@ -987,7 +983,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "十回叩け。十一回目に心が開くさ！ - クケビ!"
+    "kkaebi_comment": "情けは巡って自分に戻る！貸した優しさは利子付きで帰ってくる。 - クケビ!"
   },
   {
     "id": "quo_062",
@@ -1003,7 +999,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "山を越えたら休め。次の山はいつも来るからな！ - クケビ!"
+    "kkaebi_comment": "急ぐほど遠回りしろ！安全な道こそ、実は最短ルートだ。 - クケビ!"
   },
   {
     "id": "quo_063",
@@ -1019,7 +1015,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "人の羽より自分の翼を整えろ。 - クケビ!"
+    "kkaebi_comment": "本物は静かに構える！爪を見せるのは獲物の前だけにしとけ。 - クケビ!"
   },
   {
     "id": "quo_064",
@@ -1035,7 +1031,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "完璧な鳥がいなくても代替は代替だ。賢い選択さ！ - クケビ!"
+    "kkaebi_comment": "頂は麓から数える！足元の一歩が山の高さを決める。 - クケビ!"
   },
   {
     "id": "quo_065",
@@ -1046,12 +1042,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "空荷の車はやかましい。実力が音を作るんだ！ - クケビ!"
+    "kkaebi_comment": "善行は鮮度が命！ためらってる間に善は日が暮れる。 - クケビ!"
   },
   {
     "id": "quo_066",
@@ -1063,13 +1059,13 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "hope",
+    "theme": "comfort",
     "emotion": "joy",
     "time_slot": [
       "morning",
       "evening"
     ],
-    "kkaebi_comment": "鼠の穴にも日が差す日がある。今は耐える時間さ！ - クケビ!"
+    "kkaebi_comment": "笑いは最強の解決道具！笑えない問題はない、笑えば半分解けたようなもんさ。 - クケビ!"
   },
   {
     "id": "quo_067",
@@ -1085,7 +1081,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "千里の道も最初の一歩が大きい。今日の一歩が勝つ！ - クケビ!"
+    "kkaebi_comment": "蒔いた種は自分で刈れ！文句を言う暇があったら次の種を蒔け。 - クケビ!"
   },
   {
     "id": "quo_068",
@@ -1096,13 +1092,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "meeting",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "evening"
     ],
-    "kkaebi_comment": "並んで持てば重い荷も軽い。頼るのも力さ！ - クケビ!"
+    "kkaebi_comment": "時間は使ったら戻らん金貨だ！今この瞬間も支払い中だぞ。 - クケビ!"
   },
   {
     "id": "quo_069",
@@ -1113,12 +1108,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "満ちた器は口数が少ない。深い人に学べ！ - クケビ!"
+    "kkaebi_comment": "兎は一匹ずつ狩れ！欲張りは二兎とも逃がす。 - クケビ!"
   },
   {
     "id": "quo_070",
@@ -1129,12 +1124,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "meeting",
+    "theme": "comfort",
     "emotion": "shy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "同じ立場の心は分かり合う。共感は無料の慰めさ！ - クケビ!"
+    "kkaebi_comment": "名人の書き損じは名作の途中経過！誤りを数えるな、書き続けた紙を数えろ。 - クケビ!"
   },
   {
     "id": "quo_071",
@@ -1150,7 +1145,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "それぞれの席がある。その席も立派な席だ！ - クケビ!"
+    "kkaebi_comment": "明日の風は明日吹く！心配の前払いは損だ、今日の風に集中しろ。 - クケビ!"
   },
   {
     "id": "quo_072",
@@ -1166,7 +1161,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "これも通り過ぎる。嵐の賞味期限は短いさ！ - クケビ!"
+    "kkaebi_comment": "鉄が赤い今こそ叩き時！冷めた鉄は叩けん。 - クケビ!"
   },
   {
     "id": "quo_073",
@@ -1182,7 +1177,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "表面だけじゃ瓜は選べない。深さを見ろ！ - クケビ!"
+    "kkaebi_comment": "備えは心の保険だ！傘は晴れの日に買え、土砂降りでは遅い。 - クケビ!"
   },
   {
     "id": "quo_074",
@@ -1193,13 +1188,13 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "hope",
+    "theme": "growth",
     "emotion": "joy",
     "time_slot": [
       "morning",
       "noon"
     ],
-    "kkaebi_comment": "袋小路で天井を見ろ。穴は上にもあるさ！ - クケビ!"
+    "kkaebi_comment": "狸は捕まえてから数えろ！先走りの帳簿は空だ、網を先に張れ。 - クケビ!"
   },
   {
     "id": "quo_075",
@@ -1215,7 +1210,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "こぼれた水を掴むな。新しい水を汲め！ - クケビ!"
+    "kkaebi_comment": "道連れは心の傘だ！一人の道は遠く、二人の道は短い。 - クケビ!"
   },
   {
     "id": "quo_076",
@@ -1231,7 +1226,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "寝ていても準備した者は餅を食うさ！ - クケビ!"
+    "kkaebi_comment": "若さは実験の場だが、無免許運転じゃない！失敗しても実験記録はちゃんと残せ。 - クケビ!"
   },
   {
     "id": "quo_077",
@@ -1242,12 +1237,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "偶然が重なると因果に見える。動じるな！ - クケビ!"
+    "kkaebi_comment": "言わぬが花、だが伝えぬのは枯れた花！秘める美しさと伝える勇気、使い分けろ。 - クケビ!"
   },
   {
     "id": "quo_078",
@@ -1263,7 +1258,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "才能も紐で結んでこそ光る。整理こそ武器だ！ - クケビ!"
+    "kkaebi_comment": "腹八分で医者いらず！残りの二分は明日の楽しみに取っとけ。 - クケビ!"
   },
   {
     "id": "quo_079",
@@ -1274,13 +1269,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "morning"
     ],
-    "kkaebi_comment": "言葉は足なくして千里を行く。今日の言葉に気をつけろ！ - クケビ!"
+    "kkaebi_comment": "好きこそ上達の近道！好きを仕事にできたら、寝るのも惜しくなる。 - クケビ!"
   },
   {
     "id": "quo_080",
@@ -1296,7 +1290,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "慣れた仕事なら何でもできるさ！ - クケビ!"
+    "kkaebi_comment": "光陰矢の如し、だが矢の行き先は選べる！何に向かって飛ぶかはお前次第だ。 - クケビ!"
   },
   {
     "id": "quo_081",
@@ -1312,7 +1306,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "腹が満ちれば世界も違って見える。食ってから判断しろ！ - クケビ!"
+    "kkaebi_comment": "一つの雑さは全部の雑さの予告編！小さな手抜きが本番予告になる。 - クケビ!"
   },
   {
     "id": "quo_082",
@@ -1328,7 +1322,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "砂の城は水に崩れる。土台を固めろ！ - クケビ!"
+    "kkaebi_comment": "無料の物が一番高い！請求書は後から来る、財布より心の札を守れ。 - クケビ!"
   },
   {
     "id": "quo_083",
@@ -1344,7 +1338,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "根本を先に埋めろ。底抜けの甕には水が溜まらん！ - クケビ!"
+    "kkaebi_comment": "過ぎたるは及ばざるが如し！良薬も飲み過ぎれば毒だ、ほどほどは極上のスパイス。 - クケビ!"
   },
   {
     "id": "quo_084",
@@ -1360,7 +1354,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "実った稲は頭を垂れる。学んだ者が低くなるんだ。 - クケビ!"
+    "kkaebi_comment": "泰山みたいにどっしり構えろ！揺れない奴に、皆が寄ってくる。 - クケビ!"
   },
   {
     "id": "quo_085",
@@ -1376,7 +1370,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "欲を減らせば風も減るさ！ - クケビ!"
+    "kkaebi_comment": "嘘も方便、だが方便にも呼吸が要る！優しさの嘘は、せいぜい一回だけにしろ。 - クケビ!"
   },
   {
     "id": "quo_086",
@@ -1392,7 +1386,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "切羽詰まった声は天を呼ぶ。その声を大切にしろ！ - クケビ!"
+    "kkaebi_comment": "短気は損気！怒りの請求書は、いつも自分の元に届く。 - クケビ!"
   },
   {
     "id": "quo_087",
@@ -1403,13 +1397,13 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "morning",
       "night"
     ],
-    "kkaebi_comment": "見栄はバレる。等身大が一番怖いんだ！ - クケビ!"
+    "kkaebi_comment": "宝は分かる者にこそ輝く！豚に真珠は、豚にも真珠にも失礼だ。 - クケビ!"
   },
   {
     "id": "quo_088",
@@ -1425,7 +1419,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "高く登ればただの山だ。恐怖は踏めば低くなる！ - クケビ!"
+    "kkaebi_comment": "読書の秋は本で、スポーツの秋は足で使え！季節は実践の目安く。 - クケビ!"
   },
   {
     "id": "quo_089",
@@ -1436,12 +1430,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "hope",
+    "theme": "comfort",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "待つことも準備のうち。日は必ず差すさ！ - クケビ!"
+    "kkaebi_comment": "答えは机の上にいない、現場にいる！宝山に足を運ばなきゃ宝はただの石だ。 - クケビ!"
   },
   {
     "id": "quo_090",
@@ -1457,7 +1451,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "大きな決断には必ず失うものが付く。計算しろ！ - クケビ!"
+    "kkaebi_comment": "初心は永久の武器！達人こそ初心の目を持て、道は始まりが一番鋭い。 - クケビ!"
   },
   {
     "id": "quo_091",
@@ -1468,12 +1462,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "心が浮けば体も浮く。足から下ろせ！ - クケビ!"
+    "kkaebi_comment": "一石二鳥は投げ方次第！狙いを定めて、石一つで二羽落とせ。 - クケビ!"
   },
   {
     "id": "quo_092",
@@ -1489,7 +1483,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "進むほど険しくても、地道な者が最後に笑うさ！ - クケビ!"
+    "kkaebi_comment": "十人十色が世界の宝だ！色に順番はない、自分の色を他人と比べるな。 - クケビ!"
   },
   {
     "id": "quo_093",
@@ -1500,12 +1494,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "hope",
+    "theme": "zen",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "一番近いものが一番見落とす。目の前を見ろ！ - クケビ!"
+    "kkaebi_comment": "笑う門を福は見逃さない！福は明るい門を探してるんだ。 - クケビ!"
   },
   {
     "id": "quo_094",
@@ -1521,7 +1515,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "名人も落ちる。失敗に謙虚さを足せ！ - クケビ!"
+    "kkaebi_comment": "後悔は車の尾灯！前を照らすのは行動のヘッドライトだ。 - クケビ!"
   },
   {
     "id": "quo_095",
@@ -1532,13 +1526,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "meeting",
+    "theme": "challenge",
     "emotion": "shy",
     "time_slot": [
-      "meeting",
       "noon"
     ],
-    "kkaebi_comment": "一人なら速く、共なら遠く。どっちが欲しい？ - クケビ!"
+    "kkaebi_comment": "艱難は研磨士だ！今日の砥石が、明日の玉の輝きになる。 - クケビ!"
   },
   {
     "id": "quo_096",
@@ -1554,7 +1547,7 @@
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "一言が千両の借金を返す。言葉の重さを感じろ！ - クケビ!"
+    "kkaebi_comment": "魚心あれば水心！相手の真心には、水のように包んで返せ。 - クケビ!"
   },
   {
     "id": "quo_097",
@@ -1570,7 +1563,7 @@
     "time_slot": [
       "evening"
     ],
-    "kkaebi_comment": "忍耐は不可能を可能に 変えるハンマーだ！ - クケビ!"
+    "kkaebi_comment": "生き残るのは強い奴じゃない、変化と仲直りした奴だ！環境を味方につけろ。 - クケビ!"
   },
   {
     "id": "quo_098",
@@ -1581,12 +1574,12 @@
     ],
     "author": "日本のことわざ",
     "source": "古来の教え",
-    "theme": "hope",
+    "theme": "challenge",
     "emotion": "joy",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "高く育つ木は風に折れると知りつつ高く育つ。それでも高く育つんだ！ - クケビ!"
+    "kkaebi_comment": "柔は剛の天敵！柳は嵐で折れん、頑丈すぎる枝こそ折れるのさ。 - クケビ!"
   },
   {
     "id": "quo_099",
@@ -1602,7 +1595,7 @@
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "小さくても辛い。大きさは味じゃないさ！ - クケビ!"
+    "kkaebi_comment": "油断は無警戒の招待状！敵は油断した隙にだけ入ってくる。 - クケビ!"
   },
   {
     "id": "quo_100",
@@ -1618,7 +1611,7 @@
     "time_slot": [
       "night"
     ],
-    "kkaebi_comment": "老後の財布から醤油を買うな。冬の薪は夏に備えるんだ！ - クケビ!"
+    "kkaebi_comment": "煙が立つところに火がある！噂の元を焦らず探せ、灰を洗えば火種が見える。 - クケビ!"
   },
   {
     "id": "quo_101",
@@ -1757,7 +1750,7 @@
     ],
     "author": "전통 격언",
     "source": "델포이 신전",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1782,19 +1775,19 @@
   },
   {
     "id": "quo_111",
-    "text": "我々は繰り返し行う行為そのものである。卓越は習慣だ。",
+    "text": "徳とは行為によって形成される。正しい行いをすることで、私たちは正しい人間になる。",
     "category": "classic",
     "tone_tags": [
       "fire"
     ],
-    "author": "아리스토텔레스",
-    "source": "니코마코스 윤리학",
+    "author": "アリストテレス",
+    "source": "ニコマコス倫理学",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "繰り返せばそれがお前だ。良い習慣が良いお前を作る！ - クケビ!"
+    "kkaebi_comment": "アリストテレスが言った！考えより行動が先だ！- クケビ!"
   },
   {
     "id": "quo_112",
@@ -1835,8 +1828,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "오비디우스",
-    "source": "격언",
+    "author": "베르길리우스",
+    "source": "아이네이스 제10권",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
@@ -1917,7 +1910,7 @@
     ],
     "author": "파스칼",
     "source": "팡세",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1933,7 +1926,7 @@
     ],
     "author": "데카르트",
     "source": "방법서설",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
       "night"
@@ -1949,7 +1942,7 @@
     ],
     "author": "칸트",
     "source": "비판철학",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "normal",
     "time_slot": [
       "night"
@@ -2134,35 +2127,35 @@
   },
   {
     "id": "quo_133",
-    "text": "人生は勇気ある冒険か、さもなくば無だ。",
+    "text": "自分を信頼せよ — あらゆる心がその鉄の弦に合わせて振動する。",
     "category": "classic",
     "tone_tags": [
       "fire"
     ],
-    "author": "헬렌 켈러",
-    "source": "격언",
+    "author": "ラルフ・ウォルドー・エマソン",
+    "source": "『自己信頼』（1841年）",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
       "morning"
     ],
-    "kkaebi_comment": "恐れなければ人生は冒険だ。恐れたら無だ！ - クケビ!"
+    "kkaebi_comment": "信頼は人に頼るな！お前の内の弦が先に鳴る、今すぐ弾け！- クケビ!"
   },
   {
     "id": "quo_134",
-    "text": "一人では少ししかできないが、共になれば多くができる。",
+    "text": "もし私がより遠くを見ることができたなら、それは巨人の肩の上に立っていたからだ。",
     "category": "classic",
     "tone_tags": [
       "shy"
     ],
-    "author": "헬렌 켈러",
-    "source": "격언",
-    "theme": "meeting",
+    "author": "アイザック・ニュートン",
+    "source": "フック宛書簡 (1675)",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
       "noon"
     ],
-    "kkaebi_comment": "一人では小さく、共なら大きく！今日、誰と組む？ - クケビ!"
+    "kkaebi_comment": "ニュートンも巨人の肩に！一緒にもっと遠くへ！- クケビ!"
   },
   {
     "id": "quo_135",
@@ -2189,7 +2182,7 @@
     ],
     "author": "에머슨",
     "source": "우정에 대하여",
-    "theme": "meeting",
+    "theme": "growth",
     "emotion": "shy",
     "time_slot": [
       "noon"
@@ -2203,8 +2196,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "다 빈치",
-    "source": "노트",
+    "author": "미상",
+    "source": "출전 불명 (다 빈치 귀속설)",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2317,7 +2310,7 @@
     ],
     "author": "바쇼",
     "source": "오쿠노호소미치",
-    "theme": "mystery",
+    "theme": "zen",
     "emotion": "sad",
     "time_slot": [
       "night"
@@ -2333,10 +2326,9 @@
     ],
     "author": "공자",
     "source": "논어",
-    "theme": "meeting",
+    "theme": "zen",
     "emotion": "curious",
     "time_slot": [
-      "meeting",
       "noon"
     ],
     "kkaebi_comment": "三人いれば先生がいる。今日会った人から一つ学べ！ - クケビ!"
@@ -2420,5 +2412,2027 @@
       "morning"
     ],
     "kkaebi_comment": "知ることと行うことは一つだ。今日、一つにしてみせろ！ - クケビ!"
+  },
+  {
+    "id": "quo_151",
+    "text": "知っている道でも人に聞け — 見慣れた道こそ、再確認が失敗を防ぐ。",
+    "category": "proverb",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "知ったかぶりが災いの元！千年のクケビだって、道は人に聞くのさ！ - クケビ!"
+  },
+  {
+    "id": "quo_152",
+    "text": "上水が清ければ下水も清い — 身をもって示すことが手本になる。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "清い水は上から流れる！先にお前が清くなれ、下はついてくる！ - クケビ!"
+  },
+  {
+    "id": "quo_153",
+    "text": "鯨の喧嘩に海老の背が裂ける — 大きな者たちの争いで、小さな者が傷を負う。",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "鯨がぶつかって、お前の甲羅にヒビか…今回は身を引いて休め。回復が先だ！ - クケビ!"
+  },
+  {
+    "id": "quo_154",
+    "text": "井の中の蛙 — 狭い世界しか知らなければ、海を笑って済ませてしまう。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "井戸から出て海を見てこい！世界はお前の井戸よりずっと広い！ - クケビ!"
+  },
+  {
+    "id": "quo_155",
+    "text": "寺子屋の犬も三年で風月を吟じる — 良い場に長くいれば、学びは自然に染みる。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "犬が三年で詩を詠むなら、お前は良い場で三週間で変わる！師のそばに座れ！ - クケビ!"
+  },
+  {
+    "id": "quo_156",
+    "text": "褒め言葉は鯨をも踊らせる — 心のこもった賞賛は、不可能さえ動かす。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日、誰かに本物の褒め言葉をひとつ！鯨が舞えば海全体が揺れる！ - クケビ!"
+  },
+  {
+    "id": "quo_157",
+    "text": "初杯で腹は膨れぬ — 最初の成功に酔うな、良い実りには過程が要る。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "一杯目で酔うな！良い酒はゆっくり、杯を重ねてこそ熟すものだ！ - クケビ!"
+  },
+  {
+    "id": "quo_158",
+    "text": "三つ子の魂百まで — 若くして身についた癖は、一生ついて回る。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "癖はやがて影になる！今日まいた癖が、八十年の木陰になる！ - クケビ!"
+  },
+  {
+    "id": "quo_159",
+    "text": "笑う顔に唾は吐かれぬ — 柔らかな表情は、大抵の悪意を溶かす。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日は笑顔で出かけろ！にやけた顔の前では、唾さえはきにくくなる！ - クケビ!"
+  },
+  {
+    "id": "quo_160",
+    "text": "スッポンに驚いた胸は鍋の蓋にも跳ねる — 大きな衝撃を受けた心は、小さなことにも揺れる。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "驚いた胸には、鍋の蓋もスッポンに見える！だが蓋はスッポンじゃない — 息を整えて、もう一度見ろ！ - クケビ!"
+  },
+  {
+    "id": "quo_161",
+    "text": "生まれたての子犬は虎を知らず — 無鉄砲な勇気は危ういが、始まりの種銭にもなる。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "虎が怖いから山に登らぬのか！勇気は使いながら磨くものだ！ - クケビ!"
+  },
+  {
+    "id": "quo_162",
+    "text": "塵も積もれば山となる — 小さなものも重なれば、大きな山になる。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日の塵をばかにするな！泰山とは、散らばらず積み続けた塵のことだ！ - クケビ!"
+  },
+  {
+    "id": "quo_163",
+    "text": "霧雨に着物は濡れる — ささいなことほど染み込み、大きな痕を残す。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "霧雨に気をつけろ！着物が濡れたと感じた時は、もう濡れている。小さなものを数えろ！ - クケビ!"
+  },
+  {
+    "id": "quo_164",
+    "text": "蚯蚓でも踏めば身をよじる — どんなに弱い者も、極限では抗う。",
+    "category": "proverb",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "蚯蚓だって身をよじる！弱そうな相手を侮るな — それが礼儀であり、策略だ！ - クケビ!"
+  },
+  {
+    "id": "quo_165",
+    "text": "天の星を摘む — なかなか叶わぬことだが、難しいのと不可能なのは別物だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "星が欲しければ、まず梯子を作れ！「難しい」と「不可能」は別の星だ！ - クケビ!"
+  },
+  {
+    "id": "quo_166",
+    "text": "絵に描いた餅 — 見つめていても、腹は決して膨れない。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "絵の中の餅では腹は膨れない！食いたきゃ台所へ行け！ - クケビ!"
+  },
+  {
+    "id": "quo_167",
+    "text": "斗で与えて俵で返る — 人に注いだ情けは、時に幾倍にもして戻る。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "斗でくれて俵で返るのを待て！人情は金より利率がいい！ - クケビ!"
+  },
+  {
+    "id": "quo_168",
+    "text": "餅より先にスープをすするな — 物事が成る前に、先走った期待を持たない。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "餅はまだ来ていないのにスープだけすすると腹を壊す！期待は冷水のように、ゆっくりでいい！ - クケビ!"
+  },
+  {
+    "id": "quo_169",
+    "text": "脇道に逸れても都に着けばいい — 道がどうであれ、目的を成すことが大事だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "曲がった道を嘆くな！大事なのは都に到着することだ！ - クケビ!"
+  },
+  {
+    "id": "quo_170",
+    "text": "十尋の水の底は分かっても、一尋の人の心は測れない — 人の心こそ最も計りがたい。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "水の底は物差しで測れるが、人の心には物差しがない！頭を悩ますより、素直に聞いてみろ！ - クケビ!"
+  },
+  {
+    "id": "quo_171",
+    "text": "至誠は天を動かす — 真の誠意は、天の扉さえ開かせる。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "誠意はドッケビさえ動かす！天が動く前に、まずお前の足が動け！ - クケビ!"
+  },
+  {
+    "id": "quo_172",
+    "text": "蛙はおたまじゃくしの頃を忘れる — 立場が良くなると、恩と根を忘れやすい。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "おたまじゃくしの頃を覚えている蛙こそ、大物になる！育ててくれた池を忘れるな！ - クケビ!"
+  },
+  {
+    "id": "quo_173",
+    "text": "牛の耳に念仏 — 受け入れる心のない者には、どんな言葉も届かない。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "お経は読む側じゃなく、聞く側の問題だ！牛に読まず、耳を傾ける者の元へ行け！ - クケビ!"
+  },
+  {
+    "id": "quo_174",
+    "text": "井戸端で焦げ茶を探す — 実りは順番を守る者にだけ訪れる。",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "こげ茶はご飯が炊けてからだ！順番を飛ばせば、足元がすべるだけ！ - クケビ!"
+  },
+  {
+    "id": "quo_175",
+    "text": "急ぐ時こそ回れ — 急ぐほど、安全で確実な道を選ぶべきだ。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "急ぐからと近道に飛び込むな！ドッケビ橋を渡るなら、まず石橋からだ！ - クケビ!"
+  },
+  {
+    "id": "quo_176",
+    "text": "わらじにも片割れがいる — 誰にでも相性の合う相手は必ずいる。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "わらじにも片割れはいるんだ！お前の相棒はいないんじゃない、まだ見つかってないだけだ！ - クケビ!"
+  },
+  {
+    "id": "quo_177",
+    "text": "船頭多くして船山に上る — 指図する者が多すぎると、物事は台なしになりやすい。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "かじ取りは一人でやれ！船頭が二人以上なら、船は海を忘れる！ - クケビ!"
+  },
+  {
+    "id": "quo_178",
+    "text": "花は十日紅ならず — 良い時節も過ぎる。だからこそ尊い。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "花が十日で散るを嘆くな！散るからこそ花だ、いつまでもあれば壁紙だ！ - クケビ!"
+  },
+  {
+    "id": "quo_179",
+    "text": "月も満ちれば欠ける — 満ちたものはまた欠ける。完全さだけを追うな。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "満月が沈むのを見て落ち込むな！あの月は休息中 — 次の満月の準備中だ！ - クケビ!"
+  },
+  {
+    "id": "quo_180",
+    "text": "冷たい水にも上下はある — どんなささいなことにも、守るべき作法がある。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "冷水にも上下はある！水を汲むにも順序がある — 礼儀に大小はない！ - クケビ!"
+  },
+  {
+    "id": "quo_181",
+    "text": "下の石を抜いて上の石を支える — 片側を補えば、反対側が崩れる。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "下の石は支えの石だ！抜けば上の石もろとも倒れる — 順番を変えて積み直せ！ - クケビ!"
+  },
+  {
+    "id": "quo_182",
+    "text": "虎のいない谷では兎が師匠 — 真の達者がいない場では、そこそこ出来る者も師となれる。",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "谷に虎がいなければ兎が王だ！近くに師匠がいないなら、学んだだけ人に教えろ！ - クケビ!"
+  },
+  {
+    "id": "quo_183",
+    "text": "太刀魚が太刀魚の尻尾を食む — 身内で噛み合う争いは、結局どちらも傷つく。",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "同じ網の中で食い合うな！太刀魚同士が噛み合えば、網ごと損だ！ - クケビ!"
+  },
+  {
+    "id": "quo_184",
+    "text": "焚き火をしなきゃ煙は出ぬ — 原因なしに起こることは何もない。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "煙を見たら火種を探れ！原因を無視すれば、火はまた燃え上がる！ - クケビ!"
+  },
+  {
+    "id": "quo_185",
+    "text": "自分の鼻が三尺の火の車なのに、人の鼻をかんでやる — 我が身が大変でも、他人を先に助ける。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "自分の鼻が三尺でも人を拭いてやる奴がいる！そんな者の側には福が宿る！ - クケビ!"
+  },
+  {
+    "id": "quo_186",
+    "text": "川向こうの火事見物 — 自身に降りかからぬ火事は、人の事のように思える。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "川向こうの火は他人の火じゃない！風向きが変われば、火は川を渡ってくる！ - クケビ!"
+  },
+  {
+    "id": "quo_187",
+    "text": "うんだ物は破れる — 我慢して溜めたものは、いつか必ず弾ける。",
+    "category": "proverb",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "覆った傷は膿む！破れる前に手当して出せ — その方が痛みは少ない！ - クケビ!"
+  },
+  {
+    "id": "quo_188",
+    "text": "憎き情け、愛しき情け — 憎みながらも情が移り、情が移れば切れない。",
+    "category": "proverb",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "憎い情けが愛おしい情けを生む！千年のドッケビも人の情に負けて、こうして此処にいる！ - クケビ!"
+  },
+  {
+    "id": "quo_189",
+    "text": "目を覆ってアウンと言う — 自分を欺いても、誰も騙せぬ徒労だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "目を覆っても、人の目は覆えない！隠す骨より出す勇気の方が早い！ - クケビ!"
+  },
+  {
+    "id": "quo_190",
+    "text": "泥棒の足がうずく — 隠した悪事は、自分で露見する。",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "うずく足は隠しても足を引きずる！隠した罪はつま先からばれる！ - クケビ!"
+  },
+  {
+    "id": "quo_191",
+    "text": "食べられない柿でもつついてみる — 手の届かぬ実も、ひとまず試す価値はある。",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "柿が高くても一度はつつけ！落ちるのは、つついた柿だ！ - クケビ!"
+  },
+  {
+    "id": "quo_192",
+    "text": "豆の半片も分け合って食う — 情けは分けることそのものにある。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "豆の半片を分け合う仲こそ本物だ！分ければ豆はご飯になる！ - クケビ!"
+  },
+  {
+    "id": "quo_193",
+    "text": "登れぬ木は見上げるな — 叶わぬものに未練を残さぬ智恵も要る。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "登れない木の代わりに、登れる木を探せ！森に木は一本じゃない！ - クケビ!"
+  },
+  {
+    "id": "quo_194",
+    "text": "良薬は口に苦し — 耳に痛い忠言ほど、病を深く治す。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "耳の痛い言葉こそ薬だ！甘い言葉ばかり食べていると、病は隠れて育つ！ - クケビ!"
+  },
+  {
+    "id": "quo_195",
+    "text": "柿の木の下に寝て、柿の落ちるのを待つ — 運も、居場所の良い者を選ぶ。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "柿が降るのは柿の木の下だ！運を待つなら、せめてその下に寝ろ！ - クケビ!"
+  },
+  {
+    "id": "quo_196",
+    "text": "十年あれば山河も変わる — 世は常に移り、今日の塞がりも留まらない。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "十年で山河さえ変わる！今日塞がれた道が、十年後には川になって流れているかもしれない！ - クケビ!"
+  },
+  {
+    "id": "quo_197",
+    "text": "十の指を噛んで痛くないものはない — どれひとつとして尊くないものはない。",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "痛いからと指は切らない！お前の痛みも、誰の痛みにも劣らず尊い！ - クケビ!"
+  },
+  {
+    "id": "quo_198",
+    "text": "言葉は種となる — こぼした言葉は、現実を呼ぶ種となって帰ってくる。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "良い言葉をまけ！種になって帰ってくる！ドッケビも良い音には耳をそばだてる！ - クケビ!"
+  },
+  {
+    "id": "quo_199",
+    "text": "行く情けあって来る情け — 先に与える者が、先に受ける。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "情けは往復切符だ！先に送れば、返事は待たずとも来る！今日、先に挨拶しろ！ - クケビ!"
+  },
+  {
+    "id": "quo_200",
+    "text": "雨の後に地は固まる — 過ぎ去った苦難は、お前を固く締め固める。",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "韓国のことわざ",
+    "source": "古来の教え",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "豪雨の去った跡はより固い！濡れた日々はお前を潰したんじゃない、締め固めたんだ！ - クケビ!"
+  },
+  {
+    "id": "quo_201",
+    "text": "朝目覚めたら考えよう — 息をし、考え、楽しみ、愛せることこそ、生の尊い特権だと。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "マルクス・アウレリウス",
+    "source": "自省録 第5巻",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "息をひとつするだけでも当たりくんだ！今朝の特権をしっかり使え！ - クケビ!"
+  },
+  {
+    "id": "quo_202",
+    "text": "感謝は最大の美徳であるだけでなく、すべての美徳の親である。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "キケロ",
+    "source": "『プラキオ弁護』（紀元前54年）",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "ありがとうの言葉からすべての美徳が芽吹く！今日は三回叫べ！ - クケビ!"
+  },
+  {
+    "id": "quo_203",
+    "text": "私が遠くを見られたのは、巨人の肩の上に立っていたからだ。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "アイザック・ニュートン",
+    "source": "ロバート・フックへの手紙（1675年）",
+    "theme": "gratitude",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ひとりで全部見た顔をするな！足元の巨人たちにも礼を言え！ - クケビ!"
+  },
+  {
+    "id": "quo_204",
+    "text": "どんなに小さな親切も、決して無駄にはならない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "イソップ",
+    "source": "イソップ寓話「ライオンとねずみ」",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ライオンの爪の棘を抜いたねずみ、覚えているか？親切には利子がつく！ - クケビ!"
+  },
+  {
+    "id": "quo_205",
+    "text": "自分の周りにまだ残っている美しいものを考えて、幸せになりなさい。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "アンネ・フランク",
+    "source": "アンネの日記（1942〜1944）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "隠れ屋の屋根裏からでも星は見えた！美は逃げない、目が問題だ！ - クケビ!"
+  },
+  {
+    "id": "quo_206",
+    "text": "注意を注ぐこと、それが最も希少で最も純粋な寛容である。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "シモーヌ・ヴェイユ",
+    "source": "ジョエ・ブスケへの手紙（1942年）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "本当の贈り物は箱じゃなくて視線だ！隣の人をちゃんと見てやれ！ - クケビ!"
+  },
+  {
+    "id": "quo_207",
+    "text": "教師の最大の成功は、こう言えることだ — 「子どもたちは今、私が存在しないかのように自分で取り組んでいる」と。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "マリア・モンテッソーリ",
+    "source": "『吸収する心』（1949年）",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "見えない手こそ最高の手！ニカッと笑って下がっていろ！ - クケビ!"
+  },
+  {
+    "id": "quo_208",
+    "text": "われわれの豊かさは、何を持つかではなく、何を楽しむかで決まる。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "エピクロス",
+    "source": "バチカンの箴言",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "倉庫が溢れても笑わなきゃ貧乏だ！今日はひとかけら、ちゃんと味わえ！ - クケビ!"
+  },
+  {
+    "id": "quo_209",
+    "text": "教育は人生への準備ではない。教育そのものが人生である。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "ジョン・デューイ",
+    "source": "『わが教育信条』（1897年）",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "学ぶ日はすなわち生きる日だ！千年鬼もまだ勉強中なんだ！ - クケビ!"
+  },
+  {
+    "id": "quo_210",
+    "text": "アダムの子らはみな一つの身体の手足である。一箇所が痛めば、ほかも共に痛む。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "サアディー",
+    "source": "『ゴレスターン』（1258年）",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "一人が痛ければみんな痛い！隣人の足を踏むんじゃない！ - クケビ!"
+  },
+  {
+    "id": "quo_211",
+    "text": "すべてがあなたに起こるにまかせよう — 美も恐れも。ただ進み続けるのだ。どんな感覚も最後ではない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ライナー・マリア・リルケ",
+    "source": "『時間の書』（1899〜1903）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "涙にも夜にも終わりはある！朝が最後に勝つ、歩き続けろ！ - クケビ!"
+  },
+  {
+    "id": "quo_212",
+    "text": "人生の竜はみな、美と勇気でたった一度行動するのを待っている姫君なのかもしれない。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "ライナー・マリア・リルケ",
+    "source": "『若き詩人への手紙』（1929年）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "竜の前で凍え死にはまだ早い！一度の勇気が尾を翼に変えるんだ！ - クケビ!"
+  },
+  {
+    "id": "quo_213",
+    "text": "自らを憐れむ野生のものを、私は見たことがない。小鳥は自分を憐れむことなく、凍えた枝から落ちていく。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "D・H・ロレンス",
+    "source": "詩「自己憐憫」（1929年）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "自己憐憫で腹は膨れない！鳥は泣くか、飛ぶか？飛ぶんだ！ - クケビ!"
+  },
+  {
+    "id": "quo_214",
+    "text": "私は曲げられ、壊された。けれど — 願わくば — より良い形に。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "チャールズ・ディケンズ",
+    "source": "『大いなる遺産』（1861年）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "壊れた場所は継ぎ目より強い！ひび割れた磁器も光ってるぞ！ - クケビ!"
+  },
+  {
+    "id": "quo_215",
+    "text": "心の優しさに匹敵する魅力はない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ジェイン・オースティン",
+    "source": "『エマ』（1815年）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "優しさは刃より深く斬る！今日は言葉を柔らかくしろ！ - クケビ!"
+  },
+  {
+    "id": "quo_216",
+    "text": "愛すること、あるいは愛したこと — それで十分だ。それ以上望むことは何もない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ヴィクトル・ユゴー",
+    "source": "『レ・ミゼラブル』（1862年）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "愛した跡は消しゴムじゃ消えない！それだけでもう財産だ！ - クケビ!"
+  },
+  {
+    "id": "quo_217",
+    "text": "よく見えるのは心だけだ。本質のものは目には見えない。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "アントワーヌ・ド・サン=テグジュペリ",
+    "source": "『星の王子さま』（1943年）",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "目は外殻しか見ない！中身を見たければ胸に火を点せ！ - クケビ!"
+  },
+  {
+    "id": "quo_218",
+    "text": "愛とは見つめ合うことではなく、ともに同じ方向を見つめることである。",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "アントワーヌ・ド・サン=テグジュペリ",
+    "source": "『人間の大地』（1939年）",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "目が合うより足が同じ方向のほうが大事だ！並んで歩け！ - クケビ!"
+  },
+  {
+    "id": "quo_219",
+    "text": "なぜ生きるべきかを知っている者は、ほとんどあらゆる「どのように」に耐えられる。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "フリードリヒ・ニーチェ",
+    "source": "『偶像の黄昏』（1889年）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "理由を失えば脚も折れる！お前の「なぜ」をしっかり握れ！ - クケビ!"
+  },
+  {
+    "id": "quo_220",
+    "text": "心には心の理由がある。理性はそれを知らない。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "ブレーズ・パスカル",
+    "source": "『パンセ』（1670年）",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "理屈で整理できない心でもいい！胸の向くままに歩け！ - クケビ!"
+  },
+  {
+    "id": "quo_221",
+    "text": "幸せな人生に必要なものはごくわずかだ。すべては自分の内側、考え方の中にある。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "マルクス・アウレリウス",
+    "source": "自省録 第7巻",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "幸福は買い物かごじゃなく物の見方だ！今すぐ世界をちょっと変えて見ろ！ - クケビ!"
+  },
+  {
+    "id": "quo_222",
+    "text": "生きる時間が短いのではない。私たちが多くを無駄にするのだ。使い方を知れば人生は長い。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "セネカ",
+    "source": "ルキリウス宛書簡集 第1書簡",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "時間は逃げたんじゃない、流したんだ！今日はひと時間取り戻せ！ - クケビ!"
+  },
+  {
+    "id": "quo_223",
+    "text": "われわれはみなどぶの中にいる。だが、その中には星を見上げている者もいる。",
+    "category": "world",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "オスカー・ワイルド",
+    "source": "『ウィンダミア夫人の扇』（1892年）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "どぶの中でも顔を上げれば星だ！今すぐ見上げろ！ - クケビ!"
+  },
+  {
+    "id": "quo_224",
+    "text": "自分の道で間違うほうが、人の道で正しくあるよりましだ。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "フョードル・ドストエフスキー",
+    "source": "『罪と罰』（1866年）",
+    "theme": "comfort",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "人の道に閉じ込められたら、千年歩いても人の人生だ！自分の足で自分の道を歩め！ - クケビ!"
+  },
+  {
+    "id": "quo_225",
+    "text": "憎しみは憎しみによって決してやまない。憎まないことによってのみやむ。これは永遠の法である。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "仏陀（伝承）",
+    "source": "『法句経』第5偈",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "憎しみに憎しみを注いでも鍋は深くなるだけ！今日ひとつはただ手放せ！ - クケビ!"
+  },
+  {
+    "id": "quo_226",
+    "text": "子どもは人類にとって希望であり、約束である。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "マリア・モンテッソーリ",
+    "source": "『教育と平和』（1936年）",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "子どもの足音が地球の心臓の鼓動だ！きらきら育てろ！ - クケビ!"
+  },
+  {
+    "id": "quo_227",
+    "text": "あなたの子どもはあなたの子どもではない。彼らはあなたを通じて来るが、あなたから生まれたのではない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "カリール・ジブラーン",
+    "source": "『預言者』（1923年）",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "子は貸し借りされた矢だ！握りしめず、遠くへ放て！ - クケビ!"
+  },
+  {
+    "id": "quo_228",
+    "text": "感謝は気高い魂のしるしである。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "イソップ",
+    "source": "イソップ寓話",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ありがとうの一言で魂のランクが上がる！今日あと二回言え！ - クケビ!"
+  },
+  {
+    "id": "quo_229",
+    "text": "人は物事ではなく、物事に対する見方に心を乱される。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "エピクテトス",
+    "source": "『手引き』第5章",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "事件じゃなくて目が盤面を揺らすんだ！まず視線を張り直せ！ - クケビ!"
+  },
+  {
+    "id": "quo_230",
+    "text": "物語と人生は同じだ。長さではなく、どれだけ良いかが問題なのだ。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "セネカ",
+    "source": "ルキリウス宛書簡集 第77書簡",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "分厚い人生より美味しい人生だ！今日の一枚はちゃんと書け！ - クケビ!"
+  },
+  {
+    "id": "quo_231",
+    "text": "逆境の効用は甘い。ひきがえるのように醜く毒を抱えても、額には尊い宝石を載せているのだ。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "ウィリアム・シェイクスピア",
+    "source": "『お気に召すまま』（1599年）",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "毒の中に真珠がいる！ひきがえるから逃げるな！ - クケビ!"
+  },
+  {
+    "id": "quo_232",
+    "text": "美しいものは永遠の喜びである。その愛らしさは増してゆき、決して無に帰ることはない。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ジョン・キーツ",
+    "source": "『エンディミオン』（1818年）",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "美は利息が減らない預金だ！今日はきれいなものを三つ見つけろ！ - クケビ!"
+  },
+  {
+    "id": "quo_233",
+    "text": "音楽は言葉にできないのに、黙っていられないものを表現する。",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ヴィクトル・ユゴー",
+    "source": "『ウィリアム・シェイクスピア論』（1864年）",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "言葉に詰まったら鼻歌だ！千年鬼も歌で長い夜を越す！ - クケビ!"
+  },
+  {
+    "id": "quo_234",
+    "text": "世で最も偉大なことは、自分自身のものとなる術を知ることだ。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "ミシェル・ド・モンテーニュ",
+    "source": "『エセー』第1巻第39章",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "自分の中の一部屋は誰も奪えない！自分のものになる術を学べ！ - クケビ!"
+  },
+  {
+    "id": "quo_235",
+    "text": "嵐は怖くない。自分の船の操り方を、今まさに学んでいるから。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "ルイーザ・メイ・オルコット",
+    "source": "『若草物語』（1868年）",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "嵐は船乗りの宿題だ！船から降りるな！ - クケビ!"
+  },
+  {
+    "id": "quo_236",
+    "text": "自分に矛盾があるって？よろしい、そのとおり矛盾している。（私は広大で、無数の存在を抱えているから。）",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "ウォルト・ホイットマン",
+    "source": "『自分の歌』（『草の葉』1855年）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "昨日と違っても大したことない！千年鬼も朝は怒号、夜は子守唄だ！ - クケビ!"
+  },
+  {
+    "id": "quo_237",
+    "text": "部屋を出る必要はない。机に座って耳を澄ませばいい。世界は自らを暴くために、自ら進んであなたに身を差し出すだろう。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "フランツ・カフカ",
+    "source": "『チュラウ・アフォリズム』（1917〜1918年）",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "急ぐと世界は隠れる！静かに座れば顔を見せる！ - クケビ!"
+  },
+  {
+    "id": "quo_238",
+    "text": "不可能とは、愚か者の辞書にしか載っていない言葉である。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "ナポレオン・ボナパルト",
+    "source": "『サント・ヘレナ回想録』",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "千年鬼の辞書にも「不可能」はない！噛み砕いて飲み込め！ - クケビ!"
+  },
+  {
+    "id": "quo_239",
+    "text": "この世で成功するのは、欲しい環境を求めて立ち上がり、見つからなければ自分で作る人たちだ。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "ジョージ・バーナード・ショー",
+    "source": "『ワレン夫人の職業』（1893年）",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "環境は拾うものじゃない、鍛えるものだ！今すぐ起きろ！ - クケビ!"
+  },
+  {
+    "id": "quo_240",
+    "text": "夢の方向へ自信をもって進め。想像してきた人生を生きるのだ。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "ヘンリー・デイヴィッド・ソロー",
+    "source": "『ウォールデン』（1854年）",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "足が止まれば夢はただの地図だ！今、一歩だ！ - クケビ!"
+  },
+  {
+    "id": "quo_241",
+    "text": "真の栄誉は、土と汗と血で顔が汚れている、闘技場に立つ男のものだ。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "セオドア・ルーズベルト",
+    "source": "『共和国における市民権』（1910年演説）",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "観客席はうるさく、闘技場は静かだ！顔に土を少し浴びろ！ - クケビ!"
+  },
+  {
+    "id": "quo_242",
+    "text": "地上にもともと道はない。歩く人が多くなれば、それが道になる。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "魯迅",
+    "source": "『故郷』（1921年）",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ない道は足で作るものだ！最初の一歩は鬼が踏んでやらんぞ！ - クケビ!"
+  },
+  {
+    "id": "quo_243",
+    "text": "知るだけでは足りない、応用しなければならない。願うだけでは足りない、行わなければならない。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "source": "『ヴィルヘルム・マイスターの遍歴時代』（1829年）",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "覚えたままポケットに入れておくと腐る！今日ひとつ取り出して使え！ - クケビ!"
+  },
+  {
+    "id": "quo_244",
+    "text": "千里の道も一歩から始まる。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "老子",
+    "source": "『道徳経』第64章",
+    "theme": "growth",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "千里を前にして怖気づくな！つま先の一足だ！ - クケビ!"
+  },
+  {
+    "id": "quo_245",
+    "text": "障害が私を砕くことはできない。あらゆる障害は固い決意の前で屈する。",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "レオナルド・ダ・ヴィンチ",
+    "source": "手稿ノート",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "障害が壁なら、梯子になれ！ダ・ヴィンチはそう生きた！ - クケビ!"
+  },
+  {
+    "id": "quo_246",
+    "text": "誰もが世界を変えることを考えるが、自分自身を変えることを考える者はいない。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "レフ・トルストイ",
+    "source": "『改革の三つの方法』（1900年）",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "世界を全部直すことはできない！今日はまず自分の爪を整えろ！ - クケビ!"
+  },
+  {
+    "id": "quo_247",
+    "text": "世界を少しでも良くし始めるために、一瞬たりとも待つ必要がないなど、なんて素晴らしいことだろう。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "アンネ・フランク",
+    "source": "アンネの日記（1942〜1944）",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "待ち札はいらない！今朝がまさに開場だ！ - クケビ!"
+  },
+  {
+    "id": "quo_248",
+    "text": "人生において恐れるべきものは何もない。ただ理解すればいい。より少なく恐れるために、今こそもっと理解しよう。",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "マリ・キュリー",
+    "source": "『キュリー夫人』（1937年）",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "知らないから怖いんだ！一ページだけでいい、開いてみろ！ - クケビ!"
+  },
+  {
+    "id": "quo_249",
+    "text": "真の発見の旅は、新しい風景を探すことではなく、新しい目を持つことにある。",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "マルセル・プルースト",
+    "source": "『失われた時を求めて』第5巻（1923年）",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "風景はとうに売り切れだ！新しい目玉に交換しろ！ - クケビ!"
+  },
+  {
+    "id": "quo_250",
+    "text": "あなたの人生のすべての日を、精一杯生きますように。",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "ジョナサン・スウィフト",
+    "source": "『上品な会話』（1738年）",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日は生きていて、昨日はもう終わってる！目覚めた日はちゃんと生きろ！ - クケビ!"
+  },
+  {
+    "id": "quo_251",
+    "text": "犬のふんでも薬にしようとすると見つからない — 必要な時に限って、ありふれたものが見当たらない。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "犬のふんも前もって集めておけば宝物！備えた者だけが必要な時に得られる！- クケビ!"
+  },
+  {
+    "id": "quo_252",
+    "text": "行った日がちょうど市の日だ — 思いがけないタイミングも人生の一部だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "偶然も運命の一部！市の日を楽しもう！- クケビ!"
+  },
+  {
+    "id": "quo_253",
+    "text": "針泥棒が牛泥棒になる — 小さな過ちを軽く見れば、大きな過ちへとつながる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "小さな火種が山を焼く！今日の小さな選択が明日の運命だ！- クケビ!"
+  },
+  {
+    "id": "quo_254",
+    "text": "夢より夢占いだ — 同じ出来事も解釈次第で吉凶が変わる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "同じ空も見る目によって違う！クケビの目で見れば何でも宝！- クケビ!"
+  },
+  {
+    "id": "quo_255",
+    "text": "一匹のどじょうが池全体を濁らす — 少数の悪い行いが全体を台無しにする。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "一人の悪い気が雰囲気を壊す！クケビはいつも良い気だけを放つ！- クケビ!"
+  },
+  {
+    "id": "quo_256",
+    "text": "鶏を追った犬が屋根を見上げるように — 努力しても空振りした時は、次の準備をする時だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "空振りも経験だ！屋根を見上げる犬も次はもっと高く跳べる！- クケビ!"
+  },
+  {
+    "id": "quo_257",
+    "text": "昼の言葉は鳥が聞き、夜の言葉はネズミが聞く — どこでも言葉は必ず広まる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "クケビも全部聞いてるよ！言葉は思った以上に遠くへ飛ぶ！- クケビ!"
+  },
+  {
+    "id": "quo_258",
+    "text": "一言で千両の借金を返す — 真心のこもった一言の力はお金より大きい。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "今日誰かに真心の一言を！千両の価値があるよ！- クケビ!"
+  },
+  {
+    "id": "quo_259",
+    "text": "他人の手の餅の方が大きく見える — 比較は満足を奪い、感謝を忘れさせる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "kkaebi_comment": "自分の手の餅も十分美味しい！比べずに味わって！- クケビ!"
+  },
+  {
+    "id": "quo_260",
+    "text": "自分の目にはメガネ — 自分の基準が世界の基準ではない。違いを認めることが知恵だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "クケビの目にはみんな特別！違いこそが美しさだ！- クケビ!"
+  },
+  {
+    "id": "quo_261",
+    "text": "知ることが病、知らないことが薬 — 知り過ぎることはかえって心配を増やす。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "何でも知ろうとしないで！クケビも知らないことがたくさんあって幸せだよ！- クケビ!"
+  },
+  {
+    "id": "quo_262",
+    "text": "スズメがコウノトリの歩き方をすれば股が裂ける — 自分のペースで歩くことが知恵だ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "スズメの羽ばたきはコウノトリより速いかも！自分の道を行け！- クケビ!"
+  },
+  {
+    "id": "quo_263",
+    "text": "一を見れば十がわかる — 小さな手がかり一つが全体の本質を明かす。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "クケビは一目で心を読む！小さなことに集中すれば大きな絵が見える！- クケビ!"
+  },
+  {
+    "id": "quo_264",
+    "text": "今日すべきことを明日に延ばすな — 今この瞬間が最も早いスタートだ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今すぐ始めて！クケビも今この瞬間を生きてる！- クケビ!"
+  },
+  {
+    "id": "quo_265",
+    "text": "大成する木は双葉からわかる — 潜在力はごく初期から姿を現す。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "今の小さな努力が将来の大木！小さな芽を大切に！- クケビ!"
+  },
+  {
+    "id": "quo_266",
+    "text": "意志あるところに道あり — 本当の意志があれば、必ず道が開ける。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "クケビの意志はいつも明確！意志が立てば道が開く！- クケビ!"
+  },
+  {
+    "id": "quo_267",
+    "text": "虎穴に入らずんば虎子を得ず — リスクを冒さなければ、本当の成就はない。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "クケビも怖いけど飛び込む！穴の中に宝が待ってる！- クケビ!"
+  },
+  {
+    "id": "quo_268",
+    "text": "上流の水が清ければ下流の水も清い — リーダーがまず率先垂範しなければ、従う者も正しくはなれない。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "クケビもいつも清い水になろうとする！率先垂範が最高！- クケビ!"
+  },
+  {
+    "id": "quo_269",
+    "text": "牛の角も熱いうちに抜け — 決意したら即行動せよ。熱が冷めれば難しくなる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今がまさにその熱いうち！ためらわず今すぐ走れ！- クケビ!"
+  },
+  {
+    "id": "quo_270",
+    "text": "成功の半分は運だが、残り半分は準備だ — 運を嘆く前に、備えを確認せよ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "運を待つ前にクケビのように準備せよ！準備した者に運が駆けてくる！- クケビ!"
+  },
+  {
+    "id": "quo_271",
+    "text": "スッポンに驚いた心は鍋蓋を見ても驚く — 傷は長続きするが、気づいた瞬間に克服が始まる。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "鍋蓋はスッポンじゃないよ！今日の恐れは明日の勇気になる！- クケビ!"
+  },
+  {
+    "id": "quo_272",
+    "text": "ミミズも踏まれれば身をよじる — どんなに小さく弱い存在にも尊厳がある。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "みんなに自分だけの大きさがある！小さいからといって侮るな！- クケビ!"
+  },
+  {
+    "id": "quo_273",
+    "text": "苦労の末に楽がくる — 長く耐えた人に喜びが訪れる。今の辛さは必ず過ぎ去る。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "クケビにも辛い日があった。でも耐えたから今こんなに楽しいんだ！- クケビ!"
+  },
+  {
+    "id": "quo_274",
+    "text": "スイカの外をなめるだけでは甘さがわからない — 表面的なアプローチでは本当の深みを知ることはできない。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "スイカは半分に割ってこそ美味しい！深く掘り下げてこそ本物が出てくる！- クケビ!"
+  },
+  {
+    "id": "quo_275",
+    "text": "言葉が種になる — 口に出した言葉は現実を作る。肯定の言葉を植えよ。",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "韓国のことわざ",
+    "source": "口承",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "今日はどんな種を植える？クケビはいつも良い種だけを植える！- クケビ!"
   }
 ]
