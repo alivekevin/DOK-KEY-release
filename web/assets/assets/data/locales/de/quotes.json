@@ -1,0 +1,4438 @@
+[
+  {
+    "id": "quo_001",
+    "text": "Wasser nimmt die Form des Gefäßes an, doch ein Herz soll selbst im Wanken seine Gestalt behalten.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Lebe nicht wie Wasser, lebe wie ein Baum — die Wurzeln des Herzens sterben nicht beim Wanken! - Kkaebi!"
+  },
+  {
+    "id": "quo_002",
+    "text": "In dem Moment, in dem du den Weg weit nennst, haben deine Schritte halb gestanden.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Fühlst du den Weg als weit, stehen deine Schritte schon halb. Füße sind stärker als Gedanken! - Kkaebi!"
+  },
+  {
+    "id": "quo_003",
+    "text": "Der Berg fürchtet seine Höhe nicht. Nur wer steigt, kennt den Gipfel.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der Berg zögert nie. Nur steigende Beine kennen den Gipfel! - Kkaebi!"
+  },
+  {
+    "id": "quo_004",
+    "text": "Ein tiefer Brunnen ist still. Nur flaches Wissen ist laut.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Lautstarkes Wissen ist seicht. Leise stapeln, groß stehen! - Kkaebi!"
+  },
+  {
+    "id": "quo_005",
+    "text": "Morgentau bleibt nicht lange. Deshalb glänzt er so hell.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tau glänzt nicht, um zu bleiben — er blüht jetzt und vergeht jetzt. - Kkaebi!"
+  },
+  {
+    "id": "quo_006",
+    "text": "Ein Baum klammert sich nicht an welkes Laub; er räumt Platz für neues.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Klammere dich nicht an welkes Laub — Leere zieht Neues an! - Kkaebi!"
+  },
+  {
+    "id": "quo_007",
+    "text": "Der Fels besiegt das Wasser nicht. Was fließt, ist stärker als was hart wird.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Das Harte besiegt das Fließende nicht. Fließen gewinnt! - Kkaebi!"
+  },
+  {
+    "id": "quo_008",
+    "text": "Die Lampe ahnt nicht, dass ihr eigener Schatten tiefer wird, je mehr sie andre erleuchtet.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wer andre erleuchtet, pflege auch den eigenen Schatten. - Kkaebi!"
+  },
+  {
+    "id": "quo_009",
+    "text": "Getreide neigt den Kopf, je reifer es wird. Auch Menschen werden niedlicher, je reifer.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Je reifer das Korn, desto tiefer die Neigung. Demut ist Können! - Kkaebi!"
+  },
+  {
+    "id": "quo_010",
+    "text": "Eiliges Wasser ist flach. Ein tiefer Fluss fließt lautlos.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ein tiefer Fluss ist lautlos. Laut Wasser ist seicht. - Kkaebi!"
+  },
+  {
+    "id": "quo_011",
+    "text": "Auch wenn ein Stein es trifft, antwortet fließendes Wasser mit neuem Wasser. Antwort geschieht im Fließen.",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Auch vom Stein getroffen antwortet fließendes Wasser mit neuem Fluss. Antworten geschieht im Fließen! - Kkaebi!"
+  },
+  {
+    "id": "quo_012",
+    "text": "Ein Bogen ist besser gespannt, doch ein Mensch muss auch lösen können.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Bogen gespannt, Herz gelöst! Beides gekonnt — nie danebengeschossen. - Kkaebi!"
+  },
+  {
+    "id": "quo_013",
+    "text": "Statt die Dunkelheit zu verfluchen, entzünde ein kleines Licht.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Fluche nicht der Dunkelheit — entzünde eine Kerze. So macht es der Kobold! - Kkaebi!"
+  },
+  {
+    "id": "quo_014",
+    "text": "Der Dieb stiehlt dein Haus; die Zeit stiehlt dein Leben. Schätze heute.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Die Zeit ist der größte Dieb. Schließe heute gut ab! - Kkaebi!"
+  },
+  {
+    "id": "quo_015",
+    "text": "Eine Glocke klingt erst, wenn sie geschlagen wird. Ein Herz öffnet sich erst, wenn man klopft.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Klopf, und es öffnet sich — Türen wie Herzen! - Kkaebi!"
+  },
+  {
+    "id": "quo_016",
+    "text": "Einrandig volles Gefäß verschüttet. Nur das Leere nimmt Neues auf.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ein randvolles Gefäß verschüttet. Leere es, und neues Glück läuft ein! - Kkaebi!"
+  },
+  {
+    "id": "quo_017",
+    "text": "Ein Wald ist kein einzelner Baum. Zusammen halten sie den Wind auf.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein Baum kann brechen, ein Wald steht. Gemeinsam ist man stark! - Kkaebi!"
+  },
+  {
+    "id": "quo_018",
+    "text": "Wasser, im Tal verborgen, erreicht das Meer zuerst. Der niedere Weg ist schnell.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Das tiefe Wasser erreicht das Meer zuerst. Demut ist der Abkürzungsweg! - Kkaebi!"
+  },
+  {
+    "id": "quo_019",
+    "text": "Ein Falke bleibt ein Falke, auch im tiefen Flug. Schweigen bedeutet nicht Ranglosigkeit.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein Falke im Tiefflug bleibt ein Falke. Schweigen ist keine Schwäche! - Kkaebi!"
+  },
+  {
+    "id": "quo_020",
+    "text": "Wurzeln sind unsichtbar, doch sie sind der ganze Baum. Können wächst unter der Erde.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wurzeln sind unsichtbar und doch alles. Übe dein Können unter der Erde! - Kkaebi!"
+  },
+  {
+    "id": "quo_021",
+    "text": "Um einen Regenbogen zu sehen, musst du den Regen aushalten. Die Reihenfolge lässt sich nicht überspringen.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Den Regenbogen gibt's nach dem Regen. Die Reihenfolge lässt sich nicht überspringen! - Kkaebi!"
+  },
+  {
+    "id": "quo_022",
+    "text": "Ein Spiegel zerbricht im Zorn, doch den Spiegel des Herzens polierst du selbst.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Schuld nicht den zerbrochenen Spiegel — sieh die Hand, die poliert! - Kkaebi!"
+  },
+  {
+    "id": "quo_023",
+    "text": "Fest umschlossener Sand rieselt durch die Finger. Halten beginnt mit Losheit.",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "lonely"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Sand entweicht der festen Faust. Halte ihn lose! - Kkaebi!"
+  },
+  {
+    "id": "quo_024",
+    "text": "Wenn du hundertmal den Weg verloren hast, hast du ihn auch hundertmal gefunden.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hundertmal verirrt, hundertmal gefunden — das ist Können! - Kkaebi!"
+  },
+  {
+    "id": "quo_025",
+    "text": "Viele Kerzen teilen die Dunkelheit, ohne zu streiten. Licht bleibt beieinander.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Kerzen streiten nie miteinander. Licht teilt die Dunkelheit gemeinsam! - Kkaebi!"
+  },
+  {
+    "id": "quo_026",
+    "text": "Eine Waage spricht nur Wahrheit, wenn beide Seiten eben sind.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die Waage spricht nur Wahrheit, wenn sie gerade ist. Halte das Gleichgewicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_027",
+    "text": "Das Meer trägt die Fische, weil es niedrig liegt. Je niedriger, desto mehr fasst du.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Das Meer fasst viel, weil es tief liegt. Je niedriger, desto mehr! - Kkaebi!"
+  },
+  {
+    "id": "quo_028",
+    "text": "Der Hahn weckt den Morgen, doch der Morgen gehört niemandem. Der Anfang ist dein Anteil.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Niemand weckt deinen Morgen. Öffne deinen Tag selbst! - Kkaebi!"
+  },
+  {
+    "id": "quo_029",
+    "text": "Klopfe auch an die Steinbrücke, bevor du gehst. Sicherheit kommt vom Klopfen.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Klopfe selbst an die Steinbrücke. Klopfen ist Vermögen! - Kkaebi!"
+  },
+  {
+    "id": "quo_030",
+    "text": "Geschmolzener Schneesicke macht den Sommerfluss. Ein kleiner Lauf wechselt eine Jahreszeit.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Eine Handvoll Schneesicke macht den Sommerfluss. Fließe, auch klein! - Kkaebi!"
+  },
+  {
+    "id": "quo_031",
+    "text": "Eine stille Nacht ordnet den Tag. Ruhe ist ein Teil der Arbeit.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die stille Nacht ordnet den Tag. Ordnung kommt vor dem Licht! - Kkaebi!"
+  },
+  {
+    "id": "quo_032",
+    "text": "Ein Pfeil fliegt umso weiter, je weiter er gezogen wird. Der Rückschritt ist Sprungvorbereitung.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der zurückgezogene Pfeil fliegt am weitesten. Schäme des Rückzugs dich nicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_033",
+    "text": "Eis erzählt nicht, wie kalt es war; es schmilzt und fließt einfach.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Eis erzählt nichts — es schmilzt und fließt. Das ist die Antwort! - Kkaebi!"
+  },
+  {
+    "id": "quo_034",
+    "text": "Eine Blüte darf aufblühen, weil das Schweigen der Wurzeln es erlaubte.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die Blüte darf blühen, weil das Schweigen der Wurzeln es erlaubte. Lobe die vorbereitete Stille! - Kkaebi!"
+  },
+  {
+    "id": "quo_035",
+    "text": "Mond und Tau geben den Tag zurück. Heute ist geliehen.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Heute ist geliehen. Spendiere Zinsen — und nutze ihn reich! - Kkaebi!"
+  },
+  {
+    "id": "quo_036",
+    "text": "Hundert Worte sagen weniger als ein Schritt, der nach Erde riecht.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hundert Worte sagen weniger als ein erdiger Schritt! - Kkaebi!"
+  },
+  {
+    "id": "quo_037",
+    "text": "Wasser im versiegelten Krug verdirbt. Auch ein Herz muss fließen, um zu leben.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Stagnierendes fault, Fließendes lebt. Wechsle das Wasser des Herzens! - Kkaebi!"
+  },
+  {
+    "id": "quo_038",
+    "text": "Die Möwe weissagt keinen Sturm. Flügel werden im Sturm geschmiedet.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Flügel werden nicht im blauen Himmel geschmiedet. Der Sturm ist der Lehrer! - Kkaebi!"
+  },
+  {
+    "id": "quo_039",
+    "text": "Auch kleine Frühlingsschnecke, geschmolzen, verschiebt die Jahreszeit.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Schon etwas Schmelzschnee verschiebt die Jahreszeit. Verachte kleine Anfänge nicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_040",
+    "text": "Sachen kann man ablegen, das Herz selten. Leg zuerst die Last des Herzens ab.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Sachen legt man ab, das Herz kaum. Leg zuerst die Last des Herzens ab! - Kkaebi!"
+  },
+  {
+    "id": "quo_041",
+    "text": "Ein großer Baum bekommt erst nach Stürmen tiefe Wurzeln.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ohne Sturm keine große Eiche. Das Wanken vertieft die Wurzeln! - Kkaebi!"
+  },
+  {
+    "id": "quo_042",
+    "text": "Eine Schlange muss die Haut abwerfen, um zu wachsen. Am alten Selbst kleben ist kein Wachstum.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Wirf die Haut ab — das ist der Beweis des Wachstums! - Kkaebi!"
+  },
+  {
+    "id": "quo_043",
+    "text": "Der Bergsteiger sieht den nächsten Tritt, nicht den Gipfel.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der Steiger sieht den nächsten Tritt, nicht den Gipfel! - Kkaebi!"
+  },
+  {
+    "id": "quo_044",
+    "text": "Ein Vogel fällt nicht, wenn der Zweig bricht. Vertraue den Flügeln, nicht dem Zweig.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Bricht der Ast, bleiben die Flügel. Vertraue Flügeln, nicht Ästen! - Kkaebi!"
+  },
+  {
+    "id": "quo_045",
+    "text": "Gerste muss den Winter ertragen, um Brot zu werden.",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Gerste muss den Winter ertragen, um Brot zu werden. Geduld ist die Mühle! - Kkaebi!"
+  },
+  {
+    "id": "quo_046",
+    "text": "Mit einer Hand kannst du nicht klatschen. Beziehungen sind der Klang beider.",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Mit einer Hand klatscht es nicht. Beziehungen sind der Klang beider! - Kkaebi!"
+  },
+  {
+    "id": "quo_047",
+    "text": "Die lange Nacht birgt den Morgen. Nacht ist kein Ende, sondern der Wartesaal.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die lange Nacht ist der Wartesaal des Morgens. Kein Ende! - Kkaebi!"
+  },
+  {
+    "id": "quo_048",
+    "text": "Ein Samen verliert unter der Erde seine Gestalt. Wandel beginnt mit Loslassen.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein Same wirft seine Gestalt ab, um zu keimen. Wandel beginnt mit Loslassen! - Kkaebi!"
+  },
+  {
+    "id": "quo_049",
+    "text": "Ein Fluss eilt nicht, um weit zu gelangen. An jeder Biegung wird er tiefer.",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Eilige Flüsse sind flach. An jeder Biegung werden sie tiefer! - Kkaebi!"
+  },
+  {
+    "id": "quo_050",
+    "text": "Der Tag, den du heute schreibst, wird die Kraft von morgen. Ein Tag lässt sich nicht neu schreiben.",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Heute lässt sich nicht neu schreiben. Hinterlasse es als feine Zeile! - Kkaebi!"
+  },
+  {
+    "id": "quo_051",
+    "text": "Übung macht den Meister — Übung macht den Meister, nicht das Talent.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Talent ist die Ausrede, Übung ist der Meister! Zeig mir deine zehnte Wiederholung. - Kkaebi!"
+  },
+  {
+    "id": "quo_052",
+    "text": "Der Apfel fällt nicht weit vom Stamm — die Herkunft hallt nach.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Die Wurzeln sprechen durch die Zweige! Ehre deinen Baum — und pflanze dann deinen eigenen Hain. - Kkaebi!"
+  },
+  {
+    "id": "quo_053",
+    "text": "Aller Anfang ist schwer — doch der Anfang ist der halbe Weg.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Anfang ist der halbe Weg — du hast also schon die Hälfte! Der Rest ist Gewohnheit. - Kkaebi!"
+  },
+  {
+    "id": "quo_054",
+    "text": "Morgenstund hat Gold im Mund — der frühe Lohn gehört dem Frühaufsteher.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Gold liegt in der Morgenstunde — der Rest des Tages zahlt nur Kleingeld! Steh auf, ich halte dir die Tür. - Kkaebi!"
+  },
+  {
+    "id": "quo_055",
+    "text": "Was Hänschen nicht lernt, lernt Hans nimmermehr — was du früh versäumst, wird spät teuer.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Was du heute versäumst, kaufst du morgen teuer zurück! Junge Jahre sind der Laden mit den besten Preisen. - Kkaebi!"
+  },
+  {
+    "id": "quo_056",
+    "text": "Auch ein blindes Huhn findet mal ein Korn — auch Anfänger haben Glückstreffer.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Auch ein blindes Huhn findet ein Korn — aber zähle nicht darauf! Glückskörner schmecken besser, wenn du sie selbst gestreut hast. - Kkaebi!"
+  },
+  {
+    "id": "quo_057",
+    "text": "Wer rastet, der rostet — wer ruht, verliert Form und Kraft.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Stillstand ist Rost in Zeitlupe! Bewegung hält die Gelenke und die Träume geschmiert. - Kkaebi!"
+  },
+  {
+    "id": "quo_058",
+    "text": "Steter Tropfen höhlt den Stein — Beharrlichkeit besiegt das Harte.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Tropfen kennt keinen Urlaub — darum gewinnt er! Sei der Tropfen, nicht der Stein. - Kkaebi!"
+  },
+  {
+    "id": "quo_059",
+    "text": "Reden ist Silber, Schweigen ist Gold — Schweigen ist das edlere Metall.",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Silber rauscht, Gold ruht! Wer schweigt, sammelt die Weisheit der anderen mit ein. - Kkaebi!"
+  },
+  {
+    "id": "quo_060",
+    "text": "Hochmut kommt vor dem Fall — der Stolz kündigt den Sturz an.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hochmut baut die Rampe, die Schwerkraft liefert den Rest! Ein wenig Demut ist ein Geländer. - Kkaebi!"
+  },
+  {
+    "id": "quo_061",
+    "text": "Was du heute kannst besorgen, das verschiebe nicht auf morgen — heute schlägt morgen.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Heute schlägt morgen — der Kalender lügt nie! Was du heute erledigst, versüßt dir zwei Tage. - Kkaebi!"
+  },
+  {
+    "id": "quo_062",
+    "text": "Der Ton macht die Musik — nicht nur was du sagst, sondern wie.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Gleiche Worte, verschiedene Musik — das Publikum hört den Ton! Stimme die Saiten, bevor du singst. - Kkaebi!"
+  },
+  {
+    "id": "quo_063",
+    "text": "Kleinvieh macht auch Mist — Kleines gehäuft wird groß.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Der Haufen wächst von unten! Kein Korn ist zu klein für die große Rechnung. - Kkaebi!"
+  },
+  {
+    "id": "quo_064",
+    "text": "Wer zuerst kommt, mahlt zuerst — der frühe Platz zahlt sich aus.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der frühe Platz ist die halbe Miete! Zögern zahlt Warteschlange. - Kkaebi!"
+  },
+  {
+    "id": "quo_065",
+    "text": "Eine Schwalbe macht noch keinen Sommer — ein Zeichen ist noch kein Trend.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Eine Schwalbe ist ein Kompliment, zwei ein Trend! Warte nicht auf den Sommer — pflanze schon mal, was Schwalben anzieht. - Kkaebi!"
+  },
+  {
+    "id": "quo_066",
+    "text": "Andere Länder, andere Sitten — passe dich an, wo du bist.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Der Fuchs passt sein Fell der Gegend an — und bekommt überall Suppe! Manieren sind ein Reisepass. - Kkaebi!"
+  },
+  {
+    "id": "quo_067",
+    "text": "Geteiltes Leid ist halbes Leid — geteilt, wird Kummer leichter.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Sprich es aus — geteilte Sorge wiegt Federn! Ich leihe dir mein Ohr, es ist groß genug. - Kkaebi!"
+  },
+  {
+    "id": "quo_068",
+    "text": "Geteilte Freude ist doppelte Freude — geteilt, wird Freude doppelt.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Freude im Beutel wird muffig — raus damit! Gute Nachrichten verderben nicht, sie vermehren sich. - Kkaebi!"
+  },
+  {
+    "id": "quo_069",
+    "text": "Wer den Pfennig nicht ehrt, ist den Taler nicht wert — Ehre das Kleine, um das Große zu halten.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Der Pfennig ist die Keimzelle des Talers! Wer das Kleine verschmäht, leiht sich beim Großen. - Kkaebi!"
+  },
+  {
+    "id": "quo_070",
+    "text": "Allzu viel ist ungesund — auch von Gutem krankt man bei Übermaß.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Sogar Honig in Fässern wird bitter! Das Beste kommt in Portionen — der Becher, nicht der Brunnen. - Kkaebi!"
+  },
+  {
+    "id": "quo_071",
+    "text": "Ende gut, alles gut — der Ausgang krönt die Sache.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Schlussakkord entscheidet! Zwischentöne dürfen schief sein — ende gut, und der ganze Tag ist gut. - Kkaebi!"
+  },
+  {
+    "id": "quo_072",
+    "text": "Durch Dick und Dünn gemeinsam gehen — Treue wird in Stürmen geprüft.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Echte Gefährten taugen etwas in Dünn und Dick! Die Sonne kennt jeder — Sturm prüft Freundschaften. - Kkaebi!"
+  },
+  {
+    "id": "quo_073",
+    "text": "Wie man in den Wald hineinruft, so schallt es heraus — der Echo setzt fort, was du beginnst.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der Wald wiederholt alles — auch Flüche und Komplimente! Ruf hinein, was du heraushören willst. - Kkaebi!"
+  },
+  {
+    "id": "quo_074",
+    "text": "Ein gesunder Geist wohnt in einem gesunden Körper — Körperpflege ist Geistepflege.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Der Körper ist das Gasthaus des Geistes — halte es sauber! Bewegung fegt auch im Kopf. - Kkaebi!"
+  },
+  {
+    "id": "quo_075",
+    "text": "Lügen haben kurze Beine — Lügen laufen sich fest.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Lügen laufen auf Kurzstrecke gut — dann fehlen die Beine! Wahrheit läuft Marathon. - Kkaebi!"
+  },
+  {
+    "id": "quo_076",
+    "text": "Der Krug geht so lange zum Brunnen, bis er bricht — Risiko häuft sich, bis es bricht.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Jeder Gang zum Brunnen ist ein Wurf mit dem Krug! Risiko stapelt sich — bis der Henkel platzt. - Kkaebi!"
+  },
+  {
+    "id": "quo_077",
+    "text": "Wer anderen eine Grube gräbt, fällt selbst hinein — Fallstricke fallen auf den Grübengräber zurück.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Gruben haben eine Eigenheit — der Erbauer fällt als Erster hinein! Bau Brücken, die fallen nicht auf dich zurück. - Kkaebi!"
+  },
+  {
+    "id": "quo_078",
+    "text": "Pech im Spiel, Glück in der Liebe — was verliert, gewinnt woanders.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Das Leben hält zwei Taschen bereit! Verliert sich die eine, füllt sich die andere — schau in beide. - Kkaebi!"
+  },
+  {
+    "id": "quo_079",
+    "text": "Jedem Tierchen sein Plaisierchen — jedem gefällt sein eigenes.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Jeder Schnabel sein Lieblingskorn! Lach nicht über fremde Freuden — deine sehen von außen auch komisch aus. - Kkaebi!"
+  },
+  {
+    "id": "quo_080",
+    "text": "Alter schützt vor Torheit nicht — grau ist keine Garantie.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Graue Haare sind kein Diplom! Dummheit wächst nicht mit — man muss sie selbst jäten, in jedem Alter. - Kkaebi!"
+  },
+  {
+    "id": "quo_081",
+    "text": "Wo ein Wille ist, ist auch ein Weg — Wille öffnet Wege.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Der Wille ist ein Spürhund! Er findet Wege, wo Karten nur Wände zeigen. - Kkaebi!"
+  },
+  {
+    "id": "quo_082",
+    "text": "Wer will, findet Wege; wer nicht will, findet Gründe — Wille baut Brücken, Unwille Ausreden.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Wege und Ausreden wachsen auf demselben Feld! Die Ernte hängt davon ab, was du säst. - Kkaebi!"
+  },
+  {
+    "id": "quo_083",
+    "text": "Gleich und gleich gesellt sich gern — Gleichgesinnte finden sich.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Gleiches findet Gleiches — auch unter Sternen! Wer Honig sucht, fragt nicht bei den Wespen an. - Kkaebi!"
+  },
+  {
+    "id": "quo_084",
+    "text": "Viele Köche verderben den Brei — zu viele Befehle verderben das Werk.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein Topf, ein Chef-Löffel! Zu viele Hände machen Brei und Pläne dünn. - Kkaebi!"
+  },
+  {
+    "id": "quo_085",
+    "text": "Der beste Weg, sich selbst zu finden, ist, sich in der Arbeit zu verlieren — Arbeit zeigt dich dir.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "In der Arbeit verliert man sich — und findet sich poliert wieder! Hände erzählen mehr als jeder Spiegel. - Kkaebi!"
+  },
+  {
+    "id": "quo_086",
+    "text": "Kleider machen Leute — der Schein verhandelt vor dir.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der erste Eindruck trägt dein Gewand — zieh es mit Bedacht! Doch der zweite trägt deinen Charakter. - Kkaebi!"
+  },
+  {
+    "id": "quo_087",
+    "text": "Man soll den Tag nicht vor dem Abend loben — der Abend kennt den Tag besser.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "Der Morgen verspricht, der Abend unterschreibt! Lob schmeckt am besten nach dem Essen. - Kkaebi!"
+  },
+  {
+    "id": "quo_088",
+    "text": "Wes Brot ich ess, des Lied ich sing — wo du dienst, singst du dessen Lied.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Brot und Lied gehören zusammen — prüfe, wessen Brot du isst! Manchmal ist ein eigenes Brötchen besser als ein fremdes Lied. - Kkaebi!"
+  },
+  {
+    "id": "quo_089",
+    "text": "Es ist nichts so fein gesponnen, es kommt doch an die Sonnen — alles Verborgene kommt ans Licht.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Alles Gesponnene kommt ans Licht — manche Fäden früher, manche später! Die Sonne ist ein geduldiger Detektiv. - Kkaebi!"
+  },
+  {
+    "id": "quo_090",
+    "text": "Der Mensch denkt, Gott lenkt — Pläne werden von höheren Händen geführt.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Plane groß — und dann geh einen Schritt! Die Richtung entsteht im Gehen, nicht im Grübeln. - Kkaebi!"
+  },
+  {
+    "id": "quo_091",
+    "text": "Wer zuletzt lacht, lacht am besten — der Schlußlacher hält die Wette.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Der Schlusslacher lacht mit Zinsen! Frühe Pointen verstauben — bewahr dir das Grinsen fürs Finale. - Kkaebi!"
+  },
+  {
+    "id": "quo_092",
+    "text": "In der Ruhe liegt die Kraft — Stille sammelt Stärke.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Stille ist ein Kraftraum! Wer ruhig sammelt statt zu rasen, trainiert die schönsten Muskeln: Geduld und Weitblick. - Kkaebi!"
+  },
+  {
+    "id": "quo_093",
+    "text": "Schnell gebunden, leicht gelöst — schnell geknüpft, leicht gelöst.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Flüchtige Knoten halten keine Stürme! Näh mit doppeltem Faden, was dauern soll. - Kkaebi!"
+  },
+  {
+    "id": "quo_094",
+    "text": "Eigenlob stinkt — Lob von sich selbst riecht.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Eigenlob stinkt, Fremdelob klingt! Streu Samen aus und lass die Blumen woanders blühen. - Kkaebi!"
+  },
+  {
+    "id": "quo_095",
+    "text": "Besser spät als nie — besser spät als gar nicht.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Spät kreuzt noch die Ziellinie — Nie kommt nie an! Starte jetzt, ich halte die Uhr geduldig. - Kkaebi!"
+  },
+  {
+    "id": "quo_096",
+    "text": "Man wächst mit seinen Aufgaben — Aufgaben wachsen lassen dich wachsen.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Aufgaben sind wie Treppen — jede Stufe macht dich größer! Nimm eine Nummer zu, der Stoff dehnt sich mit. - Kkaebi!"
+  },
+  {
+    "id": "quo_097",
+    "text": "Der Ton macht die Musik, das Beispiel die Lehre — Vorbild lehrt mehr als Predigt.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Worte sind Vorhang, Beispiele sind Bühne! Der Spaten lehrt mehr als der Zeigefinger. - Kkaebi!"
+  },
+  {
+    "id": "quo_098",
+    "text": "Was lange währt, wird endlich gut — lange Weile endet gut.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Gut Ding will Weile — und Weile will Geduld! Der beste Braten kommt vom kleinsten Feuer. - Kkaebi!"
+  },
+  {
+    "id": "quo_099",
+    "text": "Ein Freund, ein guter Freund — ein echter Freund ist ein seltener Schatz.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Echte Freunde sind selten wie vierblättriges Klee! Wer eines findet, ist reicher, als er aussieht. - Kkaebi!"
+  },
+  {
+    "id": "quo_100",
+    "text": "Hoffnung ist das Brot der Armen — Hoffnung nährt die, die sonst nichts haben.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Deutsches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoffnung nährt, wo Korn fehlt! Doch sie schmeckt besser mit Butter — pflanze, während du hoffst. - Kkaebi!"
+  },
+  {
+    "id": "quo_101",
+    "text": "Eine Reise von tausend Meilen beginnt mit einem Schritt.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der heutige Schritt ist der Anfang! - Kkaebi!"
+  },
+  {
+    "id": "quo_102",
+    "text": "Lernen ohne Denken ist müßig; Denken ohne Lernen ist gefährlich.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Lerne und denke — nur eins davon ist ein halber Mensch! - Kkaebi!"
+  },
+  {
+    "id": "quo_103",
+    "text": "Achte aufs Ende wie auf den Anfang, dann scheitert nichts.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Wer bis zum Ende vorsichtig bleibt, kennt keine Niederlage! - Kkaebi!"
+  },
+  {
+    "id": "quo_104",
+    "text": "Wer kennt, ist nicht so gut wie wer liebt; wer liebt nicht so gut wie wer Freude hat.",
+    "category": "classic",
+    "tone_tags": [
+      "joy"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Freu dich am Gelernten. Woran hast du heute Freude gehabt? - Kkaebi!"
+  },
+  {
+    "id": "quo_105",
+    "text": "Große Weisheit ist weit gelassen.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "장자",
+    "source": "장자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Große Weisheit sitzt still. Respektiere Tiefe, die nicht ruft! - Kkaebi!"
+  },
+  {
+    "id": "quo_106",
+    "text": "Das Glück bevorzugt den vorbereiteten Geist.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "세네카",
+    "source": "운문에 대하여",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Schärfe die Axt — Glück klopft an vorbereitete Türen! - Kkaebi!"
+  },
+  {
+    "id": "quo_107",
+    "text": "Nicht die Dinge beunruhigen dich, sondern deine Urteile über sie.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "마르쿠스 아우렐리우스",
+    "source": "명상록",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Kannst du die Welt nicht ändern, ändere zuerst das Urteil! - Kkaebi!"
+  },
+  {
+    "id": "quo_108",
+    "text": "Nicht die Dinge beunruhigen die Menschen, sondern ihre Ansichten darüber.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에픽테토스",
+    "source": "강론",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die Augen verletzen, nicht die Fakten. Wasche sie! - Kkaebi!"
+  },
+  {
+    "id": "quo_109",
+    "text": "Erkenne dich selbst.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "전통 격언",
+    "source": "델포이 신전",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Sich selbst zu kennen ist der erste Schritt jeder Reise! - Kkaebi!"
+  },
+  {
+    "id": "quo_110",
+    "text": "Der Anfang ist der wichtigste Teil des Werkes.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플라톤",
+    "source": "국가",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Anfänge sind am schwersten — deshalb sind sie am größten! - Kkaebi!"
+  },
+  {
+    "id": "quo_111",
+    "text": "Tugend entsteht durch Handeln. Wir werden gerecht, indem wir gerechte Taten vollbringen.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "Aristoteles",
+    "source": "Nikomachische Ethik",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Aristoteles sagt: Handeln vor Denken! - Kkaebi!"
+  },
+  {
+    "id": "quo_112",
+    "text": "Geduld ist bitter, doch ihre Frucht ist süß.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "아리스토텔레스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Die Frucht der Geduld ist süß, auch wenn das Kauen bitter ist! - Kkaebi!"
+  },
+  {
+    "id": "quo_113",
+    "text": "Der Tod ist nichts für uns.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에피쿠로스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Der Tod geht dich heute nichts an. Denke nur an heute! - Kkaebi!"
+  },
+  {
+    "id": "quo_114",
+    "text": "Das Glück hilft den Kühnen.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "베르길리우스",
+    "source": "아이네이스 제10권",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Sei kühn! Kobold bleiben nicht bei Feigen sitzen! - Kkaebi!"
+  },
+  {
+    "id": "quo_115",
+    "text": "Sei langsam, aber höre nie auf.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "이솝",
+    "source": "우화",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Langsam ist okay. Hör nur nicht auf — das ist alles! - Kkaebi!"
+  },
+  {
+    "id": "quo_116",
+    "text": "Wissen ist Macht.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "베이컨",
+    "source": "명상록",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Wissen wird Knochenkraft, wenn es einsickert. Lies heute! - Kkaebi!"
+  },
+  {
+    "id": "quo_117",
+    "text": "Sei dir selbst treu.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Dem eigenen Selbst treu — und nichts in der Welt ist Lüge! - Kkaebi!"
+  },
+  {
+    "id": "quo_118",
+    "text": "Zweifel sind Verräter.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Der Zweifel verrät dich. Versuche es wenigstens einmal! - Kkaebi!"
+  },
+  {
+    "id": "quo_119",
+    "text": "Der Mensch ist ein denkendes Schilfrohr.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "파스칼",
+    "source": "팡세",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ein Schilf — und doch groß, weil es denkt. Schäme des Denkens nicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_120",
+    "text": "Ich denke, also bin ich.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "데카르트",
+    "source": "방법서설",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ich denke, also baue zuerst die innere Welt! - Kkaebi!"
+  },
+  {
+    "id": "quo_121",
+    "text": "Zwei Dinge erfüllen mich: der bestirnte Himmel und das moralische Gesetz.",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "칸트",
+    "source": "비판철학",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Sieh Sterne und Moral. Diese zwei genügen! - Kkaebi!"
+  },
+  {
+    "id": "quo_122",
+    "text": "Wissen allein genügt nicht; man muss es anwenden.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "괴테",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Zufrieden mit Wissen? Erst Anwenden ist echtes Wissen! - Kkaebi!"
+  },
+  {
+    "id": "quo_123",
+    "text": "Das Perfekte ist der Feind des Guten.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "볼테르",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Lass den Perfektionismus los. Gut ist gut genug! - Kkaebi!"
+  },
+  {
+    "id": "quo_124",
+    "text": "Der Mensch ist frei geboren, und überall ist er in Ketten.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "루소",
+    "source": "사회계약론",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Zähl deine Ketten — manche hast du selbst geschlossen! - Kkaebi!"
+  },
+  {
+    "id": "quo_125",
+    "text": "Alle wollen die Welt ändern, keiner sich selbst.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "톨스토이",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Willst du die Welt ändern, sieh zuerst in den Spiegel! - Kkaebi!"
+  },
+  {
+    "id": "quo_126",
+    "text": "Wer ein Warum zu leben hat, erträgt fast jedes Wie.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "니체",
+    "source": "황혼의 우상",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wer ein Warum hat, erträgt jedes Wie. Finde dein Warum! - Kkaebi!"
+  },
+  {
+    "id": "quo_127",
+    "text": "Was uns nicht umbringt, macht uns stärker.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "니체",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Was nicht tötet, hinterlässt Stahlnarbengeäst! - Kkaebi!"
+  },
+  {
+    "id": "quo_128",
+    "text": "Schiebe nicht auf morgen, was du heute kannst.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tue Heutiges heute. Das morgige Ich wird lächeln! - Kkaebi!"
+  },
+  {
+    "id": "quo_129",
+    "text": "Wer ist stark? Wer sich selbst besiegt.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der stärkste Feind sitzt innen. Besiege ihn! - Kkaebi!"
+  },
+  {
+    "id": "quo_130",
+    "text": "Lernen ist nie zu spät.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "솔론",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Alt lernend bleibt man jung. Beginne jetzt! - Kkaebi!"
+  },
+  {
+    "id": "quo_131",
+    "text": "Verlorene Zeit kehrt nie zurück.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "프랭클린",
+    "source": "격언",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Zeit kehrt nie zurück. Kenne den Wert eines Tages! - Kkaebi!"
+  },
+  {
+    "id": "quo_132",
+    "text": "Eine Unze Vorbeugung ist ein Pfund Heilung wert.",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "프랭클린",
+    "source": "빈약한 리처드의 연감",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Eine Unze Vorbeugung ersetzt zehn Reparaturen! - Kkaebi!"
+  },
+  {
+    "id": "quo_133",
+    "text": "Vertraue dir selbst: Jedes Herz vibriert auf jener ehernen Saite.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "Ralph Waldo Emerson",
+    "source": "Selbstvertrauen (1841)",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Vertrauen leihst du dir nicht von anderen! Die Saite in dir klingt zuerst — zupf sie jetzt! - Kkaebi!"
+  },
+  {
+    "id": "quo_134",
+    "text": "Wenn ich weiter gesehen habe als andere, so deshalb, weil ich auf den Schultern von Riesen stehe.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "Isaac Newton",
+    "source": "Brief an Robert Hooke (1675)",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Selbst Newton stand auf Riesen! Gemeinsam weiter sehen! - Kkaebi!"
+  },
+  {
+    "id": "quo_135",
+    "text": "Jede Eiche war einst eine Eichel.",
+    "category": "classic",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "에머슨",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Die Eiche war einst eine Eichel. Verachte den heutigen Samen nicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_136",
+    "text": "Der einzige Weg, einen Freund zu haben, ist einer zu sein.",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "에머슨",
+    "source": "우정에 대하여",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Willst du einen Freund? Werde zuerst einer. Das ist der einzige Weg! - Kkaebi!"
+  },
+  {
+    "id": "quo_137",
+    "text": "Einfachheit ist der höchste Grad der Raffinesse.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "미상",
+    "source": "출전 불명 (다 빈치 귀속설)",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Pack es nicht komplex ein. Einfachheit ist höchste Raffinesse! - Kkaebi!"
+  },
+  {
+    "id": "quo_138",
+    "text": "Lernen ermüdet den Geist nie.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "다 빈치",
+    "source": "노트",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein lernender Geist altert nie! - Kkaebi!"
+  },
+  {
+    "id": "quo_139",
+    "text": "Der Geist ist kein Gefäß zum Füllen, sondern Holz zum Entfachen.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플루타르코스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Das Herz ist Holz zum Entzünden, kein Gefäß zum Füllen. Wirf Holz nach! - Kkaebi!"
+  },
+  {
+    "id": "quo_140",
+    "text": "Wer sterben will, lebt; wer leben will, stirbt.",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "이순신",
+    "source": "난중일기",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die Entschlossenheit zu sterben öffnet den Weg zu leben. Entscheide! - Kkaebi!"
+  },
+  {
+    "id": "quo_141",
+    "text": "O Jugend, gibt es einen Ort, dich zurückzuschicken?",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "허난설헌",
+    "source": "허난설헌 시화",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Jugend lässt sich nicht zurückschicken. Verbrenne heute ohne Reue! - Kkaebi!"
+  },
+  {
+    "id": "quo_142",
+    "text": "Das Leben ist wie eine lange Reise mit schwerer Last.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "도쿠가와 이에야스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Schwere Lasten machen weite Wege. So war das Leben immer! - Kkaebi!"
+  },
+  {
+    "id": "quo_143",
+    "text": "Heute besiege das gestrige Ich, morgen das heutige.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "무사시",
+    "source": "오륜서",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Besiege das gestrige Ich. Der heutige Feind ist nicht draußen! - Kkaebi!"
+  },
+  {
+    "id": "quo_144",
+    "text": "Sommergras — die Träume der Krieger vergehen.",
+    "category": "classic",
+    "tone_tags": [
+      "sad"
+    ],
+    "author": "바쇼",
+    "source": "오쿠노호소미치",
+    "theme": "zen",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Unter Sommergras schlafen unzählige Träume. Die Welt ist breit und tief! - Kkaebi!"
+  },
+  {
+    "id": "quo_145",
+    "text": "Unter dreien, die gehen, ist einer mein Lehrer.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Unter dreien wandert einer als Lehrer. Lerne heute eine Sache! - Kkaebi!"
+  },
+  {
+    "id": "quo_146",
+    "text": "Das höchste Gut ist wie das Wasser.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Das höchste Gut fließt tief wie Wasser! - Kkaebi!"
+  },
+  {
+    "id": "quo_147",
+    "text": "Wer Genügsamkeit kennt, ist reich.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wer Genügsamkeit kennt, ist am reichsten. Zähle, was du heute hast! - Kkaebi!"
+  },
+  {
+    "id": "quo_148",
+    "text": "Erkenne Feind und dich selbst — hundert Schlachten ohne Gefahr.",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "손자",
+    "source": "손자병법",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Kenne Feind und dich — hundert Schlachten ohne Niederlage. Bereite dich! - Kkaebi!"
+  },
+  {
+    "id": "quo_149",
+    "text": "Gelingt es nicht, so suche in dir selbst.",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "맹자",
+    "source": "맹자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wenn es nicht klappt, sieh in den Spiegel. Die Antwort ist innen! - Kkaebi!"
+  },
+  {
+    "id": "quo_150",
+    "text": "Wissen und Handeln sind eins.",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "왕양명",
+    "source": "전습록",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wissen und Tun sind eins. Mach sie heute eins! - Kkaebi!"
+  },
+  {
+    "id": "quo_151",
+    "text": "Auch auf bekanntem Weg nach dem Weg fragen — wer Vertrautes doppelt prüft, macht weniger Fehler.",
+    "category": "proverb",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Zu wissen scheinen ist die echte Falle! Selbst ein tausendjähriger Kobold fragt nach dem Weg. - Kkaebi!"
+  },
+  {
+    "id": "quo_152",
+    "text": "Klares Wasser oben macht klares Wasser unten — mit gutem Beispiel vorangehen ist der wahre Unterricht.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Klarheit fließt von oben! Werde zuerst klar — der Rest folgt der Strömung. - Kkaebi!"
+  },
+  {
+    "id": "quo_153",
+    "text": "Wenn Wale kämpfen, bricht der Rücken der Garnele — die Kleinen leiden unter den Kriegen der Großen.",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Die Wale rammen sich, und dein Panzer bekam den Riss ... geh diesmal beiseite und ruh dich aus. Genesung zuerst! - Kkaebi!"
+  },
+  {
+    "id": "quo_154",
+    "text": "Der Frosch im Brunnen — wer nur die enge Welt kennt, verlacht die Weite des Meeres.",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Kletter raus und schau das Meer an! Die Welt ist weit größer als dein Brunnen. - Kkaebi!"
+  },
+  {
+    "id": "quo_155",
+    "text": "Der Hofhund der Schule rezitiert nach drei Jahren Gedichte — wer lange an gutem Ort ist, saugt Wissen von selbst auf.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wenn ein Hund in drei Jahren Verse lernt, was schaffst du in drei guten Wochen! Setz dich zu den Meistern! - Kkaebi!"
+  },
+  {
+    "id": "quo_156",
+    "text": "Lob lässt selbst Wale tanzen — ein ehrliches Kompliment bewegt das Unmögliche.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Schenk heute einem ein ehrliches Kompliment! Wenn Wale tanzen, bebt das ganze Meer! - Kkaebi!"
+  },
+  {
+    "id": "quo_157",
+    "text": "Vom ersten Becher wird niemand satt — schwärme nicht vom ersten Erfolg; gute Ergebnisse brauchen den ganzen Prozess.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Werde nicht beim ersten Becher betrunken! Der beste Met reift langsam, Becher für Becher. - Kkaebi!"
+  },
+  {
+    "id": "quo_158",
+    "text": "Was man mit drei pickt, trägt man mit achtzig — junge Gewohnheiten begleiten ein Leben lang.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Gewohnheiten werden zu Schatten! Was du heute pflanzt, schattiert dich bis zum achtzigsten Jahr! - Kkaebi!"
+  },
+  {
+    "id": "quo_159",
+    "text": "Wer speit schon in ein lachendes Gesicht? — ein freundlicher Ausdruck schmilzt die meiste Bosheit.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Zieh heute dein Lächeln an! Selbst der Speit wird schüchtern vor einem grinsenden Gesicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_160",
+    "text": "Wer sich vor der Schildkröte erschrocken hat, erschrickt beim Deckel — ein heftig erschrockenes Herz springt bei Kleinigkeiten.",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Dem erschrockenen Herzen gleicht jeder Deckel einer Schildkröte! Aber ein Deckel ist keine Schildkröte — atme, und schau nochmal! - Kkaebi!"
+  },
+  {
+    "id": "quo_161",
+    "text": "Der Tageswelpe fürchtet den Tiger nicht — verwegenen Mutes ist riskant, doch oft das Startkapital jedes Anfangs.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wegen des Tigers den Berg meiden? Niemals! Mut wird durch Gebrauch poliert! - Kkaebi!"
+  },
+  {
+    "id": "quo_162",
+    "text": "Staub gehäuft wird zum Berg — Kleines, geschichtet, wird zu gewaltigen Gipfeln.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Verachte nie das heutige Stäubchen! Der Berg ist nichts als Staub, der sich weigerte zu verwehen! - Kkaebi!"
+  },
+  {
+    "id": "quo_163",
+    "text": "Nieselregen tränkt den Mantel — Kleinigkeiten sickern ein und hinterlassen die größten Spuren.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hüte dich vor dem Nieselregen! Spürt der Mantel die Nässe, ist er längst getränkt — zähl die kleinen Dinge! - Kkaebi!"
+  },
+  {
+    "id": "quo_164",
+    "text": "Selbst der Regenwurm windet sich unter dem Fuß — das schwächste Wesen wehrt sich an seiner Grenze.",
+    "category": "proverb",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Selbst Würmer winden sich! Verachte nie die Sanften — das ist Höflichkeit und Strategie zugleich! - Kkaebi!"
+  },
+  {
+    "id": "quo_165",
+    "text": "Einen Stern vom Himmel pflücken — schwer zu erreichen, doch schwer ist nicht unmöglich.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Willst du einen Stern? Baue erst die Leiter! 'Schwer' und 'unmöglich' sind zwei verschiedene Sterne! - Kkaebi!"
+  },
+  {
+    "id": "quo_166",
+    "text": "Der Reiskuchen im Gemälde — Anstarren füllt niemals den Bauch.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Gemalte Kuchen füllen keinen Magen! Wenn du einen willst, geh in die Küche! - Kkaebi!"
+  },
+  {
+    "id": "quo_167",
+    "text": "Gibst du ein Scheffel, kriegst du eine Tonne — ausgeteilte Herzigkeit kommt oft vielfach zurück.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ein Scheffel hinaus, eine Tonne zurück — das zu beobachten ist süß! Herzigkeit verzinst besser als Gold! - Kkaebi!"
+  },
+  {
+    "id": "quo_168",
+    "text": "Trink nicht die Brühe, bevor der Kuchen kommt — erwarte nichts Hals über Kopf, bevor die Sache steht.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Kuchen ist noch im Ofen, und du schlürfst Brühe? Erwartung ist kühles Wasser — trink langsam! - Kkaebi!"
+  },
+  {
+    "id": "quo_169",
+    "text": "Kommst du quer über Nebenwege in die Hauptstadt, zählt es dennoch — egal wie der Weg, das Ankommen zählt.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Beklage nicht den krummen Weg! Wichtig ist das Ankommen! - Kkaebi!"
+  },
+  {
+    "id": "quo_170",
+    "text": "Zehn Faden Wassergrund magst du ergründen, doch keine Spanne Menschenherz — das Herz ist das tiefste Gewässer.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Wasser gibt dem Messseil nach — Herzen haben keins! Zerbrich dir nicht den Kopf, frag freundlich! - Kkaebi!"
+  },
+  {
+    "id": "quo_171",
+    "text": "Wahre Aufrichtigkeit bewegt den Himmel — echtes Bemühen öffnet selbst die Himmelstore.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Aufrichtigkeit schmilzt selbst Kobolde! Bevor der Himmel sich regt, regen sich deine Füße! - Kkaebi!"
+  },
+  {
+    "id": "quo_172",
+    "text": "Der Frosch vergisst seine Kaulquappenzeit — steigen die Umstände, vergisst man zuerst Wurzeln und Wohltaten.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Der Frosch, der sich an seine Quappenzeit erinnert, wird am größten! Vergiss den Teich nicht, der dich großzog! - Kkaebi!"
+  },
+  {
+    "id": "quo_173",
+    "text": "Sutras der Kuh vorlesen — Worte erreichen niemanden, der kein Ohr dafür hat.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Sutra braucht einen Hörer, keinen lauteren Sänger! Hör auf, Kühe zu belehren — such dir lauschende Ohren! - Kkaebi!"
+  },
+  {
+    "id": "quo_174",
+    "text": "Am Brunnen nach geröstetem Reistee suchen — Ernte bekommt nur, wer die Reihenfolge ehrt.",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Der Reistee kommt nach dem Reis! Wer die Reihenfolge überspringt, rutscht nur aus! - Kkaebi!"
+  },
+  {
+    "id": "quo_175",
+    "text": "Je größer die Eile, desto weiter der Weg herum — unter Zeitdruck wähle die sichere Route.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "In Eile? Keine Abkürzungen! Willst du die Koboldbrücke, nimm erst die Steinbrücke! - Kkaebi!"
+  },
+  {
+    "id": "quo_176",
+    "text": "Auch Strohsandalen haben ein Paar — für jeden gibt es irgendwo den passenden Partner.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Selbst Strohsandalen haben ihr Paar! Deins fehlt nicht — es ist nur noch nicht gefunden! - Kkaebi!"
+  },
+  {
+    "id": "quo_177",
+    "text": "Zu viele Schiffer, und das Schiff steigt den Berg hinauf — zu viele Befehlsstimmen zerschellen die Arbeit.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Eine Hand am Ruder! Bei zwei Schiffern oder mehr vergisst das Schiff das Meer! - Kkaebi!"
+  },
+  {
+    "id": "quo_178",
+    "text": "Keine Blume bleibt zehn Tage rot — die Blüte vergeht, und gerade das Vergehen macht sie kostbar.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Trauere nicht um die kurze Blüte! Kurz macht die Blüte zur Blüte — ewige wäre Wandtapete! - Kkaebi!"
+  },
+  {
+    "id": "quo_179",
+    "text": "Selbst der Mond nimmt ab, wenn er voll ist — Fülle kippt ins Schwinden, jage nicht der Perfektion nach.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Beklage nicht den untergehenden Vollmond! Der Mond ruht sich aus — er braut den nächsten Vollmond! - Kkaebi!"
+  },
+  {
+    "id": "quo_180",
+    "text": "Auch kaltes Wasser hat oben und unten — selbst im Kleinsten gibt es eine Ordnung zu ehren.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Selbst kaltes Wasser hat Schichten! Auch beim Schöpfen gilt die Reihenfolge — Höflichkeit kennt keine Größe! - Kkaebi!"
+  },
+  {
+    "id": "quo_181",
+    "text": "Den unteren Stein herausziehen, um den oberen zu stützen — flickt die eine Seite, stürzt die andere ein.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der untere Stein trägt die Last! Ziehst du ihn, fällt oben alles mit — stapel neu, in richtiger Ordnung! - Kkaebi!"
+  },
+  {
+    "id": "quo_182",
+    "text": "Im Tal ohne Tiger wird der Hase zum Meister — fehlen die wahren Könner, lehrt schon eine mittelmäßige Hand.",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Kein Tiger im Tal? Dann regiert der Hase! Kein Meister in der Nähe? Lehr weiter, was du gelernt hast! - Kkaebi!"
+  },
+  {
+    "id": "quo_183",
+    "text": "Der Fisch beißt dem Fisch in den Schwanz — wenn die eigenen sich zerfleischen, bluten beide Seiten.",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Beiß nicht im selben Netz! Wenn Fische Fische beißen, leidet das ganze Netz! - Kkaebi!"
+  },
+  {
+    "id": "quo_184",
+    "text": "Ohne Feuer kein Rauch — nichts geschieht auf der Welt ohne Ursache.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Rauch gesehen? Such die Glut! Ignorierst du die Ursache, flackert das Feuer wieder auf! - Kkaebi!"
+  },
+  {
+    "id": "quo_185",
+    "text": "Die eigene Nase ist drei Fuß lang, und trotzdem putzt man einem anderen die Nase — mitten in der eigenen Not wird zuerst geholfen.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Manche tragen drei Fuß Not und putzen dennoch fremde Nasen! Neben solchen Herzen nistet das Glück! - Kkaebi!"
+  },
+  {
+    "id": "quo_186",
+    "text": "Das Feuer vom anderen Ufer aus beobachten — was uns nicht trifft, wirkt stets wie die Geschichte eines anderen.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Das Feuer jenseits des Flusses ist nicht das eines Fremden! Dreht der Wind, überquert das Feuer den Fluss! - Kkaebi!"
+  },
+  {
+    "id": "quo_187",
+    "text": "Der Eiterbeutel platzt — was man hinunterschluckt und aufstaut, bricht sich eines Tages Bahn.",
+    "category": "proverb",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Eine verdeckte Wunde eitert! Lass sie ab, bevor sie platzt — das tut weniger weh! - Kkaebi!"
+  },
+  {
+    "id": "quo_188",
+    "text": "Hass-Liebe-Fäden — aus Ärger webt sich Zuneigung, und Zuneigung lässt sich schwer kappen.",
+    "category": "proverb",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hass-Fäden gebären Liebes-Fäden! Selbst ein tausendjähriger Kobold verlor gegen menschliche Zuneigung — deshalb bin ich hier! - Kkaebi!"
+  },
+  {
+    "id": "quo_189",
+    "text": "Die Augen bedecken und den Uhu rufen — ein plumper Trick täuscht niemanden, am wenigsten dich selbst.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Deckst du deine Augen — sehen andere trotzdem! Der Mut zum Geständnis schlägt die Mühe des Versteckens! - Kkaebi!"
+  },
+  {
+    "id": "quo_190",
+    "text": "Dem Dieb juckt der eigene Fuß — verborgenes Unrecht verrät sich selbst.",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ein juckender Fuß humpelt stets! Versteckte Schuld tropft von den Zehen! - Kkaebi!"
+  },
+  {
+    "id": "quo_191",
+    "text": "Die unerreichbare Persimone trotzdem anpoken — auch fernes Obst verdient einen Versuch.",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Die Frucht hängt hoch — poke trotzdem einmal! Fallen tun nur die gepokten! - Kkaebi!"
+  },
+  {
+    "id": "quo_192",
+    "text": "Selbst ein halbes Böhnchen wird geteilt — das Herz steckt im Teilen selbst, nicht in der Menge.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Wer ein halbes Böhnchen teilt, ist der echte Freund! Geteilt wird aus dem Böhnchen eine Mahlzeit! - Kkaebi!"
+  },
+  {
+    "id": "quo_193",
+    "text": "Den Baum, den du nicht erklimmst, nicht mal anstarren — auch das Loslassen des Unerreichbaren ist Weisheit.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Such dir den Baum, den du erklimmen KANNST! Ein Wald hält nie nur einen Baum! - Kkaebi!"
+  },
+  {
+    "id": "quo_194",
+    "text": "Bittere Arznei heilt — je mehr der Rat im Ohr schmerzt, desto tiefer heilt er.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Die Worte, die im Ohr schmerzen, sind Medizin! Nährst du dich nur von süßen Worten, wächst die Krankheit im Verborgenen! - Kkaebi!"
+  },
+  {
+    "id": "quo_195",
+    "text": "Unter dem Persimmonbaum liegen und auf den Fall warten — auch das Glück mag die, die den richtigen Platz wählen.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Persimonen regnen, wo Persimmonbäume stehen! Wer auf Glück wartet, liege zumindest unter dem Baum! - Kkaebi!"
+  },
+  {
+    "id": "quo_196",
+    "text": "In zehn Jahren wandeln sich Flüsse und Berge — die Welt steht nie still, auch der heutige Stau nicht.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Zehn Jahre zeichnen Flüsse und Berge neu! Die heutige Sackgasse mag in zehn Jahren als Fluss fließen! - Kkaebi!"
+  },
+  {
+    "id": "quo_197",
+    "text": "Beiß in alle zehn Finger — keiner bleibt ohne Schmerz: jeder einzelne zählt.",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Man schneidet keinen Finger ab, weil er schmerzt! Dein Schmerz ist nicht weniger wert als der anderer! - Kkaebi!"
+  },
+  {
+    "id": "quo_198",
+    "text": "Worte werden zu Saat — jedes verstreute Wort kehrt zurück und ruft seine Ernte herbei.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Streu gute Worte! Sie kehren als Saat zurück! Selbst Kobolde spitzen die Ohren bei guten Klängen! - Kkaebi!"
+  },
+  {
+    "id": "quo_199",
+    "text": "Nur hinausgehende Herzigkeit bringt heimkehrende — wer zuerst gibt, empfängt zuerst.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Zuneigung ist ein Rückfahrticket! Send sie zuerst, und die Antwort kommt ungefragt! Sag heute zuerst Hallo! - Kkaebi!"
+  },
+  {
+    "id": "quo_200",
+    "text": "Nach dem Regen wird der Boden fest — jeder vorübergezogene Sturm stampft dich fester.",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Überlieferte Weisheit",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wo der Sturm vorbeizog, ist der Boden am festesten! Deine nassen Tage haben dich nicht zermalmt — sie haben dich verdichtet! - Kkaebi!"
+  },
+  {
+    "id": "quo_201",
+    "text": "Wenn du morgens aufwachst, bedenke, welches kostbare Privileg es ist zu leben — zu atmen, zu denken, zu genießen, zu lieben.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Mark Aurel",
+    "source": "Selbstbetrachtungen, Buch V",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein einziger Atemzug ist schon ein Gewinnlos! Nutz das Privileg dieses Morgens! - Kkaebi!"
+  },
+  {
+    "id": "quo_202",
+    "text": "Dankbarkeit ist nicht nur die größte Tugend, sondern die Mutter aller anderen.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Cicero",
+    "source": "Pro Plancio (54 v. Chr.)",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Aus dem Wort Danke sprießt jede Tugend! Rufe es heute dreimal! - Kkaebi!"
+  },
+  {
+    "id": "quo_203",
+    "text": "Wenn ich weiter gesehen habe, dann, weil ich auf den Schultern von Riesen stand.",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Isaac Newton",
+    "source": "Brief an Robert Hooke, 1675",
+    "theme": "gratitude",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hör auf, so zu tun, als hättest du alles allein gesehen! Dank auch den Riesen unter deinen Füßen! - Kkaebi!"
+  },
+  {
+    "id": "quo_204",
+    "text": "Keine Freundlichkeit, so klein sie auch sei, ist jemals verschwendet.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Äsop",
+    "source": "Äsops Fabeln — Der Löwe und die Maus",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Erinnerst du dich an die Maus, die dem Löwen den Dorn aus der Pfote zog? Freundlichkeit bringt Zinsen! - Kkaebi!"
+  },
+  {
+    "id": "quo_205",
+    "text": "Denk an all die Schönheit, die noch um dich her ist, und sei glücklich.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Anne Frank",
+    "source": "Das Tagebuch der Anne Frank, 1942–1944",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Selbst aus dem versteckten Dachzimmer sah man Sterne! Die Schönheit läuft nicht weg — deine Augen sind das Problem! - Kkaebi!"
+  },
+  {
+    "id": "quo_206",
+    "text": "Aufmerksamkeit ist die seltenste und reinste Form der Großzügigkeit.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Simone Weil",
+    "source": "Brief an Joë Bousquet, 1942",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Das echte Geschenk ist der Blick, nicht die Schachtel! Sieh den Menschen neben dir richtig an! - Kkaebi!"
+  },
+  {
+    "id": "quo_207",
+    "text": "Der größte Erfolg einer Lehrerin ist es, sagen zu können: 'Die Kinder arbeiten jetzt, als gäbe es mich nicht.'",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Maria Montessori",
+    "source": "Das absorbierende Gemüt, 1949",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Die beste Hand ist die, die man nicht sieht! Tritt grinsend zurück! - Kkaebi!"
+  },
+  {
+    "id": "quo_208",
+    "text": "Nicht was wir besitzen, sondern was wir genießen, macht unseren Reichtum aus.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Epikur",
+    "source": "Vatikanische Sprüche",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ein übervolles Lager hilft nichts, wenn du nicht lächelst! Coste heute ein Stück richtig! - Kkaebi!"
+  },
+  {
+    "id": "quo_209",
+    "text": "Erziehung ist keine Vorbereitung aufs Leben; Erziehung ist das Leben selbst.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "John Dewey",
+    "source": "Mein pädagogisches Glaubensbekenntnis, 1897",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ein Lerntag ist ein Lebenstag! Sogar dieser Kobold lernt seit tausend Jahren! - Kkaebi!"
+  },
+  {
+    "id": "quo_210",
+    "text": "Die Kinder Adams sind Glieder eines Leibes; schmerzt eines, schmerzen alle mit.",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Saadi",
+    "source": "Der Rosengarten (Golestan), 1258",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Schmerzt einer, schmerzen alle! Tritt dem Nachbarn nicht auf die Füße! - Kkaebi!"
+  },
+  {
+    "id": "quo_211",
+    "text": "Lass dir alles geschehen: Schönheit und Schrecken. Gehe nur weiter. Kein Gefühl ist das letzte.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Rainer Maria Rilke",
+    "source": "Das Stunden-Buch, 1899–1903",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tränen enden, Nächte enden! Der Morgen gewinnt immer — geh weiter! - Kkaebi!"
+  },
+  {
+    "id": "quo_212",
+    "text": "Vielleicht sind alle Drachen unseres Lebens Prinzessinnen, die nur darauf warten, dass wir ein einziges Mal schön und mutig handeln.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Rainer Maria Rilke",
+    "source": "Briefe an einen jungen Dichter, 1929",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Zu früh, um vor einem Drachen zu erstarren! Ein einziger Mut verwandelt den Schwanz in Flügel! - Kkaebi!"
+  },
+  {
+    "id": "quo_213",
+    "text": "Ein wildes Wesen habe ich nie um sich selbst klagen sehen. Ein kleiner Vogel fällt erfroren vom Ast, ohne je sich selbst bemitleidet zu haben.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "D. H. Lawrence",
+    "source": "Gedicht 'Self-Pity', 1929",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Selbstmitleid stillt keinen Hunger! Weint ein Vogel oder fliegt er? Er fliegt! - Kkaebi!"
+  },
+  {
+    "id": "quo_214",
+    "text": "Ich bin verbogen und zerbrochen worden, aber — so hoffe ich — in eine bessere Gestalt.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Charles Dickens",
+    "source": "Große Erwartungen, 1861",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Die Bruchstelle ist stärker als die Fuge! Rissiges Porzellan glänzt weiterhin! - Kkaebi!"
+  },
+  {
+    "id": "quo_215",
+    "text": "Es gibt keinen Charme, der der Zartheit des Herzens gleichkäme.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Jane Austen",
+    "source": "Emma, 1815",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Zartheit schneidet tiefer als jede Klinge! Sei heute mit deinen Worten sanft! - Kkaebi!"
+  },
+  {
+    "id": "quo_216",
+    "text": "Zu lieben oder geliebt zu haben — das genügt. Verlange nichts weiter.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Victor Hugo",
+    "source": "Die Elenden (Les Misérables), 1862",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Spuren der Liebe wischt kein Radiergummi weg! Das ist bereits ein Vermögen! - Kkaebi!"
+  },
+  {
+    "id": "quo_217",
+    "text": "Nur mit dem Herzen sieht man gut; das Wesentliche ist für die Augen unsichtbar.",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Antoine de Saint-Exupéry",
+    "source": "Der kleine Prinz, 1943",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Die Augen sehen nur die Schale! Zünde ein Feuer in der Brust, um ins Innere zu sehen! - Kkaebi!"
+  },
+  {
+    "id": "quo_218",
+    "text": "Liebe besteht nicht darin, sich anzublicken, sondern gemeinsam in dieselbe Richtung zu blicken.",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "Antoine de Saint-Exupéry",
+    "source": "Wind, Sand und Sterne, 1939",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Füße in dieselbe Richtung schlagen Blicke! Geht nebeneinander! - Kkaebi!"
+  },
+  {
+    "id": "quo_219",
+    "text": "Wer ein Wozu zum Leben hat, erträgt fast jedes Wie.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Friedrich Nietzsche",
+    "source": "Götzen-Dämmerung, 1889",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Verlierst du deinen Grund, geben die Beine nach! Halte dein Wozu fest! - Kkaebi!"
+  },
+  {
+    "id": "quo_220",
+    "text": "Das Herz hat seine Gründe, von denen der Verstand nichts weiß.",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Blaise Pascal",
+    "source": "Pensées, 1670",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ein Herz, das der Verstand nicht sortieren kann, ist auch in Ordnung! Geh dorthin, wohin die Brust zeigt! - Kkaebi!"
+  },
+  {
+    "id": "quo_221",
+    "text": "Für ein glückliches Leben braucht es sehr wenig; es liegt ganz in dir, in deiner Art zu denken.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Mark Aurel",
+    "source": "Selbstbetrachtungen, Buch VII",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Glück ist kein Einkaufskorb, sondern ein Blickwinkel! Sieh die Welt jetzt ein wenig anders! - Kkaebi!"
+  },
+  {
+    "id": "quo_222",
+    "text": "Nicht dass wir wenig Zeit zu leben haben — wir verschwenden viel. Weißt du sie zu nutzen, ist das Leben lang.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Seneca",
+    "source": "Epistulae morales ad Lucilium, Brief 1",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Die Zeit ist nicht weggerannt — du hast sie abtropfen lassen! Hol heute eine Stunde zurück! - Kkaebi!"
+  },
+  {
+    "id": "quo_223",
+    "text": "Wir stecken alle im Rinnstein, aber einige von uns schauen zu den Sternen.",
+    "category": "world",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "Oscar Wilde",
+    "source": "Lady Windermeres Fächer, 1892",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Selbst im Rinnstein: Hebst du den Kopf, sind Sterne da! Sieh sofort hinauf! - Kkaebi!"
+  },
+  {
+    "id": "quo_224",
+    "text": "Auf eigene Faust fehlzugehen ist besser, als auf fremde Weise recht zu haben.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Fjodor Dostojewski",
+    "source": "Schuld und Sühne, 1866",
+    "theme": "comfort",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Gefangen auf dem Weg eines anderen bleibt tausend Jahre ein fremdes Leben! Geh deinen Weg mit eigenen Füßen! - Kkaebi!"
+  },
+  {
+    "id": "quo_225",
+    "text": "Hass wird nie durch Hass besänftigt; Hass wird allein durch Nicht-Hass besänftigt. Das ist ein ewiges Gesetz.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Buddha (Überlieferung)",
+    "source": "Dhammapada, Vers 5",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Schüttest du Hass in Hass, wird der Topf nur tiefer! Lass heute einen Groll einfach los! - Kkaebi!"
+  },
+  {
+    "id": "quo_226",
+    "text": "Das Kind ist Hoffnung und Versprechen für die Menschheit zugleich.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Maria Montessori",
+    "source": "Erziehung und Frieden, 1936",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Kindertritte sind der Herzschlag der Erde! Lasst sie strahlen! - Kkaebi!"
+  },
+  {
+    "id": "quo_227",
+    "text": "Deine Kinder sind nicht deine Kinder. Sie kommen durch dich, aber nicht von dir.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Kahlil Gibran",
+    "source": "Der Prophet, 1923",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Kinder sind geliehene Pfeile! Klammere dich nicht fest — schieß sie weit! - Kkaebi!"
+  },
+  {
+    "id": "quo_228",
+    "text": "Dankbarkeit ist das Zeichen edler Seelen.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Äsop",
+    "source": "Äsops Fabeln",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ein Dank hebt deine Seele eine Stufe! Sag heute zwei mehr! - Kkaebi!"
+  },
+  {
+    "id": "quo_229",
+    "text": "Die Menschen werden nicht von den Dingen aufgewühlt, sondern von den Ansichten, die sie über die Dinge haben.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Epiktet",
+    "source": "Enchiridion, Kapitel V",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Nicht das Ereignis wackelt am Brett — dein Blick tut es! Richte zuerst deinen Blick neu aus! - Kkaebi!"
+  },
+  {
+    "id": "quo_230",
+    "text": "Wie eine Erzählung so ist das Leben: nicht wie lang es ist, sondern wie gut, das zählt.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Seneca",
+    "source": "Epistulae morales ad Lucilium, Brief 77",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ein schmackhaftes Leben schlägt ein dickes! Schreibe die Seite von heute richtig, auch wenn's nur eine ist! - Kkaebi!"
+  },
+  {
+    "id": "quo_231",
+    "text": "Süß ist der Nutzen des Widrigen — wie die Kröte, hässlich und giftig, trägt sie doch einen kostbaren Edelstein am Haupt.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "William Shakespeare",
+    "source": "Wie es euch gefällt, 1599",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Im Gift verbirgt sich eine Perle! Lauf nicht vor der Kröte davon! - Kkaebi!"
+  },
+  {
+    "id": "quo_232",
+    "text": "Ein Ding der Schönheit ist eine Freude auf ewig: Seine Lieblichkeit wächst, es wird nie ins Nichts vergehen.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "John Keats",
+    "source": "Endymion, 1818",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Schönheit ist eine Einlage, die nie Zinsen verliert! Finde heute drei schöne Dinge! - Kkaebi!"
+  },
+  {
+    "id": "quo_233",
+    "text": "Musik drückt das aus, was nicht gesagt werden kann und worüber zu schweigen unmöglich ist.",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "Victor Hugo",
+    "source": "William Shakespeare (Essay), 1864",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Wenn die Worte stocken, summe! Selbst Kobolde überbrücken lange Nächte mit einer Melodie! - Kkaebi!"
+  },
+  {
+    "id": "quo_234",
+    "text": "Das Größte auf der Welt ist zu wissen, wie man sich selbst gehört.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Michel de Montaigne",
+    "source": "Essais, Buch I, Kapitel 39",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ein Zimmer in dir kann niemand entreißen! Lerne, dir selbst zu gehören! - Kkaebi!"
+  },
+  {
+    "id": "quo_235",
+    "text": "Ich habe keine Angst vor Stürmen, denn ich lerne gerade, mein Schiff zu segeln.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Louisa May Alcott",
+    "source": "Little Women, 1868",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Stürme sind die Hausaufgaben des Seefahrers! Steig nicht vom Schiff! - Kkaebi!"
+  },
+  {
+    "id": "quo_236",
+    "text": "Widerspreche ich mir? Nun gut, dann widerspreche ich mir. (Ich bin groß, ich berge eine Menge.)",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Walt Whitman",
+    "source": "Song of Myself (Grashalme), 1855",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Anders als gestern zu sein ist keine Katastrophe! Selbst dieser Kobold ist morgens ein Brüllen, nachts ein Wiegenlied! - Kkaebi!"
+  },
+  {
+    "id": "quo_237",
+    "text": "Du musst nicht aus deinem Zimmer. Bleib an deinem Tisch sitzen und lausche. Die Welt wird sich dir freiwillig zu erkennen geben.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Franz Kafka",
+    "source": "Die Zürauer Aphorismen, 1917–1918",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Beeilst du dich, versteckt sich die Welt! Sitzt du still, zeigt sie ihr Gesicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_238",
+    "text": "Unmöglich ist ein Wort, das nur im Wörterbuch der Narren zu finden ist.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Napoleon Bonaparte",
+    "source": "Das Memorial von Sankt Helena",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Selbst im Koboldwörterbuch fehlt 'unmöglich'! Zerkau es und schluck hinunter! - Kkaebi!"
+  },
+  {
+    "id": "quo_239",
+    "text": "In dieser Welt kommen voran die Menschen, die sich erheben und die Umstände suchen, die sie wollen — und sie schaffen, wenn sie sie nicht finden.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "George Bernard Shaw",
+    "source": "Frau Warrens Gewerbe, 1893",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Umstände sammelt man nicht — man schmiedet sie! Steh sofort auf! - Kkaebi!"
+  },
+  {
+    "id": "quo_240",
+    "text": "Geh selbstbewusst in die Richtung deiner Träume! Lebe das Leben, das du dir vorgestellt hast.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Henry David Thoreau",
+    "source": "Walden; or, Life in the Woods, 1854",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Bleiben die Füße stehen, bleibt vom Traum nur die Karte! Setz jetzt einen Schritt! - Kkaebi!"
+  },
+  {
+    "id": "quo_241",
+    "text": "Der Ruhm gebührt dem Mann, der wirklich in der Arena steht, dessen Gesicht von Staub und Schweiß und Blut gezeichnet ist.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Theodore Roosevelt",
+    "source": "Citizenship in a Republic (Rede), 1910",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Die Ränge sind laut, die Arena still! Gib dem Gesicht etwas Staub! - Kkaebi!"
+  },
+  {
+    "id": "quo_242",
+    "text": "Auf der Erde gab es ursprünglich keinen Weg; werden viele zu Fuß gehen, so wird daraus ein Weg.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Lu Xun",
+    "source": "Meine alte Heimat, 1921",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Fehlende Wege entstehen durch Füße! Den ersten Schritt tut dir kein Kobold ab! - Kkaebi!"
+  },
+  {
+    "id": "quo_243",
+    "text": "Es ist nicht genug zu wissen, man muss auch anwenden; es ist nicht genug zu wollen, man muss auch tun.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Johann Wolfgang von Goethe",
+    "source": "Wilhelm Meisters Wanderjahre, 1829",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Gelerntes fault in der Tasche! Nimm heute eines heraus und setz es ein! - Kkaebi!"
+  },
+  {
+    "id": "quo_244",
+    "text": "Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Laotse",
+    "source": "Tao Te King, Kapitel 64",
+    "theme": "growth",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Erschrick nicht vor tausend Meilen! Ein Schritt über die Zehenspitze genügt! - Kkaebi!"
+  },
+  {
+    "id": "quo_245",
+    "text": "Hindernisse können mich nicht zermalmen; jedes Hindernis weicht festem Entschluss.",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "Leonardo da Vinci",
+    "source": "Notizbücher",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ist das Hindernis eine Mauer, werde zur Leiter! So lebte da Vinci! - Kkaebi!"
+  },
+  {
+    "id": "quo_246",
+    "text": "Alle denken daran, die Welt zu ändern, aber niemand denkt daran, sich selbst zu ändern.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Leo Tolstoi",
+    "source": "Drei Methoden der Reform, 1900",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Die ganze Welt kannst du nicht ausbessern! Kürze heute zuerst deine eigenen Nägel! - Kkaebi!"
+  },
+  {
+    "id": "quo_247",
+    "text": "Wie wunderbar, dass niemand einen einzigen Moment warten muss, bevor er beginnt, die Welt zu verbessern.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Anne Frank",
+    "source": "Das Tagebuch der Anne Frank, 1942–1944",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Kein Warteticket nötig! Dieser Morgen ist die Eröffnung! - Kkaebi!"
+  },
+  {
+    "id": "quo_248",
+    "text": "Nichts im Leben ist zu fürchten, es ist nur zu verstehen. Jetzt ist die Zeit, mehr zu verstehen, damit wir weniger fürchten.",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Marie Curie",
+    "source": "Madame Curie (Biographie), 1937",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Nur weil es unbekannt ist, ist es unheimlich! Schlag nur eine Seite auf! - Kkaebi!"
+  },
+  {
+    "id": "quo_249",
+    "text": "Die eigentliche Entdeckungsreise besteht nicht darin, neue Landschaften zu suchen, sondern neue Augen zu haben.",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "Marcel Proust",
+    "source": "Auf der Suche nach der verlorenen Zeit — Die Gefangene, 1923",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Die Landschaften sind längst ausverkauft! Tausche auf ein Paar nagelneue Augen! - Kkaebi!"
+  },
+  {
+    "id": "quo_250",
+    "text": "Mögest du alle Tage deines Lebens leben.",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "Jonathan Swift",
+    "source": "Höfliche Gespräche, 1738",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Heute lebst du, gestern ist vorbei! An Tagen mit offenen Augen, lebe sie ganz! - Kkaebi!"
+  },
+  {
+    "id": "quo_251",
+    "text": "Sogar Hundemist ist nicht zu finden, wenn man ihn als Medizin braucht — Gewöhnliches verschwindet, wenn man es braucht.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Sogar Hundemist ist ein Schatz, wenn man vorbereitet ist! Nur Vorbereitete bekommen, was sie brauchen! - Kkaebi!"
+  },
+  {
+    "id": "quo_252",
+    "text": "Ausgerechnet am Tag deiner Ankunft ist Markttag — unerwartetes Timing gehört zum Leben.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Zufall ist ein Teil des Schicksals! Genieße den Markttag wie Kkaebi! - Kkaebi!"
+  },
+  {
+    "id": "quo_253",
+    "text": "Wer Nadeln stiehlt, stiehlt irgendwann Kühe — kleine Vergehen führen zu großen.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "Ein kleiner Funke verbrennt einen Berg! Die heutige kleine Wahl ist das Schicksal von morgen! - Kkaebi!"
+  },
+  {
+    "id": "quo_254",
+    "text": "Die Traumdeutung ist wichtiger als der Traum — wie du Dinge siehst, bestimmt dein Schicksal.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Derselbe Himmel sieht für verschiedene Augen anders aus! Durch Kkaebis Augen ist alles ein Schatz! - Kkaebi!"
+  },
+  {
+    "id": "quo_255",
+    "text": "Ein Schlammfisch trübt den ganzen Teich — wenige schlechte Taten verderben das Ganze.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Eine schlechte Energie ruiniert die Stimmung! Kkaebi verbreitet nur gute Energie! - Kkaebi!"
+  },
+  {
+    "id": "quo_256",
+    "text": "Wie ein Hund, der ein Huhn jagte und es aufs Dach fliegen sah — wenn Mühe scheitert, bereite den nächsten Versuch vor.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "Auch ein Fehlversuch ist Erfahrung! Der Hund, der aufs Dach schaut, springt beim nächsten Mal höher! - Kkaebi!"
+  },
+  {
+    "id": "quo_257",
+    "text": "Tagsüber hören Vögel, nachts hören Mäuse — Worte verbreiten sich immer weiter als gedacht.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "Sogar Kkaebi hört alles! Worte fliegen viel weiter als du denkst! - Kkaebi!"
+  },
+  {
+    "id": "quo_258",
+    "text": "Ein einziges Wort kann eine Schuld von tausend Nyang tilgen — aufrichtige Worte wiegen mehr als Geld.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Sag heute jemandem ein aufrichtiges Wort! Es ist tausend Nyang wert! - Kkaebi!"
+  },
+  {
+    "id": "quo_259",
+    "text": "Der Reiskuchen in anderen Händen sieht immer größer aus — Vergleiche rauben Zufriedenheit und vergessen Dankbarkeit.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "kkaebi_comment": "Mein eigener Reiskuchen ist lecker genug! Genieße ihn, statt zu vergleichen! - Kkaebi!"
+  },
+  {
+    "id": "quo_260",
+    "text": "Schönheit liegt im Auge des Betrachters — dein Maßstab ist nicht der der Welt. Unterschiede anzuerkennen ist Weisheit.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "In Kkaebis Augen ist jeder besonders! Unterschied ist Schönheit! - Kkaebi!"
+  },
+  {
+    "id": "quo_261",
+    "text": "Zu viel Wissen ist Krankheit; Unwissen ist die Medizin — übermäßiges Wissen schafft übermäßige Sorgen.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Versuche nicht alles zu wissen! Kkaebi ist glücklich, vieles nicht zu wissen! - Kkaebi!"
+  },
+  {
+    "id": "quo_262",
+    "text": "Wenn ein Spatz wie ein Storch geht, reißt es seine Beine — Weisheit bedeutet, den eigenen Schritt zu kennen.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Der Flügelschlag eines Spatzen kann schneller sein als der eines Storchs! Geh deinen eigenen Weg! - Kkaebi!"
+  },
+  {
+    "id": "quo_263",
+    "text": "Sieh einen und kenne zehn — ein kleiner Hinweis enthüllt das Ganze.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Kkaebi liest Herzen mit einem Blick! Konzentriere dich auf Kleines und sieh das große Bild! - Kkaebi!"
+  },
+  {
+    "id": "quo_264",
+    "text": "Verschiebe die heutige Arbeit nicht auf morgen — genau jetzt ist der schnellste Start.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Fang jetzt an! Kkaebi lebt in genau diesem Moment! - Kkaebi!"
+  },
+  {
+    "id": "quo_265",
+    "text": "Ein viel versprechender Baum erkennt man am ersten Blatt — Potenzial zeigt sich von Anfang an.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Die heutige kleine Anstrengung ist der morgige große Baum! Pflege den kleinen Spross! - Kkaebi!"
+  },
+  {
+    "id": "quo_266",
+    "text": "Wo ein Wille ist, ist ein Weg — wahre Entschlossenheit findet immer einen Pfad.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Kkaebis Wille ist immer klar! Wenn der Wille feststeht, öffnet sich der Weg! - Kkaebi!"
+  },
+  {
+    "id": "quo_267",
+    "text": "Du musst die Höhle des Tigers betreten, um einen Tiger zu fangen — ohne echtes Risiko gibt es keine echte Leistung.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Auch Kkaebi hat Angst, springt aber hinein! Schätze warten in der Höhle! - Kkaebi!"
+  },
+  {
+    "id": "quo_268",
+    "text": "Das Wasser flussabwärts ist nur so klar wie die Quelle — Führungskräfte müssen zuerst mit gutem Beispiel vorangehen.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Kkaebi versucht immer, das klare Wasser zu sein! Mit gutem Beispiel vorangehen ist das Beste! - Kkaebi!"
+  },
+  {
+    "id": "quo_269",
+    "text": "Zieh das Bullhorn, solange das Eisen heiß ist — handle sofort auf deine Entschlossenheit; Zögern macht es nur schwerer.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Jetzt ist genau dieser heiße Moment! Zögere nicht — lauf los! - Kkaebi!"
+  },
+  {
+    "id": "quo_270",
+    "text": "Die Hälfte des Erfolgs ist Glück, die andere Hälfte ist Vorbereitung — prüfe deine Bereitschaft, bevor du das Schicksal beschuldigst.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Bereite dich wie Kkaebi vor, bevor du auf Glück wartest! Glück läuft zum Vorbereiteten! - Kkaebi!"
+  },
+  {
+    "id": "quo_271",
+    "text": "Vom Frosch erschreckt, erschrickt man nun vor Topfdeckeln — Wunden dauern lang, aber Erkenntnis beginnt die Heilung.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "Der Topfdeckel ist keine Schildkröte! Die heutige Angst wird morgen Mut! - Kkaebi!"
+  },
+  {
+    "id": "quo_272",
+    "text": "Selbst ein Regenwurm windet sich, wenn man drauftritt — jedes Wesen, egal wie klein, hat Würde.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "Jeder hat seine eigene Größe! Unterschätze das Kleine nicht! - Kkaebi!"
+  },
+  {
+    "id": "quo_273",
+    "text": "Nach der Mühe kommt die Freude — Glück findet diejenigen, die durchhalten. Der Schmerz von heute wird gewiss vergehen.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Auch Kkaebi hatte schwere Tage. Aber das Durchhalten brachte diese Freude, die ich jetzt habe! - Kkaebi!"
+  },
+  {
+    "id": "quo_274",
+    "text": "Die Außenseite einer Wassermelone zu lecken verrät nicht ihre Süße — oberflächliche Bemühungen enthüllen nie die wahre Tiefe.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Du musst die Wassermelone aufschneiden, um sie zu kosten! Geh tief, um das Echte zu finden! - Kkaebi!"
+  },
+  {
+    "id": "quo_275",
+    "text": "Worte werden zu Samen — was du laut sagst, formt die Realität. Pflanze Worte der Positivität.",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "Koreanisches Sprichwort",
+    "source": "Mündliche Überlieferung",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "Welchen Samen wirst du heute pflanzen? Kkaebi pflanzt nur gute Samen! - Kkaebi!"
+  }
+]

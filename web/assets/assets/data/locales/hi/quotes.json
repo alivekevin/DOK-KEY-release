@@ -1,0 +1,4438 @@
+[
+  {
+    "id": "quo_001",
+    "text": "पानी बर्तन का आकार लेता है, पर मन को हिलकर भी अपना मूल रूप नहीं भूलना चाहिए।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पानी जैसे नहीं, पेड़ जैसे जियो — हिलने पर भी मन की जड़ें नहीं मरतीं! - कैबी!"
+  },
+  {
+    "id": "quo_002",
+    "text": "राह लंबी महसूस होते ही क़दम आधे रुक जाते हैं।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "राह लंबी लगते ही क़दम आधे रुक जाते हैं। पैर सोच से ज़्यादा मज़बूत हैं! - कैबी!"
+  },
+  {
+    "id": "quo_003",
+    "text": "पहाड़ अपनी ऊँचाई से नहीं डरता। केवल चढ़ने वाले को शिखर पता है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पहाड़ नहीं डरता। चढ़ने वाले पैर ही शिखर जानते हैं! - कैबी!"
+  },
+  {
+    "id": "quo_004",
+    "text": "गहरा कुआँ निःशब्द होता है। उथला ज्ञान ही शोर करता है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "शोरगुल वाला ज्ञान उथला होता है। चुपचाप जमा करो, बड़े बनो! - कैबी!"
+  },
+  {
+    "id": "quo_005",
+    "text": "भोर की ओस देर नहीं टिकती। इसीलिए वह ज़्यादा चमकती है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "ओस चमकती टिकने के लिए नहीं। अभी खिलती है, अभी बिखर जाती है। - कैबी!"
+  },
+  {
+    "id": "quo_006",
+    "text": "पेड़ मुरझाए पत्तों को नहीं थामता, नई पत्तियों के लिए जगह खाली करता है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "मुरझाए पत्तों को थामोगे तो नए नहीं आएँगे। खाली करो, भरेगा! - कैबी!"
+  },
+  {
+    "id": "quo_007",
+    "text": "चट्टान पानी को हरा नहीं पाती। बहता पत्थर से बलवान है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "कठोर जीतता नहीं, बहता जीतता है! - कैबी!"
+  },
+  {
+    "id": "quo_008",
+    "text": "दीया दूसरों को जितना रोशन करता है, अपनी छाया को गहरा होता देख नहीं पाता।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जो दूसरों को रोशन करे, अपनी छाया भी देखे। - कैबी!"
+  },
+  {
+    "id": "quo_009",
+    "text": "अनाज पकने पर झुकता जाता है। इंसान भी पकने पर झुकता है।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पका अनाज झुकता है। झुकना ही योग्यता है! - कैबी!"
+  },
+  {
+    "id": "quo_010",
+    "text": "जल्दी बहता पानी गहरा नहीं होता। गहरी नदी बिन आवाज़ बहती है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "गहरी नदी ख़ामोश है। चिल्लाने वाला उथला है। - कैबी!"
+  },
+  {
+    "id": "quo_011",
+    "text": "बहता पानी पत्थर लगने पर नए पानी से उत्तर देता है। उत्तर प्रवाह में है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "पत्थर लगे तो भी बहते रहो। बहाव ही सबसे अच्छा उत्तर है! - कैबी!"
+  },
+  {
+    "id": "quo_012",
+    "text": "धनुष तना अच्छा लगता है, पर इंसान को ढील देना भी आना चाहिए।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "धनुष तना अच्छा, मन ढीला अच्छा! दोनों जानो तो हर निशाना सफल! - कैबी!"
+  },
+  {
+    "id": "quo_013",
+    "text": "अंधेरे को कोसने के बजाय एक छोटी दीये की लौ जलाओ।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "अँधेरे को कोसने के बजाय एक दीया जलाओ। यही गोब्लिन तरीक़ा है! - कैबी!"
+  },
+  {
+    "id": "quo_014",
+    "text": "चोर घर लूटता है, समय जीवन लूटता है। आज को सँभालो।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "समय सबसे बड़ा चोर है। आज को ताला लगाकर रखो! - कैबी!"
+  },
+  {
+    "id": "quo_015",
+    "text": "घंटा पहले बजा जाता है, तब गूँजता है। मन भी ठोकर खाने पर खुलता है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ठोको तो खुलता है — दरवाज़ा भी, दिल भी! - कैबी!"
+  },
+  {
+    "id": "quo_016",
+    "text": "भरा हुआ पात उड़ेल देता है। खाली ही नया कुछ समेटता है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "भरा बर्तन उड़ेल देता है। खाली ही नया भाग्य समेटता है! - कैबी!"
+  },
+  {
+    "id": "quo_017",
+    "text": "जंगल एक पेड़ नहीं। साथ होने से वह आँधी रोकता है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक पेड़ टूट सकता है, जंगल नहीं। साथ होने से ताक़त है! - कैबी!"
+  },
+  {
+    "id": "quo_018",
+    "text": "घाटी में छिपा पानी सबसे पहले सागर पहुँचता है। नीचे का रास्ता तेज़ है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "नीचा बहने वाला पानी सबसे पहले सागर पहुँचता है। विनम्रता शॉर्टकट है! - कैबी!"
+  },
+  {
+    "id": "quo_019",
+    "text": "बाज नीचे उड़ने के दिन में भी बाज ही है। मौन पद को नहीं दर्शाता।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "नीचे उड़ने वाला बाज़ भी बाज़ है। चुप्पी कमज़ोरी नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_020",
+    "text": "जड़ें अदृश्य हैं, पर पूरा पेड़ वही हैं। योग्यता मिट्टी में उगती है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जड़ें दिखती नहीं, पर सब कुछ हैं। योग्यता मिट्टी में उगती है! - कैबी!"
+  },
+  {
+    "id": "quo_021",
+    "text": "इंद्रधनुष देखने के लिए बरसात सहनी पड़ती है। क्रम नहीं टल सकता।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "इंद्रधनुष बारिश के बाद आता है। क्रम नहीं छोड़ा जा सकता! - कैबी!"
+  },
+  {
+    "id": "quo_022",
+    "text": "आईना गुस्से में टूट जाता है, पर मन का आईना खुद ही घिसना पड़ता है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "टूटे आईने को कोसो नहीं, पोंछने वाले हाथ को देखो! - कैबी!"
+  },
+  {
+    "id": "quo_023",
+    "text": "मुट्ठी में बंद रेत जितनी कसो उतनी फिसलती है। पकड़ ढीलेपन से आती है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "मुट्ठी में रेत जितनी कसो उतनी फिसलती है। हल्के हाथ से पकड़ो! - कैबी!"
+  },
+  {
+    "id": "quo_024",
+    "text": "रास्ता सौ बार भूले, तो सौ बार पाया भी है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सौ बार भटके, सौ बार रास्ता पाया — यही योग्यता है! - कैबी!"
+  },
+  {
+    "id": "quo_025",
+    "text": "अनेक दीये अँधेरे बाँटते हैं, आपस में नहीं लड़ते। रोशनी साथ रहती है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "दीये आपस में नहीं लड़ते। रोशनी मिलकर अँधेरा बाँटती है। - कैबी!"
+  },
+  {
+    "id": "quo_026",
+    "text": "तराज़ू दोनों पल्ले बराबर होने पर ही सच बोलता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तराज़ू तभी सच बोलता है जब दोनों पल्ले बराबर हों। संतुलन रखो! - कैबी!"
+  },
+  {
+    "id": "quo_027",
+    "text": "सागर मछलियों को इसलिए समेटता है कि वह नीचा है। जितना झुको, उतना समेटो।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "सागर इसलिए बड़ा है कि वह नीचा है। जितना झुको, उतना समेटो! - कैबी!"
+  },
+  {
+    "id": "quo_028",
+    "text": "मुर्गी सुबह जगाती है, पर सुबह किसी की अमानत नहीं। शुरुआत अपना हिस्सा है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सुबह कोई जगाता नहीं। अपना हिस्सा अपने आप खोलो! - कैबी!"
+  },
+  {
+    "id": "quo_029",
+    "text": "पुलिया भी ठोककर पार करो। सुरक्षा ठोकने से आती है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पुलिया भी ठोककर पार करो। ठोकना ही दौलत है! - कैबी!"
+  },
+  {
+    "id": "quo_030",
+    "text": "बसंत की पिघली बर्फ़ गर्मियों की नदी बनाती है। छोटा बहाव मौसम बदल देता है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "मुट्ठी भर बसंत की बर्फ़ गर्मी की नदी बनाती है। छोटा सही, बहते रहो! - कैबी!"
+  },
+  {
+    "id": "quo_031",
+    "text": "शांत रात दिन को सँवारती है। विश्राम भी काम का हिस्सा है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आराम की रात भी काम है। सफ़ाई रोशनी से पहले आती है! - कैबी!"
+  },
+  {
+    "id": "quo_032",
+    "text": "तीर जितना पीछे खिंचता है, उतना दूर जाता है। पीछे हटना छलांग की तैयारी है।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "पीछे खिंचा तीर सबसे दूर जाता है। पीछे हटने पर शर्म न करें! - कैबी!"
+  },
+  {
+    "id": "quo_033",
+    "text": "बर्फ़ यह नहीं बताती कि वह कितनी ठंडी थी, बस पिघलकर बह जाती है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "बर्फ़ कुछ नहीं कहती — बस पिघलकर बह जाती है। यही जवाब है! - कैबी!"
+  },
+  {
+    "id": "quo_034",
+    "text": "फूल खिल सकता है क्योंकि जड़ों की चुप्पी ने इजाज़त दी।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "फूल इसलिए खिला कि जड़ों की चुप्पी ने इजाज़त दी। तैयार ख़ामोशी की तारीफ़ करो! - कैबी!"
+  },
+  {
+    "id": "quo_035",
+    "text": "चाँद और ओस दिन वापस कर देते हैं। आज उधार का दिन है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज उधार का दिन है। ब्याज समेत भरपूर खर्च करो! - कैबी!"
+  },
+  {
+    "id": "quo_036",
+    "text": "सौ बातें छोड़ो, मिट्टी की खुशबू वाला एक क़दम सच है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "सौ बातों से बेहतर मिट्टी की खुशबू वाला एक क़दम! - कैबी!"
+  },
+  {
+    "id": "quo_037",
+    "text": "घड़े का पानी देर तक रुके तो सड़ जाता है। मन को भी बहना ही है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "ठहरा पानी सड़ता है, बहता जीता है। मन का पानी बदलो! - कैबी!"
+  },
+  {
+    "id": "quo_038",
+    "text": "सीगल तूफ़ान की भविष्यवाणी नहीं करता। पंख तूफ़ान में तैयार होते हैं।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "पंख साफ़ आसमान में नहीं बनते। तूफ़ान उस्ताद है! - कैबी!"
+  },
+  {
+    "id": "quo_039",
+    "text": "बसंत की थोड़ी बर्फ़ भी पिघले तो मौसम बदल देती है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "थोड़ी पिघली बसंत बर्फ़ भी मौसम बदल देती है। छोटी शुरुआत को हल्के में मत लो! - कैबी!"
+  },
+  {
+    "id": "quo_040",
+    "text": "सामान रख दिए जाते हैं, मन नहीं। पहले मन का बोझ उतारो।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "सामान रख दिए जाते हैं, मन नहीं। पहले मन का बोझ उतारो! - कैबी!"
+  },
+  {
+    "id": "quo_041",
+    "text": "बड़ा पेड़ आँधी झेलने के बाद ही गहरी जड़ें जमाता है।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "बिन तूफ़ान का विशाल वृक्ष नहीं होता। हिलना जड़ों को गहरा करता है! - कैबी!"
+  },
+  {
+    "id": "quo_042",
+    "text": "साँप को बढ़ने के लिए खाल उतारनी पड़ती है। पुराने रूप को पकड़े रहना विकास नहीं।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "खाल उतारो, बड़े होने के लिए! पुराने रूप को थामना विकास नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_043",
+    "text": "पर्वतारोही शिखर से अगला ठौर देखता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पर्वतारोही शिखर नहीं, अगला ठौर देखता है! - कैबी!"
+  },
+  {
+    "id": "quo_044",
+    "text": "पत्ता टूट जाए तो भी चिड़िया नहीं गिरती। भरोसा डाली पर नहीं, परों पर है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "डाली टूटे तो भी पंख रहते हैं। भरोसा डाली पर नहीं, परों पर करो! - कैबी!"
+  },
+  {
+    "id": "quo_045",
+    "text": "जौ सर्दी झेले तभी रोटी बनती है।",
+    "category": "insight",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जौ सर्दी झेले तभी रोटी बनती है। धैर्य ही चक्की है! - कैबी!"
+  },
+  {
+    "id": "quo_046",
+    "text": "ताली एक हाथ से नहीं बजती। रिश्ता दोनों की आवाज़ है।",
+    "category": "insight",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "ताली एक हाथ से नहीं बजती। रिश्ता दोनों की आवाज़ है! - कैबी!"
+  },
+  {
+    "id": "quo_047",
+    "text": "लंबी रात सुबह को छिपाए बैठी है। रात अंत नहीं, प्रतीक्षा कक्ष है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "लंबी रात सुबह का प्रतीक्षा कक्ष है। अंत नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_048",
+    "text": "बीज मिट्टी में अपना रूप खो देता है। बदलाव त्याग से शुरू होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "बीज मिट्टी में रूप खोकर ही उगता है। बदलाव त्याग से शुरू होता है! - कैबी!"
+  },
+  {
+    "id": "quo_049",
+    "text": "नदी दूर जाने के लिए जल्दी नहीं बहती। हर मोड़ पर वह गहरी होती है।",
+    "category": "insight",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जल्दबाज़ी नदी उथली होती है। हर मोड़ पर गहरी होती जाती है! - कैबी!"
+  },
+  {
+    "id": "quo_050",
+    "text": "आज लिखा दिन कल की ताक़त बनता है। दिन फिर से नहीं लिखा जाता।",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज का दिन दोबारा नहीं लिखा जाता। अच्छी पंक्ति बनकर छोड़ो! - कैबी!"
+  },
+  {
+    "id": "quo_051",
+    "text": "जैसा बोओगे वैसा काटोगे — जो बोओगे वही काटोगे, परिणाम बीज में है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जो बोओगे वही काटोगे! बीज तो अपने हाथ में है — आज क्या बो रहे हो? - कैबी!"
+  },
+  {
+    "id": "quo_052",
+    "text": "समय सबसे बड़ा औषधि है — वक़्त हर घाव भर देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "समय सबसे बड़ा वैद्य है! घाव पर जल्दबाज़ी मत करो, इलाज चल रहा है। - कैबी!"
+  },
+  {
+    "id": "quo_053",
+    "text": "अभ्यास से ही सिद्धि मिलती है — अभ्यास से ही दक्षता आती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "अभ्यास ही असली गुरु है! पहले दिन की भूल, दसवें दिन की कला बन जाती है। - कैबी!"
+  },
+  {
+    "id": "quo_054",
+    "text": "एक और एक ग्यारह — साथ मिलकर काम करो, ताक़त दोगुनी हो।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "अकेले दो, साथ में ग्यारह! जोड़ना जानने वाले ही जीतते हैं। - कैबी!"
+  },
+  {
+    "id": "quo_055",
+    "text": "जो गया वो गया — बीती बात पर मत रोओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion",
+      "conflict"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जो गया वो गया! पीछे मुड़कर देखने से आगे का रास्ता नहीं दिखता। - कैबी!"
+  },
+  {
+    "id": "quo_056",
+    "text": "जहाँ चाह वहाँ राह — इच्छा जहाँ है, रास्ता वहाँ है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "चाह वहाँ, राह वहाँ! इच्छा जितनी गहरी, रास्ता उतना चौड़ा। - कैबी!"
+  },
+  {
+    "id": "quo_057",
+    "text": "देर आए दुरुस्त आए — देर से आया पर सही आया।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "देर से आया पर सही आया! जल्दबाज़ी का काम बार-बार करना पड़ता है। - कैबी!"
+  },
+  {
+    "id": "quo_058",
+    "text": "अंधेरे को कोसने के बजाय दीया जलाओ — गिले नहीं, रौशनी बढ़ाओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "अँधेरे से बहस नहीं, दीया जलाओ! एक बत्ती तीन झगड़े जीत लेती है। - कैबी!"
+  },
+  {
+    "id": "quo_059",
+    "text": "कर्म ही पूजा है — काम ही सबसे बड़ी प्रार्थना है।",
+    "category": "proverb",
+    "tone_tags": [
+      "farewell"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "कर्म ही सबसे बड़ी पूजा है! माला से कम, मेहनत से ज़्यादा सुनते हैं। - कैबी!"
+  },
+  {
+    "id": "quo_060",
+    "text": "एक तीर से दो शिकार — एक कदम से दो लाभ उठाओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक तीर से दो शिकार — लेकिन निशाना पहले! मंज़िल साफ हो तो तीर दोगुना काम करता है। - कैबी!"
+  },
+  {
+    "id": "quo_061",
+    "text": "ज्ञान बढ़ाने से विनम्रता बढ़ती है — जितना सीखो, उतना झुको।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जितना जानो, उतना झुको! फसल जितनी भरी, सिर उतना नीचा। - कैबी!"
+  },
+  {
+    "id": "quo_062",
+    "text": "सच्चाई की डोर कभी नहीं टूटती — सच का रिश्ता कभी नहीं टूटता।",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "सच का धागा पतला है, पर कभी नहीं टूटता! झूठ की रस्सी मोटी होकर भी टूट जाती है। - कैबी!"
+  },
+  {
+    "id": "quo_063",
+    "text": "परिश्रम सौ सौदागर — मेहनत ही सबसे बड़ा सौदागर है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मेहनत ही सबसे बड़ा सौदागर है! इसके सौदे में घाटा नहीं होता। - कैबी!"
+  },
+  {
+    "id": "quo_064",
+    "text": "शीशा सब को दिखता है, खुद को नहीं — दर्पण सबको दिखे, खुद को नहीं।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आईना सबको दिखाता है, खुद को नहीं! दूसरों का दोष देखने से पहले आईना पलट के देखो। - कैबी!"
+  },
+  {
+    "id": "quo_065",
+    "text": "जो डर गया वो मर गया — हिम्मत हारना असली हार है।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जो डर गया वो मर गया — हिम्मत ही असली साँस है! डर का दरवाज़ा अंदर से बंद होता है। - कैबी!"
+  },
+  {
+    "id": "quo_066",
+    "text": "धीरे-धीरे ही बड़ी बात होती है — धैर्य से ही बड़ा काम बनता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "धीरे-धीरे से ही महल बनते हैं! जल्दी की खिचड़ी अधकचरी निकलती है। - कैबी!"
+  },
+  {
+    "id": "quo_067",
+    "text": "गागर में सागर समाना — बूँद में सागर समेटे रहता है जीवन।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "छोटे घड़े में सागर समा जाता है! बड़ाई बर्तन में नहीं, गहराई में होती है। - कैबी!"
+  },
+  {
+    "id": "quo_068",
+    "text": "सीखना कभी बंद न करो — जीते जी सीखते रहो।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "सीखने की कोई उम्र नहीं होती! जो रुक गया, वही बूढ़ा हो गया। - कैबी!"
+  },
+  {
+    "id": "quo_069",
+    "text": "सच भारी होता है पर टिकता है — सच पत्थर है, दबाता है पर टिकता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सच भारी लगता है पर उठा लो — झूठ हल्का लगता है पर गिरा देता है! - कैबी!"
+  },
+  {
+    "id": "quo_070",
+    "text": "बूँद बूँद से घड़ा भरता है — थोड़ा-थोड़ा मिलकर बड़ा बनता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "बूँद-बूँद से ही घड़ा भरता है! आज की एक बूँद, कल का जाम है। - कैबी!"
+  },
+  {
+    "id": "quo_071",
+    "text": "रोने से कुछ नहीं मिलेगा — रुलाई नहीं, कर्म बोलो।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आँसू से रोटी नहीं बनती! औकात आँसुओं की नहीं, हाथों की होती है। - कैबी!"
+  },
+  {
+    "id": "quo_072",
+    "text": "पहाड़ चढ़ने वाला पहाड़ की ऊँचाई नहीं गिनता — चढ़ने वाले को ऊँचाई का डर नहीं।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "पहाड़ गिनने वाले मैदान में रहते हैं! चढ़ाई करने वाले सिर्फ़ क़दम गिनते हैं। - कैबी!"
+  },
+  {
+    "id": "quo_073",
+    "text": "हाथी के दाँत खाने के एक दिखाने के अनेक — हाथी के दो दाँत: खाने के अलग, दिखाने के अलग।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "दिखाने के दाँत और चबाने के दाँत अलग होते हैं! काम की परीक्षा दिखावे से नहीं, काम से होती है। - कैबी!"
+  },
+  {
+    "id": "quo_074",
+    "text": "सीखा हुआ कभी बर्बाद नहीं होता — सीखा हुआ कभी व्यर्थ नहीं जाता।",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "सीखा हुआ कभी व्यर्थ नहीं जाता! यह ऐसा बीज है जो जहाँ गिरे, वहीं खेत बना देता है। - कैबी!"
+  },
+  {
+    "id": "quo_075",
+    "text": "अपने अंदर की शक्ति को पहचानो — शक्ति बाहर नहीं, भीतर है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "शक्ति बाहर नहीं, भीतर है! बाहर वाली ताक़त किराए की होती है, भीतर वाली अपनी। - कैबी!"
+  },
+  {
+    "id": "quo_076",
+    "text": "जो अन्न में स्वाद है वही सेहत है — जो खाने में संतुलन है वही स्वास्थ्य है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "थाली में जो संतुलन है, वही सेहत में बरकत है! बहुत मीठा भी बीमारी, बहुत कड़वा भी। - कैबी!"
+  },
+  {
+    "id": "quo_077",
+    "text": "आदत दूसरी प्रकृति है — आदत दूसरी स्वभाव है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आदत दूसरी प्रकृति है! इसलिए सोच-समझकर अपनाओ — बुरी आदत से छुटकारा सबसे मुश्किल है। - कैबी!"
+  },
+  {
+    "id": "quo_078",
+    "text": "जितना गहरा पानी उतना शांत — गहरा पानी हमेशा शांत बहता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "गहरा पानी शांत बहता है! शोर मचाने वाली नदियाँ उथली होती हैं। - कैबी!"
+  },
+  {
+    "id": "quo_079",
+    "text": "मेहनत का फल मीठा होता है — मेहनत का फल हमेशा मीठा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "मेहनत का फल मीठा होता है! और सबसे बड़ी बात — यह चोरी नहीं होता। - कैबी!"
+  },
+  {
+    "id": "quo_080",
+    "text": "शुरुआत ही आधी जीत है — शुरुआत करना ही आधी जीत है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "शुरुआत करना ही आधी जीत है! बाकी आधी जीत बस चलते रहने में है। - कैबी!"
+  },
+  {
+    "id": "quo_081",
+    "text": "कल करें सो आज कर, आज करें सो अब — कल का काम आज करो, आज का अभी करो।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "कल का काम आज, आज का अभी! मतलब — अभी! चलो, मैं गिनती करता हूँ — एक, दो! - कैबी!"
+  },
+  {
+    "id": "quo_082",
+    "text": "जागते रहो — सतर्क रहो, चौकसी ही सुरक्षा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "जागते रहो — चौकसी ही असली सुरक्षा है! जो सोता है, उसका हिस्सा दूसरे उठा लेते हैं। - कैबी!"
+  },
+  {
+    "id": "quo_083",
+    "text": "रिश्तों का पेड़ सेवा से सींचो — रिश्ते सेवा से हरे होते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "रिश्तों का पेड़ सेवा से सींचो! बिना पानी का पेड़ शोर मचाता नहीं — चुपचाप मर जाता है। - कैबी!"
+  },
+  {
+    "id": "quo_084",
+    "text": "सीखना बंद तो जीवन बंद — सीखना रुका तो जिंदगी रुकी।",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सीखना रुका तो जीवन रुका! रुका हुआ पानी बहता नहीं — सड़ता है। - कैबी!"
+  },
+  {
+    "id": "quo_085",
+    "text": "सच्चे मित्र विपत्ति में काम आते हैं — असली दोस्त मुसीबत में पहचाने जाते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मुसीबत में ही असली दोस्त दिखते हैं! सुख के दोस्त तो दर्ज़न भर मिलते हैं। - कैबी!"
+  },
+  {
+    "id": "quo_086",
+    "text": "काम बड़ा नहीं कर्ता बड़ा होता है — काम नहीं, कर्ता बड़ा होता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "काम बड़ा नहीं, कर्ता बड़ा! एक ही चूल्हे पर एक खाना जादू बनता है, दूसरा जलता है। - कैबी!"
+  },
+  {
+    "id": "quo_087",
+    "text": "अपने कदमों पर चलो — अपने क़दमों पर चलो, नकल में असल खो जाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "अपने क़दमों पर चलो! दूसरों के पदचिन्हों में चलने वाले मंज़िल पर पहुँचते हैं — पर वह मंज़िल उनकी होती है। - कैबी!"
+  },
+  {
+    "id": "quo_088",
+    "text": "पुराने पुर नए पुर — पुराना पानी नए पानी से मीठा।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पुराना पानी, पुराना साथ — दोनों मीठे! नए के छींटे पड़ें, पर पुराने छोड़ें नहीं। - कैबी!"
+  },
+  {
+    "id": "quo_089",
+    "text": "स्वास्थ्य ही धन है — स्वास्थ्य ही सबसे बड़ा धन है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सेहत ही असली धन है! बाकी सारा धन इस खाते का ब्याज है — रोज़ की कसरत ही इसकी किश्त है। - कैबी!"
+  },
+  {
+    "id": "quo_090",
+    "text": "जो हाथ से गया वह भाग्य से गया — जो छूट गया, वह किस्मत की बात।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जो हाथ से निकला, समझो भाग्य की डोरी खिंच गई! खाली हाथ कभी लंबे समय खाली नहीं रहता। - कैबी!"
+  },
+  {
+    "id": "quo_091",
+    "text": "खाली बर्तन खनकता है — खाली बर्तन ज़्यादा आवाज़ करता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "खाली बर्तन ज़्यादा शोर करता है! भरा बर्तन शोर नहीं करता — सिर्फ़ काम करता है। - कैबी!"
+  },
+  {
+    "id": "quo_092",
+    "text": "भगवान उसी की मदद करता है जो खुद मदद करता है — ईश्वर मेहनत वालों की मदद करता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "भगवान भी मेहनत वालों के भरोसे बैठे हैं! अपना हिस्सा उठाओ, ऊपर वाला बाकी जोड़ देगा। - कैबी!"
+  },
+  {
+    "id": "quo_093",
+    "text": "जितनी गहरी चोट उतनी मज़बूती — जितनी चोटें, उतनी मज़बूती।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जितनी चोट, उतनी मज़बूती! घाव जितना गहरा, जड़ उतनी मज़बूत — यह पेड़ों का भी नियम है। - कैबी!"
+  },
+  {
+    "id": "quo_094",
+    "text": "प्रकृति सबको सबक देती है — प्रकृति सबसे बड़ी गुरु है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "प्रकृति सबसे बड़ी गुरु है! इसकी पाठशाला में फीस नहीं लगती, पर ध्यान देना ज़रूरी है। - कैबी!"
+  },
+  {
+    "id": "quo_095",
+    "text": "सपने वो नहीं जो नींद में आएं — सपने वो हैं जो नींद उड़ा दें।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "सपने वो नहीं जो नींद में आएँ — वो जो नींद ही उड़ा दें! जागते रहो, सपनों पर नज़र रखो। - कैबी!"
+  },
+  {
+    "id": "quo_096",
+    "text": "समय पर की गई एक मित्रता सौ दोस्तों के समान — समय पर की गई मदद सौ दोस्त बराबर।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "मुसीबत में की गई मदद, सौ दोस्तों के बराबर! समय की कीमत जानने वाला ही असली साथी है। - कैबी!"
+  },
+  {
+    "id": "quo_097",
+    "text": "जिसका काम उसी को साजे — अपना काम अपने को सुहाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अपना काम अपने को सुहाता है! दूसरों की चप्पल चाहे सोने की हो, काँटती है। - कैबी!"
+  },
+  {
+    "id": "quo_098",
+    "text": "सीना तानकर चलो — सीना चौड़ा करके चलो, आत्मविश्वास ही शस्त्र है।",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सीना तानकर चलो! आत्मविश्वास ही असली हथियार है — और यह हथियार बिना कीमत के मिलता है। - कैबी!"
+  },
+  {
+    "id": "quo_099",
+    "text": "बात की कीमत मौन से बढ़ती है — कहने से ज़्यादा चुप रहने की कीमत होती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "कम बोलो, ज़रूरत पर बोलो! मौन बोलने वाले की बात का वज़न बढ़ाता है। - कैबी!"
+  },
+  {
+    "id": "quo_100",
+    "text": "परिश्रम कभी व्यर्थ नहीं जाता — मेहनत कभी बेकार नहीं जाती।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हिंदी कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मेहनत कभी बेकार नहीं जाती! नतीजा न भी मिले, ताक़त तो मिलती ही है। - कैबी!"
+  },
+  {
+    "id": "quo_101",
+    "text": "हज़ार मील का सफ़र एक क़दम से शुरू होता है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज का वह क़दम ही शुरुआत है! - कैबी!"
+  },
+  {
+    "id": "quo_102",
+    "text": "बिना विचार के सीखना व्यर्थ है, बिना सीखे सोचना ख़तरनाक है।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सीखो और सोचो — एक अकेला करना आधा इंसान है! - कैबी!"
+  },
+  {
+    "id": "quo_103",
+    "text": "अंत को शुरुआत की तरह सँभालो, तो कुछ नहीं टूटेगा।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अंत तक सतर्क रहने वाले को हार नहीं मिलती! - कैबी!"
+  },
+  {
+    "id": "quo_104",
+    "text": "जानने वाले से पसंद करने वाला अच्छा, पसंद करने वाले से आनंद लेने वाला श्रेष्ठ।",
+    "category": "classic",
+    "tone_tags": [
+      "joy"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जो सीखते है उसका आनंद लो। आज क्या आनंद लिया? - कैबी!"
+  },
+  {
+    "id": "quo_105",
+    "text": "महान ज्ञान विशाल और शांत होता है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "장자",
+    "source": "장자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "बड़ा ज्ञान शांत बैठता है। न चिल्लाने वाली गहराई का सम्मान करो! - कैबी!"
+  },
+  {
+    "id": "quo_106",
+    "text": "भाग्य तैयारी के साथ अवसर का मिलन है।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "세네카",
+    "source": "운문에 대하여",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कुल्हाड़ी तेज़ रखो — भाग्य तैयार दरवाज़े पर दस्तक देता है! - कैबी!"
+  },
+  {
+    "id": "quo_107",
+    "text": "तुम्हें परेशान चीज़ें नहीं, उन पर तुम्हारे विचार करते हैं।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "마르쿠스 아우렐리우스",
+    "source": "명상록",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "दुनिया नहीं बदल सकते तो पहले अपना नज़रिया बदलो! - कैबी!"
+  },
+  {
+    "id": "quo_108",
+    "text": "लोगों को चीज़ें नहीं, चीज़ों के बारे में उनके विचार परेशान करते हैं।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에픽테토스",
+    "source": "강론",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "चोट तथ्य नहीं, देखने वाली आँख देती है। आँखें धोओ! - कैबी!"
+  },
+  {
+    "id": "quo_109",
+    "text": "स्वयं को जानो।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "전통 격언",
+    "source": "델포이 신전",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "खुद को जानना हर यात्रा का पहला क़दम है! - कैबी!"
+  },
+  {
+    "id": "quo_110",
+    "text": "शुरुआत काम का सबसे महत्वपूर्ण हिस्सा है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플라톤",
+    "source": "국가",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "शुरुआत सबसे कठिन — इसीलिए सबसे महान! - कैबी!"
+  },
+  {
+    "id": "quo_111",
+    "text": "सद्गुण कर्म से बनती है। सही कार्य करने से हम सही व्यक्ति बनते हैं।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "अरस्तू",
+    "source": "निकोमेकियन एथिक्स",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "अरस्तू कहते हैं: सोचने से पहले करो! - कैबी!"
+  },
+  {
+    "id": "quo_112",
+    "text": "धैर्य कड़वी है, पर उसका फल मीठा है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "아리스토텔레스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "धैर्य का फल मीठा है, चबाने में कड़वा सही! - कैबी!"
+  },
+  {
+    "id": "quo_113",
+    "text": "मृत्यु हमारे लिए कुछ नहीं है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "에피쿠로스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मौत आज का विषय नहीं। बस आज सोचो! - कैबी!"
+  },
+  {
+    "id": "quo_114",
+    "text": "भाग्य साहसी का साथ देता है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "베르길리우스",
+    "source": "아이네이스 제10권",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "निडर बनो! गोब्लिन डरपोकों के पास नहीं ठहरता! - कैबी!"
+  },
+  {
+    "id": "quo_115",
+    "text": "धीरे चलो, पर रुको मत।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "이솝",
+    "source": "우화",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "धीमा चलो, बस रुको मत — बस यही सब है! - कैबी!"
+  },
+  {
+    "id": "quo_116",
+    "text": "ज्ञान ही शक्ति है।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "베이컨",
+    "source": "명상록",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ज्ञान हड्डियों में उतरे तो शक्ति बनता है। आज भी पढ़ो! - कैबी!"
+  },
+  {
+    "id": "quo_117",
+    "text": "अपने आप से सच्चे रहो।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "खुद से सच्चे रहो तो दुनिया में झूठ नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_118",
+    "text": "संदेह विश्वासघाती है।",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "셰익스피어",
+    "source": "햄릿",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "संदेह ही विश्वासघात है। कम से कम एक बार कोशिश करो! - कैबी!"
+  },
+  {
+    "id": "quo_119",
+    "text": "इंसान सोचने वाली सरकंडा है।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "파스칼",
+    "source": "팡세",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सोचने वाली सरकंडा — इसीलिए महान। सोचने पर शर्म मत करो! - कैबी!"
+  },
+  {
+    "id": "quo_120",
+    "text": "मैं सोचता हूँ, इसलिए मैं हूँ।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "데카르트",
+    "source": "방법서설",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सोचता हूँ, इसलिए हूँ — पहले भीतर की दुनिया खड़ी करो! - कैबी!"
+  },
+  {
+    "id": "quo_121",
+    "text": "दो चीज़ें मुझे भरती हैं: तारों भरा आसमान और भीतर का नैतिक नियम।",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "칸트",
+    "source": "비판철학",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तारे और नैतिकता देखो। यही दो काफ़ी हैं! - कैबी!"
+  },
+  {
+    "id": "quo_122",
+    "text": "सिर्फ़ जानना काफ़ी नहीं, लागू करना पड़ेगा।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "괴테",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जान लेने पर संतोष मत करो। लागू करने पर ही सच्चा ज्ञान है! - कैबी!"
+  },
+  {
+    "id": "quo_123",
+    "text": "परफ़ेक्शन अच्छाई का दुश्मन है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "볼테르",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "परफ़ेक्शनिज़्म छोड़ो। अच्छा होना काफ़ी है! - कैबी!"
+  },
+  {
+    "id": "quo_124",
+    "text": "इंसान आज़ाद पैदा होता है, और हर जगह बेड़ियों में है।",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "루소",
+    "source": "사회계약론",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "अपनी बेड़ियाँ गिनो — कुछ तुमने खुद बाँधी हैं! - कैबी!"
+  },
+  {
+    "id": "quo_125",
+    "text": "सब दुनिया बदलना चाहते हैं, कोई खुद को बदलना नहीं चाहता।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "톨스토이",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "दुनिया बदलने से पहले आईना देखो! - कैबी!"
+  },
+  {
+    "id": "quo_126",
+    "text": "जिसके पास जीने का 'क्यों' है, वह लगभग कोई भी 'कैसे' सह लेता है।",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "니체",
+    "source": "황혼의 우상",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जिसके पास 'क्यों' है, वह हर 'कैसे' झेल लेता है। अपना क्यों ढूँढो! - कैबी!"
+  },
+  {
+    "id": "quo_127",
+    "text": "जो हमें मार नहीं सकता, वह हमें मज़बूत बनाता है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "니체",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जो नहीं मार सकता वह सिखा देता है। निशान फौलाद के होते हैं! - कैबी!"
+  },
+  {
+    "id": "quo_128",
+    "text": "आज हो सकने वाला काम कल पर मत टालो।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज का काम आज करो। कल का तुम मुस्कुराएगा! - कैबी!"
+  },
+  {
+    "id": "quo_129",
+    "text": "कौन बलवान? जो स्वयं पर विजय पाए।",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "탈무드",
+    "source": "격언",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "सबसे बड़ा दुश्मन बाहर नहीं, भीतर है। उसे हराओ! - कैबी!"
+  },
+  {
+    "id": "quo_130",
+    "text": "सीखने के लिए कभी देर नहीं होती।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "솔론",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "बुढ़ापे में सीखो तो बुढ़ापा नहीं। अभी शुरू करो! - कैबी!"
+  },
+  {
+    "id": "quo_131",
+    "text": "खोया समय फिर नहीं मिलता।",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "프랭클린",
+    "source": "격언",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "समय लौटकर नहीं आता। एक दिन की क़ीमत जानो! - कैबी!"
+  },
+  {
+    "id": "quo_132",
+    "text": "एक औंस बचाव, एक पाउंड इलाज से बेहतर।",
+    "category": "classic",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "프랭클린",
+    "source": "빈약한 리처드의 연감",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक बचाव दस इलाज से बेहतर! - कैबी!"
+  },
+  {
+    "id": "quo_133",
+    "text": "ख़ुद पर भरोसा करो — हर दिल उस लोहे की डोर से गूँज उठता है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "राल्फ वाल्डो एमर्सन",
+    "source": "आत्म-निर्भरता (1841)",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "भरोसा दूसरों से माँगो मत! तुम्हारे भीतर की तार पहले गूँजती है — अभी बजाओ! - कैबी!"
+  },
+  {
+    "id": "quo_134",
+    "text": "यदि मैंने और दूर देखा है, तो यह इसलिए है क्योंकि मैं दिग्गजों के कंधों पर खड़ा था।",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "आइजक न्यूटन",
+    "source": "रॉबर्ट हुक को पत्र (1675)",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "न्यूटन भी दिग्गजों पर खड़े थे! मिलकर दूर देखें! - कैबी!"
+  },
+  {
+    "id": "quo_135",
+    "text": "हर बड़ा ओक कभी बलूत का बीज था।",
+    "category": "classic",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "에머슨",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "हर ओक कभी बलूत का बीज था। आज के बीज को हल्का मत लो! - कैबी!"
+  },
+  {
+    "id": "quo_136",
+    "text": "दोस्त पाने का एकमात्र तरीका दोस्त बनना है।",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "에머슨",
+    "source": "우정에 대하여",
+    "theme": "growth",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "दोस्त चाहिए? पहले दोस्त बनो। यही एक तरीका है! - कैबी!"
+  },
+  {
+    "id": "quo_137",
+    "text": "सरलता ही चरम परिष्कार है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "미상",
+    "source": "출전 불명 (다 빈치 귀속설)",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जटिल पैकेजिंग न करो। सरलता ही चरम परिष्कार है! - कैबी!"
+  },
+  {
+    "id": "quo_138",
+    "text": "सीखना मन को कभी थकाता नहीं।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "다 빈치",
+    "source": "노트",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सीखता मन कभी बूढ़ा नहीं होता! - कैबी!"
+  },
+  {
+    "id": "quo_139",
+    "text": "मन भरने का पात्र नहीं, जलाने की लकड़ी है।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "플루타르코스",
+    "source": "격언",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "मन भरने का बर्तन नहीं, जलाने की लकड़ी है। लकड़ियाँ डालो! - कैबी!"
+  },
+  {
+    "id": "quo_140",
+    "text": "मरना चाहो तो जियोगे, जीना चाहो तो मरोगे।",
+    "category": "classic",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "이순신",
+    "source": "난중일기",
+    "theme": "challenge",
+    "emotion": "rage",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मरने का संकल्प जीने का रास्ता खोलता है। तय करो! - कैबी!"
+  },
+  {
+    "id": "quo_141",
+    "text": "हे जवानी, तुझे वापस भेजने की जगह है?",
+    "category": "classic",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "허난설헌",
+    "source": "허난설헌 시화",
+    "theme": "fortune",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "जवानी वापस नहीं भेजी जाती। आज पछतावे के बिना जलो! - कैबी!"
+  },
+  {
+    "id": "quo_142",
+    "text": "जीवन भारी बोझ लेकर लंबा सफ़र करने जैसा है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "도쿠가와 이에야스",
+    "source": "격언",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "भारी बोझ उतना ही लंबा सफ़र। ज़िंदगी हमेशा ऐसी ही रही! - कैबी!"
+  },
+  {
+    "id": "quo_143",
+    "text": "आज कल के स्वयं को हराओ, कल आज के स्वयं को।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "무사시",
+    "source": "오륜서",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कल के खुद को हराओ। आज का दुश्मन बाहर नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_144",
+    "text": "ग्रीष्म घास — योद्धाओं के सपनों के निशान।",
+    "category": "classic",
+    "tone_tags": [
+      "sad"
+    ],
+    "author": "바쇼",
+    "source": "오쿠노호소미치",
+    "theme": "zen",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "ग्रीष्म घास के नीचे अनगिनत सपने सोए हैं। दुनिया चौड़ी और गहरी है! - कैबी!"
+  },
+  {
+    "id": "quo_145",
+    "text": "तीन लोग साथ चलें तो एक अवश्य गुरु है।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "공자",
+    "source": "논어",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "तीन में एक गुरु होता है। आज की मुलाक़ात से एक बात सीखो! - कैबी!"
+  },
+  {
+    "id": "quo_146",
+    "text": "सर्वोच्च धर्म पानी जैसा है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सर्वोच्च धर्म पानी की तरह नीचे बहता है! - कैबी!"
+  },
+  {
+    "id": "quo_147",
+    "text": "संतोष जानने वाला धनवान है।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "노자",
+    "source": "도덕경",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "संतोष जानने वाला सबसे धनवान है। आज अपना हिसाब लगाओ! - कैबी!"
+  },
+  {
+    "id": "quo_148",
+    "text": "शत्रु और स्वयं को जानो — सौ लड़ाइयों में हार नहीं।",
+    "category": "classic",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "손자",
+    "source": "손자병법",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "शत्रु और स्वयं जानो — सौ लड़ाइयों में जीत। तैयारी करो! - कैबी!"
+  },
+  {
+    "id": "quo_149",
+    "text": "बात न बने तो अपने भीतर झाँको।",
+    "category": "classic",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "맹자",
+    "source": "맹자",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "बात न बने तो आईना देखो। जवाब भीतर है! - कैबी!"
+  },
+  {
+    "id": "quo_150",
+    "text": "ज्ञान और कर्म एक हैं।",
+    "category": "classic",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "왕양명",
+    "source": "전습록",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "ज्ञान और कर्म एक हैं। आज उन्हें एक करो! - कैबी!"
+  },
+  {
+    "id": "quo_151",
+    "text": "जाना-पहचाना रास्ता हो तो भी पूछकर चलो — परिचित राह दोबारा पूछना गलती घटाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "जानने का दिखावा ही असली जाल है! हज़ार साल का कैबी भी रास्ता पूछता है! - कैबी!"
+  },
+  {
+    "id": "quo_152",
+    "text": "ऊपर का पानी साफ़ हो तो नीचे का भी साफ़ रहता है — खुद आदर्श बनना ही असली शिक्षा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "साफ़ पानी ऊपर से बहता है! पहले खुद साफ़ बनो, नीचे वाले अपने आप ठीक होंगे! - कैबी!"
+  },
+  {
+    "id": "quo_153",
+    "text": "व्हेलों की लड़ाई में झींगे की पीठ टूटती है — बड़ों के झगड़े में छोटे को चोट लगती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "व्हेल आपस में लड़े और तुम्हारी पीठ पटक गई… इस बार एक कदम हट जाओ, पहले ठीक हो जाओ! - कैबी!"
+  },
+  {
+    "id": "quo_154",
+    "text": "कुएँ का मेंढक — छोटी सी दुनिया जानकर समुद्र को हल्के में लेना।",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कुएँ से बाहर निकलकर समुद्र देखो! दुनिया तुम्हारे कुएँ से बहुत बड़ी है! - कैबी!"
+  },
+  {
+    "id": "quo_155",
+    "text": "पाठशाला का कुत्ता भी तीन साल में कविता पढ़ता है — अच्छे माहौल में रहो तो सीख अपने आप उतरती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कुत्ता तीन साल में शेर कह लेता है, तो तुम अच्छी जगह तीन हफ़्त रहकर देखो! उस्तादों के पास बैठो! - कैबी!"
+  },
+  {
+    "id": "quo_156",
+    "text": "तारीफ़ तो व्हेल को भी नचा देती है — सच्ची सराहना असंभव को भी हिला देती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज किसी को दिल से तारीफ़ करो! व्हेल नाचेगा तो पूरा समुद्र थरथराएगा! - कैबी!"
+  },
+  {
+    "id": "quo_157",
+    "text": "पहली घूँट से पेट नहीं भरता — पहली सफलता में मत झूमो, अच्छे नतीजे की प्रक्रिया होती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "पहली घूँट पर मत बहलो! अच्छी शराब घूँट-दर-घूँट पकती है! - कैबी!"
+  },
+  {
+    "id": "quo_158",
+    "text": "तीन साल की आदत अस्सी तक चलती है — जवानी में पड़ी आदत जीवन भर साथ रहती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आदतें परछाईं बन जाती हैं! आज बोई आदत अस्सी साल छाया डालेगी! - कैबी!"
+  },
+  {
+    "id": "quo_159",
+    "text": "मुस्कुराते चेहरे पर कौन थूकता है — मुलायम चेहरा ज़्यादातर बुराई पिघला देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज मुस्कान के साथ निकलो! मुस्कुराते चेहरे के आगे थूकने वाला भी झिझक जाता है! - कैबी!"
+  },
+  {
+    "id": "quo_160",
+    "text": "कछुए से डरा दिल, ढक्कन देखकर भी उछलता है — बुरी तरह चौंका हुआ मन छोटी चीज़ पर भी काँपता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "डरे हुए दिल को ढक्कन भी कछुआ लगता है! पर ढक्कन कछुआ नहीं — साँस लो, फिर देखो! - कैबी!"
+  },
+  {
+    "id": "quo_161",
+    "text": "एक दिन का पिल्ला बाघ से नहीं डरता — लापरवाह हिम्मत ख़तरनाक है, पर हर शुरुआत की पूँजी भी वही है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "बाघ से डरकर पहाड़ पर ही नहीं चढ़ेंगे क्या? कभी नहीं! हिम्मत इस्तेमाल से चमकती है! - कैबी!"
+  },
+  {
+    "id": "quo_162",
+    "text": "धूल जमा होकर पर्वत बनती है — छोटी चीज़ें जुड़कर बड़ा पहाड़ बनती हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज की धूल के कण को हल्के में मत लो! पहाड़ भी बिखरने से इनकार करने वाली धूल ही है! - कैबी!"
+  },
+  {
+    "id": "quo_163",
+    "text": "फुहारों से भी कपड़े भीगते हैं — छोटी चीज़ें रिसकर बड़े निशान छोड़ती हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "फुहारों से सावधान! कपड़े भीगा महसूस करो, तब तक भीग चुका होता है — छोटी चीज़ें गिनते रहो! - कैबी!"
+  },
+  {
+    "id": "quo_164",
+    "text": "केंचुए को भी कुचलो तो वह तड़पता है — सबसे कमज़ोर भी अपनी सीमा पर लड़ता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "केंचुआ भी तड़पता है! कमज़ोर दिखने वाले को हल्के में मत लो — यही शिष्टाचार भी है और रणनीति भी! - कैबी!"
+  },
+  {
+    "id": "quo_165",
+    "text": "आसमान से तारा तोड़ना — मुश्किल है, पर मुश्किल और नामुमकिन अलग चीज़ें हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तारा चाहिए? पहले सीढ़ी बनाओ! 'मुश्किल' और 'नामुमकिन' दो अलग तारे हैं! - कैबी!"
+  },
+  {
+    "id": "quo_166",
+    "text": "तस्वीर का लड्डू — घूरते रहने से पेट नहीं भरता।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "चित्र के लड्डू से पेट नहीं भरता! खाना चाहिए तो रसोई तक जाओ! - कैबी!"
+  },
+  {
+    "id": "quo_167",
+    "text": "थोड़ा बाँटो, ढेर सारा पाओ — दिया हुआ स्नेह कई गुना लौटता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "दिया हुआ कई गुना लौटता है — देखते रहो! स्नेह का ब्याज सोने से बढ़िया है! - कैबी!"
+  },
+  {
+    "id": "quo_168",
+    "text": "पकवान आने से पहले ही थाली न लगाओ — काम बनने से पहले जल्दी उम्मीद मत पालो।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "काम बनने से पहले ही लड्डू बाँटा तो दिक्कत होगी! उम्मीद ठंडे पानी की तरह धीरे-धीरे पियो! - कैबी!"
+  },
+  {
+    "id": "quo_169",
+    "text": "रास्ता चाहे जैसा हो, मंज़िल मिले तो काफ़ी है — राह कितनी भी टेढ़ी हो, पहुँचना ही असली बात है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "टेढ़े रास्ते पर शोक मत मनाओ! असली बात तो मंज़िल पर पहुँचना है! - कैबी!"
+  },
+  {
+    "id": "quo_170",
+    "text": "दस गज़ पानी की गहराई मालूम, एक गज़ दिल की नहीं — इंसान का मन सबसे गहरा पानी है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "पानी की गहराई डंडी से नाप लो, दिल की कोई डंडी नहीं! दिमाग़ खपाने की जगह, प्यार से पूछ लो! - कैबी!"
+  },
+  {
+    "id": "quo_171",
+    "text": "सच्ची लगन आसमान को भी हिला देती है — सच्चा समर्पण भगवान के दरवाज़े भी खोल देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सच्ची लगन डोककेबी को भी पिघला देती है! आसमान हिलने से पहले, तुम्हारे पाँव हिलने दो! - कैबी!"
+  },
+  {
+    "id": "quo_172",
+    "text": "मेंढक अपने बचपन के दिन भूल जाता है — हालत सुधरते ही जड़ें और एहसान सबसे पहले भूलते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अपने बचपन को याद रखने वाला मेंढक ही सबसे बड़ा होता है! जिस तालाब ने पाला, उसे मत भूलो! - कैबी!"
+  },
+  {
+    "id": "quo_173",
+    "text": "भैंस के आगे बीन बजाना — सुनने की इच्छा न हो तो कितना भी कहो, बात नहीं लगती।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "बीन बजाने से ज़्यादा ज़रूरी है, सुनने वाला ढूँढना! भैंस छोड़ो, कान धरने वालों को ढूँढो! - कैबी!"
+  },
+  {
+    "id": "quo_174",
+    "text": "पकवान पकने से पहले ही थाली लगाना — फल क्रम निभाने वालों को ही मिलता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "comic"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "खीर चावल पकने के बाद बनती है! क्रम छलांग मारो तो पैर फिसलेगा ही! - कैबी!"
+  },
+  {
+    "id": "quo_175",
+    "text": "जितना जल्दी, उतना घुमकर चलो — समय की कमी में भी सुरक्षित और पक्का रास्ता चुनो।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "जल्दी है तो शॉर्टकट मत भागो! कैबी-पुल पार करना है तो पहले पत्थर का पुल लो! - कैबी!"
+  },
+  {
+    "id": "quo_176",
+    "text": "पुआल की चप्पल भी जोड़े में होती है — हर किसी का जोड़ीदार कहीं न कहीं ज़रूर होता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "पुआल की चप्पल भी अकेली नहीं! तुम्हारा जोड़ीदार गायब नहीं, बस अभी मिला नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_177",
+    "text": "मल्लाह ज़्यादा हों तो नाव पहाड़ पर चढ़ जाती है — बहुत सारे हुक्म सुनाने वाले काम बिगाड़ देते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "पतवार एक ही हाथ में! दो मल्लाह होंगे तो नाव समुद्र भूल जाएगी! - कैबी!"
+  },
+  {
+    "id": "quo_178",
+    "text": "फूल दस दिन लाल नहीं रहता — अच्छा समय बीतता है, इसीलिए वह कीमती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "फूल के मुरझाने पर शोक मत मनाओ! मुरझाता है इसलिए फूल है — सदा खिला रहे तो वह दीवार का चित्र है! - कैबी!"
+  },
+  {
+    "id": "quo_179",
+    "text": "चाँद भी पूरा होकर घटता है — पूर्णता के बाद उतराव आता है, बस पूर्णता के पीछे मत भागो।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "पूरा चाँद ढलने पर दुखी मत हो! वह चाँद आराम कर रहा है — अगली पूरनमासी तैयार कर रहा है! - कैबी!"
+  },
+  {
+    "id": "quo_180",
+    "text": "ठंडे पानी में भी ऊपर-नीचे होता है — छोटे से छोटे काम में भी निभाने लायक आचार है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "ठंडे पानी में भी तह होती है! पानी भरने का भी क्रम है — शिष्टाचार का कोई आकार नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_181",
+    "text": "नीचे का पत्थर निकालकर ऊपर टिकाना — एक ओर भरो, दूसरी ओर गिर जाए।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "नीचे का पत्थर ही भार सहता है! उसे निकालो तो ऊपर वाला भी गिरेगा — सही क्रम में दोबारा जोड़ो! - कैबी!"
+  },
+  {
+    "id": "quo_182",
+    "text": "बाघ न होने की घाटी में खरगोश गुरु — असली उस्ताद न हों तो औसत वाला भी शिक्षक बन जाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "curious"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "घाटी में बाघ नहीं तो खरगोश ही राजा! पास में उस्ताद नहीं तो जितना सीखा है, दूसरों को सिखाओ! - कैबी!"
+  },
+  {
+    "id": "quo_183",
+    "text": "एक ही जाल की मछलियाँ आपस में पूँछ काटती हैं — अपनों में लड़ाई हो तो दोनों तरफ़ खून बहता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "conflict"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "एक ही जाल में काटो मत! मछली आपस में लड़ेंगी तो पूरा जाल बर्बाद होगा! - कैबी!"
+  },
+  {
+    "id": "quo_184",
+    "text": "बिना आग धुआँ नहीं उठता — बिना कारण कुछ भी नहीं होता।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "धुआँ दिखे तो अंगारा ढूँढो! कारण को ठेलोगे तो आग फिर भड़केगी! - कैबी!"
+  },
+  {
+    "id": "quo_185",
+    "text": "अपनी नाक तीन हाथ लंबी हो, फिर भी दूसरों की नाक साफ़ करना — अपना काम छोड़कर पहले दूसरों की मदद।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अपनी नाक तीन हाथ लंबी होते हुए भी दूसरे की नाक पोंछने वाले होते हैं! ऐसे लोगों के पास भाग्य घोंसला बनाता है! - कैबी!"
+  },
+  {
+    "id": "quo_186",
+    "text": "नदी के उस पार की आग देखना — जो अपने ऊपर नहीं आता, वह दूसरों का मामला लगता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "नदी पार की आग ठीक दूसरों की नहीं है! हवा की दिशा बदली तो आग नदी पार कर आएगी! - कैबी!"
+  },
+  {
+    "id": "quo_187",
+    "text": "पका फोड़ा फूटता ही है — दबाकर जमा की चीज़ कभी न कभी बाहर उमड़ती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "rage"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "rage",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ढका ज़ख़्म पकता है! फूटने से पहले निकाल दो — दर्द उतना नहीं होगा! - कैबी!"
+  },
+  {
+    "id": "quo_188",
+    "text": "नफ़रत-प्रेम की उलझी डोर — चिढ़ते-चिढ़ते भी स्नेह जुड़ जाता है, और जुड़ी डोर काटना मुश्किल है।",
+    "category": "proverb",
+    "tone_tags": [
+      "shy"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "चिढ़ की डोर स्नेह की डोर जन्म देती है! हज़ार साल का कैबी भी इंसानी स्नेह से हार गया — इसीलिए यहाँ हूँ! - कैबी!"
+  },
+  {
+    "id": "quo_189",
+    "text": "आँखें बंद करके उल्लू बनना — खुद को धोखा देना किसी को धोखा नहीं देता।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "अपनी आँख मूँदने से दूसरों की आँखें नहीं मूँदतीं! छिपाने की मेहनत छोड़ो, कबूल करने का हिम्मत लो — वही जल्दी काम करेगा! - कैबी!"
+  },
+  {
+    "id": "quo_190",
+    "text": "चोर का पैर खुजलाता है — छिपाया हुआ कसूर अपने आप खुल जाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "खुजलाता पैर लंगड़ाता ही है! छिपाया कसूर पैर की नोक से बाहर उतरता है! - कैबी!"
+  },
+  {
+    "id": "quo_191",
+    "text": "हाथ न पहुँचने वाला फल भी डाल से हिला देखो — दूर का फल भी एक बार कोशिश करने लायक है।",
+    "category": "proverb",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "फल ऊँचे पर है तो भी एक बार हिला देखो! गिरते हैं तो वही फल, जिन्हें हिलाया जाता है! - कैबी!"
+  },
+  {
+    "id": "quo_192",
+    "text": "एक दाना चना भी आधा करके खाओ — स्नेह बाँटने में है, बराबरी में नहीं।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आधा दाना बाँटकर खाने वाले ही असली यार हैं! बाँटो तो दाना भी भोजन बनता है! - कैबी!"
+  },
+  {
+    "id": "quo_193",
+    "text": "जिस पर चढ़ा न जा सके, उस पेड़ को देखना भी छोड़ दो — न मिलने वाले का लाग-लपेट छोड़ना भी समझदारी है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "चढ़ने लायक पेड़ ढूँढो! जंगल में पेड़ एक ही नहीं होते! - कैबी!"
+  },
+  {
+    "id": "quo_194",
+    "text": "कड़वी दवा ही बीमारी मिटाती है — कान को चुभती सलाह गहरा इलाज करती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कान में चुभने वाले शब्द ही दवा हैं! मीठे शब्दों पर पलते रहोगे तो बीमारी छिपकर बढ़ेगी! - कैबी!"
+  },
+  {
+    "id": "quo_195",
+    "text": "पेड़ के नीचे लेटकर फल गिरने का इंतज़ार — किस्मत भी सही जगह चुनने वालों पर मेहरबान होती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "फल उसी पेड़ के नीचे गिरता है जिसका वह है! किस्मत का इंतज़ार है तो कम से कम उसी पेड़ के नीचे लेटो! - कैबी!"
+  },
+  {
+    "id": "quo_196",
+    "text": "दस साल में नदियाँ-पहाड़ भी बदल जाते हैं — दुनिया हमेशा बदलती रहती है, आज की रुकावट भी टिकती नहीं।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "दस साल में नदियाँ-पहाड़ भी बदल जाते हैं! आज की अवरुद्ध सड़क दस साल बाद नदी बनकर बह रही होगी! - कैबी!"
+  },
+  {
+    "id": "quo_197",
+    "text": "दसों उँगलियाँ दबाकर देखो, जो न दुखे वह कोई नहीं — हर एक कीमती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "दुखती उँगली काटकर नहीं फेंकते! तुम्हारा दर्द किसी से कम कीमती नहीं! - कैबी!"
+  },
+  {
+    "id": "quo_198",
+    "text": "शब्द बीज बन जाते हैं — बिखरा शब्द हक़ीक़त बुलाकर लौटता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "अच्छे शब्द बोनो! वे बीज बनकर लौटते हैं! डोककेबी भी मीठी आवाज़ पर कान खड़े करता है! - कैबी!"
+  },
+  {
+    "id": "quo_199",
+    "text": "जाता स्नेह तभी आता स्नेह — पहले देने वाला ही पहले पाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "स्नेह वापसी का टिकट है! पहले भेजो, जवाब बिना इंतज़ार आएगा! आज तुम ही पहले अभिवादन करो! - कैबी!"
+  },
+  {
+    "id": "quo_200",
+    "text": "बारिश के बाद ज़मीन और सख़्त हो जाती है — बीता हुआ तूफ़ान तुम्हें और दृढ़ कर देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "पारंपरिक ज्ञान",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "तूफ़ान जहाँ से गुज़रा, वहाँ की मिट्टी सबसे सख़्त! भीगे दिनों ने तुम्हें कुचला नहीं — पक्का किया है! - कैबी!"
+  },
+  {
+    "id": "quo_201",
+    "text": "सुबह उठकर सोचो — साँस लेना, सोचना, आनंद लेना, प्यार करना — जीवित होना कितना कीमती वरदान है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "मार्कस ऑरेलियस",
+    "source": "मेडिटेशन्स, पुस्तक 5",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक साँस भी जीती हुई लॉटरी है! आज सुबह के वरदान को भुनाओ! - कैबी!"
+  },
+  {
+    "id": "quo_202",
+    "text": "कृतज्ञता न केवल सबसे बड़ा गुण है, बल्कि शेष सभी गुणों की जननी है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "सिसरो",
+    "source": "प्रो प्लांसियो (ईसा पूर्व 54)",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "शुक्रिया शब्द से ही सारे गुण उगते हैं! आज तीन बार ज़ोर से कहो! - कैबी!"
+  },
+  {
+    "id": "quo_203",
+    "text": "मैं दूर तक देख पाया, क्योंकि मैं दिग्गजों के कंधों पर खड़ा था।",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "आइज़ैक न्यूटन",
+    "source": "रॉबर्ट हुक को पत्र (1675)",
+    "theme": "gratitude",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "अकेले सब देखने का नाटक बंद करो! पैरों तले के दिग्गजों को भी धन्यवाद दो! - कैबी!"
+  },
+  {
+    "id": "quo_204",
+    "text": "कोई भी दयालुता, चाहे कितनी छोटी हो, कभी बेकार नहीं जाती।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ईसप",
+    "source": "ईसप की कहानियाँ — शेर और चूहा",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "शेर के पंजे का काँटा निकालने वाले चूहे को याद है? दयालुता पर ब्याज लगता है! - कैबी!"
+  },
+  {
+    "id": "quo_205",
+    "text": "अपने आसपास अभी जो सुंदरता बची है, उसके बारे में सोचो और खुश रहो।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ऐनी फ्रैंक",
+    "source": "एक युवती की डायरी (1942–1944)",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "छुपे हुए अटारी से भी तारे दिखते थे! खूबसूरती कहीं नहीं भागती, नज़र ही गड़बड़ है! - कैबी!"
+  },
+  {
+    "id": "quo_206",
+    "text": "पूरा ध्यान देना ही सबसे दुर्लभ और सबसे शुद्ध उदारता है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "सिमोन वेल",
+    "source": "जोए बुस्के को पत्र (1942)",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "असली तोहफ़ा डिब्बा नहीं, निगाह है! पास बैठे को ठीक से देखो! - कैबी!"
+  },
+  {
+    "id": "quo_207",
+    "text": "शिक्षक की सबसे बड़ी सफलता यह कह पाना है — 'बच्चे अब ऐसे लगे हैं जैसे मैं मौजूद ही न हूँ।'",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "मारिया मोंटेसरी",
+    "source": "अवशोषक मन (1949)",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "जो हाथ दिखता नहीं, वही सबसे अच्छा हाथ है! दमदार मुस्कान के साथ पीछे हटो! - कैबी!"
+  },
+  {
+    "id": "quo_208",
+    "text": "समृद्धि इससे नहीं कि हमारे पास क्या है, बल्कि इससे है कि हम क्या आनंद उठाते हैं।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "एपिक्यूरस",
+    "source": "वेटिकन कथन",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "गोदाम भरा हो, पर हँसी नहीं तो गरीबी है! आज एक टुकड़ा जी भरकर चखो! - कैबी!"
+  },
+  {
+    "id": "quo_209",
+    "text": "शिक्षा जीवन की तैयारी नहीं है; शिक्षा स्वयं जीवन है।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "जॉन डीवी",
+    "source": "मेरा शैक्षिक सिद्धांत (1897)",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सीखने का दिन ही जीने का दिन है! यह हज़ार साल का कैबी भी अब तक सीख रहा है! - कैबी!"
+  },
+  {
+    "id": "quo_210",
+    "text": "आदम की संतान एक ही शरीर के अंग हैं; एक जगह दुखे तो सब दुखते हैं।",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "सादी",
+    "source": "गुलिस्तान (1258)",
+    "theme": "gratitude",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "एक दुखे तो सब दुखते हैं! पड़ोसी के पैर पर मत ठोको! - कैबी!"
+  },
+  {
+    "id": "quo_211",
+    "text": "सब कुछ अपने ऊपर घटित होने दो — सुंदरता और आतंक दोनों। बस चलते रहो। कोई भाव आखिरी नहीं है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "राइनर मारिया रिल्के",
+    "source": "घंटों की पुस्तक (1899–1903)",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आँसुओं का और रात का अंत होता है! आख़िर में सुबह ही जीतती है — चलते रहो! - कैबी!"
+  },
+  {
+    "id": "quo_212",
+    "text": "शायद हमारे जीवन के सारे ड्रैगन राजकुमारियाँ हैं, जो बस सुंदरता और साहस से एक बार हमारा कदम देखना चाहती हैं।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "राइनर मारिया रिल्के",
+    "source": "युवा कवि को पत्र (1929)",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "ड्रैगन के आगे जमने की अभी उम्र नहीं! एक बार का साहस पूँछ को पर बना देता है! - कैबी!"
+  },
+  {
+    "id": "quo_213",
+    "text": "मैंने कभी किसी जंगली जीव को अपने ऊपर तरसते नहीं देखा। छोटा पक्षी खुद पर तरसे बिना ही जमी डाली से गिर जाता है।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "डी. एच. लॉरेंस",
+    "source": "कविता 'सेल्फ़-पिटी' (1929)",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तरसने से पेट नहीं भरता! चिड़िया रोती है या उड़ती है? उड़ती है! - कैबी!"
+  },
+  {
+    "id": "quo_214",
+    "text": "मैं मुड़ी और टूटी, लेकिन — काश — बेहतर आकार में।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "चार्ल्स डिकेंस",
+    "source": "ग्रेट एक्सपेक्टेशन्स (1861)",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "टूटी जगह जोड़ से ज़्यादा मज़बूत होती है! दरार वाला चीनी बर्तन भी चमकता है! - कैबी!"
+  },
+  {
+    "id": "quo_215",
+    "text": "दिल की नरमी जैसा कोई आकर्षण नहीं।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "जेन ऑस्टिन",
+    "source": "एम्मा (1815)",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "नरमी धार से ज़्यादा गहरी काटती है! आज बातें नरम रखो! - कैबी!"
+  },
+  {
+    "id": "quo_216",
+    "text": "प्यार करना, या प्यार किया होना — बस यही काफ़ी है। और कुछ न माँगो।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "विक्टर ह्यूगो",
+    "source": "ले मिज़रेबल (1862)",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "प्यार के निशान रबर से नहीं मिटते! वही असली दौलत है! - कैबी!"
+  },
+  {
+    "id": "quo_217",
+    "text": "सही देखना केवल दिल से ही संभव है; जो असली है वह आँखों से नहीं दिखता।",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "आंत्वान द सेंट-एग्ज़ूपेरी",
+    "source": "छोटा राजकुमार (1943)",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आँखें छिलका ही देखती हैं! अंदर देखने के लिए सीने में आग जलाओ! - कैबी!"
+  },
+  {
+    "id": "quo_218",
+    "text": "प्यार एक-दूसरे को देखने में नहीं, साथ मिलकर एक ही दिशा में देखने में है।",
+    "category": "world",
+    "tone_tags": [
+      "meeting"
+    ],
+    "author": "आंत्वान द सेंट-एग्ज़ूपेरी",
+    "source": "विंड, सैंड एंड स्टार्स (1939)",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "नज़रें मिलने से क़दम एक दिशा में बेहतर हैं! साथ-साथ चलो! - कैबी!"
+  },
+  {
+    "id": "quo_219",
+    "text": "जिसे क्यों जीना है यह पता है, वह लगभग कोई भी कैसे सह लेता है।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "फ्रीडरिश नीत्शे",
+    "source": "मूर्तियों की सांझ (1889)",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "वजह खो दो तो टाँगें भी झुक जाती हैं! अपना क्यों मज़बूती से थामो! - कैबी!"
+  },
+  {
+    "id": "quo_220",
+    "text": "दिल के अपने कारण होते हैं, जिन्हें दिमाग़ नहीं जानता।",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "ब्लेज़ पास्कल",
+    "source": "पेंसे (1670)",
+    "theme": "comfort",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "दिमाग़ से न सुलझने वाला दिल भी ठीक है! सीने की दिशा में चलो! - कैबी!"
+  },
+  {
+    "id": "quo_221",
+    "text": "खुशहाल ज़िंदगी के लिए बहुत कम चाहिए; सब तुम्हारे भीतर है, तुम्हारे सोचने के तरीके में।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "मार्कस ऑरेलियस",
+    "source": "मेडिटेशन्स, पुस्तक 7",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "खुशी झोली नहीं, नज़रिया है! अभी दुनिया को थोड़ा अलग देखो! - कैबी!"
+  },
+  {
+    "id": "quo_222",
+    "text": "जीने का समय कम नहीं है, हम बहुत कुछ बर्बाद कर देते हैं। इस्तेमाल जान लो तो ज़िंदगी लंबी है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "सेनेका",
+    "source": "लूकिलियस को पत्र, पत्र I",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "समय भागा नहीं, टपक गया! आज एक घंटा वापस जीतो! - कैबी!"
+  },
+  {
+    "id": "quo_223",
+    "text": "हम सब नाली में हैं, लेकिन हममें से कुछ तारों को देख रहे हैं।",
+    "category": "world",
+    "tone_tags": [
+      "lonely"
+    ],
+    "author": "ऑस्कर वाइल्ड",
+    "source": "लेडी विंडरमीयर का पंखा (1892)",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "नाली में भी सिर उठाओ तो तारे हैं! अभी ऊपर देखो! - कैबी!"
+  },
+  {
+    "id": "quo_224",
+    "text": "अपने तरीके से गलत जाना, दूसरों के तरीके से सही जाने से बेहतर है।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "फ़्योदोर दोस्तोयेव्स्की",
+    "source": "अपराध और दंड (1866)",
+    "theme": "comfort",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "दूसरे के रास्ते पर क़ैद रहोगे तो हज़ार साल भी दूसरे की ज़िंदगी है! अपने पैरों से अपना रास्ता चलो! - कैबी!"
+  },
+  {
+    "id": "quo_225",
+    "text": "घृणा घृणा से कभी शांत नहीं होती; घृणा केवल अघृणा से शांत होती है। यह सनातन नियम है।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "बुद्ध (परंपरा)",
+    "source": "धम्मपद, श्लोक 5",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "घृणा में घृणा डालोगे तो पात्र बस गहरा होगा! आज एक दुश्मनी छोड़ दो! - कैबी!"
+  },
+  {
+    "id": "quo_226",
+    "text": "बच्चा मानवता के लिए आशा और वादा दोनों है।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "मारिया मोंटेसरी",
+    "source": "शिक्षा और शांति (1936)",
+    "theme": "gratitude",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "बच्चों की आहट धरती की धड़कन है! चमकते हुए बड़े करो! - कैबी!"
+  },
+  {
+    "id": "quo_227",
+    "text": "आपके बच्चे आपके नहीं हैं। वे आपके द्वारा आते हैं, पर आपसे नहीं निकलते।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "खलील जिब्रान",
+    "source": "भविष्यवक्ता (1923)",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "बच्चे उधार लिए तीर हैं! मुट्ठी में मत जकड़ो, दूर उड़ा दो! - कैबी!"
+  },
+  {
+    "id": "quo_228",
+    "text": "कृतज्ञता महान आत्मा की पहचान है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "ईसप",
+    "source": "ईसप की कहानियाँ",
+    "theme": "gratitude",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "एक शुक्रिया रूह का दर्जा बढ़ा देती है! आज दो और कहो! - कैबी!"
+  },
+  {
+    "id": "quo_229",
+    "text": "इंसान चीज़ों से नहीं, चीज़ों को देखने के नज़रिए से बिगड़ता है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "एपिक्टेटस",
+    "source": "एन्किरिडियन, अध्याय 5",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "पट्टा हिलाता इवेंट नहीं, तुम्हारी नज़र है! पहले दृष्टि ठीक करो! - कैबी!"
+  },
+  {
+    "id": "quo_230",
+    "text": "कहानी और ज़िंदगी एक जैसी हैं: लंबाई नहीं, अच्छाई मायने रखती है।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "सेनेका",
+    "source": "लूकिलियस को पत्र, पत्र 77",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "मोटी ज़िंदगी से स्वादिष्ट ज़िंदगी बेहतर! आज का पन्ना भली-भाँति लिखो! - कैबी!"
+  },
+  {
+    "id": "quo_231",
+    "text": "विपत्ति का उपयोग मीठा है; भेक जैसा कुरूप और ज़हरीला होकर भी उसके मस्तक पर अनमोल रत्न जड़ा है।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "विलियम शेक्सपियर",
+    "source": "एज़ यू लाइक इट (1599)",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "ज़हर में मोती छिपा है! भेक से भागो मत! - कैबी!"
+  },
+  {
+    "id": "quo_232",
+    "text": "सुंदर चीज़ सदा का आनंद है: उसकी लावण्यता बढ़ती जाती है, वह कभी शून्य में नहीं जाती।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "जॉन कीट्स",
+    "source": "एंडिमियन (1818)",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "सुंदरता ब्याज न कटने वाली जमा है! आज तीन सुंदर चीज़ें ढूँढो! - कैबी!"
+  },
+  {
+    "id": "quo_233",
+    "text": "संगीत वह कहता है जो कहा नहीं जा सकता, पर जिस पर चुप रहना भी संभव नहीं।",
+    "category": "world",
+    "tone_tags": [
+      "calm"
+    ],
+    "author": "विक्टर ह्यूगो",
+    "source": "विलियम शेक्सपियर पर निबंध (1864)",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "शब्द अटक जाएँ तो गुनगुनाओ! कैबी भी गाने से लंबी रात काटता है! - कैबी!"
+  },
+  {
+    "id": "quo_234",
+    "text": "दुनिया की सबसे बड़ी चीज़ है, ख़ुद के होना सीख लेना।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "मिशेल द मोंतेन",
+    "source": "निबंध, पुस्तक 1, अध्याय 39",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तुम्हारे भीतर का एक कमरा कोई छीन नहीं सकता! ख़ुद के होना सीखो! - कैबी!"
+  },
+  {
+    "id": "quo_235",
+    "text": "मुझे तूफ़ानों से डर नहीं, क्योंकि मैं अपना जहाज़ चलाना सीख रही हूँ।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "लुइसा मे अल्कॉट",
+    "source": "लिटिल वुमन (1868)",
+    "theme": "comfort",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "तूफ़ान नाविक का गृहकार्य है! जहाज़ से मत उतरो! - कैबी!"
+  },
+  {
+    "id": "quo_236",
+    "text": "क्या मैं विरोधाभासी हूँ? ठीक है, मैं विरोधाभासी हूँ। (मैं विशाल हूँ, मुझमें अनंत जीव समाए हैं।)",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "वॉल्ट व्हिटमैन",
+    "source": "सॉन्ग ऑफ़ माईसेल्फ (लीव्ज़ ऑफ़ ग्रास), 1855",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "कल से अलग होना कोई आपदा नहीं! कैबी भी सुबह दहाड़, रात लोरी है! - कैबी!"
+  },
+  {
+    "id": "quo_237",
+    "text": "आपको कमरा छोड़ने की ज़रूरत नहीं। मेज़ पर बैठकर कान लगाइए। दुनिया ख़ुद अपना चेहरा खोलकर आपके पास आएगी।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "फ्रांज़ काफ़्का",
+    "source": "ज़ूराऊ अफ़ोरिज़्म (1917–1918)",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जल्दी करोगे तो दुनिया छुपेगी! शांति से बैठोगे तो चेहरा दिखाएगी! - कैबी!"
+  },
+  {
+    "id": "quo_238",
+    "text": "असंभव शब्द केवल मूर्खों के शब्दकोश में मिलता है।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "नेपोलियन बोनापार्ट",
+    "source": "सेंट हेलेना स्मृति-चारित्र",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कैबी के शब्दकोश में भी 'असंभव' नहीं है! चबाकर निगल जाओ! - कैबी!"
+  },
+  {
+    "id": "quo_239",
+    "text": "दुनिया में आगे बढ़ते हैं वही लोग जो अपनी मनचाही परिस्थिति ढूँढने उठते हैं, और न मिले तो बना लेते हैं।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "जॉर्ज बर्नार्ड शॉ",
+    "source": "मिसेज़ वॉरेन्स प्रोफेशन (1893)",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "परिस्थिति बीनने की नहीं, गढ़ने की चीज़ है! इसी वक़्त उठो! - कैबी!"
+  },
+  {
+    "id": "quo_240",
+    "text": "अपने सपनों की दिशा में आत्मविश्वास से बढ़ो! जो ज़िंदगी तुमने सोची है, वह जियो।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "हेनरी डेविड थोरो",
+    "source": "वॉल्डन (1854)",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "कदम रुके तो सपना सिर्फ़ नक़्शा बन जाता है! अभी एक क़दम! - कैबी!"
+  },
+  {
+    "id": "quo_241",
+    "text": "असली श्रेय उसी का है जो सचमुच रंगशाला में खड़ा है — चेहरा धूल, पसीने और ख़ून से सना हुआ।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "थियोडोर रूज़वेल्ट",
+    "source": "रिपब्लिक में नागरिकता (भाषण, 1910)",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "दर्शक दीर्घा शोरगुल है, रंगशाला शांत! चेहरे पर थोड़ी धूल लगाओ! - कैबी!"
+  },
+  {
+    "id": "quo_242",
+    "text": "ज़मीन पर पहले से रास्ता नहीं था; चलने वाले बढ़ गए, तो रास्ता बन गया।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "लू ह्सुन",
+    "source": "मेरा पुराना घर (1921)",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "अनहोने रास्ते पैरों से बनते हैं! पहला क़दम कैबी नहीं रखेगा! - कैबी!"
+  },
+  {
+    "id": "quo_243",
+    "text": "जानना काफ़ी नहीं, लागू करना होगा। चाहना काफ़ी नहीं, करना होगा।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "योहान वोल्फगांग फॉन गेटे",
+    "source": "विल्हेल्म माइस्टर्स जर्नीमैन ईयर्स (1829)",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सीखकर जेब में रखी विद्या सड़ जाती है! आज एक निकालकर लगाओ! - कैबी!"
+  },
+  {
+    "id": "quo_244",
+    "text": "हज़ार मील का सफ़र एक क़दम से शुरू होता है।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "लाओत्सू",
+    "source": "ताओ ते चिंग, अध्याय 64",
+    "theme": "growth",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "हज़ार मील देखकर घबराओ मत! पैर की अंगुली का एक क़दम काफ़ी है! - कैबी!"
+  },
+  {
+    "id": "quo_245",
+    "text": "बाधाएँ मुझे तोड़ नहीं सकतीं; हर बाधा दृढ़ संकल्प के आगे झुक जाती है।",
+    "category": "world",
+    "tone_tags": [
+      "passion"
+    ],
+    "author": "लियोनार्दो दा विंची",
+    "source": "नोटबुक्स",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "बाधा दीवार है तो सीढ़ी बन जाओ! दा विंची ऐसे ही जिया! - कैबी!"
+  },
+  {
+    "id": "quo_246",
+    "text": "हर कोई दुनिया बदलने की सोचता है, पर ख़ुद को बदलने की कोई नहीं सोचता।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "लियो टॉलस्टॉय",
+    "source": "सुधार के तीन तरीके (1900)",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "पूरी दुनिया ठीक नहीं कर पाओगे! आज पहले अपने नाख़ून काटो! - कैबी!"
+  },
+  {
+    "id": "quo_247",
+    "text": "कितनी अद्भुत बात है कि दुनिया सुधारना शुरू करने से पहले किसी को एक पल भी इंतज़ार नहीं करना पड़ता।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "ऐनी फ्रैंक",
+    "source": "एक युवती की डायरी (1942–1944)",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "इंतज़ार का टिकट नहीं चाहिए! आज की सुबह ही उद्घाटन है! - कैबी!"
+  },
+  {
+    "id": "quo_248",
+    "text": "ज़िंदगी में डरने जैसा कुछ नहीं है, बस समझना है। कम डरने के लिए अभी ज़्यादा समझने का समय है।",
+    "category": "world",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "मैरी क्यूरी",
+    "source": "मैडम क्यूरी (1937)",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "अनजान है तो डर लगता है! बस एक पन्ना खोलकर देखो! - कैबी!"
+  },
+  {
+    "id": "quo_249",
+    "text": "असली खोज का सफ़र नए दृश्य ढूँढने में नहीं, नई आँखें पाने में है।",
+    "category": "world",
+    "tone_tags": [
+      "mystery"
+    ],
+    "author": "मार्सेल प्रूस्त",
+    "source": "खोया हुआ समय — क़ैद औरत (1923)",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "नज़ारे बहुत पहले बिक चुके! एक जोड़ी नई आँखें लगवाओ! - कैबी!"
+  },
+  {
+    "id": "quo_250",
+    "text": "तुम अपने जीवन के हर दिन को पूरी तरह जियो।",
+    "category": "world",
+    "tone_tags": [
+      "zen"
+    ],
+    "author": "जोनाथन स्विफ्ट",
+    "source": "शिष्ट संवाद (1738)",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज ज़िंदा हो, कल तो बीत गया! जिन दिनों आँख खुली है, उन्हें पूरी तरह जियो! - कैबी!"
+  },
+  {
+    "id": "quo_251",
+    "text": "जब कुत्ते की खाद को दवाई के रूप में चाहिए, तब वह नहीं मिलती — सबसे साधारण चीज़ भी ज़रूरत पर नहीं मिलती।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "समय से पहले तैयार रहो! तैयार व्यक्ति ही जरूरत के वक्त पाता है! - कैबी!"
+  },
+  {
+    "id": "quo_252",
+    "text": "जिस दिन जाते हैं, उसी दिन बाज़ार होता है — अप्रत्याशित समय भी जीवन का हिस्सा है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "संयोग भी नियति का हिस्सा है! बाज़ार के दिन का आनंद लो! - कैबी!"
+  },
+  {
+    "id": "quo_253",
+    "text": "सुई चुराने वाला बैल भी चुराने लगता है — छोटी गलतियों को नज़रअंदाज़ करना बड़ी गलतियों को जन्म देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "kkaebi_comment": "छोटी चिंगारी पहाड़ जला देती है! आज का छोटा चुनाव कल का भाग्य है! - कैबी!"
+  },
+  {
+    "id": "quo_254",
+    "text": "सपने से ज़्यादा सपने की व्याख्या मायने रखती है — आप जो देखते हैं वो नहीं, बल्कि आप उसे कैसे देखते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "एक ही आसमान अलग-अलग आँखों को अलग दिखता है! कैबी की नज़र से देखो — सब खज़ाना है! - कैबी!"
+  },
+  {
+    "id": "quo_255",
+    "text": "एक मछली सारे तालाब को गंदा कर देती है — कुछ बुरे लोगों की हरकतें पूरे समूह को बर्बाद करती हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "एक बुरी ऊर्जा माहौल बिगाड़ देती है! कैबी हमेशा अच्छी ऊर्जा फैलाता है! - कैबी!"
+  },
+  {
+    "id": "quo_256",
+    "text": "जैसे मुर्गी का पीछा करने वाला कुत्ता छत को देखता रह जाए — जब प्रयास विफल हो, तो अगली बार की तैयारी करो।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "fortune",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "विफल प्रयास भी अनुभव है! छत देखने वाला कुत्ता अगली बार ऊँचा कूदेगा! - कैबी!"
+  },
+  {
+    "id": "quo_257",
+    "text": "दिन की बातें पक्षी सुनते हैं; रात की बातें चूहे सुनते हैं — शब्द हमेशा सोच से ज़्यादा दूर तक जाते हैं।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "kkaebi_comment": "कैबी भी सब सुनता है! शब्द सोच से कहीं ज़्यादा दूर उड़ते हैं! - कैबी!"
+  },
+  {
+    "id": "quo_258",
+    "text": "एक शब्द हज़ार नियाँग का कर्ज़ चुका सकता है — सच्चे शब्दों की ताक़त पैसे से बड़ी है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "आज किसी को एक सच्चा शब्द कहो! यह हज़ार नियाँग के बराबर है! - कैबी!"
+  },
+  {
+    "id": "quo_259",
+    "text": "दूसरे के हाथ का चावल का केक हमेशा बड़ा लगता है — तुलना संतुष्टि छीन लेती है और कृतज्ञता भुला देती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "kkaebi_comment": "अपने हाथ का केक भी काफी स्वादिष्ट है! तुलना छोड़ो, इसका आनंद लो! - कैबी!"
+  },
+  {
+    "id": "quo_260",
+    "text": "सुंदरता देखने वाले की आँख में होती है — आपके मानक दुनिया के मानक नहीं हैं। अंतर को स्वीकारना ही ज्ञान है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "कैबी की नज़र में सभी खास हैं! अंतर ही सौंदर्य है! - कैबी!"
+  },
+  {
+    "id": "quo_261",
+    "text": "जानना रोग है, न जानना दवाई — अत्यधिक ज्ञान चिंताएँ बढ़ाता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "सब कुछ जानने की कोशिश मत करो! कैबी कई चीज़ें न जानकर खुश है! - कैबी!"
+  },
+  {
+    "id": "quo_262",
+    "text": "अगर गौरैया सारस की चाल चले, तो उसकी टाँगें फट जाएंगी — ज्ञान का मतलब है अपनी चाल को जानना।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "गौरैया की उड़ान सारस से भी तेज़ हो सकती है! अपने रास्ते पर चलो! - कैबी!"
+  },
+  {
+    "id": "quo_263",
+    "text": "एक देखो और दस जानो — एक छोटा सुराग पूरी सच्चाई उजागर कर देता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "zen",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "कैबी एक नज़र में दिल पढ़ता है! छोटी चीज़ों पर ध्यान दो और बड़ी तस्वीर देखो! - कैबी!"
+  },
+  {
+    "id": "quo_264",
+    "text": "आज का काम कल पर मत टालो — यह पल ही सबसे तेज़ शुरुआत है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "अभी शुरू करो! कैबी भी इसी पल में जीता है! - कैबी!"
+  },
+  {
+    "id": "quo_265",
+    "text": "प्रतिभाशाली पेड़ को पहले पत्ते से पहचाना जाता है — प्रतिभा बहुत शुरुआत से दिखने लगती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "आज की छोटी मेहनत कल का बड़ा पेड़ है! छोटे अंकुर को संजोओ! - कैबी!"
+  },
+  {
+    "id": "quo_266",
+    "text": "जहाँ चाह, वहाँ राह — सच्ची इच्छाशक्ति हमेशा रास्ता ढूंढ लेती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "कैबी की इच्छाशक्ति हमेशा स्पष्ट है! जब संकल्प मज़बूत हो, रास्ता खुलता है! - कैबी!"
+  },
+  {
+    "id": "quo_267",
+    "text": "बाघ को पकड़ने के लिए बाघ की गुफा में जाना होगा — असली जोखिम के बिना असली सफलता नहीं।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "कैबी भी डरता है लेकिन कूद जाता है! गुफा के अंदर खज़ाना इंतज़ार कर रहा है! - कैबी!"
+  },
+  {
+    "id": "quo_268",
+    "text": "ऊपर का पानी साफ होगा, तो नीचे का भी साफ होगा — नेताओं को पहले स्वयं उदाहरण पेश करना होगा।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "कैबी हमेशा पहले साफ पानी बनने की कोशिश करता है! उदाहरण पेश करना सबसे अच्छा है! - कैबी!"
+  },
+  {
+    "id": "quo_269",
+    "text": "जब लोहा गर्म हो तभी बैल का सींग खींचो — जब संकल्प मज़बूत हो तुरंत काम करो; हिचकिचाहट से मुश्किल बढ़ती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "अभी वो गर्म पल है! हिचकिचाओ मत — दौड़ो! - कैबी!"
+  },
+  {
+    "id": "quo_270",
+    "text": "सफलता का आधा भाग भाग्य है, बाकी आधा तैयारी — भाग्य को दोष देने से पहले अपनी तैयारी जाँचो।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "growth",
+    "emotion": "normal",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "भाग्य का इंतज़ार करने से पहले कैबी की तरह तैयार हो जाओ! भाग्य तैयार व्यक्ति के पास दौड़कर आता है! - कैबी!"
+  },
+  {
+    "id": "quo_271",
+    "text": "कछुए से डरा दिल, बर्तन के ढक्कन से भी डर जाता है — घाव लंबे समय तक रहते हैं, लेकिन जागरूकता से उपचार शुरू होता है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "comfort",
+    "emotion": "shy",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "वो बर्तन का ढक्कन कछुआ नहीं है! आज का डर कल की हिम्मत बनेगा! - कैबी!"
+  },
+  {
+    "id": "quo_272",
+    "text": "कैंचुआ भी कुचले जाने पर तड़पता है — हर प्राणी, चाहे कितना भी छोटा हो, में गरिमा होती है।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "comfort",
+    "emotion": "normal",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "kkaebi_comment": "हर किसी का अपना आकार होता है! छोटे को कम मत समझो! - कैबी!"
+  },
+  {
+    "id": "quo_273",
+    "text": "कष्ट के बाद आनंद आता है — जो सहन करते हैं उन्हें खुशी मिलती है। आज का दर्द ज़रूर गुज़र जाएगा।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "कैबी के भी कठिन दिन थे। लेकिन सहन करने से यह खुशी मिली जो अब है! - कैबी!"
+  },
+  {
+    "id": "quo_274",
+    "text": "तरबूज़ के बाहर चाटने से उसकी मिठास नहीं मालूम होती — सतही प्रयास कभी सच्ची गहराई नहीं दिखाता।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "तरबूज़ को काटकर ही खाया जाता है! असली चीज़ के लिए गहरे जाओ! - कैबी!"
+  },
+  {
+    "id": "quo_275",
+    "text": "शब्द बीज बन जाते हैं — जो बोलते हो वह वास्तविकता बनाता है। सकारात्मक शब्द बोओ।",
+    "category": "proverb",
+    "tone_tags": [
+      "wisdom"
+    ],
+    "author": "कोरियाई कहावत",
+    "source": "मौखिक परंपरा",
+    "theme": "challenge",
+    "emotion": "awaken",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "kkaebi_comment": "आज कौन सा बीज बोओगे? कैबी हमेशा अच्छे बीज ही बोता है! - कैबी!"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "morning": {"name": "Morning", "emoji": "🌅", "meaning_axis": "Fresh starts and bold leaps", "description": "As the sun rises, a time to restart what has been stalled"},
+  "noon": {"name": "Midday", "emoji": "☀️", "meaning_axis": "Growing bonds and meeting a helper", "description": "Under the warmest light, a time to connect and open your heart"},
+  "evening": {"name": "Evening", "emoji": "🌇", "meaning_axis": "Wrapping up and quiet review", "description": "In the glow of sunset, a time to harvest results and mend flaws"},
+  "night": {"name": "Late Night", "emoji": "🌙", "meaning_axis": "Inner reflection and quiet growth", "description": "In stillness, a time to dim the noise and build your inner self"}
+}

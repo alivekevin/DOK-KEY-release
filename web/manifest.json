@@ -1,0 +1,35 @@
+{
+  "name": "DOK-KEY (독키)",
+  "short_name": "DOK-KEY",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F1116",
+  "theme_color": "#D4AF37",
+  "description": "DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
