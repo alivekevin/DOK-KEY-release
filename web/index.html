@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <script>
     (function() {
       var p = window.location.pathname;
@@ -11,7 +13,7 @@
     })();
   </script>
   <noscript>
-    <base href="/">
+    <base href="/DOK-KEY-release/web/">
   </noscript>
   <script>
     if ('serviceWorker' in navigator) {
@@ -35,8 +37,6 @@
     } catch(e) {}
   </script>
 
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠. 99종 그랜드 도감과 8가지 표정의 깨비가 전하는 데일리 운세 드로우 & 황금 열쇠 조합기.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
@@ -368,12 +368,12 @@
         <span class="dokkey-web-pulse"></span> 테스터 모집
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.2.9)</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.2.22)</div>
         <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.2.14)">
+      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.2.22)">
         <span>📱 APK 다운로드</span>
       </a>
       <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
@@ -455,6 +455,20 @@
     setTimeout(hideLoader, 3500);
   </script>
 
-  <script src="flutter_bootstrap.js" async></script>
+  <script>
+    // 서비스 워커 강제 해제 (로컬 테스트 및 업데이트 시 캐시 갇힘 방지)
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (var i = 0; i < registrations.length; i++) {
+          registrations[i].unregister();
+        }
+      });
+    }
+    // 캐시 버스팅 적용된 flutter_bootstrap.js 동적 주입
+    var bootScript = document.createElement('script');
+    bootScript.src = 'flutter_bootstrap.js?v=' + Date.now();
+    bootScript.async = true;
+    document.body.appendChild(bootScript);
+  </script>
 </body>
 </html>
