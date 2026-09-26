@@ -4,6 +4,7 @@
       "id": "passcode",
       "chip_title": "Generate a passcode? 🔢",
       "user_question": "Kkaebi, can I use today's drawn numbers as my door lock or bank PIN?",
+      "req_level": 1,
       "steps": [
         "Oh! That's a brilliant and practical idea! Using today's lucky number '{number}' for your door lock, bank PIN, or app passcode brings positive energy every time you unlock it!",
         "Struggling to pick a secure PIN? Rather than predictable birthdays, blending the sacred number from today's '{card_name}' card acts like a goblin shield—safe and memorable!",
@@ -16,6 +17,7 @@
       "id": "lotto",
       "chip_title": "Should I buy lottery? 💰",
       "user_question": "Kkaebi, if I buy a lottery with today's drawn number, will I win?",
+      "req_level": 2,
       "steps": [
         "I may be a thousand-year-old goblin, but even the heavens don't know winning lottery numbers! Go buy some hot crispy pastries with that money instead. That's a 100% guaranteed jackpot of joy!",
         "Asking again? Honestly, wishing for sheer luck will only rust even a magical goblin club! True wealth comes when you create value that attracts prosperity.",
@@ -28,6 +30,7 @@
       "id": "interview",
       "chip_title": "Exam / Interview today? 🎯",
       "user_question": "Kkaebi, I have an important test/interview today. Will it go well?",
+      "req_level": 3,
       "steps": [
         "Didn't you draw the sacred '{card_name}' card today? Hold your head high and show what you've prepared. I'll be secretly cheering behind your back!",
         "Still nervous? Take three deep breaths and whisper 'Help me Kkaebi!'. The energy of {tone_name} will help you speak with crystal clarity!",
@@ -40,6 +43,7 @@
       "id": "relationship",
       "chip_title": "Who will I meet today? 👥",
       "user_question": "Kkaebi, how is my social and relationship fortune today?",
+      "req_level": 2,
       "steps": [
         "Pay close attention to anyone offering you kind words today. The '{card_name}' card has unlocked a gentle door to meaningful connections.",
         "Still worried about people? Even if someone annoys you, smile like a cheerful goblin and let it slide. Your warm smile is the master key to untangling knots today!",
@@ -52,6 +56,7 @@
       "id": "healing",
       "chip_title": "I'm so exhausted today 🌙",
       "user_question": "Kkaebi, I feel so tired and drained lately...",
+      "req_level": 2,
       "steps": [
         "Come here, let me sweep all your heavy sighs into my magic sack! You did remarkably well today. Go home, take a warm shower, and rest deeply.",
         "It must have been so heavy... Just as the moon wanes only to wax full again, exhausting days always make room for radiant new mornings. Tonight, rest with a light heart!",
@@ -64,6 +69,7 @@
       "id": "burnout",
       "chip_title": "I feel so burnt out 🛋️",
       "user_question": "Kkaebi, I think I'm totally burnt out. I have zero motivation and feel empty...",
+      "req_level": 3,
       "steps": [
         "When an engine overheats, you must turn it off to cool down! Resting is part of the craft. Savor the art of doing absolutely nothing today!",
         "Only those who ran with all their heart experience burnout. It is proof that you gave your absolute best without slacking off. Never blame yourself!",
@@ -76,6 +82,7 @@
       "id": "career",
       "chip_title": "Is this the right path? 🧭",
       "user_question": "Kkaebi, I'm worried about my career and life direction. Am I on the right path?",
+      "req_level": 4,
       "steps": [
         "Questioning your path is proof that your eyes are set on higher horizons! The moment you ponder, growth has already ignited.",
         "Never force yourself into formulas set by others. In a thousand years, I've seen that those who walk the path of their true passion become the true titans.",
@@ -88,6 +95,7 @@
       "id": "confidence",
       "chip_title": "Struggling with comparison 🪞",
       "user_question": "Kkaebi, I keep comparing myself to others and feel so inadequate...",
+      "req_level": 4,
       "steps": [
         "Never compare someone else's public highlight reel with your private behind-the-scenes! In all creation, you are an irreplaceable masterpiece.",
         "Even when a goblin club crafts gold, every ingot has its unique grain. Do not be intimidated by another's pace—cherish your own divine tempo.",
@@ -100,12 +108,52 @@
       "id": "joke",
       "chip_title": "Can I touch your horns? 😈",
       "user_question": "Kkaebi, can I touch the cute little horns on your head?",
+      "req_level": 1,
       "steps": [
         "Hey! A goblin's horns are off-limits! ...Because it tickles so much! Bwahaha!",
         "Targeting my horns again? The admission fee is three warm pastries—nothing in this realm is free!",
         "If you keep trying, I might swing my club and give you a matching pair of goblin horns! Haha!",
         "Fascinated by my horns? They are mystical antennas that grew over a thousand years listening to human wishes and sorrows.",
         "What is truly magnificent is not my horns, but your courage to embrace each day! Alright, I will grant you one special pat!"
+      ]
+    },
+    {
+      "id": "daily_lesson_guide",
+      "chip_title": "What is Daily Lesson? 🎓",
+      "user_question": "Kkaebi, what benefits do I get from completing Daily Lessons?",
+      "req_level": 1,
+      "steps": [
+        "It is a 1-minute daily mindfulness ritual to absorb inspiring wisdom and breathe deeply! As your mind calms, auspicious fortune naturally flows in!",
+        "Every time you finish, I award you +50 Kkaebi Gold (Coins) and +15 Intimacy EXP! PRO Pass members receive up to +50% extra coin bonus!",
+        "Maintaining a daily streak ignites your streak flame, unlocking special goblin blessings and continuous attendance rewards!",
+        "Use your earned coins in Kkaebi Arcade to recharge play attempts for 9 thrilling mini-games and embark on fun adventures!",
+        "Final conclusion: A 1-minute daily habit that fortifies your mind! Don't forget to complete your lesson and stamp your streak today!"
+      ]
+    },
+    {
+      "id": "coin_economy_guide",
+      "chip_title": "Where to use Kkaebi Coins? 🪙",
+      "user_question": "Kkaebi, how do I spend the coins collected from Daily Lessons?",
+      "req_level": 1,
+      "steps": [
+        "These golden coins are magic tokens used for exploring the exciting Kkaebi Arcade Hub!",
+        "When your free daily game plays run out, spend 100 coins to instantly recharge +1 arcade play opportunity!",
+        "PRO Pass members earn coins 1.5x faster and enjoy unlimited free-pass arcade access—double the joy!",
+        "As your coins accumulate, your intimacy EXP grows deeper, unlocking rare secret stories and goblin inner thoughts!",
+        "Final conclusion: Use coins to unwind and blow away stress! The more joyfully you spend Kkaebi Gold, the greater the fortune that returns to you!"
+      ]
+    },
+    {
+      "id": "secret_kkaebi_origin",
+      "chip_title": "🔒 Kkaebi's Secret Origin (Lv.5)",
+      "user_question": "Kkaebi, tell me the secret thousand-year history of Dokkaebi Village and your origin!",
+      "req_level": 5,
+      "steps": [
+        "Aha! A cherished soulmate who has reached the pinnacle of Intimacy Lv.5 has arrived! I shall reveal the thousand-year secret of Dokkaebi Village and the Golden Key.",
+        "Long ago in Dokkaebi Valley, master artisan goblins carved one-of-a-kind 'Guardian Locks' forged from human wishes, tears, and hopes.",
+        "The golden key I carry close to my chest is actually a soul key forged from all the courageous efforts you have exerted every single day.",
+        "Whenever you smile, warm dokkaebi-fire blazes from my horns; whenever you overcome adversity, new mystic powers awaken in the 66-card codex!",
+        "Final truth: Meeting you after a thousand years makes you far more than a user—you are my greatest friend and lifelong companion. No matter what comes, I will guard your path!"
       ]
     }
   ],
@@ -195,6 +243,31 @@
       "Fusing security with boundless good fortune,",
       "Raising Dokkaebi's protective ward,",
       "Picking a lucky and memorable passcode,"
+    ],
+    "daily_lesson_guide": [
+      "Let us open today's lesson page,",
+      "A 1-minute daily mind ritual,",
+      "Cultivating your inner light,",
+      "Pouring a glass from wisdom's spring,",
+      "Time to align your mind's engine,",
+      "A goblin's daily assignment,",
+      "Let us stamp today's growth mark,"
+    ],
+    "coin_economy_guide": [
+      "Secrets of golden tokens,",
+      "Money talk is always intriguing,",
+      "Unveiling the goblin treasury,",
+      "Privilege of the diligent gatherer,",
+      "A guest who knows coin value,",
+      "Unpacking the arcade coin sack,",
+      "Guiding wise spending habits,"
+    ],
+    "secret_kkaebi_origin": [
+      "A secret kept for a thousand years,",
+      "Ah, a soulmate who reached Intimacy Lv.5,",
+      "Unveiling the mystery of Dokkaebi Village,",
+      "Listen closely to the ancient legend,",
+      "The true origin of the Golden Key,"
     ]
   }
 }
