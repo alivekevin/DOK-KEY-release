@@ -54,9 +54,9 @@
     "id": "rid_003"
   },
   {
-    "question": "What guards your feet from falling rain, folding when not needed?",
+    "question": "On a rainy day, what protects the feet an umbrella cannot cover?",
     "options": [
-      "Umbrella net",
+      "Raincoat",
       "Rain boots",
       "Tarp",
       "Awning"
@@ -66,8 +66,8 @@
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Rain boots hold the line where water attacks!",
-      "wrong": "Nope! It's worn on your feet in the rain!"
+      "correct": "Correct! Rain boots keep your feet dry on rainy days!",
+      "wrong": "Nope! It is worn on your feet on rainy days!"
     },
     "id": "rid_004"
   },
@@ -954,20 +954,20 @@
     "id": "rid_053"
   },
   {
-    "question": "Every house has one, you meet its face every day, yet it never says a word. What is it?",
+    "question": "What opens wide to shield you when it rains?",
     "options": [
-      "A mirror",
-      "Wallpaper",
-      "A clock",
-      "A door handle"
+      "Umbrella",
+      "Rain boots",
+      "Raincoat",
+      "Hat"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Splendid! A mirror reflects your heart and your expression without a trace of lies!",
-      "wrong": "So close! Look to the thing that throws your own image right back at you!"
+      "correct": "Correct! An umbrella is your little roof in the rain!",
+      "wrong": "Nope! You open it up when it rains!"
     },
     "id": "rid_054"
   },
@@ -980,7 +980,7 @@
       "Silence"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -998,7 +998,7 @@
       "A key"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1034,7 +1034,7 @@
       "Winter sprout"
     ],
     "answer_index": 1,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1170,92 +1170,92 @@
     "id": "rid_065"
   },
   {
-    "question": "What is humanity's most precious asset, dwindling the more you breathe it and growing dearer the more you spend it?",
+    "question": "It beats without rest but never rests itself — what clock is in your chest?",
     "options": [
-      "Time (the years)",
-      "Gold",
-      "Diamonds",
-      "Silk"
+      "Heart",
+      "Lungs",
+      "Brain",
+      "Eye"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Save even an inch of the sun's shadow! Time once lost cannot be bought back with gold!",
-      "wrong": "Nope! The precious thing that, once gone, never turns back!"
+      "correct": "Correct! The heart is the clock that never stops!",
+      "wrong": "Nope! It beats in your chest without rest!"
     },
     "id": "rid_066"
   },
   {
-    "question": "What shines the clearer the darker it gets, and remains a refuge for the heart even in a storm?",
+    "question": "Numbers gathered in a circle, quietly urging the world along?",
     "options": [
-      "Hope (a dream)",
-      "A lamp",
-      "A ring",
-      "A treasure chest"
+      "Clock",
+      "Calendar",
+      "Compass",
+      "Thermometer"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Even in the deepest dark, a single ember of hope is enough to live on, Kkaebi!",
-      "wrong": "Nope! The bright heart you hold inside as you wait for tomorrow!"
+      "correct": "Correct! A clock tells the time without a sound!",
+      "wrong": "Nope! You read the time from its round face!"
     },
     "id": "rid_067"
   },
   {
-    "question": "What goblin gift multiplies when shared, and warms the whole world when held in the heart?",
+    "question": "The more you give, the bigger it grows; the more you share, the deeper it becomes?",
     "options": [
-      "Love and affection",
-      "Gold coins",
-      "Treasure",
-      "A wine cup"
+      "Love",
+      "Hatred",
+      "Greed",
+      "Sorrow"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "We goblins love best the people overflowing with warm affection, Kkaebi!",
-      "wrong": "Nope! The thing that makes your own heart richer the more you give away!"
+      "correct": "Correct! Love grows the more you share it!",
+      "wrong": "Nope! It is the warm feeling that grows when shared!"
     },
     "id": "rid_068"
   },
   {
-    "question": "What is the greatest virtue of the friend who lifts you when you fall and pats your back when you grieve?",
+    "question": "Who stays by your side when it is hard and pats your back when you are sad?",
     "options": [
-      "Comfort and empathy",
-      "Wealth",
-      "Lecturing",
-      "Silence"
+      "Friend",
+      "Teacher",
+      "Neighbor",
+      "Stranger"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "That's it! A true friend knows how to weep with you and reach out a hand!",
-      "wrong": "Nope! Think of the one warm word offered to a weary heart!"
+      "correct": "Correct! A friend is someone precious who stays by you!",
+      "wrong": "Nope! It is the one who gives you strength!"
     },
     "id": "rid_069"
   },
   {
-    "question": "Dew-laden at dawn and facing the sun at noon — what is the symbol of a diligent life?",
+    "question": "After the rain stops, what seven-colored bridge appears in the sky?",
     "options": [
-      "The sunflower",
-      "The cactus",
-      "The pine",
-      "The lotus"
+      "Rainbow",
+      "Sunset",
+      "Cloud",
+      "Star"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "The sunflower — single-hearted devotion, lifting its head only toward the bright sun!",
-      "wrong": "Nope! The flower that chases the sun around on its golden petals!"
+      "correct": "Correct! A rainbow is a bridge made by rain and sunlight!",
+      "wrong": "Nope! It appears after the rain clears!"
     },
     "id": "rid_070"
   },
@@ -1268,7 +1268,7 @@
       "The daffodil"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1304,7 +1304,7 @@
       "The cosmos"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1348,5 +1348,3245 @@
       "wrong": "Nope! Have you forgotten our app's very name, the golden key that opens wisdom!"
     },
     "id": "rid_075"
+  },
+  {
+    "question": "What web does an eight-legged friend weave overnight, sparkling with dew?",
+    "options": [
+      "Ball of thread",
+      "Fishing line",
+      "Spider web",
+      "Net"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A spider web is the craft of an eight-legged friend!",
+      "wrong": "Nope! It is woven at night to catch insects!"
+    },
+    "id": "rid_076"
+  },
+  {
+    "question": "Wherever you go it points the same way — a lost traveler's friend?",
+    "options": [
+      "Map",
+      "Compass",
+      "Watch",
+      "Telescope"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A compass always points north, a reliable friend!",
+      "wrong": "Nope! It is a tool that shows direction!"
+    },
+    "id": "rid_077"
+  },
+  {
+    "question": "It sits on your nose and makes a blurry world clear — what is it?",
+    "options": [
+      "Hat",
+      "Glasses",
+      "Mask",
+      "Necklace"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Glasses kindly help blurry eyes!",
+      "wrong": "Nope! You wear it on your eyes!"
+    },
+    "id": "rid_078"
+  },
+  {
+    "question": "It scoops rice and sips soup — the little shovel on the table?",
+    "options": [
+      "Spoon",
+      "Chopsticks",
+      "Fork",
+      "Ladle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A spoon is the little shovel of the table!",
+      "wrong": "Nope! You eat both soup and rice with it!"
+    },
+    "id": "rid_079"
+  },
+  {
+    "question": "Through one tiny hole it leads a thread — the sharp little friend?",
+    "options": [
+      "Nail",
+      "Needle",
+      "Scissors",
+      "Ruler"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A needle carries thread and sews clothes!",
+      "wrong": "Nope! It is the sharp tool that threads a needle!"
+    },
+    "id": "rid_080"
+  },
+  {
+    "question": "Wizards are said to ride it — what sweeps up the dust?",
+    "options": [
+      "Rag",
+      "Broom",
+      "Vacuum",
+      "Mop"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A broom is a witch's ride and a cleaning tool!",
+      "wrong": "Nope! It sweeps the dust together!"
+    },
+    "id": "rid_081"
+  },
+  {
+    "question": "Twice a day it cleans your mouth — the tool of a tiny foam fairy?",
+    "options": [
+      "Toothbrush",
+      "Soap",
+      "Towel",
+      "Cup"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A toothbrush foams up to clean teeth!",
+      "wrong": "Nope! It is used when brushing teeth!"
+    },
+    "id": "rid_082"
+  },
+  {
+    "question": "The more it is used, the smaller it gets, washing dirt with foam?",
+    "options": [
+      "Towel",
+      "Soap",
+      "Shampoo",
+      "Sponge"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Soap shrinks as it washes away dirt!",
+      "wrong": "Nope! It cleans with foam!"
+    },
+    "id": "rid_083"
+  },
+  {
+    "question": "One for each foot — what must always come in a matching pair?",
+    "options": [
+      "Gloves",
+      "Socks",
+      "Shoes",
+      "Scarf"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Socks are worn as a pair on both feet!",
+      "wrong": "Nope! It is worn on the feet as a pair!"
+    },
+    "id": "rid_084"
+  },
+  {
+    "question": "What warmly wraps all five fingers in winter?",
+    "options": [
+      "Gloves",
+      "Socks",
+      "Scarf",
+      "Hat"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Gloves keep your fingers warm!",
+      "wrong": "Nope! You wear it on your hands!"
+    },
+    "id": "rid_085"
+  },
+  {
+    "question": "It sits on your head and blocks the sunlight — what is it?",
+    "options": [
+      "Glasses",
+      "Umbrella",
+      "Hat",
+      "Shoes"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A hat is a sunshade for your head!",
+      "wrong": "Nope! You wear it on your head!"
+    },
+    "id": "rid_086"
+  },
+  {
+    "question": "With every breath of the sea it rolls in and fades away?",
+    "options": [
+      "Wave",
+      "Tide",
+      "Foam",
+      "Sand"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A wave is the breath of the sea!",
+      "wrong": "Nope! It is the water that rolls onto the shore!"
+    },
+    "id": "rid_087"
+  },
+  {
+    "question": "Left behind by the night, it forms on dawn leaves — what drop?",
+    "options": [
+      "Snow",
+      "Rain",
+      "Dew",
+      "Frost"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Dew is the clear drop the night leaves behind!",
+      "wrong": "Nope! It is the droplet on leaves at dawn!"
+    },
+    "id": "rid_088"
+  },
+  {
+    "question": "It meows and chases mice — the whiskered friend?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Rabbit",
+      "Fox"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A cat is a whiskered hunter chasing mice!",
+      "wrong": "Nope! It is the animal that meows!"
+    },
+    "id": "rid_089"
+  },
+  {
+    "question": "It marches in a line, working hard all summer — the tiny worker?",
+    "options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Spider"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! An ant is a diligent worker marching in line!",
+      "wrong": "Nope! It is the insect that walks in a line on the ground!"
+    },
+    "id": "rid_090"
+  },
+  {
+    "question": "Long nose and big ears it flaps like a fan — the huge animal?",
+    "options": [
+      "Elephant",
+      "Rhino",
+      "Hippo",
+      "Giraffe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! An elephant fans itself with its big ears!",
+      "wrong": "Nope! It is the big animal with a long trunk!"
+    },
+    "id": "rid_091"
+  },
+  {
+    "question": "With three eyes of red, yellow, and green, it tells the road what to do?",
+    "options": [
+      "Street lamp",
+      "Traffic light",
+      "Utility pole",
+      "Sign"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A traffic light directs the road with three eyes!",
+      "wrong": "Nope! It signals with three colored lights!"
+    },
+    "id": "rid_092"
+  },
+  {
+    "question": "Two wheels and pedals — what vehicle do you push to move?",
+    "options": [
+      "Motorcycle",
+      "Car",
+      "Bicycle",
+      "Bus"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A bicycle is a two-wheeled friend of your feet!",
+      "wrong": "Nope! It is the two-wheeled ride you pedal!"
+    },
+    "id": "rid_093"
+  },
+  {
+    "question": "Drop a letter in and it runs far for you — the red square box?",
+    "options": [
+      "Bag",
+      "Box",
+      "Mailbox",
+      "Safe"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A mailbox is the red errand-runner for letters!",
+      "wrong": "Nope! It is the red box where you post letters!"
+    },
+    "id": "rid_094"
+  },
+  {
+    "question": "Hanging by ropes, it swings back and forth — which playground ride?",
+    "options": [
+      "Seesaw",
+      "Slide",
+      "Swing",
+      "Jungle gym"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A swing gives you the feeling of flying!",
+      "wrong": "Nope! It is the ride you swing back and forth!"
+    },
+    "id": "rid_095"
+  },
+  {
+    "question": "When one side goes down, the other goes up — the two-person ride?",
+    "options": [
+      "Swing",
+      "Seesaw",
+      "Merry-go-round",
+      "Slide"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! On a seesaw, two share their weight!",
+      "wrong": "Nope! It is the two-person up-and-down ride!"
+    },
+    "id": "rid_096"
+  },
+  {
+    "question": "Without a key it never opens — the iron fist guarding the door?",
+    "options": [
+      "Lock",
+      "Doorknob",
+      "Hinge",
+      "Bolt"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A lock is the gatekeeper only a key can open!",
+      "wrong": "Nope! It is the lock you open with a key!"
+    },
+    "id": "rid_097"
+  },
+  {
+    "question": "White water pours from a cliff — the curtain that never stops?",
+    "options": [
+      "Spring",
+      "Waterfall",
+      "Stream",
+      "Lake"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A waterfall is a grand curtain of falling water!",
+      "wrong": "Nope! It is water pouring from a height!"
+    },
+    "id": "rid_098"
+  },
+  {
+    "question": "After the flash, a rumble follows late — what sound?",
+    "options": [
+      "Lightning",
+      "Thunder",
+      "Wind",
+      "Echo"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Thunder is the sky drum that follows lightning!",
+      "wrong": "Nope! It is the sound heard after the flash!"
+    },
+    "id": "rid_099"
+  },
+  {
+    "question": "The view fades white — the cloud that settles on the ground?",
+    "options": [
+      "Smoke",
+      "Fog",
+      "Steam",
+      "Cloud"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Fog is a low cloud resting on the ground!",
+      "wrong": "Nope! It is the haze that blocks the view!"
+    },
+    "id": "rid_100"
+  },
+  {
+    "question": "It flutters over the flower bed — the flower with wings?",
+    "options": [
+      "Bee",
+      "Butterfly",
+      "Dragonfly",
+      "Bird"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A butterfly is a winged flower that flies!",
+      "wrong": "Nope! It is the insect fluttering over flowers!"
+    },
+    "id": "rid_101"
+  },
+  {
+    "question": "It cannot fly but swims well in Antarctica — the bird in a tuxedo?",
+    "options": [
+      "Ostrich",
+      "Seagull",
+      "Penguin",
+      "Duck"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! A penguin is Antarctica tuxedo swimmer!",
+      "wrong": "Nope! It is the swimming bird of Antarctica!"
+    },
+    "id": "rid_102"
+  },
+  {
+    "question": "A place where you keep quiet but thousands of books live — the quiet house?",
+    "options": [
+      "Bookstore",
+      "Library",
+      "Museum",
+      "School"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! A library is a house where books and silence live together!",
+      "wrong": "Nope! It is where you quietly borrow and read books!"
+    },
+    "id": "rid_103"
+  },
+  {
+    "question": "Salted cabbage seasoned for winter — the spicy side dish?",
+    "options": [
+      "Pickled vegetables",
+      "Kimchi",
+      "Pickle",
+      "Salad"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! Kimchi is Korea spicy treasure for winter!",
+      "wrong": "Nope! It is the spicy side dish made from cabbage!"
+    },
+    "id": "rid_104"
+  },
+  {
+    "question": "King Sejong created it — the name of our writing system?",
+    "options": [
+      "Hangul",
+      "Hanja",
+      "Alphabet",
+      "Hiragana"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! Hangul was created by King Sejong for the people!",
+      "wrong": "Nope! It is our script made by King Sejong!"
+    },
+    "id": "rid_105"
+  },
+  {
+    "question": "Keeping it builds trust, breaking it brings disappointment — what promise?",
+    "options": [
+      "Lie",
+      "Secret",
+      "Promise",
+      "Greeting"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Correct! A promise builds trust the more you keep it!",
+      "wrong": "Nope! It is the word you must keep to earn trust!"
+    },
+    "id": "rid_106"
+  },
+  {
+    "question": "Which animal comes first among the twelve zodiac signs?",
+    "options": [
+      "Ox",
+      "Tiger",
+      "Rabbit",
+      "Rat"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The clever rat is first of the twelve!",
+      "wrong": "Nope! Think of the very first zodiac animal!"
+    },
+    "id": "rid_107"
+  },
+  {
+    "question": "In Eastern thought, among the four guardian beasts, which guards the east as a blue dragon?",
+    "options": [
+      "Phoenix",
+      "White Tiger",
+      "Giraffe",
+      "Blue Dragon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Blue Dragon is the flying guardian of the east!",
+      "wrong": "Nope! It is the sky guardian of the east!"
+    },
+    "id": "rid_108"
+  },
+  {
+    "question": "In Greek myth, who rules the sea?",
+    "options": [
+      "Zeus",
+      "Hades",
+      "Apollo",
+      "Poseidon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Poseidon rules the sea with his trident!",
+      "wrong": "Nope! He is the sea god with a trident!"
+    },
+    "id": "rid_109"
+  },
+  {
+    "question": "In Greek myth, which goddess symbolizes wisdom and war?",
+    "options": [
+      "Hera",
+      "Aphrodite",
+      "Artemis",
+      "Athena"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Athena is the goddess of wisdom and war!",
+      "wrong": "Nope! She is the wisdom goddess symbolized by an owl!"
+    },
+    "id": "rid_110"
+  },
+  {
+    "question": "In Norse myth, who raises thunder with the hammer Mjölnir?",
+    "options": [
+      "Odin",
+      "Loki",
+      "Valkyrie",
+      "Thor"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Thor raises thunder with the hammer Mjölnir!",
+      "wrong": "Nope! The thunder god with the hammer Mjölnir!"
+    },
+    "id": "rid_111"
+  },
+  {
+    "question": "In Greek myth, who rules the underworld?",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Apollo",
+      "Hades"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Hades is the king who rules the underworld!",
+      "wrong": "Nope! Brother of Zeus and king of the underworld!"
+    },
+    "id": "rid_112"
+  },
+  {
+    "question": "In Indian myth, who has an elephant head and grants wisdom and fortune?",
+    "options": [
+      "Shiva",
+      "Indra",
+      "Ra",
+      "Ganesha"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Ganesha, elephant-headed god of wisdom and fortune!",
+      "wrong": "Nope! The elephant-headed Indian god!"
+    },
+    "id": "rid_113"
+  },
+  {
+    "question": "In Egyptian myth, who has a jackal head and rules death and mummies?",
+    "options": [
+      "Osiris",
+      "Ra",
+      "Bastet",
+      "Anubis"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Anubis, jackal-headed god of death and mummies!",
+      "wrong": "Nope! The jackal-headed Egyptian god!"
+    },
+    "id": "rid_114"
+  },
+  {
+    "question": "Among the twelve zodiac animals, who crows to announce the dawn?",
+    "options": [
+      "Monkey",
+      "Sheep",
+      "Horse",
+      "Rooster"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The rooster announces the dawn among the twelve!",
+      "wrong": "Nope! The zodiac bird that crows at dawn!"
+    },
+    "id": "rid_115"
+  },
+  {
+    "question": "Among the twelve zodiac animals, which symbolizes loyalty?",
+    "options": [
+      "Pig",
+      "Sheep",
+      "Ox",
+      "Dog"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The dog symbolizes loyalty and faith!",
+      "wrong": "Nope! The loyal companion by our side!"
+    },
+    "id": "rid_116"
+  },
+  {
+    "question": "Which fairy-tale girl left a glass slipper and fled at midnight?",
+    "options": [
+      "Snow White",
+      "The Little Mermaid",
+      "Rapunzel",
+      "Cinderella"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cinderella left the glass slipper!",
+      "wrong": "Nope! The heroine whose carriage vanished at midnight!"
+    },
+    "id": "rid_117"
+  },
+  {
+    "question": "Which princess fell into a deep sleep after eating a poisoned apple?",
+    "options": [
+      "Cinderella",
+      "The Little Mermaid",
+      "Rapunzel",
+      "Snow White"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Snow White slept because of the poisoned apple!",
+      "wrong": "Nope! The princess who lived with seven dwarfs!"
+    },
+    "id": "rid_118"
+  },
+  {
+    "question": "Which wooden puppet's nose grows when he lies?",
+    "options": [
+      "Peter Pan",
+      "Hansel",
+      "Alice",
+      "Pinocchio"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pinocchio's nose grows when he lies!",
+      "wrong": "Nope! The wooden puppet made by a woodcarver!"
+    },
+    "id": "rid_119"
+  },
+  {
+    "question": "Which girl in a red hood met a wolf in the forest?",
+    "options": [
+      "Snow White",
+      "Cinderella",
+      "The Little Mermaid",
+      "Little Red Riding Hood"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Little Red Riding Hood met the wolf!",
+      "wrong": "Nope! The girl going to her grandmother's house!"
+    },
+    "id": "rid_120"
+  },
+  {
+    "question": "Which sibling tale features a witch in a candy house?",
+    "options": [
+      "Little Red Riding Hood",
+      "Pinocchio",
+      "Jack and the Beanstalk",
+      "Hansel and Gretel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Hansel and Gretel features the candy-house witch!",
+      "wrong": "Nope! The siblings lured into a candy house!"
+    },
+    "id": "rid_121"
+  },
+  {
+    "question": "Which boastful animal lost a race to the slow tortoise?",
+    "options": [
+      "Fox",
+      "Deer",
+      "Horse",
+      "Rabbit"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The rabbit lost to the tortoise through pride!",
+      "wrong": "Nope! The fast animal that raced the tortoise!"
+    },
+    "id": "rid_122"
+  },
+  {
+    "question": "Which insect sang all summer and starved in winter, paired with the ant?",
+    "options": [
+      "Cicada",
+      "Cricket",
+      "Butterfly",
+      "Katydid"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The katydid played all summer and regretted in winter!",
+      "wrong": "Nope! The lazy insect contrasting the ant!"
+    },
+    "id": "rid_123"
+  },
+  {
+    "question": "Who gave up her voice to gain legs in a sea tale?",
+    "options": [
+      "Snow White",
+      "Cinderella",
+      "Rapunzel",
+      "The Little Mermaid"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Little Mermaid gave her voice for love!",
+      "wrong": "Nope! The fairy-tale princess of the sea!"
+    },
+    "id": "rid_124"
+  },
+  {
+    "question": "Which boy flew with his father but fell into the sea for flying too near the sun?",
+    "options": [
+      "Heracles",
+      "Perseus",
+      "Odysseus",
+      "Icarus"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Icarus flew too near the sun and fell into the sea!",
+      "wrong": "Nope! The Greek boy with wax wings!"
+    },
+    "id": "rid_125"
+  },
+  {
+    "question": "Which woman opened a box holding all disasters out of curiosity?",
+    "options": [
+      "Athena",
+      "Helen",
+      "Medusa",
+      "Pandora"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pandora opened the box of evils out of curiosity!",
+      "wrong": "Nope! The Greek woman who opened the box of evils!"
+    },
+    "id": "rid_126"
+  },
+  {
+    "question": "Which second zodiac animal lows while plowing the field?",
+    "options": [
+      "Horse",
+      "Sheep",
+      "Goat",
+      "Ox"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The ox patiently plows the field!",
+      "wrong": "Nope! The horned animal that lows low!"
+    },
+    "id": "rid_127"
+  },
+  {
+    "question": "Which third zodiac animal is the striped beast that rules the mountain?",
+    "options": [
+      "Lion",
+      "Leopard",
+      "Bear",
+      "Tiger"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The tiger rules the mountain!",
+      "wrong": "Nope! The beast with a mark on its forehead!"
+    },
+    "id": "rid_128"
+  },
+  {
+    "question": "Which zodiac animal hops and pounds a mortar?",
+    "options": [
+      "Squirrel",
+      "Rat",
+      "Deer",
+      "Rabbit"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The rabbit pounds the mortar!",
+      "wrong": "Nope! The long-eared hopping animal!"
+    },
+    "id": "rid_129"
+  },
+  {
+    "question": "Which zodiac animal glides along without legs?",
+    "options": [
+      "Earthworm",
+      "Lizard",
+      "Crocodile",
+      "Snake"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The snake glides without legs!",
+      "wrong": "Nope! The legless animal that sheds its skin!"
+    },
+    "id": "rid_130"
+  },
+  {
+    "question": "Which zodiac horse runs with a white mane?",
+    "options": [
+      "Donkey",
+      "Mule",
+      "Zebra",
+      "White Horse"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The white horse of the zodiac!",
+      "wrong": "Nope! The white horse among the twelve!"
+    },
+    "id": "rid_131"
+  },
+  {
+    "question": "Which gentle zodiac animal grazes and gives its wool?",
+    "options": [
+      "Goat",
+      "Ox",
+      "Deer",
+      "Sheep"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The gentle sheep gives its wool!",
+      "wrong": "Nope! The gentle animal whose wool makes clothes!"
+    },
+    "id": "rid_132"
+  },
+  {
+    "question": "Which zodiac animal climbs well and shows off tricks?",
+    "options": [
+      "Panda",
+      "Koala",
+      "Orangutan",
+      "Monkey"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The monkey is the trickster of the zodiac!",
+      "wrong": "Nope! The clever animal good at climbing trees!"
+    },
+    "id": "rid_133"
+  },
+  {
+    "question": "Which last zodiac animal symbolizes abundance and wealth?",
+    "options": [
+      "Wild boar",
+      "Elephant",
+      "Hippo",
+      "Golden Pig"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The golden pig is the last and brings wealth!",
+      "wrong": "Nope! The last zodiac animal that brings fortune!"
+    },
+    "id": "rid_134"
+  },
+  {
+    "question": "Which divine beast bites liars and judges right from wrong?",
+    "options": [
+      "Lion",
+      "Dragon",
+      "Tiger",
+      "Haetae"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Haetae bites lies as the beast of justice!",
+      "wrong": "Nope! The guardian beast of justice before the palace!"
+    },
+    "id": "rid_135"
+  },
+  {
+    "question": "Which Eastern mythical beast appears when a wise sage is born?",
+    "options": [
+      "Unicorn",
+      "Phoenix",
+      "Dragon",
+      "Qilin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The qilin appears with a wise sage!",
+      "wrong": "Nope! The gentle Eastern beast that comes with sages!"
+    },
+    "id": "rid_136"
+  },
+  {
+    "question": "In Eastern thought, among the four guardian beasts, which guards the south as a red fire-bird?",
+    "options": [
+      "Phoenix",
+      "Three-legged Crow",
+      "Blue Dragon",
+      "Vermilion Bird"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Vermilion Bird guards the south!",
+      "wrong": "Nope! The red bird of the south among the four guardians!"
+    },
+    "id": "rid_137"
+  },
+  {
+    "question": "In Eastern thought, among the four guardian beasts, which guards the north, a turtle joined with a snake?",
+    "options": [
+      "Blue Dragon",
+      "White Tiger",
+      "Haetae",
+      "Black Tortoise"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Black Tortoise guards the north!",
+      "wrong": "Nope! The turtle-and-snake guardian of the north!"
+    },
+    "id": "rid_138"
+  },
+  {
+    "question": "Which white-deer beast symbolizes long life and peace in the East?",
+    "options": [
+      "White Horse",
+      "Sheep",
+      "Qilin",
+      "White Deer"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The white deer symbolizes long life and peace!",
+      "wrong": "Nope! The white deer seen as a good omen!"
+    },
+    "id": "rid_139"
+  },
+  {
+    "question": "Which mythical bird perches on the paulownia and heralds peace?",
+    "options": [
+      "Vermilion Bird",
+      "Peacock",
+      "Crane",
+      "Phoenix"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The phoenix heralds an era of peace!",
+      "wrong": "Nope! The mythical bird said to perch on the paulownia!"
+    },
+    "id": "rid_140"
+  },
+  {
+    "question": "Which three-legged crow beast is said to live in the sun?",
+    "options": [
+      "Phoenix",
+      "Vermilion Bird",
+      "Crow",
+      "Three-legged Crow"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The three-legged crow lives in the sun!",
+      "wrong": "Nope! The three-legged bird of the sun!"
+    },
+    "id": "rid_141"
+  },
+  {
+    "question": "Which enchanting fox spirit has nine tails?",
+    "options": [
+      "Imugi",
+      "Sphinx",
+      "White Tiger",
+      "Nine-tailed Fox"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The gumiho is a nine-tailed fox spirit!",
+      "wrong": "Nope! The fox with nine tails!"
+    },
+    "id": "rid_142"
+  },
+  {
+    "question": "Which Western mythical animal has a single horn on its forehead?",
+    "options": [
+      "Griffin",
+      "Qilin",
+      "Deer",
+      "Unicorn"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The unicorn has one horn on its forehead!",
+      "wrong": "Nope! The mystical horse with a single horn!"
+    },
+    "id": "rid_143"
+  },
+  {
+    "question": "Which dog beast has three eyes?",
+    "options": [
+      "Haetae",
+      "White Tiger",
+      "Nine-tailed Fox",
+      "Three-eyed Dog"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The three-eyed dog is a divine beast!",
+      "wrong": "Nope! The dog beast with three eyes!"
+    },
+    "id": "rid_144"
+  },
+  {
+    "question": "In Egyptian myth, who has a crocodile head and rules the Nile?",
+    "options": [
+      "Anubis",
+      "Ra",
+      "Bastet",
+      "Sobek"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Sobek is the crocodile-headed god of the Nile!",
+      "wrong": "Nope! The crocodile-headed Egyptian god!"
+    },
+    "id": "rid_145"
+  },
+  {
+    "question": "Which giant serpent is said to live a thousand years to become a dragon?",
+    "options": [
+      "Nine-tailed Fox",
+      "Fish-Dragon",
+      "Leviathan",
+      "Imugi"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The imugi is a great serpent seeking to become a dragon!",
+      "wrong": "Nope! The giant serpent spirit in the water!"
+    },
+    "id": "rid_146"
+  },
+  {
+    "question": "Which sea beast combines a fish and a dragon?",
+    "options": [
+      "Imugi",
+      "Leviathan",
+      "Black Tortoise",
+      "Fish-Dragon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fish-dragon rules the sea!",
+      "wrong": "Nope! The sea beast shaped like a dragon!"
+    },
+    "id": "rid_147"
+  },
+  {
+    "question": "Which Egyptian guardian has a lion body and a human head, posing riddles?",
+    "options": [
+      "Griffin",
+      "Nekomata",
+      "Sobek",
+      "Sphinx"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The sphinx has a human head and lion body!",
+      "wrong": "Nope! The riddle guardian before the pyramids!"
+    },
+    "id": "rid_148"
+  },
+  {
+    "question": "Which colossal sea monster is said to swallow the sea?",
+    "options": [
+      "Fish-Dragon",
+      "Imugi",
+      "Kraken",
+      "Leviathan"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Leviathan is the giant that swallows the sea!",
+      "wrong": "Nope! The giant sea monster of scripture!"
+    },
+    "id": "rid_149"
+  },
+  {
+    "question": "Which Japanese yokai has a cat head and a snake body?",
+    "options": [
+      "Nine-tailed Fox",
+      "Sphinx",
+      "Sobek",
+      "Nekomata"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The nekomata has a cat head and snake body!",
+      "wrong": "Nope! The yokai mixing a cat and a snake!"
+    },
+    "id": "rid_150"
+  },
+  {
+    "question": "Which three-legged toad beast is said to live on the moon?",
+    "options": [
+      "Three-legged Crow",
+      "Frog",
+      "Turtle",
+      "Three-legged Toad"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The three-legged toad lives on the moon!",
+      "wrong": "Nope! The three-legged toad of the moon!"
+    },
+    "id": "rid_151"
+  },
+  {
+    "question": "Which Western beast has an eagle head and a lion body?",
+    "options": [
+      "Unicorn",
+      "Sphinx",
+      "Phoenix",
+      "Griffin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The griffin has an eagle head and lion body!",
+      "wrong": "Nope! The beast combining the kings of sky and land!"
+    },
+    "id": "rid_152"
+  },
+  {
+    "question": "In Eastern thought, among the four guardian beasts, which guards the west as a white tiger?",
+    "options": [
+      "Tiger",
+      "Haetae",
+      "Black Tortoise",
+      "White Tiger"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The White Tiger guards the west!",
+      "wrong": "Nope! The white tiger of the west among the four guardians!"
+    },
+    "id": "rid_153"
+  },
+  {
+    "question": "Which feathered serpent is a god of Aztec myth?",
+    "options": [
+      "Imugi",
+      "Fish-Dragon",
+      "Black Tortoise",
+      "Quetzalcoatl"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Quetzalcoatl is the feathered serpent god!",
+      "wrong": "Nope! The feathered serpent god of the Aztecs!"
+    },
+    "id": "rid_154"
+  },
+  {
+    "question": "Which mountain god keeps a tiger and guards the mountain?",
+    "options": [
+      "Dragon King",
+      "House Guardian",
+      "Grim Reaper",
+      "Mountain God"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The mountain god guards the mountain with a tiger!",
+      "wrong": "Nope! The spirit who guards the mountain!"
+    },
+    "id": "rid_155"
+  },
+  {
+    "question": "Who wears a black hat and robe, escorting souls away?",
+    "options": [
+      "King Yama",
+      "Mountain God",
+      "Jade Emperor",
+      "Grim Reaper"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The reaper escorts souls to the afterlife!",
+      "wrong": "Nope! The being who takes souls to the afterlife!"
+    },
+    "id": "rid_156"
+  },
+  {
+    "question": "In Eastern thought, who is the supreme god ruling heaven and all the gods?",
+    "options": [
+      "King Yama",
+      "Dragon King",
+      "Mountain God",
+      "Jade Emperor"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Jade Emperor rules all the gods of heaven!",
+      "wrong": "Nope! The supreme god of heaven!"
+    },
+    "id": "rid_157"
+  },
+  {
+    "question": "In Eastern thought, which king judges the good and evil of the dead in the afterlife?",
+    "options": [
+      "Jade Emperor",
+      "Grim Reaper",
+      "Dragon King",
+      "King Yama"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! King Yama judges the dead in the afterlife!",
+      "wrong": "Nope! The judge of the underworld!"
+    },
+    "id": "rid_158"
+  },
+  {
+    "question": "In Eastern legend, which giant grandmother goddess is said to have created the world?",
+    "options": [
+      "Birth Goddess",
+      "Princess Bari",
+      "Guanyin",
+      "Grandmother Mago"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Grandmother Mago is the giant creator goddess!",
+      "wrong": "Nope! The giant grandmother who made the world!"
+    },
+    "id": "rid_159"
+  },
+  {
+    "question": "In Eastern legend, which devoted princess went to the afterlife to save her parents?",
+    "options": [
+      "Birth Goddess",
+      "Grandmother Mago",
+      "Guanyin",
+      "Princess Bari"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Princess Bari is the devoted princess who went to the afterlife!",
+      "wrong": "Nope! The princess who went to the afterlife for her parents!"
+    },
+    "id": "rid_160"
+  },
+  {
+    "question": "Which grandmother goddess grants children and helps childbirth?",
+    "options": [
+      "Grandmother Mago",
+      "Princess Bari",
+      "House Guardian",
+      "Birth Goddess"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The birth goddess grants children!",
+      "wrong": "Nope! The grandmother who cares for birth!"
+    },
+    "id": "rid_161"
+  },
+  {
+    "question": "Which Eastern king rules the sea and waters?",
+    "options": [
+      "Jade Emperor",
+      "King Yama",
+      "Mountain God",
+      "Dragon King"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Dragon King rules the sea and waters!",
+      "wrong": "Nope! The dragon king guarding the sea!"
+    },
+    "id": "rid_162"
+  },
+  {
+    "question": "Which god protects the house site and household peace?",
+    "options": [
+      "Mountain God",
+      "Dragon King",
+      "Birth Goddess",
+      "House Guardian"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The house guardian protects the home site!",
+      "wrong": "Nope! The household god guarding the home!"
+    },
+    "id": "rid_163"
+  },
+  {
+    "question": "In Greek myth, who rules Olympus with lightning as the supreme god?",
+    "options": [
+      "Poseidon",
+      "Hades",
+      "Apollo",
+      "Zeus"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Zeus rules Olympus with lightning!",
+      "wrong": "Nope! The Greek supreme god who wields lightning!"
+    },
+    "id": "rid_164"
+  },
+  {
+    "question": "In Norse myth, who gave an eye for wisdom and is the father of the gods?",
+    "options": [
+      "Thor",
+      "Loki",
+      "Valkyrie",
+      "Odin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Odin gave an eye for wisdom!",
+      "wrong": "Nope! The Norse all-father with ravens!"
+    },
+    "id": "rid_165"
+  },
+  {
+    "question": "In Greek myth, who rules the sun, arts, and prophecy?",
+    "options": [
+      "Zeus",
+      "Hermes",
+      "Ares",
+      "Apollo"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Apollo is the god of the sun, arts, and prophecy!",
+      "wrong": "Nope! The sun god with a lyre!"
+    },
+    "id": "rid_166"
+  },
+  {
+    "question": "Who is the trickster god of Norse myth?",
+    "options": [
+      "Odin",
+      "Thor",
+      "Valkyrie",
+      "Loki"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Loki is the god of mischief!",
+      "wrong": "Nope! The god who loves tricks and mischief!"
+    },
+    "id": "rid_167"
+  },
+  {
+    "question": "Which Norse warrior-women carry slain heroes to Valhalla?",
+    "options": [
+      "Athena",
+      "Odin",
+      "Freya",
+      "Valkyrie"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Valkyries carry slain heroes to Valhalla!",
+      "wrong": "Nope! The flying warrior-women of the north!"
+    },
+    "id": "rid_168"
+  },
+  {
+    "question": "Who is the founder of Buddhism, called \"the awakened one\"?",
+    "options": [
+      "Guanyin",
+      "Shiva",
+      "Indra",
+      "Buddha"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Buddha is the awakened founder of Buddhism!",
+      "wrong": "Nope! The one who awakened under the Bodhi tree!"
+    },
+    "id": "rid_169"
+  },
+  {
+    "question": "In Buddhism, which bodhisattva hears the suffering of all and shows compassion?",
+    "options": [
+      "Buddha",
+      "Ganesha",
+      "Shiva",
+      "Guanyin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Guanyin saves beings with compassion!",
+      "wrong": "Nope! The bodhisattva with a thousand hands and eyes!"
+    },
+    "id": "rid_170"
+  },
+  {
+    "question": "In Indian myth, who symbolizes destruction and transformation?",
+    "options": [
+      "Ganesha",
+      "Indra",
+      "Ra",
+      "Shiva"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Shiva is the god of destruction and transformation!",
+      "wrong": "Nope! The god of destruction with a trident!"
+    },
+    "id": "rid_171"
+  },
+  {
+    "question": "In Indian myth, who rules lightning and rain?",
+    "options": [
+      "Shiva",
+      "Ra",
+      "Ganesha",
+      "Indra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Indra rules lightning and rain!",
+      "wrong": "Nope! The thunder god with a thunderbolt!"
+    },
+    "id": "rid_172"
+  },
+  {
+    "question": "In Egyptian myth, who symbolizes the sun?",
+    "options": [
+      "Osiris",
+      "Anubis",
+      "Sobek",
+      "Ra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Ra is the Egyptian sun god!",
+      "wrong": "Nope! The falcon-headed sun god!"
+    },
+    "id": "rid_173"
+  },
+  {
+    "question": "In Egyptian myth, who rules resurrection and the afterlife?",
+    "options": [
+      "Ra",
+      "Anubis",
+      "Sobek",
+      "Osiris"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Osiris rules resurrection and the afterlife!",
+      "wrong": "Nope! The Egyptian god of resurrection!"
+    },
+    "id": "rid_174"
+  },
+  {
+    "question": "In Egyptian myth, who is the cat-headed goddess of home and healing?",
+    "options": [
+      "Anubis",
+      "Sobek",
+      "Ra",
+      "Bastet"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Bastet is the cat-headed goddess of home and healing!",
+      "wrong": "Nope! The cat-headed Egyptian goddess!"
+    },
+    "id": "rid_175"
+  },
+  {
+    "question": "Which archangel defeated the evil dragon and commands heaven's army?",
+    "options": [
+      "Gabriel",
+      "Raphael",
+      "Uriel",
+      "Archangel Michael"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Michael is the archangel who defeated the dragon!",
+      "wrong": "Nope! The archangel leading heaven's army!"
+    },
+    "id": "rid_176"
+  },
+  {
+    "question": "Which angel announced Jesus' birth to Mary?",
+    "options": [
+      "Michael",
+      "Raphael",
+      "Uriel",
+      "Archangel Gabriel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Gabriel announced the birth of Jesus!",
+      "wrong": "Nope! The messenger angel with a trumpet!"
+    },
+    "id": "rid_177"
+  },
+  {
+    "question": "Which angel is the healer who cures the sick?",
+    "options": [
+      "Michael",
+      "Gabriel",
+      "Uriel",
+      "Archangel Raphael"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Raphael is the healing archangel!",
+      "wrong": "Nope! The guardian angel of healing and travelers!"
+    },
+    "id": "rid_178"
+  },
+  {
+    "question": "Which angel symbolizes fire and wisdom?",
+    "options": [
+      "Michael",
+      "Gabriel",
+      "Raphael",
+      "Archangel Uriel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! Uriel symbolizes fire and wisdom!",
+      "wrong": "Nope! The angel of light and wisdom!"
+    },
+    "id": "rid_179"
+  },
+  {
+    "question": "Which angel is said to watch over you from birth?",
+    "options": [
+      "Archangel Michael",
+      "Archangel Gabriel",
+      "Archangel Raphael",
+      "Guardian Angel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! A guardian angel watches over you for life!",
+      "wrong": "Nope! The angel who stays by your side!"
+    },
+    "id": "rid_180"
+  },
+  {
+    "question": "In Greek myth, which three sisters spin the thread of human fate?",
+    "options": [
+      "Valkyries",
+      "Muses",
+      "Harpies",
+      "The Fates"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Fates spin the thread of destiny!",
+      "wrong": "Nope! The three Greek sisters who decide fate!"
+    },
+    "id": "rid_181"
+  },
+  {
+    "question": "Which maned beast is called the king of the savanna?",
+    "options": [
+      "Tiger",
+      "Leopard",
+      "Cheetah",
+      "Lion"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lion is the maned king of the savanna!",
+      "wrong": "Nope! The maned beast of the grassland!"
+    },
+    "id": "rid_182"
+  },
+  {
+    "question": "Which armored animal has a horn on its nose?",
+    "options": [
+      "Hippo",
+      "Elephant",
+      "Buffalo",
+      "Rhino"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The rhino has a horn on its nose!",
+      "wrong": "Nope! The thick animal with a nose horn!"
+    },
+    "id": "rid_183"
+  },
+  {
+    "question": "Which huge African animal opens its mouth wide in the river?",
+    "options": [
+      "Rhino",
+      "Crocodile",
+      "Buffalo",
+      "Hippo"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The hippo opens its huge mouth in the river!",
+      "wrong": "Nope! The huge African animal in the water!"
+    },
+    "id": "rid_184"
+  },
+  {
+    "question": "Which animal carries a hump and walks the desert?",
+    "options": [
+      "Horse",
+      "Donkey",
+      "Llama",
+      "Camel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The camel walks the desert with a hump!",
+      "wrong": "Nope! The humped animal of the desert!"
+    },
+    "id": "rid_185"
+  },
+  {
+    "question": "Which Australian animal carries its baby in a pouch and hops?",
+    "options": [
+      "Rabbit",
+      "Koala",
+      "Wombat",
+      "Kangaroo"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The kangaroo raises its baby in a pouch!",
+      "wrong": "Nope! The pouched animal of Australia!"
+    },
+    "id": "rid_186"
+  },
+  {
+    "question": "Which black-and-white bear loves bamboo?",
+    "options": [
+      "Bear",
+      "Koala",
+      "Raccoon",
+      "Panda"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The panda is the bamboo-loving black-and-white bear!",
+      "wrong": "Nope! The black-and-white bamboo eater!"
+    },
+    "id": "rid_187"
+  },
+  {
+    "question": "Which African horse has black stripes?",
+    "options": [
+      "Horse",
+      "Donkey",
+      "Giraffe",
+      "Zebra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The zebra is the striped African horse!",
+      "wrong": "Nope! The striped horse of Africa!"
+    },
+    "id": "rid_188"
+  },
+  {
+    "question": "Which raptor soars high and snatches its prey?",
+    "options": [
+      "Falcon",
+      "Owl",
+      "Crow",
+      "Eagle"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The eagle is the king of raptors!",
+      "wrong": "Nope! The high-soaring hunter bird!"
+    },
+    "id": "rid_189"
+  },
+  {
+    "question": "Which fish rules the sea with sharp teeth?",
+    "options": [
+      "Whale",
+      "Dolphin",
+      "Crocodile",
+      "Shark"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The shark is the sharp-toothed hunter of the sea!",
+      "wrong": "Nope! The finned hunter of the sea!"
+    },
+    "id": "rid_190"
+  },
+  {
+    "question": "Which is the largest sea animal that spouts water?",
+    "options": [
+      "Shark",
+      "Dolphin",
+      "Elephant",
+      "Whale"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The whale is the largest animal in the sea!",
+      "wrong": "Nope! The giant that spouts water as it swims!"
+    },
+    "id": "rid_191"
+  },
+  {
+    "question": "Which large summer fruit is red inside a green rind?",
+    "options": [
+      "Oriental melon",
+      "Melon",
+      "Pumpkin",
+      "Watermelon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The watermelon is green outside and red inside!",
+      "wrong": "Nope! The big red fruit of summer!"
+    },
+    "id": "rid_192"
+  },
+  {
+    "question": "Which red fruit has seeds dotted on its outside?",
+    "options": [
+      "Cherry",
+      "Raspberry",
+      "Tomato",
+      "Strawberry"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The strawberry has seeds on the outside!",
+      "wrong": "Nope! The red fruit with visible surface seeds!"
+    },
+    "id": "rid_193"
+  },
+  {
+    "question": "Which fruit hangs in bunches as purple berries?",
+    "options": [
+      "Blueberry",
+      "Plum",
+      "Mulberry",
+      "Grapes"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Grapes hang in purple bunches!",
+      "wrong": "Nope! The purple fruit that hangs in bunches!"
+    },
+    "id": "rid_194"
+  },
+  {
+    "question": "Which yellow fruit is curved and peeled to eat?",
+    "options": [
+      "Oriental melon",
+      "Mango",
+      "Papaya",
+      "Banana"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The banana is a curved yellow fruit!",
+      "wrong": "Nope! The long yellow fruit!"
+    },
+    "id": "rid_195"
+  },
+  {
+    "question": "Which yellow ear has kernels in rows?",
+    "options": [
+      "Bean",
+      "Wheat",
+      "Rice",
+      "Corn"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Corn is the yellow ear with rows of kernels!",
+      "wrong": "Nope! The yellow grain with kernels in rows!"
+    },
+    "id": "rid_196"
+  },
+  {
+    "question": "Which orange root vegetable do rabbits love?",
+    "options": [
+      "Radish",
+      "Sweet potato",
+      "Potato",
+      "Carrot"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The carrot is the orange root rabbits love!",
+      "wrong": "Nope! The orange veggie rabbits love!"
+    },
+    "id": "rid_197"
+  },
+  {
+    "question": "Which food has a yolk and white when you crack its shell?",
+    "options": [
+      "Milk",
+      "Rice",
+      "Bread",
+      "Egg"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! An egg has a yolk and white inside!",
+      "wrong": "Nope! The food with a yolk inside its shell!"
+    },
+    "id": "rid_198"
+  },
+  {
+    "question": "Which white drink is milked from a cow?",
+    "options": [
+      "Water",
+      "Juice",
+      "Yogurt",
+      "Milk"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Milk is the white drink from a cow!",
+      "wrong": "Nope! The white drink that comes from a cow!"
+    },
+    "id": "rid_199"
+  },
+  {
+    "question": "Which noodle dish is ready in 3 minutes in boiling water?",
+    "options": [
+      "Noodles",
+      "Pasta",
+      "Udon",
+      "Instant noodles"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Instant noodles are ready in 3 minutes!",
+      "wrong": "Nope! The noodles ready in three minutes!"
+    },
+    "id": "rid_200"
+  },
+  {
+    "question": "Which food rolls rice and veggies in seaweed and slices it round?",
+    "options": [
+      "Rice ball",
+      "Sushi",
+      "Kimchi",
+      "Gimbap"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Gimbap rolls rice and veggies in seaweed!",
+      "wrong": "Nope! Rice rolled in seaweed and sliced!"
+    },
+    "id": "rid_201"
+  },
+  {
+    "question": "In Greek myth, which W-shaped northern constellation is the vain queen of Ethiopia bound in the sky?",
+    "options": [
+      "Cassiopeia",
+      "Andromeda",
+      "Pegasus",
+      "Cygnus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cassiopeia is Andromeda's mother, the queen!",
+      "wrong": "Nope! Think of Andromeda's mother, the queen!"
+    },
+    "id": "rid_202"
+  },
+  {
+    "question": "In Greek myth, which hunter with three stars at his belt shines in the winter southern sky?",
+    "options": [
+      "Orion",
+      "Leo",
+      "Scorpius",
+      "Ursa Major"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Orion is the hunter with the three-star belt!",
+      "wrong": "Nope! The hunter with three stars at his belt!"
+    },
+    "id": "rid_203"
+  },
+  {
+    "question": "In Greek myth, which summer southern constellation is the scorpion that stung Orion?",
+    "options": [
+      "Scorpius",
+      "Leo",
+      "Cancer",
+      "Taurus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Scorpius is the scorpion that stung Orion!",
+      "wrong": "Nope! The stinger that defeated Orion!"
+    },
+    "id": "rid_204"
+  },
+  {
+    "question": "In Greek myth, which spring constellation is the Nemean beast Heracles slew?",
+    "options": [
+      "Leo",
+      "Scorpius",
+      "Taurus",
+      "Gemini"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Leo is the Nemean lion!",
+      "wrong": "Nope! The beast Heracles defeated!"
+    },
+    "id": "rid_205"
+  },
+  {
+    "question": "In Greek myth, which constellation is the bull Zeus became to carry Europa?",
+    "options": [
+      "Taurus",
+      "Aries",
+      "Capricorn",
+      "Cancer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Taurus is the bull Zeus became!",
+      "wrong": "Nope! The horned animal Zeus became!"
+    },
+    "id": "rid_206"
+  },
+  {
+    "question": "In Greek myth, which Aries constellation is the ram that guarded the Golden Fleece?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Leo",
+      "Pisces"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Aries is the ram of the Golden Fleece!",
+      "wrong": "Nope! The animal that guarded the Golden Fleece!"
+    },
+    "id": "rid_207"
+  },
+  {
+    "question": "In Greek myth, which maiden constellation is the goddess of justice who rose to the sky with wheat?",
+    "options": [
+      "Virgo",
+      "Libra",
+      "Cancer",
+      "Aquarius"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Virgo is the goddess of justice!",
+      "wrong": "Nope! The goddess with a wheat ear!"
+    },
+    "id": "rid_208"
+  },
+  {
+    "question": "In Greek myth, which zodiac constellation is the scales that weighed justice?",
+    "options": [
+      "Libra",
+      "Virgo",
+      "Scorpius",
+      "Sagittarius"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Libra is the scales of justice!",
+      "wrong": "Nope! The tool symbolizing balance and justice!"
+    },
+    "id": "rid_209"
+  },
+  {
+    "question": "In Greek myth, which zodiac constellation is named for the wise centaur Chiron with bow and arrow?",
+    "options": [
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Aries"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Sagittarius is the centaur Chiron!",
+      "wrong": "Nope! The half-human centaur drawing a bow!"
+    },
+    "id": "rid_210"
+  },
+  {
+    "question": "In Greek myth, which zodiac constellation has horns and a fish tail like the goat-god Pan?",
+    "options": [
+      "Capricorn",
+      "Pisces",
+      "Aquarius",
+      "Cancer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Capricorn is the goat-god Pan!",
+      "wrong": "Nope! The constellation with horns and a fish tail!"
+    },
+    "id": "rid_211"
+  },
+  {
+    "question": "In Greek myth, which constellation is the youth Ganymede, taken by Zeus, pouring water?",
+    "options": [
+      "Aquarius",
+      "Pisces",
+      "Virgo",
+      "Capricorn"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Aquarius is Ganymede!",
+      "wrong": "Nope! The constellation of the boy pouring water!"
+    },
+    "id": "rid_212"
+  },
+  {
+    "question": "In Greek myth, which last zodiac constellation are Aphrodite and Eros transformed and tied by a thread?",
+    "options": [
+      "Pisces",
+      "Aquarius",
+      "Aries",
+      "Cancer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pisces is the two fish!",
+      "wrong": "Nope! Two fish tied by a thread!"
+    },
+    "id": "rid_213"
+  },
+  {
+    "question": "In Greek myth, which constellation is the winged horse born from Medusa's blood?",
+    "options": [
+      "Pegasus",
+      "Andromeda",
+      "Cygnus",
+      "Cassiopeia"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pegasus is the winged horse!",
+      "wrong": "Nope! The winged horse born from Medusa's blood!"
+    },
+    "id": "rid_214"
+  },
+  {
+    "question": "In Greek myth, which constellation is the princess bound to a rock as a sacrifice?",
+    "options": [
+      "Andromeda",
+      "Cassiopeia",
+      "Pegasus",
+      "Virgo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Andromeda is the princess bound to the rock!",
+      "wrong": "Nope! The princess Perseus saved!"
+    },
+    "id": "rid_215"
+  },
+  {
+    "question": "In Greek myth, which constellation is the bird Zeus became to approach Leda?",
+    "options": [
+      "Cygnus",
+      "Pegasus",
+      "Aquila",
+      "Corvus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cygnus is the bird Zeus became!",
+      "wrong": "Nope! The water bird Zeus became!"
+    },
+    "id": "rid_216"
+  },
+  {
+    "question": "In Greek myth, which star cluster of Taurus is the seven sisters, daughters of Atlas?",
+    "options": [
+      "Pleiades",
+      "Sirius",
+      "Vega",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Pleiades are the seven sisters!",
+      "wrong": "Nope! The star cluster called the seven sisters!"
+    },
+    "id": "rid_217"
+  },
+  {
+    "question": "In Greek myth, which river of stars across the night sky was made by Hera's spilled milk?",
+    "options": [
+      "Milky Way",
+      "Aurora",
+      "Comet",
+      "Meteor shower"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Milky Way is the river of stars!",
+      "wrong": "Nope! The river of stars across the sky!"
+    },
+    "id": "rid_218"
+  },
+  {
+    "question": "In Eastern legend, which herdsman star meets its love once a year across the Milky Way?",
+    "options": [
+      "Altair",
+      "Vega",
+      "Polaris",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Altair is the herdsman star!",
+      "wrong": "Nope! The herdsman star across the Milky Way!"
+    },
+    "id": "rid_219"
+  },
+  {
+    "question": "In Eastern legend, which weaver-girl star weaves across from Altair?",
+    "options": [
+      "Vega",
+      "Altair",
+      "Polaris",
+      "Alnitak"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Vega is the weaver-girl star!",
+      "wrong": "Nope! The star of the weaving woman!"
+    },
+    "id": "rid_220"
+  },
+  {
+    "question": "Which Eastern system divides the sky into 28 traditional mansion constellations?",
+    "options": [
+      "Twenty-eight Mansions",
+      "Twelve Earthly Branches",
+      "Four Symbols",
+      "Big Dipper"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Twenty-eight Mansions is the Eastern system!",
+      "wrong": "Nope! The system dividing the sky into 28 parts!"
+    },
+    "id": "rid_221"
+  },
+  {
+    "question": "What is the Eastern name for the three stars in a row below Orion's belt?",
+    "options": [
+      "Alnitak trio (Samtaeseong)",
+      "Three Gods",
+      "Three-legged Crow",
+      "Big Dipper"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Samtaeseong is the name of the three stars!",
+      "wrong": "Nope! The three stars below Orion's belt!"
+    },
+    "id": "rid_222"
+  },
+  {
+    "question": "Which very bright southern star is called the longevity star in the East?",
+    "options": [
+      "Canopus",
+      "Polaris",
+      "Sirius",
+      "Vega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Canopus is the Eastern longevity star!",
+      "wrong": "Nope! The longevity star of the southern sky!"
+    },
+    "id": "rid_223"
+  },
+  {
+    "question": "Which star hardly moves in the northern sky and guides sailors?",
+    "options": [
+      "Polaris",
+      "Sirius",
+      "Canopus",
+      "Vega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Polaris is the guide of the sky!",
+      "wrong": "Nope! The still star of the north!"
+    },
+    "id": "rid_224"
+  },
+  {
+    "question": "Which constellation of seven stars forms a ladle pointing to Polaris?",
+    "options": [
+      "Big Dipper",
+      "Cassiopeia",
+      "Ursa Minor",
+      "Cygnus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Big Dipper is the seven-star ladle!",
+      "wrong": "Nope! The seven stars forming a ladle!"
+    },
+    "id": "rid_225"
+  },
+  {
+    "question": "Which small bear constellation carries Polaris at the tip of its tail?",
+    "options": [
+      "Ursa Minor",
+      "Ursa Major",
+      "Cygnus",
+      "Pisces"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Ursa Minor holds Polaris!",
+      "wrong": "Nope! The constellation with Polaris at its tail!"
+    },
+    "id": "rid_226"
+  },
+  {
+    "question": "In Greek myth, which bear constellation is Callisto, who turned into a bear?",
+    "options": [
+      "Ursa Major",
+      "Ursa Minor",
+      "Leo",
+      "Taurus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Ursa Major is Callisto as a bear!",
+      "wrong": "Nope! The constellation of the nymph turned bear!"
+    },
+    "id": "rid_227"
+  },
+  {
+    "question": "In Greek myth, which winter constellation shows twin brothers side by side?",
+    "options": [
+      "Gemini",
+      "Leo",
+      "Virgo",
+      "Libra"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Gemini is the two brothers!",
+      "wrong": "Nope! Two brothers standing side by side!"
+    },
+    "id": "rid_228"
+  },
+  {
+    "question": "In Greek myth, which constellation is the musician with an instrument made from a tortoise shell?",
+    "options": [
+      "Lyra",
+      "Cygnus",
+      "Pegasus",
+      "Aquila"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Lyra is the instrument of Orpheus!",
+      "wrong": "Nope! The musician with a stringed instrument!"
+    },
+    "id": "rid_229"
+  },
+  {
+    "question": "Which streaking star with a tail makes people make a wish?",
+    "options": [
+      "Shooting star",
+      "Comet",
+      "Polaris",
+      "Milky Way"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! A shooting star is for making wishes!",
+      "wrong": "Nope! The star that streaks across the sky!"
+    },
+    "id": "rid_230"
+  },
+  {
+    "question": "In Greek myth, which constellation is the crab that pinched Heracles' foot?",
+    "options": [
+      "Cancer",
+      "Scorpius",
+      "Leo",
+      "Aries"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cancer is the crab that pinched Heracles!",
+      "wrong": "Nope! The crab from the tale of Heracles!"
+    },
+    "id": "rid_231"
+  },
+  {
+    "question": "In Greek myth, which brightest star of Canis Major is the hunting dog of Orion?",
+    "options": [
+      "Sirius",
+      "Polaris",
+      "Vega",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Sirius is Orion's hunting-dog star!",
+      "wrong": "Nope! The brightest star in the night sky!"
+    },
+    "id": "rid_232"
+  },
+  {
+    "question": "Which cross-shaped southern constellation guided sailors of the southern hemisphere?",
+    "options": [
+      "Southern Cross",
+      "Big Dipper",
+      "Cassiopeia",
+      "Cygnus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Southern Cross guides the south!",
+      "wrong": "Nope! The cross-shaped constellation of the south!"
+    },
+    "id": "rid_233"
+  },
+  {
+    "question": "In Greek myth, which constellation is the herdsman guarding the bears, holding Arcturus?",
+    "options": [
+      "Boötes",
+      "Ursa Major",
+      "Ursa Minor",
+      "Virgo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Boötes is the herdsman guarding the bears!",
+      "wrong": "Nope! The herdsman constellation following the Great Bear!"
+    },
+    "id": "rid_234"
+  },
+  {
+    "question": "Which autumn constellation is named for the Greek hero who slew Medusa?",
+    "options": [
+      "Perseus",
+      "Hercules",
+      "Orion",
+      "Cepheus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Perseus is the hero who slew Medusa!",
+      "wrong": "Nope! The constellation of the hero who slew Medusa!"
+    },
+    "id": "rid_235"
+  },
+  {
+    "question": "Which large summer constellation is named for the greatest Greek hero?",
+    "options": [
+      "Hercules",
+      "Perseus",
+      "Orion",
+      "Sagittarius"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Hercules is the greatest hero's constellation!",
+      "wrong": "Nope! The constellation of the hero of twelve labors!"
+    },
+    "id": "rid_236"
+  },
+  {
+    "question": "Which northern constellation is the king of Ethiopia, father of Andromeda?",
+    "options": [
+      "Cepheus",
+      "Cassiopeia",
+      "Perseus",
+      "Pegasus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cepheus is Andromeda's father!",
+      "wrong": "Nope! The constellation of the Ethiopian king!"
+    },
+    "id": "rid_237"
+  },
+  {
+    "question": "Which large southern constellation symbolizes the whole centaur race of Greek myth?",
+    "options": [
+      "Centaurus",
+      "Sagittarius",
+      "Boötes",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Centaurus is the centaur race!",
+      "wrong": "Nope! The constellation of the centaur race!"
+    },
+    "id": "rid_238"
+  },
+  {
+    "question": "Which large southern constellation is the keel of the ship Argo?",
+    "options": [
+      "Carina",
+      "Centaurus",
+      "Southern Cross",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Carina is the keel of Argo!",
+      "wrong": "Nope! The constellation from the keel of Argo!"
+    },
+    "id": "rid_239"
+  },
+  {
+    "question": "Which red star is called the eye of the bull?",
+    "options": [
+      "Aldebaran",
+      "Rigel",
+      "Betelgeuse",
+      "Sirius"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Aldebaran is the eye of the bull!",
+      "wrong": "Nope! The red eye of Taurus!"
+    },
+    "id": "rid_240"
+  },
+  {
+    "question": "Which star shines blue at the foot of Orion?",
+    "options": [
+      "Rigel",
+      "Betelgeuse",
+      "Deneb",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Rigel is the star at Orion's foot!",
+      "wrong": "Nope! The star shining at the hunter's foot!"
+    },
+    "id": "rid_241"
+  },
+  {
+    "question": "Which star shines red at Orion's shoulder?",
+    "options": [
+      "Betelgeuse",
+      "Rigel",
+      "Aldebaran",
+      "Antares"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Betelgeuse is Orion's shoulder star!",
+      "wrong": "Nope! The star shining at the hunter's shoulder!"
+    },
+    "id": "rid_242"
+  },
+  {
+    "question": "Which star shines at the tail of Cygnus?",
+    "options": [
+      "Deneb",
+      "Vega",
+      "Altair",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Deneb is the tail star of the swan!",
+      "wrong": "Nope! The star at the tail of Cygnus!"
+    },
+    "id": "rid_243"
+  },
+  {
+    "question": "Which bright star of Canis Minor rises before Sirius?",
+    "options": [
+      "Procyon",
+      "Sirius",
+      "Betelgeuse",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Procyon rises before Sirius!",
+      "wrong": "Nope! The star that rises before Sirius!"
+    },
+    "id": "rid_244"
+  },
+  {
+    "question": "Which brightest star of Auriga is called the goat star?",
+    "options": [
+      "Capella",
+      "Aldebaran",
+      "Procyon",
+      "Deneb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Capella is the goat star!",
+      "wrong": "Nope! The goat star of Auriga!"
+    },
+    "id": "rid_245"
+  },
+  {
+    "question": "Which winter triangle is formed by Orion, Sirius, and Procyon?",
+    "options": [
+      "Winter Triangle",
+      "Summer Triangle",
+      "Spring Triangle",
+      "Big Dipper"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Winter Triangle is made by three winter stars!",
+      "wrong": "Nope! The triangle of three winter stars!"
+    },
+    "id": "rid_246"
+  },
+  {
+    "question": "Which summer triangle is formed by Vega, Altair, and Deneb?",
+    "options": [
+      "Summer Triangle",
+      "Winter Triangle",
+      "Spring Triangle",
+      "Autumn Triangle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Summer Triangle is made by three summer stars!",
+      "wrong": "Nope! The triangle of three summer stars!"
+    },
+    "id": "rid_247"
+  },
+  {
+    "question": "Which red star is called the heart of the scorpion?",
+    "options": [
+      "Antares",
+      "Aldebaran",
+      "Betelgeuse",
+      "Rigel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Antares is the scorpion's heart star!",
+      "wrong": "Nope! The red heart star of Scorpius!"
+    },
+    "id": "rid_248"
+  },
+  {
+    "question": "Which bright star of Gemini is named for one of the twin brothers?",
+    "options": [
+      "Pollux",
+      "Castor",
+      "Aldebaran",
+      "Deneb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pollux is a twin-brother star!",
+      "wrong": "Nope! The star of one of the twin brothers!"
+    },
+    "id": "rid_249"
+  },
+  {
+    "question": "Which star in the Big Dipper's handle appears split into two?",
+    "options": [
+      "Mizar",
+      "Alcor",
+      "Polaris",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Mizar appears as a double star!",
+      "wrong": "Nope! The double star in the ladle handle!"
+    },
+    "id": "rid_250"
+  },
+  {
+    "question": "Which star of Centaurus is the brightest and nearest to the Sun?",
+    "options": [
+      "Alpha Centauri",
+      "Sirius",
+      "Canopus",
+      "Vega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Alpha Centauri is the nearest star to the Sun!",
+      "wrong": "Nope! The nearest neighbor star to the Sun!"
+    },
+    "id": "rid_251"
+  },
+  {
+    "question": "Which constellation shaped like a charioteer holds Capella?",
+    "options": [
+      "Auriga",
+      "Boötes",
+      "Gemini",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Auriga is the charioteer!",
+      "wrong": "Nope! The charioteer constellation holding Capella!"
+    },
+    "id": "rid_252"
+  },
+  {
+    "question": "Which constellation beside Boötes symbolizes two hunting dogs?",
+    "options": [
+      "Canes Venatici",
+      "Boötes",
+      "Canis Minor",
+      "Canis Major"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Canes Venatici is the two hunting dogs!",
+      "wrong": "Nope! The two hunting dogs following the herdsman!"
+    },
+    "id": "rid_253"
+  },
+  {
+    "question": "Which southern constellation shaped like a peacock holds bright stars?",
+    "options": [
+      "Pavo",
+      "Southern Cross",
+      "Carina",
+      "Centaurus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pavo is the peacock of the southern sky!",
+      "wrong": "Nope! The peacock-shaped constellation of the south!"
+    },
+    "id": "rid_254"
+  },
+  {
+    "question": "Which spring triangle is formed by stars of Leo, Boötes, and Virgo?",
+    "options": [
+      "Spring Triangle",
+      "Summer Triangle",
+      "Winter Triangle",
+      "Autumn Triangle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Correct! The Spring Triangle is made by three spring stars!",
+      "wrong": "Nope! The triangle of three spring stars!"
+    },
+    "id": "rid_255"
   }
 ]

@@ -54,20 +54,20 @@
     "id": "rid_003"
   },
   {
-    "question": "Was schützt die Füße vor Regen, gefaltet, wenn es trocken ist?",
+    "question": "Was schützt an Regentagen die Füße, die ein Schirm nicht bedeckt?",
     "options": [
       "Vordach",
       "Gummistiefel",
       "Plane",
-      "Schirmnetz"
+      "Regenmantel"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Gummistiefel halten die Front, wo das Wasser angreift!",
-      "wrong": "Daneben! An den Füßen getragen, wenn es regnet!"
+      "correct": "Richtig! Gummistiefel halten die Füße bei Regen trocken!",
+      "wrong": "Daneben! Wird bei Regen an den Füßen getragen!"
     },
     "id": "rid_004"
   },
@@ -954,20 +954,20 @@
     "id": "rid_053"
   },
   {
-    "question": "In jedem Haus gibt es eines, man begegnet seinem Gesicht jeden Tag, doch es spricht nie. Was ist es?",
+    "question": "Was öffnet sich weit und schützt dich bei Regen?",
     "options": [
-      "Ein Spiegel",
-      "Tapete",
-      "Eine Uhr",
-      "Ein Türknauf"
+      "Regenschirm",
+      "Gummistiefel",
+      "Regenmantel",
+      "Hut"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Vortrefflich! Der Spiegel spiegelt dein Herz und deinen Ausdruck ohne eine Spur von Lüge!",
-      "wrong": "Schade! Schau nach dem Ding, das dir dein eigenes Bild zurückwirft!"
+      "correct": "Richtig! Ein Regenschirm ist dein kleines Dach im Regen!",
+      "wrong": "Daneben! Das öffnet man, wenn es regnet!"
     },
     "id": "rid_054"
   },
@@ -980,7 +980,7 @@
       "Schweigen"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -998,7 +998,7 @@
       "Ein Schlüssel"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1034,7 +1034,7 @@
       "Winterspross"
     ],
     "answer_index": 1,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1170,92 +1170,92 @@
     "id": "rid_065"
   },
   {
-    "question": "Was ist der kostbarste Besitz des Menschen, der schwindet, je mehr man ihn atmet, und kostbarer wird, je mehr man ihn ausgibt?",
+    "question": "Es schlägt ohne Pause, ruht aber nie — welche Uhr in deiner Brust?",
     "options": [
-      "Zeit (die Jahre)",
-      "Gold",
-      "Diamanten",
-      "Seide"
+      "Herz",
+      "Lunge",
+      "Gehirn",
+      "Auge"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Schone nur einen Zoll des Schattens der Sonne! Verflossene Zeit kann man mit Gold nicht zurückkaufen!",
-      "wrong": "Daneben! Das kostbare Ding, das, einmal vergangen, nie zurückkehrt!"
+      "correct": "Richtig! Das Herz ist die Uhr, die nie stoppt!",
+      "wrong": "Daneben! Es schlägt ohne Pause in deiner Brust!"
     },
     "id": "rid_066"
   },
   {
-    "question": "Was leuchtet umso klarer, je dunkler es wird, und bleibt selbst im Sturm eine Zuflucht fürs Herz?",
+    "question": "Zahlen im Kreis, die die Welt leise vorantreiben?",
     "options": [
-      "Hoffnung (ein Traum)",
-      "Eine Lampe",
-      "Ein Ring",
-      "Eine Schatztruhe"
+      "Uhr",
+      "Kalender",
+      "Kompass",
+      "Thermometer"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Selbst in der tiefsten Dunkelheit genügt ein einziges Glimmen der Hoffnung, um weiterzuleben, Kkaebi!",
-      "wrong": "Daneben! Das helle Herz, das du in dir trägst, während du auf morgen wartest!"
+      "correct": "Richtig! Eine Uhr zeigt die Zeit ganz leise!",
+      "wrong": "Daneben! Die Zeit liest man auf dem runden Zifferblatt!"
     },
     "id": "rid_067"
   },
   {
-    "question": "Welche Goblingabe wird mehr, wenn man sie teilt, und wärmt die ganze Welt, wenn man sie im Herzen trägt?",
+    "question": "Je mehr du gibst, desto größer; je mehr du teilst, desto tiefer?",
     "options": [
-      "Liebe und Zuneigung",
-      "Goldmünzen",
-      "Schätze",
-      "Ein Weinkelch"
+      "Liebe",
+      "Hass",
+      "Gier",
+      "Trauer"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "Wir Goblins lieben am meisten die Menschen, die überfließen vor warmer Zuneigung, Kkaebi!",
-      "wrong": "Daneben! Das Ding, das das eigene Herz umso reicher macht, je mehr man es verschenkt!"
+      "correct": "Richtig! Liebe wächst, je mehr man sie teilt!",
+      "wrong": "Daneben! Das warme Gefühl, das beim Teilen wächst!"
     },
     "id": "rid_068"
   },
   {
-    "question": "Was ist die größte Tugend des Freundes, der dich aufrichtet, wenn du fällst, und dir den Rücken tätschelt, wenn du trauerst?",
+    "question": "Wer bleibt an deiner Seite, wenn es schwer ist, und tröstet dich, wenn du traurig bist?",
     "options": [
-      "Trost und Empathie",
-      "Reichtum",
-      "Belehrung",
-      "Schweigen"
+      "Freund",
+      "Lehrer",
+      "Nachbar",
+      "Fremder"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "Genau! Ein wahrer Freund weiß, mit dir zu weinen und dir die Hand zu reichen!",
-      "wrong": "Daneben! Denke an das eine warme Wort für ein müdes Herz!"
+      "correct": "Richtig! Ein Freund ist etwas Kostbares, das bleibt!",
+      "wrong": "Daneben! Der Mensch, der dir Kraft gibt!"
     },
     "id": "rid_069"
   },
   {
-    "question": "Am Morgen taufrisch, am Mittag dem Licht zugewandt — was ist das Sinnbild eines fleißigen Lebens?",
+    "question": "Was erscheint nach dem Regen als siebenfarbige Brücke am Himmel?",
     "options": [
-      "Die Sonnenblume",
-      "Der Kaktus",
-      "Die Kiefer",
-      "Die Lotosblume"
+      "Regenbogen",
+      "Abendrot",
+      "Wolke",
+      "Stern"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Die Sonnenblume — ungeteilte Treue, den Kopf nur der hellen Sonne zugewandt!",
-      "wrong": "Daneben! Die Blume, die mit goldenen Blütenblättern der Sonne nachjagt!"
+      "correct": "Richtig! Ein Regenbogen ist eine Brücke aus Regen und Licht!",
+      "wrong": "Daneben! Er zeigt sich, wenn der Regen aufhört!"
     },
     "id": "rid_070"
   },
@@ -1268,7 +1268,7 @@
       "Die Narzisse"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1304,7 +1304,7 @@
       "Das Cosmea"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1348,5 +1348,3245 @@
       "wrong": "Daneben! Hast du den Namen unserer App vergessen, den goldenen Schlüssel, der Weisheit öffnet!"
     },
     "id": "rid_075"
+  },
+  {
+    "question": "Welches Netz webt ein achtbeiniger Freund über Nacht, glänzend im Tau?",
+    "options": [
+      "Wollknäuel",
+      "Angelschnur",
+      "Spinnennetz",
+      "Netz"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Spinnennetz ist die Kunst eines achtbeinigen Freundes!",
+      "wrong": "Daneben! Es wird nachts gewebt, um Insekten zu fangen!"
+    },
+    "id": "rid_076"
+  },
+  {
+    "question": "Wohin du auch gehst, es zeigt immer dieselbe Richtung — der Freund des Verirrten?",
+    "options": [
+      "Karte",
+      "Kompass",
+      "Uhr",
+      "Fernglas"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Kompass zeigt immer nach Norden!",
+      "wrong": "Daneben! Es ist ein Werkzeug, das die Richtung zeigt!"
+    },
+    "id": "rid_077"
+  },
+  {
+    "question": "Es sitzt auf der Nase und macht die verschwommene Welt klar — was ist es?",
+    "options": [
+      "Hut",
+      "Brille",
+      "Maske",
+      "Halskette"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Brille hilft den verschwommenen Augen!",
+      "wrong": "Daneben! Man trägt es auf den Augen!"
+    },
+    "id": "rid_078"
+  },
+  {
+    "question": "Es löffelt Reis und schlürft Suppe — die kleine Schaufel auf dem Tisch?",
+    "options": [
+      "Löffel",
+      "Stäbchen",
+      "Gabel",
+      "Schöpfkelle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Löffel ist die kleine Schaufel des Tisches!",
+      "wrong": "Daneben! Damit isst man Suppe und Reis!"
+    },
+    "id": "rid_079"
+  },
+  {
+    "question": "Durch ein winziges Loch führt es einen Faden — der spitze kleine Freund?",
+    "options": [
+      "Nagel",
+      "Nadel",
+      "Schere",
+      "Lineal"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Nadel führt den Faden und näht Kleidung!",
+      "wrong": "Daneben! Das spitze Werkzeug zum Einfädeln!"
+    },
+    "id": "rid_080"
+  },
+  {
+    "question": "Magier sollen darauf reiten — was fegt den Staub zusammen?",
+    "options": [
+      "Lappen",
+      "Besen",
+      "Staubsauger",
+      "Mopp"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Besen ist Reittier der Hexe und Werkzeug!",
+      "wrong": "Daneben! Es fegt den Staub zusammen!"
+    },
+    "id": "rid_081"
+  },
+  {
+    "question": "Zweimal täglich putzt es den Mund — das Werkzeug einer kleinen Schaumfee?",
+    "options": [
+      "Zahnbürste",
+      "Seife",
+      "Handtuch",
+      "Becher"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Zahnbürste schäumt und putzt die Zähne!",
+      "wrong": "Daneben! Man benutzt es beim Zähneputzen!"
+    },
+    "id": "rid_082"
+  },
+  {
+    "question": "Je mehr man es nutzt, desto kleiner wird es und wäscht Schmutz mit Schaum?",
+    "options": [
+      "Handtuch",
+      "Seife",
+      "Shampoo",
+      "Schwamm"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Seife wird kleiner und wäscht Schmutz ab!",
+      "wrong": "Daneben! Es reinigt mit Schaum!"
+    },
+    "id": "rid_083"
+  },
+  {
+    "question": "Eins für jeden Fuß — was muss immer ein Paar sein?",
+    "options": [
+      "Handschuhe",
+      "Socken",
+      "Schuhe",
+      "Schal"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Socken trägt man paarweise an beiden Füßen!",
+      "wrong": "Daneben! Es wird paarweise an den Füßen getragen!"
+    },
+    "id": "rid_084"
+  },
+  {
+    "question": "Was wärmt im Winter alle fünf Finger?",
+    "options": [
+      "Handschuhe",
+      "Socken",
+      "Schal",
+      "Mütze"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Handschuhe halten die Finger warm!",
+      "wrong": "Daneben! Man zieht es an den Händen an!"
+    },
+    "id": "rid_085"
+  },
+  {
+    "question": "Es sitzt auf dem Kopf und hält die Sonne ab — was ist es?",
+    "options": [
+      "Brille",
+      "Regenschirm",
+      "Mütze",
+      "Schuhe"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Mütze ist ein Sonnenschutz für den Kopf!",
+      "wrong": "Daneben! Man trägt es auf dem Kopf!"
+    },
+    "id": "rid_086"
+  },
+  {
+    "question": "Mit jedem Atemzug des Meeres rollt es heran und verschwindet?",
+    "options": [
+      "Welle",
+      "Gezeiten",
+      "Schaum",
+      "Sand"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Welle ist der Atem des Meeres!",
+      "wrong": "Daneben! Es ist das Wasser, das ans Ufer rollt!"
+    },
+    "id": "rid_087"
+  },
+  {
+    "question": "Von der Nacht zurückgelassen, bildet es sich auf Blättern im Morgengrauen?",
+    "options": [
+      "Schnee",
+      "Regen",
+      "Tau",
+      "Frost"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Tau ist der klare Tropfen, den die Nacht lässt!",
+      "wrong": "Daneben! Der Tropfen auf Blättern im Morgengrauen!"
+    },
+    "id": "rid_088"
+  },
+  {
+    "question": "Es miaut und jagt Mäuse — der schnurrbärtige Freund?",
+    "options": [
+      "Katze",
+      "Hund",
+      "Kaninchen",
+      "Fuchs"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Katze ist ein schnurrbärtiger Mäusejäger!",
+      "wrong": "Daneben! Das Tier, das miaut!"
+    },
+    "id": "rid_089"
+  },
+  {
+    "question": "Es marschiert in einer Reihe und arbeitet den ganzen Sommer — der winzige Arbeiter?",
+    "options": [
+      "Biene",
+      "Ameise",
+      "Schmetterling",
+      "Spinne"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Ameise ist ein fleißiger Arbeiter in Reih und Glied!",
+      "wrong": "Daneben! Das Insekt, das in einer Reihe läuft!"
+    },
+    "id": "rid_090"
+  },
+  {
+    "question": "Lange Nase, große Ohren, die es wie einen Fächer wedelt — das riesige Tier?",
+    "options": [
+      "Elefant",
+      "Nashorn",
+      "Flusspferd",
+      "Giraffe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Elefant fächelt mit den großen Ohren!",
+      "wrong": "Daneben! Das große Tier mit dem langen Rüssel!"
+    },
+    "id": "rid_091"
+  },
+  {
+    "question": "Mit drei Augen in Rot, Gelb und Grün sagt es der Straße, was zu tun ist?",
+    "options": [
+      "Straßenlampe",
+      "Ampel",
+      "Strommast",
+      "Schild"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Ampel regelt die Straße mit drei Augen!",
+      "wrong": "Daneben! Es signalisiert mit drei Farben!"
+    },
+    "id": "rid_092"
+  },
+  {
+    "question": "Zwei Räder und Pedale — welches Fahrzeug trittst du voran?",
+    "options": [
+      "Motorrad",
+      "Auto",
+      "Fahrrad",
+      "Bus"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Fahrrad ist der zweirädrige Freund der Füße!",
+      "wrong": "Daneben! Das zweirädrige Gefährt, das man tritt!"
+    },
+    "id": "rid_093"
+  },
+  {
+    "question": "Wirf einen Brief ein und es eilt für dich davon — der rote Kasten?",
+    "options": [
+      "Tasche",
+      "Kiste",
+      "Briefkasten",
+      "Tresor"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Briefkasten ist der rote Bote für Briefe!",
+      "wrong": "Daneben! Der rote Kasten für Briefe!"
+    },
+    "id": "rid_094"
+  },
+  {
+    "question": "An Seilen hängend schwingt es hin und her — welches Spielgerät?",
+    "options": [
+      "Wippe",
+      "Rutsche",
+      "Schaukel",
+      "Klettergerüst"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Schaukel gibt das Gefühl zu fliegen!",
+      "wrong": "Daneben! Man schwingt damit vor und zurück!"
+    },
+    "id": "rid_095"
+  },
+  {
+    "question": "Geht eine Seite runter, geht die andere hoch — das Gerät für zwei?",
+    "options": [
+      "Schaukel",
+      "Wippe",
+      "Karussell",
+      "Rutsche"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Auf einer Wippe teilen zwei ihr Gewicht!",
+      "wrong": "Daneben! Das Auf-und-ab für zwei!"
+    },
+    "id": "rid_096"
+  },
+  {
+    "question": "Ohne Schlüssel öffnet es nie — die eiserne Faust, die die Tür bewacht?",
+    "options": [
+      "Schloss",
+      "Türklinke",
+      "Scharnier",
+      "Riegel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Schloss ist der Wächter, den nur ein Schlüssel öffnet!",
+      "wrong": "Daneben! Das Schloss, das man mit einem Schlüssel öffnet!"
+    },
+    "id": "rid_097"
+  },
+  {
+    "question": "Weiß stürzt das Wasser von der Klippe — der Vorhang, der nie endet?",
+    "options": [
+      "Quelle",
+      "Wasserfall",
+      "Bach",
+      "See"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Wasserfall ist ein großer Vorhang aus Wasser!",
+      "wrong": "Daneben! Wasser, das von oben herabstürzt!"
+    },
+    "id": "rid_098"
+  },
+  {
+    "question": "Nach dem Blitz folgt spät ein Grollen — welcher Klang?",
+    "options": [
+      "Blitz",
+      "Donner",
+      "Wind",
+      "Echo"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Donner ist die Himmeltrommel nach dem Blitz!",
+      "wrong": "Daneben! Der Klang nach dem Blitz!"
+    },
+    "id": "rid_099"
+  },
+  {
+    "question": "Die Sicht verschwindet weiß — die Wolke, die sich auf den Boden legt?",
+    "options": [
+      "Rauch",
+      "Nebel",
+      "Dampf",
+      "Wolke"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Nebel ist eine tiefe Wolke am Boden!",
+      "wrong": "Daneben! Der Dunst, der die Sicht verdeckt!"
+    },
+    "id": "rid_100"
+  },
+  {
+    "question": "Es flattert über das Blumenbeet — die Blume mit Flügeln?",
+    "options": [
+      "Biene",
+      "Schmetterling",
+      "Libelle",
+      "Vogel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Schmetterling ist eine fliegende Blume mit Flügeln!",
+      "wrong": "Daneben! Das Insekt, das über Blumen flattert!"
+    },
+    "id": "rid_101"
+  },
+  {
+    "question": "Es kann nicht fliegen, schwimmt aber gut in der Antarktis — der Vogel im Frack?",
+    "options": [
+      "Strauß",
+      "Möwe",
+      "Pinguin",
+      "Ente"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Pinguin ist der Frack-Schwimmer der Antarktis!",
+      "wrong": "Daneben! Der schwimmende Vogel der Antarktis!"
+    },
+    "id": "rid_102"
+  },
+  {
+    "question": "Ein Ort, an dem man still sein muss, doch tausende Bücher wohnen — das stille Haus?",
+    "options": [
+      "Buchhandlung",
+      "Bibliothek",
+      "Museum",
+      "Schule"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Bibliothek ist ein Haus für Bücher und Stille!",
+      "wrong": "Daneben! Dort leiht und liest man leise Bücher!"
+    },
+    "id": "rid_103"
+  },
+  {
+    "question": "Eingelegter Kohl, gewürzt für den Winter — die scharfe Beilage?",
+    "options": [
+      "Eingelegtes",
+      "Kimchi",
+      "Essiggurke",
+      "Salat"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Kimchi ist Koreas scharfer Schatz für den Winter!",
+      "wrong": "Daneben! Die scharfe Beilage aus Kohl!"
+    },
+    "id": "rid_104"
+  },
+  {
+    "question": "König Sejong schuf sie — der Name unserer Schrift?",
+    "options": [
+      "Hangul",
+      "Hanja",
+      "Alphabet",
+      "Hiragana"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Hangul schuf König Sejong für das Volk!",
+      "wrong": "Daneben! Unsere Schrift von König Sejong!"
+    },
+    "id": "rid_105"
+  },
+  {
+    "question": "Hält man es, entsteht Vertrauen; bricht man es, Enttäuschung — welches Wort?",
+    "options": [
+      "Lüge",
+      "Geheimnis",
+      "Versprechen",
+      "Gruß"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Versprechen baut Vertrauen, je mehr man es hält!",
+      "wrong": "Daneben! Das Wort, das man halten muss!"
+    },
+    "id": "rid_106"
+  },
+  {
+    "question": "Welches Tier steht an erster Stelle der zwölf Tierkreiszeichen?",
+    "options": [
+      "Ochse",
+      "Tiger",
+      "Hase",
+      "Ratte"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die kluge Ratte ist die erste!",
+      "wrong": "Daneben! Denk an das erste Tier!"
+    },
+    "id": "rid_107"
+  },
+  {
+    "question": "Welches der vier Wächtertiere des Ostens bewacht den Osten als blauer Drache?",
+    "options": [
+      "Phönix",
+      "Weißer Tiger",
+      "Giraffe",
+      "Blauer Drache"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Blaue Drache ist der fliegende Wächter des Ostens!",
+      "wrong": "Daneben! Der Himmelswächter des Ostens!"
+    },
+    "id": "rid_108"
+  },
+  {
+    "question": "Wer herrscht in der griechischen Mythologie über das Meer?",
+    "options": [
+      "Zeus",
+      "Hades",
+      "Apollon",
+      "Poseidon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Poseidon beherrscht das Meer mit dem Dreizack!",
+      "wrong": "Daneben! Der Meeresgott mit dem Dreizack!"
+    },
+    "id": "rid_109"
+  },
+  {
+    "question": "Welche Göttin steht in der griechischen Mythologie für Weisheit und Krieg?",
+    "options": [
+      "Hera",
+      "Aphrodite",
+      "Artemis",
+      "Athena"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Athena ist die Göttin der Weisheit und des Krieges!",
+      "wrong": "Daneben! Die Weisheitsgöttin mit der Eule!"
+    },
+    "id": "rid_110"
+  },
+  {
+    "question": "Wer erzeugt in der nordischen Mythologie mit Mjölnir den Donner?",
+    "options": [
+      "Odin",
+      "Loki",
+      "Walküre",
+      "Thor"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Thor erzeugt mit dem Hammer Mjölnir den Donner!",
+      "wrong": "Daneben! Der Donnergott mit Mjölnir!"
+    },
+    "id": "rid_111"
+  },
+  {
+    "question": "Wer herrscht in der griechischen Mythologie über die Unterwelt?",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Apollon",
+      "Hades"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Hades ist der König der Unterwelt!",
+      "wrong": "Daneben! Zeus Bruder und König der Unterwelt!"
+    },
+    "id": "rid_112"
+  },
+  {
+    "question": "Wer hat in der indischen Mythologie einen Elefantenkopf für Weisheit und Glück?",
+    "options": [
+      "Shiva",
+      "Indra",
+      "Ra",
+      "Ganesha"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ganesha, elefantenköpfiger Gott der Weisheit!",
+      "wrong": "Daneben! Der elefantenköpfige indische Gott!"
+    },
+    "id": "rid_113"
+  },
+  {
+    "question": "Wer hat in der ägyptischen Mythologie einen Schakalkopf für Tod und Mumien?",
+    "options": [
+      "Osiris",
+      "Ra",
+      "Bastet",
+      "Anubis"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Anubis, schakalköpfiger Gott des Todes!",
+      "wrong": "Daneben! Der schakalköpfige ägyptische Gott!"
+    },
+    "id": "rid_114"
+  },
+  {
+    "question": "Welches der zwölf Tiere kräht und den Morgen verkündet?",
+    "options": [
+      "Affe",
+      "Schaf",
+      "Pferd",
+      "Hahn"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hahn verkündet den Morgen!",
+      "wrong": "Daneben! Der Vogel, der im Morgengrauen kräht!"
+    },
+    "id": "rid_115"
+  },
+  {
+    "question": "Welches der zwölf Tiere gilt als Symbol der Treue?",
+    "options": [
+      "Schwein",
+      "Schaf",
+      "Ochse",
+      "Hund"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hund steht für Treue!",
+      "wrong": "Daneben! Der treue Begleiter des Menschen!"
+    },
+    "id": "rid_116"
+  },
+  {
+    "question": "Welches Märchenmädchen ließ einen Glasschuh zurück und floh um Mitternacht?",
+    "options": [
+      "Schneewittchen",
+      "Die kleine Meerjungfrau",
+      "Rapunzel",
+      "Aschenputtel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Aschenputtel ließ den Glasschuh zurück!",
+      "wrong": "Daneben! Ihre Kutsche verschwand um Mitternacht!"
+    },
+    "id": "rid_117"
+  },
+  {
+    "question": "Welche Prinzessin schlief nach einem vergifteten Apfel tief ein?",
+    "options": [
+      "Aschenputtel",
+      "Die kleine Meerjungfrau",
+      "Rapunzel",
+      "Schneewittchen"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Schneewittchen schlief wegen des Giftapfels!",
+      "wrong": "Daneben! Die Prinzessin bei den sieben Zwergen!"
+    },
+    "id": "rid_118"
+  },
+  {
+    "question": "Welcher Holzpuppe wächst die Nase, wenn sie lügt?",
+    "options": [
+      "Peter Pan",
+      "Hänsel",
+      "Alice",
+      "Pinocchio"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Pinocchios Nase wächst beim Lügen!",
+      "wrong": "Daneben! Die Holzpuppe eines Schnitzers!"
+    },
+    "id": "rid_119"
+  },
+  {
+    "question": "Welches Mädchen mit roter Kapuze traf im Wald einen Wolf?",
+    "options": [
+      "Schneewittchen",
+      "Aschenputtel",
+      "Die kleine Meerjungfrau",
+      "Rotkäppchen"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Rotkäppchen traf den Wolf!",
+      "wrong": "Daneben! Das Mädchen auf dem Weg zur Großmutter!"
+    },
+    "id": "rid_120"
+  },
+  {
+    "question": "Welches Geschwister-Märchen zeigt eine Hexe im Lebkuchenhaus?",
+    "options": [
+      "Rotkäppchen",
+      "Pinocchio",
+      "Hans und die Bohnenranke",
+      "Hänsel und Gretel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Hänsel und Gretel und die Hexe im Lebkuchenhaus!",
+      "wrong": "Daneben! Geschwister, ins Lebkuchenhaus gelockt!"
+    },
+    "id": "rid_121"
+  },
+  {
+    "question": "Welches prahlerische Tier verlor das Rennen gegen die langsame Schildkröte?",
+    "options": [
+      "Fuchs",
+      "Reh",
+      "Pferd",
+      "Hase"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hase verlor aus Übermut!",
+      "wrong": "Daneben! Das schnelle Tier im Wettlauf!"
+    },
+    "id": "rid_122"
+  },
+  {
+    "question": "Welches Insekt sang den Sommer und hungerte im Winter, mit der Ameise?",
+    "options": [
+      "Zikade",
+      "Grille",
+      "Schmetterling",
+      "Grille (Heupferd)"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Heupferd spielte im Sommer und bereute im Winter!",
+      "wrong": "Daneben! Das faule Insekt im Gegensatz zur Ameise!"
+    },
+    "id": "rid_123"
+  },
+  {
+    "question": "Wer gab ihre Stimme für Beine in einem Meermärchen auf?",
+    "options": [
+      "Schneewittchen",
+      "Aschenputtel",
+      "Rapunzel",
+      "Die kleine Meerjungfrau"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die kleine Meerjungfrau gab ihre Stimme für die Liebe!",
+      "wrong": "Daneben! Die Märchenprinzessin des Meeres!"
+    },
+    "id": "rid_124"
+  },
+  {
+    "question": "Welcher Junge flog mit dem Vater und stürzte ins Meer, zu nah an der Sonne?",
+    "options": [
+      "Herakles",
+      "Perseus",
+      "Odysseus",
+      "Ikarus"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ikarus flog zu nah an der Sonne und stürzte ins Meer!",
+      "wrong": "Daneben! Der Junge mit Wachsflügeln!"
+    },
+    "id": "rid_125"
+  },
+  {
+    "question": "Welche Frau öffnete aus Neugier die Büchse mit allen Übeln?",
+    "options": [
+      "Athena",
+      "Helena",
+      "Medusa",
+      "Pandora"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Pandora öffnete aus Neugier die Büchse der Übel!",
+      "wrong": "Daneben! Die Frau, die die Büchse öffnete!"
+    },
+    "id": "rid_126"
+  },
+  {
+    "question": "Welches zweite Tierkreiszeichen muht beim Pflügen?",
+    "options": [
+      "Pferd",
+      "Schaf",
+      "Ziege",
+      "Ochse"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Ochse pflügt geduldig das Feld!",
+      "wrong": "Daneben! Das gehörnte Tier, das tief muht!"
+    },
+    "id": "rid_127"
+  },
+  {
+    "question": "Welches dritte Tierkreiszeichen ist die gestreifte Raubkatze?",
+    "options": [
+      "Löwe",
+      "Leopard",
+      "Bär",
+      "Tiger"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Tiger beherrscht den Berg!",
+      "wrong": "Daneben! Die Raubkatze mit Zeichen auf der Stirn!"
+    },
+    "id": "rid_128"
+  },
+  {
+    "question": "Welches Tierkreiszeichen hüpft und stampft im Mörser?",
+    "options": [
+      "Eichhörnchen",
+      "Ratte",
+      "Reh",
+      "Hase"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hase stampft im Mörser!",
+      "wrong": "Daneben! Das langohrige, hüpfende Tier!"
+    },
+    "id": "rid_129"
+  },
+  {
+    "question": "Welches Tierkreiszeichen gleitet ohne Beine dahin?",
+    "options": [
+      "Regenwurm",
+      "Eidechse",
+      "Krokodil",
+      "Schlange"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Schlange gleitet ohne Beine!",
+      "wrong": "Daneben! Das beinlose Tier, das sich häutet!"
+    },
+    "id": "rid_130"
+  },
+  {
+    "question": "Welches Tierkreiszeichen ist das Pferd mit weißer Mähne?",
+    "options": [
+      "Esel",
+      "Maultier",
+      "Zebra",
+      "Weißes Pferd"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das weiße Pferd des Tierkreises!",
+      "wrong": "Daneben! Das weiße Pferd der Zwölf!"
+    },
+    "id": "rid_131"
+  },
+  {
+    "question": "Welches sanfte Tierkreiszeichen grast und Wolle gibt?",
+    "options": [
+      "Ziege",
+      "Ochse",
+      "Reh",
+      "Schaf"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das sanfte Schaf gibt seine Wolle!",
+      "wrong": "Daneben! Das sanfte Tier, dessen Wolle Kleidung wird!"
+    },
+    "id": "rid_132"
+  },
+  {
+    "question": "Welches Tierkreiszeichen klettert gut und zeigt Kunststücke?",
+    "options": [
+      "Panda",
+      "Koala",
+      "Orang-Utan",
+      "Affe"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Affe ist der Schelm des Tierkreises!",
+      "wrong": "Daneben! Das kluge Tier, das gern klettert!"
+    },
+    "id": "rid_133"
+  },
+  {
+    "question": "Welches letzte Tierkreiszeichen steht für Fülle und Reichtum?",
+    "options": [
+      "Wildschwein",
+      "Elefant",
+      "Flusspferd",
+      "Goldenes Schwein"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das goldene Schwein bringt Reichtum!",
+      "wrong": "Daneben! Das letzte Tier, das Glück bringt!"
+    },
+    "id": "rid_134"
+  },
+  {
+    "question": "Welches Fabeltier bestraft Lügner und richtet über Recht und Unrecht?",
+    "options": [
+      "Löwe",
+      "Drache",
+      "Tiger",
+      "Haetae"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Haetae bestraft Lügen als Tier der Gerechtigkeit!",
+      "wrong": "Daneben! Das Wachttier der Gerechtigkeit!"
+    },
+    "id": "rid_135"
+  },
+  {
+    "question": "Welches östliche Fabeltier zeigt sich, wenn ein Weiser erscheint?",
+    "options": [
+      "Einhorn",
+      "Phönix",
+      "Drache",
+      "Qilin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Qilin erscheint mit einem Weisen!",
+      "wrong": "Daneben! Das sanfte Fabeltier der Weisen!"
+    },
+    "id": "rid_136"
+  },
+  {
+    "question": "Welches der vier Wächtertiere des Ostens bewacht den Süden als roter Feuer-Vogel?",
+    "options": [
+      "Phönix",
+      "Dreibeinige Krähe",
+      "Blauer Drache",
+      "Vermilion-Vogel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Vermilion-Vogel bewacht den Süden!",
+      "wrong": "Daneben! Der rote Vogel des Südens!"
+    },
+    "id": "rid_137"
+  },
+  {
+    "question": "Welches der vier Wächtertiere des Ostens bewacht den Norden, Schildkröte mit Schlange?",
+    "options": [
+      "Blauer Drache",
+      "Weißer Tiger",
+      "Haetae",
+      "Schwarze Schildkröte"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Schwarze Schildkröte bewacht den Norden!",
+      "wrong": "Daneben! Schildkröte und Schlange des Nordens!"
+    },
+    "id": "rid_138"
+  },
+  {
+    "question": "Welches weiße Hirschwesen steht im Osten für Langlebigkeit und Frieden?",
+    "options": [
+      "Weißes Pferd",
+      "Schaf",
+      "Qilin",
+      "Weißer Hirsch"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der weiße Hirsch steht für Langlebigkeit und Frieden!",
+      "wrong": "Daneben! Der weiße Hirsch als gutes Omen!"
+    },
+    "id": "rid_139"
+  },
+  {
+    "question": "Welcher Fabelvogel sitzt auf der Paulownie und kündet Frieden?",
+    "options": [
+      "Vermilion-Vogel",
+      "Pfau",
+      "Kranich",
+      "Phönix"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Phönix kündet Frieden!",
+      "wrong": "Daneben! Der Fabelvogel auf der Paulownie!"
+    },
+    "id": "rid_140"
+  },
+  {
+    "question": "Welche dreibeinige Krähe soll in der Sonne leben?",
+    "options": [
+      "Phönix",
+      "Vermilion-Vogel",
+      "Krähe",
+      "Dreibeinige Krähe"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die dreibeinige Krähe wohnt in der Sonne!",
+      "wrong": "Daneben! Der dreibeinige Vogel der Sonne!"
+    },
+    "id": "rid_141"
+  },
+  {
+    "question": "Welcher bezaubernde Fuchsgeist hat neun Schwänze?",
+    "options": [
+      "Imugi",
+      "Sphinx",
+      "Weißer Tiger",
+      "Neunschwänziger Fuchs"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Gumiho ist ein neunschwänziger Fuchsgeist!",
+      "wrong": "Daneben! Der Fuchs mit neun Schwänzen!"
+    },
+    "id": "rid_142"
+  },
+  {
+    "question": "Welches westliche Fabeltier hat ein Horn auf der Stirn?",
+    "options": [
+      "Greif",
+      "Qilin",
+      "Reh",
+      "Einhorn"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Einhorn hat ein Horn auf der Stirn!",
+      "wrong": "Daneben! Das mystische Pferd mit einem Horn!"
+    },
+    "id": "rid_143"
+  },
+  {
+    "question": "Welcher Hund hat drei Augen?",
+    "options": [
+      "Haetae",
+      "Weißer Tiger",
+      "Neunschwänziger Fuchs",
+      "Dreiaugiger Hund"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der dreiaugige Hund ist ein Fabeltier!",
+      "wrong": "Daneben! Der Hundegeist mit drei Augen!"
+    },
+    "id": "rid_144"
+  },
+  {
+    "question": "Wer hat in der ägyptischen Mythologie einen Krokodilkopf und herrscht über den Nil?",
+    "options": [
+      "Anubis",
+      "Ra",
+      "Bastet",
+      "Sobek"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Sobek ist der krokodilköpfige Nilgott!",
+      "wrong": "Daneben! Der krokodilköpfige ägyptische Gott!"
+    },
+    "id": "rid_145"
+  },
+  {
+    "question": "Welche Riesenschlange will nach tausend Jahren ein Drache werden?",
+    "options": [
+      "Neunschwänziger Fuchs",
+      "Fisch-Drache",
+      "Leviathan",
+      "Imugi"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Imugi ist eine Riesenschlange, die Drache werden will!",
+      "wrong": "Daneben! Die Riesenschlange im Wasser!"
+    },
+    "id": "rid_146"
+  },
+  {
+    "question": "Welches Meerestier vereint Fisch und Drache?",
+    "options": [
+      "Imugi",
+      "Leviathan",
+      "Schwarze Schildkröte",
+      "Fisch-Drache"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Fisch-Drache beherrscht das Meer!",
+      "wrong": "Daneben! Das meerbewohnende Drachenwesen!"
+    },
+    "id": "rid_147"
+  },
+  {
+    "question": "Welcher ägyptische Wächter hat Löwenkörper und Menschenkopf?",
+    "options": [
+      "Greif",
+      "Nekomata",
+      "Sobek",
+      "Sphinx"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Sphinx hat Menschenkopf und Löwenkörper!",
+      "wrong": "Daneben! Der Rätselwächter vor den Pyramiden!"
+    },
+    "id": "rid_148"
+  },
+  {
+    "question": "Welches riesige Seeungeheuer soll das Meer verschlingen?",
+    "options": [
+      "Fisch-Drache",
+      "Imugi",
+      "Kraken",
+      "Leviathan"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Leviathan verschlingt das Meer!",
+      "wrong": "Daneben! Das riesige Seeungeheuer der Schrift!"
+    },
+    "id": "rid_149"
+  },
+  {
+    "question": "Welcher japanische Yokai hat Katzenkopf und Schlangenkörper?",
+    "options": [
+      "Neunschwänziger Fuchs",
+      "Sphinx",
+      "Sobek",
+      "Nekomata"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Nekomata hat Katzenkopf und Schlangenkörper!",
+      "wrong": "Daneben! Der Yokai aus Katze und Schlange!"
+    },
+    "id": "rid_150"
+  },
+  {
+    "question": "Welche dreibeinige Kröte soll auf dem Mond leben?",
+    "options": [
+      "Dreibeinige Krähe",
+      "Frosch",
+      "Schildkröte",
+      "Dreibeinige Kröte"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die dreibeinige Kröte lebt auf dem Mond!",
+      "wrong": "Daneben! Die dreibeinige Kröte des Mondes!"
+    },
+    "id": "rid_151"
+  },
+  {
+    "question": "Welches westliche Fabeltier hat Adlerkopf und Löwenkörper?",
+    "options": [
+      "Einhorn",
+      "Sphinx",
+      "Phönix",
+      "Greif"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Greif hat Adlerkopf und Löwenkörper!",
+      "wrong": "Daneben! Die Verbindung von Himmels- und Landkönig!"
+    },
+    "id": "rid_152"
+  },
+  {
+    "question": "Welches der vier Wächtertiere des Ostens bewacht den Westen als weißer Tiger?",
+    "options": [
+      "Tiger",
+      "Haetae",
+      "Schwarze Schildkröte",
+      "Weißer Tiger"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Weiße Tiger bewacht den Westen!",
+      "wrong": "Daneben! Der weiße Tiger des Westens!"
+    },
+    "id": "rid_153"
+  },
+  {
+    "question": "Welche gefiederte Schlange ist ein Gott der Azteken?",
+    "options": [
+      "Imugi",
+      "Fisch-Drache",
+      "Schwarze Schildkröte",
+      "Quetzalcoatl"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Quetzalcoatl ist der gefiederte Schlangengott!",
+      "wrong": "Daneben! Der gefiederte Schlangengott der Azteken!"
+    },
+    "id": "rid_154"
+  },
+  {
+    "question": "Welcher Berggott hütet den Berg mit einem Tiger?",
+    "options": [
+      "Drachenkönig",
+      "Hauswächter",
+      "Sensenmann",
+      "Berggott"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Berggott hütet den Berg mit dem Tiger!",
+      "wrong": "Daneben! Der Geist, der den Berg hütet!"
+    },
+    "id": "rid_155"
+  },
+  {
+    "question": "Wer trägt schwarzen Hut und Mantel und holt die Seelen?",
+    "options": [
+      "König Yama",
+      "Berggott",
+      "Jadekaiser",
+      "Sensenmann"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Sensenmann geleitet Seelen ins Jenseits!",
+      "wrong": "Daneben! Der die Seelen ins Jenseits bringt!"
+    },
+    "id": "rid_156"
+  },
+  {
+    "question": "Wer ist im östlichen Denken der höchste Gott, der den Himmel und alle Götter regiert?",
+    "options": [
+      "König Yama",
+      "Drachenkönig",
+      "Berggott",
+      "Jadekaiser"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Jadekaiser regiert alle Himmelsgötter!",
+      "wrong": "Daneben! Der höchste Gott des Himmels!"
+    },
+    "id": "rid_157"
+  },
+  {
+    "question": "Welcher König richtet im östlichen Denken die Toten im Jenseits?",
+    "options": [
+      "Jadekaiser",
+      "Sensenmann",
+      "Drachenkönig",
+      "König Yama"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! König Yama richtet die Toten!",
+      "wrong": "Daneben! Der Richter der Unterwelt!"
+    },
+    "id": "rid_158"
+  },
+  {
+    "question": "Welche riesige Großmutter-Göttin soll in östlicher Legende die Welt erschaffen haben?",
+    "options": [
+      "Geburtsgöttin",
+      "Prinzessin Bari",
+      "Guanyin",
+      "Großmutter Mago"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Großmutter Mago ist die Schöpfergöttin!",
+      "wrong": "Daneben! Die riesige Großmutter, die die Welt schuf!"
+    },
+    "id": "rid_159"
+  },
+  {
+    "question": "Welche hingebungsvolle Prinzessin ging in östlicher Legende ins Jenseits für ihre Eltern?",
+    "options": [
+      "Geburtsgöttin",
+      "Großmutter Mago",
+      "Guanyin",
+      "Prinzessin Bari"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Prinzessin Bari ging ins Jenseits!",
+      "wrong": "Daneben! Die Prinzessin im Jenseits!"
+    },
+    "id": "rid_160"
+  },
+  {
+    "question": "Welche Großmutter-Göttin schenkt Kinder und hilft bei der Geburt?",
+    "options": [
+      "Großmutter Mago",
+      "Prinzessin Bari",
+      "Hauswächter",
+      "Geburtsgöttin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Geburtsgöttin schenkt Kinder!",
+      "wrong": "Daneben! Die Großmutter der Geburt!"
+    },
+    "id": "rid_161"
+  },
+  {
+    "question": "Welcher östliche König herrscht über Meer und Wasser?",
+    "options": [
+      "Jadekaiser",
+      "König Yama",
+      "Berggott",
+      "Drachenkönig"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Drachenkönig herrscht über das Meer!",
+      "wrong": "Daneben! Der Drachenkönig des Meeres!"
+    },
+    "id": "rid_162"
+  },
+  {
+    "question": "Welcher Gott beschützt Hausgrund und Hausfrieden?",
+    "options": [
+      "Berggott",
+      "Drachenkönig",
+      "Geburtsgöttin",
+      "Hauswächter"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hauswächter beschützt den Hof!",
+      "wrong": "Daneben! Der Hausgott!"
+    },
+    "id": "rid_163"
+  },
+  {
+    "question": "Wer herrscht im griechischen Mythos mit dem Blitz über den Olymp?",
+    "options": [
+      "Poseidon",
+      "Hades",
+      "Apollon",
+      "Zeus"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Zeus regiert den Olymp mit Blitzen!",
+      "wrong": "Daneben! Der höchste Gott mit dem Blitz!"
+    },
+    "id": "rid_164"
+  },
+  {
+    "question": "Wer gab in der nordischen Mythologie ein Auge für Weisheit, der Allvater?",
+    "options": [
+      "Thor",
+      "Loki",
+      "Walküre",
+      "Odin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Odin gab ein Auge für Weisheit!",
+      "wrong": "Daneben! Der Allvater mit den Raben!"
+    },
+    "id": "rid_165"
+  },
+  {
+    "question": "Wer herrscht im griechischen Mythos über Sonne, Kunst und Prophezeiung?",
+    "options": [
+      "Zeus",
+      "Hermes",
+      "Ares",
+      "Apollon"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Apollon ist der Gott der Sonne und Künste!",
+      "wrong": "Daneben! Der Sonnengott mit der Leier!"
+    },
+    "id": "rid_166"
+  },
+  {
+    "question": "Wer ist der listige Trickstergott der nordischen Mythologie?",
+    "options": [
+      "Odin",
+      "Thor",
+      "Walküre",
+      "Loki"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Loki ist der Gott des Schabernacks!",
+      "wrong": "Daneben! Der Gott der Streiche!"
+    },
+    "id": "rid_167"
+  },
+  {
+    "question": "Welche nordischen Kriegerinnen bringen gefallene Helden nach Walhalla?",
+    "options": [
+      "Athena",
+      "Odin",
+      "Freya",
+      "Walküre"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Walküren bringen gefallene Helden nach Walhalla!",
+      "wrong": "Daneben! Die fliegenden Kriegerinnen des Nordens!"
+    },
+    "id": "rid_168"
+  },
+  {
+    "question": "Wer ist der Begründer des Buddhismus, genannt „der Erwachte“?",
+    "options": [
+      "Guanyin",
+      "Shiva",
+      "Indra",
+      "Buddha"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Buddha ist der erwachte Gründer des Buddhismus!",
+      "wrong": "Daneben! Der unter dem Bodhi-Baum Erwachte!"
+    },
+    "id": "rid_169"
+  },
+  {
+    "question": "Welcher Bodhisattva hört im Buddhismus das Leid aller und zeigt Mitgefühl?",
+    "options": [
+      "Buddha",
+      "Ganesha",
+      "Shiva",
+      "Guanyin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Guanyin rettet mit Mitgefühl!",
+      "wrong": "Daneben! Der Bodhisattva mit tausend Händen!"
+    },
+    "id": "rid_170"
+  },
+  {
+    "question": "Wer symbolisiert in der indischen Mythologie Zerstörung und Wandel?",
+    "options": [
+      "Ganesha",
+      "Indra",
+      "Ra",
+      "Shiva"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Shiva ist der Gott der Zerstörung und Wandlung!",
+      "wrong": "Daneben! Der Zerstörungsgott mit dem Dreizack!"
+    },
+    "id": "rid_171"
+  },
+  {
+    "question": "Wer herrscht in der indischen Mythologie über Blitz und Regen?",
+    "options": [
+      "Shiva",
+      "Ra",
+      "Ganesha",
+      "Indra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Indra herrscht über Blitz und Regen!",
+      "wrong": "Daneben! Der Donnergott mit dem Donnerkeil!"
+    },
+    "id": "rid_172"
+  },
+  {
+    "question": "Wer symbolisiert in der ägyptischen Mythologie die Sonne?",
+    "options": [
+      "Osiris",
+      "Anubis",
+      "Sobek",
+      "Ra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ra ist der ägyptische Sonnengott!",
+      "wrong": "Daneben! Der falkenköpfige Sonnengott!"
+    },
+    "id": "rid_173"
+  },
+  {
+    "question": "Wer herrscht in der ägyptischen Mythologie über Auferstehung und Jenseits?",
+    "options": [
+      "Ra",
+      "Anubis",
+      "Sobek",
+      "Osiris"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Osiris herrscht über Auferstehung und Jenseits!",
+      "wrong": "Daneben! Der ägyptische Gott der Auferstehung!"
+    },
+    "id": "rid_174"
+  },
+  {
+    "question": "Welche katzenköpfige Göttin Ägyptens steht für Heim und Heilung?",
+    "options": [
+      "Anubis",
+      "Sobek",
+      "Ra",
+      "Bastet"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Bastet ist die katzenköpfige Göttin von Heim und Heilung!",
+      "wrong": "Daneben! Die katzenköpfige ägyptische Göttin!"
+    },
+    "id": "rid_175"
+  },
+  {
+    "question": "Welcher Erzengel besiegte den Drachen und führt das Himmelsheer?",
+    "options": [
+      "Gabriel",
+      "Raphael",
+      "Uriel",
+      "Erzengel Michael"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Michael besiegte den Drachen!",
+      "wrong": "Daneben! Der Erzengel des Himmelsheeres!"
+    },
+    "id": "rid_176"
+  },
+  {
+    "question": "Welcher Engel verkündete Maria die Geburt Jesu?",
+    "options": [
+      "Michael",
+      "Raphael",
+      "Uriel",
+      "Erzengel Gabriel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Gabriel verkündete Jesu Geburt!",
+      "wrong": "Daneben! Der Botenengel mit der Posaune!"
+    },
+    "id": "rid_177"
+  },
+  {
+    "question": "Welcher Engel ist der Heiler, der Kranke gesund macht?",
+    "options": [
+      "Michael",
+      "Gabriel",
+      "Uriel",
+      "Erzengel Raphael"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Raphael ist der heilende Erzengel!",
+      "wrong": "Daneben! Der Schutzengel der Heilung!"
+    },
+    "id": "rid_178"
+  },
+  {
+    "question": "Welcher Engel symbolisiert Feuer und Weisheit?",
+    "options": [
+      "Michael",
+      "Gabriel",
+      "Raphael",
+      "Erzengel Uriel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Uriel symbolisiert Feuer und Weisheit!",
+      "wrong": "Daneben! Der Engel des Lichts und der Weisheit!"
+    },
+    "id": "rid_179"
+  },
+  {
+    "question": "Welcher Engel soll von Geburt an über dich wachen?",
+    "options": [
+      "Erzengel Michael",
+      "Erzengel Gabriel",
+      "Erzengel Raphael",
+      "Schutzengel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Schutzengel wacht ein Leben lang!",
+      "wrong": "Daneben! Der Engel an deiner Seite!"
+    },
+    "id": "rid_180"
+  },
+  {
+    "question": "Welche drei Schwestern spinnen im griechischen Mythos den Schicksalsfaden?",
+    "options": [
+      "Walküren",
+      "Musen",
+      "Harpyien",
+      "Die Moiren"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Moiren spinnen den Schicksalsfaden!",
+      "wrong": "Daneben! Die drei Schwestern des Schicksals!"
+    },
+    "id": "rid_181"
+  },
+  {
+    "question": "Welche mähnige Raubkatze heißt König der Savanne?",
+    "options": [
+      "Tiger",
+      "Leopard",
+      "Gepard",
+      "Löwe"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Löwe ist der mähnige König der Savanne!",
+      "wrong": "Daneben! Die mähnige Raubkatze der Savanne!"
+    },
+    "id": "rid_182"
+  },
+  {
+    "question": "Welches gepanzerte Tier hat ein Horn auf der Nase?",
+    "options": [
+      "Flusspferd",
+      "Elefant",
+      "Büffel",
+      "Nashorn"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Nashorn hat ein Horn auf der Nase!",
+      "wrong": "Daneben! Das dicke Tier mit dem Horn!"
+    },
+    "id": "rid_183"
+  },
+  {
+    "question": "Welches riesige afrikanische Tier reißt im Fluss das Maul auf?",
+    "options": [
+      "Nashorn",
+      "Krokodil",
+      "Büffel",
+      "Flusspferd"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Flusspferd reißt das Maul weit auf!",
+      "wrong": "Daneben! Das riesige Wassertier Afrikas!"
+    },
+    "id": "rid_184"
+  },
+  {
+    "question": "Welches Tier trägt einen Höcker durch die Wüste?",
+    "options": [
+      "Pferd",
+      "Esel",
+      "Lama",
+      "Kamel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Kamel wandert mit Höcker durch die Wüste!",
+      "wrong": "Daneben! Das Höckertier der Wüste!"
+    },
+    "id": "rid_185"
+  },
+  {
+    "question": "Welches australische Tier trägt sein Baby im Beutel und hüpft?",
+    "options": [
+      "Kaninchen",
+      "Koala",
+      "Wombat",
+      "Känguru"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Känguru zieht sein Baby im Beutel groß!",
+      "wrong": "Daneben! Das Beuteltier Australiens!"
+    },
+    "id": "rid_186"
+  },
+  {
+    "question": "Welcher schwarz-weiße Bär liebt Bambus?",
+    "options": [
+      "Bär",
+      "Koala",
+      "Waschbär",
+      "Panda"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Panda ist der Bambus liebende Bär!",
+      "wrong": "Daneben! Der schwarz-weiße Bambusfresser!"
+    },
+    "id": "rid_187"
+  },
+  {
+    "question": "Welches afrikanische Pferd hat schwarze Streifen?",
+    "options": [
+      "Pferd",
+      "Esel",
+      "Giraffe",
+      "Zebra"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Zebra ist das gestreifte afrikanische Pferd!",
+      "wrong": "Daneben! Das gestreifte Pferd Afrikas!"
+    },
+    "id": "rid_188"
+  },
+  {
+    "question": "Welcher Greifvogel kreist hoch und schnappt Beute?",
+    "options": [
+      "Falke",
+      "Eule",
+      "Krähe",
+      "Adler"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Adler ist der König der Greifvögel!",
+      "wrong": "Daneben! Der hoch kreisende Jäger!"
+    },
+    "id": "rid_189"
+  },
+  {
+    "question": "Welcher Fisch beherrscht das Meer mit scharfen Zähnen?",
+    "options": [
+      "Wal",
+      "Delfin",
+      "Krokodil",
+      "Hai"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Hai ist der Jäger mit scharfen Zähnen!",
+      "wrong": "Daneben! Der Jäger mit Rückenflosse!"
+    },
+    "id": "rid_190"
+  },
+  {
+    "question": "Welches ist das größte Meerestier, das Wasser sprüht?",
+    "options": [
+      "Hai",
+      "Delfin",
+      "Elefant",
+      "Wal"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Wal ist das größte Meerestier!",
+      "wrong": "Daneben! Der Riese, der Wasser sprüht!"
+    },
+    "id": "rid_191"
+  },
+  {
+    "question": "Welche große Sommerfrucht ist in grüner Schale rot?",
+    "options": [
+      "Honigmelone",
+      "Melone",
+      "Kürbis",
+      "Wassermelone"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Wassermelone ist grün außen, rot innen!",
+      "wrong": "Daneben! Die große rote Sommerfrucht!"
+    },
+    "id": "rid_192"
+  },
+  {
+    "question": "Welche rote Frucht hat Samen außen?",
+    "options": [
+      "Kirsche",
+      "Himbeere",
+      "Tomate",
+      "Erdbeere"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Erdbeere hat Samen außen!",
+      "wrong": "Daneben! Die rote Frucht mit Samen außen!"
+    },
+    "id": "rid_193"
+  },
+  {
+    "question": "Welche Frucht hängt in Trauben als violette Beeren?",
+    "options": [
+      "Blaubeere",
+      "Pflaume",
+      "Maulbeere",
+      "Weintrauben"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Weintrauben hängen in violetten Trauben!",
+      "wrong": "Daneben! Die violette Frucht in Trauben!"
+    },
+    "id": "rid_194"
+  },
+  {
+    "question": "Welche gelbe Frucht ist gebogen und wird geschält?",
+    "options": [
+      "Honigmelone",
+      "Mango",
+      "Papaya",
+      "Banane"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Banane ist eine gebogene gelbe Frucht!",
+      "wrong": "Daneben! Die lange gelbe Frucht!"
+    },
+    "id": "rid_195"
+  },
+  {
+    "question": "Welche gelbe Ähre hat Körner in Reihen?",
+    "options": [
+      "Bohne",
+      "Weizen",
+      "Reis",
+      "Mais"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Mais ist die gelbe Ähre mit Körnerreihen!",
+      "wrong": "Daneben! Das gelbe Korn mit Körnerreihen!"
+    },
+    "id": "rid_196"
+  },
+  {
+    "question": "Welches orange Wurzelgemüse lieben Kaninchen?",
+    "options": [
+      "Rettich",
+      "Süßkartoffel",
+      "Kartoffel",
+      "Karotte"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Karotte ist das orange Wurzelgemüse!",
+      "wrong": "Daneben! Das orange Gemüse der Kaninchen!"
+    },
+    "id": "rid_197"
+  },
+  {
+    "question": "Was hat Dotter und Eiweiß, wenn man die Schale knackt?",
+    "options": [
+      "Milch",
+      "Reis",
+      "Brot",
+      "Ei"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Im Ei sind Dotter und Eiweiß!",
+      "wrong": "Daneben! Das Essen mit Dotter in der Schale!"
+    },
+    "id": "rid_198"
+  },
+  {
+    "question": "Welches weiße Getränk wird aus der Kuh gemolken?",
+    "options": [
+      "Wasser",
+      "Saft",
+      "Joghurt",
+      "Milch"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Milch ist das weiße Getränk der Kuh!",
+      "wrong": "Daneben! Das weiße Getränk der Kuh!"
+    },
+    "id": "rid_199"
+  },
+  {
+    "question": "Welches Nudelgericht ist in 3 Minuten fertig?",
+    "options": [
+      "Nudeln",
+      "Pasta",
+      "Udon",
+      "Instantnudeln"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Instantnudeln sind in 3 Minuten fertig!",
+      "wrong": "Daneben! Die Nudeln in drei Minuten!"
+    },
+    "id": "rid_200"
+  },
+  {
+    "question": "Welches Essen rollt Reis und Gemüse in Algenblätter?",
+    "options": [
+      "Reisball",
+      "Sushi",
+      "Kimchi",
+      "Gimbap"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Gimbap rollt Reis und Gemüse in Algenblätter!",
+      "wrong": "Daneben! Reis in Algenblätter gerollt!"
+    },
+    "id": "rid_201"
+  },
+  {
+    "question": "Welches W-förmige nördliche Sternbild ist die eitle Königin von Äthiopien im griechischen Mythos?",
+    "options": [
+      "Kassiopeia",
+      "Andromeda",
+      "Pegasus",
+      "Schwan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Kassiopeia ist die Königin, Andromedas Mutter!",
+      "wrong": "Daneben! Andromedas Mutter, die Königin!"
+    },
+    "id": "rid_202"
+  },
+  {
+    "question": "Welcher Jäger mit drei Gürtelsternen leuchtet im Winterhimmel des Südens?",
+    "options": [
+      "Orion",
+      "Löwe",
+      "Skorpion",
+      "Großer Bär"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Orion ist der Jäger mit dem dreifachen Gürtel!",
+      "wrong": "Daneben! Der Jäger mit drei Gürtelsternen!"
+    },
+    "id": "rid_203"
+  },
+  {
+    "question": "Welches Sommer-Sternbild des Südens ist der Skorpion, der Orion stach?",
+    "options": [
+      "Skorpion",
+      "Löwe",
+      "Krebs",
+      "Stier"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Skorpion stach Orion!",
+      "wrong": "Daneben! Der Stachel, der Orion besiegte!"
+    },
+    "id": "rid_204"
+  },
+  {
+    "question": "Welches Frühlings-Sternbild ist das Nemeische Ungeheuer, das Herakles besiegte?",
+    "options": [
+      "Löwe",
+      "Skorpion",
+      "Stier",
+      "Zwillinge"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Löwe von Nemea!",
+      "wrong": "Daneben! Das Ungeheuer, das Herakles besiegte!"
+    },
+    "id": "rid_205"
+  },
+  {
+    "question": "Welches Sternbild ist der Stier, in den sich Zeus für Europa verwandelte?",
+    "options": [
+      "Stier",
+      "Widder",
+      "Steinbock",
+      "Krebs"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Stier, in den Zeus sich verwandelte!",
+      "wrong": "Daneben! Das gehörnte Tier des Zeus!"
+    },
+    "id": "rid_206"
+  },
+  {
+    "question": "Welches Frühlings-Sternbild ist der Widder, der das Goldene Vlies bewachte?",
+    "options": [
+      "Widder",
+      "Stier",
+      "Löwe",
+      "Fische"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Widder des Goldenen Vlieses!",
+      "wrong": "Daneben! Das Tier des Goldenen Vlieses!"
+    },
+    "id": "rid_207"
+  },
+  {
+    "question": "Welches Jungfrau-Sternbild ist die Göttin der Gerechtigkeit mit der Weizenähre?",
+    "options": [
+      "Jungfrau",
+      "Waage",
+      "Krebs",
+      "Wassermann"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Jungfrau ist die Göttin der Gerechtigkeit!",
+      "wrong": "Daneben! Die Göttin mit der Weizenähre!"
+    },
+    "id": "rid_208"
+  },
+  {
+    "question": "Welches Tierkreis-Sternbild ist die Waage der Gerechtigkeit?",
+    "options": [
+      "Waage",
+      "Jungfrau",
+      "Skorpion",
+      "Schütze"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Waage der Gerechtigkeit!",
+      "wrong": "Daneben! Das Werkzeug für Gleichgewicht und Gerechtigkeit!"
+    },
+    "id": "rid_209"
+  },
+  {
+    "question": "Welches Tierkreis-Sternbild ist nach dem weisen Kentauren Chiron mit Pfeil und Bogen benannt?",
+    "options": [
+      "Schütze",
+      "Steinbock",
+      "Wassermann",
+      "Widder"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schütze ist der Kentaur Chiron!",
+      "wrong": "Daneben! Der Bogenschütze, halb Mensch, halb Pferd!"
+    },
+    "id": "rid_210"
+  },
+  {
+    "question": "Welches Tierkreis-Sternbild hat Hörner und einen Fischschwanz wie der Hirtengott Pan?",
+    "options": [
+      "Steinbock",
+      "Fische",
+      "Wassermann",
+      "Krebs"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Steinbock ist der Hirtengott Pan!",
+      "wrong": "Daneben! Das Sternbild mit Hörnern und Fischschwanz!"
+    },
+    "id": "rid_211"
+  },
+  {
+    "question": "Welches Sternbild ist der von Zeus entführte Jüngling Ganymed, der Wasser gießt?",
+    "options": [
+      "Wassermann",
+      "Fische",
+      "Jungfrau",
+      "Steinbock"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Wassermann ist Ganymed!",
+      "wrong": "Daneben! Das Sternbild des Wasser gießenden Jungen!"
+    },
+    "id": "rid_212"
+  },
+  {
+    "question": "Welches letzte Tierkreis-Sternbild sind Aphrodite und Eros, verwandelt und mit einem Faden verbunden?",
+    "options": [
+      "Fische",
+      "Wassermann",
+      "Widder",
+      "Krebs"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Fische sind die zwei Fische!",
+      "wrong": "Daneben! Zwei mit Faden verbundene Fische!"
+    },
+    "id": "rid_213"
+  },
+  {
+    "question": "Welches Sternbild ist das geflügelte Pferd aus dem Blut der Medusa?",
+    "options": [
+      "Pegasus",
+      "Andromeda",
+      "Schwan",
+      "Kassiopeia"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Pegasus ist das geflügelte Pferd!",
+      "wrong": "Daneben! Das Pferd aus dem Blut der Medusa!"
+    },
+    "id": "rid_214"
+  },
+  {
+    "question": "Welches Sternbild ist die an einen Felsen gefesselte Prinzessin?",
+    "options": [
+      "Andromeda",
+      "Kassiopeia",
+      "Pegasus",
+      "Jungfrau"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Andromeda ist die gefesselte Prinzessin!",
+      "wrong": "Daneben! Die Prinzessin, die Perseus rettete!"
+    },
+    "id": "rid_215"
+  },
+  {
+    "question": "Welches Sternbild ist der Vogel, in den Zeus sich für Leda verwandelte?",
+    "options": [
+      "Schwan",
+      "Pegasus",
+      "Adler",
+      "Rabe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schwan ist der Vogel des Zeus!",
+      "wrong": "Daneben! Der Wasservogel des Zeus!"
+    },
+    "id": "rid_216"
+  },
+  {
+    "question": "Welcher Sternhaufen im Stier sind die sieben Schwestern, Töchter des Atlas?",
+    "options": [
+      "Plejaden",
+      "Sirius",
+      "Wega",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Plejaden sind die sieben Schwestern!",
+      "wrong": "Daneben! Der Haufen der sieben Schwestern!"
+    },
+    "id": "rid_217"
+  },
+  {
+    "question": "Welcher Sternenfluss am Nachthimmel entstand aus Heras verschütteter Milch?",
+    "options": [
+      "Milchstraße",
+      "Polarlicht",
+      "Komet",
+      "Meteorschauer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Milchstraße ist der Sternenfluss!",
+      "wrong": "Daneben! Der Sternenfluss am Himmel!"
+    },
+    "id": "rid_218"
+  },
+  {
+    "question": "Welcher Hirtenstern trifft sich in östlicher Legende einmal im Jahr über die Milchstraße?",
+    "options": [
+      "Altair",
+      "Wega",
+      "Polarstern",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Altair ist der Hirtenstern!",
+      "wrong": "Daneben! Der Hirtenstern jenseits der Milchstraße!"
+    },
+    "id": "rid_219"
+  },
+  {
+    "question": "Welcher Weberinnen-Stern webt gegenüber von Altair in östlicher Legende?",
+    "options": [
+      "Wega",
+      "Altair",
+      "Polarstern",
+      "Alnitak"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Wega ist der Weberinnen-Stern!",
+      "wrong": "Daneben! Der Stern der Weberin!"
+    },
+    "id": "rid_220"
+  },
+  {
+    "question": "Welches östliche System teilt den Himmel in 28 traditionelle Sternbilder?",
+    "options": [
+      "Achtundzwanzig Häuser",
+      "Zwölf Erdzweige",
+      "Vier Symbole",
+      "Großer Wagen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Achtundzwanzig Häuser sind das östliche System!",
+      "wrong": "Daneben! Das System aus 28 Himmelsregionen!"
+    },
+    "id": "rid_221"
+  },
+  {
+    "question": "Wie nennt der Osten die drei Sterne in einer Reihe unter Orions Gürtel?",
+    "options": [
+      "Alnitak-Trio",
+      "Drei Götter",
+      "Dreibeinige Krähe",
+      "Großer Wagen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Samtaeseong sind die drei Sterne!",
+      "wrong": "Daneben! Die drei Sterne unter Orions Gürtel!"
+    },
+    "id": "rid_222"
+  },
+  {
+    "question": "Welcher sehr helle Südstern heißt im Osten der Langlebigkeitsstern?",
+    "options": [
+      "Canopus",
+      "Polarstern",
+      "Sirius",
+      "Wega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Canopus ist der Langlebigkeitsstern!",
+      "wrong": "Daneben! Der Langlebigkeitsstern des Südens!"
+    },
+    "id": "rid_223"
+  },
+  {
+    "question": "Welcher Stern bewegt sich kaum am Nordhimmel und leitet Seeleute?",
+    "options": [
+      "Polarstern",
+      "Sirius",
+      "Canopus",
+      "Wega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Polarstern ist der Wegweiser!",
+      "wrong": "Daneben! Der feste Stern des Nordens!"
+    },
+    "id": "rid_224"
+  },
+  {
+    "question": "Welches Sternbild aus sieben Sternen bildet eine Kelle zum Polarstern?",
+    "options": [
+      "Großer Wagen",
+      "Kassiopeia",
+      "Kleiner Bär",
+      "Schwan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Große Wagen ist die Sieben-Sterne-Kelle!",
+      "wrong": "Daneben! Die sieben Sterne der Kelle!"
+    },
+    "id": "rid_225"
+  },
+  {
+    "question": "Welches kleine Bären-Sternbild trägt den Polarstern an der Schwanzspitze?",
+    "options": [
+      "Kleiner Bär",
+      "Großer Bär",
+      "Schwan",
+      "Fische"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Kleine Bär trägt den Polarstern!",
+      "wrong": "Daneben! Das Sternbild mit dem Polarstern am Schwanz!"
+    },
+    "id": "rid_226"
+  },
+  {
+    "question": "Welches Bären-Sternbild ist Kallisto, die in einen Bären verwandelt wurde?",
+    "options": [
+      "Großer Bär",
+      "Kleiner Bär",
+      "Löwe",
+      "Stier"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Große Bär ist Kallisto!",
+      "wrong": "Daneben! Das Sternbild der verwandelten Nymphe!"
+    },
+    "id": "rid_227"
+  },
+  {
+    "question": "Welches Winter-Sternbild zeigt zwei Brüder Seite an Seite?",
+    "options": [
+      "Zwillinge",
+      "Löwe",
+      "Jungfrau",
+      "Waage"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Zwillinge sind die zwei Brüder!",
+      "wrong": "Daneben! Zwei Brüder Seite an Seite!"
+    },
+    "id": "rid_228"
+  },
+  {
+    "question": "Welches Sternbild ist der Musiker mit einem Instrument aus Schildkrötenpanzer?",
+    "options": [
+      "Leier",
+      "Schwan",
+      "Pegasus",
+      "Adler"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Leier ist das Instrument des Orpheus!",
+      "wrong": "Daneben! Der Musiker mit dem Saiteninstrument!"
+    },
+    "id": "rid_229"
+  },
+  {
+    "question": "Welcher Stern mit Schweif huscht über den Himmel und lässt wünschen?",
+    "options": [
+      "Sternschnuppe",
+      "Komet",
+      "Polarstern",
+      "Milchstraße"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Sternschnuppe erfüllt Wünsche!",
+      "wrong": "Daneben! Der über den Himmel huschende Stern!"
+    },
+    "id": "rid_230"
+  },
+  {
+    "question": "Welches Sternbild ist der Krebs, der Herakles in den Fuß kniff?",
+    "options": [
+      "Krebs",
+      "Skorpion",
+      "Löwe",
+      "Widder"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Krebs kniff Herakles in den Fuß!",
+      "wrong": "Daneben! Das Krebstier aus dem Herakles-Mythos!"
+    },
+    "id": "rid_231"
+  },
+  {
+    "question": "Welcher hellste Stern im Großen Hund ist der Jagdhund des Orion?",
+    "options": [
+      "Sirius",
+      "Polarstern",
+      "Wega",
+      "Canopus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Sirius ist der Hundsstern des Orion!",
+      "wrong": "Daneben! Der hellste Stern am Nachthimmel!"
+    },
+    "id": "rid_232"
+  },
+  {
+    "question": "Welches kreuzförmige Südsternbild wies den Seeleuten die Richtung?",
+    "options": [
+      "Kreuz des Südens",
+      "Großer Wagen",
+      "Kassiopeia",
+      "Schwan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Kreuz des Südens weist den Weg!",
+      "wrong": "Daneben! Das kreuzförmige Sternbild des Südens!"
+    },
+    "id": "rid_233"
+  },
+  {
+    "question": "Welches Sternbild ist der Bärenhüter mit dem hellen Stern Arktur?",
+    "options": [
+      "Bärenhüter",
+      "Großer Bär",
+      "Kleiner Bär",
+      "Jungfrau"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Bärenhüter bewacht die Bären!",
+      "wrong": "Daneben! Das Sternbild des Bärenhüters!"
+    },
+    "id": "rid_234"
+  },
+  {
+    "question": "Welches Herbst-Sternbild ist nach dem Helden benannt, der Medusa besiegte?",
+    "options": [
+      "Perseus",
+      "Herkules",
+      "Orion",
+      "Cepheus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Perseus besiegte Medusa!",
+      "wrong": "Daneben! Das Sternbild des Medusa-Bezwingers!"
+    },
+    "id": "rid_235"
+  },
+  {
+    "question": "Welches große Sommer-Sternbild trägt den Namen des größten griechischen Helden?",
+    "options": [
+      "Herkules",
+      "Perseus",
+      "Orion",
+      "Schütze"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Herkules ist das Sternbild des größten Helden!",
+      "wrong": "Daneben! Das Sternbild des Helden der zwölf Taten!"
+    },
+    "id": "rid_236"
+  },
+  {
+    "question": "Welches nördliche Sternbild ist der König von Äthiopien, Andromedas Vater?",
+    "options": [
+      "Cepheus",
+      "Kassiopeia",
+      "Perseus",
+      "Pegasus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Cepheus ist Andromedas Vater!",
+      "wrong": "Daneben! Das Sternbild des Königs von Äthiopien!"
+    },
+    "id": "rid_237"
+  },
+  {
+    "question": "Welches große Südsternbild symbolisiert das ganze Kentaurenvolk?",
+    "options": [
+      "Kentaur",
+      "Schütze",
+      "Bärenhüter",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Centaurus ist das Kentaurenvolk!",
+      "wrong": "Daneben! Das Sternbild des Kentaurenvolkes!"
+    },
+    "id": "rid_238"
+  },
+  {
+    "question": "Welches große Südsternbild ist der Kiel des Schiffes Argo?",
+    "options": [
+      "Kiel des Schiffs",
+      "Kentaur",
+      "Kreuz des Südens",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Carina ist der Kiel der Argo!",
+      "wrong": "Daneben! Das Sternbild des Argo-Kiels!"
+    },
+    "id": "rid_239"
+  },
+  {
+    "question": "Welcher rote Stern heißt das Auge des Stiers?",
+    "options": [
+      "Aldebaran",
+      "Rigel",
+      "Beteigeuze",
+      "Sirius"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Aldebaran ist das Auge des Stiers!",
+      "wrong": "Daneben! Das rote Auge des Stiers!"
+    },
+    "id": "rid_240"
+  },
+  {
+    "question": "Welcher Stern leuchtet blau am Fuß des Orion?",
+    "options": [
+      "Rigel",
+      "Beteigeuze",
+      "Deneb",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Rigel ist der Stern an Orions Fuß!",
+      "wrong": "Daneben! Der Stern am Fuß des Jägers!"
+    },
+    "id": "rid_241"
+  },
+  {
+    "question": "Welcher Stern leuchtet rot an Orions Schulter?",
+    "options": [
+      "Beteigeuze",
+      "Rigel",
+      "Aldebaran",
+      "Antares"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Beteigeuze ist Orions Schulterstern!",
+      "wrong": "Daneben! Der Stern an der Schulter des Jägers!"
+    },
+    "id": "rid_242"
+  },
+  {
+    "question": "Welcher Stern leuchtet am Schwanz des Schwanes?",
+    "options": [
+      "Deneb",
+      "Wega",
+      "Altair",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Deneb ist der Schwanzstern des Schwanes!",
+      "wrong": "Daneben! Der Stern am Schwanz des Schwanes!"
+    },
+    "id": "rid_243"
+  },
+  {
+    "question": "Welcher helle Stern des Kleinen Hundes steigt vor Sirius auf?",
+    "options": [
+      "Prokyon",
+      "Sirius",
+      "Beteigeuze",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Prokyon steigt vor Sirius auf!",
+      "wrong": "Daneben! Der Stern vor Sirius!"
+    },
+    "id": "rid_244"
+  },
+  {
+    "question": "Welcher hellste Stern im Fuhrmann heißt Ziegenstern?",
+    "options": [
+      "Capella",
+      "Aldebaran",
+      "Prokyon",
+      "Deneb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Capella ist der Ziegenstern!",
+      "wrong": "Daneben! Der Ziegenstern des Fuhrmanns!"
+    },
+    "id": "rid_245"
+  },
+  {
+    "question": "Welches Winterdreieck bilden Orion, Sirius und Prokyon?",
+    "options": [
+      "Winterdreieck",
+      "Sommerdreieck",
+      "Frühlingsdreieck",
+      "Großer Wagen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Winterdreieck bilden drei Wintersterne!",
+      "wrong": "Daneben! Das Dreieck dreier Wintersterne!"
+    },
+    "id": "rid_246"
+  },
+  {
+    "question": "Welches Sommerdreieck bilden Wega, Altair und Deneb?",
+    "options": [
+      "Sommerdreieck",
+      "Winterdreieck",
+      "Frühlingsdreieck",
+      "Herbstdreieck"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Sommerdreieck bilden drei Sommersterne!",
+      "wrong": "Daneben! Das Dreieck dreier Sommersterne!"
+    },
+    "id": "rid_247"
+  },
+  {
+    "question": "Welcher rote Stern heißt das Herz des Skorpions?",
+    "options": [
+      "Antares",
+      "Aldebaran",
+      "Beteigeuze",
+      "Rigel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Antares ist das Herz des Skorpions!",
+      "wrong": "Daneben! Der rote Herzstern des Skorpions!"
+    },
+    "id": "rid_248"
+  },
+  {
+    "question": "Welcher helle Stern der Zwillinge trägt den Namen eines Bruders?",
+    "options": [
+      "Pollux",
+      "Castor",
+      "Aldebaran",
+      "Deneb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Pollux ist ein Zwillingsstern!",
+      "wrong": "Daneben! Der Stern eines Zwillings!"
+    },
+    "id": "rid_249"
+  },
+  {
+    "question": "Welcher Stern am Griff des Großen Wagens erscheint doppelt?",
+    "options": [
+      "Mizar",
+      "Alkor",
+      "Polarstern",
+      "Capella"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Mizar erscheint als Doppelstern!",
+      "wrong": "Daneben! Der Doppelstern am Kellen-Griff!"
+    },
+    "id": "rid_250"
+  },
+  {
+    "question": "Welcher hellste Stern des Kentauren ist der Sonne am nächsten?",
+    "options": [
+      "Alpha Centauri",
+      "Sirius",
+      "Canopus",
+      "Wega"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Alpha Centauri ist der nächste Stern zur Sonne!",
+      "wrong": "Daneben! Der nächste Nachbarstern der Sonne!"
+    },
+    "id": "rid_251"
+  },
+  {
+    "question": "Welches Sternbild in Form eines Fuhrmanns trägt Capella?",
+    "options": [
+      "Fuhrmann",
+      "Bärenhüter",
+      "Zwillinge",
+      "Perseus"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Fuhrmann ist der Wagenlenker!",
+      "wrong": "Daneben! Der Fuhrmann mit Capella!"
+    },
+    "id": "rid_252"
+  },
+  {
+    "question": "Welches Sternbild neben dem Bärenhüter steht für zwei Jagdhunde?",
+    "options": [
+      "Jagdhunde",
+      "Bärenhüter",
+      "Kleiner Hund",
+      "Großer Hund"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Jagdhunde sind zwei Hunde!",
+      "wrong": "Daneben! Die zwei Hunde beim Bärenhüter!"
+    },
+    "id": "rid_253"
+  },
+  {
+    "question": "Welches Südsternbild in Form eines Pfaus trägt helle Sterne?",
+    "options": [
+      "Pfau",
+      "Kreuz des Südens",
+      "Kiel des Schiffs",
+      "Kentaur"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Pavo ist der Pfau des Südhimmels!",
+      "wrong": "Daneben! Das pfauförmige Sternbild des Südens!"
+    },
+    "id": "rid_254"
+  },
+  {
+    "question": "Welches Frühlingsdreieck bilden Sterne aus Löwe, Bärenhüter und Jungfrau?",
+    "options": [
+      "Frühlingsdreieck",
+      "Sommerdreieck",
+      "Winterdreieck",
+      "Herbstdreieck"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Frühlingsdreieck bilden drei Frühlingssterne!",
+      "wrong": "Daneben! Das Dreieck dreier Frühlingssterne!"
+    },
+    "id": "rid_255"
   }
 ]

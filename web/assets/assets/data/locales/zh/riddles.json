@@ -54,19 +54,19 @@
     "id": "rid_003"
   },
   {
-    "question": "折起来收好，撑开就能挡住天降之水的是什么？",
+    "question": "下雨天，替雨伞守护脚下的朋友是什么？",
     "options": [
       "雨靴",
       "凉棚",
       "塑料布",
-      "伞网"
+      "雨衣"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "答对了！雨靴守住双脚，不让洪水入侵！",
+      "correct": "答对了！雨靴能让双脚在雨中保持干爽！",
       "wrong": "不对！下雨天穿在脚上的伙伴呀！"
     },
     "id": "rid_004"
@@ -954,20 +954,20 @@
     "id": "rid_053"
   },
   {
-    "question": "家家都有一个，每天见面却从不说话的是什么？",
+    "question": "下雨时会撑开保护你的小屋顶是什么？",
     "options": [
-      "镜子",
-      "墙纸",
-      "时钟",
-      "门把手"
+      "雨伞",
+      "雨靴",
+      "雨衣",
+      "帽子"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "绝妙的回答！镜子会毫无虚假地映出你的心情和表情！",
-      "wrong": "好可惜！看看那个原样映出你模样的东西！"
+      "correct": "答对了！雨伞是雨中的小屋顶！",
+      "wrong": "不对！下雨时撑开用的呀！"
     },
     "id": "rid_054"
   },
@@ -980,7 +980,7 @@
       "沉默"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -998,7 +998,7 @@
       "钥匙"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1034,7 +1034,7 @@
       "冬日嫩芽"
     ],
     "answer_index": 1,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1170,92 +1170,92 @@
     "id": "rid_065"
   },
   {
-    "question": "越呼吸越减少、越使用越珍贵的人的最宝贵资产是？",
+    "question": "不停地跳动，自己却无法休息，胸中的时钟是什么？",
     "options": [
-      "时间（岁月）",
-      "黄金",
-      "钻石",
-      "绸缎"
+      "心脏",
+      "肺",
+      "大脑",
+      "眼睛"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "一寸光阴一寸金！流逝的时间用黄金也买不回来！",
-      "wrong": "不对！一旦流逝就再也回不来的珍贵之物！"
+      "correct": "答对了！心脏是永不停歇的身体时钟！",
+      "wrong": "不对！在胸口不停跳动的呀！"
     },
     "id": "rid_066"
   },
   {
-    "question": "越黑暗越明亮，在暴风雨中也成为心灵港湾的是什么？",
+    "question": "数字围成一圈，无声地催促着世界的是什么？",
     "options": [
-      "希望（梦想）",
-      "灯火",
-      "戒指",
-      "宝箱"
+      "时钟",
+      "日历",
+      "指南针",
+      "温度计"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
-    "category": "wisdom",
+    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "即使在最深的黑暗里，只要有一颗希望的火种就能活下去，小妖！",
-      "wrong": "不对！是藏在心里等待明天的明亮心情！"
+      "correct": "答对了！时钟无声地报时！",
+      "wrong": "不对！要在圆形表盘上读时间的呀！"
     },
     "id": "rid_067"
   },
   {
-    "question": "分享反而增多、藏在心里就能温暖全世界的小妖礼物是？",
+    "question": "越给予越大，越分享越深的心是什么？",
     "options": [
-      "爱与情义",
-      "金币",
-      "宝物",
-      "酒杯"
+      "爱",
+      "恨",
+      "贪欲",
+      "悲伤"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "我们小妖最爱充满温暖情义的人，小妖！",
-      "wrong": "不对！越是分给别人、自己内心反而越充裕的东西！"
+      "correct": "答对了！爱越分享越伟大！",
+      "wrong": "不对！是分享后会变大的温暖心意呀！"
     },
     "id": "rid_068"
   },
   {
-    "question": "你跌倒时扶起你、你悲伤时轻拍你肩膀的朋友最大的美德是？",
+    "question": "困难时陪在身边，伤心时轻拍你后背的人是谁？",
     "options": [
-      "安慰与共情",
-      "财富",
-      "说教",
-      "沉默"
+      "朋友",
+      "老师",
+      "邻居",
+      "陌生人"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
     "kkaebi_reaction": {
-      "correct": "没错！真正的朋友懂得陪你一起流泪、向你伸出手！",
-      "wrong": "不对！想想递给疲惫心灵的那句温暖话语！"
+      "correct": "答对了！朋友是陪伴左右的珍贵之人！",
+      "wrong": "不对！是在身边给你力量的人呀！"
     },
     "id": "rid_069"
   },
   {
-    "question": "早晨沾着露水、白天面向太阳、始终勤奋生活的象征是？",
+    "question": "雨停后天空出现的七色桥是什么？",
     "options": [
-      "向日葵",
-      "仙人掌",
-      "松树",
-      "莲花"
+      "彩虹",
+      "晚霞",
+      "云",
+      "星星"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "只向着灿烂太阳抬头的丹心向日葵！",
-      "wrong": "不对！是用金色花瓣追着太阳打转的花！"
+      "correct": "答对了！彩虹是雨与阳光搭成的天桥！",
+      "wrong": "不对！雨过天晴才出现的呀！"
     },
     "id": "rid_070"
   },
@@ -1268,7 +1268,7 @@
       "水仙"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
     "kkaebi_reaction": {
@@ -1304,7 +1304,7 @@
       "波斯菊"
     ],
     "answer_index": 0,
-    "reward_keys": 1,
+    "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
@@ -1348,5 +1348,3245 @@
       "wrong": "不对！忘了我们应用的名字——打开智慧的黄金钥匙了吗！"
     },
     "id": "rid_075"
+  },
+  {
+    "question": "八条腿的朋友一夜织成、在露珠中闪闪发光的网是什么？",
+    "options": [
+      "线球",
+      "钓鱼线",
+      "蜘蛛网",
+      "渔网"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！蜘蛛网是八条腿朋友的精巧作品！",
+      "wrong": "不对！是夜里织来捕虫的呀！"
+    },
+    "id": "rid_076"
+  },
+  {
+    "question": "无论走到哪里都只指向一边，迷路旅人的朋友是什么？",
+    "options": [
+      "地图",
+      "指南针",
+      "手表",
+      "望远镜"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！指南针总是指向北方，是可靠的朋友！",
+      "wrong": "不对！是辨别方向的工具呀！"
+    },
+    "id": "rid_077"
+  },
+  {
+    "question": "架在鼻梁上，让模糊世界变清晰的是什么？",
+    "options": [
+      "帽子",
+      "眼镜",
+      "口罩",
+      "项链"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！眼镜是帮你看清世界的朋友！",
+      "wrong": "不对！是戴在眼睛上的呀！"
+    },
+    "id": "rid_078"
+  },
+  {
+    "question": "喝汤又盛饭，餐桌上小铲子似的是什么？",
+    "options": [
+      "勺子",
+      "筷子",
+      "叉子",
+      "汤勺"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！勺子是餐桌上的小铲子！",
+      "wrong": "不对！喝汤吃饭都用它呀！"
+    },
+    "id": "rid_079"
+  },
+  {
+    "question": "靠一个小孔牵着线走，尖尖的朋友是什么？",
+    "options": [
+      "钉子",
+      "针",
+      "剪刀",
+      "尺子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！针穿线缝衣！",
+      "wrong": "不对！是穿线的尖工具呀！"
+    },
+    "id": "rid_080"
+  },
+  {
+    "question": "据说魔法师骑着它飞，扫拢灰尘的是什么？",
+    "options": [
+      "抹布",
+      "扫帚",
+      "吸尘器",
+      "拖把"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！扫帚既是女巫坐骑也是清洁工具！",
+      "wrong": "不对！是扫拢灰尘的工具呀！"
+    },
+    "id": "rid_081"
+  },
+  {
+    "question": "每天两次清洁口腔，小泡泡精灵的工具是什么？",
+    "options": [
+      "牙刷",
+      "香皂",
+      "毛巾",
+      "杯子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！牙刷起泡清洁牙齿！",
+      "wrong": "不对！是刷牙时用的工具呀！"
+    },
+    "id": "rid_082"
+  },
+  {
+    "question": "越用越小，用泡沫洗去污垢的是什么？",
+    "options": [
+      "毛巾",
+      "香皂",
+      "洗发水",
+      "海绵"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！香皂越用越小，洗去污垢！",
+      "wrong": "不对！是用泡沫清洗的呀！"
+    },
+    "id": "rid_083"
+  },
+  {
+    "question": "每只脚一个，必须成双成对的是什么？",
+    "options": [
+      "手套",
+      "袜子",
+      "鞋子",
+      "围巾"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！袜子要成双穿在两只脚上！",
+      "wrong": "不对！是穿在脚上、成对的东西呀！"
+    },
+    "id": "rid_084"
+  },
+  {
+    "question": "冬天里把五根手指暖烘烘包住的是什么？",
+    "options": [
+      "手套",
+      "袜子",
+      "围巾",
+      "帽子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！手套温暖守护手指！",
+      "wrong": "不对！是戴在手上的呀！"
+    },
+    "id": "rid_085"
+  },
+  {
+    "question": "戴在头上，遮挡阳光的是什么？",
+    "options": [
+      "眼镜",
+      "雨伞",
+      "帽子",
+      "鞋子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！帽子是遮阳护头的！",
+      "wrong": "不对！是戴在头上的呀！"
+    },
+    "id": "rid_086"
+  },
+  {
+    "question": "大海每呼吸一次就涌来又退去的是什么？",
+    "options": [
+      "海浪",
+      "潮汐",
+      "泡沫",
+      "沙子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！海浪是大海的呼吸！",
+      "wrong": "不对！是涌向岸边的水波呀！"
+    },
+    "id": "rid_087"
+  },
+  {
+    "question": "凝结在黎明草叶上、夜晚留下的水珠是什么？",
+    "options": [
+      "雪",
+      "雨",
+      "露水",
+      "霜"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！露水是夜晚留下的清澈水珠！",
+      "wrong": "不对！是黎明凝在草叶上的水珠呀！"
+    },
+    "id": "rid_088"
+  },
+  {
+    "question": "喵喵叫、追老鼠、长胡须的朋友是什么？",
+    "options": [
+      "猫",
+      "狗",
+      "兔子",
+      "狐狸"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！猫是追鼠的长须猎手！",
+      "wrong": "不对！是喵喵叫的动物呀！"
+    },
+    "id": "rid_089"
+  },
+  {
+    "question": "排着队走、整个夏天勤劳工作的小工匠是什么？",
+    "options": [
+      "蜜蜂",
+      "蚂蚁",
+      "蝴蝶",
+      "蜘蛛"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！蚂蚁是排队勤劳工作的小工匠！",
+      "wrong": "不对！是地上排队走的昆虫呀！"
+    },
+    "id": "rid_090"
+  },
+  {
+    "question": "鼻子长、耳朵大，像扇子一样扇风的大动物是什么？",
+    "options": [
+      "大象",
+      "犀牛",
+      "河马",
+      "长颈鹿"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！大象用大耳朵扇风，是巨人朋友！",
+      "wrong": "不对！是鼻子很长的大动物呀！"
+    },
+    "id": "rid_091"
+  },
+  {
+    "question": "用红黄绿三只眼睛指挥道路的是什么？",
+    "options": [
+      "路灯",
+      "红绿灯",
+      "电线杆",
+      "路牌"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！红绿灯用三只眼指挥交通！",
+      "wrong": "不对！是用三种颜色发信号的呀！"
+    },
+    "id": "rid_092"
+  },
+  {
+    "question": "两个轮子踩踏板前进的交通工具是什么？",
+    "options": [
+      "摩托车",
+      "汽车",
+      "自行车",
+      "公交车"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！自行车是两轮奔跑的朋友！",
+      "wrong": "不对！是踩踏板的两轮车呀！"
+    },
+    "id": "rid_093"
+  },
+  {
+    "question": "把信投进去，它会替你跑到远方——红色的方箱子是什么？",
+    "options": [
+      "包",
+      "箱子",
+      "邮筒",
+      "保险箱"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！邮筒是替你把信送到远方的红色信使！",
+      "wrong": "不对！是投信的红色箱子呀！"
+    },
+    "id": "rid_094"
+  },
+  {
+    "question": "被绳子吊着前后摇摆的游乐设施是什么？",
+    "options": [
+      "跷跷板",
+      "滑梯",
+      "秋千",
+      "攀爬架"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！秋千让你有飞上天的感觉！",
+      "wrong": "不对！是前后摇摆着玩的呀！"
+    },
+    "id": "rid_095"
+  },
+  {
+    "question": "一边下去另一边就上来，两人玩的游乐设施是什么？",
+    "options": [
+      "秋千",
+      "跷跷板",
+      "旋转木马",
+      "滑梯"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！跷跷板是两人互换重量一起玩！",
+      "wrong": "不对！是两人一上一下玩的呀！"
+    },
+    "id": "rid_096"
+  },
+  {
+    "question": "没有钥匙绝不开，守门的铁拳头是什么？",
+    "options": [
+      "锁",
+      "门把手",
+      "合页",
+      "门闩"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！锁是只有钥匙才能打开的门卫！",
+      "wrong": "不对！是用钥匙打开的锁具呀！"
+    },
+    "id": "rid_097"
+  },
+  {
+    "question": "从悬崖上白白倾泻、永不停止的水帘是什么？",
+    "options": [
+      "泉水",
+      "瀑布",
+      "小溪",
+      "湖泊"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！瀑布是悬崖上倾泻的壮丽水帘！",
+      "wrong": "不对！是从高处倾泻的水呀！"
+    },
+    "id": "rid_098"
+  },
+  {
+    "question": "闪过之后，随后轰隆隆响起的声音是什么？",
+    "options": [
+      "闪电",
+      "雷声",
+      "风",
+      "回声"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！雷声是跟随闪电而来的天空鼓声！",
+      "wrong": "不对！是闪电之后听到的声音呀！"
+    },
+    "id": "rid_099"
+  },
+  {
+    "question": "眼前一片白茫，落到地面的云是什么？",
+    "options": [
+      "烟",
+      "雾",
+      "蒸汽",
+      "云"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！雾是落在地面的低云！",
+      "wrong": "不对！是遮住视线的白茫茫呀！"
+    },
+    "id": "rid_100"
+  },
+  {
+    "question": "在花丛中翩翩起舞、长翅膀的花是什么？",
+    "options": [
+      "蜜蜂",
+      "蝴蝶",
+      "蜻蜓",
+      "鸟"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！蝴蝶是会飞的长翅膀的花！",
+      "wrong": "不对！是在花丛翩翩飞舞的昆虫呀！"
+    },
+    "id": "rid_101"
+  },
+  {
+    "question": "不会飞却擅长在南极游泳、穿着燕尾服的鸟是什么？",
+    "options": [
+      "鸵鸟",
+      "海鸥",
+      "企鹅",
+      "鸭子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！企鹅是南极的燕尾服游泳健将！",
+      "wrong": "不对！是住在南极、游泳很棒的鸟呀！"
+    },
+    "id": "rid_102"
+  },
+  {
+    "question": "要求安静、却藏着成千上万本书的安静房子是什么？",
+    "options": [
+      "书店",
+      "图书馆",
+      "博物馆",
+      "学校"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！图书馆是书与安静共处的家！",
+      "wrong": "不对！是借书安静阅读的地方呀！"
+    },
+    "id": "rid_103"
+  },
+  {
+    "question": "腌好白菜调味、冬天吃的辣味小菜是什么？",
+    "options": [
+      "酱菜",
+      "泡菜",
+      "腌黄瓜",
+      "沙拉"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！泡菜是韩国过冬的辣味宝物！",
+      "wrong": "不对！是用白菜腌的辣味小菜呀！"
+    },
+    "id": "rid_104"
+  },
+  {
+    "question": "世宗大王创制的我们文字的名字是什么？",
+    "options": [
+      "韩文",
+      "汉字",
+      "字母",
+      "平假名"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！韩文是世宗大王为百姓创制的文字！",
+      "wrong": "不对！是世宗大王创制的文字呀！"
+    },
+    "id": "rid_105"
+  },
+  {
+    "question": "遵守就成信任，违背就成失望的话是什么？",
+    "options": [
+      "谎言",
+      "秘密",
+      "约定",
+      "问候"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "答对了！约定越遵守越能积累信任！",
+      "wrong": "不对！遵守才成信任的话呀！"
+    },
+    "id": "rid_106"
+  },
+  {
+    "question": "十二生肖中排在第一的动物是？",
+    "options": [
+      "牛",
+      "虎",
+      "兔",
+      "鼠"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！十二生肖之首是机灵的鼠！",
+      "wrong": "不对！想想十二生肖最前面的动物！"
+    },
+    "id": "rid_107"
+  },
+  {
+    "question": "东方思想中守护四方的四神里，掌管东方、形为青龙的神兽是？",
+    "options": [
+      "凤凰",
+      "白虎",
+      "麒麟",
+      "青龙"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！青龙是翱翔天际的东方守护神兽！",
+      "wrong": "不对！是守护东方的天空神兽！"
+    },
+    "id": "rid_108"
+  },
+  {
+    "question": "希腊神话中掌管海洋的神是谁？",
+    "options": [
+      "宙斯",
+      "哈迪斯",
+      "阿波罗",
+      "波塞冬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！波塞冬用三叉戟掌管海洋！",
+      "wrong": "不对！是手持三叉戟的海神呀！"
+    },
+    "id": "rid_109"
+  },
+  {
+    "question": "希腊神话中象征智慧与战争的女神是谁？",
+    "options": [
+      "赫拉",
+      "阿佛洛狄忒",
+      "阿尔忒弥斯",
+      "雅典娜"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！雅典娜是智慧与战争的女神！",
+      "wrong": "不对！是以猫头鹰为象征的智慧女神呀！"
+    },
+    "id": "rid_110"
+  },
+  {
+    "question": "北欧神话中用妙尔尼尔之锤引发雷霆的力量之神是？",
+    "options": [
+      "奥丁",
+      "洛基",
+      "女武神",
+      "托尔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！托尔用妙尔尼尔之锤引来雷霆！",
+      "wrong": "不对！是手持妙尔尼尔之锤的雷神呀！"
+    },
+    "id": "rid_111"
+  },
+  {
+    "question": "希腊神话中统治冥界的王是谁？",
+    "options": [
+      "宙斯",
+      "波塞冬",
+      "阿波罗",
+      "哈迪斯"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！哈迪斯是统治冥界的王！",
+      "wrong": "不对！是宙斯的兄弟、冥界之王呀！"
+    },
+    "id": "rid_112"
+  },
+  {
+    "question": "印度神话中象头、掌管智慧与幸运的神是谁？",
+    "options": [
+      "湿婆",
+      "因陀罗",
+      "拉",
+      "象头神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！象头神掌管智慧与幸运！",
+      "wrong": "不对！是象头的印度神呀！"
+    },
+    "id": "rid_113"
+  },
+  {
+    "question": "埃及神话中豺狼头、掌管死亡与木乃伊的神是谁？",
+    "options": [
+      "奥西里斯",
+      "拉",
+      "芭丝特",
+      "阿努比斯"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！阿努比斯是豺狼头的死亡与木乃伊之神！",
+      "wrong": "不对！是豺狼头的埃及神呀！"
+    },
+    "id": "rid_114"
+  },
+  {
+    "question": "十二生肖中，用叫声报晓的是谁？",
+    "options": [
+      "猴",
+      "羊",
+      "马",
+      "鸡"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！鸡是报晓的十二生肖之鸟！",
+      "wrong": "不对！是清晨打鸣的生肖之鸟呀！"
+    },
+    "id": "rid_115"
+  },
+  {
+    "question": "十二生肖中，象征忠诚的动物是？",
+    "options": [
+      "猪",
+      "羊",
+      "牛",
+      "狗"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！狗是忠诚与义气的象征！",
+      "wrong": "不对！是守护在人身旁的忠诚象征呀！"
+    },
+    "id": "rid_116"
+  },
+  {
+    "question": "留下水晶鞋、午夜离开的童话少女是谁？",
+    "options": [
+      "白雪公主",
+      "人鱼公主",
+      "长发公主",
+      "灰姑娘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！灰姑娘留下了水晶鞋！",
+      "wrong": "不对！是午夜马车消失的童话主角呀！"
+    },
+    "id": "rid_117"
+  },
+  {
+    "question": "吃了毒苹果而沉睡的公主是谁？",
+    "options": [
+      "灰姑娘",
+      "人鱼公主",
+      "长发公主",
+      "白雪公主"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！白雪公主因毒苹果而沉睡！",
+      "wrong": "不对！是和小矮人一起生活的公主呀！"
+    },
+    "id": "rid_118"
+  },
+  {
+    "question": "说谎鼻子就会变长的木偶叫什么？",
+    "options": [
+      "彼得潘",
+      "汉泽尔",
+      "爱丽丝",
+      "匹诺曹"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！匹诺曹说谎鼻子就变长！",
+      "wrong": "不对！是老爷爷做的木偶呀！"
+    },
+    "id": "rid_119"
+  },
+  {
+    "question": "戴红头巾、在森林遇到狼的少女是谁？",
+    "options": [
+      "白雪公主",
+      "灰姑娘",
+      "人鱼公主",
+      "小红帽"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！小红帽在森林里遇到了狼！",
+      "wrong": "不对！是去奶奶家的少女呀！"
+    },
+    "id": "rid_120"
+  },
+  {
+    "question": "有森林糖果屋女巫的兄妹童话是什么？",
+    "options": [
+      "小红帽",
+      "匹诺曹",
+      "杰克与魔豆",
+      "糖果屋（汉泽尔与格莱特）"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！糖果屋里有糖果屋女巫！",
+      "wrong": "不对！是兄妹被诱进糖果屋的童话呀！"
+    },
+    "id": "rid_121"
+  },
+  {
+    "question": "和慢吞吞的乌龟赛跑却输了、自负的动物是谁？",
+    "options": [
+      "狐狸",
+      "鹿",
+      "马",
+      "兔子"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！兔子因自负输给了乌龟！",
+      "wrong": "不对！是和乌龟赛跑的飞快动物呀！"
+    },
+    "id": "rid_122"
+  },
+  {
+    "question": "整个夏天只唱歌、冬天挨饿，与蚂蚁一起出现的昆虫是？",
+    "options": [
+      "蝉",
+      "蟋蟀",
+      "蝴蝶",
+      "蝈蝈"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！蝈蝈夏天玩耍、冬天后悔！",
+      "wrong": "不对！是与蚂蚁对照的懒惰昆虫呀！"
+    },
+    "id": "rid_123"
+  },
+  {
+    "question": "为了得到双腿而失去声音的海洋童话主角是谁？",
+    "options": [
+      "白雪公主",
+      "灰姑娘",
+      "长发公主",
+      "人鱼公主"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！人鱼公主为爱献出声音！",
+      "wrong": "不对！是住在海里的童话公主呀！"
+    },
+    "id": "rid_124"
+  },
+  {
+    "question": "和父亲一起飞翔、却因太靠近太阳而坠海的少年是谁？",
+    "options": [
+      "赫拉克勒斯",
+      "珀尔修斯",
+      "奥德修斯",
+      "伊卡洛斯"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！伊卡洛斯飞得太靠近太阳而坠海！",
+      "wrong": "不对！是用蜡翅膀飞翔的希腊少年呀！"
+    },
+    "id": "rid_125"
+  },
+  {
+    "question": "因好奇打开了装满灾祸的盒子的女人是谁？",
+    "options": [
+      "雅典娜",
+      "海伦",
+      "美杜莎",
+      "潘多拉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！潘多拉因好奇打开了灾祸之盒！",
+      "wrong": "不对！是打开灾祸之盒的希腊女子呀！"
+    },
+    "id": "rid_126"
+  },
+  {
+    "question": "耕田时低沉鸣叫、十二生肖中排第二的动物是？",
+    "options": [
+      "马",
+      "羊",
+      "山羊",
+      "牛"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！牛默默耕地，是十二生肖之一！",
+      "wrong": "不对！是有角、低沉鸣叫的动物呀！"
+    },
+    "id": "rid_127"
+  },
+  {
+    "question": "称霸山林的条纹猛兽、十二生肖中排第三的是？",
+    "options": [
+      "狮子",
+      "豹",
+      "熊",
+      "虎"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！虎是称霸山林的生肖！",
+      "wrong": "不对！是额头有纹的猛兽呀！"
+    },
+    "id": "rid_128"
+  },
+  {
+    "question": "蹦蹦跳跳、捣药的生肖是？",
+    "options": [
+      "松鼠",
+      "鼠",
+      "鹿",
+      "兔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！兔是捣药的生肖！",
+      "wrong": "不对！是长耳朵、蹦跳的动物呀！"
+    },
+    "id": "rid_129"
+  },
+  {
+    "question": "没有脚、滑行前进的生肖是？",
+    "options": [
+      "蚯蚓",
+      "蜥蜴",
+      "鳄鱼",
+      "蛇"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！蛇无脚滑行！",
+      "wrong": "不对！是蜕皮的无脚动物呀！"
+    },
+    "id": "rid_130"
+  },
+  {
+    "question": "甩着白色鬃毛奔跑的生肖马是？",
+    "options": [
+      "驴",
+      "骡",
+      "斑马",
+      "白马"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！白马是白鬃的生肖！",
+      "wrong": "不对！是十二生肖中的白马呀！"
+    },
+    "id": "rid_131"
+  },
+  {
+    "question": "温顺吃草、献出羊毛的生肖是？",
+    "options": [
+      "山羊",
+      "牛",
+      "鹿",
+      "羊"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！羊温顺地献出羊毛！",
+      "wrong": "不对！是用毛织衣的温顺动物呀！"
+    },
+    "id": "rid_132"
+  },
+  {
+    "question": "擅长爬树、爱耍把戏的生肖是？",
+    "options": [
+      "熊猫",
+      "考拉",
+      "猩猩",
+      "猴"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！猴是爱耍把戏的生肖！",
+      "wrong": "不对！是擅长爬树的聪明动物呀！"
+    },
+    "id": "rid_133"
+  },
+  {
+    "question": "象征丰饶与财富、十二生肖的最后一位是？",
+    "options": [
+      "野猪",
+      "大象",
+      "河马",
+      "金猪"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！金猪是招财的生肖压轴！",
+      "wrong": "不对！是压轴招福的生肖呀！"
+    },
+    "id": "rid_134"
+  },
+  {
+    "question": "咬碎谎言、分辨是非的正义神兽是？",
+    "options": [
+      "狮子",
+      "龙",
+      "虎",
+      "獬豸"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！獬豸是咬碎谎言的神兽！",
+      "wrong": "不对！是守护宫殿的正义神兽呀！"
+    },
+    "id": "rid_135"
+  },
+  {
+    "question": "传说圣贤降世时才会现身的东方瑞兽是？",
+    "options": [
+      "独角兽",
+      "凤凰",
+      "龙",
+      "麒麟"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！麒麟与圣贤一同现身的东方瑞兽！",
+      "wrong": "不对！是东方与圣人同来的温顺神兽呀！"
+    },
+    "id": "rid_136"
+  },
+  {
+    "question": "东方思想中守护四方的四神里，掌管南方、形为朱雀的神兽是？",
+    "options": [
+      "凤凰",
+      "三足乌",
+      "青龙",
+      "朱雀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！朱雀是守护南方的赤色神兽！",
+      "wrong": "不对！是四神中掌管南方的赤鸟呀！"
+    },
+    "id": "rid_137"
+  },
+  {
+    "question": "东方思想中守护四方的四神里，掌管北方、龟蛇合体的神兽是？",
+    "options": [
+      "青龙",
+      "白虎",
+      "獬豸",
+      "玄武"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！玄武是龟蛇合体的北方神兽！",
+      "wrong": "不对！是四神中掌管北方的龟蛇神兽呀！"
+    },
+    "id": "rid_138"
+  },
+  {
+    "question": "在东方象征长寿与和平的白鹿神兽是？",
+    "options": [
+      "白马",
+      "羊",
+      "麒麟",
+      "白鹿"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！白鹿是长寿与和平的象征！",
+      "wrong": "不对！是东方视为吉兆的白鹿呀！"
+    },
+    "id": "rid_139"
+  },
+  {
+    "question": "传说栖息梧桐、报天下太平的瑞鸟是？",
+    "options": [
+      "朱雀",
+      "孔雀",
+      "鹤",
+      "凤凰"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！凤凰是报天下太平的瑞鸟！",
+      "wrong": "不对！是传说栖息梧桐的瑞鸟呀！"
+    },
+    "id": "rid_140"
+  },
+  {
+    "question": "传说住在太阳里的三足乌鸦神兽是？",
+    "options": [
+      "凤凰",
+      "朱雀",
+      "乌鸦",
+      "三足乌"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！三足乌是住在太阳里的三足乌鸦！",
+      "wrong": "不对！是象征太阳的三足鸟呀！"
+    },
+    "id": "rid_141"
+  },
+  {
+    "question": "拥有九条尾巴、魅惑的狐狸妖怪是？",
+    "options": [
+      "蟒蛇",
+      "狮身人面像",
+      "白虎",
+      "九尾狐"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！九尾狐是有九条尾巴的狐狸妖怪！",
+      "wrong": "不对！是有九条尾巴的狐狸呀！"
+    },
+    "id": "rid_142"
+  },
+  {
+    "question": "额头长着一只角的西方幻想动物是？",
+    "options": [
+      "狮鹫",
+      "麒麟",
+      "鹿",
+      "独角兽"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！独角兽额头有一只角！",
+      "wrong": "不对！是只有一只角的神秘之马呀！"
+    },
+    "id": "rid_143"
+  },
+  {
+    "question": "长着三只眼睛、三眼犬神兽是？",
+    "options": [
+      "獬豸",
+      "白虎",
+      "九尾狐",
+      "三眼犬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！三眼犬是有三只眼的神兽！",
+      "wrong": "不对！是有三只眼的犬神兽呀！"
+    },
+    "id": "rid_144"
+  },
+  {
+    "question": "埃及神话中鳄鱼头、掌管尼罗河水之神是？",
+    "options": [
+      "阿努比斯",
+      "拉",
+      "芭丝特",
+      "索贝克"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！索贝克是鳄鱼头的尼罗河之神！",
+      "wrong": "不对！是鳄鱼头的埃及神呀！"
+    },
+    "id": "rid_145"
+  },
+  {
+    "question": "传说修炼千年想变成龙的大蛇妖怪是？",
+    "options": [
+      "九尾狐",
+      "鱼龙",
+      "利维坦",
+      "蟒蛇"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！蟒蛇是修炼成龙的大蛇妖怪！",
+      "wrong": "不对！是住在水里的大蛇妖怪呀！"
+    },
+    "id": "rid_146"
+  },
+  {
+    "question": "鱼与龙合体、掌管海洋的神兽是？",
+    "options": [
+      "蟒蛇",
+      "利维坦",
+      "玄武",
+      "鱼龙"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！鱼龙是鱼与龙合体的海神兽！",
+      "wrong": "不对！是海中龙形神兽呀！"
+    },
+    "id": "rid_147"
+  },
+  {
+    "question": "狮身人面、出谜语的埃及守护像是？",
+    "options": [
+      "狮鹫",
+      "猫又",
+      "索贝克",
+      "狮身人面像"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！狮身人面像是人面狮身守护像！",
+      "wrong": "不对！是矗立在金字塔前的谜之守护像呀！"
+    },
+    "id": "rid_148"
+  },
+  {
+    "question": "传说能吞下大海的巨型海怪是？",
+    "options": [
+      "鱼龙",
+      "蟒蛇",
+      "海妖",
+      "利维坦"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！利维坦是吞噬大海的巨怪！",
+      "wrong": "不对！是典籍中的巨型海怪呀！"
+    },
+    "id": "rid_149"
+  },
+  {
+    "question": "猫头蛇身的日本妖怪是？",
+    "options": [
+      "九尾狐",
+      "狮身人面像",
+      "索贝克",
+      "猫又"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！猫又是猫头蛇身的妖怪！",
+      "wrong": "不对！是猫与蛇混合的妖怪呀！"
+    },
+    "id": "rid_150"
+  },
+  {
+    "question": "传说住在月亮上的三足蟾蜍神兽是？",
+    "options": [
+      "三足乌",
+      "青蛙",
+      "龟",
+      "三足蟾"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！三足蟾是住在月亮上的三足蟾蜍！",
+      "wrong": "不对！是象征月亮的三足蟾蜍呀！"
+    },
+    "id": "rid_151"
+  },
+  {
+    "question": "鹰头狮身的西方神兽是？",
+    "options": [
+      "独角兽",
+      "狮身人面像",
+      "凤凰",
+      "狮鹫"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！狮鹫是鹰头狮身的神兽！",
+      "wrong": "不对！是结合天空与大地之王的幻想动物呀！"
+    },
+    "id": "rid_152"
+  },
+  {
+    "question": "东方思想中守护四方的四神里，掌管西方、形为白虎的神兽是？",
+    "options": [
+      "虎",
+      "獬豸",
+      "玄武",
+      "白虎"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！白虎是守护西方的白色神虎！",
+      "wrong": "不对！是四神中掌管西方的白虎呀！"
+    },
+    "id": "rid_153"
+  },
+  {
+    "question": "长羽毛的蛇、阿兹特克神话的神是？",
+    "options": [
+      "蟒蛇",
+      "鱼龙",
+      "玄武",
+      "羽蛇神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！羽蛇神是长羽毛的蛇之神！",
+      "wrong": "不对！是阿兹特克的长羽蛇神呀！"
+    },
+    "id": "rid_154"
+  },
+  {
+    "question": "带着老虎守护山林的，是什么山神？",
+    "options": [
+      "龙王",
+      "宅神",
+      "死神",
+      "山神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！山神与老虎一起守护山林！",
+      "wrong": "不对！是守护山林的神灵呀！"
+    },
+    "id": "rid_155"
+  },
+  {
+    "question": "头戴黑笠、身穿道袍，带走灵魂的差役是？",
+    "options": [
+      "阎罗王",
+      "山神",
+      "玉皇大帝",
+      "死神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！死神是引魂去阴间的差役！",
+      "wrong": "不对！是把灵魂带去阴间的存在呀！"
+    },
+    "id": "rid_156"
+  },
+  {
+    "question": "东方思想中统治天界、统领众神的最高神是？",
+    "options": [
+      "阎罗王",
+      "龙王",
+      "山神",
+      "玉皇大帝"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！玉皇大帝是统领众神的最高神！",
+      "wrong": "不对！是天界最高神呀！"
+    },
+    "id": "rid_157"
+  },
+  {
+    "question": "东方思想中在阴间审判亡者善恶的王是谁？",
+    "options": [
+      "玉皇大帝",
+      "死神",
+      "龙王",
+      "阎罗王"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！阎罗王在阴间审判亡者！",
+      "wrong": "不对！是阴间的审判官呀！"
+    },
+    "id": "rid_158"
+  },
+  {
+    "question": "东方传说中创造世界的巨大祖母创世女神是？",
+    "options": [
+      "三神婆婆",
+      "钵里公主",
+      "观音菩萨",
+      "麻姑奶奶"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！麻姑奶奶是创造世界的巨大创世女神！",
+      "wrong": "不对！是创造世界的巨大祖母神呀！"
+    },
+    "id": "rid_159"
+  },
+  {
+    "question": "东方传说中为救双亲而前往阴间的孝女公主是？",
+    "options": [
+      "三神婆婆",
+      "麻姑奶奶",
+      "观音菩萨",
+      "钵里公主"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！钵里公主是前往阴间的孝女！",
+      "wrong": "不对！是为救双亲去阴间的公主呀！"
+    },
+    "id": "rid_160"
+  },
+  {
+    "question": "赐子并助产的老祖母神是？",
+    "options": [
+      "麻姑奶奶",
+      "钵里公主",
+      "宅神",
+      "三神婆婆"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！三神婆婆是赐子的生育之神！",
+      "wrong": "不对！是守护孩子与生育的祖母神呀！"
+    },
+    "id": "rid_161"
+  },
+  {
+    "question": "掌管海洋与水的东方之王是？",
+    "options": [
+      "玉皇大帝",
+      "阎罗王",
+      "山神",
+      "龙王"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！龙王是掌管海洋与水的东方之王！",
+      "wrong": "不对！是守护海洋的龙王呀！"
+    },
+    "id": "rid_162"
+  },
+  {
+    "question": "守护宅地、看顾家宅安宁的神是？",
+    "options": [
+      "山神",
+      "龙王",
+      "三神婆婆",
+      "宅神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！宅神是守护宅地的家神！",
+      "wrong": "不对！是守护家宅的家神呀！"
+    },
+    "id": "rid_163"
+  },
+  {
+    "question": "希腊神话中以闪电为武器、统治奥林匹斯的最高神是？",
+    "options": [
+      "波塞冬",
+      "哈迪斯",
+      "阿波罗",
+      "宙斯"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！宙斯是掌管雷霆的奥林匹斯最高神！",
+      "wrong": "不对！是以雷霆为武器的希腊最高神呀！"
+    },
+    "id": "rid_164"
+  },
+  {
+    "question": "北欧神话中为智慧献出一只眼、众神之父是？",
+    "options": [
+      "托尔",
+      "洛基",
+      "女武神",
+      "奥丁"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！奥丁为智慧献出一只眼！",
+      "wrong": "不对！是带着乌鸦的北欧至高神呀！"
+    },
+    "id": "rid_165"
+  },
+  {
+    "question": "希腊神话中掌管太阳、艺术与预言的神是？",
+    "options": [
+      "宙斯",
+      "赫尔墨斯",
+      "阿瑞斯",
+      "阿波罗"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！阿波罗是太阳、艺术与预言之神！",
+      "wrong": "不对！是手持竖琴的太阳神呀！"
+    },
+    "id": "rid_166"
+  },
+  {
+    "question": "北欧神话中爱恶作剧的诡计之神是？",
+    "options": [
+      "奥丁",
+      "托尔",
+      "女武神",
+      "洛基"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！洛基是诡计与恶作剧之神！",
+      "wrong": "不对！是爱搞恶作剧的神呀！"
+    },
+    "id": "rid_167"
+  },
+  {
+    "question": "把阵亡英雄带往瓦尔哈拉的北欧女战士是？",
+    "options": [
+      "雅典娜",
+      "奥丁",
+      "弗蕾亚",
+      "女武神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！女武神把阵亡英雄带往瓦尔哈拉！",
+      "wrong": "不对！是飞翔的北欧女战士呀！"
+    },
+    "id": "rid_168"
+  },
+  {
+    "question": "获得觉悟、被称为“觉者”的佛教创始人是？",
+    "options": [
+      "观音菩萨",
+      "湿婆",
+      "因陀罗",
+      "佛陀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！佛陀是获得觉悟的佛教创始人！",
+      "wrong": "不对！是在菩提树下觉悟的那位呀！"
+    },
+    "id": "rid_169"
+  },
+  {
+    "question": "佛教中听闻众生苦难、施予慈悲的菩萨是？",
+    "options": [
+      "佛陀",
+      "象头神",
+      "湿婆",
+      "观音菩萨"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！观音菩萨以慈悲救度众生！",
+      "wrong": "不对！是千手千眼救度众生的菩萨呀！"
+    },
+    "id": "rid_170"
+  },
+  {
+    "question": "印度神话中象征毁灭与变化的神是？",
+    "options": [
+      "象头神",
+      "因陀罗",
+      "拉",
+      "湿婆"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！湿婆是毁灭与变化之神！",
+      "wrong": "不对！是手持三叉戟的毁灭之神呀！"
+    },
+    "id": "rid_171"
+  },
+  {
+    "question": "印度神话中掌管雷电与雨的神是？",
+    "options": [
+      "湿婆",
+      "拉",
+      "象头神",
+      "因陀罗"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！因陀罗掌管雷电与雨！",
+      "wrong": "不对！是手持金刚杵的雷神呀！"
+    },
+    "id": "rid_172"
+  },
+  {
+    "question": "埃及神话中象征太阳的神是？",
+    "options": [
+      "奥西里斯",
+      "阿努比斯",
+      "索贝克",
+      "拉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！拉是象征太阳的埃及神！",
+      "wrong": "不对！是鹰头的太阳神呀！"
+    },
+    "id": "rid_173"
+  },
+  {
+    "question": "埃及神话中掌管复活与冥界的神是？",
+    "options": [
+      "拉",
+      "阿努比斯",
+      "索贝克",
+      "奥西里斯"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！奥西里斯掌管复活与冥界！",
+      "wrong": "不对！是象征复活的埃及神呀！"
+    },
+    "id": "rid_174"
+  },
+  {
+    "question": "埃及神话中猫头、掌管家庭与治愈的女神是？",
+    "options": [
+      "阿努比斯",
+      "索贝克",
+      "拉",
+      "芭丝特"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！芭丝特是猫头的家庭与治愈女神！",
+      "wrong": "不对！是猫头的埃及女神呀！"
+    },
+    "id": "rid_175"
+  },
+  {
+    "question": "击败恶龙、统领天军的天使长是？",
+    "options": [
+      "加百列",
+      "拉斐尔",
+      "乌列尔",
+      "大天使米迦勒"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！米迦勒是击败恶龙的天使长！",
+      "wrong": "不对！是统领天军的天使长呀！"
+    },
+    "id": "rid_176"
+  },
+  {
+    "question": "向玛利亚报喜耶稣降生的传令天使是？",
+    "options": [
+      "米迦勒",
+      "拉斐尔",
+      "乌列尔",
+      "大天使加百列"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！加百列是报喜耶稣降生的天使！",
+      "wrong": "不对！是吹号角的传令天使呀！"
+    },
+    "id": "rid_177"
+  },
+  {
+    "question": "能治愈疾病的天使是？",
+    "options": [
+      "米迦勒",
+      "加百列",
+      "乌列尔",
+      "大天使拉斐尔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！拉斐尔是治愈疾病的天使！",
+      "wrong": "不对！是治愈与旅行者的守护天使呀！"
+    },
+    "id": "rid_178"
+  },
+  {
+    "question": "象征火与智慧的天使是？",
+    "options": [
+      "米迦勒",
+      "加百列",
+      "拉斐尔",
+      "大天使乌列尔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！乌列尔象征火与智慧！",
+      "wrong": "不对！是光与智慧的天使呀！"
+    },
+    "id": "rid_179"
+  },
+  {
+    "question": "据说从出生起就在身边守护的天使是？",
+    "options": [
+      "大天使米迦勒",
+      "大天使加百列",
+      "大天使拉斐尔",
+      "守护天使"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！守护天使一生伴随左右！",
+      "wrong": "不对！是陪伴守护的天使呀！"
+    },
+    "id": "rid_180"
+  },
+  {
+    "question": "希腊神话中纺织人类命运之线的三姐妹是？",
+    "options": [
+      "女武神",
+      "缪斯",
+      "哈耳庇厄",
+      "命运三女神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！命运三女神纺织命运之线！",
+      "wrong": "不对！是决定命运的希腊三姐妹呀！"
+    },
+    "id": "rid_181"
+  },
+  {
+    "question": "被称为草原之王、有鬃毛的猛兽是？",
+    "options": [
+      "虎",
+      "豹",
+      "猎豹",
+      "狮子"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！狮子是有鬃毛的草原之王！",
+      "wrong": "不对！是有鬃毛的草原猛兽呀！"
+    },
+    "id": "rid_182"
+  },
+  {
+    "question": "鼻子上长着一只角、身披厚甲的动物是？",
+    "options": [
+      "河马",
+      "大象",
+      "水牛",
+      "犀牛"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！犀牛鼻上有一只角！",
+      "wrong": "不对！是鼻上长角的厚皮动物呀！"
+    },
+    "id": "rid_183"
+  },
+  {
+    "question": "在河中张开大嘴的非洲巨兽是？",
+    "options": [
+      "犀牛",
+      "鳄鱼",
+      "水牛",
+      "河马"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！河马在河中张开大嘴！",
+      "wrong": "不对！是住在水中的非洲巨兽呀！"
+    },
+    "id": "rid_184"
+  },
+  {
+    "question": "背着驼峰走沙漠的动物是？",
+    "options": [
+      "马",
+      "驴",
+      "羊驼",
+      "骆驼"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！骆驼背驼峰走沙漠！",
+      "wrong": "不对！是走沙漠的驼峰动物呀！"
+    },
+    "id": "rid_185"
+  },
+  {
+    "question": "把宝宝放进育儿袋、蹦跳的澳大利亚动物是？",
+    "options": [
+      "兔子",
+      "考拉",
+      "袋熊",
+      "袋鼠"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！袋鼠用育儿袋养育宝宝！",
+      "wrong": "不对！是澳大利亚有袋动物呀！"
+    },
+    "id": "rid_186"
+  },
+  {
+    "question": "喜欢竹子、黑白花纹的熊是？",
+    "options": [
+      "熊",
+      "考拉",
+      "浣熊",
+      "熊猫"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！熊猫是爱竹子的黑白熊！",
+      "wrong": "不对！是吃竹子的黑白动物呀！"
+    },
+    "id": "rid_187"
+  },
+  {
+    "question": "有黑色条纹的非洲马是？",
+    "options": [
+      "马",
+      "驴",
+      "长颈鹿",
+      "斑马"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！斑马是有黑纹的非洲马！",
+      "wrong": "不对！是有条纹的非洲马呀！"
+    },
+    "id": "rid_188"
+  },
+  {
+    "question": "高空盘旋、抓取猎物的猛禽是？",
+    "options": [
+      "隼",
+      "猫头鹰",
+      "乌鸦",
+      "鹰"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！鹰是天空猛禽之王！",
+      "wrong": "不对！是高飞的猎鸟呀！"
+    },
+    "id": "rid_189"
+  },
+  {
+    "question": "用利齿称霸海洋的鱼是？",
+    "options": [
+      "鲸",
+      "海豚",
+      "鳄鱼",
+      "鲨鱼"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！鲨鱼是利齿的海洋猎手！",
+      "wrong": "不对！是有背鳍的海洋猎手呀！"
+    },
+    "id": "rid_190"
+  },
+  {
+    "question": "海洋中最大、会喷水的动物是？",
+    "options": [
+      "鲨鱼",
+      "海豚",
+      "大象",
+      "鲸"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！鲸是海洋中最大的动物！",
+      "wrong": "不对！是边喷水边游泳的巨兽呀！"
+    },
+    "id": "rid_191"
+  },
+  {
+    "question": "绿皮红瓤、夏天的大水果是？",
+    "options": [
+      "香瓜",
+      "甜瓜",
+      "南瓜",
+      "西瓜"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！西瓜是绿皮红瓤的夏日水果！",
+      "wrong": "不对！是夏天吃的大红水果呀！"
+    },
+    "id": "rid_192"
+  },
+  {
+    "question": "种子长在表面、红色的小水果是？",
+    "options": [
+      "樱桃",
+      "覆盆子",
+      "番茄",
+      "草莓"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！草莓的种子长在表面！",
+      "wrong": "不对！是表面可见种子的红果呀！"
+    },
+    "id": "rid_193"
+  },
+  {
+    "question": "成串生长、紫色颗粒的水果是？",
+    "options": [
+      "蓝莓",
+      "李子",
+      "桑葚",
+      "葡萄"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！葡萄是成串的紫色颗粒水果！",
+      "wrong": "不对！是成串的紫色水果呀！"
+    },
+    "id": "rid_194"
+  },
+  {
+    "question": "黄色弯曲、剥皮吃的水果是？",
+    "options": [
+      "香瓜",
+      "芒果",
+      "木瓜",
+      "香蕉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！香蕉是黄色弯曲的水果！",
+      "wrong": "不对！是黄色的长水果呀！"
+    },
+    "id": "rid_195"
+  },
+  {
+    "question": "颗粒成排、黄色穗子的是？",
+    "options": [
+      "豆",
+      "小麦",
+      "稻",
+      "玉米"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！玉米是颗粒成排的黄色穗子！",
+      "wrong": "不对！是颗粒成排的黄色谷物呀！"
+    },
+    "id": "rid_196"
+  },
+  {
+    "question": "兔子爱吃的橙色根菜是？",
+    "options": [
+      "萝卜",
+      "红薯",
+      "土豆",
+      "胡萝卜"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！胡萝卜是兔子爱吃的橙色根菜！",
+      "wrong": "不对！是兔子爱吃的橙色蔬菜呀！"
+    },
+    "id": "rid_197"
+  },
+  {
+    "question": "敲开外壳会流出蛋黄和蛋白的是什么？",
+    "options": [
+      "牛奶",
+      "米饭",
+      "面包",
+      "鸡蛋"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！鸡蛋壳里有蛋黄和蛋白！",
+      "wrong": "不对！是壳里有蛋黄的食物呀！"
+    },
+    "id": "rid_198"
+  },
+  {
+    "question": "从牛身上挤出的白色饮品是？",
+    "options": [
+      "水",
+      "果汁",
+      "酸奶",
+      "牛奶"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！牛奶是从牛身上挤出的白色饮品！",
+      "wrong": "不对！是牛身上出的白色饮品呀！"
+    },
+    "id": "rid_199"
+  },
+  {
+    "question": "放进沸水三分钟就能做好的面食是？",
+    "options": [
+      "面条",
+      "意面",
+      "乌冬",
+      "方便面"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！方便面沸水三分钟即可！",
+      "wrong": "不对！是三分钟就能煮好的面呀！"
+    },
+    "id": "rid_200"
+  },
+  {
+    "question": "把米饭和蔬菜卷进海苔、切成圆片的是？",
+    "options": [
+      "饭团",
+      "寿司",
+      "泡菜",
+      "紫菜包饭"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！紫菜包饭是把米饭蔬菜卷入海苔切片！",
+      "wrong": "不对！是海苔卷饭切片呀！"
+    },
+    "id": "rid_201"
+  },
+  {
+    "question": "希腊神话中因自负而被缚于天空的埃塞俄比亚王后，呈W形闪耀于北天的是哪个星座？",
+    "options": [
+      "仙后座",
+      "仙女座",
+      "飞马座",
+      "天鹅座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！仙后座是仙女座公主的母亲王后！",
+      "wrong": "不对！想想仙女座公主的母亲王后！"
+    },
+    "id": "rid_202"
+  },
+  {
+    "question": "希腊神话中腰间佩三颗星的猎人，闪耀于冬夜南天的是哪个星座？",
+    "options": [
+      "猎户座",
+      "狮子座",
+      "天蝎座",
+      "大熊座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！猎户座是佩三颗星的猎人！",
+      "wrong": "不对！是腰间佩三颗星的猎人呀！"
+    },
+    "id": "rid_203"
+  },
+  {
+    "question": "希腊神话中用毒针刺败猎户座的，夏夜南天星座是？",
+    "options": [
+      "天蝎座",
+      "狮子座",
+      "巨蟹座",
+      "金牛座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天蝎座是刺伤猎户座的蝎子！",
+      "wrong": "不对！是战胜猎户座的毒针主人呀！"
+    },
+    "id": "rid_204"
+  },
+  {
+    "question": "希腊神话中被赫拉克勒斯制服的涅墨亚猛兽，春夜天空之王星座是？",
+    "options": [
+      "狮子座",
+      "天蝎座",
+      "金牛座",
+      "双子座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！狮子座是涅墨亚的狮子！",
+      "wrong": "不对！是赫拉克勒斯制服的猛兽呀！"
+    },
+    "id": "rid_205"
+  },
+  {
+    "question": "希腊神话中宙斯为载欧罗巴而变成的动物，昂角星座是？",
+    "options": [
+      "金牛座",
+      "白羊座",
+      "摩羯座",
+      "巨蟹座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！金牛座是宙斯变成的公牛！",
+      "wrong": "不对！是宙斯变成的长角动物呀！"
+    },
+    "id": "rid_206"
+  },
+  {
+    "question": "希腊神话中守护金羊毛的公羊，黄道上的春季星座是？",
+    "options": [
+      "白羊座",
+      "金牛座",
+      "狮子座",
+      "双鱼座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！白羊座是金羊毛的公羊！",
+      "wrong": "不对！是守护金羊毛的动物呀！"
+    },
+    "id": "rid_207"
+  },
+  {
+    "question": "希腊神话中手持麦穗升天的正义女神，少女星座是？",
+    "options": [
+      "处女座",
+      "天秤座",
+      "巨蟹座",
+      "水瓶座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！处女座是正义女神！",
+      "wrong": "不对！是手持麦穗的女神呀！"
+    },
+    "id": "rid_208"
+  },
+  {
+    "question": "希腊神话中称量正义的天平，黄道上的平衡星座是？",
+    "options": [
+      "天秤座",
+      "处女座",
+      "天蝎座",
+      "射手座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天秤座是正义的天平！",
+      "wrong": "不对！是象征平衡与正义的器具呀！"
+    },
+    "id": "rid_209"
+  },
+  {
+    "question": "希腊神话中手持弓箭的贤者喀戎命名的黄道星座是？",
+    "options": [
+      "射手座",
+      "摩羯座",
+      "水瓶座",
+      "白羊座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！射手座是半人马喀戎！",
+      "wrong": "不对！是拉弓的半人马呀！"
+    },
+    "id": "rid_210"
+  },
+  {
+    "question": "希腊神话中形似牧神潘、有角和鱼尾的黄道星座是？",
+    "options": [
+      "摩羯座",
+      "双鱼座",
+      "水瓶座",
+      "巨蟹座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！摩羯座是牧神潘！",
+      "wrong": "不对！是有角和鱼尾的星座呀！"
+    },
+    "id": "rid_211"
+  },
+  {
+    "question": "希腊神话中被宙斯带走的美少年伽倪墨得斯倒水的星座是？",
+    "options": [
+      "水瓶座",
+      "双鱼座",
+      "处女座",
+      "摩羯座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！水瓶座是伽倪墨得斯！",
+      "wrong": "不对！是倒水少年的星座呀！"
+    },
+    "id": "rid_212"
+  },
+  {
+    "question": "希腊神话中阿佛洛狄忒与厄洛斯变身并以线相连的黄道最后星座是？",
+    "options": [
+      "双鱼座",
+      "水瓶座",
+      "白羊座",
+      "巨蟹座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！双鱼座是两条鱼的星座！",
+      "wrong": "不对！是线连着的两条鱼呀！"
+    },
+    "id": "rid_213"
+  },
+  {
+    "question": "希腊神话中从美杜莎之血诞生的带翼骏马星座是？",
+    "options": [
+      "飞马座",
+      "仙女座",
+      "天鹅座",
+      "仙后座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！飞马座是带翼的骏马！",
+      "wrong": "不对！是从美杜莎之血诞生的飞马呀！"
+    },
+    "id": "rid_214"
+  },
+  {
+    "question": "希腊神话中被绑在岩石上献给海怪的公主星座是？",
+    "options": [
+      "仙女座",
+      "仙后座",
+      "飞马座",
+      "处女座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！仙女座是被绑在岩石上的公主！",
+      "wrong": "不对！是珀尔修斯救下的公主呀！"
+    },
+    "id": "rid_215"
+  },
+  {
+    "question": "希腊神话中宙斯为接近勒达而变成的鸟的星座是？",
+    "options": [
+      "天鹅座",
+      "飞马座",
+      "天鹰座",
+      "乌鸦座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天鹅座是宙斯变成的鸟！",
+      "wrong": "不对！是宙斯变成的水鸟呀！"
+    },
+    "id": "rid_216"
+  },
+  {
+    "question": "希腊神话中阿特拉斯之女、被称为七姐妹的金牛座星团是？",
+    "options": [
+      "昴宿星团",
+      "天狼星",
+      "织女星",
+      "老人星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！昴宿星团是七姐妹星！",
+      "wrong": "不对！是被称为七姐妹的星团呀！"
+    },
+    "id": "rid_217"
+  },
+  {
+    "question": "希腊神话中由赫拉的乳汁洒落形成的、横贯夜空的星之河是？",
+    "options": [
+      "银河",
+      "极光",
+      "彗星",
+      "流星雨"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！银河是星星之河！",
+      "wrong": "不对！是横贯天空的星之河呀！"
+    },
+    "id": "rid_218"
+  },
+  {
+    "question": "东方传说中隔着银河一年相会一次的牛郎星是？",
+    "options": [
+      "牛郎星",
+      "织女星",
+      "北极星",
+      "老人星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！牛郎星是牧牛人的星！",
+      "wrong": "不对！是银河对岸的牛郎星呀！"
+    },
+    "id": "rid_219"
+  },
+  {
+    "question": "东方传说中在牛郎星对面织布的织女星是？",
+    "options": [
+      "织女星",
+      "牛郎星",
+      "北极星",
+      "参宿"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！织女星是织布的织女之星！",
+      "wrong": "不对！是织布女子的星呀！"
+    },
+    "id": "rid_220"
+  },
+  {
+    "question": "东方将天空分为28区的传统星官体系是？",
+    "options": [
+      "二十八宿",
+      "十二地支",
+      "四神",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！二十八宿是东方的星官体系！",
+      "wrong": "不对！是把天空分为28区的体系呀！"
+    },
+    "id": "rid_221"
+  },
+  {
+    "question": "东方把猎户座腰带下方成排的三颗星称为什么？",
+    "options": [
+      "参宿三星",
+      "三神",
+      "三足乌",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！参宿三星就是那三颗星的名字！",
+      "wrong": "不对！是猎户座腰带下方的三颗星呀！"
+    },
+    "id": "rid_222"
+  },
+  {
+    "question": "东方象征长寿、被称为寿星的南天极亮之星是？",
+    "options": [
+      "老人星",
+      "北极星",
+      "天狼星",
+      "织女星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！老人星是东方的长寿之星！",
+      "wrong": "不对！是南天的长寿之星呀！"
+    },
+    "id": "rid_223"
+  },
+  {
+    "question": "在北天几乎不动、为水手指路的星是？",
+    "options": [
+      "北极星",
+      "天狼星",
+      "老人星",
+      "织女星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！北极星是天空的指路星！",
+      "wrong": "不对！是几乎不动的北方之星呀！"
+    },
+    "id": "rid_224"
+  },
+  {
+    "question": "七星聚成勺子形、指向北极的星座是？",
+    "options": [
+      "北斗七星",
+      "仙后座",
+      "小熊座",
+      "天鹅座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！北斗七星是勺子形的七颗星！",
+      "wrong": "不对！是勺子形的七颗星呀！"
+    },
+    "id": "rid_225"
+  },
+  {
+    "question": "尾巴末端驮着北极星的小熊北天星座是？",
+    "options": [
+      "小熊座",
+      "大熊座",
+      "天鹅座",
+      "双鱼座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！小熊座怀抱着北极星！",
+      "wrong": "不对！是尾巴带着北极星的星座呀！"
+    },
+    "id": "rid_226"
+  },
+  {
+    "question": "希腊神话中化为熊的卡利斯托升天后的熊形星座是？",
+    "options": [
+      "大熊座",
+      "小熊座",
+      "狮子座",
+      "金牛座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！大熊座是卡利斯托所变的熊！",
+      "wrong": "不对！是化为熊的宁芙的星座呀！"
+    },
+    "id": "rid_227"
+  },
+  {
+    "question": "希腊神话中兄弟并肩而立的冬夜双子星座是？",
+    "options": [
+      "双子座",
+      "狮子座",
+      "处女座",
+      "天秤座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！双子座是两兄弟的星座！",
+      "wrong": "不对！是并肩而立的两兄弟呀！"
+    },
+    "id": "rid_228"
+  },
+  {
+    "question": "希腊神话中手持龟壳所制乐器的音乐家星座是？",
+    "options": [
+      "天琴座",
+      "天鹅座",
+      "飞马座",
+      "天鹰座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天琴座是俄耳甫斯的乐器！",
+      "wrong": "不对！是手持弦乐器的音乐家呀！"
+    },
+    "id": "rid_229"
+  },
+  {
+    "question": "拖着尾巴划过夜空、让人许愿的星是？",
+    "options": [
+      "流星",
+      "彗星",
+      "北极星",
+      "银河"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！流星是许愿的星！",
+      "wrong": "不对！是划过夜空的星呀！"
+    },
+    "id": "rid_230"
+  },
+  {
+    "question": "希腊神话中用钳子夹了赫拉克勒斯脚的螃蟹升天后的星座是？",
+    "options": [
+      "巨蟹座",
+      "天蝎座",
+      "狮子座",
+      "白羊座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！巨蟹座是夹了赫拉克勒斯脚的螃蟹！",
+      "wrong": "不对！是赫拉克勒斯故事里带钳子的动物呀！"
+    },
+    "id": "rid_231"
+  },
+  {
+    "question": "希腊神话中猎户座的猎犬，大犬座最亮的星是？",
+    "options": [
+      "天狼星",
+      "北极星",
+      "织女星",
+      "老人星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天狼星是猎户座的猎犬之星！",
+      "wrong": "不对！是夜空中最亮的星呀！"
+    },
+    "id": "rid_232"
+  },
+  {
+    "question": "南半球水手用来定向的十字形南天星座是？",
+    "options": [
+      "南十字座",
+      "北斗七星",
+      "仙后座",
+      "天鹅座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！南十字座是南半球的指路星！",
+      "wrong": "不对！是南天十字形星座呀！"
+    },
+    "id": "rid_233"
+  },
+  {
+    "question": "希腊神话中看守熊的牧人、怀有亮星大角星的星座是？",
+    "options": [
+      "牧夫座",
+      "大熊座",
+      "小熊座",
+      "处女座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！牧夫座是看守熊的牧人！",
+      "wrong": "不对！是追随大熊座的牧人星座呀！"
+    },
+    "id": "rid_234"
+  },
+  {
+    "question": "以斩杀美杜莎的希腊英雄命名的秋季星座是？",
+    "options": [
+      "英仙座",
+      "武仙座",
+      "猎户座",
+      "仙王座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！英仙座是斩杀美杜莎的英雄！",
+      "wrong": "不对！是斩杀美杜莎的英雄星座呀！"
+    },
+    "id": "rid_235"
+  },
+  {
+    "question": "以希腊最伟大英雄命名的大型夏季星座是？",
+    "options": [
+      "武仙座",
+      "英仙座",
+      "猎户座",
+      "射手座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！武仙座是最伟大英雄的星座！",
+      "wrong": "不对！是完成十二项伟业的英雄星座呀！"
+    },
+    "id": "rid_236"
+  },
+  {
+    "question": "仙女座公主的父亲、埃塞俄比亚国王的北天星座是？",
+    "options": [
+      "仙王座",
+      "仙后座",
+      "英仙座",
+      "飞马座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！仙王座是仙女座公主的父亲！",
+      "wrong": "不对！是埃塞俄比亚国王的星座呀！"
+    },
+    "id": "rid_237"
+  },
+  {
+    "question": "象征希腊神话半人马族整体的南天大星座是？",
+    "options": [
+      "半人马座",
+      "射手座",
+      "牧夫座",
+      "英仙座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！半人马座是半人马族！",
+      "wrong": "不对！是半人马族的星座呀！"
+    },
+    "id": "rid_238"
+  },
+  {
+    "question": "取自阿尔戈号龙骨的南天大星座是？",
+    "options": [
+      "船底座",
+      "半人马座",
+      "南十字座",
+      "英仙座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！船底座是阿尔戈号的龙骨！",
+      "wrong": "不对！是取自阿尔戈号龙骨的星座呀！"
+    },
+    "id": "rid_239"
+  },
+  {
+    "question": "被称为金牛座之眼、红色闪耀的星是？",
+    "options": [
+      "毕宿五",
+      "参宿七",
+      "参宿四",
+      "天狼星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！毕宿五是金牛之眼！",
+      "wrong": "不对！是金牛座的红色之眼呀！"
+    },
+    "id": "rid_240"
+  },
+  {
+    "question": "在猎户座脚下发出蓝光的星是？",
+    "options": [
+      "参宿七",
+      "参宿四",
+      "天津四",
+      "五车二"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！参宿七是猎户座脚下的星！",
+      "wrong": "不对！是在猎人脚下闪耀的星呀！"
+    },
+    "id": "rid_241"
+  },
+  {
+    "question": "在猎户座肩头红光闪耀的星是？",
+    "options": [
+      "参宿四",
+      "参宿七",
+      "毕宿五",
+      "心宿二"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！参宿四是猎户座的肩星！",
+      "wrong": "不对！是在猎人肩头闪耀的星呀！"
+    },
+    "id": "rid_242"
+  },
+  {
+    "question": "在天鹅座尾部闪耀的星是？",
+    "options": [
+      "天津四",
+      "织女星",
+      "牛郎星",
+      "五车二"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！天津四是天鹅的尾星！",
+      "wrong": "不对！是天鹅座尾部的星呀！"
+    },
+    "id": "rid_243"
+  },
+  {
+    "question": "小犬座中比天狼星先升起的亮星是？",
+    "options": [
+      "南河三",
+      "天狼星",
+      "参宿四",
+      "五车二"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！南河三比天狼星先升起！",
+      "wrong": "不对！是比天狼星先升起的星呀！"
+    },
+    "id": "rid_244"
+  },
+  {
+    "question": "御夫座最亮、被称为山羊星的是？",
+    "options": [
+      "五车二",
+      "毕宿五",
+      "南河三",
+      "天津四"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！五车二是山羊星！",
+      "wrong": "不对！是御夫座的山羊星呀！"
+    },
+    "id": "rid_245"
+  },
+  {
+    "question": "猎户座、天狼星、南河三构成的冬夜星三角是？",
+    "options": [
+      "冬季大三角",
+      "夏季大三角",
+      "春季大三角",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！冬季大三角是冬季三颗星组成的三角形！",
+      "wrong": "不对！是冬夜三颗星组成的三角形呀！"
+    },
+    "id": "rid_246"
+  },
+  {
+    "question": "织女星、牛郎星、天津四构成的夏夜星三角是？",
+    "options": [
+      "夏季大三角",
+      "冬季大三角",
+      "春季大三角",
+      "秋季大三角"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！夏季大三角是夏季三颗星组成的三角形！",
+      "wrong": "不对！是夏夜三颗星组成的三角形呀！"
+    },
+    "id": "rid_247"
+  },
+  {
+    "question": "被称为天蝎座之心、红光闪耀的星是？",
+    "options": [
+      "心宿二",
+      "毕宿五",
+      "参宿四",
+      "参宿七"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！心宿二是天蝎之心！",
+      "wrong": "不对！是天蝎座的红色心星呀！"
+    },
+    "id": "rid_248"
+  },
+  {
+    "question": "双子座中与两兄弟之一同名的亮星是？",
+    "options": [
+      "北河三",
+      "北河二",
+      "毕宿五",
+      "天津四"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！北河三是双子兄弟之星！",
+      "wrong": "不对！是双子兄弟之一的星呀！"
+    },
+    "id": "rid_249"
+  },
+  {
+    "question": "北斗七星勺柄上看似分成两颗的星是？",
+    "options": [
+      "开阳",
+      "辅星",
+      "北极星",
+      "五车二"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！开阳看似双星！",
+      "wrong": "不对！是勺柄上的双星呀！"
+    },
+    "id": "rid_250"
+  },
+  {
+    "question": "半人马座中最亮、距太阳最近的星是？",
+    "options": [
+      "南门二",
+      "天狼星",
+      "老人星",
+      "织女星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！南门二是距太阳最近的恒星！",
+      "wrong": "不对！是距太阳最近的邻居恒星呀！"
+    },
+    "id": "rid_251"
+  },
+  {
+    "question": "怀抱五车二、形似车夫的星座是？",
+    "options": [
+      "御夫座",
+      "牧夫座",
+      "双子座",
+      "英仙座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！御夫座是车夫的星座！",
+      "wrong": "不对！是怀抱五车二的车夫星座呀！"
+    },
+    "id": "rid_252"
+  },
+  {
+    "question": "在牧夫座旁象征两只猎犬的星座是？",
+    "options": [
+      "猎犬座",
+      "牧夫座",
+      "小犬座",
+      "大犬座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！猎犬座是两只猎犬的星座！",
+      "wrong": "不对！是跟随牧人的两只猎犬星座呀！"
+    },
+    "id": "rid_253"
+  },
+  {
+    "question": "南天形似孔雀、含亮星的星座是？",
+    "options": [
+      "孔雀座",
+      "南十字座",
+      "船底座",
+      "半人马座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！孔雀座是南天的孔雀！",
+      "wrong": "不对！是南天孔雀形星座呀！"
+    },
+    "id": "rid_254"
+  },
+  {
+    "question": "狮子座、牧夫座、处女座的亮星构成的春夜星三角是？",
+    "options": [
+      "春季大三角",
+      "夏季大三角",
+      "冬季大三角",
+      "秋季大三角"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "答对了！春季大三角是春季三颗星组成的三角形！",
+      "wrong": "不对！是春夜三颗星组成的三角形呀！"
+    },
+    "id": "rid_255"
   }
 ]
