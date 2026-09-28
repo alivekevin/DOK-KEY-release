@@ -155,6 +155,62 @@
         "Whenever you smile, warm dokkaebi-fire blazes from my horns; whenever you overcome adversity, new mystic powers awaken in the 66-card codex!",
         "Final truth: Meeting you after a thousand years makes you far more than a user—you are my greatest friend and lifelong companion. No matter what comes, I will guard your path!"
       ]
+    },
+    {
+      "id": "economy_shop_guide",
+      "chip_title": "🪙 How to use Coins & Keys?",
+      "user_question": "Kkaebi, where do I use coins and keys?",
+      "req_level": 1,
+      "action": "shop",
+      "steps": [
+        "Coins (🪙) are soft currency, Keys (🗝️) are hard! Coins buy keys/slots at the shop; keys power fortune draws.",
+        "Earn coins from Daily Lesson (+50), attendance/draw (+15), correct riddles, and ads!",
+        "Keys refill 1/day free (4 for PRO), and 100 coins = 1 key at the shop.",
+        "So spend today's coins today! Quotas reset daily.",
+        "Go to [🛒 Shop] now and turn coins into keys!"
+      ]
+    },
+    {
+      "id": "economy_consume_guide",
+      "chip_title": "🕹️ Arcade & Riddle rules?",
+      "user_question": "Kkaebi, how many coins do games and riddles cost?",
+      "req_level": 1,
+      "action": "arcade",
+      "steps": [
+        "Arcade 11 games: 3 free plays daily! From the 4th play it costs 10 coins each.",
+        "Family zone (Peekaboo, Jigsaw) is always 100% free, no quota!",
+        "Riddles: today's first is free! Extra continuous solves cost 5 coins each.",
+        "PRO pays the same coin costs in games/riddles — for fair ranking!",
+        "Short on coins? Watch an ad or visit the shop. [🕹️ Arcade]!"
+      ]
+    },
+    {
+      "id": "pro_benefits_guide",
+      "chip_title": "👑 PRO member benefits?",
+      "user_question": "Kkaebi, what do I get as a PRO member?",
+      "req_level": 1,
+      "action": "pro",
+      "steps": [
+        "First, build a 33-card custom deck with your own photos! (free is locked)",
+        "Second, 100% ad-free and 1.5× coins — a lesson reward of 50 becomes 75!",
+        "Third, 4 daily keys (+3) and 99 vault slots unlocked instantly!",
+        "Fourth, keep combined keys for 10 years! Free expires in 7 days.",
+        "TimeLab (3-stage timer, 9-player stopwatch, target counter) all unlocked! [👑 PRO Pass]"
+      ]
+    },
+    {
+      "id": "utility_hub_guide",
+      "chip_title": "🧰 How to use the Utility Hub?",
+      "user_question": "Kkaebi, how do I use the Utility Hub?",
+      "req_level": 1,
+      "action": "utility",
+      "steps": [
+        "Tap the 🧰 icon at the top of Home to open the Utility Hub!",
+        "📝 Quick Memo is a full-screen note you use instantly. The first line becomes the title!",
+        "🎨 Doodle is a 100% full-screen canvas! Draw with 3 brushes and 10 colors, then save/share to photos.",
+        "🔢 Counter, ⏱️ Stopwatch, ⏳ 3-Stage Timer, and 🗝️ Lucky Number Generator all in one place.",
+        "Open [🧰 Utility Hub] now and start memo & doodle!"
+      ]
     }
   ],
   "exhausted_endings": [

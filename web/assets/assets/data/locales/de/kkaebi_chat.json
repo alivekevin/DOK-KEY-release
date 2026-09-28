@@ -155,6 +155,62 @@
         "Wann immer du lächelst, lodert warmes Koboldfeuer aus meinen Hörnern; wann immer du Schicksalsschläge überwindest, erwachen neue Kräfte im 66-Karten-Kodex!",
         "Wahre Erkenntnis: Dass ich dich nach tausend Jahren treffe, macht dich zu weit mehr als einem Nutzer—du bist mein bester Freund und Weggefährte. Egal was kommt, ich beschütze deinen Pfad!"
       ]
+    },
+    {
+      "id": "economy_shop_guide",
+      "chip_title": "🪙 Münzen & Schlüssel?",
+      "user_question": "Kkaebi, wo nutze ich Münzen und Schlüssel?",
+      "req_level": 1,
+      "action": "shop",
+      "steps": [
+        "Münzen (🪙) sind weiche, Schlüssel (🗝️) harte Währung! Münzen kaufen Schlüssel/Slots im Laden; Schlüssel für Schicksalsziehungen.",
+        "Münzen aus Tageslektion (+50), Anwesenheit/Ziehung (+15), richtigen Rätseln und Werbung!",
+        "Schlüssel: täglich 1 gratis (PRO 4), im Laden 100 Münzen = 1 Schlüssel.",
+        "Gib heutige Münzen heute aus! Kontingente werden täglich zurückgesetzt.",
+        "Geh jetzt zum [🛒 Laden] und tausche Münzen in Schlüssel!"
+      ]
+    },
+    {
+      "id": "economy_consume_guide",
+      "chip_title": "🕹️ Arcade- & Rätselregeln?",
+      "user_question": "Kkaebi, wie viel kosten Spiele und Rätsel?",
+      "req_level": 1,
+      "action": "arcade",
+      "steps": [
+        "Arcade 11 Spiele: 3 Gratis-Spiele pro Tag! Ab dem 4. Spiel je 10 Münzen.",
+        "Familienzone (Kuckuck, Puzzle) ist immer 100% gratis, ohne Kontingent!",
+        "Rätsel: das erste heute gratis! Weiteres Lösen kostet je 5 Münzen.",
+        "PRO zahlt dieselben Kosten in Spielen/Rätseln — für faires Ranking!",
+        "Münzen knapp? Schau Werbung oder geh in den Laden. [🕹️ Arcade]!"
+      ]
+    },
+    {
+      "id": "pro_benefits_guide",
+      "chip_title": "👑 PRO-Vorteile?",
+      "user_question": "Kkaebi, was bringt PRO?",
+      "req_level": 1,
+      "action": "pro",
+      "steps": [
+        "Erstens: eigenes 33-Karten-Deck mit Fotos! (gratis gesperrt)",
+        "Zweitens: 100% werbefrei und 1,5× Münzen — 50 werden 75!",
+        "Drittens: 4 Schlüssel/Tag (+3) und 99 Tresor-Slots sofort!",
+        "Viertens: Kombischlüssel 10 Jahre behalten! Gratis verfällt in 7 Tagen.",
+        "TimeLab (3-Stufen-Timer, 9er-Stoppuhr, Zielzähler) alles frei! [👑 PRO-Pass]"
+      ]
+    },
+    {
+      "id": "utility_hub_guide",
+      "chip_title": "🧰 Werkzeugkasten nutzen?",
+      "user_question": "Kkaebi, wie nutze ich den Werkzeugkasten?",
+      "req_level": 1,
+      "action": "utility",
+      "steps": [
+        "Tippe oben auf Home auf 🧰, um den Werkzeugkasten zu öffnen!",
+        "📝 Quick-Memo ist eine Vollbild-Notiz zum Sofort-Schreiben. Die erste Zeile wird der Titel!",
+        "🎨 Doodle ist eine 100%-Vollbild-Leinwand! Mit 3 Pinseln & 10 Farben malen, dann speichern/teilen.",
+        "🔢 Zähler, ⏱️ Stoppuhr, ⏳ 3-Stufen-Timer und 🗝️ Glückszahl-Generator an einem Ort.",
+        "Öffne jetzt [🧰 Werkzeugkasten] und starte Memo & Doodle!"
+      ]
     }
   ],
   "exhausted_endings": [
