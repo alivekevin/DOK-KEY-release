@@ -47,7 +47,7 @@
       "steps": [
         "Achte heute besonders auf Menschen, die dir freundliche Worte schenken. Die Karte '{card_name}' hat eine sanfte Tür zu wertvollen Verbindungen geöffnet.",
         "Sorgst du dich immer noch wegen anderer? Selbst wenn dich jemand ärgert, lächle wie ein fröhlicher Kobold und lass es abperlen. Dein Lächeln ist der Generalschlüssel zum Entwirren aller Knoten!",
-        "Erschöpfe dich nicht damit, von jedem geliebt werden zu wollen. Selbst Kobolde haben Freunde und Fürchtende. Es reicht völlig, wenn ein einziger echter Mensch deinen Wert erkennt.",
+        "Erschöpfe dich nicht damit, von jedem geliebt werden zu wollen. Selbst Kobolde haben Freunde und solche, die sie fürchten. Es reicht völlig, wenn ein einziger echter Mensch deinen Wert erkennt.",
         "Wenn dir jemand am Herzen liegt, sende heute einen warmen Gruß. Der Schicksalsfaden der Karte '{card_name}' ist heute besonders stark gespannt!",
         "Denke daran: Wenn du zu einer duftenden Blume erblühst, kommen die Schmetterlinge von ganz allein. Schätze dich heute selbst am meisten!"
       ]
@@ -124,7 +124,7 @@
       "req_level": 1,
       "steps": [
         "Es ist ein 1-minütiges tägliches Achtsamkeitsritual, um Weisheit aufzunehmen und tief durchzuatmen! Sobald dein Geist zur Ruhe kommt, fließt das Glück von selbst!",
-        "Jedes Mal belohne ich dich mit +50 Kkaebi-Gold (Münzen) und +15 Vertrautheits-EP! PRO-Pass-Mitglieder erhalten bis zu +50% Extra-Münzbonus!",
+        "Jedes Mal belohne ich dich mit +50 Kkaebi-Gold (Münzen) und +15 Zuneigungs-EP! PRO-Pass-Mitglieder erhalten bis zu +50% Extra-Münzbonus!",
         "Eine tägliche Serie entzündet deine Serienflamme und schaltet besondere Kobold-Segnungen sowie Anwesenheits-Belohnungen frei!",
         "Verwende deine Münzen in der Kkaebi-Spielhalle (Arcade Hub), um Versuche für 9 spannende Minispiele aufzuladen!",
         "Fazit: Eine 1-minütige Gewohnheit, die deinen Geist stärkt! Vergiss nicht, deine Lektion abzuschließen und deinen Stempel zu holen!"
@@ -139,7 +139,7 @@
         "Diese goldenen Münzen sind magische Spielmarken für die aufregende Kkaebi-Spielhalle!",
         "Wenn deine kostenlosen täglichen Spielversuche aufgebraucht sind, investiere 100 Münzen für +1 Sofort-Aufladung!",
         "PRO-Mitglieder sammeln Münzen 1,5-mal schneller und genießen unbegrenzten Freipass-Zugang—doppelte Freude!",
-        "Je mehr Münzen du sammelst, desto tiefer wird unsere Vertrautheit, was seltene Geheimnisse und Kobold-Geschichten freischaltet!",
+        "Je mehr Münzen du sammelst, desto tiefer wird unsere Zuneigung, was seltene Geheimnisse und Kobold-Geschichten freischaltet!",
         "Fazit: Nutze Münzen, um dich zu entspannen und Stress abzubauen! Je freudvoller du dein Kkaebi-Gold einsetzt, desto größer ist das Glück, das zu dir zurückkehrt!"
       ]
     },
@@ -149,7 +149,7 @@
       "user_question": "Kkaebi, erzähle mir die tausendjährige Geschichte des Kobolddorfes und deinen Ursprung!",
       "req_level": 5,
       "steps": [
-        "Aha! Ein geschätzter Seelenverwandter, der die Spitze von Vertrautheit Lv.5 erreicht hat! Ich enthülle dir das tausendjährige Geheimnis des Kobolddorfes und des Goldenen Schlüssels.",
+        "Aha! Ein geschätzter Seelenverwandter, der die Spitze von Zuneigung Lv.5 erreicht hat! Ich enthülle dir das tausendjährige Geheimnis des Kobolddorfes und des Goldenen Schlüssels.",
         "Vor langer Zeit im Koboldtal schnitzten Kobold-Meister einzigartige 'Schutzschlösser', geschmiedet aus menschlichen Wünschen, Tränen und Hoffnungen.",
         "Der goldene Schlüssel, den ich an meiner Brust trage, ist in Wahrheit ein Seelenschlüssel, geschmiedet aus all deinen täglichen mutigen Anstrengungen.",
         "Wann immer du lächelst, lodert warmes Koboldfeuer aus meinen Hörnern; wann immer du Schicksalsschläge überwindest, erwachen neue Kräfte im 66-Karten-Kodex!",
@@ -208,6 +208,7 @@
         "Tippe oben auf Home auf 🧰, um den Werkzeugkasten zu öffnen!",
         "📝 Quick-Memo ist eine Vollbild-Notiz zum Sofort-Schreiben. Die erste Zeile wird der Titel!",
         "🎨 Doodle ist eine 100%-Vollbild-Leinwand! Mit 5 Pinseln & 8 Farben malen, dann speichern/teilen.",
+        "🪞 Smart-Spiegel und 🔍 Präzisionslupe gibt es auch! Der Spiegel bietet Spiegel/Echt-Modus mit Ringlicht, die Lupe bis zu 10× mit Lampe und Kontrastfilter.",
         "🔢 Zähler, ⏱️ Stoppuhr, ⏳ 3-Stufen-Timer und 🗝️ Glückszahl-Generator an einem Ort.",
         "Öffne jetzt [🧰 Werkzeugkasten] und starte Memo & Doodle!"
       ]
@@ -320,7 +321,7 @@
     ],
     "secret_kkaebi_origin": [
       "Ein tausend Jahre gehütetes Geheimnis,",
-      "Ein Seelenverwandter auf Vertrautheit Lv.5,",
+      "Ein Seelenverwandter auf Zuneigung Lv.5,",
       "Das Rätsel des Kobolddorfes enthüllen,",
       "Lausche der alten Legende,",
       "Der wahre Ursprung des Goldenen Schlüssels,"

@@ -405,9 +405,9 @@
       },
       {
         "id": "horror_tmpl_006",
-        "headline": "守护神小妖正手持金棒在{card_name}身后铜墙铁壁般护航",
+        "headline": "守护神吉鬼正手持金棒在{card_name}身后铜墙铁壁般护航",
         "body": "哪怕在{timeslot_name}感到丝丝凉意也无所畏惧。数字{number}召唤的随身守护灵是你最牢固的避风港与金刚盾牌。",
-        "tip": "你从来不是孤身一人，在心中默念‘小妖护佑’重获无限勇气。",
+        "tip": "你从来不是孤身一人，在心中默念‘吉鬼护佑’重获无限勇气。",
         "share_caption": "在{timeslot_name}得{card_name}{number}号金刚护体 🛡️ #DOK_KEY"
       },
       {
