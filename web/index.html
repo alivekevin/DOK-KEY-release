@@ -368,12 +368,12 @@
         <span class="dokkey-web-pulse"></span> 테스터 모집
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.2.22)</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.7.8)</div>
         <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.2.22)">
+      <a href="./app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.7.8)">
         <span>📱 APK 다운로드</span>
       </a>
       <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
@@ -453,6 +453,25 @@
 
     // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
     setTimeout(hideLoader, 3500);
+  </script>
+
+  <script>
+    (function() {
+      var titleEl = document.querySelector('.dokkey-web-title');
+      if (!titleEl) return;
+      fetch('version.json', { cache: 'no-store' })
+        .then(function(res) { return res.ok ? res.json() : null; })
+        .then(function(data) {
+          if (!data || !data.version) return;
+          var tag = '(v' + data.version + ')';
+          titleEl.textContent = titleEl.textContent.replace(/\(v[\d.]+\)/, tag);
+          var apkEl = document.querySelector('.dokkey-web-btn-apk');
+          if (apkEl && apkEl.title) {
+            apkEl.title = apkEl.title.replace(/\(v[\d.]+\)/, tag);
+          }
+        })
+        .catch(function() {});
+    })();
   </script>
 
   <script>
