@@ -1,0 +1,6 @@
+{
+  "morning": {"name": "아침", "emoji": "🌅", "meaning_axis": "새로운 시작과 도약", "description": "해가 떠오르는 시간, 멈춰 있던 일에 시동을 걸 때"},
+  "noon": {"name": "점심", "emoji": "☀️", "meaning_axis": "관계 확장과 귀인의 등장", "description": "볕이 가장 따뜻한 시간, 사람과 교류하고 마음을 열 때"},
+  "evening": {"name": "저녁", "emoji": "🌇", "meaning_axis": "마무리와 차분한 점검", "description": "노을이 물드는 시간, 결실을 거두고 결함을 매만질 때"},
+  "night": {"name": "심야", "emoji": "🌙", "meaning_axis": "내면 성찰과 조용한 축적", "description": "고요함이 머무는 시간, 외부 자극을 줄이고 내실을 다질 때"}
+}

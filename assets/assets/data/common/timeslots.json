@@ -1,0 +1,6 @@
+[
+  {"id": "morning", "code": "M", "start": 5, "end": 11},
+  {"id": "noon", "code": "D", "start": 11, "end": 17},
+  {"id": "evening", "code": "E", "start": 17, "end": 21},
+  {"id": "night", "code": "N", "start": 21, "end": 29}
+]

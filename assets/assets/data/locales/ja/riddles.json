@@ -1,0 +1,4592 @@
+[
+  {
+    "question": "水に浮かんで沈まず、人を乗せて海を渡るものは？",
+    "options": [
+      "網",
+      "風船",
+      "舟",
+      "石"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！舟を操る者こそ海の主だ！",
+      "wrong": "ぶっぶー！舟は水面にこそ映えるのさ！"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "自らを燃やして、一番暗い場所を明るく照らすものは？",
+    "options": [
+      "鏡",
+      "壺",
+      "蝋燭",
+      "ガラス"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蝋燭は自らを燃やして人を照らす。尊い犠牲さ！",
+      "wrong": "惜しい！自分で燃えて光をくれるものは？"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "日のある時だけ付きまとって、決して掴めないものは？",
+    "options": [
+      "影",
+      "夕焼け",
+      "風",
+      "煙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！光を背中にしていれば、影はいつもそばにいるさ！",
+      "wrong": "ぶっぶー！光の下で足元にへばりつくものさ！"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "傘が守れない足元を代わりに守る、雨の日の友は？",
+    "options": [
+      "日除け",
+      "長靴",
+      "レインコート",
+      "ビニール"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！長靴は雨の日も足元を守ってくれるよ！",
+      "wrong": "ぶっぶー！雨の日に足にはく友さ！"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "昨夜は丸く、今夜は欠ける、夜空の銀の皿は？",
+    "options": [
+      "星",
+      "太陽",
+      "彗星",
+      "月"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！月は毎晩違う顔で夜を見守るんだ！",
+      "wrong": "ぶっぶー！毎晩形が変わる銀の皿さ！"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "風に乗って空へ昇るのに、糸を決して離さないものは？",
+    "options": [
+      "飛行機",
+      "鳥",
+      "凧",
+      "風船"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！凧は糸があるから高く昇れる。縁も同じさ！",
+      "wrong": "ぶっぶー！糸に繋がれて空を行くものさ！"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "音もなく押されるのに、その跡に名が残るものは？",
+    "options": [
+      "拳",
+      "印鑑",
+      "切手",
+      "手のひら"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！判一つで名前は百字の約束になるんだ！",
+      "wrong": "ぶっぶー！押した瞬間、名前になるものさ！"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "風が吹くと鳴って、門の上から家を守る飾りは？",
+    "options": [
+      "旗",
+      "風鈴",
+      "鐘",
+      "朝顔"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！風鈴の音は、風が門を通った証拠さ！",
+      "wrong": "ぶっぶー！風と一緒にちりんと鳴る飾りさ！"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "米で作られ、お正月の供え物の一番に置かれる白い食べ物は？",
+    "options": [
+      "果物",
+      "ご飯",
+      "麺",
+      "餅"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！餅はご先祖と私たちを繋ぐ白い橋だ！",
+      "wrong": "ぶっぶー！お正月の膳に昇る白いものさ！"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "人の跡を消すほどに、自分は小さくなっていくものは？",
+    "options": [
+      "箒",
+      "消しゴム",
+      "雨",
+      "扇子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！消しゴムは自分を削って人の過ちを消す。ありがたい存在さ！",
+      "wrong": "ぶっぶー！消すたびに小さくなる優れものさ！"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "どんなに速く走っても決して掴めないものは？",
+    "options": [
+      "光",
+      "時間",
+      "煙",
+      "風"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！時間は世界一速い泥棒さ！",
+      "wrong": "ぶっぶー！瞬きの間に盗んでいくものさ！"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "見たい顔は映すのに、自分自身は見えないものは？",
+    "options": [
+      "鏡",
+      "眼鏡",
+      "写真",
+      "窓"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鏡は人を映すが自分は見えないんだ！",
+      "wrong": "ぶっぶー！人の顔は知ってても自分は知らないさ！"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "削られるほど短くなるのに、残す言葉は増えていくものは？",
+    "options": [
+      "箸",
+      "矢",
+      "鉛筆",
+      "旗竿"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鉛筆は体を削って知恵を残すんだ！",
+      "wrong": "ぶっぶー！削られて文字を残すものさ！"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "昼は眠り、夜に目がパッ！森の守り神は？",
+    "options": [
+      "梟",
+      "兎",
+      "リス",
+      "鹿"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！梟は森の夜を見守る賢者さ！",
+      "wrong": "ぶっぶー！真夜中に目が光る森の賢者さ！"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "墨を擦って文字を作る、先生の机の上の器は？",
+    "options": [
+      "硯",
+      "茶碗",
+      "壺",
+      "薬罐"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！硯は墨と筆の間の静かな橋だ！",
+      "wrong": "ぶっぶー！墨を擦って文字にする器さ！"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "海の真ん中で光によって船の道を示すものは？",
+    "options": [
+      "雷",
+      "灯台",
+      "星",
+      "月"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！灯台があれば霧の中でも道に迷わない！",
+      "wrong": "ぶっぶー！夜の海で一人光る道しるべさ！"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "振ると願いが叶うという、トッケビの必殺武器は？",
+    "options": [
+      "弓",
+      "盾",
+      "槍",
+      "棍棒"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！棍棒を一振りすれば金がドッと出るさ！",
+      "wrong": "ぶっぶー！トッケビの象徴は何だろうな！"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "体は小さいのに扉を開ける力を持つ、ポケットの中の英雄は？",
+    "options": [
+      "ボタン",
+      "硬貨",
+      "指輪",
+      "鍵"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鍵こそ小さくて最強の魔法さ！",
+      "wrong": "ぶっぶー！小さいけど扉を開ける魔法使いさ！"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "足が無いのに長く這い、脱いだ皮は薬になるものは？",
+    "options": [
+      "蛇",
+      "ミミズ",
+      "長靴",
+      "トカゲ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蛇は脱皮するたびに生まれ変わるんだ！",
+      "wrong": "ぶっぶー！足無しで世界を渡る者さ！"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "朝から夕方まで太陽を追いて首を回す花は？",
+    "options": [
+      "ひまわり",
+      "木蓮",
+      "コスモス",
+      "槿の花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ひまわりは一日中太陽を仰ぎ見るんだ！",
+      "wrong": "ぶっぶー！太陽だけ見つめる頑固な花さ！"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "夏に扉を開ければ冷たい気が溢れる、台所の宝箱は？",
+    "options": [
+      "壺",
+      "冷蔵庫",
+      "温突",
+      "火鉢"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！冷蔵庫は夏の台所の氷の洞窟さ！",
+      "wrong": "ぶっぶー！開ければ冷気が飛び出す箱さ！"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "浮かばないで背中を貸して川を渡らせる、石と土の道は？",
+    "options": [
+      "井戸",
+      "橋",
+      "堤防",
+      "舟"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！橋は揺るがない信頼で人を渡すんだ！",
+      "wrong": "ぶっぶー！水の上にどっしり立つ土石の道さ！"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "首に巻けば本領を発揮する、冬の柔らかい友は？",
+    "options": [
+      "マフラー",
+      "帽子",
+      "靴下",
+      "手袋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！マフラーは冬の風と首の間の城壁さ！",
+      "wrong": "ぶっぶー！首に巻いてこそ映える冬の友さ！"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "目を閉じて聞けば眠くなる、母の声で歌う歌は？",
+    "options": [
+      "童謡",
+      "民謡",
+      "子守唄",
+      "バラード"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！子守唄は世界で一番柔らかい魔法さ！",
+      "wrong": "ぶっぶー！聞いていると目が閉じる歌さ！"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "山の中で一人点滅する青い火、人を驚かすのも好きなものは？",
+    "options": [
+      "蛍",
+      "炎",
+      "流れ星",
+      "鬼火"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！鬼火はうちの親類が夜に遊んでるのさ！",
+      "wrong": "ぶっぶー！山で一人瞬く青い火さ！"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "立冬になると門に撒いて厄を払う丸い穀物は？",
+    "options": [
+      "胡麻",
+      "豆",
+      "米",
+      "小豆"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！豆は『鬼は外！』と叫びながら悪霊を追うんだ！",
+      "wrong": "ぶっぶー！パラパラ撒いて厄を防ぐ穀物さ！"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "逆さに歩いても門に掛かれば福が来る、藁で作った長いものは？",
+    "options": [
+      "注連縄",
+      "筵",
+      "縄",
+      "草鞋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！注連縄は福を迎えるために門に掛けるものさ！",
+      "wrong": "ぶっぶー！福が入りますようにと掛けるものさ！"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "根が深くて台風にも動じない、森の将軍は？",
+    "options": [
+      "草",
+      "木",
+      "蔓",
+      "岩"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！根が深ければ嵐にも揺れないさ！",
+      "wrong": "ぶっぶー！根深ければ嵐も恐れないさ！"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "味は苦くも甘くもないのに、料理に欠かせない白い粒は？",
+    "options": [
+      "砂糖",
+      "酢",
+      "塩",
+      "胡椒"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！塩がなければ全ての味が淋しくなる！",
+      "wrong": "ぶっぶー！少しで味を生かす白い粒さ！"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "日の出の直前にほんの一瞬だけ現れる最も早い星は？",
+    "options": [
+      "北斗七星",
+      "明けの明星",
+      "北極星",
+      "流星"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！明けの明星は一番勤勉な星さ！",
+      "wrong": "ぶっぶー！日の出前にだけ挨拶する星さ！"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "どんなに歩いても届かない、空と地が交わるその線は？",
+    "options": [
+      "水平線",
+      "綱",
+      "地下鉄",
+      "境界線"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！水平線は近づくと引いていく謎の線さ！",
+      "wrong": "ぶっぶー！近づくほど遠のく空と地の出会いさ！"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "百年生れても春には新芽を出す、山の智恵ある老人は？",
+    "options": [
+      "草",
+      "池",
+      "岩",
+      "古木"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！古木は年を取っても新しい命を宿すんだ！",
+      "wrong": "ぶっぶー！年寄りでも春には若芽を出すさ！"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "冬の間、家の中で太陽代わりをする暖かい友は？",
+    "options": [
+      "团扇",
+      "扇風機",
+      "ストーブ",
+      "窓"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ストーブがあれば雪の夜も平気さ！",
+      "wrong": "ぶっぶー！雪の夜のそばにいる小さな太陽さ！"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "足を越えねば家に入れない、扉の下の低い城壁は？",
+    "options": [
+      "塀",
+      "取っ手",
+      "敷居",
+      "階段"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！敷居を跨いだ瞬間、客になるんだ！",
+      "wrong": "ぶっぶー！越えれば客になる低い壁さ！"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "墨を腹いっぱい溜めて、一度引けば長い一画になるものは？",
+    "options": [
+      "定規",
+      "鋏",
+      "筆",
+      "棒"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！筆は墨を飲んで百字の文章を作るんだ！",
+      "wrong": "ぶっぶー！墨ひと口で文章になるものさ！"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "川の上に一つずつ置かれ、踏んで渡らせる石の階段は？",
+    "options": [
+      "橋",
+      "飛石",
+      "階段",
+      "舟"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！飛石は石たちが手を繋いで作った道さ！",
+      "wrong": "ぶっぶー！石が手を取り合って作る階段さ！"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "水の中で長く生きて滑らかになった、川辺の静かな哲学者は？",
+    "options": [
+      "小石",
+      "小枝",
+      "蔦",
+      "ガラス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！川に洗われた小石は歳月を湛えた滑らかさがある！",
+      "wrong": "ぶっぶー！千年水に洗われて滑らかになったさ！"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "ちょろちょろ流れて大きな川になる、山の最も小さな川は？",
+    "options": [
+      "海",
+      "小川",
+      "井戸",
+      "池"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！小川も小さいけど最後は海に届くさ！",
+      "wrong": "ぶっぶー！ちょろちょろ流れて海になる山の水さ！"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "煙で家に命があることを知らせる、屋根の上の友は？",
+    "options": [
+      "桜",
+      "煙突",
+      "旗竿",
+      "風鈴"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！煙突から煙が出れば、その家は生きているさ！",
+      "wrong": "ぶっぶー！煙が昇ればその家は生きてるさ！"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "秋に木から落ちて、春には土の養分になるものは？",
+    "options": [
+      "実",
+      "枝",
+      "花粉",
+      "落葉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！落葉は落ちても木を生かす偉大な犠牲さ！",
+      "wrong": "ぶっぶー！落ちても春の準備をするものさ！"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "世界を明るくしながらも、自分の足元だけは暗いものは？",
+    "options": [
+      "月",
+      "灯",
+      "星",
+      "松明"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！『灯台の下は暗い』という諺のことさ！",
+      "wrong": "ぶっぶー！人を照らして足元は暗いさ！"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "風を食べてぐるぐる回る、子供の空を走る友は？",
+    "options": [
+      "凧",
+      "紙飛行機",
+      "風車",
+      "風船"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！風車は風が生きてる証拠さ！",
+      "wrong": "ぶっぶー！風を食べてくるくる回るさ！"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "想像の中にだけ住んで、悪霊を食べて守ってくれる門の神獣は？",
+    "options": [
+      "兎",
+      "鹿",
+      "虎",
+      "獬豸"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！獬豸は不正を見れば食いちぎる正義の神獣さ！",
+      "wrong": "ぶっぶー！悪霊を食べる門番の神獣さ！"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "青と赤が交互に回って調和を作る、旗や服の文様は？",
+    "options": [
+      "虹",
+      "五彩",
+      "花模様",
+      "太極"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！太極文様は陰と陽が巡る宇宙の法則さ！",
+      "wrong": "ぶっぶー！青と赤が調和する文様さ！"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "服の襟から長く垂れて品格を添える韓服のリボンは？",
+    "options": [
+      "ファスナー",
+      "紐",
+      "衣帯",
+      "ボタン"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！衣帯は韓服の品格を語る長い囁きさ！",
+      "wrong": "ぶっぶー！襟から長く垂れるリボンさ！"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "息を吹けば哀切な音が出る、竹で作った楽器は？",
+    "options": [
+      "太鼓",
+      "大笒",
+      "杖鼓",
+      "鉦"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！大笒は竹が悲しみを歌えるようにしたものさ！",
+      "wrong": "ぶっぶー！息ひとつで哀調を奏でる楽器さ！"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "叩くほど音が大きくなる、音楽の広い心臓は？",
+    "options": [
+      "鐘",
+      "太鼓",
+      "笛",
+      "喇叭"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！太鼓の響きは人の心臓の音さ！",
+      "wrong": "ぶっぶー！叩くほど大きくなる音の心臓さ！"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "打つたびに鳴り、打ち終われば沈黙するお寺の巨大な声は？",
+    "options": [
+      "鉦",
+      "太鼓",
+      "喇叭",
+      "鐘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鐘の音は世界を覚ます仏の声さ！",
+      "wrong": "ぶっぶー！一度鳴らせば長く響く声さ！"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "春も夏も秋も冬も顔が違う山は？",
+    "options": [
+      "雪嶽山",
+      "漢拏山",
+      "金剛山",
+      "智異山"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！金剛山も食後！季節ごとに違う顔を持つ山さ！",
+      "wrong": "ぶっぶー！四季ごとに顔が変わる山はどこだ！"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "99個の黄金の鍵を集めた勇者にトッケビが与える最高の称号は？",
+    "options": [
+      "ゴールドキャプテン",
+      "宝探し屋",
+      "トッケビマスター",
+      "鍵職人"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "かっかっか！お前だ、トッケビマスター！今日から友だ！",
+      "wrong": "ぶっぶー！鍵99個で得る最高の称号さ！"
+    },
+    "id": "rid_050"
+  },
+  {
+    "question": "足はないのに世界中を駆け巡り、手はないのに扉を揺らすものは？",
+    "options": [
+      "風",
+      "雲",
+      "影",
+      "うわさ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "くかか！見えなくても天下を揺るがす風の気配だ！",
+      "wrong": "ぶっぶー！手足なしでどこへでも通り過ぎるものは何だ？"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "昼は隠れていて、夜になると黒い空に宝石のように嵌り込むものは？",
+    "options": [
+      "星",
+      "灯台",
+      "ホタル",
+      "月の暈"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！暗い夜空を彩る星の光は知恵の道しるべだ！",
+      "wrong": "ぶっぶー！夜空に瞬く何千もの宝石を思い浮かべてみよ！"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "頭に赤い帽子をかぶり、全身を燃やして闇を追い払うものは？",
+    "options": [
+      "マッチ",
+      "紅葉",
+      "唐辛子",
+      "鳳仙花"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正解！一瞬の摩擦で火花を散らす小さな巨人、マッチだ！",
+      "wrong": "ぶっぶー！赤い頭を擦って火をつけるものだぞ！"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "雨が降ると大きく開いて守ってくれる、小さな屋根は？",
+    "options": [
+      "傘",
+      "長靴",
+      "レインコート",
+      "帽子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！傘は雨の日の小さな屋根だよ！",
+      "wrong": "ぶっぶー！雨のときに開いて使うものだよ！"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "音はないのに心を揺さぶり、字はないのに気持ちを伝えるものは？",
+    "options": [
+      "笑顔",
+      "落ち葉",
+      "涙",
+      "沈黙"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "実に見事だ！温かな笑顔こそ、トッケビの棍棒よりも強い力だ！",
+      "wrong": "ぶっぶー！顔いっぱいに咲くいちばん温かな表情を思い出してみよ！"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "持つ者は隠したがり、失くした者は惜しみ、人に話すと消えてしまうものは？",
+    "options": [
+      "秘密",
+      "宝石",
+      "お金",
+      "鍵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "くかか！口にした瞬間、もう秘密ではなくなるからな！",
+      "wrong": "ぶっぶー！君と俺だけが知っていてこそ守られるものだ！"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "行くときは軽々と飛んでいき、戻るときは重く降りて世界を真っ白に覆うものは？",
+    "options": [
+      "雪",
+      "小麦粉",
+      "霧",
+      "塩"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！世界を純白に包む冬の贈り物、雪の花だ！",
+      "wrong": "ぶっぶー！空からひらひらと降りて世界を覆う白い粉だぞ！"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "根は空に置き、茎と葉は地面へ伸ばすという、冬のつららの別名は？",
+    "options": [
+      "軒の氷鳥",
+      "軒のつらら",
+      "空の木",
+      "冬の芽"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解だ！軒先に逆さに伸びる澄んだガラスの格子だ！",
+      "wrong": "ぶっぶー！冬の軒下に長く垂れ下がる氷の柱を見てみよ！"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "生まれたときは四本足、育てば二本足、老いては三本足で歩くものは？",
+    "options": [
+      "人間",
+      "トラ",
+      "トッケビ",
+      "ヒキガエル"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "スフィンクスも感嘆する知恵だ！赤ちゃん、若者、杖をつく老人の人生の道だ！",
+      "wrong": "ぶっぶー！人生の四季を歩む人の姿だぞ！"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "いつも同じ場所に立って、通り過ぎる旅人に道を指し示す石の柱は？",
+    "options": [
+      "長承（キロ標）",
+      "ソッテ",
+      "石塔",
+      "石碑"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "天下大将軍・地下女将軍！村の入口を守る我らの守護神、長承だ！",
+      "wrong": "ぶっぶー！こっけいな顔で道を案内してくれる村の友だぞ！"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "投げると空高く舞い上がり、転がった木の片の向きで勝負を決める伝統遊びは？",
+    "options": [
+      "ユンノリ（四大ゲーム）",
+      "石投げ",
+      "チャギ",
+      "トホ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "ド・ゲ・ゴル・ユ・モ！家族みんなが庭を楽しく走るユンノリだ！",
+      "wrong": "ぶっぶー！樺の木の切れ端を空中に投げて駒を走らせる遊びだぞ！"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "蹴ると空中で羽を広げ、ふわりと舞う伝統的な遊び道具は？",
+    "options": [
+      "チェギ",
+      "コマ",
+      "凧",
+      "フープ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正解！銅貨に韓紙を巻いて足で蹴り上げるチェギだ！",
+      "wrong": "ぶっぶー！足先で落とさず跳ね上げるものだぞ！"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "風に乗って空高く舞い上がるのに、細い糸ひとつに繋がれているものは？",
+    "options": [
+      "盾凧（ヨン）",
+      "風船",
+      "鳥かご",
+      "ブランコ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "のびのびと飛べ！リールを繰り出しながら空を駆ける盾凧だ！",
+      "wrong": "ぶっぶー！正月の満月の日に厄を空へ飛ばしたものだぞ！"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "鞭で打つほど楽しくぐるぐる回る、氷の上の小さなコマは？",
+    "options": [
+      "木のコマ",
+      "車輪",
+      "ビー玉",
+      "臼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "くるくるよく回るな！鞭で打つほどまっすぐ立つコマだ！",
+      "wrong": "ぶっぶー！鞭の紐を巻きつけて氷の上で回していたものだぞ！"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "二つの丸い石を重ね、取っ手を回して豆や穀物を細かく挽く道具は？",
+    "options": [
+      "石臼",
+      "臼",
+      "キネ",
+      "釜"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "軸がなければ回せない！香ばしい豆腐をつくる石臼だ！",
+      "wrong": "ぶっぶー！軸の取っ手を掴んでぐるぐる回して挽く道具だぞ！"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "休まず打ち続けるけれど、自分は休めない胸の中の時計は？",
+    "options": [
+      "心臓",
+      "肺",
+      "脳",
+      "目"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！心臓は一生止まらない体の中の時計だよ！",
+      "wrong": "ぶっぶー！胸の中で休まず打っているよ！"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "数字が丸く並び、音もなく世界を急かすものは？",
+    "options": [
+      "時計",
+      "カレンダー",
+      "羅針盤",
+      "温度計"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！時計は音もなく時を知らせる道具だよ！",
+      "wrong": "ぶっぶー！丸い文字盤で時を読むものだよ！"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "分けるほど大きくなり、分かち合うほど深まる心は？",
+    "options": [
+      "愛",
+      "憎しみ",
+      "欲",
+      "悲しみ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正解！愛は分かち合うほど大きくなる心だよ！",
+      "wrong": "ぶっぶー！分けると大きくなる温かい心だよ！"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "つらいときそばにいて、悲しいとき背中をさすってくれる人は？",
+    "options": [
+      "友達",
+      "先生",
+      "隣人",
+      "見知らぬ人"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正解！友達はそばにいてくれる大切な人だよ！",
+      "wrong": "ぶっぶー！そばで力をくれる人だよ！"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "雨上がりの空にかかる、七色の橋は？",
+    "options": [
+      "虹",
+      "夕焼け",
+      "雲",
+      "星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！虹は雨と光がつくる空の橋だよ！",
+      "wrong": "ぶっぶー！雨が上がったあとに現れるよ！"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "泥の中で育つのに汚れに染まらず、清らかな花を咲かせる知恵の花は？",
+    "options": [
+      "蓮の花",
+      "菊",
+      "梅の花",
+      "スイセン"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "処染常浄！世の誘惑の中でも清らかな本心を守る蓮の花だ！",
+      "wrong": "ぶっぶー！泥水の中でも高潔な姿を失わない花を思い出してみよ！"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "寒い冬の吹雪の中でも青い葉を失わない、節義と気概の木は？",
+    "options": [
+      "松",
+      "柳",
+      "紅葉（カエデ）",
+      "イチョウ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "松竹の気概！千年の風雪にも固く立つ青い松だ！",
+      "wrong": "ぶっぶー！四季を通じて変わらず青さを保つ木だぞ！"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "いちばん早く春の便りを届け、冷たい雪の中でも赤い蕾を咲かせる花は？",
+    "options": [
+      "雪中梅（梅の花）",
+      "バラ",
+      "アサガオ",
+      "コスモス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "厳しい寒さに打ち勝ち、ほのかな香りを放つ士の花、梅だ！",
+      "wrong": "ぶっぶー！雪の中に咲く春の使者を探してみよ！"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "中は空っぽでもまっすぐ伸び、節ごとにしっかり満たす節義の象徴は？",
+    "options": [
+      "竹",
+      "アシ",
+      "モロコシ",
+      "ススキ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "空っぽだからこそまっすぐ伸びる知恵！四君子の竹だ、ケビ！",
+      "wrong": "ぶっぶー！中を空にして風に折れずしなやかな緑の木だぞ！"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "トッケビの宝物庫を開き、人生の真の知恵を授ける神秘の鍵は？",
+    "options": [
+      "トッケビの黄金の鍵（DOK-KEY）",
+      "鉄の鍵",
+      "石斧",
+      "宝の地図"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "わはは！君が毎日集めている知恵の鍵、まさにDOK-KEYだ！",
+      "wrong": "ぶっぶー！我らアプリの名前でもある知恵を開く黄金の鍵を忘れたのか！"
+    },
+    "id": "rid_075"
+  },
+  {
+    "question": "八本足の友が一晩で編んだ、露に光る網は？",
+    "options": [
+      "糸玉",
+      "釣り糸",
+      "クモの巣",
+      "網"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！クモの巣は八本足の友の精巧な作品だよ！",
+      "wrong": "ぶっぶー！夜に編んで虫を捕るものだよ！"
+    },
+    "id": "rid_076"
+  },
+  {
+    "question": "どこへ行ってもいつも同じ方角を指す、道に迷った旅人の友は？",
+    "options": [
+      "地図",
+      "羅針盤",
+      "時計",
+      "望遠鏡"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！羅針盤はいつも北を指す頼もしい友だよ！",
+      "wrong": "ぶっぶー！方角を教える道具だよ！"
+    },
+    "id": "rid_077"
+  },
+  {
+    "question": "鼻の上に乗って、ぼやけた世界をはっきりさせるものは？",
+    "options": [
+      "帽子",
+      "眼鏡",
+      "マスク",
+      "ネックレス"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！眼鏡はぼやけた目を助けてくれるありがたい友だよ！",
+      "wrong": "ぶっぶー！目にかけるものだよ！"
+    },
+    "id": "rid_078"
+  },
+  {
+    "question": "汁は飲み、ご飯はすくう、食卓の小さなシャベルは？",
+    "options": [
+      "スプーン",
+      "箸",
+      "フォーク",
+      "お玉"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！スプーンは食卓の小さなシャベルだよ！",
+      "wrong": "ぶっぶー！汁もご飯もこれで食べるよ！"
+    },
+    "id": "rid_079"
+  },
+  {
+    "question": "小さな穴ひとつで糸を連れて歩く、とがった友は？",
+    "options": [
+      "釘",
+      "針",
+      "はさみ",
+      "定規"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！針は糸を連れて服を縫う友だよ！",
+      "wrong": "ぶっぶー！糸を通すとがった道具だよ！"
+    },
+    "id": "rid_080"
+  },
+  {
+    "question": "魔法使いが乗るという、ほこりを掃き集めるものは？",
+    "options": [
+      "雑巾",
+      "ほうき",
+      "掃除機",
+      "モップ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ほうきは魔女の乗り物であり掃除道具だよ！",
+      "wrong": "ぶっぶー！掃いてほこりを集める道具だよ！"
+    },
+    "id": "rid_081"
+  },
+  {
+    "question": "一日二回、口の中をきれいにする小さな泡の妖精の道具は？",
+    "options": [
+      "歯ブラシ",
+      "石鹸",
+      "タオル",
+      "コップ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！歯ブラシは泡立てて歯を磨く道具だよ！",
+      "wrong": "ぶっぶー！歯磨きのときに使う道具だよ！"
+    },
+    "id": "rid_082"
+  },
+  {
+    "question": "使うほど小さくなり、泡で汚れを落とすものは？",
+    "options": [
+      "タオル",
+      "石鹸",
+      "シャンプー",
+      "スポンジ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！石鹸は使うほど小さくなって汚れを落とすよ！",
+      "wrong": "ぶっぶー！泡で洗うものだよ！"
+    },
+    "id": "rid_083"
+  },
+  {
+    "question": "両足に一つずつ、必ず揃っていなければならないものは？",
+    "options": [
+      "手袋",
+      "靴下",
+      "靴",
+      "マフラー"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！靴下は両足に揃えてはくものだよ！",
+      "wrong": "ぶっぶー！足にはく揃いのものだよ！"
+    },
+    "id": "rid_084"
+  },
+  {
+    "question": "冬に五本の指をあたたかく包んでくれるものは？",
+    "options": [
+      "手袋",
+      "靴下",
+      "マフラー",
+      "帽子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！手袋は指をあたたかく守る友だよ！",
+      "wrong": "ぶっぶー！手にはめるものだよ！"
+    },
+    "id": "rid_085"
+  },
+  {
+    "question": "頭にのせて日差しを遮るものは？",
+    "options": [
+      "眼鏡",
+      "傘",
+      "帽子",
+      "靴"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！帽子は頭を守る日よけだよ！",
+      "wrong": "ぶっぶー！頭にかぶるものだよ！"
+    },
+    "id": "rid_086"
+  },
+  {
+    "question": "海が息をするたびに寄せては消えるものは？",
+    "options": [
+      "波",
+      "潮",
+      "泡",
+      "砂"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！波は海の息吹だよ！",
+      "wrong": "ぶっぶー！浜に打ち寄せる水の動きだよ！"
+    },
+    "id": "rid_087"
+  },
+  {
+    "question": "夜明けの草の葉に結ぶ、夜が残した水滴は？",
+    "options": [
+      "雪",
+      "雨",
+      "露",
+      "霜"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！露は夜が残した澄んだ水滴だよ！",
+      "wrong": "ぶっぶー！夜明けに草の葉に結ぶ水滴だよ！"
+    },
+    "id": "rid_088"
+  },
+  {
+    "question": "ニャーと鳴いてネズミを追う、ひげの友は？",
+    "options": [
+      "猫",
+      "犬",
+      "うさぎ",
+      "きつね"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！猫はネズミを追うひげのハンターだよ！",
+      "wrong": "ぶっぶー！ニャーと鳴く動物だよ！"
+    },
+    "id": "rid_089"
+  },
+  {
+    "question": "列になって歩き、夏中せっせと働く小さな働き者は？",
+    "options": [
+      "蜂",
+      "蟻",
+      "蝶",
+      "クモ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蟻は列になって働く勤勉な働き者だよ！",
+      "wrong": "ぶっぶー！地面を列になって歩く昆虫だよ！"
+    },
+    "id": "rid_090"
+  },
+  {
+    "question": "鼻が長く耳が大きく、うちわのように扇ぐ大きな動物は？",
+    "options": [
+      "象",
+      "サイ",
+      "カバ",
+      "キリン"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！象は大きな耳で扇ぐ巨人の友だよ！",
+      "wrong": "ぶっぶー！鼻の長い大きな動物だよ！"
+    },
+    "id": "rid_091"
+  },
+  {
+    "question": "赤・黄・緑の三つの目で道を教えるものは？",
+    "options": [
+      "街灯",
+      "信号機",
+      "電柱",
+      "標識"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！信号機は三つの目で道を指揮する交通警察だよ！",
+      "wrong": "ぶっぶー！三色の光で合図するものだよ！"
+    },
+    "id": "rid_092"
+  },
+  {
+    "question": "二つの車輪とペダルで進む乗り物は？",
+    "options": [
+      "オートバイ",
+      "車",
+      "自転車",
+      "バス"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！自転車は二輪で走る足の友だよ！",
+      "wrong": "ぶっぶー！ペダルを漕ぐ二輪の乗り物だよ！"
+    },
+    "id": "rid_093"
+  },
+  {
+    "question": "手紙を入れると遠くまで届けてくれる、赤い四角い箱は？",
+    "options": [
+      "かばん",
+      "箱",
+      "郵便ポスト",
+      "金庫"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ポストは手紙を遠くへ運ぶ赤い使い走りだよ！",
+      "wrong": "ぶっぶー！手紙を入れる赤い箱だよ！"
+    },
+    "id": "rid_094"
+  },
+  {
+    "question": "ロープで吊られて前後にゆらゆら揺れる遊具は？",
+    "options": [
+      "シーソー",
+      "滑り台",
+      "ブランコ",
+      "ジャングルジム"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ブランコは空を飛ぶ気分にしてくれるよ！",
+      "wrong": "ぶっぶー！前後に揺れて乗るものだよ！"
+    },
+    "id": "rid_095"
+  },
+  {
+    "question": "片方が下がればもう片方が上がる、二人乗りの遊具は？",
+    "options": [
+      "ブランコ",
+      "シーソー",
+      "メリーゴーラウンド",
+      "滑り台"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！シーソーは二人で重さをやり取りして乗るものだよ！",
+      "wrong": "ぶっぶー！上下する二人の遊びだよ！"
+    },
+    "id": "rid_096"
+  },
+  {
+    "question": "鍵がなければ絶対に開かない、扉を守る鉄の拳は？",
+    "options": [
+      "錠前",
+      "ドアノブ",
+      "蝶番",
+      "かんぬき"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！錠前は鍵だけが開けられる門番だよ！",
+      "wrong": "ぶっぶー！鍵で開ける締まり金物だよ！"
+    },
+    "id": "rid_097"
+  },
+  {
+    "question": "崖から白く注ぐ、止まらない水のカーテンは？",
+    "options": [
+      "泉",
+      "滝",
+      "小川",
+      "湖"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！滝は崖を流れ落ちる水の大観だよ！",
+      "wrong": "ぶっぶー！高い所から落ちる水だよ！"
+    },
+    "id": "rid_098"
+  },
+  {
+    "question": "光ったあと、遅れてゴロゴロと鳴る音は？",
+    "options": [
+      "稲妻",
+      "雷",
+      "風",
+      "こだま"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！雷は稲妻のあとに続く空の太鼓だよ！",
+      "wrong": "ぶっぶー！光ったあとに聞こえる音だよ！"
+    },
+    "id": "rid_099"
+  },
+  {
+    "question": "景色が白く消える、地面に降りた雲は？",
+    "options": [
+      "煙",
+      "霧",
+      "湯気",
+      "雲"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！霧は地面に降りた低い雲だよ！",
+      "wrong": "ぶっぶー！前を遮るもやもやだよ！"
+    },
+    "id": "rid_100"
+  },
+  {
+    "question": "花畑をひらひら舞う、羽のついた花は？",
+    "options": [
+      "蜂",
+      "蝶",
+      "トンボ",
+      "鳥"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！蝶は花畑を飛ぶ羽のある花だよ！",
+      "wrong": "ぶっぶー！花畑をひらひら飛ぶ昆虫だよ！"
+    },
+    "id": "rid_101"
+  },
+  {
+    "question": "飛べないけれど南極で泳ぎが得意な、タキシード姿の鳥は？",
+    "options": [
+      "ダチョウ",
+      "カモメ",
+      "ペンギン",
+      "アヒル"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ペンギンは南極のタキシード水泳選手だよ！",
+      "wrong": "ぶっぶー！南極に住む泳ぎ上手な鳥だよ！"
+    },
+    "id": "rid_102"
+  },
+  {
+    "question": "静かにと言われるのに、本が何万冊もある静かな家は？",
+    "options": [
+      "書店",
+      "図書館",
+      "博物館",
+      "学校"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正解！図書館は本と静けさが住む家だよ！",
+      "wrong": "ぶっぶー！本を借りて静かに読む場所だよ！"
+    },
+    "id": "rid_103"
+  },
+  {
+    "question": "白菜を漬けて味付けし冬に食べる、辛いおかずは？",
+    "options": [
+      "漬物",
+      "キムチ",
+      "ピクルス",
+      "サラダ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正解！キムチは冬を越す韓国の辛い宝物だよ！",
+      "wrong": "ぶっぶー！白菜で漬ける辛いおかずだよ！"
+    },
+    "id": "rid_104"
+  },
+  {
+    "question": "世宗大王が作った、我が国の文字の名前は？",
+    "options": [
+      "ハングル",
+      "漢字",
+      "アルファベット",
+      "ひらがな"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "正解！ハングルは世宗大王が民のために作った文字だよ！",
+      "wrong": "ぶっぶー！世宗大王が作った我が文字だよ！"
+    },
+    "id": "rid_105"
+  },
+  {
+    "question": "守れば信頼になり、破れば失望になる言葉は？",
+    "options": [
+      "嘘",
+      "秘密",
+      "約束",
+      "あいさつ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "正解！約束は守るほど信頼を築く言葉だよ！",
+      "wrong": "ぶっぶー！守ってこそ信頼になる言葉だよ！"
+    },
+    "id": "rid_106"
+  },
+  {
+    "question": "十二支で最初に来る動物は？",
+    "options": [
+      "牛",
+      "虎",
+      "兎",
+      "ねずみ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！十二支の最初は賢いねずみだよ！",
+      "wrong": "ぶっぶー！十二支の先頭の動物だよ！"
+    },
+    "id": "rid_107"
+  },
+  {
+    "question": "東洋思想で四方を守る四神のうち、東を司り青龍の姿をした神獣は？",
+    "options": [
+      "鳳凰",
+      "白虎",
+      "麒麟",
+      "青龍"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！青龍は空を飛ぶ東の守護神獣だよ！",
+      "wrong": "ぶっぶー！東を守る空の守護神獣だよ！"
+    },
+    "id": "rid_108"
+  },
+  {
+    "question": "ギリシャ神話で海を支配する神は？",
+    "options": [
+      "ゼウス",
+      "ハデス",
+      "アポロン",
+      "ポセイドン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ポセイドンは三叉槍で海を治める神だよ！",
+      "wrong": "ぶっぶー！三叉槍を持つ海の神だよ！"
+    },
+    "id": "rid_109"
+  },
+  {
+    "question": "ギリシャ神話で知恵と戦いを象徴する女神は？",
+    "options": [
+      "ヘラ",
+      "アフロディーテ",
+      "アルテミス",
+      "アテナ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！アテナは知恵と戦いの女神だよ！",
+      "wrong": "ぶっぶー！フクロウが象徴の知恵の女神だよ！"
+    },
+    "id": "rid_110"
+  },
+  {
+    "question": "北欧神話でミョルニルの槌で雷を起こす力の神は？",
+    "options": [
+      "オーディン",
+      "ロキ",
+      "ヴァルキリー",
+      "トール"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！トールはミョルニルの槌で雷を起こす神だよ！",
+      "wrong": "ぶっぶー！槌ミョルニルを持つ雷神だよ！"
+    },
+    "id": "rid_111"
+  },
+  {
+    "question": "ギリシャ神話で冥界を治める王は？",
+    "options": [
+      "ゼウス",
+      "ポセイドン",
+      "アポロン",
+      "ハデス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ハデスは冥界を治める王だよ！",
+      "wrong": "ぶっぶー！ゼウスの兄弟で冥界の王だよ！"
+    },
+    "id": "rid_112"
+  },
+  {
+    "question": "インド神話で象の頭を持つ知恵と幸運の神は？",
+    "options": [
+      "シヴァ",
+      "インドラ",
+      "ラー",
+      "ガネーシャ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ガネーシャは象の頭を持つ知恵と幸運の神だよ！",
+      "wrong": "ぶっぶー！象の頭を持つインドの神だよ！"
+    },
+    "id": "rid_113"
+  },
+  {
+    "question": "エジプト神話でジャッカルの頭を持つ死とミイラの神は？",
+    "options": [
+      "オシリス",
+      "ラー",
+      "バステト",
+      "アヌビス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！アヌビスはジャッカルの頭を持つ死とミイラの神だよ！",
+      "wrong": "ぶっぶー！ジャッカルの頭を持つエジプトの神だよ！"
+    },
+    "id": "rid_114"
+  },
+  {
+    "question": "十二支の中で夜明けを告げる鳴き声の主は？",
+    "options": [
+      "猿",
+      "羊",
+      "馬",
+      "にわとり"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！にわとりは夜明けを告げる十二支の鳥だよ！",
+      "wrong": "ぶっぶー！夜明けに鳴く十二支の鳥だよ！"
+    },
+    "id": "rid_115"
+  },
+  {
+    "question": "十二支の中で忠誠の象徴とされる動物は？",
+    "options": [
+      "豚",
+      "羊",
+      "牛",
+      "いぬ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！いぬは忠誠と義理の象徴だよ！",
+      "wrong": "ぶっぶー！人のそばで忠誠を尽くす動物だよ！"
+    },
+    "id": "rid_116"
+  },
+  {
+    "question": "ガラスの靴を残して真夜中に去った童話の少女は？",
+    "options": [
+      "白雪姫",
+      "人魚姫",
+      "ラプンツェル",
+      "シンデレラ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！シンデレラはガラスの靴を残した童話の主人公だよ！",
+      "wrong": "ぶっぶー！真夜中に馬車が消えた童話の主人公だよ！"
+    },
+    "id": "rid_117"
+  },
+  {
+    "question": "毒リンゴを食べて深く眠った姫は？",
+    "options": [
+      "シンデレラ",
+      "人魚姫",
+      "ラプンツェル",
+      "白雪姫"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！白雪姫は毒リンゴで眠ってしまったよ！",
+      "wrong": "ぶっぶー！七人の小人と暮らす姫だよ！"
+    },
+    "id": "rid_118"
+  },
+  {
+    "question": "嘘をつくと鼻が伸びる木の人形は？",
+    "options": [
+      "ピーターパン",
+      "ヘンゼル",
+      "アリス",
+      "ピノキオ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！ピノキオは嘘をつくと鼻が伸びる人形だよ！",
+      "wrong": "ぶっぶー！おじいさんが作った木の人形だよ！"
+    },
+    "id": "rid_119"
+  },
+  {
+    "question": "赤いずきんをかぶり森でオオカミに会った少女は？",
+    "options": [
+      "白雪姫",
+      "シンデレラ",
+      "人魚姫",
+      "赤ずきん"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！赤ずきんは森でオオカミに会った少女だよ！",
+      "wrong": "ぶっぶー！おばあさんの家へ行く少女だよ！"
+    },
+    "id": "rid_120"
+  },
+  {
+    "question": "森のお菓子の家の魔女が出る兄妹の童話は？",
+    "options": [
+      "赤ずきん",
+      "ピノキオ",
+      "ジャックと豆の木",
+      "ヘンゼルとグレーテル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！ヘンゼルとグレーテルはお菓子の家の魔女が出る童話だよ！",
+      "wrong": "ぶっぶー！兄妹がお菓子の家におびき寄せられる童話だよ！"
+    },
+    "id": "rid_121"
+  },
+  {
+    "question": "のろまな亀との競争に負けた、うぬぼれ屋の動物は？",
+    "options": [
+      "きつね",
+      "鹿",
+      "馬",
+      "うさぎ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！うさぎは油断して亀に負けたよ！",
+      "wrong": "ぶっぶー！亀と競争した速い動物だよ！"
+    },
+    "id": "rid_122"
+  },
+  {
+    "question": "夏中歌ってばかりで冬に飢えた、蟻と共に登場する昆虫は？",
+    "options": [
+      "蝉",
+      "コオロギ",
+      "蝶",
+      "キリギリス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！キリギリスは夏遊んで冬に後悔したよ！",
+      "wrong": "ぶっぶー！蟻と対比される怠け者の昆虫だよ！"
+    },
+    "id": "rid_123"
+  },
+  {
+    "question": "足を得る代わりに声を失った、海の童話の主人公は？",
+    "options": [
+      "白雪姫",
+      "シンデレラ",
+      "ラプンツェル",
+      "人魚姫"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！人魚姫は愛のために声を捧げたよ！",
+      "wrong": "ぶっぶー！海に住む童話の姫だよ！"
+    },
+    "id": "rid_124"
+  },
+  {
+    "question": "父と共に空を飛んだが、太陽に近づきすぎて海に落ちた少年は？",
+    "options": [
+      "ヘラクレス",
+      "ペルセウス",
+      "オデュッセウス",
+      "イカロス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！イカロスは太陽に近づきすぎて海に落ちたよ！",
+      "wrong": "ぶっぶー！蝋の翼で飛んだギリシャ神話の少年だよ！"
+    },
+    "id": "rid_125"
+  },
+  {
+    "question": "好奇心で災いの詰まった箱を開けてしまった女性は？",
+    "options": [
+      "アテナ",
+      "ヘレネ",
+      "メドゥーサ",
+      "パンドラ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "正解！パンドラは好奇心で災いの箱を開けたよ！",
+      "wrong": "ぶっぶー！災いの箱を開けたギリシャ神話の女性だよ！"
+    },
+    "id": "rid_126"
+  },
+  {
+    "question": "畑を耕しながら低く鳴く、十二支の二番目の動物は？",
+    "options": [
+      "馬",
+      "羊",
+      "ヤギ",
+      "牛"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！牛は黙々と畑を耕す十二支だよ！",
+      "wrong": "ぶっぶー！角があって低く鳴く動物だよ！"
+    },
+    "id": "rid_127"
+  },
+  {
+    "question": "山を支配する縞模様の猛獣、十二支の三番目は？",
+    "options": [
+      "ライオン",
+      "ヒョウ",
+      "熊",
+      "虎"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！虎は山を支配する十二支だよ！",
+      "wrong": "ぶっぶー！額に印のある猛獣だよ！"
+    },
+    "id": "rid_128"
+  },
+  {
+    "question": "ぴょんぴょん跳ねて臼をつく十二支は？",
+    "options": [
+      "リス",
+      "ねずみ",
+      "鹿",
+      "うさぎ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！うさぎは餅をつく十二支だよ！",
+      "wrong": "ぶっぶー！耳が長くて跳ねる動物だよ！"
+    },
+    "id": "rid_129"
+  },
+  {
+    "question": "足なしで滑るように進む十二支は？",
+    "options": [
+      "ミミズ",
+      "トカゲ",
+      "ワニ",
+      "蛇"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！蛇は足なしで進む十二支だよ！",
+      "wrong": "ぶっぶー！皮を脱ぐ足のない動物だよ！"
+    },
+    "id": "rid_130"
+  },
+  {
+    "question": "白いたてがみをなびかせて走る十二支の馬は？",
+    "options": [
+      "ロバ",
+      "ラバ",
+      "シマウマ",
+      "白馬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！白馬は白いたてがみの十二支だよ！",
+      "wrong": "ぶっぶー！十二支の中の白い馬だよ！"
+    },
+    "id": "rid_131"
+  },
+  {
+    "question": "おとなしく草を食べ毛をくれる十二支は？",
+    "options": [
+      "ヤギ",
+      "牛",
+      "鹿",
+      "羊"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！羊は毛をくれるおとなしい十二支だよ！",
+      "wrong": "ぶっぶー！毛で服を編むおとなしい動物だよ！"
+    },
+    "id": "rid_132"
+  },
+  {
+    "question": "木登りが得意で芸をする十二支は？",
+    "options": [
+      "パンダ",
+      "コアラ",
+      "オランウータン",
+      "猿"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！猿は芸をする十二支だよ！",
+      "wrong": "ぶっぶー！木登りが得意な賢い動物だよ！"
+    },
+    "id": "rid_133"
+  },
+  {
+    "question": "豊かさと富を象徴する、十二支の最後の動物は？",
+    "options": [
+      "イノシシ",
+      "象",
+      "カバ",
+      "金の豚"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！金の豚は富を招く十二支の最後だよ！",
+      "wrong": "ぶっぶー！十二支の最後、福を呼ぶ動物だよ！"
+    },
+    "id": "rid_134"
+  },
+  {
+    "question": "嘘を噛み、善悪を見分ける正義の神獣は？",
+    "options": [
+      "ライオン",
+      "龍",
+      "虎",
+      "ヘテ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ヘテは嘘を噛む正義の神獣だよ！",
+      "wrong": "ぶっぶー！宮殿前を守る正義の神獣だよ！"
+    },
+    "id": "rid_135"
+  },
+  {
+    "question": "聖人が現れると姿を見せるという東洋の想像上の動物は？",
+    "options": [
+      "ユニコーン",
+      "鳳凰",
+      "龍",
+      "麒麟"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！麒麟は聖人と共に現れる東洋の神獣だよ！",
+      "wrong": "ぶっぶー！東洋で聖人と共に来る温和な神獣だよ！"
+    },
+    "id": "rid_136"
+  },
+  {
+    "question": "東洋思想で四方を守る四神のうち、南を司り朱雀の姿をした神獣は？",
+    "options": [
+      "鳳凰",
+      "三足烏",
+      "青龍",
+      "朱雀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！朱雀は南を守る赤い神獣だよ！",
+      "wrong": "ぶっぶー！四神で南を担う赤い鳥だよ！"
+    },
+    "id": "rid_137"
+  },
+  {
+    "question": "東洋思想で四方を守る四神のうち、北を司り亀と蛇が合わさった神獣は？",
+    "options": [
+      "青龍",
+      "白虎",
+      "ヘテ",
+      "玄武"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！玄武は亀と蛇が合わさった北の神獣だよ！",
+      "wrong": "ぶっぶー！四神で北を担う亀と蛇の神獣だよ！"
+    },
+    "id": "rid_138"
+  },
+  {
+    "question": "東洋で長寿と平和を象徴する白い鹿の神獣は？",
+    "options": [
+      "白馬",
+      "羊",
+      "麒麟",
+      "白鹿"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！白鹿は長寿と平和の象徴だよ！",
+      "wrong": "ぶっぶー！東洋で吉兆とされる白い鹿だよ！"
+    },
+    "id": "rid_139"
+  },
+  {
+    "question": "桐の木に宿り天下泰平を告げるという想像上の鳥は？",
+    "options": [
+      "朱雀",
+      "孔雀",
+      "鶴",
+      "鳳凰"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！鳳凰は天下泰平を告げる想像の鳥だよ！",
+      "wrong": "ぶっぶー！桐の木に止まるという想像の鳥だよ！"
+    },
+    "id": "rid_140"
+  },
+  {
+    "question": "太陽の中に住むという三本足のカラスの神獣は？",
+    "options": [
+      "鳳凰",
+      "朱雀",
+      "カラス",
+      "三足烏"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！三足烏は太陽に住む三本足のカラスだよ！",
+      "wrong": "ぶっぶー！太陽を象徴する三本足の鳥だよ！"
+    },
+    "id": "rid_141"
+  },
+  {
+    "question": "九本の尻尾を持つ魅惑の狐の妖怪は？",
+    "options": [
+      "イムギ",
+      "スフィンクス",
+      "白虎",
+      "九尾の狐"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！九尾の狐は九本の尻尾を持つ狐の妖怪だよ！",
+      "wrong": "ぶっぶー！尻尾が九本の狐だよ！"
+    },
+    "id": "rid_142"
+  },
+  {
+    "question": "額に一本の角が生えた西洋の想像上の動物は？",
+    "options": [
+      "グリフォン",
+      "麒麟",
+      "鹿",
+      "ユニコーン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ユニコーンは額に一本角のある想像の動物だよ！",
+      "wrong": "ぶっぶー！角が一本だけの神秘の馬だよ！"
+    },
+    "id": "rid_143"
+  },
+  {
+    "question": "三つの目を持つ、三つ目犬の神獣は？",
+    "options": [
+      "ヘテ",
+      "白虎",
+      "九尾の狐",
+      "三つ目犬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！三つ目犬は目が三つの神獣だよ！",
+      "wrong": "ぶっぶー！目が三つある犬の神獣だよ！"
+    },
+    "id": "rid_144"
+  },
+  {
+    "question": "エジプト神話でワニの頭を持つ水とナイルの神は？",
+    "options": [
+      "アヌビス",
+      "ラー",
+      "バステト",
+      "セベク"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！セベクはワニの頭を持つナイル川の神だよ！",
+      "wrong": "ぶっぶー！ワニの頭を持つエジプトの神だよ！"
+    },
+    "id": "rid_145"
+  },
+  {
+    "question": "千年生きて龍になろうとする大蛇の妖怪は？",
+    "options": [
+      "九尾の狐",
+      "魚龍",
+      "リヴァイアサン",
+      "イムギ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！イムギは龍になろうとする大蛇の妖怪だよ！",
+      "wrong": "ぶっぶー！水に住む大蛇の妖怪だよ！"
+    },
+    "id": "rid_146"
+  },
+  {
+    "question": "魚と龍が合わさった、海を治める神獣は？",
+    "options": [
+      "イムギ",
+      "リヴァイアサン",
+      "玄武",
+      "魚龍"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！魚龍は魚と龍が合わさった海の神獣だよ！",
+      "wrong": "ぶっぶー！海に住む龍の姿の神獣だよ！"
+    },
+    "id": "rid_147"
+  },
+  {
+    "question": "ライオンの体に人の頭、なぞなぞを出すエジプトの守護像は？",
+    "options": [
+      "グリフォン",
+      "猫又",
+      "セベク",
+      "スフィンクス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！スフィンクスは人の頭とライオンの体の守護像だよ！",
+      "wrong": "ぶっぶー！ピラミッドの前に立つなぞの守護像だよ！"
+    },
+    "id": "rid_148"
+  },
+  {
+    "question": "海を飲み込むという巨大な海の怪物は？",
+    "options": [
+      "魚龍",
+      "イムギ",
+      "クラーケン",
+      "リヴァイアサン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！リヴァイアサンは海を飲む巨大な怪物だよ！",
+      "wrong": "ぶっぶー！聖書に出る巨大な海の怪物だよ！"
+    },
+    "id": "rid_149"
+  },
+  {
+    "question": "猫の頭に蛇の体を持つ日本の妖怪は？",
+    "options": [
+      "九尾の狐",
+      "スフィンクス",
+      "セベク",
+      "猫又"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！猫又は猫の頭に蛇の体の妖怪だよ！",
+      "wrong": "ぶっぶー！猫と蛇が混ざった妖怪だよ！"
+    },
+    "id": "rid_150"
+  },
+  {
+    "question": "三本足のヒキガエルの神獣、月に住むというものは？",
+    "options": [
+      "三足烏",
+      "カエル",
+      "亀",
+      "三足蟾"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！三足蟾は月に住む三本足のヒキガエルだよ！",
+      "wrong": "ぶっぶー！月を象徴する三本足のヒキガエルだよ！"
+    },
+    "id": "rid_151"
+  },
+  {
+    "question": "鷲の頭とライオンの体を持つ西洋の神獣は？",
+    "options": [
+      "ユニコーン",
+      "スフィンクス",
+      "鳳凰",
+      "グリフォン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！グリフォンは鷲の頭とライオンの体の神獣だよ！",
+      "wrong": "ぶっぶー！空と陸の王を合わせた想像の動物だよ！"
+    },
+    "id": "rid_152"
+  },
+  {
+    "question": "東洋思想で四方を守る四神のうち、西を司り白虎の姿をした神獣は？",
+    "options": [
+      "虎",
+      "ヘテ",
+      "玄武",
+      "白虎"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！白虎は西を守る白い虎の神獣だよ！",
+      "wrong": "ぶっぶー！四神で西を担う白い虎だよ！"
+    },
+    "id": "rid_153"
+  },
+  {
+    "question": "羽毛のある蛇、アステカ神話の神は？",
+    "options": [
+      "イムギ",
+      "魚龍",
+      "玄武",
+      "ケツァルコアトル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ケツァルコアトルは羽毛のある蛇の神だよ！",
+      "wrong": "ぶっぶー！アステカの羽毛ある蛇の神だよ！"
+    },
+    "id": "rid_154"
+  },
+  {
+    "question": "虎を連れて山を守る、山の神は？",
+    "options": [
+      "龍王",
+      "トジュデガム",
+      "死神",
+      "山の神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！山の神は虎と共に山を守る神だよ！",
+      "wrong": "ぶっぶー！山を守る神様だよ！"
+    },
+    "id": "rid_155"
+  },
+  {
+    "question": "黒い笠と道袍を着て魂を連れて行く使いは？",
+    "options": [
+      "閻魔大王",
+      "山の神",
+      "玉皇大帝",
+      "死神"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！死神は魂をあの世へ導く使いだよ！",
+      "wrong": "ぶっぶー！魂をあの世へ連れて行く者だよ！"
+    },
+    "id": "rid_156"
+  },
+  {
+    "question": "東洋思想で天を治め、すべての神を統べる最高神は？",
+    "options": [
+      "閻魔大王",
+      "龍王",
+      "山の神",
+      "玉皇大帝"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！玉皇大帝は天のすべての神を統べる最高神だよ！",
+      "wrong": "ぶっぶー！天の最高神だよ！"
+    },
+    "id": "rid_157"
+  },
+  {
+    "question": "東洋思想であの世で死者の善悪を裁く王は？",
+    "options": [
+      "玉皇大帝",
+      "死神",
+      "龍王",
+      "閻魔大王"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！閻魔大王はあの世で死者を裁く王だよ！",
+      "wrong": "ぶっぶー！あの世の裁判官だよ！"
+    },
+    "id": "rid_158"
+  },
+  {
+    "question": "東洋の伝説で世界を創ったという巨大なおばあさんの創造女神は？",
+    "options": [
+      "三神婆",
+      "バリ公主",
+      "観音菩薩",
+      "マゴ婆"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！マゴ婆は世界を創った巨大な創造女神だよ！",
+      "wrong": "ぶっぶー！世界を創った巨大なおばあさんの神だよ！"
+    },
+    "id": "rid_159"
+  },
+  {
+    "question": "東洋の伝説で亡き親を救うためあの世まで行った孝女の姫は？",
+    "options": [
+      "三神婆",
+      "マゴ婆",
+      "観音菩薩",
+      "バリ公主"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！バリ公主はあの世まで行った孝女の姫だよ！",
+      "wrong": "ぶっぶー！親のためにあの世へ行った姫だよ！"
+    },
+    "id": "rid_160"
+  },
+  {
+    "question": "子を授け出産を助ける おばあさんの神は？",
+    "options": [
+      "マゴ婆",
+      "バリ公主",
+      "トジュデガム",
+      "三神婆"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！三神婆は子を授ける出産の神だよ！",
+      "wrong": "ぶっぶー！子と出産を守る おばあさんの神だよ！"
+    },
+    "id": "rid_161"
+  },
+  {
+    "question": "海と水を治める東洋の王は？",
+    "options": [
+      "玉皇大帝",
+      "閻魔大王",
+      "山の神",
+      "龍王"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！龍王は海と水を治める東洋の王だよ！",
+      "wrong": "ぶっぶー！海を守る龍の王だよ！"
+    },
+    "id": "rid_162"
+  },
+  {
+    "question": "屋敷地を守り家内の安寧を見守る神は？",
+    "options": [
+      "山の神",
+      "龍王",
+      "三神婆",
+      "トジュデガム"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！トジュデガムは屋敷地を守る家の神だよ！",
+      "wrong": "ぶっぶー！家を守る家の神だよ！"
+    },
+    "id": "rid_163"
+  },
+  {
+    "question": "ギリシャ神話で稲妻を武器にオリュンポスを治める最高神は？",
+    "options": [
+      "ポセイドン",
+      "ハデス",
+      "アポロン",
+      "ゼウス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ゼウスは稲妻を操るオリュンポスの最高神だよ！",
+      "wrong": "ぶっぶー！稲妻を武器にするギリシャ最高神だよ！"
+    },
+    "id": "rid_164"
+  },
+  {
+    "question": "北欧神話で片目を捧げ知恵を得た、神々の父は？",
+    "options": [
+      "トール",
+      "ロキ",
+      "ヴァルキリー",
+      "オーディン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！オーディンは片目を捧げた知恵の最高神だよ！",
+      "wrong": "ぶっぶー！カラスを連れた北欧の最高神だよ！"
+    },
+    "id": "rid_165"
+  },
+  {
+    "question": "ギリシャ神話で太陽と芸術・予言を司る神は？",
+    "options": [
+      "ゼウス",
+      "ヘルメス",
+      "アレス",
+      "アポロン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！アポロンは太陽と芸術・予言の神だよ！",
+      "wrong": "ぶっぶー！竪琴を持つ太陽の神だよ！"
+    },
+    "id": "rid_166"
+  },
+  {
+    "question": "北欧神話のいたずら好き、欺きの神は？",
+    "options": [
+      "オーディン",
+      "トール",
+      "ヴァルキリー",
+      "ロキ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ロキは欺きと悪戯の神だよ！",
+      "wrong": "ぶっぶー！悪戯と欺きを好む神だよ！"
+    },
+    "id": "rid_167"
+  },
+  {
+    "question": "戦死した英雄をヴァルハラへ連れて行く北欧の女戦士は？",
+    "options": [
+      "アテナ",
+      "オーディン",
+      "フレイヤ",
+      "ヴァルキリー"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ヴァルキリーは戦死した英雄をヴァルハラへ運ぶ女戦士だよ！",
+      "wrong": "ぶっぶー！空を飛ぶ北欧の女戦士だよ！"
+    },
+    "id": "rid_168"
+  },
+  {
+    "question": "悟りを開き「目覚めた者」と呼ばれる仏教の開祖は？",
+    "options": [
+      "観音菩薩",
+      "シヴァ",
+      "インドラ",
+      "仏陀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！仏陀は悟りを開いた仏教の開祖だよ！",
+      "wrong": "ぶっぶー！菩提樹の下で悟った方だよ！"
+    },
+    "id": "rid_169"
+  },
+  {
+    "question": "仏教で衆生の苦しみを聞き慈悲を施す菩薩は？",
+    "options": [
+      "仏陀",
+      "ガネーシャ",
+      "シヴァ",
+      "観音菩薩"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！観音菩薩は慈悲で衆生を救う菩薩だよ！",
+      "wrong": "ぶっぶー！千の手と目で助ける菩薩だよ！"
+    },
+    "id": "rid_170"
+  },
+  {
+    "question": "インド神話で破壊と変化を象徴する神は？",
+    "options": [
+      "ガネーシャ",
+      "インドラ",
+      "ラー",
+      "シヴァ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！シヴァは破壊と変化の神だよ！",
+      "wrong": "ぶっぶー！三叉槍を持つ破壊の神だよ！"
+    },
+    "id": "rid_171"
+  },
+  {
+    "question": "インド神話で雷と雨を司る神は？",
+    "options": [
+      "シヴァ",
+      "ラー",
+      "ガネーシャ",
+      "インドラ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！インドラは雷と雨を司る神だよ！",
+      "wrong": "ぶっぶー！金剛杵を持つ雷神だよ！"
+    },
+    "id": "rid_172"
+  },
+  {
+    "question": "エジプト神話で太陽を象徴する神は？",
+    "options": [
+      "オシリス",
+      "アヌビス",
+      "セベク",
+      "ラー"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ラーは太陽を象徴するエジプトの神だよ！",
+      "wrong": "ぶっぶー！鷹の頭を持つ太陽神だよ！"
+    },
+    "id": "rid_173"
+  },
+  {
+    "question": "エジプト神話で復活と冥界を治める神は？",
+    "options": [
+      "ラー",
+      "アヌビス",
+      "セベク",
+      "オシリス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！オシリスは復活と冥界を治める神だよ！",
+      "wrong": "ぶっぶー！復活を象徴するエジプトの神だよ！"
+    },
+    "id": "rid_174"
+  },
+  {
+    "question": "エジプト神話で猫の頭を持つ家庭と治癒の女神は？",
+    "options": [
+      "アヌビス",
+      "セベク",
+      "ラー",
+      "バステト"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！バステトは猫の頭を持つ家庭と治癒の女神だよ！",
+      "wrong": "ぶっぶー！猫の頭を持つエジプトの女神だよ！"
+    },
+    "id": "rid_175"
+  },
+  {
+    "question": "悪龍を退けた天使長、天の軍勢の指揮官は？",
+    "options": [
+      "ガブリエル",
+      "ラファエル",
+      "ウリエル",
+      "大天使ミカエル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ミカエルは悪龍を退けた天使長だよ！",
+      "wrong": "ぶっぶー！天の軍勢を率いる天使長だよ！"
+    },
+    "id": "rid_176"
+  },
+  {
+    "question": "マリアにイエスの誕生を告げた伝令の天使は？",
+    "options": [
+      "ミカエル",
+      "ラファエル",
+      "ウリエル",
+      "大天使ガブリエル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ガブリエルはイエスの誕生を告げた伝令の天使だよ！",
+      "wrong": "ぶっぶー！ラッパを吹く伝令の天使だよ！"
+    },
+    "id": "rid_177"
+  },
+  {
+    "question": "病を癒す、治癒の天使は？",
+    "options": [
+      "ミカエル",
+      "ガブリエル",
+      "ウリエル",
+      "大天使ラファエル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ラファエルは病を癒す治癒の天使だよ！",
+      "wrong": "ぶっぶー！治癒と旅人の守護天使だよ！"
+    },
+    "id": "rid_178"
+  },
+  {
+    "question": "火と知恵を象徴する天使は？",
+    "options": [
+      "ミカエル",
+      "ガブリエル",
+      "ラファエル",
+      "大天使ウリエル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！ウリエルは火と知恵を象徴する天使だよ！",
+      "wrong": "ぶっぶー！光と知恵の天使だよ！"
+    },
+    "id": "rid_179"
+  },
+  {
+    "question": "生まれた時からそばで見守るという天使は？",
+    "options": [
+      "大天使ミカエル",
+      "大天使ガブリエル",
+      "大天使ラファエル",
+      "守護天使"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！守護天使は一生そばで守る天使だよ！",
+      "wrong": "ぶっぶー！そばで守ってくれる天使だよ！"
+    },
+    "id": "rid_180"
+  },
+  {
+    "question": "ギリシャ神話で人の運命の糸を紡ぐ三姉妹は？",
+    "options": [
+      "ヴァルキリー",
+      "ムーサ",
+      "ハーピー",
+      "モイライ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "正解！モイライは運命の糸を紡ぐ三姉妹だよ！",
+      "wrong": "ぶっぶー！運命を決めるギリシャの三姉妹だよ！"
+    },
+    "id": "rid_181"
+  },
+  {
+    "question": "草原の王と呼ばれる、たてがみのある猛獣は？",
+    "options": [
+      "虎",
+      "ヒョウ",
+      "チーター",
+      "ライオン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ライオンはたてがみのある草原の王だよ！",
+      "wrong": "ぶっぶー！たてがみを持つ草原の猛獣だよ！"
+    },
+    "id": "rid_182"
+  },
+  {
+    "question": "鼻の上に一本の角がある、厚い鎧の動物は？",
+    "options": [
+      "カバ",
+      "象",
+      "水牛",
+      "サイ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！サイは鼻に一本角のある鎧の動物だよ！",
+      "wrong": "ぶっぶー！鼻に角がある厚い動物だよ！"
+    },
+    "id": "rid_183"
+  },
+  {
+    "question": "川で大きく口を開ける、アフリカの巨大な動物は？",
+    "options": [
+      "サイ",
+      "ワニ",
+      "水牛",
+      "カバ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！カバは川で大きく口を開ける巨大動物だよ！",
+      "wrong": "ぶっぶー！水に住むアフリカの巨大動物だよ！"
+    },
+    "id": "rid_184"
+  },
+  {
+    "question": "背中にこぶを載せ砂漠を歩く動物は？",
+    "options": [
+      "馬",
+      "ロバ",
+      "リャマ",
+      "ラクダ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ラクダはこぶを載せて砂漠を歩く動物だよ！",
+      "wrong": "ぶっぶー！砂漠を歩くこぶのある動物だよ！"
+    },
+    "id": "rid_185"
+  },
+  {
+    "question": "おなかの袋に赤ちゃんを入れ跳ねる、オーストラリアの動物は？",
+    "options": [
+      "ウサギ",
+      "コアラ",
+      "ウォンバット",
+      "カンガルー"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！カンガルーはおなかの袋で赤ちゃんを育てる動物だよ！",
+      "wrong": "ぶっぶー！オーストラリアの袋のある動物だよ！"
+    },
+    "id": "rid_186"
+  },
+  {
+    "question": "笹を好む、白黒模様の熊は？",
+    "options": [
+      "熊",
+      "コアラ",
+      "アライグマ",
+      "パンダ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！パンダは笹を好む白黒の熊だよ！",
+      "wrong": "ぶっぶー！笹を食べる白黒の動物だよ！"
+    },
+    "id": "rid_187"
+  },
+  {
+    "question": "黒い縞模様のある、アフリカの馬は？",
+    "options": [
+      "馬",
+      "ロバ",
+      "キリン",
+      "シマウマ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！シマウマは黒い縞のあるアフリカの馬だよ！",
+      "wrong": "ぶっぶー！縞模様のアフリカの馬だよ！"
+    },
+    "id": "rid_188"
+  },
+  {
+    "question": "高く舞い獲物をさらう、空の猛禽は？",
+    "options": [
+      "ハヤブサ",
+      "フクロウ",
+      "カラス",
+      "鷲"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！鷲は空の猛禽の王だよ！",
+      "wrong": "ぶっぶー！高く舞う狩りの鳥だよ！"
+    },
+    "id": "rid_189"
+  },
+  {
+    "question": "鋭い歯で海を支配する魚は？",
+    "options": [
+      "クジラ",
+      "イルカ",
+      "ワニ",
+      "サメ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！サメは鋭い歯の海の狩人だよ！",
+      "wrong": "ぶっぶー！背びれのある海の狩人だよ！"
+    },
+    "id": "rid_190"
+  },
+  {
+    "question": "海で最も大きく水を噴く動物は？",
+    "options": [
+      "サメ",
+      "イルカ",
+      "象",
+      "クジラ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！クジラは海で最も大きな動物だよ！",
+      "wrong": "ぶっぶー！水を噴きながら泳ぐ巨大動物だよ！"
+    },
+    "id": "rid_191"
+  },
+  {
+    "question": "夏に緑の皮の中が赤い、大きな果物は？",
+    "options": [
+      "マクワウリ",
+      "メロン",
+      "カボチャ",
+      "スイカ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！スイカは緑の皮に赤い中身の夏の果物だよ！",
+      "wrong": "ぶっぶー！夏に食べる大きく赤い果物だよ！"
+    },
+    "id": "rid_192"
+  },
+  {
+    "question": "種が外にぽつぽつ付いた、赤い果物は？",
+    "options": [
+      "サクランボ",
+      "ラズベリー",
+      "トマト",
+      "イチゴ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！イチゴは種が外に付いた赤い果物だよ！",
+      "wrong": "ぶっぶー！種が表面に見える赤い果物だよ！"
+    },
+    "id": "rid_193"
+  },
+  {
+    "question": "房になってなる、紫の粒の果物は？",
+    "options": [
+      "ブルーベリー",
+      "プラム",
+      "桑の実",
+      "ブドウ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ブドウは房でなる紫の粒の果物だよ！",
+      "wrong": "ぶっぶー！房でなる紫の果物だよ！"
+    },
+    "id": "rid_194"
+  },
+  {
+    "question": "黄色く曲がった、皮をむいて食べる果物は？",
+    "options": [
+      "マクワウリ",
+      "マンゴー",
+      "パパイヤ",
+      "バナナ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！バナナは黄色く曲がった果物だよ！",
+      "wrong": "ぶっぶー！黄色くて長い果物だよ！"
+    },
+    "id": "rid_195"
+  },
+  {
+    "question": "粒が並んで詰まった、黄色い穂は？",
+    "options": [
+      "豆",
+      "小麦",
+      "稲",
+      "トウモロコシ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！トウモロコシは粒が並んだ黄色い穂だよ！",
+      "wrong": "ぶっぶー！粒が並んだ黄色い穀物だよ！"
+    },
+    "id": "rid_196"
+  },
+  {
+    "question": "ウサギが好きな、オレンジ色の根菜は？",
+    "options": [
+      "大根",
+      "サツマイモ",
+      "ジャガイモ",
+      "ニンジン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ニンジンはウサギが好きなオレンジの根菜だよ！",
+      "wrong": "ぶっぶー！ウサギが好きなオレンジの野菜だよ！"
+    },
+    "id": "rid_197"
+  },
+  {
+    "question": "殻を割ると黄身と白身が出るものは？",
+    "options": [
+      "牛乳",
+      "ご飯",
+      "パン",
+      "卵"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！卵は殻の中に黄身と白身がある食べ物だよ！",
+      "wrong": "ぶっぶー！殻の中に黄身がある食べ物だよ！"
+    },
+    "id": "rid_198"
+  },
+  {
+    "question": "牛から搾る、白い飲み物は？",
+    "options": [
+      "水",
+      "ジュース",
+      "ヨーグルト",
+      "牛乳"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！牛乳は牛から搾る白い飲み物だよ！",
+      "wrong": "ぶっぶー！牛から出る白い飲み物だよ！"
+    },
+    "id": "rid_199"
+  },
+  {
+    "question": "熱湯に入れて3分で完成する麺料理は？",
+    "options": [
+      "素麺",
+      "パスタ",
+      "うどん",
+      "ラーメン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！ラーメンは熱湯で3分の麺料理だよ！",
+      "wrong": "ぶっぶー！3分で作れる麺だよ！"
+    },
+    "id": "rid_200"
+  },
+  {
+    "question": "ご飯と野菜を海苔で巻き、丸く切った食べ物は？",
+    "options": [
+      "おにぎり",
+      "寿司",
+      "キムチ",
+      "キンパ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "正解！キンパはご飯と野菜を海苔で巻いて切った食べ物だよ！",
+      "wrong": "ぶっぶー！海苔でご飯を巻いて切った食べ物だよ！"
+    },
+    "id": "rid_201"
+  },
+  {
+    "question": "ギリシャ神話で自慢が過ぎて空に縛られたエチオピアの王妃、W字型で北の空に輝く星座は？",
+    "options": [
+      "カシオペア",
+      "アンドロメダ",
+      "ペガスス",
+      "はくちょう"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！カシオペアはアンドロメダの母である王妃だよ！",
+      "wrong": "ぶっぶー！アンドロメダの母である王妃だよ！"
+    },
+    "id": "rid_202"
+  },
+  {
+    "question": "ギリシャ神話で腰に三つ星を帯びた狩人、冬の南の空に輝く星座は？",
+    "options": [
+      "オリオン",
+      "しし座",
+      "さそり座",
+      "おおぐま座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！オリオンは三つ星を帯びた狩人だよ！",
+      "wrong": "ぶっぶー！腰に三つ星を帯びた狩人だよ！"
+    },
+    "id": "rid_203"
+  },
+  {
+    "question": "ギリシャ神話でオリオンに毒針を刺して勝った、夏の南の空の星座は？",
+    "options": [
+      "さそり座",
+      "しし座",
+      "かに座",
+      "おうし座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！さそり座はオリオンを刺したサソリだよ！",
+      "wrong": "ぶっぶー！オリオンに勝った毒針の主だよ！"
+    },
+    "id": "rid_204"
+  },
+  {
+    "question": "ギリシャ神話でヘラクレスが退治したネメアの森の猛獣、春の夜空の王の星座は？",
+    "options": [
+      "しし座",
+      "さそり座",
+      "おうし座",
+      "ふたご座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！しし座はネメアの獅子だよ！",
+      "wrong": "ぶっぶー！ヘラクレスが退治した猛獣だよ！"
+    },
+    "id": "rid_205"
+  },
+  {
+    "question": "ギリシャ神話でゼウスがエウロパを乗せるために変身した動物、角を掲げた星座は？",
+    "options": [
+      "おうし座",
+      "おひつじ座",
+      "やぎ座",
+      "かに座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！おうし座はゼウスが変身した牡牛だよ！",
+      "wrong": "ぶっぶー！ゼウスが変身した角ある動物だよ！"
+    },
+    "id": "rid_206"
+  },
+  {
+    "question": "ギリシャ神話で金羊毛を守った雄羊、黄道上の春の星座は？",
+    "options": [
+      "おひつじ座",
+      "おうし座",
+      "しし座",
+      "うお座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！おひつじ座は金羊毛の雄羊だよ！",
+      "wrong": "ぶっぶー！金羊毛を守った動物だよ！"
+    },
+    "id": "rid_207"
+  },
+  {
+    "question": "ギリシャ神話で正義の女神が麦の穂を持って天に昇った、乙女の星座は？",
+    "options": [
+      "おとめ座",
+      "てんびん座",
+      "かに座",
+      "みずがめ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！おとめ座は正義の女神だよ！",
+      "wrong": "ぶっぶー！麦の穂を持つ女神だよ！"
+    },
+    "id": "rid_208"
+  },
+  {
+    "question": "ギリシャ神話で正義を量った天秤、黄道上の均衡の星座は？",
+    "options": [
+      "てんびん座",
+      "おとめ座",
+      "さそり座",
+      "いて座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！てんびん座は正義の天秤だよ！",
+      "wrong": "ぶっぶー！均衡と正義を象徴する道具だよ！"
+    },
+    "id": "rid_209"
+  },
+  {
+    "question": "ギリシャ神話で弓矢を持つ賢者ケイローンの名を冠した、黄道上の星座は？",
+    "options": [
+      "いて座",
+      "やぎ座",
+      "みずがめ座",
+      "おひつじ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！いて座はケンタウロス・ケイロンだよ！",
+      "wrong": "ぶっぶー！弓を引く半人半馬だよ！"
+    },
+    "id": "rid_210"
+  },
+  {
+    "question": "ギリシャ神話で牧神パンに似て角と魚の尾を持つ、黄道の星座は？",
+    "options": [
+      "やぎ座",
+      "うお座",
+      "みずがめ座",
+      "かに座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！やぎ座は牧神パンだよ！",
+      "wrong": "ぶっぶー！角と魚の尾を持つ星座だよ！"
+    },
+    "id": "rid_211"
+  },
+  {
+    "question": "ギリシャ神話でゼウスに連れ去られた美少年ガニュメデスが水を注ぐ星座は？",
+    "options": [
+      "みずがめ座",
+      "うお座",
+      "おとめ座",
+      "やぎ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！みずがめ座はガニュメデスだよ！",
+      "wrong": "ぶっぶー！水を注ぐ少年の星座だよ！"
+    },
+    "id": "rid_212"
+  },
+  {
+    "question": "ギリシャ神話でアフロディーテとエロスが変身し糸で結ばれたという、黄道最後の星座は？",
+    "options": [
+      "うお座",
+      "みずがめ座",
+      "おひつじ座",
+      "かに座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！うお座は二匹の魚の星座だよ！",
+      "wrong": "ぶっぶー！糸で結ばれた二匹の魚だよ！"
+    },
+    "id": "rid_213"
+  },
+  {
+    "question": "ギリシャ神話でメドゥーサの血から生まれた翼ある馬の星座は？",
+    "options": [
+      "ペガスス",
+      "アンドロメダ",
+      "はくちょう",
+      "カシオペア"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ペガススは翼ある馬だよ！",
+      "wrong": "ぶっぶー！メドゥーサの血から生まれた翼馬だよ！"
+    },
+    "id": "rid_214"
+  },
+  {
+    "question": "ギリシャ神話で岩に縛られ怪物に捧げられかけた王女の星座は？",
+    "options": [
+      "アンドロメダ",
+      "カシオペア",
+      "ペガスス",
+      "おとめ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！アンドロメダは岩に縛られた王女だよ！",
+      "wrong": "ぶっぶー！ペルセウスが救った王女だよ！"
+    },
+    "id": "rid_215"
+  },
+  {
+    "question": "ギリシャ神話でゼウスがレダに近づくため変身した鳥の星座は？",
+    "options": [
+      "はくちょう",
+      "ペガスス",
+      "わし座",
+      "からす座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！はくちょう座はゼウスが変身した鳥だよ！",
+      "wrong": "ぶっぶー！ゼウスが変身した水鳥だよ！"
+    },
+    "id": "rid_216"
+  },
+  {
+    "question": "ギリシャ神話でアトラスの娘たち、七姉妹と呼ばれるおうし座の星団は？",
+    "options": [
+      "プレアデス",
+      "シリウス",
+      "ベガ",
+      "カノープス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！プレアデスは七姉妹の星だよ！",
+      "wrong": "ぶっぶー！七姉妹と呼ばれる星団だよ！"
+    },
+    "id": "rid_217"
+  },
+  {
+    "question": "ギリシャ神話でヘラの乳が流れてできたという、夜空を横切る星の川は？",
+    "options": [
+      "天の川",
+      "オーロラ",
+      "彗星",
+      "流星群"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！天の川は星の川だよ！",
+      "wrong": "ぶっぶー！空を横切る星の川だよ！"
+    },
+    "id": "rid_218"
+  },
+  {
+    "question": "東洋の伝説で天の川を挟み年に一度会う牛飼いの星は？",
+    "options": [
+      "アルタイル",
+      "ベガ",
+      "北極星",
+      "カノープス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！アルタイルは牛飼いの星だよ！",
+      "wrong": "ぶっぶー！天の川の向こうの牛飼いの星だよ！"
+    },
+    "id": "rid_219"
+  },
+  {
+    "question": "東洋の伝説でアルタイルの向こうで機を織る織姫の星は？",
+    "options": [
+      "ベガ",
+      "アルタイル",
+      "北極星",
+      "三つ星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ベガは機を織る織姫の星だよ！",
+      "wrong": "ぶっぶー！機を織る女性の星だよ！"
+    },
+    "id": "rid_220"
+  },
+  {
+    "question": "東洋で天を28の区画に分けた伝統的な星座体系は？",
+    "options": [
+      "二十八宿",
+      "十二支",
+      "四神",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！二十八宿は東洋の星座体系だよ！",
+      "wrong": "ぶっぶー！天を28区画に分けた体系だよ！"
+    },
+    "id": "rid_221"
+  },
+  {
+    "question": "オリオン座の腰の下に並ぶ三つの星を東洋で呼ぶ名前は？",
+    "options": [
+      "三つ星",
+      "三神",
+      "三足烏",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！三つ星はその三つの星の名前だよ！",
+      "wrong": "ぶっぶー！オリオンの腰の下の三つ星だよ！"
+    },
+    "id": "rid_222"
+  },
+  {
+    "question": "東洋で長寿を象徴し「寿」の星と呼ばれた、南の空の非常に明るい星は？",
+    "options": [
+      "カノープス",
+      "北極星",
+      "シリウス",
+      "ベガ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！カノープスは東洋の長寿の星だよ！",
+      "wrong": "ぶっぶー！南の空の長寿の星だよ！"
+    },
+    "id": "rid_223"
+  },
+  {
+    "question": "北の空でほとんど動かず、船人の道しるべとなる星は？",
+    "options": [
+      "北極星",
+      "シリウス",
+      "カノープス",
+      "ベガ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！北極星は空の道しるべだよ！",
+      "wrong": "ぶっぶー！動かない北の星だよ！"
+    },
+    "id": "rid_224"
+  },
+  {
+    "question": "ひしゃく型に七つの星が集まり北極星を指す星座は？",
+    "options": [
+      "北斗七星",
+      "カシオペア",
+      "こぐま座",
+      "はくちょう"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！北斗七星はひしゃく型の七つの星だよ！",
+      "wrong": "ぶっぶー！ひしゃく型の七つの星だよ！"
+    },
+    "id": "rid_225"
+  },
+  {
+    "question": "尾の先に北極星を載せている、小さな熊の北の星座は？",
+    "options": [
+      "こぐま座",
+      "おおぐま座",
+      "はくちょう座",
+      "うお座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！こぐま座は北極星を抱く星座だよ！",
+      "wrong": "ぶっぶー！尾に北極星を置く星座だよ！"
+    },
+    "id": "rid_226"
+  },
+  {
+    "question": "ギリシャ神話で熊に変えられたカリストが天に昇った、熊の星座は？",
+    "options": [
+      "おおぐま座",
+      "こぐま座",
+      "しし座",
+      "おうし座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！おおぐま座はカリストが変えた熊だよ！",
+      "wrong": "ぶっぶー！熊に変えられたニンフの星座だよ！"
+    },
+    "id": "rid_227"
+  },
+  {
+    "question": "ギリシャ神話で兄弟が並んで立つ、冬の空の双子の星座は？",
+    "options": [
+      "ふたご座",
+      "しし座",
+      "おとめ座",
+      "てんびん座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ふたご座は二人の兄弟の星座だよ！",
+      "wrong": "ぶっぶー！並んで立つ二人の兄弟だよ！"
+    },
+    "id": "rid_228"
+  },
+  {
+    "question": "ギリシャ神話で亀の甲羅で作った楽器を持つ音楽家の星座は？",
+    "options": [
+      "こと座",
+      "はくちょう座",
+      "ペガスス",
+      "わし座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！こと座はオルフェウスの楽器だよ！",
+      "wrong": "ぶっぶー！弦楽器を持つ音楽家だよ！"
+    },
+    "id": "rid_229"
+  },
+  {
+    "question": "夜空をさっと流れ、願い事をさせる尾のある星は？",
+    "options": [
+      "流れ星",
+      "彗星",
+      "北極星",
+      "天の川"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！流れ星は願いをかける星だよ！",
+      "wrong": "ぶっぶー！夜空をさっと流れる星だよ！"
+    },
+    "id": "rid_230"
+  },
+  {
+    "question": "ギリシャ神話でヘラクレスの足をはさみで挟んだ蟹が天に昇った星座は？",
+    "options": [
+      "かに座",
+      "さそり座",
+      "しし座",
+      "おひつじ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！かに座はヘラクレスの足を挟んだ蟹だよ！",
+      "wrong": "ぶっぶー！ヘラクレス物語のハサミを持つ動物だよ！"
+    },
+    "id": "rid_231"
+  },
+  {
+    "question": "ギリシャ神話で狩人オリオンの猟犬、おおいぬ座で最も明るい星は？",
+    "options": [
+      "シリウス",
+      "北極星",
+      "ベガ",
+      "カノープス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！シリウスはオリオンの猟犬の星だよ！",
+      "wrong": "ぶっぶー！夜空で最も明るく輝く星だよ！"
+    },
+    "id": "rid_232"
+  },
+  {
+    "question": "南半球の船人が方角を取った、十字型の南の星座は？",
+    "options": [
+      "南十字星",
+      "北斗七星",
+      "カシオペア",
+      "はくちょう"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！南十字星は南半球の道しるべだよ！",
+      "wrong": "ぶっぶー！南の空の十字型の星座だよ！"
+    },
+    "id": "rid_233"
+  },
+  {
+    "question": "ギリシャ神話で熊を見張る牛飼い、明るい星アルクトゥルスを抱く星座は？",
+    "options": [
+      "うしかい座",
+      "おおぐま座",
+      "こぐま座",
+      "おとめ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！うしかい座は熊を見張る牛飼いだよ！",
+      "wrong": "ぶっぶー！おおぐま座を追う牛飼いの星座だよ！"
+    },
+    "id": "rid_234"
+  },
+  {
+    "question": "メドゥーサを退治したギリシャの英雄の名を冠した、秋の星座は？",
+    "options": [
+      "ペルセウス座",
+      "ヘルクレス座",
+      "オリオン",
+      "ケフェウス座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ペルセウス座はメドゥーサを退治した英雄だよ！",
+      "wrong": "ぶっぶー！メドゥーサを退治した英雄の星座だよ！"
+    },
+    "id": "rid_235"
+  },
+  {
+    "question": "ギリシャ最高の英雄の名を冠した、夏の大きな星座は？",
+    "options": [
+      "ヘルクレス座",
+      "ペルセウス座",
+      "オリオン",
+      "いて座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ヘルクレス座は最高の英雄の星座だよ！",
+      "wrong": "ぶっぶー！十二の難業を成した英雄の星座だよ！"
+    },
+    "id": "rid_236"
+  },
+  {
+    "question": "アンドロメダの父でエチオピアの王、北の空の星座は？",
+    "options": [
+      "ケフェウス座",
+      "カシオペア",
+      "ペルセウス座",
+      "ペガスス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ケフェウスはアンドロメダの父だよ！",
+      "wrong": "ぶっぶー！エチオピア王の星座だよ！"
+    },
+    "id": "rid_237"
+  },
+  {
+    "question": "ギリシャ神話の半人半馬ケンタウルス族全体を象徴する、南の空の大きな星座は？",
+    "options": [
+      "ケンタウルス座",
+      "いて座",
+      "うしかい座",
+      "ペルセウス座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ケンタウルス座は半人半馬族だよ！",
+      "wrong": "ぶっぶー！半人半馬族の星座だよ！"
+    },
+    "id": "rid_238"
+  },
+  {
+    "question": "アルゴ船の竜骨を取った、南の空の大きな星座は？",
+    "options": [
+      "りゅうこつ座",
+      "ケンタウルス座",
+      "南十字星",
+      "ペルセウス座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！りゅうこつ座はアルゴ船の竜骨だよ！",
+      "wrong": "ぶっぶー！アルゴ船の竜骨の星座だよ！"
+    },
+    "id": "rid_239"
+  },
+  {
+    "question": "おうし座の目と呼ばれる、赤く輝く星は？",
+    "options": [
+      "アルデバラン",
+      "リゲル",
+      "ベテルギウス",
+      "シリウス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！アルデバランは牡牛の目だよ！",
+      "wrong": "ぶっぶー！おうし座の赤い目だよ！"
+    },
+    "id": "rid_240"
+  },
+  {
+    "question": "オリオンの足元で青く輝く星は？",
+    "options": [
+      "リゲル",
+      "ベテルギウス",
+      "デネブ",
+      "カペラ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！リゲルはオリオンの足元の星だよ！",
+      "wrong": "ぶっぶー！狩人の足元で輝く星だよ！"
+    },
+    "id": "rid_241"
+  },
+  {
+    "question": "オリオンの肩で赤く輝く星は？",
+    "options": [
+      "ベテルギウス",
+      "リゲル",
+      "アルデバラン",
+      "アンタレス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ベテルギウスはオリオンの肩の星だよ！",
+      "wrong": "ぶっぶー！狩人の肩で輝く星だよ！"
+    },
+    "id": "rid_242"
+  },
+  {
+    "question": "はくちょう座の尾で輝く星は？",
+    "options": [
+      "デネブ",
+      "ベガ",
+      "アルタイル",
+      "カペラ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！デネブは白鳥の尾の星だよ！",
+      "wrong": "ぶっぶー！はくちょう座の尾の星だよ！"
+    },
+    "id": "rid_243"
+  },
+  {
+    "question": "こいぬ座でシリウスより先に昇る明るい星は？",
+    "options": [
+      "プロキオン",
+      "シリウス",
+      "ベテルギウス",
+      "カペラ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！プロキオンは先に昇るこいぬ座の星だよ！",
+      "wrong": "ぶっぶー！シリウスより先に昇る星だよ！"
+    },
+    "id": "rid_244"
+  },
+  {
+    "question": "ぎょしゃ座で最も明るく、山羊星と呼ばれる星は？",
+    "options": [
+      "カペラ",
+      "アルデバラン",
+      "プロキオン",
+      "デネブ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！カペラは山羊星だよ！",
+      "wrong": "ぶっぶー！ぎょしゃ座の山羊星だよ！"
+    },
+    "id": "rid_245"
+  },
+  {
+    "question": "オリオン・シリウス・プロキオンが作る、冬の星の三角形は？",
+    "options": [
+      "冬の大三角",
+      "夏の大三角",
+      "春の大三角",
+      "北斗七星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！冬の大三角は三つの冬の星が作る三角形だよ！",
+      "wrong": "ぶっぶー！冬の夜の三つの星が作る三角形だよ！"
+    },
+    "id": "rid_246"
+  },
+  {
+    "question": "ベガ・アルタイル・デネブが作る、夏の星の三角形は？",
+    "options": [
+      "夏の大三角",
+      "冬の大三角",
+      "春の大三角",
+      "秋の大三角"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！夏の大三角は三つの夏の星が作る三角形だよ！",
+      "wrong": "ぶっぶー！夏の夜の三つの星が作る三角形だよ！"
+    },
+    "id": "rid_247"
+  },
+  {
+    "question": "さそり座の心臓と呼ばれる、赤く輝く星は？",
+    "options": [
+      "アンタレス",
+      "アルデバラン",
+      "ベテルギウス",
+      "リゲル"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！アンタレスはサソリの心臓の星だよ！",
+      "wrong": "ぶっぶー！さそり座の赤い心臓の星だよ！"
+    },
+    "id": "rid_248"
+  },
+  {
+    "question": "ふたご座を成す二人の兄弟の一方の名を持つ明るい星は？",
+    "options": [
+      "ポルックス",
+      "カストル",
+      "アルデバラン",
+      "デネブ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ポルックスは双子の兄弟の星だよ！",
+      "wrong": "ぶっぶー！双子の兄弟の一方の星だよ！"
+    },
+    "id": "rid_249"
+  },
+  {
+    "question": "北斗七星の柄で二つに分かれて見える星は？",
+    "options": [
+      "ミザール",
+      "アルコル",
+      "北極星",
+      "カペラ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ミザールは二重に見える柄の星だよ！",
+      "wrong": "ぶっぶー！ひしゃくの柄の二重星だよ！"
+    },
+    "id": "rid_250"
+  },
+  {
+    "question": "ケンタウルス座で最も明るく、太陽に最も近い星は？",
+    "options": [
+      "アルファケンタウリ",
+      "シリウス",
+      "カノープス",
+      "ベガ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！アルファケンタウリは太陽に最も近い星だよ！",
+      "wrong": "ぶっぶー！太陽に最も近い隣の星だよ！"
+    },
+    "id": "rid_251"
+  },
+  {
+    "question": "カペラを抱く、御者の形の星座は？",
+    "options": [
+      "ぎょしゃ座",
+      "うしかい座",
+      "ふたご座",
+      "ペルセウス座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！ぎょしゃ座は御者の星座だよ！",
+      "wrong": "ぶっぶー！カペラを抱く御者の星座だよ！"
+    },
+    "id": "rid_252"
+  },
+  {
+    "question": "うしかい座のそばで二匹の猟犬を象徴する星座は？",
+    "options": [
+      "りょうけん座",
+      "うしかい座",
+      "こいぬ座",
+      "おおいぬ座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！りょうけん座は二匹の猟犬の星座だよ！",
+      "wrong": "ぶっぶー！牛飼いを追う二匹の猟犬の星座だよ！"
+    },
+    "id": "rid_253"
+  },
+  {
+    "question": "南の空で孔雀の姿をした、明るい星を抱く星座は？",
+    "options": [
+      "くじゃく座",
+      "南十字星",
+      "りゅうこつ座",
+      "ケンタウルス座"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！くじゃく座は南の空の孔雀だよ！",
+      "wrong": "ぶっぶー！南の空の孔雀型の星座だよ！"
+    },
+    "id": "rid_254"
+  },
+  {
+    "question": "しし・うしかい・おとめ座の明るい星が作る、春の星の三角形は？",
+    "options": [
+      "春の大三角",
+      "夏の大三角",
+      "冬の大三角",
+      "秋の大三角"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "正解！春の大三角は三つの春の星が作る三角形だよ！",
+      "wrong": "ぶっぶー！春の夜の三つの星が作る三角形だよ！"
+    },
+    "id": "rid_255"
+  }
+]

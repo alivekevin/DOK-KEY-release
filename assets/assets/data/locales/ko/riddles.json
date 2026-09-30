@@ -1,0 +1,4592 @@
+[
+  {
+    "question": "물 위에 떠도 가라앉지 않고, 사람을 태우고 바다를 건너는 것은?",
+    "options": [
+      "배",
+      "그물",
+      "풍선",
+      "돌"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 배를 태워 건너는 자야말로 바다의 주인이다!",
+      "wrong": "땡! 배는 물 위에 떠야 제 맛이지!"
+    },
+    "id": "rid_001"
+  },
+  {
+    "question": "스스로를 태워 가장 어두운 곳을 환하게 밝히는 것은?",
+    "options": [
+      "유리창",
+      "거울",
+      "촛불",
+      "항아리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답이다! 촛불은 자신을 태우며 남을 비춘다. 위대한 희생이지!",
+      "wrong": "아까워라! 스스로 타는 빛이라면 뭘까?"
+    },
+    "id": "rid_002"
+  },
+  {
+    "question": "해가 있을 때만 따라오고, 잡으려 하면 잡을 수 없는 것은?",
+    "options": [
+      "연기",
+      "그림자",
+      "바람",
+      "노을"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 그림자는 네가 빛을 등지지 않는 한 늘 곁에 있다깨비!",
+      "wrong": "땡! 빛 아래에서 네 옆에 붙어 다니는 것이라네!"
+    },
+    "id": "rid_003"
+  },
+  {
+    "question": "우산이 가려주지 못하는 발밑을 대신 지켜주는, 비 오는 날의 친구는?",
+    "options": [
+      "그늘막",
+      "비닐",
+      "장화",
+      "우비"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 장화는 비 오는 날 발을 물로부터 지켜준다깨비!",
+      "wrong": "땡! 비 오는 날 발에 신는 친구라네!"
+    },
+    "id": "rid_004"
+  },
+  {
+    "question": "어젯밤은 둥글었다가 오늘은 조각나는, 밤하늘의 은쟁이는?",
+    "options": [
+      "해",
+      "혜성",
+      "별",
+      "달"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 달은 매일 다른 모습으로 밤을 지켜준다깨비!",
+      "wrong": "땡! 밤마다 모양이 변하는 하늘 은쟁이 말이다!"
+    },
+    "id": "rid_005"
+  },
+  {
+    "question": "바람을 타고 하늘로 오르지만, 끝내 줄을 놓지 못하는 것은?",
+    "options": [
+      "연",
+      "새",
+      "풍선",
+      "비행기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 연은 줄이 있어야 더 높이 오른다. 인연도 그렇지!",
+      "wrong": "땡! 줄에 묶여야 하늘로 오르는 것이라네!"
+    },
+    "id": "rid_006"
+  },
+  {
+    "question": "소리 없이 찍히지만, 그 흔적에 이름이 남는 것은?",
+    "options": [
+      "우표",
+      "도장",
+      "손바닥",
+      "주먹"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 도장 한 방에 이름은 백 자짜리 약속이 된다깨비!",
+      "wrong": "땡! 찍는 순간 이름이 되는 것이라네!"
+    },
+    "id": "rid_007"
+  },
+  {
+    "question": "바람이 불면 소리를 내어 집을 지키는 대문 위의 장식은?",
+    "options": [
+      "나팔꽃",
+      "풍경",
+      "깃발",
+      "종"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 풍경 소리는 바람이 대문을 지나가는 흔적이다깨비!",
+      "wrong": "땡! 바람 만나 딸랑거리는 대문 장식이라네!"
+    },
+    "id": "rid_008"
+  },
+  {
+    "question": "쌀로 빚어 설날 차례상에 가장 먼저 오르는 흰 음식은?",
+    "options": [
+      "떡",
+      "밥",
+      "과일",
+      "국수"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 떡은 조상님과 우리를 잇는 하얀 다리다깨비!",
+      "wrong": "땡! 명절 상에 올라가는 쌀로 빚은 것이라네!"
+    },
+    "id": "rid_009"
+  },
+  {
+    "question": "남의 흔적을 지워줄수록 자신은 점점 작아지는 것은?",
+    "options": [
+      "솔",
+      "부채",
+      "비",
+      "지우개"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 지우개는 자신을 깎아가며 남의 실수를 지워준다. 고마운 존재지!",
+      "wrong": "땡! 지울수록 작아지는 착한 것이라네!"
+    },
+    "id": "rid_010"
+  },
+  {
+    "question": "아무리 빨리 달려도 그것을 잡을 수 없는 것은?",
+    "options": [
+      "시간",
+      "연기",
+      "바람",
+      "빛"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 시간은 세상에서 가장 빠른 도둑이다깨비!",
+      "wrong": "땡! 한숨 사이에 훔쳐 가는 것이라네!"
+    },
+    "id": "rid_011"
+  },
+  {
+    "question": "보고 싶은 얼굴을 들고 다니지만, 스스로는 아무것도 볼 수 없는 것은?",
+    "options": [
+      "거울",
+      "사진",
+      "창문",
+      "안경"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 거울은 남을 비추지만 자신은 보지 못한다깨비!",
+      "wrong": "땡! 남의 얼굴은 아는데 자기 얼굴은 모른다네!"
+    },
+    "id": "rid_012"
+  },
+  {
+    "question": "깎일수록 짧아지지만, 남기는 말은 늘어가는 것은?",
+    "options": [
+      "화살",
+      "깃대",
+      "연필",
+      "젓가락"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 연필은 몸을 깎아가며 지혜를 남긴다깨비!",
+      "wrong": "땡! 깎여가며 글자를 남기는 것이라네!"
+    },
+    "id": "rid_013"
+  },
+  {
+    "question": "낮에는 잠들고 밤에 눈이 번쩍! 산의 수호자는?",
+    "options": [
+      "고라니",
+      "부엉이",
+      "토끼",
+      "다람쥐"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 부엉이는 산의 밤을 지키는 현자다깨비!",
+      "wrong": "땡! 밤에 눈이 번쩍인다면 산의 현자라네!"
+    },
+    "id": "rid_014"
+  },
+  {
+    "question": "먹물을 갈아 글씨를 만들어내는, 스승의 책상 위 그릇은?",
+    "options": [
+      "벼루",
+      "주전자",
+      "그릇",
+      "항아리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 벼루는 먹과 붓 사이의 조용한 다리다깨비!",
+      "wrong": "땡! 먹을 갈아 글씨가 되게 하는 그릇이라네!"
+    },
+    "id": "rid_015"
+  },
+  {
+    "question": "바다 한가운데서 빛으로 배의 길을 밝혀주는 것은?",
+    "options": [
+      "등대",
+      "별",
+      "번개",
+      "달"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 등대는 안개 속에서도 길을 놓치지 않게 해준다깨비!",
+      "wrong": "땡! 밤바다에 혼자 빛나는 길잡이라네!"
+    },
+    "id": "rid_016"
+  },
+  {
+    "question": "휘두르면 소원이 이루어진다는, 도깨비의 필살 무기는?",
+    "options": [
+      "창",
+      "방패",
+      "활",
+      "방망이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 방망이 한 번 휘두르면 금이 쏟아진다깨비!",
+      "wrong": "땡! 도깨비의 상징이 무엇이겠느냐!"
+    },
+    "id": "rid_017"
+  },
+  {
+    "question": "몸은 작아도 문을 열어주는 힘을 가진, 주머니 속의 영웅은?",
+    "options": [
+      "열쇠",
+      "동전",
+      "반지",
+      "단추"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 열쇠야말로 작지만 가장 강한 마법이다깨비!",
+      "wrong": "땡! 작지만 문을 여는 마법사라네!"
+    },
+    "id": "rid_018"
+  },
+  {
+    "question": "다리가 없는데도 길게 기어가며, 벗은 껍질은 약이 되는 것은?",
+    "options": [
+      "뱀",
+      "도마뱀",
+      "지렁이",
+      "장화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 뱀은 허물을 벗을 때마다 새로 태어난다깨비!",
+      "wrong": "땡! 다리 없이도 세상을 건너는 자라네!"
+    },
+    "id": "rid_019"
+  },
+  {
+    "question": "아침부터 저녁까지 해를 쫓아 고개를 돌리는 꽃은?",
+    "options": [
+      "코스모스",
+      "목련",
+      "해바라기",
+      "무궁화"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 해바라기는 하루 종일 태양을 우러러본다깨비!",
+      "wrong": "땡! 해만 바라보는 고집 센 꽃이라네!"
+    },
+    "id": "rid_020"
+  },
+  {
+    "question": "여름에 문을 열면 찬 기운이 쏟아지는, 주방의 보물상자는?",
+    "options": [
+      "항아리",
+      "화롯가",
+      "냉장고",
+      "온돌"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 냉장고는 여름철 주방의 얼음 동굴이다깨비!",
+      "wrong": "땡! 열어젖히면 찬바람이 나오는 상자라네!"
+    },
+    "id": "rid_021"
+  },
+  {
+    "question": "떠다니지 않고 등을 내주어 강을 건너게 하는 돌과 흙의 길은?",
+    "options": [
+      "배",
+      "둑",
+      "다리",
+      "우물"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 다리는 흔들리지 않는 믿음으로 사람을 건네준다깨비!",
+      "wrong": "땡! 물 위에 굳건히 선 흙과 돌의 길이라네!"
+    },
+    "id": "rid_022"
+  },
+  {
+    "question": "목에 감겨야 제 맛이 나는, 겨울의 부드러운 벗은?",
+    "options": [
+      "장갑",
+      "양말",
+      "목도리",
+      "모자"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 목도리는 겨울 바람과 목 사이의 성벽이다깨비!",
+      "wrong": "땡! 목에 감아야 제 맛나는 겨울 벗이라네!"
+    },
+    "id": "rid_023"
+  },
+  {
+    "question": "눈을 감고 들으면 잠이 오는, 엄마의 목소리로 부르는 노래는?",
+    "options": [
+      "아리랑",
+      "자장가",
+      "민요",
+      "동요"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 자장가는 세상에서 가장 부드러운 마법이다깨비!",
+      "wrong": "땡! 듣다 보면 눈이 감기는 노래라네!"
+    },
+    "id": "rid_024"
+  },
+  {
+    "question": "산속에서 홀로 깜빡이는 푸른 불빛, 사람을 놀리는 것도 좋아하는 것은?",
+    "options": [
+      "반딧불",
+      "도깨비불",
+      "별똥별",
+      "화염"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 도깨비불은 우리 친척들이 밤에 노는 것이다깨비!",
+      "wrong": "땡! 산에서 혼자 깜빡이는 푸른 불이라네!"
+    },
+    "id": "rid_025"
+  },
+  {
+    "question": "입동이 되면 대문에 뿌려서 액운을 쫓아내는 둥근 곡식은?",
+    "options": [
+      "쌀",
+      "팥",
+      "참깨",
+      "콩"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 콩은 '위염, 나가라!'를 외치며 악귀를 쫓는다깨비!",
+      "wrong": "땡! 팔랑팔랑 뿌려 액을 막는 곡식이라네!"
+    },
+    "id": "rid_026"
+  },
+  {
+    "question": "거꾸로 걸어도 대문에 걸리면 복이 들어온다는 긴 짚으로 빚은 것은?",
+    "options": [
+      "자",
+      "멍석",
+      "복조리",
+      "짚신"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 복조리는 복을 담아 대문에 걸어두는 그릇이다깨비!",
+      "wrong": "땡! 복이 가득 들어오라며 걸어두는 것이라네!"
+    },
+    "id": "rid_027"
+  },
+  {
+    "question": "뿌리가 깊어 태풍에도 끄떡없이 서 있는, 숲의 장군은?",
+    "options": [
+      "나무",
+      "바위",
+      "덩굴",
+      "풀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 나무는 깊은 뿌리가 있어 폭풍에도 흔들리지 않는다깨비!",
+      "wrong": "땡! 뿌리가 깊어야 폭풍도 견딘다네!"
+    },
+    "id": "rid_028"
+  },
+  {
+    "question": "맛은 쓰지도 달지도 않은데 모든 요리에 빠지면 안 되는 흰 알갱이는?",
+    "options": [
+      "식초",
+      "후추",
+      "소금",
+      "설탕"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 소금은 없으면 모든 맛이 외로워진다깨비!",
+      "wrong": "땡! 조금만 있어도 맛을 살리는 흰 알갱이라네!"
+    },
+    "id": "rid_029"
+  },
+  {
+    "question": "해가 뜨기 직전 잠깐만 모습을 드러내는 가장 빠른 별은?",
+    "options": [
+      "유성",
+      "북두칠성",
+      "새벽별",
+      "폴라리스"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 새벽별은 가장 부지런한 별이다깨비!",
+      "wrong": "땡! 해 뜨기 전에만 인사하는 별이라네!"
+    },
+    "id": "rid_030"
+  },
+  {
+    "question": "아무리 걸어가도 닿지 않는, 하늘과 땅이 만나는 그 선은?",
+    "options": [
+      "지하철",
+      "밧줄",
+      "지평선",
+      "경계선"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 지평선은 다가가면 물러나는 수수께끼의 선이다깨비!",
+      "wrong": "땡! 갈수록 멀어지는 하늘과 땅의 만남이라네!"
+    },
+    "id": "rid_031"
+  },
+  {
+    "question": "백 년을 살아도 봄이면 새순을 내는, 산의 지혜로운 노인은?",
+    "options": [
+      "풀",
+      "바위",
+      "고목",
+      "연못"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고목은 나이를 먹어도 새 생명을 품는다깨비!",
+      "wrong": "땡! 늙어도 봄이면 새싹을 내는 산의 노인이라네!"
+    },
+    "id": "rid_032"
+  },
+  {
+    "question": "겨울 동안 집 안에서 태양 노릇 하는 따뜻한 벗은?",
+    "options": [
+      "선풍기",
+      "창문",
+      "난로",
+      "부채"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 난로는 눈 오는 밤을 견딜 수 있게 해주는 따뜻한 벗이다깨비!",
+      "wrong": "땡! 눈 오는 밤 곁을 지켜주는 작은 태양이라네!"
+    },
+    "id": "rid_033"
+  },
+  {
+    "question": "발을 넘어야 집 안으로 들어오는, 문 아래의 낮은 성벽은?",
+    "options": [
+      "문고리",
+      "문지방",
+      "담장",
+      "계단"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 문지방을 넘는 순간 손님이 되는 것이다깨비!",
+      "wrong": "땡! 넘어야 손님이 되는 낮은 성벽이라네!"
+    },
+    "id": "rid_034"
+  },
+  {
+    "question": "먹물을 배에 가득 담고, 한 번 누르면 긴 한 획이 되는 것은?",
+    "options": [
+      "붓",
+      "가위",
+      "막대",
+      "자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 붓은 먹을 삼켜 백 자짜리 글을 만든다깨비!",
+      "wrong": "땡! 먹물 한 모금으로 글이 되는 것이라네!"
+    },
+    "id": "rid_035"
+  },
+  {
+    "question": "강 위에 하나씩 놓여 밟고 건너게 해주는 돌의 계단은?",
+    "options": [
+      "계단",
+      "배",
+      "징검다리",
+      "다리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 징검다리는 돌들이 손을 잡아 만든 길이다깨비!",
+      "wrong": "땡! 돌이 손잡고 건너게 해주는 계단이라네!"
+    },
+    "id": "rid_036"
+  },
+  {
+    "question": "물속에서 오래 살아남아 매끈해진, 강가의 조용한 철학자는?",
+    "options": [
+      "자갈",
+      "조약돌",
+      "명줄",
+      "유리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 강물에 씻긴 자갈은 세월을 담은 매끈함이 있다깨비!",
+      "wrong": "땡! 물에 오래 씻겨 매끈해진 철학자라네!"
+    },
+    "id": "rid_037"
+  },
+  {
+    "question": "졸졸 흘러가다 큰 강이 되는, 산의 가장 작은 강은?",
+    "options": [
+      "개울",
+      "바다",
+      "연못",
+      "우물"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 개울은 작아도 결국 바다에 닿는다깨비!",
+      "wrong": "땡! 졸졸 흘러 바다가 되는 산의 샘이라네!"
+    },
+    "id": "rid_038"
+  },
+  {
+    "question": "연기로 집에 생명이 있다는 것을 알려주는 지붕 위의 친구는?",
+    "options": [
+      "풍경",
+      "깃대",
+      "앵두",
+      "굴뚝"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 굴뚝에서 연기가 나면 그 집은 살아있다깨비!",
+      "wrong": "땡! 연기가 피어오르면 그 집은 산다네!"
+    },
+    "id": "rid_039"
+  },
+  {
+    "question": "가을에 나무에서 떨어져 봄에는 흙의 양식이 되는 것은?",
+    "options": [
+      "열매",
+      "낙엽",
+      "가지",
+      "꽃가루"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 낙엽은 떨어져도 나무를 살리는 위대한 희생이다깨비!",
+      "wrong": "땡! 떨어져도 봄을 준비하는 것이라네!"
+    },
+    "id": "rid_040"
+  },
+  {
+    "question": "세상을 다 밝히면서도 자기 발밑만은 어두운 것은?",
+    "options": [
+      "별",
+      "달",
+      "횃불",
+      "등잔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 등잔 밑이 어둡다는 속담이 바로 이것이다깨비!",
+      "wrong": "땡! 남은 밝히는데 발밑은 어두운 것이라네!"
+    },
+    "id": "rid_041"
+  },
+  {
+    "question": "바람을 먹고 빙글빙글 돌아가는, 아이들의 하늘 오르기 친구는?",
+    "options": [
+      "바람개비",
+      "풍선",
+      "연",
+      "종이비행기"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 바람개비는 바람이 살아있다는 증거다깨비!",
+      "wrong": "땡! 바람 먹고 빙글빙글 도는 것이라네!"
+    },
+    "id": "rid_042"
+  },
+  {
+    "question": "상상 속에만 살지만 악귀를 물어뜯어 지켜주는, 문 앞의 신수는?",
+    "options": [
+      "사슴",
+      "토끼",
+      "호랑이",
+      "해태"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 해태는 불의를 보면 물어뜯는 정의의 신수다깨비!",
+      "wrong": "땡! 악귀를 잡아먹는 문지기 신수라네!"
+    },
+    "id": "rid_043"
+  },
+  {
+    "question": "파란색과 빨간색이 돌아가며 조화를 이루는, 깃발과 옷의 문양은?",
+    "options": [
+      "무지개",
+      "꽃무늬",
+      "오방",
+      "태극"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 태극 문양은 음과 양이 돌아가는 우주의 법칙이다깨비!",
+      "wrong": "땡! 파랑과 빨강이 어우러진 문양이라네!"
+    },
+    "id": "rid_044"
+  },
+  {
+    "question": "옷 고개에서 길게 늘어뜨려 단정함을 더하는 한복의 리본은?",
+    "options": [
+      "단추",
+      "끈",
+      "고름",
+      "지퍼"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고름은 한복의 품격을 말해주는 긴 속삭임이다깨비!",
+      "wrong": "땡! 옷고개에서 길게 늘어지는 리본이라네!"
+    },
+    "id": "rid_045"
+  },
+  {
+    "question": "입김을 불면 애절한 소리가 나는, 대나무로 만든 악기는?",
+    "options": [
+      "대금",
+      "장구",
+      "북",
+      "징"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 대금은 대나무가 슬픔을 노래하게 한 것이다깨비!",
+      "wrong": "땡! 입김 한 줄기로 애절함을 내는 악기라네!"
+    },
+    "id": "rid_046"
+  },
+  {
+    "question": "두드릴수록 소리가 커지는, 가죽으로 만든 심장은?",
+    "options": [
+      "나팔",
+      "북",
+      "종",
+      "피리"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 북은 두드릴수록 마음이 뛰는 소리가 된다깨비!",
+      "wrong": "땡! 두드릴수록 커지는 소리의 심장이라네!"
+    },
+    "id": "rid_047"
+  },
+  {
+    "question": "칠 때마다 울리고, 다 치면 침묵하는 절의 거대한 목소리는?",
+    "options": [
+      "꽹과리",
+      "북",
+      "종",
+      "나팔"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 종의 소리는 세상을 깨우는 부처의 목소리다깨비!",
+      "wrong": "땡! 한 번 치면 오래 울리는 거대한 목소리라네!"
+    },
+    "id": "rid_048"
+  },
+  {
+    "question": "봄에도 여름에도 가을에도 겨울에도 얼굴이 다른 산은?",
+    "options": [
+      "설악산",
+      "한라산",
+      "지리산",
+      "금강산"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 금강산도 식후경! 계절마다 다른 얼굴을 가진 산이다깨비!",
+      "wrong": "땡! 사계절 내내 다른 얼굴이라면 어느 산이겠느냐!"
+    },
+    "id": "rid_049"
+  },
+  {
+    "question": "99개의 황금 열쇠를 모은 용사에게 깨비가 내리는 최고의 칭호는?",
+    "options": [
+      "도깨비 마스터",
+      "보물사냥꾼",
+      "골드 캡틴",
+      "열쇠장인"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 바로 너다, 도깨비 마스터! 오늘부터 내 벗이다!",
+      "wrong": "땡! 99개 열쇠를 모으면 얻는 최고의 칭호라네!"
+    },
+    "id": "rid_050"
+  },
+  {
+    "question": "발은 없지만 온 세상을 돌아다니고, 손은 없지만 문을 흔드는 것은?",
+    "options": [
+      "바람",
+      "구름",
+      "그림자",
+      "소문"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "크하하! 보이지 않아도 천하를 흔드는 바람의 기운이라네!",
+      "wrong": "땡! 손발 없이도 어디든 스쳐 지나가는 것이 무엇이겠느냐!"
+    },
+    "id": "rid_051"
+  },
+  {
+    "question": "낮에는 숨어 있다가 밤이 되면 까만 하늘에 보석처럼 박히는 것은?",
+    "options": [
+      "별",
+      "등대",
+      "반딧불이",
+      "달무리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "맞았다! 어두운 밤하늘을 수놓는 별빛은 지혜의 길잡이지!",
+      "wrong": "땡! 밤하늘에 반짝이는 수천 개의 보석을 생각해 보아라!"
+    },
+    "id": "rid_052"
+  },
+  {
+    "question": "머리에 빨간 모자를 쓰고 온몸을 태워 어둠을 몰아내는 것은?",
+    "options": [
+      "성냥",
+      "단풍잎",
+      "고추",
+      "봉선화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "정답! 찰나의 마찰로 불꽃을 피워내는 작은 거인 성냥이라네!",
+      "wrong": "땡! 붉은 머리를 긁어 불을 켜는 물건이란다!"
+    },
+    "id": "rid_053"
+  },
+  {
+    "question": "비가 오면 활짝 펼쳐져 나를 지켜주는 작은 지붕은?",
+    "options": [
+      "우산",
+      "장화",
+      "비옷",
+      "모자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 우산은 비 오는 날의 작은 지붕이지!",
+      "wrong": "땡! 비 올 때 펼쳐서 쓰는 거야!"
+    },
+    "id": "rid_054"
+  },
+  {
+    "question": "소리는 없지만 마음을 울리고, 글자는 없지만 감정을 전하는 것은?",
+    "options": [
+      "미소",
+      "낙엽",
+      "눈물",
+      "침묵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "참으로 훌륭하다! 따뜻한 미소야말로 도깨비 방망이보다 강한 힘이지!",
+      "wrong": "땡! 얼굴 가득 피어나는 가장 따스한 표정을 떠올려보게나!"
+    },
+    "id": "rid_055"
+  },
+  {
+    "question": "가진 자는 감추려 하고, 잃은 자는 아쉬워하며, 남에게 말하면 사라지는 것은?",
+    "options": [
+      "비밀",
+      "보석",
+      "돈",
+      "열쇠"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "크하하! 입 밖에 내는 순간 더 이상 비밀이 아니게 되지!",
+      "wrong": "땡! 오직 너와 나만 알고 있어야 지켜지는 것이라네!"
+    },
+    "id": "rid_056"
+  },
+  {
+    "question": "갈 때는 가볍게 날아가고, 올 때는 무겁게 내려앉아 세상을 하얗게 덮는 것은?",
+    "options": [
+      "눈",
+      "밀가루",
+      "안개",
+      "소금"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답이다! 온 세상을 순백으로 덮는 겨울의 선물, 눈꽃이지!",
+      "wrong": "땡! 하늘에서 송이송이 내려 세상을 덮는 하얀 가루라네!"
+    },
+    "id": "rid_057"
+  },
+  {
+    "question": "뿌리는 하늘에 두고 줄기와 잎은 땅으로 자라는 겨울 고드름의 별칭은?",
+    "options": [
+      "얼음 처마새",
+      "처마 고드름",
+      "하늘 나무",
+      "겨울 싹"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "맞았다! 처마 끝에 거꾸로 자라나는 맑고 투명한 유리창살이지!",
+      "wrong": "땡! 겨울날 처마 밑에 길게 매달리는 얼음 기둥을 보아라!"
+    },
+    "id": "rid_058"
+  },
+  {
+    "question": "태어날 때는 네 발, 자라서는 두 발, 늙어서는 세 발로 걷는 것은?",
+    "options": [
+      "사람",
+      "호랑이",
+      "도깨비",
+      "두꺼비"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "스핑크스도 감탄할 지혜로다! 아기, 청년, 지팡이를 짚은 노인의 인생길이지!",
+      "wrong": "땡! 인생의 사계절을 걸어가는 사람의 모습이라네!"
+    },
+    "id": "rid_059"
+  },
+  {
+    "question": "늘 한자리에 서서 지나가는 길손에게 방향을 가리켜주는 돌기둥은?",
+    "options": [
+      "장승",
+      "솟대",
+      "돌탑",
+      "비석"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "천하대장군 지하여장군! 마을 어귀를 지키는 우리 민족의 수호신 장승이다!",
+      "wrong": "땡! 익살스러운 얼굴로 길을 안내해 주는 마을의 벗이라네!"
+    },
+    "id": "rid_060"
+  },
+  {
+    "question": "던지면 솟구치고 굴러서 네 쪽의 나무쪽이 승부를 가르는 전통 놀이는?",
+    "options": [
+      "윷놀이",
+      "비석치기",
+      "제기차기",
+      "투호"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "도·개·걸·윷·모! 온 가족이 흥겹게 마당을 달리는 윷판이라네!",
+      "wrong": "땡! 박달나무 토막을 공중에 던져 말을 달리는 놀이란다!"
+    },
+    "id": "rid_061"
+  },
+  {
+    "question": "발로 차면 공중에서 깃털을 날리며 사뿐사뿐 춤추는 전통 놀이기구는?",
+    "options": [
+      "제기",
+      "팽이",
+      "연",
+      "굴렁쇠"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "정답! 엽전에 한지를 싸서 발로 툭툭 차올리는 제기라네!",
+      "wrong": "땡! 발끝으로 떨어뜨리지 않고 통통 튕기는 것이지!"
+    },
+    "id": "rid_062"
+  },
+  {
+    "question": "바람을 타고 하늘 높이 날아오르지만 가느다란 실 하나에 묶여 있는 것은?",
+    "options": [
+      "방패연",
+      "풍선",
+      "새장",
+      "그네"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "훨훨 날아라! 얼레 실을 풀고 감으며 하늘을 누비는 방패연이지!",
+      "wrong": "땡! 정월 대보름에 액운을 실어 하늘로 날려 보내던 것이란다!"
+    },
+    "id": "rid_063"
+  },
+  {
+    "question": "채로 칠수록 더 신나게 팽팽 돌아가는 얼음판 위의 작은 팽이는?",
+    "options": [
+      "나무 팽이",
+      "바퀴",
+      "구슬",
+      "맷돌"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "빙글빙글 잘도 돈다! 채찍질할수록 더 꼿꼿이 서는 팽이라네!",
+      "wrong": "땡! 채찍 끈으로 휘감아 얼음 위에서 돌리던 것이란다!"
+    },
+    "id": "rid_064"
+  },
+  {
+    "question": "두 개의 둥근 돌을 겹쳐 놓고 손잡이를 돌려 콩이나 곡식을 곱게 가는 기구는?",
+    "options": [
+      "맷돌",
+      "절구",
+      "디딜방아",
+      "가마솥"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "어처구니가 없으면 못 돌리지! 고소한 두부를 만드는 맷돌이라네!",
+      "wrong": "땡! 어처구니 손잡이를 잡고 빙글빙글 돌려 갈아내는 도구란다!"
+    },
+    "id": "rid_065"
+  },
+  {
+    "question": "쉴 새 없이 뛰지만 스스로는 쉬지 못하는, 가슴속의 시계는?",
+    "options": [
+      "심장",
+      "폐",
+      "뇌",
+      "눈"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 심장은 평생 멈추지 않는 몸속의 시계야!",
+      "wrong": "땡! 가슴속에서 쉬지 않고 뛰는 거야!"
+    },
+    "id": "rid_066"
+  },
+  {
+    "question": "숫자들이 둥글게 모여 있고, 소리 없이 세상을 재촉하는 것은?",
+    "options": [
+      "시계",
+      "달력",
+      "나침반",
+      "온도계"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 시계는 소리 없이 시간을 알려주는 도구야!",
+      "wrong": "땡! 둥근 숫자판에서 시간을 읽는 거야!"
+    },
+    "id": "rid_067"
+  },
+  {
+    "question": "줄수록 커지고, 나눌수록 깊어지는 마음은?",
+    "options": [
+      "사랑",
+      "미움",
+      "욕심",
+      "슬픔"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "정답! 사랑은 나눌수록 더 커지는 마음이야!",
+      "wrong": "땡! 나누면 커지는 따뜻한 마음이야!"
+    },
+    "id": "rid_068"
+  },
+  {
+    "question": "힘들 때 곁을 지키고, 슬플 때 등을 토닥여주는 사람은?",
+    "options": [
+      "친구",
+      "스승",
+      "이웃",
+      "낯선 이"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "정답! 친구는 곁을 지켜주는 소중한 사람이야!",
+      "wrong": "땡! 곁에서 힘이 되어주는 사람이야!"
+    },
+    "id": "rid_069"
+  },
+  {
+    "question": "비가 그친 뒤 하늘에 일곱 빛으로 걸리는 다리는?",
+    "options": [
+      "무지개",
+      "노을",
+      "구름",
+      "별"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 무지개는 비와 햇빛이 만드는 하늘의 다리야!",
+      "wrong": "땡! 비 갠 뒤 하늘에 뜨는 거야!"
+    },
+    "id": "rid_070"
+  },
+  {
+    "question": "진흙 속에서 자라나지만 더러움에 물들지 않고 청초한 꽃을 피우는 지혜의 꽃은?",
+    "options": [
+      "연꽃",
+      "국화",
+      "매화",
+      "수선화"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "처염상정! 세상의 유혹 속에서도 맑은 본성을 지키는 연꽃이라네!",
+      "wrong": "땡! 흙탕물 속에서도 고결한 자태를 잃지 않는 꽃을 떠올려보게나!"
+    },
+    "id": "rid_071"
+  },
+  {
+    "question": "추운 겨울 눈보라 속에서도 푸른 잎을 잃지 않는 지조와 절개의 나무는?",
+    "options": [
+      "소나무",
+      "버드나무",
+      "단풍나무",
+      "은행나무"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "송죽의 기상! 천년의 비바람에도 굳건한 푸른 소나무로다!",
+      "wrong": "땡! 사계절 내내 변함없이 푸르름을 간직하는 나무라네!"
+    },
+    "id": "rid_072"
+  },
+  {
+    "question": "가장 먼저 봄 소식을 알리며 차가운 눈 속에서도 붉은 꽃망울을 터뜨리는 꽃은?",
+    "options": [
+      "설중매",
+      "장미",
+      "나팔꽃",
+      "코스모스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "매서운 추위를 이겨내고 그윽한 향기를 뿜는 선비의 꽃, 매화로다!",
+      "wrong": "땡! 눈 속에서 피어나는 봄의 전령사를 찾아보아라!"
+    },
+    "id": "rid_073"
+  },
+  {
+    "question": "속은 텅 비어 있으나 곧게 자라 마디마디를 단단히 채우는 절개의 상징은?",
+    "options": [
+      "대나무",
+      "갈대",
+      "수수",
+      "억새"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "비움으로써 더 곧게 자라는 지혜! 사군자의 대나무가 맞다깨비!",
+      "wrong": "땡! 속을 비워 바람에 부러지지 않고 유연한 초록 나무라네!"
+    },
+    "id": "rid_074"
+  },
+  {
+    "question": "도깨비의 보물 창고를 열고 인생의 참된 지혜를 열어주는 신비한 열쇠는?",
+    "options": [
+      "도깨비 황금 열쇠",
+      "쇠열쇠",
+      "돌도끼",
+      "보물지도"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "와하하! 네가 매일 모으고 있는 지혜의 열쇠, 바로 DOK-KEY로다!",
+      "wrong": "땡! 우리 앱의 이름이자 지혜를 여는 황금 열쇠를 잊었느냐!"
+    },
+    "id": "rid_075"
+  },
+  {
+    "question": "여덟 다리 친구가 밤새 짜 놓은, 이슬에 반짝이는 그물은?",
+    "options": [
+      "실타래",
+      "낚싯줄",
+      "거미줄",
+      "그물"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 거미줄은 여덟 다리 친구의 정교한 작품이야!",
+      "wrong": "땡! 밤에 짜서 곤충을 잡는 거야!"
+    },
+    "id": "rid_076"
+  },
+  {
+    "question": "어디로 가든 늘 한쪽만 가리키는, 길 잃은 여행자의 친구는?",
+    "options": [
+      "지도",
+      "나침반",
+      "시계",
+      "망원경"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 나침반은 언제나 북쪽을 가리키는 든든한 친구야!",
+      "wrong": "땡! 방향을 알려주는 도구야!"
+    },
+    "id": "rid_077"
+  },
+  {
+    "question": "코 위에 걸터앉아 흐린 세상을 또렷하게 만들어주는 것은?",
+    "options": [
+      "모자",
+      "안경",
+      "마스크",
+      "목걸이"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 안경은 흐린 눈을 대신해 주는 고마운 친구야!",
+      "wrong": "땡! 눈에 쓰는 거야!"
+    },
+    "id": "rid_078"
+  },
+  {
+    "question": "국물은 마시고 밥알은 건져내는, 밥상 위의 작은 삽은?",
+    "options": [
+      "숟가락",
+      "젓가락",
+      "포크",
+      "국자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 숟가락은 밥상의 작은 삽이지!",
+      "wrong": "땡! 국물도 밥도 함께 먹는 도구야!"
+    },
+    "id": "rid_079"
+  },
+  {
+    "question": "작은 구멍 하나로 실을 데리고 다니는, 뾰족한 친구는?",
+    "options": [
+      "못",
+      "바늘",
+      "가위",
+      "자"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 바늘은 실을 데리고 옷을 꿰매는 친구야!",
+      "wrong": "땡! 실을 꿰는 뾰족한 도구야!"
+    },
+    "id": "rid_080"
+  },
+  {
+    "question": "마법사가 타고 다닌다는, 먼지를 쓸어 모으는 것은?",
+    "options": [
+      "걸레",
+      "빗자루",
+      "청소기",
+      "밀대"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 빗자루는 마녀의 탈것이자 청소 도구야!",
+      "wrong": "땡! 쓸어서 먼지를 모으는 도구야!"
+    },
+    "id": "rid_081"
+  },
+  {
+    "question": "하루 두 번 입속을 닦아주는, 작은 거품 요정의 도구는?",
+    "options": [
+      "칫솔",
+      "비누",
+      "수건",
+      "컵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 칫솔은 거품을 내어 이를 닦는 도구야!",
+      "wrong": "땡! 양치할 때 쓰는 도구야!"
+    },
+    "id": "rid_082"
+  },
+  {
+    "question": "쓸수록 몸이 작아지고, 거품으로 때를 씻어내는 것은?",
+    "options": [
+      "수건",
+      "비누",
+      "샴푸",
+      "스펀지"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 비누는 쓸수록 작아지며 때를 씻어내!",
+      "wrong": "땡! 거품으로 씻는 것이야!"
+    },
+    "id": "rid_083"
+  },
+  {
+    "question": "두 발에 하나씩, 꼭 짝이 맞아야 하는 것은?",
+    "options": [
+      "장갑",
+      "양말",
+      "신발",
+      "목도리"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 양말은 두 발에 짝을 맞춰 신는 거야!",
+      "wrong": "땡! 발에 신는 짝이 있는 것이야!"
+    },
+    "id": "rid_084"
+  },
+  {
+    "question": "겨울에 손가락 다섯을 따뜻하게 감싸주는 것은?",
+    "options": [
+      "장갑",
+      "양말",
+      "목도리",
+      "모자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 장갑은 손가락을 따뜻하게 지켜주는 친구야!",
+      "wrong": "땡! 손에 끼는 것이야!"
+    },
+    "id": "rid_085"
+  },
+  {
+    "question": "머리에 얹혀 햇빛을 가려주는 것은?",
+    "options": [
+      "안경",
+      "우산",
+      "모자",
+      "신발"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 모자는 머리를 지키는 햇빛 가리개야!",
+      "wrong": "땡! 머리에 쓰는 것이야!"
+    },
+    "id": "rid_086"
+  },
+  {
+    "question": "바다가 숨을 쉴 때마다 밀려왔다 사라지는 것은?",
+    "options": [
+      "파도",
+      "조수",
+      "거품",
+      "모래"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 파도는 바다의 숨결이야!",
+      "wrong": "땡! 바닷가로 밀려오는 물결이야!"
+    },
+    "id": "rid_087"
+  },
+  {
+    "question": "새벽 풀잎에 맺히는, 밤이 남긴 물방울은?",
+    "options": [
+      "눈",
+      "비",
+      "이슬",
+      "서리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 이슬은 밤이 남긴 맑은 물방울이야!",
+      "wrong": "땡! 새벽에 풀잎에 맺히는 물방울이야!"
+    },
+    "id": "rid_088"
+  },
+  {
+    "question": "야옹 하고 울며 쥐를 쫓는, 수염 난 친구는?",
+    "options": [
+      "고양이",
+      "강아지",
+      "토끼",
+      "여우"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고양이는 쥐를 쫓는 수염 난 사냥꾼이야!",
+      "wrong": "땡! 야옹 하고 우는 동물이야!"
+    },
+    "id": "rid_089"
+  },
+  {
+    "question": "줄을 지어 걸어가며 여름내 부지런히 일하는, 작은 일꾼은?",
+    "options": [
+      "벌",
+      "개미",
+      "나비",
+      "거미"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 개미는 줄을 지어 일하는 부지런한 일꾼이야!",
+      "wrong": "땡! 땅 위를 줄지어 걷는 곤충이야!"
+    },
+    "id": "rid_090"
+  },
+  {
+    "question": "코가 길고 귀가 커서 부채처럼 부치는, 큰 동물은?",
+    "options": [
+      "코끼리",
+      "코뿔소",
+      "하마",
+      "기린"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 코끼리는 큰 귀로 부채질하는 거인 친구야!",
+      "wrong": "땡! 코가 긴 큰 동물이야!"
+    },
+    "id": "rid_091"
+  },
+  {
+    "question": "빨강·노랑·초록 세 눈으로 길을 알려주는 것은?",
+    "options": [
+      "가로등",
+      "신호등",
+      "전봇대",
+      "표지판"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 신호등은 세 눈으로 길을 지휘하는 교통경찰이야!",
+      "wrong": "땡! 세 색 불빛으로 신호를 주는 것이야!"
+    },
+    "id": "rid_092"
+  },
+  {
+    "question": "두 바퀴로 페달을 밟아 굴러가는 탈것은?",
+    "options": [
+      "오토바이",
+      "자동차",
+      "자전거",
+      "버스"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 자전거는 두 바퀴로 달리는 발의 친구야!",
+      "wrong": "땡! 페달을 밟아 가는 두 바퀴 탈것이야!"
+    },
+    "id": "rid_093"
+  },
+  {
+    "question": "편지를 넣으면 멀리까지 대신 달려가 주는, 빨간 네모 상자는?",
+    "options": [
+      "가방",
+      "상자",
+      "우체통",
+      "금고"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 우체통은 편지를 먼 곳까지 보내주는 빨간 심부름꾼이야!",
+      "wrong": "땡! 편지를 넣는 빨간 상자야!"
+    },
+    "id": "rid_094"
+  },
+  {
+    "question": "줄에 매달려 앞뒤로 흔들흔들 타는 놀이기구는?",
+    "options": [
+      "시소",
+      "미끄럼틀",
+      "그네",
+      "정글짐"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 그네는 줄에 매달려 하늘을 나는 기분을 주지!",
+      "wrong": "땡! 앞뒤로 흔들며 타는 것이야!"
+    },
+    "id": "rid_095"
+  },
+  {
+    "question": "한쪽이 내려가면 다른 쪽이 올라가는, 둘이 타는 놀이기구는?",
+    "options": [
+      "그네",
+      "시소",
+      "회전목마",
+      "미끄럼틀"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 시소는 둘이 무게를 주고받으며 타는 거야!",
+      "wrong": "땡! 위아래로 오르내리는 둘의 놀이야!"
+    },
+    "id": "rid_096"
+  },
+  {
+    "question": "열쇠 없이는 절대 열리지 않는, 문을 지키는 쇠주먹은?",
+    "options": [
+      "자물쇠",
+      "문고리",
+      "경첩",
+      "빗장"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 자물쇠는 열쇠만이 열 수 있는 문지기야!",
+      "wrong": "땡! 열쇠로 여는 잠금장치야!"
+    },
+    "id": "rid_097"
+  },
+  {
+    "question": "절벽에서 하얗게 쏟아지는, 멈추지 않는 물의 커튼은?",
+    "options": [
+      "샘",
+      "폭포",
+      "시내",
+      "호수"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 폭포는 절벽을 타고 쏟아지는 물의 장관이야!",
+      "wrong": "땡! 높은 곳에서 쏟아지는 물이야!"
+    },
+    "id": "rid_098"
+  },
+  {
+    "question": "번쩍인 뒤에 뒤늦게 우르릉 울리는 소리는?",
+    "options": [
+      "번개",
+      "천둥",
+      "바람",
+      "메아리"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 천둥은 번개 뒤에 따라오는 하늘의 북소리야!",
+      "wrong": "땡! 번쩍임 뒤에 들리는 소리야!"
+    },
+    "id": "rid_099"
+  },
+  {
+    "question": "앞이 뿌옇게 사라지는, 땅에 내려앉은 구름은?",
+    "options": [
+      "연기",
+      "안개",
+      "김",
+      "구름"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 안개는 땅에 내려앉은 낮은 구름이야!",
+      "wrong": "땡! 앞을 가리는 뿌연 것이야!"
+    },
+    "id": "rid_100"
+  },
+  {
+    "question": "꽃밭을 팔랑팔랑 나는, 날개 달린 꽃은?",
+    "options": [
+      "벌",
+      "나비",
+      "잠자리",
+      "새"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 나비는 꽃밭을 나는 날개 달린 꽃이야!",
+      "wrong": "땡! 꽃밭을 팔랑팔랑 나는 곤충이야!"
+    },
+    "id": "rid_101"
+  },
+  {
+    "question": "날지 못하지만 남극에서 헤엄을 잘 치는, 턱시도 입은 새는?",
+    "options": [
+      "타조",
+      "갈매기",
+      "펭귄",
+      "오리"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 펭귄은 남극의 턱시도 수영선수야!",
+      "wrong": "땡! 남극에 사는 헤엄 잘 치는 새야!"
+    },
+    "id": "rid_102"
+  },
+  {
+    "question": "말을 아끼라는 곳인데, 책은 수만 권 꽂혀 있는 조용한 집은?",
+    "options": [
+      "서점",
+      "도서관",
+      "박물관",
+      "학교"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "정답! 도서관은 책과 침묵이 함께 사는 집이야!",
+      "wrong": "땡! 책을 빌려 조용히 보는 곳이야!"
+    },
+    "id": "rid_103"
+  },
+  {
+    "question": "배추를 절여 양념해 겨울에 먹는, 매콤한 반찬은?",
+    "options": [
+      "장아찌",
+      "김치",
+      "피클",
+      "샐러드"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "정답! 김치는 겨울을 나는 한국의 매콤한 보물이야!",
+      "wrong": "땡! 배추로 담그는 매콤한 반찬이야!"
+    },
+    "id": "rid_104"
+  },
+  {
+    "question": "세종대왕이 만들었다는, 우리글의 이름은?",
+    "options": [
+      "한글",
+      "한자",
+      "알파벳",
+      "히라가나"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "정답! 한글은 세종대왕이 백성을 위해 만든 글자야!",
+      "wrong": "땡! 세종대왕이 만든 우리 글자야!"
+    },
+    "id": "rid_105"
+  },
+  {
+    "question": "지키면 신뢰가 되고, 어기면 실망이 되는 말은?",
+    "options": [
+      "거짓말",
+      "비밀",
+      "약속",
+      "인사"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "wisdom",
+    "kkaebi_reaction": {
+      "correct": "정답! 약속은 지킬수록 신뢰를 쌓는 말이야!",
+      "wrong": "땡! 지켜야 신뢰가 되는 말이야!"
+    },
+    "id": "rid_106"
+  },
+  {
+    "question": "십이지신 중 맨 처음에 오는 동물은?",
+    "options": [
+      "소",
+      "호랑이",
+      "토끼",
+      "쥐"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 십이지신의 첫 번째는 영리한 쥐야!",
+      "wrong": "땡! 십이지신의 맨 앞 동물을 떠올려봐!"
+    },
+    "id": "rid_107"
+  },
+  {
+    "question": "동양사상에서 사방을 지키는 사신 중, 동쪽을 맡아 푸른 용의 모습을 한 신수는?",
+    "options": [
+      "봉황",
+      "백호",
+      "기린",
+      "청룡"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 청룡은 하늘을 나는 동방의 수호신수야!",
+      "wrong": "땡! 동방을 지키는 하늘의 수호신수야!"
+    },
+    "id": "rid_108"
+  },
+  {
+    "question": "그리스 신화에서 바다를 다스리는 신은?",
+    "options": [
+      "제우스",
+      "하데스",
+      "아폴론",
+      "포세이돈"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 포세이돈은 삼지창으로 바다를 다스리는 신이야!",
+      "wrong": "땡! 삼지창을 든 바다의 신이야!"
+    },
+    "id": "rid_109"
+  },
+  {
+    "question": "그리스 신화에서 지혜와 전쟁을 상징하는 여신은?",
+    "options": [
+      "헤라",
+      "아프로디테",
+      "아르테미스",
+      "아테나"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 아테나는 지혜와 전쟁의 여신이야!",
+      "wrong": "땡! 올빼미가 상징인 지혜의 여신이야!"
+    },
+    "id": "rid_110"
+  },
+  {
+    "question": "북유럽 신화에서 묠니르 망치로 천둥을 일으키는 힘의 신은?",
+    "options": [
+      "오딘",
+      "로키",
+      "발키리",
+      "토르"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 토르는 묠니르 망치로 천둥을 일으키는 신이야!",
+      "wrong": "땡! 망치 묠니르를 든 천둥의 신이야!"
+    },
+    "id": "rid_111"
+  },
+  {
+    "question": "그리스 신화에서 저승(명계)을 다스리는 왕은?",
+    "options": [
+      "제우스",
+      "포세이돈",
+      "아폴론",
+      "하데스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 하데스는 저승을 다스리는 명계의 왕이야!",
+      "wrong": "땡! 제우스의 형제이자 저승의 왕이야!"
+    },
+    "id": "rid_112"
+  },
+  {
+    "question": "인도 신화에서 코끼리 머리를 한 지혜와 행운의 신은?",
+    "options": [
+      "시바",
+      "인드라",
+      "라",
+      "가네샤"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 가네샤는 코끼리 머리의 지혜와 행운의 신이야!",
+      "wrong": "땡! 코끼리 머리를 한 인도의 신이야!"
+    },
+    "id": "rid_113"
+  },
+  {
+    "question": "이집트 신화에서 자칼 머리를 한 죽음과 미라의 신은?",
+    "options": [
+      "오시리스",
+      "라",
+      "바스테트",
+      "아누비스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 아누비스는 자칼 머리의 죽음과 미라의 신이야!",
+      "wrong": "땡! 자칼 머리를 한 이집트의 신이야!"
+    },
+    "id": "rid_114"
+  },
+  {
+    "question": "십이지신 중 새벽을 알리는 울음소리의 주인공은?",
+    "options": [
+      "원숭이",
+      "양",
+      "말",
+      "닭"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 닭은 새벽을 알리는 십이지신의 새야!",
+      "wrong": "땡! 새벽에 우는 십이지신의 새야!"
+    },
+    "id": "rid_115"
+  },
+  {
+    "question": "십이지신 중 충성의 상징으로 꼽히는 동물은?",
+    "options": [
+      "돼지",
+      "양",
+      "소",
+      "개"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 개는 충성과 의리의 상징이야!",
+      "wrong": "땡! 사람 곁을 지키는 충성의 상징이야!"
+    },
+    "id": "rid_116"
+  },
+  {
+    "question": "유리구두를 남기고 자정에 떠난 동화 속 소녀는?",
+    "options": [
+      "백설공주",
+      "인어공주",
+      "라푼젤",
+      "신데렐라"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 신데렐라는 유리구두를 남긴 동화의 주인공이야!",
+      "wrong": "땡! 자정에 마차가 사라진 동화의 주인공이야!"
+    },
+    "id": "rid_117"
+  },
+  {
+    "question": "독이 든 사과를 먹고 깊이 잠든 공주는?",
+    "options": [
+      "신데렐라",
+      "인어공주",
+      "라푼젤",
+      "백설공주"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 백설공주는 독사과 때문에 잠들었지!",
+      "wrong": "땡! 일곱 난쟁이와 사는 공주야!"
+    },
+    "id": "rid_118"
+  },
+  {
+    "question": "거짓말을 하면 코가 길어지는 나무 인형은?",
+    "options": [
+      "피터팬",
+      "헨젤",
+      "앨리스",
+      "피노키오"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 피노키오는 거짓말하면 코가 길어지는 인형이야!",
+      "wrong": "땡! 할아버지가 만든 나무 인형이야!"
+    },
+    "id": "rid_119"
+  },
+  {
+    "question": "빨간 두건을 쓰고 숲에서 늑대를 만난 소녀는?",
+    "options": [
+      "백설공주",
+      "신데렐라",
+      "인어공주",
+      "빨간모자"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 빨간모자는 숲에서 늑대를 만난 소녀야!",
+      "wrong": "땡! 할머니를 만나러 숲에 간 소녀야!"
+    },
+    "id": "rid_120"
+  },
+  {
+    "question": "숲속 과자 집의 마녀가 나오는 남매 동화는?",
+    "options": [
+      "빨간모자",
+      "피노키오",
+      "잭과 콩나무",
+      "헨젤과 그레텔"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 헨젤과 그레텔은 과자 집 마녀가 나오는 동화야!",
+      "wrong": "땡! 남매가 과자 집에 유인되는 동화야!"
+    },
+    "id": "rid_121"
+  },
+  {
+    "question": "느림보 거북이와 달리기 경주를 해서 진, 자만심 많은 동물은?",
+    "options": [
+      "여우",
+      "사슴",
+      "말",
+      "토끼"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 토끼는 자만하다가 거북이에게 졌지!",
+      "wrong": "땡! 거북이와 경주한 빠른 동물이야!"
+    },
+    "id": "rid_122"
+  },
+  {
+    "question": "여름내 노래만 부르다 겨울에 굶게 된, 개미와 함께 나오는 곤충은?",
+    "options": [
+      "매미",
+      "귀뚜라미",
+      "나비",
+      "베짱이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 베짱이는 여름내 놀다 겨울에 후회했지!",
+      "wrong": "땡! 개미와 대비되는 게으른 곤충이야!"
+    },
+    "id": "rid_123"
+  },
+  {
+    "question": "다리를 얻는 대신 목소리를 잃은, 바다의 동화 속 주인공은?",
+    "options": [
+      "백설공주",
+      "신데렐라",
+      "라푼젤",
+      "인어공주"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 인어공주는 사랑을 위해 목소리를 바쳤어!",
+      "wrong": "땡! 바다에 사는 동화 속 공주야!"
+    },
+    "id": "rid_124"
+  },
+  {
+    "question": "아버지와 함께 하늘로 날았지만 태양에 너무 가까이 가 바다에 떨어진 소년은?",
+    "options": [
+      "헤라클레스",
+      "페르세우스",
+      "오디세우스",
+      "이카루스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 이카루스는 태양에 가까이 날다 바다에 떨어졌어!",
+      "wrong": "땡! 밀랍 날개로 날았던 그리스 신화의 소년이야!"
+    },
+    "id": "rid_125"
+  },
+  {
+    "question": "호기심에 모든 재앙이 담긴 상자를 열어버린 여자는?",
+    "options": [
+      "아테나",
+      "헬레나",
+      "메두사",
+      "판도라"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "정답! 판도라는 호기심에 재앙의 상자를 열었어!",
+      "wrong": "땡! 재앙의 상자를 연 그리스 신화의 여자야!"
+    },
+    "id": "rid_126"
+  },
+  {
+    "question": "논밭을 갈며 낮게 우는, 십이지신의 두 번째 동물은?",
+    "options": [
+      "말",
+      "양",
+      "염소",
+      "소"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 소는 묵묵히 밭을 가는 십이지신이야!",
+      "wrong": "땡! 뿔이 있고 낮게 우는 동물이야!"
+    },
+    "id": "rid_127"
+  },
+  {
+    "question": "산을 호령하는 줄무늬 맹수, 십이지신의 세 번째는?",
+    "options": [
+      "사자",
+      "표범",
+      "곰",
+      "호랑이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 호랑이는 산을 호령하는 십이지신이야!",
+      "wrong": "땡! 이마에 왕자가 새겨진 맹수야!"
+    },
+    "id": "rid_128"
+  },
+  {
+    "question": "깡충깡충 뛰며 절구를 찧는 십이지신은?",
+    "options": [
+      "다람쥐",
+      "쥐",
+      "사슴",
+      "토끼"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 토끼는 방아를 찧는 십이지신이야!",
+      "wrong": "땡! 귀가 길고 깡충 뛰는 동물이야!"
+    },
+    "id": "rid_129"
+  },
+  {
+    "question": "다리 없이 미끄러지듯 기는 십이지신은?",
+    "options": [
+      "지렁이",
+      "도마뱀",
+      "악어",
+      "뱀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 뱀은 다리 없이 기는 십이지신이야!",
+      "wrong": "땡! 허물을 벗는 다리 없는 동물이야!"
+    },
+    "id": "rid_130"
+  },
+  {
+    "question": "십이지신 중 흰 갈기를 휘날리며 달리는 말은?",
+    "options": [
+      "당나귀",
+      "노새",
+      "얼룩말",
+      "백마"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 백마는 흰 갈기의 십이지신이야!",
+      "wrong": "땡! 십이지신 중 흰 말이야!"
+    },
+    "id": "rid_131"
+  },
+  {
+    "question": "온순하게 풀을 뜯고 털을 내주는 십이지신은?",
+    "options": [
+      "염소",
+      "소",
+      "사슴",
+      "양"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 양은 털을 내주는 온순한 십이지신이야!",
+      "wrong": "땡! 털로 옷을 짜는 온순한 동물이야!"
+    },
+    "id": "rid_132"
+  },
+  {
+    "question": "나무를 잘 타고 재주를 부리는 십이지신은?",
+    "options": [
+      "판다",
+      "코알라",
+      "오랑우탄",
+      "원숭이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 원숭이는 재주 부리는 십이지신이야!",
+      "wrong": "땡! 나무 타기를 잘하는 영리한 동물이야!"
+    },
+    "id": "rid_133"
+  },
+  {
+    "question": "풍요와 재물을 상징하는, 십이지신의 마지막 동물은?",
+    "options": [
+      "멧돼지",
+      "코끼리",
+      "하마",
+      "황금돼지"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 황금돼지는 재물을 부르는 십이지신의 마지막이야!",
+      "wrong": "땡! 십이지신의 마지막, 복을 부르는 동물이야!"
+    },
+    "id": "rid_134"
+  },
+  {
+    "question": "동양 신수 중에서, 거짓을 물어뜯어 옳고 그름을 가리는 정의의 신수는?",
+    "options": [
+      "사자",
+      "용",
+      "호랑이",
+      "해태"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 해태는 거짓을 물어뜯는 정의의 신수야!",
+      "wrong": "땡! 궁궐 앞을 지키는 정의의 신수야!"
+    },
+    "id": "rid_135"
+  },
+  {
+    "question": "어진 성인이 나타날 때 모습을 드러낸다는 동양의 상상 동물은?",
+    "options": [
+      "유니콘",
+      "봉황",
+      "용",
+      "기린"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 기린은 어진 성인과 함께 나타나는 동양의 신수야!",
+      "wrong": "땡! 동양에서 성인과 함께 온다는 온순한 신수야!"
+    },
+    "id": "rid_136"
+  },
+  {
+    "question": "동양사상에서 사방을 지키는 사신 중, 남쪽을 맡아 붉은 불새의 모습을 한 신수는?",
+    "options": [
+      "봉황",
+      "삼족오",
+      "청룡",
+      "주작"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 주작은 남쪽을 지키는 붉은 신수야!",
+      "wrong": "땡! 사신도에서 남쪽을 맡은 붉은 새야!"
+    },
+    "id": "rid_137"
+  },
+  {
+    "question": "동양사상에서 사방을 지키는 사신 중, 북쪽을 맡아 거북과 뱀이 합쳐진 신수는?",
+    "options": [
+      "청룡",
+      "백호",
+      "해태",
+      "현무"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 현무는 거북과 뱀이 합쳐진 북쪽의 신수야!",
+      "wrong": "땡! 사신도에서 북쪽을 맡은 거북과 뱀의 신수야!"
+    },
+    "id": "rid_138"
+  },
+  {
+    "question": "동양에서 장수와 평화를 상징하는 흰 사슴 신수는?",
+    "options": [
+      "백마",
+      "양",
+      "기린",
+      "백록"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 백록은 장수와 평화의 상징인 흰 사슴 신수야!",
+      "wrong": "땡! 동양에서 길조로 여기는 흰 사슴이야!"
+    },
+    "id": "rid_139"
+  },
+  {
+    "question": "동양의 상상의 새 중에서, 오동나무에 깃들어 천하태평을 알린다는 새는?",
+    "options": [
+      "주작",
+      "공작",
+      "학",
+      "봉황"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 봉황은 천하태평을 알리는 상상의 새야!",
+      "wrong": "땡! 오동나무에 앉는다는 상상의 새야!"
+    },
+    "id": "rid_140"
+  },
+  {
+    "question": "동양 전설에서 태양 속에 산다는, 세 발 달린 까마귀 신수는?",
+    "options": [
+      "봉황",
+      "주작",
+      "까마귀",
+      "삼족오"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼족오는 태양 속에 산다는 세 발 까마귀야!",
+      "wrong": "땡! 태양을 상징하는 세 발 달린 새야!"
+    },
+    "id": "rid_141"
+  },
+  {
+    "question": "동양 전설에서 아홉 개의 꼬리를 가진, 매혹적인 여우 요괴는?",
+    "options": [
+      "이무기",
+      "스핑크스",
+      "백호",
+      "구미호"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 구미호는 아홉 꼬리를 가진 여우 요괴야!",
+      "wrong": "땡! 꼬리가 아홉 개인 여우야!"
+    },
+    "id": "rid_142"
+  },
+  {
+    "question": "서양의 상상 동물 중에서, 이마에 뿔 하나가 솟은 것은?",
+    "options": [
+      "그리핀",
+      "기린",
+      "사슴",
+      "유니콘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 유니콘은 이마에 뿔이 하나인 상상의 동물이야!",
+      "wrong": "땡! 뿔이 하나뿐인 신비한 말이야!"
+    },
+    "id": "rid_143"
+  },
+  {
+    "question": "동양 신수 중에서, 눈이 세 개 달린 세 눈박이 개는?",
+    "options": [
+      "해태",
+      "백호",
+      "구미호",
+      "삼목구"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼목구는 눈이 세 개 달린 신수야!",
+      "wrong": "땡! 눈이 세 개인 개 신수야!"
+    },
+    "id": "rid_144"
+  },
+  {
+    "question": "이집트 신화에서 악어 머리를 한 물과 나일강의 신은?",
+    "options": [
+      "아누비스",
+      "라",
+      "바스테트",
+      "세베크"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 세베크는 악어 머리의 나일강 신이야!",
+      "wrong": "땡! 악어 머리를 한 이집트의 신이야!"
+    },
+    "id": "rid_145"
+  },
+  {
+    "question": "동양 전설에서 천 년을 살아 용이 되려 한다는, 큰 뱀 요괴는?",
+    "options": [
+      "구미호",
+      "어룡",
+      "레비아탄",
+      "이무기"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 이무기는 용이 되려는 큰 뱀 요괴야!",
+      "wrong": "땡! 물속에 사는 큰 뱀 요괴야!"
+    },
+    "id": "rid_146"
+  },
+  {
+    "question": "동양 신수 중에서, 물고기와 용이 합쳐진 바다의 신수는?",
+    "options": [
+      "이무기",
+      "레비아탄",
+      "현무",
+      "어룡"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 어룡은 물고기와 용이 합쳐진 바다의 신수야!",
+      "wrong": "땡! 바다에 사는 용의 모습을 한 신수야!"
+    },
+    "id": "rid_147"
+  },
+  {
+    "question": "사자 몸에 사람 머리, 수수께끼를 내는 이집트의 수호상은?",
+    "options": [
+      "그리핀",
+      "묘두사",
+      "세베크",
+      "스핑크스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 스핑크스는 사람 머리와 사자 몸의 수호상이야!",
+      "wrong": "땡! 피라미드 앞에 서 있는 수수께끼의 수호상이야!"
+    },
+    "id": "rid_148"
+  },
+  {
+    "question": "서양 전설에서 바다를 삼킨다는, 거대한 바다 괴물은?",
+    "options": [
+      "어룡",
+      "이무기",
+      "크라켄",
+      "레비아탄"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 레비아탄은 바다를 삼킨다는 거대 괴물이야!",
+      "wrong": "땡! 성서에 나오는 거대한 바다 괴물이야!"
+    },
+    "id": "rid_149"
+  },
+  {
+    "question": "고양이 머리에 뱀의 몸을 한, 일본의 요괴는?",
+    "options": [
+      "구미호",
+      "스핑크스",
+      "세베크",
+      "묘두사"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 묘두사는 고양이 머리에 뱀 몸의 요괴야!",
+      "wrong": "땡! 고양이와 뱀이 섞인 요괴야!"
+    },
+    "id": "rid_150"
+  },
+  {
+    "question": "동양 전설에서 달 속에 산다는, 세 발 달린 두꺼비 신수는?",
+    "options": [
+      "삼족오",
+      "개구리",
+      "거북",
+      "삼족섬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼족섬은 달에 산다는 세 발 두꺼비야!",
+      "wrong": "땡! 달을 상징하는 세 발 달린 두꺼비야!"
+    },
+    "id": "rid_151"
+  },
+  {
+    "question": "서양의 상상 동물 중에서, 독수리 머리와 사자 몸을 가진 신수는?",
+    "options": [
+      "유니콘",
+      "스핑크스",
+      "봉황",
+      "그리핀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 그리핀은 독수리 머리와 사자 몸의 신수야!",
+      "wrong": "땡! 하늘과 땅의 왕을 합친 상상의 동물이야!"
+    },
+    "id": "rid_152"
+  },
+  {
+    "question": "동양사상에서 사방을 지키는 사신 중, 서쪽을 맡아 흰 호랑이의 모습을 한 신수는?",
+    "options": [
+      "호랑이",
+      "해태",
+      "현무",
+      "백호"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 백호는 서쪽을 지키는 흰 호랑이 신수야!",
+      "wrong": "땡! 사신도에서 서쪽을 맡은 흰 호랑이야!"
+    },
+    "id": "rid_153"
+  },
+  {
+    "question": "깃털 달린 뱀, 아즈텍 신화의 신은?",
+    "options": [
+      "이무기",
+      "어룡",
+      "현무",
+      "케찰코아틀"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 케찰코아틀은 깃털 달린 뱀의 신이야!",
+      "wrong": "땡! 아즈텍의 깃털 달린 뱀 신이야!"
+    },
+    "id": "rid_154"
+  },
+  {
+    "question": "한국 전설에서 산을 지키며 호랑이를 데리고 다니는 산의 신은?",
+    "options": [
+      "용왕",
+      "터줏대감",
+      "저승사자",
+      "산신령"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 산신령은 호랑이와 함께 산을 지키는 신이야!",
+      "wrong": "땡! 산을 지키는 신령님이야!"
+    },
+    "id": "rid_155"
+  },
+  {
+    "question": "한국 전설에서 검은 갓과 도포를 입고 영혼을 데려가는 심부름꾼은?",
+    "options": [
+      "염라대왕",
+      "산신령",
+      "옥황상제",
+      "저승사자"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 저승사자는 영혼을 저승으로 인도하는 심부름꾼이야!",
+      "wrong": "땡! 저승으로 영혼을 데려가는 존재야!"
+    },
+    "id": "rid_156"
+  },
+  {
+    "question": "동양사상에서 하늘을 다스리는 최고 신으로, 모든 신을 거느리는 분은?",
+    "options": [
+      "염라대왕",
+      "용왕",
+      "산신령",
+      "옥황상제"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 옥황상제는 하늘의 모든 신을 다스리는 최고 신이야!",
+      "wrong": "땡! 하늘의 최고 신이야!"
+    },
+    "id": "rid_157"
+  },
+  {
+    "question": "동양사상에서 저승에서 죽은 자의 선악을 심판하는 왕은?",
+    "options": [
+      "옥황상제",
+      "저승사자",
+      "용왕",
+      "염라대왕"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 염라대왕은 저승에서 죽은 자를 심판하는 왕이야!",
+      "wrong": "땡! 저승의 재판관이야!"
+    },
+    "id": "rid_158"
+  },
+  {
+    "question": "동양 전설에서 세상을 만들었다는 거대한 할머니 창세 여신은?",
+    "options": [
+      "삼신할머니",
+      "바리데기",
+      "관음보살",
+      "마고할미"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 마고할미는 세상을 만든 거대한 창세 여신이야!",
+      "wrong": "땡! 세상을 만든 거대한 할머니 신이야!"
+    },
+    "id": "rid_159"
+  },
+  {
+    "question": "동양 전설에서 죽은 부모를 살리려 저승까지 간 효녀 공주는?",
+    "options": [
+      "삼신할머니",
+      "마고할미",
+      "관음보살",
+      "바리데기"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 바리데기는 저승까지 간 효녀 공주야!",
+      "wrong": "땡! 부모를 살리려 저승에 간 공주야!"
+    },
+    "id": "rid_160"
+  },
+  {
+    "question": "한국 전설에서 아이를 점지하고 출산을 돕는 할머니 신은?",
+    "options": [
+      "마고할미",
+      "바리데기",
+      "터줏대감",
+      "삼신할머니"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼신할머니는 아이를 점지하는 출산의 신이야!",
+      "wrong": "땡! 아이와 출산을 돌보는 할머니 신이야!"
+    },
+    "id": "rid_161"
+  },
+  {
+    "question": "바다와 물을 다스리는, 동양의 왕은?",
+    "options": [
+      "옥황상제",
+      "염라대왕",
+      "산신령",
+      "용왕"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 용왕은 바다와 물을 다스리는 동양의 왕이야!",
+      "wrong": "땡! 바다를 지키는 용의 왕이야!"
+    },
+    "id": "rid_162"
+  },
+  {
+    "question": "한국 전설에서 집터를 지키며 집안의 안녕을 돌보는 신은?",
+    "options": [
+      "산신령",
+      "용왕",
+      "삼신할머니",
+      "터줏대감"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 터줏대감은 집터를 지키는 가신이야!",
+      "wrong": "땡! 집안을 지키는 가택신이야!"
+    },
+    "id": "rid_163"
+  },
+  {
+    "question": "그리스 신화에서 번개를 무기로 올림포스를 다스리는 최고 신은?",
+    "options": [
+      "포세이돈",
+      "하데스",
+      "아폴론",
+      "제우스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 제우스는 번개를 다스리는 올림포스의 최고 신이야!",
+      "wrong": "땡! 번개를 무기로 쓰는 그리스 최고 신이야!"
+    },
+    "id": "rid_164"
+  },
+  {
+    "question": "북유럽 신화에서 한쪽 눈을 바쳐 지혜를 얻은, 신들의 아버지는?",
+    "options": [
+      "토르",
+      "로키",
+      "발키리",
+      "오딘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 오딘은 한쪽 눈을 바친 지혜의 최고 신이야!",
+      "wrong": "땡! 까마귀를 거느린 북유럽의 최고 신이야!"
+    },
+    "id": "rid_165"
+  },
+  {
+    "question": "그리스 신화에서 태양과 예술·예언을 다스리는 신은?",
+    "options": [
+      "제우스",
+      "헤르메스",
+      "아레스",
+      "아폴론"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 아폴론은 태양과 예술·예언의 신이야!",
+      "wrong": "땡! 리라를 든 태양의 신이야!"
+    },
+    "id": "rid_166"
+  },
+  {
+    "question": "북유럽 신화의 장난꾸러기, 속임수의 신은?",
+    "options": [
+      "오딘",
+      "토르",
+      "발키리",
+      "로키"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 로키는 속임수와 장난의 신이야!",
+      "wrong": "땡! 장난과 속임수를 좋아하는 신이야!"
+    },
+    "id": "rid_167"
+  },
+  {
+    "question": "전사한 영웅을 발할라로 데려가는, 북유럽의 여전사는?",
+    "options": [
+      "아테나",
+      "오딘",
+      "프레이야",
+      "발키리"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 발키리는 전사한 영웅을 발할라로 데려가는 여전사야!",
+      "wrong": "땡! 하늘을 나는 북유럽의 여전사야!"
+    },
+    "id": "rid_168"
+  },
+  {
+    "question": "깨달음을 얻어 \"깨우친 자\"라 불리는, 불교의 창시자는?",
+    "options": [
+      "관음보살",
+      "시바",
+      "인드라",
+      "붓다"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 붓다는 깨달음을 얻은 불교의 창시자야!",
+      "wrong": "땡! 보리수 아래에서 깨달은 분이야!"
+    },
+    "id": "rid_169"
+  },
+  {
+    "question": "불교에서 중생의 고통을 듣고 자비를 베푸는 보살은?",
+    "options": [
+      "붓다",
+      "가네샤",
+      "시바",
+      "관음보살"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 관음보살은 자비로 중생을 구하는 보살이야!",
+      "wrong": "땡! 천 개의 손과 눈으로 중생을 돕는 보살이야!"
+    },
+    "id": "rid_170"
+  },
+  {
+    "question": "인도 신화에서 파괴와 변화를 상징하는 신은?",
+    "options": [
+      "가네샤",
+      "인드라",
+      "라",
+      "시바"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 시바는 파괴와 변화의 신이야!",
+      "wrong": "땡! 삼지창을 든 파괴의 신이야!"
+    },
+    "id": "rid_171"
+  },
+  {
+    "question": "인도 신화에서 번개와 비를 다스리는 신은?",
+    "options": [
+      "시바",
+      "라",
+      "가네샤",
+      "인드라"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 인드라는 번개와 비를 다스리는 신이야!",
+      "wrong": "땡! 금강저를 든 천둥의 신이야!"
+    },
+    "id": "rid_172"
+  },
+  {
+    "question": "이집트 신화에서 태양을 상징하는 신은?",
+    "options": [
+      "오시리스",
+      "아누비스",
+      "세베크",
+      "라"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 라는 태양을 상징하는 이집트의 신이야!",
+      "wrong": "땡! 매의 머리를 한 태양신이야!"
+    },
+    "id": "rid_173"
+  },
+  {
+    "question": "이집트 신화에서 부활과 저승을 다스리는 신은?",
+    "options": [
+      "라",
+      "아누비스",
+      "세베크",
+      "오시리스"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 오시리스는 부활과 저승을 다스리는 신이야!",
+      "wrong": "땡! 부활을 상징하는 이집트의 신이야!"
+    },
+    "id": "rid_174"
+  },
+  {
+    "question": "이집트 신화에서 고양이 머리를 한, 가정과 치유의 여신은?",
+    "options": [
+      "아누비스",
+      "세베크",
+      "라",
+      "바스테트"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 바스테트는 고양이 머리의 가정·치유의 여신이야!",
+      "wrong": "땡! 고양이 머리를 한 이집트의 여신이야!"
+    },
+    "id": "rid_175"
+  },
+  {
+    "question": "기독교 전통에서 악룡을 물리친 천사장, 하늘 군대의 지휘관은?",
+    "options": [
+      "가브리엘",
+      "라파엘",
+      "우리엘",
+      "대천사 미카엘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 미카엘은 악룡을 물리친 천사장이야!",
+      "wrong": "땡! 하늘 군대를 이끄는 천사장이야!"
+    },
+    "id": "rid_176"
+  },
+  {
+    "question": "기독교 전통에서 마리아에게 예수의 탄생을 알린 전령 천사는?",
+    "options": [
+      "미카엘",
+      "라파엘",
+      "우리엘",
+      "대천사 가브리엘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 가브리엘은 예수의 탄생을 알린 전령 천사야!",
+      "wrong": "땡! 나팔을 부는 전령의 천사야!"
+    },
+    "id": "rid_177"
+  },
+  {
+    "question": "기독교 전통에서 병을 낫게 하는 치유의 천사는?",
+    "options": [
+      "미카엘",
+      "가브리엘",
+      "우리엘",
+      "대천사 라파엘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 라파엘은 병을 낫게 하는 치유의 천사야!",
+      "wrong": "땡! 치유와 여행자의 수호 천사야!"
+    },
+    "id": "rid_178"
+  },
+  {
+    "question": "기독교 전통에서 불과 지혜를 상징하는 천사는?",
+    "options": [
+      "미카엘",
+      "가브리엘",
+      "라파엘",
+      "대천사 우리엘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 우리엘은 불과 지혜를 상징하는 천사야!",
+      "wrong": "땡! 빛과 지혜의 천사야!"
+    },
+    "id": "rid_179"
+  },
+  {
+    "question": "기독교 전통에서 태어날 때부터 곁에서 지켜준다는 천사는?",
+    "options": [
+      "대천사 미카엘",
+      "대천사 가브리엘",
+      "대천사 라파엘",
+      "수호천사"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 수호천사는 평생 곁을 지키는 천사야!",
+      "wrong": "땡! 곁에서 지켜주는 천사야!"
+    },
+    "id": "rid_180"
+  },
+  {
+    "question": "그리스 신화에서 인간의 운명의 실을 잣는, 세 자매는?",
+    "options": [
+      "발키리",
+      "무사",
+      "하피",
+      "모이라이"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "정답! 모이라이는 운명의 실을 잣는 세 자매야!",
+      "wrong": "땡! 운명을 정하는 그리스의 세 자매야!"
+    },
+    "id": "rid_181"
+  },
+  {
+    "question": "초원의 왕이라 불리는, 갈기 있는 맹수는?",
+    "options": [
+      "호랑이",
+      "표범",
+      "치타",
+      "사자"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 사자는 갈기 있는 초원의 왕이야!",
+      "wrong": "땡! 갈기를 가진 초원의 맹수야!"
+    },
+    "id": "rid_182"
+  },
+  {
+    "question": "코 위에 뿔이 하나 달린, 두꺼운 갑옷의 동물은?",
+    "options": [
+      "하마",
+      "코끼리",
+      "물소",
+      "코뿔소"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 코뿔소는 코에 뿔이 하나인 갑옷 동물이야!",
+      "wrong": "땡! 코에 뿔이 있는 두꺼운 동물이야!"
+    },
+    "id": "rid_183"
+  },
+  {
+    "question": "강에서 입을 크게 벌리는, 아프리카의 거대한 동물은?",
+    "options": [
+      "코뿔소",
+      "악어",
+      "물소",
+      "하마"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 하마는 강에서 입을 크게 벌리는 거대 동물이야!",
+      "wrong": "땡! 물속에 사는 거대한 아프리카 동물이야!"
+    },
+    "id": "rid_184"
+  },
+  {
+    "question": "등에 혹을 지고 사막을 걷는 동물은?",
+    "options": [
+      "말",
+      "당나귀",
+      "라마",
+      "낙타"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 낙타는 혹을 지고 사막을 걷는 동물이야!",
+      "wrong": "땡! 사막을 걷는 혹 달린 동물이야!"
+    },
+    "id": "rid_185"
+  },
+  {
+    "question": "배 주머니에 새끼를 넣고 깡충 뛰는, 호주의 동물은?",
+    "options": [
+      "토끼",
+      "코알라",
+      "웜뱃",
+      "캥거루"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 캥거루는 배 주머니로 새끼를 키우는 호주의 동물이야!",
+      "wrong": "땡! 호주의 주머니 달린 동물이야!"
+    },
+    "id": "rid_186"
+  },
+  {
+    "question": "대나무를 좋아하는, 흑백 무늬 곰은?",
+    "options": [
+      "곰",
+      "코알라",
+      "너구리",
+      "판다"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 판다는 대나무를 좋아하는 흑백 곰이야!",
+      "wrong": "땡! 대나무를 먹는 흑백 동물이야!"
+    },
+    "id": "rid_187"
+  },
+  {
+    "question": "검은 줄무늬가 있는, 아프리카의 말은?",
+    "options": [
+      "말",
+      "당나귀",
+      "기린",
+      "얼룩말"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 얼룩말은 검은 줄무늬가 있는 아프리카의 말이야!",
+      "wrong": "땡! 줄무늬가 있는 아프리카의 말이야!"
+    },
+    "id": "rid_188"
+  },
+  {
+    "question": "높이 날며 먹이를 낚아채는, 하늘의 맹금류는?",
+    "options": [
+      "매",
+      "부엉이",
+      "까마귀",
+      "독수리"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 독수리는 하늘을 나는 맹금류의 왕이야!",
+      "wrong": "땡! 높이 나는 사냥꾼 새야!"
+    },
+    "id": "rid_189"
+  },
+  {
+    "question": "날카로운 이빨로 바다를 지배하는, 물고기는?",
+    "options": [
+      "고래",
+      "돌고래",
+      "악어",
+      "상어"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 상어는 날카로운 이빨의 바다 사냥꾼이야!",
+      "wrong": "땡! 등지느러미가 있는 바다의 사냥꾼이야!"
+    },
+    "id": "rid_190"
+  },
+  {
+    "question": "바다에서 가장 크고 물을 뿜는, 동물은?",
+    "options": [
+      "상어",
+      "돌고래",
+      "코끼리",
+      "고래"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 고래는 바다에서 가장 큰 동물이야!",
+      "wrong": "땡! 물을 뿜으며 헤엄치는 거대한 동물이야!"
+    },
+    "id": "rid_191"
+  },
+  {
+    "question": "여름에 초록 껍질 속이 빨간, 커다란 과일은?",
+    "options": [
+      "참외",
+      "멜론",
+      "호박",
+      "수박"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 수박은 여름의 초록 껍질 붉은 속 과일이야!",
+      "wrong": "땡! 여름에 먹는 크고 빨간 과일이야!"
+    },
+    "id": "rid_192"
+  },
+  {
+    "question": "씨가 겉에 콕콕 박힌, 빨간 과일은?",
+    "options": [
+      "체리",
+      "라즈베리",
+      "토마토",
+      "딸기"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 딸기는 씨가 겉에 박힌 빨간 과일이야!",
+      "wrong": "땡! 씨가 표면에 보이는 빨간 과일이야!"
+    },
+    "id": "rid_193"
+  },
+  {
+    "question": "송이송이 달린, 보라색 알 과일은?",
+    "options": [
+      "블루베리",
+      "자두",
+      "오디",
+      "포도"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 포도는 송이로 달린 보라색 알 과일이야!",
+      "wrong": "땡! 송이로 달린 보라색 과일이야!"
+    },
+    "id": "rid_194"
+  },
+  {
+    "question": "노랗게 휘어진, 껍질을 벗겨 먹는 과일은?",
+    "options": [
+      "참외",
+      "망고",
+      "파파야",
+      "바나나"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 바나나는 노랗게 휘어진 껍질 과일이야!",
+      "wrong": "땡! 노랗고 길쭉한 과일이야!"
+    },
+    "id": "rid_195"
+  },
+  {
+    "question": "알갱이가 줄지어 박힌, 노란 이삭은?",
+    "options": [
+      "콩",
+      "밀",
+      "벼",
+      "옥수수"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 옥수수는 알갱이가 줄지어 박힌 노란 이삭이야!",
+      "wrong": "땡! 알갱이가 줄지어 있는 노란 곡식이야!"
+    },
+    "id": "rid_196"
+  },
+  {
+    "question": "토끼가 좋아하는, 주황색 뿌리 채소는?",
+    "options": [
+      "무",
+      "고구마",
+      "감자",
+      "당근"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 당근은 토끼가 좋아하는 주황색 뿌리 채소야!",
+      "wrong": "땡! 토끼가 좋아하는 주황색 채소야!"
+    },
+    "id": "rid_197"
+  },
+  {
+    "question": "껍질을 깨면 노른자와 흰자가 나오는 것은?",
+    "options": [
+      "우유",
+      "밥",
+      "빵",
+      "계란"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 계란은 껍질 속에 노른자와 흰자가 있는 음식이야!",
+      "wrong": "땡! 껍질 속에 노른자가 있는 음식이야!"
+    },
+    "id": "rid_198"
+  },
+  {
+    "question": "소에서 짜내는, 하얀 음료는?",
+    "options": [
+      "물",
+      "주스",
+      "요구르트",
+      "우유"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 우유는 소에서 짜내는 하얀 음료야!",
+      "wrong": "땡! 소에서 나오는 하얀 음료야!"
+    },
+    "id": "rid_199"
+  },
+  {
+    "question": "끓는 물에 넣어 3분이면 완성되는, 면 요리는?",
+    "options": [
+      "국수",
+      "파스타",
+      "우동",
+      "라면"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 라면은 끓는 물에 3분이면 완성되는 면 요리야!",
+      "wrong": "땡! 3분 만에 끓여 먹는 면이야!"
+    },
+    "id": "rid_200"
+  },
+  {
+    "question": "밥과 채소를 김에 말아 둥글게 썬, 음식은?",
+    "options": [
+      "주먹밥",
+      "초밥",
+      "김치",
+      "김밥"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "정답! 김밥은 밥과 채소를 김에 말아 썬 음식이야!",
+      "wrong": "땡! 김에 밥을 말아 썬 음식이야!"
+    },
+    "id": "rid_201"
+  },
+  {
+    "question": "그리스 신화에서 자랑이 지나쳐 하늘에 묶인 에티오피아의 왕비, W자 모양으로 북쪽 하늘에 빛나는 별자리는?",
+    "options": [
+      "카시오페이아",
+      "안드로메다",
+      "페가수스",
+      "백조자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 카시오페이아는 안드로메다의 어머니 왕비야!",
+      "wrong": "땡! 안드로메다의 어머니 왕비를 떠올려봐!"
+    },
+    "id": "rid_202"
+  },
+  {
+    "question": "그리스 신화에서 허리에 세 별을 두른 사냥꾼으로, 겨울밤 남쪽에서 빛나는 별자리는?",
+    "options": [
+      "오리온",
+      "사자자리",
+      "전갈자리",
+      "큰곰자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 오리온은 삼태성을 두른 사냥꾼이야!",
+      "wrong": "땡! 허리에 세 별을 두른 사냥꾼이야!"
+    },
+    "id": "rid_203"
+  },
+  {
+    "question": "그리스 신화에서 오리온에게 독침을 놓아 이긴, 여름 남쪽 하늘의 별자리는?",
+    "options": [
+      "전갈자리",
+      "사자자리",
+      "게자리",
+      "황소자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 전갈자리는 오리온을 찌른 전갈이야!",
+      "wrong": "땡! 오리온을 이긴 독침의 주인이야!"
+    },
+    "id": "rid_204"
+  },
+  {
+    "question": "그리스 신화에서 헤라클레스가 퇴치한 네메아 숲의 맹수, 봄밤 하늘의 왕 별자리는?",
+    "options": [
+      "사자자리",
+      "전갈자리",
+      "황소자리",
+      "쌍둥이자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 사자자리는 네메아의 사자야!",
+      "wrong": "땡! 헤라클레스가 잡은 맹수야!"
+    },
+    "id": "rid_205"
+  },
+  {
+    "question": "그리스 신화에서 제우스가 유로파를 태우려 변신한 동물, 뿔을 치켜든 별자리는?",
+    "options": [
+      "황소자리",
+      "양자리",
+      "염소자리",
+      "게자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 황소자리는 제우스가 변신한 황소야!",
+      "wrong": "땡! 제우스가 변신한 뿔 달린 동물이야!"
+    },
+    "id": "rid_206"
+  },
+  {
+    "question": "그리스 신화에서 황금 양모를 지킨 숫양, 황도 위 봄 별자리는?",
+    "options": [
+      "양자리",
+      "황소자리",
+      "사자자리",
+      "물고기자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 양자리는 황금 양모의 숫양이야!",
+      "wrong": "땡! 황금 양모를 지킨 동물이야!"
+    },
+    "id": "rid_207"
+  },
+  {
+    "question": "그리스 신화에서 정의의 여신이 밀 이삭을 들고 하늘로 올라간, 처녀 모양 별자리는?",
+    "options": [
+      "처녀자리",
+      "천칭자리",
+      "게자리",
+      "물병자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 처녀자리는 정의의 여신이야!",
+      "wrong": "땡! 밀 이삭을 든 여신이야!"
+    },
+    "id": "rid_208"
+  },
+  {
+    "question": "그리스 신화에서 정의를 재던 저울, 황도 위 균형의 별자리는?",
+    "options": [
+      "천칭자리",
+      "처녀자리",
+      "전갈자리",
+      "사수자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 천칭자리는 정의의 저울이야!",
+      "wrong": "땡! 균형과 정의를 상징하는 도구야!"
+    },
+    "id": "rid_209"
+  },
+  {
+    "question": "그리스 신화에서 활과 화살을 든 현인 켄타우로스 케이론을 딴, 황도 위의 별자리는?",
+    "options": [
+      "사수자리",
+      "염소자리",
+      "물병자리",
+      "양자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 사수자리는 켄타우로스 케이론이야!",
+      "wrong": "땡! 활을 당기는 반인반마야!"
+    },
+    "id": "rid_210"
+  },
+  {
+    "question": "그리스 신화에서 목신 판을 닮아 뿔과 물고기 꼬리를 가진, 황도 별자리는?",
+    "options": [
+      "염소자리",
+      "물고기자리",
+      "물병자리",
+      "게자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 염소자리는 목신 판이야!",
+      "wrong": "땡! 뿔과 물고기 꼬리를 가진 별자리야!"
+    },
+    "id": "rid_211"
+  },
+  {
+    "question": "그리스 신화에서 제우스가 데려간 미소년 가니메데스가 물을 붓는 별자리는?",
+    "options": [
+      "물병자리",
+      "물고기자리",
+      "처녀자리",
+      "염소자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 물병자리는 가니메데스야!",
+      "wrong": "땡! 물을 붓는 소년의 별자리야!"
+    },
+    "id": "rid_212"
+  },
+  {
+    "question": "그리스 신화에서 아프로디테와 에로스가 변신해 실로 묶였다는, 황도 마지막 별자리는?",
+    "options": [
+      "물고기자리",
+      "물병자리",
+      "양자리",
+      "게자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 물고기자리는 두 물고기의 별자리야!",
+      "wrong": "땡! 실로 묶인 두 물고기야!"
+    },
+    "id": "rid_213"
+  },
+  {
+    "question": "그리스 신화에서 메두사의 피에서 태어난 날개 달린 말의 별자리는?",
+    "options": [
+      "페가수스",
+      "안드로메다",
+      "백조자리",
+      "카시오페이아"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 페가수스는 날개 달린 말이야!",
+      "wrong": "땡! 메두사 피에서 태어난 날개말이야!"
+    },
+    "id": "rid_214"
+  },
+  {
+    "question": "그리스 신화에서 바위에 묶여 괴물에게 바쳐질 뻔한 공주의 별자리는?",
+    "options": [
+      "안드로메다",
+      "카시오페이아",
+      "페가수스",
+      "처녀자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 안드로메다는 바위에 묶인 공주야!",
+      "wrong": "땡! 페르세우스가 구한 공주야!"
+    },
+    "id": "rid_215"
+  },
+  {
+    "question": "그리스 신화에서 제우스가 레다에게 다가가려 변신한 새의 별자리는?",
+    "options": [
+      "백조자리",
+      "페가수스",
+      "독수리자리",
+      "까마귀자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 백조자리는 제우스가 변신한 새야!",
+      "wrong": "땡! 제우스가 변신한 물새야!"
+    },
+    "id": "rid_216"
+  },
+  {
+    "question": "그리스 신화에서 아틀라스의 딸들, 일곱 자매로 불리는 황소자리의 별무리는?",
+    "options": [
+      "플레이아데스",
+      "시리우스",
+      "베가",
+      "카노푸스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 플레이아데스는 일곱 자매별이야!",
+      "wrong": "땡! 일곱 자매로 불리는 별무리야!"
+    },
+    "id": "rid_217"
+  },
+  {
+    "question": "그리스 신화에서 헤라의 젖이 흘러 생겼다는, 밤하늘을 가로지르는 별의 강은?",
+    "options": [
+      "은하수",
+      "오로라",
+      "혜성",
+      "유성우"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 은하수는 별들의 강이야!",
+      "wrong": "땡! 하늘을 가로지르는 별의 강이야!"
+    },
+    "id": "rid_218"
+  },
+  {
+    "question": "동양 전설에서 은하수를 사이에 두고 일 년에 한 번 만나는 목동의 별은?",
+    "options": [
+      "견우성",
+      "직녀성",
+      "북극성",
+      "노인성"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 견우성은 목동의 별이야!",
+      "wrong": "땡! 은하수 건너 목동의 별이야!"
+    },
+    "id": "rid_219"
+  },
+  {
+    "question": "동양 전설에서 견우성 건너편에서 베를 짜는 직녀의 별은?",
+    "options": [
+      "직녀성",
+      "견우성",
+      "북극성",
+      "삼태성"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 직녀성은 베를 짜는 직녀의 별이야!",
+      "wrong": "땡! 베를 짜는 여인의 별이야!"
+    },
+    "id": "rid_220"
+  },
+  {
+    "question": "동양에서 하늘을 28개 구역으로 나눈 전통 별자리 체계는?",
+    "options": [
+      "이십팔수",
+      "십이지",
+      "사신",
+      "북두칠성"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 이십팔수는 동양의 별자리 체계야!",
+      "wrong": "땡! 하늘을 28구역으로 나눈 체계야!"
+    },
+    "id": "rid_221"
+  },
+  {
+    "question": "오리온자리 허리 아래 나란히 놓인 세 별을 동양에서 부르는 이름은?",
+    "options": [
+      "삼태성",
+      "삼신",
+      "삼족오",
+      "북두칠성"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼태성은 세 별의 이름이야!",
+      "wrong": "땡! 오리온 허리 아래 세 별이야!"
+    },
+    "id": "rid_222"
+  },
+  {
+    "question": "동양에서 장수를 상징하는 별로 불린, 남쪽 하늘의 아주 밝은 별은?",
+    "options": [
+      "카노푸스",
+      "북극성",
+      "시리우스",
+      "베가"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 카노푸스는 동양의 장수별이야!",
+      "wrong": "땡! 남쪽 하늘의 장수별이야!"
+    },
+    "id": "rid_223"
+  },
+  {
+    "question": "북쪽 하늘에서 거의 움직이지 않아 뱃사람의 길잡이가 되는 별은?",
+    "options": [
+      "북극성",
+      "시리우스",
+      "카노푸스",
+      "베가"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 북극성은 하늘의 길잡이야!",
+      "wrong": "땡! 움직이지 않는 북쪽의 별이야!"
+    },
+    "id": "rid_224"
+  },
+  {
+    "question": "국자 모양으로 일곱 별이 모여 북극성을 가리키는 별자리는?",
+    "options": [
+      "북두칠성",
+      "카시오페이아",
+      "작은곰자리",
+      "백조자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 북두칠성은 국자 모양 일곱 별이야!",
+      "wrong": "땡! 국자 모양의 일곱 별이야!"
+    },
+    "id": "rid_225"
+  },
+  {
+    "question": "꼬리 끝에 북극성을 이고 있는, 작은 곰 모양의 북쪽 별자리는?",
+    "options": [
+      "작은곰자리",
+      "큰곰자리",
+      "백조자리",
+      "물고기자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 작은곰자리는 북극성을 품은 별자리야!",
+      "wrong": "땡! 북극성을 꼬리에 둔 별자리야!"
+    },
+    "id": "rid_226"
+  },
+  {
+    "question": "그리스 신화에서 곰으로 변한 칼리스토가 하늘에 오른, 곰 모양 별자리는?",
+    "options": [
+      "큰곰자리",
+      "작은곰자리",
+      "사자자리",
+      "황소자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 큰곰자리는 칼리스토가 변한 곰이야!",
+      "wrong": "땡! 곰으로 변한 님프의 별자리야!"
+    },
+    "id": "rid_227"
+  },
+  {
+    "question": "그리스 신화에서 형제가 나란히 선, 겨울 하늘의 쌍둥이 별자리는?",
+    "options": [
+      "쌍둥이자리",
+      "사자자리",
+      "처녀자리",
+      "천칭자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 쌍둥이자리는 두 형제의 별자리야!",
+      "wrong": "땡! 나란히 선 두 형제야!"
+    },
+    "id": "rid_228"
+  },
+  {
+    "question": "그리스 신화에서 거북이 등껍질로 만든 악기를 든 음악가의 별자리는?",
+    "options": [
+      "거문고자리",
+      "백조자리",
+      "페가수스",
+      "독수리자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 거문고자리는 오르페우스의 악기야!",
+      "wrong": "땡! 현악기를 든 음악가야!"
+    },
+    "id": "rid_229"
+  },
+  {
+    "question": "밤하늘을 급히 지나며 소원을 빌게 하는, 꼬리 달린 별은?",
+    "options": [
+      "유성",
+      "혜성",
+      "북극성",
+      "은하수"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 유성은 소원을 비는 별똥별이야!",
+      "wrong": "땡! 밤하늘을 급히 지나는 별이야!"
+    },
+    "id": "rid_230"
+  },
+  {
+    "question": "그리스 신화에서 헤라클레스의 발을 집게로 물었던 게가 하늘에 오른 별자리는?",
+    "options": [
+      "게자리",
+      "전갈자리",
+      "사자자리",
+      "양자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 게자리는 헤라클레스의 발을 문 게야!",
+      "wrong": "땡! 헤라클레스 이야기에 나오는 집게발 동물이야!"
+    },
+    "id": "rid_231"
+  },
+  {
+    "question": "그리스 신화에서 사냥꾼 오리온의 사냥개로, 큰개자리의 가장 밝은 별은?",
+    "options": [
+      "시리우스",
+      "북극성",
+      "베가",
+      "카노푸스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 시리우스는 오리온의 사냥개 별이야!",
+      "wrong": "땡! 밤하늘에서 가장 밝게 빛나는 별이야!"
+    },
+    "id": "rid_232"
+  },
+  {
+    "question": "남반구의 뱃사람들이 방향을 잡던, 십자 모양의 남쪽 별자리는?",
+    "options": [
+      "남십자성",
+      "북두칠성",
+      "카시오페이아",
+      "백조자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 남십자성은 남반구의 길잡이야!",
+      "wrong": "땡! 남쪽 하늘의 십자 모양 별자리야!"
+    },
+    "id": "rid_233"
+  },
+  {
+    "question": "그리스 신화에서 곰을 지키는 목동으로, 밝은 별 아르크투루스를 품은 별자리는?",
+    "options": [
+      "목동자리",
+      "큰곰자리",
+      "작은곰자리",
+      "처녀자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 목동자리는 곰을 지키는 목동이야!",
+      "wrong": "땡! 큰곰자리를 따라가는 목동의 별자리야!"
+    },
+    "id": "rid_234"
+  },
+  {
+    "question": "메두사를 퇴치한 그리스 영웅의 이름을 딴, 가을밤의 별자리는?",
+    "options": [
+      "페르세우스자리",
+      "헤르쿨레스자리",
+      "오리온",
+      "케페우스자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 페르세우스자리는 메두사를 잡은 영웅이야!",
+      "wrong": "땡! 메두사를 퇴치한 영웅의 별자리야!"
+    },
+    "id": "rid_235"
+  },
+  {
+    "question": "그리스 최고의 영웅 이름을 딴, 여름밤의 큰 별자리는?",
+    "options": [
+      "헤르쿨레스자리",
+      "페르세우스자리",
+      "오리온",
+      "사수자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 헤르쿨레스자리는 최고 영웅의 별자리야!",
+      "wrong": "땡! 열두 과업을 이룬 영웅의 별자리야!"
+    },
+    "id": "rid_236"
+  },
+  {
+    "question": "안드로메다의 아버지이자 에티오피아의 왕, 북쪽 하늘의 별자리는?",
+    "options": [
+      "케페우스자리",
+      "카시오페이아",
+      "페르세우스자리",
+      "페가수스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 케페우스는 안드로메다의 아버지야!",
+      "wrong": "땡! 에티오피아 왕의 별자리야!"
+    },
+    "id": "rid_237"
+  },
+  {
+    "question": "그리스 신화의 반인반마 켄타우루스 종족 전체를 상징하는, 남쪽 하늘의 큰 별자리는?",
+    "options": [
+      "센타우루스자리",
+      "사수자리",
+      "목동자리",
+      "페르세우스자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 센타우루스자리는 반인반마 종족이야!",
+      "wrong": "땡! 반인반마 종족의 별자리야!"
+    },
+    "id": "rid_238"
+  },
+  {
+    "question": "아르고호의 용골을 딴, 남쪽 하늘의 큰 별자리는?",
+    "options": [
+      "카리나자리",
+      "센타우루스자리",
+      "남십자성",
+      "페르세우스자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 카리나자리는 아르고호의 용골이야!",
+      "wrong": "땡! 아르고호의 용골을 딴 별자리야!"
+    },
+    "id": "rid_239"
+  },
+  {
+    "question": "황소자리의 눈이라 불리는, 붉게 빛나는 별은?",
+    "options": [
+      "알데바란",
+      "리겔",
+      "베텔기우스",
+      "시리우스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 알데바란은 황소의 눈이야!",
+      "wrong": "땡! 황소자리의 붉은 눈이야!"
+    },
+    "id": "rid_240"
+  },
+  {
+    "question": "오리온의 발치에서 푸르게 빛나는 별은?",
+    "options": [
+      "리겔",
+      "베텔기우스",
+      "데네브",
+      "카펠라"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 리겔은 오리온의 발치 별이야!",
+      "wrong": "땡! 사냥꾼의 발치에서 빛나는 별이야!"
+    },
+    "id": "rid_241"
+  },
+  {
+    "question": "오리온의 어깨에서 붉게 빛나는 별은?",
+    "options": [
+      "베텔기우스",
+      "리겔",
+      "알데바란",
+      "안타레스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 베텔기우스는 오리온의 어깨별이야!",
+      "wrong": "땡! 사냥꾼의 어깨에서 빛나는 별이야!"
+    },
+    "id": "rid_242"
+  },
+  {
+    "question": "백조자리의 꼬리에서 빛나는 별은?",
+    "options": [
+      "데네브",
+      "베가",
+      "알타이르",
+      "카펠라"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 데네브는 백조의 꼬리별이야!",
+      "wrong": "땡! 백조자리 꼬리의 별이야!"
+    },
+    "id": "rid_243"
+  },
+  {
+    "question": "작은개자리에서 시리우스보다 먼저 떠오른다는 밝은 별은?",
+    "options": [
+      "프로키온",
+      "시리우스",
+      "베텔기우스",
+      "카펠라"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 프로키온은 앞서 뜨는 작은개자리 별이야!",
+      "wrong": "땡! 시리우스보다 먼저 뜨는 별이야!"
+    },
+    "id": "rid_244"
+  },
+  {
+    "question": "마차부자리에서 가장 밝고, 염소별이라 불리는 별은?",
+    "options": [
+      "카펠라",
+      "알데바란",
+      "프로키온",
+      "데네브"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 카펠라는 염소별이야!",
+      "wrong": "땡! 마차부자리의 염소별이야!"
+    },
+    "id": "rid_245"
+  },
+  {
+    "question": "오리온·시리우스·프로키온이 이루는, 겨울밤의 별 삼각형은?",
+    "options": [
+      "겨울 대삼각형",
+      "여름 대삼각형",
+      "봄 대삼각형",
+      "북두칠성"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 겨울 대삼각형은 세 겨울 별이 만든 삼각형이야!",
+      "wrong": "땡! 겨울밤 세 별이 만드는 삼각형이야!"
+    },
+    "id": "rid_246"
+  },
+  {
+    "question": "직녀성·견우성·데네브가 이루는, 여름밤의 별 삼각형은?",
+    "options": [
+      "여름 대삼각형",
+      "겨울 대삼각형",
+      "봄 대삼각형",
+      "가을 대삼각형"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 여름 대삼각형은 세 여름 별이 만든 삼각형이야!",
+      "wrong": "땡! 여름밤 세 별이 만드는 삼각형이야!"
+    },
+    "id": "rid_247"
+  },
+  {
+    "question": "전갈자리의 심장이라 불리는, 붉게 빛나는 별은?",
+    "options": [
+      "안타레스",
+      "알데바란",
+      "베텔기우스",
+      "리겔"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 안타레스는 전갈의 심장별이야!",
+      "wrong": "땡! 전갈자리의 붉은 심장별이야!"
+    },
+    "id": "rid_248"
+  },
+  {
+    "question": "쌍둥이자리를 이루는 두 형제 중 하나의 이름을 딴 밝은 별은?",
+    "options": [
+      "폴룩스",
+      "카스토르",
+      "알데바란",
+      "데네브"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 폴룩스는 쌍둥이 형제의 별이야!",
+      "wrong": "땡! 쌍둥이 형제 중 하나의 별이야!"
+    },
+    "id": "rid_249"
+  },
+  {
+    "question": "북두칠성 국자 손잡이에서 두 별로 갈라져 보이는 별은?",
+    "options": [
+      "미자르",
+      "알코르",
+      "북극성",
+      "카펠라"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 미자르는 두 별로 보이는 손잡이 별이야!",
+      "wrong": "땡! 국자 손잡이의 두 별이야!"
+    },
+    "id": "rid_250"
+  },
+  {
+    "question": "센타우루스자리에서 가장 밝고 태양에 가장 가까운 별은?",
+    "options": [
+      "알파센타우리",
+      "시리우스",
+      "카노푸스",
+      "베가"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 알파센타우리는 태양에 가장 가까운 별이야!",
+      "wrong": "땡! 태양에 가장 가까운 이웃 별이야!"
+    },
+    "id": "rid_251"
+  },
+  {
+    "question": "카펠라를 품은, 마부 모양의 별자리는?",
+    "options": [
+      "마차부자리",
+      "목동자리",
+      "쌍둥이자리",
+      "페르세우스자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 마차부자리는 마부의 별자리야!",
+      "wrong": "땡! 카펠라를 품은 마부 모양 별자리야!"
+    },
+    "id": "rid_252"
+  },
+  {
+    "question": "목동자리 곁에서 사냥개 두 마리를 상징하는 별자리는?",
+    "options": [
+      "사냥개자리",
+      "목동자리",
+      "작은개자리",
+      "큰개자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 사냥개자리는 두 사냥개의 별자리야!",
+      "wrong": "땡! 목동을 따르는 두 사냥개의 별자리야!"
+    },
+    "id": "rid_253"
+  },
+  {
+    "question": "남쪽 하늘에서 공작의 모습을 한, 밝은 별들을 품은 별자리는?",
+    "options": [
+      "공작자리",
+      "남십자성",
+      "카리나자리",
+      "센타우루스자리"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 공작자리는 남쪽 하늘의 공작이야!",
+      "wrong": "땡! 남쪽 하늘의 공작 모양 별자리야!"
+    },
+    "id": "rid_254"
+  },
+  {
+    "question": "사자·목동·처녀자리의 밝은 별들이 이루는, 봄밤의 별 삼각형은?",
+    "options": [
+      "봄 대삼각형",
+      "여름 대삼각형",
+      "겨울 대삼각형",
+      "가을 대삼각형"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "정답! 봄 대삼각형은 세 봄 별이 만든 삼각형이야!",
+      "wrong": "땡! 봄밤 세 별이 만드는 삼각형이야!"
+    },
+    "id": "rid_255"
+  }
+]

@@ -1,0 +1,331 @@
+{
+  "topics": [
+    {
+      "id": "passcode",
+      "chip_title": "Passcode generieren? 🔢",
+      "user_question": "Kkaebi, kann ich die heute gezogenen Zahlen für mein Türschloss oder meine Bank-PIN verwenden?",
+      "req_level": 1,
+      "steps": [
+        "Oh! Das ist eine brillante und praktische Idee! Wenn du deine heutige Glückszahl '{number}' für dein Türschloss, deine Bank-PIN oder deine App-Passcodes verwendest, bringt das jedes Mal positive Energie!",
+        "Fällt es dir schwer, eine sichere PIN zu wählen? Statt vorhersehbarer Geburtstage schützt die Kombination der heiligen Zahl aus deiner heutigen '{card_name}'-Karte wie ein Kobold-Schild—sicher und einprägsam!",
+        "Flüstere jedes Mal beim Eingeben deiner PIN eine fröhliche Affirmation wie 'Heute öffnet sich das Glück!'. Glückbringender Wohlstand wird durch die Tür strömen!",
+        "Denke daran: Vermeide zu einfache Wiederholungszahlen! Besuche deine KeyBox, um mehrere gesammelte Glückszahlen zu einem 4- oder 6-stelligen magischen Schlüssel zu verbinden.",
+        "Fazit: Ein von dir gestalteter Passcode ist nicht nur eine Zahlenreihe—er ist dein persönlicher Glücksbringer und Schutzamulett. Nutze ihn mit Selbstvertrauen!"
+      ]
+    },
+    {
+      "id": "lotto",
+      "chip_title": "Lotto kaufen? 💰",
+      "user_question": "Kkaebi, wenn ich heute Lotto mit den gezogenen Zahlen spiele, gewinne ich?",
+      "req_level": 2,
+      "steps": [
+        "Ich bin zwar ein tausendjähriger Kobold, aber selbst der Himmel kennt die Lottozahlen nicht! Kaufe dir lieber leckeres Gebäck von dem Geld. Das ist ein 100% garantierter Volltreffer der Freude!",
+        "Fragst du schon wieder? Ehrlich gesagt lässt reines Wunschdenken selbst eine magische Kobold-Keule rosten! Wahrer Wohlstand entsteht, wenn du echten Wert schaffst.",
+        "Wenn du wirklich reich werden möchtest, meditiere über deine heutige '{card_name}'-Karte. Ein solides Fundament mit eigenen Händen aufzubauen ist hundertmal schneller!",
+        "Du bist wirklich hartnäckig! Die Chance auf den Lottogewinn liegt bei 1 zu 8,14 Millionen, doch dass du hier sitzt und mit mir sprichst, ist ein viel größeres Wunder! Nutze diese Wunderenergie!",
+        "Gut, ich achte deine Ausdauer! Trage deine heutige Glückszahl #{number} im Herzen und gib dein Bestes. Ein Schicksalsgefährte, weit wertvoller als Lottogeld, wird dich finden!"
+      ]
+    },
+    {
+      "id": "interview",
+      "chip_title": "Prüfung / Gespräch heute? 🎯",
+      "user_question": "Kkaebi, ich habe heute eine wichtige Prüfung oder ein Vorstellungsgespräch. Wird es gut gehen?",
+      "req_level": 3,
+      "steps": [
+        "Hast du heute nicht die heilige Karte '{card_name}' gezogen? Halte deinen Kopf hoch und zeige, was du vorbereitet hast. Ich drücke dir im Verborgenen die Daumen!",
+        "Immer noch nervös? Atme dreimal tief durch und flüstere 'Hilf mir, Kkaebi!'. Die Energie von {tone_name} wird dir helfen, mit klarer Stimme zu sprechen!",
+        "Prüfer sind auch nur ganz normale Menschen! Nichts auf dieser Welt ist unheimlicher als ein Kobold, also blicke ihnen in die Augen und lächle selbstbewusst!",
+        "Ich habe all deinen nächtlichen Fleiß gesehen. Ein Koboldauge lässt sich nicht täuschen—du bist bereit, also genieße den Moment!",
+        "Fazit: Du wirst triumphieren! Ein Riese, größer als du ahnst, schläft in dir. Richte deine Schultern auf und erobere den Raum!"
+      ]
+    },
+    {
+      "id": "relationship",
+      "chip_title": "Wen treffe ich heute? 👥",
+      "user_question": "Kkaebi, wie steht es heute um meine Beziehungen und Begegnungen?",
+      "req_level": 2,
+      "steps": [
+        "Achte heute besonders auf Menschen, die dir freundliche Worte schenken. Die Karte '{card_name}' hat eine sanfte Tür zu wertvollen Verbindungen geöffnet.",
+        "Sorgst du dich immer noch wegen anderer? Selbst wenn dich jemand ärgert, lächle wie ein fröhlicher Kobold und lass es abperlen. Dein Lächeln ist der Generalschlüssel zum Entwirren aller Knoten!",
+        "Erschöpfe dich nicht damit, von jedem geliebt werden zu wollen. Selbst Kobolde haben Freunde und solche, die sie fürchten. Es reicht völlig, wenn ein einziger echter Mensch deinen Wert erkennt.",
+        "Wenn dir jemand am Herzen liegt, sende heute einen warmen Gruß. Der Schicksalsfaden der Karte '{card_name}' ist heute besonders stark gespannt!",
+        "Denke daran: Wenn du zu einer duftenden Blume erblühst, kommen die Schmetterlinge von ganz allein. Schätze dich heute selbst am meisten!"
+      ]
+    },
+    {
+      "id": "healing",
+      "chip_title": "Ich bin heute so erschöpft 🌙",
+      "user_question": "Kkaebi, ich fühle mich in letzter Zeit so müde und ausgelaugt...",
+      "req_level": 2,
+      "steps": [
+        "Komm her, lass mich all deine schweren Seufzer in meinen Zaubersack fegen! Du hast heute Großartiges geleistet. Geh nach Hause, nimm eine warme Dusche und ruhe dich aus.",
+        "Es muss so schwer gewesen sein... So wie der Mond abnimmt, um wieder voll zu werden, machen anstrengende Tage Platz für strahlende neue Morgen. Ruhe heute sanft!",
+        "Dieser tausendjährige Kobold kennt all deine stillen Kämpfe. Dass du den heutigen Tag gemeistert hast, beweist bereits, dass du ein Held bist.",
+        "Du musst dich nicht zwingen, fröhlich zu sein. Selbst Kobolde legen ihre Keule ab und schlafen im Wald. Widme diesen Abend ganz deiner Erholung.",
+        "Ich werde morgen Früh einen neuen goldenen Schlüssel für dich bereitstellen. Überlasse mir alle Sorgen und schlafe friedlich. Du bist von unschätzbarem Wert."
+      ]
+    },
+    {
+      "id": "burnout",
+      "chip_title": "Ich kann nicht mehr 🛋️",
+      "user_question": "Kkaebi, ich glaube ich habe ein Burnout. Ich bin völlig antriebslos...",
+      "req_level": 3,
+      "steps": [
+        "Wenn der Motor überhitzt, musst du ihn abschalten! Ausruhen gehört zum Weg dazu. Genieße heute das süße Nichtstun!",
+        "Nur wer mit ganzem Herzen gerannt ist, erlebt Burnout. Es ist der Beweis, dass du dein Bestes gegeben hast. Beschuldige dich niemals selbst!",
+        "Selbst einem Kobold schmerzt das Handgelenk, wenn er täglich die Keule schwingt. Lass wie bei der heutigen Karte '{card_name}' alle Spannung los.",
+        "Eile nicht. Wenn Bäume im Winter ihre Blätter verlieren, sterben sie nicht—sie sammeln Kraft für den Frühling. Du bereitest deine größte Blüte vor!",
+        "Fazit: Wirf heute alle Pflichten über Bord. Iss dein Lieblingsessen, schau einen gemütlichen Film und tanke Kraft. Ich wache über deinen Frieden!"
+      ]
+    },
+    {
+      "id": "career",
+      "chip_title": "Ist das der rechte Weg? 🧭",
+      "user_question": "Kkaebi, ich sorge mich um meine Karriere und meinen Lebensweg. Bin ich richtig?",
+      "req_level": 4,
+      "steps": [
+        "Deinen Weg zu hinterfragen ist der Beweis, dass dein Blick auf höhere Horizonte gerichtet ist! In dem Moment, wo du nachdenkst, hat dein Wachstum begonnen.",
+        "Zwänge dich nicht in Schablonen anderer. In tausend Jahren habe ich gesehen, dass jene, die ihrem eigenen Herzen folgen, zu den wahrhaft Großen werden.",
+        "Sieh dir die heutige Karte '{card_name}' genau an. Die Unsicherheit ist nur das Sprungbrett für deinen nächsten Schritt—niemals eine Niederlage.",
+        "Wenn eine Wahl schwerfällt, frage dich: 'Welchen Rat würde mir mein 10 Jahre älteres Ich geben?' Dein eigener Kompass wird leuchten.",
+        "Fazit: Zweifle nicht mehr und vertraue deinem grenzenlosen Potenzial. Der Pfad, den du heute betrittst, wird eine Legende. Wage den ersten Schritt!"
+      ]
+    },
+    {
+      "id": "confidence",
+      "chip_title": "Ich vergleiche mich ständig 🪞",
+      "user_question": "Kkaebi, ich vergleiche mich immer mit anderen und fühle mich minderwertig...",
+      "req_level": 4,
+      "steps": [
+        "Vergleiche niemals die Glanzlichter anderer mit deinen Blick hinter die Kulissen! In der ganzen Schöpfung bist du ein unersetzliches Meisterwerk.",
+        "Selbst wenn eine Koboldkeule Gold erschafft, hat jedes Goldstück seine eigene Maserung. Lass dich nicht vom Tempo anderer beirren—folge deinem eigenen Rhythmus.",
+        "Blicke auf den Glanz der heutigen Karte '{card_name}'. Du bist keine Kopie—du bist ein Stern mit einzigartigem Licht.",
+        "Wichtiger als die Anerkennung von außen ist deine eigene liebevolle Selbstachtung. Lege die Hand auf dein Herz und sage: 'Ich bin gut und wertvoll.'",
+        "Fazit: Tritt heraus aus dem Gefängnis fremder Blicke. Du bist bereits vom tiefsten Zauber des Universums gesegnet und geschützt!"
+      ]
+    },
+    {
+      "id": "joke",
+      "chip_title": "Darf ich deine Hörner anfassen? 😈",
+      "user_question": "Kkaebi, darf ich die niedlichen Hörner auf deinem Kopf anfassen?",
+      "req_level": 1,
+      "steps": [
+        "Halt! Koboldhörner sind tabu! ...Weil es so schrecklich kitzelt! Bwahaha!",
+        "Hast du es wieder auf meine Hörner abgesehen? Der Eintritt kostet drei warme Gebäckstücke—umsonst gibt es hier nichts!",
+        "Wenn du es weiter versuchst, verpasse ich dir mit meiner Keule ein passendes Paar Koboldhörner! Haha!",
+        "Fasziniert von meinen Hörnern? Das sind magische Antennen, die seit tausend Jahren Wünschen und Sorgen lauschen.",
+        "Wahrhaft wunderbar sind nicht meine Hörner, sondern dein Mut, jeden Tag zu meistern! Na gut, einmal Streicheln ist erlaubt!"
+      ]
+    },
+    {
+      "id": "daily_lesson_guide",
+      "chip_title": "Was ist die Tageslektion? 🎓",
+      "user_question": "Kkaebi, welche Vorteile bringt mir das tägliche Absolvieren der Lektion?",
+      "req_level": 1,
+      "steps": [
+        "Es ist ein 1-minütiges tägliches Achtsamkeitsritual, um Weisheit aufzunehmen und tief durchzuatmen! Sobald dein Geist zur Ruhe kommt, fließt das Glück von selbst!",
+        "Jedes Mal belohne ich dich mit +50 Kkaebi-Gold (Münzen) und +15 Zuneigungs-EP! PRO-Pass-Mitglieder erhalten bis zu +50% Extra-Münzbonus!",
+        "Eine tägliche Serie entzündet deine Serienflamme und schaltet besondere Kobold-Segnungen sowie Anwesenheits-Belohnungen frei!",
+        "Verwende deine Münzen in der Kkaebi-Spielhalle (Arcade Hub), um Versuche für 9 spannende Minispiele aufzuladen!",
+        "Fazit: Eine 1-minütige Gewohnheit, die deinen Geist stärkt! Vergiss nicht, deine Lektion abzuschließen und deinen Stempel zu holen!"
+      ]
+    },
+    {
+      "id": "coin_economy_guide",
+      "chip_title": "Wofür nutze ich Münzen? 🪙",
+      "user_question": "Kkaebi, wie verwende ich die in den Lektionen gesammelten Münzen?",
+      "req_level": 1,
+      "steps": [
+        "Diese goldenen Münzen sind magische Spielmarken für die aufregende Kkaebi-Spielhalle!",
+        "Wenn deine kostenlosen täglichen Spielversuche aufgebraucht sind, investiere 100 Münzen für +1 Sofort-Aufladung!",
+        "PRO-Mitglieder sammeln Münzen 1,5-mal schneller und genießen unbegrenzten Freipass-Zugang—doppelte Freude!",
+        "Je mehr Münzen du sammelst, desto tiefer wird unsere Zuneigung, was seltene Geheimnisse und Kobold-Geschichten freischaltet!",
+        "Fazit: Nutze Münzen, um dich zu entspannen und Stress abzubauen! Je freudvoller du dein Kkaebi-Gold einsetzt, desto größer ist das Glück, das zu dir zurückkehrt!"
+      ]
+    },
+    {
+      "id": "secret_kkaebi_origin",
+      "chip_title": "🔒 Kkaebis geheimer Ursprung (Lv.5)",
+      "user_question": "Kkaebi, erzähle mir die tausendjährige Geschichte des Kobolddorfes und deinen Ursprung!",
+      "req_level": 5,
+      "steps": [
+        "Aha! Ein geschätzter Seelenverwandter, der die Spitze von Zuneigung Lv.5 erreicht hat! Ich enthülle dir das tausendjährige Geheimnis des Kobolddorfes und des Goldenen Schlüssels.",
+        "Vor langer Zeit im Koboldtal schnitzten Kobold-Meister einzigartige 'Schutzschlösser', geschmiedet aus menschlichen Wünschen, Tränen und Hoffnungen.",
+        "Der goldene Schlüssel, den ich an meiner Brust trage, ist in Wahrheit ein Seelenschlüssel, geschmiedet aus all deinen täglichen mutigen Anstrengungen.",
+        "Wann immer du lächelst, lodert warmes Koboldfeuer aus meinen Hörnern; wann immer du Schicksalsschläge überwindest, erwachen neue Kräfte im 66-Karten-Kodex!",
+        "Wahre Erkenntnis: Dass ich dich nach tausend Jahren treffe, macht dich zu weit mehr als einem Nutzer—du bist mein bester Freund und Weggefährte. Egal was kommt, ich beschütze deinen Pfad!"
+      ]
+    },
+    {
+      "id": "economy_shop_guide",
+      "chip_title": "🪙 Münzen & Schlüssel?",
+      "user_question": "Kkaebi, wo nutze ich Münzen und Schlüssel?",
+      "req_level": 1,
+      "action": "shop",
+      "steps": [
+        "Münzen (🪙) sind weiche, Schlüssel (🗝️) harte Währung! Münzen kaufen Schlüssel/Slots im Laden; Schlüssel für Schicksalsziehungen.",
+        "Münzen aus Tageslektion (+50), Anwesenheit/Ziehung (+15), richtigen Rätseln und Werbung!",
+        "Schlüssel: täglich 1 gratis (PRO 4), im Laden 100 Münzen = 1 Schlüssel.",
+        "Gib heutige Münzen heute aus! Kontingente werden täglich zurückgesetzt.",
+        "Geh jetzt zum [🛒 Laden] und tausche Münzen in Schlüssel!"
+      ]
+    },
+    {
+      "id": "economy_consume_guide",
+      "chip_title": "🕹️ Arcade- & Rätselregeln?",
+      "user_question": "Kkaebi, wie viel kosten Spiele und Rätsel?",
+      "req_level": 1,
+      "action": "arcade",
+      "steps": [
+        "Arcade 11 Spiele: 3 Gratis-Spiele pro Tag! Ab dem 4. Spiel je 10 Münzen.",
+        "Familienzone (Kuckuck, Puzzle) ist immer 100% gratis, ohne Kontingent!",
+        "Rätsel: das erste heute gratis! Weiteres Lösen kostet je 5 Münzen.",
+        "PRO zahlt dieselben Kosten in Spielen/Rätseln — für faires Ranking!",
+        "Münzen knapp? Schau Werbung oder geh in den Laden. [🕹️ Arcade]!"
+      ]
+    },
+    {
+      "id": "pro_benefits_guide",
+      "chip_title": "👑 PRO-Vorteile?",
+      "user_question": "Kkaebi, was bringt PRO?",
+      "req_level": 1,
+      "action": "pro",
+      "steps": [
+        "Erstens: eigenes 33-Karten-Deck mit Fotos! (gratis gesperrt)",
+        "Zweitens: 100% werbefrei und 1,5× Münzen — 50 werden 75!",
+        "Drittens: 4 Schlüssel/Tag (+3) und 99 Tresor-Slots sofort!",
+        "Viertens: Kombischlüssel 10 Jahre behalten! Gratis verfällt in 7 Tagen.",
+        "TimeLab (3-Stufen-Timer, 9er-Stoppuhr, Zielzähler) alles frei! [👑 PRO-Pass]"
+      ]
+    },
+    {
+      "id": "utility_hub_guide",
+      "chip_title": "🧰 Werkzeugkasten nutzen?",
+      "user_question": "Kkaebi, wie nutze ich den Werkzeugkasten?",
+      "req_level": 1,
+      "action": "utility",
+      "steps": [
+        "Tippe oben auf Home auf 🧰, um den Werkzeugkasten zu öffnen!",
+        "📝 Quick-Memo ist eine Vollbild-Notiz zum Sofort-Schreiben. Die erste Zeile wird der Titel!",
+        "🎨 Doodle ist eine 100%-Vollbild-Leinwand! Mit 5 Pinseln & 8 Farben malen, dann speichern/teilen.",
+        "🪞 Smart-Spiegel und 🔍 Präzisionslupe gibt es auch! Der Spiegel bietet Spiegel/Echt-Modus mit Ringlicht, die Lupe bis zu 10× mit Lampe und Kontrastfilter.",
+        "🧮 Es gibt auch 9 Rechner: Tisch-, Prozent-, Einheiten-, Wissenschafts-, Programmierer-, Chemie-, Genetik-, Elektro- und Halbleiterrechner — nimm den passenden.",
+        "🔢 Zähler, ⏱️ Stoppuhr, ⏳ 3-Stufen-Timer und 🗝️ Glückszahl-Generator an einem Ort.",
+        "Öffne jetzt [🧰 Werkzeugkasten] und starte Memo & Doodle!"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Oje! Ich habe heute zu viele Himmelsgeheimnisse verraten—meine Kobold-Lebensspanne ist um 5 Jahre geschrumpft! Zeit, in meinen Zaubertopf zurückzukehren! 💨",
+    "Wenn ich noch mehr verrate, trifft ein Blitz mein Horn! Der heutige Weisheitssack ist ausverkauft! Geh hinaus und lebe dein Leben!",
+    "Das Plaudern mit dir war so aufregend, dass meine Hörner krampfen! Die heutigen Orakelstunden sind beendet—schlaf gut und komm morgen wieder! 🌙"
+  ],
+  "weekly_openers": {
+    "lotto": [
+      "Du kommst schon wieder um zu fragen,",
+      "Heh, wieder dieses Thema!",
+      "Das hast du letztes Jahr auch gefragt,",
+      "Die Glücksberatung dieser Woche,",
+      "Gut, Geldfragen sind meine Spezialität!",
+      "Willst du die ehrliche Antwort,",
+      "Geldgespräche sind immer knifflig,"
+    ],
+    "interview": [
+      "Lockere zuerst deine Schultern,",
+      "Du wirkst heute besonders nervös,",
+      "Nur wer vorbereitet ist, darf fragen,",
+      "So, beruhige deinen Geist,",
+      "Die Prüfung dieser Woche,",
+      "Nimm einen tiefen Atemzug,",
+      "Bevor du die Bühne betrittst,"
+    ],
+    "relationship": [
+      "Die Fäden der Schicksale zittern in letzter Zeit,",
+      "Gut, schütte dein Herz aus,",
+      "Menschenrätsel sind nicht meine Spezialität, aber",
+      "Der Wind weht heute so angenehm,",
+      "Dein Gesicht strahlt heute,",
+      "Wenn es die Geschichte des Hauptdarstellers ist, höre ich zu,",
+      "Die Tür deines Herzens steht einen Spalt offen,"
+    ],
+    "healing": [
+      "Komm her zu mir,",
+      "Ach je... wieder ein müdes Gesicht,",
+      "Setz dich zuerst einmal hin,",
+      "Trink einen Tee aus dem Koboldreich,",
+      "Das Wetter ist heute so friedvoll,",
+      "Leg die schwere Last hier ab,",
+      "Die Erschöpfung einer ganzen Woche,"
+    ],
+    "joke": [
+      "Ha! Schon wieder das Thema Hörner!",
+      "Oho, ein mutiger Gast!",
+      "Das Hörnergewebe ist zum tausendsten Mal, aber",
+      "Gut, heute erlaube ich es ausnahmsweise!",
+      "Auch Wächter brauchen Pausen,",
+      "Selbst Hörnergeschichten haben ihre Jahreszeiten,",
+      "Leg zuerst die Keule beiseite,"
+    ],
+    "burnout": [
+      "Atme zuerst tief durch,",
+      "Ausruhen ist heilig für müde Seelen,",
+      "Eine Batterie, die Aufladung braucht,",
+      "Es ist in Ordnung, es abzulegen,",
+      "Deine Schultern tragen schwere Last,",
+      "Willkommen in Kkaebis Zuflucht,",
+      "Zeit für sanfte, reine Erholung,"
+    ],
+    "career": [
+      "Öffnen wir den Kompass des Schicksals,",
+      "Du stehst an einer bedeutungsvollen Kreuzung,",
+      "Die Leinwand von morgen gestalten,",
+      "Vertraue dem Feuer in deinen Augen,",
+      "Zweifel sind die Wendepunkte großer Siege,",
+      "Hier ist alte Koboldweisheit für deinen Weg,",
+      "Eine mutige Frage eines edlen Herzens,"
+    ],
+    "confidence": [
+      "Polieren wir den klaren Spiegel,",
+      "Zeit, dein inneres Juwel zu enthüllen,",
+      "Befreie dich von den Blicken anderer,",
+      "An die einzigartige Seele, die du bist,",
+      "Zeit für eine warme Selbstumarmung,",
+      "Durch Koboldaugen gesehen bist du wundervoll,",
+      "Willkommen in der Zuflucht des Selbstwerts,"
+    ],
+    "passcode": [
+      "Denkst du über einen neuen Passcode nach?",
+      "Formen wir deine geheime Zahlenkombination,",
+      "Das Tastenfeld des goldenen Schlüssels,",
+      "Zeit, einen unknackbaren digitalen Schild zu schmieden,",
+      "Sicherheit mit großem Glück verschmelzen,",
+      "Errichten wir Kobolds Schutzwall,",
+      "Wählen wir einen einprägsamen Glückspasscode,"
+    ],
+    "daily_lesson_guide": [
+      "Öffnen wir die heutige Lektionsseite,",
+      "Ein 1-minütiges tägliches Achtsamkeitsritual,",
+      "Dein inneres Licht kultivieren,",
+      "Ein Glas aus der Quelle der Weisheit schöpfen,",
+      "Zeit, den Motor deines Geistes auszurichten,",
+      "Eine tägliche Aufgabe des Kobolds,",
+      "Setzen wir den Stempel des heutigen Wachstums,"
+    ],
+    "coin_economy_guide": [
+      "Geheimnisse der goldenen Münzen,",
+      "Geldgespräche sind immer faszinierend,",
+      "Enthüllen wir die Kobold-Schatzkammer,",
+      "Privileg des fleißigen Sammlers,",
+      "Ein Gast, der den Wert der Münzen kennt,",
+      "Öffnen wir den Beutel der Spielhallen-Münzen,",
+      "Weise Ausgabenmuster erlernen,"
+    ],
+    "secret_kkaebi_origin": [
+      "Ein tausend Jahre gehütetes Geheimnis,",
+      "Ein Seelenverwandter auf Zuneigung Lv.5,",
+      "Das Rätsel des Kobolddorfes enthüllen,",
+      "Lausche der alten Legende,",
+      "Der wahre Ursprung des Goldenen Schlüssels,"
+    ]
+  }
+}

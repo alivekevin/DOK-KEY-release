@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Fremder Gast",
+      "subtitle": "Neugieriger und höflicher Beobachter",
+      "quote": "Woher kommst du, Wanderer? Bewunderst du meine magische Koboldkeule?",
+      "perks": [
+        "Tägliches 1-Draw Horoskop",
+        "Standard Kkaebi-Dialog"
+      ]
+    },
+    "2": {
+      "title": "Bekannter Freund",
+      "subtitle": "Verspielter Koboldgefährte",
+      "quote": "Oho! Du bist wieder da, mein Freund! Was gibt es heute Neues?",
+      "perks": [
+        "Zwinkern & Jubel-Ausdrücke",
+        "Tägliche Stups-Reaktion (+5 Zuneigung)",
+        "Freundlicher Horoskop-Ton"
+      ]
+    },
+    "3": {
+      "title": "Bester Kumpel",
+      "subtitle": "Vertrauter für mythische Geheimnisse",
+      "quote": "Ich verrate es nur dir: Die Energie der heutigen Bestienkarte ist außergewöhnlich!",
+      "perks": [
+        "Geheime Gesprächsoptionen",
+        "Geheimer Kkaebi-Tipp im Ergebnis",
+        "Verstärkte Goldfunken"
+      ]
+    },
+    "4": {
+      "title": "Kobold-Seelenverwandter",
+      "subtitle": "Treuherziger Gefährte mit Glücksbringer",
+      "quote": "Wir stehen uns schon so nah! Du bist wahrhaftig mein bester Partner.",
+      "perks": [
+        "Koboldfeuer-Aura-Effekt",
+        "Wöchentlicher Montags-Schlüssel (+1)",
+        "Tiefgründige Dialog-Ratschläge"
+      ]
+    },
+    "5": {
+      "title": "Ewige Legende",
+      "subtitle": "Schutzgeist über ein Jahrtausend",
+      "quote": "Ich habe wohl tausend Jahre auf dich gewartet. Möge dein Weg voller goldenem Glück sein!",
+      "perks": [
+        "Goldenes Kobold-Master-Abzeichen",
+        "Ultimativer Goldsegen-Effekt",
+        "Geheime Legenden-Dialoge"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Haha, das kitzelt! Warum stupsest du mich an? 😆",
+    "Hehe, du magst es wohl, mich zu berühren! ✨",
+    "Gold fliege herbei! Viel Glück für dich, mein Freund! 🔮",
+    "Man sagt, wer mein Horn berührt, dessen Wunsch wird wahr! 😈",
+    "Kopf hoch heute! Ich passe auf dich auf! 💖"
+  ]
+}

@@ -1,0 +1,2000 @@
+{
+  "symbols": [
+    {
+      "id": "tiger",
+      "label": "Tiger",
+      "keywords": [
+        "tiger",
+        "raubtier",
+        "kraft",
+        "mut",
+        "tiger traum"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "tiger",
+      "meaning": "Große Ehre, Macht und ein starker Verbündeter stehen bevor",
+      "advice": "Spüre die Kraft des Tigers! Triff heute mutige Entscheidungen!"
+    },
+    {
+      "id": "pig",
+      "label": "Schwein (Glücksschwein)",
+      "keywords": [
+        "schwein",
+        "glücksschwein",
+        "reichtum",
+        "sparschwein",
+        "pig"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "pig",
+      "meaning": "Klassisches Vorzeichen für Reichtum und unerwarteten Wohlstand",
+      "advice": "Das Glücksschwein ist da! Mach dich bereit für neue Fülle!"
+    },
+    {
+      "id": "snake",
+      "label": "Schlange",
+      "keywords": [
+        "schlange",
+        "häutung",
+        "weisheit",
+        "vertrag",
+        "snake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "snake",
+      "meaning": "Weisheit, Erneuerung und wachsender materieller Erfolg",
+      "advice": "Streife alte Gewohnheiten ab! Heute beginnt ein neues Kapitel!"
+    },
+    {
+      "id": "dragon",
+      "label": "Drache",
+      "keywords": [
+        "drache",
+        "aufstieg",
+        "macht",
+        "erfolg",
+        "dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "dragon",
+      "meaning": "Höchste Ehre, Durchbruch und meisterhafter Lebensaufstieg",
+      "advice": "Erhebe dich wie ein Drache! Zeige heute deine ganze Stärke!"
+    },
+    {
+      "id": "bird",
+      "label": "Vogel / Kranich",
+      "keywords": [
+        "vogel",
+        "kranich",
+        "elster",
+        "taube",
+        "nachricht",
+        "bird"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "wind_child",
+      "meaning": "Erfreuliche Nachrichten, Ehre und ersehnte Botschaften",
+      "advice": "Eine frohe Botschaft ist unterwegs! Halte heute die Augen offen!"
+    },
+    {
+      "id": "fish",
+      "label": "Fisch / Karpfen",
+      "keywords": [
+        "fisch",
+        "karpfen",
+        "goldfisch",
+        "fülle",
+        "fish"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "water_sprite",
+      "meaning": "Reiche Ernte, Entfaltung von Talenten und finanzieller Zuwachs",
+      "advice": "Fühle dich wie ein Fisch im Wasser! Zeige heute dein Können!"
+    },
+    {
+      "id": "dog",
+      "label": "Hund / Welpe",
+      "keywords": [
+        "hund",
+        "welpe",
+        "treue",
+        "freundschaft",
+        "dog"
+      ],
+      "fortune": "normal",
+      "lucky_number": 19,
+      "card_id": "dog",
+      "meaning": "Treue Verbündete, verlässliche Freundschaft und Vertrauen",
+      "advice": "Ein treuer Freund steht an deiner Seite! Zeige heute Wertschätzung!"
+    },
+    {
+      "id": "cat",
+      "label": "Katze",
+      "keywords": [
+        "katze",
+        "kätzchen",
+        "intuition",
+        "geheimnis",
+        "cat"
+      ],
+      "fortune": "normal",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Geschärfte Intuition, verborgene Chancen und Feingefühl",
+      "advice": "Deine Intuition ist heute treffsicher! Vertraue deinem Bauchgefühl!"
+    },
+    {
+      "id": "ox",
+      "label": "Ochse / Stier",
+      "keywords": [
+        "ochse",
+        "stier",
+        "kuh",
+        "fleiss",
+        "geduld",
+        "ox"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 8,
+      "card_id": "ox",
+      "meaning": "Belohnung für Beharrlichkeit, stabiles Fundament und Wohlstand",
+      "advice": "Geduld versetzt Berge! Gehe deinen Weg heute ruhig und stetig weiter!"
+    },
+    {
+      "id": "horse",
+      "label": "Pferd / Schimmel",
+      "keywords": [
+        "pferd",
+        "hengst",
+        "schimmel",
+        "galopp",
+        "dynamik",
+        "horse"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Unaufhaltsame Tatkraft, große Sprünge und Zielerreichung",
+      "advice": "Volle Kraft voraus! Galloppiere mutig auf deine Ziele zu!"
+    },
+    {
+      "id": "turtle",
+      "label": "Schildkröte",
+      "keywords": [
+        "schildkröte",
+        "langlebigkeit",
+        "weisheit",
+        "beständigkeit",
+        "turtle"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 80,
+      "card_id": "moon_jar",
+      "meaning": "Langlebigkeit, dauerhafter Wohlstand und unerschütterliche Ruhe",
+      "advice": "Denke langfristig! Wahre Beständigkeit siegt über jede Hektik!"
+    },
+    {
+      "id": "rooster",
+      "label": "Hahn / Gockel",
+      "keywords": [
+        "hahn",
+        "morgengrauen",
+        "aufbruch",
+        "erfolg",
+        "rooster"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 31,
+      "card_id": "rooster",
+      "meaning": "Aufgang eines neuen Tages, Durchbruch und Prüfungserfolg",
+      "advice": "Der Hahn kündet den Neuanfang an! Nutze die frische Morgenenergie!"
+    },
+    {
+      "id": "butterfly",
+      "label": "Schmetterling / Biene",
+      "keywords": [
+        "schmetterling",
+        "biene",
+        "liebe",
+        "harmonie",
+        "butterfly"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 44,
+      "card_id": "flower_fairy",
+      "meaning": "Liebesglück, süße Früchte der Arbeit und kreative Anziehungskraft",
+      "advice": "Entfalte deine bunten Flügel! Zeige heute deinen ganzen Charme!"
+    },
+    {
+      "id": "bug",
+      "label": "Insekt / Ameise / Spinne",
+      "keywords": [
+        "insekt",
+        "käfer",
+        "ameise",
+        "spinne",
+        "ordnung",
+        "bug"
+      ],
+      "fortune": "normal",
+      "lucky_number": 16,
+      "card_id": "wooden_comb",
+      "meaning": "Beseitigung kleiner Sorgen; fleißiger und steter Aufbau",
+      "advice": "Schüttle kleine Zweifel einfach ab! Bringe heute klare Ordnung hinein!"
+    },
+    {
+      "id": "mouse",
+      "label": "Maus / Eichhörnchen",
+      "keywords": [
+        "maus",
+        "ratte",
+        "eichhörnchen",
+        "geschick",
+        "mouse"
+      ],
+      "fortune": "normal",
+      "lucky_number": 1,
+      "card_id": "rat",
+      "meaning": "Erkennen von Nischen, kluges Sparen und versteckte Gelegenheiten",
+      "advice": "Im Verborgenen liegen kleine Schätze! Halte die Augen aufmerksam offen!"
+    },
+    {
+      "id": "lion",
+      "label": "Löwe",
+      "keywords": [
+        "löwe",
+        "löwin",
+        "könig der tiere",
+        "macht",
+        "autorität",
+        "lion"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "mountain_spirit",
+      "meaning": "Führungsstärke, souveräne Autorität und starker Rückhalt",
+      "advice": "Tritt auf wie ein König der Tiere! Du hast heute das Steuer in der Hand!"
+    },
+    {
+      "id": "monkey",
+      "label": "Affe",
+      "keywords": [
+        "affe",
+        "geschick",
+        "humor",
+        "vorsicht",
+        "monkey"
+      ],
+      "fortune": "normal",
+      "lucky_number": 51,
+      "card_id": "monkey",
+      "meaning": "Hindernisse mit Witz überwinden; Vorsicht vor Leichtsinn",
+      "advice": "Nutze deine Schläue, aber prüfe vorher jeden Ast, den du betrittst!"
+    },
+    {
+      "id": "deer",
+      "label": "Hirsch / Reh",
+      "keywords": [
+        "hirsch",
+        "reh",
+        "anmut",
+        "frieden",
+        "deer"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 75,
+      "card_id": "cloud_hermit",
+      "meaning": "Anerkennung edler Absichten, Frieden und liebevolle Zuwendung",
+      "advice": "Sanfte Würde umgibt dich! Begegne allen heute mit gelassenem Lächeln!"
+    },
+    {
+      "id": "bear",
+      "label": "Bär",
+      "keywords": [
+        "bär",
+        "braunbär",
+        "schutz",
+        "stärke",
+        "ausdauer",
+        "bear"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 82,
+      "card_id": "mountain_spirit",
+      "meaning": "Mächtiger Schutz, Beständigkeit und solides Vermögen",
+      "advice": "Standhafte Ausdauer zahlt sich aus! Bleibe unerschütterlich auf Kurs!"
+    },
+    {
+      "id": "toad",
+      "label": "Kröte / Frosch (Glückskröte)",
+      "keywords": [
+        "kröte",
+        "frosch",
+        "glückskröte",
+        "familie",
+        "toad"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 93,
+      "card_id": "silk_pouch",
+      "meaning": "Unerwarteter Geldsegen, Familienglück und Wohlstand",
+      "advice": "Reichtum hüpft dir entgegen! Teile dein Glück mit der Familie!"
+    },
+    {
+      "id": "teeth",
+      "label": "Zähne verlieren",
+      "keywords": [
+        "zähne",
+        "zahn",
+        "zahnverlust",
+        "familie",
+        "teeth"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "wooden_comb",
+      "meaning": "Erkundige dich nach dem Wohl der Familie; innerer Stress löst sich",
+      "advice": "Keine Sorge, ich vertreibe dunkle Gedanken! Rufe heute deine Lieben an!"
+    },
+    {
+      "id": "poo",
+      "label": "In Kot treten / berühren",
+      "keywords": [
+        "kot",
+        "fäkalien",
+        "glück",
+        "geldsegen",
+        "poop"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "silk_pouch",
+      "meaning": "Enormer Geldsegen haftet an dir; klassischer Jackpot-Traum",
+      "advice": "Riesiges Glück ist dir sicher! Wage heute mutige finanzielle Schritte!"
+    },
+    {
+      "id": "blood",
+      "label": "Blut sehen / Bluten",
+      "keywords": [
+        "blut",
+        "bluten",
+        "energie",
+        "durchbruch",
+        "blood"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Kraftvoller Energiefluss, Reichtumsschub und Beseitigung von Blockaden",
+      "advice": "Rot wie pure Lebenskraft! Alte Blockaden lösen sich heute in Luft auf!"
+    },
+    {
+      "id": "urine",
+      "label": "Erleichterndes Urinieren",
+      "keywords": [
+        "urin",
+        "pinkeln",
+        "erleichterung",
+        "befreiung",
+        "pee"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 55,
+      "card_id": "water_sprite",
+      "meaning": "Erfüllung langer Wünsche, vollkommene Befreiung von Sorgen",
+      "advice": "Der Kopf wird frei! Beende heute zeitraubende Zweifel endgültig!"
+    },
+    {
+      "id": "hair_cut",
+      "label": "Haare schneiden / stylen",
+      "keywords": [
+        "haare",
+        "haarschnitt",
+        "friseur",
+        "neuanfang",
+        "hair"
+      ],
+      "fortune": "normal",
+      "lucky_number": 28,
+      "card_id": "wooden_comb",
+      "meaning": "Frischer Entschluss, Abschied von Altem und Neuausrichtung",
+      "advice": "Bringe klare Linien in dein Leben! Frischer Wind zieht bald ein!"
+    },
+    {
+      "id": "tears",
+      "label": "Tränen / Befreiendes Weinen",
+      "keywords": [
+        "tränen",
+        "weinen",
+        "erleichterung",
+        "freude",
+        "crying"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 90,
+      "card_id": "water_sprite",
+      "meaning": "Befreiung von emotionalem Ballast; ein Grund zur großen Freude",
+      "advice": "Nach dem Regen scheint die Sonne! Eine herzerwärmende Freude naht!"
+    },
+    {
+      "id": "injury",
+      "label": "Hand oder Fuß verletzen",
+      "keywords": [
+        "verletzung",
+        "wunde",
+        "hand",
+        "fuss",
+        "achtsamkeit",
+        "injury"
+      ],
+      "fortune": "normal",
+      "lucky_number": 34,
+      "card_id": "brass_bell",
+      "meaning": "Tempo drosseln; Verträge und Pläne sorgfältig prüfen",
+      "advice": "Prüfe alles doppelt! Eile bringt nichts, Gründlichkeit gewinnt heute!"
+    },
+    {
+      "id": "bath",
+      "label": "Baden / Duschen",
+      "keywords": [
+        "bad",
+        "duschen",
+        "reinigung",
+        "erholung",
+        "bath"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "lotus_lamp",
+      "meaning": "Missverständnisse klären sich, Heilung und frische Tatkraft",
+      "advice": "Alter Ballast ist abgewaschen! Starte befreit und gestärkt durch!"
+    },
+    {
+      "id": "surgery",
+      "label": "Operation / Behandlung",
+      "keywords": [
+        "operation",
+        "chirurgie",
+        "krankenhaus",
+        "heilung",
+        "surgery"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "folding_fan",
+      "meaning": "Tiefgreifende Erneuerung, Umstrukturierung und neuer Aufschwung",
+      "advice": "Altes weichen lassen, damit Neues blüht! Wage heute den klaren Schnitt!"
+    },
+    {
+      "id": "pregnancy",
+      "label": "Schwangerschaft",
+      "keywords": [
+        "schwanger",
+        "schwangerschaft",
+        "neues leben",
+        "kreation",
+        "pregnant"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "moon_jar",
+      "meaning": "Geburt eines großen Projekts, schöpferische Kraft und Potenzial",
+      "advice": "Du trägst Großes in dir! Pflege deine neuen Ideen mit Hingabe!"
+    },
+    {
+      "id": "twins",
+      "label": "Zwillinge gebären",
+      "keywords": [
+        "zwillinge",
+        "doppeltes glück",
+        "erfolg",
+        "twins"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 22,
+      "card_id": "silk_pouch",
+      "meaning": "Doppelter Segen! Ein Einsatz bringt gleich mehrfachen Gewinn",
+      "advice": "Doppelte Freude klopft an! Schlage heute zwei Fliegen mit einer Klappe!"
+    },
+    {
+      "id": "growing_tall",
+      "label": "Wachsen / Größer werden",
+      "keywords": [
+        "wachsen",
+        "körpergrösse",
+        "aufstieg",
+        "weitsicht",
+        "growth"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "cloud_hermit",
+      "meaning": "Aufstieg im Rang, Weitsicht und Beförderung über andere hinaus",
+      "advice": "Blicke aus neuer Höhe auf die Welt! Dein Horizont erweitert sich enorm!"
+    },
+    {
+      "id": "face_change",
+      "label": "Strahlendes, schönes Gesicht",
+      "keywords": [
+        "schönheit",
+        "ausstrahlung",
+        "glanz",
+        "beliebtheit",
+        "face"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "jade_ring",
+      "meaning": "Steigende Beliebtheit, Bewunderung und strahlendes Ansehen",
+      "advice": "Du strahlst von innen heraus! Tritt heute mit vollem Selbstbewusstsein auf!"
+    },
+    {
+      "id": "naked",
+      "label": "Nackt sein / Kleider verlieren",
+      "keywords": [
+        "nackt",
+        "entblösst",
+        "ehrlich",
+        "wahrheit",
+        "naked"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "folding_fan",
+      "meaning": "Verletzlichkeit, aber auch befreiende und entwaffnende Ehrlichkeit",
+      "advice": "Echtheit ist unbesiegbar! Stehe voll und ganz zu deiner Wahrheit!"
+    },
+    {
+      "id": "sweating",
+      "label": "Schwitzen / Kalter Schweiß",
+      "keywords": [
+        "schweiss",
+        "erschöpfung",
+        "pause",
+        "tee",
+        "sweat"
+      ],
+      "fortune": "normal",
+      "lucky_number": 60,
+      "card_id": "tea_bowl",
+      "meaning": "Energieerschöpfung durch Anstrengung; dringender Hinweis auf Ruhe",
+      "advice": "Dein Körper verlangt eine Pause! Gönne dir warmen Tee und Entspannung!"
+    },
+    {
+      "id": "water",
+      "label": "Klares Quellwasser",
+      "keywords": [
+        "wasser",
+        "klar",
+        "quelle",
+        "reinigung",
+        "bach",
+        "water"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "water_sprite",
+      "meaning": "Seelische Reinigung, Klarheit im Denken und reibungsloser Fluss",
+      "advice": "Klares Wasser reinigt den Geist! Schaffe heute Klarheit in deinen Gedanken!"
+    },
+    {
+      "id": "fire",
+      "label": "Loderndes Feuer",
+      "keywords": [
+        "feuer",
+        "flamme",
+        "brand",
+        "leidenschaft",
+        "erfolg",
+        "fire"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Flammende Tatkraft, rasantes Wachstum und strahlender Erfolg",
+      "advice": "Die Flamme brennt lichterloh! Entfache heute deine volle Leidenschaft!"
+    },
+    {
+      "id": "star",
+      "label": "Sterne & Sternschnuppe",
+      "keywords": [
+        "sterne",
+        "sternschnuppe",
+        "inspiration",
+        "galaxie",
+        "star"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "star_weaver",
+      "meaning": "Kreativer Funke, Durchbruch und begeisterter Beifall",
+      "advice": "Sternenklare Ideen funkeln in dir! Halte heute jeden Einfall fest!"
+    },
+    {
+      "id": "sun",
+      "label": "Aufgehende Sonne",
+      "keywords": [
+        "sonne",
+        "sonnenaufgang",
+        "sonnenstrahl",
+        "ruhm",
+        "sun"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "sun_messenger",
+      "meaning": "Ruhmreicher Aufstieg, strahlender Triumph und Ehre",
+      "advice": "Die Sonne erleuchtet deinen Weg! Schreite stolz und mutig voran!"
+    },
+    {
+      "id": "moon",
+      "label": "Vollmond & Mondlicht",
+      "keywords": [
+        "mond",
+        "vollmond",
+        "mondschein",
+        "harmonie",
+        "moon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "moon_rabbit",
+      "meaning": "Familiäre Harmonie, seelischer Frieden und sanfte Fülle",
+      "advice": "Milde Mondweisheit leitet dich! Schenke deinen Liebsten heute Zeit!"
+    },
+    {
+      "id": "mountain",
+      "label": "Erhabener Berggipfel",
+      "keywords": [
+        "berg",
+        "gipfel",
+        "besteigung",
+        "höhe",
+        "meister",
+        "mountain"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Große Hürden meistern, höchste Aussicht und Meisterschaft",
+      "advice": "Vom Gipfel aus sieht man alles! Bleibe nicht am Hang stehen—steige auf!"
+    },
+    {
+      "id": "sea",
+      "label": "Weites Meer & Wellen",
+      "keywords": [
+        "meer",
+        "ozean",
+        "wellen",
+        "horizont",
+        "freiheit",
+        "sea"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "water_sprite",
+      "meaning": "Weltweite Chancen, grenzenlose Horizonte und großartiger Erfolg",
+      "advice": "Setze die Segel fürs weite Meer! Denke groß und überwinde alte Grenzen!"
+    },
+    {
+      "id": "river",
+      "label": "Fließender Fluss & See",
+      "keywords": [
+        "fluss",
+        "strom",
+        "see",
+        "finanzen",
+        "harmonie",
+        "river"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 26,
+      "card_id": "tea_bowl",
+      "meaning": "Stetiger Geldfluss, kluge Vermittlung und Beilegung von Konflikten",
+      "advice": "Fließe geschmeidig um jedes Hindernis! Flexibilität führt heute zum Ziel!"
+    },
+    {
+      "id": "muddy_water",
+      "label": "Trübes Schlammwasser",
+      "keywords": [
+        "schlamm",
+        "trübes wasser",
+        "vorsicht",
+        "verträge",
+        "mud"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 42,
+      "card_id": "wooden_comb",
+      "meaning": "Vorsicht vor getrübtem Urteilsvermögen; dubiose Angebote meiden",
+      "advice": "Warte, bis sich der Schlamm setzt! Unterschreibe heute keine voreiligen Verträge!"
+    },
+    {
+      "id": "heavy_rain",
+      "label": "Regen / Platzregen",
+      "keywords": [
+        "regen",
+        "sturm",
+        "platzregen",
+        "erfrischung",
+        "rain"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "water_sprite",
+      "meaning": "Wohltuender Regen löst Dürre; emotionale Schauer ziehen rasch vorüber",
+      "advice": "Der Schauer zieht rasch vorbei! Bleibe gelassen unter dem Schirm!"
+    },
+    {
+      "id": "snow",
+      "label": "Weißer Schnee / Neuschnee",
+      "keywords": [
+        "schnee",
+        "schneefall",
+        "reinheit",
+        "neuanfang",
+        "snow"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 72,
+      "card_id": "moon_jar",
+      "meaning": "Wiederhergestellte Reinheit, vergebene Fehler und Frieden",
+      "advice": "Ein unberührtes weißes Blatt liegt vor dir! Beginne heute ganz von vorn!"
+    },
+    {
+      "id": "lightning",
+      "label": "Blitz & Donner",
+      "keywords": [
+        "blitz",
+        "donner",
+        "gewitter",
+        "geistesblitz",
+        "durchbruch",
+        "lightning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 97,
+      "card_id": "dokkaebi_club",
+      "meaning": "Blitzartiger Geistesblitz, Durchbruch und elektrisierende Wirkung",
+      "advice": "Ein genialer Funke hat gezündet! Notiere deine Eingebung sofort!"
+    },
+    {
+      "id": "rainbow",
+      "label": "Siebenfarbiger Regenbogen",
+      "keywords": [
+        "regenbogen",
+        "farben",
+        "hoffnung",
+        "erfüllung",
+        "rainbow"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "lotus_lamp",
+      "meaning": "Strahlender Triumph nach harter Zeit; dramatische Wunscherfüllung",
+      "advice": "Nach dem Regen erstrahlt der Regenbogen! Feiere deinen verdienten Erfolg!"
+    },
+    {
+      "id": "earthquake",
+      "label": "Erdbeben / Risse im Boden",
+      "keywords": [
+        "erdbeben",
+        "erschütterung",
+        "boden",
+        "sicherheit",
+        "earthquake"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "folding_fan",
+      "meaning": "Plötzliche Umbrüche im Fundament; Zeit für solide Absicherung",
+      "advice": "Stehe fest, wenn der Boden bebt! Meide heute riskante Ausgaben!"
+    },
+    {
+      "id": "money",
+      "label": "Geld / Scheine finden",
+      "keywords": [
+        "geld",
+        "scheine",
+        "münzen",
+        "reichtum",
+        "finanzen",
+        "money"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Finanzieller Aufschwung, materielle Belohnung und Gewinn",
+      "advice": "Der Geldsegen naht! Prüfe heute deine Konten und spare klug!"
+    },
+    {
+      "id": "losing_money",
+      "label": "Geld oder Geldbörse verlieren",
+      "keywords": [
+        "geldverlust",
+        "börse",
+        "sparen",
+        "verlust",
+        "haushalt",
+        "lost money"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "brass_bell",
+      "meaning": "Mahnung zur Ausgabenkontrolle; unnötige Verschwendung stoppen",
+      "advice": "Stopfe die Löcher im Budget! Prüfe heute alle Abos und Ausgaben!"
+    },
+    {
+      "id": "jewel",
+      "label": "Edelsteine & Goldschätze",
+      "keywords": [
+        "edelstein",
+        "diamant",
+        "gold",
+        "schatz",
+        "prestige",
+        "jewel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "jade_ring",
+      "meaning": "Hoher Status, glänzende Anerkennung und edles Ansehen",
+      "advice": "Du bist ein kostbares Juwel! Unterschätze niemals deinen wahren Wert!"
+    },
+    {
+      "id": "wallet",
+      "label": "Neues Portemonnaie / Geldbörse",
+      "keywords": [
+        "portemonnaie",
+        "geldbörse",
+        "sparbuch",
+        "einnahmen",
+        "wallet"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 36,
+      "card_id": "silk_pouch",
+      "meaning": "Neue Einkommensquellen; verbesserte Finanzkontrolle",
+      "advice": "Ein neues Gefäß füllt sich mit Fülle! Ordne deine Finanzpläne!"
+    },
+    {
+      "id": "lottery",
+      "label": "Lottogewinn / Jackpot",
+      "keywords": [
+        "lotto",
+        "gewinn",
+        "jackpot",
+        "glück",
+        "bonus",
+        "lottery"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "silk_pouch",
+      "meaning": "Großer Wendepunkt, unerwarteter Glücksfall und Fülle",
+      "advice": "Fortuna lächelt dir zu! Gehe mit vollem Vertrauen in den Tag!"
+    },
+    {
+      "id": "new_clothes",
+      "label": "Neue Kleidung anziehen",
+      "keywords": [
+        "neue kleidung",
+        "anzug",
+        "kleid",
+        "auftritt",
+        "status",
+        "clothes"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 15,
+      "card_id": "lotus_lamp",
+      "meaning": "Neue Aufgabe, frisches Charisma und gestiegenes Ansehen",
+      "advice": "Du bist bestens gewappnet! Zeige heute deine ganze Eleganz!"
+    },
+    {
+      "id": "lost_shoes",
+      "label": "Schuhe verlieren / Barfuß",
+      "keywords": [
+        "schuhe verloren",
+        "barfuss",
+        "selbstvertrauen",
+        "schuhe",
+        "shoes"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Reibung mit Partnern; Aufruf zu mehr Eigenständigkeit",
+      "advice": "Stehe fest auf eigenen Füßen! Vertraue ganz deiner eigenen Kraft!"
+    },
+    {
+      "id": "new_shoes",
+      "label": "Neue Schuhe anziehen",
+      "keywords": [
+        "neue schuhe",
+        "aufbruch",
+        "partner",
+        "weg",
+        "schuhe",
+        "new shoes"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "folding_fan",
+      "meaning": "Frischer Start, verlässlicher Partner und reibungsloser Weg",
+      "advice": "Schnüre deine neuen Schuhe! Ein goldener Weg liegt vor dir!"
+    },
+    {
+      "id": "ring",
+      "label": "Ring oder Kette tragen",
+      "keywords": [
+        "ring",
+        "halskette",
+        "goldring",
+        "bund",
+        "treue",
+        "ring"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "jade_ring",
+      "meaning": "Ewiger Bund, Begegnung mit dem Seelenpartner und tiefes Vertrauen",
+      "advice": "Ein Zeichen ewiger Treue! Pflege deine wichtigsten Verbindungen!"
+    },
+    {
+      "id": "bag",
+      "label": "Tasche packen / Koffer",
+      "keywords": [
+        "tasche",
+        "koffer",
+        "gepäck",
+        "reise",
+        "fertigkeiten",
+        "bag"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 30,
+      "card_id": "silk_pouch",
+      "meaning": "Neue Mission, Reisebereitschaft und reiche Belohnungen",
+      "advice": "Erfolg liebt Vorbereitung! Packe deine Tasche mit klugem Wissen!"
+    },
+    {
+      "id": "key",
+      "label": "Mit Schlüssel Tür aufschließen",
+      "keywords": [
+        "schlüssel",
+        "schloss",
+        "tür",
+        "lösung",
+        "erfolg",
+        "key"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "brass_bell",
+      "meaning": "Finden der Master-Lösung, Überwindung von Hürden und Befugnis",
+      "advice": "Du hältst den Generalschlüssel! Öffne jede verschlossene Tür mutig!"
+    },
+    {
+      "id": "clock",
+      "label": "Uhr / Genaue Zeit ablesen",
+      "keywords": [
+        "uhr",
+        "zeit",
+        "timing",
+        "plan",
+        "gelegenheit",
+        "clock"
+      ],
+      "fortune": "normal",
+      "lucky_number": 12,
+      "card_id": "inkstone",
+      "meaning": "Der perfekte Moment ist da; Präzision und Timing entscheiden",
+      "advice": "Die Zeit ist reif! Verschwende keine Minute und handle entschlossen!"
+    },
+    {
+      "id": "knife",
+      "label": "Messer / Schere schneidet",
+      "keywords": [
+        "messer",
+        "schere",
+        "klinge",
+        "schnitt",
+        "entscheidung",
+        "knife"
+      ],
+      "fortune": "normal",
+      "lucky_number": 47,
+      "card_id": "dokkaebi_club",
+      "meaning": "Mutiger Schnitt, Entschlossenheit und Trennung von Ballast",
+      "advice": "Schneide alte Zweifel sauber ab! Klare Grenzen bringen frisches Glück!"
+    },
+    {
+      "id": "mirror",
+      "label": "In klaren Spiegel schauen",
+      "keywords": [
+        "spiegel",
+        "reflexion",
+        "selbsterkenntnis",
+        "wahrheit",
+        "mirror"
+      ],
+      "fortune": "normal",
+      "lucky_number": 18,
+      "card_id": "inkstone",
+      "meaning": "Selbstreflexion, Klarheit und Erkennen des wahren Wesens",
+      "advice": "Die Antwort liegt im Spiegel! Blicke heute ehrlich in dein Inneres!"
+    },
+    {
+      "id": "gift",
+      "label": "Unerwartetes Geschenk erhalten",
+      "keywords": [
+        "geschenk",
+        "überraschung",
+        "belohnung",
+        "dankbarkeit",
+        "gift"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 70,
+      "card_id": "silk_pouch",
+      "meaning": "Unterstützung von Gönnern, Liebesbeweis und schöne Belohnung",
+      "advice": "Zeige von Herzen Dankbarkeit! Geteilte Freude vervielfacht das Glück!"
+    },
+    {
+      "id": "ancestor",
+      "label": "Verstorbene Vorfahren / Eltern",
+      "keywords": [
+        "ahnen",
+        "eltern",
+        "grosseltern",
+        "vorfahren",
+        "segen",
+        "ancestor"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "mountain_spirit",
+      "meaning": "Geistige Führung der Ahnen, Schutz und Durchbruch des Lebensglücks",
+      "advice": "Deine Ahnen leuchten dir den Weg! Triff heute ehrwürdige Entscheidungen!"
+    },
+    {
+      "id": "mountain_god",
+      "label": "Berggeist / Weiser Greis",
+      "keywords": [
+        "berggeist",
+        "weiser",
+        "guru",
+        "meister",
+        "rat",
+        "mountain god"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Erlangung höchster Weisheit, meisterhafte Lösung für knifflige Probleme",
+      "advice": "Ein weiser Ratgeber spricht zu dir! Höre heute auf erfahrene Mentoren!"
+    },
+    {
+      "id": "dokkaebi",
+      "label": "Dokkaebi / Schutzgeist",
+      "keywords": [
+        "dokkaebi",
+        "schutzgeist",
+        "kobold",
+        "magie",
+        "glück",
+        "dokkaebi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Kreativer Zauber, unbändige Freude und mächtiger Schutz",
+      "advice": "Ich bin direkt an deiner Seite! Ein Schwung der Keule bringt dir Glück!"
+    },
+    {
+      "id": "ghost",
+      "label": "Geist / Böser Spuk",
+      "keywords": [
+        "geist",
+        "dämon",
+        "spuk",
+        "angst",
+        "mut",
+        "ghost"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "brass_bell",
+      "meaning": "Ausdruck von innerem Stress; Aufforderung zu innerer Ruhe",
+      "advice": "Schatten haben keine Macht über dich! Ich vertreibe die Gespenster!"
+    },
+    {
+      "id": "saint",
+      "label": "Begegnung mit Heiligen / Göttlichem",
+      "keywords": [
+        "heiliger",
+        "buddha",
+        "göttlich",
+        "segen",
+        "gnade",
+        "saint"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "lotus_lamp",
+      "meaning": "Höchste Barmherzigkeit, Gnade und Verwandlung von Not in Segen",
+      "advice": "Heiliges Licht umgibt dich! Jede kleine gute Tat kehrt tausendfach zurück!"
+    },
+    {
+      "id": "angel",
+      "label": "Engel / Himmelsfee",
+      "keywords": [
+        "engel",
+        "fee",
+        "himmlisch",
+        "liebe",
+        "flügel",
+        "angel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "flower_fairy",
+      "meaning": "Reine Liebe, edle Verbindung und vollendete Inspiration",
+      "advice": "Himmlische Anmut berührt dich! Teile deine aufrichtigen Gefühle!"
+    },
+    {
+      "id": "ritual",
+      "label": "Gebet / Feierliche Andacht",
+      "keywords": [
+        "gebet",
+        "andacht",
+        "ritual",
+        "meditation",
+        "stille",
+        "prayer"
+      ],
+      "fortune": "normal",
+      "lucky_number": 50,
+      "card_id": "wooden_fish",
+      "meaning": "Gebete werden erhört; Bewältigung von Hürden durch Andacht",
+      "advice": "Aufrichtige Wünsche erreichen den Himmel! Finde deine innere Mitte!"
+    },
+    {
+      "id": "talisman",
+      "label": "Talisman / Schutzamulett",
+      "keywords": [
+        "talisman",
+        "amulett",
+        "schutz",
+        "kraft",
+        "segen",
+        "talisman"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "inkstone",
+      "meaning": "Mächtiger Schutzschild; Abwehr jeglicher dunkler Energien",
+      "advice": "Ein unüberwindbarer Schutzschild umgibt dich! Gehe furchtlos voran!"
+    },
+    {
+      "id": "coffin",
+      "label": "Sarg oder Bestattung sehen",
+      "keywords": [
+        "sarg",
+        "wiedergeburt",
+        "erbe",
+        "reichtum",
+        "wende",
+        "coffin"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Vollkommene Wiedergeburt, Loslassen des Alten und großer Reichtum",
+      "advice": "Altes vergeht, ein triumphales Neues beginnt! Dein großer Durchbruch naht!"
+    },
+    {
+      "id": "reaper",
+      "label": "Sensenmann / Schicksalsbote",
+      "keywords": [
+        "sensenmann",
+        "schicksal",
+        "wende",
+        "gesundheit",
+        "reaper"
+      ],
+      "fortune": "normal",
+      "lucky_number": 13,
+      "card_id": "shadow_walker",
+      "meaning": "Bedeutende Weggabelung des Lebens; Gesundheit pflegen und Altlasten abwerfen",
+      "advice": "Kostbare Lebenszeit mahnt dich! Trenne dich heute von einer ungesunden Gewohnheit!"
+    },
+    {
+      "id": "flying",
+      "label": "Frei am Himmel fliegen",
+      "keywords": [
+        "fliegen",
+        "himmel",
+        "freiheit",
+        "schweben",
+        "aufstieg",
+        "flying"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "wind_child",
+      "meaning": "Befreiung von Fesseln, grenzenloser Aufstieg und Triumph",
+      "advice": "Fliege über alle Grenzen hinweg! Schmiede heute deine kühnsten Pläne!"
+    },
+    {
+      "id": "falling",
+      "label": "Fallen / Absturz in die Tiefe",
+      "keywords": [
+        "fallen",
+        "absturz",
+        "klippe",
+        "verlust",
+        "rückhalt",
+        "falling"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "brass_bell",
+      "meaning": "Angst vor Kontrollverlust; Mahnung zur Festigung des Fundaments",
+      "advice": "Öffne die Augen beim Fall! Finde Halt und federe kraftvoll zurück!"
+    },
+    {
+      "id": "chased",
+      "label": "Verfolgt werden / Flucht",
+      "keywords": [
+        "verfolgung",
+        "flucht",
+        "jagd",
+        "druck",
+        "mut",
+        "chased"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "shadow_walker",
+      "meaning": "Wachsender Termindruck; Aufforderung, sich den Dingen zu stellen",
+      "advice": "Wer flieht, macht Schatten riesig! Drehe dich um und blicke ihnen ins Auge!"
+    },
+    {
+      "id": "dreaming",
+      "label": "Traum im Traum / Klartraum",
+      "keywords": [
+        "traum im traum",
+        "klartraum",
+        "gedanken",
+        "spaziergang",
+        "dream"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "dream_eater",
+      "meaning": "Tiefes Nachdenken über Schein und Sein; Erkundung des Unterbewusstseins",
+      "advice": "Verliere dich nicht im Gedankenlabyrinth! Mache heute einen erfrischenden Spaziergang!"
+    },
+    {
+      "id": "cleaning",
+      "label": "Haus putzen & Aufräumen",
+      "keywords": [
+        "putzen",
+        "aufräumen",
+        "sauberkeit",
+        "ordnung",
+        "frische",
+        "cleaning"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "wooden_comb",
+      "meaning": "Auflösung von altem Ballast, Einzug neuer Gäste und Frische",
+      "advice": "Das Glück liebt klare Räume! Bringe heute Glanz auf deinen Schreibtisch!"
+    },
+    {
+      "id": "wedding",
+      "label": "Hochzeit feiern oder beiwohnen",
+      "keywords": [
+        "hochzeit",
+        "heirat",
+        "braut",
+        "bräutigam",
+        "partnerschaft",
+        "wedding"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "jade_ring",
+      "meaning": "Neue Kooperationsbündnisse; Start eines gemeinsamen Vorhabens",
+      "advice": "Hand in Hand ans Werk! Halte deine Versprechen gegenüber Partnern treu!"
+    },
+    {
+      "id": "funeral",
+      "label": "Beerdigung / Trauerfeier",
+      "keywords": [
+        "beerdigung",
+        "trauer",
+        "abschluss",
+        "wende",
+        "glück",
+        "funeral"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Endgültiger Abschluss alter Lasten; triumphale Schicksalswende",
+      "advice": "Altes Leid ist vorbei! Blicke nach vorn und feiere den Neuanfang!"
+    },
+    {
+      "id": "exam_pass",
+      "label": "Prüfung mit Bravour bestehen",
+      "keywords": [
+        "prüfung",
+        "bestanden",
+        "erfolg",
+        "zeugnis",
+        "zulassung",
+        "exam pass"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 100,
+      "card_id": "rooster",
+      "meaning": "Verdienter Lohn für Fleiß; offizielle Anerkennung und Jubel",
+      "advice": "Dein Schweiß trägt goldene Früchte! Sei heute stolz auf deinen Fleiß!"
+    },
+    {
+      "id": "exam_fail",
+      "label": "Durchfallen / Zu spät zur Prüfung",
+      "keywords": [
+        "durchfallen",
+        "zu spät",
+        "prüfung",
+        "perfektionismus",
+        "überprüfung",
+        "exam fail"
+      ],
+      "fortune": "normal",
+      "lucky_number": 31,
+      "card_id": "inkstone",
+      "meaning": "Warnung vor Überperfektionismus; Entspannung vor dem Ernstfall",
+      "advice": "Eine heilsame Vorwarnung! Entspanne dich und prüfe alles in Ruhe nach!"
+    },
+    {
+      "id": "fight",
+      "label": "Heftiger Kampf & Rauferei",
+      "keywords": [
+        "kampf",
+        "duell",
+        "streit",
+        "durchsetzung",
+        "sieg",
+        "fight"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "dokkaebi_club",
+      "meaning": "Klare Klärung durch Konfrontation; Durchsetzung gegen Rivalen",
+      "advice": "Weiche nicht zurück! Tritt für deine Überzeugungen kraftvoll ein!"
+    },
+    {
+      "id": "murder",
+      "label": "Gegner besiegen / Überwältigen",
+      "keywords": [
+        "besiegen",
+        "überwinden",
+        "triumph",
+        "hindernis",
+        "sieg",
+        "murder"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dokkaebi_club",
+      "meaning": "Vollständige Beseitigung alter Hindernisse; grandioser Triumph",
+      "advice": "Die Hürden sind aus dem Weg geräumt! Der Weg zum Sieg ist frei!"
+    },
+    {
+      "id": "thief",
+      "label": "Einbrecher / Dieb dringt ein",
+      "keywords": [
+        "dieb",
+        "einbrecher",
+        "sicherheit",
+        "schutz",
+        "passwort",
+        "thief"
+      ],
+      "fortune": "normal",
+      "lucky_number": 38,
+      "card_id": "brass_bell",
+      "meaning": "Sicherheitsprüfung nötig; Schutz von Ideen und geistigem Eigentum",
+      "advice": "Schütze deine Schätze! Aktualisiere Passwörter und sichere deine Daten!"
+    },
+    {
+      "id": "police",
+      "label": "Polizei / Kontrolle / Befragung",
+      "keywords": [
+        "polizei",
+        "kontrolle",
+        "gesetz",
+        "dokumente",
+        "ordnung",
+        "police"
+      ],
+      "fortune": "normal",
+      "lucky_number": 11,
+      "card_id": "inkstone",
+      "meaning": "Einhaltung von Regeln; rechtliche und steuerliche Dokumente prüfen",
+      "advice": "Wer nach Regeln spielt, hat nichts zu fürchten! Prüfe alle Unterlagen!"
+    },
+    {
+      "id": "lost_way",
+      "label": "Weg verlieren / Verlaufen",
+      "keywords": [
+        "verlaufen",
+        "umweg",
+        "kompass",
+        "innehalten",
+        "orientierung",
+        "lost way"
+      ],
+      "fortune": "normal",
+      "lucky_number": 44,
+      "card_id": "brass_bell",
+      "meaning": "Signal zur Neuausrichtung; halte kurz inne und prüfe den Kompass",
+      "advice": "Wer den Weg nicht kennt, hält kurz an! Besinne dich auf dein Kernziel!"
+    },
+    {
+      "id": "moving_house",
+      "label": "Umzug in neues Heim / Hausbau",
+      "keywords": [
+        "umzug",
+        "neues haus",
+        "hausbau",
+        "aufbau",
+        "fundament",
+        "moving house"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 65,
+      "card_id": "folding_fan",
+      "meaning": "Großartige Verbesserung des Umfelds; Expansion und solides Fundament",
+      "advice": "Segen füllt dein neues Heim! Baue voller Elan an deiner Zukunft!"
+    },
+    {
+      "id": "eating",
+      "label": "Festmahl / Köstliches Essen",
+      "keywords": [
+        "essen",
+        "festmahl",
+        "schmaus",
+        "genuss",
+        "fülle",
+        "eating"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "tea_bowl",
+      "meaning": "Materieller Wohlstand, Genuss und erfreuliche Zusammenkünfte",
+      "advice": "Nähre heute Geist und Körper! Teile ein gutes Essen mit Freunden!"
+    },
+    {
+      "id": "flower",
+      "label": "Blühende Blumen & Garten",
+      "keywords": [
+        "blumen",
+        "blüte",
+        "garten",
+        "strauss",
+        "liebe",
+        "flower"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "flower_fairy",
+      "meaning": "Erblühender Ruhm, Liebesglück und vollendete Früchte",
+      "advice": "Deine Blüten stehen in voller Pracht! Zeige der Welt deine Gaben!"
+    },
+    {
+      "id": "rice_cake",
+      "label": "Warmer Reiskuchen & Frischer Reis",
+      "keywords": [
+        "reis",
+        "reiskuchen",
+        "nahrung",
+        "wohlstand",
+        "fülle",
+        "rice cake"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "silk_pouch",
+      "meaning": "Häuslicher Wohlstand, Feste und allseitiges Wohlergehen",
+      "advice": "Fülle kehrt bei dir ein! Stärke dich gut für den nächsten Sprung!"
+    },
+    {
+      "id": "fruit",
+      "label": "Reife Äpfel, Pfirsiche & Früchte",
+      "keywords": [
+        "früchte",
+        "obst",
+        "apfel",
+        "pfirsich",
+        "ernte",
+        "fruit"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 76,
+      "card_id": "lotus_lamp",
+      "meaning": "Reiche Ernte, erfüllte Liebe und dauerhafter Wohlstand",
+      "advice": "Die Früchte sind reif! Ernte jetzt den verdienten Lohn deiner Mühen!"
+    },
+    {
+      "id": "big_tree",
+      "label": "Riesiger Baum & Dichter Wald",
+      "keywords": [
+        "baum",
+        "wald",
+        "wurzeln",
+        "stamm",
+        "schutz",
+        "tree"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 92,
+      "card_id": "mountain_spirit",
+      "meaning": "Starker Rückhalt für Generationen; Beständigkeit und Wachstum",
+      "advice": "Tiefe Wurzeln trotzen jedem Sturm! Stehe fest und biete anderen Schutz!"
+    },
+    {
+      "id": "meat_dish",
+      "label": "Üppiges Fleischgericht / Braten",
+      "keywords": [
+        "fleisch",
+        "braten",
+        "steak",
+        "energie",
+        "kraft",
+        "meat"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 64,
+      "card_id": "tea_bowl",
+      "meaning": "Rückkehr voller Vitalität; Unterstützung durch wohlhabende Förderer",
+      "advice": "Volle Kraft durchströmt dich! Packe aufgeschobene Dinge mit Schwung an!"
+    },
+    {
+      "id": "drinking",
+      "label": "Anstoßen & Wein / Bier trinken",
+      "keywords": [
+        "trinken",
+        "anstoßen",
+        "wein",
+        "bier",
+        "geselligkeit",
+        "drinking"
+      ],
+      "fortune": "normal",
+      "lucky_number": 45,
+      "card_id": "tea_bowl",
+      "meaning": "Gesellige Verbundenheit; Warnung vor unbedachten Worten",
+      "advice": "Feiere mit Freude, aber behalte einen klaren Kopf! Bleibe souverän!"
+    },
+    {
+      "id": "rotten_food",
+      "label": "Verdorbenes Essen / Faule Früchte",
+      "keywords": [
+        "verdorben",
+        "faul",
+        "schimmel",
+        "altlasten",
+        "erneuerung",
+        "rotten food"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 14,
+      "card_id": "brass_bell",
+      "meaning": "Abgelaufene Chancen; Warnung vor veralteten Annahmen",
+      "advice": "Wirf weg, was nicht mehr frisch ist! Verabschiede dich von überholten Konzepten!"
+    },
+    {
+      "id": "planting_seeds",
+      "label": "Samen säen & Frische Triebe",
+      "keywords": [
+        "säen",
+        "samen",
+        "spross",
+        "keimen",
+        "zukunft",
+        "planting"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 28,
+      "card_id": "cloud_pillow",
+      "meaning": "Investition in eine goldene Zukunft; Keimen neuer Hoffnungen",
+      "advice": "Aus kleinen Samen wachsen stolze Eichen! Deine heutige Tat formt die Zukunft!"
+    },
+    {
+      "id": "ginseng",
+      "label": "Wilden Ginseng / Heilkraut finden",
+      "keywords": [
+        "ginseng",
+        "heilkraut",
+        "wunder",
+        "reichtum",
+        "schatz",
+        "ginseng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "mountain_spirit",
+      "meaning": "Kostbarster Himmelssegen, wundersame Genesung und Reichtum",
+      "advice": "Ein Juwel der Berge! Ergreife dieses seltene Geschenk des Himmels!"
+    },
+    {
+      "id": "wind",
+      "label": "Frische Brise / Sturmwind",
+      "keywords": [
+        "wind",
+        "brise",
+        "sturm",
+        "taifun",
+        "wandel",
+        "wind"
+      ],
+      "fortune": "normal",
+      "lucky_number": 37,
+      "card_id": "wind_child",
+      "meaning": "Frischer Wind des Wandels, Erneuerung und Aufbruch",
+      "advice": "Nutze den Rückenwind! Segle mit dem Strom der Erneuerung!"
+    },
+    {
+      "id": "door",
+      "label": "Neue Tür / Großes Tor öffnen",
+      "keywords": [
+        "tür",
+        "tor",
+        "portal",
+        "eintritt",
+        "chance",
+        "door"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "dokkaebi_club",
+      "meaning": "Tore neuer Möglichkeiten öffnen sich weit; Eintritt in neue Welten",
+      "advice": "Tritt ohne Zögern über die Schwelle! Eine großartige Bühne erwartet dich!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "Bus oder Zug verpassen",
+      "keywords": [
+        "zug verpasst",
+        "bus verpasst",
+        "fahrplan",
+        "gelassenheit",
+        "missed bus"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Sorge vor verpassten Chancen; plane mehr Zeitpuffer ein",
+      "advice": "Der nächste Zug kommt bestimmt! Bleibe gelassen auf dem Bahnsteig!"
+    },
+    {
+      "id": "airplane",
+      "label": "Im Flugzeug emporsteigen",
+      "keywords": [
+        "flugzeug",
+        "abflug",
+        "aufstieg",
+        "übersee",
+        "start",
+        "airplane"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "wind_child",
+      "meaning": "Raketenhafter Aufstieg, internationale Erfolge und Höhenflug",
+      "advice": "Die Triebwerke laufen auf Hochtouren! Schnall dich an und starte durch!"
+    },
+    {
+      "id": "car_driving",
+      "label": "Auto souverän steuern / Fahren",
+      "keywords": [
+        "autofahren",
+        "lenkrad",
+        "kontrolle",
+        "fahrt",
+        "kraft",
+        "driving"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Souveräne Kontrolle über den Lebensweg; dynamische Vorwärtsfahrt",
+      "advice": "Du hast das Steuer fest in der Hand! Drücke aufs Gaspedal!"
+    },
+    {
+      "id": "car_accident",
+      "label": "Autounfall / Kollision",
+      "keywords": [
+        "unfall",
+        "kollision",
+        "vorsicht",
+        "geduld",
+        "nachgeben",
+        "car accident"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 32,
+      "card_id": "brass_bell",
+      "meaning": "Plötzliche Meinungsverschiedenheit; defensive Umsicht walten lassen",
+      "advice": "Halte bei Gelb an! Einen Schritt nachzugeben spart heute viel Ärger!"
+    },
+    {
+      "id": "ship",
+      "label": "Großes Schiff / Kreuzfahrt",
+      "keywords": [
+        "schiff",
+        "kreuzfahrt",
+        "segeln",
+        "team",
+        "zukunft",
+        "ship"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 74,
+      "card_id": "water_sprite",
+      "meaning": "Start eines großen Verbunds; stetige und erfolgreiche Langzeitfahrt",
+      "advice": "Fahre mit vollen Segeln! Arbeite Hand in Hand mit deiner Mannschaft!"
+    },
+    {
+      "id": "bicycle",
+      "label": "Fahrrad oder Motorrad fahren",
+      "keywords": [
+        "fahrrad",
+        "motorrad",
+        "balance",
+        "tempo",
+        "leichtigkeit",
+        "bicycle"
+      ],
+      "fortune": "normal",
+      "lucky_number": 25,
+      "card_id": "wind_child",
+      "meaning": "Agile Beweglichkeit, Balance halten und flotter Fortschritt",
+      "advice": "Wer in die Pedale tritt, behält das Gleichgewicht! Fahre geschmeidig voran!"
+    },
+    {
+      "id": "elevator",
+      "label": "Fahrstuhl schießt nach oben",
+      "keywords": [
+        "fahrstuhl",
+        "aufzug",
+        "rakete",
+        "spitze",
+        "beförderung",
+        "elevator"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "sun_messenger",
+      "meaning": "Steiler Senkrechtaufstieg; Erreichen der obersten Etage",
+      "advice": "Der Express-Aufzug bringt dich nach oben! Tritt oben stolz heraus!"
+    },
+    {
+      "id": "stairs",
+      "label": "Treppe Stufe für Stufe erklimmen",
+      "keywords": [
+        "treppe",
+        "stufen",
+        "aufstieg",
+        "solide",
+        "meister",
+        "stairs"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 63,
+      "card_id": "mountain_spirit",
+      "meaning": "Schrittweiser, solider Erfolg; Aufstieg durch wahres Können",
+      "advice": "Jede Stufe festigt dein Können! Steige mit festem Tritt weiter empor!"
+    },
+    {
+      "id": "bridge",
+      "label": "Stabile Brücke überqueren",
+      "keywords": [
+        "brücke",
+        "überquerung",
+        "neues kapitel",
+        "verbindung",
+        "frieden",
+        "bridge"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 46,
+      "card_id": "star_weaver",
+      "meaning": "Sicherer Übergang ins nächste Lebenskapitel; friedliche Verbindung",
+      "advice": "Du hast den Fluss überquert! Blicke nach vorn auf dein neues Land!"
+    },
+    {
+      "id": "tunnel",
+      "label": "Aus dunklem Tunnel ins Licht treten",
+      "keywords": [
+        "tunnel",
+        "licht",
+        "durchbruch",
+        "hoffnung",
+        "erlösung",
+        "tunnel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 51,
+      "card_id": "lotus_lamp",
+      "meaning": "Vollkommenes Ende einer dunklen Zeit; strahlende Sonne am Ausgang",
+      "advice": "Das Licht am Ende des Tunnels strahlt! Die schwere Zeit ist vorbei!"
+    },
+    {
+      "id": "laughing",
+      "label": "Herzhaft & laut lachen",
+      "keywords": [
+        "lachen",
+        "freude",
+        "heiterkeit",
+        "herzhaft",
+        "fröhlich",
+        "laughing"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Befreiender Jubel; fröhliche Feste erfüllen dein Haus",
+      "advice": "Lachen bringt wahrhaftiges Glück! Schenke heute jedem ein strahlendes Lächeln!"
+    },
+    {
+      "id": "sleep_paralysis",
+      "label": "Schlafparalyse / Erstarren",
+      "keywords": [
+        "schlafparalyse",
+        "erstarrt",
+        "erschöpfung",
+        "schlaf",
+        "erholung",
+        "sleep paralysis"
+      ],
+      "fortune": "normal",
+      "lucky_number": 33,
+      "card_id": "brass_bell",
+      "meaning": "Tiefe Erschöpfung; dringender Bedarf an Schlaf und Erholung",
+      "advice": "Dein Körper verlangt Ruhe! Schalte heute früh alle Bildschirme aus!"
+    },
+    {
+      "id": "anger",
+      "label": "Heftiger Zorn & Wutausbruch",
+      "keywords": [
+        "zorn",
+        "wut",
+        "schreien",
+        "grenzen",
+        "entschlossenheit",
+        "anger"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Befreiende Wut; Setzen von klaren Grenzen und Führungsstärke",
+      "advice": "Nutze das innere Feuer konstruktiv! Setze heute klare, feste Grenzen!"
+    },
+    {
+      "id": "ecstasy",
+      "label": "Erhabene Glückseligkeit & Tiefer Frieden",
+      "keywords": [
+        "glückseligkeit",
+        "frieden",
+        "erfüllung",
+        "wonne",
+        "segen",
+        "bliss"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "cloud_pillow",
+      "meaning": "Vollendete seelische Fülle, Gipfel des Lebensglücks und Frieden",
+      "advice": "Der Segen des Universums umarmt dich! Genieße diesen tiefen Frieden!"
+    },
+    {
+      "id": "kkaebi_bat",
+      "label": "Dokkaebis Zauberkeule schwingen",
+      "keywords": [
+        "zauberkeule",
+        "dokkaebi",
+        "wünsche",
+        "reichtum",
+        "schöpferkraft",
+        "magic club"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Wünsche werden wahr! Höchste Schöpferkraft manifestiert Reichtum",
+      "advice": "Sprich deine Wünsche laut aus! Ein Schwung der Keule lässt sie wahr werden!"
+    },
+    {
+      "id": "kkaebi_hat",
+      "label": "Dokkaebis Tarnkappe tragen",
+      "keywords": [
+        "tarnkappe",
+        "unsichtbar",
+        "freiheit",
+        "strategie",
+        "vorteil",
+        "magic hat"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Freiheit vor fremden Blicken; lautlose Meisterschaft im Verborgenen",
+      "advice": "Schere dich nicht um fremde Blicke! Sichere dir diskret alle Vorteile!"
+    },
+    {
+      "id": "lucky_pouch",
+      "label": "Goldenen Glücksbeutel öffnen",
+      "keywords": [
+        "glücksbeutel",
+        "goldbeutel",
+        "fülle",
+        "segen",
+        "reichtum",
+        "lucky pouch"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Unerschöpflicher Füllhorn-Reichtum; Segen für Generationen",
+      "advice": "Dein Beutel ist prall gefüllt! Großzügigkeit heute kehrt verdoppelt zurück!"
+    },
+    {
+      "id": "magic_broom",
+      "label": "Mit goldenem Zauberbesen kehren",
+      "keywords": [
+        "zauberbesen",
+        "goldbesen",
+        "reinigung",
+        "kehrbesen",
+        "frische",
+        "magic broom"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 68,
+      "card_id": "wooden_comb",
+      "meaning": "Unglück hinauskehren, pures Gold einsammeln; magische Reinigung",
+      "advice": "Kehre alten Staub hinaus und hole Gold herein! Lüfte heute alle Räume!"
+    },
+    {
+      "id": "dragon_jewel",
+      "label": "Himmlische Drachenperle umarmen",
+      "keywords": [
+        "drachenperle",
+        "yeouiju",
+        "wunschperle",
+        "höchstes glück",
+        "triumph",
+        "dragon orb"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dragon",
+      "meaning": "Erlangung der obersten Wunscherfüllungsperle; alle Wünsche werden wahr",
+      "advice": "Die kostbarste Perle liegt in deinen Händen! Kein Traum ist heute zu groß!"
+    }
+  ]
+}
