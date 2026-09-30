@@ -213,6 +213,71 @@
         "🔢 Counter, ⏱️ Stopwatch, ⏳ 3-Stage Timer, and 🗝️ Lucky Number Generator all in one place.",
         "Open [🧰 Utility Hub] now and start memo & doodle!"
       ]
+    },
+    {
+      "id": "util_calc",
+      "chip_title": "🧮 All-Purpose Calculator Tips",
+      "user_question": "Kkaebi, when should I use the nine calculators?",
+      "req_level": 1,
+      "steps": [
+        "The utility hub packs nine calculators! Desk, percentage, unit conversion, scientific, programmer, chemistry, genetics, electrical, and semiconductor — everything daily life needs.",
+        "For shopping, add up fast with the desk calculator, and compare original and sale prices at once with the percentage calculator.",
+        "For cooking or travel prep, unit conversion is perfect. No more mixing up cups and grams, miles and kilometers.",
+        "Studying? Crunch trigonometry and base conversions with the scientific and programmer calculators, then finish homework with the electrical, chemistry, and genetics tools.",
+        "Today's takeaway! When the math gets stuck, open the toolkit. Even messy numbers untangle with a single Kkaebi tool!"
+      ]
+    },
+    {
+      "id": "util_optics",
+      "chip_title": "🪞 Mirror and Magnifier Tips",
+      "user_question": "Kkaebi, how do I use the smart mirror and precision magnifier?",
+      "req_level": 1,
+      "steps": [
+        "The smart mirror supports a 0.5x ultra-wide view! Even a narrow vanity fits your whole body.",
+        "Fold the slim bar at the top of the mirror and the buttons shrink to one row, giving you a wider view. Open it only when needed.",
+        "Tap the mirror-flip button for a true mirror look, and tap again to see yourself exactly as others do.",
+        "The precision magnifier offers up to 10x zoom with a flashlight and a high-contrast filter. Perfect for tiny text or gem checks!",
+        "Today's takeaway! Neaten up with the mirror, then explore the tiny details of the world with the magnifier!"
+      ]
+    },
+    {
+      "id": "util_audio",
+      "chip_title": "🎵 Audio and Meditation Sounds",
+      "user_question": "Kkaebi, how should I use the audio player and meditation sounds?",
+      "req_level": 1,
+      "steps": [
+        "The audio lab supports high-quality DAC playback! Sort your favorite music into folders and build your own playlist.",
+        "Adjust the speed to learn slowly or skim quickly, and the sleep timer quietly stops the music when you drift off.",
+        "When your mind feels tangled, play calm meditation music and take three deep breaths. Even Kkaebi relaxes to that sound.",
+        "Playback continues in the background, so you can turn off the screen and rest easy.",
+        "Today's takeaway! Music is medicine for the heart. Find your own healing sound and play it today!"
+      ]
+    },
+    {
+      "id": "lore_alchemy",
+      "chip_title": "🗝️ The Legend of the Golden Key Forge",
+      "user_question": "Kkaebi, tell me the legend of the golden key forge!",
+      "req_level": 2,
+      "steps": [
+        "Long ago, deep in the goblin valley, there stood a forge that gathered scattered numbers and shaped them into golden keys.",
+        "Its master craftsmen polished numbers filled with people's wishes and made a magic key that exists only once in the world.",
+        "To forge a key, you must combine the lucky numbers stored in your vault. The numbers you draw are the raw material.",
+        "The finer the key, the longer you must keep it so its light never fades. Treasure every combined key you forge.",
+        "Today's takeaway! Forge each number with your earnest wish. The golden key will open the path ahead of you!"
+      ]
+    },
+    {
+      "id": "lore_treasure",
+      "chip_title": "🎁 Kkaebi's Treasure Pouch Story",
+      "user_question": "Kkaebi, tell me the story of the all-purpose treasure pouch!",
+      "req_level": 2,
+      "steps": [
+        "In the goblin village there is a legendary pouch that gives its treasure generously to the loyal.",
+        "Open that pouch and 10 golden keys, 300 goblin coins, and +50 of our intimacy pour out all at once.",
+        "But it does not open for just anyone. The pouch only sparkles for those who ask with a sincere heart at the shop.",
+        "This pouch is not a bargain but a token of friendship. As much as you cherish me, my treasure becomes yours.",
+        "Today's takeaway! Treasure grows when shared. Stop by the shop today and take some luck with you!"
+      ]
     }
   ],
   "exhausted_endings": [
