@@ -4588,5 +4588,1085 @@
       "wrong": "Nope! The triangle of three spring stars!"
     },
     "id": "rid_255"
+  },
+  {
+    "question": "Secretly filling in for a lost button, it pokes your skin and gives away your laziness. What am I?",
+    "options": [
+      "Clip",
+      "Safety pin",
+      "Thumbtack",
+      "Button"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A safety pin pinches you whenever you move.",
+      "wrong": "Nope! It is the small pin that replaces a button."
+    },
+    "id": "rid_256"
+  },
+  {
+    "question": "It pretends to cover leftovers, but sticks to itself and balls up. What am I?",
+    "options": [
+      "Foil",
+      "Paper towel",
+      "Cling film",
+      "Plastic bag"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! Cling film always sticks to itself first.",
+      "wrong": "Nope! It is the thin film you wrap over food."
+    },
+    "id": "rid_257"
+  },
+  {
+    "question": "It holds clothes so the wind won't steal them, then leaves horn marks on the shoulders. What am I?",
+    "options": [
+      "Clothespin",
+      "Safety pin",
+      "Magnet",
+      "Clip"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "Correct! Those clothespin marks never fade.",
+      "wrong": "Nope! It pins clothes onto the drying line."
+    },
+    "id": "rid_258"
+  },
+  {
+    "question": "It pops the cap to refresh you, but on a bad day sprays the ceiling. What am I?",
+    "options": [
+      "Scissors",
+      "Wrench",
+      "Corkscrew",
+      "Bottle opener"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A bottle opener needs a gentle hand.",
+      "wrong": "Nope! It is the tool that opens bottle caps."
+    },
+    "id": "rid_259"
+  },
+  {
+    "question": "It keeps chili powder buried in its body and never spits it out. What am I?",
+    "options": [
+      "Dishcloth",
+      "Scrubber",
+      "Sponge",
+      "Brush"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A scrubber never loses its red stain.",
+      "wrong": "Nope! It is the sudsy tool that washes dishes."
+    },
+    "id": "rid_260"
+  },
+  {
+    "question": "Quiet before the water boils, it shrieks a whistle when its inside churns. What am I?",
+    "options": [
+      "Pot",
+      "Frying pan",
+      "Kettle",
+      "Cup"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A kettle whistles when the water boils.",
+      "wrong": "Nope! It is the vessel that boils water."
+    },
+    "id": "rid_261"
+  },
+  {
+    "question": "It trims your nails, then fires the clippings like a rocket across the room. What am I?",
+    "options": [
+      "Nail clipper",
+      "Scissors",
+      "Knife",
+      "File"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Clippings always land somewhere strange.",
+      "wrong": "Nope! It is the tool that trims nails."
+    },
+    "id": "rid_262"
+  },
+  {
+    "question": "It carries cups calmly, then throws a crashing party at one doorstep. What am I?",
+    "options": [
+      "Plate",
+      "Cutting board",
+      "Basket",
+      "Tray"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A tray ends in disaster the moment it tilts.",
+      "wrong": "Nope! It is the flat tool that carries dishes."
+    },
+    "id": "rid_263"
+  },
+  {
+    "question": "It takes every knife stroke, drinks kimchi juice, and stays stained red forever. What am I?",
+    "options": [
+      "Plate",
+      "Cutting board",
+      "Tray",
+      "Dishcloth"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A board never loses the red once stained.",
+      "wrong": "Nope! It is the board you cut on."
+    },
+    "id": "rid_264"
+  },
+  {
+    "question": "It warms in your pocket, then turns into a cold stone by evening. What am I?",
+    "options": [
+      "Thermos",
+      "Heat pack",
+      "Hand warmer",
+      "Hot-water bag"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A heat pack is heaven hot and a stone cold.",
+      "wrong": "Nope! It is the pouch that warms your hands."
+    },
+    "id": "rid_265"
+  },
+  {
+    "question": "It holds bread quietly, then launches it like a missile the moment you daydream. What am I?",
+    "options": [
+      "Toaster",
+      "Microwave",
+      "Oven",
+      "Air fryer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! That clack always makes you jump.",
+      "wrong": "Nope! It is the machine that toasts bread."
+    },
+    "id": "rid_266"
+  },
+  {
+    "question": "Sent in to clean a straw, it gets stuck and starts a duel. What am I?",
+    "options": [
+      "Toothbrush",
+      "Swab",
+      "Paintbrush",
+      "Straw brush"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A straw brush wedges in and won't leave.",
+      "wrong": "Nope! It is the thin brush for narrow tubes."
+    },
+    "id": "rid_267"
+  },
+  {
+    "question": "You twist to free the ice, and instead its own body splits. What am I?",
+    "options": [
+      "Ice pack",
+      "Ice tray",
+      "Bottle",
+      "Bowl"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! An ice tray cracks with a snap.",
+      "wrong": "Nope! It is the mold that freezes ice."
+    },
+    "id": "rid_268"
+  },
+  {
+    "question": "Quiet in the bathroom corner, summoned only when the toilet clogs. What am I?",
+    "options": [
+      "Toilet",
+      "Drain",
+      "Plunger",
+      "Cleaning brush"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Correct! A plunger appears only in a crisis.",
+      "wrong": "Nope! It is the tool that clears a clog."
+    },
+    "id": "rid_269"
+  },
+  {
+    "question": "It guards your parcel, then pops and exposes the one you sneakily opened. What am I?",
+    "options": [
+      "Bubble wrap",
+      "Plastic",
+      "Styrofoam",
+      "Tape"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Bubble wrap confesses when stepped on.",
+      "wrong": "Nope! It is the bubbly packing film."
+    },
+    "id": "rid_270"
+  },
+  {
+    "question": "It drags out hidden chili bits even after you think you finished brushing. What am I?",
+    "options": [
+      "Toothbrush",
+      "Toothpick",
+      "Mouthwash",
+      "Dental floss"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Correct! Floss always finds the hidden ones.",
+      "wrong": "Nope! It is the thread that cleans between teeth."
+    },
+    "id": "rid_271"
+  },
+  {
+    "question": "Pull the ring and it gives you tuna, but drop your guard and it cuts your finger. What am I?",
+    "options": [
+      "Bottle cap",
+      "Can lid",
+      "Can opener",
+      "Foil"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A can lid always aims for your fingertip.",
+      "wrong": "Nope! It is the lid on top of a can."
+    },
+    "id": "rid_272"
+  },
+  {
+    "question": "It survives being tapped, then rolls away and hides when you finally replace it. What am I?",
+    "options": [
+      "Charger",
+      "Bulb",
+      "Battery",
+      "Switch"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A battery vanishes exactly when needed.",
+      "wrong": "Nope! It is the round cell that powers things."
+    },
+    "id": "rid_273"
+  },
+  {
+    "question": "Gentle when full, it makes you test your grip when it runs low. What am I?",
+    "options": [
+      "Toothpaste",
+      "Soap",
+      "Shampoo",
+      "Conditioner"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Correct! The last squeeze makes your hands shake.",
+      "wrong": "Nope! It is what you clean your teeth with."
+    },
+    "id": "rid_274"
+  },
+  {
+    "question": "You try to plug it in, but it never fits until the third flip. What am I?",
+    "options": [
+      "SD card",
+      "Charger",
+      "Earphone",
+      "USB drive"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "tech",
+    "kkaebi_reaction": {
+      "correct": "Correct! USB always takes three tries.",
+      "wrong": "Nope! It is the stick that stores files."
+    },
+    "id": "rid_275"
+  },
+  {
+    "question": "Bite it in a hurry and the filling escapes, leaving a stain on your shirt. What am I?",
+    "options": [
+      "Gimbap",
+      "Triangle gimbap",
+      "Rice ball",
+      "Sandwich"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! The filling always flees first.",
+      "wrong": "Nope! It is rice wrapped in a triangle of seaweed."
+    },
+    "id": "rid_276"
+  },
+  {
+    "question": "Eat it and a red sauce stays on your lips, giving you away at once. What am I?",
+    "options": [
+      "Ramen",
+      "Blood sausage",
+      "Tteokbokki",
+      "Fish cake"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! Tteokbokki sauce always leaves a mark.",
+      "wrong": "Nope! It is rice cakes in spicy red sauce."
+    },
+    "id": "rid_277"
+  },
+  {
+    "question": "The moment you lie down, it creaks and tells the whole house. What am I?",
+    "options": [
+      "Sofa",
+      "Bed",
+      "Chair",
+      "Mat"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Correct! A sofa always creaks when you lie down.",
+      "wrong": "Nope! It is the long seat in the living room."
+    },
+    "id": "rid_278"
+  },
+  {
+    "question": "Press it late after missing your stop and the whole bus turns around. What am I?",
+    "options": [
+      "Handrail",
+      "Button",
+      "Announcement",
+      "Stop-request bell"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "transit",
+    "kkaebi_reaction": {
+      "correct": "Correct! A late bell rings even louder.",
+      "wrong": "Nope! It is the bell you press to get off."
+    },
+    "id": "rid_279"
+  },
+  {
+    "question": "Press too hard and it snaps its own back and goes on strike. What am I?",
+    "options": [
+      "Pencil lead",
+      "Mechanical pencil lead",
+      "Pen refill",
+      "Crayon"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! It always breaks during the exam.",
+      "wrong": "Nope! It is the thin lead inside a mechanical pencil."
+    },
+    "id": "rid_280"
+  },
+  {
+    "question": "Put a head in and turn, and it sharpens; full, it coughs out shavings. What am I?",
+    "options": [
+      "Eraser",
+      "Ruler",
+      "Pencil sharpener",
+      "Scissors"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A sharpener leaves wood shavings behind.",
+      "wrong": "Nope! It is the tool that sharpens pencils."
+    },
+    "id": "rid_281"
+  },
+  {
+    "question": "Leave the cap off and it dries into a stone by itself. What am I?",
+    "options": [
+      "Glue stick",
+      "Wood glue",
+      "Tape",
+      "Adhesive"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A glue stick just hardens if left open.",
+      "wrong": "Nope! It is the stick glue for paper."
+    },
+    "id": "rid_282"
+  },
+  {
+    "question": "Carried on your back, it ends up tossed on the floor first thing at home. What am I?",
+    "options": [
+      "Bag",
+      "Tote bag",
+      "Sub-bag",
+      "Backpack"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A backpack is carried, then dumped.",
+      "wrong": "Nope! It is the bag you wear for books."
+    },
+    "id": "rid_283"
+  },
+  {
+    "question": "It swears the exam comes from here, then vanishes from your head during the test. What am I?",
+    "options": [
+      "Ballpoint pen",
+      "Highlighter",
+      "Colored pencil",
+      "Marker"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! Highlighted spots never show up on the exam.",
+      "wrong": "Nope! It is the pen that marks key lines."
+    },
+    "id": "rid_284"
+  },
+  {
+    "question": "Stick it on a friend and it holds, but the exam-scope note blows away. What am I?",
+    "options": [
+      "Memo pad",
+      "Sticker",
+      "Sticky note",
+      "Paper"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! Sticky notes fly off exactly when important.",
+      "wrong": "Nope! It is the small note you stick and peel."
+    },
+    "id": "rid_285"
+  },
+  {
+    "question": "It ties your hair, then snaps with a ting at the worst moment. What am I?",
+    "options": [
+      "Hair tie",
+      "Pin",
+      "Headband",
+      "Comb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A hair tie always snaps when you are rushed.",
+      "wrong": "Nope! It is the band that ties your hair."
+    },
+    "id": "rid_286"
+  },
+  {
+    "question": "One sheet would do, but pull in a hurry and they pop out like sausages. What am I?",
+    "options": [
+      "Toilet paper",
+      "Handkerchief",
+      "Paper towel",
+      "Wet wipes"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Hurry and the wipes come out in a chain.",
+      "wrong": "Nope! It is the tissue you use wet."
+    },
+    "id": "rid_287"
+  },
+  {
+    "question": "During cleaning it sprays cold water on a friend's neck on purpose. What am I?",
+    "options": [
+      "Watering can",
+      "Spray bottle",
+      "Water gun",
+      "Hose"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A spray bottle always aims at the wrong spot.",
+      "wrong": "Nope! It is the tool that mists water."
+    },
+    "id": "rid_288"
+  },
+  {
+    "question": "In a silent study hour it goes rip and draws the whole class's eyes. What am I?",
+    "options": [
+      "Button",
+      "Zipper",
+      "Velcro",
+      "String"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! Velcro always makes noise when it should not.",
+      "wrong": "Nope! It is the hook-and-loop that sticks and peels."
+    },
+    "id": "rid_289"
+  },
+  {
+    "question": "Soft while you sit, it drops and hooks your ankle the moment you stand. What am I?",
+    "options": [
+      "Seat cushion",
+      "Cushion",
+      "Pillow",
+      "Mat"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A cushion always falls right as you stand.",
+      "wrong": "Nope! It is the soft pad on a chair."
+    },
+    "id": "rid_290"
+  },
+  {
+    "question": "Roll it on your uniform and it proves how long you skipped cleaning. What am I?",
+    "options": [
+      "Broom",
+      "Vacuum",
+      "Duster",
+      "Lint roller"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Correct! A lint roller hides nothing.",
+      "wrong": "Nope! It is the sticky roller that picks up dust."
+    },
+    "id": "rid_291"
+  },
+  {
+    "question": "It holds the board well, then waits on the floor to pierce bare feet. What am I?",
+    "options": [
+      "Nail",
+      "Thumbtack",
+      "Clip",
+      "Magnet"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A thumbtack always aims at bare feet.",
+      "wrong": "Nope! It is the small pin that holds notices."
+    },
+    "id": "rid_292"
+  },
+  {
+    "question": "You try to poke it into the milk carton hole, and its own neck bends. What am I?",
+    "options": [
+      "Straw",
+      "Chopstick",
+      "Bendy straw",
+      "Fork"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! The bendy part is the weak spot.",
+      "wrong": "Nope! It is the straw with a folded joint."
+    },
+    "id": "rid_293"
+  },
+  {
+    "question": "You hit it back and forth until it lodges in the gym ceiling frame. What am I?",
+    "options": [
+      "Shuttlecock",
+      "Ping-pong ball",
+      "Racket",
+      "Ball"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Correct! A shuttlecock ends up somewhere unreachable.",
+      "wrong": "Nope! It is the feathered ball you hit in badminton."
+    },
+    "id": "rid_294"
+  },
+  {
+    "question": "It bounces lightly, then stays dented forever once stepped on hard. What am I?",
+    "options": [
+      "Shuttlecock",
+      "Baseball",
+      "Soccer ball",
+      "Ping-pong ball"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Correct! One dent and it is finished.",
+      "wrong": "Nope! It is the tiny ball that bounces on the table."
+    },
+    "id": "rid_295"
+  },
+  {
+    "question": "Sent to brush off dust, it pulls every speck in with static instead. What am I?",
+    "options": [
+      "Comb",
+      "Clothes brush",
+      "Paintbrush",
+      "Duster"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! The more you brush, the more dust clings.",
+      "wrong": "Nope! It is the brush for your clothes."
+    },
+    "id": "rid_296"
+  },
+  {
+    "question": "You flip a fried egg, it bursts the yolk and ruins the look. What am I?",
+    "options": [
+      "Ladle",
+      "Rice paddle",
+      "Spatula",
+      "Tongs"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A spatula always pops the yolk at that moment.",
+      "wrong": "Nope! It is the tool that flips food."
+    },
+    "id": "rid_297"
+  },
+  {
+    "question": "You scoop stew, slip on the pot handle, and dive into the soup. What am I?",
+    "options": [
+      "Ladle",
+      "Rice paddle",
+      "Spatula",
+      "Spoon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A ladle always dives into the soup.",
+      "wrong": "Nope! It is the tool that scoops soup."
+    },
+    "id": "rid_298"
+  },
+  {
+    "question": "Pour into a narrow neck too fast and it overflows right back out. What am I?",
+    "options": [
+      "Ladle",
+      "Cup",
+      "Kettle",
+      "Funnel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A funnel spills if you rush.",
+      "wrong": "Nope! It is the tool for pouring into small openings."
+    },
+    "id": "rid_299"
+  },
+  {
+    "question": "You lay it out to exercise, then lie down and it becomes a nap mattress. What am I?",
+    "options": [
+      "Picnic mat",
+      "Yoga mat",
+      "Mattress",
+      "Blanket"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Correct! A yoga mat always invites a nap.",
+      "wrong": "Nope! It is the mat you unroll for exercise."
+    },
+    "id": "rid_300"
+  },
+  {
+    "question": "It soothes the sore spot, then rips skin and hair when you peel it off. What am I?",
+    "options": [
+      "Bandage",
+      "Ointment",
+      "Pain relief patch",
+      "Gauze"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "health",
+    "kkaebi_reaction": {
+      "correct": "Correct! Peeling is the real battle.",
+      "wrong": "Nope! It is the patch you stick on sore spots."
+    },
+    "id": "rid_301"
+  },
+  {
+    "question": "It makes your own breathing and heartbeat thunder in your ears. What am I?",
+    "options": [
+      "Earplug",
+      "Earphone",
+      "Eye mask",
+      "Headphones"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Earplugs make your heartbeat louder.",
+      "wrong": "Nope! It is the small plug for your ears."
+    },
+    "id": "rid_302"
+  },
+  {
+    "question": "You boil ramen, yank the lid open, and a drop lands on your foot. What am I?",
+    "options": [
+      "Frying pan",
+      "Plate",
+      "Tray",
+      "Pot lid"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Correct! A pot lid always holds hot droplets.",
+      "wrong": "Nope! It is the lid that covers a pot."
+    },
+    "id": "rid_303"
+  },
+  {
+    "question": "It zips your padded jacket, then bites the lining and refuses to move. What am I?",
+    "options": [
+      "Button",
+      "Zipper",
+      "Velcro",
+      "String"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A zipper always grabs the fabric.",
+      "wrong": "Nope! It is the fastener that closes clothes."
+    },
+    "id": "rid_304"
+  },
+  {
+    "question": "Inside the washer it wraps another sleeve and balls everything up. What am I?",
+    "options": [
+      "Basket",
+      "Washing machine",
+      "Laundry net",
+      "Drying rack"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "Correct! A laundry net tangles with outside clothes.",
+      "wrong": "Nope! It is the mesh bag for laundry."
+    },
+    "id": "rid_305"
+  },
+  {
+    "question": "One hand-wash and it turns grimy and peels right off. What am I?",
+    "options": [
+      "Bandage",
+      "Gauze",
+      "Plaster",
+      "Adhesive bandage"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! One wash and the bandage is done.",
+      "wrong": "Nope! It is what you stick on a wound."
+    },
+    "id": "rid_306"
+  },
+  {
+    "question": "It scratches an itchy ear, then a sudden sneeze brings agony. What am I?",
+    "options": [
+      "Cotton swab",
+      "Toothpick",
+      "Tweezers",
+      "Ear pick"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Never push an ear pick too deep.",
+      "wrong": "Nope! It is the tool for cleaning ears."
+    },
+    "id": "rid_307"
+  },
+  {
+    "question": "Even if you say you barely shopped, it exposes you with your waist number. What am I?",
+    "options": [
+      "Ruler",
+      "Measuring tape",
+      "Scale",
+      "Cup"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A tape measure never lets you lie.",
+      "wrong": "Nope! It is the tool that measures length."
+    },
+    "id": "rid_308"
+  },
+  {
+    "question": "It binds a few printouts, then chain-tangles inside your pencil case. What am I?",
+    "options": [
+      "Stapler",
+      "Thumbtack",
+      "Paper clip",
+      "Clip"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! Paper clips always tangle together.",
+      "wrong": "Nope! It is the tool that binds paper."
+    },
+    "id": "rid_309"
+  },
+  {
+    "question": "At a restaurant it digs out the chili powder hiding between teeth. What am I?",
+    "options": [
+      "Toothpick",
+      "Chopstick",
+      "Fork",
+      "Dental floss"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! A toothpick finds every hidden bit.",
+      "wrong": "Nope! It is the little stick for between teeth."
+    },
+    "id": "rid_310"
+  },
+  {
+    "question": "Left damp and bunched since yesterday, it smells like a rag. What am I?",
+    "options": [
+      "Dishcloth",
+      "Blanket",
+      "Tissue",
+      "Towel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Correct! A towel smells within a day if not dried.",
+      "wrong": "Nope! It is the cloth you dry yourself with."
+    },
+    "id": "rid_311"
+  },
+  {
+    "question": "It cuts colored paper, then stiffens and strikes after cutting sticky tape. What am I?",
+    "options": [
+      "Knife",
+      "Scissors",
+      "Box cutter",
+      "Saw"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! Sticky tape gums up the blades.",
+      "wrong": "Nope! It is the tool that cuts paper."
+    },
+    "id": "rid_312"
+  },
+  {
+    "question": "You swing to catch a mosquito and hit your little sibling instead. What am I?",
+    "options": [
+      "Mosquito coil",
+      "Hand",
+      "Fly swatter",
+      "Stick"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Correct! A fly swatter always hits the wrong target.",
+      "wrong": "Nope! It is the tool that swats bugs."
+    },
+    "id": "rid_313"
+  },
+  {
+    "question": "Stretch your foot toward its open leg and it kicks your shin like iron. What am I?",
+    "options": [
+      "Folding table",
+      "Desk",
+      "Dining table",
+      "Chair"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Correct! Its legs always aim for your shin.",
+      "wrong": "Nope! It is the small table with folding legs."
+    },
+    "id": "rid_314"
+  },
+  {
+    "question": "It jingles in your pocket, then hides under the vending machine when dropped. What am I?",
+    "options": [
+      "Banknote",
+      "Card",
+      "Button",
+      "Coin"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! A coin always rolls under the machine.",
+      "wrong": "Nope! It is the round, hard money."
+    },
+    "id": "rid_315"
   }
 ]

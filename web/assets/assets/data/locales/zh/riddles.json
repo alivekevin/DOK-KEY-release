@@ -4588,5 +4588,1085 @@
       "wrong": "不对！是春夜三颗星组成的三角形呀！"
     },
     "id": "rid_255"
+  },
+  {
+    "question": "纽扣掉了时悄悄顶替上岗，却一动就戳得皮肤发痛，暴露你的偷懒。我是什么?",
+    "options": [
+      "回形针",
+      "别针",
+      "图钉",
+      "纽扣"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 别针是应急替身，却总扎人。",
+      "wrong": "错! 它是代替纽扣的小别针。"
+    },
+    "id": "rid_256"
+  },
+  {
+    "question": "装作盖好剩菜，却总是自己黏在一起团成一坨。我是什么?",
+    "options": [
+      "锡纸",
+      "厨房纸",
+      "保鲜膜",
+      "塑料袋"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 保鲜膜总是先黏住自己。",
+      "wrong": "错! 它是盖在食物上的薄膜。"
+    },
+    "id": "rid_257"
+  },
+  {
+    "question": "在阳台风里咬住衣服不让它飞走，却在肩上留下角印。我是什么?",
+    "options": [
+      "晾衣夹",
+      "别针",
+      "磁铁",
+      "夹子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "正确! 晾衣夹的印子总是那么深。",
+      "wrong": "错! 它把衣服夹在晾衣绳上。"
+    },
+    "id": "rid_258"
+  },
+  {
+    "question": "想爽快拧开瓶盖，一旦用力过猛就把饮料喷上天花板。我是什么?",
+    "options": [
+      "剪刀",
+      "扳手",
+      "开瓶钻",
+      "开瓶器"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 开瓶器最讲究力道。",
+      "wrong": "错! 它是开瓶盖的工具。"
+    },
+    "id": "rid_259"
+  },
+  {
+    "question": "把辣椒粉藏进身体里，永远不吐出来的洗碗工具。我是什么?",
+    "options": [
+      "抹布",
+      "钢丝球",
+      "海绵",
+      "刷子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 钢丝球永远洗不掉泡菜色。",
+      "wrong": "错! 它是洗碗的起泡工具。"
+    },
+    "id": "rid_260"
+  },
+  {
+    "question": "水开之前很安静，里面一沸腾就朝整个街区尖叫。我是什么?",
+    "options": [
+      "锅",
+      "平底锅",
+      "水壶",
+      "杯子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 水壶水开就吹口哨。",
+      "wrong": "错! 它是烧水的器具。"
+    },
+    "id": "rid_261"
+  },
+  {
+    "question": "装模作样剪指甲，却把剪下的碎片像火箭一样发射到客厅另一头。我是什么?",
+    "options": [
+      "指甲剪",
+      "剪刀",
+      "小刀",
+      "锉刀"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 指甲碎片总落在奇怪的地方。",
+      "wrong": "错! 它是修指甲的工具。"
+    },
+    "id": "rid_262"
+  },
+  {
+    "question": "装作平稳地端着一摞杯子，一过门槛就举办稀里哗啦派对。我是什么?",
+    "options": [
+      "盘子",
+      "砧板",
+      "篮子",
+      "托盘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 托盘一失衡就大灾难。",
+      "wrong": "错! 它是端餐具的平板。"
+    },
+    "id": "rid_263"
+  },
+  {
+    "question": "用整个身体承受刀刻，喝饱泡菜汁后永远染成通红。我是什么?",
+    "options": [
+      "盘子",
+      "砧板",
+      "托盘",
+      "抹布"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 砧板一旦染色就洗不掉。",
+      "wrong": "错! 它是切菜用的板子。"
+    },
+    "id": "rid_264"
+  },
+  {
+    "question": "在口袋里变热，到了寒冷的傍晚却变成硬石头。我是什么?",
+    "options": [
+      "保温瓶",
+      "热敷袋",
+      "暖宝宝",
+      "热水袋"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 暖宝宝热时是天堂，冷了是石头。",
+      "wrong": "错! 它是暖手的袋状取暖物。"
+    },
+    "id": "rid_265"
+  },
+  {
+    "question": "安静地抱着面包，一发呆就让它像导弹一样弹起吓到人。我是什么?",
+    "options": [
+      "烤面包机",
+      "微波炉",
+      "烤箱",
+      "空气炸锅"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 那声'咔'总让人心跳。",
+      "wrong": "错! 它是烤面包的机器。"
+    },
+    "id": "rid_266"
+  },
+  {
+    "question": "被塞进吸管里清洗，却卡住拔不出来，发起了决斗。我是什么?",
+    "options": [
+      "牙刷",
+      "棉签",
+      "笔刷",
+      "吸管刷"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 吸管刷插进去就难拔出。",
+      "wrong": "错! 它是洗细管的小刷子。"
+    },
+    "id": "rid_267"
+  },
+  {
+    "question": "想拧出冰块，结果冰没出来，自己的身子裂了。我是什么?",
+    "options": [
+      "冰袋",
+      "制冰格",
+      "水瓶",
+      "碗"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 制冰格一拧就咔地裂开。",
+      "wrong": "错! 它是冻冰块的模具。"
+    },
+    "id": "rid_268"
+  },
+  {
+    "question": "平时安静待在卫生间角落，只有马桶堵塞时才被召唤的救兵。我是什么?",
+    "options": [
+      "马桶",
+      "地漏",
+      "马桶搋子",
+      "清洁刷"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正确! 搋子只在危机时登场。",
+      "wrong": "错! 它是疏通堵塞的工具。"
+    },
+    "id": "rid_269"
+  },
+  {
+    "question": "装作保护快递，可一踩就啪啪作响，暴露你偷偷拆过。我是什么?",
+    "options": [
+      "气泡膜",
+      "塑料膜",
+      "泡沫",
+      "胶带"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 气泡膜一踩就招供。",
+      "wrong": "错! 它是包装用的气泡膜。"
+    },
+    "id": "rid_270"
+  },
+  {
+    "question": "以为刷完牙了，它却把藏在嘴里的辣椒渣揪出来。我是什么?",
+    "options": [
+      "牙刷",
+      "牙签",
+      "漱口水",
+      "牙线"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正确! 牙线总能找到藏起来的。",
+      "wrong": "错! 它是清洁牙缝的线。"
+    },
+    "id": "rid_271"
+  },
+  {
+    "question": "拉开拉环就献上金枪鱼，一走神却割破手指的钢铁盾牌。我是什么?",
+    "options": [
+      "瓶盖",
+      "罐头盖",
+      "开罐器",
+      "锡纸"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 罐头盖总盯着指尖。",
+      "wrong": "错! 它是盖在罐头顶上的盖子。"
+    },
+    "id": "rid_272"
+  },
+  {
+    "question": "拍打遥控器时它能撑住，等你要更换时却滚进地板缝里消失。我是什么?",
+    "options": [
+      "充电器",
+      "灯泡",
+      "电池",
+      "开关"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 电池总在最需要时滚走。",
+      "wrong": "错! 它是提供电力的圆形电池。"
+    },
+    "id": "rid_273"
+  },
+  {
+    "question": "鼓鼓的时候很顺滑，瘪下去就让你测试握力。我是什么?",
+    "options": [
+      "牙膏",
+      "肥皂",
+      "洗发水",
+      "护发素"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正确! 最后一挤总是手发抖。",
+      "wrong": "错! 它是刷牙用的东西。"
+    },
+    "id": "rid_274"
+  },
+  {
+    "question": "想插进电脑，前后总不对，逼你翻来覆去好几次。我是什么?",
+    "options": [
+      "SD卡",
+      "充电器",
+      "耳机",
+      "U盘"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "tech",
+    "kkaebi_reaction": {
+      "correct": "正确! USB为什么总要翻三次!",
+      "wrong": "错! 它是存文件的存储设备。"
+    },
+    "id": "rid_275"
+  },
+  {
+    "question": "着急咬一口，馅料先逃跑，在衣服上留下印子。我是什么?",
+    "options": [
+      "紫菜包饭",
+      "三角饭团",
+      "饭团",
+      "三明治"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正确! 三角饭团总是馅先溜走。",
+      "wrong": "错! 它是三角海苔包的饭。"
+    },
+    "id": "rid_276"
+  },
+  {
+    "question": "嘴角沾着红色酱汁出门，朋友一眼就看穿的食物。我是什么?",
+    "options": [
+      "拉面",
+      "米肠",
+      "炒年糕",
+      "鱼饼"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正确! 炒年糕的酱总留在嘴角。",
+      "wrong": "错! 它是红酱炒年糕。"
+    },
+    "id": "rid_277"
+  },
+  {
+    "question": "想小睡一躺下，就用吱呀声通报全屋的家具。我是什么?",
+    "options": [
+      "沙发",
+      "床",
+      "椅子",
+      "垫子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正确! 沙发一躺下就吱呀。",
+      "wrong": "错! 它是客厅里坐的长家具。"
+    },
+    "id": "rid_278"
+  },
+  {
+    "question": "错过站才去按，全车人都回头看的东西。我是什么?",
+    "options": [
+      "扶手",
+      "按钮",
+      "广播",
+      "下车铃"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "transit",
+    "kkaebi_reaction": {
+      "correct": "正确! 下车铃按晚了更响。",
+      "wrong": "错! 它是下车时按的铃。"
+    },
+    "id": "rid_279"
+  },
+  {
+    "question": "一使劲写字就自己折断腰罢工。我是什么?",
+    "options": [
+      "铅笔芯",
+      "自动铅笔芯",
+      "圆珠笔芯",
+      "蜡笔"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 笔芯总在考试时断。",
+      "wrong": "错! 它是装进自动铅笔的细芯。"
+    },
+    "id": "rid_280"
+  },
+  {
+    "question": "把脑袋塞进去转动才会尖，吃饱了就吐出木屑。我是什么?",
+    "options": [
+      "橡皮",
+      "尺子",
+      "卷笔刀",
+      "剪刀"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 卷笔刀会吐出木屑。",
+      "wrong": "错! 它是削铅笔的工具。"
+    },
+    "id": "rid_281"
+  },
+  {
+    "question": "不盖盖子就会自己干掉变成石头。我是什么?",
+    "options": [
+      "固体胶",
+      "木工胶",
+      "胶带",
+      "黏合剂"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 固体胶不盖就硬掉。",
+      "wrong": "错! 它是贴纸用的棒状胶。"
+    },
+    "id": "rid_282"
+  },
+  {
+    "question": "被背在背上扛书本，一到家却最先被扔到地上。我是什么?",
+    "options": [
+      "包",
+      "环保袋",
+      "小挎包",
+      "书包"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 书包被背着也总被扔。",
+      "wrong": "错! 它是装书背的包。"
+    },
+    "id": "rid_283"
+  },
+  {
+    "question": "强调这里会考，可一进考场就从脑子里消失。我是什么?",
+    "options": [
+      "圆珠笔",
+      "荧光笔",
+      "彩铅",
+      "记号笔"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 荧光笔画的地方从不考。",
+      "wrong": "错! 它是标记重点的笔。"
+    },
+    "id": "rid_284"
+  },
+  {
+    "question": "贴在朋友背上很牢，可记考试范围的那张却被风吹走。我是什么?",
+    "options": [
+      "便签纸",
+      "贴纸",
+      "便利贴",
+      "纸"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 便利贴偏偏重要的会飞。",
+      "wrong": "错! 它是贴了能撕的小便签。"
+    },
+    "id": "rid_285"
+  },
+  {
+    "question": "装作帮你扎头发，却在关键时刻'啪'地断掉。我是什么?",
+    "options": [
+      "发圈",
+      "发夹",
+      "发箍",
+      "梳子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 发圈总在最急时断。",
+      "wrong": "错! 它是扎头发的橡皮圈。"
+    },
+    "id": "rid_286"
+  },
+  {
+    "question": "一张就够，可一着急抽就香肠似地连出好几张。我是什么?",
+    "options": [
+      "卫生纸",
+      "手帕",
+      "厨房纸",
+      "湿巾"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 一急湿巾就成串出。",
+      "wrong": "错! 它是沾水用的纸巾。"
+    },
+    "id": "rid_287"
+  },
+  {
+    "question": "打扫时故意把冷水喷到同学后颈。我是什么?",
+    "options": [
+      "洒水壶",
+      "喷雾瓶",
+      "水枪",
+      "水管"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 喷雾瓶总喷到不该喷的地方。",
+      "wrong": "错! 它是喷水雾的工具。"
+    },
+    "id": "rid_288"
+  },
+  {
+    "question": "安静的自习时间里'刺啦'一声，引来全班目光。我是什么?",
+    "options": [
+      "纽扣",
+      "拉链",
+      "魔术贴",
+      "绳子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 魔术贴偏偏在安静时响。",
+      "wrong": "错! 它是贴了能撕的尼龙扣。"
+    },
+    "id": "rid_289"
+  },
+  {
+    "question": "坐着松软，一站起就啪地掉下勾住脚踝。我是什么?",
+    "options": [
+      "坐垫",
+      "靠垫",
+      "枕头",
+      "垫子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 坐垫总在起身时掉到脚边。",
+      "wrong": "错! 它是铺在椅子上的软垫。"
+    },
+    "id": "rid_290"
+  },
+  {
+    "question": "在制服上滚一滚，就证明你有多久没打扫。我是什么?",
+    "options": [
+      "扫把",
+      "吸尘器",
+      "鸡毛掸",
+      "粘毛器"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正确! 粘毛器什么都藏不住。",
+      "wrong": "错! 它是用粘辊粘灰的工具。"
+    },
+    "id": "rid_291"
+  },
+  {
+    "question": "能牢牢固定公告板，掉地上却能穿透拖鞋扎脚底。我是什么?",
+    "options": [
+      "钉子",
+      "图钉",
+      "回形针",
+      "磁铁"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 图钉总盯着光脚。",
+      "wrong": "错! 它是固定告示的小钉。"
+    },
+    "id": "rid_292"
+  },
+  {
+    "question": "想插进牛奶盒的孔，自己的脖子却先弯了。我是什么?",
+    "options": [
+      "吸管",
+      "筷子",
+      "弯折吸管",
+      "叉子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 弯折处最脆弱。",
+      "wrong": "错! 它是有弯折节的吸管。"
+    },
+    "id": "rid_293"
+  },
+  {
+    "question": "开心对打，最后卡进体育馆天花板的钢架里。我是什么?",
+    "options": [
+      "羽毛球",
+      "乒乓球",
+      "球拍",
+      "球"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正确! 羽毛球总卡在够不着的地方。",
+      "wrong": "错! 它是羽毛球里带羽毛的球。"
+    },
+    "id": "rid_294"
+  },
+  {
+    "question": "轻轻一弹就跳，被用力一踩就凹进去弹不回来。我是什么?",
+    "options": [
+      "羽毛球",
+      "棒球",
+      "足球",
+      "乒乓球"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正确! 乒乓球一凹就完了。",
+      "wrong": "错! 它是在球台上弹的小球。"
+    },
+    "id": "rid_295"
+  },
+  {
+    "question": "本来想掸灰，却因静电把全世界的灰都吸过来。我是什么?",
+    "options": [
+      "梳子",
+      "衣刷",
+      "画笔",
+      "鸡毛掸"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 越刷越粘灰。",
+      "wrong": "错! 它是刷衣服的刷子。"
+    },
+    "id": "rid_296"
+  },
+  {
+    "question": "想把煎蛋翻面，却戳破蛋黄毁了卖相。我是什么?",
+    "options": [
+      "汤勺",
+      "饭铲",
+      "锅铲",
+      "夹子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 锅铲偏在那刻戳破蛋黄。",
+      "wrong": "错! 它是翻食物的工具。"
+    },
+    "id": "rid_297"
+  },
+  {
+    "question": "想舀汤，却在锅柄上滑倒，噗通掉进汤里。我是什么?",
+    "options": [
+      "汤勺",
+      "饭铲",
+      "锅铲",
+      "勺子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 汤勺总要潜进汤里。",
+      "wrong": "错! 它是舀汤的工具。"
+    },
+    "id": "rid_298"
+  },
+  {
+    "question": "往窄口倒，一着急就反涌出来洒到外面。我是什么?",
+    "options": [
+      "汤勺",
+      "杯子",
+      "水壶",
+      "漏斗"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 漏斗一急就溢。",
+      "wrong": "错! 它是往窄口倒的工具。"
+    },
+    "id": "rid_299"
+  },
+  {
+    "question": "本想铺开运动，一躺下就成了午睡床垫。我是什么?",
+    "options": [
+      "野餐垫",
+      "瑜伽垫",
+      "床垫",
+      "被子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正确! 瑜伽垫总引人午睡。",
+      "wrong": "错! 它是运动时铺的垫子。"
+    },
+    "id": "rid_300"
+  },
+  {
+    "question": "装作安抚痛处，一撕就把皮肤和汗毛一起扯下。我是什么?",
+    "options": [
+      "创可贴",
+      "药膏",
+      "膏药",
+      "绷带"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "health",
+    "kkaebi_reaction": {
+      "correct": "正确! 撕膏药才是真正的较量。",
+      "wrong": "错! 它是贴在痛处的膏药。"
+    },
+    "id": "rid_301"
+  },
+  {
+    "question": "让自己呼吸和心跳在耳朵里轰轰作响。我是什么?",
+    "options": [
+      "耳塞",
+      "耳机",
+      "眼罩",
+      "头戴耳机"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 戴耳塞后心跳更吵。",
+      "wrong": "错! 它是塞耳朵的小塞子。"
+    },
+    "id": "rid_302"
+  },
+  {
+    "question": "煮拉面时猛地掀开，把水滴落到脚背上。我是什么?",
+    "options": [
+      "平底锅",
+      "盘子",
+      "托盘",
+      "锅盖"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正确! 锅盖上总凝着热水珠。",
+      "wrong": "错! 它是盖锅的盖子。"
+    },
+    "id": "rid_303"
+  },
+  {
+    "question": "装作拉好羽绒服，却咬住里衬一动不动。我是什么?",
+    "options": [
+      "纽扣",
+      "拉链",
+      "魔术贴",
+      "绳子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 拉链总要咬住布。",
+      "wrong": "错! 它是合上衣物的拉链。"
+    },
+    "id": "rid_304"
+  },
+  {
+    "question": "在洗衣机里把别的袖子缠成一团。我是什么?",
+    "options": [
+      "篮子",
+      "洗衣机",
+      "洗衣袋",
+      "晾衣架"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "正确! 洗衣袋会缠住外面的衣服。",
+      "wrong": "错! 它是装洗衣物的网袋。"
+    },
+    "id": "rid_305"
+  },
+  {
+    "question": "洗一次手就变得脏兮兮、只剩一半黏不住。我是什么?",
+    "options": [
+      "创可贴",
+      "绷带",
+      "纱布",
+      "胶布"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 创可贴洗一次就完了。",
+      "wrong": "错! 它是贴在伤口上的东西。"
+    },
+    "id": "rid_306"
+  },
+  {
+    "question": "装作帮耳朵爽快掏一掏，一个喷嚏就让你尝到地狱。我是什么?",
+    "options": [
+      "棉签",
+      "牙签",
+      "镊子",
+      "挖耳勺"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 挖耳勺绝对不能挖太深。",
+      "wrong": "错! 它是掏耳朵的工具。"
+    },
+    "id": "rid_307"
+  },
+  {
+    "question": "就算你说'没买多少'，它也用腰围数字揭穿你。我是什么?",
+    "options": [
+      "尺子",
+      "卷尺",
+      "体重秤",
+      "杯子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 卷尺不让你说谎。",
+      "wrong": "错! 它是量长度的工具。"
+    },
+    "id": "rid_308"
+  },
+  {
+    "question": "装作帮你夹好几张打印纸，却在笔袋里像锁链一样缠成一团。我是什么?",
+    "options": [
+      "订书机",
+      "图钉",
+      "回形针",
+      "夹子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 回形针总要互相缠住。",
+      "wrong": "错! 它是夹纸的工具。"
+    },
+    "id": "rid_309"
+  },
+  {
+    "question": "在餐馆里把牙缝里的辣椒粉毫不留情挖出来。我是什么?",
+    "options": [
+      "牙签",
+      "筷子",
+      "叉子",
+      "牙线"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正确! 牙签能把藏的都找出来。",
+      "wrong": "错! 它是戳牙缝的小棒。"
+    },
+    "id": "rid_310"
+  },
+  {
+    "question": "昨天没晾干就团起来，于是发出抹布味的。我是什么?",
+    "options": [
+      "抹布",
+      "毯子",
+      "纸巾",
+      "毛巾"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正确! 毛巾不晾一天就发臭。",
+      "wrong": "错! 它是洗澡后擦身的布。"
+    },
+    "id": "rid_311"
+  },
+  {
+    "question": "装作帮你剪彩纸，剪过一次黏胶带后却僵住罢工。我是什么?",
+    "options": [
+      "小刀",
+      "剪刀",
+      "美工刀",
+      "锯子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正确! 剪刀剪了黏的就变钝。",
+      "wrong": "错! 它是剪纸的工具。"
+    },
+    "id": "rid_312"
+  },
+  {
+    "question": "想打蚊子挥了一巴掌，却打中了无辜的弟弟后背。我是什么?",
+    "options": [
+      "蚊香",
+      "手",
+      "苍蝇拍",
+      "棒子"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正确! 苍蝇拍总打错地方。",
+      "wrong": "错! 它是拍虫子的工具。"
+    },
+    "id": "rid_313"
+  },
+  {
+    "question": "把脚伸向它张开的腿，它就像铁一样踢你的小腿。我是什么?",
+    "options": [
+      "折叠桌",
+      "书桌",
+      "餐桌",
+      "椅子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正确! 折叠桌的腿总瞄准小腿。",
+      "wrong": "错! 它是能折腿的小桌。"
+    },
+    "id": "rid_314"
+  },
+  {
+    "question": "在口袋里叮当作响，一掉落就滚进自动售货机下面躲起来。我是什么?",
+    "options": [
+      "纸币",
+      "卡",
+      "纽扣",
+      "硬币"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正确! 硬币总要滚到机器下面。",
+      "wrong": "错! 它是又圆又硬的硬币。"
+    },
+    "id": "rid_315"
   }
 ]

@@ -4588,5 +4588,1085 @@
       "wrong": "Daneben! Das Dreieck dreier Frühlingssterne!"
     },
     "id": "rid_255"
+  },
+  {
+    "question": "Es ersetzt heimlich einen verlorenen Knopf, piekst aber bei jeder Bewegung die Haut und verrät deine Faulheit. Was bin ich?",
+    "options": [
+      "Büroklammer",
+      "Sicherheitsnadel",
+      "Reißzwecke",
+      "Knopf"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Sicherheitsnadel sticht immer zu.",
+      "wrong": "Falsch! Es ist die kleine Nadel als Knopfersatz."
+    },
+    "id": "rid_256"
+  },
+  {
+    "question": "Es tut, als decke es Reste ab, klebt aber immer an sich selbst und rollt sich zusammen. Was bin ich?",
+    "options": [
+      "Alufolie",
+      "Küchenpapier",
+      "Frischhaltefolie",
+      "Plastiktüte"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Folie klebt zuerst an sich selbst.",
+      "wrong": "Falsch! Es ist die dünne Folie über Speisen."
+    },
+    "id": "rid_257"
+  },
+  {
+    "question": "Es hält Wäsche fest, damit der Wind sie nicht stiehlt, und hinterlässt Hornspuren an den Schultern. Was bin ich?",
+    "options": [
+      "Wäscheklammer",
+      "Sicherheitsnadel",
+      "Magnet",
+      "Klemme"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Diese Klammer-Spuren bleiben lange.",
+      "wrong": "Falsch! Es klemmt Wäsche an die Leine."
+    },
+    "id": "rid_258"
+  },
+  {
+    "question": "Es öffnet den Verschluss, doch bei zu viel Kraft schießt das Getränk an die Decke. Was bin ich?",
+    "options": [
+      "Schere",
+      "Schraubenschlüssel",
+      "Korkenzieher",
+      "Flaschenöffner"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Flaschenöffner braucht Gefühl.",
+      "wrong": "Falsch! Es ist das Werkzeug für Kronkorken."
+    },
+    "id": "rid_259"
+  },
+  {
+    "question": "Es vergräbt Chilipulver in seinem Körper und spuckt es nie aus. Was bin ich?",
+    "options": [
+      "Spültuch",
+      "Schwamm",
+      "Spülschwamm",
+      "Bürste"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schwamm verliert die rote Farbe nie.",
+      "wrong": "Falsch! Es ist das schäumende Werkzeug zum Spülen."
+    },
+    "id": "rid_260"
+  },
+  {
+    "question": "Vor dem Kochen ruhig, schreit es laut auf, sobald es innen brodelt. Was bin ich?",
+    "options": [
+      "Topf",
+      "Pfanne",
+      "Wasserkessel",
+      "Tasse"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Kessel pfeift, wenn das Wasser kocht.",
+      "wrong": "Falsch! Es ist das Gefäß zum Wasserkochen."
+    },
+    "id": "rid_261"
+  },
+  {
+    "question": "Es schneidet Nägel und schießt die Späne wie eine Rakete durchs Zimmer. Was bin ich?",
+    "options": [
+      "Nagelknipser",
+      "Schere",
+      "Messer",
+      "Feile"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Späne landen immer woanders.",
+      "wrong": "Falsch! Es ist das Werkzeug für Nägel."
+    },
+    "id": "rid_262"
+  },
+  {
+    "question": "Es trägt Gläser ruhig und feiert an der ersten Schwelle ein Scherbenfest. Was bin ich?",
+    "options": [
+      "Teller",
+      "Schneidebrett",
+      "Korb",
+      "Tablett"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Tablett endet in der Katastrophe.",
+      "wrong": "Falsch! Es trägt Geschirr."
+    },
+    "id": "rid_263"
+  },
+  {
+    "question": "Es nimmt jeden Messerschnitt, trinkt Kimchi-Saft und bleibt rot gefärbt. Was bin ich?",
+    "options": [
+      "Teller",
+      "Schneidebrett",
+      "Tablett",
+      "Spültuch"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein einmal gefärbtes Brett bleibt rot.",
+      "wrong": "Falsch! Es ist die Unterlage zum Schneiden."
+    },
+    "id": "rid_264"
+  },
+  {
+    "question": "Es wird in der Tasche warm und wird am kalten Abend zum Stein. Was bin ich?",
+    "options": [
+      "Thermoskanne",
+      "Wärmepad",
+      "Handwärmer",
+      "Wärmflasche"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Heiß ein Traum, kalt ein Stein.",
+      "wrong": "Falsch! Es ist der Beutel zum Händewärmen."
+    },
+    "id": "rid_265"
+  },
+  {
+    "question": "Es hält Brot ruhig und schießt es im Tagtraum wie eine Rakete hoch. Was bin ich?",
+    "options": [
+      "Toaster",
+      "Mikrowelle",
+      "Backofen",
+      "Heißluftfritteuse"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Klacken erschreckt jedes Mal.",
+      "wrong": "Falsch! Es ist das Gerät zum Toasten."
+    },
+    "id": "rid_266"
+  },
+  {
+    "question": "Zum Reinigen in einen Strohhalm geschoben, verkeilt es sich und fordert ein Duell. Was bin ich?",
+    "options": [
+      "Zahnbürste",
+      "Wattestäbchen",
+      "Pinsel",
+      "Strohhalmbürste"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Bürste steckt fest und geht nicht raus.",
+      "wrong": "Falsch! Es ist die dünne Bürste für Röhrchen."
+    },
+    "id": "rid_267"
+  },
+  {
+    "question": "Du drehst, um Eis zu lösen, doch statt Eis bricht der eigene Körper. Was bin ich?",
+    "options": [
+      "Kühlpack",
+      "Eiswürfelform",
+      "Flasche",
+      "Schüssel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Form knackt beim Drehen.",
+      "wrong": "Falsch! Es ist die Form zum Frieren."
+    },
+    "id": "rid_268"
+  },
+  {
+    "question": "Sonst still in der Ecke, nur bei verstopfter Toilette beschworen. Was bin ich?",
+    "options": [
+      "Toilette",
+      "Abfluss",
+      "Pömpel",
+      "Reinigungsbürste"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Pömpel kommt nur in der Krise.",
+      "wrong": "Falsch! Es ist das Werkzeug gegen Verstopfung."
+    },
+    "id": "rid_269"
+  },
+  {
+    "question": "Es bewacht das Paket und plaudert beim Drauftreten aus, dass du es heimlich geöffnet hast. Was bin ich?",
+    "options": [
+      "Luftpolsterfolie",
+      "Plastik",
+      "Styropor",
+      "Klebeband"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Luftpolsterfolie gesteht beim Treten.",
+      "wrong": "Falsch! Es ist die knallende Verpackungsfolie."
+    },
+    "id": "rid_270"
+  },
+  {
+    "question": "Es zieht verborgene Chili-Reste heraus, obwohl du fertig geputzt glaubst. Was bin ich?",
+    "options": [
+      "Zahnbürste",
+      "Zahnstocher",
+      "Mundspülung",
+      "Zahnseide"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Zahnseide findet die Versteckten.",
+      "wrong": "Falsch! Es ist der Faden zwischen den Zähnen."
+    },
+    "id": "rid_271"
+  },
+  {
+    "question": "Zieh am Ring und es gibt Thunfisch, doch unachtsam schneidet es den Finger. Was bin ich?",
+    "options": [
+      "Flaschenverschluss",
+      "Dosendeckel",
+      "Dosenöffner",
+      "Folie"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Dosendeckel zielt auf die Fingerspitze.",
+      "wrong": "Falsch! Es ist der Deckel auf der Dose."
+    },
+    "id": "rid_272"
+  },
+  {
+    "question": "Es hält Tippen aus und rollt weg, sobald du es ersetzen willst. Was bin ich?",
+    "options": [
+      "Ladegerät",
+      "Glühbirne",
+      "Batterie",
+      "Schalter"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Batterie verschwindet genau dann.",
+      "wrong": "Falsch! Es ist die runde Zelle für Strom."
+    },
+    "id": "rid_273"
+  },
+  {
+    "question": "Voll sanft, zwingt es dich bei Restbestand zum Krafttest. Was bin ich?",
+    "options": [
+      "Zahnpasta",
+      "Seife",
+      "Shampoo",
+      "Spülung"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Beim letzten Drücken zittern die Hände.",
+      "wrong": "Falsch! Es ist zum Zähneputzen."
+    },
+    "id": "rid_274"
+  },
+  {
+    "question": "Du willst es einstecken, doch erst beim dritten Umdrehen passt es. Was bin ich?",
+    "options": [
+      "SD-Karte",
+      "Ladegerät",
+      "Ohrhörer",
+      "USB-Stick"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "tech",
+    "kkaebi_reaction": {
+      "correct": "Richtig! USB braucht immer drei Versuche.",
+      "wrong": "Falsch! Es ist der Stick für Dateien."
+    },
+    "id": "rid_275"
+  },
+  {
+    "question": "Beißt du hastig hinein, entkommt die Füllung und hinterlässt Flecken. Was bin ich?",
+    "options": [
+      "Gimbap",
+      "Dreiecks-Gimbap",
+      "Reisball",
+      "Sandwich"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Füllung flieht immer zuerst.",
+      "wrong": "Falsch! Es ist Reis in Dreiecksalgen."
+    },
+    "id": "rid_276"
+  },
+  {
+    "question": "Damit läufst du mit roter Soße am Mund herum und wirst sofort erkannt. Was bin ich?",
+    "options": [
+      "Ramen",
+      "Blutwurst",
+      "Tteokbokki",
+      "Fischkuchen"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Tteokbokki-Soße bleibt am Mund.",
+      "wrong": "Falsch! Es sind Reiskuchen in roter Soße."
+    },
+    "id": "rid_277"
+  },
+  {
+    "question": "Kaum legst du dich hin, knarrt es und verrät es dem ganzen Haus. Was bin ich?",
+    "options": [
+      "Sofa",
+      "Bett",
+      "Stuhl",
+      "Matte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Sofa knarrt beim Hinlegen.",
+      "wrong": "Falsch! Es ist die lange Sitzbank im Wohnzimmer."
+    },
+    "id": "rid_278"
+  },
+  {
+    "question": "Drückst du es zu spät nach verpasster Haltestelle, dreht sich der ganze Bus um. Was bin ich?",
+    "options": [
+      "Haltestange",
+      "Knopf",
+      "Ansage",
+      "Haltewunschtaste"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "transit",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Spät gedrückt klingelt es lauter.",
+      "wrong": "Falsch! Es ist die Taste zum Aussteigen."
+    },
+    "id": "rid_279"
+  },
+  {
+    "question": "Drückst du zu fest, bricht es sich selbst das Kreuz und streikt. Was bin ich?",
+    "options": [
+      "Bleistiftmine",
+      "Druckbleistiftmine",
+      "Kugelschreibermine",
+      "Wachsmalstift"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Mine bricht immer in der Prüfung.",
+      "wrong": "Falsch! Es ist die dünne Mine im Druckbleistift."
+    },
+    "id": "rid_280"
+  },
+  {
+    "question": "Kopf hinein und drehen macht spitz; ist es voll, hustet es Späne. Was bin ich?",
+    "options": [
+      "Radiergummi",
+      "Lineal",
+      "Spitzer",
+      "Schere"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Spitzer lässt Holzspäne heraus.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Anspitzen."
+    },
+    "id": "rid_281"
+  },
+  {
+    "question": "Lässt du den Deckel offen, trocknet es zum Stein. Was bin ich?",
+    "options": [
+      "Klebestift",
+      "Holzleim",
+      "Klebeband",
+      "Kleber"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Klebestift wird einfach hart.",
+      "wrong": "Falsch! Es ist der Stiftkleber für Papier."
+    },
+    "id": "rid_282"
+  },
+  {
+    "question": "Auf dem Rücken getragen, wird es zu Hause zuerst auf den Boden geworfen. Was bin ich?",
+    "options": [
+      "Tasche",
+      "Stoffbeutel",
+      "Beuteltasche",
+      "Schulranzen"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Ranzen wird getragen und weggeworfen.",
+      "wrong": "Falsch! Es ist die Tasche für Bücher."
+    },
+    "id": "rid_283"
+  },
+  {
+    "question": "Es behauptet, hier komme die Prüfung dran, und verschwindet im Test aus dem Kopf. Was bin ich?",
+    "options": [
+      "Kugelschreiber",
+      "Textmarker",
+      "Buntstift",
+      "Filzstift"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Markierte Stellen kommen nie dran.",
+      "wrong": "Falsch! Es ist der Stift für wichtige Zeilen."
+    },
+    "id": "rid_284"
+  },
+  {
+    "question": "Auf den Rücken geklebt hält es, doch die Prüfungsnotiz fliegt im Wind weg. Was bin ich?",
+    "options": [
+      "Notizzettel",
+      "Aufkleber",
+      "Haftnotiz",
+      "Papier"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Haftnotizen fliegen gerade dann weg.",
+      "wrong": "Falsch! Es ist der kleine Zettel zum Kleben."
+    },
+    "id": "rid_285"
+  },
+  {
+    "question": "Es bindet die Haare und reißt im schlimmsten Moment mit einem Zing. Was bin ich?",
+    "options": [
+      "Haargummi",
+      "Haarnadel",
+      "Haarreif",
+      "Kamm"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Gummi reißt immer in Eile.",
+      "wrong": "Falsch! Es ist das Band für die Haare."
+    },
+    "id": "rid_286"
+  },
+  {
+    "question": "Ein Blatt würde reichen, doch in Eile kommen sie wie Würste hintereinander. Was bin ich?",
+    "options": [
+      "Toilettenpapier",
+      "Taschentuch",
+      "Küchenpapier",
+      "Feuchttücher"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! In Eile kommen die Tücher in Kette.",
+      "wrong": "Falsch! Es ist das feuchte Tuch."
+    },
+    "id": "rid_287"
+  },
+  {
+    "question": "Beim Putzen spritzt es einem Freund absichtlich kaltes Wasser in den Nacken. Was bin ich?",
+    "options": [
+      "Gießkanne",
+      "Sprühflasche",
+      "Wasserpistole",
+      "Schlauch"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Sprühflasche trifft immer falsch.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Sprühen."
+    },
+    "id": "rid_288"
+  },
+  {
+    "question": "In der stillen Lernstunde macht es 'Riiip' und zieht alle Blicke auf sich. Was bin ich?",
+    "options": [
+      "Knopf",
+      "Reißverschluss",
+      "Klettverschluss",
+      "Schnur"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Klett macht gerade dann Lärm.",
+      "wrong": "Falsch! Es ist der Klett zum Kleben."
+    },
+    "id": "rid_289"
+  },
+  {
+    "question": "Weich beim Sitzen, fällt es beim Aufstehen und hakt deinen Knöchel. Was bin ich?",
+    "options": [
+      "Sitzkissen",
+      "Kissen",
+      "Kopfkissen",
+      "Matte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Kissen fällt beim Aufstehen.",
+      "wrong": "Falsch! Es ist die weiche Auflage am Stuhl."
+    },
+    "id": "rid_290"
+  },
+  {
+    "question": "Rollst du es über die Uniform, beweist es, wie lange du nicht geputzt hast. Was bin ich?",
+    "options": [
+      "Besen",
+      "Staubsauger",
+      "Staubwedel",
+      "Fusselroller"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Fusselroller verbirgt nichts.",
+      "wrong": "Falsch! Es ist die Kleberolle für Staub."
+    },
+    "id": "rid_291"
+  },
+  {
+    "question": "Es hält das Brett gut und wartet am Boden, um nackte Füße zu pieksen. Was bin ich?",
+    "options": [
+      "Nagel",
+      "Reißzwecke",
+      "Klammmer",
+      "Magnet"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Reißzwecke zielt auf nackte Füße.",
+      "wrong": "Falsch! Es ist der kleine Stift für Notizen."
+    },
+    "id": "rid_292"
+  },
+  {
+    "question": "Du steckst es in das Loch im Milchkarton, doch der eigene Hals knickt. Was bin ich?",
+    "options": [
+      "Strohhalm",
+      "Stäbchen",
+      "Flexstrohhalm",
+      "Gabel"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Knickstelle ist die Schwachstelle.",
+      "wrong": "Falsch! Es ist der Strohhalm mit Knick."
+    },
+    "id": "rid_293"
+  },
+  {
+    "question": "Ihr schlagt es hin und her, bis es im Deckenrahmen der Halle steckt. Was bin ich?",
+    "options": [
+      "Federball",
+      "Tischtennisball",
+      "Schläger",
+      "Ball"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Federball landet unerreichbar.",
+      "wrong": "Falsch! Es ist der gefiederte Ball im Badminton."
+    },
+    "id": "rid_294"
+  },
+  {
+    "question": "Es hüpft leicht und bleibt nach einem Tritt für immer verbeult. Was bin ich?",
+    "options": [
+      "Federball",
+      "Baseball",
+      "Fußball",
+      "Tischtennisball"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Delle und es ist vorbei.",
+      "wrong": "Falsch! Es ist der kleine Ball auf dem Tisch."
+    },
+    "id": "rid_295"
+  },
+  {
+    "question": "Zum Abstauben gedacht, zieht es per Statik jeden Staub an. Was bin ich?",
+    "options": [
+      "Kamm",
+      "Kleiderbürste",
+      "Pinsel",
+      "Staubwedel"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Je mehr du bürstest, desto mehr haftet.",
+      "wrong": "Falsch! Es ist die Bürste für Kleidung."
+    },
+    "id": "rid_296"
+  },
+  {
+    "question": "Du wendest das Spiegelei und es platzt das Eigelb, ruiniert den Look. Was bin ich?",
+    "options": [
+      "Schöpfkelle",
+      "Reiswender",
+      "Pfannenwender",
+      "Zange"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Wender platzt genau dann.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Wenden."
+    },
+    "id": "rid_297"
+  },
+  {
+    "question": "Du schöpfst Eintopf, rutschst am Griff und tauchst in die Suppe. Was bin ich?",
+    "options": [
+      "Schöpfkelle",
+      "Reiswender",
+      "Pfannenwender",
+      "Löffel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Kelle taucht immer in die Suppe.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Schöpfen."
+    },
+    "id": "rid_298"
+  },
+  {
+    "question": "Zu schnell in einen engen Hals gegossen, läuft es gleich wieder über. Was bin ich?",
+    "options": [
+      "Schöpfkelle",
+      "Tasse",
+      "Kessel",
+      "Trichter"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Trichter läuft bei Eile über.",
+      "wrong": "Falsch! Es ist das Werkzeug für enge Öffnungen."
+    },
+    "id": "rid_299"
+  },
+  {
+    "question": "Zum Sport ausgelegt, wird es beim Hinlegen zur Nickerchen-Matratze. Was bin ich?",
+    "options": [
+      "Picknickdecke",
+      "Yogamatte",
+      "Matratze",
+      "Decke"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Yogamatte lädt zum Nickerchen.",
+      "wrong": "Falsch! Es ist die Matte zum Sport."
+    },
+    "id": "rid_300"
+  },
+  {
+    "question": "Es lindert die schmerzende Stelle und reißt beim Abziehen Haut und Haare. Was bin ich?",
+    "options": [
+      "Pflaster",
+      "Salbe",
+      "Wärmepflaster",
+      "Mullbinde"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "health",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Abziehen ist der Kampf.",
+      "wrong": "Falsch! Es ist das Pflaster für Schmerzen."
+    },
+    "id": "rid_301"
+  },
+  {
+    "question": "Es lässt deinen Atem und Herzschlag in den Ohren donnern. Was bin ich?",
+    "options": [
+      "Ohrstöpsel",
+      "Ohrhörer",
+      "Augenmaske",
+      "Kopfhörer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Mit Stöpseln wird das Herz lauter.",
+      "wrong": "Falsch! Es ist der kleine Stöpsel fürs Ohr."
+    },
+    "id": "rid_302"
+  },
+  {
+    "question": "Du kochst Ramen, reißt den Deckel auf und ein Tropfen fällt auf den Fuß. Was bin ich?",
+    "options": [
+      "Pfanne",
+      "Teller",
+      "Tablett",
+      "Topfdeckel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Deckel hält heiße Tropfen.",
+      "wrong": "Falsch! Es ist der Deckel für den Topf."
+    },
+    "id": "rid_303"
+  },
+  {
+    "question": "Es schließt die Daunenjacke und beißt dann ins Futter. Was bin ich?",
+    "options": [
+      "Knopf",
+      "Reißverschluss",
+      "Klettverschluss",
+      "Schnur"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Reißverschluss packt immer den Stoff.",
+      "wrong": "Falsch! Es ist der Verschluss der Jacke."
+    },
+    "id": "rid_304"
+  },
+  {
+    "question": "In der Waschmaschine wickelt es einen fremden Ärmel ein und klumpt alles. Was bin ich?",
+    "options": [
+      "Korb",
+      "Waschmaschine",
+      "Wäschenetz",
+      "Wäscheständer"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Netz verheddert sich mit anderer Wäsche.",
+      "wrong": "Falsch! Es ist das Netz für Wäsche."
+    },
+    "id": "rid_305"
+  },
+  {
+    "question": "Einmal Händewaschen und es wird schmuddelig und löst sich. Was bin ich?",
+    "options": [
+      "Pflaster",
+      "Mullbinde",
+      "Gaze",
+      "Heftpflaster"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Einmal waschen und das Pflaster ist hin.",
+      "wrong": "Falsch! Es ist das Pflaster auf der Wunde."
+    },
+    "id": "rid_306"
+  },
+  {
+    "question": "Es kratzt ein juckendes Ohr und ein Niesen bringt Qual. Was bin ich?",
+    "options": [
+      "Wattestäbchen",
+      "Zahnstocher",
+      "Pinzette",
+      "Ohrlöffel"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Nie zu tief hinein mit dem Löffel.",
+      "wrong": "Falsch! Es ist das Werkzeug fürs Ohr."
+    },
+    "id": "rid_307"
+  },
+  {
+    "question": "Selbst wenn du sagst, du hast kaum gekauft, verrät es dich mit deinem Taillenmaß. Was bin ich?",
+    "options": [
+      "Lineal",
+      "Maßband",
+      "Waage",
+      "Tasse"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Maßband lässt keine Lüge zu.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Messen."
+    },
+    "id": "rid_308"
+  },
+  {
+    "question": "Es bindet ein paar Ausdrucke und verkettet sich in der Federtasche. Was bin ich?",
+    "options": [
+      "Tacker",
+      "Reißzwecke",
+      "Büroklammer",
+      "Klemme"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Büroklammern verknoten sich immer.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Binden."
+    },
+    "id": "rid_309"
+  },
+  {
+    "question": "Im Restaurant gräbt es Chilipulver zwischen den Zähnen aus. Was bin ich?",
+    "options": [
+      "Zahnstocher",
+      "Stäbchen",
+      "Gabel",
+      "Zahnseide"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Zahnstocher findet jedes Versteck.",
+      "wrong": "Falsch! Es ist der kleine Stab für die Zähne."
+    },
+    "id": "rid_310"
+  },
+  {
+    "question": "Gestern nicht getrocknet und zusammengeknüllt, riecht es nach Putzlappen. Was bin ich?",
+    "options": [
+      "Spültuch",
+      "Decke",
+      "Taschentuch",
+      "Handtuch"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Handtuch riecht nach einem Tag.",
+      "wrong": "Falsch! Es ist das Tuch zum Abtrocknen."
+    },
+    "id": "rid_311"
+  },
+  {
+    "question": "Es schneidet Buntpapier und wird nach Klebeband steif und streikt. Was bin ich?",
+    "options": [
+      "Messer",
+      "Schere",
+      "Cutter",
+      "Säge"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Klebeband verklebt die Klingen.",
+      "wrong": "Falsch! Es ist das Werkzeug zum Schneiden."
+    },
+    "id": "rid_312"
+  },
+  {
+    "question": "Du schwingst nach einer Mücke und triffst das kleine Geschwister. Was bin ich?",
+    "options": [
+      "Mückenspirale",
+      "Hand",
+      "Fliegenklatsche",
+      "Stock"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Klatsche trifft immer falsch.",
+      "wrong": "Falsch! Es ist das Werkzeug für Insekten."
+    },
+    "id": "rid_313"
+  },
+  {
+    "question": "Streckst du den Fuß zu seinen offenen Beinen, tritt es wie Eisen ans Schienbein. Was bin ich?",
+    "options": [
+      "Klapptisch",
+      "Schreibtisch",
+      "Esstisch",
+      "Stuhl"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Seine Beine zielen aufs Schienbein.",
+      "wrong": "Falsch! Es ist der kleine Tisch mit Klappbeinen."
+    },
+    "id": "rid_314"
+  },
+  {
+    "question": "Es klimpert in der Tasche und versteckt sich beim Fall unter dem Automaten. Was bin ich?",
+    "options": [
+      "Geldschein",
+      "Karte",
+      "Knopf",
+      "Münze"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Münze rollt unter den Automaten.",
+      "wrong": "Falsch! Es ist das runde, harte Geld."
+    },
+    "id": "rid_315"
   }
 ]

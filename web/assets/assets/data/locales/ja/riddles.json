@@ -4588,5 +4588,1085 @@
       "wrong": "ぶっぶー！春の夜の三つの星が作る三角形だよ！"
     },
     "id": "rid_255"
+  },
+  {
+    "question": "ボタンが取れたとき密かに代わりを務めるが、動くたびに肌をチクチク刺して怠けを見破るものは?",
+    "options": [
+      "クリップ",
+      "安全ピン",
+      "画鋲",
+      "ボタン"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 安全ピンは急場の代役だが、チクチク刺す憎い奴だ。",
+      "wrong": "残念! ボタンの代わりに刺す小さなピンだぞ。"
+    },
+    "id": "rid_256"
+  },
+  {
+    "question": "残り物を包むふりをして、自分同士でくっついて丸まってしまうものは?",
+    "options": [
+      "アルミホイル",
+      "キッチンペーパー",
+      "ラップ",
+      "ビニール袋"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! ラップは必ず自分同士でくっつく。",
+      "wrong": "残念! 食べ物に掛ける薄いフィルムだぞ。"
+    },
+    "id": "rid_257"
+  },
+  {
+    "question": "ベランダの風で服が飛ばぬよう咥えていて、肩に角の跡を残すものは?",
+    "options": [
+      "洗濯バサミ",
+      "安全ピン",
+      "磁石",
+      "クリップ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "正解! 洗濯バサミの跡はなぜあんなに濃いのか。",
+      "wrong": "残念! 物干しに服を挟む道具だぞ。"
+    },
+    "id": "rid_258"
+  },
+  {
+    "question": "キャップを爽快に開けるつもりが、力加減を誤ると天井へ噴き上げるものは?",
+    "options": [
+      "ハサミ",
+      "スパナ",
+      "コルク抜き",
+      "栓抜き"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! 栓抜きは力加減が肝心だ。",
+      "wrong": "残念! 瓶の蓋を開ける道具だぞ。"
+    },
+    "id": "rid_259"
+  },
+  {
+    "question": "唐辛子の粉を体に埋め込み、永遠に吐き出さない食器洗いの道具は?",
+    "options": [
+      "ふきん",
+      "スポンジたわし",
+      "スポンジ",
+      "ブラシ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! たわしはキムチの色が落ちない。",
+      "wrong": "残念! 食器を洗う泡立つ道具だぞ。"
+    },
+    "id": "rid_260"
+  },
+  {
+    "question": "お湯が沸くまで大人しいのに、中が煮立つと町中に悲鳴を上げるものは?",
+    "options": [
+      "鍋",
+      "フライパン",
+      "やかん",
+      "カップ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! やかんは沸騰すると笛を吹く。",
+      "wrong": "残念! お湯を沸かす道具だぞ。"
+    },
+    "id": "rid_261"
+  },
+  {
+    "question": "爪を切るふりをして、切った破片を部屋の反対側までロケットのように飛ばすものは?",
+    "options": [
+      "爪切り",
+      "ハサミ",
+      "ナイフ",
+      "やすり"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 爪切りの破片はいつも変な所に落ちる。",
+      "wrong": "残念! 爪を整える道具だぞ。"
+    },
+    "id": "rid_262"
+  },
+  {
+    "question": "コップを穏やかに運ぶふりをして、敷居ひとつで大惨事を起こすものは?",
+    "options": [
+      "皿",
+      "まな板",
+      "かご",
+      "お盆"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! お盆はバランスを崩すと大惨事だ。",
+      "wrong": "残念! 食器を載せて運ぶ道具だぞ。"
+    },
+    "id": "rid_263"
+  },
+  {
+    "question": "包丁を全身で受け止め、キムチの汁を浴びて真っ赤に染まるものは?",
+    "options": [
+      "皿",
+      "まな板",
+      "お盆",
+      "ふきん"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! まな板は一度染まると落ちない。",
+      "wrong": "残念! その上で包丁を使う板だぞ。"
+    },
+    "id": "rid_264"
+  },
+  {
+    "question": "ポケットで熱くなり、寒い夕方には硬い石に変わるものは?",
+    "options": [
+      "魔法瓶",
+      "温熱パック",
+      "カイロ",
+      "湯たんぽ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! カイロは熱い時は天国、冷めれば石だ。",
+      "wrong": "残念! 手を温める袋型の暖房だぞ。"
+    },
+    "id": "rid_265"
+  },
+  {
+    "question": "パンを大人しく抱えていて、油断した瞬間ミサイルのように飛び出して人を驚かすものは?",
+    "options": [
+      "トースター",
+      "電子レンジ",
+      "オーブン",
+      "エアフライヤー"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! トースターの「カチッ」はいつも心臓を跳ねさせる。",
+      "wrong": "残念! パンを焼く機械だぞ。"
+    },
+    "id": "rid_266"
+  },
+  {
+    "question": "ストローの中を掃除しようと入ったら毛が詰まって決闘を申し込む道具は?",
+    "options": [
+      "歯ブラシ",
+      "綿棒",
+      "筆",
+      "ストローブラシ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! ストローブラシは挿すと抜けない。",
+      "wrong": "残念! 細い管を洗うブラシだぞ。"
+    },
+    "id": "rid_267"
+  },
+  {
+    "question": "氷を出そうとひねったら、氷ではなく自分の胴が割れるものは?",
+    "options": [
+      "保冷パック",
+      "製氷皿",
+      "水瓶",
+      "器"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! 製氷皿はひねるとパキッと割れる。",
+      "wrong": "残念! 氷を凍らせる型だぞ。"
+    },
+    "id": "rid_268"
+  },
+  {
+    "question": "普段はトイレの隅で静かで、便器が詰まった瞬間だけ召喚される救世主は?",
+    "options": [
+      "便器",
+      "排水口",
+      "ラバーカップ",
+      "掃除ブラシ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正解! ラバーカップは危機の時だけ登場する。",
+      "wrong": "残念! 詰まりを疏通する道具だぞ。"
+    },
+    "id": "rid_269"
+  },
+  {
+    "question": "荷物を守るふりをして、踏むたびにパチパチ鳴って密かに開けたのをばらすものは?",
+    "options": [
+      "プチプチ",
+      "ビニール",
+      "発泡スチロール",
+      "テープ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! プチプチは踏むと自白する。",
+      "wrong": "残念! 梱包に使う気泡フィルムだぞ。"
+    },
+    "id": "rid_270"
+  },
+  {
+    "question": "磨き終えたと思った口の中から、隠れていた唐辛子を捕まえるものは?",
+    "options": [
+      "歯ブラシ",
+      "つまようじ",
+      "うがい薬",
+      "デンタルフロス"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正解! フロスは隠れた物を必ず見つける。",
+      "wrong": "残念! 歯の間を掃除する糸だぞ。"
+    },
+    "id": "rid_271"
+  },
+  {
+    "question": "リングを引くとツナをくれるが、油断すると指を切る鋼の盾は?",
+    "options": [
+      "瓶の蓋",
+      "缶の蓋",
+      "缶切り",
+      "アルミホイル"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! 缶の蓋はいつも指先を狙う。",
+      "wrong": "残念! 缶の上を覆う蓋だぞ。"
+    },
+    "id": "rid_272"
+  },
+  {
+    "question": "リモコンを叩く時は耐えるのに、交換しようと蓋を開けると床の下へ消えるものは?",
+    "options": [
+      "充電器",
+      "電球",
+      "電池",
+      "スイッチ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 電池は必要な時ほど転がって消える。",
+      "wrong": "残念! 電源を入れる丸い粒だぞ。"
+    },
+    "id": "rid_273"
+  },
+  {
+    "question": "パンパンの時は滑らかに出て、細ると握力を試させるものは?",
+    "options": [
+      "歯磨き粉",
+      "石けん",
+      "シャンプー",
+      "リンス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正解! 歯磨き粉は最後まで絞ると手が震える。",
+      "wrong": "残念! 歯を磨くのに使う物だぞ。"
+    },
+    "id": "rid_274"
+  },
+  {
+    "question": "パソコンに挿そうとするが前後が合わず、何度も裏返させるものは?",
+    "options": [
+      "SDカード",
+      "充電器",
+      "イヤホン",
+      "USBメモリ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "tech",
+    "kkaebi_reaction": {
+      "correct": "正解! USBはなぜ必ず三回裏返すのか!",
+      "wrong": "残念! ファイルを入れて挿す記憶装置だぞ。"
+    },
+    "id": "rid_275"
+  },
+  {
+    "question": "急いでかじると具が逃げて服に跡を残すものは?",
+    "options": [
+      "キンパ",
+      "三角キンパ",
+      "おにぎり",
+      "サンドイッチ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正解! 三角キンパはいつも具が先に逃げる。",
+      "wrong": "残念! 三角の海苔で包んだご飯だぞ。"
+    },
+    "id": "rid_276"
+  },
+  {
+    "question": "口元に赤いソースを付けて歩くと友達にすぐ見破られる食べ物は?",
+    "options": [
+      "ラーメン",
+      "スンデ",
+      "トッポッキ",
+      "さつま揚げ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正解! トッポッキのソースは口元に残る。",
+      "wrong": "残念! 赤いタレで餅を炒めた料理だぞ。"
+    },
+    "id": "rid_277"
+  },
+  {
+    "question": "昼寝しようと横になった途端、きしむ音で家中に知らせる家具は?",
+    "options": [
+      "ソファ",
+      "ベッド",
+      "椅子",
+      "マット"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正解! ソファは横になると必ずきしむ。",
+      "wrong": "残念! 居間に置いて座る長い家具だぞ。"
+    },
+    "id": "rid_278"
+  },
+  {
+    "question": "停留所を通り過ぎてから押すと、車内全員が振り向くものは?",
+    "options": [
+      "つり革",
+      "ボタン",
+      "案内放送",
+      "降車ボタン"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "transit",
+    "kkaebi_reaction": {
+      "correct": "正解! 降車ボタンは遅く押すほど騒がしい。",
+      "wrong": "残念! 降りるときに押すベルだぞ。"
+    },
+    "id": "rid_279"
+  },
+  {
+    "question": "力を込めて書くと自ら腰を折ってストライキするものは?",
+    "options": [
+      "鉛筆の芯",
+      "シャープペン芯",
+      "ボールペン芯",
+      "クレヨン"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! シャープ芯は試験中に必ず折れる。",
+      "wrong": "残念! シャープペンに入れる細い芯だぞ。"
+    },
+    "id": "rid_280"
+  },
+  {
+    "question": "頭を入れて回さないと尖らず、腹が満ちると削り屑を吐くものは?",
+    "options": [
+      "消しゴム",
+      "定規",
+      "鉛筆削り",
+      "ハサミ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 鉛筆削りは木の屑を出す。",
+      "wrong": "残念! 鉛筆を削る道具だぞ。"
+    },
+    "id": "rid_281"
+  },
+  {
+    "question": "蓋を閉めないと自分から乾いて石になるものは?",
+    "options": [
+      "スティックのり",
+      "木工用ボンド",
+      "テープ",
+      "接着剤"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! スティックのりは閉めないと固まる。",
+      "wrong": "残念! 紙を貼る棒状のりだぞ。"
+    },
+    "id": "rid_282"
+  },
+  {
+    "question": "背中に背負われて重い本を運び、家に着くと真っ先に床へ投げられるものは?",
+    "options": [
+      "かばん",
+      "エコバッグ",
+      "サブバッグ",
+      "ランドセル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! ランドセルは背負われても投げられる。",
+      "wrong": "残念! 本を入れて背負うかばんだぞ。"
+    },
+    "id": "rid_283"
+  },
+  {
+    "question": "ここが試験に出ると強調するのに、本番では頭から消えるものは?",
+    "options": [
+      "ボールペン",
+      "蛍光ペン",
+      "色鉛筆",
+      "サインペン"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 蛍光ペンの場所は試験に出ない。",
+      "wrong": "残念! 大事な所に引くペンだぞ。"
+    },
+    "id": "rid_284"
+  },
+  {
+    "question": "友達の背に貼るとよく付くのに、試験範囲のメモは風で飛ぶものは?",
+    "options": [
+      "メモ用紙",
+      "シール",
+      "付箋",
+      "紙"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 付箋は大事な物ほど飛んでいく。",
+      "wrong": "残念! 貼って剥がす小さなメモだぞ。"
+    },
+    "id": "rid_285"
+  },
+  {
+    "question": "髪を結ぶふりをして、肝心な瞬間に「プツン」と切れるものは?",
+    "options": [
+      "ヘアゴム",
+      "ピン",
+      "カチューシャ",
+      "くし"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! ヘアゴムは慌てている時に切れる。",
+      "wrong": "残念! 髪を結ぶゴムだぞ。"
+    },
+    "id": "rid_286"
+  },
+  {
+    "question": "一枚で十分なのに、急いで引くとソーセージのように連続で出るものは?",
+    "options": [
+      "トイレットペーパー",
+      "ハンカチ",
+      "キッチンペーパー",
+      "ウェットティッシュ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 急ぐとウェットティッシュが連なる。",
+      "wrong": "残念! 濡らして使うティッシュだぞ。"
+    },
+    "id": "rid_287"
+  },
+  {
+    "question": "掃除の時間に友達の首筋へ冷たい水を密かにかけるものは?",
+    "options": [
+      "じょうろ",
+      "スプレーボトル",
+      "水鉄砲",
+      "ホース"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! スプレーは必ず変な所にかかる。",
+      "wrong": "残念! 水を霧状に吹く道具だぞ。"
+    },
+    "id": "rid_288"
+  },
+  {
+    "question": "静かな自習時間に「ビリッ」と音を立ててクラス中の視線を集めるものは?",
+    "options": [
+      "ボタン",
+      "チャック",
+      "マジックテープ",
+      "ひも"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! マジックテープは静かな時ほど鳴る。",
+      "wrong": "残念! 貼って剥がすベルクロだぞ。"
+    },
+    "id": "rid_289"
+  },
+  {
+    "question": "座れば柔らかいのに、立つ時ぽとりと落ちて足首を引っ掛けるものは?",
+    "options": [
+      "座布団",
+      "クッション",
+      "枕",
+      "マット"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 座布団は立つ時に必ず足元へ落ちる。",
+      "wrong": "残念! 椅子に敷く柔らかい物だぞ。"
+    },
+    "id": "rid_290"
+  },
+  {
+    "question": "制服に転がすと、掃除をどれだけ怠けたか証明するものは?",
+    "options": [
+      "ほうき",
+      "掃除機",
+      "はたき",
+      "コロコロ"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正解! コロコロは隠し事を許さない。",
+      "wrong": "残念! 粘着ローラーで埃を取る道具だぞ。"
+    },
+    "id": "rid_291"
+  },
+  {
+    "question": "掲示板をよく留めるのに、床に落ちるとスリッパを貫いて足裏を刺すものは?",
+    "options": [
+      "釘",
+      "画鋲",
+      "クリップ",
+      "磁石"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 画鋲はいつも素足を狙う。",
+      "wrong": "残念! 掲示物を刺す小さな釘だぞ。"
+    },
+    "id": "rid_292"
+  },
+  {
+    "question": "牛乳パックの穴に挿そうとしたら、自分の首だけ曲がるものは?",
+    "options": [
+      "ストロー",
+      "箸",
+      "曲がるストロー",
+      "フォーク"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! 曲がる部分が弱いのだ。",
+      "wrong": "残念! 折れ曲がる関節のあるストローだぞ。"
+    },
+    "id": "rid_293"
+  },
+  {
+    "question": "楽しく打ち合っていたら、体育館の天井骨組みに挟まるものは?",
+    "options": [
+      "シャトル",
+      "ピンポン玉",
+      "ラケット",
+      "ボール"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正解! シャトルは届かない所に挟まる。",
+      "wrong": "残念! バドミントンで打つ羽根の球だぞ。"
+    },
+    "id": "rid_294"
+  },
+  {
+    "question": "軽く弾むのに、強く踏まれるとへこんで戻らない繊細な心は?",
+    "options": [
+      "シャトル",
+      "野球ボール",
+      "サッカーボール",
+      "ピンポン玉"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正解! ピンポン玉は一度へこむと終わりだ。",
+      "wrong": "残念! 台の上で弾む小さな球だぞ。"
+    },
+    "id": "rid_295"
+  },
+  {
+    "question": "埃を払うために使ったのに、静電気で世界中の埃を引き寄せるものは?",
+    "options": [
+      "くし",
+      "洋服ブラシ",
+      "筆",
+      "はたき"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! ブラシは払うほど埃が付く。",
+      "wrong": "残念! 服の埃を払うブラシだぞ。"
+    },
+    "id": "rid_296"
+  },
+  {
+    "question": "目玉焼きを返そうとして黄身を割り、見た目を台無しにするものは?",
+    "options": [
+      "お玉",
+      "しゃもじ",
+      "フライ返し",
+      "トング"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! フライ返しはその瞬間に黄身を割る。",
+      "wrong": "残念! 料理を返す道具だぞ。"
+    },
+    "id": "rid_297"
+  },
+  {
+    "question": "鍋物をすくおうとして鍋の取っ手で滑り、汁に飛び込むものは?",
+    "options": [
+      "お玉",
+      "しゃもじ",
+      "フライ返し",
+      "スプーン"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! お玉は必ず汁へ潜る。",
+      "wrong": "残念! 汁をすくう道具だぞ。"
+    },
+    "id": "rid_298"
+  },
+  {
+    "question": "狭い口に注ぐつもりが、急ぐと逆流して外へこぼすものは?",
+    "options": [
+      "お玉",
+      "カップ",
+      "やかん",
+      "じょうご"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! じょうごは急ぐと溢れる。",
+      "wrong": "残念! 狭い口に注ぐ道具だぞ。"
+    },
+    "id": "rid_299"
+  },
+  {
+    "question": "運動しようと敷いたのに、横になった瞬間昼寝マットに化けるものは?",
+    "options": [
+      "レジャーシート",
+      "ヨガマット",
+      "マットレス",
+      "毛布"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "正解! ヨガマットは必ず昼寝を誘う。",
+      "wrong": "残念! 運動の時に敷くマットだぞ。"
+    },
+    "id": "rid_300"
+  },
+  {
+    "question": "痛い所をなだめるふりをして、剥がす時に肌と毛を引きちぎるものは?",
+    "options": [
+      "絆創膏",
+      "軟膏",
+      "湿布",
+      "包帯"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "health",
+    "kkaebi_reaction": {
+      "correct": "正解! 湿布は剥がす時が本番だ。",
+      "wrong": "残念! 痛い所に貼る物だぞ。"
+    },
+    "id": "rid_301"
+  },
+  {
+    "question": "自分の息と心臓の音だけを雷のように大きく聞かせるものは?",
+    "options": [
+      "耳栓",
+      "イヤホン",
+      "アイマスク",
+      "ヘッドホン"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 耳栓をすると心臓がうるさい。",
+      "wrong": "残念! 耳を塞ぐ小さな栓だぞ。"
+    },
+    "id": "rid_302"
+  },
+  {
+    "question": "ラーメンを茹でて勢いよく開けると、足の甲に雫を落とすものは?",
+    "options": [
+      "フライパン",
+      "皿",
+      "お盆",
+      "鍋の蓋"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "正解! 鍋の蓋には熱い雫が必ず付く。",
+      "wrong": "残念! 鍋を覆う蓋だぞ。"
+    },
+    "id": "rid_303"
+  },
+  {
+    "question": "ダウンを閉めるふりをして、裏地を噛んで動かなくなるものは?",
+    "options": [
+      "ボタン",
+      "ファスナー",
+      "ベルクロ",
+      "ひも"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! ファスナーは必ず布を噛む。",
+      "wrong": "残念! 服を閉じる留め具だぞ。"
+    },
+    "id": "rid_304"
+  },
+  {
+    "question": "洗濯機の中で他の服の袖をぐるぐる巻いて一塊にするものは?",
+    "options": [
+      "かご",
+      "洗濯機",
+      "洗濯ネット",
+      "物干し"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "正解! 洗濯ネットは外の服まで巻き込む。",
+      "wrong": "残念! 洗濯物を入れる網だぞ。"
+    },
+    "id": "rid_305"
+  },
+  {
+    "question": "一度手を洗うと汚れてボロボロ剥がれるものは?",
+    "options": [
+      "絆創膏",
+      "包帯",
+      "ガーゼ",
+      "ばんそうこう"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 絆創膏は一度洗うと終わりだ。",
+      "wrong": "残念! 傷に貼る物だぞ。"
+    },
+    "id": "rid_306"
+  },
+  {
+    "question": "むずむずする耳を爽快に掻くふりをして、くしゃみ一つで地獄を見せるものは?",
+    "options": [
+      "綿棒",
+      "つまようじ",
+      "ピンセット",
+      "耳かき"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 耳かきは絶対に深く入れてはならぬ。",
+      "wrong": "残念! 耳を掻く道具だぞ。"
+    },
+    "id": "rid_307"
+  },
+  {
+    "question": "「あまり買ってない」と言っても、ウエストの数字でばらすものは?",
+    "options": [
+      "定規",
+      "メジャー",
+      "体重計",
+      "カップ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! メジャーは嘘を許さない。",
+      "wrong": "残念! 長さを測る道具だぞ。"
+    },
+    "id": "rid_308"
+  },
+  {
+    "question": "プリント数枚を留めるふりをして、筆箱の中で鎖のように絡まるものは?",
+    "options": [
+      "ホチキス",
+      "画鋲",
+      "クリップ",
+      "トング"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! クリップは必ず互いに絡まる。",
+      "wrong": "残念! 紙を挟んで留める道具だぞ。"
+    },
+    "id": "rid_309"
+  },
+  {
+    "question": "食堂で歯の間に挟まった唐辛子を容赦なく掘り出すものは?",
+    "options": [
+      "つまようじ",
+      "箸",
+      "フォーク",
+      "フロス"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "正解! つまようじは隠れた物を全部見つける。",
+      "wrong": "残念! 歯の間を刺す棒だぞ。"
+    },
+    "id": "rid_310"
+  },
+  {
+    "question": "昨日から乾かさず丸めて置いたせいで、雑巾の匂いを放つものは?",
+    "options": [
+      "ふきん",
+      "毛布",
+      "ティッシュ",
+      "タオル"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "正解! タオルは乾かさないと一日で匂う。",
+      "wrong": "残念! 体を拭く布だぞ。"
+    },
+    "id": "rid_311"
+  },
+  {
+    "question": "色紙を切るふりをして、粘着テープを切った後は固まってストライキするものは?",
+    "options": [
+      "ナイフ",
+      "ハサミ",
+      "カッター",
+      "のこぎり"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "正解! ハサミは粘着を切ると調子を崩す。",
+      "wrong": "残念! 紙を切る道具だぞ。"
+    },
+    "id": "rid_312"
+  },
+  {
+    "question": "蚊を捕まえようと振ったら、無関係な弟の背中を叩いてしまうものは?",
+    "options": [
+      "蚊取り線香",
+      "手",
+      "ハエ叩き",
+      "棒"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正解! ハエ叩きは必ず的外れに当たる。",
+      "wrong": "残念! 虫を叩く道具だぞ。"
+    },
+    "id": "rid_313"
+  },
+  {
+    "question": "開いた脚に足を伸ばすと、すねを鉄のように蹴り返すものは?",
+    "options": [
+      "折りたたみ机",
+      "勉強机",
+      "食卓",
+      "椅子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "正解! 折りたたみ机の脚はすねを狙う。",
+      "wrong": "残念! 脚を畳む小さな机だぞ。"
+    },
+    "id": "rid_314"
+  },
+  {
+    "question": "ポケットで鳴っていたのに、落とすと自販機の下へ隠れるものは?",
+    "options": [
+      "紙幣",
+      "カード",
+      "ボタン",
+      "硬貨"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "正解! 硬貨は必ず自販機の下へ転がる。",
+      "wrong": "残念! 丸くて硬いお金だぞ。"
+    },
+    "id": "rid_315"
   }
 ]
