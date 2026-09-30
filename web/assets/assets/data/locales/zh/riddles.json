@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "没有脚却能长距离爬行，蜕下的皮还能入药的是什么？",
-    "options": [
-      "蚯蚓",
-      "靴子",
-      "蛇",
-      "蜥蜴"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "答对了！蛇每次蜕皮都是一次新生！",
-      "wrong": "不对！没有脚也能走遍世界的呀！"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "从早到晚追着太阳转头的花是什么？",
     "options": [
       "木槿",
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "和慢吞吞的乌龟赛跑却输了、自负的动物是谁？",
-    "options": [
-      "狐狸",
-      "鹿",
-      "马",
-      "兔子"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "答对了！兔子因自负输给了乌龟！",
-      "wrong": "不对！是和乌龟赛跑的飞快动物呀！"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "整个夏天只唱歌、冬天挨饿，与蚂蚁一起出现的昆虫是？",
     "options": [
       "蝉",
@@ -2410,24 +2374,6 @@
       "wrong": "不对！是压轴招福的生肖呀！"
     },
     "id": "rid_134"
-  },
-  {
-    "question": "咬碎谎言、分辨是非的正义神兽是？",
-    "options": [
-      "狮子",
-      "龙",
-      "虎",
-      "獬豸"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "答对了！獬豸是咬碎谎言的神兽！",
-      "wrong": "不对！是守护宫殿的正义神兽呀！"
-    },
-    "id": "rid_135"
   },
   {
     "question": "传说圣贤降世时才会现身的东方瑞兽是？",

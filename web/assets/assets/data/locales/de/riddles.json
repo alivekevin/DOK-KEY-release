@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "Was kriecht ohne Beine und häutet sich, seine Haut wird Medizin?",
-    "options": [
-      "Wurm",
-      "Stiefel",
-      "Echse",
-      "Schlange"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Jede Häutung ist für die Schlange eine Wiedergeburt!",
-      "wrong": "Daneben! Beinlos überquert sie die Welt!"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "Welche Blume dreht den Kopf den ganzen Tag der Sonne nach?",
     "options": [
       "Sonnenblume",
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "Welches prahlerische Tier verlor das Rennen gegen die langsame Schildkröte?",
-    "options": [
-      "Fuchs",
-      "Reh",
-      "Pferd",
-      "Hase"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Der Hase verlor aus Übermut!",
-      "wrong": "Daneben! Das schnelle Tier im Wettlauf!"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "Welches Insekt sang den Sommer und hungerte im Winter, mit der Ameise?",
     "options": [
       "Zikade",
@@ -2410,24 +2374,6 @@
       "wrong": "Daneben! Das letzte Tier, das Glück bringt!"
     },
     "id": "rid_134"
-  },
-  {
-    "question": "Welches Fabeltier bestraft Lügner und richtet über Recht und Unrecht?",
-    "options": [
-      "Löwe",
-      "Drache",
-      "Tiger",
-      "Haetae"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Haetae bestraft Lügen als Tier der Gerechtigkeit!",
-      "wrong": "Daneben! Das Wachttier der Gerechtigkeit!"
-    },
-    "id": "rid_135"
   },
   {
     "question": "Welches östliche Fabeltier zeigt sich, wenn ein Weiser erscheint?",

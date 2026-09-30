@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "What crawls without legs and sheds its skin as medicine?",
-    "options": [
-      "Boot",
-      "Lizard",
-      "Worm",
-      "Snake"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Correct! Every time a snake sheds its skin, it is born again!",
-      "wrong": "Nope! Legless, yet it crosses the world!"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "Which flower turns its head all day to follow the sun?",
     "options": [
       "Hibiscus",
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "Which boastful animal lost a race to the slow tortoise?",
-    "options": [
-      "Fox",
-      "Deer",
-      "Horse",
-      "Rabbit"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "Correct! The rabbit lost to the tortoise through pride!",
-      "wrong": "Nope! The fast animal that raced the tortoise!"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "Which insect sang all summer and starved in winter, paired with the ant?",
     "options": [
       "Cicada",
@@ -2410,24 +2374,6 @@
       "wrong": "Nope! The last zodiac animal that brings fortune!"
     },
     "id": "rid_134"
-  },
-  {
-    "question": "Which divine beast bites liars and judges right from wrong?",
-    "options": [
-      "Lion",
-      "Dragon",
-      "Tiger",
-      "Haetae"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "Correct! Haetae bites lies as the beast of justice!",
-      "wrong": "Nope! The guardian beast of justice before the palace!"
-    },
-    "id": "rid_135"
   },
   {
     "question": "Which Eastern mythical beast appears when a wise sage is born?",

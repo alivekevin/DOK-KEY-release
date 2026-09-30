@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "足が無いのに長く這い、脱いだ皮は薬になるものは？",
-    "options": [
-      "蛇",
-      "ミミズ",
-      "長靴",
-      "トカゲ"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "正解！蛇は脱皮するたびに生まれ変わるんだ！",
-      "wrong": "ぶっぶー！足無しで世界を渡る者さ！"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "朝から夕方まで太陽を追いて首を回す花は？",
     "options": [
       "ひまわり",
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "のろまな亀との競争に負けた、うぬぼれ屋の動物は？",
-    "options": [
-      "きつね",
-      "鹿",
-      "馬",
-      "うさぎ"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "正解！うさぎは油断して亀に負けたよ！",
-      "wrong": "ぶっぶー！亀と競争した速い動物だよ！"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "夏中歌ってばかりで冬に飢えた、蟻と共に登場する昆虫は？",
     "options": [
       "蝉",
@@ -2410,24 +2374,6 @@
       "wrong": "ぶっぶー！十二支の最後、福を呼ぶ動物だよ！"
     },
     "id": "rid_134"
-  },
-  {
-    "question": "嘘を噛み、善悪を見分ける正義の神獣は？",
-    "options": [
-      "ライオン",
-      "龍",
-      "虎",
-      "ヘテ"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "正解！ヘテは嘘を噛む正義の神獣だよ！",
-      "wrong": "ぶっぶー！宮殿前を守る正義の神獣だよ！"
-    },
-    "id": "rid_135"
   },
   {
     "question": "聖人が現れると姿を見せるという東洋の想像上の動物は？",

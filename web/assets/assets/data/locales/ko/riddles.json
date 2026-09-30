@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "다리가 없는데도 길게 기어가며, 벗은 껍질은 약이 되는 것은?",
-    "options": [
-      "뱀",
-      "도마뱀",
-      "지렁이",
-      "장화"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "정답! 뱀은 허물을 벗을 때마다 새로 태어난다깨비!",
-      "wrong": "땡! 다리 없이도 세상을 건너는 자라네!"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "아침부터 저녁까지 해를 쫓아 고개를 돌리는 꽃은?",
     "options": [
       "코스모스",
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "느림보 거북이와 달리기 경주를 해서 진, 자만심 많은 동물은?",
-    "options": [
-      "여우",
-      "사슴",
-      "말",
-      "토끼"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "정답! 토끼는 자만하다가 거북이에게 졌지!",
-      "wrong": "땡! 거북이와 경주한 빠른 동물이야!"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "여름내 노래만 부르다 겨울에 굶게 된, 개미와 함께 나오는 곤충은?",
     "options": [
       "매미",
@@ -2410,24 +2374,6 @@
       "wrong": "땡! 십이지신의 마지막, 복을 부르는 동물이야!"
     },
     "id": "rid_134"
-  },
-  {
-    "question": "동양 신수 중에서, 거짓을 물어뜯어 옳고 그름을 가리는 정의의 신수는?",
-    "options": [
-      "사자",
-      "용",
-      "호랑이",
-      "해태"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "정답! 해태는 거짓을 물어뜯는 정의의 신수야!",
-      "wrong": "땡! 궁궐 앞을 지키는 정의의 신수야!"
-    },
-    "id": "rid_135"
   },
   {
     "question": "어진 성인이 나타날 때 모습을 드러낸다는 동양의 상상 동물은?",
