@@ -378,22 +378,22 @@
     "id": "rid_022"
   },
   {
-    "question": "冬天围在脖子上才称职的柔软伙伴是什么？",
-    "options": [
-      "帽子",
-      "手套",
-      "袜子",
-      "围巾"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
+    "id": "rid_023",
+    "category": "daily",
     "difficulty": 1,
-    "category": "nature",
+    "reward_keys": 1,
+    "question": "能把脖子暖暖地裹住，可一进屋就让人自己汗流浃背、闷得发紧的是？",
+    "options": [
+      "口罩",
+      "围巾",
+      "脖套",
+      "耳罩"
+    ],
+    "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "答对了！围巾是冬天与脖颈之间的城墙！",
-      "wrong": "不对！要围在脖子上才暖和的冬友呀！"
-    },
-    "id": "rid_023"
+      "correct": "呼啦！一上公交就像进了桑拿房，汗流个不停！",
+      "wrong": "不对～解开拿着走就变成头号累赘的，是围巾。"
+    }
   },
   {
     "question": "闭上眼一听就入睡的、用妈妈的嗓音唱的歌是什么？",
@@ -1170,22 +1170,22 @@
     "id": "rid_066"
   },
   {
-    "question": "数字围成一圈，无声地催促着世界的是什么？",
+    "id": "rid_067",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "端端正正戴在手腕上出门，可每次挽袖子都勾住衬衫纽扣、把线头扯出来的是？",
     "options": [
-      "时钟",
-      "日历",
-      "指南针",
-      "温度计"
+      "手链",
+      "金属表带",
+      "橡皮圈",
+      "戒指"
     ],
-    "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
+    "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "答对了！时钟无声地报时！",
-      "wrong": "不对！要在圆形表盘上读时间的呀！"
-    },
-    "id": "rid_067"
+      "correct": "嗒！勾住心爱的针织袖口、线一路抽出来的可怕声响！",
+      "wrong": "答错！冰凉钢铁感虽好，却专啃针织线的，是金属表带。"
+    }
   },
   {
     "question": "越给予越大，越分享越深的心是什么？",
@@ -1368,22 +1368,22 @@
     "id": "rid_077"
   },
   {
-    "question": "架在鼻梁上，让模糊世界变清晰的是什么？",
+    "id": "rid_078",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "平时松松垮垮动不动就掉，可偏偏在两手提满东西时才顺着鼻尖滑下来的是？",
     "options": [
-      "帽子",
-      "眼镜",
       "口罩",
-      "项链"
+      "眼镜",
+      "帽子",
+      "耳环"
     ],
     "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "答对了！眼镜是帮你看清世界的朋友！",
-      "wrong": "不对！是戴在眼睛上的呀！"
-    },
-    "id": "rid_078"
+      "correct": "滑溜！偏在腾不出手的绝妙时刻，才来证明重力法则。",
+      "wrong": "错啦～要用肩膀或手背往上推、让人叫苦的，是眼镜。"
+    }
   },
   {
     "question": "喝汤又盛饭，餐桌上小铲子似的是什么？",
@@ -5436,22 +5436,22 @@
     "id": "rid_305"
   },
   {
-    "question": "洗一次手就变得脏兮兮、只剩一半黏不住。我是什么?",
-    "options": [
-      "创可贴",
-      "绷带",
-      "纱布",
-      "胶布"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
+    "id": "rid_306",
+    "category": "bathroom",
     "difficulty": 1,
-    "category": "daily",
+    "reward_keys": 1,
+    "question": "能无痛地包住伤口，可一洗手就吸饱水、吊儿郎当往下掉的是？",
+    "options": [
+      "膏药",
+      "创可贴",
+      "纱布",
+      "绷带"
+    ],
+    "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "正确! 创可贴洗一次就完了。",
-      "wrong": "错! 它是贴在伤口上的东西。"
-    },
-    "id": "rid_306"
+      "correct": "耷拉耷拉！写着防水功能的那行字，到底跑哪去了？",
+      "wrong": "不对～一沾水边角就发白翘起、只能撕掉的，是创可贴。"
+    }
   },
   {
     "question": "装作帮耳朵爽快掏一掏，一个喷嚏就让你尝到地狱。我是什么?",
@@ -5614,5 +5614,869 @@
       "wrong": "错! 它是又圆又硬的硬币。"
     },
     "id": "rid_315"
+  },
+  {
+    "id": "rid_327",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "能天衣无缝地盖住写错的字，可一旦在上面写字就会皱起并剥落的是？",
+    "options": [
+      "便利贴",
+      "修正带",
+      "固体胶",
+      "透明胶带"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "沙沙！用圆珠笔尖一刮，比原来的字还难看，这就是它的乐趣所在。",
+      "wrong": "答错！涂成白色后胶片又往外挤、缠成一团的，是修正带。"
+    }
+  },
+  {
+    "id": "rid_329",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "想用手指爽快地撕开，结果只撕开一个头，就裂成细细一条竖线的是？",
+    "options": [
+      "纸胶带",
+      "封箱胶带",
+      "绷带",
+      "保鲜膜"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "嘶——！用指甲找边角找得团团转，十分钟就这么没了！",
+      "wrong": "答错！斜着撕成细细一条、专考验人耐心的，是封箱胶带。"
+    }
+  },
+  {
+    "id": "rid_330",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "两个一起结伴同行，可只剩一个就什么用都没有了。它是什么？",
+    "options": [
+      "叉子",
+      "吸管",
+      "筷子",
+      "锅铲"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "必须黏在一起才有用！只剩一根就只是根细棍子。",
+      "wrong": "错！只剩一个就没用的，是筷子。"
+    }
+  },
+  {
+    "id": "rid_331",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "能把文件整理得漂漂亮亮，可只要想多塞一张，就张大嘴巴全吐出来的是？",
+    "options": [
+      "书签",
+      "订书机",
+      "回形针",
+      "文件夹"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "咔嚓！纸太厚的话，它就自己把钉书针吐出来，空咬一口。",
+      "wrong": "答错！钉在厚纸上结果钉书针被压扁的，是订书机。"
+    }
+  },
+  {
+    "id": "rid_332",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "想凉爽地喝一口就吸了上去，结果没喝到饮料，只从杯底冰块缝里发出吵人空气声的是？",
+    "options": [
+      "保温瓶",
+      "纸杯",
+      "塑料吸管",
+      "勺子"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "咕噜噜咳！在安静的图书馆里独自发出雷鸣般的巨响！",
+      "wrong": "不对～饮料喝完了却对着空气啧啧吸的声音，是吸管发出来的。"
+    }
+  },
+  {
+    "id": "rid_333",
+    "category": "bathroom",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "明明刚才关好了，却在包里盖子松开，把各种随身物品弄得黏糊糊的是？",
+    "options": [
+      "防晒霜",
+      "润唇膏",
+      "水瓶",
+      "牙膏"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "滑溜溜！在包底摸来摸去，结果摸到黏糊糊内容物时的那种绝望！",
+      "wrong": "错啦～只要口袋一点热度就自己融化、逃出盖子的是润唇膏。"
+    }
+  },
+  {
+    "id": "rid_335",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "渴的时候准备拿来喝，结果在包里自己躺倒、把随身物品浸得湿透的是？",
+    "options": [
+      "雨伞",
+      "扇子",
+      "保温杯",
+      "充电宝"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "哗啦！相信了“完全密封”那几个字，结果课本角被水泡得胀开。",
+      "wrong": "不对～打开包时把里面变成一片汪洋的罪魁祸首，是没盖紧的保温杯。"
+    }
+  },
+  {
+    "id": "rid_337",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "把食物塞满脸颊藏着，可一跑滚轮就全忘光的动物是？",
+    "options": [
+      "兔子",
+      "松鼠",
+      "仓鼠",
+      "刺猬"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "忙忙忙！把脸颊塞得鼓鼓的，然后拼命跑滚轮！",
+      "wrong": "错！把食物藏在脸颊里、还跑滚轮的是仓鼠。"
+    }
+  },
+  {
+    "id": "rid_338",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "鼓鼓地装着气，看着很可靠，可过一天就皱巴巴、在地上爬来爬去的是？",
+    "options": [
+      "足球",
+      "沙滩球",
+      "气球",
+      "气泡膜"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "噗嗤～昨天还飞得像要碰到天花板，今天就变成满脸皱纹的老爷爷啦！",
+      "wrong": "答错！偷偷一点点漏气、慢慢变小的是气球。"
+    }
+  },
+  {
+    "id": "rid_340",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "明明充满100%才带出门，可一到晚上就自己闪红灯、直喘气的是？",
+    "options": [
+      "智能手表",
+      "充电宝",
+      "无线鼠标",
+      "蓝牙音箱"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "闪啊闪！本来是带出来讨饭吃的家伙，结果自己先把饭吃光了！",
+      "wrong": "不对～在包里光炫耀砖头般的重量、然后没电的，是充电宝。"
+    }
+  },
+  {
+    "id": "rid_342",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "开心地咬了一口甜甜的点心，结果从指缝里哗哗下起碎屑雨的是？",
+    "options": [
+      "果冻",
+      "巧克力",
+      "酥皮派",
+      "糖果"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "啪沙沙！掉在桌上的碎屑比吃进嘴里的还多！",
+      "wrong": "错啦～咬一口就招来妈妈一记后背掌的，是派。"
+    }
+  },
+  {
+    "id": "rid_343",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "在暗处能照得亮亮堂堂，可手指在脸上方一踩空，就砸向脸的是？",
+    "options": [
+      "阅读灯",
+      "手机",
+      "平板",
+      "手电筒"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "咚！躺着看视频被砸中鼻梁，只有经历过的人才懂的眼泪！",
+      "wrong": "不对～一放松就被重力吸引、狠狠砸到脸的，是手机。"
+    }
+  },
+  {
+    "id": "rid_344",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "考试前一定会出现，一旦听到就在脑子里停不下来、无限循环的是？",
+    "options": [
+      "雨声",
+      "洗脑神曲",
+      "闹铃声",
+      "英语单词"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "叮咚～为什么脑子里无限播放的不是数学公式，而是广告歌旋律！",
+      "wrong": "答错！一旦进入脑子就占领一整天大脑的，是洗脑神曲。"
+    }
+  },
+  {
+    "id": "rid_345",
+    "category": "bathroom",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "用暖风帮我吹干头发，却从后面的吸入口一把吞掉我头发的是？",
+    "options": [
+      "电风扇",
+      "空气循环扇",
+      "吹风机",
+      "吸尘器"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "嗡嗡咚！伴随焦味，献上了几缕宝贵头发作祭品！",
+      "wrong": "不对～离后脑太近就被扯住头发的，是吹风机。"
+    }
+  },
+  {
+    "id": "rid_347",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "打开盖子就有热腾腾的米饭，可吃完以后只剩空壳到处乱跑。它是什么？",
+    "options": [
+      "锅",
+      "饭盒",
+      "保温瓶",
+      "盘子"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "掀盖一亮，吃完空壳！午饭时间的主角就是我。",
+      "wrong": "错！装饭随身带的小盒子是饭盒。"
+    }
+  },
+  {
+    "id": "rid_349",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "按一个按钮就能飞快把我送上楼，可就在门关上的一刹那，让人和同乘者尴尬地对上眼的是？",
+    "options": [
+      "自动扶梯",
+      "电梯",
+      "缆车",
+      "自动步道"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "叮！上楼全程只能盯着天花板数字板看的沉默之屋！",
+      "wrong": "答错！想按关门键却和人对上眼、冷汗直流的，是电梯。"
+    }
+  },
+  {
+    "id": "rid_350",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "牢牢地勒着穿上，可刚多吃一勺饭，就毫不留情地掐进肚子的是？",
+    "options": [
+      "背带",
+      "纽扣",
+      "腰带",
+      "橡皮筋"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "勒紧又松开！在餐厅偷偷松一格那瞬间的解放感！",
+      "wrong": "错啦～在自助餐厅最先举手投降、被解开的，是腰带。"
+    }
+  },
+  {
+    "id": "rid_351",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "假装把食物热得酥脆，可一拿出来，只把碗烫到能烫伤手指的是？",
+    "options": [
+      "空气炸锅",
+      "微波炉",
+      "烤箱",
+      "烤面包机"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "啊烫！食物还温温的，盘子边缘却像岩浆一样滚烫！",
+      "wrong": "不对～只转30秒就让人拿不住盘子的，是微波炉。"
+    }
+  },
+  {
+    "id": "rid_352",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "又甜又凉，一口吞下去，结果让额头到后脑都一阵刺痛的头痛的是？",
+    "options": [
+      "冰水",
+      "冰沙",
+      "冰淇淋",
+      "碳酸饮料"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "叮～！吃太急，扶着太阳穴愣住的，就是你！",
+      "wrong": "答错！像脑子冻住一样给你一记刺疼重拳的，是冰淇淋。"
+    }
+  },
+  {
+    "id": "rid_353",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "输好密码想登录，它却说你不是机器人、让你挑出九张斑马线照片的是？",
+    "options": [
+      "杀毒软件",
+      "验证码验证",
+      "指纹识别器",
+      "动态口令器"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "勾选！让你为红绿灯边角算不算而纠结五分钟！",
+      "wrong": "不对～让你怀疑自己到底是不是人的，是验证码验证。"
+    }
+  },
+  {
+    "id": "rid_354",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "能干净地保护手机屏幕，可一贴上去就在中间顶着一个大气泡不放的是？",
+    "options": [
+      "手机壳",
+      "指环支架",
+      "屏幕保护膜",
+      "镜头盖"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "啵！憋着气贴得连一粒灰都没进去，结果三个气泡来迎接你！",
+      "wrong": "答错！用指甲或卡片怎么推都不肯走的，是屏幕保护膜。"
+    }
+  },
+  {
+    "id": "rid_355",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "明明刚才还乖乖待在我头上，可一照镜子就只剩额头上一个红印子、自己消失的是？",
+    "options": [
+      "发带",
+      "卷发筒",
+      "发夹",
+      "毛巾"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "卷卷卷！忘了自己还卷着，差点就这么进了电梯吧？",
+      "wrong": "不对～出门前像独角兽角一样挂在额头上的，是卷发筒。"
+    }
+  },
+  {
+    "id": "rid_356",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "想从窄口瓶里挤出调料，它一直不吭声，突然砰的一声引爆的是？",
+    "options": [
+      "食用油",
+      "酱油",
+      "番茄酱",
+      "香油"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "噗咻！袖口溅上一个红点的瞬间，今天出门的穿搭就完蛋了。",
+      "wrong": "答错！倒过来拍两下、就哗地洒满托盘的是番茄酱瓶。"
+    }
+  },
+  {
+    "id": "rid_357",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "能柔和地照亮房间、营造气氛，可真正想吹灭时，却甩出一颗呛人烟雾弹的是？",
+    "options": [
+      "香薰",
+      "香薰蜡烛",
+      "台灯",
+      "氛围灯"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "呼～咳！浪漫香气无影无踪，只剩一股玩火味的魔法！",
+      "wrong": "错啦～往蜡油中间一戳，只把烛芯烧个精光的，是香薰蜡烛。"
+    }
+  },
+  {
+    "id": "rid_358",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "烤得又脆又甜，可一咬下去，就把里面滚烫的糖浆射向下巴的是？",
+    "options": [
+      "鲷鱼烧",
+      "奶油小蛋糕",
+      "糖饼",
+      "华夫饼"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "啊烫！拿纸杯捧着呼呼吹，正好把舌头烫到——这就是冬天的味道！",
+      "wrong": "不对～一不留神大口咬下、被岩浆般糖水袭击的，是糖饼。"
+    }
+  },
+  {
+    "id": "rid_360",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "好好地供在笔袋里，可盖子松了，自己把内芯挤出来、把包里涂成紫色的是？",
+    "options": [
+      "印章",
+      "机读卡笔",
+      "颜料",
+      "印台"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "闪光！该涂机读卡了，笔尖却糊成一团，变成大毛笔啦！",
+      "wrong": "不对～盖子插在笔尾然后不知丢哪去的老常客，是机读卡笔。"
+    }
+  },
+  {
+    "id": "rid_361",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "只有一个口，可一跌倒就把里面全倒出来，带把手的小容器是？",
+    "options": [
+      "盘子",
+      "杯子",
+      "锅",
+      "保温瓶"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "哗啦！轻轻一碰就把里面全倒出来，真是个讨人嫌的小容器！",
+      "wrong": "错！带把手的小容器是杯子。"
+    }
+  },
+  {
+    "id": "rid_362",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "假装在桌上自己嗖嗖地转，却碰到我的书页边角、把文件吹得满天飞的是？",
+    "options": [
+      "空调遥控器",
+      "桌面小风扇",
+      "无线加湿器",
+      "空气净化器"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "嗡嗡啪！本想吹吹风，结果弯腰捡满地的复习资料，汗流得更多！",
+      "wrong": "错啦～顶着大头摇摇晃晃、自己倒下的是小风扇。"
+    }
+  },
+  {
+    "id": "rid_363",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "让人能在沙发上舒服地打滚，可一起身就伴着静电火花、把全身弄得毛茸茸的是？",
+    "options": [
+      "皮靠垫",
+      "羽绒背心",
+      "珊瑚绒毛毯",
+      "羊毛大衣"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "刺啦啪嗒！静电派对一开，黑裤子就被白熊毛盖满啦！",
+      "wrong": "不对～每次起身都滋啦滋啦冒火花的冬季朋友，是珊瑚绒毛毯。"
+    }
+  },
+  {
+    "id": "rid_365",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "它装模作样地给手机续命，自己却被绑在墙上一动也不能动。它是什么？",
+    "options": [
+      "耳机",
+      "充电宝",
+      "充电器",
+      "遥控器"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "滋啦！手机是100%，可我自己一步也离不开墙。",
+      "wrong": "错！救活手机、自己却被绑在墙上的，是充电器。"
+    }
+  },
+  {
+    "id": "rid_366",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "能让屏幕里的角色灵活移动，可关键时刻吃到地上灰尘、一顿一顿卡住的是？",
+    "options": [
+      "键盘",
+      "游戏摇杆",
+      "光电鼠标",
+      "摄像头"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "卡顿！团战当中光标在半空冻住的地狱瞬间！",
+      "wrong": "答错！红色传感器沾一粒灰就装傻不动的，是光电鼠标。"
+    }
+  },
+  {
+    "id": "rid_367",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "做出来就是让人用手指爽快刮开的，可真刮完之后，只在指甲缝里塞满黑黑银粉的是？",
+    "options": [
+      "铅笔芯",
+      "刮刮卡",
+      "贴纸背面",
+      "粉笔灰"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "沙沙沙！心跳加速地刮开，结果只清清楚楚留下“下次再来”！",
+      "wrong": "不对～没硬币就用指甲刮、结果只弄脏手指的，是即开彩票。"
+    }
+  },
+  {
+    "id": "rid_369",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "想煮泡面从饮水机接热水，可刚好在刻度下方就喊停、吐出冷水的是？",
+    "options": [
+      "电热水壶",
+      "保温瓶",
+      "热水饮水机",
+      "微波炉"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "咕噜咕噜滴答！温吞水把面条泡得发涨，看来要吃糊糊面啦！",
+      "wrong": "不对～在我的杯面前刚好断热水、让人绝望的，是饮水机。"
+    }
+  },
+  {
+    "id": "rid_370",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "卖力嚼着甜芯把甜味榨干，可要吐时却没有纸巾，只好被困在嘴里的是？",
+    "options": [
+      "糖果",
+      "口香糖",
+      "果冻",
+      "巧克力"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "嚼啊嚼……味道都没了，只剩下巴酸，又咽不下去，真尴尬！",
+      "wrong": "答错！把口袋翻遍也找不到一张小票、只好继续嚼的，是口香糖。"
+    }
+  },
+  {
+    "id": "rid_372",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "把整个钱包贴上地铁闸机，它却说“只刷一张卡”、砰地把门关上的是？",
+    "options": [
+      "身份证",
+      "学生证",
+      "交通卡",
+      "员工证"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "滴滴滴！在上班路上筑起一道痛哭之墙，后脑勺被灼热目光盯穿！",
+      "wrong": "答错！整包钱包一贴、门砰地关上还撞到大腿的，是交通卡读取错误。"
+    }
+  },
+  {
+    "id": "rid_373",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "又甜又凉的饮料都喝完了，却牢牢卡在冰块缝底、怎么都吸不上来的黏糯东西是？",
+    "options": [
+      "椰果",
+      "珍珠粉圆",
+      "芦荟粒",
+      "奇亚籽"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "啵啵啵！用吸管瞄准射击，它也躲在冰下死活不肯上来！",
+      "wrong": "不对～珍珠奶茶喝完、留在杯底的黑色宝石，是珍珠粉圆。"
+    }
+  },
+  {
+    "id": "rid_374",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "一投钱就假装给零食，可只要卡住一次，就把我的硬币永远吞掉的是？",
+    "options": [
+      "保险柜",
+      "自动售货机",
+      "冰箱",
+      "银行"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "叮咚！自动售货机底下，是消失硬币们聚居的坟墓。",
+      "wrong": "不对～卡住一次就悄悄吞硬币的，只有自动售货机。"
+    }
+  },
+  {
+    "id": "rid_375",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "假装要叫醒我，却眼睁睁看着我关掉它继续睡的是？",
+    "options": [
+      "枕头",
+      "闹钟",
+      "被子",
+      "窗帘"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "滴答！我每天都老实巴交地响，可被子把你抓得更紧呀。",
+      "wrong": "哔！我每个凌晨都毫无谎话地响个不停！"
+    }
+  },
+  {
+    "id": "rid_376",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "在我耳边假装放歌，却只在口袋里缠成线团一样的是？",
+    "options": [
+      "项链",
+      "耳机",
+      "口罩带",
+      "充电器"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "答对！口袋里面，是耳机们悄悄打结的秘密工作室。",
+      "wrong": "不对～会缠成一团的，永远只有我那副耳机！"
+    }
+  },
+  {
+    "id": "rid_377",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "它只是学我说话，最后却把我的秘密广播给整个小区。它是什么？",
+    "options": [
+      "金丝雀",
+      "鹦鹉",
+      "麻雀",
+      "乌鸦"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "鹦鹉鹦鹉！自己说的话原封不动飞回来时，那种尴尬劲儿！",
+      "wrong": "叮！会模仿人说话的鸟是鹦鹉。"
+    }
+  },
+  {
+    "id": "rid_378",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "就算因为慢被嘲笑，也把房子背在背上、堂堂正正到处搬家的是？",
+    "options": [
+      "蜗牛",
+      "鼹鼠",
+      "乌龟",
+      "蚂蚁"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "慢吞吞？我有房子，到哪里旅程都不会结束！",
+      "wrong": "答错！就算慢，也背着结实的家到处走的，是乌龟。"
+    }
+  },
+  {
+    "id": "rid_379",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "在黑板上白花花的字写着写着就啪地折断，掉到地上就摔得粉碎的是？",
+    "options": [
+      "铅笔",
+      "粉笔",
+      "蜡笔",
+      "马克笔"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "啪！稍微用力一按就折断，只剩一小截在老师手里！",
+      "wrong": "答错！在黑板上写字一用力就断的白色小棍，是粉笔。"
+    }
+  },
+  {
+    "id": "rid_380",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "外表透明得看不见，可一旦粘上就把纸撕破的是？",
+    "options": [
+      "贴纸",
+      "便利贴",
+      "双面胶",
+      "标签"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "刺啦！想撕下来时纸被撕成两半，这时才知道它的存在！",
+      "wrong": "不对～正反两面都黏、把纸吃掉的，是双面胶。"
+    }
+  },
+  {
+    "id": "rid_381",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "在室内会顺着鼻尖滑下去，却只在阳光下把世界染成黑色的是？",
+    "options": [
+      "帽子",
+      "太阳镜",
+      "口罩",
+      "眼罩"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "唰！在刺眼阳光下，我能把世界的颜色都换掉。",
+      "wrong": "答错！戴在眼睛上世界就变黑的，是太阳镜。"
+    }
+  },
+  {
+    "id": "rid_382",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "本来只想抽一张，可一着急就哗啦啦连带出十张的是？",
+    "options": [
+      "湿巾",
+      "卫生纸",
+      "厨房纸巾",
+      "手帕"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "嗖！本想用一张，最后却把整张餐桌都擦了一遍的魔法纸卷！",
+      "wrong": "不对～一着急抽就哗啦啦跟出来的，是卫生纸。"
+    }
+  },
+  {
+    "id": "rid_383",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "正开心地画着画，可稍微一用力就啪地折断的是？",
+    "options": [
+      "彩色铅笔",
+      "铅笔",
+      "蜡笔",
+      "毛笔"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "啪！五颜六色虽然好看，身子却像夏天的巧克力一样脆弱。",
+      "wrong": "答错！稍微一用力就啪地折断的彩色小棍，是蜡笔。"
+    }
+  },
+  {
+    "id": "rid_384",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "我要找的时候它一定藏在沙发底下，可我不看时，它又不知不觉在哥哥手里的是？",
+    "options": [
+      "眼镜",
+      "遥控器",
+      "充电器",
+      "耳机"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "叮咚！沙发底下，是遥控器们聚居的秘密基地。",
+      "wrong": "答错！不看时无影无踪、偏偏需要时就消失的，是遥控器。"
+    }
+  },
+  {
+    "id": "rid_385",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "转啊转假装把衣服洗干净，却把一只袜子永远藏起来的是？",
+    "options": [
+      "烘干机",
+      "洗碗机",
+      "洗衣机",
+      "吸尘器"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "轰隆！洗衣机是世界上最可怕的魔术师。",
+      "wrong": "答错！转完之后一定少一只袜子的，是洗衣机。"
+    }
   }
 ]
