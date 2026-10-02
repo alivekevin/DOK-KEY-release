@@ -252,14 +252,14 @@
     "id": "rid_014"
   },
   {
-    "question": "Was reibt Tinte zum Schreiben und sitzt still auf dem Pult des Gelehrten?",
+    "question": "Ein viereckiges Stein-Gefäß, in dem man schwarze Tusche anreibt, um zu schreiben. Was ist es?",
     "options": [
-      "Kanne",
-      "Schale",
-      "Tintenstein",
-      "Krug"
+      "Tuschstein",
+      "Wassertropfer",
+      "Federmäppchen",
+      "Briefbeschwerer"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -612,20 +612,20 @@
     "id": "rid_035"
   },
   {
-    "question": "Welche Steine liegen Reihe für Reihe über den Fluss, dass man sie betritt?",
+    "question": "Eins nach dem anderen über den Fluss gelegt als Trittsteine – was ist dieser steinerne Weg?",
     "options": [
-      "Brücke",
-      "Boot",
+      "Trittsteine",
       "Treppe",
-      "Trittsteine"
+      "Floß",
+      "Boje"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "Richtig! Trittsteine sind Steine, die Hände reichen, um einen Weg zu bauen!",
-      "wrong": "Daneben! Steine in einer Reihe über dem Wasser!"
+      "wrong": "Daneben! Ein Weg aus Steinen, über den du hinübergehst."
     },
     "id": "rid_036"
   },
@@ -1332,14 +1332,14 @@
     "id": "rid_075"
   },
   {
-    "question": "Welches Netz webt ein achtbeiniger Freund über Nacht, glänzend im Tau?",
+    "question": "Von einem achtbeinigen Freund über Nacht gewebt und im Tau glänzend – welches Netz ist das?",
     "options": [
-      "Wollknäuel",
-      "Angelschnur",
       "Spinnennetz",
-      "Netz"
+      "Schaumlöffel",
+      "Kescher",
+      "Wäschenetz"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1656,14 +1656,14 @@
     "id": "rid_093"
   },
   {
-    "question": "Wirf einen Brief ein und es eilt für dich davon — der rote Kasten?",
+    "question": "Wirf einen Brief ein und es eilt für dich in die Ferne – was ist dieser rote viereckige Kasten?",
     "options": [
-      "Tasche",
-      "Kiste",
       "Briefkasten",
-      "Tresor"
+      "Kommode",
+      "Safe",
+      "Bücherregal"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1764,14 +1764,14 @@
     "id": "rid_099"
   },
   {
-    "question": "Die Sicht verschwindet weiß — die Wolke, die sich auf den Boden legt?",
+    "question": "Ein weißer Vorhang, der sich über den Boden legt und die Sicht trübt. Was ist es?",
     "options": [
-      "Rauch",
       "Nebel",
-      "Dampf",
-      "Wolke"
+      "Wolke",
+      "Staub",
+      "Frost"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1782,7 +1782,7 @@
     "id": "rid_100"
   },
   {
-    "question": "Es flattert über das Blumenbeet — die Blume mit Flügeln?",
+    "question": "Es breitet bunte, blütenblattartige Flügel aus und schwebt zwischen den Blumen. Was ist es?",
     "options": [
       "Biene",
       "Schmetterling",
@@ -1794,8 +1794,8 @@
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Schmetterling ist eine fliegende Blume mit Flügeln!",
-      "wrong": "Daneben! Das Insekt, das über Blumen flattert!"
+      "correct": "Richtig! Keine Blume, sondern ein Schmetterling – ein Insekt mit blütenblattartigen Flügeln!",
+      "wrong": "Daneben! Ein Insekt mit blütenblattartigen Flügeln, keine Blume."
     },
     "id": "rid_101"
   },
@@ -2466,14 +2466,14 @@
     "id": "rid_140"
   },
   {
-    "question": "Welche dreibeinige Krähe soll in der Sonne leben?",
+    "question": "In der östlichen Legende ein heiliger schwarzer Vogel mit drei Beinen, der in der Sonne lebt. Was ist es?",
     "options": [
-      "Phönix",
-      "Vermilion-Vogel",
+      "Samjogo (dreibeinige Krähe)",
       "Krähe",
-      "Dreibeinige Krähe"
+      "Schwalbe",
+      "Kranich"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2682,14 +2682,14 @@
     "id": "rid_152"
   },
   {
-    "question": "Welches der vier Wächtertiere des Ostens bewacht den Westen als weißer Tiger?",
+    "question": "Unter den vier Wächtern der Himmelsrichtungen die weiße Bestien-Gottheit des Westens. Was ist es?",
     "options": [
+      "Weißer Tiger",
       "Tiger",
-      "Haetae",
-      "Schwarze Schildkröte",
-      "Weißer Tiger"
+      "Leopard",
+      "Haetae"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -3888,12 +3888,12 @@
     "id": "rid_219"
   },
   {
-    "question": "Welcher Weberinnen-Stern webt gegenüber von Altair in östlicher Legende?",
+    "question": "Der sagenhafte Stern, der webend nach seinem Partner jenseits der Milchstraße sehnt. Welcher ist es?",
     "options": [
       "Wega",
-      "Altair",
       "Polarstern",
-      "Alnitak"
+      "Kassiopeia",
+      "Deneb"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4320,12 +4320,12 @@
     "id": "rid_243"
   },
   {
-    "question": "Welcher helle Stern des Kleinen Hundes steigt vor Sirius auf?",
+    "question": "Der hellste Stern im Kleinen Hund, der das Winterdreieck bildet. Welcher ist es?",
     "options": [
       "Prokyon",
-      "Sirius",
-      "Beteigeuze",
-      "Capella"
+      "Spica",
+      "Arktur",
+      "Pollux"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4333,7 +4333,7 @@
     "category": "space",
     "kkaebi_reaction": {
       "correct": "Richtig! Prokyon steigt vor Sirius auf!",
-      "wrong": "Daneben! Der Stern vor Sirius!"
+      "wrong": "Daneben! Ein heller Stern, der zuerst aufgeht."
     },
     "id": "rid_244"
   },
@@ -4482,12 +4482,12 @@
     "id": "rid_252"
   },
   {
-    "question": "Welches Sternbild neben dem Bärenhüter steht für zwei Jagdhunde?",
+    "question": "Neben dem himmlischen Hirten – welches Sternbild steht für zwei Jagdhunde?",
     "options": [
       "Jagdhunde",
       "Bärenhüter",
-      "Kleiner Hund",
-      "Großer Hund"
+      "Großer Hund",
+      "Wolf"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4536,20 +4536,20 @@
     "id": "rid_255"
   },
   {
-    "question": "Es ersetzt heimlich einen verlorenen Knopf, piekst aber bei jeder Bewegung die Haut und verrät deine Faulheit. Was bin ich?",
+    "question": "Es springt heimlich ein, wenn die Kleidung aufgeht, piekst aber die Haut und verrät deine Faulheit. Was ist es?",
     "options": [
-      "Büroklammer",
       "Sicherheitsnadel",
-      "Reißzwecke",
-      "Knopf"
+      "Reißverschluss",
+      "Klettverschluss",
+      "Brosche"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
       "correct": "Richtig! Die Sicherheitsnadel sticht immer zu.",
-      "wrong": "Falsch! Es ist die kleine Nadel als Knopfersatz."
+      "wrong": "Daneben! Eine kleine Nadel zum Schließen der Kleidung."
     },
     "id": "rid_256"
   },
@@ -4770,14 +4770,14 @@
     "id": "rid_268"
   },
   {
-    "question": "Sonst still in der Ecke, nur bei verstopfter Toilette beschworen. Was bin ich?",
+    "question": "Sonst still in der Ecke, nur bei verstopftem, zurückstauendem Wasser gerufen. Wer ist dieser Retter?",
     "options": [
-      "Toilette",
-      "Abfluss",
       "Pömpel",
-      "Reinigungsbürste"
+      "Toilette",
+      "Waschbecken",
+      "Bürste"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5328,14 +5328,14 @@
     "id": "rid_299"
   },
   {
-    "question": "Zum Sport ausgelegt, wird es beim Hinlegen zur Nickerchen-Matratze. Was bin ich?",
+    "question": "Zum Sport ausgelegt, verwandelt es sich beim Hinlegen in ein Nickerchenbett. Was ist es?",
     "options": [
-      "Picknickdecke",
       "Yogamatte",
       "Matratze",
-      "Decke"
+      "Decke",
+      "Kissen"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5418,14 +5418,14 @@
     "id": "rid_304"
   },
   {
-    "question": "In der Waschmaschine wickelt es einen fremden Ärmel ein und klumpt alles. Was bin ich?",
+    "question": "In einer sich drehenden Trommel wickelt es einen anderen Ärmel ein und klumpt alles. Was ist es?",
     "options": [
-      "Korb",
-      "Waschmaschine",
       "Wäschenetz",
-      "Wäscheständer"
+      "Waschmaschine",
+      "Trockner",
+      "Kleiderbügel"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",

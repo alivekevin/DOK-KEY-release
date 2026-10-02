@@ -252,14 +252,14 @@
     "id": "rid_014"
   },
   {
-    "question": "What grinds ink to make writing, sitting quietly on the scholar's desk?",
+    "question": "A square stone vessel that grinds black ink to help you write. What is it?",
     "options": [
-      "Bowl",
-      "Kettle",
       "Inkstone",
-      "Jar"
+      "Water dropper",
+      "Pencil case",
+      "Paperweight"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -612,20 +612,20 @@
     "id": "rid_035"
   },
   {
-    "question": "What stones step across a river hand in hand, forming a path?",
+    "question": "Placed one by one across a river to be your footholds — what is this stony path?",
     "options": [
-      "Bridge",
-      "Boat",
+      "Stepping stones",
       "Stairs",
-      "Stepping stones"
+      "Raft",
+      "Buoy"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "Correct! Stepping stones are rocks holding hands to make a road!",
-      "wrong": "Nope! Stones in a row across the water!"
+      "wrong": "Nope! A path of stones that lets you cross!"
     },
     "id": "rid_036"
   },
@@ -1332,14 +1332,14 @@
     "id": "rid_075"
   },
   {
-    "question": "What web does an eight-legged friend weave overnight, sparkling with dew?",
+    "question": "Woven overnight by an eight-legged friend, glinting with dew — what net is it?",
     "options": [
-      "Ball of thread",
-      "Fishing line",
       "Spider web",
-      "Net"
+      "Skimmer",
+      "Butterfly net",
+      "Laundry net"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1656,14 +1656,14 @@
     "id": "rid_093"
   },
   {
-    "question": "Drop a letter in and it runs far for you — the red square box?",
+    "question": "Drop a letter in and it runs far away for you — what is this red square box?",
     "options": [
-      "Bag",
-      "Box",
       "Mailbox",
-      "Safe"
+      "Dresser",
+      "Safe",
+      "Bookshelf"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1764,14 +1764,14 @@
     "id": "rid_099"
   },
   {
-    "question": "The view fades white — the cloud that settles on the ground?",
+    "question": "A white curtain settling over the ground that blurs everything ahead. What is it?",
     "options": [
-      "Smoke",
       "Fog",
-      "Steam",
-      "Cloud"
+      "Cloud",
+      "Dust",
+      "Frost"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1782,7 +1782,7 @@
     "id": "rid_100"
   },
   {
-    "question": "It flutters over the flower bed — the flower with wings?",
+    "question": "It spreads pretty, colorful wings like petals and flutters between the flowers. What is it?",
     "options": [
       "Bee",
       "Butterfly",
@@ -1794,8 +1794,8 @@
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! A butterfly is a winged flower that flies!",
-      "wrong": "Nope! It is the insect fluttering over flowers!"
+      "correct": "Correct! Not a flower — a butterfly, an insect with petal-like wings!",
+      "wrong": "Nope! It's an insect with petal-like wings, not a flower."
     },
     "id": "rid_101"
   },
@@ -2466,14 +2466,14 @@
     "id": "rid_140"
   },
   {
-    "question": "Which three-legged crow beast is said to live in the sun?",
+    "question": "In Eastern legend, a sacred black bird with three legs that lives in the sun. What is it?",
     "options": [
-      "Phoenix",
-      "Vermilion Bird",
+      "Samjogo (three-legged crow)",
       "Crow",
-      "Three-legged Crow"
+      "Swallow",
+      "Crane"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2682,14 +2682,14 @@
     "id": "rid_152"
   },
   {
-    "question": "In Eastern thought, among the four guardian beasts, which guards the west as a white tiger?",
+    "question": "Among the four guardians of the directions, the white beast deity of the West. What is it?",
     "options": [
+      "White Tiger",
       "Tiger",
-      "Haetae",
-      "Black Tortoise",
-      "White Tiger"
+      "Leopard",
+      "Haetae"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -3888,12 +3888,12 @@
     "id": "rid_219"
   },
   {
-    "question": "In Eastern legend, which weaver-girl star weaves across from Altair?",
+    "question": "The legendary star that weaves cloth, longing for its partner across the Milky Way. Which is it?",
     "options": [
-      "Vega",
-      "Altair",
+      "Vega (Jiknyeo)",
       "Polaris",
-      "Alnitak"
+      "Cassiopeia",
+      "Deneb"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4320,12 +4320,12 @@
     "id": "rid_243"
   },
   {
-    "question": "Which bright star of Canis Minor rises before Sirius?",
+    "question": "The brightest star of Canis Minor, forming the Winter Triangle. Which is it?",
     "options": [
       "Procyon",
-      "Sirius",
-      "Betelgeuse",
-      "Capella"
+      "Spica",
+      "Arcturus",
+      "Pollux"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4333,7 +4333,7 @@
     "category": "space",
     "kkaebi_reaction": {
       "correct": "Correct! Procyon rises before Sirius!",
-      "wrong": "Nope! The star that rises before Sirius!"
+      "wrong": "Nope! A bright star that rises ahead!"
     },
     "id": "rid_244"
   },
@@ -4482,12 +4482,12 @@
     "id": "rid_252"
   },
   {
-    "question": "Which constellation beside Boötes symbolizes two hunting dogs?",
+    "question": "Beside the heavenly herdsman, which constellation symbolizes two hunting dogs?",
     "options": [
       "Canes Venatici",
       "Boötes",
-      "Canis Minor",
-      "Canis Major"
+      "Canis Major",
+      "Lupus"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4536,20 +4536,20 @@
     "id": "rid_255"
   },
   {
-    "question": "Secretly filling in for a lost button, it pokes your skin and gives away your laziness. What am I?",
+    "question": "It secretly stands in when your clothing comes undone, yet pokes your skin and betrays your laziness. What is it?",
     "options": [
-      "Clip",
       "Safety pin",
-      "Thumbtack",
-      "Button"
+      "Zipper",
+      "Velcro",
+      "Brooch"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
       "correct": "Correct! A safety pin pinches you whenever you move.",
-      "wrong": "Nope! It is the small pin that replaces a button."
+      "wrong": "Nope! A small pin used to fasten your clothes."
     },
     "id": "rid_256"
   },
@@ -4770,14 +4770,14 @@
     "id": "rid_268"
   },
   {
-    "question": "Quiet in the bathroom corner, summoned only when the toilet clogs. What am I?",
+    "question": "Usually quiet in a corner, summoned only when water is blocked and backing up. Who is this reliever?",
     "options": [
-      "Toilet",
-      "Drain",
       "Plunger",
-      "Cleaning brush"
+      "Toilet",
+      "Sink",
+      "Brush"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5328,14 +5328,14 @@
     "id": "rid_299"
   },
   {
-    "question": "You lay it out to exercise, then lie down and it becomes a nap mattress. What am I?",
+    "question": "You lay it out to exercise, but it turns into a nap bed the moment you lie down. What is it?",
     "options": [
-      "Picnic mat",
       "Yoga mat",
       "Mattress",
-      "Blanket"
+      "Blanket",
+      "Cushion"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5418,14 +5418,14 @@
     "id": "rid_304"
   },
   {
-    "question": "Inside the washer it wraps another sleeve and balls everything up. What am I?",
+    "question": "Inside a spinning drum, it wraps another sleeve and balls everything together. What is it?",
     "options": [
-      "Basket",
-      "Washing machine",
       "Laundry net",
-      "Drying rack"
+      "Washing machine",
+      "Dryer",
+      "Hanger"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",

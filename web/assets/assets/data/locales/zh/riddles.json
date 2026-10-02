@@ -252,14 +252,14 @@
     "id": "rid_014"
   },
   {
-    "question": "磨出墨汁才能写字、安坐在书桌上的器皿是什么？",
+    "question": "用来磨黑墨、助你写字的方形石制器皿是什么？",
     "options": [
-      "水壶",
-      "坛子",
-      "碗",
-      "砚台"
+      "砚台",
+      "水滴",
+      "笔袋",
+      "镇纸"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -612,20 +612,20 @@
     "id": "rid_035"
   },
   {
-    "question": "一个个排在河上、供人踏着过河的石阶是什么？",
+    "question": "在河上一个个铺开、成为踏脚处的石径是什么？",
     "options": [
-      "船",
-      "桥",
+      "踏脚石",
       "楼梯",
-      "踏脚石"
+      "木筏",
+      "浮标"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "答对了！踏脚石是石头们手拉手搭成的路！",
-      "wrong": "不对！水里一字排开的石头台阶呀！"
+      "wrong": "不对！是石头排成让你过河的小路。"
     },
     "id": "rid_036"
   },
@@ -1332,14 +1332,14 @@
     "id": "rid_075"
   },
   {
-    "question": "八条腿的朋友一夜织成、在露珠中闪闪发光的网是什么？",
+    "question": "八条腿的朋友通宵织成、在露水中闪烁的网是什么？",
     "options": [
-      "线球",
-      "钓鱼线",
       "蜘蛛网",
-      "渔网"
+      "漏勺",
+      "捕虫网",
+      "洗衣袋"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1656,14 +1656,14 @@
     "id": "rid_093"
   },
   {
-    "question": "把信投进去，它会替你跑到远方——红色的方箱子是什么？",
+    "question": "把信投进去，它替你跑到远方——这个红色方盒是什么？",
     "options": [
-      "包",
-      "箱子",
       "邮筒",
-      "保险箱"
+      "抽屉柜",
+      "保险箱",
+      "书架"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1764,14 +1764,14 @@
     "id": "rid_099"
   },
   {
-    "question": "眼前一片白茫，落到地面的云是什么？",
+    "question": "白茫茫落在地面、让前方模糊的帷幕是什么？",
     "options": [
-      "烟",
       "雾",
-      "蒸汽",
-      "云"
+      "云",
+      "灰尘",
+      "霜"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1782,7 +1782,7 @@
     "id": "rid_100"
   },
   {
-    "question": "在花丛中翩翩起舞、长翅膀的花是什么？",
+    "question": "它张开如花瓣般绚丽多彩的翅膀，在花丛间飞舞。是什么？",
     "options": [
       "蜜蜂",
       "蝴蝶",
@@ -1794,8 +1794,8 @@
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "答对了！蝴蝶是会飞的长翅膀的花！",
-      "wrong": "不对！是在花丛翩翩飞舞的昆虫呀！"
+      "correct": "答对了！它不是花，而是有花瓣般翅膀的昆虫——蝴蝶！",
+      "wrong": "不对！那是拥有花瓣般翅膀的昆虫，不是花。"
     },
     "id": "rid_101"
   },
@@ -2466,14 +2466,14 @@
     "id": "rid_140"
   },
   {
-    "question": "传说住在太阳里的三足乌鸦神兽是？",
+    "question": "东方传说中住在太阳里、长着三只脚的神圣黑鸟是什么？",
     "options": [
-      "凤凰",
-      "朱雀",
+      "三足乌",
       "乌鸦",
-      "三足乌"
+      "燕子",
+      "鹤"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2682,14 +2682,14 @@
     "id": "rid_152"
   },
   {
-    "question": "东方思想中守护四方的四神里，掌管西方、形为白虎的神兽是？",
+    "question": "东方思想中镇守四方、掌管西方的白色神兽是什么？",
     "options": [
-      "虎",
-      "獬豸",
-      "玄武",
-      "白虎"
+      "白虎",
+      "老虎",
+      "豹",
+      "獬豸"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -3888,12 +3888,12 @@
     "id": "rid_219"
   },
   {
-    "question": "东方传说中在牛郎星对面织布的织女星是？",
+    "question": "隔着银河思念伴侣、织着布的传说之星是哪颗？",
     "options": [
       "织女星",
-      "牛郎星",
       "北极星",
-      "参宿"
+      "仙后座",
+      "天津四"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4320,12 +4320,12 @@
     "id": "rid_243"
   },
   {
-    "question": "小犬座中比天狼星先升起的亮星是？",
+    "question": "小犬座中最亮、构成冬季大三角的星是哪颗？",
     "options": [
       "南河三",
-      "天狼星",
-      "参宿四",
-      "五车二"
+      "角宿一",
+      "大角星",
+      "北河三"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4333,7 +4333,7 @@
     "category": "space",
     "kkaebi_reaction": {
       "correct": "答对了！南河三比天狼星先升起！",
-      "wrong": "不对！是比天狼星先升起的星呀！"
+      "wrong": "不对！是更早升起的明亮之星。"
     },
     "id": "rid_244"
   },
@@ -4482,12 +4482,12 @@
     "id": "rid_252"
   },
   {
-    "question": "在牧夫座旁象征两只猎犬的星座是？",
+    "question": "在天上的牧人身边、象征两只猎犬的星座是？",
     "options": [
       "猎犬座",
       "牧夫座",
-      "小犬座",
-      "大犬座"
+      "大犬座",
+      "豺狼座"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4536,20 +4536,20 @@
     "id": "rid_255"
   },
   {
-    "question": "纽扣掉了时悄悄顶替上岗，却一动就戳得皮肤发痛，暴露你的偷懒。我是什么?",
+    "question": "衣服松开时悄悄顶替，却一动就戳皮肤、暴露你偷懒的是什么？",
     "options": [
-      "回形针",
       "别针",
-      "图钉",
-      "纽扣"
+      "拉链",
+      "魔术贴",
+      "胸针"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
       "correct": "正确! 别针是应急替身，却总扎人。",
-      "wrong": "错! 它是代替纽扣的小别针。"
+      "wrong": "不对！是用来扣住衣服的小别针。"
     },
     "id": "rid_256"
   },
@@ -4770,14 +4770,14 @@
     "id": "rid_268"
   },
   {
-    "question": "平时安静待在卫生间角落，只有马桶堵塞时才被召唤的救兵。我是什么?",
+    "question": "平时安静待在角落，只在堵塞反水时才被召唤的救兵是谁？",
     "options": [
-      "马桶",
-      "地漏",
       "马桶搋子",
-      "清洁刷"
+      "马桶",
+      "洗手池",
+      "刷子"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5328,14 +5328,14 @@
     "id": "rid_299"
   },
   {
-    "question": "本想铺开运动，一躺下就成了午睡床垫。我是什么?",
+    "question": "铺开本想运动，一躺下就变成午睡床的是什么？",
     "options": [
-      "野餐垫",
       "瑜伽垫",
       "床垫",
-      "被子"
+      "被子",
+      "坐垫"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5418,14 +5418,14 @@
     "id": "rid_304"
   },
   {
-    "question": "在洗衣机里把别的袖子缠成一团。我是什么?",
+    "question": "在旋转的桶里把别的袖子缠成一团的是什么？",
     "options": [
-      "篮子",
-      "洗衣机",
       "洗衣袋",
-      "晾衣架"
+      "洗衣机",
+      "烘干机",
+      "衣架"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",
