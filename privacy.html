@@ -51,15 +51,15 @@
 
   <h2>4. 카메라 · 마이크 · 사진 (선택 권한)</h2>
   <div class="card">
-    <p>스마트 거울·정밀 돋보기(카메라), 음성 메모(마이크), 사진 선택(갤러리) 기능은 <b>오직 기기 내에서만</b> 처리됩니다.</p>
+    <p>스마트 거울·정밀 돋보기(카메라), 음성 메모(마이크), 사진 선택(갤러리) 기능은 <b>기기 내에서 우선 처리</b>됩니다.</p>
     <ul>
       <li>카메라 영상/사진: <b>기기 내 미리보기·촬영</b>에만 사용하며 <b>외부 전송·저장 없음</b></li>
-      <li>마이크(음성 메모): 음성을 텍스트로 변환하는 데에만 사용하며 <b>녹음 파일을 서버로 전송하지 않음</b></li>
+      <li>마이크(음성 메모): 음성을 텍스트로 변환하는 데에만 사용합니다. 가능한 경우 <b>기기 내(온디바이스)</b>에서 처리하며, 기기에서 온디바이스 인식을 지원하지 않을 때에만 <b>운영체제(OS)의 음성 인식 서비스</b>가 사용될 수 있습니다. <b>녹음 파일은 개발자 서버로 전송·저장되지 않습니다.</b></li>
       <li>권한은 해당 기능을 처음 사용할 때 <b>런타임 팝업</b>으로 요청되며, 거부해도 다른 기본 기능은 정상 사용 가능</li>
       <li>카메라·마이크가 없는 기기에서도 설치 가능(하드웨어 <b>required=false</b>)</li>
       <li>그림·부적 카드는 사용자가 <b>저장</b>을 누를 때만 사진 앨범(갤러리)에 저장되며, 그 외에는 저장·전송되지 않음</li>
     </ul>
-    <p class="en">Camera / microphone / photos are processed on-device only and never transmitted. Permissions are requested at runtime and are optional.</p>
+    <p class="en">Camera / microphone / photos are processed on-device first. When on-device speech recognition is unavailable, the OS speech service may be used; recordings are never sent to the developer's servers. Permissions are requested at runtime and are optional.</p>
   </div>
 
   <h2>5. 로컬 백업 (사용자 제어)</h2>
