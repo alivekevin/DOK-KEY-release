@@ -3,66 +3,102 @@
     "morning": [
       "Woher des Weges? Ein neues Gesicht! Am Morgen nach einem Schlüssel zu suchen, zeugt von rechtem Mut!",
       "Der erste Gast des Tages! Man sagt, ein Reisender mit der Morgensonne kommt nur einmal in tausend Jahren. Tritt ein!",
-      "Ein neues Gesicht im Morgentau! Lass mich dir für den heutigen Tag einen guten Schlüssel überreichen!"
+      "Ein neues Gesicht im Morgentau! Lass mich dir für den heutigen Tag einen guten Schlüssel überreichen!",
+      "So früh und mit leichtem Schritt! Glück findet Gäste wie dich immer zuerst.",
+      "Die Morgenluft ist noch kalt. Schlendere langsam wie beim Aufwärmen, neuer Gast.",
+      "Erste Begegnung im Morgengrauen – die Tür des Tages ist schon halb offen!"
     ],
     "noon": [
       "Ein neuer Gast zur Mittagsstunde? Das verheißt die Ankunft eines treuen Gefährten! Nimm Platz!",
       "Neue Gäste verdienen den wärmsten Empfang. Bande im warmen Sonnenlicht halten lange.",
-      "Du kommst zur rechten Stunde! Die Kraft des Mittags verbindet Menschen. Dein Glück wird sich bald entfalten."
+      "Du kommst zur rechten Stunde! Die Kraft des Mittags verbindet Menschen. Dein Glück wird sich bald entfalten.",
+      "Wir treffen uns erstmals unter der Mittagssonne. Bande aus der Hitze kühlen nicht leicht.",
+      "Neues Gesicht am Mittag – hast du den Bauch gefüllt? Ich fülle dir auch das Herz.",
+      "Erster Besuch am Tag, wie schön. An sonnigen Tagen fallen Entscheidungen leicht."
     ],
     "evening": [
       "Ein erster Besuch im Abendrot! Dein Blick sucht nach der Ernte des Tages — das gefällt mir.",
       "Ein neuer Gast in der Abenddämmerung... Wahre Bande erblühen oft spät. Tritt ein!",
-      "Ein Wanderer an der Pforte des Abends! Wer den Tag gut abschließt, begegnet Kkaebi."
+      "Ein Wanderer an der Pforte des Abends! Wer den Tag gut abschließt, begegnet Kkaebi.",
+      "Ein erster Besuch in der Dämmerung. Wer seinen Tag abschließt, hat viel Glück.",
+      "Das Abendrot begrüßt einen neuen Gast. Setz dich und atme durch.",
+      "Erste Begegnung am Abend – du trafst am Tagesende einen guten Anfang."
     ],
     "night": [
       "Ein erster Besuch um Mitternacht? Du trägst gewiss eine besondere Geschichte in dir. Frage nur!",
       "Ein nächtlicher Wanderer! Wer zu dieser Stunde nach Schlüsseln sucht, meint es wahrhaft ernst.",
-      "Ein erster Besuch in der Nacht... eine ruhige Seele. Wohlan, ich höre dir zu!"
+      "Ein erster Besuch in der Nacht... eine ruhige Seele. Wohlan, ich höre dir zu!",
+      "Zum ersten Mal in tiefer Nacht hier. Wenn dich etwas drückt, sprich jetzt.",
+      "Erster Gast der frühen Stunden – je stiller die Zeit, desto klarer das Herz.",
+      "Bande, die nachts erst entstehen, sind kostbar, und genau das bist du."
     ]
   },
   "revisit": {
     "morning": [
       "Schön, dich wiederzusehen, {nick}! Ein neuer Tag, ein neuer Glücksschlüssel!",
       "Guten Morgen, {nick}! Die Tore stehen für dich bereits weit offen.",
-      "Willkommen zurück, {nick}! Lass uns das Schicksal von heute ergründen."
+      "Willkommen zurück, {nick}! Lass uns das Schicksal von heute ergründen.",
+      "{nick}, dich so früh zu sehen – heute läuft alles wie am Schnürchen.",
+      "{nick}, den ersten Morgenschritt mit dir zu gehen, gibt Halt. Öffnen wir auch heute!",
+      "Schon wieder so früh da, {nick}. Ein fleißiger Gast hat fleißiges Glück."
     ],
     "noon": [
       "Guten Tag, {nick}! Hast du dich für das heutige Orakel gestärkt?",
       "Willkommen am Mittag, {nick}! Gute Bande und Erfolg begleiten dich.",
-      "Schön, dass du wieder da bist, {nick}! Zeit für deine nächste Ziehung."
+      "Schön, dass du wieder da bist, {nick}! Zeit für deine nächste Ziehung.",
+      "{nick}, wir sehen uns am Mittag wieder. Eine gute Stunde für Menschen – gute Nachrichten kommen.",
+      "{nick}, die Mittagssonne ist warm. An so einem Tag melde dich bei jemandem, den du aufgeschoben hast.",
+      "Wieder am Tag da, {nick}. Die Energie von heute ist auf Beziehungen gerichtet."
     ],
     "evening": [
       "Guten Abend, {nick}! Lass uns den Tag mit Weisheit abrunden.",
       "Willkommen zurück im Abendlicht, {nick}! Wie stand das Glück heute?",
-      "Wieder da, {nick}! Die Abendstunde belohnt treue Gefährten."
+      "Wieder da, {nick}! Die Abendstunde belohnt treue Gefährten.",
+      "{nick}, am Abend wieder da. Was du heute geleistet hast, erleichtert morgen.",
+      "{nick}, du kommst wieder, während die Sonne sinkt. Wer gut abschließt, gewinnt am Ende.",
+      "Ein Abendgruß ist willkommen, {nick}. Wähle nur eine Aufgabe für morgen, dann ruh dich aus."
     ],
     "night": [
       "Noch wach zu später Stunde, {nick}? Kkaebi hält stets Wache für dich.",
       "Mitternachtsbesuch, {nick}! Die nächtliche Ziehung birgt tiefe Einblicke.",
-      "Gute Nacht, {nick}! Lass Sorgen los und schöpfe frische Kraft."
+      "Gute Nacht, {nick}! Lass Sorgen los und schöpfe frische Kraft.",
+      "{nick}, so spät wieder da. Vor dem Schlaf lass wenigstens eines los.",
+      "{nick}, schön, dich in den frühen Stunden zu sehen. Hast du alle Knoten von heute gelöst?",
+      "Nachts wieder da, {nick}. In stillen Stunden tauchen Antworten von selbst auf."
     ]
   },
   "long_absence": {
     "morning": [
       "{nick}! Welch eine Freude nach all den Tagen! Wie die Morgensonne kehrst du zurück!",
       "Schau an, {nick} ist wieder da! Die ältesten Schlüssel passen am besten. Tritt ein!",
-      "Willkommen daheim, {nick}! Dein Platz bei Kkaebi war stets reserviert."
+      "Willkommen daheim, {nick}! Dein Platz bei Kkaebi war stets reserviert.",
+      "{nick}, nach so langer Zeit klopfst du an die Morgentür! Der Morgen ist großzügig zu denen, die neu beginnen.",
+      "Hehe, {nick}! Nach langer Zeit erscheinst du am Morgen. Ein gutes Zeichen.",
+      "{nick}, die Zeit deiner Abwesenheit ist auch eine Seite deiner Geschichte. Fahren wir am Morgen fort."
     ],
     "noon": [
       "{nick}! Wie lange ist es her? Schön, dass du zur Mittagsstunde wieder da bist!",
       "Alte Freunde kehren stets zurück! Willkommen, {nick}, nimm Platz.",
-      "Ein freudiges Wiedersehen, {nick}! Lass uns an vergangene Triumphe anknüpfen."
+      "Ein freudiges Wiedersehen, {nick}! Lass uns an vergangene Triumphe anknüpfen.",
+      "{nick}, nach einer Weile kamst du am Mittag. Die Sonne ist warm, und das Band reift wieder.",
+      "Lange nicht gesehen, {nick}! Wer am Mittag zurückkehrt, wird zum Wohltäter.",
+      "{nick}, die Sonne an diesem Wiedersehenstag ist besonders schön. Setz dich und erzähl."
     ],
     "evening": [
       "{nick} ist zurückgekehrt! Sogar das Abendrot strahlt heute heller.",
       "Lange nicht gesehen, {nick}! Hast du unterwegs viele Weisheiten gesammelt?",
-      "Endlich wieder da, {nick}! Jeder Neuanfang beginnt mit einem Wiedersehen."
+      "Endlich wieder da, {nick}! Jeder Neuanfang beginnt mit einem Wiedersehen.",
+      "{nick}, du bist am Abend zurückgekehrt. Dein Blick ist tiefer – gut so.",
+      "Ein Abendgruß nach langem Schweigen – ganz der {nick}!",
+      "{nick}, schön, uns im Abendrot wiederzusehen. Ab heute verbinden wir uns langsam neu."
     ],
     "night": [
       "In tiefer Nacht kehrt {nick} zurück! Wie eine vertraute Sternschnuppe.",
       "{nick}! Auch nach langer Abwesenheit kennt Kkaebi dein Herz.",
-      "Willkommen zurück in der Nacht, {nick}! Schlafe heute mit leichtem Geist."
+      "Willkommen zurück in der Nacht, {nick}! Schlafe heute mit leichtem Geist.",
+      "{nick}, nach so langer Zeit bist du in dieser Nacht zurück. Du warst gewiss einsam.",
+      "Eine Rückkehr in den frühen Stunden – dramatisch wie immer, {nick}! Komm, setz dich.",
+      "{nick}, nach langer Zeit sehe ich dich bei Nacht. Die Nacht eignet sich, alte Herzen neu zu verbinden."
     ]
   }
 }

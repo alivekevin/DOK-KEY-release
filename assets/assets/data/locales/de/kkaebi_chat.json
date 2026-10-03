@@ -213,6 +213,71 @@
         "🔢 Zähler, ⏱️ Stoppuhr, ⏳ 3-Stufen-Timer und 🗝️ Glückszahl-Generator an einem Ort.",
         "Öffne jetzt [🧰 Werkzeugkasten] und starte Memo & Doodle!"
       ]
+    },
+    {
+      "id": "util_calc",
+      "chip_title": "🧮 Tipps für den Allzweck-Rechner",
+      "user_question": "Kkaebi, wann nutze ich die neun Rechner am besten?",
+      "req_level": 1,
+      "steps": [
+        "Die Werkzeugkiste enthält ganze neun Rechner! Tisch-, Prozent-, Einheiten-, Wissenschafts-, Programmier-, Chemie-, Genetik-, Elektro- und Halbleiterrechner — alles für den Alltag.",
+        "Beim Einkaufen addierst du schnell mit dem Tischrechner, und Rabatte vergleichst du mit dem Prozentrechner in einem Schritt aus Original- und Angebotspreis.",
+        "Für Kochen oder Reisevorbereitung ist die Einheitenumrechnung ideal. Kein Verwechseln mehr von Tassen und Gramm, Meilen und Kilometern.",
+        "Du lernst gerade? Erledige Trigonometrie und Basisumrechnung mit dem Wissenschafts- und Programmierrechner und beende Hausaufgaben mit Elektro-, Chemie- und Genetikrechner.",
+        "Fazit heute! Wenn das Rechnen hakt, öffne die Werkzeugkiste. Auch krumme Zahlen lösen sich mit einem einzigen Kkaebi-Werkzeug!"
+      ]
+    },
+    {
+      "id": "util_optics",
+      "chip_title": "🪞 Spiegel- und Lupen-Tipps",
+      "user_question": "Kkaebi, wie nutze ich den smarten Spiegel und die Präzisionslupe?",
+      "req_level": 1,
+      "steps": [
+        "Der smarte Spiegel unterstützt einen 0,5-fachen Ultraweitwinkel! Auch ein schmaler Frisiertisch zeigt deinen ganzen Körper.",
+        "Klapp die schmale Leiste oben am Spiegel ein, schrumpfen die Tasten auf eine Reihe und du siehst mehr. Öffne sie nur bei Bedarf.",
+        "Tippe auf die Spiegeltaste für ein echtes Spiegelbild, und noch einmal, um dich genau so zu sehen, wie andere dich sehen.",
+        "Die Präzisionslupe bietet bis zu 10-fache Vergrößerung mit Taschenlampe und Kontrastfilter. Perfekt für kleine Schrift oder Edelsteine!",
+        "Fazit heute! Richte dich mit dem Spiegel her und erkunde mit der Lupe die winzigen Details der Welt!"
+      ]
+    },
+    {
+      "id": "util_audio",
+      "chip_title": "🎵 Audio und Meditationsklänge",
+      "user_question": "Kkaebi, wie nutze ich den Audioplayer und die Meditationsklänge?",
+      "req_level": 1,
+      "steps": [
+        "Das Audiolabor unterstützt hochwertige DAC-Wiedergabe! Sortiere deine Lieblingsmusik in Ordner und baue deine eigene Playlist.",
+        "Passe die Geschwindigkeit an, um langsam zu lernen oder schnell zu überfliegen, und der Schlaftimer stoppt die Musik leise, wenn du einschläfst.",
+        "Wenn der Kopf wirr ist, spiele ruhige Meditationsmusik und atme dreimal tief durch. Auch Kkaebi wird bei diesem Klang ruhig.",
+        "Die Wiedergabe läuft im Hintergrund weiter, du kannst also den Bildschirm ausschalten und entspannt ruhen.",
+        "Fazit heute! Musik ist Medizin fürs Herz. Finde heute deinen eigenen Heilklang und spiele ihn!"
+      ]
+    },
+    {
+      "id": "lore_alchemy",
+      "chip_title": "🗝️ Die Legende der Goldschlüssel-Schmiede",
+      "user_question": "Kkaebi, erzähl mir die Legende der Goldschlüssel-Schmiede!",
+      "req_level": 2,
+      "steps": [
+        "Vor langer Zeit, tief im Koboldtal, stand eine Schmiede, die verstreute Zahlen sammelte und zu goldenen Schlüsseln formte.",
+        "Ihre Meisterschmiede polierten Zahlen voller Wünsche der Menschen und schufen einen magischen Schlüssel, den es nur einmal auf der Welt gibt.",
+        "Um einen Schlüssel zu schmieden, musst du die im Tresor gesammelten Glückszahlen kombinieren. Deine gezogenen Zahlen sind das Rohmaterial.",
+        "Je feiner der Schlüssel, desto länger musst du ihn aufbewahren, damit sein Licht nicht verblasst. Bewahre jeden geschmiedeten Kombischlüssel gut auf.",
+        "Fazit heute! Schmiede jede Zahl mit deinem innigen Wunsch. Der goldene Schlüssel öffnet dir den Weg!"
+      ]
+    },
+    {
+      "id": "lore_treasure",
+      "chip_title": "🎁 Kkaebis Schatzbeutel-Geschichte",
+      "user_question": "Kkaebi, erzähl mir die Geschichte des Allzweck-Schatzbeutels!",
+      "req_level": 2,
+      "steps": [
+        "Im Kobolddorf gibt es einen legendären Beutel, der seine Schätze großzügig den Treuen schenkt.",
+        "Öffne diesen Beutel, und 10 goldene Schlüssel, 300 Koboldmünzen und +50 unserer Zuneigung strömen auf einmal heraus.",
+        "Doch er öffnet sich nicht für jeden. Nur für die, die im Laden mit aufrichtigem Herzen bitten, glänzt der Beutel.",
+        "Dieser Beutel ist kein Handel, sondern ein Zeichen der Freundschaft. So sehr du mich schätzt, wird mein Schatz auch deiner.",
+        "Fazit heute! Schätze wachsen, wenn man sie teilt. Hol dir heute im Laden auch etwas Glück ab!"
+      ]
     }
   ],
   "exhausted_endings": [

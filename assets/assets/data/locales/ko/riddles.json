@@ -252,12 +252,12 @@
     "id": "rid_014"
   },
   {
-    "question": "먹물을 갈아 글씨를 만들어내는, 스승의 책상 위 그릇은?",
+    "question": "검은 먹을 갈아 글씨를 쓰게 돕는, 네모난 돌 그릇은?",
     "options": [
       "벼루",
-      "주전자",
-      "그릇",
-      "항아리"
+      "연적",
+      "필통",
+      "문진"
     ],
     "answer_index": 0,
     "reward_keys": 1,
@@ -324,24 +324,6 @@
     "id": "rid_018"
   },
   {
-    "question": "다리가 없는데도 길게 기어가며, 벗은 껍질은 약이 되는 것은?",
-    "options": [
-      "뱀",
-      "도마뱀",
-      "지렁이",
-      "장화"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "정답! 뱀은 허물을 벗을 때마다 새로 태어난다깨비!",
-      "wrong": "땡! 다리 없이도 세상을 건너는 자라네!"
-    },
-    "id": "rid_019"
-  },
-  {
     "question": "아침부터 저녁까지 해를 쫓아 고개를 돌리는 꽃은?",
     "options": [
       "코스모스",
@@ -396,22 +378,22 @@
     "id": "rid_022"
   },
   {
-    "question": "목에 감겨야 제 맛이 나는, 겨울의 부드러운 벗은?",
-    "options": [
-      "장갑",
-      "양말",
-      "목도리",
-      "모자"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
+    "id": "rid_023",
+    "category": "daily",
     "difficulty": 1,
-    "category": "nature",
+    "reward_keys": 1,
+    "question": "목을 따뜻하게 감싸주더니, 실내로 들어오는 순간 혼자 땀범벅을 만들며 답답하게 조이는 것은?",
+    "options": [
+      "마스크",
+      "목도리",
+      "넥워머",
+      "귀마개"
+    ],
+    "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "정답! 목도리는 겨울 바람과 목 사이의 성벽이다깨비!",
-      "wrong": "땡! 목에 감아야 제 맛나는 겨울 벗이라네!"
-    },
-    "id": "rid_023"
+      "correct": "풀썩! 버스 타자마자 사우나에 온 것처럼 땀이 줄줄 흐르게 만들지!",
+      "wrong": "아니야~ 풀어서 들고 다니면 거추장스러운 짐짝 1호가 되는 건 목도리란다."
+    }
   },
   {
     "question": "눈을 감고 들으면 잠이 오는, 엄마의 목소리로 부르는 노래는?",
@@ -630,20 +612,20 @@
     "id": "rid_035"
   },
   {
-    "question": "강 위에 하나씩 놓여 밟고 건너게 해주는 돌의 계단은?",
+    "question": "강 위에 하나씩 놓여 발판이 되어주는 돌의 길목은?",
     "options": [
-      "계단",
-      "배",
       "징검다리",
-      "다리"
+      "계단",
+      "뗏목",
+      "부표"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "정답! 징검다리는 돌들이 손을 잡아 만든 길이다깨비!",
-      "wrong": "땡! 돌이 손잡고 건너게 해주는 계단이라네!"
+      "wrong": "돌이 손잡고 건너게 해주는 길이라네!"
     },
     "id": "rid_036"
   },
@@ -1188,22 +1170,22 @@
     "id": "rid_066"
   },
   {
-    "question": "숫자들이 둥글게 모여 있고, 소리 없이 세상을 재촉하는 것은?",
+    "id": "rid_067",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "손목에 단정하게 차고 나왔는데, 옷소매를 걷을 때마다 셔츠 단추를 걸어 채며 실밥을 뜯어놓는 것은?",
     "options": [
-      "시계",
-      "달력",
-      "나침반",
-      "온도계"
+      "팔찌",
+      "메탈 시계줄",
+      "고무 밴드",
+      "반지"
     ],
-    "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
+    "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "정답! 시계는 소리 없이 시간을 알려주는 도구야!",
-      "wrong": "땡! 둥근 숫자판에서 시간을 읽는 거야!"
-    },
-    "id": "rid_067"
+      "correct": "타닥! 아끼는 니트 소매에 걸려 올이 쭈욱 풀려나가는 끔찍한 소리!",
+      "wrong": "땡! 차가운 쇠 느낌은 좋은데 니트 올만 갉아먹는 건 메탈 시계줄이란다."
+    }
   },
   {
     "question": "줄수록 커지고, 나눌수록 깊어지는 마음은?",
@@ -1352,12 +1334,12 @@
   {
     "question": "여덟 다리 친구가 밤새 짜 놓은, 이슬에 반짝이는 그물은?",
     "options": [
-      "실타래",
-      "낚싯줄",
       "거미줄",
-      "그물"
+      "체망",
+      "잠자리채",
+      "빨래망"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1386,22 +1368,22 @@
     "id": "rid_077"
   },
   {
-    "question": "코 위에 걸터앉아 흐린 세상을 또렷하게 만들어주는 것은?",
+    "id": "rid_078",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "평소엔 헐렁해서 툭 떨어지더니, 양손에 짐을 가득 들었을 때만 코끝으로 흘러내리는 것은?",
     "options": [
-      "모자",
-      "안경",
       "마스크",
-      "목걸이"
+      "안경",
+      "모자",
+      "귀걸이"
     ],
     "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
     "kkaebi_reaction": {
-      "correct": "정답! 안경은 흐린 눈을 대신해 주는 고마운 친구야!",
-      "wrong": "땡! 눈에 쓰는 거야!"
-    },
-    "id": "rid_078"
+      "correct": "스르륵! 꼭 손을 쓸 수 없는 기막힌 순간에만 중력의 법칙을 증명하지.",
+      "wrong": "틀렸어~ 어깨나 손등으로 밀어 올리느라 끙끙 앓게 만드는 건 안경이란다."
+    }
   },
   {
     "question": "국물은 마시고 밥알은 건져내는, 밥상 위의 작은 삽은?",
@@ -1676,12 +1658,12 @@
   {
     "question": "편지를 넣으면 멀리까지 대신 달려가 주는, 빨간 네모 상자는?",
     "options": [
-      "가방",
-      "상자",
       "우체통",
-      "금고"
+      "서랍장",
+      "금고",
+      "책꽂이"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1782,14 +1764,14 @@
     "id": "rid_099"
   },
   {
-    "question": "앞이 뿌옇게 사라지는, 땅에 내려앉은 구름은?",
+    "question": "앞이 뿌옇게 가려지는, 땅 위로 하얗게 내려앉은 장막은?",
     "options": [
-      "연기",
       "안개",
-      "김",
-      "구름"
+      "구름",
+      "먼지",
+      "서리"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1800,7 +1782,7 @@
     "id": "rid_100"
   },
   {
-    "question": "꽃밭을 팔랑팔랑 나는, 날개 달린 꽃은?",
+    "question": "꽃잎처럼 알록달록 고운 날개를 펴고, 꽃밭 사이를 날아다니는 것은?",
     "options": [
       "벌",
       "나비",
@@ -1812,8 +1794,8 @@
     "difficulty": 2,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "정답! 나비는 꽃밭을 나는 날개 달린 꽃이야!",
-      "wrong": "땡! 꽃밭을 팔랑팔랑 나는 곤충이야!"
+      "correct": "정답! 그건 꽃이 아니라, 꽃잎 같은 날개를 가진 곤충 나비란다!",
+      "wrong": "땡! 정답은 꽃이 아니라 꽃잎 같은 날개로 나는 곤충이라네."
     },
     "id": "rid_101"
   },
@@ -2178,24 +2160,6 @@
     "id": "rid_121"
   },
   {
-    "question": "느림보 거북이와 달리기 경주를 해서 진, 자만심 많은 동물은?",
-    "options": [
-      "여우",
-      "사슴",
-      "말",
-      "토끼"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "story",
-    "kkaebi_reaction": {
-      "correct": "정답! 토끼는 자만하다가 거북이에게 졌지!",
-      "wrong": "땡! 거북이와 경주한 빠른 동물이야!"
-    },
-    "id": "rid_122"
-  },
-  {
     "question": "여름내 노래만 부르다 겨울에 굶게 된, 개미와 함께 나오는 곤충은?",
     "options": [
       "매미",
@@ -2412,24 +2376,6 @@
     "id": "rid_134"
   },
   {
-    "question": "동양 신수 중에서, 거짓을 물어뜯어 옳고 그름을 가리는 정의의 신수는?",
-    "options": [
-      "사자",
-      "용",
-      "호랑이",
-      "해태"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "myth",
-    "kkaebi_reaction": {
-      "correct": "정답! 해태는 거짓을 물어뜯는 정의의 신수야!",
-      "wrong": "땡! 궁궐 앞을 지키는 정의의 신수야!"
-    },
-    "id": "rid_135"
-  },
-  {
     "question": "어진 성인이 나타날 때 모습을 드러낸다는 동양의 상상 동물은?",
     "options": [
       "유니콘",
@@ -2520,14 +2466,14 @@
     "id": "rid_140"
   },
   {
-    "question": "동양 전설에서 태양 속에 산다는, 세 발 달린 까마귀 신수는?",
+    "question": "동양 전설에서 태양 속에 산다는, 세 개의 발을 가진 신령한 검은 새는?",
     "options": [
-      "봉황",
-      "주작",
+      "삼족오",
       "까마귀",
-      "삼족오"
+      "제비",
+      "두루미"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2736,14 +2682,14 @@
     "id": "rid_152"
   },
   {
-    "question": "동양사상에서 사방을 지키는 사신 중, 서쪽을 맡아 흰 호랑이의 모습을 한 신수는?",
+    "question": "동양사상에서 사방을 지키는 사신 중, 서쪽을 맡은 흰 맹수 신수는?",
     "options": [
+      "백호",
       "호랑이",
-      "해태",
-      "현무",
-      "백호"
+      "표범",
+      "해태"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -3942,12 +3888,12 @@
     "id": "rid_219"
   },
   {
-    "question": "동양 전설에서 견우성 건너편에서 베를 짜는 직녀의 별은?",
+    "question": "은하수 건너편의 짝을 그리워하며 베를 짜는 전설 속 별은?",
     "options": [
       "직녀성",
-      "견우성",
       "북극성",
-      "삼태성"
+      "카시오페이아",
+      "데네브"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4374,12 +4320,12 @@
     "id": "rid_243"
   },
   {
-    "question": "작은개자리에서 시리우스보다 먼저 떠오른다는 밝은 별은?",
+    "question": "작은개자리에서 가장 밝게 빛나며 겨울의 대삼각형을 이루는 별은?",
     "options": [
       "프로키온",
-      "시리우스",
-      "베텔기우스",
-      "카펠라"
+      "스피카",
+      "아크투루스",
+      "폴룩스"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4387,7 +4333,7 @@
     "category": "space",
     "kkaebi_reaction": {
       "correct": "정답! 프로키온은 앞서 뜨는 작은개자리 별이야!",
-      "wrong": "땡! 시리우스보다 먼저 뜨는 별이야!"
+      "wrong": "밝게 빛나며 앞서 뜨는 별이야!"
     },
     "id": "rid_244"
   },
@@ -4536,12 +4482,12 @@
     "id": "rid_252"
   },
   {
-    "question": "목동자리 곁에서 사냥개 두 마리를 상징하는 별자리는?",
+    "question": "하늘의 목동 곁에서 사냥개 두 마리를 상징하는 별자리는?",
     "options": [
       "사냥개자리",
       "목동자리",
-      "작은개자리",
-      "큰개자리"
+      "큰개자리",
+      "이리자리"
     ],
     "answer_index": 0,
     "reward_keys": 2,
@@ -4588,5 +4534,1949 @@
       "wrong": "땡! 봄밤 세 별이 만드는 삼각형이야!"
     },
     "id": "rid_255"
+  },
+  {
+    "question": "옷 여밈이 풀렸을 때 몰래 대신 채워 넣었지만, 움직일 때마다 살을 콕콕 찔러 게으름을 들통나게 하는 것은?",
+    "options": [
+      "옷핀",
+      "지퍼",
+      "벨크로(찍찍이)",
+      "브로치"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 옷핀은 급할 때 단추 대신 쓰지만 살을 찌르는 얄미운 녀석이지.",
+      "wrong": "옷 여밈 대신 꽂아 쓰는 작은 핀이라네."
+    },
+    "id": "rid_256"
+  },
+  {
+    "question": "남은 음식을 곱게 덮어주는 척하다가 서로 찰싹 들러붙어 뭉쳐버리는 것은?",
+    "options": [
+      "호일",
+      "키친타월",
+      "랩",
+      "비닐봉지"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 랩은 꼭 지들끼리 붙어서 성질을 테스트하지.",
+      "wrong": "땡! 음식 위에 씌우는 얇은 비닐이라네."
+    },
+    "id": "rid_257"
+  },
+  {
+    "question": "베란다 바람에 옷이 날아가지 않게 물고 있다가, 어깨에 뿔자국을 남기는 것은?",
+    "options": [
+      "빨래집게",
+      "옷핀",
+      "자석",
+      "집게"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "정답! 빨래집게 자국은 왜 그렇게 또렷한지 모르겠다깨비.",
+      "wrong": "땡! 빨랫줄에 옷을 집어 두는 도구라네."
+    },
+    "id": "rid_258"
+  },
+  {
+    "question": "음료수 뚜껑을 시원하게 따주려다 힘 조절에 실패하면 천장으로 뿜어 올리는 것은?",
+    "options": [
+      "가위",
+      "스패너",
+      "코르크스크루",
+      "병따개"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 병따개는 힘 조절을 잘해야 한단다.",
+      "wrong": "땡! 병뚜껑을 따는 도구라네."
+    },
+    "id": "rid_259"
+  },
+  {
+    "question": "고춧가루를 제 몸속에 박아두고 영원히 뱉지 않는 설거지 도구는?",
+    "options": [
+      "행주",
+      "수세미",
+      "스펀지",
+      "브러시"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 수세미는 김치 국물 색이 안 빠진다깨비.",
+      "wrong": "땡! 그릇을 닦는 거품 나는 도구라네."
+    },
+    "id": "rid_260"
+  },
+  {
+    "question": "물이 끓기 전엔 얌전하다가, 속이 부글부글 끓으면 온 동네에 비명을 지르는 것은?",
+    "options": [
+      "냄비",
+      "프라이팬",
+      "주전자",
+      "컵"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 주전자는 물이 끓으면 휘파람을 불지.",
+      "wrong": "땡! 물을 끓이는 도구라네."
+    },
+    "id": "rid_261"
+  },
+  {
+    "question": "발톱을 깎아주는 척하다가 자른 파편을 거실 반대편까지 로켓처럼 발사하는 것은?",
+    "options": [
+      "손톱깎이",
+      "가위",
+      "칼",
+      "줄"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 손톱깎이 파편은 늘 엉뚱한 데 떨어지지.",
+      "wrong": "땡! 손톱을 다듬는 도구라네."
+    },
+    "id": "rid_262"
+  },
+  {
+    "question": "물컵을 평화롭게 나르는 척하다가 문턱 하나 넘으면 와장창 파티를 여는 것은?",
+    "options": [
+      "접시",
+      "도마",
+      "바구니",
+      "쟁반"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 쟁반은 균형을 잃는 순간 대참사가 나지.",
+      "wrong": "땡! 여러 그릇을 받쳐 나르는 도구라네."
+    },
+    "id": "rid_263"
+  },
+  {
+    "question": "칼질을 온몸으로 받아내다가 김치 국물을 흠뻑 마시고 새빨갛게 물드는 것은?",
+    "options": [
+      "접시",
+      "도마",
+      "쟁반",
+      "행주"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 도마는 한 번 물들면 안 빠진다깨비.",
+      "wrong": "땡! 그 위에 놓고 칼질하는 판이라네."
+    },
+    "id": "rid_264"
+  },
+  {
+    "question": "주머니에서 뜨거워졌다가, 추운 저녁엔 딱딱한 돌멩이로 변하는 것은?",
+    "options": [
+      "보온병",
+      "찜질팩",
+      "핫팩",
+      "온수팩"
+    ],
+    "answer_index": 2,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 핫팩은 뜨거울 땐 천국, 식으면 돌멩이지.",
+      "wrong": "땡! 손을 데우는 주머니형 난방이라네."
+    },
+    "id": "rid_265"
+  },
+  {
+    "question": "식빵을 얌전히 품다가, 딴생각할 때 미사일처럼 튀어 올라 사람을 놀라게 하는 것은?",
+    "options": [
+      "토스터",
+      "전자레인지",
+      "오븐",
+      "에어프라이어"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 토스터의 '탁!' 소리는 늘 심장을 철렁하게 하지.",
+      "wrong": "땡! 빵을 굽는 기계라네."
+    },
+    "id": "rid_266"
+  },
+  {
+    "question": "빨대 속을 닦으려 들어갔다가 털이 끼어 결투를 신청하는 세척 도구는?",
+    "options": [
+      "칫솔",
+      "면봉",
+      "붓",
+      "빨대 브러시"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 빨대 브러시는 꽂으면 잘 안 빠진다깨비.",
+      "wrong": "땡! 가느다란 관을 닦는 솔이라네."
+    },
+    "id": "rid_267"
+  },
+  {
+    "question": "얼음을 꺼내려고 비틀었더니, 얼음 대신 제 몸통이 쪼개지는 것은?",
+    "options": [
+      "냉동팩",
+      "얼음 틀",
+      "물병",
+      "그릇"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 얼음 틀은 비틀다 보면 콰직 하고 갈라지지.",
+      "wrong": "땡! 얼음을 얼리는 틀이라네."
+    },
+    "id": "rid_268"
+  },
+  {
+    "question": "평소엔 구석에서 조용하다가, 물이 꽉 막혀 역류할 때만 소환되는 구원투수는?",
+    "options": [
+      "뚫어뻥",
+      "변기",
+      "세면대",
+      "솔"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "정답! 뚫어뻥은 위기의 순간에만 등장하지.",
+      "wrong": "땡! 막힌 곳을 뚫는 도구라네."
+    },
+    "id": "rid_269"
+  },
+  {
+    "question": "택배를 지키는 척하다가, 밟을 때마다 팡팡 울려 몰래 뜯은 걸 들통나게 하는 것은?",
+    "options": [
+      "뽁뽁이",
+      "비닐",
+      "스티로폼",
+      "테이프"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 뽁뽁이는 밟으면 자백을 하지.",
+      "wrong": "땡! 포장에 쓰는 뾱뾱이 비닐이라네."
+    },
+    "id": "rid_270"
+  },
+  {
+    "question": "양치를 끝냈다고 믿는 입속에서 숨어 있던 고춧가루를 낚아채는 것은?",
+    "options": [
+      "칫솔",
+      "이쑤시개",
+      "가글",
+      "치실"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "정답! 치실은 숨어 있던 걸 기어코 찾아내지.",
+      "wrong": "땡! 이 사이를 닦는 실이라네."
+    },
+    "id": "rid_271"
+  },
+  {
+    "question": "고리를 당기면 참치를 내어주지만, 방심하면 손가락을 베는 강철 방패는?",
+    "options": [
+      "병뚜껑",
+      "통조림 뚜껑",
+      "캔따개",
+      "호일"
+    ],
+    "answer_index": 1,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 통조림 뚜껑은 늘 손끝을 노린다깨비.",
+      "wrong": "땡! 캔 위를 덮은 뚜껑이라네."
+    },
+    "id": "rid_272"
+  },
+  {
+    "question": "리모컨을 툭툭 칠 땐 버티다가, 갈아 끼우려 뚜껑을 열면 바닥 속으로 사라지는 것은?",
+    "options": [
+      "충전기",
+      "전구",
+      "건전지",
+      "스위치"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 건전지는 꼭 필요할 때 굴러 사라지지.",
+      "wrong": "땡! 전원을 넣는 동그란 알이라네."
+    },
+    "id": "rid_273"
+  },
+  {
+    "question": "빵빵할 땐 부드럽게 나오다가, 홀쭉해지면 악력 테스트를 시키는 것은?",
+    "options": [
+      "치약",
+      "비누",
+      "샴푸",
+      "린스"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "정답! 치약은 끝까지 짜내려면 덜덜 떨려야 하지.",
+      "wrong": "땡! 이를 닦는 데 쓰는 것이라네."
+    },
+    "id": "rid_274"
+  },
+  {
+    "question": "컴퓨터에 꽂으려는데 앞뒤가 안 맞아 몇 번씩 뒤집게 만드는 것은?",
+    "options": [
+      "SD카드",
+      "충전기",
+      "이어폰",
+      "USB 메모리"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "tech",
+    "kkaebi_reaction": {
+      "correct": "정답! USB는 왜 꼭 세 번 뒤집게 만들까!",
+      "wrong": "땡! 파일을 담아 꽂는 저장 장치라네."
+    },
+    "id": "rid_275"
+  },
+  {
+    "question": "급하게 한입 베어 물면 속재료가 빠져 옷에 자국을 남기는 것은?",
+    "options": [
+      "김밥",
+      "삼각김밥",
+      "주먹밥",
+      "샌드위치"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "정답! 삼각김밥은 늘 속이 먼저 도망가지.",
+      "wrong": "땡! 삼각형 김에 싼 밥이라네."
+    },
+    "id": "rid_276"
+  },
+  {
+    "question": "입가에 빨간 소스를 묻히고 다니면 친구가 바로 알아채는 음식은?",
+    "options": [
+      "라면",
+      "순대",
+      "떡볶이",
+      "어묵"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "정답! 떡볶이 소스는 입가에 딱 남지.",
+      "wrong": "땡! 빨간 양념에 떡을 볶은 음식이라네."
+    },
+    "id": "rid_277"
+  },
+  {
+    "question": "낮잠 자려고 눕자마자 삐걱 소리로 온 집안에 알리는 가구는?",
+    "options": [
+      "소파",
+      "침대",
+      "의자",
+      "매트"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "정답! 소파는 누우면 꼭 삐걱거린다깨비.",
+      "wrong": "땡! 거실에 놓고 앉는 긴 가구라네."
+    },
+    "id": "rid_278"
+  },
+  {
+    "question": "정류장을 놓치고 뒤늦게 누르면, 온 차가 돌아보게 만드는 것은?",
+    "options": [
+      "손잡이",
+      "버튼",
+      "안내방송",
+      "하차벨"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "transit",
+    "kkaebi_reaction": {
+      "correct": "정답! 하차벨은 늦게 누르면 더 요란하지.",
+      "wrong": "땡! 내릴 때 누르는 종이라네."
+    },
+    "id": "rid_279"
+  },
+  {
+    "question": "힘주어 쓰면 스스로 허리를 부러뜨리며 파업하는 것은?",
+    "options": [
+      "연필심",
+      "샤프심",
+      "볼펜심",
+      "크레파스"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 샤프심은 시험 중에 꼭 부러지지.",
+      "wrong": "땡! 샤프에 넣는 가는 심이라네."
+    },
+    "id": "rid_280"
+  },
+  {
+    "question": "머리통을 넣고 돌려야 뾰족해지고, 배가 부르면 부스러기를 토하는 것은?",
+    "options": [
+      "지우개",
+      "자",
+      "연필깎이",
+      "가위"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 연필깎이는 나무 부스러기를 내놓지.",
+      "wrong": "땡! 연필을 깎는 도구라네."
+    },
+    "id": "rid_281"
+  },
+  {
+    "question": "뚜껑을 안 닫으면 스스로 말라 돌멩이가 되는 것은?",
+    "options": [
+      "딱풀",
+      "목공풀",
+      "테이프",
+      "본드"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 딱풀은 안 닫으면 그냥 굳어버린다깨비.",
+      "wrong": "땡! 종이를 붙이는 막대 풀이라네."
+    },
+    "id": "rid_282"
+  },
+  {
+    "question": "등에 업혀 무거운 책을 짊어지다가, 집에 오면 제일 먼저 바닥에 패대기되는 것은?",
+    "options": [
+      "가방",
+      "에코백",
+      "보조가방",
+      "책가방"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 책가방은 등에 업히고도 늘 팽개쳐지지.",
+      "wrong": "땡! 책을 넣어 메는 가방이라네."
+    },
+    "id": "rid_283"
+  },
+  {
+    "question": "여기가 시험에 나온다고 강조하지만, 정작 시험장에선 머릿속에서 사라지는 것은?",
+    "options": [
+      "볼펜",
+      "형광펜",
+      "색연필",
+      "사인펜"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 형광펜 칠한 곳은 시험에 안 나오더라깨비.",
+      "wrong": "땡! 중요한 곳에 칠하는 펜이라네."
+    },
+    "id": "rid_284"
+  },
+  {
+    "question": "친구 등에 붙이면 잘 달라붙지만, 시험 범위 적어둔 건 바람에 날아가버리는 것은?",
+    "options": [
+      "메모지",
+      "스티커",
+      "포스트잇",
+      "종이"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 포스트잇은 꼭 중요한 것만 날아가지.",
+      "wrong": "땡! 붙였다 떼는 작은 메모지라네."
+    },
+    "id": "rid_285"
+  },
+  {
+    "question": "머리를 묶어주는 척하다가, 결정적 순간 '팅' 끊어지는 것은?",
+    "options": [
+      "머리끈",
+      "핀",
+      "머리띠",
+      "빗"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 머리끈은 늘 가장 급할 때 끊어지지.",
+      "wrong": "땡! 머리를 묶는 고무줄이라네."
+    },
+    "id": "rid_286"
+  },
+  {
+    "question": "한 장만 나오면 될 것을, 급히 뽑으면 소시지처럼 연달아 튀어나오는 것은?",
+    "options": [
+      "휴지",
+      "손수건",
+      "키친타월",
+      "물티슈"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 물티슈는 급하게 뽑으면 줄줄이 나오지.",
+      "wrong": "땡! 물에 적셔 쓰는 티슈라네."
+    },
+    "id": "rid_287"
+  },
+  {
+    "question": "청소 시간에 친구 등덜미에 몰래 차가운 물을 쏘는 것은?",
+    "options": [
+      "물뿌리개",
+      "분무기",
+      "물총",
+      "호스"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 분무기는 꼭 엉뚱한 곳에 물을 뿌리지.",
+      "wrong": "땡! 물을 안개처럼 뿜는 도구라네."
+    },
+    "id": "rid_288"
+  },
+  {
+    "question": "조용한 자습 시간에 '찌이익' 소리를 내 온 반의 시선을 끄는 것은?",
+    "options": [
+      "단추",
+      "지퍼",
+      "찍찍이",
+      "끈"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 찍찍이는 조용할 때 꼭 소리를 내지.",
+      "wrong": "땡! 붙였다 떼는 벨크로라네."
+    },
+    "id": "rid_289"
+  },
+  {
+    "question": "앉아 있으면 폭신하지만, 일어설 때 툭 떨어져 발목을 낚아채는 것은?",
+    "options": [
+      "방석",
+      "쿠션",
+      "베개",
+      "매트"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 방석은 꼭 일어설 때 발밑에 떨어지지.",
+      "wrong": "땡! 의자에 까는 폭신한 자리라네."
+    },
+    "id": "rid_290"
+  },
+  {
+    "question": "교복에 대고 굴리면 방 청소를 얼마나 안 했는지 증명하는 것은?",
+    "options": [
+      "빗자루",
+      "청소기",
+      "먼지떨이",
+      "테이프 클리너"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "정답! 테이프 클리너는 숨길 게 없게 만들지.",
+      "wrong": "땡! 끈적한 롤러로 먼지를 붙이는 도구라네."
+    },
+    "id": "rid_291"
+  },
+  {
+    "question": "게시판을 잘 고정하지만, 바닥에 떨어지면 슬리퍼를 뚫고 발바닥을 찌르는 것은?",
+    "options": [
+      "못",
+      "압정",
+      "클립",
+      "자석"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 압정은 늘 맨발을 노린다깨비.",
+      "wrong": "땡! 게시물을 꽂아 두는 작은 못이라네."
+    },
+    "id": "rid_292"
+  },
+  {
+    "question": "우유갑 구멍에 꽂으려다 자기 목만 꺾여버리는 것은?",
+    "options": [
+      "빨대",
+      "젓가락",
+      "자바라 빨대",
+      "포크"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 자바라 빨대는 꺾이는 부위가 약하지.",
+      "wrong": "땡! 접히는 부분이 있는 빨대라네."
+    },
+    "id": "rid_293"
+  },
+  {
+    "question": "신나게 주고받다가 강당 천장 철골에 끼어버리는 것은?",
+    "options": [
+      "셔틀콕",
+      "탁구공",
+      "라켓",
+      "공"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "정답! 셔틀콕은 꼭 안 닿는 곳에 끼이지.",
+      "wrong": "땡! 배드민턴에서 치는 깃털 공이라네."
+    },
+    "id": "rid_294"
+  },
+  {
+    "question": "가볍게 튀다가, 세게 밟히면 찌그러져 돌아오지 않는 유리 멘탈은?",
+    "options": [
+      "셔틀콕",
+      "야구공",
+      "축구공",
+      "탁구공"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "정답! 탁구공은 한 번 찌그러지면 끝이지.",
+      "wrong": "땡! 탁구대에서 튀는 작은 공이라네."
+    },
+    "id": "rid_295"
+  },
+  {
+    "question": "먼지를 털어내려다 정전기로 온 세상 먼지를 다 끌어당기는 것은?",
+    "options": [
+      "빗",
+      "옷솔",
+      "붓",
+      "먼지떨이"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 옷솔은 털수록 먼지가 붙지.",
+      "wrong": "땡! 옷의 먼지를 터는 솔이라네."
+    },
+    "id": "rid_296"
+  },
+  {
+    "question": "계란프라이를 뒤집어주려다 노른자를 터뜨려 비주얼을 망치는 것은?",
+    "options": [
+      "국자",
+      "주걱",
+      "뒤집개",
+      "집게"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 뒤집개는 딱 그 순간에 노른자를 터뜨리지.",
+      "wrong": "땡! 프라이를 뒤집는 도구라네."
+    },
+    "id": "rid_297"
+  },
+  {
+    "question": "찌개를 뜨려다 냄비 손잡이에 미끄러져 국물에 퐁당 빠지는 것은?",
+    "options": [
+      "국자",
+      "주걱",
+      "뒤집개",
+      "숟가락"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 국자는 꼭 국물 속으로 잠수하지.",
+      "wrong": "땡! 국물을 떠내는 도구라네."
+    },
+    "id": "rid_298"
+  },
+  {
+    "question": "좁은 입구에 붓다가 급하면 왈칵 역류시켜 밖으로 흘리는 것은?",
+    "options": [
+      "국자",
+      "컵",
+      "주전자",
+      "깔때기"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 깔때기는 급하게 부으면 넘치게 하지.",
+      "wrong": "땡! 좁은 입구에 붓는 도구라네."
+    },
+    "id": "rid_299"
+  },
+  {
+    "question": "운동하려고 바닥에 깔았는데, 눕는 순간 낮잠 침대로 둔갑하는 것은?",
+    "options": [
+      "요가매트",
+      "매트리스",
+      "이불",
+      "방석"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "정답! 요가매트는 꼭 낮잠을 부르지.",
+      "wrong": "땡! 운동할 때 까는 매트라네."
+    },
+    "id": "rid_300"
+  },
+  {
+    "question": "아픈 곳을 달래주는 척하다가, 뗄 때 살갗과 털을 쥐어뜯는 것은?",
+    "options": [
+      "밴드",
+      "연고",
+      "파스",
+      "붕대"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "health",
+    "kkaebi_reaction": {
+      "correct": "정답! 파스는 뗄 때가 진짜 승부처지.",
+      "wrong": "땡! 아픈 곳에 붙이는 것이라네."
+    },
+    "id": "rid_301"
+  },
+  {
+    "question": "숨소리와 심장 박동만 천둥처럼 크게 들리게 하는 것은?",
+    "options": [
+      "귀마개",
+      "이어폰",
+      "안대",
+      "헤드폰"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 귀마개를 끼면 내 심장이 더 시끄럽지.",
+      "wrong": "땡! 귀를 막는 작은 마개라네."
+    },
+    "id": "rid_302"
+  },
+  {
+    "question": "라면을 끓이다가 막 열어젖히면 발등에 물방울을 떨어뜨리는 것은?",
+    "options": [
+      "프라이팬",
+      "접시",
+      "쟁반",
+      "냄비 뚜껑"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "kitchen",
+    "kkaebi_reaction": {
+      "correct": "정답! 냄비 뚜껑엔 늘 뜨거운 물방울이 맺혀 있지.",
+      "wrong": "땡! 냄비를 덮는 뚜껑이라네."
+    },
+    "id": "rid_303"
+  },
+  {
+    "question": "패딩을 잠가주는 척하다가, 안감을 씹고 꼼짝도 안 하는 것은?",
+    "options": [
+      "단추",
+      "지퍼",
+      "벨크로",
+      "끈"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 지퍼는 꼭 옷감을 물고 늘어지지.",
+      "wrong": "땡! 옷을 여미는 잠금 장치라네."
+    },
+    "id": "rid_304"
+  },
+  {
+    "question": "빙글빙글 도는 통 안에서 다른 옷의 소매를 칭칭 감아 한 덩어리로 만드는 것은?",
+    "options": [
+      "빨래망",
+      "세탁기",
+      "건조기",
+      "옷걸이"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "laundry",
+    "kkaebi_reaction": {
+      "correct": "정답! 빨래망은 밖의 옷까지 휘감아버리지.",
+      "wrong": "땡! 빨래를 넣는 그물망이라네."
+    },
+    "id": "rid_305"
+  },
+  {
+    "id": "rid_306",
+    "category": "bathroom",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "상처 난 자리를 안 아프게 감싸주더니, 손을 씻는 순간 물을 가득 머금고 덜렁거리며 떨어지는 것은?",
+    "options": [
+      "파스",
+      "일회용 밴드",
+      "거즈",
+      "붕대"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "너덜너덜! 방수 기능이라 쓰여 있던 글자는 도대체 어디로 간 걸까?",
+      "wrong": "아니야~ 물 한 번 묻히면 모서리가 허옇게 떠서 떼어내야 하는 건 밴드란다."
+    }
+  },
+  {
+    "question": "간지러운 귀를 시원하게 파주는 척하다가, 재채기 한 번에 지옥을 맛보게 하는 것은?",
+    "options": [
+      "면봉",
+      "이쑤시개",
+      "핀셋",
+      "귀이개"
+    ],
+    "answer_index": 3,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 귀이개는 절대 깊이 넣으면 안 된다깨비.",
+      "wrong": "땡! 귀를 파는 도구라네."
+    },
+    "id": "rid_307"
+  },
+  {
+    "question": "“별로 안 샀어”라고 해도 허리둘레 숫자로 폭로하는 것은?",
+    "options": [
+      "자",
+      "줄자",
+      "저울",
+      "컵"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 줄자는 거짓말을 못 하게 하지.",
+      "wrong": "땡! 길이를 재는 도구라네."
+    },
+    "id": "rid_308"
+  },
+  {
+    "question": "프린트물 몇 장을 묶어주는 척하다가, 필통 속에서 쇠사슬처럼 엉키는 것은?",
+    "options": [
+      "스테이플러",
+      "압정",
+      "클립",
+      "집게"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 클립은 꼭 지들끼리 엉켜 있지.",
+      "wrong": "땡! 종이를 집어 묶는 도구라네."
+    },
+    "id": "rid_309"
+  },
+  {
+    "question": "식당에서 이빨 사이 고춧가루를 가차 없이 파헤치는 것은?",
+    "options": [
+      "이쑤시개",
+      "젓가락",
+      "포크",
+      "치실"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "정답! 이쑤시개는 숨은 찌꺼기를 다 찾아내지.",
+      "wrong": "땡! 이 사이를 찌르는 막대라네."
+    },
+    "id": "rid_310"
+  },
+  {
+    "question": "어제 안 말리고 뭉쳐둬서 걸레 냄새를 풍기는 것은?",
+    "options": [
+      "행주",
+      "담요",
+      "휴지",
+      "수건"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "정답! 수건은 안 말리면 냄새가 하루 만에 배지.",
+      "wrong": "땡! 씻고 몸을 닦는 천이라네."
+    },
+    "id": "rid_311"
+  },
+  {
+    "question": "색종이를 오려주다가, 끈적한 테이프를 자르고 나면 뻑뻑하게 파업하는 것은?",
+    "options": [
+      "칼",
+      "가위",
+      "커터칼",
+      "톱"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "정답! 가위는 끈적한 걸 자르면 턱이 나가지.",
+      "wrong": "땡! 종이를 오리는 도구라네."
+    },
+    "id": "rid_312"
+  },
+  {
+    "question": "모기를 잡겠다고 휘둘렀다가 애꿎은 동생 등을 후려치는 것은?",
+    "options": [
+      "모기향",
+      "손",
+      "파리채",
+      "채"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "정답! 파리채는 꼭 엉뚱한 데 맞지.",
+      "wrong": "땡! 벌레를 때려잡는 막대라네."
+    },
+    "id": "rid_313"
+  },
+  {
+    "question": "펴둔 다리에 발을 뻗으면 정강이를 무쇠처럼 차버리는 것은?",
+    "options": [
+      "접이식 밥상",
+      "책상",
+      "식탁",
+      "의자"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
+    "kkaebi_reaction": {
+      "correct": "정답! 접이식 밥상 다리는 늘 정강이를 노리지.",
+      "wrong": "땡! 다리를 접는 작은 밥상이라네."
+    },
+    "id": "rid_314"
+  },
+  {
+    "question": "주머니에서 달그락거리다가, 떨어뜨리면 자판기 밑으로 숨는 것은?",
+    "options": [
+      "지폐",
+      "카드",
+      "버튼",
+      "동전"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "정답! 동전은 꼭 자판기 밑으로 굴러가 숨지.",
+      "wrong": "땡! 동그랗고 단단한 돈이라네."
+    },
+    "id": "rid_315"
+  },
+  {
+    "id": "rid_327",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "잘못 쓴 글자를 감쪽같이 덮어주더니, 그 위에 글씨를 쓰면 찌그러지며 벗겨지는 것은?",
+    "options": [
+      "포스트잇",
+      "수정테이프",
+      "딱풀",
+      "스카치테이프"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "드르륵! 볼펜 끝으로 긁히면 원래 글씨보다 더 흉측해지는 게 묘미란다.",
+      "wrong": "땡! 하얗게 밀리다가 필름이 밖으로 튀어나와 엉키는 건 수정테이프야."
+    }
+  },
+  {
+    "id": "rid_329",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "손가락으로 시원하게 뜯으려고 당겼는데, 시작점만 찢어지고 얇은 세로줄로 갈라져 버리는 것은?",
+    "options": [
+      "종이테이프",
+      "박스테이프",
+      "붕대",
+      "랩"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "찌익! 손톱으로 끝 모서리 찾느라 빙글빙글 돌리며 10분 날리지!",
+      "wrong": "땡! 사선으로 얇게 뜯겨나가며 사람 인내심 시험하는 건 박스테이프야."
+    }
+  },
+  {
+    "id": "rid_330",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "두 짝이 사이좋게 다니다가, 하나만 남으면 아무 데도 못 쓰게 되는 것은?",
+    "options": [
+      "포크",
+      "빨대",
+      "젓가락",
+      "주걱"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "딱 붙어 다녀야 제 맛! 하나만 남으면 그냥 가느다란 막대기야.",
+      "wrong": "땡! 하나만 남으면 무용지물이 되는 건 젓가락이지."
+    }
+  },
+  {
+    "id": "rid_331",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "문서를 깔끔하게 정리해 주더니, 한 장이라도 더 넣으려 하면 입을 쩍 벌리고 다 뱉어내는 것은?",
+    "options": [
+      "책갈피",
+      "스테이플러",
+      "클립",
+      "서류철"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "찰칵! 종이가 너무 두꺼우면 혼자 철심을 퉤 뱉으며 헛물만 켠단다.",
+      "wrong": "땡! 두꺼운 종이에 찍었다가 철심이 납작하게 찌그러지는 건 호치케스야."
+    }
+  },
+  {
+    "id": "rid_332",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "시원하게 마시려고 빨아들였는데, 음료 대신 바닥에 남은 얼음 사이로 시끄러운 공기 소리만 내는 것은?",
+    "options": [
+      "보온병",
+      "종이컵",
+      "플라스틱 빨대",
+      "숟가락"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "후루룩 컥! 조용한 도서관에서 혼자 천둥 같은 굉음을 터뜨리지!",
+      "wrong": "아니지~ 음료는 끝났는데 허공만 쪽쪽 빨아들이는 소리는 빨대 소리란다."
+    }
+  },
+  {
+    "id": "rid_333",
+    "category": "bathroom",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "분명 방금 닫았는데 가방 속에서 뚜껑이 열려, 온갖 소지품을 끈적거리게 만들어놓는 것은?",
+    "options": [
+      "선크림",
+      "립밤",
+      "물병",
+      "치약"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "미끌! 가방 바닥을 더듬다 미끌거리는 내용물을 만졌을 때의 그 절망감!",
+      "wrong": "틀렸어~ 주머니 열기만 닿아도 혼자 녹아서 뚜껑을 탈출하는 건 립밤이지."
+    }
+  },
+  {
+    "id": "rid_335",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "목마를 때 마시려고 챙겼는데, 가방 안에서 혼자 누워 소지품을 흠뻑 적셔놓는 것은?",
+    "options": [
+      "우산",
+      "부채",
+      "텀블러",
+      "보조배터리"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "철벅! '완전 밀폐'라는 글자를 믿었다가 교과서 모서리가 물에 불어 터진단다.",
+      "wrong": "아니야~ 가방을 열었을 때 물바다를 만들어 놓는 주범은 덜 닫힌 텀블러야."
+    }
+  },
+  {
+    "id": "rid_337",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "볼주머니에 먹이를 잔뜩 넣고 숨기더니, 쳇바퀴만 돌면 다 잊어버리는 것은?",
+    "options": [
+      "토끼",
+      "다람쥐",
+      "햄스터",
+      "고슴도치"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "부지런! 뺨이 빵빵해질 때까지 숨기고 쳇바퀴만 열심히 돌리지.",
+      "wrong": "땡! 볼주머니에 먹이를 숨기고 쳇바퀴를 타는 건 햄스터란다."
+    }
+  },
+  {
+    "id": "rid_338",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "바람을 빵빵하게 품어 든든하더니, 하루만 지나면 쭈글쭈글해져 바닥을 기어 다니는 것은?",
+    "options": [
+      "축구공",
+      "비치볼",
+      "풍선",
+      "에어캡"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "피식~ 어제는 천장에 닿을 듯 날더니 오늘은 주름투성이 할아버지가 됐구나!",
+      "wrong": "땡! 아무도 모르게 숨을 조금씩 내뱉으며 작아지는 건 풍선이란다."
+    }
+  },
+  {
+    "id": "rid_340",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "분명 100% 가득 채워 들고나왔는데, 저녁만 되면 혼자 붉은빛을 깜빡이며 헐떡이는 것은?",
+    "options": [
+      "스마트워치",
+      "보조배터리",
+      "무선 마우스",
+      "블루투스 스피커"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "깜빡깜빡! 밥 달라고 챙겨 나온 녀석이 정작 지 밥부터 다 털어먹었구나!",
+      "wrong": "아니지~ 가방 안에서 벽돌 무게만 자랑하다가 방전되는 건 보조배터리야."
+    }
+  },
+  {
+    "id": "rid_342",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "달콤한 과자를 신나게 베어 물었더니, 손가락 틈새로 소복하게 부스러기 비를 내리는 것은?",
+    "options": [
+      "젤리",
+      "초콜릿",
+      "페이스트리 파이",
+      "사탕"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "파사삭! 입으로 들어가는 것보다 책상 위에 떨어지는 가루가 더 많지!",
+      "wrong": "틀렸어~ 한 입 먹자마자 엄마의 등짝 스매싱을 부르는 과자는 파이란다."
+    }
+  },
+  {
+    "id": "rid_343",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "어두운 곳에서 환하게 비춰주더니, 내 얼굴 위에 손가락을 헛디디는 순간 안면으로 낙하하는 것은?",
+    "options": [
+      "독서등",
+      "스마트폰",
+      "태블릿",
+      "손전등"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "퍽! 누워서 유튜브 보다가 콧등을 제대로 찍혀본 자만이 아는 눈물!",
+      "wrong": "아니야~ 방심하는 순간 중력에 이끌려 내 얼굴을 강타하는 건 스마트폰이지."
+    }
+  },
+  {
+    "id": "rid_344",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "시험 직전엔 꼭 등장해서, 한 번 들리면 머릿속에서 멈추지 않고 무한 반복되는 것은?",
+    "options": [
+      "빗소리",
+      "중독성 노래",
+      "알람음",
+      "영어 단어"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "링딩동~ 수학 공식 대신 왜 광고 노래 멜로디만 무한 재생되는 걸까!",
+      "wrong": "땡! 한 번 머릿속에 들어오면 하루 종일 뇌를 점령하는 건 중독성 노래란다."
+    }
+  },
+  {
+    "id": "rid_345",
+    "category": "bathroom",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "따뜻하게 바람을 불어 머리를 말려주더니, 뒤쪽 흡입구로 내 머리카락을 덥석 집어삼키는 것은?",
+    "options": [
+      "선풍기",
+      "서큘레이터",
+      "헤어드라이어",
+      "청소기"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "위잉 퍽! 타는 냄새와 함께 소중한 머리카락 몇 가닥을 제물로 바쳤구나!",
+      "wrong": "아니지~ 뒤통수에 너무 가까이 댔다가 머리카락을 쥐어뜯는 건 드라이기야."
+    }
+  },
+  {
+    "id": "rid_347",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "뚜껑을 열면 따뜻한 밥이 나오는데, 다 먹고 나면 텅 빈 몸만 남아 돌아다니는 것은?",
+    "options": [
+      "냄비",
+      "도시락",
+      "보온병",
+      "접시"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "뚜껑 열면 반짝, 다 먹으면 빈 몸! 점심시간의 주인공이지.",
+      "wrong": "땡! 밥을 담아 들고 다니는 작은 상자는 도시락이란다."
+    }
+  },
+  {
+    "id": "rid_349",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "버튼 하나로 내 위치를 빠르게 올려주더니, 문이 닫히는 찰나에 탄 사람과 어색하게 눈만 마주치게 하는 것은?",
+    "options": [
+      "에스컬레이터",
+      "엘리베이터",
+      "케이블카",
+      "무빙워크"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "띵! 올라가는 내내 천장 숫자판만 뚫어져라 쳐다보게 만드는 침묵의 방!",
+      "wrong": "땡! 문 닫힘 버튼을 누르려다 남과 눈이 마주쳐 식은땀 흘리는 곳은 엘리베이터야."
+    }
+  },
+  {
+    "id": "rid_350",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "든든하게 조여 입었더니, 밥 한 숟가락 더 먹자마자 배를 가차 없이 파고드는 것은?",
+    "options": [
+      "멜빵",
+      "단추",
+      "허리띠",
+      "고무줄"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "조였다 풀었다! 식당에서 몰래 한 칸 푸는 순간의 그 해방감이란!",
+      "wrong": "틀렸어~ 뷔페에서 가장 먼저 항복을 선언하고 풀어헤치는 건 허리띠란다."
+    }
+  },
+  {
+    "id": "rid_351",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "음식을 바삭하게 데워주는 척하더니, 꺼내자마자 손가락이 데일 만큼 그릇만 펄펄 끓여놓는 것은?",
+    "options": [
+      "에어프라이어",
+      "전자레인지",
+      "오븐",
+      "토스터"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "앗 뜨거! 음식은 아직 미지근한데 접시 테두리만 용암처럼 끓고 있지!",
+      "wrong": "아니지~ 30초만 돌려도 접시를 들지 못하게 만드는 건 전자레인지란다."
+    }
+  },
+  {
+    "id": "rid_352",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "달콤하고 시원해서 한입에 삼켰더니, 이마 뒤통수까지 찌릿한 두통을 안겨주는 것은?",
+    "options": [
+      "얼음물",
+      "슬러시",
+      "아이스크림",
+      "탄산음료"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "띵~! 너무 급하게 퍼먹다가 관자놀이를 부여잡고 멈칫하게 되지!",
+      "wrong": "땡! 뇌가 얼어붙는 것 같은 찌릿한 펀치를 날리는 건 아이스크림이야."
+    }
+  },
+  {
+    "id": "rid_353",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "비밀번호를 입력하고 접속하려는데, 로봇이 아니라며 횡단보도 사진만 아홉 장 골라내라는 것은?",
+    "options": [
+      "백신 프로그램",
+      "캡차 인증",
+      "지문인식기",
+      "OTP 발생기"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "체크! 신호등 끄트머리가 걸렸는지 안 걸렸는지 5분 동안 고민하게 만들지!",
+      "wrong": "아니야~ 내가 사람인지 기계인지 스스로 의심하게 만드는 건 캡차 인증이란다."
+    }
+  },
+  {
+    "id": "rid_354",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "스마트폰 화면을 깨끗하게 지켜주더니, 붙이자마자 가운데에 큼직한 기포 방울을 품고 버티는 것은?",
+    "options": [
+      "케이스",
+      "그립톡",
+      "액정보호필름",
+      "카메라 커버"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "뾱! 먼지 한 톨 안 들어가게 숨죽여 붙였는데 기포 세 개가 반겨주지!",
+      "wrong": "땡! 손톱이나 카드로 아무리 밀어내도 꿋꿋이 버티는 건 보호필름이란다."
+    }
+  },
+  {
+    "id": "rid_355",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "분명 방금까지 내 머리 위에 얌전히 얹혀 있었는데, 거울만 보면 이마에 붉은 자국만 남기고 사라지는 것은?",
+    "options": [
+      "헤어밴드",
+      "헤어롤",
+      "머리핀",
+      "수건"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "돌돌돌! 말고 있는 줄도 까먹고 그대로 엘리베이터 탈 뻔했지?",
+      "wrong": "아니지~ 외출 직전 이마에 유니콘 뿔처럼 달고 다니는 건 헤어롤이야."
+    }
+  },
+  {
+    "id": "rid_356",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "입구가 좁은 용기에서 양념을 짜내려는데, 묵묵부답이다가 갑자기 퍽 소리와 함께 폭탄을 터뜨리는 것은?",
+    "options": [
+      "식용유",
+      "간장",
+      "케첩",
+      "참기름"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "푸슉! 옷소매에 빨간 점 하나 찍히는 순간 오늘의 외출 코디는 끝이란다.",
+      "wrong": "땡! 거꾸로 들고 통통 치다가 쟁반 위로 왈칵 쏟아지는 건 케첩통이지."
+    }
+  },
+  {
+    "id": "rid_357",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "방을 은은하게 비춰주며 분위기를 잡더니, 정작 끄려고 입김을 불면 매캐한 연기 폭탄을 날리는 것은?",
+    "options": [
+      "디퓨저",
+      "향초",
+      "스탠드 조명",
+      "무드등"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "후우 켁! 로맨틱한 향기는 온데간데없고 불장난 냄새만 가득 채우는 마술!",
+      "wrong": "틀렸어~ 촛농 가운데만 푹 파고들어가 심지만 홀랑 타버리는 건 향초란다."
+    }
+  },
+  {
+    "id": "rid_358",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "바삭하고 달콤하게 구워져 나왔는데, 한입 베어 물자마자 안에 든 뜨거운 꿀을 턱으로 발사하는 것은?",
+    "options": [
+      "붕어빵",
+      "델리만쥬",
+      "호떡",
+      "와플"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "앗 뜨거! 종이컵에 쥐고 호호 불다가 혓바닥 데이기 딱 좋은 겨울의 맛이지!",
+      "wrong": "아니야~ 방심하고 덥석 물었다가 마그마 같은 설탕물에 당하는 건 호떡이야."
+    }
+  },
+  {
+    "id": "rid_360",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "필통 속에 고이 모셔뒀는데, 뚜껑이 헐거워져 혼자 속살을 쥐어짜며 가방 안을 보라색으로 칠하는 것은?",
+    "options": [
+      "도장",
+      "컴퓨터용 사인펜",
+      "물감",
+      "스탬프패드"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "번쩍! OMR 카드 마킹해야 하는데 펜촉이 뭉개져 굵은 붓이 되어버렸구나!",
+      "wrong": "아니지~ 뚜껑 뒤에 꽂아뒀다가 어디론가 잃어버리는 단골손님은 컴싸란다."
+    }
+  },
+  {
+    "id": "rid_361",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "입은 하나인데 넘어지면 속을 모조리 쏟아내는, 손잡이 달린 작은 그릇은?",
+    "options": [
+      "접시",
+      "컵",
+      "냄비",
+      "보온병"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "와르르! 조금만 부딪혀도 속을 다 쏟아내는 얄미운 그릇!",
+      "wrong": "땡! 손잡이 달린 작은 그릇은 컵이란다."
+    }
+  },
+  {
+    "id": "rid_362",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "책상 위에서 혼자 쌩쌩 도는 척하더니, 내 책장 모서리를 건드려 서류를 사방으로 날려버리는 것은?",
+    "options": [
+      "에어컨 리모컨",
+      "탁상용 미니선풍기",
+      "무선 가습기",
+      "공기청정기"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "위잉 철썩! 바람 쐬려다 바닥에 흩어진 시험공부 프린트 줍느라 땀을 더 흘리지!",
+      "wrong": "틀렸어~ 가분수 머리로 위태롭게 진동하다가 혼자 쓰러지는 건 미니선풍기란다."
+    }
+  },
+  {
+    "id": "rid_363",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "소파 위에서 편하게 뒹굴게 해주더니, 일어나는 순간 정전기 스파크와 함께 온몸을 털복숭이로 만드는 것은?",
+    "options": [
+      "가죽 쿠션",
+      "패딩 조끼",
+      "극세사 담요",
+      "모직 코트"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "따끔 파닥! 정전기 파티와 함께 검은 바지를 백곰 털로 뒤덮어버렸구나!",
+      "wrong": "아니야~ 일어날 때마다 찌릿찌릿 스파크를 튀기는 겨울 친구는 극세사 담요야."
+    }
+  },
+  {
+    "id": "rid_365",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "휴대폰을 살려놓는 척하다가, 정작 자기 몸은 벽에 묶여 꼼짝도 못 하는 것은?",
+    "options": [
+      "이어폰",
+      "보조배터리",
+      "충전기",
+      "리모컨"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "찌릿! 폰은 100%인데 정작 나는 벽에서 한 발짝도 못 나가지.",
+      "wrong": "땡! 폰을 살려주고 자기는 벽에 묶여 사는 건 충전기란다."
+    }
+  },
+  {
+    "id": "rid_366",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "모니터 속 캐릭터를 날렵하게 움직여주더니, 결정적인 순간에 바닥 먼지를 먹고 뚝뚝 끊기는 것은?",
+    "options": [
+      "키보드",
+      "조이스틱",
+      "광마우스",
+      "웹캠"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "버벅! 한타 싸움 중에 커서가 허공에서 얼어붙는 지옥의 순간!",
+      "wrong": "땡! 바닥 빨간 센서에 먼지 하나 꼈다고 딴청 피우는 건 광마우스란다."
+    }
+  },
+  {
+    "id": "rid_367",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "손가락으로 시원하게 긁으라고 만들어놓고, 정작 긁고 나면 손톱 밑에 시커먼 은색 가루만 채워 넣는 것은?",
+    "options": [
+      "연필 흑연",
+      "스크래치 카드",
+      "스티커 뒷면",
+      "분필가루"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "사각사각! 당첨인가 두근대며 긁었더니 '다음 기회에'만 또렷하게 남았구나!",
+      "wrong": "아니야~ 동전 없어서 손톱으로 긁다 손가락만 더러워지는 건 즉석복권이지."
+    }
+  },
+  {
+    "id": "rid_369",
+    "category": "kitchen",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "라면을 끓이려고 정수기에서 뜨거운 물을 받았는데, 딱 선 바로 밑에서 앵꼬를 외치며 찬물을 뱉는 것은?",
+    "options": [
+      "커피포트",
+      "보온병",
+      "온수 정수기",
+      "전자레인지"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "졸졸졸 뚝! 미지근한 물에 면발이 불어 터져 떡라면을 먹게 생겼구나!",
+      "wrong": "아니지~ 내 컵라면 앞에서 딱 온수가 끊겨 절망을 주는 건 정수기야."
+    }
+  },
+  {
+    "id": "rid_370",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "달콤한 알맹이를 열심히 씹으며 단물을 뺐는데, 뱉으려 하니 쌀 휴지가 없어서 입안에 감금당하는 것은?",
+    "options": [
+      "사탕",
+      "풍선껌",
+      "젤리",
+      "초콜릿"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "오물오물... 맛은 다 빠져서 턱만 아픈데 삼킬 수도 없고 난감하지!",
+      "wrong": "땡! 주머니를 뒤져도 영수증 한 장 안 나와서 계속 씹고 있는 건 껌이란다."
+    }
+  },
+  {
+    "id": "rid_372",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "지하철 개찰구에 지갑째 댔더니 '카드를 한 장만'이라며 문을 쾅 닫아버리는 것은?",
+    "options": [
+      "신분증",
+      "학생증",
+      "교통카드",
+      "사원증"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "삑삑삑! 출근길 통곡의 벽을 만들며 뒤통수에 따가운 시선을 받게 하지!",
+      "wrong": "땡! 지갑 채로 쓱 댔다가 문이 쾅 닫히며 허벅지를 치는 건 교통카드 오류야."
+    }
+  },
+  {
+    "id": "rid_373",
+    "category": "food",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "달콤하고 시원한 음료수를 다 마셨는데, 얼음 틈새 바닥에 콕 박혀 끝까지 빨려 나오지 않는 쫀득한 것은?",
+    "options": [
+      "나타드코코",
+      "타피오카 펄",
+      "알로에 알갱이",
+      "치아씨드"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "쪽쪽쪽! 빨대로 조준 사격해도 얼음 밑에 숨어서 절대 안 올라오지!",
+      "wrong": "아니지~ 버블티 다 마시고 컵 바닥에 남은 까만 보석은 타피오카 펄이란다."
+    }
+  },
+  {
+    "id": "rid_374",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "돈을 넣으면 간식을 주는 척하다가, 딱 한 번 걸리면 내 동전을 영영 삼켜버리는 것은?",
+    "options": [
+      "금고",
+      "자판기",
+      "냉장고",
+      "은행"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "딩동! 자판기 밑은 사라진 동전들이 모여 사는 무덤이란다.",
+      "wrong": "아니지~ 한 번 걸리면 동전을 조용히 삼키는 건 자판기뿐이야."
+    }
+  },
+  {
+    "id": "rid_375",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "나를 깨워주는 척하다가, 내가 끄고 다시 자는 건 끝까지 지켜만 보는 것은?",
+    "options": [
+      "베개",
+      "알람시계",
+      "이불",
+      "커튼"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "똑딱! 나는 매일 정직하게 울었지만, 이불이 너를 더 세게 붙잡았단다.",
+      "wrong": "삐빅! 나는 새벽마다 거짓말 없이 울기만 했는데!"
+    }
+  },
+  {
+    "id": "rid_376",
+    "category": "tech",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "내 귀에선 노래를 들려주는 척하다가, 주머니 속에서만 실타래처럼 엉키는 것은?",
+    "options": [
+      "목걸이",
+      "이어폰",
+      "마스크끈",
+      "충전기"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "정답! 주머니 속은 이어폰들이 조용히 매듭을 짓는 비밀 작업실이야.",
+      "wrong": "아니야~ 엉키는 건 언제나 내 이어폰 한 쌍뿐이라고!"
+    }
+  },
+  {
+    "id": "rid_377",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "내가 하는 말을 그대로 따라하기만 하더니, 결국 온 동네에 내 비밀을 다 방송하는 것은?",
+    "options": [
+      "카나리아",
+      "앵무새",
+      "참새",
+      "까마귀"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "앵무앵무! 내가 한 말이 그대로 돌아올 때의 그 민망함!",
+      "wrong": "똑똑! 사람 말을 흉내 내는 새는 앵무새다."
+    }
+  },
+  {
+    "id": "rid_378",
+    "category": "nature",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "느려서 놀림받아도, 등에 집을 달고 어디든 당당하게 이사 다니는 것은?",
+    "options": [
+      "달팽이",
+      "두더지",
+      "거북이",
+      "개미"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "느림보? 나는 집이 있으니 어디서든 여행이 끝나지!",
+      "wrong": "땡! 느려도 등에 단단한 집을 지고 다니는 건 거북이란다."
+    }
+  },
+  {
+    "id": "rid_379",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "칠판에 하얗게 글씨를 쓰다가 똑 부러지고, 바닥에 떨어지면 산산조각 나는 것은?",
+    "options": [
+      "연필",
+      "분필",
+      "크레파스",
+      "마커"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "톡! 조금만 세게 눌러도 툭 부러져 선생님 손에 남는 조각!",
+      "wrong": "땡! 칠판에 쓰다가 힘주면 부러지는 하얀 막대는 분필이야."
+    }
+  },
+  {
+    "id": "rid_380",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "겉보기엔 투명해서 안 보이더니, 한번 붙으면 종이를 찢어버리는 것은?",
+    "options": [
+      "스티커",
+      "포스트잇",
+      "양면테이프",
+      "라벨"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "쩌억! 떼려다 종이가 반으로 찢어지면 그때야 존재를 알게 되지!",
+      "wrong": "아니지~ 앞뒤 양쪽이 다 끈적해서 종이를 잡아먹는 건 양면테이프란다."
+    }
+  },
+  {
+    "id": "rid_381",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "실내에선 코끝으로 미끄러지더니, 햇빛 아래서만 세상을 까맣게 물들이는 것은?",
+    "options": [
+      "모자",
+      "선글라스",
+      "마스크",
+      "안대"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "칙! 쨍한 햇빛 앞에서는 내가 세상의 색을 바꿔버리지.",
+      "wrong": "땡! 눈에 쓰면 세상이 까매지는 건 선글라스란다."
+    }
+  },
+  {
+    "id": "rid_382",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "한 장만 뽑을 생각이었는데, 손이 급하면 열 장을 줄줄이 딸려 보내는 것은?",
+    "options": [
+      "물티슈",
+      "휴지",
+      "키친타월",
+      "손수건"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "쑥! 한 장만 쓰려다 결국 식탁 전체를 닦게 만드는 마법의 뭉치!",
+      "wrong": "아니지~ 급하게 뽑으면 줄줄이 따라 나오는 건 휴지란다."
+    }
+  },
+  {
+    "id": "rid_383",
+    "category": "school",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "그림을 신나게 그리다가, 힘 조금만 주면 톡 부러져 버리는 것은?",
+    "options": [
+      "색연필",
+      "연필",
+      "크레파스",
+      "붓"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "톡! 알록달록 색은 예쁜데 몸은 여름 초콜릿처럼 약하단다.",
+      "wrong": "땡! 힘 조금만 줘도 톡 부러지는 알록달록한 막대는 크레파스야."
+    }
+  },
+  {
+    "id": "rid_384",
+    "category": "daily",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "내가 찾을 땐 꼭 소파 밑에 숨어 있고, 막상 안 볼 땐 어느새 형 손에 쥐어져 있는 것은?",
+    "options": [
+      "안경",
+      "리모컨",
+      "충전기",
+      "이어폰"
+    ],
+    "answer_index": 1,
+    "kkaebi_reaction": {
+      "correct": "딩동! 소파 밑은 리모컨들이 모여 사는 비밀 아지트란다.",
+      "wrong": "땡! 안 볼 땐 온데간데없다가 필요할 때만 사라지는 건 리모컨이지."
+    }
+  },
+  {
+    "id": "rid_385",
+    "category": "home",
+    "difficulty": 1,
+    "reward_keys": 1,
+    "question": "빙글빙글 돌며 옷을 깨끗하게 해주는 척하다가, 양말 한 짝을 영원히 숨겨버리는 것은?",
+    "options": [
+      "건조기",
+      "식기세척기",
+      "세탁기",
+      "청소기"
+    ],
+    "answer_index": 2,
+    "kkaebi_reaction": {
+      "correct": "드르륵! 세탁기는 세상에서 제일 무서운 마술사야.",
+      "wrong": "땡! 돌리고 나면 양말 한 짝이 꼭 사라지는 건 세탁기란다."
+    }
   }
 ]
