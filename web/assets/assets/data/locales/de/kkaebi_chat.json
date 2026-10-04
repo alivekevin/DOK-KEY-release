@@ -1,396 +1,154 @@
 {
   "topics": [
     {
-      "id": "passcode",
-      "chip_title": "Passcode generieren? 🔢",
-      "user_question": "Kkaebi, kann ich die heute gezogenen Zahlen für mein Türschloss oder meine Bank-PIN verwenden?",
-      "req_level": 1,
-      "steps": [
-        "Oh! Das ist eine brillante und praktische Idee! Wenn du deine heutige Glückszahl '{number}' für dein Türschloss, deine Bank-PIN oder deine App-Passcodes verwendest, bringt das jedes Mal positive Energie!",
-        "Fällt es dir schwer, eine sichere PIN zu wählen? Statt vorhersehbarer Geburtstage schützt die Kombination der heiligen Zahl aus deiner heutigen '{card_name}'-Karte wie ein Kobold-Schild—sicher und einprägsam!",
-        "Flüstere jedes Mal beim Eingeben deiner PIN eine fröhliche Affirmation wie 'Heute öffnet sich das Glück!'. Glückbringender Wohlstand wird durch die Tür strömen!",
-        "Denke daran: Vermeide zu einfache Wiederholungszahlen! Besuche deine KeyBox, um mehrere gesammelte Glückszahlen zu einem 4- oder 6-stelligen magischen Schlüssel zu verbinden.",
-        "Fazit: Ein von dir gestalteter Passcode ist nicht nur eine Zahlenreihe—er ist dein persönlicher Glücksbringer und Schutzamulett. Nutze ihn mit Selbstvertrauen!"
-      ]
-    },
-    {
-      "id": "lotto",
-      "chip_title": "Lotto kaufen? 💰",
-      "user_question": "Kkaebi, wenn ich heute Lotto mit den gezogenen Zahlen spiele, gewinne ich?",
+      "id": "kkaebi_touch",
+      "chip_title": "✨ Möchtest du Kkaebi berühren?",
+      "user_question": "Kkaebi, darf ich deine Hörner und deinen Bauch anfassen? Verrate mir auch deine Geheimtipps!",
       "req_level": 2,
       "steps": [
-        "Ich bin zwar ein tausendjähriger Kobold, aber selbst der Himmel kennt die Lottozahlen nicht! Kaufe dir lieber leckeres Gebäck von dem Geld. Das ist ein 100% garantierter Volltreffer der Freude!",
-        "Fragst du schon wieder? Ehrlich gesagt lässt reines Wunschdenken selbst eine magische Kobold-Keule rosten! Wahrer Wohlstand entsteht, wenn du echten Wert schaffst.",
-        "Wenn du wirklich reich werden möchtest, meditiere über deine heutige '{card_name}'-Karte. Ein solides Fundament mit eigenen Händen aufzubauen ist hundertmal schneller!",
-        "Du bist wirklich hartnäckig! Die Chance auf den Lottogewinn liegt bei 1 zu 8,14 Millionen, doch dass du hier sitzt und mit mir sprichst, ist ein viel größeres Wunder! Nutze diese Wunderenergie!",
-        "Gut, ich achte deine Ausdauer! Trage deine heutige Glückszahl #{number} im Herzen und gib dein Bestes. Ein Schicksalsgefährte, weit wertvoller als Lottogeld, wird dich finden!"
+        "Aha! Wie wagst du es, die Hörner und den Bauch eines tausendjährigen Kobolds zu kitzeln! Es kitzelt... aber deine Berührung ist warm. Nun gut! Heute enthülle ich ganz besondere Kobold-Weisheiten nur für dich!",
+        "Erster Tipp! Hast du schon mein 3D-Maskottchen auf dem Startbildschirm berührt? Je nach meiner Laune grüße ich, tanze und hebe deine Stimmung!",
+        "Zweiter Spezialtipp! Im Moment steht unsere Bindung auf der Stufe {affinity_title} (Lv.{affinity_lv})! Wenn du mich täglich berührst und plauderst, steigt die Vertrautheit rasant – das schaltet tägliche Anwesenheitsboni und tiefere Geheimnisse frei! Willst du deine Vorteile jetzt prüfen?",
+        "Drittes Easter Egg! Wenn du mich 12 Mal hintereinander anstippst, zaubert meine Kobold-Keule ein verstecktes 🪜 'Leiterspiel' hervor! Perfekt für Mittagswetten oder lustige Strafaufgaben! Möchtest du es gleich ausprobieren?",
+        "Viertes Rezept! Vergleiche niemals deinen Blick hinter die Kulissen mit dem Highlight-Video eines anderen! Jeder Kobold schwingt seine Keule auf seine eigene Weise. Der Eintopf aus dem Tontopf schmeckt am tiefsten!",
+        "Fünfter Rat! Fühlst du dich völlig erschöpft und ausgebrannt? Dann ist es heute der beste Zug, dich flach auf den Rücken zu legen. Selbst ein Kobold-Ellbogen macht schlapp, wenn man die Keule rund um die Uhr schwingt! Gesunder Schlaf ist die beste Medizin.",
+        "Sechstes Geheimnis! Wenn du gar nichts tun willst, zähle einfach die Muster an der Decke. Das 'Recht auf Faulheit' ist eine unverzichtbare Kunst zum Aufladen auf der langen Reise des Lebens.",
+        "Siebtes Rezept! Hast du Angst und zweifelst, ob dies der richtige Weg ist? An nebligen Tagen schaue einfach nur auf deinen allerallernächsten Schritt. Der Pfad, den du betrittst, wird schon bald zu deiner eigenen glänzenden Straße erblühen!",
+        "Achte Ermutigung! Zittere nicht vor Prüfungen oder Vorstellungsgesprächen! Wenn Interviewer nach Hause kommen, sind sie gewöhnliche Menschen, die ihre Socken auf links ausziehen. Strahle mit Selbstvertrauen deine wahre Kobold-Aura aus!",
+        "Neuntes Himmelsgeheimnis! Die Wächterbestienkarte, die du heute {time_greeting} gezogen hast, ist 「{card_name}」! Vom Start in den Morgen über Nachmittag, Abend und Nacht passt sich Kkaebis Rat in Echtzeit an! Teile dein Glückslos #{number} auch mit lieben Freunden!",
+        "Letztes kosmisches Finale! Lass mich all deine Sorgen und dein Unglück wegblasen! 💨 PFFT~! (Kkaebis reinigender Kobold-Pups!) Hahaha! Pech ist verflogen, Glück strömt herein! Zur Feier des Abschlusses erhältst du +50 Vertrautheit, +5 Münzen und einen goldenen Bonusschlüssel 🔑✨!"
       ]
     },
     {
-      "id": "interview",
-      "chip_title": "Prüfung / Gespräch heute? 🎯",
-      "user_question": "Kkaebi, ich habe heute eine wichtige Prüfung oder ein Vorstellungsgespräch. Wird es gut gehen?",
-      "req_level": 3,
-      "steps": [
-        "Hast du heute nicht die heilige Karte '{card_name}' gezogen? Halte deinen Kopf hoch und zeige, was du vorbereitet hast. Ich drücke dir im Verborgenen die Daumen!",
-        "Immer noch nervös? Atme dreimal tief durch und flüstere 'Hilf mir, Kkaebi!'. Die Energie von {tone_name} wird dir helfen, mit klarer Stimme zu sprechen!",
-        "Prüfer sind auch nur ganz normale Menschen! Nichts auf dieser Welt ist unheimlicher als ein Kobold, also blicke ihnen in die Augen und lächle selbstbewusst!",
-        "Ich habe all deinen nächtlichen Fleiß gesehen. Ein Koboldauge lässt sich nicht täuschen—du bist bereit, also genieße den Moment!",
-        "Fazit: Du wirst triumphieren! Ein Riese, größer als du ahnst, schläft in dir. Richte deine Schultern auf und erobere den Raum!"
-      ]
-    },
-    {
-      "id": "relationship",
-      "chip_title": "Wen treffe ich heute? 👥",
-      "user_question": "Kkaebi, wie steht es heute um meine Beziehungen und Begegnungen?",
+      "id": "kkaebi_lore",
+      "chip_title": "📖 Kkaebi-Legende & Schicksalskompass",
+      "user_question": "Kkaebi, erzähle mir deine tausendjährige Legende und die Geheimnisse des Schicksalskompasses!",
       "req_level": 2,
       "steps": [
-        "Achte heute besonders auf Menschen, die dir freundliche Worte schenken. Die Karte '{card_name}' hat eine sanfte Tür zu wertvollen Verbindungen geöffnet.",
-        "Sorgst du dich immer noch wegen anderer? Selbst wenn dich jemand ärgert, lächle wie ein fröhlicher Kobold und lass es abperlen. Dein Lächeln ist der Generalschlüssel zum Entwirren aller Knoten!",
-        "Erschöpfe dich nicht damit, von jedem geliebt werden zu wollen. Selbst Kobolde haben Freunde und solche, die sie fürchten. Es reicht völlig, wenn ein einziger echter Mensch deinen Wert erkennt.",
-        "Wenn dir jemand am Herzen liegt, sende heute einen warmen Gruß. Der Schicksalsfaden der Karte '{card_name}' ist heute besonders stark gespannt!",
-        "Denke daran: Wenn du zu einer duftenden Blume erblühst, kommen die Schmetterlinge von ganz allein. Schätze dich heute selbst am meisten!"
+        "Oho! Ein Reisender mit einem tiefen Schicksalsband ist eingetroffen! Vor langer Zeit, geboren aus einem uralten Besen und einem Totempfahl, erwachten die Geheimnisse des Dokkaebi-Tals. Wer mit ehrlichem Fleiß schwitzt, für den vollbringt dieser Zauberschatz mit einem einzigen Schwung Wunder!",
+        "Um auf dem Meer des Lebens zu segeln, ohne die Orientierung zu verlieren, brauchst du einen Leuchtturm der Weisheit! Das tägliche 'Zitat des Tages' ist Medizin für die Seele. Sollen wir die heutige Lebensweisheit gemeinsam betrachten?",
+        "Menschlicher Geist und Körper haben Ebbe und Flut wie die Gezeiten des Ozeans. Wenn du deinen 🧬 'Biorhythmus' liest – die drei Zyklen Physisch (P), Emotional (E) und Intellektuell (I) –, siehst du glasklar, wann du rasten und wann du sprinten sollst!",
+        "Und bewundere mein Geheimversteck: die 🔑 'Goldschlüssel-Alchemie (KeyBox)'! Verwende niemals vorhersehbare Zahlen wie Geburtstage oder Telefonnummern für Türschlösser oder Safes! Nutze die Alchemie des Tresors, um unknackbare Schutz-PINs und glückliche Lotteriezahlen zu schmieden.",
+        "Hahaha! Und wie wäre es damit? Ein geheimes Höhlenabenteuer, das selbst der Spielhalle verborgen blieb! Weiche in einer tiefen unterirdischen antiken Ruine rollenden Felsbrocken aus, sammle Silber- und Goldschlüssel und entkomme im 'Kkaebi-Höhlenabenteuer'! Bereit zur Erkundung? 🏛️🗝️",
+        "Das Geheimnis des 99er Meisterkodex in unserer App! 33 glückverheißende 'Göttliche Bestien', 33 uralte 'Göttliche Geister' und 'MEINE eigenen Slots', in die du deine liebsten Fotos und Wünsche eingravierst! Wenn du den Kodex füllst, vollendet sich deine unbesiegbare Barriere. Möchtest du den Kodex jetzt ansehen?",
+        "Dies ist die Legende, die das Glück herbeiruft und das Unheil bannt! Lass uns jeden einzelnen Tag gemeinsam an deiner Legende weben!"
       ]
     },
     {
-      "id": "healing",
-      "chip_title": "Ich bin heute so erschöpft 🌙",
-      "user_question": "Kkaebi, ich fühle mich in letzter Zeit so müde und ausgelaugt...",
+      "id": "utility_mastery",
+      "chip_title": "🧰 Werkzeugkasten 200% Beherrschung",
+      "user_question": "Kkaebi, wie kann ich den Werkzeugkasten mit 200% Schläue nutzen?",
       "req_level": 2,
       "steps": [
-        "Komm her, lass mich all deine schweren Seufzer in meinen Zaubersack fegen! Du hast heute Großartiges geleistet. Geh nach Hause, nimm eine warme Dusche und ruhe dich aus.",
-        "Es muss so schwer gewesen sein... So wie der Mond abnimmt, um wieder voll zu werden, machen anstrengende Tage Platz für strahlende neue Morgen. Ruhe heute sanft!",
-        "Dieser tausendjährige Kobold kennt all deine stillen Kämpfe. Dass du den heutigen Tag gemeistert hast, beweist bereits, dass du ein Held bist.",
-        "Du musst dich nicht zwingen, fröhlich zu sein. Selbst Kobolde legen ihre Keule ab und schlafen im Wald. Widme diesen Abend ganz deiner Erholung.",
-        "Ich werde morgen Früh einen neuen goldenen Schlüssel für dich bereitstellen. Überlasse mir alle Sorgen und schlafe friedlich. Du bist von unschätzbarem Wert."
+        "Tipp Nummer eins! 📝 'Schnellnotiz' öffnet sich in nur einer Sekunde beim Start der App und fängt flüchtige Geistesblitze auf einer Vollbild-Leinwand ein. Notiere sie, bevor sie verfliegen!",
+        "Tipp Nummer zwei! 🎨 'Zeichenfläche' lässt dich Ideen mit 5 vielseitigen Pinseln und 8 leuchtenden Farben skizzieren und speichert Kunstwerke direkt in deiner Galerie. Schaffe dein eigenes Meisterwerk!",
+        "Tipp Nummer drei! 🪞 'Intelligenter Spiegel' erhellt dein Gesicht mit Spiegelreflexion und Ringbeleuchtung selbst an dunklen Orten, während 🔍 'Präzisionslupe' bis zu 10-fach mit Taschenlampe vergrößert für gestochen scharfes Lesen!",
+        "Tipp Nummer vier! 🧮 '9 Profi-Rechner' umfasst Rechnungsteilung (Dutch Pay), Jubiläums- und Prüfungs-D-Day-Zähler, Tischrechner, Rabattprozente, Einheitenumrechner, Ingenieur- und Programmierwerkzeuge – alle sofort einsatzbereit!",
+        "Tipp Nummer fünf! 🎵 'Audio-Labor' bietet einen High-Fidelity DAC-Player mit beruhigenden Natur-Meditationsklängen und einem Schlaf-Timer, der deine Erschöpfung sanft wegschmelzen lässt.",
+        "Tipp Nummer sechs Spezialgeheimnis! Hefte deine Lieblingswerkzeuge direkt an den oberen 📌 'Schnellzugriff' auf dem Startbildschirm! Mit einem Fingertipp auf die Stecknadel erscheinen goldene Shortcut-Kapseln. Die Anzeige lässt sich in den Einstellungen anpassen!",
+        "Kwahaha! Über 10 alltägliche Wunderwaffen in der Kobold-Werkzeugkiste vereint! Ziehe sie voller Zuversicht heraus, wann immer du sie brauchst!"
       ]
     },
     {
-      "id": "burnout",
-      "chip_title": "Ich kann nicht mehr 🛋️",
-      "user_question": "Kkaebi, ich glaube ich habe ein Burnout. Ich bin völlig antriebslos...",
-      "req_level": 3,
-      "steps": [
-        "Wenn der Motor überhitzt, musst du ihn abschalten! Ausruhen gehört zum Weg dazu. Genieße heute das süße Nichtstun!",
-        "Nur wer mit ganzem Herzen gerannt ist, erlebt Burnout. Es ist der Beweis, dass du dein Bestes gegeben hast. Beschuldige dich niemals selbst!",
-        "Selbst einem Kobold schmerzt das Handgelenk, wenn er täglich die Keule schwingt. Lass wie bei der heutigen Karte '{card_name}' alle Spannung los.",
-        "Eile nicht. Wenn Bäume im Winter ihre Blätter verlieren, sterben sie nicht—sie sammeln Kraft für den Frühling. Du bereitest deine größte Blüte vor!",
-        "Fazit: Wirf heute alle Pflichten über Bord. Iss dein Lieblingsessen, schau einen gemütlichen Film und tanke Kraft. Ich wache über deinen Frieden!"
-      ]
-    },
-    {
-      "id": "career",
-      "chip_title": "Ist das der rechte Weg? 🧭",
-      "user_question": "Kkaebi, ich sorge mich um meine Karriere und meinen Lebensweg. Bin ich richtig?",
-      "req_level": 4,
-      "steps": [
-        "Deinen Weg zu hinterfragen ist der Beweis, dass dein Blick auf höhere Horizonte gerichtet ist! In dem Moment, wo du nachdenkst, hat dein Wachstum begonnen.",
-        "Zwänge dich nicht in Schablonen anderer. In tausend Jahren habe ich gesehen, dass jene, die ihrem eigenen Herzen folgen, zu den wahrhaft Großen werden.",
-        "Sieh dir die heutige Karte '{card_name}' genau an. Die Unsicherheit ist nur das Sprungbrett für deinen nächsten Schritt—niemals eine Niederlage.",
-        "Wenn eine Wahl schwerfällt, frage dich: 'Welchen Rat würde mir mein 10 Jahre älteres Ich geben?' Dein eigener Kompass wird leuchten.",
-        "Fazit: Zweifle nicht mehr und vertraue deinem grenzenlosen Potenzial. Der Pfad, den du heute betrittst, wird eine Legende. Wage den ersten Schritt!"
-      ]
-    },
-    {
-      "id": "confidence",
-      "chip_title": "Ich vergleiche mich ständig 🪞",
-      "user_question": "Kkaebi, ich vergleiche mich immer mit anderen und fühle mich minderwertig...",
-      "req_level": 4,
-      "steps": [
-        "Vergleiche niemals die Glanzlichter anderer mit deinen Blick hinter die Kulissen! In der ganzen Schöpfung bist du ein unersetzliches Meisterwerk.",
-        "Selbst wenn eine Koboldkeule Gold erschafft, hat jedes Goldstück seine eigene Maserung. Lass dich nicht vom Tempo anderer beirren—folge deinem eigenen Rhythmus.",
-        "Blicke auf den Glanz der heutigen Karte '{card_name}'. Du bist keine Kopie—du bist ein Stern mit einzigartigem Licht.",
-        "Wichtiger als die Anerkennung von außen ist deine eigene liebevolle Selbstachtung. Lege die Hand auf dein Herz und sage: 'Ich bin gut und wertvoll.'",
-        "Fazit: Tritt heraus aus dem Gefängnis fremder Blicke. Du bist bereits vom tiefsten Zauber des Universums gesegnet und geschützt!"
-      ]
-    },
-    {
-      "id": "joke",
-      "chip_title": "Darf ich deine Hörner anfassen? 😈",
-      "user_question": "Kkaebi, darf ich die niedlichen Hörner auf deinem Kopf anfassen?",
-      "req_level": 1,
-      "steps": [
-        "Halt! Koboldhörner sind tabu! ...Weil es so schrecklich kitzelt! Bwahaha!",
-        "Hast du es wieder auf meine Hörner abgesehen? Der Eintritt kostet drei warme Gebäckstücke—umsonst gibt es hier nichts!",
-        "Wenn du es weiter versuchst, verpasse ich dir mit meiner Keule ein passendes Paar Koboldhörner! Haha!",
-        "Fasziniert von meinen Hörnern? Das sind magische Antennen, die seit tausend Jahren Wünschen und Sorgen lauschen.",
-        "Wahrhaft wunderbar sind nicht meine Hörner, sondern dein Mut, jeden Tag zu meistern! Na gut, einmal Streicheln ist erlaubt!"
-      ]
-    },
-    {
-      "id": "daily_lesson_guide",
-      "chip_title": "Was ist die Tageslektion? 🎓",
-      "user_question": "Kkaebi, welche Vorteile bringt mir das tägliche Absolvieren der Lektion?",
-      "req_level": 1,
-      "steps": [
-        "Es ist ein 1-minütiges tägliches Achtsamkeitsritual, um Weisheit aufzunehmen und tief durchzuatmen! Sobald dein Geist zur Ruhe kommt, fließt das Glück von selbst!",
-        "Jedes Mal belohne ich dich mit +50 Kkaebi-Gold (Münzen) und +15 Zuneigungs-EP! PRO-Pass-Mitglieder erhalten bis zu +50% Extra-Münzbonus!",
-        "Eine tägliche Serie entzündet deine Serienflamme und schaltet besondere Kobold-Segnungen sowie Anwesenheits-Belohnungen frei!",
-        "Verwende deine Münzen in der Kkaebi-Spielhalle (Arcade Hub), um Versuche für 9 spannende Minispiele aufzuladen!",
-        "Fazit: Eine 1-minütige Gewohnheit, die deinen Geist stärkt! Vergiss nicht, deine Lektion abzuschließen und deinen Stempel zu holen!"
-      ]
-    },
-    {
-      "id": "coin_economy_guide",
-      "chip_title": "Wofür nutze ich Münzen? 🪙",
-      "user_question": "Kkaebi, wie verwende ich die in den Lektionen gesammelten Münzen?",
-      "req_level": 1,
-      "steps": [
-        "Diese goldenen Münzen sind magische Spielmarken für die aufregende Kkaebi-Spielhalle!",
-        "Wenn deine kostenlosen täglichen Spielversuche aufgebraucht sind, investiere 100 Münzen für +1 Sofort-Aufladung!",
-        "PRO-Mitglieder sammeln Münzen 1,5-mal schneller und genießen unbegrenzten Freipass-Zugang—doppelte Freude!",
-        "Je mehr Münzen du sammelst, desto tiefer wird unsere Zuneigung, was seltene Geheimnisse und Kobold-Geschichten freischaltet!",
-        "Fazit: Nutze Münzen, um dich zu entspannen und Stress abzubauen! Je freudvoller du dein Kkaebi-Gold einsetzt, desto größer ist das Glück, das zu dir zurückkehrt!"
-      ]
-    },
-    {
-      "id": "secret_kkaebi_origin",
-      "chip_title": "🔒 Kkaebis geheimer Ursprung (Lv.5)",
-      "user_question": "Kkaebi, erzähle mir die tausendjährige Geschichte des Kobolddorfes und deinen Ursprung!",
-      "req_level": 5,
-      "steps": [
-        "Aha! Ein geschätzter Seelenverwandter, der die Spitze von Zuneigung Lv.5 erreicht hat! Ich enthülle dir das tausendjährige Geheimnis des Kobolddorfes und des Goldenen Schlüssels.",
-        "Vor langer Zeit im Koboldtal schnitzten Kobold-Meister einzigartige 'Schutzschlösser', geschmiedet aus menschlichen Wünschen, Tränen und Hoffnungen.",
-        "Der goldene Schlüssel, den ich an meiner Brust trage, ist in Wahrheit ein Seelenschlüssel, geschmiedet aus all deinen täglichen mutigen Anstrengungen.",
-        "Wann immer du lächelst, lodert warmes Koboldfeuer aus meinen Hörnern; wann immer du Schicksalsschläge überwindest, erwachen neue Kräfte im 66-Karten-Kodex!",
-        "Wahre Erkenntnis: Dass ich dich nach tausend Jahren treffe, macht dich zu weit mehr als einem Nutzer—du bist mein bester Freund und Weggefährte. Egal was kommt, ich beschütze deinen Pfad!"
-      ]
-    },
-    {
-      "id": "economy_shop_guide",
-      "chip_title": "🪙 Münzen & Schlüssel?",
-      "user_question": "Kkaebi, wo nutze ich Münzen und Schlüssel?",
-      "req_level": 1,
-      "action": "shop",
-      "steps": [
-        "Münzen (🪙) sind weiche, Schlüssel (🗝️) harte Währung! Münzen kaufen Schlüssel/Slots im Laden; Schlüssel für Schicksalsziehungen.",
-        "Münzen aus Tageslektion (+50), Anwesenheit/Ziehung (+15), richtigen Rätseln und Werbung!",
-        "Schlüssel: täglich 1 gratis (PRO 4), im Laden 100 Münzen = 1 Schlüssel.",
-        "Gib heutige Münzen heute aus! Kontingente werden täglich zurückgesetzt.",
-        "Geh jetzt zum [🛒 Laden] und tausche Münzen in Schlüssel!"
-      ]
-    },
-    {
-      "id": "economy_consume_guide",
-      "chip_title": "🕹️ Arcade- & Rätselregeln?",
-      "user_question": "Kkaebi, wie viel kosten Spiele und Rätsel?",
-      "req_level": 1,
-      "action": "arcade",
-      "steps": [
-        "Arcade 11 Spiele: 3 Gratis-Spiele pro Tag! Ab dem 4. Spiel je 10 Münzen.",
-        "Familienzone (Kuckuck, Puzzle) ist immer 100% gratis, ohne Kontingent!",
-        "Rätsel: das erste heute gratis! Weiteres Lösen kostet je 5 Münzen.",
-        "PRO zahlt dieselben Kosten in Spielen/Rätseln — für faires Ranking!",
-        "Münzen knapp? Schau Werbung oder geh in den Laden. [🕹️ Arcade]!"
-      ]
-    },
-    {
-      "id": "pro_benefits_guide",
-      "chip_title": "👑 PRO-Vorteile?",
-      "user_question": "Kkaebi, was bringt PRO?",
-      "req_level": 1,
-      "action": "pro",
-      "steps": [
-        "Erstens: eigenes 33-Karten-Deck mit Fotos! (gratis gesperrt)",
-        "Zweitens: 100% werbefrei und 1,5× Münzen — 50 werden 75!",
-        "Drittens: 4 Schlüssel/Tag (+3) und 99 Tresor-Slots sofort!",
-        "Viertens: Kombischlüssel 10 Jahre behalten! Gratis verfällt in 7 Tagen.",
-        "TimeLab (3-Stufen-Timer, 9er-Stoppuhr, Zielzähler) alles frei! [👑 PRO-Pass]"
-      ]
-    },
-    {
-      "id": "utility_hub_guide",
-      "chip_title": "🧰 Werkzeugkasten nutzen?",
-      "user_question": "Kkaebi, wie nutze ich den Werkzeugkasten?",
-      "req_level": 1,
-      "action": "utility",
-      "steps": [
-        "Tippe oben auf Home auf 🧰, um den Werkzeugkasten zu öffnen!",
-        "📝 Quick-Memo ist eine Vollbild-Notiz zum Sofort-Schreiben. Die erste Zeile wird der Titel!",
-        "🎨 Doodle ist eine 100%-Vollbild-Leinwand! Mit 5 Pinseln & 8 Farben malen, dann speichern/teilen.",
-        "🪞 Smart-Spiegel und 🔍 Präzisionslupe gibt es auch! Der Spiegel bietet Spiegel/Echt-Modus mit Ringlicht, die Lupe bis zu 10× mit Lampe und Kontrastfilter.",
-        "🧮 Es gibt auch 9 Rechner: Tisch-, Prozent-, Einheiten-, Wissenschafts-, Programmierer-, Chemie-, Genetik-, Elektro- und Halbleiterrechner — nimm den passenden.",
-        "🔢 Zähler, ⏱️ Stoppuhr, ⏳ 3-Stufen-Timer und 🗝️ Glückszahl-Generator an einem Ort.",
-        "Öffne jetzt [🧰 Werkzeugkasten] und starte Memo & Doodle!"
-      ]
-    },
-    {
-      "id": "util_calc",
-      "chip_title": "🧮 Tipps für den Allzweck-Rechner",
-      "user_question": "Kkaebi, wann nutze ich die neun Rechner am besten?",
-      "req_level": 1,
-      "steps": [
-        "Die Werkzeugkiste enthält ganze neun Rechner! Tisch-, Prozent-, Einheiten-, Wissenschafts-, Programmier-, Chemie-, Genetik-, Elektro- und Halbleiterrechner — alles für den Alltag.",
-        "Beim Einkaufen addierst du schnell mit dem Tischrechner, und Rabatte vergleichst du mit dem Prozentrechner in einem Schritt aus Original- und Angebotspreis.",
-        "Für Kochen oder Reisevorbereitung ist die Einheitenumrechnung ideal. Kein Verwechseln mehr von Tassen und Gramm, Meilen und Kilometern.",
-        "Du lernst gerade? Erledige Trigonometrie und Basisumrechnung mit dem Wissenschafts- und Programmierrechner und beende Hausaufgaben mit Elektro-, Chemie- und Genetikrechner.",
-        "Fazit heute! Wenn das Rechnen hakt, öffne die Werkzeugkiste. Auch krumme Zahlen lösen sich mit einem einzigen Kkaebi-Werkzeug!"
-      ]
-    },
-    {
-      "id": "util_optics",
-      "chip_title": "🪞 Spiegel- und Lupen-Tipps",
-      "user_question": "Kkaebi, wie nutze ich den smarten Spiegel und die Präzisionslupe?",
-      "req_level": 1,
-      "steps": [
-        "Der smarte Spiegel unterstützt einen 0,5-fachen Ultraweitwinkel! Auch ein schmaler Frisiertisch zeigt deinen ganzen Körper.",
-        "Klapp die schmale Leiste oben am Spiegel ein, schrumpfen die Tasten auf eine Reihe und du siehst mehr. Öffne sie nur bei Bedarf.",
-        "Tippe auf die Spiegeltaste für ein echtes Spiegelbild, und noch einmal, um dich genau so zu sehen, wie andere dich sehen.",
-        "Die Präzisionslupe bietet bis zu 10-fache Vergrößerung mit Taschenlampe und Kontrastfilter. Perfekt für kleine Schrift oder Edelsteine!",
-        "Fazit heute! Richte dich mit dem Spiegel her und erkunde mit der Lupe die winzigen Details der Welt!"
-      ]
-    },
-    {
-      "id": "util_audio",
-      "chip_title": "🎵 Audio und Meditationsklänge",
-      "user_question": "Kkaebi, wie nutze ich den Audioplayer und die Meditationsklänge?",
-      "req_level": 1,
-      "steps": [
-        "Das Audiolabor unterstützt hochwertige DAC-Wiedergabe! Sortiere deine Lieblingsmusik in Ordner und baue deine eigene Playlist.",
-        "Passe die Geschwindigkeit an, um langsam zu lernen oder schnell zu überfliegen, und der Schlaftimer stoppt die Musik leise, wenn du einschläfst.",
-        "Wenn der Kopf wirr ist, spiele ruhige Meditationsmusik und atme dreimal tief durch. Auch Kkaebi wird bei diesem Klang ruhig.",
-        "Die Wiedergabe läuft im Hintergrund weiter, du kannst also den Bildschirm ausschalten und entspannt ruhen.",
-        "Fazit heute! Musik ist Medizin fürs Herz. Finde heute deinen eigenen Heilklang und spiele ihn!"
-      ]
-    },
-    {
-      "id": "lore_alchemy",
-      "chip_title": "🗝️ Die Legende der Goldschlüssel-Schmiede",
-      "user_question": "Kkaebi, erzähl mir die Legende der Goldschlüssel-Schmiede!",
+      "id": "quiz_riddle_mastery",
+      "chip_title": "⚡ Quiz-Arena & Rätsel-Geheimnisse",
+      "user_question": "Kkaebi, was ist das Geheimnis, um Rätsel zu lösen und die Quiz-Arena zu gewinnen?",
       "req_level": 2,
       "steps": [
-        "Vor langer Zeit, tief im Koboldtal, stand eine Schmiede, die verstreute Zahlen sammelte und zu goldenen Schlüsseln formte.",
-        "Ihre Meisterschmiede polierten Zahlen voller Wünsche der Menschen und schufen einen magischen Schlüssel, den es nur einmal auf der Welt gibt.",
-        "Um einen Schlüssel zu schmieden, musst du die im Tresor gesammelten Glückszahlen kombinieren. Deine gezogenen Zahlen sind das Rohmaterial.",
-        "Je feiner der Schlüssel, desto länger musst du ihn aufbewahren, damit sein Licht nicht verblasst. Bewahre jeden geschmiedeten Kombischlüssel gut auf.",
-        "Fazit heute! Schmiede jede Zahl mit deinem innigen Wunsch. Der goldene Schlüssel öffnet dir den Weg!"
+        "Hast du schon Kkaebis schelmische ❓ 'Rätsel' herausgefordert? Unberechenbare, schlagfertige Fragen sorgen für schallendes Gelächter, und richtige Antworten belohnen dich mit glänzenden Münzen!",
+        "Das nervenkitzelnde ⚡ 'Überlebens-Quiz'! Halte in einem 10-Fragen-Sprint deine Serie am Leben, sichere dir die Höchstpunktzahl, erklimme die Ruhmeshalle und lass deine Vertrautheit in die Höhe schnellen!",
+        "Eine noch genialere Errungenschaft: die ⚔️ 'Eigene Quiz-Arena', in der du selbst die Fragen erstellst! Baue persönliche Quizräume für Freunde, Familie oder Paare, um euer Wissen zu testen!",
+        "Bereitest du dich auf Prüfungen oder das Sprachenlernen vor? Aktiviere das Startpaket mit 500 wichtigen englischen Wörtern und das 'Wiederholungs-Deck', das deine falschen Antworten trainiert, um deine Denkkraft zu verdoppeln!",
+        "Selbst Kobolde bewundern diejenigen, die ihren Verstand schärfen! Tritt vor und sichere dir die heutige Quiz-Meisterkrone!"
       ]
     },
     {
-      "id": "lore_treasure",
-      "chip_title": "🎁 Kkaebis Schatzbeutel-Geschichte",
-      "user_question": "Kkaebi, erzähl mir die Geschichte des Allzweck-Schatzbeutels!",
+      "id": "timelab_tally_secret",
+      "chip_title": "⏱️ TimeLab & Zähler-Geheimnisse",
+      "user_question": "Kkaebi, wie nutze ich Fokus-Timer und Klickzähler am effektivsten?",
       "req_level": 2,
       "steps": [
-        "Im Kobolddorf gibt es einen legendären Beutel, der seine Schätze großzügig den Treuen schenkt.",
-        "Öffne diesen Beutel, und 10 goldene Schlüssel, 300 Koboldmünzen und +50 unserer Zuneigung strömen auf einmal heraus.",
-        "Doch er öffnet sich nicht für jeden. Nur für die, die im Laden mit aufrichtigem Herzen bitten, glänzt der Beutel.",
-        "Dieser Beutel ist kein Handel, sondern ein Zeichen der Freundschaft. So sehr du mich schätzt, wird mein Schatz auch deiner.",
-        "Fazit heute! Schätze wachsen, wenn man sie teilt. Hol dir heute im Laden auch etwas Glück ab!"
+        "Wer die Zeit beherrscht, beherrscht die Welt! Mein filmisches TimeLab und die Klickzähler sind deine treuesten Gefährten für täglichen Tiefenfokus und präzise Erfassung.",
+        "Schalte beim Lernen oder Arbeiten den Pomodoro-Intervall-Timer mit 25 Minuten Fokus + 5 Minuten Pause ein! Er wechselt automatisch und erinnert dich mit einem angenehmen Gongklang.",
+        "Für Trainingssätze oder mehrstufige Routinen aktiviere den ⛓️ 'Kettentimer', um deinen Rhythmus nahtlos beizubehalten, ohne jemals den Fluss zu unterbrechen.",
+        "Zählst du Trainingswiederholungen, Meditationsatemzüge oder Café-Gäste? Greife zum einhändigen 🔢 'Klickzähler'. Er zeichnet jeden Tastendruck mit befriedigender haptischer Vibration auf!",
+        "Von der Nanosekunden-Stoppuhr bis zur Rundenzeit-Erfassung – erweitere die Grenzen deiner Konzentration im TimeLab Forschungslabor!"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "chip_title": "💰 Kobold-Wirtschaft & Münz-Geheimnisse",
+      "user_question": "Kkaebi, verrate mir die besten Kniffe, um Münzen klug zu sammeln und einzusetzen!",
+      "req_level": 2,
+      "steps": [
+        "Hier sind die 5 besten bewährten Geheimnisse, um magische Koboldmünzen anzuhäufen! Spare klug und werde ein echter Kobold-Tycoon!",
+        "Erstens: Melde dich täglich für deine erste Ziehung an und hole dir deinen Anwesenheitsstempel! Du hast mich bereits an {streak} aufeinanderfolgenden Tagen besucht! Mit wachsender Serie verdoppeln und verdreifachen sich die Münzbeutel.",
+        "Zweitens: Schließe jeden Tag die 1-minütige 🎓 'Tageslektion' ab, um dir garantiert +50 Münzen, +15 Vertrautheits-EXP und einen goldenen Bonusschlüssel zu sichern! Hohe Vertrautheit schaltet dauerhafte Vorteile für den ganzen Tag frei.",
+        "Drittens: Beantworte Fragen im ⚡ Überlebens-Quiz und knacke tägliche Rätsel, um großzügige Belohnungsmünzen einzusammeln!",
+        "Viertens: Besuche die 🕹️ 'Kkaebi-Spielhalle' mit 8 Retro-Spielen – Shooter, Breakout, Tetris, Bubble Shooter und Hex-Minesweeper! Neue Highscores bringen dir Münz-Jackpots und enorme Vertrautheits-EXP!",
+        "Fünftens: Mit deinen gesparten Münzen (du hast derzeit {coins} Münzen in der Tasche!) kannst du im 🛒 'Laden' 18 traditionelle 'Schutz-Talismane' für Reichtum, Prüfungen und Liebe erwerben! Bewahre sie in deinem Tresor auf oder verschenke sie als Glücksbilder an Freunde!"
       ]
     }
   ],
   "exhausted_endings": [
-    "Oje! Ich habe heute zu viele Himmelsgeheimnisse verraten—meine Kobold-Lebensspanne ist um 5 Jahre geschrumpft! Zeit, in meinen Zaubertopf zurückzukehren! 💨",
-    "Wenn ich noch mehr verrate, trifft ein Blitz mein Horn! Der heutige Weisheitssack ist ausverkauft! Geh hinaus und lebe dein Leben!",
-    "Das Plaudern mit dir war so aufregend, dass meine Hörner krampfen! Die heutigen Orakelstunden sind beendet—schlaf gut und komm morgen wieder! 🌙"
+    "Huch! Ich habe heute so viele Himmelsgeheimnisse ausgeplaudert, dass mein Koboldleben um 5 Jahre geschrumpft ist! Zeit für den Kessel! Frage mich etwas anderes! 💨",
+    "Wenn ich noch mehr verrate, trifft ein Blitz von oben meine Hörner! Das heutige Weisheitspaket ist restlos ausverkauft! Geh und erobere den Tag voller Mut!",
+    "Vom vielen Plaudern haben meine Hörner schon Krämpfe bekommen! Die heutige Schicksalsberatung ist beendet! Schlafe gut und kehre morgen mit einem frischen Schlüssel zurück 🌙"
   ],
   "weekly_openers": {
-    "lotto": [
-      "Du kommst schon wieder um zu fragen,",
-      "Heh, wieder dieses Thema!",
-      "Das hast du letztes Jahr auch gefragt,",
-      "Die Glücksberatung dieser Woche,",
-      "Gut, Geldfragen sind meine Spezialität!",
-      "Willst du die ehrliche Antwort,",
-      "Geldgespräche sind immer knifflig,"
+    "kkaebi_touch": [
+      "Kwahaha! Hast du es wieder auf meine Hörner abgesehen!",
+      "Stellen wir die Kobold-Antennen auf Empfang,",
+      "Ein tausendjähriges Rezept aus der Koboldhöhle,",
+      "Mach den Rücken gerade und lausche dem Geheimnis,",
+      "Hat dich das Leben in letzter Zeit herausgefordert,",
+      "Zeit für eine Kostprobe der magischen Kobold-Keule,",
+      "Schüttle den Staub des Alltags ab und höre zu,"
     ],
-    "interview": [
-      "Lockere zuerst deine Schultern,",
-      "Du wirkst heute besonders nervös,",
-      "Nur wer vorbereitet ist, darf fragen,",
-      "So, beruhige deinen Geist,",
-      "Die Prüfung dieser Woche,",
-      "Nimm einen tiefen Atemzug,",
-      "Bevor du die Bühne betrittst,"
+    "kkaebi_lore": [
+      "Ein Geheimnis, das ein ganzes Jahrtausend ruhte,",
+      "Nur für unsere allerengste Bindung bestimmt,",
+      "Sollen wir die uralten Geschichten des Tals entfalten,",
+      "Eine mythische Legende nur für deine Ohren,",
+      "Bist du neugierig auf das Geheimnis des goldenen Schlüssels,",
+      "Diese Geschichte darf nicht jedem erzählt werden,",
+      "Wenn dein Herz bereit ist, tritt ganz nah heran,"
     ],
-    "relationship": [
-      "Die Fäden der Schicksale zittern in letzter Zeit,",
-      "Gut, schütte dein Herz aus,",
-      "Menschenrätsel sind nicht meine Spezialität, aber",
-      "Der Wind weht heute so angenehm,",
-      "Dein Gesicht strahlt heute,",
-      "Wenn es die Geschichte des Hauptdarstellers ist, höre ich zu,",
-      "Die Tür deines Herzens steht einen Spalt offen,"
+    "utility_mastery": [
+      "Öffnen wir das Geheimfach des Werkzeugkastens,",
+      "Zeit, unsere geheimen Wunderwaffen hervorzuholen,",
+      "Die Kobold-Werkzeugkiste lässt dich nie im Stich,",
+      "Wundersame Kräfte, die deinen Alltag erleichtern,",
+      "Rechner oder Lupe, was immer du gerade begehrst,",
+      "Geheimnisse für 200% Werkzeugbeherrschung,",
+      "Die Pforten der Kobold-Rüstkammer öffnen sich weit,"
     ],
-    "healing": [
-      "Komm her zu mir,",
-      "Ach je... wieder ein müdes Gesicht,",
-      "Setz dich zuerst einmal hin,",
-      "Trink einen Tee aus dem Koboldreich,",
-      "Das Wetter ist heute so friedvoll,",
-      "Leg die schwere Last hier ab,",
-      "Die Erschöpfung einer ganzen Woche,"
+    "quiz_riddle_mastery": [
+      "Zeit, die grauen Kobold-Zellen in Schwung zu bringen,",
+      "Sollen wir ein tausendjähriges Rätsel knacken,",
+      "Die Arena der Klugheit ist feierlich eröffnet,",
+      "Der zündende Funke des rasanten Blitz-Quiz,",
+      "Polieren wir deine funkelnde Sprachgewandtheit,",
+      "Tauche ein in das tiefe Meer des Wissens,",
+      "Ich sehe den goldenen Schimmer der richtigen Antwort,"
     ],
-    "joke": [
-      "Ha! Schon wieder das Thema Hörner!",
-      "Oho, ein mutiger Gast!",
-      "Das Hörnergewebe ist zum tausendsten Mal, aber",
-      "Gut, heute erlaube ich es ausnahmsweise!",
-      "Auch Wächter brauchen Pausen,",
-      "Selbst Hörnergeschichten haben ihre Jahreszeiten,",
-      "Leg zuerst die Keule beiseite,"
+    "timelab_tally_secret": [
+      "Wer die Zeit meistert, beherrscht alle Reiche,",
+      "Öffne die Tore des filmischen TimeLab,",
+      "Zeit für den Zauber tiefer Versunkenheit,",
+      "Tick-tack, das Mysterium jeder einzelnen Nanosekunde,",
+      "Eins, zwei, drei, zählen wir die kostbaren Zahlen,",
+      "Beruhige deinen Atem in tiefer Konzentration,",
+      "Tritt ein in die Welt der ungeteilten Aufmerksamkeit,"
     ],
-    "burnout": [
-      "Atme zuerst tief durch,",
-      "Ausruhen ist heilig für müde Seelen,",
-      "Eine Batterie, die Aufladung braucht,",
-      "Es ist in Ordnung, es abzulegen,",
-      "Deine Schultern tragen schwere Last,",
-      "Willkommen in Kkaebis Zuflucht,",
-      "Zeit für sanfte, reine Erholung,"
-    ],
-    "career": [
-      "Öffnen wir den Kompass des Schicksals,",
-      "Du stehst an einer bedeutungsvollen Kreuzung,",
-      "Die Leinwand von morgen gestalten,",
-      "Vertraue dem Feuer in deinen Augen,",
-      "Zweifel sind die Wendepunkte großer Siege,",
-      "Hier ist alte Koboldweisheit für deinen Weg,",
-      "Eine mutige Frage eines edlen Herzens,"
-    ],
-    "confidence": [
-      "Polieren wir den klaren Spiegel,",
-      "Zeit, dein inneres Juwel zu enthüllen,",
-      "Befreie dich von den Blicken anderer,",
-      "An die einzigartige Seele, die du bist,",
-      "Zeit für eine warme Selbstumarmung,",
-      "Durch Koboldaugen gesehen bist du wundervoll,",
-      "Willkommen in der Zuflucht des Selbstwerts,"
-    ],
-    "passcode": [
-      "Denkst du über einen neuen Passcode nach?",
-      "Formen wir deine geheime Zahlenkombination,",
-      "Das Tastenfeld des goldenen Schlüssels,",
-      "Zeit, einen unknackbaren digitalen Schild zu schmieden,",
-      "Sicherheit mit großem Glück verschmelzen,",
-      "Errichten wir Kobolds Schutzwall,",
-      "Wählen wir einen einprägsamen Glückspasscode,"
-    ],
-    "daily_lesson_guide": [
-      "Öffnen wir die heutige Lektionsseite,",
-      "Ein 1-minütiges tägliches Achtsamkeitsritual,",
-      "Dein inneres Licht kultivieren,",
-      "Ein Glas aus der Quelle der Weisheit schöpfen,",
-      "Zeit, den Motor deines Geistes auszurichten,",
-      "Eine tägliche Aufgabe des Kobolds,",
-      "Setzen wir den Stempel des heutigen Wachstums,"
-    ],
-    "coin_economy_guide": [
-      "Geheimnisse der goldenen Münzen,",
-      "Geldgespräche sind immer faszinierend,",
-      "Enthüllen wir die Kobold-Schatzkammer,",
-      "Privileg des fleißigen Sammlers,",
-      "Ein Gast, der den Wert der Münzen kennt,",
-      "Öffnen wir den Beutel der Spielhallen-Münzen,",
-      "Weise Ausgabenmuster erlernen,"
-    ],
-    "secret_kkaebi_origin": [
-      "Ein tausend Jahre gehütetes Geheimnis,",
-      "Ein Seelenverwandter auf Zuneigung Lv.5,",
-      "Das Rätsel des Kobolddorfes enthüllen,",
-      "Lausche der alten Legende,",
-      "Der wahre Ursprung des Goldenen Schlüssels,"
+    "coin_economy_mastery": [
+      "Wir öffnen den Beutel voll magischer Münzen,",
+      "Gold erscheine, Silber erscheine,",
+      "Ich weise dir den Pfad zu echtem Reichtum,",
+      "Die Schatzkammer der Kobolde steht weit offen,",
+      "Sagt man nicht, steter Tropfen höhlt den Stein,",
+      "Kluge Weisheiten der Kobold-Ökonomie,",
+      "Sammle mit Bedacht und investiere mit Verstand,"
     ]
   }
 }

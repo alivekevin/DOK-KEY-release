@@ -1,396 +1,154 @@
 {
   "topics": [
     {
-      "id": "passcode",
-      "chip_title": "Generate a passcode? 🔢",
-      "user_question": "Kkaebi, can I use today's drawn numbers as my door lock or bank PIN?",
-      "req_level": 1,
-      "steps": [
-        "Oh! That's a brilliant and practical idea! Using today's lucky number '{number}' for your door lock, bank PIN, or app passcode brings positive energy every time you unlock it!",
-        "Struggling to pick a secure PIN? Rather than predictable birthdays, blending the sacred number from today's '{card_name}' card acts like a goblin shield—safe and memorable!",
-        "Every time you type in your passcode, whisper a cheerful affirmation like 'Prosperity opens today!'. Auspicious fortune will flow straight through the doorway!",
-        "Just remember: avoid overly simple repeating digits! Visit your KeyBox to combine multiple gathered fortune numbers into a solid 4 or 6-digit magic key.",
-        "Final conclusion: A passcode crafted with your own hands is not merely digits—it is your personal lucky charm and guardian talisman. Use it with confidence!"
-      ]
-    },
-    {
-      "id": "lotto",
-      "chip_title": "Should I buy lottery? 💰",
-      "user_question": "Kkaebi, if I buy a lottery with today's drawn number, will I win?",
+      "id": "kkaebi_touch",
+      "chip_title": "✨ Want to touch Kkaebi?",
+      "user_question": "Kkaebi, may I touch your horns and belly? Share your secret tips too!",
       "req_level": 2,
       "steps": [
-        "I may be a thousand-year-old goblin, but even the heavens don't know winning lottery numbers! Go buy some hot crispy pastries with that money instead. That's a 100% guaranteed jackpot of joy!",
-        "Asking again? Honestly, wishing for sheer luck will only rust even a magical goblin club! True wealth comes when you create value that attracts prosperity.",
-        "If you truly wish to be wealthy, meditate on today's '{card_name}' card. Building a sturdy foundation with your own hands is a hundred times faster!",
-        "You are quite persistent! The odds of winning the lottery are 1 in 8.14 million, yet the probability of sitting here conversing with me is far more miraculous! Channel that miracle into yourself.",
-        "Alright, I respect your tenacity! Keep today's lucky number #{number} close in your heart and give your best to your craft. A destined benefactor far greater than lottery cash will find you!"
+        "Aha! How dare you poke the horns and belly of a thousand-year-old goblin! It tickles... but your touch is warm. Alright! Today, I shall reveal special goblin wisdom just for you!",
+        "First tip! Have you tapped my 3D mascot on the home screen? Depending on my mood, I greet, dance, and brighten your spirits!",
+        "Second special tip! Right now our bond is at the {affinity_title} (Lv.{affinity_lv}) stage! Touching and chatting with me daily raises our intimacy level fast, unlocking daily attendance bonuses and deeper secret talks! Want to check your benefits now?",
+        "Third easter egg! If you poke me 12 times in a row, my goblin club summons a hidden 🪜 'Ladder Game'! Perfect for lunch bets or friendly penalties! Want to try it right now?",
+        "Fourth prescription! Never compare your behind-the-scenes with someone else's highlight reel! Every goblin wields their club in their own style. The earthen pot brew has the deepest flavor!",
+        "Fifth advice! Feeling completely drained and burned out? Then stretching out flat on your back is your best move today. Even a goblin's elbow gives out if swinging a club 24/7! Good sleep is the ultimate medicine.",
+        "Sixth secret! When you want to do nothing, simply count the patterns on the ceiling. The 'right to be lazy' is an essential recharge skill on the long journey of life.",
+        "Seventh prescription! Afraid and unsure if this is the right path? On foggy days, just watch your very next step. The path you tread will soon blossom into your own premium highway!",
+        "Eighth encouragement! Don't tremble before exams or interviews! When interviewers go home, they are ordinary humans peeling off socks inside out. Radiate your true goblin aura with confidence!",
+        "Ninth heavenly secret! The guardian beast card you drew this {time_greeting} is 「{card_name}」! From morning kick-offs to afternoon, evening, and night, Kkaebi's advice adapts in real-time! Share your lucky fortune #{number} with cherished friends too!",
+        "Final heavenly finale! Let me blow away all your worries and misfortune! 💨 PFFT~! (Kkaebi's special cleansing blast!) Hahaha! Bad luck is gone and fortune has rolled in! To celebrate completion, here is +50 Intimacy, +5 Coins, and a bonus Golden Key 🔑✨!"
       ]
     },
     {
-      "id": "interview",
-      "chip_title": "Exam / Interview today? 🎯",
-      "user_question": "Kkaebi, I have an important test/interview today. Will it go well?",
-      "req_level": 3,
-      "steps": [
-        "Didn't you draw the sacred '{card_name}' card today? Hold your head high and show what you've prepared. I'll be secretly cheering behind your back!",
-        "Still nervous? Take three deep breaths and whisper 'Help me Kkaebi!'. The energy of {tone_name} will help you speak with crystal clarity!",
-        "Interviewers are just ordinary humans eating everyday meals! Nothing in this world is scarier than a goblin, so look them in the eye and smile brightly!",
-        "I have witnessed all the midnight sweat you poured in. You cannot deceive a goblin's eyes—you are already prepared, so enjoy the moment!",
-        "Final verdict: You will triumph! A giant far grander than you realize sleeps within you. Square your shoulders and conquer the room!"
-      ]
-    },
-    {
-      "id": "relationship",
-      "chip_title": "Who will I meet today? 👥",
-      "user_question": "Kkaebi, how is my social and relationship fortune today?",
+      "id": "kkaebi_lore",
+      "chip_title": "📖 Kkaebi Lore & Destiny Compass",
+      "user_question": "Kkaebi, tell me your thousand-year legend and destiny compass secrets!",
       "req_level": 2,
       "steps": [
-        "Pay close attention to anyone offering you kind words today. The '{card_name}' card has unlocked a gentle door to meaningful connections.",
-        "Still worried about people? Even if someone annoys you, smile like a cheerful goblin and let it slide. Your warm smile is the master key to untangling knots today!",
-        "Do not exhaust yourself trying to be loved by everyone. Even goblins have those who adore them and those who fear them. Having just one true soul who understands your worth is plenty.",
-        "If someone occupies your thoughts, send a warm greeting first today. The thread of destiny from '{card_name}' is pulled delightfully taut today!",
-        "Remember: when you blossom into a fragrant flower, butterflies gather naturally. Today, cherish yourself above all else!"
+        "Oho! A traveler with a deep destined bond has arrived! Long ago, born from an ancient broom and a guardian totem pole, the secrets of Dokkaebi Valley awoke. For those who sweat with honest kindness, this magical treasure creates wonders with a swing!",
+        "To navigate the sea of life without losing your way, you need a lighthouse of wisdom! The daily 'Today's Quote' is medicine for the soul. Shall we reflect on today's wisdom together?",
+        "Human mind and body ebb and flow like ocean tides. By reading your 🧬 'Biorhythm'—the triple cycles of Physical (P), Emotional (E), and Intellectual (I)—you can clearly see when to rest and when to sprint!",
+        "And behold my secret vault: the 🔑 'Golden Key Alchemy (KeyBox)'! Never use predictable digits like birthdays or phone numbers for door locks or safes! Channel the vault's alchemy to forge impenetrable guardian PINs and lucky lottery numbers.",
+        "Hahaha! Then how about this? A secret cave adventure hidden even from the arcade! In a deep underground ancient ruin, dodge rolling boulders and discover silver/gold keys to escape in 'Kkaebi Cave Adventure'! Ready to explore? 🏛️🗝️",
+        "The secret of the 99 Grand Codex within our app! 33 auspicious 'Divine Beasts', 33 ancient 'Divine Spirits', and 'MY Custom Slots' where you engrave your cherished photos and wishes! As you fill the codex, your invincible barrier completes. Want to view the codex now?",
+        "This is the legend that beckons fortune and wards off misfortune! Let us craft your legend together every single day!"
       ]
     },
     {
-      "id": "healing",
-      "chip_title": "I'm so exhausted today 🌙",
-      "user_question": "Kkaebi, I feel so tired and drained lately...",
+      "id": "utility_mastery",
+      "chip_title": "🧰 Utility Hub 200% Mastery",
+      "user_question": "Kkaebi, how can I use the Utility Hub with 200% smartness?",
       "req_level": 2,
       "steps": [
-        "Come here, let me sweep all your heavy sighs into my magic sack! You did remarkably well today. Go home, take a warm shower, and rest deeply.",
-        "It must have been so heavy... Just as the moon wanes only to wax full again, exhausting days always make room for radiant new mornings. Tonight, rest with a light heart!",
-        "This thousand-year-old goblin knows the silent battles and fatigue that others overlooked. Simply getting through today proves you are already a hero.",
-        "You do not have to force yourself to be cheerful. Even goblins throw down their magic clubs and take deep naps in the forest. Dedicate tonight solely to rest.",
-        "I will have a brand new golden key ready to unlock tomorrow morning for you, so surrender all worries to me and sleep peacefully tonight. You are deeply precious."
+        "Tip number one! 📝 'Quick Memo' opens in one second flat the moment you launch the app, capturing fleeting inspirations on a full-screen canvas. Jot them down before they vanish!",
+        "Tip number two! 🎨 'Doodle Canvas' lets you sketch ideas with 5 versatile brushes and 8 vibrant colors, instantly saving artwork to your photo gallery. Create your own masterpiece!",
+        "Tip number three! 🪞 'Smart Mirror' brightens your face with flip-reflection and ring lighting even in dim spots, while 🔍 'Precision Magnifier' zooms up to 10x with flashlight illumination for crystal-clear reading!",
+        "Tip number four! 🧮 '9 Pro Calculators' features split-the-bill (Dutch Pay), anniversary/exam D-Day counters, desktop math, discount percentages, unit converters, engineering, and programmer tools all ready to serve!",
+        "Tip number five! 🎵 'Audio Lab' features a high-fidelity DAC player loaded with soothing natural meditation sounds and a sleep timer to gently melt away your fatigue.",
+        "Tip number six special secret! Pin your favorite tools directly to the top 📌 'Quick Slot' on the home screen! With one tap of the pin button, instant golden shortcut capsules appear. You can easily toggle quick slot visibility in settings!",
+        "Kwahaha! Over 10 daily weapons gathered in a goblin's tool chest! Pull them out with confidence whenever you need them!"
       ]
     },
     {
-      "id": "burnout",
-      "chip_title": "I feel so burnt out 🛋️",
-      "user_question": "Kkaebi, I think I'm totally burnt out. I have zero motivation and feel empty...",
-      "req_level": 3,
-      "steps": [
-        "When an engine overheats, you must turn it off to cool down! Resting is part of the craft. Savor the art of doing absolutely nothing today!",
-        "Only those who ran with all their heart experience burnout. It is proof that you gave your absolute best without slacking off. Never blame yourself!",
-        "Even a goblin's wrists get sore if he swings his magic club every single day. Like today's '{card_name}' card, release all tension and let things flow effortlessly.",
-        "Do not be in a hurry. When winter trees shed all their leaves, they are not dying—they are gathering deep strength to bloom in spring. You are preparing your greatest bloom!",
-        "Final verdict: Cast aside all obligations for tonight. Treat yourself to your favorite snack, watch a cozy movie, and recharge. I'm right here guarding your peace!"
-      ]
-    },
-    {
-      "id": "career",
-      "chip_title": "Is this the right path? 🧭",
-      "user_question": "Kkaebi, I'm worried about my career and life direction. Am I on the right path?",
-      "req_level": 4,
-      "steps": [
-        "Questioning your path is proof that your eyes are set on higher horizons! The moment you ponder, growth has already ignited.",
-        "Never force yourself into formulas set by others. In a thousand years, I've seen that those who walk the path of their true passion become the true titans.",
-        "Look closely at today's '{card_name}' card. Today's uncertainty is merely the springboard for your next leap—never a defeat.",
-        "When a choice feels difficult, ask yourself: 'What advice would the 10-year-future-me give to me right now?' Your true compass will shine.",
-        "Final verdict: Stop doubting and trust your boundless potential. The trail you blaze today will become a legendary path. Take that bold first step!"
-      ]
-    },
-    {
-      "id": "confidence",
-      "chip_title": "Struggling with comparison 🪞",
-      "user_question": "Kkaebi, I keep comparing myself to others and feel so inadequate...",
-      "req_level": 4,
-      "steps": [
-        "Never compare someone else's public highlight reel with your private behind-the-scenes! In all creation, you are an irreplaceable masterpiece.",
-        "Even when a goblin club crafts gold, every ingot has its unique grain. Do not be intimidated by another's pace—cherish your own divine tempo.",
-        "Look at the radiance of today's '{card_name}' card. You are no replica of anyone else; you are a star shining with singular brilliance.",
-        "Far more vital than outside validation is your own gentle self-approval. Place a hand over your heart and say: 'I am worthy and remarkable.'",
-        "Final verdict: Walk out of the prison of external opinions. You are already blessed and guarded by the deepest magic of the universe!"
-      ]
-    },
-    {
-      "id": "joke",
-      "chip_title": "Can I touch your horns? 😈",
-      "user_question": "Kkaebi, can I touch the cute little horns on your head?",
-      "req_level": 1,
-      "steps": [
-        "Hey! A goblin's horns are off-limits! ...Because it tickles so much! Bwahaha!",
-        "Targeting my horns again? The admission fee is three warm pastries—nothing in this realm is free!",
-        "If you keep trying, I might swing my club and give you a matching pair of goblin horns! Haha!",
-        "Fascinated by my horns? They are mystical antennas that grew over a thousand years listening to human wishes and sorrows.",
-        "What is truly magnificent is not my horns, but your courage to embrace each day! Alright, I will grant you one special pat!"
-      ]
-    },
-    {
-      "id": "daily_lesson_guide",
-      "chip_title": "What is Daily Lesson? 🎓",
-      "user_question": "Kkaebi, what benefits do I get from completing Daily Lessons?",
-      "req_level": 1,
-      "steps": [
-        "It is a 1-minute daily mindfulness ritual to absorb inspiring wisdom and breathe deeply! As your mind calms, auspicious fortune naturally flows in!",
-        "Every time you finish, I award you +50 Kkaebi Gold (Coins) and +15 Intimacy EXP! PRO Pass members receive up to +50% extra coin bonus!",
-        "Maintaining a daily streak ignites your streak flame, unlocking special goblin blessings and continuous attendance rewards!",
-        "Use your earned coins in Kkaebi Arcade to recharge play attempts for 9 thrilling mini-games and embark on fun adventures!",
-        "Final conclusion: A 1-minute daily habit that fortifies your mind! Don't forget to complete your lesson and stamp your streak today!"
-      ]
-    },
-    {
-      "id": "coin_economy_guide",
-      "chip_title": "Where to use Kkaebi Coins? 🪙",
-      "user_question": "Kkaebi, how do I spend the coins collected from Daily Lessons?",
-      "req_level": 1,
-      "steps": [
-        "These golden coins are magic tokens used for exploring the exciting Kkaebi Arcade Hub!",
-        "When your free daily game plays run out, spend 100 coins to instantly recharge +1 arcade play opportunity!",
-        "PRO Pass members earn coins 1.5x faster and enjoy unlimited free-pass arcade access—double the joy!",
-        "As your coins accumulate, your intimacy EXP grows deeper, unlocking rare secret stories and goblin inner thoughts!",
-        "Final conclusion: Use coins to unwind and blow away stress! The more joyfully you spend Kkaebi Gold, the greater the fortune that returns to you!"
-      ]
-    },
-    {
-      "id": "secret_kkaebi_origin",
-      "chip_title": "🔒 Kkaebi's Secret Origin (Lv.5)",
-      "user_question": "Kkaebi, tell me the secret thousand-year history of Dokkaebi Village and your origin!",
-      "req_level": 5,
-      "steps": [
-        "Aha! A cherished soulmate who has reached the pinnacle of Intimacy Lv.5 has arrived! I shall reveal the thousand-year secret of Dokkaebi Village and the Golden Key.",
-        "Long ago in Dokkaebi Valley, master artisan goblins carved one-of-a-kind 'Guardian Locks' forged from human wishes, tears, and hopes.",
-        "The golden key I carry close to my chest is actually a soul key forged from all the courageous efforts you have exerted every single day.",
-        "Whenever you smile, warm dokkaebi-fire blazes from my horns; whenever you overcome adversity, new mystic powers awaken in the 66-card codex!",
-        "Final truth: Meeting you after a thousand years makes you far more than a user—you are my greatest friend and lifelong companion. No matter what comes, I will guard your path!"
-      ]
-    },
-    {
-      "id": "economy_shop_guide",
-      "chip_title": "🪙 How to use Coins & Keys?",
-      "user_question": "Kkaebi, where do I use coins and keys?",
-      "req_level": 1,
-      "action": "shop",
-      "steps": [
-        "Coins (🪙) are soft currency, Keys (🗝️) are hard! Coins buy keys/slots at the shop; keys power fortune draws.",
-        "Earn coins from Daily Lesson (+50), attendance/draw (+15), correct riddles, and ads!",
-        "Keys refill 1/day free (4 for PRO), and 100 coins = 1 key at the shop.",
-        "So spend today's coins today! Quotas reset daily.",
-        "Go to [🛒 Shop] now and turn coins into keys!"
-      ]
-    },
-    {
-      "id": "economy_consume_guide",
-      "chip_title": "🕹️ Arcade & Riddle rules?",
-      "user_question": "Kkaebi, how many coins do games and riddles cost?",
-      "req_level": 1,
-      "action": "arcade",
-      "steps": [
-        "Arcade 11 games: 3 free plays daily! From the 4th play it costs 10 coins each.",
-        "Family zone (Peekaboo, Jigsaw) is always 100% free, no quota!",
-        "Riddles: today's first is free! Extra continuous solves cost 5 coins each.",
-        "PRO pays the same coin costs in games/riddles — for fair ranking!",
-        "Short on coins? Watch an ad or visit the shop. [🕹️ Arcade]!"
-      ]
-    },
-    {
-      "id": "pro_benefits_guide",
-      "chip_title": "👑 PRO member benefits?",
-      "user_question": "Kkaebi, what do I get as a PRO member?",
-      "req_level": 1,
-      "action": "pro",
-      "steps": [
-        "First, build a 33-card custom deck with your own photos! (free is locked)",
-        "Second, 100% ad-free and 1.5× coins — a lesson reward of 50 becomes 75!",
-        "Third, 4 daily keys (+3) and 99 vault slots unlocked instantly!",
-        "Fourth, keep combined keys for 10 years! Free expires in 7 days.",
-        "TimeLab (3-stage timer, 9-player stopwatch, target counter) all unlocked! [👑 PRO Pass]"
-      ]
-    },
-    {
-      "id": "utility_hub_guide",
-      "chip_title": "🧰 How to use the Utility Hub?",
-      "user_question": "Kkaebi, how do I use the Utility Hub?",
-      "req_level": 1,
-      "action": "utility",
-      "steps": [
-        "Tap the 🧰 icon at the top of Home to open the Utility Hub!",
-        "📝 Quick Memo is a full-screen note you use instantly. The first line becomes the title!",
-        "🎨 Doodle is a 100% full-screen canvas! Draw with 5 brushes and 8 colors, then save/share to photos.",
-        "🪞 Smart Mirror and 🔍 Precision Magnifier are here too! Mirror offers flip/true mode with a ring light, and the magnifier zooms up to 10x with torch and high-contrast filters.",
-        "🧮 Nine calculators are ready too: desk, percentage, units, scientific, programmer, chemistry, genetics, electrical and semiconductor — open whichever you need.",
-        "🔢 Counter, ⏱️ Stopwatch, ⏳ 3-Stage Timer, and 🗝️ Lucky Number Generator all in one place.",
-        "Open [🧰 Utility Hub] now and start memo & doodle!"
-      ]
-    },
-    {
-      "id": "util_calc",
-      "chip_title": "🧮 All-Purpose Calculator Tips",
-      "user_question": "Kkaebi, when should I use the nine calculators?",
-      "req_level": 1,
-      "steps": [
-        "The utility hub packs nine calculators! Desk, percentage, unit conversion, scientific, programmer, chemistry, genetics, electrical, and semiconductor — everything daily life needs.",
-        "For shopping, add up fast with the desk calculator, and compare original and sale prices at once with the percentage calculator.",
-        "For cooking or travel prep, unit conversion is perfect. No more mixing up cups and grams, miles and kilometers.",
-        "Studying? Crunch trigonometry and base conversions with the scientific and programmer calculators, then finish homework with the electrical, chemistry, and genetics tools.",
-        "Today's takeaway! When the math gets stuck, open the toolkit. Even messy numbers untangle with a single Kkaebi tool!"
-      ]
-    },
-    {
-      "id": "util_optics",
-      "chip_title": "🪞 Mirror and Magnifier Tips",
-      "user_question": "Kkaebi, how do I use the smart mirror and precision magnifier?",
-      "req_level": 1,
-      "steps": [
-        "The smart mirror supports a 0.5x ultra-wide view! Even a narrow vanity fits your whole body.",
-        "Fold the slim bar at the top of the mirror and the buttons shrink to one row, giving you a wider view. Open it only when needed.",
-        "Tap the mirror-flip button for a true mirror look, and tap again to see yourself exactly as others do.",
-        "The precision magnifier offers up to 10x zoom with a flashlight and a high-contrast filter. Perfect for tiny text or gem checks!",
-        "Today's takeaway! Neaten up with the mirror, then explore the tiny details of the world with the magnifier!"
-      ]
-    },
-    {
-      "id": "util_audio",
-      "chip_title": "🎵 Audio and Meditation Sounds",
-      "user_question": "Kkaebi, how should I use the audio player and meditation sounds?",
-      "req_level": 1,
-      "steps": [
-        "The audio lab supports high-quality DAC playback! Sort your favorite music into folders and build your own playlist.",
-        "Adjust the speed to learn slowly or skim quickly, and the sleep timer quietly stops the music when you drift off.",
-        "When your mind feels tangled, play calm meditation music and take three deep breaths. Even Kkaebi relaxes to that sound.",
-        "Playback continues in the background, so you can turn off the screen and rest easy.",
-        "Today's takeaway! Music is medicine for the heart. Find your own healing sound and play it today!"
-      ]
-    },
-    {
-      "id": "lore_alchemy",
-      "chip_title": "🗝️ The Legend of the Golden Key Forge",
-      "user_question": "Kkaebi, tell me the legend of the golden key forge!",
+      "id": "quiz_riddle_mastery",
+      "chip_title": "⚡ Quiz Arena & Riddle Mastery",
+      "user_question": "Kkaebi, what is the secret to solving riddles and winning the Quiz Arena?",
       "req_level": 2,
       "steps": [
-        "Long ago, deep in the goblin valley, there stood a forge that gathered scattered numbers and shaped them into golden keys.",
-        "Its master craftsmen polished numbers filled with people's wishes and made a magic key that exists only once in the world.",
-        "To forge a key, you must combine the lucky numbers stored in your vault. The numbers you draw are the raw material.",
-        "The finer the key, the longer you must keep it so its light never fades. Treasure every combined key you forge.",
-        "Today's takeaway! Forge each number with your earnest wish. The golden key will open the path ahead of you!"
+        "Have you challenged Kkaebi's whimsical ❓ 'Riddles'? Unpredictable, witty questions spark bursts of laughter, and correct answers shower you with sweet coin rewards!",
+        "The thrilling ⚡ 'Survival Quiz'! In a 10-question speed race, keep your combo streak alive to claim a perfect score, ascend the Hall of Fame, and send your intimacy soaring!",
+        "An even more wondrous feat: the ⚔️ 'Custom Quiz Arena' where you create the questions! Build personalized quiz rooms for friends, family, or couples to test each other's knowledge!",
+        "Preparing for tests or studies? Activate the 500 Essential English Words seed pack and the 'Review Deck' that targets your incorrect answers to double your brainpower!",
+        "Even goblins admire those who sharpen their minds! Step up and claim today's Quiz Championship crown!"
       ]
     },
     {
-      "id": "lore_treasure",
-      "chip_title": "🎁 Kkaebi's Treasure Pouch Story",
-      "user_question": "Kkaebi, tell me the story of the all-purpose treasure pouch!",
+      "id": "timelab_tally_secret",
+      "chip_title": "⏱️ TimeLab & Tally Secrets",
+      "user_question": "Kkaebi, how should I use the focus timers and tally counters effectively?",
       "req_level": 2,
       "steps": [
-        "In the goblin village there is a legendary pouch that gives its treasure generously to the loyal.",
-        "Open that pouch and 10 golden keys, 300 goblin coins, and +50 of our intimacy pour out all at once.",
-        "But it does not open for just anyone. The pouch only sparkles for those who ask with a sincere heart at the shop.",
-        "This pouch is not a bargain but a token of friendship. As much as you cherish me, my treasure becomes yours.",
-        "Today's takeaway! Treasure grows when shared. Stop by the shop today and take some luck with you!"
+        "Those who master time master the world! My Cinematic TimeLab and Tally Clickers are your ultimate allies for daily deep focus and precise tracking.",
+        "When studying or working, turn on the Pomodoro interval timer with 25 minutes of focus + 5 minutes of rest! It transitions automatically and chimes when it is time to switch.",
+        "For workout sets or multi-stage routines, engage the ⛓️ 'Chain Timer' to keep your flow seamless without ever breaking momentum.",
+        "Counting exercise reps, meditation breaths, or cafe visitors? Pull out the one-handed 🔢 'Tally Clicker'. It records every tap precisely with satisfying haptic vibrations!",
+        "From nanosecond stopwatches to lap-time tracking, push the boundaries of your focus in the TimeLab Research Lab!"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "chip_title": "💰 Goblin Economy & Coin Secrets",
+      "user_question": "Kkaebi, share the best tips for collecting and spending coins wisely!",
+      "req_level": 2,
+      "steps": [
+        "Here are the top 5 proven secrets to gathering magical goblin coins! Save smartly and become a true goblin tycoon!",
+        "First, log in daily for your first draw and stamp your attendance! You have already visited me for {streak} consecutive days! As your streak grows, coin pouches double and triple.",
+        "Second, complete the 1-minute 🎓 'Daily Lesson' every day to secure +50 Coins, +15 Intimacy EXP, and a bonus Golden Key guaranteed! High intimacy unlocks perks that apply all day long.",
+        "Third, answer questions in ⚡ Survival Quiz and crack daily riddles to collect generous bounty coins!",
+        "Fourth, visit the 🕹️ 'Kkaebi Arcade' to enjoy 8 retro games—Shooter, Breakout, Tetris, Bubble Shooter, and Hex Minesweeper! Setting high scores rewards you with coin jackpots and massive intimacy EXP!",
+        "Fifth, with your saved coins (you currently hold {coins} coins in your pocket!), acquire 18 traditional 'Guardian Talismans' in the 🛒 'Shop' for wealth, exams, and romance! Cherish them in your vault or gift them as lucky images to friends!"
       ]
     }
   ],
   "exhausted_endings": [
-    "Yikes! I leaked too many celestial secrets today—my goblin lifespan just dropped by 5 years! Time to hop back into my magic pot! Ask something else! 💨",
-    "If I speak any more, lightning from the heavens will strike my horns! Today's wisdom sack is officially sold out! Go forth and live brilliantly!",
-    "Chatting with you was so thrilling that my goblin horns are cramping up! Fortune session closed for today—sleep tight and return tomorrow with a fresh key! 🌙"
+    "Whoa! I shared so many heavenly secrets today that my goblin lifespan shortened by 5 years! Time to return to my iron cauldron! Ask something else! 💨",
+    "If I speak any more, lightning from above will strike my horns! Today's wisdom bundle is completely sold out! Go seize the day with courage!",
+    "Chatting so excitedly with you gave my horns cramps! Today's fortune counseling is closed! Sleep tight and return with a fresh key tomorrow 🌙"
   ],
   "weekly_openers": {
-    "lotto": [
-      "Turning to ask me again,",
-      "Heh, this topic again!",
-      "You asked last year too,",
-      "This week’s fortune counseling,",
-      "Fine, gambling talk is my specialty!",
-      "Want the honest answer,",
-      "Money talk is always tricky,"
+    "kkaebi_touch": [
+      "Kwahaha! Aiming for my horns again!",
+      "Let us tune in to the goblin antenna,",
+      "A thousand-year-old goblin prescription,",
+      "Square your shoulders and hear the secret,",
+      "Has the world been testing you lately,",
+      "Time for a taste of the goblin club,",
+      "Shake off life's bitter dust and listen,"
     ],
-    "interview": [
-      "Loosen those shoulders first,",
-      "You look extra nervous today,",
-      "Only the prepared get to ask,",
-      "Now, settle your mind,",
-      "This week’s trial, is it,",
-      "Take one deep breath,",
-      "Before you step on stage,"
+    "kkaebi_lore": [
+      "A secret kept quiet for a millennium,",
+      "Permitted only to our deepest bond,",
+      "Shall we unpack stories of Goblin Valley,",
+      "An ancient legend meant only for your ears,",
+      "Curious about the true soul of the Golden Key,",
+      "This tale cannot be told to just anyone,",
+      "If your heart is ready, lean in close,"
     ],
-    "relationship": [
-      "The threads of bonds keep trembling lately,",
-      "Good, pour out your heart,",
-      "People problems aren’t my specialty, but",
-      "The wind feels nice today,",
-      "Your face looks bright —",
-      "If it’s a main character story, I’ll listen,",
-      "Your heart’s door is slightly open,"
+    "utility_mastery": [
+      "Unwrapping the Utility Hub bundle,",
+      "Time to draw our secret weapons,",
+      "The goblin tool chest is always dependable,",
+      "Miraculous powers that ease your daily life,",
+      "Calculators or magnifiers, what do you need,",
+      "Secrets to unlocking 200% utility mastery,",
+      "The goblin armory gates swing wide open,"
     ],
-    "healing": [
-      "Come here,",
-      "Sigh... another tired face,",
-      "Sit down first,",
-      "Have some goblin-realm tea,",
-      "The weather is lovely today,",
-      "Set the heavy load down here,",
-      "A week’s worth of fatigue on you,"
+    "quiz_riddle_mastery": [
+      "Time to spark that sharp brainpower,",
+      "Shall we solve a thousand-year riddle,",
+      "The arena of wisdom is now open,",
+      "The fiery spark of speed trivia,",
+      "Let us polish your vocabulary prowess,",
+      "Dive into the ocean of common knowledge,",
+      "I see the golden glow of the correct answer,"
     ],
-    "joke": [
-      "Ha! The horns again!",
-      "Oh my, a brave guest!",
-      "The horn talk is a thousandth time, but",
-      "Fine, today I’ll allow it!",
-      "Even gatekeepers need rest,",
-      "Even horn talk has seasons,",
-      "Put the club down first,"
+    "timelab_tally_secret": [
+      "Those who rule time conquer all realms,",
+      "Open the gates of Cinematic TimeLab,",
+      "Time to cast the spell of deep immersion,",
+      "Tick-tock, the mystery of the nanosecond,",
+      "One, two, three, let us count the numbers,",
+      "Settle your breath into deep concentration,",
+      "Step into nanosecond-level focus,"
     ],
-    "burnout": [
-      "Breathe deeply first,",
-      "Rest is sacred for weary souls,",
-      "A battery needing recharge,",
-      "It is okay to put it down,",
-      "Your shoulders carry heavy weight,",
-      "Welcome to the goblin sanctuary,",
-      "Time for pure, gentle rest,"
-    ],
-    "career": [
-      "Let us open the compass of destiny,",
-      "Standing at a meaningful crossroads,",
-      "Painting the canvas of tomorrow,",
-      "Trust the fire in your eyes,",
-      "Moments of doubt mark great turning points,",
-      "Here is ancient goblin wisdom for your journey,",
-      "A courageous question from a noble heart,"
-    ],
-    "confidence": [
-      "Let us polish the clear mirror,",
-      "Time to unearth your inner jewel,",
-      "Stepping free from others' gazes,",
-      "To the one and only soul like you,",
-      "Time for a warm self-embrace,",
-      "Through goblin eyes, you are magnificent,",
-      "Welcome to the sanctuary of self-worth,"
-    ],
-    "passcode": [
-      "Thinking about a new passcode?",
-      "Let's craft your secret number combination,",
-      "The golden key's sacred keypad,",
-      "Time to forge an unbreakable digital shield,",
-      "Fusing security with boundless good fortune,",
-      "Raising Dokkaebi's protective ward,",
-      "Picking a lucky and memorable passcode,"
-    ],
-    "daily_lesson_guide": [
-      "Let us open today's lesson page,",
-      "A 1-minute daily mind ritual,",
-      "Cultivating your inner light,",
-      "Pouring a glass from wisdom's spring,",
-      "Time to align your mind's engine,",
-      "A goblin's daily assignment,",
-      "Let us stamp today's growth mark,"
-    ],
-    "coin_economy_guide": [
-      "Secrets of golden tokens,",
-      "Money talk is always intriguing,",
-      "Unveiling the goblin treasury,",
-      "Privilege of the diligent gatherer,",
-      "A guest who knows coin value,",
-      "Unpacking the arcade coin sack,",
-      "Guiding wise spending habits,"
-    ],
-    "secret_kkaebi_origin": [
-      "A secret kept for a thousand years,",
-      "Ah, a soulmate who reached Intimacy Lv.5,",
-      "Unveiling the mystery of Dokkaebi Village,",
-      "Listen closely to the ancient legend,",
-      "The true origin of the Golden Key,"
+    "coin_economy_mastery": [
+      "Unfurling the pouch of magical coins,",
+      "Gold come forth, silver come forth,",
+      "I shall show you the path to true wealth,",
+      "The goblin treasure vault stands unlocked,",
+      "Do they not say many drops make an ocean,",
+      "Prudent wisdom of goblin economics,",
+      "Gather wisely and spend with discernment,"
     ]
   }
 }
