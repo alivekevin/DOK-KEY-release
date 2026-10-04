@@ -13,7 +13,7 @@
     })();
   </script>
   <noscript>
-    <base href="$FLUTTER_BASE_HREF">
+    <base href="/DOK-KEY-release/">
   </noscript>
   <script>
     if ('serviceWorker' in navigator) {
@@ -368,12 +368,12 @@
         <span class="dokkey-web-pulse"></span> 테스터 모집
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.10)</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.18)</div>
         <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-      <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.19.10)">
+        <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.19.18)">
         <span>📱 APK 다운로드</span>
       </a>
       <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
@@ -488,6 +488,28 @@
     bootScript.src = 'flutter_bootstrap.js?v=' + Date.now();
     bootScript.async = true;
     document.body.appendChild(bootScript);
+  </script>
+  <script>
+    // 🏷️ 테스터 배너 버전 라벨 자동 동기화 (version.json 기준 → 매 배포 수동 수정 불필요)
+    (function () {
+      function applyVersion(ver) {
+        if (!ver) return;
+        var title = document.querySelector('.dokkey-web-title');
+        var apk = document.querySelector('.dokkey-web-btn-apk');
+        if (title) title.textContent = '🗝️ DOK-KEY 테스터 모집 (' + ver + ')';
+        if (apk) apk.title = '최신 APK 직접 다운로드 (' + ver + ')';
+      }
+      fetch('web/version.json', { cache: 'no-store' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (data) {
+          if (data && data.version) { applyVersion('v' + data.version); return; }
+          fetch('version.json', { cache: 'no-store' })
+            .then(function (r) { return r.ok ? r.json() : null; })
+            .then(function (d) { if (d && d.version) applyVersion('v' + d.version); })
+            .catch(function () {});
+        });
+    })();
   </script>
 </body>
 </html>
