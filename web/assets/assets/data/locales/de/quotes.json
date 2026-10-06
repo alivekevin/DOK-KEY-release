@@ -11842,5 +11842,2039 @@
       "morning"
     ],
     "kkaebi_comment": "Der Gipfel der 500 ist bezwungen! Jetzt wartet nichts als der ganz große Triumph auf dich!"
+  },
+  {
+    "id": "quo_739",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Ein rastloser Geist verirrt sich; ein ruhiges Gemüt bahnt neue Wege.",
+    "kkaebi_comment": "Wer hetzt, stolpert über Steine. Ruh dich aus, dann siehst du den Pfad!"
+  },
+  {
+    "id": "quo_740",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Ein einziger Schritt erweitert die Karte; Zögern faltet sie zusammen.",
+    "kkaebi_comment": "Jeder Schritt vergrößert dein Reich! Vom Stehenbleiben wächst keine Karte."
+  },
+  {
+    "id": "quo_741",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Ein erschöpftes Herz braucht stille Nähe weit vor jedem guten Rat.",
+    "kkaebi_comment": "Spar dir große Reden. Einfach dabeizusitzen heilt schon die Hälfte!"
+  },
+  {
+    "id": "quo_742",
+    "category": "insight",
+    "tone_tags": [
+      "passion",
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Wer nicht den Mut hat zu fallen, lernt auch niemals das Laufen.",
+    "kkaebi_comment": "Nur wer schon im Dreck lag, weiß, wie man federleicht landet!"
+  },
+  {
+    "id": "quo_743",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Die Furcht steht bloß vor der Tür; deine eigene Hand öffnet sie.",
+    "kkaebi_comment": "Türen öffnen sich von innen! Klopf an, vielleicht hilft ein Kkaebi?"
+  },
+  {
+    "id": "quo_744",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Erst Leere schafft Raum. Ein übervolles Herz fängt keinen frischen Wind.",
+    "kkaebi_comment": "Erst wenn die Reisschale leer ist, passt die nächste warme Mahlzeit rein!"
+  },
+  {
+    "id": "quo_745",
+    "category": "insight",
+    "tone_tags": [
+      "curious",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Lernen fragt nicht nach deinen Jahren, sondern allein nach deiner Haltung.",
+    "kkaebi_comment": "Selbst ein uralter Kkaebi lernt jeden Tag einen neuen Kniff dazu!"
+  },
+  {
+    "id": "quo_746",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Kummer ist bloß ein durchreisender Gast, nicht der Herr deines Hauses.",
+    "kkaebi_comment": "Serviere dem Gast eine Tasse Tee und geleite ihn dann höflich hinaus."
+  },
+  {
+    "id": "quo_747",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "Reue über Unversuchtes schmerzt tiefer als jeder begangene Fehltritt.",
+    "kkaebi_comment": "Ein Fehler brennt für einen Tag, aber Reue nagt jahrelang an dir!"
+  },
+  {
+    "id": "quo_748",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Kein Tag ist selbstverständlich; die heutige Ruhe war einst jemandes Gebet.",
+    "kkaebi_comment": "Ein gewöhnlicher Tag ist ein Riesen-Glück, das selbst Kkaebis nicht zaubern!"
+  },
+  {
+    "id": "quo_749",
+    "category": "insight",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "Statt die Mauer zu verfluchen, suche zuerst nach dem Ausweichpfad.",
+    "kkaebi_comment": "Gegen Wände zu schlagen tut nur den Fäusten weh! Umwege sind oft Abkürzungen."
+  },
+  {
+    "id": "quo_750",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Beruhigst du deinen zornigen Atem, wendet sich der ganze Tag zum Guten.",
+    "kkaebi_comment": "Ein tiefer Atemzug schlägt hundert zähneknirschende Momente!"
+  },
+  {
+    "id": "quo_751",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Warten ist keine Trägheit, sondern die hohe Kunst des rechten Moments.",
+    "kkaebi_comment": "Wer die Saat hetzt, erschreckt sie nur! Den Zeitpunkt kennen ist der halbe Sieg."
+  },
+  {
+    "id": "quo_752",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Geht ein Lächeln voraus, folgt die Lebenskraft auf dem Fuße.",
+    "kkaebi_comment": "Selbst ein erzwungenes Grinsen lockert verspannte Schultern im Nu!"
+  },
+  {
+    "id": "quo_753",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Das Glück wählt nicht nur Prachtportale; es sitzt auch auf niederen Fensterbänken.",
+    "kkaebi_comment": "Segen schleicht sich mühelos selbst durch das kleinste Fenster ein!"
+  },
+  {
+    "id": "quo_754",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Mut muss nicht riesig sein; ein Funke reicht, um die Tür aufzustoßen.",
+    "kkaebi_comment": "Ein Tässchen Beherztheit bezwingt ein ganzes Fass voller Angst!"
+  },
+  {
+    "id": "quo_755",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wer den Abend mit einem Danke segnet, findet zu einem tieferen Schlummer.",
+    "kkaebi_comment": "Ein ehrliches Dankeschön bettet dich weicher als das dickste Daunenkissen!"
+  },
+  {
+    "id": "quo_756",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "Trifft fließendes Wasser auf Fels, umströmt es ihn und schneidet sein Tal.",
+    "kkaebi_comment": "Leb wie das Wasser, dann wird dir jeder Stolperstein zum Lehrmeister!"
+  },
+  {
+    "id": "quo_757",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Während du Hindernisse zählst, reift im Stillen längst die rechte Lösung.",
+    "kkaebi_comment": "Wer nur Ausreden auflistet, lässt die besten Chancen vorüberziehen!"
+  },
+  {
+    "id": "quo_758",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Mit sich selbst gnädig umzugehen, verlangt stetiges, ehrliches Üben.",
+    "kkaebi_comment": "Niemand quält dich so beharrlich wie du selbst! Schau mal wohlwollend drüber hinweg."
+  },
+  {
+    "id": "quo_759",
+    "category": "insight",
+    "tone_tags": [
+      "passion",
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "Der Gipfel zeigt dir nicht bloß das Panorama, sondern jeden deiner Schritte.",
+    "kkaebi_comment": "Prahle oben nicht bloß mit der Aussicht, sondern feiere deine staubigen Sohlen!"
+  },
+  {
+    "id": "quo_760",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "Um Weitsicht zu erlangen, tritt zurück. Auch das Herz braucht Perspektive.",
+    "kkaebi_comment": "Bei einem feinen Gemälde tritt man auch ein paar Schritte zurück, um es zu begreifen!"
+  },
+  {
+    "id": "quo_761",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "Lachen steckt an. Lacht einer herzhaft, kichert bald die ganze Gasse.",
+    "kkaebi_comment": "Eine ansteckende Krankheit der besten Sorte! Steck das ganze Viertel damit an!"
+  },
+  {
+    "id": "quo_762",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Der Aufbruch geschieht ohne Karte, doch fester Boden wächst unter den Fersen.",
+    "kkaebi_comment": "Setz den Fuß auf und Grund entsteht! Genau so haben Kkaebis die ersten Pfade getreten!"
+  },
+  {
+    "id": "quo_763",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Sehnsucht misst keine Meilen; sie betrauert verpasste Nähe zu Lebzeiten.",
+    "kkaebi_comment": "Hätte man sie doch fester umarmt, als sie da waren... Diese späte Reue brennt am meisten."
+  },
+  {
+    "id": "quo_764",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Liebe sucht keine Perfektion, sondern schließt fehlerhafte Wesen ins Herz.",
+    "kkaebi_comment": "Jemanden samt aller Ecken und Kanten zu umarmen – das ist wahre Kkaebi-Liebe!"
+  },
+  {
+    "id": "quo_765",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Fließen heute Tränen, suchen sie bloß nach Ballast, der reinzuwaschen ist.",
+    "kkaebi_comment": "Weine dich ruhig aus. Ist alles weggespült, atmet deine Seele wieder frei auf."
+  },
+  {
+    "id": "quo_766",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Hoffnung brüllt niemals laut; sie reicht dir im Stillen eine warme Hand.",
+    "kkaebi_comment": "Hoffnung macht kein Theater. Sie sitzt einfach treu an deiner Seite."
+  },
+  {
+    "id": "quo_767",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Erinnerungen gehören nicht dem Gestern; sie wärmen das Hier und Jetzt.",
+    "kkaebi_comment": "Kostbare Erinnerungen sind keine Asche, sondern eine Laterne für deinen heutigen Tag!"
+  },
+  {
+    "id": "quo_768",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Jemanden schmerzlich zu vermissen beweist, dass er in deiner Brust weiterlebt.",
+    "kkaebi_comment": "Solange du Sehnsucht spürst, schlägt sein Herz in deinem Inneren weiter."
+  },
+  {
+    "id": "quo_769",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Unterdrücke kein Gelächter. Genau dieser Ausbruch spendet Kraft für morgen.",
+    "kkaebi_comment": "Pruste ruhig laut heraus! Das nimmt morgen eine gewaltige Last von den Schultern."
+  },
+  {
+    "id": "quo_770",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Liebe lässt sich nicht zerreden. Es genügt völlig, beieinander zu verweilen.",
+    "kkaebi_comment": "Worte braucht es kaum. Setz dich einfach still daneben, das reicht schon."
+  },
+  {
+    "id": "quo_771",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "In schweren Stunden wiegt eine wortlose Hand schwerer als jedes Floskelwort.",
+    "kkaebi_comment": "Reden kann man später. Nimm zuerst einfach schweigend seine Hand."
+  },
+  {
+    "id": "quo_772",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Mag der Geliebte fern weilen, das liebende Gedenken weicht nie von dir.",
+    "kkaebi_comment": "Meilen trennen euch vielleicht, aber sein Wesen sitzt fest an deiner Seite."
+  },
+  {
+    "id": "quo_773",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Hoffnung wartet nicht im Morgen; sie liegt in deinem heutigen Vorwärtsschritt.",
+    "kkaebi_comment": "Das Morgen entsteht heute! Setz einfach entschlossen einen Fuß vor den andern."
+  },
+  {
+    "id": "quo_774",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Empfangene Zuneigung wird zur Fackel, die künftig anderen den Weg weist.",
+    "kkaebi_comment": "Die Liebe, die du geschenkt bekamst, wirst du später an andere weiterschenken."
+  },
+  {
+    "id": "quo_775",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "Trocknen die Wangen, keimt an jener Stelle ein zarter Funke neuer Zuversicht.",
+    "kkaebi_comment": "Nach dem Weinen wächst neue Stärke heran. So ging es Kkaebi auch immer."
+  },
+  {
+    "id": "quo_776",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Schmerzt die Erinnerung auch, genau dieser Stich macht dein Wesen sanfter.",
+    "kkaebi_comment": "Selbst bittere Erinnerungen schleifen deine Kanten ab und machen dich warmherziger."
+  },
+  {
+    "id": "quo_777",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Lachen ist die wohlfeilste Arznei und zugleich der mächtigste Zauber.",
+    "kkaebi_comment": "Lachen vertreibt jedes Unheil! Wahrhaftig, Kkaebi bürgt dafür."
+  },
+  {
+    "id": "quo_778",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Für andere vergossene Tränen tränken den Boden und kehren als Blüten wieder.",
+    "kkaebi_comment": "Diese Tränen versickern nicht umsonst; sie blühen einst als Blumen auf."
+  },
+  {
+    "id": "quo_779",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Je tiefer die Sehnsucht brennt, desto schärfer zeichnet sich sein Bild im Geist.",
+    "kkaebi_comment": "Je mehr man vermisst, desto deutlicher wird das Gesicht. Ein Schabernack der Liebe!"
+  },
+  {
+    "id": "quo_780",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Hoffnung kommt nicht von weither; sie ist ein Funke, den du längst in dir trägst.",
+    "kkaebi_comment": "In deiner Brust glimmt längst eine kleine Laterne. Sie ist nie erloschen."
+  },
+  {
+    "id": "quo_781",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Die geballte Faust schwitzt, doch die geöffnete Handfläche fängt den Wind.",
+    "kkaebi_comment": "Klammerst du zu fest, tut es weh; lässt du los, rückt man dir näher."
+  },
+  {
+    "id": "quo_782",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "Dir, der du den finsteren Tag ertragen hast, begegnet das Morgen freundlicher.",
+    "kkaebi_comment": "So tapfer wie du heute durchgehalten hast, wird dich der neue Tag umarmen."
+  },
+  {
+    "id": "quo_783",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "joy"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Sein vertrautes Antlitz im Gedächtnis schenkt deinen Mundwinkeln noch heute ein Lächeln.",
+    "kkaebi_comment": "Kaum denkst du an ihn, huscht dir schon wieder ein Lächeln übers Gesicht, stimmt's?"
+  },
+  {
+    "id": "quo_784",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Dass Tränen fließen, beweist nur eines: Dein Herz schlägt noch warm und lebendig.",
+    "kkaebi_comment": "Weinen zu können ist der beste Beweis, dass dein Gemüt noch quicklebendig ist."
+  },
+  {
+    "id": "quo_785",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "Kleine tägliche Gesten am Esstisch halten die Liebe dauerhaft am Leben.",
+    "kkaebi_comment": "Ein ehrliches 'Hast du schon gegessen?' wiegt schwerer als schwülstige Schwüre."
+  },
+  {
+    "id": "quo_786",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Siehst du kein Licht am Horizont, wage einfach blindlings den nächsten Schritt.",
+    "kkaebi_comment": "Geh weiter, selbst im Dunkeln. Erst beim Gehen formt sich der Weg!"
+  },
+  {
+    "id": "quo_787",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Hauchst du seinen Namen leise aus, seid ihr für diesen Wimpernschlag vereint.",
+    "kkaebi_comment": "Schon beim Aussprechen des Namens steht er neben dir. Verblüffend, nicht?"
+  },
+  {
+    "id": "quo_788",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "Im Moment eines Lachanfalls wird die Welt sogleich erträglicher.",
+    "kkaebi_comment": "Wenn du schallend lachst, schlägt sich das Schicksal kurz auf deine Seite!"
+  },
+  {
+    "id": "quo_789",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Liebe klammert sich nicht an Scheidende; sie wärmt die loslassende Hand.",
+    "kkaebi_comment": "Wenn die Zeit reif ist, lass warmherzig los. Das ist aufrichtige Reife."
+  },
+  {
+    "id": "quo_790",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Weil du diesen schweren Tag bewältigt hast, funkelt oben ein Stern mehr für dich.",
+    "kkaebi_comment": "Weil du standgehalten hast, strahlt am Himmel nun ein neuer Stern!"
+  },
+  {
+    "id": "quo_791",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Erinnerungen binden dich nicht an Gestern; sie veredeln deinen heutigen Tag.",
+    "kkaebi_comment": "Dank goldener Augenblicke glänzt auch das Heute umso heller!"
+  },
+  {
+    "id": "quo_792",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Laufen Tränen über deine Wangen, reinigen sie behutsam dein müdes Gemüt.",
+    "kkaebi_comment": "Weine nur. Dieser Strom wäscht den Staub von deiner Seele rein."
+  },
+  {
+    "id": "quo_793",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Liebe bedarf keiner Erklärung. Es genügt vollauf, beieinander zu sein.",
+    "kkaebi_comment": "Spar dir die Logik. Wer nebeneinander sitzt, begreift es von selbst."
+  },
+  {
+    "id": "quo_794",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Hoffnung ist kein Wolkenschloss, sondern ein kleiner Halt für den heutigen Tag.",
+    "kkaebi_comment": "Ein winziger triftiger Grund heute wiegt schwerer als ein Riesentraum!"
+  },
+  {
+    "id": "quo_795",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Gemeinsames Lachen mit Vermissten bleibt wie ein altes Lesezeichen verwahrt.",
+    "kkaebi_comment": "Dieser helle Lachanfall hallt dir doch immer noch im Ohr nach, oder?"
+  },
+  {
+    "id": "quo_796",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "Sobald herzhaftes Lachen ausbricht, nehmen Sorgen kurz Reißaus.",
+    "kkaebi_comment": "Wenn du lauthals losprustest, macht der Kummer kurz Pause!"
+  },
+  {
+    "id": "quo_797",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Liebe ist kein fehlerloser Glanz, sondern Beistand an holprigen Tagen.",
+    "kkaebi_comment": "Durch krumme Tage gemeinsam durchzustolpern – das ist das Wahre."
+  },
+  {
+    "id": "quo_798",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "Dir, der du durchwachte Nächte ertrugst, naht der Morgen sanfter.",
+    "kkaebi_comment": "Weil du durchgehalten hast, empfängt dich der Morgen umso herzlicher."
+  },
+  {
+    "id": "quo_799",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Die Wärme alter Erinnerungen taut auch heute leise dein Herz auf.",
+    "kkaebi_comment": "Diese vergangene Zärtlichkeit wärmt deine Seele immer noch beharrlich."
+  },
+  {
+    "id": "quo_800",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "Augen nach reinigenden Tränen blicken viel milder auf diese Welt.",
+    "kkaebi_comment": "Nach dem Weinen sieht die Welt plötzlich seltsam versöhnlich aus."
+  },
+  {
+    "id": "quo_801",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "Wie Nadel und Faden verweben kleine Aufmerksamkeiten ein Band für ewig.",
+    "kkaebi_comment": "Lautlose Rücksichtnahme hält weit länger als jedes große Getöse."
+  },
+  {
+    "id": "quo_802",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Erscheint die Hoffnung klein, trug dich jener Funke doch bis hierher.",
+    "kkaebi_comment": "Verachte den Funken nicht; er brachte deine Beine bis hierher in Gang!"
+  },
+  {
+    "id": "quo_803",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Schon der Klang einer vertrauten Stimme nimmt dem Tag die Einsamkeit.",
+    "kkaebi_comment": "Nur kurz diese Stimme zu vernehmen, vertreibt schon die halbe Öde."
+  },
+  {
+    "id": "quo_804",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "Lachen springt über. Schenkst du ein Lächeln, lächelt der Nächste mit.",
+    "kkaebi_comment": "Dein Grinsen steckt die ganze Straße an! Eine wunderbare Seuche."
+  },
+  {
+    "id": "quo_805",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Liebe vergeht nicht; sie bleibt als Art und Weise unseres Gedenkens.",
+    "kkaebi_comment": "Selbst bei Trennung als lebendige Erinnerung zu bleiben – das ist Liebe."
+  },
+  {
+    "id": "quo_806",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Dir, der du finstere Meere durchquert hast, wird das Leben sanft begegnen.",
+    "kkaebi_comment": "Weil du standhaft geblieben bist, schlägt das Leben freundliche Töne an."
+  },
+  {
+    "id": "quo_807",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Je verschwommener Erinnerungen wehen, desto näher rückt die Gestalt.",
+    "kkaebi_comment": "Je ferner es scheint, desto näher sitzt es im Herzen. Verrückt, was?"
+  },
+  {
+    "id": "quo_808",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Selbst an tränenreichen Abenden bleibst du ein wahrhaft schöner Mensch.",
+    "kkaebi_comment": "Selbst verweint bist du wunderbar. Ohne jeden Zweifel."
+  },
+  {
+    "id": "quo_809",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Worte fassen Liebe kaum. Die schweigend geteilte Zeit birgt die Antwort.",
+    "kkaebi_comment": "Geteilte Stille wiegt unendlich schwerer als plappernde Lippen."
+  },
+  {
+    "id": "quo_810",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Hoffnung ist kein unerreichbarer Stern; sie ist ein Lichtschein am Fuß.",
+    "kkaebi_comment": "Schau auf deine Füße! Da glimmt längst ein wackerer Wegweiser."
+  },
+  {
+    "id": "quo_811",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Beiläufige Plaudereien von einst spenden heute den tiefsten Trost.",
+    "kkaebi_comment": "Damaliges Geplauder dient dir heute als festeste Stütze."
+  },
+  {
+    "id": "quo_812",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Schlucke kein Lachen hinunter. Jener kleine Schwall rettet deinen Mut.",
+    "kkaebi_comment": "Halt es nicht zurück! Lautes Loslachen rettet dich auf der Stelle."
+  },
+  {
+    "id": "quo_813",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wählst du Dank statt Groll, leuchtet gemeinsam verbrachte Zeit ewig fort.",
+    "kkaebi_comment": "Leise Dankbarkeit überdauert jeden noch so lauten Zorn."
+  },
+  {
+    "id": "quo_814",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "Nach einem finsteren Tag wird morgen eine viel wärmere Brise wehen.",
+    "kkaebi_comment": "Heute war schwer, deshalb wird dich der morgige Wind sanft streicheln."
+  },
+  {
+    "id": "quo_815",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Erinnerung fesselt dich nicht an gestern; sie adelt das Heute.",
+    "kkaebi_comment": "Dank goldener Gedanken wird dieser Augenblick erst kostbar."
+  },
+  {
+    "id": "quo_816",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Tränen rinnen herab, weil dein Herz noch immer wärmstens empfindet.",
+    "kkaebi_comment": "Weinen zu können bedeutet, dass in dir noch echtes Leben schlägt."
+  },
+  {
+    "id": "quo_818",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Hoffnung posaunt nicht; sie hält schweigend deine Hand umschlungen.",
+    "kkaebi_comment": "Hoffnung hält keine Vorträge. Sie umschließt einfach still deine Finger."
+  },
+  {
+    "id": "quo_819",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Denkst du an sein Lächeln, fällt ein wärmerer Sonnenstrahl ins Zimmer.",
+    "kkaebi_comment": "Dieses Lächeln vor Augen, und der ganze Tag erstrahlt hell!"
+  },
+  {
+    "id": "quo_820",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "Entlädt sich schallendes Lachen, wird auf der Stelle alles erträglich.",
+    "kkaebi_comment": "Platzt dir der Kragen vor Lachen, steht die Welt kurz auf deiner Seite!"
+  },
+  {
+    "id": "quo_833",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Ein Ende ist kein Verlöschen, sondern die Wiege einer bleibenden Saga.",
+    "kkaebi_comment": "Nur weil Schluss ist, ist nichts fort. Die Geschichten bleiben da."
+  },
+  {
+    "id": "quo_834",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Mehr als gehende Schritte bleibt die geteilte Herzenswärme zurück.",
+    "kkaebi_comment": "Der Rücken verblasst, doch die hinterlassene Wärme trotzt der Kälte."
+  },
+  {
+    "id": "quo_835",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "War der letzte Gruß auch knapp, trägt die Zuneigung durch ein Leben.",
+    "kkaebi_comment": "In knappen Abschiedsworten kann eine ganze Ewigkeit schlummern."
+  },
+  {
+    "id": "quo_836",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Neben jedem leisen Ende harrt geduldig ein neuer Anfang aus.",
+    "kkaebi_comment": "Fällt der Vorhang zu, schleicht sich der Neustart schon heran."
+  },
+  {
+    "id": "quo_837",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wer weiterzieht, verweht nicht; er nistet sich tiefer in dir ein.",
+    "kkaebi_comment": "Er geht vielleicht zur Tür hinaus, zieht aber mitten in dein Herz ein."
+  },
+  {
+    "id": "quo_838",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Wer bis zur Schwelle lächelte, brennt sich unauslöschlich ein.",
+    "kkaebi_comment": "Dieses Lächeln bis zum Schluss vergisst man sein Lebtag nicht."
+  },
+  {
+    "id": "quo_839",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Abschied trennt kein Band; er wandelt die Art, wie wir einander bergen.",
+    "kkaebi_comment": "Kein Zerschneiden, sondern ein anderes, geschütztes Festhalten."
+  },
+  {
+    "id": "quo_840",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Der Stern der Scheidestunde leuchtet stumm auf morgige Pfade.",
+    "kkaebi_comment": "Der Stern der letzten Nacht weist schon sachte den morgigen Pfad."
+  },
+  {
+    "id": "quo_841",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "Hinterlassene warme Worte hallen weiter nach als eilige Schritte.",
+    "kkaebi_comment": "Schritte verstummen bald, doch gütige Worte wandern unendlich weit."
+  },
+  {
+    "id": "quo_842",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Jedes Lebewohl ebnete das Feld für eine künftige Begegnung.",
+    "kkaebi_comment": "Jeder Abschied war insgeheim die Generalprobe fürs nächste Wiedersehen."
+  },
+  {
+    "id": "quo_843",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wer deine Hand bis zum Tor festhielt, war dir wahrer Gefährte.",
+    "kkaebi_comment": "Wer bis zum Schluss deine Finger hielt, ist aus echtem Schrot und Korn."
+  },
+  {
+    "id": "quo_844",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Wo du das Ende wähntest, öffnet sich im Verborgenen ein frischer Pfad.",
+    "kkaebi_comment": "Du dachtest, es sei aus? Sieh mal, da tut sich längst ein Weg auf!"
+  },
+  {
+    "id": "quo_845",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Ein Scheidelächeln an der Pforte wiegt mehr als ausschweifende Reden.",
+    "kkaebi_comment": "Ein letztes warmes Lächeln ersetzt jede noch so lange Abschiedsrede."
+  },
+  {
+    "id": "quo_846",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Der Abschiedsschmerz verfliegt, doch geteilte Güte währt für immer.",
+    "kkaebi_comment": "Der Schmerz zieht ab, nur die geteilte Herzenswärme bleibt bestehen."
+  },
+  {
+    "id": "quo_847",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wer die letzte Nacht mit dir wachte, weicht im Geiste nie von dir.",
+    "kkaebi_comment": "Wer jene Nacht mit dir saß, bleibt für immer an deiner Seite."
+  },
+  {
+    "id": "quo_848",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Jeder Schlussstrich verneigt sich ehrfürchtig vor dem Neuanfang.",
+    "kkaebi_comment": "Ein Ende ist nur ein höflicher Knicks, um den Anfang zu begrüßen."
+  },
+  {
+    "id": "quo_849",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Je bitterer der Abschied brennt, desto kostbarer war jene Seele.",
+    "kkaebi_comment": "Je mehr es wehtut, desto unbezahlbarer war die gemeinsame Zeit."
+  },
+  {
+    "id": "quo_851",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "nostalgia",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Abschied ist kein Abbruch, sondern der Auftakt tiefsten Gedenkens.",
+    "kkaebi_comment": "Lebewohl sagen ist der eigentliche Beginn wahrhaftigen Erinnerns."
+  },
+  {
+    "id": "quo_852",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Wird das Herz nach dem Gruß leicht, fand jener Mensch Raum in dir.",
+    "kkaebi_comment": "Fühlst du dich leichter, hat er sich fest und geborgen in dir eingerichtet."
+  },
+  {
+    "id": "quo_853",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Jeder Aufbruch hinterlegt das stumme Versprechen künftigen Treffens.",
+    "kkaebi_comment": "Fortgehen hinterlässt immer den geheimen Schwur des Wiedersehens."
+  },
+  {
+    "id": "quo_854",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Jenes Lächeln beim Scheiden spendet lebenslangen Trost.",
+    "kkaebi_comment": "Ein tapferes Lächeln zum Abschied tröstet dich ein Leben lang."
+  },
+  {
+    "id": "quo_856",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Der verwaiste Stuhl wird mit der Zeit von noch größerer Liebe erfüllt.",
+    "kkaebi_comment": "Leere Plätze füllen sich mit den Jahren mit noch tieferer Liebe."
+  },
+  {
+    "id": "quo_857",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "In der Totenstille der letzten Nacht reift die tiefste Erkenntnis.",
+    "kkaebi_comment": "Die lautlose Stille jener Nacht schenkt dir die klarste Weisheit."
+  },
+  {
+    "id": "quo_858",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Abschied stößt nicht fort, sondern bettet jenen Menschen ewig in dir ein.",
+    "kkaebi_comment": "Man schickt niemanden fort; man nimmt ihn für immer in sich auf."
+  },
+  {
+    "id": "quo_859",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "serene",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "An jedem vollendeten Ziel weilt schweigend die Dankbarkeit.",
+    "kkaebi_comment": "Am Ende sitzt immer die stille Dankbarkeit friedlich in der Ecke."
+  },
+  {
+    "id": "quo_860",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Dem treuen Gefährten bis zur Neige gebührt deine wärmste Verbeugung.",
+    "kkaebi_comment": "Verbeug dich herzlich vor dem, der bis zum Fall des Vorhangs blieb."
+  },
+  {
+    "id": "quo_861",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "Wo du standest, leuchtet deine hinterlassene Wärme wie ein Licht fort.",
+    "kkaebi_comment": "Selbst wenn du gehst, glimmt deine Herzenswärme dort ewig weiter."
+  },
+  {
+    "id": "quo_862",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "Das Ziel ist kein Abbruch, sondern Einkehr zur Rast auf getaner Reise.",
+    "kkaebi_comment": "Das Ende ist keine Wand; es schenkt Zeit, auf deinen Weg zurückzublicken."
+  },
+  {
+    "id": "quo_863",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Glück eilt emsigen Fingern eher zu als lauten Rufen im Leeren.",
+    "kkaebi_comment": "Das Glück hat nun wirklich keine Lust, auf Faulpelze zu warten!"
+  },
+  {
+    "id": "quo_864",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Glückstage stehen in keinem Kalender; ein gerüsteter Tag wird dazu.",
+    "kkaebi_comment": "Gute Tage schmiedet man selbst; sie sind nirgends vorgemerkt."
+  },
+  {
+    "id": "quo_865",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "Heil schlüpft durch Spalten vor Prunkportalen. Halte die Fugen offen.",
+    "kkaebi_comment": "Lass einen Fensterspalt auf; Segen huscht selbst dort hinein."
+  },
+  {
+    "id": "quo_866",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Dusel wartet man nicht ab; man öffnet ihm lächelnd die Pforte.",
+    "kkaebi_comment": "Ein heiteres Gesicht taugt mehr als jeder papierne Glücksbringer!"
+  },
+  {
+    "id": "quo_867",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Furcht ist menschlich. Trotz Zagen voranzuschreiten, das ist Mumm.",
+    "kkaebi_comment": "Vor Angst zu schlottern heißt noch lange nicht, feige zu sein!"
+  },
+  {
+    "id": "quo_868",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Wer wartet, bis alles vollkommen ist, bricht niemals auf.",
+    "kkaebi_comment": "Perfektion hat Zeit! Setz einfach deinen Stiefel in Bewegung."
+  },
+  {
+    "id": "quo_869",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "passion"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "Wo du fielst, liegt Fels. Tritt auf den Stein, um höher zu blicken.",
+    "kkaebi_comment": "Stolpersteine sind dafür da, dass man sich draufstellt und wächst!"
+  },
+  {
+    "id": "quo_870",
+    "category": "insight",
+    "tone_tags": [
+      "curious",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "Gewohnte Wege sind bequem, doch nur Neuland schenkt frische Weite.",
+    "kkaebi_comment": "Auf ausgetretenen Pfaden gibt's nun mal keine neuen Wunder zu sehen!"
   }
 ]

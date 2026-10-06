@@ -11842,5 +11842,2039 @@
       "morning"
     ],
     "kkaebi_comment": "五百险峰彻底踩在脚下平推登顶！往后只剩下发大财交大运啦！"
+  },
+  {
+    "id": "quo_739",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "急躁的心容易迷失，平静的心自能开出路来。",
+    "kkaebi_comment": "越急越容易被绊倒，停下歇歇，路自然就清晰了！"
+  },
+  {
+    "id": "quo_740",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "迈出一步能拓宽地图，犹豫不决只会折叠可能。",
+    "kkaebi_comment": "每走一步地图就大一圈！原地不动可变不出新天地。"
+  },
+  {
+    "id": "quo_741",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "疲惫的心灵比起大道理，更需要无声而温暖的陪伴。",
+    "kkaebi_comment": "把多余的话收起来，默默坐在身旁就能治愈大半！"
+  },
+  {
+    "id": "quo_742",
+    "category": "insight",
+    "tone_tags": [
+      "passion",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "若没有跌倒的勇气，就永远学不会如何奔跑。",
+    "kkaebi_comment": "摔过跟头的人，才知道怎么稳稳落地！"
+  },
+  {
+    "id": "quo_743",
+    "category": "insight",
+    "tone_tags": [
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "恐惧不过是站在门前，推开大门的始终是你自己的手。",
+    "kkaebi_comment": "门都是从里面开的！你敲一敲，多吉比也会来帮你开？"
+  },
+  {
+    "id": "quo_744",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "night"
+    ],
+    "text": "放空才能容纳。塞满杂念的心，吹不进清新的风。",
+    "kkaebi_comment": "饭碗吃空了，才能盛上下一口香喷喷的热饭！"
+  },
+  {
+    "id": "quo_745",
+    "category": "insight",
+    "tone_tags": [
+      "curious",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "学习从不过问年龄，它在乎的只有你心中的姿态。",
+    "kkaebi_comment": "哪怕是上了年纪的多吉比，每天也会学点新花样！"
+  },
+  {
+    "id": "quo_746",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "悲伤只是匆匆过客，并不是这间屋子的主人。",
+    "kkaebi_comment": "给客人沏上一杯茶，好聚好散才是待客之道。"
+  },
+  {
+    "id": "quo_747",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "未曾尝试的拖延与懊悔，远比历经犯错带来的痛更长久。",
+    "kkaebi_comment": "犯错只疼一天，后悔却能在心底回响好几年！"
+  },
+  {
+    "id": "quo_748",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "没有理所应当的日常。今天的平凡，也是某人期盼已久的晴朗。",
+    "kkaebi_comment": "平凡如常的日子，连多吉比施法也变不出来的天大福分！"
+  },
+  {
+    "id": "quo_749",
+    "category": "insight",
+    "tone_tags": [
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "与其抱怨前路被封堵，不如先看看是否有迂回的小道。",
+    "kkaebi_comment": "砸墙只会手疼！绕道而行有时才是真正的捷径。"
+  },
+  {
+    "id": "quo_750",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "平复一次急促的怒火，整天的方向都会为之改变。",
+    "kkaebi_comment": "平心静气深呼吸一次，胜过咬牙切齿忍耐一百回！"
+  },
+  {
+    "id": "quo_751",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "等待并非懒散，而是懂得把握时机的成熟技艺。",
+    "kkaebi_comment": "拔苗助长种子也会怕！摸准时机，事情就成了大半。"
+  },
+  {
+    "id": "quo_752",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "若是笑容先行，力量自会紧紧相随。",
+    "kkaebi_comment": "哪怕咧嘴假笑一下，肩膀也会跟着松快不少呢！"
+  },
+  {
+    "id": "quo_753",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "幸运不仅穿过宏伟的大门，也会轻悄悄落在低矮的窗台。",
+    "kkaebi_comment": "福气这东西，从小窗缝里也能溜进来呢！"
+  },
+  {
+    "id": "quo_754",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "勇气不必多么庞大，足以推开一扇门便已足够。",
+    "kkaebi_comment": "茶杯般大小的胆量，也能击碎缸一般大的恐惧！"
+  },
+  {
+    "id": "quo_755",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "向身边人道一声感谢的夜晚，连梦乡都会格外安稳香甜。",
+    "kkaebi_comment": "一句真诚的‘谢谢’，比软绵绵的枕头更让人舒服！"
+  },
+  {
+    "id": "quo_756",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "calm",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "流水遇巨石而不争，从旁绕过，自成一片新天地。",
+    "kkaebi_comment": "像流水一样活着，连绊脚石也能变成好老师！"
+  },
+  {
+    "id": "quo_757",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "在罗列行不通的借口时，解决的良策正在悄然孕育成熟。",
+    "kkaebi_comment": "光顾着数借口，大好机会早就溜没影啦！"
+  },
+  {
+    "id": "quo_758",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "calm",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "懂得善待与宽容自己，也是需要用心修习的功课。",
+    "kkaebi_comment": "折磨你最久的往往是你自己！对自己宽容点吧。"
+  },
+  {
+    "id": "quo_759",
+    "category": "insight",
+    "tone_tags": [
+      "passion",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "山顶展现的不仅是风景，更是这一路攀登而来的足印。",
+    "kkaebi_comment": "站在山顶最值得夸耀的不是风光，而是你沾满泥巴的脚步！"
+  },
+  {
+    "id": "quo_760",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "若想看得深远，不妨后退一步。心灵也需要适度的透视感。",
+    "kkaebi_comment": "赏画时往后退两步，才能看清全貌嘛！"
+  },
+  {
+    "id": "quo_761",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "笑声极具感染力。只要一人绽开笑容，整条胡同都会跟着亮起来。",
+    "kkaebi_comment": "笑声是越传越好的好病！快把整条街都给传染了吧！"
+  },
+  {
+    "id": "quo_762",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "迈出的第一步虽无向导，但脚下的大地正是自此而生。",
+    "kkaebi_comment": "脚踩下去才有路！多吉比当年也是这么闯出一条道的！"
+  },
+  {
+    "id": "quo_763",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "思念并非关乎遥远的距离，而是近在身边却未曾珍视的时光。",
+    "kkaebi_comment": "还在身边时真该多抱抱……后知后觉最叫人揪心。"
+  },
+  {
+    "id": "quo_764",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "爱不是寻找毫无瑕疵的人，而是全心接纳并不完美的彼此。",
+    "kkaebi_comment": "包容有缺点的人才是真爱。多吉比向来都是这么活的！"
+  },
+  {
+    "id": "quo_765",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "泪水滑落的日子，正是它在洗涤那些亟待释怀的尘垢。",
+    "kkaebi_comment": "哭吧哭吧。彻底冲洗干净后，心里自然就敞亮多了。"
+  },
+  {
+    "id": "quo_766",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "希望从不大声喧哗，它只是悄悄向你伸出一只温暖的手。",
+    "kkaebi_comment": "希望从不吵吵闹闹。它就静悄悄坐在你身旁呢。"
+  },
+  {
+    "id": "quo_767",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "回忆并非沉溺过往，而是温暖当下每个瞬间的一盏明灯。",
+    "kkaebi_comment": "美好的记忆不是过去，而是照亮今天的明灯啊！"
+  },
+  {
+    "id": "quo_768",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "牵挂一个人，正是因为那个人依然鲜活地住在你的心房。",
+    "kkaebi_comment": "还有牵挂，说明那个人依然住在你的心坎里。"
+  },
+  {
+    "id": "quo_769",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "想笑的时候别憋着。那份畅快，就是支撑明天的底气。",
+    "kkaebi_comment": "哪怕硬挤也要笑出来！明天的担子顿时就轻快了。"
+  },
+  {
+    "id": "quo_770",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "爱意无法用言语道尽。仅仅是守候身旁，就胜过千言万语。",
+    "kkaebi_comment": "用不着说大白话。静静坐在旁边就足够啦。"
+  },
+  {
+    "id": "quo_771",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "难熬之时最需要的，不是一句客套的安抚，而是一只默默紧握的手。",
+    "kkaebi_comment": "先别急着说话。把手伸过去紧紧握住吧。"
+  },
+  {
+    "id": "quo_772",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "想念的人纵使相隔天涯，思念的心绪也时刻萦绕在身侧。",
+    "kkaebi_comment": "人虽离得远，心却一直安安稳稳坐在你身旁。"
+  },
+  {
+    "id": "quo_773",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "希望不在缥缈的明天，而在你今天勇敢迈出脚步的刹那。",
+    "kkaebi_comment": "明天是今天铺出来的！哪怕迈出一小步也好。"
+  },
+  {
+    "id": "quo_774",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "收获的爱意会化作明灯，在未来的某天成为照亮他人的力量。",
+    "kkaebi_comment": "你收到的每一份爱，将来都会变成你给别人的温暖。"
+  },
+  {
+    "id": "quo_775",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "当泪痕逐渐风干，心底深处便会悄然萌生出一缕小小的勇气。",
+    "kkaebi_comment": "哭过一场人就会变得坚强。多吉比也是这么过来的。"
+  },
+  {
+    "id": "quo_776",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "哪怕回忆隐隐作痛，那份触动也会让你变得更加温柔笃定。",
+    "kkaebi_comment": "泛着酸楚的过往，终究会把你打磨得更温和包容。"
+  },
+  {
+    "id": "quo_777",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "笑容是最廉价的灵药，也是天地间最神奇的魔法。",
+    "kkaebi_comment": "多笑笑毛病全跑光！不骗你，多吉比拿信誉担保。"
+  },
+  {
+    "id": "quo_778",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "为他人落下的清泪，会悄悄润入泥土，化作鲜花归来。",
+    "kkaebi_comment": "那些眼泪日后都会化作花朵，重新回到你怀里。"
+  },
+  {
+    "id": "quo_779",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "思念愈是深沉，那个身影便愈深刻地镌刻在心头。",
+    "kkaebi_comment": "越想念轮廓就越分明。这就是爱开的小玩笑吧。"
+  },
+  {
+    "id": "quo_780",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "希望并不来自遥不可及的远方，而是你早已揣在怀中的微光。",
+    "kkaebi_comment": "你心里那盏小桔灯一直亮着呢，从来都没熄灭过。"
+  },
+  {
+    "id": "quo_781",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "紧攥的拳头布满汗水，摊开的手掌迎着清风。",
+    "kkaebi_comment": "攥得太紧容易硌手，适度松开反而靠得更近。"
+  },
+  {
+    "id": "quo_782",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "致熬过艰难岁月的你：明天一定会对你多一分和颜悦色。",
+    "kkaebi_comment": "今天撑得有多辛苦，明天给你的拥抱就有多深厚。"
+  },
+  {
+    "id": "quo_783",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "joy"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "回忆中那个熟悉的面容，至今仍能悄悄牵起你的嘴角。",
+    "kkaebi_comment": "一想起那个人，嘴角还是会忍不住往上扬吧？"
+  },
+  {
+    "id": "quo_784",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "泪水之所以会流淌，是因为你的内心依然跳动温热。",
+    "kkaebi_comment": "还能掉眼泪，说明心底还葆有一份热乎气呢。"
+  },
+  {
+    "id": "quo_785",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "餐桌上日复一日增添的心意，正是滋养爱意长存的甘露。",
+    "kkaebi_comment": "与其说漂亮话，不如真真切切问一句‘吃过饭了吗？’。"
+  },
+  {
+    "id": "quo_786",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "当眼前看不清希望时，不妨试着再向前踏出一小步。",
+    "kkaebi_comment": "看不清也别停！走着走着，路自然就现出来了。"
+  },
+  {
+    "id": "quo_787",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "只要轻声唤起思念之人的名字，那刹那便是重逢。",
+    "kkaebi_comment": "念念不忘必有回响，一喊名字仿佛就站在身边啦。"
+  },
+  {
+    "id": "quo_788",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "笑声漾开的瞬间，这个世界似乎也变得更容易相处了。",
+    "kkaebi_comment": "只要笑了出来，整个世界都会悄悄站在你这边！"
+  },
+  {
+    "id": "quo_789",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "真爱不是执意拽紧离去的人，而是温暖那只放开的手。",
+    "kkaebi_comment": "该道别时温和挥手，这才是真正有深度的爱。"
+  },
+  {
+    "id": "quo_790",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "致挺过漫长煎熬的你：夜空中又多了一颗为你闪烁的星辰。",
+    "kkaebi_comment": "多扛过今天一天，天上就为你多亮起了一颗星辰！"
+  },
+  {
+    "id": "quo_791",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "回忆并非沉溺过往不放，而是让人更加珍视当前的每一个呼吸。",
+    "kkaebi_comment": "正因为有美好的过往，今天才显得愈发光彩夺目。"
+  },
+  {
+    "id": "quo_792",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "泪水淌下的时刻，正是它在轻轻洗涤你的心房。",
+    "kkaebi_comment": "尽情哭吧。泪水会替你把心里的阴霾洗刷干净的。"
+  },
+  {
+    "id": "quo_793",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "爱无需过多注解。只要并肩站在一起，答案自明。",
+    "kkaebi_comment": "用不着费劲解释，依偎在一起心里自然亮堂。"
+  },
+  {
+    "id": "quo_794",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "希望并非宏大的誓言，而是支撑你熬过今日的细小理由。",
+    "kkaebi_comment": "比起空谈梦想，今天能撑下去的一个微小理由更宝贵。"
+  },
+  {
+    "id": "quo_795",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "与想念之人一同分享的笑声，如老书签般长久夹在心间。",
+    "kkaebi_comment": "那些银铃般的笑声，到现在还在你耳边回荡吧？"
+  },
+  {
+    "id": "quo_796",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "笑声破土而出的瞬间，所有忧愁都会识趣地暂时退场。",
+    "kkaebi_comment": "只要噗嗤笑出声，烦恼就会乖乖出去放风啦！"
+  },
+  {
+    "id": "quo_797",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "爱不是苛求完美时刻，而是一同走过跌跌撞撞的碎屑日常。",
+    "kkaebi_comment": "比起毫无瑕疵的假日子，磕磕碰碰守在一起才是真感情。"
+  },
+  {
+    "id": "quo_798",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "致熬过漫漫长夜的你：晨光必将带着加倍的温柔拥抱你。",
+    "kkaebi_comment": "整夜硬扛过来的你，早晨自会带着格外轻柔的风迎上来。"
+  },
+  {
+    "id": "quo_799",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "回忆里存下的暖意，此刻依然在一丝一缕熨帖着你的心弦。",
+    "kkaebi_comment": "那份残留的温存，还在一点点融化你胸口的坚冰呢。"
+  },
+  {
+    "id": "quo_800",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "泪水洗净的双眼，往往能将这斑驳的世界看得更加柔软。",
+    "kkaebi_comment": "哭过一场以后，周围的一切不知怎的就变得体贴多了。"
+  },
+  {
+    "id": "quo_801",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "evening"
+    ],
+    "text": "如同穿针引线一般，彼此默默的体谅才能缝出牢固的情分。",
+    "kkaebi_comment": "比起震天动地的山盟海誓，不声不响的关怀才留得最久。"
+  },
+  {
+    "id": "quo_802",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "哪怕希望看似微弱，正是那簇火星一路护送你走到了今天。",
+    "kkaebi_comment": "别嫌它微弱，正是这股暗劲儿一步步把你领到了这儿。"
+  },
+  {
+    "id": "quo_803",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "哪怕只是听一听思念之人的声音，漫长的一天也就不再孤单。",
+    "kkaebi_comment": "只要能听见那副嗓音，胸口沉甸甸的寂寞就消散大半啦。"
+  },
+  {
+    "id": "quo_804",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon",
+      "evening"
+    ],
+    "text": "笑是会传染的。只要你扬起嘴角，身边的人也会跟着微笑。",
+    "kkaebi_comment": "你的笑声能把整条街巷都给带跑偏！这可是顶好的病症。"
+  },
+  {
+    "id": "quo_805",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "真爱从不曾真正散去，它只是换作永驻心底的铭记继续存在。",
+    "kkaebi_comment": "纵使肉身远行，能在记忆里扎根长留才是真爱的模样。"
+  },
+  {
+    "id": "quo_806",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "对趟过泥泞岁月的你，岁月终会回报你更深切的温柔与善意。",
+    "kkaebi_comment": "咬牙挺过多少苦难，往后的日子就会加倍温和地待你。"
+  },
+  {
+    "id": "quo_807",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "往事愈是若隐若现，那道身影在心头便愈是贴近真切。",
+    "kkaebi_comment": "越是朦胧泛黄，贴在心窝里就越近乎。你说怪不怪？"
+  },
+  {
+    "id": "quo_808",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "即便是在泪流不止的暗夜，你也依然是那个极为美好的人。",
+    "kkaebi_comment": "哭花了脸蛋也好看。这话千真万确，骗你是小狗。"
+  },
+  {
+    "id": "quo_809",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "情意深处本就无从倾吐。默默相守的光阴，自会道尽所有答案。",
+    "kkaebi_comment": "比起嘴皮子翻飞，坐在一起熬过的光景才最真切。"
+  },
+  {
+    "id": "quo_810",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "希望绝非天边遥不可及的寒星，而是映照在脚下的微弱亮光。",
+    "kkaebi_comment": "往脚底下瞧瞧吧！那盏小地灯其实早就给你点亮啦。"
+  },
+  {
+    "id": "quo_811",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "曾与心系之人随口闲聊的琐碎话语，至今仍是无上的抚慰。",
+    "kkaebi_comment": "当年那些无关紧要的家常嗑，现在想来比什么都顶用。"
+  },
+  {
+    "id": "quo_812",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "笑意涌上来时千万别忍着。那一刹那的开怀，足以拉你一把。",
+    "kkaebi_comment": "别憋着！痛痛快快笑出声来，整个人立马就还魂啦。"
+  },
+  {
+    "id": "quo_813",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "若选择以感恩代替埋怨，携手走过的岁月便会历久弥新地泛光。",
+    "kkaebi_comment": "怨天尤人不如道一声谢，感恩的情分可比怨气经活得多。"
+  },
+  {
+    "id": "quo_814",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night",
+      "morning"
+    ],
+    "text": "给熬过艰难一天的你：明天吹过的晚风，定会更加温柔煦暖。",
+    "kkaebi_comment": "今天受尽了委屈，明天吹拂你的风自然会软绵绵的。"
+  },
+  {
+    "id": "quo_815",
+    "category": "insight",
+    "tone_tags": [
+      "wisdom",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "回忆并非绑架前路的绳索，而是促使我们更深切热爱当下的泉源。",
+    "kkaebi_comment": "就因为那些金子般的念想，今天的小日子才更有嚼头。"
+  },
+  {
+    "id": "quo_816",
+    "category": "insight",
+    "tone_tags": [
+      "calm",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "眼角滑落的热泪正是证据，表明你的心尚未风化变凉。",
+    "kkaebi_comment": "能淌下滚烫的泪水，说明心里还活泛着、有血有肉呢。"
+  },
+  {
+    "id": "quo_818",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "希望绝非雷鸣般的喧嚷，而是无声地握住你掌心的一股暖意。",
+    "kkaebi_comment": "希望从来不瞎咋呼。它只负责悄没声儿地攥紧你的手。"
+  },
+  {
+    "id": "quo_819",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "love",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "只要浮现出心上之人的笑靥，窗棱上便似多照进了一捧暖阳。",
+    "kkaebi_comment": "一想起那抹笑容，心里顿时就像被阳光晒透了一样明亮。"
+  },
+  {
+    "id": "quo_820",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "text": "开怀大笑的瞬间，世间的一切沟壑仿佛都被暂时填平了。",
+    "kkaebi_comment": "冷不丁破涕为笑的那刻，这老天爷都会偷偷偏袒你一把！"
+  },
+  {
+    "id": "quo_833",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "终点并非湮灭，而是留下值得久久传颂之故事的庄严节点。",
+    "kkaebi_comment": "别以为收尾就是空无一物，沉淀下来的全都是老故事。"
+  },
+  {
+    "id": "quo_834",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "比起背身远去的轮廓，共度时光遗留的余温会长留心间更为久远。",
+    "kkaebi_comment": "背影总会淡出视野，留存的贴心热乎气却能记一辈子。"
+  },
+  {
+    "id": "quo_835",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "临别的寒暄或许格外简短，可字里行间的情意却足以贯穿一生。",
+    "kkaebi_comment": "轻描淡写的一声再见，里头装下的可是整整一生啊。"
+  },
+  {
+    "id": "quo_836",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "每一处落幕的檐角旁，都安稳静坐着一个崭新的开端。",
+    "kkaebi_comment": "旧章一合上，新的苗头就轻手轻脚地溜进门来啦。"
+  },
+  {
+    "id": "quo_837",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "目送离去的人不曾消失，他们只是往你的心坎深处扎下了根。",
+    "kkaebi_comment": "虽然出了门槛，人却搬到你心尖尖里头住下啦。"
+  },
+  {
+    "id": "quo_838",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "直到分别最后一刻仍含笑以对的人，在脑海里烙印得最为持久。",
+    "kkaebi_comment": "临走还冲你咧嘴笑的那张脸，最叫人忘也忘不掉。"
+  },
+  {
+    "id": "quo_839",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "离别并非斩断羁绊，而是换了一种不被打扰的姿态继续珍藏。",
+    "kkaebi_comment": "哪里是割舍，不过是换个方式揣在胸膛里焐着罢了。"
+  },
+  {
+    "id": "quo_840",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "最后一夜悬挂的寒星，正悄无声息地替明天的征程洒下一片微光。",
+    "kkaebi_comment": "临行夜空里那颗孤星，正悄悄给明儿个的道路引路呢。"
+  },
+  {
+    "id": "quo_841",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "比起行色匆匆的远去步伐，留赠的温言细语往往能飘扬得更远。",
+    "kkaebi_comment": "脚步迟早会听不见，暖心窝子的话却能飘到九霄云外。"
+  },
+  {
+    "id": "quo_842",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "过往所有的挥手告别，都在暗中为某一场宿命般的相聚铺就温床。",
+    "kkaebi_comment": "离别说白了，全都是给下回更好的重逢做预热彩排呢。"
+  },
+  {
+    "id": "quo_843",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "直到最后依然紧紧牵住你手掌的人，才是生命里最真切的知己。",
+    "kkaebi_comment": "陪你挨到末尾还不肯撒手的，才是打着灯笼难找的真缘分。"
+  },
+  {
+    "id": "quo_844",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "就在你以为走到绝境之处，一条簇新的蹊径早已悄然向外延展。",
+    "kkaebi_comment": "以为山穷水尽啦？瞧瞧脚边，新的平坦大路早敞开啦。"
+  },
+  {
+    "id": "quo_845",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "向远行者递上的最后一抹浅笑，胜过冗长繁杂的万语千言。",
+    "kkaebi_comment": "临别前抿嘴一笑，比长篇大论的唠叨顶用百倍。"
+  },
+  {
+    "id": "quo_846",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "离散的钝痛终究会风化，而共度的融融暖意却注定会历久弥香。",
+    "kkaebi_comment": "伤心劲儿总会过去，唯独那份热乎气能顺顺当当留一辈子。"
+  },
+  {
+    "id": "quo_847",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "曾陪你守过最后漫漫长夜的人，在记忆长河里便永不曾缺席。",
+    "kkaebi_comment": "跟你一块儿熬过那一宿的人，打那以后就没离开过你身边。"
+  },
+  {
+    "id": "quo_848",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "growth",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "每一个终局的降临，皆是向全新出发递上的一记无声敬礼。",
+    "kkaebi_comment": "这终点啊，不过是低头给崭新的开头打个温顺的招呼。"
+  },
+  {
+    "id": "quo_849",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "text": "送别时的心如刀割有多深，便愈发印证那人在你生命里有多厚重。",
+    "kkaebi_comment": "心里抽抽得有多疼，就说明那人在你眼里有多贵重。"
+  },
+  {
+    "id": "quo_851",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "nostalgia",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "离别绝非故事的尾声，而是以更深沉的姿态去纪念彼此时刻的启程。",
+    "kkaebi_comment": "挥手道别，恰恰是打心底里真正开始记住一个人的当口。"
+  },
+  {
+    "id": "quo_852",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "道别之后心头忽觉释怀与轻盈，全因那个身影已彻底融进了你的血脉。",
+    "kkaebi_comment": "行完礼反倒觉得踏实松快，是因为那人已经稳稳装进你心里啦。"
+  },
+  {
+    "id": "quo_853",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "每一次看似决绝的远行，都在暗处留下了一纸终将重逢的默契约定。",
+    "kkaebi_comment": "哪怕远走天涯，冥冥之中也早就留下了下回见面的暗号。"
+  },
+  {
+    "id": "quo_854",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "坚持微笑着送你到最后的那张面庞，将化作往后余生最绵长的慰藉。",
+    "kkaebi_comment": "临了还坚持冲你笑着的模样，往后能顶得上所有的解药。"
+  },
+  {
+    "id": "quo_856",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "night"
+    ],
+    "text": "远行者留下的空荡座位，假以时日终会被更广阔磅礴的爱意所充盈。",
+    "kkaebi_comment": "空落落的缺口别心慌，日后自会塞满更深沉厚重的爱意。"
+  },
+  {
+    "id": "quo_857",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "唯有在终局长夜的万籁俱寂中，最深邃透彻的澄澈智慧才会叩门而至。",
+    "kkaebi_comment": "收尾这宿的鸦雀无声里，藏着全天下最通透的世俗智慧。"
+  },
+  {
+    "id": "quo_858",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "farewell",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "道别并不是将对方推向遗忘，而是将其一颦一笑永远安放在自己怀里。",
+    "kkaebi_comment": "哪里是什么远走高飞，分明是换个由头永久锁进你的骨子里。"
+  },
+  {
+    "id": "quo_859",
+    "category": "insight",
+    "tone_tags": [
+      "serene",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "serene",
+    "time_slot": [
+      "evening",
+      "night"
+    ],
+    "text": "在每段落下的帷幕身侧，总有感恩的恬淡心绪正静默相伴。",
+    "kkaebi_comment": "散场的地方别忙着叹气，那角上总蹲着一份沉甸甸的感激呢。"
+  },
+  {
+    "id": "quo_860",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "gratitude",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "text": "向毫无保留陪伴你涉水至终点的人，致以天地间最温热妥帖的敬意吧。",
+    "kkaebi_comment": "给那个坚持陪你耗到散场的主儿，道上一句最暖心窝子的话。"
+  },
+  {
+    "id": "quo_861",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "serene"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "evening"
+    ],
+    "text": "在驻足过的原地，你曾留下的缕缕温存会如悬灯般经久长明。",
+    "kkaebi_comment": "哪怕你抬腿走远了，留在那儿的人情味儿还会接着闪闪发亮。"
+  },
+  {
+    "id": "quo_862",
+    "category": "insight",
+    "tone_tags": [
+      "zen",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "zen",
+    "emotion": "serene",
+    "time_slot": [
+      "night"
+    ],
+    "text": "落幕并非宣告终结，而是留出空隙，好让你从容回望走过的关山万里。",
+    "kkaebi_comment": "这尾声不是叫你看悬崖峭壁，是给你腾出工夫回味踩出来的路。"
+  },
+  {
+    "id": "quo_863",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "好运比起大声张扬四处找寻，更愿早早眷顾指尖勤勉翻动的人。",
+    "kkaebi_comment": "福气这种金贵物，可从来不会站在原地干等偷懒汉！"
+  },
+  {
+    "id": "quo_864",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "fortune",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "吉日从不被特意圈定在黄历上。准备周全的一整天，自成良辰吉时。",
+    "kkaebi_comment": "好日子都是自个儿过出来的，黄历上画的可不算数。"
+  },
+  {
+    "id": "quo_865",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "fortune",
+    "emotion": "curious",
+    "time_slot": [
+      "morning",
+      "night"
+    ],
+    "text": "福分比起正堂朱门，更爱从细小隙缝钻入。别忘了给心窗留道小缝。",
+    "kkaebi_comment": "窗户随便留个指甲盖大的缝隙，福气就能滋溜钻进来。"
+  },
+  {
+    "id": "quo_866",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "comic"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "fortune",
+    "emotion": "joy",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "运气从非翘首企盼得来，而是用满面春风的笑容迎门相接而来。",
+    "kkaebi_comment": "笑逐颜开的面孔，才是招财进宝最灵验的桃木符！"
+  },
+  {
+    "id": "quo_867",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "fire",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "心生胆怯理所应当。哪怕腿肚子打颤也要踏出一步，才叫真胆识。",
+    "kkaebi_comment": "吓得哆嗦两下又不丢人，不耽误你往前迈步子！"
+  },
+  {
+    "id": "quo_868",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "passion"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "courage",
+    "emotion": "hope",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "若非要等万事俱备才肯动身，那出发的号角便永生不会吹响。",
+    "kkaebi_comment": "十全十美那是后话！先把脚掌踏踏实实踩出去再说。"
+  },
+  {
+    "id": "quo_869",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "passion"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "fire",
+    "time_slot": [
+      "morning",
+      "noon"
+    ],
+    "text": "跌倒的地方定有顽石。若能踩住那块石墩借力，便能比原先立得更高。",
+    "kkaebi_comment": "绊脚石摆在那儿，不就是专程留给你垫脚垫高用的嘛！"
+  },
+  {
+    "id": "quo_870",
+    "category": "insight",
+    "tone_tags": [
+      "curious",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧集",
+    "theme": "challenge",
+    "emotion": "curious",
+    "time_slot": [
+      "morning"
+    ],
+    "text": "轻车熟路自是惬意平坦，但唯有从未涉足的荒径，才能赠你全新风光。",
+    "kkaebi_comment": "贪图省事溜达老路，那这辈子可瞧不见新奇景致啦！"
   }
 ]
