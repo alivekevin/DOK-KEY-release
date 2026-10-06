@@ -88,6 +88,19 @@
         "Fourth, visit the 🕹️ 'Kkaebi Arcade' to enjoy 8 retro games—Shooter, Breakout, Tetris, Bubble Shooter, and Hex Minesweeper! Setting high scores rewards you with coin jackpots and massive intimacy EXP!",
         "Fifth, with your saved coins (you currently hold {coins} coins in your pocket!), acquire 18 traditional 'Guardian Talismans' in the 🛒 'Shop' for wealth, exams, and romance! Cherish them in your vault or gift them as lucky images to friends!"
       ]
+    },
+    {
+      "id": "lucky_numbers",
+      "chip_title": "🔢 Lucky Numbers & Save",
+      "user_question": "Kkaebi, show me how to combine and save today's lucky numbers!",
+      "req_level": 2,
+      "steps": [
+        "Lucky numbers are just a bit of fun borrowing fate — no promises. But they surely make your heart race!",
+        "Open the Number Generator in the Key Alchemy Lab (KeyBox): it blends dates, names and energy into 6 numbers, fresh every draw!",
+        "Pick a preset like the Four Guardian Beasts or Stacked Secret to draw a unique set with no repeats. Match it to your guardian energy.",
+        "Save the set you like with a custom tag — name it 'This Week's Lucky Numbers' so you can find it later!",
+        "Then share a lucky image with someone dear. Numbers are for fun; it's you who makes the day shine! 🔑"
+      ]
     }
   ],
   "exhausted_endings": [
@@ -149,6 +162,15 @@
       "Do they not say many drops make an ocean,",
       "Prudent wisdom of goblin economics,",
       "Gather wisely and spend with discernment,"
+    ],
+    "lucky_numbers": [
+      "Time to forge your lucky numbers,",
+      "Let us pour fate into digits,",
+      "Shall I combine your lucky numbers,",
+      "Mixing dates and names into a grand set,",
+      "Draw your own guardian numbers,",
+      "Six playful digits of fortune,",
+      "Pick a luck to share with someone dear,"
     ]
   }
 }
