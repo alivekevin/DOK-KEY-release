@@ -3246,22 +3246,6 @@
     "kkaebi_comment": "一切美德都从谢谢两个字发芽！今天至少喊三遍！"
   },
   {
-    "id": "quo_203",
-    "text": "我之所以看得更远，是因为我站在巨人的肩膀上。",
-    "category": "world",
-    "tone_tags": [
-      "meeting"
-    ],
-    "author": "艾萨克·牛顿",
-    "source": "致罗伯特·胡克的信（1675年）",
-    "theme": "gratitude",
-    "emotion": "curious",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "别装作全靠自己看见！也谢谢脚下托着你的巨人们！"
-  },
-  {
     "id": "quo_204",
     "text": "再小的善举，也绝不会白费。",
     "category": "world",
@@ -3900,22 +3884,6 @@
       "morning"
     ],
     "kkaebi_comment": "学完放进口袋会发霉！今天掏一样出来用！"
-  },
-  {
-    "id": "quo_244",
-    "text": "千里之行，始于足下。",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "老子",
-    "source": "《道德经》第六十四章",
-    "theme": "growth",
-    "emotion": "calm",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "千里面前别发怵！脚尖一步就够！"
   },
   {
     "id": "quo_245",
@@ -6261,7 +6229,7 @@
   },
   {
     "id": "quo_390",
-    "text": "知足者富。",
+    "text": "知足者，才是真正的富有。",
     "category": "classic",
     "tone_tags": [
       "serene"
@@ -8213,7 +8181,7 @@
   },
   {
     "id": "quo_512",
-    "text": "学而不思则罔，思而不学则殆。",
+    "text": "只学而不思则迷惘，只思而不学则危险。",
     "category": "classic",
     "tone_tags": [
       "serene"
@@ -9621,7 +9589,7 @@
   },
   {
     "id": "quo_600",
-    "text": "地上本没有路，走的人多了，也便成了路。",
+    "text": "路本不存在，走的人多了，自然成了路。",
     "category": "world",
     "tone_tags": [
       "fire"
@@ -13039,8 +13007,8 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "nostalgia",
-    "emotion": "longing",
+    "theme": "zen",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13177,7 +13145,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "nostalgia",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13299,7 +13267,7 @@
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
     "theme": "farewell",
-    "emotion": "longing",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13333,7 +13301,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
@@ -13488,7 +13456,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "nostalgia",
+    "theme": "comfort",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13539,8 +13507,8 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "farewell",
-    "emotion": "longing",
+    "theme": "comfort",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13556,7 +13524,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13608,7 +13576,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "farewell",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13659,7 +13627,7 @@
     ],
     "author": "多吉比智慧笔记",
     "source": "DOK-KEY 智慧集",
-    "theme": "farewell",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"

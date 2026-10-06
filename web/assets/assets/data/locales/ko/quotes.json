@@ -3246,22 +3246,6 @@
     "kkaebi_comment": "고맙다는 말에서 모든 덕이 싹튼다! 오늘 세 번은 꼭 외쳐라!"
   },
   {
-    "id": "quo_203",
-    "text": "내가 더 멀리 볼 수 있었던 것은, 거인의 어깨 위에 서 있었기 때문이다.",
-    "category": "world",
-    "tone_tags": [
-      "meeting"
-    ],
-    "author": "아이작 뉴턴",
-    "source": "로버트 훅에게 보낸 편지 (1675)",
-    "theme": "gratitude",
-    "emotion": "curious",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "혼자 다 본 척 마라! 네 발밑의 거인들에게도 고맙다고 해라!"
-  },
-  {
     "id": "quo_204",
     "text": "어떤 친절도, 아무리 작은 것도, 결코 낭비되지 않는다.",
     "category": "world",
@@ -3900,22 +3884,6 @@
       "morning"
     ],
     "kkaebi_comment": "배운 것은 주머니에 넣어두면 썩는다! 오늘 하나 꺼내 써라!"
-  },
-  {
-    "id": "quo_244",
-    "text": "천 리 길도 한 걸음부터 시작된다.",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "노자",
-    "source": "도덕경 제64장",
-    "theme": "growth",
-    "emotion": "calm",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "천 리 앞에서 겁먹지 마라! 발끝 한 뼘이면 된다!"
   },
   {
     "id": "quo_245",
@@ -13039,8 +13007,8 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "nostalgia",
-    "emotion": "longing",
+    "theme": "zen",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13177,7 +13145,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "nostalgia",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13299,7 +13267,7 @@
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
     "theme": "farewell",
-    "emotion": "longing",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13333,7 +13301,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
@@ -13488,7 +13456,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "nostalgia",
+    "theme": "comfort",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13539,8 +13507,8 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "farewell",
-    "emotion": "longing",
+    "theme": "comfort",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13556,7 +13524,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13608,7 +13576,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "farewell",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13659,7 +13627,7 @@
     ],
     "author": "도깨비 지혜 노트",
     "source": "DOK-KEY 지혜 모음",
-    "theme": "farewell",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"

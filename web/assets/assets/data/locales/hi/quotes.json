@@ -3246,22 +3246,6 @@
     "kkaebi_comment": "शुक्रिया शब्द से ही सारे गुण उगते हैं! आज तीन बार ज़ोर से कहो!"
   },
   {
-    "id": "quo_203",
-    "text": "मैं दूर तक देख पाया, क्योंकि मैं दिग्गजों के कंधों पर खड़ा था।",
-    "category": "world",
-    "tone_tags": [
-      "meeting"
-    ],
-    "author": "आइज़ैक न्यूटन",
-    "source": "रॉबर्ट हुक को पत्र (1675)",
-    "theme": "gratitude",
-    "emotion": "curious",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "अकेले सब देखने का नाटक बंद करो! पैरों तले के दिग्गजों को भी धन्यवाद दो!"
-  },
-  {
     "id": "quo_204",
     "text": "कोई भी दयालुता, चाहे कितनी छोटी हो, कभी बेकार नहीं जाती।",
     "category": "world",
@@ -3900,22 +3884,6 @@
       "morning"
     ],
     "kkaebi_comment": "सीखकर जेब में रखी विद्या सड़ जाती है! आज एक निकालकर लगाओ!"
-  },
-  {
-    "id": "quo_244",
-    "text": "हज़ार मील का सफ़र एक क़दम से शुरू होता है।",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "लाओत्सू",
-    "source": "ताओ ते चिंग, अध्याय 64",
-    "theme": "growth",
-    "emotion": "calm",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "हज़ार मील देखकर घबराओ मत! पैर की अंगुली का एक क़दम काफ़ी है!"
   },
   {
     "id": "quo_245",
@@ -5605,7 +5573,7 @@
   },
   {
     "id": "quo_349",
-    "text": "कर्म ही हर सफलता की सबसे बुनियादी चाबी है।",
+    "text": "कर्म ही हर सफलता की सबसे बुनियादी कुंजी है।",
     "category": "world",
     "tone_tags": [
       "fire"
@@ -5701,7 +5669,7 @@
   },
   {
     "id": "quo_355",
-    "text": "जो पहाड़ को हिलाना चाहता है, वह छोटे पत्थरों को उठाने से शुरुआत करता है।",
+    "text": "जो पर्वत हिलाना चाहता है, वह पहले छोटे पत्थर उठाता है।",
     "category": "classic",
     "tone_tags": [
       "fire"
@@ -9157,7 +9125,7 @@
   },
   {
     "id": "quo_571",
-    "text": "प्रसन्न मन वाले व्यक्ति के लिए हर दिन एक उत्सव के समान होता है।",
+    "text": "जिसका मन प्रसन्न है, वह सदा उत्सव में रहता है।",
     "category": "world",
     "tone_tags": [
       "joy"
@@ -13039,8 +13007,8 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "nostalgia",
-    "emotion": "longing",
+    "theme": "zen",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13177,7 +13145,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "nostalgia",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13299,7 +13267,7 @@
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
     "theme": "farewell",
-    "emotion": "longing",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13333,7 +13301,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
@@ -13488,7 +13456,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "nostalgia",
+    "theme": "comfort",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13539,8 +13507,8 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "farewell",
-    "emotion": "longing",
+    "theme": "comfort",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13556,7 +13524,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13608,7 +13576,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "farewell",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13659,7 +13627,7 @@
     ],
     "author": "कैकैबी ज्ञान-टिप्पणी",
     "source": "DOK-KEY ज्ञान संग्रह",
-    "theme": "farewell",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"

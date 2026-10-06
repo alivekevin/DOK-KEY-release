@@ -3246,22 +3246,6 @@
     "kkaebi_comment": "Aus dem Wort Danke sprießt jede Tugend! Rufe es heute dreimal!"
   },
   {
-    "id": "quo_203",
-    "text": "Wenn ich weiter gesehen habe, dann, weil ich auf den Schultern von Riesen stand.",
-    "category": "world",
-    "tone_tags": [
-      "meeting"
-    ],
-    "author": "Isaac Newton",
-    "source": "Brief an Robert Hooke, 1675",
-    "theme": "gratitude",
-    "emotion": "curious",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "Hör auf, so zu tun, als hättest du alles allein gesehen! Dank auch den Riesen unter deinen Füßen!"
-  },
-  {
     "id": "quo_204",
     "text": "Keine Freundlichkeit, so klein sie auch sei, ist jemals verschwendet.",
     "category": "world",
@@ -3900,22 +3884,6 @@
       "morning"
     ],
     "kkaebi_comment": "Gelerntes fault in der Tasche! Nimm heute eines heraus und setz es ein!"
-  },
-  {
-    "id": "quo_244",
-    "text": "Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt.",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "Laotse",
-    "source": "Tao Te King, Kapitel 64",
-    "theme": "growth",
-    "emotion": "calm",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "Erschrick nicht vor tausend Meilen! Ein Schritt über die Zehenspitze genügt!"
   },
   {
     "id": "quo_245",
@@ -5605,7 +5573,7 @@
   },
   {
     "id": "quo_349",
-    "text": "Handeln ist der grundlegende Schlüssel zu jedem Erfolg.",
+    "text": "Handeln ist der grundlegendste Schlüssel zu jedem Erfolg.",
     "category": "world",
     "tone_tags": [
       "fire"
@@ -5701,7 +5669,7 @@
   },
   {
     "id": "quo_355",
-    "text": "Wer einen Berg versetzen will, beginnt damit, kleine Steine wegzutragen.",
+    "text": "Wer einen Berg bewegen will, beginnt damit, kleine Steine wegzuheben.",
     "category": "classic",
     "tone_tags": [
       "fire"
@@ -13039,8 +13007,8 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "nostalgia",
-    "emotion": "longing",
+    "theme": "zen",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13177,7 +13145,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "nostalgia",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13299,7 +13267,7 @@
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
     "theme": "farewell",
-    "emotion": "longing",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13333,7 +13301,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
@@ -13488,7 +13456,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "nostalgia",
+    "theme": "comfort",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13539,8 +13507,8 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "farewell",
-    "emotion": "longing",
+    "theme": "comfort",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13556,7 +13524,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13608,7 +13576,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "farewell",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13659,7 +13627,7 @@
     ],
     "author": "Kkaebi-Weisheitsnotizen",
     "source": "DOK-KEY Weisheitssammlung",
-    "theme": "farewell",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"

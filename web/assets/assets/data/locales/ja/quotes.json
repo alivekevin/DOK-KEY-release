@@ -3246,22 +3246,6 @@
     "kkaebi_comment": "ありがとうの言葉からすべての美徳が芽吹く！今日は三回叫べ！"
   },
   {
-    "id": "quo_203",
-    "text": "私が遠くを見られたのは、巨人の肩の上に立っていたからだ。",
-    "category": "world",
-    "tone_tags": [
-      "meeting"
-    ],
-    "author": "アイザック・ニュートン",
-    "source": "ロバート・フックへの手紙（1675年）",
-    "theme": "gratitude",
-    "emotion": "curious",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "ひとりで全部見た顔をするな！足元の巨人たちにも礼を言え！"
-  },
-  {
     "id": "quo_204",
     "text": "どんなに小さな親切も、決して無駄にはならない。",
     "category": "world",
@@ -3900,22 +3884,6 @@
       "morning"
     ],
     "kkaebi_comment": "覚えたままポケットに入れておくと腐る！今日ひとつ取り出して使え！"
-  },
-  {
-    "id": "quo_244",
-    "text": "千里の道も一歩から始まる。",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "老子",
-    "source": "『道徳経』第64章",
-    "theme": "growth",
-    "emotion": "calm",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "千里を前にして怖気づくな！つま先の一足だ！"
   },
   {
     "id": "quo_245",
@@ -4997,7 +4965,7 @@
   },
   {
     "id": "quo_311",
-    "text": "どんなに小さな親切も、決して無駄にはならない。",
+    "text": "心が清らかなら、その場がすなわち楽園となる。",
     "category": "world",
     "tone_tags": [
       "serene"
@@ -9285,7 +9253,7 @@
   },
   {
     "id": "quo_579",
-    "text": "忍耐は苦いが、その実は甘い。",
+    "text": "辛抱は苦い、されど実りは甘い。",
     "category": "world",
     "tone_tags": [
       "serene"
@@ -13039,8 +13007,8 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "nostalgia",
-    "emotion": "longing",
+    "theme": "zen",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13177,7 +13145,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "nostalgia",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13299,7 +13267,7 @@
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
     "theme": "farewell",
-    "emotion": "longing",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13333,7 +13301,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
@@ -13488,7 +13456,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "nostalgia",
+    "theme": "comfort",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13539,8 +13507,8 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "farewell",
-    "emotion": "longing",
+    "theme": "comfort",
+    "emotion": "serene",
     "time_slot": [
       "night"
     ],
@@ -13556,7 +13524,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "nostalgia",
+    "theme": "love",
     "emotion": "serene",
     "time_slot": [
       "night"
@@ -13608,7 +13576,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "farewell",
+    "theme": "gratitude",
     "emotion": "love",
     "time_slot": [
       "evening"
@@ -13659,7 +13627,7 @@
     ],
     "author": "トッケビ知恵ノート",
     "source": "DOK-KEY 知恵コレクション",
-    "theme": "farewell",
+    "theme": "love",
     "emotion": "love",
     "time_slot": [
       "night"
