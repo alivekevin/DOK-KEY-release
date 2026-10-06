@@ -70573,7 +70573,7 @@ bL(){var s=0,r=A.n(t.H),q=this
 var $async$bL=A.o(function(a,b){if(a===1)return A.k(b,r)
 for(;;)switch(s){case 0:q.kz(new A.aS2())
 s=2
-return A.e(q.aPr("card_flip",40,0.42),$async$bL)
+return A.e(q.aPr("card_flip",40,0.6),$async$bL)
 case 2:return A.l(null,r)}})
 return A.m($async$bL,r)},
 e7(){var s=0,r=A.n(t.H),q=this
@@ -99030,7 +99030,7 @@ aS2(a,b){var s=0,r=A.n(t.H),q=1,p=[],o=this,n,m,l,k
 var $async$LR=A.o(function(c,d){if(c===1){p.push(d)
 s=q}for(;;)switch(s){case 0:A.bF()
 $.ai().bL()
-n=A.hI("mailto:alivekevin@gmail.com?subject="+A.m7(2,"[DOK-KEY v5.19.48 (Build 665)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bF,!1)+"&body="+A.m7(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.48 (Build 665)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bF,!1),0,null)
+n=A.hI("mailto:alivekevin@gmail.com?subject="+A.m7(2,"[DOK-KEY v5.19.49 (Build 666)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bF,!1)+"&body="+A.m7(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.49 (Build 666)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bF,!1),0,null)
 m=!1
 q=3
 s=6
@@ -99287,7 +99287,7 @@ l=A.u(10)
 n=A.G(B.bZ.m(0.6),1.2)
 l=A.b9(!1,m,!0,A.w(j,A.y(A.a([B.ajA,B.Z,A.d(k.hq(e,"Feedback senden","Send Feedback","\u092b\u0940\u0921\u092c\u0948\u0915 \u092d\u0947\u091c\u0947\u0902","\u3054\u610f\u898b\u30fb\u4e0d\u5177\u5408\u5831\u544a",g,"\u610f\u89c1 / \u95ee\u9898\u53cd\u9988"),j,j,j,j,j,B.b9q,j,j,j)],s),B.d,B.c,B.y,0,j),B.j,j,j,new A.x(B.a8d,j,n,l,j,j,B.n),j,j,j,j,B.iY,j,j,j),j,!0,j,j,j,j,j,j,j,j,j,j,new A.bhj(k,a0,e),j,j,j,j,j,j,j)
 n=A.bP(j,j,B.aa,j,j,j,4,j,j,B.v,j,j,B.adG,j,new A.aC(A.u(12),B.w),j,j,j,j,j)
-return A.dU(j,B.G,A.w(j,A.I(A.a([r,q,p,A.w(j,A.I(A.a([A.y(A.a([l,A.dB(A.d(k.hq(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zw,j,j,j),new A.bhk(a0),n)],s),B.d,B.aF,B.f,0,j),B.ar,A.b0(A.d("v5.19.48 \xb7 Dokkey Studio",j,j,j,j,j,B.b7N,B.a3,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a23,j,j,j,j,B.j_,j,j,j)],s),B.d,j,B.c,B.f,0,B.o),B.j,j,B.a1N,new A.x(B.mn,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j0,B.bs,j,j,j)},
+return A.dU(j,B.G,A.w(j,A.I(A.a([r,q,p,A.w(j,A.I(A.a([A.y(A.a([l,A.dB(A.d(k.hq(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zw,j,j,j),new A.bhk(a0),n)],s),B.d,B.aF,B.f,0,j),B.ar,A.b0(A.d("v5.19.49 \xb7 Dokkey Studio",j,j,j,j,j,B.b7N,B.a3,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a23,j,j,j,j,B.j_,j,j,j)],s),B.d,j,B.c,B.f,0,B.o),B.j,j,B.a1N,new A.x(B.mn,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j0,B.bs,j,j,j)},
 KN(a,b){return this.aS4(a,b)},
 aS4(a,b){var s=0,r=A.n(t.H)
 var $async$KN=A.o(function(c,d){if(c===1)return A.k(d,r)
@@ -101291,7 +101291,7 @@ a9=a9?"\u0911\u0928\u0932\u093e\u0907\u0928":"\u0911\u092b\u093c\u0932\u093e\u09
 j=A.p(a5,"Kontext: "+a7.toUpperCase()+" \xb7 "+k+" \xb7 "+j+" Besuche","Context: "+a7.toUpperCase()+" \xb7 "+o+" \xb7 "+j+" visits","\u0938\u0902\u0926\u0930\u094d\u092d: "+a7.toUpperCase()+" \xb7 "+a9+" \xb7 "+j+" \u0935\u093f\u091c\u093c\u093f\u091f","\u73fe\u5728\u306e\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8: "+a7.toUpperCase()+" \xb7 "+m+" \xb7 \u8a2a\u554f"+j+"\u56de","\uc9c0\uae08 \uae68\ube44\uac00 \uac10\uc9c0\ud55c \ub9e5\ub77d: "+a7.toUpperCase()+a8+" \xb7 "+p+" \xb7 \ubc29\ubb38 "+j+"\ud68c","\u5f53\u524d\u60c5\u5883\uff1a"+a7.toUpperCase()+" \xb7 "+l+" \xb7 \u8bbf\u95ee"+j+"\u6b21")
 e.push(A.d(j,a0,a0,a0,a0,a0,A.r(a0,a0,$.c?B.r:B.t,a0,a0,a0,a0,a0,a0,a0,a0,10,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),B.a3,a0,a0))
 e.push(B.a6)
-a7=A.d("DOK-KEY v5.19.48 \u2022 Zero-Login Architecture",a0,a0,a0,a0,a0,A.r(a0,a0,$.c?B.r:B.t,a0,a0,a0,a0,a0,a0,a0,a0,11,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0)
+a7=A.d("DOK-KEY v5.19.49 \u2022 Zero-Login Architecture",a0,a0,a0,a0,a0,A.r(a0,a0,$.c?B.r:B.t,a0,a0,a0,a0,a0,a0,a0,a0,11,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0)
 a8=A.Ch("main_slogan",a4.e)
 e.push(A.bo(a0,A.b0(A.I(A.a([a7,B.aQ,A.d(a8,a0,a0,a0,a0,a0,A.r(a0,a0,$.c?B.L:B.I,a0,a0,a0,a0,a0,a0,a0,a0,10.5,B.j7,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),B.a3,a0,a0)],n),B.d,a0,B.c,B.f,0,B.o),a0,a0),B.z,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a.gaNP(),a0,a0,a0,a0,a0,a0,!1,B.a8))
 e.push(B.aA)
@@ -181070,8 +181070,6 @@ B.b10=new A.Aa(B.u3,t.n5)
 B.aWg={mailto:0,tel:1,sms:2}
 B.b11=new A.h9(B.aWg,3,t.fF)
 B.yH=new A.h_([B.fq,B.ra,B.y1],A.aO("h_<rp>"))
-B.aWk={kkaebi_cast_short:0,kkaebi_cast_full:1}
-B.yI=new A.h9(B.aWk,2,t.fF)
 B.aW7={"canvaskit.js":0}
 B.b13=new A.h9(B.aW7,1,t.fF)
 B.XW=new A.h_([B.fT,B.da,B.c7,B.eK,B.db],t.Lu)
@@ -181084,6 +181082,8 @@ B.XX=new A.h9(B.aW8,4,t.fF)
 B.a06=new A.BX(6,"defaultToSpeaker")
 B.XY=new A.h_([B.a06],A.aO("h_<BX>"))
 B.b17=new A.h_([B.bV,B.b4,B.dL],A.aO("h_<jv>"))
+B.aWk={card_flip:0,kkaebi_cast_short:1,kkaebi_cast_full:2}
+B.yI=new A.h9(B.aWk,3,t.fF)
 B.b1a=new A.h9(B.e0,0,A.aO("h9<azW<es>>"))
 B.b19=new A.h9(B.e0,0,A.aO("h9<fB>"))
 B.b18=new A.h9(B.e0,0,A.aO("h9<jv>"))
