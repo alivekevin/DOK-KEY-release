@@ -88,6 +88,19 @@
         "Viertens: Besuche die 🕹️ 'Kkaebi-Spielhalle' mit 8 Retro-Spielen – Shooter, Breakout, Tetris, Bubble Shooter und Hex-Minesweeper! Neue Highscores bringen dir Münz-Jackpots und enorme Zuneigungs-EXP!",
         "Fünftens: Mit deinen gesparten Münzen (du hast derzeit {coins} Münzen in der Tasche!) kannst du im 🛒 'Laden' 18 traditionelle 'Schutz-Talismane' für Reichtum, Prüfungen und Liebe erwerben! Bewahre sie in deinem Tresor auf oder verschenke sie als Glücksbilder an Freunde!"
       ]
+    },
+    {
+      "id": "lucky_numbers",
+      "chip_title": "🔢 Glückszahlen kombinieren & speichern",
+      "user_question": "Kkaebi, zeig mir, wie ich die Glückszahlen von heute kombinieren und speichern kann!",
+      "req_level": 2,
+      "steps": [
+        "Glückszahlen sind nur ein Spiel mit dem Schicksal – kein Versprechen. Doch sie lassen dein Herz höher schlagen!",
+        "Öffne den Nummerngenerator in der Schlüssel-Alchemie (KeyBox): Er mischt Datum, Name und Energie zu 6 Zahlen – bei jedem Zug neu!",
+        "Wähle eine Voreinstellung wie die vier Wächter oder den Stapel-Trick und ziehe ein einzigartiges Set ohne Wiederholung. Passend zu deiner Schutzenergie.",
+        "Speichere dein Lieblingsset mit einem eigenen Tag – z. B. 'Glückszahlen dieser Woche' – so findest du es später sofort!",
+        "Teile danach ein Glücksbild mit einem lieben Menschen. Zahlen sind Spaß – den Tag zum Leuchten bringst du! 🔑"
+      ]
     }
   ],
   "exhausted_endings": [
@@ -149,6 +162,15 @@
       "Sagt man nicht, steter Tropfen höhlt den Stein,",
       "Kluge Weisheiten der Kobold-Ökonomie,",
       "Sammle mit Bedacht und investiere mit Verstand,"
+    ],
+    "lucky_numbers": [
+      "Zeit, deine Glückszahlen zu schmieden,",
+      "Gießen wir das Schicksal in Zahlen,",
+      "Soll ich deine Glückszahlen kombinieren,",
+      "Datum und Name zu einer großen Zahl,",
+      "Zieh deine eigenen Schutznummern,",
+      "Sechs verspielte Zahlen des Glücks,",
+      "Wähle ein Glück zum Teilen,"
     ]
   }
 }
