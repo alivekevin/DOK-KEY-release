@@ -36,20 +36,20 @@
     "id": "rid_002"
   },
   {
-    "question": "Was folgt dir nur bei Sonnenschein und lässt sich nie fangen?",
+    "question": "Welcher dunkle Begleiter wird umso dunkler und deutlicher, je stärker das Licht ist, und verschwindet erst unter deinen Füßen, wenn das Licht ganz erloschen ist?",
     "options": [
-      "Wind",
-      "Abendrot",
-      "Rauch",
-      "Schatten"
+      "Schatten",
+      "Spiegel",
+      "Fußabdruck",
+      "Staub"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! So lang du ins Licht schaust, bleibt dein Schatten bei dir!",
-      "wrong": "Daneben! Es klebt dir unter dem Licht an den Fersen!"
+      "correct": "Richtig! Je heller das Licht, desto fester klebt der Schatten an den Füßen des Dokkaebi!",
+      "wrong": "Falsch! Es ist das dunkle Ebenbild, das nur bei hellem Licht entsteht und einem folgt."
     },
     "id": "rid_003"
   },
@@ -72,38 +72,38 @@
     "id": "rid_004"
   },
   {
-    "question": "Was ist ein silberner Teller am Nachthimmel, der jede Nacht seine Form wechselt?",
+    "question": "Was hängt im dunklen Nachthimmel dünn wie ein silberner Angelhaken und wird nach einem halben Monat zur runden Schale, die die Welt erhellt?",
     "options": [
+      "Mond",
       "Stern",
       "Sonne",
-      "Komet",
-      "Mond"
+      "Satellit"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Mond wacht mit neuem Gesicht über jede Nacht!",
-      "wrong": "Daneben! Der silberne Teller, der zu- und abnimmt!"
+      "correct": "Richtig! Vom feinen Sichelmond zur runden Vollmondscheibe – der Mond erhellt die Nacht!",
+      "wrong": "Falsch! Die silberne Himmelsleuchte, die um die Erde kreist und ihre Gestalt wandelt."
     },
     "id": "rid_005"
   },
   {
-    "question": "Was steigt mit dem Wind in den Himmel und lässt doch nie die Schnur los?",
+    "question": "Was spannt dünne Papierflügel über ein Bambusgerüst, steigt im Wind hoch empor und fliegt weit davon, wenn die Schnur reißt?",
     "options": [
-      "Ballon",
-      "Flugzeug",
-      "Vogel",
-      "Drachen"
+      "Drache",
+      "Fächer",
+      "Himmelslaterne",
+      "Windrad"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Drachen steigt höher wegen seiner Schnur — so sind Bande!",
-      "wrong": "Daneben! An der Schnur gehoben, besitzt es den Himmel!"
+      "correct": "Richtig! Der traditionelle Drache, der an gespannter Schnur hoch in den Himmel steigt!",
+      "wrong": "Falsch! Ein volkstümliches Flugspielzeug, das an Feiertagen Unheil davontragen soll."
     },
     "id": "rid_006"
   },
@@ -162,74 +162,56 @@
     "id": "rid_009"
   },
   {
-    "question": "Was wird kleiner, je mehr es die Fehler anderer ausradiert?",
+    "question": "Was reibt seinen eigenen Körper ab und hinterlässt weiße Späne, wann immer es fremde Fehler tilgt?",
     "options": [
       "Radiergummi",
-      "Besen",
-      "Fächer",
-      "Regen"
+      "Seife",
+      "Lumpen",
+      "Kreide"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "school",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Radiergummi opfert sich selbst, um deine Fehler zu tilgen!",
-      "wrong": "Daneben! Es schwindet, während es deine Fehler tilgt!"
+      "correct": "Richtig! Der Radiergummi, der Bleistiftspuren tilgt und sich selbst zu Staub opfert!",
+      "wrong": "Falsch! Ein Stück Kautschuk, das falsche Schriftzüge aus Heften wegradiert."
     },
     "id": "rid_010"
   },
   {
-    "question": "Was kann niemand fangen, so schnell er auch rennt?",
-    "options": [
-      "Wind",
-      "Zeit",
-      "Licht",
-      "Rauch"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Die Zeit ist der schnellste Dieb der Welt!",
-      "wrong": "Daneben! Zwischen zwei Blinzeln stiehlt es alles!"
-    },
-    "id": "rid_011"
-  },
-  {
-    "question": "Was zeigt dir jedes Gesicht und kann doch sich selbst nie sehen?",
+    "question": "Was hängt friedlich an der Wand und spiegelt die Welt, doch starrt im Moment des Zerbrechens seinen Besitzer mit hunderten Scherben an?",
     "options": [
       "Spiegel",
-      "Foto",
-      "Brille",
-      "Fenster"
+      "Fenster",
+      "Goldfischglas",
+      "Uhr"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "home",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Spiegel zeigt alles — nur sich selbst nie!",
-      "wrong": "Daneben! Es kennt dein Gesicht, nie sein eigenes!"
+      "correct": "Richtig! Das silberne Glas, das dein Antlitz getreu widerspiegelt – der Spiegel!",
+      "wrong": "Falsch! Die Scheibe, in die man blickt, um Gesicht und Haar zu richten."
     },
     "id": "rid_012"
   },
   {
-    "question": "Was wird beim Spitzen kürzer und hinterlässt doch mehr Worte?",
+    "question": "Welches Schulutensil ist anfangs lang und glatt, verströmt die Gedanken seines Besitzers in Graphitstaub und schrumpft zum Winzling?",
     "options": [
-      "Pfeil",
       "Bleistift",
-      "Fahnenmast",
-      "Stäbchen"
+      "Radiergummi",
+      "Lineal",
+      "Klebstoff"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "school",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Bleistift gibt seinen Körper hin, um Weisheit zu hinterlassen!",
-      "wrong": "Daneben! Gespitzt, um ein weiteres Wort zu schreiben!"
+      "correct": "Richtig! Je mehr gespitzt, desto kürzer wird er zwischen den Fingern – der Bleistift!",
+      "wrong": "Falsch! Ein Holzstab, spitz gespitzt, um Buchstaben ins Heft zu schreiben."
     },
     "id": "rid_013"
   },
@@ -386,13 +368,13 @@
     "options": [
       "Maske",
       "Schal",
-      "Nackenwärmer",
+      "Handschuhe",
       "Ohrenschützer"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Plumps! Kaum in den Bus eingestiegen, fließt der Schweiß wie in der Sauna!",
-      "wrong": "Nein~ Abgenommen und herumgetragen wird es zum lästigen Gepäckstück Nr. 1 – das ist der Schal."
+      "correct": "Richtig! Kaum in den Bus eingestiegen, fließt der Schweiß wie in der Sauna!",
+      "wrong": "Falsch! Bei Kälte schützt es den Hals, doch drinnen wird es schnell zur Qual."
     }
   },
   {
@@ -432,20 +414,20 @@
     "id": "rid_025"
   },
   {
-    "question": "Welches runde Korn wird am ersten Kaltofen-Tag verstreut, um das Unglück zu vertreiben?",
+    "question": "Welches runde rote Korn wird zur Wintersonnenwende verstreut, um böse Geister und Unheil durch seine rote Kraft zu vertreiben?",
     "options": [
-      "Sesam",
-      "Bohne",
-      "Adzukibohne",
-      "Reis"
+      "Reis",
+      "Rote Adzukibohne",
+      "Gerste",
+      "Hirse"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Bohnen rufen 'Böses, weiche!' und schützen das Tor!",
-      "wrong": "Daneben! Rasselnd verstreut, hält es das Böse ab!"
+      "correct": "Richtig! Rote Bohnen tragen reine Sonnenkraft in sich, vor der Geister fliehen!",
+      "wrong": "Falsch! Das rote Korn symbolisiert Schutz und vertreibt Unglück."
     },
     "id": "rid_026"
   },
@@ -630,20 +612,20 @@
     "id": "rid_036"
   },
   {
-    "question": "Wer wurde nach Zeitaltern im Bach glatt — der stille Philosoph am Ufer?",
+    "question": "Über Jahrhunderte im Wasser geschliffen und kugelrund poliert — was ist der stille kleine Stein am Flussufer?",
     "options": [
-      "Glas",
       "Kieselstein",
-      "Ranke",
-      "Zweig"
+      "Sand",
+      "Moos",
+      "Schilf"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der wasserglänzende Kiesel trägt Zeitalter in seiner Glätte!",
-      "wrong": "Daneben! Von tausend Jahren Wasser glatt gewaschen!"
+      "correct": "Richtig! Der wasserpolierte Kieselstein birgt die Zeit in seiner Glätte!",
+      "wrong": "Falsch! Der vom fließenden Wasser rund gewaschene kleine Stein."
     },
     "id": "rid_037"
   },
@@ -882,20 +864,20 @@
     "id": "rid_050"
   },
   {
-    "question": "Was hat keine Füße und reist doch um die ganze Welt, keine Hände und schüttelt doch Türen?",
+    "question": "Was hat weder Füße noch Flügel und reist überallhin, hat kein Gesicht und zeigt sich doch, indem es Zweige schüttelt?",
     "options": [
-      "Der Wind",
-      "Eine Wolke",
-      "Ein Schatten",
-      "Ein Gerücht"
+      "Wind",
+      "Wolke",
+      "Sonnenlicht",
+      "Nebel"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kekeke! Der Wind erschüttert die ganze Welt, ohne je gesehen zu werden!",
-      "wrong": "Daneben! Was streift überall vorbei, ohne Hände und Füße?"
+      "correct": "Richtig! Unsichtbar, doch streift es Wangen und wiegt die Wälder – der Wind!",
+      "wrong": "Falsch! Ein Luftstrom, den man nicht greifen, aber beim Rascheln der Blätter spüren kann."
     },
     "id": "rid_051"
   },
@@ -936,40 +918,22 @@
     "id": "rid_053"
   },
   {
-    "question": "Was öffnet sich weit und schützt dich bei Regen?",
+    "question": "Welche Blume bleibt gewöhnlich zusammengefaltet und erblüht erst weit über dem Kopf, wenn Tränen vom Himmel stürzen?",
     "options": [
+      "Stiefel",
       "Regenschirm",
-      "Gummistiefel",
       "Regenmantel",
-      "Hut"
+      "Fächer"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Regenschirm ist dein kleines Dach im Regen!",
-      "wrong": "Daneben! Das öffnet man, wenn es regnet!"
+      "correct": "Richtig! Eine Stoffblüte, die sich nur im Regen über dem Kopf entfaltet – der Regenschirm!",
+      "wrong": "Falsch! Ein Schirm mit Rippen, der Regentropfen über dem Kopf abprallen lässt."
     },
     "id": "rid_054"
-  },
-  {
-    "question": "Was macht keinen Laut und bewegt doch das Herz, trägt keine Buchstaben und überbringt doch Gefühle?",
-    "options": [
-      "Ein Lächeln",
-      "Ein gefallenes Blatt",
-      "Tränen",
-      "Schweigen"
-    ],
-    "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "wisdom",
-    "kkaebi_reaction": {
-      "correct": "Wahrlich großartig! Ein warmes Lächeln ist stärker als jeder Goblinknüppel!",
-      "wrong": "Daneben! Denke an den wärmsten Ausdruck, der über ein Gesicht blüht!"
-    },
-    "id": "rid_055"
   },
   {
     "question": "Wer es hat, will es verbergen, wer es verliert, beklagt es, und sobald man es jemandem erzählt, verschwindet es. Was ist es?",
@@ -990,56 +954,38 @@
     "id": "rid_056"
   },
   {
-    "question": "Es fliegt leicht davon und setzt sich schwer wieder herab und hüllt die Welt in Weiß. Was ist es?",
+    "question": "Was schwebt federleicht vom Himmel herab und verwandelt sich auf der warmen Handfläche sogleich in eine klare Träne?",
     "options": [
-      "Schnee",
-      "Mehl",
-      "Nebel",
-      "Salz"
+      "Schneeflocke",
+      "Hagel",
+      "Tau",
+      "Reif"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Schneeflocken — das Geschenk des Winters, das die ganze Welt in Reinstweiß hüllt!",
-      "wrong": "Daneben! Denke an das weiße Puder, das in Büscheln vom Himmel fällt!"
+      "correct": "Richtig! Die weiße Schneeflocke, die bei Berührung sanft zu einem kühlen Tropfen schmilzt!",
+      "wrong": "Falsch! Ein Eiskristall, der aus Winterwolken fällt und die Welt weiß bedeckt."
     },
     "id": "rid_057"
   },
   {
-    "question": "Wie heißt der Winterruf der Eiszapfen, die ihre Wurzeln im Himmel haben, während Stängel und Blätter zur Erde wachsen?",
+    "question": "Wer ist die Gestalt eines Lebens, die morgens auf vier Beinen kriecht, mittags auf zweien geht und abends auf dreien wandelt?",
     "options": [
-      "Eisvogel unter dem Dach",
-      "Eiszapfen unter dem Dach",
-      "Baum des Himmels",
-      "Winterspross"
-    ],
-    "answer_index": 1,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Die klaren, gläsernen Gitterstäbe, die verkehrt herum vom Dachrand wachsen!",
-      "wrong": "Daneben! Sieh die langen Eissäulen, die im Winter unter dem Dach hängen!"
-    },
-    "id": "rid_058"
-  },
-  {
-    "question": "Was geht bei der Geburt auf vier Beinen, in der Jugend auf zwei und im Alter auf drei Beinen?",
-    "options": [
-      "Der Mensch",
-      "Der Tiger",
-      "Der Goblin",
-      "Die Kröte"
+      "Mensch",
+      "Tiger",
+      "Affe",
+      "Kranich"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "wisdom",
+    "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Weisheit, die selbst die Sphinx beeindrucken würde! Das Baby, der Jüngling und der alte Mann am Stock — der Weg des Lebens!",
-      "wrong": "Daneben! Es ist ein Mensch, der durch die vier Jahreszeiten des Lebens geht!"
+      "correct": "Richtig! Krabbeln als Baby, Gehen als Erwachsener und Stützen auf einen Stock im Alter – das Menschenleben!",
+      "wrong": "Falsch! Das berühmte Lebensrätsel, das einst die Sphinx in die Knie zwang."
     },
     "id": "rid_059"
   },
@@ -1174,17 +1120,17 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Du hast es ordentlich am Handgelenk getragen, doch jedes Mal, wenn du den Ärmel hochschiebst, hakt es sich an den Hemdknöpfen ein und zieht Fäden heraus?",
+    "question": "Du trägst es schick am Handgelenk, doch jedes Mal beim Ärmelhochkrempeln verhaken sich die Glieder an Knöpfen und ziehen Fäden?",
     "options": [
-      "Armband",
-      "Metall-Uhramband",
-      "Gummiband",
-      "Ring"
+      "Lederarmband",
+      "Metall-Uhrenarmband",
+      "Smart-Ring",
+      "Silikonband"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Tick, tick! Ein schreckliches Geräusch, wenn es am geliebten Strickärmel hängt und die Masche sich aufzieht!",
-      "wrong": "Falsch! Das kalte Metallgefühl ist schön, aber nur der Strickladen wird angenagt – das ist das Metall-Uhramband."
+      "correct": "Tick! Das schreckliche Geräusch, wenn die Masche am Strickärmel aufreißt!",
+      "wrong": "Falsch! Die Metallglieder fangen sich ständig im Stoff."
     }
   },
   {
@@ -1224,20 +1170,20 @@
     "id": "rid_069"
   },
   {
-    "question": "Was erscheint nach dem Regen als siebenfarbige Brücke am Himmel?",
+    "question": "Was bleibt an sonnigen Tagen verborgen, schlägt aber eine siebenfarbige Brücke hoch in den Himmel, wenn der Regen weicht und die Sonne bricht?",
     "options": [
       "Regenbogen",
-      "Abendrot",
-      "Wolke",
-      "Stern"
+      "Polarlicht",
+      "Milchstraße",
+      "Abendrot"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Regenbogen ist eine Brücke aus Regen und Licht!",
-      "wrong": "Daneben! Er zeigt sich, wenn der Regen aufhört!"
+      "correct": "Richtig! Der strahlende siebenfarbige Regenbogen, geformt aus Wassertropfen und Sonnenstrahlen!",
+      "wrong": "Falsch! Eine Bogenbrücke aus Licht am Himmel, wenn der Regen abzieht."
     },
     "id": "rid_070"
   },
@@ -1386,56 +1332,56 @@
     }
   },
   {
-    "question": "Es löffelt Reis und schlürft Suppe — die kleine Schaufel auf dem Tisch?",
+    "question": "Welches Küchenutensil bekommt täglich köstliche Speisen in den Mund geschoben, kann aber nicht schlucken und muss alles wieder hergeben?",
     "options": [
       "Löffel",
-      "Stäbchen",
-      "Gabel",
-      "Schöpfkelle"
+      "Topf",
+      "Schneidebrett",
+      "Wischtuch"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Löffel ist die kleine Schaufel des Tisches!",
-      "wrong": "Daneben! Damit isst man Suppe und Reis!"
+      "correct": "Richtig! Bei drei Mahlzeiten am fleißigsten, doch kann es kein einziges Korn schlucken – der Löffel!",
+      "wrong": "Falsch! Das silberne Besteck, das Reis und Suppe in den Mund befördert."
     },
     "id": "rid_079"
   },
   {
-    "question": "Durch ein winziges Loch führt es einen Faden — der spitze kleine Freund?",
+    "question": "Was verliert seinen Schwanz, wenn es vorangeht, bekommt ihn zurück, wenn es weicht, und flickt Zerrissenes?",
     "options": [
-      "Nagel",
-      "Nadel",
+      "Nadel und Faden",
       "Schere",
-      "Lineal"
+      "Fingerhut",
+      "Sicherheitsnadel"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
+    "difficulty": 2,
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Eine Nadel führt den Faden und näht Kleidung!",
-      "wrong": "Daneben! Das spitze Werkzeug zum Einfädeln!"
+      "correct": "Richtig! Mit einem Fadenschwanz durchsticht die Nadel den Stoff, um Kleider zu nähen!",
+      "wrong": "Falsch! Ein Werkzeug, das einen Faden durch ein Öhr führt, um Socken zu stopfen."
     },
     "id": "rid_080"
   },
   {
-    "question": "Magier sollen darauf reiten — was fegt den Staub zusammen?",
+    "question": "Welches langbärtige Werkzeug steht frühmorgens im Hof, um Staub und Schmutz zu einem Haufen zusammenzukehren?",
     "options": [
-      "Lappen",
       "Besen",
-      "Staubsauger",
-      "Mopp"
+      "Wischmopp",
+      "Kehrblech",
+      "Staubwedel"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Besen ist Reittier der Hexe und Werkzeug!",
-      "wrong": "Daneben! Es fegt den Staub zusammen!"
+      "correct": "Richtig! Mit raschelnden Zügen fegt der Besen Hof und böse Geister rein!",
+      "wrong": "Falsch! Ein Putzgerät aus Zweigen gebunden, um Schmutz zusammenzukehren."
     },
     "id": "rid_081"
   },
@@ -1458,38 +1404,38 @@
     "id": "rid_082"
   },
   {
-    "question": "Je mehr man es nutzt, desto kleiner wird es und wäscht Schmutz mit Schaum?",
+    "question": "Was beginnt als fester quaderförmiger Block, schäumt aber bei jeder Reibung der Hände duftend auf und schrumpft dahin?",
     "options": [
-      "Handtuch",
       "Seife",
+      "Schwamm",
       "Shampoo",
-      "Schwamm"
+      "Zahnpasta"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Richtig! Seife wird kleiner und wäscht Schmutz ab!",
-      "wrong": "Daneben! Es reinigt mit Schaum!"
+      "correct": "Richtig! Die Seife, die sich in schäumende Blasen auflöst, um Schmutz zu entfernen!",
+      "wrong": "Falsch! Ein Waschstück, das mit Wasser und Händen gleitenden Schaum bildet."
     },
     "id": "rid_083"
   },
   {
-    "question": "Eins für jeden Fuß — was muss immer ein Paar sein?",
+    "question": "An jedem Fuß getragen, um die Zehen zu wärmen — welches Kleidungsstück muss immer paarweise passen?",
     "options": [
-      "Handschuhe",
       "Socken",
-      "Schuhe",
+      "Handschuhe",
+      "Mütze",
       "Schal"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Socken trägt man paarweise an beiden Füßen!",
-      "wrong": "Daneben! Es wird paarweise an den Füßen getragen!"
+      "correct": "Richtig! Socken werden paarweise an beiden Füßen getragen!",
+      "wrong": "Falsch! Die Stoffschicht, die man vor den Schuhen anzieht."
     },
     "id": "rid_084"
   },
@@ -1548,20 +1494,20 @@
     "id": "rid_087"
   },
   {
-    "question": "Von der Nacht zurückgelassen, bildet es sich auf Blättern im Morgengrauen?",
+    "question": "Was perlt wie ein klarer Edelstein an Grasspitzen im Morgenschein und vergeht lautlos, sobald die Sonne höher steigt?",
     "options": [
-      "Schnee",
-      "Regen",
       "Tau",
-      "Frost"
+      "Reif",
+      "Graupel",
+      "Hagel"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! Tau ist der klare Tropfen, den die Nacht lässt!",
-      "wrong": "Daneben! Der Tropfen auf Blättern im Morgengrauen!"
+      "correct": "Richtig! Der klare Tautropfen, der an Grashalmen glänzt und den Morgen erhellt!",
+      "wrong": "Falsch! Ein durchsichtiger Wassertropfen, der sich im kühlen Nachtwind am Gras bildet."
     },
     "id": "rid_088"
   },
@@ -1710,20 +1656,20 @@
     "id": "rid_096"
   },
   {
-    "question": "Ohne Schlüssel öffnet es nie — die eiserne Faust, die die Tür bewacht?",
+    "question": "Welcher Wächter hält Türen fest verschlossen und schnappt erst auf, wenn der passende Schlüssel im Leib gedreht wird?",
     "options": [
-      "Schloss",
-      "Türklinke",
+      "Vorhängeschloss",
+      "Türknauf",
       "Scharnier",
-      "Riegel"
+      "Türriegel"
     ],
     "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Schloss ist der Wächter, den nur ein Schlüssel öffnet!",
-      "wrong": "Daneben! Das Schloss, das man mit einem Schlüssel öffnet!"
+      "correct": "Richtig! Das Vorhängeschloss, das Schätze hütet, bis der rechte Schlüssel naht!",
+      "wrong": "Falsch! Eine eiserne Sperre, die Truhen oder Tagebücher vor fremden Blicken schützt."
     },
     "id": "rid_097"
   },
@@ -2304,20 +2250,20 @@
     "id": "rid_130"
   },
   {
-    "question": "Welches Tierkreiszeichen ist das Pferd mit weißer Mähne?",
+    "question": "Welches ist das 7. Tier der 12 Tierkreiszeichen, das mit wehender Mähne über die Steppe galoppiert?",
     "options": [
       "Esel",
       "Maultier",
       "Zebra",
-      "Weißes Pferd"
+      "Pferd"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Richtig! Das weiße Pferd des Tierkreises!",
-      "wrong": "Daneben! Das weiße Pferd der Zwölf!"
+      "correct": "Richtig! Das Pferd (Wu) ist das 7. Tierzeichen voller unermüdlicher Leidenschaft!",
+      "wrong": "Falsch! Das edle Huftier, das kraftvoll über die Ebenen galoppiert."
     },
     "id": "rid_131"
   },
@@ -2358,20 +2304,20 @@
     "id": "rid_133"
   },
   {
-    "question": "Welches letzte Tierkreiszeichen steht für Fülle und Reichtum?",
+    "question": "Welches ist das 12. und letzte Tier des fernöstlichen Tierkreises, das Wohlstand und Glück symbolisiert?",
     "options": [
       "Wildschwein",
       "Elefant",
       "Flusspferd",
-      "Goldenes Schwein"
+      "Schwein"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Richtig! Das goldene Schwein bringt Reichtum!",
-      "wrong": "Daneben! Das letzte Tier, das Glück bringt!"
+      "correct": "Richtig! Das Schwein (Hai) vollendet den Kreis mit Wohlstand und Glück!",
+      "wrong": "Falsch! Das Tier, das den 12-Jahres-Zyklus mit Segen beschließt."
     },
     "id": "rid_134"
   },
@@ -2628,20 +2574,20 @@
     "id": "rid_149"
   },
   {
-    "question": "Welcher japanische Yokai hat Katzenkopf und Schlangenkörper?",
+    "question": "Mit dem Kopf einer Katze und dem Körper einer Schlange — welches Fabelwesen erscheint in koreanischen Volkssagen?",
     "options": [
       "Neunschwänziger Fuchs",
       "Sphinx",
-      "Sobek",
-      "Nekomata"
+      "Bulgasari",
+      "Myodusa (Katzenkopf-Schlange)"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Richtig! Die Nekomata hat Katzenkopf und Schlangenkörper!",
-      "wrong": "Daneben! Der Yokai aus Katze und Schlange!"
+      "correct": "Richtig! Myodusa ist das legendäre Katzenkopf-Schlangenwesen aus alten Überlieferungen!",
+      "wrong": "Falsch! Ein mythisches Mischwesen aus Katze und Schlange."
     },
     "id": "rid_150"
   },
@@ -3620,7 +3566,7 @@
   {
     "question": "Welches Frühlings-Sternbild ist das Nemeische Ungeheuer, das Herakles besiegte?",
     "options": [
-      "Löwe",
+      "Sternbild Löwe",
       "Skorpion",
       "Stier",
       "Zwillinge"
@@ -3780,7 +3726,7 @@
     "id": "rid_213"
   },
   {
-    "question": "Welches Sternbild ist das geflügelte Pferd aus dem Blut der Medusa?",
+    "question": "Welches Sternbild stellt in der griechischen Mythologie das geflügelte Ross dar?",
     "options": [
       "Pegasus",
       "Andromeda",
@@ -3792,13 +3738,13 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Pegasus ist das geflügelte Pferd!",
-      "wrong": "Daneben! Das Pferd aus dem Blut der Medusa!"
+      "correct": "Richtig! Pegasus ist das berühmte Sternbild des geflügelten Zauberpferds!",
+      "wrong": "Falsch! Das herbstliche Sternbild des geflügelten Pferdes."
     },
     "id": "rid_214"
   },
   {
-    "question": "Welches Sternbild ist die an einen Felsen gefesselte Prinzessin?",
+    "question": "Welches Sternbild zeigt in der griechischen Mythologie die an den Felsen gekettete Prinzessin?",
     "options": [
       "Andromeda",
       "Kassiopeia",
@@ -3810,8 +3756,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Andromeda ist die gefesselte Prinzessin!",
-      "wrong": "Daneben! Die Prinzessin, die Perseus rettete!"
+      "correct": "Richtig! Andromeda ist das Sternbild der von Perseus geretteten Prinzessin!",
+      "wrong": "Falsch! Das Sternbild der Königstochter aus der Mythologie."
     },
     "id": "rid_215"
   },
@@ -3942,9 +3888,9 @@
     "id": "rid_222"
   },
   {
-    "question": "Welcher sehr helle Südstern heißt im Osten der Langlebigkeitsstern?",
+    "question": "Welcher helle südliche Stern gilt in östlichen Legenden als 'Stern des langen Lebens' (Canopus)?",
     "options": [
-      "Canopus",
+      "Canopus (Stern des Alters)",
       "Polarstern",
       "Sirius",
       "Wega"
@@ -3954,8 +3900,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Canopus ist der Langlebigkeitsstern!",
-      "wrong": "Daneben! Der Langlebigkeitsstern des Südens!"
+      "correct": "Richtig! Canopus ist der zweithellste Stern, der langes Leben verheißt!",
+      "wrong": "Falsch! Der südliche Glücksstern, der für ein langes Leben steht."
     },
     "id": "rid_223"
   },
@@ -4230,10 +4176,10 @@
     "id": "rid_238"
   },
   {
-    "question": "Welches große Südsternbild ist der Kiel des Schiffes Argo?",
+    "question": "Welches große südliche Sternbild stellt den Kiel des mythologischen Schiffs Argo Navis dar?",
     "options": [
-      "Kiel des Schiffs",
-      "Kentaur",
+      "Kiel des Schiffes (Carina)",
+      "Zentaur",
       "Kreuz des Südens",
       "Perseus"
     ],
@@ -4242,8 +4188,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Carina ist der Kiel der Argo!",
-      "wrong": "Daneben! Das Sternbild des Argo-Kiels!"
+      "correct": "Richtig! Carina stellt den Hauptkiel des großen antiken Schiffs dar!",
+      "wrong": "Falsch! Das Sternbild des Schiffskiels am Südhimmel."
     },
     "id": "rid_239"
   },
@@ -4410,10 +4356,10 @@
     "id": "rid_248"
   },
   {
-    "question": "Welcher helle Stern der Zwillinge trägt den Namen eines Bruders?",
+    "question": "Welcher der beiden Gemini-Zwillingssterne (Kastor und Pollux) ist der hellere Stern 1. Größe?",
     "options": [
       "Pollux",
-      "Castor",
+      "Kastor",
       "Aldebaran",
       "Deneb"
     ],
@@ -4422,26 +4368,26 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Pollux ist ein Zwillingsstern!",
-      "wrong": "Daneben! Der Stern eines Zwillings!"
+      "correct": "Richtig! Pollux ist ein oranger Riese und der hellste Stern der Zwillinge!",
+      "wrong": "Falsch! Der hellere der beiden Zwillingsbrüder."
     },
     "id": "rid_249"
   },
   {
-    "question": "Welcher Stern am Griff des Großen Wagens erscheint doppelt?",
+    "question": "Welcher Stern an der Deichsel des Großen Wagens bildet mit Alcor das berühmte Augenprüfer-Doppelsternsystem?",
     "options": [
       "Mizar",
-      "Alkor",
-      "Polarstern",
-      "Capella"
+      "Dubhe",
+      "Merak",
+      "Phekda"
     ],
     "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Richtig! Mizar erscheint als Doppelstern!",
-      "wrong": "Daneben! Der Doppelstern am Kellen-Griff!"
+      "correct": "Richtig! Mizar bildet mit Alcor das klassische optische Doppelgestirn!",
+      "wrong": "Falsch! Der berühmte Doppelstern an der Knickstelle der Wagendeichsel."
     },
     "id": "rid_250"
   },
@@ -4572,20 +4518,20 @@
     "id": "rid_257"
   },
   {
-    "question": "Es hält Wäsche fest, damit der Wind sie nicht stiehlt, und hinterlässt Hornspuren an den Schultern. Was bin ich?",
+    "question": "Es hält die Wäsche im Balkonwind fest, hinterlässt aber auffällige Klemmenabdrücke auf den Schultern?",
     "options": [
       "Wäscheklammer",
       "Sicherheitsnadel",
       "Magnet",
-      "Klemme"
+      "Kleiderbügel"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
     "kkaebi_reaction": {
-      "correct": "Richtig! Diese Klammer-Spuren bleiben lange.",
-      "wrong": "Falsch! Es klemmt Wäsche an die Leine."
+      "correct": "Richtig! Die Abdrücke von Wäscheklammern sind immer erstaunlich hartnäckig!",
+      "wrong": "Falsch! Die Klammer, die nasse Wäsche an der Leine festhält."
     },
     "id": "rid_258"
   },
@@ -4896,20 +4842,20 @@
     "id": "rid_275"
   },
   {
-    "question": "Beißt du hastig hinein, entkommt die Füllung und hinterlässt Flecken. Was bin ich?",
+    "question": "Sieht aus wie dünnes, knusprig geröstetes schwarzes Papier, schmeckt aber herrlich, wenn man Reis darin einwickelt und in Sojasoße tunkt. Was bin ich?",
     "options": [
-      "Gimbap",
-      "Dreiecks-Gimbap",
-      "Reisball",
-      "Sandwich"
+      "Wakame",
+      "Kelp",
+      "Gerösteter Seetang (Gim)",
+      "Grünalgen"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Richtig! Die Füllung flieht immer zuerst.",
-      "wrong": "Falsch! Es ist Reis in Dreiecksalgen."
+      "correct": "Richtig! Knusprig gerösteter Seetang! Wickelt man frischen Reis hinein, läuft selbst dem Kobold das Wasser im Mund zusammen!",
+      "wrong": "Falsch! Eine knusprige Beilage aus getrockneten Meeresalgen, die kurz über dem Feuer geröstet wurden."
     },
     "id": "rid_276"
   },
@@ -4932,20 +4878,20 @@
     "id": "rid_277"
   },
   {
-    "question": "Kaum legst du dich hin, knarrt es und verrät es dem ganzen Haus. Was bin ich?",
+    "question": "Gemütlich zum Dösen, aber quietscht sofort verräterisch, wenn man aufsteht, und verrät jedes Nickerchen im Wohnzimmer?",
     "options": [
-      "Sofa",
-      "Bett",
-      "Stuhl",
-      "Matte"
+      "Sofa (Couch)",
+      "Esstisch",
+      "Bücherregal",
+      "Kommode"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Sofa knarrt beim Hinlegen.",
-      "wrong": "Falsch! Es ist die lange Sitzbank im Wohnzimmer."
+      "correct": "Richtig! Die Sofafedern quietschen immer genau dann, wenn man leise aufstehen will!",
+      "wrong": "Falsch! Das gepolsterte Sitzmöbel im Wohnzimmer."
     },
     "id": "rid_278"
   },
@@ -5022,20 +4968,20 @@
     "id": "rid_282"
   },
   {
-    "question": "Auf dem Rücken getragen, wird es zu Hause zuerst auf den Boden geworfen. Was bin ich?",
+    "question": "Trägt den ganzen Tag schwere Schulbücher auf deinem Rücken, landet aber zu Hause als Erstes unsanft auf dem Boden?",
     "options": [
-      "Tasche",
-      "Stoffbeutel",
-      "Beuteltasche",
-      "Schulranzen"
+      "Aktentasche",
+      "Einkaufstüte",
+      "Mäppchen",
+      "Schulranzen (Schulrucksack)"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Ranzen wird getragen und weggeworfen.",
-      "wrong": "Falsch! Es ist die Tasche für Bücher."
+      "correct": "Richtig! Der Schulranzen schleppt alles und wird doch als Erstes hingepfeffert!",
+      "wrong": "Falsch! Der Rucksack für Schulbücher und Hefte."
     },
     "id": "rid_283"
   },
@@ -5202,11 +5148,11 @@
     "id": "rid_292"
   },
   {
-    "question": "Du steckst es in das Loch im Milchkarton, doch der eigene Hals knickt. Was bin ich?",
+    "question": "Beim Versuch, ihn mit Kraft in den Milchkarton zu stechen, knickt der Ziehharmonika-Hals hilflos ein?",
     "options": [
-      "Strohhalm",
-      "Stäbchen",
-      "Flexstrohhalm",
+      "Glas-Strohhalm",
+      "Metall-Strohhalm",
+      "Knick-Trinkhalm",
       "Gabel"
     ],
     "answer_index": 2,
@@ -5214,8 +5160,8 @@
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Richtig! Die Knickstelle ist die Schwachstelle.",
-      "wrong": "Falsch! Es ist der Strohhalm mit Knick."
+      "correct": "Richtig! Die biegsamen Halme knicken genau an den Ziehharmonika-Rillen ab!",
+      "wrong": "Falsch! Der faltbare Strohhalm mit Knickfalte."
     },
     "id": "rid_293"
   },
@@ -5418,11 +5364,11 @@
     "id": "rid_304"
   },
   {
-    "question": "In einer sich drehenden Trommel wickelt es einen anderen Ärmel ein und klumpt alles. Was ist es?",
+    "question": "Soll Feines in der Waschmaschine vor Verheddern schützen, geht aber von selbst auf und lässt Wäsche entwischen?",
     "options": [
       "Wäschenetz",
-      "Waschmaschine",
-      "Trockner",
+      "Bügeleisen",
+      "Wäscheständer",
       "Kleiderbügel"
     ],
     "answer_index": 0,
@@ -5430,8 +5376,8 @@
     "difficulty": 2,
     "category": "laundry",
     "kkaebi_reaction": {
-      "correct": "Richtig! Das Netz verheddert sich mit anderer Wäsche.",
-      "wrong": "Falsch! Es ist das Netz für Wäsche."
+      "correct": "Richtig! Geht der Reißverschluss im Schleudergang auf, herrscht buntes Chaos!",
+      "wrong": "Falsch! Das Reißverschluss-Netz für empfindliche Kleidungsstücke."
     },
     "id": "rid_305"
   },
@@ -5526,11 +5472,11 @@
     "id": "rid_310"
   },
   {
-    "question": "Gestern nicht getrocknet und zusammengeknüllt, riecht es nach Putzlappen. Was bin ich?",
+    "question": "Nach dem Haareabtrocknen nass in die Ecke geknüllt, verströmt es schon nach einem Tag muffigen Modergeruch?",
     "options": [
-      "Spültuch",
-      "Decke",
-      "Taschentuch",
+      "Duschschwamm",
+      "Peelinghandschuh",
+      "Seife",
       "Handtuch"
     ],
     "answer_index": 3,
@@ -5538,44 +5484,44 @@
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein Handtuch riecht nach einem Tag.",
-      "wrong": "Falsch! Es ist das Tuch zum Abtrocknen."
+      "correct": "Richtig! Ein nass zusammengeknülltes Handtuch stinkt rasend schnell muffig!",
+      "wrong": "Falsch! Das dicke Frotteetuch zum Abtrocknen nach dem Duschen."
     },
     "id": "rid_311"
   },
   {
-    "question": "Es schneidet Buntpapier und wird nach Klebeband steif und streikt. Was bin ich?",
+    "question": "Welche zwei Eisenklingen halten Händchen und schnippen voran, wobei sie Papier und Stoff entzweischneiden?",
     "options": [
-      "Messer",
       "Schere",
-      "Cutter",
-      "Säge"
+      "Messer",
+      "Nagelknipser",
+      "Nadel"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "school",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Richtig! Klebeband verklebt die Klingen.",
-      "wrong": "Falsch! Es ist das Werkzeug zum Schneiden."
+      "correct": "Richtig! Zwei Klingen, die aufeinandertreffen und alles zerteilen – die Schere!",
+      "wrong": "Falsch! Ein Werkzeug mit runden Griffen, das durch Öffnen und Schließen schneidet."
     },
     "id": "rid_312"
   },
   {
-    "question": "Du schwingst nach einer Mücke und triffst das kleine Geschwister. Was bin ich?",
+    "question": "Schwungvoll nach der Mücke geschlagen, hinterlässt es am Ende nur ein Gittermuster auf der Tapete?",
     "options": [
       "Mückenspirale",
-      "Hand",
+      "Insektenspray",
       "Fliegenklatsche",
-      "Stock"
+      "Insektenlampe"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
     "kkaebi_reaction": {
-      "correct": "Richtig! Die Klatsche trifft immer falsch.",
-      "wrong": "Falsch! Es ist das Werkzeug für Insekten."
+      "correct": "Richtig! Die Fliegenklatsche trifft die Wand statt der Mücke!",
+      "wrong": "Falsch! Das Werkzeug mit Stiel und Gitterblatt zum Insektenjagen."
     },
     "id": "rid_313"
   },
@@ -5761,20 +5707,20 @@
   },
   {
     "id": "rid_338",
-    "category": "home",
+    "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Es war prall voll Luft und wirkte stark, doch schon nach einem Tag wird es runzelig und kriecht über den Boden?",
+    "question": "Was bläht sich umso runder und praller auf, je mehr Atem es schluckt, zerplatzt aber mit lautem Knall schon bei der leisesten Nadelspitze?",
     "options": [
-      "Fußball",
-      "Wasserball",
       "Luftballon",
-      "Luftpolsterfolie"
+      "Seifenblase",
+      "Reifen",
+      "Wasserball"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
-      "correct": "Pfft~ Gestern noch bis an die Decke geflogen, heute bist du ein faltiger Opa geworden!",
-      "wrong": "Falsch! Unbemerkt nach und nach Luft ausatmen und schrumpfen – das ist der Luftballon."
+      "correct": "Richtig! Der Luftballon, der mit einem Atemzug schwebt, aber schon vor einer Stecknadel erschrocken platzt!",
+      "wrong": "Falsch! Eine bunte Gummihülle, die sich mit Luft aufbläst."
     }
   },
   {
@@ -5944,17 +5890,17 @@
     "category": "food",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Süß und kühl, in einem Happen verschluckt, doch es schenkt dir einen stechenden Kopfschmerz bis zum Hinterkopf?",
+    "question": "Als Kugel auf die Waffel serviert, verpasst es einem bei hastigem Essen sofort den gefürchteten Kältekopfschmerz?",
     "options": [
-      "Eiswasser",
-      "Slush",
-      "Eis",
-      "Sprudelgetränk"
+      "Schokofondue",
+      "Waffel",
+      "Speiseeis (Eiscreme)",
+      "Heiße Schokolade"
     ],
     "answer_index": 2,
     "kkaebi_reaction": {
-      "correct": "Ding~! Zu hastig geschlürft und schon fasst man sich an die Schläfen und hält inne!",
-      "wrong": "Falsch! Einen stechenden Schlag wie ein gefrierendes Gehirn austeilen – das ist das Eis."
+      "correct": "Kältekopfschmerz! Zu schnell geschleckt und schon pocht die Schläfe!",
+      "wrong": "Falsch! Die kalte Süßspeise, die als Kugel geschleckt wird."
     }
   },
   {
@@ -6340,17 +6286,17 @@
     "category": "nature",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Auch wenn es wegen seiner Langsamkeit verspottet wird, trägt es sein Haus auf dem Rücken und zieht überall selbstbewusst um?",
+    "question": "Oft als langsam verspottet, trägt dieses Reptil ein hartes Panzerhaus, wandert zwischen Wasser und Land und wird steinalt?",
     "options": [
-      "Schnecke",
+      "Chamäleon",
       "Maulwurf",
       "Schildkröte",
       "Ameise"
     ],
     "answer_index": 2,
     "kkaebi_reaction": {
-      "correct": "Lahmarsch? Weil ich ein Haus habe, endet die Reise nirgendwo!",
-      "wrong": "Falsch! Auch wenn langsam, trägt es ein festes Haus auf dem Rücken – das ist die Schildkröte."
+      "correct": "Richtig! Schildkröten tragen ihren Panzer und leben über ein Jahrhundert!",
+      "wrong": "Falsch! Das gepanzerte Reptil aus dem Wettlauf mit dem Hasen."
     }
   },
   {
@@ -6412,17 +6358,17 @@
     "category": "home",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Du wolltest nur ein Blatt herausziehen, doch wenn die Hände es eilig haben, schickt es zehn Blätter hintereinander mit?",
+    "question": "Man will nur ein einzelnes Blatt von der Rolle abreißen, doch die Spindel dreht durch und wickelt alles bis zum Badezimmerboden ab?",
     "options": [
       "Feuchttücher",
-      "Toilettenpapier",
-      "Küchenrolle",
+      "Toilettenpapierrolle",
+      "Spüllappen",
       "Taschentuch"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Schwupp! Du wolltest nur ein Blatt, und schließlich putzt du den ganzen Esstisch – ein magisches Bündel!",
-      "wrong": "Nein~ Bei hastigem Herausziehen kommt eins nach dem anderen hinterher – das ist das Toilettenpapier."
+      "correct": "Wusch! Ein Blatt gewollt und das ganze Badezimmer in Weiß ausgelegt!",
+      "wrong": "Falsch! Die perforierte Papierrolle im Badezimmer."
     }
   },
   {
@@ -6477,6 +6423,384 @@
     "kkaebi_reaction": {
       "correct": "Rrrr! Die Waschmaschine ist der furchterregendste Magier der Welt.",
       "wrong": "Falsch! Nach dem Drehen genau eine Socke verschwunden – das ist die Waschmaschine."
+    }
+  },
+  {
+    "id": "rid_386",
+    "question": "Es setzt sich nachts leise ab und färbt Gras und Fenster bis zum Morgen weiß.",
+    "options": [
+      "Frost",
+      "Tau",
+      "Schnee",
+      "Nebel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Der Magier des Morgengrauens! Frost kleidet das Gras in Weiß.",
+      "wrong": "Nein! Der Frost macht das Morgengras weiß."
+    }
+  },
+  {
+    "id": "rid_387",
+    "question": "Welches Gemüse trägt Schichten aus raschelnden braunen Schuppengewändern, bei dessen Schälen man nur Tränen vergießt?",
+    "options": [
+      "Zwiebel",
+      "Knoblauch",
+      "Ingwer",
+      "Karotte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die scharfe Zwiebel, die selbst den Dokkaebi beim ersten Schnitt zum Weinen bringt!",
+      "wrong": "Falsch! Ein rundes Gemüse, dessen Dämpfe beim Schälen die Augen tränen lassen."
+    }
+  },
+  {
+    "id": "rid_388",
+    "question": "Es stützt nachts deinen Kopf und liegt morgens doch auf dem Boden.",
+    "options": [
+      "Kissen",
+      "Decke",
+      "Vorhang",
+      "Bett"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Kuschlig! Nachts deins, morgens rollt es am Boden.",
+      "wrong": "Nein! Am Morgen liegt das Kissen unter dem Bett."
+    }
+  },
+  {
+    "id": "rid_389",
+    "question": "Was kann kein einziges Wort lesen und birgt doch alles Wissen, und offenbart sein Inneres erst, wenn man seinen festen Rücken aufschlägt?",
+    "options": [
+      "Buch",
+      "Zeitung",
+      "Notizbuch",
+      "Spind"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Buch, das mit jedem Blättern seiner Papierflügel Geschichten der Welt entfaltet!",
+      "wrong": "Falsch! Ein gebündelter Stapel Seiten, der beim Durchblättern den Geist nährt."
+    }
+  },
+  {
+    "id": "rid_390",
+    "question": "Welches Seil ruht still, doch beschreibt Kreise unter den Füßen und über dem Kopf und lässt dich springen, wenn du die Griffe schwingst?",
+    "options": [
+      "Springseil",
+      "Wäscheleine",
+      "Angelschnur",
+      "Drachenschnur"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Verfängt sich ein Fuß im sausenden Seil, spürt man ein scharfes Klatschen!",
+      "wrong": "Falsch! Ein langes Seil mit Griffen, das beim Springen auf den Boden schlägt."
+    }
+  },
+  {
+    "id": "rid_391",
+    "question": "Was besitzt dutzende steife Zähne, kann jedoch keinen Bissen kauen und streicht nur verworrenes Haar glatt?",
+    "options": [
+      "Kamm",
+      "Zahnbürste",
+      "Gabel",
+      "Säge"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Kamm, der widerspenstige Haarsträhnen bändigt!",
+      "wrong": "Falsch! Ein Utensil vor dem Spiegel, um Scheitel zu ziehen und Haar zu richten."
+    }
+  },
+  {
+    "id": "rid_392",
+    "question": "Was trägt zwölf Zahlen auf der Brust und rennt unermüdlich auf Zeigerbeinen mit stetem Ticktack?",
+    "options": [
+      "Uhr",
+      "Kompass",
+      "Messgerät",
+      "Waage"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Uhr, deren Zeiger unaufhörlich kreisen, um die Zeit zu verkünden!",
+      "wrong": "Falsch! Ein Zeitmesser an Wand oder Handgelenk, der die vierundzwanzig Stunden zählt."
+    }
+  },
+  {
+    "id": "rid_393",
+    "question": "Welches Juwel verbirgt sich im tiefen Meeressand, umhüllt ein Sandkorn mit Tränenschichten und formt einen schimmernden Edelstein?",
+    "options": [
+      "Perle",
+      "Koralle",
+      "Bernstein",
+      "Muschelschale"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die glänzende runde Perle, geformt aus Geduld in der Muschel!",
+      "wrong": "Falsch! Ein Meeresjuwel mit irisierendem Schimmer aus einer Muschel."
+    }
+  },
+  {
+    "id": "rid_394",
+    "question": "Was umfängt täglich nasse Füße, um sie weich zu trocknen, liegt aber nach dem Bad im Winkel und trocknet feucht vor sich hin?",
+    "options": [
+      "Badematte",
+      "Hausschuhe",
+      "Waschbecken",
+      "Wäschekorb"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die treue Badematte, die vor der Schwelle wacht und nasse Sohlen trocknet!",
+      "wrong": "Falsch! Der Teppich vor der Badezimmertür, der Feuchtigkeit von nassen Füßen saugt."
+    }
+  },
+  {
+    "id": "rid_395",
+    "question": "Was kocht Reis über lodernden Herdflammen und spendet erst unter einem schweren gusseisernen Deckel knusprigen Krustenreis?",
+    "options": [
+      "Eiserner Kessel",
+      "Tontopf",
+      "Wasserkessel",
+      "Bratpfanne"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der schwere gusseiserne Kessel, der Vorfahren nahrhaften Reis schenkte!",
+      "wrong": "Falsch! Ein alter Kochtopf, der die Flammen bändigt, um kräftigen Geschmack zu zaubern."
+    }
+  },
+  {
+    "id": "rid_396",
+    "question": "Was ruht still an windstillen Tagen und vertreibt die Sommerhitze erst mit frischer Brise, wenn man seine Faltflügel mit der Hand schwingt?",
+    "options": [
+      "Handfächer",
+      "Ventilator",
+      "Lüfter",
+      "Fliegenklatsche"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Aufgespannt und mit dem Handgelenk bewegt, vertreibt der Fächer die Hitze!",
+      "wrong": "Falsch! Ein Sommergerät aus Bambusrippen und Papier, das auf- und zugeklappt wird."
+    }
+  },
+  {
+    "id": "rid_397",
+    "question": "Was verbirgt seine eigene Gestalt und wirft doch deine eigene Stimme getreu zurück, wenn du in Höhlen oder Tälern rufst?",
+    "options": [
+      "Echo",
+      "Tonbandgerät",
+      "Papagei",
+      "Donner"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der geheimnisvolle Bergruf, der von den Felsen zurückgeworfen wird – das Echo!",
+      "wrong": "Falsch! Der Laut, der aus der Gegenwand schallt, wenn man ins Tal ruft."
+    }
+  },
+  {
+    "id": "rid_398",
+    "question": "Welche weiße Papiertasche birgt geschriebene Geheimnisse und reist mit einer Briefmarke auf der Brust über Meere und Länder?",
+    "options": [
+      "Briefumschlag",
+      "Postkarte",
+      "Paketkarton",
+      "Papierflieger"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Briefumschlag, der geschriebene Worte hütet und in den roten Kasten wandert!",
+      "wrong": "Falsch! Eine Papierhülle, die gefaltet und verklebt zur Anschrift reist."
+    }
+  },
+  {
+    "id": "rid_399",
+    "question": "Welche runde Tonschale saugt selbst keinen Tropfen Wasser auf, hütet aber frisch gekochte Speisen und bewahrt die Tischwärme?",
+    "options": [
+      "Tontopf",
+      "Schneidebrett",
+      "Reislöffel",
+      "Tablett"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der gebrannte Tontopf, der Eintöpfe bis zum letzten Löffel dampfend heiß hält!",
+      "wrong": "Falsch! Ein rustikales Tongeschirr, das Speisen langsam abkühlen lässt und Tiefe verleiht."
+    }
+  },
+  {
+    "id": "rid_400",
+    "question": "Welche handtellergroße Leuchte ruht still, bis im Dunkeln ein Schalter klickt und einen Lichtstrahl auf den Pfad wirft?",
+    "options": [
+      "Taschenlampe",
+      "Kamin",
+      "Leuchtstoffröhre",
+      "Straßenlaterne"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Taschenlampe, die finstere Nachtpfade wie Geisterfeuer erhellt!",
+      "wrong": "Falsch! Eine batteriebetriebene Stableuchte, die Höhlen und Nachtwege ausleuchtet."
+    }
+  },
+  {
+    "id": "rid_401",
+    "question": "Was kleidet die Berge im Sommer in Grün, tauscht es im kühlen Herbstwind gegen rote und goldene Seide und sinkt zur Erde nieder?",
+    "options": [
+      "Ahornblatt",
+      "Tannenzapfen",
+      "Eichel",
+      "Löwenzahn"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Ahornblatt, das Herbstberge bunt färbt und raschelnd vergeht!",
+      "wrong": "Falsch! Blätter, die sich in kühler Herbstluft rot und gelb färben und fallen."
+    }
+  },
+  {
+    "id": "rid_402",
+    "question": "Was treibt an sonnigen Tagen hauchdünn dahin, ballt Feuchtigkeit zusammen, färbt den Himmel aschgrau und gießt schwere Tropfen herab?",
+    "options": [
+      "Gewitterwolke",
+      "Nebel",
+      "Staubsturm",
+      "Reif"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die finstere Gewitterwolke, die mit Donnergrollen sintflutartige Güsse bringt!",
+      "wrong": "Falsch! Schwere graue Wolkenmassen, die dichten Platzregen ankündigen."
+    }
+  },
+  {
+    "id": "rid_403",
+    "question": "Welche Härteprobe des Eisens trotzt lodernden Flammen und Hammerschlägen, um im kalten Wasserbad zur scharfen Klinge zu reifen?",
+    "options": [
+      "Abschrecken",
+      "Schweißen",
+      "Galvanisieren",
+      "Gießen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Abschrecken – glühendes Eisen in kaltem Wasser stählen!",
+      "wrong": "Falsch! Der Vorgang beim Schmied, glühenden Stahl zur Härtung rasch abzukühlen."
+    }
+  },
+  {
+    "id": "rid_404",
+    "question": "Welcher Meeresfisch hängt an winterlichen Hängen im Frostwind, friert und taut über hundert Male, bis sein Fleisch zart und golden wird?",
+    "options": [
+      "Getrockneter Dorsch",
+      "Sardelle",
+      "Salzmakrele",
+      "Trockenfisch"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Hwangtae – Dorsch, der im Schnee durch Frost und Tauwetter golden und zart wird!",
+      "wrong": "Falsch! Auf Holzgestellen getrockneter Fisch, der in eisiger Winterluft reift."
+    }
+  },
+  {
+    "id": "rid_405",
+    "question": "Welches hölzerne Ungetüm berührt niemals das Land, teilt aber die wilden Wogen, um Menschen und Korn über Meere zu tragen?",
+    "options": [
+      "Segelboot",
+      "Floß",
+      "Fähre",
+      "Boje"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Segelboot, das weiße Stoffflügel spannt und die blauen Wogen teilt!",
+      "wrong": "Falsch! Ein Holzschiff mit weiten Segeln, das vom Seewind getrieben gleitet."
+    }
+  },
+  {
+    "id": "rid_406",
+    "question": "Welche Waffe schnellt mit unsichtbarer Geschwindigkeit dahin, wenn die Sehne schnalzt, und trifft das rote Herz der fernen Scheibe?",
+    "options": [
+      "Pfeil",
+      "Speer",
+      "Bumerang",
+      "Schleuder"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Pfeil, der von der Sehne schnellt und das Ziel mitten durchbohrt!",
+      "wrong": "Falsch! Ein gefiederter Flugkörper, der vom Bogen abgeschossen wird."
     }
   }
 ]

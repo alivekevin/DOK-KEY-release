@@ -8,7 +8,7 @@
       "steps": [
         "Aha! Wie wagst du es, die Hörner und den Bauch eines tausendjährigen Kobolds zu kitzeln! Es kitzelt... aber deine Berührung ist warm. Nun gut! Heute enthülle ich ganz besondere Kobold-Weisheiten nur für dich!",
         "Erster Tipp! Hast du schon mein 3D-Maskottchen auf dem Startbildschirm berührt? Je nach meiner Laune grüße ich, tanze und hebe deine Stimmung!",
-        "Zweiter Spezialtipp! Im Moment steht unsere Bindung auf der Stufe {affinity_title} (Lv.{affinity_lv})! Wenn du mich täglich berührst und plauderst, steigt die Vertrautheit rasant – das schaltet tägliche Anwesenheitsboni und tiefere Geheimnisse frei! Willst du deine Vorteile jetzt prüfen?",
+        "Zweiter Spezialtipp! Im Moment steht unsere Bindung auf der Stufe {affinity_title} (Lv.{affinity_lv})! Wenn du mich täglich berührst und plauderst, steigt die Zuneigung rasant – das schaltet tägliche Anwesenheitsboni und tiefere Geheimnisse frei! Willst du deine Vorteile jetzt prüfen?",
         "Drittes Easter Egg! Wenn du mich 12 Mal hintereinander anstippst, zaubert meine Kobold-Keule ein verstecktes 🪜 'Leiterspiel' hervor! Perfekt für Mittagswetten oder lustige Strafaufgaben! Möchtest du es gleich ausprobieren?",
         "Viertes Rezept! Vergleiche niemals deinen Blick hinter die Kulissen mit dem Highlight-Video eines anderen! Jeder Kobold schwingt seine Keule auf seine eigene Weise. Der Eintopf aus dem Tontopf schmeckt am tiefsten!",
         "Fünfter Rat! Fühlst du dich völlig erschöpft und ausgebrannt? Dann ist es heute der beste Zug, dich flach auf den Rücken zu legen. Selbst ein Kobold-Ellbogen macht schlapp, wenn man die Keule rund um die Uhr schwingt! Gesunder Schlaf ist die beste Medizin.",
@@ -16,7 +16,7 @@
         "Siebtes Rezept! Hast du Angst und zweifelst, ob dies der richtige Weg ist? An nebligen Tagen schaue einfach nur auf deinen allerallernächsten Schritt. Der Pfad, den du betrittst, wird schon bald zu deiner eigenen glänzenden Straße erblühen!",
         "Achte Ermutigung! Zittere nicht vor Prüfungen oder Vorstellungsgesprächen! Wenn Interviewer nach Hause kommen, sind sie gewöhnliche Menschen, die ihre Socken auf links ausziehen. Strahle mit Selbstvertrauen deine wahre Kobold-Aura aus!",
         "Neuntes Himmelsgeheimnis! Die Wächterbestienkarte, die du heute {time_greeting} gezogen hast, ist 「{card_name}」! Vom Start in den Morgen über Nachmittag, Abend und Nacht passt sich Kkaebis Rat in Echtzeit an! Teile dein Glückslos #{number} auch mit lieben Freunden!",
-        "Letztes kosmisches Finale! Lass mich all deine Sorgen und dein Unglück wegblasen! 💨 PFFT~! (Kkaebis reinigender Kobold-Pups!) Hahaha! Pech ist verflogen, Glück strömt herein! Zur Feier des Abschlusses erhältst du +50 Vertrautheit, +5 Münzen und einen goldenen Bonusschlüssel 🔑✨!"
+        "Letztes kosmisches Finale! Lass mich all deine Sorgen und dein Unglück wegblasen! 💨 PFFT~! (Kkaebis reinigender Kobold-Pups!) Hahaha! Pech ist verflogen, Glück strömt herein! Zur Feier des Abschlusses erhältst du +50 Zuneigung, +5 Münzen und einen goldenen Bonusschlüssel 🔑✨!"
       ]
     },
     {
@@ -56,7 +56,7 @@
       "req_level": 2,
       "steps": [
         "Hast du schon Kkaebis schelmische ❓ 'Rätsel' herausgefordert? Unberechenbare, schlagfertige Fragen sorgen für schallendes Gelächter, und richtige Antworten belohnen dich mit glänzenden Münzen!",
-        "Das nervenkitzelnde ⚡ 'Überlebens-Quiz'! Halte in einem 10-Fragen-Sprint deine Serie am Leben, sichere dir die Höchstpunktzahl, erklimme die Ruhmeshalle und lass deine Vertrautheit in die Höhe schnellen!",
+        "Das nervenkitzelnde ⚡ 'Überlebens-Quiz'! Halte in einem 10-Fragen-Sprint deine Serie am Leben, sichere dir die Höchstpunktzahl, erklimme die Ruhmeshalle und lass deine Zuneigung in die Höhe schnellen!",
         "Eine noch genialere Errungenschaft: die ⚔️ 'Eigene Quiz-Arena', in der du selbst die Fragen erstellst! Baue persönliche Quizräume für Freunde, Familie oder Paare, um euer Wissen zu testen!",
         "Bereitest du dich auf Prüfungen oder das Sprachenlernen vor? Aktiviere das Startpaket mit 500 wichtigen englischen Wörtern und das 'Wiederholungs-Deck', das deine falschen Antworten trainiert, um deine Denkkraft zu verdoppeln!",
         "Selbst Kobolde bewundern diejenigen, die ihren Verstand schärfen! Tritt vor und sichere dir die heutige Quiz-Meisterkrone!"
@@ -83,9 +83,9 @@
       "steps": [
         "Hier sind die 5 besten bewährten Geheimnisse, um magische Koboldmünzen anzuhäufen! Spare klug und werde ein echter Kobold-Tycoon!",
         "Erstens: Melde dich täglich für deine erste Ziehung an und hole dir deinen Anwesenheitsstempel! Du hast mich bereits an {streak} aufeinanderfolgenden Tagen besucht! Mit wachsender Serie verdoppeln und verdreifachen sich die Münzbeutel.",
-        "Zweitens: Schließe jeden Tag die 1-minütige 🎓 'Tageslektion' ab, um dir garantiert +50 Münzen, +15 Vertrautheits-EXP und einen goldenen Bonusschlüssel zu sichern! Hohe Vertrautheit schaltet dauerhafte Vorteile für den ganzen Tag frei.",
+        "Zweitens: Schließe jeden Tag die 1-minütige 🎓 'Tageslektion' ab, um dir garantiert +50 Münzen, +15 Zuneigungs-EXP und einen goldenen Bonusschlüssel zu sichern! Hohe Zuneigung schaltet dauerhafte Vorteile für den ganzen Tag frei.",
         "Drittens: Beantworte Fragen im ⚡ Überlebens-Quiz und knacke tägliche Rätsel, um großzügige Belohnungsmünzen einzusammeln!",
-        "Viertens: Besuche die 🕹️ 'Kkaebi-Spielhalle' mit 8 Retro-Spielen – Shooter, Breakout, Tetris, Bubble Shooter und Hex-Minesweeper! Neue Highscores bringen dir Münz-Jackpots und enorme Vertrautheits-EXP!",
+        "Viertens: Besuche die 🕹️ 'Kkaebi-Spielhalle' mit 8 Retro-Spielen – Shooter, Breakout, Tetris, Bubble Shooter und Hex-Minesweeper! Neue Highscores bringen dir Münz-Jackpots und enorme Zuneigungs-EXP!",
         "Fünftens: Mit deinen gesparten Münzen (du hast derzeit {coins} Münzen in der Tasche!) kannst du im 🛒 'Laden' 18 traditionelle 'Schutz-Talismane' für Reichtum, Prüfungen und Liebe erwerben! Bewahre sie in deinem Tresor auf oder verschenke sie als Glücksbilder an Freunde!"
       ]
     }

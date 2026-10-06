@@ -36,20 +36,20 @@
     "id": "rid_002"
   },
   {
-    "question": "What follows you only in sunlight, yet can never be caught?",
+    "question": "What dark companion grows darker and clearer as the light gets stronger, and only disappears from under your feet when the light is completely extinguished?",
     "options": [
       "Shadow",
-      "Smoke",
-      "Sunset",
-      "Wind"
+      "Mirror",
+      "Footprint",
+      "Dust"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Your shadow stays beside you as long as you face the light!",
-      "wrong": "Nope! It clings to your heels beneath the light!"
+      "correct": "Correct! The brighter the light, the closer the shadow clings beneath the Dokkaebi's feet!",
+      "wrong": "Wrong! It's the dark double that only appears in bright light and follows me everywhere."
     },
     "id": "rid_003"
   },
@@ -72,38 +72,38 @@
     "id": "rid_004"
   },
   {
-    "question": "What is a silver plate in the night sky that changes shape every evening?",
+    "question": "What hangs thin as a silver fishhook in the dark night sky, then turns into a round platter after half a month to illuminate the world?",
     "options": [
-      "Star",
       "Moon",
-      "Comet",
-      "Sun"
+      "Star",
+      "Sun",
+      "Satellite"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! The moon keeps watch over every night with a new face!",
-      "wrong": "Nope! The silver dish that waxes and wanes!"
+      "correct": "Correct! Morphing from a crescent to a full disc to light up nightly paths—the moon!",
+      "wrong": "Wrong! The silvery lamp of the night sky orbiting Earth and shifting phases."
     },
     "id": "rid_005"
   },
   {
-    "question": "What rises to the sky on the wind, yet never lets go of its string?",
+    "question": "What spreads thin paper wings over green bamboo ribs, soaring into high skies on the wind until a broken line carries it far away?",
     "options": [
-      "Bird",
       "Kite",
-      "Balloon",
-      "Plane"
+      "Fan",
+      "Sky Lantern",
+      "Pinwheel"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! A kite climbs higher because of its string — bonds do that!",
-      "wrong": "Nope! Held by a string, it owns the sky!"
+      "correct": "Correct! The traditional kite flown high into the sky holding the reel's taut string!",
+      "wrong": "Wrong! A folk toy flown on holidays to carry away bad fortune into the clouds."
     },
     "id": "rid_006"
   },
@@ -162,74 +162,56 @@
     "id": "rid_009"
   },
   {
-    "question": "What grows smaller as it erases other people's mistakes?",
+    "question": "What wears away leaving white shavings behind each time it rubs away someone else's errors and mistakes?",
     "options": [
-      "Fan",
-      "Rain",
-      "Brush",
-      "Eraser"
+      "Eraser",
+      "Soap",
+      "Rag",
+      "Chalk"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "school",
     "kkaebi_reaction": {
-      "correct": "Correct! The eraser shrinks itself to fix your errors — what a friend!",
-      "wrong": "Nope! It fades away fixing your wrongs!"
+      "correct": "Correct! The eraser that wipes pencil marks clean, giving up its body in shavings!",
+      "wrong": "Wrong! A rubber piece that rubs away mistaken scribbles from notebooks."
     },
     "id": "rid_010"
   },
   {
-    "question": "What can no one ever catch, no matter how fast they run?",
+    "question": "What hangs peacefully on the wall reflecting the world, but the moment it shatters on the floor, glares at its owner with hundreds of shards?",
     "options": [
-      "Smoke",
-      "Time",
-      "Wind",
-      "Light"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Correct! Time is the fastest thief in the world!",
-      "wrong": "Nope! It steals everything between two blinks!"
-    },
-    "id": "rid_011"
-  },
-  {
-    "question": "What shows you every face but can never see its own?",
-    "options": [
-      "Glasses",
-      "Photo",
+      "Mirror",
       "Window",
-      "Mirror"
+      "Fishbowl",
+      "Clock"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "home",
     "kkaebi_reaction": {
-      "correct": "Correct! The mirror shows all but itself!",
-      "wrong": "Nope! It knows your face, never its own!"
+      "correct": "Correct! The silvery glass reflecting your face true and clear—a mirror!",
+      "wrong": "Wrong! The pane you gaze into first whenever washing your face or styling hair."
     },
     "id": "rid_012"
   },
   {
-    "question": "What gets shorter as it is sharpened, yet leaves more words behind?",
+    "question": "What school tool is born long and sleek, but pours out its owner's thoughts in graphite dust, shrinking shorter until it becomes a tiny stub?",
     "options": [
-      "Arrow",
       "Pencil",
-      "Chopstick",
-      "Flagpole"
+      "Eraser",
+      "Ruler",
+      "Glue"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "school",
     "kkaebi_reaction": {
-      "correct": "Correct! A pencil gives up its body to leave wisdom!",
-      "wrong": "Nope! Sharpened to write another day!"
+      "correct": "Correct! The more it is sharpened, the smaller it stubs between your fingers—a pencil!",
+      "wrong": "Wrong! The wooden stick sharpened to a point to press letters into notebooks."
     },
     "id": "rid_013"
   },
@@ -382,17 +364,17 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "It wraps your neck warmly, but the moment you step indoors it works up a sweat all by itself and squeezes stuffily. What is it?",
+    "question": "It wraps your neck warmly, but the moment you step indoors it works up a sweat all by itself and squeezes stuffily. What winter item is it?",
     "options": [
       "Mask",
       "Scarf",
-      "Neck warmer",
+      "Gloves",
       "Earmuffs"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Flop! The moment you board the bus it makes sweat drip as if you've stepped into a sauna!",
-      "wrong": "No~ The one that becomes bothersome luggage item No. 1 when you carry it loose is the scarf."
+      "correct": "Correct! The moment you board the bus or train, it turns into a sauna and makes sweat drip!",
+      "wrong": "Nope! It wraps your neck when chilly, but turns suffocating when indoors."
     }
   },
   {
@@ -432,20 +414,20 @@
     "id": "rid_025"
   },
   {
-    "question": "What round grain is thrown at the gate to chase away bad luck on the first cold day?",
+    "question": "What round red grain is scattered around the house on the winter solstice to drive away bad luck and evil spirits?",
     "options": [
       "Rice",
-      "Sesame",
-      "Bean",
-      "Red bean"
+      "Red bean (Adzuki)",
+      "Barley",
+      "Millet"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Beans shout 'Bad luck, be gone!' and guard the gate!",
-      "wrong": "Nope! Scattered with a rattle to block the evil!"
+      "correct": "Correct! Red beans are filled with bright positive energy that spirits dread most!",
+      "wrong": "Nope! It is the crimson grain used on the winter solstice to ward off ill fortune."
     },
     "id": "rid_026"
   },
@@ -630,20 +612,20 @@
     "id": "rid_036"
   },
   {
-    "question": "Who became smooth after ages in the stream — the quiet philosopher of the riverbank?",
+    "question": "Washed and tumbled in the stream for ages until perfectly smooth — what is the quiet little stone on the riverbank?",
     "options": [
-      "Vine",
       "Pebble",
-      "Twig",
-      "Glass"
+      "Sand",
+      "Moss",
+      "Reed"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! The waterworn pebble carries ages in its smoothness!",
-      "wrong": "Nope! Washed smooth by a thousand years of water!"
+      "correct": "Correct! The waterworn pebble carries ages of flowing time in its smoothness!",
+      "wrong": "Nope! It is the rounded stone shaped by centuries of flowing river currents."
     },
     "id": "rid_037"
   },
@@ -882,20 +864,20 @@
     "id": "rid_050"
   },
   {
-    "question": "What has no feet yet travels the whole world, and no hands yet rattles doors?",
+    "question": "What has neither feet nor wings yet travels anywhere, and has no face yet makes itself known by shaking the branches?",
     "options": [
-      "The wind",
-      "A cloud",
-      "A shadow",
-      "A rumor"
+      "Wind",
+      "Cloud",
+      "Sunlight",
+      "Fog"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kekeke! The wind shakes the whole world without ever being seen!",
-      "wrong": "Nope! What brushes past anywhere with neither hands nor feet?"
+      "correct": "Correct! Though unseen, it grazes cheeks and shakes the forest—the wind!",
+      "wrong": "Wrong! An air current you cannot hold in hand, but feel as leaves flutter."
     },
     "id": "rid_051"
   },
@@ -936,40 +918,22 @@
     "id": "rid_053"
   },
   {
-    "question": "What opens wide to shield you when it rains?",
+    "question": "What flower usually stays folded neatly, but blooms wide overhead only when tears pour down from the sky?",
     "options": [
+      "Boots",
       "Umbrella",
-      "Rain boots",
       "Raincoat",
-      "Hat"
+      "Fan"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! An umbrella is your little roof in the rain!",
-      "wrong": "Nope! You open it up when it rains!"
+      "correct": "Correct! A cloth blossom that blooms above our heads only in rain—an umbrella!",
+      "wrong": "Wrong! A canopy with ribs that bounces raindrops right off your head."
     },
     "id": "rid_054"
-  },
-  {
-    "question": "What makes no sound yet moves the heart, and carries no letters yet delivers feelings?",
-    "options": [
-      "A smile",
-      "A fallen leaf",
-      "Tears",
-      "Silence"
-    ],
-    "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "wisdom",
-    "kkaebi_reaction": {
-      "correct": "Truly fine! A warm smile is a power stronger than any goblin club!",
-      "wrong": "Nope! Think of the warmest expression that blooms across a face!"
-    },
-    "id": "rid_055"
   },
   {
     "question": "Those who have it try to hide it, those who lose it grieve it, and it vanishes the moment you tell someone. What is it?",
@@ -990,56 +954,38 @@
     "id": "rid_056"
   },
   {
-    "question": "It departs flying light and settles falling heavy, blanketing the world in white. What is it?",
+    "question": "What descends from the sky soft as a feather, yet melts into clear tears the moment it lands on a warm palm?",
     "options": [
-      "Snow",
-      "Flour",
-      "Fog",
-      "Salt"
+      "Snowflake",
+      "Hail",
+      "Dew",
+      "Frost"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Snow flowers — winter's gift that wraps the whole world in pure white!",
-      "wrong": "Nope! Think of the white powder drifting down from the sky in clusters!"
+      "correct": "Correct! The white snowflake that gently dissolves into cold water upon a human touch!",
+      "wrong": "Wrong! The ice crystal floating down from winter skies to blanket the world in white."
     },
     "id": "rid_057"
   },
   {
-    "question": "What is the winter nickname of icicles, rooting in the sky while stems and leaves grow into the ground?",
+    "question": "Who is the hero of a lifetime that crawls on four legs in the morning, walks on two legs at noon, and walks on three legs in the evening?",
     "options": [
-      "Eaves ice bird",
-      "Eaves icicle",
-      "Sky tree",
-      "Winter sprout"
-    ],
-    "answer_index": 1,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
-    "kkaebi_reaction": {
-      "correct": "Right! The clear, transparent glass bars growing upside down from the eaves!",
-      "wrong": "Nope! Look at the long ice pillars hanging beneath the eaves in winter!"
-    },
-    "id": "rid_058"
-  },
-  {
-    "question": "What walks on four legs at birth, two legs in youth, and three legs in old age?",
-    "options": [
-      "A human",
-      "A tiger",
-      "A goblin",
-      "A toad"
+      "Human",
+      "Tiger",
+      "Monkey",
+      "Crane"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "wisdom",
+    "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Wisdom to impress the Sphinx itself! Baby, youth, and the cane-leaning elder — the road of life!",
-      "wrong": "Nope! It is a person walking through life's four seasons!"
+      "correct": "Correct! The journey of human life: crawling as a baby, walking as an adult, and leaning on a cane in old age!",
+      "wrong": "Wrong! The famous life riddle that brought even the Sphinx to its knees."
     },
     "id": "rid_059"
   },
@@ -1174,17 +1120,17 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "You wear it neatly on your wrist, but every time you pull up your sleeve it catches on shirt buttons and pulls out threads. What is it?",
+    "question": "Worn neatly on your wrist, but every time you roll up your sleeves its steel links snag shirt buttons and tear threads. What is it?",
     "options": [
-      "Bracelet",
-      "Metal watch strap",
-      "Rubber band",
-      "Ring"
+      "Leather watch strap",
+      "Metal watch band",
+      "Smart ring",
+      "Silicone band"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Snag! The horrifying sound of your beloved knit sleeve snagging and unraveling in a long line!",
-      "wrong": "Nope! Cold metal feels nice, but the one that only gnaws your knit threads is the metal watch strap."
+      "correct": "Snag! That agonizing sound of knit stitches unraveling on cold steel links!",
+      "wrong": "Nope! It is the metallic link band that constantly catches on delicate fabric."
     }
   },
   {
@@ -1224,20 +1170,20 @@
     "id": "rid_069"
   },
   {
-    "question": "After the rain stops, what seven-colored bridge appears in the sky?",
+    "question": "What remains hidden all through clear days, but arches a seven-colored bridge high across the sky when gloomy rain stops and sunshine breaks through?",
     "options": [
       "Rainbow",
-      "Sunset",
-      "Cloud",
-      "Star"
+      "Aurora",
+      "Milky Way",
+      "Sunset Glow"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! A rainbow is a bridge made by rain and sunlight!",
-      "wrong": "Nope! It appears after the rain clears!"
+      "correct": "Correct! The brilliant seven-colored rainbow woven from water droplets meeting sun rays!",
+      "wrong": "Wrong! The arching light bridge spanning the sky after the rain clears."
     },
     "id": "rid_070"
   },
@@ -1386,56 +1332,56 @@
     }
   },
   {
-    "question": "It scoops rice and sips soup — the little shovel on the table?",
+    "question": "What kitchen tool is fed a mouthful of delicious food every day, yet can never swallow and must give it all back?",
     "options": [
       "Spoon",
-      "Chopsticks",
-      "Fork",
-      "Ladle"
+      "Pot",
+      "Cutting Board",
+      "Dishcloth"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! A spoon is the little shovel of the table!",
-      "wrong": "Nope! You eat both soup and rice with it!"
+      "correct": "Correct! The busiest at the table for three meals a day, yet unable to swallow a single grain—a spoon!",
+      "wrong": "Wrong! The silvery metal tool that scoops rice and soup into human mouths."
     },
     "id": "rid_079"
   },
   {
-    "question": "Through one tiny hole it leads a thread — the sharp little friend?",
+    "question": "What loses its tail as it moves forward, regains its tail as it backs away, and mends torn seams?",
     "options": [
-      "Nail",
-      "Needle",
+      "Needle and Thread",
       "Scissors",
-      "Ruler"
+      "Thimble",
+      "Safety Pin"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
-    "difficulty": 1,
-    "category": "nature",
+    "difficulty": 2,
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! A needle carries thread and sews clothes!",
-      "wrong": "Nope! It is the sharp tool that threads a needle!"
+      "correct": "Correct! With a thread tail attached, the needle pierces fabric stitch by stitch to craft clothes!",
+      "wrong": "Wrong! A tool that threads a line through a tiny eye to mend torn socks."
     },
     "id": "rid_080"
   },
   {
-    "question": "Wizards are said to ride it — what sweeps up the dust?",
+    "question": "What long-whiskered tool stands in the courtyard early in the morning, sweeping and gathering dust and fallen leaves into one pile?",
     "options": [
-      "Rag",
       "Broom",
-      "Vacuum",
-      "Mop"
+      "Mop",
+      "Dustpan",
+      "Duster"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! A broom is a witch's ride and a cleaning tool!",
-      "wrong": "Nope! It sweeps the dust together!"
+      "correct": "Correct! Sweeping the yard with crisp swishes to whisk away bad spirits—the broom!",
+      "wrong": "Wrong! A cleaning tool tied with twigs to sweep dust across floors."
     },
     "id": "rid_081"
   },
@@ -1458,38 +1404,38 @@
     "id": "rid_082"
   },
   {
-    "question": "The more it is used, the smaller it gets, washing dirt with foam?",
+    "question": "What starts as a block resembling a slab of ice, but blooms into fragrant lather every time hands meet it, shrinking away until gone?",
     "options": [
-      "Towel",
       "Soap",
+      "Sponge",
       "Shampoo",
-      "Sponge"
+      "Toothpaste"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "nature",
+    "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Correct! Soap shrinks as it washes away dirt!",
-      "wrong": "Nope! It cleans with foam!"
+      "correct": "Correct! The soap that dissolves into bubbles of lather to wash away grime!",
+      "wrong": "Wrong! A washing bar creating slippery, fragrant lather when met with water."
     },
     "id": "rid_083"
   },
   {
-    "question": "One for each foot — what must always come in a matching pair?",
+    "question": "Worn on each foot to wrap your toes, what clothing item must always come in a matching pair?",
     "options": [
-      "Gloves",
       "Socks",
-      "Shoes",
+      "Gloves",
+      "Hat",
       "Scarf"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
       "correct": "Correct! Socks are worn as a pair on both feet!",
-      "wrong": "Nope! It is worn on the feet as a pair!"
+      "wrong": "Nope! It is the cloth layer slipped on before shoes to protect your feet."
     },
     "id": "rid_084"
   },
@@ -1548,20 +1494,20 @@
     "id": "rid_087"
   },
   {
-    "question": "Left behind by the night, it forms on dawn leaves — what drop?",
+    "question": "What forms a crystal bead like a jewel on grass tips when touched by morning sunlight, then vanishes without a sound as the sun climbs high?",
     "options": [
-      "Snow",
-      "Rain",
       "Dew",
-      "Frost"
+      "Frost",
+      "Sleet",
+      "Hail"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! Dew is the clear drop the night leaves behind!",
-      "wrong": "Nope! It is the droplet on leaves at dawn!"
+      "correct": "Correct! The clear dewdrop dangling from blade tips to brighten the morning!",
+      "wrong": "Wrong! Transparent water droplets condensing on grass as cool night air settles."
     },
     "id": "rid_088"
   },
@@ -1710,20 +1656,20 @@
     "id": "rid_096"
   },
   {
-    "question": "Without a key it never opens — the iron fist guarding the door?",
+    "question": "What cold iron guard keeps the door securely barred, clicking its mouth open only when its matching key is inserted and turned?",
     "options": [
-      "Lock",
+      "Padlock",
       "Doorknob",
       "Hinge",
-      "Bolt"
+      "Door Bolt"
     ],
     "answer_index": 0,
-    "reward_keys": 2,
-    "difficulty": 2,
-    "category": "nature",
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "home",
     "kkaebi_reaction": {
-      "correct": "Correct! A lock is the gatekeeper only a key can open!",
-      "wrong": "Nope! It is the lock you open with a key!"
+      "correct": "Correct! Guarding secrets and treasures until met with its true key—a padlock!",
+      "wrong": "Wrong! An iron lock securing storage rooms or diaries from prying eyes."
     },
     "id": "rid_097"
   },
@@ -2304,20 +2250,20 @@
     "id": "rid_130"
   },
   {
-    "question": "Which zodiac horse runs with a white mane?",
+    "question": "Among the 12 Zodiac animals, who is the 7th animal galloping across the plains with a flying mane?",
     "options": [
       "Donkey",
       "Mule",
       "Zebra",
-      "White Horse"
+      "Horse"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Correct! The white horse of the zodiac!",
-      "wrong": "Nope! The white horse among the twelve!"
+      "correct": "Correct! The Horse (Wu) is the 7th Zodiac animal running with tireless passion!",
+      "wrong": "Nope! It is the spirited hoofed steed that gallops across the open fields."
     },
     "id": "rid_131"
   },
@@ -2358,20 +2304,20 @@
     "id": "rid_133"
   },
   {
-    "question": "Which last zodiac animal symbolizes abundance and wealth?",
+    "question": "Symbolizing abundance and fortune, who is the 12th and final animal of the Asian Zodiac?",
     "options": [
       "Wild boar",
       "Elephant",
       "Hippo",
-      "Golden Pig"
+      "Pig"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Correct! The golden pig is the last and brings wealth!",
-      "wrong": "Nope! The last zodiac animal that brings fortune!"
+      "correct": "Correct! The Pig (Hai) is the final Zodiac animal bringing fortune and wealth!",
+      "wrong": "Nope! It is the gentle animal that concludes the 12-year cycle of fortune."
     },
     "id": "rid_134"
   },
@@ -2628,20 +2574,20 @@
     "id": "rid_149"
   },
   {
-    "question": "Which Japanese yokai has a cat head and a snake body?",
+    "question": "Having the head of a cat and the body of a serpent, what mythical beast appears in Korean folklore of the Joseon era?",
     "options": [
       "Nine-tailed Fox",
       "Sphinx",
-      "Sobek",
-      "Nekomata"
+      "Bulgasari",
+      "Myodusa (Cat-headed Serpent)"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Correct! The nekomata has a cat head and snake body!",
-      "wrong": "Nope! The yokai mixing a cat and a snake!"
+      "correct": "Correct! Myodusa is the legendary cat-headed snake recorded in classical Joseon texts!",
+      "wrong": "Nope! It is the feline-headed serpent from Korean historical legends."
     },
     "id": "rid_150"
   },
@@ -3780,7 +3726,7 @@
     "id": "rid_213"
   },
   {
-    "question": "In Greek myth, which constellation is the winged horse born from Medusa's blood?",
+    "question": "In Greek mythology, what constellation represents the winged horse born from the blood of Medusa?",
     "options": [
       "Pegasus",
       "Andromeda",
@@ -3792,13 +3738,13 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Pegasus is the winged horse!",
-      "wrong": "Nope! The winged horse born from Medusa's blood!"
+      "correct": "Correct! Pegasus is the northern constellation of the winged divine steed!",
+      "wrong": "Nope! It is the great winged horse soaring through the autumn night sky."
     },
     "id": "rid_214"
   },
   {
-    "question": "In Greek myth, which constellation is the princess bound to a rock as a sacrifice?",
+    "question": "In Greek mythology, which constellation depicts the Ethiopian princess chained to a rock before being rescued?",
     "options": [
       "Andromeda",
       "Cassiopeia",
@@ -3810,8 +3756,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Andromeda is the princess bound to the rock!",
-      "wrong": "Nope! The princess Perseus saved!"
+      "correct": "Correct! Andromeda is the constellation of the rescued princess holding a great galaxy!",
+      "wrong": "Nope! It is the royal princess constellation saved by Perseus."
     },
     "id": "rid_215"
   },
@@ -3942,9 +3888,9 @@
     "id": "rid_222"
   },
   {
-    "question": "Which very bright southern star is called the longevity star in the East?",
+    "question": "Known as the Star of Longevity (Old Man Star) in Eastern lore, which bright southern star is said to grant long life if seen?",
     "options": [
-      "Canopus",
+      "Canopus (Old Man Star)",
       "Polaris",
       "Sirius",
       "Vega"
@@ -3954,8 +3900,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Canopus is the Eastern longevity star!",
-      "wrong": "Nope! The longevity star of the southern sky!"
+      "correct": "Correct! Canopus is the second brightest star in the sky, revered as the star of long life!",
+      "wrong": "Nope! It is the southern luminary regarded in Asia as the guardian of human lifespan."
     },
     "id": "rid_223"
   },
@@ -4230,11 +4176,11 @@
     "id": "rid_238"
   },
   {
-    "question": "Which large southern constellation is the keel of the ship Argo?",
+    "question": "Representing the central keel of the legendary ship Argo Navis, what large southern constellation is it?",
     "options": [
-      "Carina",
+      "Carina (The Keel)",
       "Centaurus",
-      "Southern Cross",
+      "Crux (Southern Cross)",
       "Perseus"
     ],
     "answer_index": 0,
@@ -4242,8 +4188,8 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Carina is the keel of Argo!",
-      "wrong": "Nope! The constellation from the keel of Argo!"
+      "correct": "Correct! Carina represents the keel of the mythical ship and hosts Canopus!",
+      "wrong": "Nope! It is the great southern constellation forming the backbone of the Argo ship."
     },
     "id": "rid_239"
   },
@@ -4410,7 +4356,7 @@
     "id": "rid_248"
   },
   {
-    "question": "Which bright star of Gemini is named for one of the twin brothers?",
+    "question": "Between the twin brothers of Gemini (Castor and Pollux), which one is the brighter 1st-magnitude star (Beta Geminorum)?",
     "options": [
       "Pollux",
       "Castor",
@@ -4422,26 +4368,26 @@
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Pollux is a twin-brother star!",
-      "wrong": "Nope! The star of one of the twin brothers!"
+      "correct": "Correct! Pollux is an orange giant and the brightest star in Gemini!",
+      "wrong": "Nope! It is the immortal twin's namesake star outshining Castor."
     },
     "id": "rid_249"
   },
   {
-    "question": "Which star in the Big Dipper's handle appears split into two?",
+    "question": "The second star from the tip of the Big Dipper's handle, which primary star forms a famous naked-eye double with Alcor?",
     "options": [
       "Mizar",
-      "Alcor",
-      "Polaris",
-      "Capella"
+      "Dubhe",
+      "Merak",
+      "Phecda"
     ],
     "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Correct! Mizar appears as a double star!",
-      "wrong": "Nope! The double star in the ladle handle!"
+      "correct": "Correct! Mizar forms a classic visual double star with little companion Alcor!",
+      "wrong": "Nope! It is the famous bend-of-the-handle star once used for ancient eyesight tests."
     },
     "id": "rid_250"
   },
@@ -4572,20 +4518,20 @@
     "id": "rid_257"
   },
   {
-    "question": "It holds clothes so the wind won't steal them, then leaves horn marks on the shoulders. What am I?",
+    "question": "It bites clothes so balcony winds won't blow them away, but leaves stubborn horn marks on the shoulders. What is it?",
     "options": [
-      "Clothespin",
+      "Clothespin (Peg)",
       "Safety pin",
       "Magnet",
-      "Clip"
+      "Hanger"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
     "kkaebi_reaction": {
-      "correct": "Correct! Those clothespin marks never fade.",
-      "wrong": "Nope! It pins clothes onto the drying line."
+      "correct": "Correct! Clothespin pinch marks always leave the sharpest little dents!",
+      "wrong": "Nope! It is the spring-loaded clip holding laundry on drying lines."
     },
     "id": "rid_258"
   },
@@ -4896,20 +4842,20 @@
     "id": "rid_275"
   },
   {
-    "question": "Bite it in a hurry and the filling escapes, leaving a stain on your shirt. What am I?",
+    "question": "Looks like thin, crispy black paper, but tastes amazing when wrapped around rice and dipped in soy sauce. What am I?",
     "options": [
-      "Gimbap",
-      "Triangle gimbap",
-      "Rice ball",
-      "Sandwich"
+      "Seaweed (Miyeok)",
+      "Kelp (Dasima)",
+      "Roasted Seaweed (Gim)",
+      "Green Laver (Parae)"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Correct! The filling always flees first.",
-      "wrong": "Nope! It is rice wrapped in a triangle of seaweed."
+      "correct": "Correct! Crispy roasted gim! Wrap it over freshly cooked rice, and even a goblin drools!",
+      "wrong": "Nope! It is a crispy side dish made by drying ocean greens and lightly roasting them over fire."
     },
     "id": "rid_276"
   },
@@ -4932,20 +4878,20 @@
     "id": "rid_277"
   },
   {
-    "question": "The moment you lie down, it creaks and tells the whole house. What am I?",
+    "question": "Cushiony to recline on, but squeaks loudly the second you stand up, instantly tattling that you were slacking off in the living room. What furniture is it?",
     "options": [
-      "Sofa",
-      "Bed",
-      "Chair",
-      "Mat"
+      "Sofa (Couch)",
+      "Dining table",
+      "Bookshelf",
+      "Dresser"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
     "kkaebi_reaction": {
-      "correct": "Correct! A sofa always creaks when you lie down.",
-      "wrong": "Nope! It is the long seat in the living room."
+      "correct": "Correct! The sofa's springs always squeak right when you try to sneak up!",
+      "wrong": "Nope! It is the upholstered living room couch in front of the TV."
     },
     "id": "rid_278"
   },
@@ -5022,20 +4968,20 @@
     "id": "rid_282"
   },
   {
-    "question": "Carried on your back, it ends up tossed on the floor first thing at home. What am I?",
+    "question": "Riding on your back carrying heavy textbooks, yet gets slammed onto the floor the very second you get home. What is it?",
     "options": [
-      "Bag",
-      "Tote bag",
-      "Sub-bag",
-      "Backpack"
+      "Briefcase",
+      "Shopping bag",
+      "Pouch",
+      "School backpack"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Correct! A backpack is carried, then dumped.",
-      "wrong": "Nope! It is the bag you wear for books."
+      "correct": "Correct! The backpack carries all the weight all day only to be dropped first!",
+      "wrong": "Nope! It is the heavy pack students wear over their shoulders for school."
     },
     "id": "rid_283"
   },
@@ -5202,11 +5148,11 @@
     "id": "rid_292"
   },
   {
-    "question": "You try to poke it into the milk carton hole, and its own neck bends. What am I?",
+    "question": "Trying to poke it forcefully into a milk carton hole only bends its corrugated flexible neck limp. What is it?",
     "options": [
-      "Straw",
-      "Chopstick",
-      "Bendy straw",
+      "Glass straw",
+      "Metal straw",
+      "Bendable straw (Bendy straw)",
       "Fork"
     ],
     "answer_index": 2,
@@ -5214,8 +5160,8 @@
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Correct! The bendy part is the weak spot.",
-      "wrong": "Nope! It is the straw with a folded joint."
+      "correct": "Correct! Bendy straws fold up helplessly right at their corrugated joints!",
+      "wrong": "Nope! It is the accordion-jointed drinking straw designed to flex."
     },
     "id": "rid_293"
   },
@@ -5418,11 +5364,11 @@
     "id": "rid_304"
   },
   {
-    "question": "Inside a spinning drum, it wraps another sleeve and balls everything together. What is it?",
+    "question": "Supposed to protect delicates from tangling in the washing machine, but unzips on its own and lets clothes escape. What laundry item is it?",
     "options": [
-      "Laundry net",
-      "Washing machine",
-      "Dryer",
+      "Mesh laundry bag",
+      "Clothes iron",
+      "Drying rack",
       "Hanger"
     ],
     "answer_index": 0,
@@ -5430,8 +5376,8 @@
     "difficulty": 2,
     "category": "laundry",
     "kkaebi_reaction": {
-      "correct": "Correct! A laundry net tangles with outside clothes.",
-      "wrong": "Nope! It is the mesh bag for laundry."
+      "correct": "Correct! When the wash bag unzips mid-spin, it causes absolute laundry chaos!",
+      "wrong": "Nope! It is the zippered mesh net designed to protect delicate garments."
     },
     "id": "rid_305"
   },
@@ -5526,56 +5472,56 @@
     "id": "rid_310"
   },
   {
-    "question": "Left damp and bunched since yesterday, it smells like a rag. What am I?",
+    "question": "After drying your washed hair, if you leave it crumpled in a damp bathroom corner it reeks of musty odor within a day. What is it?",
     "options": [
-      "Dishcloth",
-      "Blanket",
-      "Tissue",
-      "Towel"
+      "Loofah sponge",
+      "Exfoliating glove",
+      "Soap",
+      "Bath towel"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Correct! A towel smells within a day if not dried.",
-      "wrong": "Nope! It is the cloth you dry yourself with."
+      "correct": "Correct! A damp crumpled towel grows mildew smells with unbelievable speed!",
+      "wrong": "Nope! It is the thick cotton cloth used to dry off water after bathing."
     },
     "id": "rid_311"
   },
   {
-    "question": "It cuts colored paper, then stiffens and strikes after cutting sticky tape. What am I?",
+    "question": "What has two iron blades holding hands with a snip, cleaving paper and cloth in two as it marches forward?",
     "options": [
-      "Knife",
       "Scissors",
-      "Box cutter",
-      "Saw"
+      "Knife",
+      "Nail Clipper",
+      "Needle"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "school",
+    "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Correct! Sticky tape gums up the blades.",
-      "wrong": "Nope! It is the tool that cuts paper."
+      "correct": "Correct! Two blades meeting to snip clean through anything—scissors!",
+      "wrong": "Wrong! A stationery tool you operate by opening and closing fingers in round loops."
     },
     "id": "rid_312"
   },
   {
-    "question": "You swing to catch a mosquito and hit your little sibling instead. What am I?",
+    "question": "Swung violently to swat a mosquito buzzing by your ear, yet only ends up slapping grid marks onto innocent wallpaper. What tool is it?",
     "options": [
       "Mosquito coil",
-      "Hand",
+      "Bug spray",
       "Fly swatter",
-      "Stick"
+      "Bug zapper"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
     "kkaebi_reaction": {
-      "correct": "Correct! A fly swatter always hits the wrong target.",
-      "wrong": "Nope! It is the tool that swats bugs."
+      "correct": "Correct! The fly swatter misses the mosquito and leaves grid marks on the wall!",
+      "wrong": "Nope! It is the mesh bat on a handle used for swatting household insects."
     },
     "id": "rid_313"
   },
@@ -5761,20 +5707,20 @@
   },
   {
     "id": "rid_338",
-    "category": "home",
+    "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "It puffs up full of air and looks sturdy, but after a day it goes wrinkly and crawls along the floor. What is it?",
+    "question": "What swells round and taut the more breath it inhales, yet bursts without a trace with a loud pop at the slightest prick of a sharp needle?",
     "options": [
-      "Soccer ball",
-      "Beach ball",
       "Balloon",
-      "Bubble wrap"
+      "Soap Bubble",
+      "Tire",
+      "Beach Ball"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
-      "correct": "Pfft~ Yesterday it flew as if it'd touch the ceiling, and today it's a wrinkly old grandpa!",
-      "wrong": "Nope! The one that quietly lets out a little breath and shrinks is a balloon."
+      "correct": "Correct! The balloon that floats high with a breath, but pops in surprise at a tiny pin!",
+      "wrong": "Wrong! A colorful rubber pouch that swells when filled with air."
     }
   },
   {
@@ -5944,17 +5890,17 @@
     "category": "food",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Sweet and cold, you swallow it in one bite and it gives you a stabbing headache up to your forehead and the back of your head. What is it?",
+    "question": "Scooped onto a crisp cone, what frozen dessert freezes your temples with an instant brain freeze if eaten too quickly?",
     "options": [
-      "Ice water",
-      "Slushie",
+      "Chocolate fondue",
+      "Waffle",
       "Ice cream",
-      "Soda"
+      "Hot cocoa"
     ],
     "answer_index": 2,
     "kkaebi_reaction": {
-      "correct": "Ding~! You gulped it too fast and grab your temples, frozen mid-bite!",
-      "wrong": "Nope! The one that throws a brain-freeze punch is ice cream."
+      "correct": "Brain freeze! You wolfed it down too fast and had to clutch your temples!",
+      "wrong": "Nope! It is the creamy chilled treat served in scoops on cones or cups."
     }
   },
   {
@@ -6340,17 +6286,17 @@
     "category": "nature",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Even when teased for being slow, it carries its house on its back and moves confidently anywhere. What is it?",
+    "question": "Teased for being slow, which reptile carries a hard shell house on its back, lives on both land and water, and enjoys a very long lifespan?",
     "options": [
-      "Snail",
+      "Chameleon",
       "Mole",
-      "Turtle",
+      "Turtle (Tortoise)",
       "Ant"
     ],
     "answer_index": 2,
     "kkaebi_reaction": {
-      "correct": "Slowpoke? I have a house, so the trip never ends wherever I go!",
-      "wrong": "Nope! The slow one that carries a hard house on its back is the turtle."
+      "correct": "Correct! Turtles carry their armored shell houses and live for over a century!",
+      "wrong": "Nope! It is the fabled reptile with a shell that raced against the hare."
     }
   },
   {
@@ -6412,17 +6358,17 @@
     "category": "home",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "You meant to pull just one sheet, but when your hands are hurried it trails out ten in a row. What is it?",
+    "question": "Trying to tear off just one sheet from a rolled spool, but the spindle spins free and unrolls it all the way to the bathroom floor. What is it?",
     "options": [
       "Wet wipes",
-      "Toilet paper",
-      "Paper towel",
+      "Toilet paper roll",
+      "Dishcloth",
       "Handkerchief"
     ],
     "answer_index": 1,
     "kkaebi_reaction": {
-      "correct": "Whoosh! The magic bundle that ends up wiping the whole table after you meant to use one sheet!",
-      "wrong": "Not that~ The one that trails out in a row when you pull it hastily is toilet paper."
+      "correct": "Whoosh! You wanted one square, but unspooled a white carpet across the bathroom floor!",
+      "wrong": "Nope! It is the perforated paper cylinder hung in restrooms."
     }
   },
   {
@@ -6477,6 +6423,384 @@
     "kkaebi_reaction": {
       "correct": "Whirr! The washing machine is the scariest magician in the world.",
       "wrong": "Nope! The one that always makes one sock vanish after a cycle is the washing machine."
+    }
+  },
+  {
+    "id": "rid_386",
+    "question": "It settles quietly overnight and paints the grass and windows white by morning.",
+    "options": [
+      "Frost",
+      "Dew",
+      "Snow",
+      "Fog"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "The dawn magician! Frost dresses the grass in white overnight.",
+      "wrong": "Nope! It's frost that turns morning grass white."
+    }
+  },
+  {
+    "id": "rid_387",
+    "question": "What vegetable wears layers of rustling brown scaly robes, and peeling each layer only brings pungent sting and tears?",
+    "options": [
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Carrot"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! The pungent onion that makes even Dokkaebi weep the moment a knife touches it!",
+      "wrong": "Wrong! A round vegetable whose spicy vapor brings tears every time you peel it."
+    }
+  },
+  {
+    "id": "rid_388",
+    "question": "It cradles your head at night, yet ends up on the floor by morning.",
+    "options": [
+      "Pillow",
+      "Blanket",
+      "Curtain",
+      "Bed"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "So soft! It's yours at night and rolls on the floor by morning.",
+      "wrong": "Nope! The pillow is what ends up under the bed."
+    }
+  },
+  {
+    "id": "rid_389",
+    "question": "What object cannot read a word yet holds all wisdom, revealing its inner world only when its stiff spine is opened wide?",
+    "options": [
+      "Book",
+      "Newspaper",
+      "Notebook",
+      "Locker"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Correct! A book, pouring out tales of the world with every turning of its paper wings!",
+      "wrong": "Wrong! A bound stack of pages nourishing the mind as you flip through."
+    }
+  },
+  {
+    "id": "rid_390",
+    "question": "What cord rests still when untouched, but draws circles under feet and over head making you leap when swung by two handles?",
+    "options": [
+      "Jump Rope",
+      "Clothesline",
+      "Fishing Line",
+      "Kite String"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! If your foot catches the whipping rope, you'll feel a sharp snap!",
+      "wrong": "Wrong! A long cord gripped in both hands that slaps the floor in jumping exercises."
+    }
+  },
+  {
+    "id": "rid_391",
+    "question": "What has dozens of stiff teeth yet cannot chew a bite, only smoothing and tidying tangled locks of hair?",
+    "options": [
+      "Comb",
+      "Toothbrush",
+      "Fork",
+      "Saw"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! The comb that gently glides through wild hair to tame every strand!",
+      "wrong": "Wrong! A styling tool used before mirrors to part and neaten messy hair."
+    }
+  },
+  {
+    "id": "rid_392",
+    "question": "What carries twelve numbers on its chest and runs tirelessly on needle legs with a steady tick-tock?",
+    "options": [
+      "Clock",
+      "Compass",
+      "Meter",
+      "Scale"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! The clock, turning hour and minute hands to tell passing time!",
+      "wrong": "Wrong! An instrument on walls or wrists ticking off twenty-four hours each day."
+    }
+  },
+  {
+    "id": "rid_393",
+    "question": "What jewel hides deep in seabed sands, embracing a grain of sand with tear-like coats to craft a radiant gem?",
+    "options": [
+      "Pearl",
+      "Coral",
+      "Amber",
+      "Seashell"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The lustrous round pearl born from an oyster's long patience!",
+      "wrong": "Wrong! A gem of the ocean glowing with soft iridescent sheen inside a shell."
+    }
+  },
+  {
+    "id": "rid_394",
+    "question": "What embraces wet feet every day to dry them soft, only to lie flat in the corner drying damply when the bath is done?",
+    "options": [
+      "Bath Mat",
+      "Slippers",
+      "Sink",
+      "Laundry Basket"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "bathroom",
+    "kkaebi_reaction": {
+      "correct": "Correct! The faithful bath mat guarding the threshold to dry damp soles!",
+      "wrong": "Wrong! The rug waiting outside the bathroom door to absorb moisture from wet feet."
+    }
+  },
+  {
+    "id": "rid_395",
+    "question": "What cooks rice swallowing smoke above hearth fire flames, yielding crispy scorched rice only under a heavy cast-iron lid?",
+    "options": [
+      "Iron Cauldron",
+      "Earthen Pot",
+      "Kettle",
+      "Frying Pan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 2,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! The trusty cast-iron cauldron that delivered savory rice to our ancestors!",
+      "wrong": "Wrong! The antique pot enduring kitchen fires to brew hearty meals."
+    }
+  },
+  {
+    "id": "rid_396",
+    "question": "What stays still and still on windless days, spreading folding wings that whip up cool breezes to banish heat only when shaken by hand?",
+    "options": [
+      "Hand Fan",
+      "Electric Fan",
+      "Ventilator",
+      "Flyswatter"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Flicking open with a snap, a gentle wrist flick banishes summer heat—a fan!",
+      "wrong": "Wrong! Bamboo ribs pasted with paper, folding and opening to summon summer breezes."
+    }
+  },
+  {
+    "id": "rid_397",
+    "question": "What keeps its own form hidden, yet mimics and returns your own voice word for word when shouted in caves or deep valleys?",
+    "options": [
+      "Echo",
+      "Recorder",
+      "Parrot",
+      "Thunder"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The mysterious mountain resonance bouncing off cliffs when you shout—an echo!",
+      "wrong": "Wrong! The call repeated from the opposite ridge when shouted from peaks."
+    }
+  },
+  {
+    "id": "rid_398",
+    "question": "What paper pouch tucks away heartfelt secrets, bearing a stamp on its chest to travel across strange towns and seas?",
+    "options": [
+      "Envelope",
+      "Postcard",
+      "Parcel Box",
+      "Paper Plane"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! Tucking away heartfelt messages into the red mailbox—an envelope!",
+      "wrong": "Wrong! A paper pocket folded, glued, and sent to a postal address."
+    }
+  },
+  {
+    "id": "rid_399",
+    "question": "What round bowl holds no water within its own clay, yet cradles freshly boiled stew to quietly preserve the hearth's warmth?",
+    "options": [
+      "Earthen Pot",
+      "Cutting Board",
+      "Paddle",
+      "Tray"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! The clay pot baked in kiln fire, keeping simmering stew bubbling warm to the last spoonful!",
+      "wrong": "Wrong! A rustic earthenware bowl that cools slowly to brew rich, deep broths."
+    }
+  },
+  {
+    "id": "rid_400",
+    "question": "What palm-sized lantern rests quietly until a switch clicks in the dark, casting a beam of yellow light ahead down the road?",
+    "options": [
+      "Flashlight",
+      "Fireplace",
+      "Fluorescent Light",
+      "Streetlight"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! The portable flashlight lighting dark roads bright as goblin fire!",
+      "wrong": "Wrong! A battery-powered hand lamp casting light into caves and nightly trails."
+    }
+  },
+  {
+    "id": "rid_401",
+    "question": "What covers mountains in green throughout spring and summer, changing into red and gold silk in cool autumn breezes before falling to become earth?",
+    "options": [
+      "Maple Leaf",
+      "Pinecone",
+      "Acorn",
+      "Dandelion"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! Painting autumn mountains in blazing colors before scattering—the maple leaf!",
+      "wrong": "Wrong! Tree foliage turning crimson and yellow under cool autumn skies."
+    }
+  },
+  {
+    "id": "rid_402",
+    "question": "What scatters faint as cobwebs on clear days, but gathers moisture to cloak the sky in dark gray and unleash heavy downpours?",
+    "options": [
+      "Dark Cloud",
+      "Fog",
+      "Yellow Dust",
+      "Frost"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! The dark storm cloud veiling the heavens with rolling thunder and torrential rain!",
+      "wrong": "Wrong! Heavy gray billows signaling downpours ready to burst."
+    }
+  },
+  {
+    "id": "rid_403",
+    "question": "What trial of metal endures red-hot flames and hammer blows upon the anvil, diving into cold water for rapid cooling to forge a keen blade?",
+    "options": [
+      "Quenching",
+      "Welding",
+      "Plating",
+      "Casting"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! Quenching—plunging red-hot iron into cold water to temper it rock hard!",
+      "wrong": "Wrong! The blacksmith's rapid cooling process to harden forged steel."
+    }
+  },
+  {
+    "id": "rid_404",
+    "question": "What sea fish hangs on winter mountain racks facing icy winds, freezing and thawing over a hundred times until its flesh turns soft and golden?",
+    "options": [
+      "Hwangtae",
+      "Anchovy",
+      "Salted Mackerel",
+      "Gulbi"
+    ],
+    "answer_index": 0,
+    "reward_keys": 2,
+    "difficulty": 2,
+    "category": "food",
+    "kkaebi_reaction": {
+      "correct": "Correct! Pollock transforming into golden Hwangtae through countless freeze-thaw cycles in mountain snow!",
+      "wrong": "Wrong! A winter-dried fish yielding rich, savory flavor on snowy drying racks."
+    }
+  },
+  {
+    "id": "rid_405",
+    "question": "What wooden beast never sets foot upon the land, yet breasts rough waves to carry people and grain across the seas?",
+    "options": [
+      "Sailboat",
+      "Raft",
+      "Ferry Boat",
+      "Buoy"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "daily",
+    "kkaebi_reaction": {
+      "correct": "Correct! The sailboat unfurling white fabric wings to part blue waves on the wind!",
+      "wrong": "Wrong! A wooden vessel catching ocean winds with its wide canvas sails."
+    }
+  },
+  {
+    "id": "rid_406",
+    "question": "What weapon flies at invisible speeds when drawn taut and released by fingers, piercing the red heart of a distant target?",
+    "options": [
+      "Arrow",
+      "Spear",
+      "Boomerang",
+      "Sling"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! The keen arrow slicing the wind off the bowstring to pierce the bullseye!",
+      "wrong": "Wrong! A missile fletched with feathers drawn and shot from a bowstring."
     }
   }
 ]
