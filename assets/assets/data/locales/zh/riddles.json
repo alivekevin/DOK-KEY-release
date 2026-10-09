@@ -828,20 +828,20 @@
     "id": "rid_048"
   },
   {
-    "question": "春、夏、秋、冬四季面貌都不同的山是哪座？",
+    "question": "平时静静地沉睡，一旦发怒就会向高空喷出熊熊烈火与浓烟灰烬的山是什么？",
     "options": [
-      "智异山",
-      "汉拿山",
-      "金刚山",
-      "雪岳山"
+      "火山",
+      "冰山",
+      "沙丘",
+      "瀑布"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "答对了！'金刚山是食后景'！四季都有不同面貌！",
-      "wrong": "不对！四季换四张脸的山是哪座呀！"
+      "correct": "答对了！喷出地底深处滚烫岩浆的可怕火山！",
+      "wrong": "错了！这是一座会喷出烈火与熔岩的山。"
     },
     "id": "rid_049"
   },
@@ -2682,20 +2682,20 @@
     "id": "rid_155"
   },
   {
-    "question": "头戴黑笠、身穿道袍，带走灵魂的差役是？",
+    "question": "希腊神话中，把亡者的灵魂用船渡过冥界之河的摆渡者是谁？",
     "options": [
-      "阎罗王",
-      "山神",
-      "玉皇大帝",
-      "死神"
+      "卡戎",
+      "死神",
+      "哈迪斯",
+      "丘比特"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "答对了！死神是引魂去阴间的差役！",
-      "wrong": "不对！是把灵魂带去阴间的存在呀！"
+      "correct": "哈哈哈！把亡魂摆渡过河的船夫才是冥河的引路人！",
+      "wrong": "错啦！摆渡者要划船把灵魂送过河！"
     },
     "id": "rid_156"
   },
@@ -4914,7 +4914,7 @@
     "id": "rid_279"
   },
   {
-    "question": "一使劲写字就自己折断腰罢工。我是什么?",
+    "question": "又细又尖，写字时稍微用点力就会啪嗒一声折断的是什么？",
     "options": [
       "铅笔芯",
       "自动铅笔芯",
@@ -4926,8 +4926,8 @@
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "正确! 笔芯总在考试时断。",
-      "wrong": "错! 它是装进自动铅笔的细芯。"
+      "correct": "答对了！自动铅笔芯只要稍微用力就会折断。",
+      "wrong": "错了！这是装进自动铅笔里的细细石墨芯。"
     },
     "id": "rid_280"
   },
@@ -5166,20 +5166,20 @@
     "id": "rid_293"
   },
   {
-    "question": "开心对打，最后卡进体育馆天花板的钢架里。我是什么?",
+    "question": "静止时很安静，但双手握住手柄飞快挥动时，就会擦过脚底让人不断跳跃的绳子是什么？",
     "options": [
-      "羽毛球",
-      "乒乓球",
-      "球拍",
-      "球"
+      "跳绳",
+      "咖啡杯",
+      "哨子",
+      "跳箱"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
     "kkaebi_reaction": {
-      "correct": "正确! 羽毛球总卡在够不着的地方。",
-      "wrong": "错! 它是羽毛球里带羽毛的球。"
+      "correct": "答对了！呼呼旋转着跳跃的跳绳。",
+      "wrong": "错了！这是双手握住手柄在脚下摇晃跳跃的运动器材。"
     },
     "id": "rid_294"
   },
@@ -6499,20 +6499,20 @@
   },
   {
     "id": "rid_390",
-    "question": "静置时温顺伏案，双手握紧手柄呼呼甩动便在头顶与脚下划出圆弧催人跃起之绳是什么？",
+    "question": "只有不停地扭动腰部才不会掉落到地上，在腰间不断旋转的塑料圆环是什么？",
     "options": [
+      "呼啦圈",
       "跳绳",
-      "晾衣绳",
-      "钓鱼线",
-      "风筝线"
+      "回旋镖",
+      "悠悠球"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "daily",
+    "category": "sports",
     "kkaebi_reaction": {
-      "correct": "答对了！在飞速回旋的绳索间一旦失误绊脚，少不了被抽得火辣辣疼！",
-      "wrong": "错了！跳跃锻炼时握在双手中抽打地面的长绳。"
+      "correct": "答对了！扭动腰部转动的呼啦圈。",
+      "wrong": "错了！这是套在腰间旋转锻炼的塑料圆环。"
     }
   },
   {
@@ -6661,20 +6661,20 @@
   },
   {
     "id": "rid_399",
-    "question": "自身不存一滴水，却盛装滚烫饭菜汤羹静静守护餐桌温润暖意的圆形陶器是什么？",
+    "question": "炖着咕嘟咕嘟滚烫的汤菜端上餐桌也能长久保温、不易冷却的传统陶锅是什么？",
     "options": [
       "砂锅",
-      "菜板",
-      "饭勺",
-      "托盘"
+      "玻璃碗",
+      "铝锅",
+      "盘子"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "答对了！以泥土捏就经烈火煅烧，令滚烫热汤久久温热的砂锅！",
-      "wrong": "错了！色泽质朴不易冷却、慢炖出浓郁醇厚风味的传统陶器。"
+      "correct": "答对了！保温持久、让热汤不易冷却的传统砂锅。",
+      "wrong": "错了！这是质朴厚重、能长时间保持热度的传统陶锅。"
     }
   },
   {
@@ -6801,6 +6801,1932 @@
     "kkaebi_reaction": {
       "correct": "答对了！离弦破风穿石直中靶心的锋利长箭！",
       "wrong": "错了！扣弦引弓藉羽翼疾射而出的远射兵器。"
+    }
+  },
+  {
+    "id": "rid_407",
+    "question": "小小的身体里含着一颗圆珠，用力吹一口气就会发出尖锐的声音让所有人停下脚步的是什么？",
+    "options": [
+      "哨子",
+      "咖啡杯",
+      "排球",
+      "秒表"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "答对了！用力一吹就会发出尖锐声响的哨子。",
+      "wrong": "错了！这是裁判含在嘴里哔的一声吹响的哨子。"
+    }
+  },
+  {
+    "id": "rid_408",
+    "question": "两面穿戴红黑两色的橡胶外衣，在球桌上来回击打白色小球的是什么？",
+    "options": [
+      "乒乓球拍",
+      "咖啡杯",
+      "运动鞋",
+      "球网"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "答对了！在球桌上击打小白球的乒乓球拍。",
+      "wrong": "错了！这是两面贴着胶皮击打乒乓球的球拍。"
+    }
+  },
+  {
+    "id": "rid_409",
+    "question": "在蔚蓝大海上只露出白色的帽尖，却把庞大身躯的九成悄悄藏在水下的巨人是什么？",
+    "options": [
+      "冰山",
+      "火山",
+      "潜水艇",
+      "珊瑚礁"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在水下隐藏着庞大身躯漂浮的冰山！",
+      "wrong": "错了！这是大部分身躯都深藏在海面之下的巨大冰块。"
+    }
+  },
+  {
+    "id": "rid_410",
+    "question": "在严寒极地的夜空悄然出现，无声无息地轻轻摇曳着绿色与紫色丝绸光幕的神秘之光是什么？",
+    "options": [
+      "极光",
+      "彩虹",
+      "闪电",
+      "晚霞"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！点缀极地夜空的绚丽光帘——极光！",
+      "wrong": "错了！这是在极地夜空中摇曳起舞的神秘光芒。"
+    }
+  },
+  {
+    "id": "rid_411",
+    "question": "在滚烫的沙漠与柏油路上招手假装有清凉湖泊，可一旦靠近就如谎言般瞬间消失的光之幻景是什么？",
+    "options": [
+      "海市蜃楼",
+      "影子",
+      "彩虹",
+      "浓雾"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！光线折射形成的虚幻景象——海市蜃楼！",
+      "wrong": "错了！这是一旦走近就会彻底消失的沙漠错觉景象。"
+    }
+  },
+  {
+    "id": "rid_412",
+    "question": "宛如连结天地间的巨大陀螺般飞速旋转，将沿途一切事物狠狠吸向高空的恐怖风柱是什么？",
+    "options": [
+      "龙卷风",
+      "沙丘",
+      "地震",
+      "海啸"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！以毁灭性旋转力卷起万物的龙卷风！",
+      "wrong": "错了！这是连接天空与地面高速旋转的漏斗状狂暴风柱。"
+    }
+  },
+  {
+    "id": "rid_413",
+    "question": "平时看似平静温和的泉水，当地热积聚沸腾时便会按时向高空喷射出滚烫水柱与蒸汽的奇泉是什么？",
+    "options": [
+      "间歇泉",
+      "瀑布",
+      "绿洲",
+      "山泉"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！周期性向空中喷发滚烫沸水柱的间歇泉！",
+      "wrong": "错了！这是由于地下热压定期向高空喷涌的热泉。"
+    }
+  },
+  {
+    "id": "rid_414",
+    "question": "大白天正灿烂耀眼的太阳，被悄悄靠近的漆黑月牙一点点遮挡吞噬，令白昼骤然变暗的天文奇观是什么？",
+    "options": [
+      "日食",
+      "月食",
+      "月全食",
+      "黄昏"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！月亮遮挡太阳、让白昼变暗的日食！",
+      "wrong": "错了！这是月球运行到太阳与地球之间遮蔽日光的自然现象。"
+    }
+  },
+  {
+    "id": "rid_415",
+    "question": "在闷热的雷雨天气突然从高空倾泻而下，以豆粒大小的坚硬冰块猛烈砸向房顶与田野的是什么？",
+    "options": [
+      "冰雹",
+      "霰",
+      "阵雨",
+      "白霜"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！从积雨云中倾泻而下的坚硬冰粒——冰雹！",
+      "wrong": "错了！这是强对流天气中砸落大地的坚硬冰疙瘩。"
+    }
+  },
+  {
+    "id": "rid_416",
+    "question": "倒挂在幽暗洞穴的顶部，历经千年汲取滴落的水珠缓慢生长的石质冰凌是什么？",
+    "options": [
+      "钟乳石",
+      "石笋",
+      "珊瑚",
+      "冰柱"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！从溶洞顶部向下垂挂生长的石冰凌——钟乳石！",
+      "wrong": "错了！这是千百年来在石灰岩洞顶积聚形成的下垂岩石。"
+    }
+  },
+  {
+    "id": "rid_417",
+    "question": "在无边无际的焦渴沙漠腹地，怀抱翠绿椰枣树与清澈泉水、拯救疲惫旅人的生命绿洲是什么？",
+    "options": [
+      "绿洲",
+      "海市蜃楼",
+      "冰川",
+      "沼泽"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！干旱荒漠中孕育甘泉与绿荫的生命庇护所——绿洲！",
+      "wrong": "错了！这是茫茫荒漠中拥有水源和树木的湿润胜地。"
+    }
+  },
+  {
+    "id": "rid_418",
+    "question": "我们脚下的坚实大地突然剧烈震颤发怒，疯狂晃动地面并摇撼房屋建筑的自然灾害是什么？",
+    "options": [
+      "地震",
+      "山体滑坡",
+      "海啸",
+      "台风"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！地壳板块错动引发大地剧烈震颤的地震！",
+      "wrong": "错了！这是由于地下岩层断裂释放能量引起的大地振动。"
+    }
+  },
+  {
+    "id": "rid_419",
+    "question": "既没有坚硬岩石也没有泥土，随风每日悄悄挪移并变幻身姿的沙漠移动巨丘是什么？",
+    "options": [
+      "沙丘",
+      "火山",
+      "冰山",
+      "高原"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在荒漠中随狂风起伏迁移的沙丘！",
+      "wrong": "错了！这是由风力吹扬堆积而成、在荒漠中移动的波状沙堆。"
+    }
+  },
+  {
+    "id": "rid_420",
+    "question": "数千年来积攒的厚雪冻结成坚硬巨冰，以肉眼难辨的极慢速度雕琢山谷岩石并缓缓滑移流动的巨大冰川是什么？",
+    "options": [
+      "冰川",
+      "冰山",
+      "雪崩",
+      "江河"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！历经漫长岁月雕琢山岳谷地的固体巨冰之河——冰川！",
+      "wrong": "错了！这是在高山或两极地区沿地面缓慢移动的巨大冰体。"
+    }
+  },
+  {
+    "id": "rid_421",
+    "question": "裹挟着冰雪与尘埃在深空漫游，靠近太阳时在身后舒展出长长银白光芒彗尾的天体是什么？",
+    "options": [
+      "彗星",
+      "人造卫星",
+      "北极星",
+      "流星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在太阳风吹拂下拉出长长光尾的扫帚星——彗星！",
+      "wrong": "错了！这是拖着长长发光尾巴掠过天际的冰冻天体。"
+    }
+  },
+  {
+    "id": "rid_422",
+    "question": "由海底剧烈震颤引发，在开阔大洋悄然疾驰，逼近海岸瞬间骤然耸立成滔天水墙狂暴吞噬陆地的巨浪是什么？",
+    "options": [
+      "海啸",
+      "退潮",
+      "水龙卷",
+      "漩涡"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！由海底地震引发、掀起毁灭性滔天巨浪的海啸！",
+      "wrong": "错了！这是海底地质变动在沿海掀起的毁灭性破坏水墙。"
+    }
+  },
+  {
+    "id": "rid_423",
+    "question": "圆润明亮的满月悄然遁入地球的暗影深处，在夜色中被染成一轮诡谲神秘血色红月的奇景是什么？",
+    "options": [
+      "月食",
+      "日食",
+      "新月",
+      "日全食"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！满月遁入地影、化身神秘红月的月食！",
+      "wrong": "错了！这是地球阻挡直射阳光投下阴影遮蔽月球的天文奇观。"
+    }
+  },
+  {
+    "id": "rid_424",
+    "question": "在数百万年奔腾不息的激流冲刷下，如利刃劈开层叠红岩大地般雕刻出的险峻壮丽的悬崖巨谷是什么？",
+    "options": [
+      "大峡谷",
+      "洞穴",
+      "火山口",
+      "沙丘"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！奔流江水千百年侵蚀岩层劈造出的大峡谷！",
+      "wrong": "错了！这是河流长期强烈下切侵蚀形成的悬崖深邃谷地。"
+    }
+  },
+  {
+    "id": "rid_425",
+    "question": "在极地高纬度地区的盛夏悄然来临，哪怕时钟指过深夜零点太阳也绝不下落、让漫漫黑夜如白昼般明亮的自然奇观是什么？",
+    "options": [
+      "白夜（极昼）",
+      "极光",
+      "晚霞",
+      "海市蜃楼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！午夜太阳永不落下的神奇自然现象——极昼白夜！",
+      "wrong": "错了！这是高纬度地区夏季太阳全天在地平线以上不落的现象。"
+    }
+  },
+  {
+    "id": "rid_426",
+    "question": "如绚烂花田般绽放在温暖浅海，化作无数游鱼庇护所，实际上却是由微小生物骨骼日积月累堆砌而成的活体水下堡垒是什么？",
+    "options": [
+      "珊瑚礁",
+      "海藻林",
+      "沉船",
+      "海底洞穴"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！被誉为海洋热带雨林的绚丽生命堡垒——珊瑚礁！",
+      "wrong": "错了！这是由珊瑚虫分泌碳酸钙骨骼积聚而成的海底石灰岩礁体。"
+    }
+  },
+  {
+    "id": "rid_427",
+    "question": "地下水流失导致地层空洞无法承重，平坦道路与地面在某天突然毫无预兆地向下轰然坍塌形成的巨洞是什么？",
+    "options": [
+      "天坑（地陷）",
+      "火山口",
+      "水井",
+      "溶洞"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！地下空洞塌陷引发地表瞬间陷落的巨坑——天坑！",
+      "wrong": "错了！这是地表岩层因地下溶洞空虚失去支撑而发生突然塌陷的现象。"
+    }
+  },
+  {
+    "id": "rid_428",
+    "question": "自大漠地平线腾空耸立起万丈黄沙巨墙，呼啸间遮蔽日月天光、席卷整片干涸荒野的狂暴天灾是什么？",
+    "options": [
+      "沙尘暴",
+      "暴风雪",
+      "浮尘",
+      "浓雾"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！遮天蔽日席卷荒漠戈壁的狂暴巨兽——沙尘暴！",
+      "wrong": "错了！这是强风卷起大量沙尘使能见度降至极低的猛烈气象灾害。"
+    }
+  },
+  {
+    "id": "rid_429",
+    "question": "即便在冰封雪盖的数九寒冬山野中也绝不结冰冰凉，蕴藏地脉热气、蒸腾着缕缕白色暖雾的天然热水池是什么？",
+    "options": [
+      "温泉",
+      "间歇泉",
+      "绿洲",
+      "湖泊"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在冰雪中依然温暖流淌的地热甘霖——温泉！",
+      "wrong": "错了！这是由地下深处地热加热后自然涌出地表的温热泉水。"
+    }
+  },
+  {
+    "id": "rid_430",
+    "question": "像鸟一样张开双翼飞翔却浑身无羽，白天倒挂在洞穴顶端沉睡，夜晚仅靠超声波穿梭黑暗的哺乳动物是什么？",
+    "options": [
+      "蝙蝠",
+      "猫头鹰",
+      "松鼠",
+      "燕子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！唯一能够真正飞翔且倒挂睡觉的哺乳动物——蝙蝠！",
+      "wrong": "错了！这是白天倒挂在山洞中、夜晚靠回声定位捕食的动物。"
+    }
+  },
+  {
+    "id": "rid_431",
+    "question": "两只眼睛能够各自独立转动侦察四周，皮肤颜色还能随周围枝叶环境自由变换伪装的爬行动物是什么？",
+    "options": [
+      "变色龙",
+      "壁虎",
+      "青蛙",
+      "鳄鱼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！自然界中最著名的伪装伪装高手——变色龙！",
+      "wrong": "错了！这是双眼独立转动、能根据环境变换体色的奇特爬行动物。"
+    }
+  },
+  {
+    "id": "rid_432",
+    "question": "双目几乎退化失明，却凭借如铲子般宽厚强壮的前爪刨开泥土，一生穿梭在黑暗地下隧道的掘土小能手是什么？",
+    "options": [
+      "鼹鼠",
+      "刺猬",
+      "獾",
+      "兔子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！长年生活在地底黑暗地道中的挖掘大师——鼹鼠！",
+      "wrong": "错了！这是前爪如铲、终日在地下挖洞穿行的哺乳动物。"
+    }
+  },
+  {
+    "id": "rid_433",
+    "question": "幼年时是长着尾巴用鳃呼吸的小蝌蚪，长大后褪去尾巴、用强健的后腿在陆地与池塘间欢快跳跃的两栖动物是什么？",
+    "options": [
+      "青蛙",
+      "蝾螈",
+      "乌龟",
+      "鳄鱼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！经历神奇变态发育、呱呱跳跃的庄稼卫士——青蛙！",
+      "wrong": "错了！这是由水中游动的蝌蚪蜕变而来、善于跳跃的两栖动物。"
+    }
+  },
+  {
+    "id": "rid_434",
+    "question": "头上长着由数万只小眼组成的巨大复眼，凭借四片轻薄透明的双翼在空中悬停自如并捕食蚊虫的飞行健将是什么？",
+    "options": [
+      "蜻蜓",
+      "蝴蝶",
+      "蜜蜂",
+      "蚂蚱"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！如直升机般精准悬停捕食的空中猎手——蜻蜓！",
+      "wrong": "错了！这是长着透明薄翅、能空中悬停疾飞捕食蚊蝇的益虫。"
+    }
+  },
+  {
+    "id": "rid_435",
+    "question": "在幽暗地下潜伏数年甚至十余年吸食树根汁液，一朝破土爬上夏日树干、用生命震响刺耳蝉鸣的昆虫是什么？",
+    "options": [
+      "蝉（知了）",
+      "蟋蟀",
+      "螳螂",
+      "甲虫"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在地下苦候多年、一朝在盛夏放声高歌的知了——蝉！",
+      "wrong": "错了！这是幼虫期长期在地下生活、成虫在树上高声鸣叫的夏日昆虫。"
+    }
+  },
+  {
+    "id": "rid_436",
+    "question": "周身裹满滑溜溜的粘液让人空手极难握住，唇边长着须须、喜欢钻入浑浊泥塘深处潜藏的淡水小鱼是什么？",
+    "options": [
+      "泥鳅",
+      "鲶鱼",
+      "鲫鱼",
+      "鳗鱼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！滑不溜手、最爱钻泥潜藏的淡水小生灵——泥鳅！",
+      "wrong": "错了！这是身体光滑多黏液、常在水底泥沙中穿梭的小鱼。"
+    }
+  },
+  {
+    "id": "rid_437",
+    "question": "平时性情温顺蹒跚漫步，一旦嗅到危险便会蜷缩成带刺的圆球、竖起周身数千根尖锐硬刺防卫的可爱动物是什么？",
+    "options": [
+      "刺猬",
+      "鼹鼠",
+      "松鼠",
+      "乌龟"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！遇到危险就蜷成带刺栗子球的小家伙——刺猬！",
+      "wrong": "错了！这是背部长满硬刺、遇险时蜷缩自卫的夜行小动物。"
+    }
+  },
+  {
+    "id": "rid_438",
+    "question": "夏夜在清澈溪流草丛间轻盈翻飞，腹末闪烁着幽冷青绿荧光、为同伴点亮微小灯笼的迷人昆虫是什么？",
+    "options": [
+      "萤火虫",
+      "金龟子",
+      "蚊子",
+      "蜻蜓"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！在夏日草丛间点亮微弱荧光灯火的小精灵——萤火虫！",
+      "wrong": "错了！这是在盛夏夜间腹部发光、如同会飞的小灯笼的昆虫。"
+    }
+  },
+  {
+    "id": "rid_439",
+    "question": "长着圆圆的脑袋与八条布满强力吸盘的柔软腕足，遇险时喷射浓黑墨汁并狡黠滑入礁石夹缝的海底智者是什么？",
+    "options": [
+      "章鱼（八爪鱼）",
+      "乌贼",
+      "水母",
+      "海星"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！拥有八条腕足、足智多谋善于喷墨遁走的章鱼！",
+      "wrong": "错了！这是长有八条触手、能喷吐墨汁迷惑敌人的软体动物。"
+    }
+  },
+  {
+    "id": "rid_440",
+    "question": "原本不起眼的纯碳历经地壳深处极高温度与千锤百炼的重压，蜕变成世上最坚硬且永恒闪耀的透明宝石是什么？",
+    "options": [
+      "钻石（金刚石）",
+      "红宝石",
+      "玻璃",
+      "石墨"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！由纯碳结晶而成、自然界最坚硬的宝石之王——钻石！",
+      "wrong": "错了！这是在地底超高压下形成的莫氏硬度最高的透明矿物。"
+    }
+  },
+  {
+    "id": "rid_441",
+    "question": "数亿年前古老繁茂的原始森林沉入地底，历经沧海桑田石化为黑色岩块，遇火能熊熊燃烧的化石燃料是什么？",
+    "options": [
+      "煤炭",
+      "石墨",
+      "碎石",
+      "花岗岩"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！曾推动工业革命的黑色化石能源——煤炭！",
+      "wrong": "错了！这是古代植物遗体深埋地下经炭化演变而成的可燃黑色矿产。"
+    }
+  },
+  {
+    "id": "rid_442",
+    "question": "历经岁月风雨水浸也绝不生锈褪色，以夺目的金黄光泽成为人类历史上最具恒久价值的贵金属是什么？",
+    "options": [
+      "黄金",
+      "紫铜",
+      "黄铜",
+      "白银"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！永不锈蚀、闪耀尊贵黄色光芒的贵金属之冠——黄金！",
+      "wrong": "错了！这是一种化学性质极其稳定、千百年来象征财富的黄色贵金属。"
+    }
+  },
+  {
+    "id": "rid_443",
+    "question": "散发着如皎洁月光般的银白光华，导电导热性能冠绝所有金属，古时常用作验毒银针的贵金属是什么？",
+    "options": [
+      "白银",
+      "铂金",
+      "铝",
+      "镍"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！导电性能最佳、散发月光般柔美光泽的白银！",
+      "wrong": "错了！这是一种拥有极佳导热导电性、自古用于铸币与首饰的白色贵金属。"
+    }
+  },
+  {
+    "id": "rid_444",
+    "question": "质地坚韧且储量丰富，筑就了高楼大厦骨架、铁路钢轨与坚实刀锤，在潮湿空气中会泛起红锈的文明支柱金属是什么？",
+    "options": [
+      "铁",
+      "铜",
+      "铅",
+      "锌"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！构筑起现代工程与工业基石的坚韧金属——铁！",
+      "wrong": "错了！这是制造钢材的基础原料、极易氧化生成红褐色铁锈的金属。"
+    }
+  },
+  {
+    "id": "rid_445",
+    "question": "身披红褐色光泽、导电极其灵敏因而充当电线内芯，长久氧化后会披上一层优雅青绿色锈衣的金属是什么？",
+    "options": [
+      "铜",
+      "铁",
+      "铝",
+      "金"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！输送电力千家万户、氧化生出青绿铜锈的红铜——紫铜！",
+      "wrong": "错了！这是一种呈红褐色、优良导电并在生锈时变成青绿色的金属。"
+    }
+  },
+  {
+    "id": "rid_446",
+    "question": "宛如寒冰般清澈剔透、长着规整六角柱状棱柱身姿，在精密手表中担当计时振荡器并制成项链的天然宝石矿物是什么？",
+    "options": [
+      "水晶",
+      "钻石",
+      "琥珀",
+      "珍珠"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！晶莹剔透并能用于石英钟表精密振荡计时的天然石英——水晶！",
+      "wrong": "错了！这是二氧化硅结晶形成的六角棱柱状透明天然宝石。"
+    }
+  },
+  {
+    "id": "rid_447",
+    "question": "流淌着深邃森林般浓郁葱翠的华美翠绿光芒，相传曾令古埃及艳后克利奥帕特拉为之沉醉倾心的经典绿色贵宝石是什么？",
+    "options": [
+      "祖母绿（翡翠绿宝石）",
+      "蓝宝石",
+      "红宝石",
+      "欧泊"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！以深邃高贵的绿色光辉闻名遐迩的绿宝石之王——祖母绿！",
+      "wrong": "错了！这是一种散发浓郁翠绿色泽、位列世界五大名贵宝石的绿柱石。"
+    }
+  },
+  {
+    "id": "rid_448",
+    "question": "靠近铁器便紧紧相吸，同极相遇却顽强推拒排斥，并指引指南针永远坚定指向南北极的神秘磁性石头是什么？",
+    "options": [
+      "磁铁（磁石）",
+      "燧石",
+      "石英石",
+      "陨石"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！能吸引铁屑、指引大洋航向的天然磁石——磁铁！",
+      "wrong": "错了！这是一种具有磁性、能够吸引铁质物件并指示方位的矿石。"
+    }
+  },
+  {
+    "id": "rid_449",
+    "question": "与坚硬无比的钻石由完全相同的纯碳构成，却层层滑润轻柔、能在白纸上留下乌黑字迹充当铅笔芯核心材料的矿物是什么？",
+    "options": [
+      "石墨",
+      "煤炭",
+      "木炭",
+      "硫磺"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！与钻石同为纯碳、质地润滑化作笔芯记录文明的石墨！",
+      "wrong": "错了！这是一种由碳元素组成的软质黑色矿物，广泛用作铅笔笔芯。"
+    }
+  },
+  {
+    "id": "rid_450",
+    "question": "身披醒目的黑白条纹皮毛，一旦遭遇强敌便高高竖起尾巴、喷射出令人窒息刺鼻恶臭气体的动物是什么？",
+    "options": [
+      "臭鼬",
+      "浣熊",
+      "黄鼠狼",
+      "獾"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！凭借生化武器般无敌恶臭退敌的黑白小能手——臭鼬！",
+      "wrong": "错了！这是遇险时高举尾巴喷射极度恶臭分泌物自卫的哺乳动物。"
+    }
+  },
+  {
+    "id": "rid_451",
+    "question": "长着骏马般的脑袋与猿猴般卷曲的尾巴，垂直在水中漫游，且由雄性父亲在育儿袋中孕育产下幼崽的神奇海洋鱼类是什么？",
+    "options": [
+      "海马",
+      "水母",
+      "海豹",
+      "海龟"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！大自然中独一无二由海马爸爸怀孕产仔的奇特鱼类——海马！",
+      "wrong": "错了！这是头部似马、由雄鱼育儿袋孵化幼仔的小型海洋鱼类。"
+    }
+  },
+  {
+    "id": "rid_452",
+    "question": "终日倒挂在热带雨林树枝上沉睡近二十个小时，行动迟缓至极甚至连周身毛发里都长出了绿色苔藓的极慢动物是什么？",
+    "options": [
+      "树懒",
+      "考拉",
+      "大熊猫",
+      "猴子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！慢出天际、毛发上都能长出绿藻的树冠隐士——树懒！",
+      "wrong": "错了！这是终日倒挂在树上以极端缓慢速度移动的哺乳动物。"
+    }
+  },
+  {
+    "id": "rid_453",
+    "question": "深埋于地底深处的粘稠黑色液体，为汽车飞机注入动力并化作千家万户的塑料生活用品，被誉为“黑金”的工业血液是什么？",
+    "options": [
+      "石油（原油）",
+      "煤炭",
+      "熔岩",
+      "沥青"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！驱动现代工业与交通运转的“工业血液、黑色黄金”——石油！",
+      "wrong": "错了！这是从地下开采、提炼汽油与塑料基础化工原料的黑色液态资源。"
+    }
+  },
+  {
+    "id": "rid_454",
+    "question": "数千万年前古树流淌出的晶莹树脂经石化形成的蜂蜜色温润宝石，内部常常完美封印着远古史前昆虫的有机宝石是什么？",
+    "options": [
+      "琥珀",
+      "红宝石",
+      "珍珠",
+      "水晶"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！封存太古时光与史前昆虫的松脂化石之宝——琥珀！",
+      "wrong": "错了！这是古代树脂滴落后埋入地下经历数千万年石化形成的宝石。"
+    }
+  },
+  {
+    "id": "rid_455",
+    "question": "明明没有打开任何手电筒，却无论在阳光下还是日光灯下都时刻闪耀着明晃晃“自带反光”效果的人是谁？",
+    "options": [
+      "头顶光溜溜的亮脑门叔叔",
+      "双手插兜的学生",
+      "帽子压得很低的大哥",
+      "嚼着口香糖的朋友"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！如镜面般反射光芒、闪耀着亮光的光头叔叔！",
+      "wrong": "错了！这是一位头顶光滑如镜、能自然反射周围光源的人。"
+    }
+  },
+  {
+    "id": "rid_456",
+    "question": "悄无声息地让自己的嘴巴不由自主大大张开，接着仿佛施了魔法般让对面坐着的人也跟着大张开嘴的神奇“传染”是什么？",
+    "options": [
+      "打哈欠",
+      "咳嗽",
+      "打嗝",
+      "大笑"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！只要看一眼就会莫名其妙被传染跟着张大嘴的打哈欠！",
+      "wrong": "错了！这是一种困倦时深呼吸、具有神奇群体传染性的生理现象。"
+    }
+  },
+  {
+    "id": "rid_457",
+    "question": "一脱口而出便会不胫而走传遍四方，在童话里会让小木偶匹诺曹的鼻子像树枝一样越来越长的是什么？",
+    "options": [
+      "谎言",
+      "哈欠",
+      "叹气",
+      "秘密"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！越说越心虚、会让匹诺曹鼻子变长的谎言！",
+      "wrong": "错了！这是一句不真实的话，掩盖它往往需要更多的言辞。"
+    }
+  },
+  {
+    "id": "rid_458",
+    "question": "毫无预兆地突然发作让胸腹一下接一下抽动打嗝，民间传说必须让旁人在背后冷不防大喊一声“吓一跳”才能吓跑的是什么？",
+    "options": [
+      "打嗝（呃逆）",
+      "饱嗝",
+      "喷嚏",
+      "打呼噜"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！被突然吓一跳就能奇迹般憋住止住的打嗝！",
+      "wrong": "错了！这是膈肌不由自主痉挛收缩、常说被惊吓能止住的生理反应。"
+    }
+  },
+  {
+    "id": "rid_459",
+    "question": "随着年龄增长眼前的数字越来越多，在心底默默许下愿望后用力吹一口气熄灭火焰、便会赢得满堂喝彩与掌声的仪式是什么？",
+    "options": [
+      "吹生日蜡烛",
+      "吹气球",
+      "吹哨子",
+      "吹泡泡"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！许下美好心愿然后用力吹灭的吹生日蛋糕蜡烛！",
+      "wrong": "错了！这是在生日蛋糕前闭眼许愿并一口气吹熄火苗的庆祝习俗。"
+    }
+  },
+  {
+    "id": "rid_460",
+    "question": "清晨醒来睁开双眼的刹那，四肢不由自主向外拼命舒展延展、伴随一声舒服的呻吟唤醒全身筋骨的动作是什么？",
+    "options": [
+      "伸懒腰",
+      "跑步",
+      "跳绳",
+      "深呼吸"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！早晨起床舒活筋骨最爽快的动作——伸懒腰！",
+      "wrong": "错了！这是睡眠刚醒时两臂上举、胸肌舒张放松全身的伸展动作。"
+    }
+  },
+  {
+    "id": "rid_461",
+    "question": "无需刀枪剑戟，只需迅速伸出拳头与手指，便能以最快、最公平和平方式化解争端的一秒决胜负手指决斗是什么？",
+    "options": [
+      "石头剪刀布",
+      "扳手腕",
+      "击掌",
+      "拉钩"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！世界各地和平解决选择困难的第一大法宝——石头剪刀布！",
+      "wrong": "错了！这是以三种手势循环相克、瞬间决出胜负的世界性游戏。"
+    }
+  },
+  {
+    "id": "rid_462",
+    "question": "双眼紧闭是在呼呼大睡，可如果单单眨动一只眼睛俏皮地一闭一睁，就能让人心跳加速的眼神暗号是什么？",
+    "options": [
+      "眨眼（抛媚眼 / 眨单眼）",
+      "斗眼比赛",
+      "打哈欠",
+      "打瞌睡"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！只眨单只眼睛传递默契与魅力的俏皮举动——眨眼wink！",
+      "wrong": "错了！这是只闭上一只眼迅速睁开、传达秘密或好感的面部动作。"
+    }
+  },
+  {
+    "id": "rid_463",
+    "question": "用五根手指中最细小无力的小指头相互勾缠成环，再大拇指对大拇指盖上印章才肯放心的童年神圣契约是什么？",
+    "options": [
+      "拉钩盖章（拉钩上吊）",
+      "握手",
+      "击掌",
+      "扳手腕"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！小指相勾、大拇指盖章一百年不许变的拉钩约定！",
+      "wrong": "错了！这是两人勾住小指相誓遵守诺言的经典传统动作。"
+    }
+  },
+  {
+    "id": "rid_464",
+    "question": "当欢庆进球或胜利降临时，双方高高扬起手掌在半空中“啪”的一声清脆击掌、方能将狂喜拉满的庆祝动作是什么？",
+    "options": [
+      "击掌（Give me five）",
+      "握手",
+      "鼓掌",
+      "交叉双臂"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "答对了！在空中清脆击掌、庆祝胜利分享快乐的击掌欢庆！",
+      "wrong": "错了！这是将手掌高高举起、两人手掌相对相击以示庆祝的动作。"
+    }
+  },
+  {
+    "id": "rid_465",
+    "question": "仿佛嘲笑着周围笔直耸立的建筑，数百年来斜倚欲坠却始终屹立不倒的白色大理石钟楼是什么？",
+    "options": [
+      "比萨斜塔",
+      "埃菲尔铁塔",
+      "大本钟",
+      "自由女神像"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！倾斜数百年却稳如泰山的建筑奇迹——比萨斜塔！",
+      "wrong": "错了！这是位于意大利比萨城、因地基不均匀沉降而倾斜的著名白色钟塔。"
+    }
+  },
+  {
+    "id": "rid_466",
+    "question": "宛如巨龙盘旋在崇山峻岭之巅，绵延蜿蜒万余里守护千百年古老国境的巍峨石砌防线是什么？",
+    "options": [
+      "万里长城",
+      "柏林墙",
+      "金字塔",
+      "罗马斗兽场"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！蜿蜒于中华群山之巅的雄伟巨龙——万里长城！",
+      "wrong": "错了！这是中国古代为了抵御游牧骑兵侵扰而修筑的宏伟军事工程。"
+    }
+  },
+  {
+    "id": "rid_467",
+    "question": "最初被文人讥讽为粗鄙难看的钢铁骨架废铁堆，如今却化作巴黎天际线上至死不渝浪漫象征的镂空巨塔是什么？",
+    "options": [
+      "埃菲尔铁塔",
+      "东京铁塔",
+      "比萨斜塔",
+      "帝国大厦"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！傲立塞纳河畔、代表法兰西浪漫之魂的埃菲尔铁塔！",
+      "wrong": "错了！这是为世博会建造、由古斯塔夫·埃菲尔设计的巴黎标志性锻铁镂空巨塔。"
+    }
+  },
+  {
+    "id": "rid_468",
+    "question": "在浩瀚大漠中用数百万块数吨重的巨石垒叠如四棱锥金字高山，安息着古埃及法老永生之魂的奇迹陵墓是什么？",
+    "options": [
+      "埃及金字塔",
+      "狮身人面像",
+      "帕特农神庙",
+      "泰姬陵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！矗立于黄沙之中的人类古代世界七大奇迹之首——金字塔！",
+      "wrong": "错了！这是古代埃及帝王法老为自己修建的庞大锥形石头寝陵。"
+    }
+  },
+  {
+    "id": "rid_469",
+    "question": "矗立在古罗马的心脏地带，曾回荡着数万观众震耳欲聋的喝彩与咆哮、见证角斗士与猛兽生死搏杀的宏伟圆形竞技场是什么？",
+    "options": [
+      "古罗马斗兽场（科洛西姆）",
+      "凯旋门",
+      "比萨斜塔",
+      "凡尔赛宫"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！曾经回荡着嗜血嘶吼与战神悲歌的罗马斗兽场！",
+      "wrong": "错了！这是古罗马帝国时期修建的规模最大的椭圆形角斗士竞技场。"
+    }
+  },
+  {
+    "id": "rid_470",
+    "question": "微笑着露出八十八颗黑白相间的整齐牙齿，当十指在上面轻盈跳跃击打时便能奏响宏伟和声的乐器之王是什么？",
+    "options": [
+      "钢琴",
+      "小提琴",
+      "架子鼓",
+      "竖琴"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！拥有八十八枚黑白琴键的乐器之王——钢琴！",
+      "wrong": "错了！这是利用琴键带动毛毡小槌敲击琴弦发声的键盘乐器。"
+    }
+  },
+  {
+    "id": "rid_471",
+    "question": "依偎在演奏者的颌下与肩窝，当马尾制成的琴弓轻拂过纤细的四根琴弦，便如人类歌喉般倾诉泣诉悠扬之音的乐器是什么？",
+    "options": [
+      "小提琴",
+      "吉他",
+      "大提琴",
+      "尤克里里"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！被誉为乐器皇后的典雅弦乐器——小提琴！",
+      "wrong": "错了！这是夹在下颌用马尾琴弓摩擦四根琴弦发声的高音拉弦乐器。"
+    }
+  },
+  {
+    "id": "rid_472",
+    "question": "两手紧握木质鼓槌尽情砸击猛敲，踏板在脚下翻飞，激荡起如雷霆暴雨般令人心跳加速节拍的打击乐器是什么？",
+    "options": [
+      "架子鼓（爵士鼓）",
+      "钢琴",
+      "长笛",
+      "小号"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！用棍棒敲击出狂暴热血律动的灵魂节拍——架子鼓！",
+      "wrong": "错了！这是由鼓槌与脚踏板击打鼓皮产生震撼低音节奏的组合打击乐器。"
+    }
+  },
+  {
+    "id": "rid_473",
+    "question": "将纤细葫芦腰身的木制琴身拥入怀中，当指尖拨弄起六根琴弦，便能在篝火旁流淌出如梦如幻民谣乐曲的乐器是什么？",
+    "options": [
+      "吉他",
+      "小提琴",
+      "竖琴",
+      "贝斯"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！怀抱拨弄六弦、诉说青春与浪漫的乐器——吉他！",
+      "wrong": "错了！这是一种用手指或拨片拨动六根琴弦弹唱的木制拨弦乐器。"
+    }
+  },
+  {
+    "id": "rid_474",
+    "question": "小巧得可以随手塞进口袋，只需贴上嘴唇吸气呼气，便能在掌心间流淌出充满乡愁与布鲁斯蓝调口琴声的银色乐器是什么？",
+    "options": [
+      "口琴",
+      "陶笛",
+      "竖笛",
+      "小号"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "答对了！吸气吐气皆成悠扬曲调的掌中小精灵——口琴！",
+      "wrong": "错了！这是一种用嘴唇吹吸气流振动内部金属簧片发声的便携袖珍乐器。"
+    }
+  },
+  {
+    "id": "rid_475",
+    "question": "在全世界数十亿人中绝无完全雷同，藏在每个手指尖的天然旋转漩涡纹理、成为永恒个人生物身份证的是什么？",
+    "options": [
+      "指纹",
+      "指甲",
+      "手背",
+      "手相掌纹"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！独一无二终生不改的生物身份密码——指纹！",
+      "wrong": "错了！这是手指末端皮肤凹凸不平形成的脊状纹路。"
+    }
+  },
+  {
+    "id": "rid_476",
+    "question": "在血肉深处架设起两百零六根坚固洁白的支柱，防止柔软的皮肉瘫倒、支撑起人体顶天立地站立的坚硬骨架是什么？",
+    "options": [
+      "骨骼（骨头）",
+      "肌肉",
+      "血管",
+      "皮肤"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！由两百零六块坚固骨块支撑起的人体生命梁柱——骨骼！",
+      "wrong": "错了！这是人体内部支撑形体、保护内脏器官的坚硬钙质结构。"
+    }
+  },
+  {
+    "id": "rid_477",
+    "question": "不仅在极度悲伤委屈时盈眶而出，当欣喜若狂破涕大笑时也会滚滚滑落、洗涤心灵的咸味水珠是什么？",
+    "options": [
+      "眼泪",
+      "汗水",
+      "口水",
+      "鼻涕"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！承载人类最深沉悲喜情感的咸涩水滴——眼泪！",
+      "wrong": "错了！这是泪腺分泌出的用来湿润眼球和表达激荡情绪的咸涩液体。"
+    }
+  },
+  {
+    "id": "rid_478",
+    "question": "呱呱坠地降临人间那刻斩断与母亲血脉相连的生命脐带后，留在我们小腹正中央的唯一古老纪念印记是什么？",
+    "options": [
+      "肚脐",
+      "胎记",
+      "伤疤",
+      "肋骨"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！生命之初连接母体脐带的永恒烙印——肚脐！",
+      "wrong": "错了！这是婴儿出生剪断脐带后脱落愈合留在腹部中央的凹陷痕迹。"
+    }
+  },
+  {
+    "id": "rid_479",
+    "question": "深藏在坚固颅骨堡垒深处、形如布满沟壑皱褶的核桃仁，统御着全身所有思维、记忆乃至心跳呼吸的中枢司令官是什么？",
+    "options": [
+      "大脑（脑）",
+      "心脏",
+      "肺",
+      "胃"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "答对了！统御人类一切思考与意识的终极生化电脑——大脑！",
+      "wrong": "错了！这是位于颅腔内部、支配人体神经活动与思维记忆的最高中枢。"
+    }
+  },
+  {
+    "id": "rid_480",
+    "question": "白天在阴森棺木中沉睡、入夜化作蝙蝠盘旋，极度畏惧阳光大蒜与银十字架、渴饮人类鲜血的暗夜贵族伯爵是谁？",
+    "options": [
+      "德古拉伯爵（吸血鬼）",
+      "狼人",
+      "木乃伊",
+      "丧尸"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！露出尖锐獠牙猎杀鲜血的暗夜不死君王——吸血鬼德古拉！",
+      "wrong": "错了！这是欧洲传说中畏惧大蒜和圣水、靠吸食鲜血永生的吸血鬼贵族。"
+    }
+  },
+  {
+    "id": "rid_481",
+    "question": "缝合拼接多具遗骸躯体拼凑而成，在雷电轰鸣的狂暴电流击打下睁开双眼复活、却惨遭世人唾弃遗弃的悲剧人造巨怪是谁？",
+    "options": [
+      "弗兰肯斯坦的科学怪人",
+      "魔像（魔偶）",
+      "木乃伊",
+      "独眼巨人"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！在闪电电击中诞生、背负无尽孤独的悲剧人造生命——科学怪人！",
+      "wrong": "错了！这是由年轻科学家维克多·弗兰肯斯坦拼接尸体用电能激活的巨大人造怪兽。"
+    }
+  },
+  {
+    "id": "rid_482",
+    "question": "在数千年前埃及金字塔石棺中安眠，浑身上下紧紧缠绕着层层亚麻布绷带、诅咒打扰陵墓盗墓者的起死回生怪物是什么？",
+    "options": [
+      "木乃伊",
+      "骷髅",
+      "丧尸",
+      "幽灵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！缠满泛黄绷带从千年石棺中苏醒的法老守护者——木乃伊！",
+      "wrong": "错了！这是经过香料防腐处理、用亚麻布紧紧包裹的人类古尸。"
+    }
+  },
+  {
+    "id": "rid_483",
+    "question": "白昼与常人无异混迹在人群中，一旦漆黑夜空升起皎洁圆满的满月，便会长出尖牙浓密兽毛对月长啸的受诅咒生物是什么？",
+    "options": [
+      "狼人",
+      "吸血鬼",
+      "九尾狐",
+      "雪人（野人）"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！在满月清辉下失控蜕变成狂暴野兽的变异者——狼人！",
+      "wrong": "错了！这是欧洲民间传说中在满月之夜会变形成狼形狂暴怪物的受诅咒人类。"
+    }
+  },
+  {
+    "id": "rid_484",
+    "question": "丧失了所有的理性灵魂与思想记忆，仅存永不满足的噬咬本能，成群结队拖着迟缓步伐摇晃蹒跚游荡的活死人是什么？",
+    "options": [
+      "丧尸（僵尸 / Zombie）",
+      "清朝僵尸",
+      "骷髅兵",
+      "科学怪人"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！在末日废墟中成群结队摇晃蹒跚的活死人——丧尸！",
+      "wrong": "错了！这是流行文化中失去神智、依靠食人本能蹒跚行动的行尸走肉。"
+    }
+  },
+  {
+    "id": "rid_485",
+    "question": "怀揣满腔悲切怨念徘徊于人世阴司之间，身着一袭素白丧服韩服、凌乱黑发遮面垂泪飘忽悬浮于空中的经典传统冤魂是什么？",
+    "options": [
+      "处女鬼（白衣冤鬼）",
+      "九尾狐",
+      "地府阴差",
+      "水鬼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！身穿素白韩服、长发披散的经典东方怨灵——处女鬼！",
+      "wrong": "错了！这是韩国民间传说中含恨而死、身着白色丧衣飘荡的经典长发女鬼。"
+    }
+  },
+  {
+    "id": "rid_486",
+    "question": "身穿清朝官服、额前贴着镇邪黄色符纸，两臂笔直前平举、依靠双腿僵硬并拢一蹦一跳蹦跳追赶活人的中国传说异怪是什么？",
+    "options": [
+      "僵尸（清朝跳尸）",
+      "小鬼（哥布林）",
+      "丧尸",
+      "木乃伊"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！贴着镇尸黄符、平伸双臂一蹦一跳的经典民俗怪物——僵尸！",
+      "wrong": "错了！这是中国民间民间传说中因尸体不腐而化成、双臂僵直跳跃前行的跳尸。"
+    }
+  },
+  {
+    "id": "rid_487",
+    "question": "明明就站在你面前清晰呼吸并踩下脚印，可一旦解开身上缠裹的绷带或脱掉风衣衣物便会瞬间从视野中彻底隐形的人是谁？",
+    "options": [
+      "隐形人（透明人）",
+      "幽灵",
+      "影子",
+      "小鬼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！脱去衣服便与空气浑然一体、肉眼难辨的奇人——透明人！",
+      "wrong": "错了！这是一位因身体折射光线而在裸露状态下完全无法被看见的科幻角色。"
+    }
+  },
+  {
+    "id": "rid_488",
+    "question": "浑身裹在漆黑深邃的连帽兜帽长袍中遮蔽面孔，手持冰冷巨大的死神长镰、在凡人寿终正寝时收割灵魂的西方死神是谁？",
+    "options": [
+      "死神（镰刀死神 / Grim Reaper）",
+      "阎罗王",
+      "冥王哈迪斯",
+      "丘比特"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！手持巨型长柄镰刀收割灵魂的西方死神大司命！",
+      "wrong": "错了！这是西方文化中将死亡具象化、身披黑袍手握长镰收割生命的死神。"
+    }
+  },
+  {
+    "id": "rid_489",
+    "question": "甲板上空无一人、没有半个活生生的船员，却扬着残破腐朽的阴森幽暗船帆在风暴迷雾巨浪中永无止境漂泊的诅咒之船是什么？",
+    "options": [
+      "幽灵船（飞翔的荷兰人）",
+      "沉船残骸",
+      "潜水艇",
+      "小帆船"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！在惊涛骇浪迷雾中永远无法靠岸停泊的被诅咒之帆——幽灵船！",
+      "wrong": "错了！这是航海传说中没有活人驾驶、却在迷雾海面上游荡的诡异帆船。"
+    }
+  },
+  {
+    "id": "rid_490",
+    "question": "背后长着扑闪小翅膀、形如调皮可爱的金发小男婴，却手持爱情金弓金箭、射中谁便令谁坠入炽热爱河的爱神是谁？",
+    "options": [
+      "丘比特",
+      "死神",
+      "赫尔墨斯",
+      "小精灵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "答对了！手持爱神之箭射中人心的爱情使者——小爱神丘比特！",
+      "wrong": "错了！这是罗马神话中长有双翼、发射爱情之箭促成良缘的爱与欲之神。"
+    }
+  },
+  {
+    "id": "rid_491",
+    "question": "在小人国里巨大如山令整座都城宛如微缩玩具，在大人国里却渺小得只能站在别人掌心上供人观瞻的英国航海冒险家是谁？",
+    "options": [
+      "格列佛",
+      "鲁滨逊",
+      "辛巴达",
+      "彼得·潘"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！游历小人国与巨人国的传奇游记主角——格列佛！",
+      "wrong": "错了！这是英国讽刺小说中在奇异国度时大时小的经典冒险家。"
+    }
+  },
+  {
+    "id": "rid_492",
+    "question": "只因拂拭灰尘轻轻摩擦了一盏破旧的油灯，便召唤出神通广大的蓝色神灯精灵满足三个愿望的神奇少年是谁？",
+    "options": [
+      "阿拉丁",
+      "阿里巴巴",
+      "辛巴达",
+      "小王子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！驾驭飞毯、摩擦神灯召唤精灵的奇幻少年——阿拉丁！",
+      "wrong": "错了！这是《一千零一夜》中拥有神奇神灯与魔毯的经典主角。"
+    }
+  },
+  {
+    "id": "rid_493",
+    "question": "因遭遇海难流落荒无人烟的孤岛长达二十八载，在蛮荒岁月中绝地求生并将救下的忠诚土著朋友命名为“星期五”的硬汉是谁？",
+    "options": [
+      "鲁滨逊·克鲁索",
+      "格列佛",
+      "汤姆·索亚",
+      "尼摩船长"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在荒岛孤身开拓二十八载、结交“星期五”的坚毅生存家——鲁滨逊！",
+      "wrong": "错了！这是英国小说家丹尼尔·笛福笔下在荒岛独立求生的著名航海家。"
+    }
+  },
+  {
+    "id": "rid_494",
+    "question": "沉迷骑士文学走火入魔，将旷野上随风旋转的风车误当成张牙舞爪的邪恶巨人、挺起长矛奋勇冲锋的滑稽老骑士是谁？",
+    "options": [
+      "堂吉诃德",
+      "罗宾汉",
+      "亚瑟王",
+      "达达尼昂"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！骑着瘦马迎战风车巨人的理想主义梦幻骑士——堂吉诃德！",
+      "wrong": "错了！这是塞万提斯笔下骑着瘦马“驽骍难得”云游历险的西班牙游侠骑士。"
+    }
+  },
+  {
+    "id": "rid_495",
+    "question": "自幼被遗弃在幽深丛林却被母狼哺育成活，与棕熊巴鲁、黑豹巴吉拉情同手足并勇敢智斗恶虎谢尔汗的人类狼孩是谁？",
+    "options": [
+      "毛克利（莫格利）",
+      "泰山",
+      "彼得·潘",
+      "大力神赫拉克勒斯"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在狼群呵护下懂得丛林法则的勇敢丛林少年——毛克利！",
+      "wrong": "错了！这是吉卜林经典名作《丛林之书》（森林王子）中的人类养子主角。"
+    }
+  },
+  {
+    "id": "rid_496",
+    "question": "被囚禁在既无阶梯亦无门户的高耸孤塔之上，唯独将宛如金色绸缎般无比漫长的金色长发垂出窗外接引爱人的少女是谁？",
+    "options": [
+      "长发公主（乐佩 / 莴苣姑娘）",
+      "灰姑娘",
+      "睡美人",
+      "小美人鱼"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！用绝美柔顺的金色长发化作攀爬天梯的长发公主！",
+      "wrong": "错了！这是格林童话中被巫婆关在孤塔、以超长金发引路降人的经典女主角。"
+    }
+  },
+  {
+    "id": "rid_497",
+    "question": "头戴猎鹿帽、嘴衔石楠烟斗，仅凭一缕烟灰残迹或泥点鞋印便能运用严密演绎推理破译悬案的伦敦贝克街神探是谁？",
+    "options": [
+      "夏洛克·福尔摩斯",
+      "亚森·罗宾",
+      "赫尔克里·波洛",
+      "华生医生"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！居住在贝克街221号B栋的传奇怪杰侦探——福尔摩斯！",
+      "wrong": "错了！这是柯南·道尔笔下以超凡观察力与演绎推理著称的英国咨询侦探。"
+    }
+  },
+  {
+    "id": "rid_498",
+    "question": "不同于其他光脚行走的同类，它足蹬一双帅气皮长靴，凭三寸不烂之舌与绝妙机智智斗食人魔、让贫穷主人摇身变公爵的聪明动物是谁？",
+    "options": [
+      "穿靴子的猫",
+      "不来梅的音乐家",
+      "柴郡猫",
+      "彼得兔"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！脚踩长靴、机智过人助主人逆袭的传奇侠猫——穿靴子的猫！",
+      "wrong": "错了！这是法国童话中穿戴骑士皮靴、凭借智谋为主人换来荣华富贵的灵猫。"
+    }
+  },
+  {
+    "id": "rid_499",
+    "question": "身披一袭林肯绿衣隐居在舍伍德茂密森林中，以百步穿杨的绝世箭术劫富济贫、惩治贪官污吏的英国传奇绿林侠盗是谁？",
+    "options": [
+      "罗宾汉",
+      "威廉·退尔",
+      "堂吉诃德",
+      "三个火枪手"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在舍伍德森林仗义行侠、百发百中的神箭义贼——罗宾汉！",
+      "wrong": "错了！这是英国民间传说中反抗暴政、劫富济贫的神箭手绿林好汉。"
+    }
+  },
+  {
+    "id": "rid_500",
+    "question": "因饥饿的外甥偷窃了一块面包而苦役十九载，出狱后盗取银烛台却被主教宽恕感化、洗心革面救助孤苦的悲惨世界主角是谁？",
+    "options": [
+      "冉·阿让（冉阿让）",
+      "基督山伯爵",
+      "雾都孤儿奥利弗",
+      "卡西莫多"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在主教银烛台的圣光下重获救赎与良知的巨汉——冉·阿让！",
+      "wrong": "错了！这是维克多·雨果巨著《悲惨世界》中代号24601的不朽主角。"
+    }
+  },
+  {
+    "id": "rid_501",
+    "question": "永远拒绝长大成人，洒下小精灵金粉便能翱翔于繁星璀璨的夜空、带领孩子们飞向梦幻岛的绿衣少年是谁？",
+    "options": [
+      "彼得·潘（小飞侠）",
+      "匹诺曹",
+      "阿拉丁",
+      "小王子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！与小仙子叮当一起飞翔、永不长大的小飞侠——彼得·潘！",
+      "wrong": "错了！这是詹姆斯·巴里名著中在梦幻岛大战虎克船长的永生少年。"
+    }
+  },
+  {
+    "id": "rid_502",
+    "question": "蒂蒂尔与米蒂尔兄妹俩为了寻找真正的幸福历经千难万险走遍梦境，最终却在自家鸟笼里赫然发现的象征希望之鸟是什么？",
+    "options": [
+      "青鸟（蓝鸟）",
+      "凤凰",
+      "白鸽",
+      "喜鹊"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！寓意幸福不在天涯海角、就在身边的诺贝尔名作之鸟——青鸟！",
+      "wrong": "错了！这是梅特林克童话剧《青鸟》中代表幸福与希望的蓝色羽翼之鸟。"
+    }
+  },
+  {
+    "id": "rid_503",
+    "question": "每次相遇都抄起平底锅与捕鼠夹上演鸡飞狗跳的追逐大战，可一旦有一方离开便怅然若失的全球最著名欢喜冤家猫鼠搭档是谁？",
+    "options": [
+      "汤姆和杰瑞（猫和老鼠）",
+      "蝙蝠侠与罗宾",
+      "夏洛克与华生",
+      "堂吉诃德与桑丘"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！打打闹闹跨越世纪却谁也离不开谁的经典传奇——猫和老鼠！",
+      "wrong": "错了！这是米高梅经典动画中蓝灰色家猫与机灵小褐鼠的宿敌搭档。"
+    }
+  },
+  {
+    "id": "rid_504",
+    "question": "在平安夜，为了给乖孩子送去惊喜礼物，乘坐驯鹿雪橇从烟囱悄悄进屋的白胡子老爷爷是？",
+    "options": [
+      "圣诞老人",
+      "鲁道夫",
+      "小精灵",
+      "胡桃夹子"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！身穿红袍、驾着驯鹿雪橇带来礼物的正是圣诞老人！",
+      "wrong": "不对哦！想想平安夜从烟囱里钻进屋子送礼物的慈祥老爷爷吧。"
+    }
+  },
+  {
+    "id": "rid_505",
+    "question": "曾是骷髅岛的霸主，被带到纽约后爬上帝国大厦顶端与战机搏斗的史前巨猿是？",
+    "options": [
+      "金刚",
+      "哥斯拉",
+      "泰山",
+      "大脚怪"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在摩天大楼顶端捶胸咆哮的史前巨兽正是金刚（King Kong）！",
+      "wrong": "不对哦！想想在纽约帝国大厦顶上守护心爱女子的巨大黑猩猩吧。"
+    }
+  },
+  {
+    "id": "rid_506",
+    "question": "来自B-612小行星，细心守护独一无二的玫瑰花，并在撒哈拉沙漠遇见落难飞行员的金发少年是？",
+    "options": [
+      "小王子",
+      "彼得·潘",
+      "匹诺曹",
+      "阿拉丁"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！留下'真正重要的东西用眼睛是看不见的'纯真主角正是小王子！",
+      "wrong": "不对哦！想想用心呵护一朵玫瑰并驯服了狐狸的星际少年吧。"
+    }
+  },
+  {
+    "id": "rid_507",
+    "question": "《一千零一夜》中的传奇航海家，曾误把浮上海面的大鲸鱼当成岛屿，并遭遇巨鸟洛克，历经七次惊险大航海的人物是？",
+    "options": [
+      "辛巴达",
+      "鲁滨逊",
+      "格列佛",
+      "彼得·潘"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！七次出海历经千险、斩获宝藏归来的水手英雄正是辛巴达！",
+      "wrong": "不对哦！想想阿拉伯民间故事里那位经历了七次传奇出海的著名船长吧。"
+    }
+  },
+  {
+    "id": "rid_508",
+    "question": "拔出了插在石头中的神剑'石中剑'而加冕为王，并在卡美洛城堡召集'圆桌骑士'的英勇传奇君王是？",
+    "options": [
+      "亚瑟王",
+      "罗宾汉",
+      "堂吉诃德",
+      "亚历山大大帝"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！手握王者之剑、创立平等圆桌的传奇骑士领袖正是亚瑟王！",
+      "wrong": "不对哦！想想在魔法师梅林辅佐下统治卡美洛的英国传奇英雄王吧。"
+    }
+  },
+  {
+    "id": "rid_509",
+    "question": "留着红色的双辫、满脸雀斑、穿着两只不同颜色的长袜子，还能轻而易举举起一匹马的力大无比的九岁少女是？",
+    "options": [
+      "长袜子皮皮",
+      "红发安妮",
+      "小公主塞拉",
+      "多萝西"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在威勒库拉庄园与猴子和马生活在一起的正是皮皮！",
+      "wrong": "不对哦！想想穿着奇特长袜子且力大惊人的淘气姑娘吧。"
+    }
+  },
+  {
+    "id": "rid_510",
+    "question": "居住在森林深处的蘑菇村庄里，拥有蓝色皮肤并齐心协力挫败邪恶巫师格格巫阴谋的可爱精灵们是？",
+    "options": [
+      "蓝精灵",
+      "小黄人",
+      "天线宝宝",
+      "魔发精灵"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！在蓝爸爸带领下快乐生活在蘑菇房里的正是蓝精灵！",
+      "wrong": "不对哦！想想在深林里躲避格格巫追捕的蓝色小可爱们吧。"
+    }
+  },
+  {
+    "id": "rid_511",
+    "question": "破壳时因体型硕大且羽毛灰暗而备受欺凌，但在熬过严冬之后蜕变成一只高贵优美白天鹅的雏鸟是？",
+    "options": [
+      "丑小鸭",
+      "青鸟",
+      "笨笨鸟",
+      "穿靴子的猫"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！历经艰辛最终展翅飞翔的正是安徒生童话里的丑小鸭！",
+      "wrong": "不对哦！想想那只在鸭窝里受尽委屈，后来变成天鹅的美丽鸟儿吧。"
+    }
+  },
+  {
+    "id": "rid_512",
+    "question": "因神秘药物身体缩减为小学生，但头脑依旧敏锐，借助麻醉手表与变声领结破解无数疑案的高中生名侦探是？",
+    "options": [
+      "名侦探柯南（江户川柯南）",
+      "夏洛克·福尔摩斯",
+      "金田一",
+      "亚森·罗宾"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！喊着'真相只有一个！'的著名侦探正是江户川柯南！",
+      "wrong": "不对哦！想想那句'身体虽然变小，头脑依然灵活'的经典侦探主角吧。"
+    }
+  },
+  {
+    "id": "rid_513",
+    "question": "被龙卷风连人带屋卷入奥兹国，与稻草人、铁皮人和胆小狮沿着黄色砖块路前往翡翠城的女孩是？",
+    "options": [
+      "多萝西",
+      "爱丽丝",
+      "安妮",
+      "温蒂"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "答对了！带着小狗托托寻找回家之路的正是《绿野仙踪》的多萝西！",
+      "wrong": "不对哦！想想穿着红宝石鞋沿着黄砖路寻找伟大魔法师的堪萨斯少女吧。"
     }
   }
 ]

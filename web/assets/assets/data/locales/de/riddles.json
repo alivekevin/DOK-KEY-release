@@ -828,20 +828,20 @@
     "id": "rid_048"
   },
   {
-    "question": "Welcher Berg trägt in jeder Jahreszeit ein anderes Gesicht?",
+    "question": "Welcher Berg schläft die meiste Zeit ganz ruhig, speit aber feurige Lava und heiße Asche hoch in den Himmel, wenn er erwacht?",
     "options": [
-      "Jirisan",
-      "Seoraksan",
-      "Geumgangsan",
-      "Hallasan"
+      "Vulkan",
+      "Eisberg",
+      "Sanddüne",
+      "Wasserfall"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Richtig! 'Geumgangsan nach dem Essen!' — ein Berg mit viertausend Gesichtern!",
-      "wrong": "Daneben! Vier Jahreszeiten, vier Gesichter — welcher Berg!"
+      "correct": "Richtig! Ein feuriger Vulkan, der glühendes Magma aus der Tiefe speit!",
+      "wrong": "Falsch! Ein Berg, der mit gewaltigem Feuer und Lava ausbricht."
     },
     "id": "rid_049"
   },
@@ -2682,20 +2682,20 @@
     "id": "rid_155"
   },
   {
-    "question": "Wer trägt schwarzen Hut und Mantel und holt die Seelen?",
+    "question": "Wer rudert in der griechischen Mythologie die Seelen der Toten über den Fluss in die Unterwelt?",
     "options": [
-      "König Yama",
-      "Berggott",
-      "Jadekaiser",
-      "Sensenmann"
+      "Charon",
+      "Sensenmann",
+      "Hades",
+      "Amor (Cupido)"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Sensenmann geleitet Seelen ins Jenseits!",
-      "wrong": "Daneben! Der die Seelen ins Jenseits bringt!"
+      "correct": "Hahaha! Der Fährmann der Seelen ist der wahre Führer über den Fluss!",
+      "wrong": "Falsch! Der Fährmann rudert die Seelen über den Fluss!"
     },
     "id": "rid_156"
   },
@@ -4914,20 +4914,20 @@
     "id": "rid_279"
   },
   {
-    "question": "Drückst du zu fest, bricht es sich selbst das Kreuz und streikt. Was bin ich?",
+    "question": "Was ist dünn und spitz und bricht sofort in der Mitte ab, wenn man beim Schreiben etwas zu fest aufdrückt?",
     "options": [
       "Bleistiftmine",
       "Druckbleistiftmine",
       "Kugelschreibermine",
-      "Wachsmalstift"
+      "Wachsmalkreide"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Richtig! Die Mine bricht immer in der Prüfung.",
-      "wrong": "Falsch! Es ist die dünne Mine im Druckbleistift."
+      "correct": "Richtig! Feinminen brechen ab, wenn man zu fest aufdrückt.",
+      "wrong": "Falsch! Es ist die dünne Graphitmine für Druckbleistifte."
     },
     "id": "rid_280"
   },
@@ -5166,20 +5166,20 @@
     "id": "rid_293"
   },
   {
-    "question": "Ihr schlagt es hin und her, bis es im Deckenrahmen der Halle steckt. Was bin ich?",
+    "question": "Was liegt still da, zwingt dich aber zum ständigen Hüpfen unter deinen Füßen, sobald man es an zwei Griffen schwungvoll kreisen lässt?",
     "options": [
-      "Federball",
-      "Tischtennisball",
-      "Schläger",
-      "Ball"
+      "Springseil",
+      "Kaffeetasse",
+      "Trillerpfeife",
+      "Sprungkasten"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Federball landet unerreichbar.",
-      "wrong": "Falsch! Es ist der gefiederte Ball im Badminton."
+      "correct": "Richtig! Das Springseil, das man schwungvoll unter den Füßen kreisen lässt.",
+      "wrong": "Falsch! Es ist ein Sportgerät mit zwei Griffen, über das man hüpft."
     },
     "id": "rid_294"
   },
@@ -6499,20 +6499,20 @@
   },
   {
     "id": "rid_390",
-    "question": "Welches Seil ruht still, doch beschreibt Kreise unter den Füßen und über dem Kopf und lässt dich springen, wenn du die Griffe schwingst?",
+    "question": "Welcher runde Reifen dreht sich um deine Hüften und fällt nur dann nicht zu Boden, wenn man die Hüften unaufhörlich kreisen lässt?",
     "options": [
+      "Hula-Hoop-Reifen",
       "Springseil",
-      "Wäscheleine",
-      "Angelschnur",
-      "Drachenschnur"
+      "Bumerang",
+      "Jojo"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "daily",
+    "category": "sports",
     "kkaebi_reaction": {
-      "correct": "Richtig! Verfängt sich ein Fuß im sausenden Seil, spürt man ein scharfes Klatschen!",
-      "wrong": "Falsch! Ein langes Seil mit Griffen, das beim Springen auf den Boden schlägt."
+      "correct": "Richtig! Der Hula-Hoop-Reifen, den man mit den Hüften kreisen lässt.",
+      "wrong": "Falsch! Der runde Sportreifen, den man um die Taille kreisen lässt."
     }
   },
   {
@@ -6661,20 +6661,20 @@
   },
   {
     "id": "rid_399",
-    "question": "Welche runde Tonschale saugt selbst keinen Tropfen Wasser auf, hütet aber frisch gekochte Speisen und bewahrt die Tischwärme?",
+    "question": "Welcher traditionelle Tontopf hält kochend heiße Eintöpfe auf dem Esstisch lange warm, ohne schnell abzukühlen?",
     "options": [
       "Tontopf",
-      "Schneidebrett",
-      "Reislöffel",
-      "Tablett"
+      "Glasschale",
+      "Aluminiumtopf",
+      "Teller"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der gebrannte Tontopf, der Eintöpfe bis zum letzten Löffel dampfend heiß hält!",
-      "wrong": "Falsch! Ein rustikales Tongeschirr, das Speisen langsam abkühlen lässt und Tiefe verleiht."
+      "correct": "Richtig! Ein irdener Topf, der die Hitze lange speichert.",
+      "wrong": "Falsch! Ein traditioneller Tontopf, der die Speisen lange heiß hält."
     }
   },
   {
@@ -6801,6 +6801,1932 @@
     "kkaebi_reaction": {
       "correct": "Richtig! Der Pfeil, der von der Sehne schnellt und das Ziel mitten durchbohrt!",
       "wrong": "Falsch! Ein gefiederter Flugkörper, der vom Bogen abgeschossen wird."
+    }
+  },
+  {
+    "id": "rid_407",
+    "question": "Was birgt eine kleine Kugel in sich und stößt beim Hineinblasen einen schrillen Pfiff aus, der alle sofort anhalten lässt?",
+    "options": [
+      "Trillerpfeife",
+      "Kaffeetasse",
+      "Volleyball",
+      "Stoppuhr"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Trillerpfeife, die mit einem schrillen Pfiff ertönt.",
+      "wrong": "Falsch! Die Pfeife, in die der Schiedsrichter bläst, um das Spiel zu stoppen."
+    }
+  },
+  {
+    "id": "rid_408",
+    "question": "Was trägt auf beiden Seiten roten und schwarzen Belag und schlägt auf dem Tisch einen kleinen weißen Ball hin und her?",
+    "options": [
+      "Tischtennisschläger",
+      "Kaffeetasse",
+      "Turnschuhe",
+      "Netz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Tischtennisschläger, der den kleinen Ball schlägt.",
+      "wrong": "Falsch! Der beidseitig gummierte Schläger für Tischtennis."
+    }
+  },
+  {
+    "id": "rid_409",
+    "question": "Welcher Riese zeigt über dem blauen Meer nur seine weiße Mütze, während neun Zehntel seines riesigen Körpers unter Wasser verborgen liegen?",
+    "options": [
+      "Eisberg",
+      "Vulkan",
+      "U-Boot",
+      "Korallenriff"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Eisberg, der den Großteil seiner riesigen Masse unter Wasser verbirgt!",
+      "wrong": "Falsch! Eine riesige Eismasse, von der man nur die winzige Spitze über dem Wasser sieht."
+    }
+  },
+  {
+    "id": "rid_410",
+    "question": "Welches geheimnisvolle Licht tanzt lautlos am frostigen Nachthimmel der Polargebiete wie ein seidener Vorhang aus Grün und Violett?",
+    "options": [
+      "Polarlichter",
+      "Regenbogen",
+      "Blitz",
+      "Abendrot"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Polarlicht, ein funkelnder Vorhang aus Licht am Polarhimmel!",
+      "wrong": "Falsch! Es ist das lautlos tanzende Himmelsleuchten über den Polen."
+    }
+  },
+  {
+    "id": "rid_411",
+    "question": "Welche optische Täuschung gaukelt in heißen Wüsten oder auf Straßen schimmernde Seen vor, löst sich aber beim Näherkommen in Luft auf?",
+    "options": [
+      "Fata Morgana",
+      "Schatten",
+      "Regenbogen",
+      "Nebel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Fata Morgana, hervorgebracht durch gebrochene Lichtstrahlen!",
+      "wrong": "Falsch! Eine optische Täuschung, die verschwindet, sobald man näher tritt."
+    }
+  },
+  {
+    "id": "rid_412",
+    "question": "Welche furchterregende Windsäule wirbelt wie ein gigantischer Kreisel zwischen Himmel und Erde und reißt alles in ihrem Weg nach oben?",
+    "options": [
+      "Tornado",
+      "Sanddüne",
+      "Erdbeben",
+      "Tsunami"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Tornado, der wie ein wütender Wirbelwind alles emporreißt!",
+      "wrong": "Falsch! Ein gewaltiger rotierender Trichterwind zwischen Wolke und Boden."
+    }
+  },
+  {
+    "id": "rid_413",
+    "question": "Welche Quelle scheint zunächst ruhig, schießt jedoch in regelmäßigen Abständen eine kochend heiße Wasser- und Dampffontäne gen Himmel?",
+    "options": [
+      "Geysir",
+      "Wasserfall",
+      "Oase",
+      "Mineralquelle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Geysir, der zischend heiße Fontänen in den Himmel jagt!",
+      "wrong": "Falsch! Eine heiße Quelle, die periodisch kochendes Wasser emporschleudert."
+    }
+  },
+  {
+    "id": "rid_414",
+    "question": "Welches Himmelsereignis geschieht, wenn der Mond sich vor die strahlende Sonne schiebt und den lichten Tag plötzlich in Dämmerung hüllt?",
+    "options": [
+      "Sonnenfinsternis",
+      "Mondfinsternis",
+      "Totale Mondfinsternis",
+      "Abenddämmerung"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Sonnenfinsternis, bei der der Mond die Sonnenscheibe verdeckt!",
+      "wrong": "Falsch! Wenn der Mond exakt zwischen Erde und Sonne wandert."
+    }
+  },
+  {
+    "id": "rid_415",
+    "question": "Was stürzt bei heftigen Gewittern aus dunklen Sommerwolken herab und trommelt als harte Eisgeschosse auf Dächer und Felder?",
+    "options": [
+      "Hagel",
+      "Graupel",
+      "Platzregen",
+      "Reif"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Hagelkörner, die als feste Eisbälle aus Gewitterwolken prasseln!",
+      "wrong": "Falsch! Feste Eisbrocken, die bei schweren Stürmen niedergehen."
+    }
+  },
+  {
+    "id": "rid_416",
+    "question": "Welcher steinerne Eiszapfen hängt kopfüber an dunklen Höhlendecken und wächst über Jahrtausende Tropfen für Tropfen heran?",
+    "options": [
+      "Stalaktit",
+      "Stalagmit",
+      "Koralle",
+      "Eiszapfen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Stalaktit, der von der Höhlendecke nach unten wächst!",
+      "wrong": "Falsch! Eine Tropfsteinformation, die von der Decke herabhängt."
+    }
+  },
+  {
+    "id": "rid_417",
+    "question": "Welche grüne Zuflucht birgt mitten in endlosen Wüstendünen kühles Quellwasser und schattige Palmen, um durstige Reisende zu retten?",
+    "options": [
+      "Oase",
+      "Fata Morgana",
+      "Gletscher",
+      "Sumpf"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Oase, die fruchtbare Wasserstelle mitten in der Wüste!",
+      "wrong": "Falsch! Ein von Palmen gesäumter Wasserort in der Wüstensonne."
+    }
+  },
+  {
+    "id": "rid_418",
+    "question": "Welches Naturereignis bricht los, wenn der feste Boden unter unseren Füßen bebt und Mauern und Gebäude erbarmungslos erschüttert?",
+    "options": [
+      "Erdbeben",
+      "Erdrutsch",
+      "Tsunami",
+      "Taifun"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Erdbeben, das durch die Verschiebung tektonischer Platten erschüttert!",
+      "wrong": "Falsch! Eine plötzliche Erschütterung der Erdkruste."
+    }
+  },
+  {
+    "id": "rid_419",
+    "question": "Welcher wandernde Wüstenhügel besteht weder aus Fels noch Erde, sondern wandert und formt sich neu, wohin auch immer der Wind weht?",
+    "options": [
+      "Sanddüne",
+      "Vulkan",
+      "Eisberg",
+      "Hochebene"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Sanddüne, die vom Wüstenwind immer weitergetragen wird!",
+      "wrong": "Falsch! Eine gigantische Sandformation, die mit dem Wind wandert."
+    }
+  },
+  {
+    "id": "rid_420",
+    "question": "Welcher gigantische Fluss aus uraltem Eis, entstanden aus jahrtausendealtem Schnee, schleicht unmerklich talwärts und schneidet tiefe Täler in den Fels?",
+    "options": [
+      "Gletscher",
+      "Eisberg",
+      "Lawine",
+      "Fluss"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Gletscher, ein majestätischer Strom aus ewigem Eis!",
+      "wrong": "Falsch! Eine riesige Eismasse, die sich langsam talabwärts schiebt."
+    }
+  },
+  {
+    "id": "rid_421",
+    "question": "Welcher Himmelskörper aus Eis und Staub wandert durch das All und entfaltet beim Vorbeiflug an der Sonne einen langen, leuchtenden Schweif wie einen Besen?",
+    "options": [
+      "Komet",
+      "Satellit",
+      "Polarstern",
+      "Meteor"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Komet, der mit einem prächtigen Gasschweif am Himmel erstrahlt!",
+      "wrong": "Falsch! Ein eisiger Himmelskörper, der in Sonnennähe einen Schweif ausbildet."
+    }
+  },
+  {
+    "id": "rid_422",
+    "question": "Welches Seeungeheuer, ausgelöst von Erdbeben im Meeresgrund, eilt auf offener See fast unbemerkt heran, um an der Küste als riesige Wasserwand das Land zu überrollen?",
+    "options": [
+      "Tsunami",
+      "Ebbe",
+      "Wasserhose",
+      "Strudel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Tsunami, eine gewaltige Flutwelle nach einem Seebeben!",
+      "wrong": "Falsch! Eine verheerende Riesenwelle, die durch Seebeben erzeugt wird."
+    }
+  },
+  {
+    "id": "rid_423",
+    "question": "Welches Himmelsereignis geschieht, wenn der volle Mond in den Kernschatten der Erde taucht und sein Gesicht geheimnisvoll blutrot aufleuchtet?",
+    "options": [
+      "Mondfinsternis",
+      "Sonnenfinsternis",
+      "Sichelmond",
+      "Totale Sonnenfinsternis"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Mondfinsternis, die den Mond oft als kupferroten Blutmond zeigt!",
+      "wrong": "Falsch! Wenn die Erde genau zwischen Sonne und Vollmond steht."
+    }
+  },
+  {
+    "id": "rid_424",
+    "question": "Welche schwindelerregende Felsschlucht schnitt ein unermüdlicher Fluss über Jahrmillionen messerscharf in riesige rote Felsplateaus?",
+    "options": [
+      "Canyon (Schlucht)",
+      "Höhle",
+      "Krater",
+      "Sanddüne"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Canyon, eine gewaltige Schlucht, geformt von der Kraft des Wassers!",
+      "wrong": "Falsch! Eine tiefe, steilwandige Schlucht, eingeschnitten von einem Fluss."
+    }
+  },
+  {
+    "id": "rid_425",
+    "question": "Welches Naturwunder lässt im Sommer der Polarregionen die Mitternacht hell erleuchten, weil die Sonne einfach nicht unter den Horizont sinkt?",
+    "options": [
+      "Mitternachtssonne (Weiße Nächte)",
+      "Polarlicht",
+      "Abendrot",
+      "Fata Morgana"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Mitternachtssonne, die den Polarsommer 24 Stunden erhellt!",
+      "wrong": "Falsch! Das Phänomen, bei dem die Sonne selbst um Mitternacht nicht untergeht."
+    }
+  },
+  {
+    "id": "rid_426",
+    "question": "Was blüht im warmen Meer wie ein bunter Unterwassergarten für unzählige Fische, ist aber in Wahrheit eine lebende Festung aus winzigen Tierkalkskeletten?",
+    "options": [
+      "Korallenriff",
+      "Kelpwald",
+      "Schiffswrack",
+      "Unterwasserhöhle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Korallenriff, der farbenprächtige Regenwald der Ozeane!",
+      "wrong": "Falsch! Ein von Korallenpolypen erbautes Riffkalk-Bauwerk im Meer."
+    }
+  },
+  {
+    "id": "rid_427",
+    "question": "Welcher tückische Abgrund entsteht urplötzlich, wenn unterirdische Hohlräume nachgeben und Straßen und Erdreich scheinbar grundlos in die Tiefe stürzen?",
+    "options": [
+      "Doline (Erdfall / Sinkhole)",
+      "Vulkankrater",
+      "Brunnen",
+      "Höhle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Sinkhole oder Erdfall, wenn die Erde plötzlich nachgibt!",
+      "wrong": "Falsch! Ein plötzlicher Erdeinbruch infolge unterirdischer Auswaschungen."
+    }
+  },
+  {
+    "id": "rid_428",
+    "question": "Welcher tosende Sturm türmt sich am Wüstenhorizont wie eine riesige Mauer aus Sand auf und schluckt Sonne und Himmel in dichtem Wirbel?",
+    "options": [
+      "Sandsturm",
+      "Schneesturm",
+      "Gelber Staub",
+      "Nebel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Sandsturm, der wie eine gigantische Wand durch die Wüste rast!",
+      "wrong": "Falsch! Ein heftiger Wüstensturm, der gewaltige Sandmassen aufwirbelt."
+    }
+  },
+  {
+    "id": "rid_429",
+    "question": "Welches dampfende Becken friert selbst im tiefsten Bergwinter niemals ein, weil es von den geothermischen Feuern der Tiefe beheizt wird?",
+    "options": [
+      "Heiße Quelle (Thermalquelle)",
+      "Geysir",
+      "Oase",
+      "See"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Thermalquelle, deren mineralreiches Wasser aus der Tiefe wärmt!",
+      "wrong": "Falsch! Eine natürlich erwärmte Wasserquelle aus dem Erdinneren."
+    }
+  },
+  {
+    "id": "rid_430",
+    "question": "Welches Säugetier fliegt wie ein Vogel durch die Luft, hat aber keine Federn, schläft tagsüber kopfüber in Höhlen und jagt nachts mit Ultraschall?",
+    "options": [
+      "Fledermaus",
+      "Eule",
+      "Eichhörnchen",
+      "Schwalbe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Fledermaus, das einzige aktiv fliegende Säugetier!",
+      "wrong": "Falsch! Ein nachtaktives Flugtier, das kopfüber an Höhlendecken schläft."
+    }
+  },
+  {
+    "id": "rid_431",
+    "question": "Welches Reptil kann seine Augen unabhängig voneinander bewegen und passt seine Hautfarbe perfekt an Äste und Blätter an?",
+    "options": [
+      "Chamäleon",
+      "Eidechse",
+      "Frosch",
+      "Krokodil"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Chamäleon, der unbestrittene Meister der Tarnfarben!",
+      "wrong": "Falsch! Ein kletterndes Reptil, das seine Hautfarbe blitzschnell anpasst."
+    }
+  },
+  {
+    "id": "rid_432",
+    "question": "Welches fast blinde Tier gräbt sich mit kräftigen Schaufelpfoten durch das Erdreich und verbringt sein ganzes Leben in dunklen unterirdischen Gängen?",
+    "options": [
+      "Maulwurf",
+      "Igel",
+      "Dachs",
+      "Kaninchen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Maulwurf, der unermüdliche Tunnelgräber unter der Wiese!",
+      "wrong": "Falsch! Ein unter der Erde lebendes Tier mit schaufelartigen Vorderpfoten."
+    }
+  },
+  {
+    "id": "rid_433",
+    "question": "Welche Amphibie schwimmt als Kaulquappe mit Kiemen und Schwanz im Teich, verliert beides beim Heranwachsen und hüpft dann mit kräftigen Hinterbeinen umher?",
+    "options": [
+      "Frosch",
+      "Salamander",
+      "Schildkröte",
+      "Krokodil"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Frosch, der aus einer Kaulquappe zu einem geschickten Springer wird!",
+      "wrong": "Falsch! Eine Amphibie, die ihr Leben als schwimmende Kaulquappe beginnt."
+    }
+  },
+  {
+    "id": "rid_434",
+    "question": "Welches Insekt besitzt riesige Facettenaugen, steht mit vier durchsichtigen Flügeln wie ein Hubschrauber in der Luft und jagt blitzschnell Mücken?",
+    "options": [
+      "Libelle",
+      "Schmetterling",
+      "Biene",
+      "Heuschrecke"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Libelle, der meisterhafte Jäger mit vier gläsernen Flügeln!",
+      "wrong": "Falsch! Ein geschickter Flieger mit großen Augen und transparenten Flügeln."
+    }
+  },
+  {
+    "id": "rid_435",
+    "question": "Welches Insekt verbringt Jahre tief unter der Erde an Baumwurzeln, kriecht im Hochsommer empor und erfüllt die warmen Tage mit lautem Zirpen?",
+    "options": [
+      "Zikade",
+      "Grille",
+      "Gottesanbeterin",
+      "Käfer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Zikade, deren Gesang den heißen Sommer verkündet!",
+      "wrong": "Falsch! Ein Insekt, das jahrelang unter der Erde lebt und dann lautstark zirpt."
+    }
+  },
+  {
+    "id": "rid_436",
+    "question": "Welcher schleimige Süßwasserfisch mit Barteln flutscht aus jeder Hand und gräbt sich am liebsten tief in schlammigen Flussböden ein?",
+    "options": [
+      "Schmerle (Schlammpeitzger)",
+      "Wels",
+      "Karausche",
+      "Aal"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Schmerle, ein aalglatter Fisch im Bodenschlamm!",
+      "wrong": "Falsch! Ein sehr glitschiger kleiner Süßwasserfisch, der im Schlamm lebt."
+    }
+  },
+  {
+    "id": "rid_437",
+    "question": "Welches scheue Tier rollt sich bei Gefahr zu einer stacheligen Kugel zusammen und stellt tausende spitze Stacheln auf?",
+    "options": [
+      "Igel",
+      "Maulwurf",
+      "Eichhörnchen",
+      "Schildkröte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Igel, der sich zur stacheligen Wehrkugel einrollt!",
+      "wrong": "Falsch! Ein kleines Tier mit Stachelpanzer, das sich kugelig zusammenrollt."
+    }
+  },
+  {
+    "id": "rid_438",
+    "question": "Welches kleine Insekt tanzt an lauen Sommerabenden über feuchte Wiesen und blinkt mit einem kühlen, grünlichen Leuchten am Hinterleib?",
+    "options": [
+      "Glühwürmchen",
+      "Maikäfer",
+      "Mücke",
+      "Libelle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Glühwürmchen, das mit winzigen Laternen den Sommer erhellt!",
+      "wrong": "Falsch! Ein Käfer, dessen Hinterleib im Dunkeln grün leuchten kann."
+    }
+  },
+  {
+    "id": "rid_439",
+    "question": "Welcher kluge Meeresbewohner besitzt acht Fangarme mit Saugnäpfen und spuckt bei Gefahr eine tintenschwarze Wolke aus?",
+    "options": [
+      "Krake (Oktopus)",
+      "Kalmar",
+      "Qualle",
+      "Seestern"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Oktopus, der achtarmige Verwandlungskünstler des Meeres!",
+      "wrong": "Falsch! Ein intelligentes Weichtier mit acht Saugnapfarmen und Tintendrüse."
+    }
+  },
+  {
+    "id": "rid_440",
+    "question": "Aus schlichtem Kohlenstoff unter unvorstellbarer Hitze und Druck in der Tiefe geschmiedet, ist welcher glänzende Kristall der härteste Stoff der Erde?",
+    "options": [
+      "Diamant",
+      "Rubin",
+      "Glas",
+      "Graphit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Diamant, der unvergängliche König aller Edelsteine!",
+      "wrong": "Falsch! Das härteste aller bekannten natürlichen Minerale aus reinem Kohlenstoff."
+    }
+  },
+  {
+    "id": "rid_441",
+    "question": "Vor Jahrmillionen versanken urzeitliche Wälder im Erdreich und wurden zu schwarzen Steinen; welches brennbare Fossilgestein heizte die Industrie an?",
+    "options": [
+      "Kohle",
+      "Graphit",
+      "Kies",
+      "Granit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Kohle, das schwarze brennbare Sedimentgestein aus Pflanzenresten!",
+      "wrong": "Falsch! Ein brennbarer schwarzer fossiler Brennstoff aus der Erde."
+    }
+  },
+  {
+    "id": "rid_442",
+    "question": "Weder Luft noch Meerwasser lassen es rosten; welches glänzende gelbe Edelmetall gilt seit Jahrtausenden als das beständigste Symbol für Reichtum?",
+    "options": [
+      "Gold",
+      "Kupfer",
+      "Messing",
+      "Silber"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Gold, das funkelnde Edelmetall, das niemals seinen Glanz verliert!",
+      "wrong": "Falsch! Ein korrosionsbeständiges, leuchtend gelbes Edelmetall."
+    }
+  },
+  {
+    "id": "rid_443",
+    "question": "Welches weiße Edelmetall glänzt wie Mondlicht, leitet Strom und Wärme am allerbesten und lief in alten Legenden bei Berührung mit Gift dunkel an?",
+    "options": [
+      "Silber",
+      "Platin",
+      "Aluminium",
+      "Nickel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Silber, das weißglänzende Metall mit der höchsten Leitfähigkeit!",
+      "wrong": "Falsch! Ein glänzendes weißes Edelmetall, das man für Münzen und Schmuck nutzt."
+    }
+  },
+  {
+    "id": "rid_444",
+    "question": "Welches robuste Gebrauchsmetall stützt Wolkenkratzer, Schienen und Werkzeuge als Fundament der modernen Welt, blüht aber bei Feuchtigkeit in rotem Rost auf?",
+    "options": [
+      "Eisen",
+      "Kupfer",
+      "Blei",
+      "Zink"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eisen, das unentbehrliche Rückgrat unserer Technik und Architektur!",
+      "wrong": "Falsch! Das weitverbreitetste Baumetall, das an feuchter Luft rostet."
+    }
+  },
+  {
+    "id": "rid_445",
+    "question": "Rötlich-braun schimmernd leitet welches Metall Strom durch unzählige Kabel und bildet bei langer Verwitterung eine charakteristische grüne Patina?",
+    "options": [
+      "Kupfer",
+      "Eisen",
+      "Aluminium",
+      "Gold"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Kupfer, das rote Kabelmetall, dessen Dächer grün anlaufen!",
+      "wrong": "Falsch! Ein hervorragend leitendes rotbraunes Metall."
+    }
+  },
+  {
+    "id": "rid_446",
+    "question": "Welcher glasklare Quarzkristall wächst als sechseckiges Prisma heran und taktet mit feinen Schwingungen die Sekunden in modernen Armbanduhren?",
+    "options": [
+      "Bergkristall (Quarz)",
+      "Diamant",
+      "Bernstein",
+      "Perle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Bergkristall bzw. Quarz, der Taktgeber unserer Uhren!",
+      "wrong": "Falsch! Ein sechseckig kristallisiertes, glasartiges Mineral."
+    }
+  },
+  {
+    "id": "rid_447",
+    "question": "Welcher Edelstein leuchtet im tiefen, samtigen Grün uralter Wälder und war der berühmte Lieblingsstein von Königin Kleopatra?",
+    "options": [
+      "Smaragd",
+      "Saphir",
+      "Rubin",
+      "Opal"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Smaragd, das strahlende Grün unter den vier großen Edelsteinen!",
+      "wrong": "Falsch! Eine kostbare grüne Varietät des Minerals Beryll."
+    }
+  },
+  {
+    "id": "rid_448",
+    "question": "Welcher Stein zieht Eisen magisch an, stößt Seinesgleichen ab und lenkt die Nadel jedes Kompasses unweigerlich nach Norden?",
+    "options": [
+      "Magnet (Magnetstein)",
+      "Feuerstein",
+      "Kiesel",
+      "Meteorit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Magnet, der mit unsichtbaren Magnetfeldern Eisen anzieht!",
+      "wrong": "Falsch! Ein Körper mit magnetischer Polwirkung, der Eisen anzieht."
+    }
+  },
+  {
+    "id": "rid_449",
+    "question": "Aus genau demselben Kohlenstoff wie der harte Diamant bestehend, aber so weich, dass es Spuren auf Papier hinterlässt; welches Mineral bildet Bleistiftminen?",
+    "options": [
+      "Graphit",
+      "Kohle",
+      "Holzkohle",
+      "Schwefel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Graphit, der weiche Zwillingsbruder des Diamanten im Bleistift!",
+      "wrong": "Falsch! Eine weiche Schichtform des Kohlenstoffs für Schreibstifte."
+    }
+  },
+  {
+    "id": "rid_450",
+    "question": "Welches schwarz-weiß gestreifte Tier hebt bei Gefahr drohend den Schwanz und feuert ein extrem stinkendes Abwehrsekret ab?",
+    "options": [
+      "Stinktier (Skunk)",
+      "Waschbär",
+      "Wiesel",
+      "Dachs"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Stinktier, das mit beißendem Gestank jeden Feind vertreibt!",
+      "wrong": "Falsch! Ein schwarz-weißes Raubtier mit berüchtigtem Stinkdrüsensekret."
+    }
+  },
+  {
+    "id": "rid_451",
+    "question": "Mit dem Kopf eines Pferdes und dem Wickelschwanz eines Affen schwimmt welcher Fisch aufrecht, bei dem das Männchen die Jungen austrägt?",
+    "options": [
+      "Seepferdchen",
+      "Qualle",
+      "Seehund",
+      "Meeresschildkröte"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Seepferdchen, bei dem der fürsorgliche Vater die Eier ausbrütet!",
+      "wrong": "Falsch! Ein aufrecht schwimmender Fisch, dessen Männchen schwanger werden."
+    }
+  },
+  {
+    "id": "rid_452",
+    "question": "Welches gemütliche Urwaldtier hängt fast den ganzen Tag schlafend kopfüber im Baum und bewegt sich so langsam, dass Algen in seinem Fell wachsen?",
+    "options": [
+      "Faultier",
+      "Koala",
+      "Panda",
+      "Affe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Faultier, der unangefochtene Meister der Langsamkeit!",
+      "wrong": "Falsch! Ein extrem langsames Baumbewohner-Tier, auf dessen Fell Algen wachsen."
+    }
+  },
+  {
+    "id": "rid_453",
+    "question": "Als „schwarzes Gold“ bezeichnet; welche zähe dunkle Flüssigkeit aus tiefen Bohrlöchern treibt Autos und Flugzeuge an und liefert Plastik?",
+    "options": [
+      "Erdöl (Petroleum)",
+      "Kohle",
+      "Lava",
+      "Teer"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Erdöl, das flüssige schwarze Gold unserer modernen Zivilisation!",
+      "wrong": "Falsch! Ein fossiler flüssiger Energieträger, der zu Benzin verarbeitet wird."
+    }
+  },
+  {
+    "id": "rid_454",
+    "question": "Vor Jahrmillionen floss es als klebriges Baumharz herab und versteinerte zu warmem Gold; welcher Edelstein birgt oft urzeitliche Insekten?",
+    "options": [
+      "Bernstein",
+      "Rubin",
+      "Perle",
+      "Quarz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Bernstein, das versteinerte Baumharz mit goldenem Leuchten!",
+      "wrong": "Falsch! Ein fossiles Harz, in dem oft urzeitliche Mücken eingeschlossen sind."
+    }
+  },
+  {
+    "id": "rid_455",
+    "question": "Wer schaltet niemals eine Lampe ein, wirft aber unter der Sonne oder Leuchtstoffröhren stets einen blendend glänzenden Scheinwerfer-Effekt zurück?",
+    "options": [
+      "Glatzköpfiger Onkel mit glänzender Stirn",
+      "Schüler mit Händen in den Taschen",
+      "Bruder mit tiefgezogener Mütze",
+      "Freund, der Kaugummi kaut"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Onkel mit glänzender Glatze, die das Licht spiegelt!",
+      "wrong": "Falsch! Jemand, dessen glatte Stirn das Licht wie ein Spiegel reflektiert."
+    }
+  },
+  {
+    "id": "rid_456",
+    "question": "Was reißt lautlos deinen Mund weit auf und zwingt wie durch Zauberei sofort auch dein Gegenüber dazu, den Mund ebenso aufzusperren?",
+    "options": [
+      "Gähnen",
+      "Husten",
+      "Schluckauf",
+      "Lachen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Gähnen, der ansteckendste Reflex der Menschheit!",
+      "wrong": "Falsch! Ein müdes tiefes Einatmen, das sofort auf andere überspringt."
+    }
+  },
+  {
+    "id": "rid_457",
+    "question": "Kaum über die Lippen gekommen, läuft es auf eigenen Beinen davon; was ließ in Märchen die Holznase von Pinocchio wie einen Ast wachsen?",
+    "options": [
+      "Lüge",
+      "Gähnen",
+      "Seufzer",
+      "Geheimnis"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Eine Lüge, die wie Pinocchios Nase immer länger wird!",
+      "wrong": "Falsch! Eine Unwahrheit, die mit jedem Vertuschen noch größer wird."
+    }
+  },
+  {
+    "id": "rid_458",
+    "question": "Was überfällt dich ohne Vorwarnung mit rhythmischen Zuckungen im Zwerchfell und verschwindet oft erst, wenn dich jemand mit einem lauten „Buh!“ erschreckt?",
+    "options": [
+      "Schluckauf",
+      "Bäuerchen",
+      "Niesen",
+      "Schnarchen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schluckauf, den ein plötzlicher Schreck vertreiben soll!",
+      "wrong": "Falsch! Krampfiges Zwerchfellzucken, das durch Erschrecken gestoppt wird."
+    }
+  },
+  {
+    "id": "rid_459",
+    "question": "Bei welchem Ritual wächst die Zahl der Flammen mit jedem Lebensjahr, sodass man nach einem geheimen Wunsch kräftig pusten muss, um Beifall zu ernten?",
+    "options": [
+      "Geburtstagskerzen ausblasen",
+      "Luftballon aufblasen",
+      "Trillerpfeife blasen",
+      "Seifenblasen machen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Auspusten der Geburtstagskerzen nach einem stillen Wunsch!",
+      "wrong": "Falsch! Der Brauch, brennende Kerzen auf der Torte auf einmal auszublasen."
+    }
+  },
+  {
+    "id": "rid_460",
+    "question": "Welche wohltuende Bewegung lässt dich beim Aufwachen Arme und Beine von dir strecken und mit einem tiefen Seufzer alle Knochen aufwecken?",
+    "options": [
+      "Sich dehnen und strecken (Räkeln)",
+      "Laufen",
+      "Seilspringen",
+      "Tief atmen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das morgendliche Recken und Strecken im Bett!",
+      "wrong": "Falsch! Das genüssliche Ausstrecken der Glieder beim Aufwachen."
+    }
+  },
+  {
+    "id": "rid_461",
+    "question": "Welches friedliche Fingerduell ohne Waffen entscheidet weltweite Streitfragen in einer Sekunde durch Faust, flache Hand und zwei Finger?",
+    "options": [
+      "Schere, Stein, Papier",
+      "Armdrücken",
+      "Klatschen",
+      "Fingerhakeln"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Schere, Stein, Papier – das schnellste Entscheidungsspiel der Welt!",
+      "wrong": "Falsch! Ein weltweites Handspiel zur friedlichen und schnellen Entscheidung."
+    }
+  },
+  {
+    "id": "rid_462",
+    "question": "Beide Augen zu bedeutet Schlafen; welches charmante Signal schickt man aber, wenn man nur ein einziges Auge für einen Wimpernschlag zukneift?",
+    "options": [
+      "Zwinkern (Wink)",
+      "Starrwettbewerb",
+      "Gähnen",
+      "Einnicken"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Zwinkern, das neckische Augenzwinkern als geheimer Gruß!",
+      "wrong": "Falsch! Das kurze Schließen nur eines Auges als schelmisches Signal."
+    }
+  },
+  {
+    "id": "rid_463",
+    "question": "Wobei verhakt man die kleinsten und schwächsten Finger beider Hände ineinander und drückt die Daumen wie Stempel auf, um ein Ehrenwort zu besiegeln?",
+    "options": [
+      "Finger-Schwur (Pinky Promise)",
+      "Händedruck",
+      "High Five",
+      "Armdrücken"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der kleine Finger-Schwur, bei dem man die kleinen Finger verhakt!",
+      "wrong": "Falsch! Ein kindliches Versprechen, besiegelt mit den kleinen Fingern."
+    }
+  },
+  {
+    "id": "rid_464",
+    "question": "Welche Geste vollendet einen gemeinsamen Triumph erst dann, wenn zwei erhobene Handflächen hoch in der Luft laut mit einem Klatschen aufeinandertreffen?",
+    "options": [
+      "High Five",
+      "Händedruck",
+      "Applaus",
+      "Arme verschränken"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein High Five, das Abklatschen der Hände in der Luft!",
+      "wrong": "Falsch! Das fröhliche Aneinanderschlagen der erhobenen Handflächen."
+    }
+  },
+  {
+    "id": "rid_465",
+    "question": "Welcher weiße Marmorglockenturm trotzt seit Jahrhunderten der Schwerkraft, indem er sich bedrohlich zur Seite neigt, aber niemals umstürzt?",
+    "options": [
+      "Schiefer Turm von Pisa",
+      "Eiffelturm",
+      "Big Ben",
+      "Freiheitsstatue"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Schiefe Turm von Pisa, das berühmte Wunder der Neigung!",
+      "wrong": "Falsch! Der weltbekannte freistehende Glockenturm in Italien mit starker Schieflage."
+    }
+  },
+  {
+    "id": "rid_466",
+    "question": "Welche gewaltige Festungsmauer windet sich wie ein riesiger Drache über tausende Kilometer felsiger Bergkämme, um ein altes Reich zu schützen?",
+    "options": [
+      "Chinesische Mauer",
+      "Berliner Mauer",
+      "Pyramiden",
+      "Kolosseum"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Chinesische Mauer, das längste Bauwerk der Menschheit!",
+      "wrong": "Falsch! Die historische Grenzbefestigung, die sich über Gebirgskämme in China zieht."
+    }
+  },
+  {
+    "id": "rid_467",
+    "question": "Einst als hässliches Eisenungetüm verspottet, ist welcher riesige Fachwerkturm heute das romantische Wahrzeichen über den Dächern von Paris?",
+    "options": [
+      "Eiffelturm",
+      "Tokyo Tower",
+      "Schiefer Turm von Pisa",
+      "Empire State Building"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Eiffelturm, die eiserne Dame über der Seine in Paris!",
+      "wrong": "Falsch! Der berühmte eiserne Gitterturm an der Seine in Frankreich."
+    }
+  },
+  {
+    "id": "rid_468",
+    "question": "Aus Millionen kolossaler Steinblöcke wie steinerne Berge in der Wüste aufgetürmt, dienten welche Bauten den Pharaonen als ewige Grabmäler?",
+    "options": [
+      "Pyramiden von Gizeh",
+      "Sphinx",
+      "Parthenon",
+      "Taj Mahal"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Pyramiden, die monumentalen Monumente der Pharaonen!",
+      "wrong": "Falsch! Die monumentalen Bauwerke mit quadratischer Grundfläche im alten Ägypten."
+    }
+  },
+  {
+    "id": "rid_469",
+    "question": "In welchem kolossalen Amphitheater Roms jubelten einst Zehntausende Zuschauer blutigen Kämpfen von Gladiatoren und wilden Tieren zu?",
+    "options": [
+      "Kolosseum",
+      "Triumphbogen",
+      "Schiefer Turm von Pisa",
+      "Schloss Versailles"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Kolosseum, die gewaltige antike Arena im Herzen Roms!",
+      "wrong": "Falsch! Das größte erbaute Amphitheater der Welt im antiken Rom."
+    }
+  },
+  {
+    "id": "rid_470",
+    "question": "Welcher „König der Instrumente“ grinst mit achtundachtzig schwarzen und weißen Zähnen und singt reiche Akkorde, wenn Finger über die Tasten tanzen?",
+    "options": [
+      "Klavier (Flügel)",
+      "Geige",
+      "Schlagzeug",
+      "Harfe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Klavier mit seinen 88 Tasten und unendlichen Harmonien!",
+      "wrong": "Falsch! Ein großes Tasteninstrument mit Saiten, die durch Hämmer angeschlagen werden."
+    }
+  },
+  {
+    "id": "rid_471",
+    "question": "Sanft unters Kinn geklemmt und mit einem Rosshaarbogen gestrichen; welches viersaitige Holzkorpus-Instrument singt wie eine menschliche Stimme?",
+    "options": [
+      "Violine (Geige)",
+      "Gitarre",
+      "Cello",
+      "Ukulele"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Geige, die Königin der gefühlvollen Töne!",
+      "wrong": "Falsch! Ein vier-saitiges Streichinstrument, das unters Kinn gelegt wird."
+    }
+  },
+  {
+    "id": "rid_472",
+    "question": "Mit Holzstöcken verprügelt und mit den Füßen getreten, treibt welches Schlagwerk den Puls der Musik mit donnerndem Beat an?",
+    "options": [
+      "Schlagzeug (Drums)",
+      "Klavier",
+      "Querflöte",
+      "Trompete"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Schlagzeug, der pochende Puls jeder Band!",
+      "wrong": "Falsch! Ein Rhythmusinstrument, das mit Trommelstöcken geschlagen wird."
+    }
+  },
+  {
+    "id": "rid_473",
+    "question": "Eng an den Körper geschmiegt mit schlanker Taille; welches sechssaitige Zupfinstrument verzaubert Nächte am Lagerfeuer?",
+    "options": [
+      "Gitarre",
+      "Violine",
+      "Harfe",
+      "Kontrabass"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Gitarre, das beliebteste Lagerfeuer-Begleitinstrument!",
+      "wrong": "Falsch! Ein sechssaitiges Saiteninstrument, das gezupft oder geschlagen wird."
+    }
+  },
+  {
+    "id": "rid_474",
+    "question": "Passt in jede Hosentasche; welches kleine silbrige Blasinstrument ertönt sowohl beim Einatmen als auch beim Ausatmen der Lippen?",
+    "options": [
+      "Mundharmonika",
+      "Okarina",
+      "Blockflöte",
+      "Trompete"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Mundharmonika, die auf Zug und Druck Musik macht!",
+      "wrong": "Falsch! Ein kleines Tascheninstrument, das durch Blasen und Saugen klingt."
+    }
+  },
+  {
+    "id": "rid_475",
+    "question": "Bei Milliarden Menschen kein einziges Mal identisch; welches Wirbelmuster auf deinen Fingerkuppen dient als dein unverwechselbarer Ausweis?",
+    "options": [
+      "Fingerabdruck",
+      "Fingernagel",
+      "Handrücken",
+      "Handlinie"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Fingerabdruck, das einzigartige Siegel der Natur auf deinen Händen!",
+      "wrong": "Falsch! Das unverwechselbare Papillarlinienmuster an den Fingerbeeren."
+    }
+  },
+  {
+    "id": "rid_476",
+    "question": "Aus zweihundertsechs harten weißen Pfeilern geformt; welches Skelettgerüst sorgt dafür, dass dein weicher Körper aufrecht stehen kann?",
+    "options": [
+      "Knochen (Skelett)",
+      "Muskeln",
+      "Blutgefäße",
+      "Haut"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Knochen, 206 stabile Pfeiler unseres Körpers!",
+      "wrong": "Falsch! Das feste Stützgerüst des menschlichen Körpers aus 206 Einzelteilen."
+    }
+  },
+  {
+    "id": "rid_477",
+    "question": "Was quillt bei tiefster Trauer ebenso wie bei unbändigem Freudenlachen aus den Augenwinkeln und wäscht die Seele rein?",
+    "options": [
+      "Tränen",
+      "Schweiß",
+      "Speichel",
+      "Regentropfen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Tränen, die salzigen Perlen von Weinen und Lachen!",
+      "wrong": "Falsch! Die salzigen Flüssigkeitströpfchen aus den Tränendrüsen."
+    }
+  },
+  {
+    "id": "rid_478",
+    "question": "In dem Moment entstanden, als die Nabelschnur zur Mutter durchtrennt wurde; welches kleine Grübchen ziert die Mitte unseres Bauches?",
+    "options": [
+      "Bauchnabel",
+      "Muttermal",
+      "Narbe",
+      "Rippe"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Bauchnabel, die Erinnerung an unsere allererste Verbindung!",
+      "wrong": "Falsch! Die runde Narbe in der Mitte des Bauchs nach dem Abnabeln."
+    }
+  },
+  {
+    "id": "rid_479",
+    "question": "Wie eine runzelige Walnuss im Schädel geschützt; welche oberste Schaltzentrale lenkt jeden Gedanken, jede Erinnerung und jeden Atemzug?",
+    "options": [
+      "Gehirn",
+      "Herz",
+      "Lunge",
+      "Magen"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Das Gehirn, die geniale Schaltzentrale des menschlichen Seins!",
+      "wrong": "Falsch! Das im Schädel liegende Steuerorgan des zentralen Nervensystems."
+    }
+  },
+  {
+    "id": "rid_480",
+    "question": "Welcher Graf schläft tagsüber im Sarg, flattert nachts als Fledermaus umher und meidet Knoblauch, Kruzifixe und das Sonnenlicht wie die Pest?",
+    "options": [
+      "Graf Dracula (Vampir)",
+      "Werwolf",
+      "Mumie",
+      "Zombie"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Graf Dracula, der unsterbliche Blutsauger der Finsternis!",
+      "wrong": "Falsch! Der legendäre Vampirgraf aus Transsilvanien, der nach Blut dürstet."
+    }
+  },
+  {
+    "id": "rid_481",
+    "question": "Aus Leichenteilen zusammengenäht und durch einen Blitzschlag zum Leben erweckt; welches einsame Wesen wurde von den Menschen verstoßen?",
+    "options": [
+      "Frankensteins Monster",
+      "Golem",
+      "Mumie",
+      "Zyklop"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Frankensteins Monster, die tragische Schöpfung aus Wissenschaft und Blitz!",
+      "wrong": "Falsch! Das künstlich erschaffene Wesen aus Mary Shelleys berühmtem Roman."
+    }
+  },
+  {
+    "id": "rid_482",
+    "question": "Welcher uralte Herrscher entsteigt nach Jahrtausenden im Sarkophag seinem Wüstengrab, komplett in staubige Leinenbinden gewickelt?",
+    "options": [
+      "Mumie",
+      "Skelett",
+      "Zombie",
+      "Gespenst"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Die Mumie, der bandagierte Schrecken aus den Pyramiden!",
+      "wrong": "Falsch! Ein künstlich einbalsamierter, in Binden gewickelter toter Körper."
+    }
+  },
+  {
+    "id": "rid_483",
+    "question": "Tagsüber ein gewöhnlicher Mensch; welches verfluchte Wesen verwandelt sich beim Aufgehen des Vollmondes in ein zähnefletschendes Raubtier?",
+    "options": [
+      "Werwolf (Lykanthrop)",
+      "Dracula",
+      "Neunschwänziger Fuchs",
+      "Yeti"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Werwolf, der bei Vollmond im Mondlicht heult!",
+      "wrong": "Falsch! Ein Mensch, der sich bei Vollmond mythologisch in einen Wolf verwandelt."
+    }
+  },
+  {
+    "id": "rid_484",
+    "question": "Ohne Verstand, ohne Seele und nur getrieben vom Hunger nach Lebenden; welche schlurfende Masse wandelnder Toter bedroht die Welt?",
+    "options": [
+      "Zombie (Untoter)",
+      "Jiangshi",
+      "Skelettkrieger",
+      "Frankenstein"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Zombie, der wandelnde Tote ohne eigenen Willen!",
+      "wrong": "Falsch! Ein willenloser, wiederauferstandener Toter, der Menschen jagt."
+    }
+  },
+  {
+    "id": "rid_485",
+    "question": "In ein weißes Trauerkleid gehüllt und mit langem, das Gesicht verdeckenden schwarzen Haar; welcher rachsüchtige Geist schwebt durch koreanische Legenden?",
+    "options": [
+      "Cheonyeo Gwishin (Koreanischer weißer Geist)",
+      "Neunschwänziger Fuchs",
+      "Sensenmann",
+      "Wassergeist"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Cheonyeo Gwishin, der legendäre weißgekleidete Geist Koreas!",
+      "wrong": "Falsch! Der traditionelle rachsüchtige Geist in weißer Trauerkleidung aus Korea."
+    }
+  },
+  {
+    "id": "rid_486",
+    "question": "Welcher hüpfende Vampir der chinesischen Folklore trägt ein historisches Beamtengewand, einen gelben Zettel auf der Stirn und streckt die Arme steif nach vorn?",
+    "options": [
+      "Jiangshi (Hüpfender Vampir)",
+      "Goblin",
+      "Zombie",
+      "Mumie"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Jiangshi, der hüpfende chinesische Untote mit gelbem Talisman!",
+      "wrong": "Falsch! Der steif vorwärts hüpfende Leichnam mit Talisman auf der Stirn."
+    }
+  },
+  {
+    "id": "rid_487",
+    "question": "Er hinterlässt Spuren im Schnee und atmet vor dir, doch sobald er seine Kleidung ablegt, wird er für das menschliche Auge vollkommen unsichtbar?",
+    "options": [
+      "Der Unsichtbare (Invisible Man)",
+      "Geist",
+      "Schatten",
+      "Kobold"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Unsichtbare, der ohne Kleidung völlig ungesehen bleibt!",
+      "wrong": "Falsch! Eine Romanfigur, deren Körper für Lichtstrahlen völlig durchlässig ist."
+    }
+  },
+  {
+    "id": "rid_488",
+    "question": "In eine weite schwarze Kapuzenrobe gehüllt und mit einer gewaltigen Sense bewaffnet; welcher knöcherne Bote kommt, um Seelen ins Jenseits zu ernten?",
+    "options": [
+      "Gevatter Tod (Sensenmann / Grim Reaper)",
+      "König Yama",
+      "Hades",
+      "Amor (Cupido)"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Sensenmann, der unerbittliche Schnitter der Seelen!",
+      "wrong": "Falsch! Die Personifikation des Todes als Kapuzengestalt mit Sense."
+    }
+  },
+  {
+    "id": "rid_489",
+    "question": "Kein lebender Seemann an Bord; welches verfluchte Segelschiff gleitet mit zerfetzten Segeln wie der Fliegende Holländer ewig durch neblige Stürme?",
+    "options": [
+      "Geisterschiff (Fliegender Holländer)",
+      "Schiffswrack",
+      "U-Boot",
+      "Segelboot"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Ein Geisterschiff, das ruhelos durch die stürmischen Meere kreuzt!",
+      "wrong": "Falsch! Ein sagenumwobenes verfluchtes Segelschiff ohne lebendige Besatzung."
+    }
+  },
+  {
+    "id": "rid_490",
+    "question": "Mit Flügeln wie ein schelmischer kleiner Engel und einem goldenen Bogen bewaffnet; welcher Gott der Liebe lässt jeden getroffenen Menschen unsterblich verlieben?",
+    "options": [
+      "Amor (Cupido)",
+      "Sensenmann",
+      "Hermes",
+      "Fee"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Amor (Cupido), der geflügelte Liebesgott mit Pfeil und Bogen!",
+      "wrong": "Falsch! Der römische Gott der Liebe, der Liebespfeile verschießt."
+    }
+  },
+  {
+    "id": "rid_491",
+    "question": "Im Zwergenreich ein riesiger Koloss, im Reich der Riesen jedoch winzig auf einer Handfläche getragen; welcher englische Reisende erlebte diese Wunder?",
+    "options": [
+      "Lemuel Gulliver",
+      "Robinson Crusoe",
+      "Sindbad",
+      "Peter Pan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Gulliver, der Reisende nach Liliput und Brobdingnag!",
+      "wrong": "Falsch! Der Seefahrer aus Jonathan Swifts berühmtem satirischen Roman."
+    }
+  },
+  {
+    "id": "rid_492",
+    "question": "Wer rieb nur an einer verstaubten alten Öllampe, woraufhin ein mächtiger Dschinni erschien, um ihm drei fantastische Wünsche zu erfüllen?",
+    "options": [
+      "Aladdin",
+      "Ali Baba",
+      "Sindbad",
+      "Der kleine Prinz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Aladdin, der Meister der Wunderlampe und des fliegenden Teppichs!",
+      "wrong": "Falsch! Der schlaue Jüngling aus Tausendundeiner Nacht mit der magischen Lampe."
+    }
+  },
+  {
+    "id": "rid_493",
+    "question": "Welcher berühmte Schiffbrüchige überlebte achtundzwanzig einsame Jahre auf einer abgelegenen Insel und nannte seinen treuen Gefährten „Freitag“?",
+    "options": [
+      "Robinson Crusoe",
+      "Gulliver",
+      "Tom Sawyer",
+      "Kapitän Nemo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Robinson Crusoe, der berühmteste Überlebenskünstler der Weltliteratur!",
+      "wrong": "Falsch! Der gestrandete Seefahrer aus Daniel Defoes weltberühmtem Roman."
+    }
+  },
+  {
+    "id": "rid_494",
+    "question": "Von Ritterromanen verzaubert; welcher verschrobene Ritter hält Windmühlen für böse Riesen und attackiert sie tollkühn mit eingelegter Lanze?",
+    "options": [
+      "Don Quijote",
+      "Robin Hood",
+      "König Artus",
+      "D’Artagnan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Don Quijote, der edle Ritter von der traurigen Gestalt!",
+      "wrong": "Falsch! Der weltfremde spanische Junker, der gegen Windmühlenflügel kämpfte."
+    }
+  },
+  {
+    "id": "rid_495",
+    "question": "Im Dschungel von einem Wolfsrudel aufgezogen; welches Menschenkind lernt vom Bären Balu das Gesetz der Wildnis und trotzt dem Tiger Shir Khan?",
+    "options": [
+      "Mogli",
+      "Tarzan",
+      "Peter Pan",
+      "Herkules"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Mogli, das berühmte Menschenkind aus Rudyard Kiplings Dschungelbuch!",
+      "wrong": "Falsch! Der Junge, der im indischen Dschungel unter Tieren aufwuchs."
+    }
+  },
+  {
+    "id": "rid_496",
+    "question": "In einem turmhohen Versteck ohne Tür oder Treppe eingesperrt; welche Schöne ließ ihr endlos langes goldenes Haar als Strickleiter herab?",
+    "options": [
+      "Rapunzel",
+      "Aschenputtel",
+      "Dornröschen",
+      "Die kleine Meerjungfrau"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Rapunzel, die ihr langes Haar aus dem hohen Fenster herabließ!",
+      "wrong": "Falsch! Das Mädchen aus dem Grimm-Märchen, das sein Haar als Leiter benutzte."
+    }
+  },
+  {
+    "id": "rid_497",
+    "question": "Mit Pfeife im Mund und Deerstalker-Mütze auf dem Kopf; welches Genie aus der Baker Street 221B löst unlösbare Rätsel durch reine Beobachtung und Logik?",
+    "options": [
+      "Sherlock Holmes",
+      "Arsène Lupin",
+      "Hercule Poirot",
+      "Dr. Watson"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Sherlock Holmes, der berühmteste Meisterdetektiv der Welt!",
+      "wrong": "Falsch! Der legendäre Detektiv aus der Londoner Baker Street von Arthur Conan Doyle."
+    }
+  },
+  {
+    "id": "rid_498",
+    "question": "Welcher schlaue Kater stolziert mit schicken Lederstiefeln umher und verhalf seinem armen Müllerssohn mit List und Verstand zu Ruhm und Schloss?",
+    "options": [
+      "Der gestiefelte Kater",
+      "Bremer Stadtmusikanten",
+      "Grinsekatze",
+      "Peter Hase"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der gestiefelte Kater, der cleverste Kater der Märchenwelt!",
+      "wrong": "Falsch! Die schlaue Katze aus Charles Perraults Märchen mit hohen Lederstiefeln."
+    }
+  },
+  {
+    "id": "rid_499",
+    "question": "In Lincoln-Grün gekleidet lauerte welcher meisterhafte Bogenschütze im Sherwood Forest, um von den reichen Ausbeutern zu nehmen und den Armen zu geben?",
+    "options": [
+      "Robin Hood",
+      "Wilhelm Tell",
+      "Don Quijote",
+      "Die drei Musketiere"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Robin Hood, der edle Rächer der Enterbten im Sherwood Forest!",
+      "wrong": "Falsch! Der legendäre englische Freiheitsheld und Bogenschütze aus dem Wald."
+    }
+  },
+  {
+    "id": "rid_500",
+    "question": "Wegen eines gestohlenen Laibs Brot für seine hungernde Familie neunzehn Jahre eingesperrt; wen verwandelte die Barmherzigkeit silberner Leuchter in einen Heiligen?",
+    "options": [
+      "Jean Valjean",
+      "Graf von Monte Christo",
+      "Oliver Twist",
+      "Quasimodo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Jean Valjean aus Les Misérables, erlöst durch Nächstenliebe!",
+      "wrong": "Falsch! Der Sträfling Nummer 24601 aus Victor Hugos Meisterwerk."
+    }
+  },
+  {
+    "id": "rid_501",
+    "question": "Welcher Junge weigert sich für immer, erwachsen zu werden, streut Feenstaub und fliegt durch die Sternennacht ins Nimmerland?",
+    "options": [
+      "Peter Pan",
+      "Pinocchio",
+      "Aladdin",
+      "Der kleine Prinz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Peter Pan, der Junge, der niemals erwachsen wird!",
+      "wrong": "Falsch! Der fliegende Junge im grünen Gewand aus J.M. Barries Erzählung."
+    }
+  },
+  {
+    "id": "rid_502",
+    "question": "Auf der Suche nach dem wahren Glück durchreisen zwei Kinder Traumwelten; welcher blaue Vogel saß am Ende die ganze Zeit daheim im eigenen Käfig?",
+    "options": [
+      "Der Blaue Vogel",
+      "Phönix",
+      "Taube",
+      "Elster"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Blaue Vogel, das zeitlose Symbol für das Glück im eigenen Heim!",
+      "wrong": "Falsch! Der mythische Vogel des Glücks aus Maurice Maeterlincks Meisterwerk."
+    }
+  },
+  {
+    "id": "rid_503",
+    "question": "Mit Bratpfannen und Mausefallen jagen sie sich durchs Haus, können aber nicht ohneeinander leben; wer ist das berühmteste Katze-und-Maus-Duo der Welt?",
+    "options": [
+      "Tom und Jerry",
+      "Batman und Robin",
+      "Holmes und Watson",
+      "Asterix und Obelix"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Tom und Jerry, das unverwüstliche Zeichentrick-Duo aller Zeiten!",
+      "wrong": "Falsch! Der graue Kater und die freche braune Maus aus den Kult-Cartoons."
+    }
+  },
+  {
+    "id": "rid_504",
+    "question": "Wer reist an Heiligabend mit einem Rentierschlitten durch die Nacht und rutscht durch den Kamin, um artigen Kindern Geschenke zu bringen?",
+    "options": [
+      "Weihnachtsmann",
+      "Rudolph",
+      "Weihnachtself",
+      "Nussknacker"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Mit rotem Mantel und einem herzlichen 'Ho ho ho' ist es der Weihnachtsmann!",
+      "wrong": "Falsch! Gesucht ist der weißbärtige Geschenkebringer der Heiligen Nacht."
+    }
+  },
+  {
+    "id": "rid_505",
+    "question": "Welcher gigantische Riesenaffe herrschte über Skull Island und erklomm in New York das Empire State Building, um Kampfflugzeuge abzuwehren?",
+    "options": [
+      "King Kong",
+      "Godzilla",
+      "Tarzan",
+      "Bigfoot"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der legendäre Riesenaffe auf der Spitze des Wolkenkratzers ist King Kong!",
+      "wrong": "Falsch! Gesucht ist der berühmte Riesen-Gorilla hoch über New Yorks Dächern."
+    }
+  },
+  {
+    "id": "rid_506",
+    "question": "Welcher blondhaarige Junge lebte auf Asteroid B-612, pflegte eine stolze Rose und begegnete nach einer Reise durchs All einem Piloten in der Sahara?",
+    "options": [
+      "Der kleine Prinz",
+      "Peter Pan",
+      "Pinocchio",
+      "Aladdin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! 'Man sieht nur mit dem Herzen gut' – es ist Der kleine Prinz!",
+      "wrong": "Falsch! Gesucht ist der zarte Sternenreisende von Antoine de Saint-Exupéry."
+    }
+  },
+  {
+    "id": "rid_507",
+    "question": "Welcher Seefahrer aus 'Tausendundeine Nacht' unternahm sieben abenteuerliche Reisen, traf auf den Riesenvogel Roch und hielt einen Wal für eine Insel?",
+    "options": [
+      "Sindbad der Seefahrer",
+      "Robinson Crusoe",
+      "Gulliver",
+      "Peter Pan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der mutige Kaufmann und Seefahrer der Weltmeere ist Sindbad der Seefahrer!",
+      "wrong": "Falsch! Gesucht ist der legendäre Seefahrer aus den orientalischen Märchen."
+    }
+  },
+  {
+    "id": "rid_508",
+    "question": "Wer zog das magische Schwert Excalibur aus dem Felsen, um König zu werden, und versammelte die 'Ritter der Tafelrunde' auf Schloss Camelot?",
+    "options": [
+      "König Artus",
+      "Robin Hood",
+      "Don Quijote",
+      "Alexander der Große"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Der Träger von Excalibur und Schöpfer der edlen Tafelrunde ist König Artus!",
+      "wrong": "Falsch! Gesucht ist der berühmte mythische Herrscher von Camelot."
+    }
+  },
+  {
+    "id": "rid_509",
+    "question": "Welches neunjährige Mädchen mit roten Zöpfen, Sommersprossen und ungleichen Kniestrümpfen besitzt Bärenkräfte und kann sogar ein Pferd hochheben?",
+    "options": [
+      "Pippi Langstrumpf",
+      "Anne auf Green Gables",
+      "Sara Crewe",
+      "Dorothy Gale"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Sie wohnt in der Villa Kunterbunt mit Herrn Nilsson: Pippi Langstrumpf!",
+      "wrong": "Falsch! Gesucht ist das stärkste Mädchen der Welt mit den langen bunten Strümpfen."
+    }
+  },
+  {
+    "id": "rid_510",
+    "question": "Welche kleinen blauen Wesen leben in Pilzhäusern tief im Wald und vereiteln immer wieder die finsteren Pläne des Zauberers Gargamel?",
+    "options": [
+      "Die Schlümpfe",
+      "Minions",
+      "Teletubbies",
+      "Trolle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Unter Führung von Papa Schlumpf leben Die Schlümpfe im Pilzdorf!",
+      "wrong": "Falsch! Gesucht sind die kleinen blauen Waldbewohner, die Gargamel ärgern."
+    }
+  },
+  {
+    "id": "rid_511",
+    "question": "Welches Tierchen wurde im Hof verspottet, weil es grau und ungelenk war, bis es nach einem harten Winter feststellte, dass es ein wunderschöner Schwan geworden war?",
+    "options": [
+      "Das hässliche Entlein",
+      "Der blaue Vogel",
+      "Nils Holgersson",
+      "Der gestiefelte Kater"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! Andersens rührende Geschichte erzählt vom hässlichen Entlein!",
+      "wrong": "Falsch! Gesucht ist das kleine Geschöpf, das zum stolzen Schwan heranwuchs."
+    }
+  },
+  {
+    "id": "rid_512",
+    "question": "Welcher geniale Oberschülerdetektiv wurde durch ein Gift in ein Grundschulkind verwandelt und löst nun Fälle mit einer Betäubungsuhr und einer Stimmenverzerrer-Fliege?",
+    "options": [
+      "Detektiv Conan (Shin’ichi Kudō)",
+      "Sherlock Holmes",
+      "Hercule Poirot",
+      "Arsène Lupin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! 'Es gibt immer nur eine Wahrheit!' – das ist Detektiv Conan!",
+      "wrong": "Falsch! Gesucht ist der geschrumpfte Meisterdetektiv mit Brille und Fliege."
+    }
+  },
+  {
+    "id": "rid_513",
+    "question": "Welches Mädchen wurde von einem Wirbelsturm nach Oz getragen und folgte mit Vogelscheuche, Blechmann und feigem Löwen der gelben Steinstraße zur Smaragdstadt?",
+    "options": [
+      "Dorothy Gale",
+      "Alice",
+      "Anne Shirley",
+      "Wendy Darling"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Richtig! 'Nirgendwo ist es schöner als zu Hause' – es ist Dorothy aus dem Zauberer von Oz!",
+      "wrong": "Falsch! Gesucht ist das mutige Mädchen aus Kansas mit den roten Zauberschuhen."
     }
   }
 ]

@@ -828,20 +828,20 @@
     "id": "rid_048"
   },
   {
-    "question": "Which mountain wears a different face in every season?",
+    "question": "Which mountain sleeps quietly most of the time, but spews fiery lava and red-hot ash high into the sky when it erupts?",
     "options": [
-      "Hallasan",
-      "Seoraksan",
-      "Jirisan",
-      "Geumgangsan"
+      "Volcano",
+      "Iceberg",
+      "Sand dune",
+      "Waterfall"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Correct! 'Geumgangsan after a meal!' — a mountain of four thousand faces!",
-      "wrong": "Nope! Four seasons, four faces — which mountain?"
+      "correct": "Correct! It is a fierce volcano spewing blazing magma from deep underground!",
+      "wrong": "Wrong! It is a mountain that erupts with roaring fire and molten rock."
     },
     "id": "rid_049"
   },
@@ -2682,20 +2682,20 @@
     "id": "rid_155"
   },
   {
-    "question": "Who wears a black hat and robe, escorting souls away?",
+    "question": "In Greek myth, which ferryman carries the souls of the dead across the river to the underworld?",
     "options": [
-      "King Yama",
-      "Mountain God",
-      "Jade Emperor",
-      "Grim Reaper"
+      "Charon",
+      "Grim Reaper",
+      "Hades",
+      "Cupid"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
     "kkaebi_reaction": {
-      "correct": "Correct! The reaper escorts souls to the afterlife!",
-      "wrong": "Nope! The being who takes souls to the afterlife!"
+      "correct": "Kahaha! The ferryman who carries souls across is the true guide of the dead!",
+      "wrong": "Nope! The ferryman rows souls across the river!"
     },
     "id": "rid_156"
   },
@@ -4914,11 +4914,11 @@
     "id": "rid_279"
   },
   {
-    "question": "Press too hard and it snaps its own back and goes on strike. What am I?",
+    "question": "What is thin and sharp, snapping at the waist if you press down just a little too hard when writing?",
     "options": [
       "Pencil lead",
       "Mechanical pencil lead",
-      "Pen refill",
+      "Ballpoint refill",
       "Crayon"
     ],
     "answer_index": 1,
@@ -4926,8 +4926,8 @@
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Correct! It always breaks during the exam.",
-      "wrong": "Nope! It is the thin lead inside a mechanical pencil."
+      "correct": "Correct! Mechanical pencil lead snaps if pressed with too much force.",
+      "wrong": "Wrong! It is the thin graphite refill inserted into a mechanical pencil."
     },
     "id": "rid_280"
   },
@@ -5166,20 +5166,20 @@
     "id": "rid_293"
   },
   {
-    "question": "You hit it back and forth until it lodges in the gym ceiling frame. What am I?",
+    "question": "What stays quiet when resting, but when swung by two handles, whips beneath your feet and makes you keep jumping?",
     "options": [
-      "Shuttlecock",
-      "Ping-pong ball",
-      "Racket",
-      "Ball"
+      "Jump rope",
+      "Coffee cup",
+      "Whistle",
+      "Vaulting horse"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
     "kkaebi_reaction": {
-      "correct": "Correct! A shuttlecock ends up somewhere unreachable.",
-      "wrong": "Nope! It is the feathered ball you hit in badminton."
+      "correct": "Correct! It is a jump rope that spins fast for leaping.",
+      "wrong": "Wrong! It is exercise equipment held by two handles and jumped over."
     },
     "id": "rid_294"
   },
@@ -6499,20 +6499,20 @@
   },
   {
     "id": "rid_390",
-    "question": "What cord rests still when untouched, but draws circles under feet and over head making you leap when swung by two handles?",
+    "question": "What is the round plastic hoop that stays spinning around your waist and will not fall to the floor only as long as you keep wiggling?",
     "options": [
-      "Jump Rope",
-      "Clothesline",
-      "Fishing Line",
-      "Kite String"
+      "Hula hoop",
+      "Jump rope",
+      "Boomerang",
+      "Yo-yo"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
-    "category": "daily",
+    "category": "sports",
     "kkaebi_reaction": {
-      "correct": "Correct! If your foot catches the whipping rope, you'll feel a sharp snap!",
-      "wrong": "Wrong! A long cord gripped in both hands that slaps the floor in jumping exercises."
+      "correct": "Correct! It is a hula hoop spun by wiggling the hips.",
+      "wrong": "Wrong! It is the round exercise hoop you spin around your waist."
     }
   },
   {
@@ -6661,20 +6661,20 @@
   },
   {
     "id": "rid_399",
-    "question": "What round bowl holds no water within its own clay, yet cradles freshly boiled stew to quietly preserve the hearth's warmth?",
+    "question": "What traditional earthenware pot keeps bubbling stews piping hot at the dining table for a long time without cooling quickly?",
     "options": [
-      "Earthen Pot",
-      "Cutting Board",
-      "Paddle",
-      "Tray"
+      "Earthenware pot",
+      "Glass bowl",
+      "Aluminum pot",
+      "Plate"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Correct! The clay pot baked in kiln fire, keeping simmering stew bubbling warm to the last spoonful!",
-      "wrong": "Wrong! A rustic earthenware bowl that cools slowly to brew rich, deep broths."
+      "correct": "Correct! It is an earthenware pot that holds heat to keep stews hot.",
+      "wrong": "Wrong! It is a rustic clay pot designed to retain heat for a long time."
     }
   },
   {
@@ -6801,6 +6801,1932 @@
     "kkaebi_reaction": {
       "correct": "Correct! The keen arrow slicing the wind off the bowstring to pierce the bullseye!",
       "wrong": "Wrong! A missile fletched with feathers drawn and shot from a bowstring."
+    }
+  },
+  {
+    "id": "rid_407",
+    "question": "What holds a round pea inside its small body, and when blown hard, shrieks sharply to bring everyone to a sudden halt?",
+    "options": [
+      "Whistle",
+      "Coffee cup",
+      "Volleyball",
+      "Stopwatch"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a whistle blown to make a sharp sound.",
+      "wrong": "Wrong! It is the whistle a referee blows into to halt play."
+    }
+  },
+  {
+    "id": "rid_408",
+    "question": "What wears red and black rubber on both sides, bouncing a tiny white ball back and forth across a table?",
+    "options": [
+      "Table tennis racket",
+      "Coffee cup",
+      "Sneakers",
+      "Net"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "sports",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a table tennis racket hitting the small ball.",
+      "wrong": "Wrong! It is the paddle with rubber on both sides used for ping-pong."
+    }
+  },
+  {
+    "id": "rid_409",
+    "question": "Which giant shows only its white cap above the blue sea, keeping nine-tenths of its massive body hidden beneath the waves?",
+    "options": [
+      "Iceberg",
+      "Volcano",
+      "Submarine",
+      "Coral reef"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an iceberg floating with most of its giant bulk hidden underwater!",
+      "wrong": "Wrong! It is a massive block of ice showing only its tip above the ocean."
+    }
+  },
+  {
+    "id": "rid_410",
+    "question": "Which mysterious light dances silently in the freezing polar night sky, swaying like silky curtains of green and violet?",
+    "options": [
+      "Aurora",
+      "Rainbow",
+      "Lightning",
+      "Sunset glow"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the aurora, a magical curtain of light draping polar skies!",
+      "wrong": "Wrong! It is the dancing celestial light seen in polar night skies."
+    }
+  },
+  {
+    "id": "rid_411",
+    "question": "Which trick of light beckons on hot deserts or highways like a shimmering pool of water, only to vanish into thin air as you approach?",
+    "options": [
+      "Mirage",
+      "Shadow",
+      "Rainbow",
+      "Fog"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a mirage, an optical illusion formed by bent light rays!",
+      "wrong": "Wrong! It is the desert trick of light that disappears when you draw near."
+    }
+  },
+  {
+    "id": "rid_412",
+    "question": "Which terrifying vortex spins like a giant spinning top between sky and earth, sucking everything in its path up into the clouds?",
+    "options": [
+      "Tornado",
+      "Sand dune",
+      "Earthquake",
+      "Tsunami"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a tornado, a violent twisting funnel of howling wind!",
+      "wrong": "Wrong! It is the devastating vortex connecting thunderstorm and ground."
+    }
+  },
+  {
+    "id": "rid_413",
+    "question": "Which natural spring rests quietly until underground pressure boils over, erupting a towering column of scalding steam and water on schedule?",
+    "options": [
+      "Geyser",
+      "Waterfall",
+      "Oasis",
+      "Mineral spring"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a geyser blasting boiling water high into the sky!",
+      "wrong": "Wrong! It is a thermal spring that periodically erupts columns of hot water."
+    }
+  },
+  {
+    "id": "rid_414",
+    "question": "What celestial phenomenon occurs when the dark new moon creeps in front of the sun, devouring daylight and turning midday into twilight?",
+    "options": [
+      "Solar eclipse",
+      "Lunar eclipse",
+      "Full eclipse",
+      "Dusk"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a solar eclipse where the moon blots out the sun in broad daylight!",
+      "wrong": "Wrong! It happens when the moon passes directly between Earth and the sun."
+    }
+  },
+  {
+    "id": "rid_415",
+    "question": "What falls violently from stormy summer clouds, bombarding rooftops and crops with frozen pellets of hard ice?",
+    "options": [
+      "Hail",
+      "Graupel",
+      "Downpour",
+      "Frost"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is hail, solid balls of ice pelted down from thunderstorm clouds!",
+      "wrong": "Wrong! They are hard chunks of ice that fall rapidly during severe storms."
+    }
+  },
+  {
+    "id": "rid_416",
+    "question": "Which stone icicle hangs upside-down from dark cave ceilings, growing drop by drop over thousands of years?",
+    "options": [
+      "Stalactite",
+      "Stalagmite",
+      "Coral",
+      "Icicle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a stalactite holding tight to the cave ceiling!",
+      "wrong": "Wrong! It is the mineral formation hanging down inside limestone caverns."
+    }
+  },
+  {
+    "id": "rid_417",
+    "question": "What green haven rests in the heart of endless scorching dunes, offering shade from palm trees and fresh water to save weary travelers?",
+    "options": [
+      "Oasis",
+      "Mirage",
+      "Glacier",
+      "Marsh"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an oasis, a fertile sanctuary of cool water amid desert sands!",
+      "wrong": "Wrong! It is the water haven surrounded by palms in the middle of a desert."
+    }
+  },
+  {
+    "id": "rid_418",
+    "question": "Which natural force strikes when the solid earth beneath our feet trembles with fury, violently shaking ground and buildings?",
+    "options": [
+      "Earthquake",
+      "Landslide",
+      "Tsunami",
+      "Typhoon"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an earthquake, the earth-shattering tremor of tectonic faults!",
+      "wrong": "Wrong! It is the violent shaking of the ground caused by seismic waves."
+    }
+  },
+  {
+    "id": "rid_419",
+    "question": "Which roving hill of the vast desert has no solid rocks, drifting and shifting its giant shape wherever the wind blows?",
+    "options": [
+      "Sand dune",
+      "Volcano",
+      "Iceberg",
+      "Plateau"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a sand dune drifting across desert landscapes!",
+      "wrong": "Wrong! It is a massive ridge of sand sculpted and moved by the desert wind."
+    }
+  },
+  {
+    "id": "rid_420",
+    "question": "What colossal river of ancient ice, formed from thousands of years of packed snow, carves valley rock as it flows creeping imperceptibly downhill?",
+    "options": [
+      "Glacier",
+      "Iceberg",
+      "Avalanche",
+      "River"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a glacier, a majestic creeping river of solid blue ice!",
+      "wrong": "Wrong! It is a massive body of dense ice moving slowly under its own weight."
+    }
+  },
+  {
+    "id": "rid_421",
+    "question": "Wandering from the frozen outer reaches of space, which icy celestial body unfurls a long, glowing broom of dust and gas as it sweeps past the sun?",
+    "options": [
+      "Comet",
+      "Satellite",
+      "North Star",
+      "Meteor"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a comet blazing with a magnificent glowing tail of dust and gas!",
+      "wrong": "Wrong! It is an icy celestial nomad displaying a brilliant tail near the sun."
+    }
+  },
+  {
+    "id": "rid_422",
+    "question": "Triggered by earthquakes beneath the ocean floor, which terrifying sea monster races silently across deep water before rearing up as a crushing wall of water at the coast?",
+    "options": [
+      "Tsunami",
+      "Low tide",
+      "Waterspout",
+      "Whirlpool"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a tsunami, a colossal seismic sea wave slamming the coast!",
+      "wrong": "Wrong! It is the catastrophic sea wave generated by undersea disturbances."
+    }
+  },
+  {
+    "id": "rid_423",
+    "question": "When the bright full moon glides directly into Earth’s dark shadow, which nighttime celestial event bathes its face in an eerie crimson blood-red glow?",
+    "options": [
+      "Lunar eclipse",
+      "Solar eclipse",
+      "Crescent moon",
+      "Total solar eclipse"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a lunar eclipse, turning the moon into a dramatic crimson blood moon!",
+      "wrong": "Wrong! It occurs when Earth blocks sunlight from reaching the full moon."
+    }
+  },
+  {
+    "id": "rid_424",
+    "question": "Carved over millions of years by a tireless flowing river, which dizzying and colossal chasm cuts through layers of towering red rock plateaus?",
+    "options": [
+      "Canyon",
+      "Cave",
+      "Crater",
+      "Sand dune"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a grand canyon carved through stone by the power of rushing water!",
+      "wrong": "Wrong! It is a deep, narrow gorge with steep sides carved by river erosion."
+    }
+  },
+  {
+    "id": "rid_425",
+    "question": "Gracing high polar latitudes in midsummer, what phenomenon keeps midnight ablaze with daylight as the sun refuses to dip beneath the horizon?",
+    "options": [
+      "Midnight sun (White night)",
+      "Aurora",
+      "Sunset glow",
+      "Mirage"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the midnight sun, bathing polar lands in 24 hours of golden light!",
+      "wrong": "Wrong! It is the summertime polar event where the sun never sets at night."
+    }
+  },
+  {
+    "id": "rid_426",
+    "question": "Blooming beneath warm oceans like a dazzling garden sheltering countless colorful fish, which living fortress is actually built from millions of tiny sea animal skeletons?",
+    "options": [
+      "Coral reef",
+      "Kelp forest",
+      "Sunken ship",
+      "Underwater cave"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a coral reef, the vibrant rainforest of the marine world!",
+      "wrong": "Wrong! It is the underwater limestone structure built by colonies of tiny polyps."
+    }
+  },
+  {
+    "id": "rid_427",
+    "question": "When hollow underground voids can no longer support the weight above, what sudden cavity opens up as roads and earth swallow themselves into the ground?",
+    "options": [
+      "Sinkhole",
+      "Volcanic crater",
+      "Water well",
+      "Cave"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a sinkhole, a sudden and dramatic collapse of the surface crust!",
+      "wrong": "Wrong! It is a depression or hole in the ground caused by collapse of a surface layer."
+    }
+  },
+  {
+    "id": "rid_428",
+    "question": "Rising from the desert horizon like a towering wall of churning dust and grit, which tempest blots out the midday sun and swallows whole landscapes?",
+    "options": [
+      "Sandstorm",
+      "Blizzard",
+      "Yellow dust",
+      "Fog"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a blinding sandstorm howling across desert wastes!",
+      "wrong": "Wrong! It is a violent meteorological tempest of airborne sand and dust."
+    }
+  },
+  {
+    "id": "rid_429",
+    "question": "Even amidst freezing snowy mountains, which steaming natural pool never turns cold, kept warm by Earth’s inner subterranean fires?",
+    "options": [
+      "Hot spring",
+      "Geyser",
+      "Oasis",
+      "Lake"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a hot spring, a steaming geothermal basin warmed by volcanic heat!",
+      "wrong": "Wrong! It is a naturally heated spring of mineral water rising from the earth."
+    }
+  },
+  {
+    "id": "rid_430",
+    "question": "Which mammal flies with wings like a bird yet has no feathers, sleeps hanging upside down in caves by day, and navigates by echolocation at night?",
+    "options": [
+      "Bat",
+      "Owl",
+      "Squirrel",
+      "Swallow"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a bat, the only mammal capable of true sustained flight!",
+      "wrong": "Wrong! It is a nocturnal flying mammal that hangs upside down."
+    }
+  },
+  {
+    "id": "rid_431",
+    "question": "Which reptile can move each of its eyes independently in different directions while blending its skin tone perfectly into twigs and leaves?",
+    "options": [
+      "Chameleon",
+      "Lizard",
+      "Frog",
+      "Crocodile"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a chameleon, the undisputed master of color-changing camouflage!",
+      "wrong": "Wrong! It is a slow reptile with independently moving eyes that shifts its skin colors."
+    }
+  },
+  {
+    "id": "rid_432",
+    "question": "Nearly blind yet armed with powerful spade-like claws, which subterranean creature spends its life tunneling through dark soil beneath our gardens?",
+    "options": [
+      "Mole",
+      "Hedgehog",
+      "Badger",
+      "Rabbit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a mole, the master excavator of the underground world!",
+      "wrong": "Wrong! It is a small burrowing creature with shovel-like paws that builds tunnels."
+    }
+  },
+  {
+    "id": "rid_433",
+    "question": "Swimming as a tailed tadpole with gills in water as a youth, which amphibian sheds its tail to leap between land and pond with powerful hind legs?",
+    "options": [
+      "Frog",
+      "Salamander",
+      "Turtle",
+      "Crocodile"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a frog, transforming from a tiny water tadpole into a jumping singer!",
+      "wrong": "Wrong! It is a jumping amphibian that begins life as an aquatic tadpole."
+    }
+  },
+  {
+    "id": "rid_434",
+    "question": "Armed with thousands of tiny compound eyes across its head, which aerial acrobat hovers effortlessly in place on four gossamer wings to catch mosquitoes?",
+    "options": [
+      "Dragonfly",
+      "Butterfly",
+      "Bee",
+      "Grasshopper"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a dragonfly, the supreme helicopter hunter of the insect world!",
+      "wrong": "Wrong! It is a fast-flying insect with four clear wings and enormous eyes."
+    }
+  },
+  {
+    "id": "rid_435",
+    "question": "After spending years underground silently feeding on tree root sap, which summer insect emerges into the trees to sing its deafening buzz for just a few weeks?",
+    "options": [
+      "Cicada",
+      "Cricket",
+      "Mantis",
+      "Beetle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a cicada, heralding the height of midsummer with its loud song!",
+      "wrong": "Wrong! It is an insect that lives underground for years before buzzing in the trees."
+    }
+  },
+  {
+    "id": "rid_436",
+    "question": "Coated in slippery mucus so it squirts easily out of bare hands, which whisker-faced freshwater fish burrows happily into muddy riverbeds?",
+    "options": [
+      "Loach",
+      "Catfish",
+      "Crucian carp",
+      "Eel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a slippery loach dodging every grasping hand in the mud!",
+      "wrong": "Wrong! It is a slender, slippery freshwater fish that burrows into muddy bottoms."
+    }
+  },
+  {
+    "id": "rid_437",
+    "question": "Walking placidly until danger looms, which small creature curls into a tight spiky ball and bristles thousands of sharp quills to defend itself?",
+    "options": [
+      "Hedgehog",
+      "Mole",
+      "Squirrel",
+      "Turtle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a hedgehog bristling with a fortress of sharp prickles!",
+      "wrong": "Wrong! It is a timid animal that rolls into a prickly spiky sphere when threatened."
+    }
+  },
+  {
+    "id": "rid_438",
+    "question": "Drifting through summer meadows by clean streams, which magical insect flashes a cool, bioluminescent green beacon from its abdomen to signal its mate?",
+    "options": [
+      "Firefly (Lightning bug)",
+      "Scarab",
+      "Mosquito",
+      "Dragonfly"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a firefly, illuminating summer twilights with living green lanterns!",
+      "wrong": "Wrong! It is a nocturnal winged beetle that emits cold light from its tail."
+    }
+  },
+  {
+    "id": "rid_439",
+    "question": "Featuring eight sucker-covered arms, clever camouflage, and a jet of jet-black defensive ink, which intelligent sea dweller slips into narrow rock crevices?",
+    "options": [
+      "Octopus",
+      "Squid",
+      "Jellyfish",
+      "Starfish"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an octopus, the eight-armed mastermind of ocean reefs!",
+      "wrong": "Wrong! It is an eight-armed marine mollusk that shoots ink to escape predators."
+    }
+  },
+  {
+    "id": "rid_440",
+    "question": "Forged deep within Earth under mind-boggling pressure and heat from humble carbon, which sparkling transparent crystal is the hardest mineral in existence?",
+    "options": [
+      "Diamond",
+      "Ruby",
+      "Glass",
+      "Graphite"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a diamond, the unbreakable king of all precious gemstones!",
+      "wrong": "Wrong! It is the hardest known natural mineral, formed entirely of crystallized carbon."
+    }
+  },
+  {
+    "id": "rid_441",
+    "question": "Formed from ancient prehistoric forests buried and crushed over hundreds of millions of years, which black rock burns with fierce heat to power industries?",
+    "options": [
+      "Coal",
+      "Graphite",
+      "Gravel",
+      "Granite"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is coal, the black fossil fuel mined from subterranean strata!",
+      "wrong": "Wrong! It is a combustible black rock formed from ancient fossilized vegetation."
+    }
+  },
+  {
+    "id": "rid_442",
+    "question": "Untarnished by air and unrusted by ocean waves, which lustrous yellow precious metal has captivated civilizations as the eternal symbol of supreme wealth?",
+    "options": [
+      "Gold",
+      "Copper",
+      "Brass",
+      "Silver"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is gold, the noble yellow metal that never rusts or tarnishes!",
+      "wrong": "Wrong! It is a brilliant dense yellow metal prized since antiquity as money."
+    }
+  },
+  {
+    "id": "rid_443",
+    "question": "Gleaming with the cool brilliance of moonlight and holding the highest electrical and thermal conductivity of all elements, which white noble metal detects toxins?",
+    "options": [
+      "Silver",
+      "Platinum",
+      "Aluminum",
+      "Nickel"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is silver, reflecting light brighter than any other metal on Earth!",
+      "wrong": "Wrong! It is a brilliant white precious metal legendary for tarnishing around poisons."
+    }
+  },
+  {
+    "id": "rid_444",
+    "question": "Forging train rails, skyscraper frames, and sturdy hammers, which most abundant heavy metal built modern civilization but bleeds red rust in damp air?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Lead",
+      "Zinc"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is iron, the backbone of human infrastructure and toolmaking!",
+      "wrong": "Wrong! It is the strong, magnetic structural metal that oxidizes into red rust."
+    }
+  },
+  {
+    "id": "rid_445",
+    "question": "Reddish-orange in hue and excellent at conducting electricity through wiring cables, which historic metal ages gracefully into a mint-green patina?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Aluminum",
+      "Gold"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is copper, the warm ductile metal lining every electric wire!",
+      "wrong": "Wrong! It is a reddish metal that conducts power and turns green when weathered."
+    }
+  },
+  {
+    "id": "rid_446",
+    "question": "Growing into icy hexagonal prisms as clear as glass, which quartz crystal vibrates precisely to keep time inside quartz watches and adorns fine jewelry?",
+    "options": [
+      "Rock crystal (Quartz)",
+      "Diamond",
+      "Amber",
+      "Pearl"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is quartz crystal, vibrating steadily to power modern clocks!",
+      "wrong": "Wrong! It is a clear, hexagonal mineral crystal of silicon dioxide."
+    }
+  },
+  {
+    "id": "rid_447",
+    "question": "Glowing with the lush, vivid green of deep enchanted forests, which prized beryl gemstone was famously cherished by Queen Cleopatra of Egypt?",
+    "options": [
+      "Emerald",
+      "Sapphire",
+      "Ruby",
+      "Opal"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an emerald, celebrated through history for its mesmerizing deep green hue!",
+      "wrong": "Wrong! It is a precious green variety of beryl colored by chromium."
+    }
+  },
+  {
+    "id": "rid_448",
+    "question": "Snapping tightly onto pieces of iron yet repelling its own kind, which mystical stone guides the compass needle to point persistently North?",
+    "options": [
+      "Magnet (Lodestone)",
+      "Flint",
+      "Quartzite",
+      "Meteorite"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a magnet, harnessing invisible magnetic fields of the Earth!",
+      "wrong": "Wrong! It is a mineral or object that produces an attractive magnetic field."
+    }
+  },
+  {
+    "id": "rid_449",
+    "question": "Composed of the exact same carbon as a diamond yet silky-soft enough to leave a dark trail on paper, which black mineral forms pencil lead?",
+    "options": [
+      "Graphite",
+      "Coal",
+      "Charcoal",
+      "Sulfur"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is graphite, the layered carbon mineral filling our writing pencils!",
+      "wrong": "Wrong! It is the slippery black form of pure carbon used in pencil cores."
+    }
+  },
+  {
+    "id": "rid_450",
+    "question": "Wearing a cute black-and-white striped coat, which animal raises its tail when threatened to fire a nauseating foul-smelling chemical spray?",
+    "options": [
+      "Skunk",
+      "Raccoon",
+      "Weasel",
+      "Badger"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a skunk, defending itself with legendary foul-smelling spray!",
+      "wrong": "Wrong! It is the black-and-white mammal famous for its noxious defensive stench."
+    }
+  },
+  {
+    "id": "rid_451",
+    "question": "Sporting a horse-like head and monkey-like tail, which upright-swimming fish is famous for the father carrying the eggs and giving birth?",
+    "options": [
+      "Seahorse",
+      "Jellyfish",
+      "Seal",
+      "Sea turtle"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a seahorse, where the devoted father carries the babies in his pouch!",
+      "wrong": "Wrong! It is a unique marine fish with a horse-like head whose males give birth."
+    }
+  },
+  {
+    "id": "rid_452",
+    "question": "Sleeping up to twenty hours a day hanging upside down from rainforest trees, which creature moves so slowly that green algae grows on its fur?",
+    "options": [
+      "Sloth",
+      "Koala",
+      "Panda",
+      "Monkey"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a three-toed sloth, the wonderfully sluggish treetop dweller!",
+      "wrong": "Wrong! It is an extremely slow-moving tree mammal whose fur grows green algae."
+    }
+  },
+  {
+    "id": "rid_453",
+    "question": "Known as \"black gold,\" which viscous dark liquid pumped from subterranean depths fuels cars and airplanes and provides raw material for plastics?",
+    "options": [
+      "Petroleum (Crude oil)",
+      "Coal",
+      "Lava",
+      "Tar"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is petroleum, the \"black gold\" driving the engines of modern civilization!",
+      "wrong": "Wrong! It is the liquid fossil fuel refined into gasoline and petrochemicals."
+    }
+  },
+  {
+    "id": "rid_454",
+    "question": "Formed from fossilized tree resin millions of years ago, which warm honey-golden gemstone often preserves ancient prehistoric insects trapped inside?",
+    "options": [
+      "Amber",
+      "Ruby",
+      "Pearl",
+      "Quartz"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is amber, the golden fossilized gemstone immortalizing ancient creatures!",
+      "wrong": "Wrong! It is fossilized tree resin prized for its golden glow and insect inclusions."
+    }
+  },
+  {
+    "id": "rid_455",
+    "question": "Without turning on any flashlight or lantern, who always naturally reflects ambient light with a dazzling shiny glow under the sun or ceiling bulbs?",
+    "options": [
+      "Bald uncle with a smooth shiny head",
+      "Student with hands in pockets",
+      "Brother with a pulled-down cap",
+      "Friend chewing gum"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an uncle with a wonderfully smooth, shiny bald head reflecting the light!",
+      "wrong": "Wrong! It is someone whose sleek, hairless dome naturally reflects radiant beams."
+    }
+  },
+  {
+    "id": "rid_456",
+    "question": "Silently stretching your own mouth wide open, which mysterious \"contagion\" magically forces the person sitting right across from you to open theirs too?",
+    "options": [
+      "Yawn",
+      "Cough",
+      "Hiccup",
+      "Laughter"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a yawn, the most irresistibly contagious reflex known to humanity!",
+      "wrong": "Wrong! It is the involuntary deep breath that makes everyone in the room do the same."
+    }
+  },
+  {
+    "id": "rid_457",
+    "question": "Running away on its own feet the moment it leaves your lips, what turned the wooden nose of fairytale Pinocchio into a growing branch?",
+    "options": [
+      "Lie",
+      "Yawn",
+      "Sigh",
+      "Secret"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a lie, sprouting longer like Pinocchio’s wooden nose!",
+      "wrong": "Wrong! It is an untruth that multiplies when spoken and grew Pinocchio’s nose."
+    }
+  },
+  {
+    "id": "rid_458",
+    "question": "Arriving uninvited to shake your chest with sudden spasms, which annoying reflex is famously cured when a friend leaps out and shouts \"Boo!\"?",
+    "options": [
+      "Hiccups",
+      "Burp",
+      "Sneeze",
+      "Snoring"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is hiccups, miraculously chased away by a sudden scary surprise!",
+      "wrong": "Wrong! It is the involuntary diaphragm spasm cured by holding breath or a scare."
+    }
+  },
+  {
+    "id": "rid_459",
+    "question": "Where do the glowing numbers multiply each year, requiring you to make a silent wish and blow with all your breath to earn cheers and applause?",
+    "options": [
+      "Blowing out birthday candles",
+      "Inflating a balloon",
+      "Blowing a whistle",
+      "Soap bubbles"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is blowing out birthday candles after making a secret wish!",
+      "wrong": "Wrong! It is the festive tradition of blowing out flames on a birthday cake."
+    }
+  },
+  {
+    "id": "rid_460",
+    "question": "Awakening in the morning, which satisfying stretch has you flinging arms and legs wide while letting out a groaning sigh to reboot all your muscles?",
+    "options": [
+      "Morning stretch (Pandiculation)",
+      "Running",
+      "Jump rope",
+      "Deep breathing"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a morning stretch, yawning and extending limbs to greet the day!",
+      "wrong": "Wrong! It is the full-body stretch and yawn we do upon waking up."
+    }
+  },
+  {
+    "id": "rid_461",
+    "question": "Requiring neither swords nor shields, which universal finger duel decides disputes instantly and peacefully using rock, paper, and blade?",
+    "options": [
+      "Rock Paper Scissors",
+      "Arm wrestling",
+      "Clapping game",
+      "Pinky swearing"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Rock Paper Scissors, the world’s most peaceful instant finger duel!",
+      "wrong": "Wrong! It is the three-hand-shape showdown deciding quick choices across the globe."
+    }
+  },
+  {
+    "id": "rid_462",
+    "question": "Closing both eyes means you are sleeping, but closing and opening just a single eye for a split second sends a charming secret signal called what?",
+    "options": [
+      "Wink",
+      "Staring contest",
+      "Yawn",
+      "Dozing"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a wink, closing just one eye to share a cheeky, charming hint!",
+      "wrong": "Wrong! It is the playful facial gesture of closing one eye momentarily."
+    }
+  },
+  {
+    "id": "rid_463",
+    "question": "Hooking together the smallest, weakest fifth fingers on both hands and stamping thumbs together, which sacred oath seals a playground pact?",
+    "options": [
+      "Pinky promise (Pinky swear)",
+      "Handshake",
+      "High five",
+      "Arm wrestling"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a pinky promise, locking little fingers to seal a sacred trust!",
+      "wrong": "Wrong! It is the traditional pledge made by interlocking pinky fingers."
+    }
+  },
+  {
+    "id": "rid_464",
+    "question": "When celebrating a sudden victory or triumph, which gesture is complete only when two open palms slap together high in the air with a crisp clap?",
+    "options": [
+      "High five",
+      "Handshake",
+      "Applause",
+      "Crossing arms"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a high five, slapping palms up high to share pure celebration!",
+      "wrong": "Wrong! It is the celebratory hand slap performed by raising palms up into the air."
+    }
+  },
+  {
+    "id": "rid_465",
+    "question": "Defying gravity for centuries, which white marble bell tower tilts dramatically to one side yet stubbornly refuses to fall down?",
+    "options": [
+      "Leaning Tower of Pisa",
+      "Eiffel Tower",
+      "Big Ben",
+      "Statue of Liberty"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Leaning Tower of Pisa, the world-famous tilting wonder!",
+      "wrong": "Wrong! It is the freestanding white marble bell tower in Italy famous for its tilt."
+    }
+  },
+  {
+    "id": "rid_466",
+    "question": "Winding like a colossal stone dragon across rugged mountain ridges for thousands of miles, which ancient fortification defended imperial borders?",
+    "options": [
+      "Great Wall of China",
+      "Berlin Wall",
+      "Pyramids of Giza",
+      "Colosseum"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Great Wall of China, the monumental dragon of stone!",
+      "wrong": "Wrong! It is the vast military fortification meandering across northern China."
+    }
+  },
+  {
+    "id": "rid_467",
+    "question": "Once mocked as a monstrous heap of scrap iron, which soaring lattice tower now defines romance against the Paris skyline?",
+    "options": [
+      "Eiffel Tower",
+      "Tokyo Tower",
+      "Leaning Tower of Pisa",
+      "Empire State Building"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Eiffel Tower, the romantic wrought-iron symbol of Paris!",
+      "wrong": "Wrong! It is the famous wrought-iron lattice tower standing by the Seine in Paris."
+    }
+  },
+  {
+    "id": "rid_468",
+    "question": "Built from millions of massive limestone blocks rising like triangular stone mountains from desert sands, what served as eternal tombs for Pharaohs?",
+    "options": [
+      "Pyramids of Egypt",
+      "Sphinx",
+      "Parthenon",
+      "Taj Mahal"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! They are the ancient Egyptian Pyramids, monumental royal tombs!",
+      "wrong": "Wrong! They are the colossal triangular stone monuments of ancient Egypt."
+    }
+  },
+  {
+    "id": "rid_469",
+    "question": "Echoing with the roars of tens of thousands of spectators cheering gladiators and wild beasts, which colossal stone amphitheater stands in Rome?",
+    "options": [
+      "Colosseum",
+      "Arc de Triomphe",
+      "Leaning Tower of Pisa",
+      "Palace of Versailles"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Colosseum, the grand gladiatorial arena of the Roman Empire!",
+      "wrong": "Wrong! It is the massive oval amphitheater in the center of ancient Rome."
+    }
+  },
+  {
+    "id": "rid_470",
+    "question": "Smiling with eighty-eight black and white teeth, which grand \"King of Instruments\" sings rich harmonies whenever fingertips tap its keys?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Drums",
+      "Harp"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the piano, commanding eighty-eight keys of pure musical magic!",
+      "wrong": "Wrong! It is a large keyboard instrument with 88 black and white keys."
+    }
+  },
+  {
+    "id": "rid_471",
+    "question": "Tucked snugly beneath the chin and caressed by a horsehair bow, which four-stringed wooden instrument sings with the soulful voice of human sorrow?",
+    "options": [
+      "Violin (Fiddle)",
+      "Guitar",
+      "Cello",
+      "Ukulele"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a violin, weaving sweet melodies under the chin with a bow!",
+      "wrong": "Wrong! It is the high-pitched four-stringed instrument played with a horsehair bow."
+    }
+  },
+  {
+    "id": "rid_472",
+    "question": "Punished with wooden sticks in both hands and foot pedals below, which percussion set drives pulses racing with thundering rhythm?",
+    "options": [
+      "Drum kit",
+      "Piano",
+      "Flute",
+      "Trumpet"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a drum set, beating out the heartbeat of rock and roll!",
+      "wrong": "Wrong! It is the rhythmic percussion instrument struck by sticks."
+    }
+  },
+  {
+    "id": "rid_473",
+    "question": "Cradled in your lap by its curving waist, which six-stringed wooden instrument sparks campfire singalongs when strummed with fingers?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Harp",
+      "Bass"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an acoustic guitar, strumming six strings around the campfire!",
+      "wrong": "Wrong! It is the popular six-stringed wooden instrument strummed or plucked."
+    }
+  },
+  {
+    "id": "rid_474",
+    "question": "Small enough to hide in your pocket yet rich enough to play blues and folk, which pocket instrument sings through both inhaling and exhaling breath?",
+    "options": [
+      "Harmonica (Mouth harp)",
+      "Ocarina",
+      "Recorder",
+      "Trumpet"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "culture",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a harmonica, vibrating its brass reeds on both breath in and out!",
+      "wrong": "Wrong! It is a rectangular wind instrument played by blowing and drawing air."
+    }
+  },
+  {
+    "id": "rid_475",
+    "question": "Never duplicated among billions of humans, which swirling ridge pattern on your fingertips acts as your personal natural ID card?",
+    "options": [
+      "Fingerprint",
+      "Fingernail",
+      "Back of hand",
+      "Palm line"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a fingerprint, uniquely yours from birth to eternity!",
+      "wrong": "Wrong! It is the friction ridge impression on the fleshy pad of a human finger."
+    }
+  },
+  {
+    "id": "rid_476",
+    "question": "Composed of two hundred and six rigid white pillars framed inside your body, what prevents your soft flesh from collapsing into a heap?",
+    "options": [
+      "Bones (Skeleton)",
+      "Muscles",
+      "Blood vessels",
+      "Skin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is our bones, 206 calcium pillars holding us tall and strong!",
+      "wrong": "Wrong! It is the rigid framework of calcium that supports human posture."
+    }
+  },
+  {
+    "id": "rid_477",
+    "question": "Spilling over in moments of deepest sorrow as well as uncontrolled laughter, which salty drops cleanse your eyes and wash the soul?",
+    "options": [
+      "Tears",
+      "Sweat",
+      "Saliva",
+      "Raindrops"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! They are tears, the salty emotional rain of human joy and grief!",
+      "wrong": "Wrong! They are the salty droplets secreted by the lacrimal glands."
+    }
+  },
+  {
+    "id": "rid_478",
+    "question": "Left behind the very moment you entered this world when your lifeline to your mother was severed, what little button marks the center of your belly?",
+    "options": [
+      "Belly button (Navel)",
+      "Birthmark",
+      "Scar",
+      "Rib"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the belly button, the eternal badge of where umbilical life began!",
+      "wrong": "Wrong! It is the small scar on the abdomen marking the attachment of the umbilical cord."
+    }
+  },
+  {
+    "id": "rid_479",
+    "question": "Protected within the bony fortress of your skull like a wrinkled walnut, which supreme command center orchestrates every thought, memory, and breath?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Lungs",
+      "Stomach"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the brain, the wrinkly supercomputer piloting your entire universe!",
+      "wrong": "Wrong! It is the central nervous organ inside the cranium controlling thought."
+    }
+  },
+  {
+    "id": "rid_480",
+    "question": "Sleeping in a coffin by day and flying as a bat by night, which dark count hungers for human blood yet dreads garlic, silver crucifixes, and sunlight?",
+    "options": [
+      "Count Dracula (Vampire)",
+      "Werewolf",
+      "Mummy",
+      "Zombie"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Count Dracula, the immortal aristocrat of the undead!",
+      "wrong": "Wrong! It is the legendary Transylvanian vampire who fears garlic and sunlight."
+    }
+  },
+  {
+    "id": "rid_481",
+    "question": "Stitched together from graveyard remains and awakened by a strike of lightning, which sorrowful creature was shunned by humanity and his creator?",
+    "options": [
+      "Frankenstein’s Monster",
+      "Golem",
+      "Mummy",
+      "Cyclops"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Frankenstein’s monster, brought to life through lightning and tragedy!",
+      "wrong": "Wrong! It is the artificial being created from body parts by Victor Frankenstein."
+    }
+  },
+  {
+    "id": "rid_482",
+    "question": "Wrapped from head to toe in ancient linen bandages, which cursed Egyptian monarch rises from a dusty sarcophagus to haunt grave robbers?",
+    "options": [
+      "Mummy",
+      "Skeleton",
+      "Zombie",
+      "Ghost"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is an Egyptian mummy, rising from its golden tomb in dusty bandages!",
+      "wrong": "Wrong! It is an ancient preserved corpse wrapped in linen bandages."
+    }
+  },
+  {
+    "id": "rid_483",
+    "question": "Living as an ordinary mortal by day, which cursed soul transforms under the gaze of a full moon, sprouting fangs and fur to howl at the night?",
+    "options": [
+      "Werewolf (Lycanthrope)",
+      "Dracula",
+      "Nine-tailed fox",
+      "Yeti"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a werewolf, howling at the glowing full moon!",
+      "wrong": "Wrong! It is a human who shapeshifts into a wolf-like beast under a full moon."
+    }
+  },
+  {
+    "id": "rid_484",
+    "question": "Devoid of all thought and soul, driven only by an insatiable hunger for the living, which slow-shuffling undead horde groans through apocalyptic streets?",
+    "options": [
+      "Zombie",
+      "Jiangshi",
+      "Skeleton warrior",
+      "Frankenstein"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a zombie, the slow-shuffling walking dead of horror lore!",
+      "wrong": "Wrong! It is a reanimated, brainless corpse that preys on the living."
+    }
+  },
+  {
+    "id": "rid_485",
+    "question": "Draped in a flowing white mourning hanbok with long disheveled black hair covering a tearful face, which famous Korean vengeful spirit floats through the mist?",
+    "options": [
+      "Cheonyeo Gwishin (Virgin Ghost)",
+      "Nine-tailed fox",
+      "Grim Reaper (Jeoseung Saja)",
+      "Water Ghost"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Cheonyeo Gwishin, the classic white-robed Korean ghost of lingering sorrow!",
+      "wrong": "Wrong! It is the legendary Korean female ghost clothed in white mourning attire."
+    }
+  },
+  {
+    "id": "rid_486",
+    "question": "Dressed in ornate Qing Dynasty robes with a yellow talisman pinned to its forehead, which hopping corpse bounces forward with outstretched stiff arms?",
+    "options": [
+      "Jiangshi (Hopping Vampire)",
+      "Dokkaebi (Goblin)",
+      "Zombie",
+      "Mummy"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a Jiangshi, the hopping Chinese vampire with a yellow talisman!",
+      "wrong": "Wrong! It is the stiff hopping reanimated corpse of Chinese folklore."
+    }
+  },
+  {
+    "id": "rid_487",
+    "question": "Breathing and leaving footprints right in front of your eyes, who vanishes utterly into thin air the moment they unwrap their bandages and shed their clothes?",
+    "options": [
+      "Invisible Man",
+      "Ghost",
+      "Shadow",
+      "Goblin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Invisible Man, walking unseen among us without his trench coat and bandages!",
+      "wrong": "Wrong! It is a person whose body cannot be seen by the naked eye."
+    }
+  },
+  {
+    "id": "rid_488",
+    "question": "Cloaked in a black hooded cowl and wielding a giant harvesting scythe, which Western grim personification of death arrives to reap departing souls?",
+    "options": [
+      "Grim Reaper",
+      "King Yama",
+      "Hades",
+      "Cupid"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is the Grim Reaper, harvesting departing souls with his fateful scythe!",
+      "wrong": "Wrong! It is the personification of death depicted as a cloaked skeleton with a scythe."
+    }
+  },
+  {
+    "id": "rid_489",
+    "question": "Manned by no living sailors yet gliding through stormy sea mists with tattered spectral sails, which cursed vessel is doomed to drift the oceans forever?",
+    "options": [
+      "Ghost ship (Flying Dutchman)",
+      "Shipwreck",
+      "Submarine",
+      "Sailboat"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is a ghost ship, doomed like the Flying Dutchman to sail the seas for eternity!",
+      "wrong": "Wrong! It is a spectral phantom ship crewed by lost souls floating through ocean fogs."
+    }
+  },
+  {
+    "id": "rid_490",
+    "question": "Winged like a playful cherub and armed with a magical bow, which god of desire shoots golden arrows that compel anyone struck to fall madly in love?",
+    "options": [
+      "Cupid",
+      "Grim Reaper",
+      "Hermes",
+      "Fairy"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "myth",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Cupid, fluttering on little wings to spark romance with golden arrows!",
+      "wrong": "Wrong! It is the winged god of love who shoots arrows of desire."
+    }
+  },
+  {
+    "id": "rid_491",
+    "question": "Treated as a towering giant in a kingdom of tiny people, yet cradled in the palm of a hand in a land of giants, which English traveler sailed into legend?",
+    "options": [
+      "Lemuel Gulliver",
+      "Robinson Crusoe",
+      "Sinbad",
+      "Peter Pan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Gulliver, traveling between Lilliput and the land of giants!",
+      "wrong": "Wrong! It is the adventurer from Jonathan Swift’s satirical travel voyages."
+    }
+  },
+  {
+    "id": "rid_492",
+    "question": "Rubbing an ancient dusty oil lamp to clean it, which streetwise youth summons the mighty blue Genie to grant him three wishes?",
+    "options": [
+      "Aladdin",
+      "Ali Baba",
+      "Sinbad",
+      "Little Prince"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Aladdin, master of the magic lamp and magic carpet!",
+      "wrong": "Wrong! It is the clever youth from the Arabian Nights who rubs the magic lamp."
+    }
+  },
+  {
+    "id": "rid_493",
+    "question": "Marooned on a deserted tropical island for twenty-eight years, which castaway built a fortress and named his loyal native companion \"Friday\"?",
+    "options": [
+      "Robinson Crusoe",
+      "Gulliver",
+      "Tom Sawyer",
+      "Captain Nemo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Robinson Crusoe, the ultimate island castaway who befriended Friday!",
+      "wrong": "Wrong! It is the legendary shipwrecked sailor created by Daniel Defoe."
+    }
+  },
+  {
+    "id": "rid_494",
+    "question": "Driven mad by chivalric romances, which eccentric knight mounts his skinny steed Rocinante to charge fearlessly at windmills he mistakes for giants?",
+    "options": [
+      "Don Quixote",
+      "Robin Hood",
+      "King Arthur",
+      "D’Artagnan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Don Quixote, tilting at giant windmills in noble delusion!",
+      "wrong": "Wrong! It is the legendary idealistic Spanish gentleman created by Miguel de Cervantes."
+    }
+  },
+  {
+    "id": "rid_495",
+    "question": "Raised in the Indian jungle by a pack of wolves, which human \"man-cub\" learns the laws of the wild with Baloo the bear and Bagheera the panther?",
+    "options": [
+      "Mowgli",
+      "Tarzan",
+      "Peter Pan",
+      "Hercules"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Mowgli, the beloved man-cub hero of The Jungle Book!",
+      "wrong": "Wrong! It is the feral boy raised by wolves in Rudyard Kipling’s classic tales."
+    }
+  },
+  {
+    "id": "rid_496",
+    "question": "Imprisoned inside a tall tower without doors or stairs, which fair maiden lowered her enchantingly long golden hair as a ladder for her prince?",
+    "options": [
+      "Rapunzel",
+      "Cinderella",
+      "Sleeping Beauty",
+      "The Little Mermaid"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Rapunzel, letting down her famous golden hair from the high tower!",
+      "wrong": "Wrong! It is the fairy-tale maiden with long golden hair trapped in a secluded tower."
+    }
+  },
+  {
+    "id": "rid_497",
+    "question": "Puffing a curved briar pipe and donning a deerstalker cap, which brilliant resident of 221B Baker Street solves impossible crimes through sheer deduction?",
+    "options": [
+      "Sherlock Holmes",
+      "Arsène Lupin",
+      "Hercule Poirot",
+      "Dr. Watson"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Sherlock Holmes, the greatest consulting detective in London!",
+      "wrong": "Wrong! It is Sir Arthur Conan Doyle’s famous deductive detective from Baker Street."
+    }
+  },
+  {
+    "id": "rid_498",
+    "question": "Strutting boldly in fine leather cavalier boots, which clever talking feline used his razor-sharp wits and silver tongue to make his poor master a wealthy nobleman?",
+    "options": [
+      "Puss in Boots",
+      "Town Musicians of Bremen",
+      "Cheshire Cat",
+      "Peter Rabbit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Puss in Boots, outsmarting ogres with boots, sword, and swagger!",
+      "wrong": "Wrong! It is Charles Perrault’s famous boot-wearing cat who served the Marquis of Carabas."
+    }
+  },
+  {
+    "id": "rid_499",
+    "question": "Dressed in Lincoln green within Sherwood Forest, which legendary English outlaw archer stole from the corrupt rich to give back to the poor?",
+    "options": [
+      "Robin Hood",
+      "William Tell",
+      "Don Quixote",
+      "The Three Musketeers"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Robin Hood, champion of the oppressed with a bow and arrow!",
+      "wrong": "Wrong! It is the heroic outlaw of English folklore who poached deer in Sherwood."
+    }
+  },
+  {
+    "id": "rid_500",
+    "question": "Sentenced to nineteen years for stealing a loaf of bread to feed starving children, who was redeemed by a bishop’s silver candlesticks to become a savior of others?",
+    "options": [
+      "Jean Valjean",
+      "Count of Monte Cristo",
+      "Oliver Twist",
+      "Quasimodo"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Jean Valjean, prisoner 24601 who found grace and redemption in Les Misérables!",
+      "wrong": "Wrong! It is the heroic protagonist of Victor Hugo’s masterpiece Les Misérables."
+    }
+  },
+  {
+    "id": "rid_501",
+    "question": "Refusing to ever grow up into an adult, which green-clad boy sprinkles pixie dust to fly across the starry night sky to Neverland?",
+    "options": [
+      "Peter Pan",
+      "Pinocchio",
+      "Aladdin",
+      "The Little Prince"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Peter Pan, the boy who wouldn’t grow up in Neverland!",
+      "wrong": "Wrong! It is J.M. Barrie’s famous boy who flies and battles Captain Hook."
+    }
+  },
+  {
+    "id": "rid_502",
+    "question": "Sought across dreamlands by children seeking true happiness, which legendary bird was finally discovered waiting quietly in their own home cage?",
+    "options": [
+      "The Blue Bird",
+      "Phoenix",
+      "Dove",
+      "Magpie"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is The Blue Bird, showing that happiness lives right in our own home!",
+      "wrong": "Wrong! It is the symbolic bird of happiness from Maurice Maeterlinck’s play."
+    }
+  },
+  {
+    "id": "rid_503",
+    "question": "Smashing frying pans and setting mousetraps in endless slapstick chases yet inseparable deep down, who are the world’s most iconic cat-and-mouse rivals?",
+    "options": [
+      "Tom and Jerry",
+      "Batman and Robin",
+      "Dumb and Dumber",
+      "Holmes and Watson"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! It is Tom and Jerry, the timeless slapstick cat and mouse duo!",
+      "wrong": "Wrong! It is the legendary cartoon rivalry between a house cat and a brown mouse."
+    }
+  },
+  {
+    "id": "rid_504",
+    "question": "Flown across night skies by reindeer and sliding down chimneys to deliver gifts to good children on Christmas Eve, who is this festive figure?",
+    "options": [
+      "Santa Claus",
+      "Rudolph",
+      "Elf",
+      "The Nutcracker"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! With a jolly 'Ho ho ho!' in a red suit, it is Santa Claus himself!",
+      "wrong": "Wrong! Think of the beloved white-bearded man who delivers Christmas surprises."
+    }
+  },
+  {
+    "id": "rid_505",
+    "question": "Ruling Skull Island before being captured and brought to New York, what giant ape famously climbed the Empire State Building to fight off airplanes?",
+    "options": [
+      "King Kong",
+      "Godzilla",
+      "Tarzan",
+      "Bigfoot"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The legendary giant ape pounding his chest atop the skyscraper is King Kong!",
+      "wrong": "Wrong! Think of the iconic giant gorilla standing high above the New York skyline."
+    }
+  },
+  {
+    "id": "rid_506",
+    "question": "Caring for a single rose on Asteroid B-612 before voyaging across worlds to meet a stranded aviator in the Sahara Desert, who is this golden-haired boy?",
+    "options": [
+      "The Little Prince",
+      "Peter Pan",
+      "Pinocchio",
+      "Aladdin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The boy who taught us 'What is essential is invisible to the eye' is The Little Prince!",
+      "wrong": "Wrong! Think of Saint-Exupéry's beloved star traveler and his cherished rose."
+    }
+  },
+  {
+    "id": "rid_507",
+    "question": "Which legendary Arabian mariner sailed seven mythical voyages, escaping giant Roc birds and mistaking a sleeping whale for a tranquil island?",
+    "options": [
+      "Sinbad the Sailor",
+      "Robinson Crusoe",
+      "Gulliver",
+      "Peter Pan"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The fearless merchant sailor famed for seven legendary voyages is Sinbad!",
+      "wrong": "Wrong! Think of the storied mariner from One Thousand and One Nights."
+    }
+  },
+  {
+    "id": "rid_508",
+    "question": "Pulling the mystical sword Excalibur from a stone to claim the throne and gathering the Knights of the Round Table at Camelot, who is this legendary king?",
+    "options": [
+      "King Arthur",
+      "Robin Hood",
+      "Don Quixote",
+      "Alexander the Great"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Wielding Excalibur alongside his noble Round Table, it is King Arthur!",
+      "wrong": "Wrong! Think of the storied British king of Camelot guided by Merlin."
+    }
+  },
+  {
+    "id": "rid_509",
+    "question": "With braided red pigtails, freckles, mismatched knee-high stockings, and superhuman strength to lift a whole horse, who is this rebellious nine-year-old girl?",
+    "options": [
+      "Pippi Longstocking",
+      "Anne of Green Gables",
+      "A Little Princess",
+      "Dorothy Gale"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Living at Villa Villekulla with her monkey and horse, it is Pippi Longstocking!",
+      "wrong": "Wrong! Think of the strongest girl in the world wearing mismatched long stockings."
+    }
+  },
+  {
+    "id": "rid_510",
+    "question": "Living in a hidden village of mushroom houses in the forest, which tiny blue creatures constantly outsmart the wicked wizard Gargamel and his cat?",
+    "options": [
+      "The Smurfs",
+      "Minions",
+      "Teletubbies",
+      "Trolls"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Led by Papa Smurf in their charming mushroom village, they are The Smurfs!",
+      "wrong": "Wrong! Think of the small blue woodland creatures who outwit Gargamel."
+    }
+  },
+  {
+    "id": "rid_511",
+    "question": "Teased and rejected by farmyard animals for being clumsy and gray, which nestling endured a harsh winter before discovering it had grown into a majestic swan?",
+    "options": [
+      "The Ugly Duckling",
+      "The Blue Bird",
+      "Tweety",
+      "Puss in Boots"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! The famous Andersen tale of inner transformation is The Ugly Duckling!",
+      "wrong": "Wrong! Think of the awkward fledgling that blossomed into a breathtaking swan."
+    }
+  },
+  {
+    "id": "rid_512",
+    "question": "Turned into a child by a mysterious poison but retaining his brilliant mind, which high-school sleuth solves crimes using a tranquilizer watch and voice-changing bow tie?",
+    "options": [
+      "Conan Edogawa",
+      "Sherlock Holmes",
+      "Hercule Poirot",
+      "Arsène Lupin"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Declaring 'There is always only one truth!', it is Detective Conan!",
+      "wrong": "Wrong! Think of the shrunk teenage detective wearing an iconic bow tie."
+    }
+  },
+  {
+    "id": "rid_513",
+    "question": "Swept away by a Kansas cyclone to a magical realm, which young girl followed the Yellow Brick Road to the Emerald City with a Scarecrow, Tin Woodman, and Cowardly Lion?",
+    "options": [
+      "Dorothy Gale",
+      "Alice",
+      "Anne Shirley",
+      "Wendy Darling"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "story",
+    "kkaebi_reaction": {
+      "correct": "Correct! Clicking her ruby slippers while chanting 'There’s no place like home', it is Dorothy!",
+      "wrong": "Wrong! Think of the girl from Kansas who traveled the Yellow Brick Road."
     }
   }
 ]
