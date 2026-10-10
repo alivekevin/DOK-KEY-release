@@ -2,12 +2,12 @@
   {
     "question": "水に浮かんで沈まず、人を乗せて海を渡るものは？",
     "options": [
-      "網",
-      "風船",
       "舟",
+      "風船",
+      "網",
       "石"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -21,11 +21,11 @@
     "question": "自らを燃やして、一番暗い場所を明るく照らすものは？",
     "options": [
       "鏡",
-      "壺",
       "蝋燭",
+      "壺",
       "ガラス"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -38,12 +38,12 @@
   {
     "question": "光が強いほど濃くはっきり現れ、光が完全に消えて初めて足元から姿を消す黒い相棒は何でしょう？",
     "options": [
-      "影",
-      "鏡",
       "足跡",
+      "鏡",
+      "影",
       "ホコリ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -57,11 +57,11 @@
     "question": "傘が守れない足元を代わりに守る、雨の日の友は？",
     "options": [
       "日除け",
-      "長靴",
+      "ビニール",
       "レインコート",
-      "ビニール"
+      "長靴"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -92,12 +92,12 @@
   {
     "question": "青い竹の骨組みに薄い和紙の翼を広げ、風に乗って空高く舞い上がり、糸が切れれば遥か彼方へ飛び去るものは何でしょう？",
     "options": [
-      "凧",
       "うちわ",
+      "凧",
       "天灯",
       "かざぐるま"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -111,11 +111,11 @@
     "question": "音もなく押されるのに、その跡に名が残るものは？",
     "options": [
       "拳",
-      "印鑑",
       "切手",
+      "印鑑",
       "手のひら"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -129,11 +129,11 @@
     "question": "風が吹くと鳴って、門の上から家を守る飾りは？",
     "options": [
       "旗",
-      "風鈴",
+      "朝顔",
       "鐘",
-      "朝顔"
+      "風鈴"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -146,12 +146,12 @@
   {
     "question": "米で作られ、お正月の供え物の一番に置かれる白い食べ物は？",
     "options": [
-      "果物",
+      "餅",
       "ご飯",
       "麺",
-      "餅"
+      "果物"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -164,12 +164,12 @@
   {
     "question": "人の誤りやミスを消し去るたびに己の身をすり減らし、白いカスを残して消えてゆくものは何でしょう？",
     "options": [
-      "消しゴム",
       "石鹸",
+      "消しゴム",
       "ぞうきん",
       "チョーク"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -182,12 +182,12 @@
   {
     "question": "普段は壁に静かにかかって世の景色を映し、床に落ちて割れた瞬間、何百もの破片で主人を睨みつけるものは何でしょう？",
     "options": [
-      "鏡",
-      "窓",
       "金魚鉢",
+      "窓",
+      "鏡",
       "時計"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -200,12 +200,12 @@
   {
     "question": "生まれた時はスラリと長く滑らかだったのに、主人の思いを黒鉛の粉で吐き出しながら背が縮んでちびっ子になる文房具は何でしょう？",
     "options": [
-      "鉛筆",
+      "のり",
       "消しゴム",
       "定規",
-      "のり"
+      "鉛筆"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -236,12 +236,12 @@
   {
     "question": "黒い墨をすって字を書かせる、四角い石の器は？",
     "options": [
-      "硯",
       "水滴",
+      "硯",
       "筆箱",
       "文鎮"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -255,11 +255,11 @@
     "question": "海の真ん中で光によって船の道を示すものは？",
     "options": [
       "雷",
-      "灯台",
       "星",
+      "灯台",
       "月"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -290,12 +290,12 @@
   {
     "question": "体は小さいのに扉を開ける力を持つ、ポケットの中の英雄は？",
     "options": [
-      "ボタン",
+      "鍵",
       "硬貨",
       "指輪",
-      "鍵"
+      "ボタン"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -308,12 +308,12 @@
   {
     "question": "朝から夕方まで太陽を追いて首を回す花は？",
     "options": [
-      "ひまわり",
       "木蓮",
+      "ひまわり",
       "コスモス",
       "槿の花"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -327,11 +327,11 @@
     "question": "夏に扉を開ければ冷たい気が溢れる、台所の宝箱は？",
     "options": [
       "壺",
-      "冷蔵庫",
       "温突",
+      "冷蔵庫",
       "火鉢"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -345,11 +345,11 @@
     "question": "浮かばないで背中を貸して川を渡らせる、石と土の道は？",
     "options": [
       "井戸",
-      "橋",
+      "舟",
       "堤防",
-      "舟"
+      "橋"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -366,12 +366,12 @@
     "reward_keys": 1,
     "question": "首を暖かく包んでくれるけれど、屋内に入った瞬間、ひとりで汗まみれにさせて息苦しく締めつける防寒具は？",
     "options": [
-      "マスク",
       "マフラー",
+      "マスク",
       "手袋",
       "耳あて"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "正解！バスや電車に乗った途端、サウナに来たみたいに汗がだらだら流れるんだケビ！",
       "wrong": "ハズレ！寒い時は首を温めてくれるけれど、暖かい場所では息苦しい布だぞ。"
@@ -381,11 +381,11 @@
     "question": "目を閉じて聞けば眠くなる、母の声で歌う歌は？",
     "options": [
       "童謡",
-      "民謡",
       "子守唄",
+      "民謡",
       "バラード"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -400,10 +400,10 @@
     "options": [
       "蛍",
       "炎",
-      "流れ星",
-      "鬼火"
+      "鬼火",
+      "流れ星"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -417,11 +417,11 @@
     "question": "冬至や引っ越しの日に、赤い気で悪霊や厄を払うために家の内外に撒く丸い穀物は？",
     "options": [
       "米",
-      "小豆",
+      "粟",
       "大麦",
-      "粟"
+      "小豆"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -489,11 +489,11 @@
     "question": "日の出の直前にほんの一瞬だけ現れる最も早い星は？",
     "options": [
       "北斗七星",
-      "明けの明星",
+      "流星",
       "北極星",
-      "流星"
+      "明けの明星"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -525,11 +525,11 @@
     "question": "百年生れても春には新芽を出す、山の智恵ある老人は？",
     "options": [
       "草",
-      "池",
+      "古木",
       "岩",
-      "古木"
+      "池"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -562,10 +562,10 @@
     "options": [
       "塀",
       "取っ手",
-      "敷居",
-      "階段"
+      "階段",
+      "敷居"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -578,12 +578,12 @@
   {
     "question": "墨を腹いっぱい溜めて、一度引けば長い一画になるものは？",
     "options": [
-      "定規",
-      "鋏",
       "筆",
+      "鋏",
+      "定規",
       "棒"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -596,12 +596,12 @@
   {
     "question": "川の上に一つずつ置かれ、足場となる石の道は？",
     "options": [
-      "飛び石",
       "階段",
+      "飛び石",
       "いかだ",
       "ブイ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -614,12 +614,12 @@
   {
     "question": "川の流れに洗われ転がって丸く滑らかになった、川辺の静かな小石は？",
     "options": [
-      "小石 (砂利)",
-      "砂",
       "苔",
+      "砂",
+      "小石 (砂利)",
       "蒲"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -633,11 +633,11 @@
     "question": "ちょろちょろ流れて大きな川になる、山の最も小さな川は？",
     "options": [
       "海",
-      "小川",
+      "池",
       "井戸",
-      "池"
+      "小川"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -650,12 +650,12 @@
   {
     "question": "煙で家に命があることを知らせる、屋根の上の友は？",
     "options": [
-      "桜",
       "煙突",
+      "桜",
       "旗竿",
       "風鈴"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -669,11 +669,11 @@
     "question": "秋に木から落ちて、春には土の養分になるものは？",
     "options": [
       "実",
-      "枝",
+      "落葉",
       "花粉",
-      "落葉"
+      "枝"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -687,11 +687,11 @@
     "question": "世界を明るくしながらも、自分の足元だけは暗いものは？",
     "options": [
       "月",
-      "灯",
       "星",
+      "灯",
       "松明"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -706,10 +706,10 @@
     "options": [
       "凧",
       "紙飛行機",
-      "風車",
-      "風船"
+      "風船",
+      "風車"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -722,12 +722,12 @@
   {
     "question": "想像の中にだけ住んで、悪霊を食べて守ってくれる門の神獣は？",
     "options": [
-      "兎",
+      "獬豸",
       "鹿",
       "虎",
-      "獬豸"
+      "兎"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -741,11 +741,11 @@
     "question": "青と赤が交互に回って調和を作る、旗や服の文様は？",
     "options": [
       "虹",
-      "五彩",
+      "太極",
       "花模様",
-      "太極"
+      "五彩"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -777,11 +777,11 @@
     "question": "息を吹けば哀切な音が出る、竹で作った楽器は？",
     "options": [
       "太鼓",
-      "大笒",
+      "鉦",
       "杖鼓",
-      "鉦"
+      "大笒"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -794,12 +794,12 @@
   {
     "question": "叩くほど音が大きくなる、音楽の広い心臓は？",
     "options": [
-      "鐘",
       "太鼓",
+      "鐘",
       "笛",
       "喇叭"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -813,11 +813,11 @@
     "question": "打つたびに鳴り、打ち終われば沈黙するお寺の巨大な声は？",
     "options": [
       "鉦",
-      "太鼓",
+      "鐘",
       "喇叭",
-      "鐘"
+      "太鼓"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -830,12 +830,12 @@
   {
     "question": "普段は静かに眠っているけれど、怒ると真っ赤な炎と灰を空高く吹き上げる山は？",
     "options": [
-      "火山",
-      "氷山",
       "砂丘",
+      "氷山",
+      "火山",
       "滝"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -850,10 +850,10 @@
     "options": [
       "ゴールドキャプテン",
       "宝探し屋",
-      "トッケビマスター",
-      "鍵職人"
+      "鍵職人",
+      "トッケビマスター"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -884,12 +884,12 @@
   {
     "question": "昼は隠れていて、夜になると黒い空に宝石のように嵌り込むものは？",
     "options": [
-      "星",
       "灯台",
+      "星",
       "ホタル",
       "月の暈"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -902,12 +902,12 @@
   {
     "question": "頭に赤い帽子をかぶり、全身を燃やして闇を追い払うものは？",
     "options": [
-      "マッチ",
-      "紅葉",
       "唐辛子",
+      "紅葉",
+      "マッチ",
       "鳳仙花"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -921,11 +921,11 @@
     "question": "普段はおとなしく畳まれているのに、空から涙がこぼれ落ちる時だけ頭上に満開に咲く花は何でしょう？",
     "options": [
       "長靴",
-      "傘",
+      "うちわ",
       "レインコート",
-      "うちわ"
+      "傘"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -956,12 +956,12 @@
   {
     "question": "空から舞い降りる時は羽毛のように柔らかく、手のひらにそっと降り立った瞬間にぬくもりで清らかな涙に変わるものは何でしょう？",
     "options": [
-      "雪の結晶",
       "ひょう",
+      "雪の結晶",
       "露",
       "霜"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -974,12 +974,12 @@
   {
     "question": "朝には四つ足で這い、昼には二本足で歩き、夕暮れには三本足で歩く一生の主人公は何でしょう？",
     "options": [
-      "人",
-      "トラ",
       "サル",
+      "トラ",
+      "人",
       "ツル"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -992,12 +992,12 @@
   {
     "question": "いつも同じ場所に立って、通り過ぎる旅人に道を指し示す石の柱は？",
     "options": [
-      "長承（キロ標）",
+      "石碑",
       "ソッテ",
       "石塔",
-      "石碑"
+      "長承（キロ標）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1028,12 +1028,12 @@
   {
     "question": "蹴ると空中で羽を広げ、ふわりと舞う伝統的な遊び道具は？",
     "options": [
-      "チェギ",
       "コマ",
+      "チェギ",
       "凧",
       "フープ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1046,12 +1046,12 @@
   {
     "question": "風に乗って空高く舞い上がるのに、細い糸ひとつに繋がれているものは？",
     "options": [
-      "盾凧（ヨン）",
-      "風船",
       "鳥かご",
+      "風船",
+      "盾凧（ヨン）",
       "ブランコ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1064,12 +1064,12 @@
   {
     "question": "鞭で打つほど楽しくぐるぐる回る、氷の上の小さなコマは？",
     "options": [
-      "木のコマ",
+      "臼",
       "車輪",
       "ビー玉",
-      "臼"
+      "木のコマ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1100,12 +1100,12 @@
   {
     "question": "休まず打ち続けるけれど、自分は休めない胸の中の時計は？",
     "options": [
-      "心臓",
       "肺",
+      "心臓",
       "脳",
       "目"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1123,11 +1123,11 @@
     "question": "手首に端正につけて出かけたのに、袖をまくるたびにシャツのボタンに引っかかって糸をほどいてしまうものは？",
     "options": [
       "革時計バンド",
-      "金属時計バンド",
       "スマートリング",
+      "金属時計バンド",
       "シリコンバンド"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "カチッ！お気に入りのニットの袖に引っかかって編み目がほつれる悲鳴の音！",
       "wrong": "ハズレ！冷たい金属のコマが生地を噛んでしまう手首のベルトだぞ。"
@@ -1136,12 +1136,12 @@
   {
     "question": "分けるほど大きくなり、分かち合うほど深まる心は？",
     "options": [
-      "愛",
+      "悲しみ",
       "憎しみ",
       "欲",
-      "悲しみ"
+      "愛"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1172,12 +1172,12 @@
   {
     "question": "晴れた日には一日中見えないのに、雨が上がって陽光が差し込む時、空高く七色の橋を架けるものは何でしょう？",
     "options": [
-      "虹",
       "オーロラ",
+      "虹",
       "天の川",
       "夕焼け"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1190,12 +1190,12 @@
   {
     "question": "泥の中で育つのに汚れに染まらず、清らかな花を咲かせる知恵の花は？",
     "options": [
-      "蓮の花",
-      "菊",
       "梅の花",
+      "菊",
+      "蓮の花",
       "スイセン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1208,12 +1208,12 @@
   {
     "question": "寒い冬の吹雪の中でも青い葉を失わない、節義と気概の木は？",
     "options": [
-      "松",
+      "イチョウ",
       "柳",
       "紅葉（カエデ）",
-      "イチョウ"
+      "松"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1244,12 +1244,12 @@
   {
     "question": "中は空っぽでもまっすぐ伸び、節ごとにしっかり満たす節義の象徴は？",
     "options": [
-      "竹",
       "アシ",
+      "竹",
       "モロコシ",
       "ススキ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1262,12 +1262,12 @@
   {
     "question": "トッケビの宝物庫を開き、人生の真の知恵を授ける神秘の鍵は？",
     "options": [
-      "トッケビの黄金の鍵（DOK-KEY）",
-      "鉄の鍵",
       "石斧",
+      "鉄の鍵",
+      "トッケビの黄金の鍵（DOK-KEY）",
       "宝の地図"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1280,12 +1280,12 @@
   {
     "question": "八本足の友が夜通し編んだ、露に光る網は？",
     "options": [
-      "クモの巣",
+      "洗濯ネット",
       "味噌こし",
       "虫取り網",
-      "洗濯ネット"
+      "クモの巣"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1298,12 +1298,12 @@
   {
     "question": "どこへ行ってもいつも同じ方角を指す、道に迷った旅人の友は？",
     "options": [
-      "地図",
       "羅針盤",
+      "地図",
       "時計",
       "望遠鏡"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1334,12 +1334,12 @@
   {
     "question": "毎日美味しいご飯を口いっぱいにくわえさせられても、飲み込めずに吐き出さねばならない台所道具は何でしょう？",
     "options": [
-      "スプーン",
-      "鍋",
       "まな板",
+      "鍋",
+      "スプーン",
       "ふきん"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -1352,12 +1352,12 @@
   {
     "question": "前に進むと尾が短くなり、後ろに退くと尾が長くなり、破れたところを縫い合わせるものは何でしょう？",
     "options": [
-      "針と糸",
+      "安全ピン",
       "ハサミ",
       "指ぬき",
-      "安全ピン"
+      "針と糸"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "daily",
@@ -1388,12 +1388,12 @@
   {
     "question": "一日二回、口の中をきれいにする小さな泡の妖精の道具は？",
     "options": [
-      "歯ブラシ",
       "石鹸",
+      "歯ブラシ",
       "タオル",
       "コップ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1406,12 +1406,12 @@
   {
     "question": "生まれた時は四角い氷の板のようだが、手のひらと擦れ合うたびに芳しい泡を咲かせ、次第に小さくなって消える入浴用具は何でしょう？",
     "options": [
-      "石鹸",
-      "スポンジ",
       "シャンプー",
+      "スポンジ",
+      "石鹸",
       "歯磨き粉"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -1424,12 +1424,12 @@
   {
     "question": "両足に一つずつ履いてつま先を包み、必ず左右が揃っていなければならない衣類は？",
     "options": [
-      "靴下",
+      "マフラー",
       "手袋",
       "帽子",
-      "マフラー"
+      "靴下"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1461,11 +1461,11 @@
     "question": "頭にのせて日差しを遮るものは？",
     "options": [
       "眼鏡",
-      "傘",
       "帽子",
+      "傘",
       "靴"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1478,12 +1478,12 @@
   {
     "question": "海が息をするたびに寄せては消えるものは？",
     "options": [
-      "波",
-      "潮",
       "泡",
+      "潮",
+      "波",
       "砂"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1496,12 +1496,12 @@
   {
     "question": "朝の光が射せば宝石のように澄んだ玉となって草の葉の先に結び、陽が高く昇ると音もなく消え去るものは何でしょう？",
     "options": [
-      "露",
+      "ひょう",
       "霜",
       "みぞれ",
-      "ひょう"
+      "露"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1550,12 +1550,12 @@
   {
     "question": "鼻が長く耳が大きく、うちわのように扇ぐ大きな動物は？",
     "options": [
-      "象",
-      "サイ",
       "カバ",
+      "サイ",
+      "象",
       "キリン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1569,11 +1569,11 @@
     "question": "赤・黄・緑の三つの目で道を教えるものは？",
     "options": [
       "街灯",
-      "信号機",
+      "標識",
       "電柱",
-      "標識"
+      "信号機"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1586,12 +1586,12 @@
   {
     "question": "二つの車輪とペダルで進む乗り物は？",
     "options": [
-      "オートバイ",
-      "車",
       "自転車",
+      "車",
+      "オートバイ",
       "バス"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1604,12 +1604,12 @@
   {
     "question": "手紙を入れると遠くまで届けてくれる、赤い四角い箱は？",
     "options": [
-      "郵便ポスト",
       "引き出し棚",
+      "郵便ポスト",
       "金庫",
       "本棚"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1641,11 +1641,11 @@
     "question": "片方が下がればもう片方が上がる、二人乗りの遊具は？",
     "options": [
       "ブランコ",
-      "シーソー",
+      "滑り台",
       "メリーゴーラウンド",
-      "滑り台"
+      "シーソー"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1695,11 +1695,11 @@
     "question": "光ったあと、遅れてゴロゴロと鳴る音は？",
     "options": [
       "稲妻",
-      "雷",
       "風",
+      "雷",
       "こだま"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1712,12 +1712,12 @@
   {
     "question": "地上に白く降りて視界をかすませる幕は？",
     "options": [
-      "霧",
+      "霜",
       "雲",
       "ほこり",
-      "霜"
+      "霧"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1730,12 +1730,12 @@
   {
     "question": "花びらのように色とりどりの美しい羽を広げ、花畑の間を舞うものは？",
     "options": [
-      "蜂",
       "蝶",
+      "蜂",
       "トンボ",
       "鳥"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1749,11 +1749,11 @@
     "question": "飛べないけれど南極で泳ぎが得意な、タキシード姿の鳥は？",
     "options": [
       "ダチョウ",
-      "カモメ",
       "ペンギン",
+      "カモメ",
       "アヒル"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1767,11 +1767,11 @@
     "question": "静かにと言われるのに、本が何万冊もある静かな家は？",
     "options": [
       "書店",
-      "図書館",
       "博物館",
+      "図書館",
       "学校"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1785,11 +1785,11 @@
     "question": "白菜を漬けて味付けし冬に食べる、辛いおかずは？",
     "options": [
       "漬物",
-      "キムチ",
+      "サラダ",
       "ピクルス",
-      "サラダ"
+      "キムチ"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1821,11 +1821,11 @@
     "question": "守れば信頼になり、破れば失望になる言葉は？",
     "options": [
       "嘘",
-      "秘密",
       "約束",
+      "秘密",
       "あいさつ"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1840,10 +1840,10 @@
     "options": [
       "牛",
       "虎",
-      "兎",
-      "ねずみ"
+      "ねずみ",
+      "兎"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -1874,12 +1874,12 @@
   {
     "question": "ギリシャ神話で海を支配する神は？",
     "options": [
-      "ゼウス",
+      "ポセイドン",
       "アレス",
       "アポロン",
-      "ポセイドン"
+      "ゼウス"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1893,11 +1893,11 @@
     "question": "ギリシャ神話で知恵と戦いを象徴する女神は？",
     "options": [
       "ヘラ",
-      "アフロディーテ",
+      "アテナ",
       "アルテミス",
-      "アテナ"
+      "アフロディーテ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1912,10 +1912,10 @@
     "options": [
       "フレイヤ",
       "ロキ",
-      "ヴァルキリー",
-      "トール"
+      "トール",
+      "ヴァルキリー"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1926,7 +1926,7 @@
     "id": "rid_111"
   },
   {
-    "question": "ギリシャ神話で冥界を治める王は？",
+    "question": "ギリシャ神話で死者の国を治め、ケルベロスを従える王は？",
     "options": [
       "ゼウス",
       "ヘルメス",
@@ -1946,12 +1946,12 @@
   {
     "question": "インド神話で象の頭を持つ知恵と幸運の神は？",
     "options": [
-      "ヴィシュヌ",
+      "ガネーシャ",
       "インドラ",
       "ラー",
-      "ガネーシャ"
+      "ヴィシュヌ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1965,11 +1965,11 @@
     "question": "エジプト神話でジャッカルの頭を持つ死とミイラの神は？",
     "options": [
       "オシリス",
-      "ラー",
+      "アヌビス",
       "バステト",
-      "アヌビス"
+      "ラー"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1984,10 +1984,10 @@
     "options": [
       "猿",
       "羊",
-      "馬",
-      "にわとり"
+      "にわとり",
+      "馬"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2018,12 +2018,12 @@
   {
     "question": "ガラスの靴を残して真夜中に去った童話の少女は？",
     "options": [
-      "白雪姫",
+      "シンデレラ",
       "人魚姫",
       "ラプンツェル",
-      "シンデレラ"
+      "白雪姫"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2037,11 +2037,11 @@
     "question": "毒リンゴを食べて深く眠った姫は？",
     "options": [
       "シンデレラ",
-      "人魚姫",
+      "白雪姫",
       "ラプンツェル",
-      "白雪姫"
+      "人魚姫"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2056,10 +2056,10 @@
     "options": [
       "ピーターパン",
       "ヘンゼル",
-      "アリス",
-      "ピノキオ"
+      "ピノキオ",
+      "アリス"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2090,12 +2090,12 @@
   {
     "question": "森のお菓子の家の魔女が出る兄妹の童話は？",
     "options": [
-      "赤ずきん",
+      "ヘンゼルとグレーテル",
       "ピノキオ",
       "ジャックと豆の木",
-      "ヘンゼルとグレーテル"
+      "赤ずきん"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2109,11 +2109,11 @@
     "question": "夏中歌ってばかりで冬に飢えた、蟻と共に登場する昆虫は？",
     "options": [
       "蝉",
-      "コオロギ",
+      "キリギリス",
       "蝶",
-      "キリギリス"
+      "コオロギ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2128,10 +2128,10 @@
     "options": [
       "白雪姫",
       "シンデレラ",
-      "ラプンツェル",
-      "人魚姫"
+      "人魚姫",
+      "ラプンツェル"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2162,12 +2162,12 @@
   {
     "question": "好奇心で災いの詰まった箱を開けてしまった女性は？",
     "options": [
-      "アテナ",
+      "パンドラ",
       "ヘレネ",
       "メドゥーサ",
-      "パンドラ"
+      "アテナ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2181,11 +2181,11 @@
     "question": "畑を耕しながら低く鳴く、十二支の二番目の動物は？",
     "options": [
       "馬",
-      "羊",
+      "牛",
       "ヤギ",
-      "牛"
+      "羊"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2200,10 +2200,10 @@
     "options": [
       "ライオン",
       "ヒョウ",
-      "熊",
-      "虎"
+      "虎",
+      "熊"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2234,12 +2234,12 @@
   {
     "question": "足なしで滑るように進む十二支は？",
     "options": [
-      "ミミズ",
+      "蛇",
       "トカゲ",
       "ワニ",
-      "蛇"
+      "ミミズ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2253,11 +2253,11 @@
     "question": "十二支の中で、たてがみをなびかせ力強く駆ける7番目の動物は？",
     "options": [
       "ロバ",
-      "ラバ",
+      "馬",
       "シマウマ",
-      "馬"
+      "ラバ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2272,10 +2272,10 @@
     "options": [
       "ヤギ",
       "牛",
-      "鹿",
-      "羊"
+      "羊",
+      "鹿"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2306,12 +2306,12 @@
   {
     "question": "豊かさと福を象徴する、十二支の12番目の最後の動物は？",
     "options": [
-      "象",
+      "猪 (豚)",
       "カバ",
       "サイ",
-      "猪 (豚)"
+      "象"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2325,11 +2325,11 @@
     "question": "聖人が現れると姿を見せるという東洋の想像上の動物は？",
     "options": [
       "ユニコーン",
-      "鳳凰",
+      "麒麟",
       "龍",
-      "麒麟"
+      "鳳凰"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2340,14 +2340,14 @@
     "id": "rid_136"
   },
   {
-    "question": "東洋思想で四方を守る四神のうち、南を司り朱雀の姿をした神獣は？",
+    "question": "夏と炎を象徴し、南の空を守る赤い鳥の姿の四神は？",
     "options": [
       "鳳凰",
       "三足烏",
-      "青龍",
-      "朱雀"
+      "朱雀",
+      "青龍"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2358,7 +2358,7 @@
     "id": "rid_137"
   },
   {
-    "question": "東洋思想で四方を守る四神のうち、北を司り亀と蛇が合わさった神獣は？",
+    "question": "冬と水を象徴し、北の空を守る亀と蛇が一体となった四神は？",
     "options": [
       "青龍",
       "白虎",
@@ -2378,12 +2378,12 @@
   {
     "question": "東洋で長寿と平和を象徴する白い鹿の神獣は？",
     "options": [
-      "白馬",
+      "白鹿",
       "羊",
       "麒麟",
-      "白鹿"
+      "白馬"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2397,11 +2397,11 @@
     "question": "桐の木に宿り天下泰平を告げるという想像上の鳥は？",
     "options": [
       "朱雀",
-      "孔雀",
+      "鳳凰",
       "鶴",
-      "鳳凰"
+      "孔雀"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2414,12 +2414,12 @@
   {
     "question": "東洋の伝説で太陽の中に住むという、三本足の神聖な黒い鳥は？",
     "options": [
-      "三足烏",
-      "カラス",
       "ツバメ",
+      "カラス",
+      "三足烏",
       "ツル"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2450,12 +2450,12 @@
   {
     "question": "額に一本の角が生えた西洋の想像上の動物は？",
     "options": [
-      "グリフォン",
+      "ユニコーン",
       "麒麟",
       "鹿",
-      "ユニコーン"
+      "グリフォン"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2469,11 +2469,11 @@
     "question": "三つの目を持つ、三つ目犬の神獣は？",
     "options": [
       "ヘテ",
-      "白虎",
+      "三つ目犬",
       "九尾の狐",
-      "三つ目犬"
+      "白虎"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2488,10 +2488,10 @@
     "options": [
       "アヌビス",
       "アメン",
-      "バステト",
-      "セベク"
+      "セベク",
+      "バステト"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2522,12 +2522,12 @@
   {
     "question": "魚と龍が合わさった、海を治める神獣は？",
     "options": [
-      "イムギ",
+      "魚龍",
       "リヴァイアサン",
       "玄武",
-      "魚龍"
+      "イムギ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2541,11 +2541,11 @@
     "question": "ライオンの体に人の頭、なぞなぞを出すエジプトの守護像は？",
     "options": [
       "グリフォン",
-      "猫又",
+      "スフィンクス",
       "セベク",
-      "スフィンクス"
+      "猫又"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2560,10 +2560,10 @@
     "options": [
       "魚龍",
       "イムギ",
-      "クラーケン",
-      "リヴァイアサン"
+      "リヴァイアサン",
+      "クラーケン"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2594,12 +2594,12 @@
   {
     "question": "三本足のヒキガエルの神獣、月に住むというものは？",
     "options": [
-      "三足烏",
+      "三足蟾",
       "カエル",
       "亀",
-      "三足蟾"
+      "三足烏"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2613,11 +2613,11 @@
     "question": "鷲の頭とライオンの体を持つ西洋の神獣は？",
     "options": [
       "ユニコーン",
-      "スフィンクス",
+      "グリフォン",
       "鳳凰",
-      "グリフォン"
+      "スフィンクス"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2630,12 +2630,12 @@
   {
     "question": "東洋思想で四方を守る四神のうち、西を司る白い獣の神獣は？",
     "options": [
-      "白虎",
-      "虎",
       "ヒョウ",
+      "虎",
+      "白虎",
       "獬豸"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2666,12 +2666,12 @@
   {
     "question": "虎を連れて山を守る、山の神は？",
     "options": [
-      "龍王",
+      "山の神",
       "トジュデガム",
       "死神",
-      "山の神"
+      "龍王"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2684,12 +2684,12 @@
   {
     "question": "ギリシャ神話で、死者の魂を舟に乗せて冥界の川を渡す渡し守は？",
     "options": [
-      "カロン",
       "死神",
+      "カロン",
       "ハデス",
       "キューピッド"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2704,10 +2704,10 @@
     "options": [
       "閻魔大王",
       "龍王",
-      "山の神",
-      "玉皇大帝"
+      "玉皇大帝",
+      "山の神"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2738,12 +2738,12 @@
   {
     "question": "東洋の伝説で世界を創ったという巨大なおばあさんの創造女神は？",
     "options": [
-      "三神婆",
+      "マゴ婆",
       "バリ公主",
       "観音菩薩",
-      "マゴ婆"
+      "三神婆"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2757,11 +2757,11 @@
     "question": "東洋の伝説で亡き親を救うためあの世まで行った孝女の姫は？",
     "options": [
       "三神婆",
-      "マゴ婆",
+      "バリ公主",
       "観音菩薩",
-      "バリ公主"
+      "マゴ婆"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2776,10 +2776,10 @@
     "options": [
       "マゴ婆",
       "バリ公主",
-      "トジュデガム",
-      "三神婆"
+      "三神婆",
+      "トジュデガム"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2810,12 +2810,12 @@
   {
     "question": "屋敷地を守り家内の安寧を見守る神は？",
     "options": [
-      "山の神",
+      "トジュデガム",
       "龍王",
       "三神婆",
-      "トジュデガム"
+      "山の神"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2829,11 +2829,11 @@
     "question": "ギリシャ神話で稲妻を武器にオリュンポスを治める最高神は？",
     "options": [
       "ヘパイストス",
-      "ハデス",
+      "ゼウス",
       "アポロン",
-      "ゼウス"
+      "ハデス"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2848,10 +2848,10 @@
     "options": [
       "フレイ",
       "ロキ",
-      "ヴァルキリー",
-      "オーディン"
+      "オーディン",
+      "ヴァルキリー"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2882,12 +2882,12 @@
   {
     "question": "北欧神話のいたずら好き、欺きの神は？",
     "options": [
-      "オーディン",
+      "ロキ",
       "トール",
       "ヴァルキリー",
-      "ロキ"
+      "オーディン"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2901,11 +2901,11 @@
     "question": "戦死した英雄をヴァルハラへ連れて行く北欧の女戦士は？",
     "options": [
       "アテナ",
-      "オーディン",
+      "ヴァルキリー",
       "フレイヤ",
-      "ヴァルキリー"
+      "オーディン"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2920,10 +2920,10 @@
     "options": [
       "観音菩薩",
       "シヴァ",
-      "インドラ",
-      "仏陀"
+      "仏陀",
+      "インドラ"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2954,12 +2954,12 @@
   {
     "question": "インド神話で破壊と変化を象徴する神は？",
     "options": [
-      "クリシュナ",
+      "シヴァ",
       "インドラ",
       "ラー",
-      "シヴァ"
+      "クリシュナ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2973,11 +2973,11 @@
     "question": "インド神話で雷と雨を司る神は？",
     "options": [
       "シヴァ",
-      "ブラフマー",
+      "インドラ",
       "ガネーシャ",
-      "インドラ"
+      "ブラフマー"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2992,10 +2992,10 @@
     "options": [
       "オシリス",
       "アヌビス",
-      "トート",
-      "ラー"
+      "ラー",
+      "トート"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3026,12 +3026,12 @@
   {
     "question": "エジプト神話で猫の頭を持つ家庭と治癒の女神は？",
     "options": [
-      "アヌビス",
+      "バステト",
       "トート",
       "ラー",
-      "バステト"
+      "アヌビス"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3045,11 +3045,11 @@
     "question": "悪龍を退けた天使長、天の軍勢の指揮官は？",
     "options": [
       "ガブリエル",
-      "ラファエル",
+      "大天使ミカエル",
       "ウリエル",
-      "大天使ミカエル"
+      "ラファエル"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3064,10 +3064,10 @@
     "options": [
       "ミカエル",
       "ラファエル",
-      "ウリエル",
-      "大天使ガブリエル"
+      "大天使ガブリエル",
+      "ウリエル"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3098,12 +3098,12 @@
   {
     "question": "火と知恵を象徴する天使は？",
     "options": [
-      "ミカエル",
+      "大天使ウリエル",
       "ガブリエル",
       "ラファエル",
-      "大天使ウリエル"
+      "ミカエル"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3117,11 +3117,11 @@
     "question": "生まれた時からそばで見守るという天使は？",
     "options": [
       "大天使ミカエル",
-      "大天使ガブリエル",
+      "守護天使",
       "大天使ラファエル",
-      "守護天使"
+      "大天使ガブリエル"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3136,10 +3136,10 @@
     "options": [
       "ヴァルキリー",
       "ムーサ",
-      "ハーピー",
-      "モイライ"
+      "モイライ",
+      "ハーピー"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3170,12 +3170,12 @@
   {
     "question": "鼻の上に一本の角がある、厚い鎧の動物は？",
     "options": [
-      "カバ",
+      "サイ",
       "象",
       "水牛",
-      "サイ"
+      "カバ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3189,11 +3189,11 @@
     "question": "川で大きく口を開ける、アフリカの巨大な動物は？",
     "options": [
       "サイ",
-      "ワニ",
+      "カバ",
       "水牛",
-      "カバ"
+      "ワニ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3208,10 +3208,10 @@
     "options": [
       "馬",
       "ロバ",
-      "リャマ",
-      "ラクダ"
+      "ラクダ",
+      "リャマ"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3242,12 +3242,12 @@
   {
     "question": "笹を好む、白黒模様の熊は？",
     "options": [
-      "熊",
+      "パンダ",
       "コアラ",
       "アライグマ",
-      "パンダ"
+      "熊"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3261,11 +3261,11 @@
     "question": "黒い縞模様のある、アフリカの馬は？",
     "options": [
       "馬",
-      "ロバ",
+      "シマウマ",
       "キリン",
-      "シマウマ"
+      "ロバ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3280,10 +3280,10 @@
     "options": [
       "ハヤブサ",
       "フクロウ",
-      "カラス",
-      "鷲"
+      "鷲",
+      "カラス"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3314,12 +3314,12 @@
   {
     "question": "海で最も大きく水を噴く動物は？",
     "options": [
-      "サメ",
+      "クジラ",
       "イルカ",
       "象",
-      "クジラ"
+      "サメ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3333,11 +3333,11 @@
     "question": "夏に緑の皮の中が赤い、大きな果物は？",
     "options": [
       "マクワウリ",
-      "メロン",
+      "スイカ",
       "カボチャ",
-      "スイカ"
+      "メロン"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3352,10 +3352,10 @@
     "options": [
       "サクランボ",
       "ラズベリー",
-      "トマト",
-      "イチゴ"
+      "イチゴ",
+      "トマト"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3386,12 +3386,12 @@
   {
     "question": "黄色く曲がった、皮をむいて食べる果物は？",
     "options": [
-      "マクワウリ",
+      "バナナ",
       "マンゴー",
       "パパイヤ",
-      "バナナ"
+      "マクワウリ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3405,11 +3405,11 @@
     "question": "粒が並んで詰まった、黄色い穂は？",
     "options": [
       "豆",
-      "小麦",
+      "トウモロコシ",
       "稲",
-      "トウモロコシ"
+      "小麦"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3424,10 +3424,10 @@
     "options": [
       "大根",
       "サツマイモ",
-      "ジャガイモ",
-      "ニンジン"
+      "ニンジン",
+      "ジャガイモ"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3458,12 +3458,12 @@
   {
     "question": "牛から搾る、白い飲み物は？",
     "options": [
-      "水",
+      "牛乳",
       "ジュース",
       "ヨーグルト",
-      "牛乳"
+      "水"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3477,11 +3477,11 @@
     "question": "熱湯に入れて3分で完成する麺料理は？",
     "options": [
       "素麺",
-      "パスタ",
+      "ラーメン",
       "うどん",
-      "ラーメン"
+      "パスタ"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3496,10 +3496,10 @@
     "options": [
       "おにぎり",
       "寿司",
-      "キムチ",
-      "キンパ"
+      "キンパ",
+      "キムチ"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3512,12 +3512,12 @@
   {
     "question": "ギリシャ神話で自慢が過ぎて空に縛られたエチオピアの王妃、W字型で北の空に輝く星座は？",
     "options": [
-      "カシオペア",
+      "はくちょう",
       "アンドロメダ",
       "ペガスス",
-      "はくちょう"
+      "カシオペア"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3548,12 +3548,12 @@
   {
     "question": "ギリシャ神話でオリオンに毒針を刺して勝った、夏の南の空の星座は？",
     "options": [
-      "さそり座",
       "しし座",
+      "さそり座",
       "かに座",
       "おうし座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3566,12 +3566,12 @@
   {
     "question": "ギリシャ神話でヘラクレスが退治したネメアの森の猛獣、春の夜空の王の星座は？",
     "options": [
-      "しし座",
-      "さそり座",
       "おうし座",
+      "さそり座",
+      "しし座",
       "ふたご座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3584,12 +3584,12 @@
   {
     "question": "ギリシャ神話でゼウスがエウロパを乗せるために変身した動物、角を掲げた星座は？",
     "options": [
-      "おうし座",
+      "かに座",
       "おひつじ座",
       "やぎ座",
-      "かに座"
+      "おうし座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3620,12 +3620,12 @@
   {
     "question": "ギリシャ神話で正義の女神が麦の穂を持って天に昇った、乙女の星座は？",
     "options": [
-      "おとめ座",
       "てんびん座",
+      "おとめ座",
       "かに座",
       "みずがめ座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3638,12 +3638,12 @@
   {
     "question": "ギリシャ神話で正義を量った天秤、黄道上の均衡の星座は？",
     "options": [
-      "てんびん座",
-      "おとめ座",
       "さそり座",
+      "おとめ座",
+      "てんびん座",
       "いて座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3656,12 +3656,12 @@
   {
     "question": "ギリシャ神話で弓矢を持つ賢者ケイローンの名を冠した、黄道上の星座は？",
     "options": [
-      "いて座",
+      "おひつじ座",
       "やぎ座",
       "みずがめ座",
-      "おひつじ座"
+      "いて座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3692,12 +3692,12 @@
   {
     "question": "ギリシャ神話でゼウスに連れ去られた美少年ガニュメデスが水を注ぐ星座は？",
     "options": [
-      "みずがめ座",
       "うお座",
+      "みずがめ座",
       "おとめ座",
       "やぎ座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3710,12 +3710,12 @@
   {
     "question": "ギリシャ神話でアフロディーテとエロスが変身し糸で結ばれたという、黄道最後の星座は？",
     "options": [
-      "うお座",
-      "みずがめ座",
       "おひつじ座",
+      "みずがめ座",
+      "うお座",
       "かに座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3728,12 +3728,12 @@
   {
     "question": "ギリシャ神話でメドゥーサの血から生まれた、翼ある天馬の星座は？",
     "options": [
-      "ペガスス座",
+      "カシオペヤ座",
       "アンドロメダ座",
       "はくちょう座",
-      "カシオペヤ座"
+      "ペガスス座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3764,12 +3764,12 @@
   {
     "question": "ギリシャ神話でゼウスがレダに近づくため変身した鳥の星座は？",
     "options": [
-      "はくちょう",
       "ペガスス",
+      "はくちょう",
       "わし座",
       "からす座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3782,12 +3782,12 @@
   {
     "question": "ギリシャ神話でアトラスの娘たち、七姉妹と呼ばれるおうし座の星団は？",
     "options": [
-      "プレアデス",
-      "シリウス",
       "ベガ",
+      "シリウス",
+      "プレアデス",
       "カノープス"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3800,12 +3800,12 @@
   {
     "question": "ギリシャ神話でヘラの乳が流れてできたという、夜空を横切る星の川は？",
     "options": [
-      "天の川",
+      "流星群",
       "オーロラ",
       "彗星",
-      "流星群"
+      "天の川"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3836,12 +3836,12 @@
   {
     "question": "天の川の向こうの恋人を恋しがりながら機を織る、伝説の星は？",
     "options": [
-      "織女星",
       "北極星",
+      "織女星",
       "カシオペア",
       "デネブ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3854,12 +3854,12 @@
   {
     "question": "東洋で天を28の区画に分けた伝統的な星座体系は？",
     "options": [
-      "二十八宿",
-      "十二支",
       "四神",
+      "十二支",
+      "二十八宿",
       "北斗七星"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3872,12 +3872,12 @@
   {
     "question": "オリオン座の腰の下に並ぶ三つの星を東洋で呼ぶ名前は？",
     "options": [
-      "三つ星",
+      "北斗七星",
       "三神",
       "三足烏",
-      "北斗七星"
+      "三つ星"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3908,12 +3908,12 @@
   {
     "question": "北の空でほとんど動かず、船人の道しるべとなる星は？",
     "options": [
-      "北極星",
       "シリウス",
+      "北極星",
       "カノープス",
       "ベガ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3926,12 +3926,12 @@
   {
     "question": "ひしゃく型に七つの星が集まり北極星を指す星座は？",
     "options": [
-      "北斗七星",
-      "カシオペア",
       "こぐま座",
+      "カシオペア",
+      "北斗七星",
       "はくちょう"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3944,12 +3944,12 @@
   {
     "question": "尾の先に北極星を載せている、小さな熊の北の星座は？",
     "options": [
-      "こぐま座",
+      "うお座",
       "おおぐま座",
       "はくちょう座",
-      "うお座"
+      "こぐま座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3980,12 +3980,12 @@
   {
     "question": "ギリシャ神話で兄弟が並んで立つ、冬の空の双子の星座は？",
     "options": [
-      "ふたご座",
       "しし座",
+      "ふたご座",
       "おとめ座",
       "てんびん座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3998,12 +3998,12 @@
   {
     "question": "ギリシャ神話で亀の甲羅で作った楽器を持つ音楽家の星座は？",
     "options": [
-      "こと座",
-      "はくちょう座",
       "ペガスス",
+      "はくちょう座",
+      "こと座",
       "わし座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4016,12 +4016,12 @@
   {
     "question": "夜空をさっと流れ、願い事をさせる尾のある星は？",
     "options": [
-      "流れ星",
+      "天の川",
       "彗星",
       "北極星",
-      "天の川"
+      "流れ星"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4052,12 +4052,12 @@
   {
     "question": "ギリシャ神話で狩人オリオンの猟犬、おおいぬ座で最も明るい星は？",
     "options": [
-      "シリウス",
       "北極星",
+      "シリウス",
       "ベガ",
       "カノープス"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4070,12 +4070,12 @@
   {
     "question": "南半球の船人が方角を取った、十字型の南の星座は？",
     "options": [
-      "南十字星",
-      "北斗七星",
       "カシオペア",
+      "北斗七星",
+      "南十字星",
       "はくちょう"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4088,12 +4088,12 @@
   {
     "question": "ギリシャ神話で熊を見張る牛飼い、明るい星アルクトゥルスを抱く星座は？",
     "options": [
-      "うしかい座",
+      "おとめ座",
       "おおぐま座",
       "こぐま座",
-      "おとめ座"
+      "うしかい座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4124,12 +4124,12 @@
   {
     "question": "ギリシャ最高の英雄の名を冠した、夏の大きな星座は？",
     "options": [
-      "ヘルクレス座",
       "ペルセウス座",
+      "ヘルクレス座",
       "オリオン",
       "いて座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4142,12 +4142,12 @@
   {
     "question": "アンドロメダの父でエチオピアの王、北の空の星座は？",
     "options": [
-      "ケフェウス座",
-      "カシオペア",
       "ペルセウス座",
+      "カシオペア",
+      "ケフェウス座",
       "ペガスス"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4160,12 +4160,12 @@
   {
     "question": "ギリシャ神話の半人半馬ケンタウルス族全体を象徴する、南の空の大きな星座は？",
     "options": [
-      "ケンタウルス座",
+      "ペルセウス座",
       "いて座",
       "うしかい座",
-      "ペルセウス座"
+      "ケンタウルス座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4196,12 +4196,12 @@
   {
     "question": "おうし座の目と呼ばれる、赤く輝く星は？",
     "options": [
-      "アルデバラン",
       "リゲル",
+      "アルデバラン",
       "ベテルギウス",
       "シリウス"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4214,12 +4214,12 @@
   {
     "question": "オリオンの足元で青く輝く星は？",
     "options": [
-      "リゲル",
-      "ベテルギウス",
       "デネブ",
+      "ベテルギウス",
+      "リゲル",
       "カペラ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4232,12 +4232,12 @@
   {
     "question": "オリオンの肩で赤く輝く星は？",
     "options": [
-      "ベテルギウス",
+      "アンタレス",
       "リゲル",
       "アルデバラン",
-      "アンタレス"
+      "ベテルギウス"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4268,12 +4268,12 @@
   {
     "question": "こいぬ座で最も明るく、冬の大三角を成す星は？",
     "options": [
-      "プロキオン",
       "スピカ",
+      "プロキオン",
       "アークトゥルス",
       "ポルックス"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4286,12 +4286,12 @@
   {
     "question": "ぎょしゃ座で最も明るく、山羊星と呼ばれる星は？",
     "options": [
-      "カペラ",
-      "アルデバラン",
       "プロキオン",
+      "アルデバラン",
+      "カペラ",
       "デネブ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4304,12 +4304,12 @@
   {
     "question": "オリオン・シリウス・プロキオンが作る、冬の星の三角形は？",
     "options": [
-      "冬の大三角",
+      "北斗七星",
       "夏の大三角",
       "春の大三角",
-      "北斗七星"
+      "冬の大三角"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4340,12 +4340,12 @@
   {
     "question": "さそり座の心臓と呼ばれる、赤く輝く星は？",
     "options": [
-      "アンタレス",
       "アルデバラン",
+      "アンタレス",
       "ベテルギウス",
       "リゲル"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4358,12 +4358,12 @@
   {
     "question": "ふたご座を構成するカストルとポルックスの兄弟星のうち、より明るい1等星（ベータ星）は？",
     "options": [
-      "ポルックス",
-      "カストル",
       "アルデバラン",
+      "カストル",
+      "ポルックス",
       "デネブ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4376,12 +4376,12 @@
   {
     "question": "北斗七星の柄の先から2番目にある星で、視力検査に使われた伴星アルコルを従える主星は？",
     "options": [
-      "ミザール",
+      "フェクダ",
       "ドゥーベ",
       "メラク",
-      "フェクダ"
+      "ミザール"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4412,12 +4412,12 @@
   {
     "question": "カペラを抱く、御者の形の星座は？",
     "options": [
-      "ぎょしゃ座",
       "うしかい座",
+      "ぎょしゃ座",
       "ふたご座",
       "ペルセウス座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4430,12 +4430,12 @@
   {
     "question": "天の牛飼いのそばで二匹の猟犬を象徴する星座は？",
     "options": [
-      "りょうけん座",
-      "うしかい座",
       "おおいぬ座",
+      "うしかい座",
+      "りょうけん座",
       "おおかみ座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4448,12 +4448,12 @@
   {
     "question": "南の空で孔雀の姿をした、明るい星を抱く星座は？",
     "options": [
-      "くじゃく座",
+      "ケンタウルス座",
       "南十字星",
       "りゅうこつ座",
-      "ケンタウルス座"
+      "くじゃく座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4484,12 +4484,12 @@
   {
     "question": "服の留め具が外れたとき密かに代役を務めるが、動くたび肌を刺して怠けをばらすものは？",
     "options": [
-      "安全ピン",
       "チャック",
+      "安全ピン",
       "マジックテープ",
       "ブローチ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4520,12 +4520,12 @@
   {
     "question": "ベランダの風に服が飛ばされないよう咥えているけれど、肩にツノのような跡を残してしまうものは？",
     "options": [
-      "洗濯バサミ",
+      "ハンガー",
       "安全ピン",
       "磁石",
-      "ハンガー"
+      "洗濯バサミ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
@@ -4538,12 +4538,12 @@
   {
     "question": "キャップを爽快に開けるつもりが、力加減を誤ると天井へ噴き上げるものは?",
     "options": [
-      "ハサミ",
+      "栓抜き",
       "スパナ",
       "コルク抜き",
-      "栓抜き"
+      "ハサミ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4592,12 +4592,12 @@
   {
     "question": "爪を切るふりをして、切った破片を部屋の反対側までロケットのように飛ばすものは?",
     "options": [
-      "爪切り",
+      "やすり",
       "ハサミ",
       "ナイフ",
-      "やすり"
+      "爪切り"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4610,12 +4610,12 @@
   {
     "question": "コップを穏やかに運ぶふりをして、敷居ひとつで大惨事を起こすものは?",
     "options": [
-      "皿",
+      "お盆",
       "まな板",
       "かご",
-      "お盆"
+      "皿"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4664,12 +4664,12 @@
   {
     "question": "パンを大人しく抱えていて、油断した瞬間ミサイルのように飛び出して人を驚かすものは?",
     "options": [
-      "トースター",
+      "エアフライヤー",
       "電子レンジ",
       "オーブン",
-      "エアフライヤー"
+      "トースター"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4682,12 +4682,12 @@
   {
     "question": "ストローの中を掃除しようと入ったら毛が詰まって決闘を申し込む道具は?",
     "options": [
-      "歯ブラシ",
+      "ストローブラシ",
       "綿棒",
       "筆",
-      "ストローブラシ"
+      "歯ブラシ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "kitchen",
@@ -4718,12 +4718,12 @@
   {
     "question": "普段は隅で静かだが、水が詰まって逆流するときだけ呼ばれる救世主は？",
     "options": [
-      "ラバーカップ",
-      "便器",
       "洗面台",
+      "便器",
+      "ラバーカップ",
       "ブラシ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4736,12 +4736,12 @@
   {
     "question": "荷物を守るふりをして、踏むたびにパチパチ鳴って密かに開けたのをばらすものは?",
     "options": [
-      "プチプチ",
+      "テープ",
       "ビニール",
       "発泡スチロール",
-      "テープ"
+      "プチプチ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4754,12 +4754,12 @@
   {
     "question": "磨き終えたと思った口の中から、隠れていた唐辛子を捕まえるものは?",
     "options": [
-      "歯ブラシ",
+      "デンタルフロス",
       "つまようじ",
       "うがい薬",
-      "デンタルフロス"
+      "歯ブラシ"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4808,12 +4808,12 @@
   {
     "question": "パンパンの時は滑らかに出て、細ると握力を試させるものは?",
     "options": [
-      "歯磨き粉",
+      "リンス",
       "石けん",
       "シャンプー",
-      "リンス"
+      "歯磨き粉"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4826,12 +4826,12 @@
   {
     "question": "パソコンに挿そうとするが前後が合わず、何度も裏返させるものは?",
     "options": [
-      "SDカード",
+      "USBメモリ",
       "充電器",
       "イヤホン",
-      "USBメモリ"
+      "SDカード"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "tech",
@@ -4845,11 +4845,11 @@
     "question": "パリッと焼いた薄い黒い紙のようだが、ご飯を包んで醤油につけて食べると絶品なのは？",
     "options": [
       "ワカメ",
-      "昆布",
       "焼き海苔",
+      "昆布",
       "青のり"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -4880,12 +4880,12 @@
   {
     "question": "座ったり寝転ぶとフカフカなのに、立ち上がった途端ギシギシ鳴って休んでいたことがバレてしまうリビングの家具は？",
     "options": [
-      "ソファ",
+      "タンス",
       "食卓",
       "本棚",
-      "タンス"
+      "ソファ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -4898,12 +4898,12 @@
   {
     "question": "停留所を通り過ぎてから押すと、車内全員が振り向くものは?",
     "options": [
-      "つり革",
+      "降車ボタン",
       "ボタン",
       "案内放送",
-      "降車ボタン"
+      "つり革"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "transit",
@@ -4952,12 +4952,12 @@
   {
     "question": "蓋を閉めないと自分から乾いて石になるものは?",
     "options": [
-      "スティックのり",
+      "接着剤",
       "木工用ボンド",
       "テープ",
-      "接着剤"
+      "スティックのり"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -4970,12 +4970,12 @@
   {
     "question": "背中に背負われて重い教科書を運ぶのに、帰宅した途端真っ先に床へ投げ出されるものは？",
     "options": [
-      "書類カバン",
+      "通学リュック (ランドセル)",
       "紙袋",
       "ポーチ",
-      "通学リュック (ランドセル)"
+      "書類カバン"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5024,12 +5024,12 @@
   {
     "question": "髪を結ぶふりをして、肝心な瞬間に「プツン」と切れるものは?",
     "options": [
-      "ヘアゴム",
+      "くし",
       "ピン",
       "カチューシャ",
-      "くし"
+      "ヘアゴム"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5042,12 +5042,12 @@
   {
     "question": "一枚で十分なのに、急いで引くとソーセージのように連続で出るものは?",
     "options": [
-      "トイレットペーパー",
+      "ウェットティッシュ",
       "ハンカチ",
       "キッチンペーパー",
-      "ウェットティッシュ"
+      "トイレットペーパー"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5096,12 +5096,12 @@
   {
     "question": "座れば柔らかいのに、立つ時ぽとりと落ちて足首を引っ掛けるものは?",
     "options": [
-      "座布団",
+      "マット",
       "クッション",
       "枕",
-      "マット"
+      "座布団"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5114,12 +5114,12 @@
   {
     "question": "制服に転がすと、掃除をどれだけ怠けたか証明するものは?",
     "options": [
-      "ほうき",
+      "コロコロ",
       "掃除機",
       "はたき",
-      "コロコロ"
+      "ほうき"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5168,12 +5168,12 @@
   {
     "question": "静かに置かれている時はおとなしいのに、両手で持ち手を握って勢いよく回すと足元をかすめて跳び続けさせる縄は？",
     "options": [
-      "縄跳び",
+      "跳び箱",
       "コーヒーカップ",
       "ホイッスル",
-      "跳び箱"
+      "縄跳び"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5186,12 +5186,12 @@
   {
     "question": "軽く弾むのに、強く踏まれるとへこんで戻らない繊細な心は?",
     "options": [
-      "シャトル",
+      "ピンポン玉",
       "野球ボール",
       "サッカーボール",
-      "ピンポン玉"
+      "シャトル"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5240,12 +5240,12 @@
   {
     "question": "鍋物をすくおうとして鍋の取っ手で滑り、汁に飛び込むものは?",
     "options": [
-      "お玉",
+      "スプーン",
       "しゃもじ",
       "フライ返し",
-      "スプーン"
+      "お玉"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5258,12 +5258,12 @@
   {
     "question": "狭い口に注ぐつもりが、急ぐと逆流して外へこぼすものは?",
     "options": [
-      "お玉",
+      "じょうご",
       "カップ",
       "やかん",
-      "じょうご"
+      "お玉"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5276,12 +5276,12 @@
   {
     "question": "運動しようと敷いたのに、横になった瞬間に昼寝ベッドに化けるものは？",
     "options": [
-      "ヨガマット",
       "マットレス",
+      "ヨガマット",
       "布団",
       "クッション"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5312,12 +5312,12 @@
   {
     "question": "自分の息と心臓の音だけを雷のように大きく聞かせるものは?",
     "options": [
-      "耳栓",
+      "ヘッドホン",
       "イヤホン",
       "アイマスク",
-      "ヘッドホン"
+      "耳栓"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5330,12 +5330,12 @@
   {
     "question": "ラーメンを茹でて勢いよく開けると、足の甲に雫を落とすものは?",
     "options": [
-      "フライパン",
+      "鍋の蓋",
       "皿",
       "お盆",
-      "鍋の蓋"
+      "フライパン"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5366,12 +5366,12 @@
   {
     "question": "洗濯機の中で他の服と絡まないよう衣類を守るはずが、チャックが開いて中身を脱走させてしまう洗濯用品は？",
     "options": [
-      "洗濯ネット",
-      "アイロン",
       "物干しスタンド",
+      "アイロン",
+      "洗濯ネット",
       "ハンガー"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",
@@ -5389,11 +5389,11 @@
     "question": "傷ついた場所を痛くないように包んでくれるけれど、手を洗う瞬間、水をたっぷり含んでぶらぶらしながら落ちてしまうものは？",
     "options": [
       "湿布",
-      "絆創膏",
+      "包帯",
       "ガーゼ",
-      "包帯"
+      "絆創膏"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ぐらぐら！防水機能と書いてあった文字は、いったいどこへ行ったんだろう？",
       "wrong": "ちがうよ〜水に一度濡らすと角が白っぽく浮いて、はがさなきゃいけなくなるのは絆創膏さ。"
@@ -5402,12 +5402,12 @@
   {
     "question": "むずむずする耳を爽快に掻くふりをして、くしゃみ一つで地獄を見せるものは?",
     "options": [
-      "綿棒",
+      "耳かき",
       "つまようじ",
       "ピンセット",
-      "耳かき"
+      "綿棒"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "daily",
@@ -5456,12 +5456,12 @@
   {
     "question": "食堂で歯の間に挟まった唐辛子を容赦なく掘り出すものは?",
     "options": [
-      "つまようじ",
+      "フロス",
       "箸",
       "フォーク",
-      "フロス"
+      "つまようじ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -5474,12 +5474,12 @@
   {
     "question": "髪を洗って拭いた後、乾かさずに浴室の隅に丸めておくと一日で生乾き臭を放つものは？",
     "options": [
-      "泡立てネット",
+      "タオル",
       "垢すりタオル",
       "石鹸",
-      "タオル"
+      "泡立てネット"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5492,12 +5492,12 @@
   {
     "question": "二つの鉄の刃が手を携えてシャキシャキ鳴り響き、前へ進むたびに紙や布を真っ二つに断ち切るものは何でしょう？",
     "options": [
-      "ハサミ",
       "包丁",
+      "ハサミ",
       "爪切り",
       "針"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5528,12 +5528,12 @@
   {
     "question": "開いた脚に足を伸ばすと、すねを鉄のように蹴り返すものは?",
     "options": [
-      "折りたたみ机",
+      "椅子",
       "勉強机",
       "食卓",
-      "椅子"
+      "折りたたみ机"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5546,12 +5546,12 @@
   {
     "question": "ポケットで鳴っていたのに、落とすと自販機の下へ隠れるものは?",
     "options": [
-      "紙幣",
+      "硬貨",
       "カード",
       "ボタン",
-      "硬貨"
+      "紙幣"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5587,11 +5587,11 @@
     "question": "指でスパッと切りたかったのに、始点だけ破れて細い縦線に裂けてしまうものは？",
     "options": [
       "紙テープ",
-      "ガムテープ",
       "包帯",
+      "ガムテープ",
       "ラップ"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "びりっ！爪で端っこを探してぐるぐる回しながら10分も無駄にするんだぞ！",
       "wrong": "ぶっぶー！斜めに細く裂けていって、人の忍耐を試すのはガムテープだよ。"
@@ -5606,10 +5606,10 @@
     "options": [
       "フォーク",
       "ストロー",
-      "箸",
-      "しゃもじ"
+      "しゃもじ",
+      "箸"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "くっついてないとダメ！一本だけじゃただの細い棒だよ。",
       "wrong": "ブー！一本だけ残ると役立たずになるのは箸だよ。"
@@ -5622,12 +5622,12 @@
     "reward_keys": 1,
     "question": "書類をきれいに整理してくれるけれど、一枚でも多く入れようとすると口をぱっかり開けて全部吐き出すものは？",
     "options": [
-      "しおり",
       "ホチキス",
+      "しおり",
       "クリップ",
       "ファイル"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "カチッ！紙が厚すぎると、ひとりで針をペッと吐き出して空振りするんだぞ。",
       "wrong": "ぶっぶー！厚い紙に押して、針がぺちゃんこに潰れるのはホチキスだよ。"
@@ -5641,11 +5641,11 @@
     "question": "冷たく飲もうと吸い込んだのに、飲み物の代わりに底に残った氷の間からうるさい空気の音だけを立てるものは？",
     "options": [
       "保温ボトル",
-      "紙コップ",
       "プラスチックストロー",
+      "紙コップ",
       "スプーン"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "ずるずるっゴクッ！静かな図書館でひとり雷のような轟音を響かせるんだぞ！",
       "wrong": "ちがうよ〜飲み物はもう無いのに虚空だけをチューチュー吸う音はストローの音さ。"
@@ -5659,11 +5659,11 @@
     "question": "確かにさっき閉めたのに、カバンの中でフタが開いて、あらゆる持ち物をベタベタにしてしまうものは？",
     "options": [
       "日焼け止め",
-      "リップクリーム",
       "水筒",
+      "リップクリーム",
       "歯磨き粉"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "ヌルッ！カバンの底を手探りして、ヌルヌルした中身に触れたときのあの絶望感！",
       "wrong": "ちがう〜ポケットの熱が少し触れただけでひとりで溶けてフタを脱出するのはリップクリームさ。"
@@ -5678,10 +5678,10 @@
     "options": [
       "傘",
       "扇子",
-      "タンブラー",
-      "モバイルバッテリー"
+      "モバイルバッテリー",
+      "タンブラー"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "じゃぶっ！「完全密閉」の文字を信じたら、教科書の角が水を吸ってふやけて破裂するんだぞ。",
       "wrong": "ちがうよ〜カバンを開けたとき水浸しを作る主犯は、ちゃんと閉まってないタンブラーさ。"
@@ -5694,12 +5694,12 @@
     "reward_keys": 1,
     "question": "頬袋にえさをいっぱい詰めて隠したのに、回し車を回したら全部忘れてしまうものは？",
     "options": [
-      "ウサギ",
-      "リス",
       "ハムスター",
+      "リス",
+      "ウサギ",
       "ハリネズミ"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "せっせっせ！頬がぱんぱんになるまで隠して、回し車を一生懸命回すよ。",
       "wrong": "ブー！頬袋にえさを隠して回し車を回るのはハムスターだよ。"
@@ -5712,12 +5712,12 @@
     "reward_keys": 1,
     "question": "息を吸い込むほど丸くパンパンに膨らむが、尖った針先が触れただけでポンと音を立てて跡形もなく破裂するものは何でしょう？",
     "options": [
-      "風船",
       "シャボン玉",
+      "風船",
       "タイヤ",
       "ビーチボール"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "正解！息を吹き込めば空へ浮かぶが、小さなピンでも驚いて割れる風船じゃ！",
       "wrong": "ブー！空気を入れると膨らむ色とりどりのゴム袋じゃ。"
@@ -5731,11 +5731,11 @@
     "question": "確かに100%満タンにして持ち出したのに、夕方になるとひとりで赤い光を点滅させてあえぐものは？",
     "options": [
       "スマートウォッチ",
-      "モバイルバッテリー",
       "ワイヤレスマウス",
+      "モバイルバッテリー",
       "Bluetoothスピーカー"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "ピカピカッ！ご飯ちょうだいと連れてきたやつが、肝心の自分のご飯を先に全部食べちゃったな！",
       "wrong": "ちがうよ〜カバンの中でレンガのような重さだけ自慢して、放電しちゃうのはモバイルバッテリーさ。"
@@ -5750,10 +5750,10 @@
     "options": [
       "グミ",
       "チョコレート",
-      "パイ",
-      "キャンディ"
+      "キャンディ",
+      "パイ"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "パサッ！口に入る量より机の上に落ちるクズの方が多いんだぞ！",
       "wrong": "ちがう〜一口食べた途端、お母さんのビンタを呼ぶお菓子はパイさ。"
@@ -5766,12 +5766,12 @@
     "reward_keys": 1,
     "question": "暗い場所を明るく照らしてくれるけれど、顔の上で指が空振りした瞬間に顔面へ落下するものは？",
     "options": [
-      "読書灯",
       "スマホ",
+      "読書灯",
       "タブレット",
       "懐中電灯"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "ゴツッ！寝転んでYouTubeを見てて鼻筋を思いっきり打った人だけが知る涙！",
       "wrong": "ちがうよ〜油断した瞬間に重力に引かれて顔を強打するのはスマホさ。"
@@ -5821,11 +5821,11 @@
     "question": "ふたを開けると温かいご飯が出てくるのに、食べ終わると空っぽの体だけが転がっているものは？",
     "options": [
       "鍋",
-      "弁当箱",
+      "皿",
       "水筒",
-      "皿"
+      "弁当箱"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ふたを開ければキラリ、食べ終われば空っぽ！昼休みの主役だよ。",
       "wrong": "ブー！ご飯を入れて持ち歩く小さな箱は弁当箱だよ。"
@@ -5838,12 +5838,12 @@
     "reward_keys": 1,
     "question": "ボタンひとつで私の位置を素早く上げてくれるけれど、ドアが閉まる刹那に乗った人と気まずく目を合わせさせるだけのものは？",
     "options": [
-      "エスカレーター",
       "エレベーター",
+      "エスカレーター",
       "ケーブルカー",
       "動く歩道"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "チン！上っている間ずっと天井の数字だけをじっと見つめさせる沈黙の部屋！",
       "wrong": "ぶっぶー！閉ボタンを押そうとして人と目が合い冷や汗をかく場所はエレベーターさ。"
@@ -5857,11 +5857,11 @@
     "question": "しっかり締めて履いたのに、ご飯をもう一口食べた途端、お腹に容赦なく食い込むものは？",
     "options": [
       "サスペンダー",
-      "ボタン",
       "ベルト",
+      "ボタン",
       "ゴム"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "締めては緩めて！食堂でこっそり一つ穴を緩めた瞬間のあの解放感といったら！",
       "wrong": "ちがう〜ビュッフェで一番先に降参して外しちゃうのはベルトさ。"
@@ -5875,11 +5875,11 @@
     "question": "食べ物をサクッと温めるフリをして、取り出した途端、指が火傷するほどの器だけをぐつぐつ熱くするものは？",
     "options": [
       "エアフライヤー",
-      "電子レンジ",
       "オーブン",
+      "電子レンジ",
       "トースター"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "あっ、熱っ！食べ物はまだぬるいのに、皿のふちだけ溶岩のように熱いんだぞ！",
       "wrong": "ちがうよ〜30秒回すだけでも皿を持てなくさせるのは電子レンジさ。"
@@ -5894,10 +5894,10 @@
     "options": [
       "チョコフォンデュ",
       "ワッフル",
-      "アイスクリーム",
-      "ホットココア"
+      "ホットココア",
+      "アイスクリーム"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "キーン！慌てて頬張りすぎて頭を抱えてフリーズしちゃうんだケビ！",
       "wrong": "ハズレ！コーンやカップにすくって舐める冷たいミルクスイーツだぞ。"
@@ -5910,12 +5910,12 @@
     "reward_keys": 1,
     "question": "パスワードを入力して接続しようとしたら、ロボットじゃないならと横断歩道の写真だけを九枚選べと言われるものは？",
     "options": [
-      "セキュリティソフト",
       "CAPTCHA認証",
+      "セキュリティソフト",
       "指紋認証機",
       "OTP生成器"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "チェック！信号機の端っこが写ってるか写ってないかを5分間悩ませるんだぞ！",
       "wrong": "ちがうよ〜自分が人間か機械か自ら疑わせるのはCAPTCHA認証さ。"
@@ -5929,11 +5929,11 @@
     "question": "スマホの画面をきれいに守ってくれるけれど、貼った途端に真ん中に大きな気泡を抱えて居座るものは？",
     "options": [
       "ケース",
-      "グリップトック",
       "液晶保護フィルム",
+      "グリップトック",
       "カメラカバー"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "ポコッ！ホコリひとつ入らないように息を潜めて貼ったのに、気泡三個が迎えてくれるんだぞ！",
       "wrong": "ぶっぶー！爪やカードでいくら押し出しても頑固に居座るのは保護フィルムさ。"
@@ -5947,11 +5947,11 @@
     "question": "確かにさっきまで私の頭の上におとなしく乗っていたのに、鏡を見るたびに額に赤い跡だけを残して消えるものは？",
     "options": [
       "ヘアバンド",
-      "ヘアローラー",
       "ヘアピン",
+      "ヘアローラー",
       "タオル"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "くるくるっ！巻いてるのを忘れてそのままエレベーターに乗りそうになっただろ？",
       "wrong": "ちがうよ〜外出直前に額にユニコーンの角みたいにつけて歩くのはヘアローラーさ。"
@@ -5966,10 +5966,10 @@
     "options": [
       "食用油",
       "醤油",
-      "ケチャップ",
-      "ごま油"
+      "ごま油",
+      "ケチャップ"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "プシュッ！袖に赤い点がひとつ付いた瞬間、今日のお出かけコーデは終わりさ。",
       "wrong": "ぶっぶー！逆さまに持ってトントン叩いてたら、お盆の上にどばっとこぼれるのはケチャップの容器さ。"
@@ -5982,12 +5982,12 @@
     "reward_keys": 1,
     "question": "部屋をほのかに照らして雰囲気を出してくれるけれど、いざ消そうと息を吹きかけると、むせる煙の爆弾を飛ばすものは？",
     "options": [
-      "ディフューザー",
       "アロマキャンドル",
+      "ディフューザー",
       "スタンドライト",
       "ムードランプ"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "ふぅ、ゲホッ！ロマンチックな香りはどこへやら、火遊びの匂いだけを満たす魔法！",
       "wrong": "ちがう〜ロウの真ん中だけ深くえぐれて、芯だけがすっかり燃え尽きるのはアロマキャンドルさ。"
@@ -6001,11 +6001,11 @@
     "question": "サクサク甘く焼き上がったのに、一口かじった途端、中に入った熱い蜜を顎へ発射するものは？",
     "options": [
       "たい焼き",
-      "デリマンジュ",
       "ホットク",
+      "デリマンジュ",
       "ワッフル"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "あっ、熱っ！紙コップに持ってハーハー吹いてたら舌をやけどするのにぴったりの冬の味だぞ！",
       "wrong": "ちがうよ〜油断してがぶりとかじって、マグマのような砂糖水にやられるのはホットクさ。"
@@ -6019,11 +6019,11 @@
     "question": "筆箱の中に大切にしまっておいたのに、フタが緩くなってひとりで中身を絞り出し、カバンの中を紫色に塗るものは？",
     "options": [
       "はんこ",
-      "マークシート用サインペン",
       "絵の具",
+      "マークシート用サインペン",
       "スタンプパッド"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "ピカッ！マークシートを塗らなきゃいけないのに、ペン先がつぶれて太い筆になっちゃったな！",
       "wrong": "ちがうよ〜フタを後ろに挿しておいて、どこかへなくしちゃう常連さんはマークシート用サインペンさ。"
@@ -6037,11 +6037,11 @@
     "question": "口は一つなのに、倒れると中身を全部こぼしてしまう、取っ手付きの小さな器は？",
     "options": [
       "皿",
-      "コップ",
+      "水筒",
       "鍋",
-      "水筒"
+      "コップ"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ざーっ！ちょっとぶつかるだけで中身を全部こぼす、憎たらしい器！",
       "wrong": "ブー！取っ手付きの小さな器はコップだよ。"
@@ -6054,12 +6054,12 @@
     "reward_keys": 1,
     "question": "机の上でひとりでブンブン回るフリをして、私の本棚の角に触れて書類を四方八方に飛ばしてしまうものは？",
     "options": [
-      "エアコンのリモコン",
       "卓上ミニ扇風機",
+      "エアコンのリモコン",
       "ワイヤレス加湿器",
       "空気清浄機"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "ウィーン、バタン！風に当たろうとしたら、床に散らばった試験勉強のプリントを拾って余計に汗をかくんだぞ！",
       "wrong": "ちがう〜不安定な頭で危なっかしく振動して、ひとりで倒れちゃうのはミニ扇風機さ。"
@@ -6073,11 +6073,11 @@
     "question": "ソファの上で楽にゴロゴロさせてくれるけれど、起き上がる瞬間、静電気のスパークとともに全身を毛だらけにするものは？",
     "options": [
       "革クッション",
-      "ダウンベスト",
       "マイクロファイバーの毛布",
+      "ダウンベスト",
       "ウールコート"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "チクッ、パタパタ！静電気パーティーとともに、黒いズボンを白熊の毛で覆いつくしちゃったな！",
       "wrong": "ちがうよ〜起きるたびにチリチリと火花を散らす冬の友だちはマイクロファイバーの毛布さ。"
@@ -6110,10 +6110,10 @@
     "options": [
       "キーボード",
       "ジョイスティック",
-      "光学式マウス",
-      "ウェブカメラ"
+      "ウェブカメラ",
+      "光学式マウス"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "カクカクッ！集団戦の最中にカーソルが空中で凍りつく地獄の瞬間！",
       "wrong": "ぶっぶー！底の赤いセンサーにホコリがひとつ詰まっただけで知らんぷりするのは光学式マウスさ。"
@@ -6126,12 +6126,12 @@
     "reward_keys": 1,
     "question": "指でスパッと削れと作っておきながら、いざ削った後は爪の下に黒い銀色の粉だけを詰め込むものは？",
     "options": [
-      "鉛筆の黒鉛",
       "スクラッチカード",
+      "鉛筆の黒鉛",
       "シールの裏面",
       "チョークの粉"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "サクサクッ！当たりかもと胸をときめかせて削ったら、「また次の機会に」だけがくっきり残ったな！",
       "wrong": "ちがうよ〜小銭がなくて爪で削って、指だけ汚れるのはインスタントくじさ。"
@@ -6145,11 +6145,11 @@
     "question": "ラーメンを作ろうとウォーターサーバーからお湯を出したのに、ちょうど目盛りのすぐ下で「終了」と叫んで冷水を吐き出すものは？",
     "options": [
       "電気ケトル",
-      "保温ボトル",
       "給湯ウォーターサーバー",
+      "保温ボトル",
       "電子レンジ"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "ちょろちょろ、ぷつっ！ぬるいお湯で麺がふやけて、餅ラーメンを食べることになりそうだな！",
       "wrong": "ちがうよ〜私のカップラーメンの前でちょうどお湯が切れて絶望を与えるのはウォーターサーバーさ。"
@@ -6163,11 +6163,11 @@
     "question": "甘い中身を一生懸命噛んで甘みを絞り出したのに、吐き出そうとしたらティッシュがなくて口の中に監禁されるものは？",
     "options": [
       "キャンディ",
-      "風船ガム",
       "グミ",
+      "風船ガム",
       "チョコレート"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "もぐもぐ…味は全部抜けてあごだけ痛いのに、飲み込むこともできず困っちゃうな！",
       "wrong": "ぶっぶー！ポケットを探してもレシート一枚出てこなくて、ずっと噛み続けているのはガムさ。"
@@ -6182,10 +6182,10 @@
     "options": [
       "身分証",
       "学生証",
-      "交通カード",
-      "社員証"
+      "社員証",
+      "交通カード"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ピッピッピッ！通勤路に号泣の壁を作り、後頭部に痛い視線を浴びるんだぞ！",
       "wrong": "ぶっぶー！財布ごとサッとタッチして、ドアがバタンと閉まり太ももを打つのは交通カードのエラーさ。"
@@ -6198,12 +6198,12 @@
     "reward_keys": 1,
     "question": "甘くて冷たい飲み物を飲み干したのに、氷の隙間の底にこっそり挟まって最後まで吸い出されないもちもちしたものは？",
     "options": [
-      "ナタデココ",
       "タピオカパール",
+      "ナタデココ",
       "アロエの粒",
       "チアシード"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "チューチュー！ストローで狙い撃ちしても、氷の下に隠れて絶対に上がってこないんだぞ！",
       "wrong": "ちがうよ〜バブルティーを飲み干してカップの底に残った黒い宝石はタピオカパールさ。"
@@ -6235,11 +6235,11 @@
     "question": "私を起こすフリをして、私が消して二度寝するのを最後まで見ているだけのものは？",
     "options": [
       "枕",
-      "目覚まし時計",
       "布団",
+      "目覚まし時計",
       "カーテン"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "チクタク！私は毎日正直に鳴ったけど、布団が君をもっと強く捕まえたんだよ。",
       "wrong": "ピピッ！私は毎晩、嘘をつかずに鳴っていただけなのに！"
@@ -6253,11 +6253,11 @@
     "question": "私の耳には歌を聞かせてくれるフリをして、ポケットの中だけで糸玉のように絡まるものは？",
     "options": [
       "ネックレス",
-      "イヤホン",
+      "充電器",
       "マスクの紐",
-      "充電器"
+      "イヤホン"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "正解！ポケットの中は、イヤホンたちが静かに結び目を作る秘密の作業室さ。",
       "wrong": "ちがうよ〜絡まるのはいつだって私のイヤホン一組だけさ！"
@@ -6270,12 +6270,12 @@
     "reward_keys": 1,
     "question": "私の言うことをそのまま真似するだけなのに、結局は町中の人に私の秘密を全部放送してしまうものは？",
     "options": [
-      "カナリア",
       "オウム",
+      "カナリア",
       "スズメ",
       "カラス"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "オウムオウム！自分が言った言葉がそのまま返ってくるときの、あの気まずさ！",
       "wrong": "チン！人の言葉を真似する鳥はオウムだよ。"
@@ -6289,11 +6289,11 @@
     "question": "のろまだとからかわれても、硬い甲羅の家を背負って陸と水を行き来し長生きする爬虫類は？",
     "options": [
       "カメレオン",
-      "モグラ",
       "カメ (亀)",
+      "モグラ",
       "アリ"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "正解！亀は頑丈な甲羅を背負って百歳以上も生きる長寿の友達だケビ！",
       "wrong": "ハズレ！ウサギと徒競走をした甲羅を持つ昔話の主人公だぞ。"
@@ -6307,11 +6307,11 @@
     "question": "黒板に白く字を書いていてポキッと折れ、床に落ちると粉々になるものは？",
     "options": [
       "鉛筆",
-      "チョーク",
       "クレヨン",
+      "チョーク",
       "マーカー"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "ポキッ！少し強く押しただけでポキッと折れて、先生の手に残るかけら！",
       "wrong": "ぶっぶー！黒板に書いていて力を入れると折れる白い棒はチョークさ。"
@@ -6326,10 +6326,10 @@
     "options": [
       "シール",
       "付箋",
-      "両面テープ",
-      "ラベル"
+      "ラベル",
+      "両面テープ"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ビリッ！はがそうとして紙が半分に破れて、そのとき初めて存在に気づくんだぞ！",
       "wrong": "ちがうよ〜表も裏も両方ネバネバして紙を食べちゃうのは両面テープさ。"
@@ -6342,12 +6342,12 @@
     "reward_keys": 1,
     "question": "屋内では鼻先でずり落ちるのに、日の光の下でだけ世の中を真っ黒に染めるものは？",
     "options": [
-      "帽子",
       "サングラス",
+      "帽子",
       "マスク",
       "アイマスク"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "チッ！眩しい日の光の前では、私が世界の色を変えてやるのさ。",
       "wrong": "ぶっぶー！目にかけると世界が黒くなるのはサングラスさ。"
@@ -6397,11 +6397,11 @@
     "question": "私が探すときは必ずソファの下に隠れていて、いざ見ていないときはいつしか兄の手に握られているものは？",
     "options": [
       "眼鏡",
-      "リモコン",
+      "イヤホン",
       "充電器",
-      "イヤホン"
+      "リモコン"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "ディンドン！ソファの下は、リモコンたちが集まって住む秘密のアジトさ。",
       "wrong": "ぶっぶー！見ていないときはどこにもなくて、必要なときだけ消えるのはリモコンさ。"
@@ -6414,12 +6414,12 @@
     "reward_keys": 1,
     "question": "ぐるぐる回って服をきれいにするフリをして、靴下を片方永遠に隠してしまうものは？",
     "options": [
-      "乾燥機",
-      "食洗機",
       "洗濯機",
+      "食洗機",
+      "乾燥機",
       "掃除機"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "ゴロゴロッ！洗濯機はこの世で一番怖い魔法使いさ。",
       "wrong": "ぶっぶー！回し終わると靴下が片方必ず消えるのは洗濯機さ。"
@@ -6429,12 +6429,12 @@
     "id": "rid_386",
     "question": "夜のうちに静かに降りて、朝には草や窓を白く染めるものは？",
     "options": [
-      "霜",
       "露",
+      "霜",
       "雪",
       "霧"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6447,12 +6447,12 @@
     "id": "rid_387",
     "question": "カサカサする薄い茶色の鱗の服を何重にも着込み、剥いても剥いてもピリッと辛くて涙をこぼさせる野菜は何でしょう？",
     "options": [
-      "タマネギ",
-      "ニンニク",
       "ショウガ",
+      "ニンニク",
+      "タマネギ",
       "ニンジン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6465,12 +6465,12 @@
     "id": "rid_388",
     "question": "夜は頭を包んでくれるのに、朝には床に転がっているものは？",
     "options": [
-      "枕",
+      "ベッド",
       "毛布",
       "カーテン",
-      "ベッド"
+      "枕"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6501,12 +6501,12 @@
     "id": "rid_390",
     "question": "腰を休むことなくクルクルと振り続けなければ床に落ちずに回り続ける、丸いプラスチックの輪は？",
     "options": [
-      "フラフープ",
       "縄跳び",
+      "フラフープ",
       "ブーメラン",
       "ヨーヨー"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6519,12 +6519,12 @@
     "id": "rid_391",
     "question": "硬い歯を何十本も持っているのに食べ物は噛めず、もつれた髪の毛だけを美しく撫で整えるものは何でしょう？",
     "options": [
-      "くし",
-      "歯ブラシ",
       "フォーク",
+      "歯ブラシ",
+      "くし",
       "のこぎり"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6537,12 +6537,12 @@
     "id": "rid_392",
     "question": "胸に十二の数字を抱え、針の足を休むことなく動かしてカチコチ駆け抜けるものは何でしょう？",
     "options": [
-      "時計",
+      "体重計",
       "羅針盤",
       "計量器",
-      "体重計"
+      "時計"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6573,12 +6573,12 @@
     "id": "rid_394",
     "question": "毎日人々の濡れた足を包み込んでサラリと拭き取るのに、風呂上がりには一番隅に伏せて湿ったまま乾いてゆくものは何でしょう？",
     "options": [
-      "バスマット",
       "スリッパ",
+      "バスマット",
       "洗面台",
       "洗濯かご"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -6591,12 +6591,12 @@
     "id": "rid_395",
     "question": "かまどの赤い炎の上で煙を飲みながら飯を炊き、頭に重い鉄の蓋を載せて初めておこげを差し出すものは何でしょう？",
     "options": [
-      "鉄釜",
-      "土鍋",
       "やかん",
+      "土鍋",
+      "鉄釜",
       "フライパン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "food",
@@ -6609,12 +6609,12 @@
     "id": "rid_396",
     "question": "風のない日には静かに固まっているが、手で勢いよく振ってこそ涼風を起こして猛暑を追い払う折りたたみ式の翼は何でしょう？",
     "options": [
-      "扇子",
+      "ハエ叩き",
       "扇風機",
       "換気扇",
-      "ハエ叩き"
+      "扇子"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6645,12 +6645,12 @@
     "id": "rid_398",
     "question": "指で大切に認めた秘密をそっと包み隠し、胸に切手を一枚貼って見知らぬ街や海を越えてゆく白い紙包みは何でしょう？",
     "options": [
-      "封筒",
       "ハガキ",
+      "封筒",
       "小包の箱",
       "紙飛行機"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6663,12 +6663,12 @@
     "id": "rid_399",
     "question": "グツグツと鍋料理を煮込んで食卓に出しても冷めにくく、温もりを長く保ち続ける伝統的な土鍋は？",
     "options": [
-      "土鍋",
-      "ガラス鉢",
       "アルミ鍋",
+      "ガラス鉢",
+      "土鍋",
       "皿"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6681,12 +6681,12 @@
     "id": "rid_400",
     "question": "普段は静かに身を休めているが、暗闇でカチリとスイッチを押せば行く手に向かって光の筋を放つ手のひらサイズの灯りは何でしょう？",
     "options": [
-      "懐中電灯",
+      "街灯",
       "暖炉",
       "蛍光灯",
-      "街灯"
+      "懐中電灯"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6717,12 +6717,12 @@
     "id": "rid_402",
     "question": "晴れた日には淡く漂っているが、大地の湿気を吸い上げて空を鉛色に覆い、大粒の雨を降らせるものは何でしょう？",
     "options": [
-      "雨雲",
       "霧",
+      "雨雲",
       "黄砂",
       "霜"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6735,12 +6735,12 @@
     "id": "rid_403",
     "question": "金敷の上で真っ赤な炎と槌打ちを耐え抜き、冷たい水に飛び込む急冷の試練を経て鋭い刃物を完成させる鍛冶の工程は何でしょう？",
     "options": [
-      "焼き入れ",
-      "溶接",
       "めっき",
+      "溶接",
+      "焼き入れ",
       "鋳造"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "common_sense",
@@ -6753,12 +6753,12 @@
     "id": "rid_404",
     "question": "冬の山麓に鈴なりに吊るされて寒風に晒され、凍結と解凍を百回以上繰り返して身が黄金色に柔らかくなる魚は何でしょう？",
     "options": [
-      "干しタラ",
+      "イシモチ",
       "煮干し",
       "塩サバ",
-      "イシモチ"
+      "干しタラ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "food",
@@ -6789,12 +6789,12 @@
     "id": "rid_406",
     "question": "指でピント引き絞って放てば、目にも留まらぬ速さで飛び去り遠くの的の紅の真ん中に突き刺さる武器は何でしょう？",
     "options": [
-      "矢",
       "槍",
+      "矢",
       "ブーメラン",
       "投石具"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -6807,12 +6807,12 @@
     "id": "rid_407",
     "question": "小さな体に丸い玉を抱き、息を思い切り吹き込むとピーッと鳴り響いて皆を立ち止まらせるものは？",
     "options": [
-      "ホイッスル",
-      "コーヒーカップ",
       "バレーボール",
+      "コーヒーカップ",
+      "ホイッスル",
       "ストップウォッチ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6825,12 +6825,12 @@
     "id": "rid_408",
     "question": "赤と黒のゴムの服を両面にまとい、卓上で小さな白いボールをポンポン跳ね返すものは？",
     "options": [
-      "卓球ラケット",
+      "ネット",
       "コーヒーカップ",
       "スニーカー",
-      "ネット"
+      "卓球ラケット"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6861,12 +6861,12 @@
     "id": "rid_410",
     "question": "凍てつく極地方の夜空に現れ、音もなく緑や紫の絹のカーテンをゆらゆらと揺らす神秘的な光は？",
     "options": [
-      "オーロラ",
       "虹",
+      "オーロラ",
       "稲妻",
       "夕焼け"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6879,12 +6879,12 @@
     "id": "rid_411",
     "question": "灼熱の砂漠やアスファルトの上でオアシスや湖があるかのように誘い、近づくと嘘のように消えてしまう光のイタズラは？",
     "options": [
-      "蜃気楼",
-      "影",
       "虹",
+      "影",
+      "蜃気楼",
       "霧"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6897,12 +6897,12 @@
     "id": "rid_412",
     "question": "天と地を結ぶ巨大な独楽のように激しく回転し、通り道のすべてを空へと吸い上げる恐怖の風の柱は？",
     "options": [
-      "竜巻",
+      "津波",
       "砂丘",
       "地震",
-      "津波"
+      "竜巻"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6933,12 +6933,12 @@
     "id": "rid_414",
     "question": "真昼に眩しく輝く太陽の顔を黒い月が覆い隠し、昼間なのに世界を一瞬で薄暗くしてしまう神秘的な天文現象は？",
     "options": [
-      "日食",
       "月食",
+      "日食",
       "皆既月食",
       "黄昏"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6951,12 +6951,12 @@
     "id": "rid_415",
     "question": "夏の蒸し暑い空から突然バラバラと降ってきて、豆粒のような硬い氷の玉で屋根や畑を激しく叩きつけるものは？",
     "options": [
-      "雹（ひょう）",
-      "あられ",
       "夕立",
+      "あられ",
+      "雹（ひょう）",
       "霜"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6969,12 +6969,12 @@
     "id": "rid_416",
     "question": "暗い洞窟の天井に逆さまにぶら下がり、千年の歳月をかけて落ちる水滴を吸って伸びていく石のつららは？",
     "options": [
-      "鍾乳石",
+      "つらら",
       "石筍",
       "サンゴ",
-      "つらら"
+      "鍾乳石"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7005,12 +7005,12 @@
     "id": "rid_418",
     "question": "足元を支える大地が突如として怒り狂い、地面を激しく揺らして建物を揺るがす自然現象は？",
     "options": [
-      "地震",
       "土砂崩れ",
+      "地震",
       "津波",
       "台風"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7023,12 +7023,12 @@
     "id": "rid_419",
     "question": "硬い岩も土もなく、風が吹くままに毎日形と場所を変えて旅をする、砂漠の巨大な動く丘は？",
     "options": [
-      "砂丘",
-      "火山",
       "氷山",
+      "火山",
+      "砂丘",
       "高原"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7041,12 +7041,12 @@
     "id": "rid_420",
     "question": "何千年もの雪が固まり巨大な氷となって、目に見えないほどゆっくりと谷を削りながら流れていく壮大な氷の川は？",
     "options": [
-      "氷河",
+      "川",
       "氷山",
       "雪崩",
-      "川"
+      "氷河"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7077,12 +7077,12 @@
     "id": "rid_422",
     "question": "深海の海底が揺れると沖合では静かに忍び寄り、海岸に達した瞬間に巨大な水の壁となって陸地を飲み込む海の怪物は？",
     "options": [
-      "津波",
       "干潮",
+      "津波",
       "竜巻",
       "渦潮"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7095,12 +7095,12 @@
     "id": "rid_423",
     "question": "丸く輝く満月が地球の影へと深く隠れ、暗闇の中で妖しい赤銅色に染まる神秘的な夜の天文現象は？",
     "options": [
-      "月食",
-      "日食",
       "三日月",
+      "日食",
+      "月食",
       "皆既日食"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7113,12 +7113,12 @@
     "id": "rid_424",
     "question": "何百万年もの間流れ続けた激流が、巨大な赤い岩の大地を切り裂くように深く削り取って築き上げた壮大な谷は？",
     "options": [
-      "峡谷（キャニオン）",
+      "砂丘",
       "洞窟",
       "噴火口",
-      "砂丘"
+      "峡谷（キャニオン）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7149,12 +7149,12 @@
     "id": "rid_426",
     "question": "色鮮やかな花畑のように海底に広がり無数の魚たちの憩いの場となるが、実は無数の小さな生き物たちが骨格を積み上げて築いた海の城壁は？",
     "options": [
-      "サンゴ礁",
       "海藻の森",
+      "サンゴ礁",
       "沈没船",
       "海底洞窟"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7167,12 +7167,12 @@
     "id": "rid_427",
     "question": "地下水が抜け空洞になった地下を支えきれず、ある日突然道路や地面が底抜けのように崩落して現れる巨大な陥没穴は？",
     "options": [
-      "シンクホール（陥没穴）",
-      "火口",
       "井戸",
+      "火口",
+      "シンクホール（陥没穴）",
       "洞窟"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7185,12 +7185,12 @@
     "id": "rid_428",
     "question": "地平線の彼方から巨大な砂の壁のように湧き上がり、空と太陽を飲み込んで乾いた大地を覆い尽くす砂漠の猛烈な嵐は？",
     "options": [
-      "砂嵐",
+      "霧",
       "吹雪",
       "黄砂",
-      "霧"
+      "砂嵐"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7221,12 +7221,12 @@
     "id": "rid_430",
     "question": "鳥のように翼で空を飛ぶのに羽毛はなく、昼間は洞窟の天井に逆さまにぶら下がって眠り、夜に超音波で飛ぶ哺乳類は？",
     "options": [
-      "コウモリ",
       "フクロウ",
+      "コウモリ",
       "リス",
       "ツバメ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7239,12 +7239,12 @@
     "id": "rid_431",
     "question": "左右の目を別々にキョロキョロと動かして獲物を狙い、周りの枝や葉に合わせて体の色を自在に変える爬虫類は？",
     "options": [
-      "カメレオン",
-      "トカゲ",
       "カエル",
+      "トカゲ",
+      "カメレオン",
       "ワニ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7257,12 +7257,12 @@
     "id": "rid_432",
     "question": "目はほとんど見えないけれど、スコップのような逞しい前足で土をかき分け、生涯を暗い地中のトンネルで暮らす動物は？",
     "options": [
-      "モグラ",
+      "ウサギ",
       "ハリネズミ",
       "アナグマ",
-      "ウサギ"
+      "モグラ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7293,12 +7293,12 @@
     "id": "rid_434",
     "question": "頭の大部分を占める巨大な複眼を持ち、４枚の透明な羽で空中に静止して蚊や虫を素早く捕らえる昆虫は？",
     "options": [
-      "トンボ",
       "チョウ",
+      "トンボ",
       "ハチ",
       "バッタ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7311,12 +7311,12 @@
     "id": "rid_435",
     "question": "土の中で何年も木の根の樹液を吸って育ち、真夏に地上へ現れて木の幹でミーンミーンと命の限り鳴き続ける昆虫は？",
     "options": [
-      "セミ",
-      "コオロギ",
       "カマキリ",
+      "コオロギ",
+      "セミ",
       "コガネムシ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7329,12 +7329,12 @@
     "id": "rid_436",
     "question": "ヌルヌルとした粘液で体を覆い素手で捕まえようとしてもすり抜け、濁った泥底に潜んで暮らすヒゲのある淡水魚は？",
     "options": [
-      "ドジョウ",
+      "ウナギ",
       "ナマズ",
       "フナ",
-      "ウナギ"
+      "ドジョウ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7365,12 +7365,12 @@
     "id": "rid_438",
     "question": "初夏の清らかな小川の草むらを飛び交い、お尻からフワフワと淡い緑の冷たい光を点滅させて仲間を呼ぶ虫は？",
     "options": [
-      "ホタル",
       "コガネムシ",
+      "ホタル",
       "蚊",
       "トンボ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7383,12 +7383,12 @@
     "id": "rid_439",
     "question": "丸い頭に吸盤のついた８本の足を従え、敵に襲われると真っ黒な墨を吹き出して岩の隙間へと滑り込む海の生き物は？",
     "options": [
-      "タコ",
-      "イカ",
       "クラゲ",
+      "イカ",
+      "タコ",
       "ヒトデ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7401,12 +7401,12 @@
     "id": "rid_440",
     "question": "真っ黒な炭素が地中深くの極限の熱と圧力に耐え抜き、この世で最も硬く永遠に輝く透明な結晶へと生まれ変わった宝石は？",
     "options": [
-      "ダイヤモンド",
+      "黒鉛",
       "ルビー",
       "ガラス",
-      "黒鉛"
+      "ダイヤモンド"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7437,12 +7437,12 @@
     "id": "rid_442",
     "question": "水や空気に触れても決して錆びることなく、黄金色のまばゆい輝きで人類の歴史上最も愛されてきた貴金属は？",
     "options": [
-      "金（ゴールド）",
       "銅",
+      "金（ゴールド）",
       "真鍮",
       "銀"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7455,12 +7455,12 @@
     "id": "rid_443",
     "question": "月明かりのように澄んだ白い輝きを放ち熱や電気を最もよく通し、古くから毒に触れると黒変すると言われた貴金属は？",
     "options": [
-      "銀（シルバー）",
-      "白金",
       "アルミニウム",
+      "白金",
+      "銀（シルバー）",
       "ニッケル"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7473,12 +7473,12 @@
     "id": "rid_444",
     "question": "地球上で最も豊富かつ頑丈で、線路や高層ビルの骨組み、工具に使われ、赤サビを咲かせる文明の基盤金属は？",
     "options": [
-      "鉄（アイアン）",
+      "亜鉛",
       "銅",
       "鉛",
-      "亜鉛"
+      "鉄（アイアン）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7509,12 +7509,12 @@
     "id": "rid_446",
     "question": "氷のように冷たくガラスのように透き通った六角柱の形に育ち、時計の針を正確に刻む振動子や宝石として愛される鉱物は？",
     "options": [
-      "水晶（クォーツ）",
       "ダイヤモンド",
+      "水晶（クォーツ）",
       "琥珀",
       "真珠"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7527,12 +7527,12 @@
     "id": "rid_447",
     "question": "深い森の木々のように深く鮮やかなエメラルドグリーンに輝き、古代エジプトの女王クレオパトラが熱愛したとされる宝石は？",
     "options": [
-      "エメラルド",
-      "サファイア",
       "ルビー",
+      "サファイア",
+      "エメラルド",
       "オパール"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7545,12 +7545,12 @@
     "id": "rid_448",
     "question": "鉄を引き寄せてピタッとくっつき、同じ極同士は反発し、コンパスの針を導いて常に北を指し示す不思議な石は？",
     "options": [
-      "磁石（マグネット）",
+      "隕石",
       "火打石",
       "石英",
-      "隕石"
+      "磁石（マグネット）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7581,12 +7581,12 @@
     "id": "rid_450",
     "question": "白黒の縞模様の毛皮をまとい、敵が近づくと尻尾を高々と上げて強烈な悪臭ガスを噴射して撃退する動物は？",
     "options": [
-      "スカンク",
       "タヌキ",
+      "スカンク",
       "イタチ",
       "アナグマ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7599,12 +7599,12 @@
     "id": "rid_451",
     "question": "馬の頭とサルの尾に似た姿で直立して泳ぎ、母親ではなく父親がお腹の袋で卵を育てて出産する不思議な海の魚は？",
     "options": [
-      "タツノオトシゴ（海馬）",
-      "クラゲ",
       "オットセイ",
+      "クラゲ",
+      "タツノオトシゴ（海馬）",
       "ウミガメ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7617,12 +7617,12 @@
     "id": "rid_452",
     "question": "１日の大半を木の枝に逆さまにぶら下がって眠り、あまりに動きが遅いため毛皮に緑の苔が生えてしまう世の中で一番のんびり屋な動物は？",
     "options": [
-      "ナマケモノ",
+      "サル",
       "コアラ",
       "パンダ",
-      "サル"
+      "ナマケモノ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7653,12 +7653,12 @@
     "id": "rid_454",
     "question": "何千万年も昔の太古の樹液が地中で固まって黄金色の宝石となり、時に太古の昆虫を閉じ込めたまま見つかる有機質宝石は？",
     "options": [
-      "琥珀（アンバー）",
       "ルビー",
+      "琥珀（アンバー）",
       "真珠",
       "水晶"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7671,12 +7671,12 @@
     "id": "rid_455",
     "question": "懐中電灯をつけたわけでもないのに、太陽の下でも蛍光灯の下でもいつでも眩しい光をピカッと反射して放っている人は？",
     "options": [
-      "頭がツルッと涼しい叔父さん",
-      "ポケットに手を入れた学生",
       "帽子を深くかぶった兄",
+      "ポケットに手を入れた学生",
+      "頭がツルッと涼しい叔父さん",
       "ガムを噛んでいる友達"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7689,12 +7689,12 @@
     "id": "rid_456",
     "question": "音もなく自分の口を大きく開けさせたかと思えば、向かいに座っている人の口まで魔法のように開けさせてしまう不思議な伝染現象は？",
     "options": [
-      "あくび",
+      "笑い",
       "咳（せき）",
       "しゃっくり",
-      "笑い"
+      "あくび"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7725,12 +7725,12 @@
     "id": "rid_458",
     "question": "予告もなくやってきて胸をヒックヒックと揺らし、誰かが後ろから突然「ワッ！」と驚かせてくれて初めて止まるものは？",
     "options": [
-      "しゃっくり",
       "げっぷ",
+      "しゃっくり",
       "くしゃみ",
       "いびき"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7743,12 +7743,12 @@
     "id": "rid_459",
     "question": "年を重ねるほど目の前の数が増えていき、心の中で秘密の願い事をしてから思い切り息を吹き消すことで拍手をもらえる儀式は？",
     "options": [
-      "誕生日のろうそく吹き消し",
-      "風船膨らまし",
       "笛吹き",
+      "風船膨らまし",
+      "誕生日のろうそく吹き消し",
       "シャボン玉遊び"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7761,12 +7761,12 @@
     "id": "rid_460",
     "question": "朝目が覚めた瞬間に手足を思い切り四方に伸ばし、まるで体の関節を組み立て直すように「うーん」と声を出す動作は？",
     "options": [
-      "背伸び（伸びをする）",
+      "深呼吸",
       "ランニング",
       "縄跳び",
-      "深呼吸"
+      "背伸び（伸びをする）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7797,12 +7797,12 @@
     "id": "rid_462",
     "question": "両目を閉じれば眠っているだけなのに、片目だけを一瞬パチッと閉じて開けると相手をドキッとさせる合図は？",
     "options": [
-      "ウインク",
       "にらめっこ",
+      "ウインク",
       "あくび",
       "居眠り"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7815,12 +7815,12 @@
     "id": "rid_463",
     "question": "５本の指の中で一番小さくて力のない小指同士をフックのように絡め合わせ、親指の判子を押して交わす約束の仕草は？",
     "options": [
-      "指切り（ゆびきりげんまん）",
-      "握手",
       "ハイタッチ",
+      "握手",
+      "指切り（ゆびきりげんまん）",
       "腕相撲"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7833,12 +7833,12 @@
     "id": "rid_464",
     "question": "嬉しいことや勝利があった時、お互いの手のひらを頭上高くでパチン！と勢いよく打ち鳴らして喜びを分かち合う挨拶は？",
     "options": [
-      "ハイタッチ（ハイファイブ）",
+      "腕組み",
       "握手",
       "拍手",
-      "腕組み"
+      "ハイタッチ（ハイファイブ）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7869,12 +7869,12 @@
     "id": "rid_466",
     "question": "険しい山々の尾根を巨大な竜のように万里にわたってうねりながら国境を守り続けた、世界最長の城壁は？",
     "options": [
-      "万里の長城",
       "ベルリンの壁",
+      "万里の長城",
       "ピラミッド",
       "コロッセオ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7887,12 +7887,12 @@
     "id": "rid_467",
     "question": "建設当時は鉄くずの塊と批判されながらも、今やパリの空をロマンチックに彩る巨大な鉄の塔は？",
     "options": [
-      "エッフェル塔",
-      "東京タワー",
       "ピサの斜塔",
+      "東京タワー",
+      "エッフェル塔",
       "エンパイア・ステート・ビル"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7905,12 +7905,12 @@
     "id": "rid_468",
     "question": "砂漠の真ん中に数百万個もの巨石を四角錐の山のように積み上げて築かれた、古代ファラオの永遠の墓は？",
     "options": [
-      "ピラミッド",
+      "タージ・マハル",
       "スフィンクス",
       "パルテノン神殿",
-      "タージ・マハル"
+      "ピラミッド"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7941,12 +7941,12 @@
     "id": "rid_470",
     "question": "白と黒の８８本の歯を見せ、指先で軽やかに叩くたびに壮大で美しい和音を奏でる「楽器の王様」は？",
     "options": [
-      "ピアノ",
       "バイオリン",
+      "ピアノ",
       "ドラム",
       "ハープ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7959,12 +7959,12 @@
     "id": "rid_471",
     "question": "馬の尻尾の毛で作られた弓で４本の細い弦を擦ると、顎の下に抱かれて人の声のように切なく澄んだ音色で歌う楽器は？",
     "options": [
-      "バイオリン",
-      "ギター",
       "チェロ",
+      "ギター",
+      "バイオリン",
       "ウクレレ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7977,12 +7977,12 @@
     "id": "rid_472",
     "question": "両手に木のバチを持って思い切り叩かれてこそ、心臓を高鳴らせる嵐のようなリズムを響かせる打楽器は？",
     "options": [
-      "ドラム",
+      "トランペット",
       "ピアノ",
       "フルート",
-      "トランペット"
+      "ドラム"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8013,12 +8013,12 @@
     "id": "rid_474",
     "question": "ポケットにすっぽり収まるほど小さいのに、唇に当てて息を吸ったり吐いたりするたびに郷愁を歌う銀色の小さな楽器は？",
     "options": [
-      "ハーモニカ",
       "オカリナ",
+      "ハーモニカ",
       "リコーダー",
       "トランペット"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8031,12 +8031,12 @@
     "id": "rid_475",
     "question": "世界中の誰一人として同じものがなく、指先に刻まれた渦巻きの模様で自分自身を証明してくれる唯一の身分証明書は？",
     "options": [
-      "指紋",
-      "爪",
       "手の甲",
+      "爪",
+      "指紋",
       "手相"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8049,12 +8049,12 @@
     "id": "rid_476",
     "question": "体の中に２０６本もの硬い白い柱を立て、柔らかい肉が崩れないように全身をしっかりと支えて立たせてくれる骨格は？",
     "options": [
-      "骨（スケルトン）",
+      "皮膚",
       "筋肉",
       "血管",
-      "皮膚"
+      "骨（スケルトン）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8085,12 +8085,12 @@
     "id": "rid_478",
     "question": "この世に生まれた瞬間に母親との命の綱を切り離して残された、お腹の真ん中にある最初の記念のしるしは？",
     "options": [
-      "おへそ",
       "ほくろ",
+      "おへそ",
       "傷跡",
       "あばら骨"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8103,12 +8103,12 @@
     "id": "rid_479",
     "question": "頑丈な頭蓋骨の中にシワだらけのクルミのような姿で隠れ、全身の思考や記憶、呼吸まで指揮する司令塔は？",
     "options": [
-      "脳（ブレイン）",
-      "心臓",
       "肺",
+      "心臓",
+      "脳（ブレイン）",
       "胃"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8121,12 +8121,12 @@
     "id": "rid_480",
     "question": "昼は棺の中で眠りコウモリに変身して夜空を飛び、ニンニクや十字架、日光を恐れて人血をすする闇の伯爵は？",
     "options": [
-      "ドラキュラ（吸血鬼）",
+      "ゾンビ",
       "狼男",
       "ミイラ",
-      "ゾンビ"
+      "ドラキュラ（吸血鬼）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8157,12 +8157,12 @@
     "id": "rid_482",
     "question": "何千年も前にピラミッドの石棺に納められ、全身を包帯でぐるぐる巻きにされたまま墓を荒らす者を呪って歩き出す怪物は？",
     "options": [
-      "ミイラ",
       "ガイコツ",
+      "ミイラ",
       "ゾンビ",
       "幽霊"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8175,12 +8175,12 @@
     "id": "rid_483",
     "question": "昼間はごく普通の人間として暮らしているが、夜空に満月が昇ると狼の毛並みと鋭い牙を剥き出して遠吠えする怪物は？",
     "options": [
-      "狼男（ウェアウルフ）",
-      "ドラキュラ",
       "九尾の狐",
+      "ドラキュラ",
+      "狼男（ウェアウルフ）",
       "イエティ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8193,12 +8193,12 @@
     "id": "rid_484",
     "question": "心や思考をすっかり失い、ただ噛みつきたい本能だけに突き動かされて群れをなしノロノロと徘徊する歩く死体は？",
     "options": [
-      "ゾンビ",
+      "フランケンシュタイン",
       "キョンシー",
       "ガイコツ兵士",
-      "フランケンシュタイン"
+      "ゾンビ"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8229,12 +8229,12 @@
     "id": "rid_486",
     "question": "清朝の官服を着て額に黄色いお札を貼り、両腕を前にピンと伸ばしたままピョンピョン跳ねて追いかけてくる中国の妖怪は？",
     "options": [
-      "キョンシー（跳躍する死体）",
       "トッケビ（ゴブリン）",
+      "キョンシー（跳躍する死体）",
       "ゾンビ",
       "ミイラ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8247,12 +8247,12 @@
     "id": "rid_487",
     "question": "目の前で息をして足跡を残しているのに、包帯をほどいたり服を脱いでしまうと姿が完全に消えてしまう人は？",
     "options": [
-      "透明人間",
-      "幽霊",
       "影",
+      "幽霊",
+      "透明人間",
       "トッケビ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8265,12 +8265,12 @@
     "id": "rid_488",
     "question": "黒いフード付きのローブで骨の顔を隠し、巨大な大鎌を手にして命尽きた者の魂を刈り取りにやってくる西洋の死の先導者は？",
     "options": [
-      "死神（グリム・リーパー）",
+      "キューピッド",
       "閻魔大王",
       "ハデス",
-      "キューピッド"
+      "死神（グリム・リーパー）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8301,12 +8301,12 @@
     "id": "rid_490",
     "question": "背中に小さな翼を持ちいたずら好きな赤ん坊の姿をしているが、黄金の矢を放って当たった者を誰でも恋に落ちさせてしまう愛の神は？",
     "options": [
-      "キューピッド",
       "死神",
+      "キューピッド",
       "ヘルメス",
       "妖精"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8319,12 +8319,12 @@
     "id": "rid_491",
     "question": "小人の国では街全体がおもちゃに見える巨人となり、巨人の国では人の手のひらに乗せられて見世物になった英国の冒険家は？",
     "options": [
-      "ガリバー",
-      "ロビンソン・クルーソー",
       "シンドバッド",
+      "ロビンソン・クルーソー",
+      "ガリバー",
       "ピーター・パン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8337,12 +8337,12 @@
     "id": "rid_492",
     "question": "埃を払おうと古い魔法のランプをこすっただけで、巨大な魔人ジーニーが現れて３つの願いを叶えてくれる幸運な少年は？",
     "options": [
-      "アラジン",
+      "星の王子さま",
       "アリババ",
       "シンドバッド",
-      "星の王子さま"
+      "アラジン"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8373,12 +8373,12 @@
     "id": "rid_494",
     "question": "騎士道小説に夢中になりすぎて、風で回る風車を邪悪な巨人だと思い込み、槍を構えて突撃した風変わりな老騎士は？",
     "options": [
-      "ドン・キホーテ",
       "ロビン・フッド",
+      "ドン・キホーテ",
       "アーサー王",
       "ダルタニャン"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8391,12 +8391,12 @@
     "id": "rid_495",
     "question": "密林で狼の群れに育てられ、クマのバルーや黒豹のバギーラを友として邪悪な虎シア・カーンに立ち向かう人間の少年は？",
     "options": [
-      "モーグリ",
-      "ターザン",
       "ピーター・パン",
+      "ターザン",
+      "モーグリ",
       "ヘラクレス"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8409,12 +8409,12 @@
     "id": "rid_496",
     "question": "扉も階段もない高い塔に閉じ込められ、自らの信じられないほど長い黄金の髪をロープのように窓から垂らしていた美少女は？",
     "options": [
-      "ラプンツェル",
+      "人魚姫",
       "シンデレラ",
       "眠れる森の美女",
-      "人魚姫"
+      "ラプンツェル"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8445,12 +8445,12 @@
     "id": "rid_498",
     "question": "素足の他の仲間とは違っておしゃれな革の長靴を履き、巧みな弁舌と知恵で人食い鬼をだまして貧しい主人を城主に仕立てた賢い動物は？",
     "options": [
-      "長靴をはいた猫",
       "ブレーメンの音楽隊",
+      "長靴をはいた猫",
       "チェシャ猫",
       "ピーターラビット"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8463,12 +8463,12 @@
     "id": "rid_499",
     "question": "緑色の服と帽子をまといシャーウッドの森に隠れ住み、百発百中の弓の腕前で悪徳代官から財を奪い貧しい民に分け与えた伝説の義賊は？",
     "options": [
-      "ロビン・フッド",
-      "ウィリアム・テル",
       "ドン・キホーテ",
+      "ウィリアム・テル",
+      "ロビン・フッド",
       "三銃士"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8481,12 +8481,12 @@
     "id": "rid_500",
     "question": "飢えた甥のためにパンを１つ盗んだ罪で１９年間投獄されたが、司教の銀の燭台の慈悲によって生まれ変わり善行を施した人物は？",
     "options": [
-      "ジャン・バルジャン",
+      "カジモド",
       "モンテ・クリスト伯",
       "オリバー・ツイスト",
-      "カジモド"
+      "ジャン・バルジャン"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8517,12 +8517,12 @@
     "id": "rid_502",
     "question": "チルチルとミチルの兄妹が本当の幸せを求めて世界中を探し回った末に、結局我が家の鳥かごの中にいたと気づいた希望の鳥は？",
     "options": [
-      "青い鳥",
       "鳳凰",
+      "青い鳥",
       "ハト",
       "カササギ"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8535,12 +8535,12 @@
     "id": "rid_503",
     "question": "会えばフライパンや罠でドタバタ追いかけっこを繰り広げるのに、いざ相手がいないと寂しくてたまらない史上最高のアニメ名コンビは？",
     "options": [
-      "トムとジェリー",
-      "バットマンとロビン",
       "ロミオとジュリエット",
+      "バットマンとロビン",
+      "トムとジェリー",
       "ホームズとワトソン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8553,12 +8553,12 @@
     "id": "rid_504",
     "question": "クリスマスイブの夜、良い子にプレゼントを届けるため、トナカイのそりに乗って煙突から入ってくる白いひげのおじいさんは？",
     "options": [
-      "サンタクロース",
+      "くるみ割り人形",
       "ルドルフ",
       "エルフ",
-      "くるみ割り人形"
+      "サンタクロース"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8589,12 +8589,12 @@
     "id": "rid_506",
     "question": "小惑星B-612で一輪のバラの世話をし、宇宙を旅してサハラ砂漠で不時着した飛行士と出会った金髪の少年は？",
     "options": [
-      "星の王子さま",
       "ピーター・パン",
+      "星の王子さま",
       "ピノキオ",
       "アラジン"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8607,12 +8607,12 @@
     "id": "rid_507",
     "question": "『千夜一夜物語』の主人公で、巨鳥ロックに遭遇したり巨大クジラを島と間違えながら、7回もの危険な航海を乗り越えた海の冒険家は？",
     "options": [
-      "シンドバッド",
-      "ロビンソン・クルーソー",
       "ガリバー",
+      "ロビンソン・クルーソー",
+      "シンドバッド",
       "ピーター・パン"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8625,12 +8625,12 @@
     "id": "rid_508",
     "question": "岩に刺さった聖剣エクスカリバーを引き抜いて王となり、キャメロット城で「円卓の騎士」たちを率いた伝説の王は？",
     "options": [
-      "アーサー王",
+      "アレクサンダー大王",
       "ロビン・フッド",
       "ドン・キホーテ",
-      "アレクサンダー大王"
+      "アーサー王"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8661,12 +8661,12 @@
     "id": "rid_510",
     "question": "森の奥のキノコの家に暮らし、悪者の魔法使いガーガメルと猫のアズラエルの企みをみんなで力を合わせて防ぐ青い肌の小さな妖精たちは？",
     "options": [
-      "スマーフ",
       "ミニオンズ",
+      "スマーフ",
       "テレタビーズ",
       "トロール"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8679,12 +8679,12 @@
     "id": "rid_511",
     "question": "生まれた時に周りと違って体が大きく灰色だったためいじめられたが、厳しい冬を耐えて美しい「白鳥」へと成長した主人公は？",
     "options": [
-      "みにくいアヒルの子",
-      "青い鳥",
       "フランダースの犬",
+      "青い鳥",
+      "みにくいアヒルの子",
       "長靴をはいた猫"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8697,12 +8697,12 @@
     "id": "rid_512",
     "question": "謎の薬で小学生の姿にされたが頭脳はそのまま、腕時計型麻酔銃や蝶ネクタイ型変声機を駆使して難事件を解決する天才高校生探偵は？",
     "options": [
-      "江戸川コナン",
+      "アルセーヌ・ルパン",
       "シャーロック・ホームズ",
       "金田一耕助",
-      "アルセーヌ・ルパン"
+      "江戸川コナン"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8734,11 +8734,11 @@
     "question": "ウサギとカメが競争し、ウサギは居眠りもせず全力で走りました。なのに先にゴールしたのはカメ。なぜじゃ？",
     "options": [
       "ウサギが道を間違えた",
-      "カメが抜け道を通った",
       "泳ぎの競争だったから",
+      "カメが抜け道を通った",
       "ウサギの足がつった"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8752,11 +8752,11 @@
     "question": "リンゴが五つ入ったかごから三つ持っていった。手元にあるリンゴはいくつじゃ？",
     "options": [
       "2個",
-      "3個",
       "5個",
+      "3個",
       "0個"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -8771,10 +8771,10 @@
     "options": [
       "ペンギンが泳いで逃げる",
       "クマが一瞬で食べてしまう",
-      "出会うこと自体がない",
-      "ペンギンの群れが追い払う"
+      "ペンギンの群れが追い払う",
+      "出会うこと自体がない"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8787,12 +8787,12 @@
     "id": "rid_904",
     "question": "昼は絶対見えず、夜でも雨が降ると消えてしまう星は何じゃ？",
     "options": [
-      "北極星",
-      "牽牛織女星",
       "空の星",
+      "牽牛織女星",
+      "北極星",
       "瞳（目玉の星）"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8806,11 +8806,11 @@
     "question": "土砂降りの雨の中、傘も帽子もなしで歩いていたのに髪の毛が一本も濡れなかった理由は？",
     "options": [
       "軒下ばかり歩いたから",
-      "防水スプレーをかけたから",
       "髪の毛がない坊主頭だから",
+      "防水スプレーをかけたから",
       "雨より速く走ったから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8843,10 +8843,10 @@
     "options": [
       "緑のレンガ",
       "断熱ブロック",
-      "ガラス",
-      "ビニール"
+      "ビニール",
+      "ガラス"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8859,12 +8859,12 @@
     "id": "rid_908",
     "question": "ある月は31日、ある月は30日ある。では28日がある月はいくつじゃ？",
     "options": [
-      "1つ（2月だけ）",
-      "うるう年の1つ",
       "12個（すべての月）",
+      "うるう年の1つ",
+      "1つ（2月だけ）",
       "7個"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8897,10 +8897,10 @@
     "options": [
       "出発国の韓国",
       "到着国の日本",
-      "国境線の共同墓地",
-      "埋葬しない"
+      "埋葬しない",
+      "国境線の共同墓地"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8931,12 +8931,12 @@
     "id": "rid_912",
     "question": "旧約聖書でモーセが箱舟に乗せた各動物の数は雌雄何対じゃ？",
     "options": [
-      "1対",
-      "7対",
       "0対（0匹）",
+      "7対",
+      "1対",
       "2対"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8950,11 +8950,11 @@
     "question": "10階建ての屋上から生卵を落としてコンクリートの床を割らないようにするにはどうすればよいじゃ？",
     "options": [
       "卵に緩衝材を巻く",
-      "パラシュートをつける",
       "そのまま落とす",
+      "パラシュートをつける",
       "床にマットレスを敷く"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8968,11 +8968,11 @@
     "question": "ある農家に羊が十七頭いたが、九頭を除いてすべて病気で死んだ。生き残った羊は何頭じゃ？",
     "options": [
       "8頭",
-      "9頭",
       "0頭",
+      "9頭",
       "17頭"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8986,11 +8986,11 @@
     "question": "バットとボールを合わせて11,000ウォン。バットがボールより10,000ウォン高いなら、ボールの値段は？",
     "options": [
       "1,000ウォン",
-      "500ウォン",
+      "2,000ウォン",
       "100ウォン",
-      "2,000ウォン"
+      "500ウォン"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9003,12 +9003,12 @@
     "id": "rid_916",
     "question": "木にリンゴがなっていた。リンゴを摘んだ後、木にも手元にもリンゴがなかった。どうしたのじゃ？",
     "options": [
-      "地面に落とした",
-      "すぐ食べてしまった",
       "2個なっていて1個だけ摘んだ",
+      "すぐ食べてしまった",
+      "地面に落とした",
       "他の人が奪っていった"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9022,11 +9022,11 @@
     "question": "四角いテーブルの角4つのうち、のこぎりで角を一つまっすぐに切った。残った角はいくつじゃ？",
     "options": [
       "3つ",
-      "4つ",
       "5つ",
+      "4つ",
       "6つ"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9059,10 +9059,10 @@
     "options": [
       "地球の方へ落ちる",
       "太陽の方へ飛ぶ",
-      "その場に浮いたまま",
-      "一番近い惑星に吸い込まれる"
+      "一番近い惑星に吸い込まれる",
+      "その場に浮いたまま"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9075,12 +9075,12 @@
     "id": "rid_920",
     "question": "深さ3m、横2m、縦2mの土を掘った穴がある。この穴の中にある土の体積は？",
     "options": [
-      "12㎥",
-      "6㎥",
       "0㎥（全くない）",
+      "6㎥",
+      "12㎥",
       "1㎥"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9094,11 +9094,11 @@
     "question": "土砂降りの雨なのにオープンカーの運転手の服が全く濡れなかった。なぜじゃ？",
     "options": [
       "透明なレインコートを着ていたから",
-      "雨より速く走ったから",
       "長いトンネルの中を走っていたから",
+      "雨より速く走ったから",
       "特殊な撥水コートの服だったから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9130,11 +9130,11 @@
     "question": "医者が患者に30分ごとに薬を1錠ずつ、合計3錠処方した。すべて飲み終わるのにかかる時間は？",
     "options": [
       "1時間30分",
-      "1時間",
+      "2時間",
       "45分",
-      "2時間"
+      "1時間"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9147,12 +9147,12 @@
     "id": "rid_924",
     "question": "水槽に金魚が十匹いる。三匹が水に溺れて死に、二匹が逃げた。水槽に残ったのは何匹じゃ？",
     "options": [
-      "5匹",
-      "7匹",
       "10匹",
+      "7匹",
+      "5匹",
       "8匹"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9166,11 +9166,11 @@
     "question": "二人の男がチェスを5局戦った。引き分けは一度もなく、二人とも3勝した。どうしたのじゃ？",
     "options": [
       "八百長だ",
-      "判定で両方に勝ちがついた",
       "お互いではなく別の相手と戦った",
+      "判定で両方に勝ちがついた",
       "奇数局の規定のため"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9203,10 +9203,10 @@
     "options": [
       "自分の体重分の岩",
       "200kgのバーベル",
-      "自分の息（呼吸）",
-      "鉄のダンベル"
+      "鉄のダンベル",
+      "自分の息（呼吸）"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9219,12 +9219,12 @@
     "id": "rid_928",
     "question": "パリのエッフェル塔の頂上の手すりから鉄の玉をまっすぐ落とした。玉が最初にぶつかる場所は？",
     "options": [
-      "塔の下の芝生",
-      "歩行者広場の床",
       "塔の下部の鉄骨構造",
+      "歩行者広場の床",
+      "塔の下の芝生",
       "セーヌ川の水面"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9274,11 +9274,11 @@
     "question": "あるアメリカ人が一生アメリカの土地で生まれ育った。しかし彼はアメリカで一度も合法的に投票できなかった。なぜじゃ？",
     "options": [
       "前科があるから",
-      "まだ8歳の子供だから",
+      "二重国籍だから",
       "市民権を剥奪されたから",
-      "二重国籍だから"
+      "まだ8歳の子供だから"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9291,12 +9291,12 @@
     "id": "rid_932",
     "question": "警官が泥棒を追い、行き止まりの路地に追い込んだのに目の前で逃げられた。翼もなく壁も越えなかったのにどう消えたのじゃ？",
     "options": [
-      "透明マントを使った",
       "マンホールの蓋を開けて入った",
+      "透明マントを使った",
       "警官がまばたきした",
       "実は路地に泥棒がいなかった"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9310,11 +9310,11 @@
     "question": "ある男が25日間一睡もしないで普通に日常生活を送った。どうして可能だったのじゃ？",
     "options": [
       "特殊な覚醒剤を飲んだから",
-      "ギネス記録保持者だから",
       "夜だけ寝ていたから",
+      "ギネス記録保持者だから",
       "立ったまま浅い眠りを取ったから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9328,11 +9328,11 @@
     "question": "ある物を買うとき、作る人は不要だから売り、買う人は使わず、実際に使う人は自分が使っていることを知らない。この物は何じゃ？",
     "options": [
       "睡眠アイマスク",
-      "棺",
       "赤ちゃんのオムツ",
+      "棺",
       "プレゼントの包装紙"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9346,11 +9346,11 @@
     "question": "チョルスとヨンヒが同じ食堂で同じ時間に同じアイスコーヒーを飲んだ。ヨンヒは1分で一気に飲み、チョルスは30分かけてゆっくり飲んだ。なのにチョルスだけが毒に当たった。なぜじゃ？",
     "options": [
       "チョルスのストローだけに毒がついていた",
-      "毒が入った氷がゆっくり溶けたから",
+      "ウェイターが後からこっそり毒を入れた",
       "ヨンヒは解毒能力が高かった",
-      "ウェイターが後からこっそり毒を入れた"
+      "毒が入った氷がゆっくり溶けたから"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9363,12 +9363,12 @@
     "id": "rid_936",
     "question": "ある女性が身分証も財布もパスポートもなしに他国の国境を検問なしで自由に通過した。どうして可能だったのじゃ？",
     "options": [
-      "外交官の免責特権を受けた",
-      "密航船の貨物室に隠れた",
       "生まれたばかりの赤ちゃんだった",
+      "密航船の貨物室に隠れた",
+      "外交官の免責特権を受けた",
       "両国の国境に鉄条網がなかった"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9382,11 +9382,11 @@
     "question": "ある船に船長と船員10人が乗っていた。甲板で船長が一歩踏み出した瞬間船が揺れ、全員海に落ちた。しかし濡れた髪の毛は一本もなかった。なぜじゃ？",
     "options": [
       "全員完全防水の潜水帽をかぶっていた",
-      "海水が凍って氷の板だった",
       "乗船者全員が坊主頭だった",
+      "海水が凍って氷の板だった",
       "救命ボートに乗って水に触れなかった"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9400,11 +9400,11 @@
     "question": "リンゴ1個を包丁で正確に3回だけ切って8切れにする正しい方法は？",
     "options": [
       "薄く縦に3回切る",
-      "十字に2回切った後水平に1回切る",
       "斜めに3回割る",
+      "十字に2回切った後水平に1回切る",
       "8等分の目盛りをつけて三角にくり抜く"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9417,12 +9417,12 @@
     "id": "rid_939",
     "question": "ある男が飛行機からパラシュートなしで飛び降りたのに無傷で着地した。どうしたのじゃ？",
     "options": [
-      "飛行機が滑走路に止まっていたから",
+      "特殊なウィングスーツを着ていたから",
       "下に巨大な藁の山があったから",
       "超低空飛行中に水の上に落ちたから",
-      "特殊なウィングスーツを着ていたから"
+      "飛行機が滑走路に止まっていたから"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9435,12 +9435,12 @@
     "id": "rid_940",
     "question": "AとBが100m競争をした。AがゴールしたときBは90m地点にいた。2回目の試合でAはスタートラインより10m後ろから出発した。同じ速度なら結果は？",
     "options": [
-      "同時に入る",
       "やはりAが勝つ",
+      "同時に入る",
       "Bがわずかに勝つ",
       "距離が同じで引き分け"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9454,11 +9454,11 @@
     "question": "どんなにきれいに洗っても、洗えば洗うほどどんどん汚くなるものは？",
     "options": [
       "ぞうきん",
-      "石鹸",
       "洗う水",
+      "石鹸",
       "タオル"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9491,10 +9491,10 @@
     "options": [
       "コップの体積に応じた何千滴",
       "表面張力が持つまで",
-      "ちょうど1滴",
-      "満杯になるまで無限"
+      "満杯になるまで無限",
+      "ちょうど1滴"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9507,12 +9507,12 @@
     "id": "rid_944",
     "question": "少年が野球ボールを思い切り投げた。壁に当たらず、誰も触らず、糸にもつながっていないのに少年の手に正確に戻ってきた。どう投げたのじゃ？",
     "options": [
-      "強いスピンをかけてカーブを投げた",
       "真上に垂直に投げた",
+      "強いスピンをかけてカーブを投げた",
       "ブーメランのように弧を描いて投げた",
       "風の反対方向に投げた"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9526,11 +9526,11 @@
     "question": "二人の父親と二人の息子が釣りに行き、それぞれ魚を1匹ずつ釣った。しかし集めたら合計3匹だった。1匹も逃していないのになぜ3匹じゃ？",
     "options": [
       "一人が釣りに失敗したから",
-      "釣り場の管理人が1匹持っていったから",
       "祖父・父・孫の3世代家族だから",
+      "釣り場の管理人が1匹持っていったから",
       "魚が1匹二度釣られたから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9544,11 +9544,11 @@
     "question": "重い鉄の扉を開けなければならない。鍵束の10本のうち開く鍵は1本だけ。この扉を開けるのに最大何回鍵を試せばよいか？",
     "options": [
       "10回",
-      "9回",
       "1回",
+      "9回",
       "5回"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9563,10 +9563,10 @@
     "options": [
       "黒色",
       "薄い灰色",
-      "白色",
-      "透明"
+      "透明",
+      "白色"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9579,12 +9579,12 @@
     "id": "rid_948",
     "question": "密閉された部屋に空気がいっぱいある。この部屋から空気を最も速く抜く方法は？",
     "options": [
-      "大型換気扇を最大で回す",
-      "真空ポンプで吸い出す",
       "部屋に水や家具をぎっしり詰める",
+      "真空ポンプで吸い出す",
+      "大型換気扇を最大で回す",
       "窓を大きく開ける"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9598,11 +9598,11 @@
     "question": "飛行機の機長が飛行中に計器がすべて故障したのに誤差なく目的地に正確に着陸した。操縦士が見た唯一のものは？",
     "options": [
       "夜空の北極星と星座",
-      "管制塔の無線誘導",
       "滑走路の誘導灯",
+      "管制塔の無線誘導",
       "スマホのコンパスアプリ"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9616,11 +9616,11 @@
     "question": "南極点に立ってコンパスを持ち、北極方向にまっすぐ10km歩いた後、右に90度曲がって10km歩いた。現在の位置は南極点からどの方向じゃ？",
     "options": [
       "東",
-      "北の方角",
       "南東",
+      "北の方角",
       "西"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9634,11 +9634,11 @@
     "question": "ある学生が試験勉強を全くせずに試験を受け、白紙で出しても100点を取った。どうしたのじゃ？",
     "options": [
       "先生が採点を間違えた",
-      "視力検査の試験だったから",
+      "問題がすべて口述試験だった",
       "他の生徒と答案が入れ替わった",
-      "問題がすべて口述試験だった"
+      "視力検査の試験だったから"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9651,12 +9651,12 @@
     "id": "rid_952",
     "question": "水中に完全に沈みながらも水に濡れず息もできる人は？",
     "options": [
-      "海女",
       "潜水艦に乗っている乗員",
+      "海女",
       "水泳選手",
       "スキューバダイバー"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9669,12 +9669,12 @@
     "id": "rid_953",
     "question": "じゃんけんを10回連続でしたが、二人ともグーだけ出して10回全部引き分けた。二人が出した指の数の合計はいくつじゃ？",
     "options": [
-      "0本",
       "100本",
+      "0本",
       "50本",
       "20本"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9688,11 +9688,11 @@
     "question": "ある人が毎日数十人の髭を剃ってあげるが、自分の顔にはぼうぼうの顎髭がそのままある。この人の職業は？",
     "options": [
       "カミソリ工場の検査員",
-      "理髪師",
       "特殊メイクアップアーティスト",
+      "理髪師",
       "皮膚科医"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9723,12 +9723,12 @@
     "id": "rid_956",
     "question": "高速道路を走る車のタイヤ4本のうち1本がパンクした。しかし運転手は目的地まで普通の速度で問題なく到着した。どうして可能だったのじゃ？",
     "options": [
-      "ランフラットタイヤだったから",
       "トランクに積んでいたスペアタイヤがパンクしていたから",
+      "ランフラットタイヤだったから",
       "車輪3本でバランスを取って走ったから",
       "レッカー車にけん引されて行ったから"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9777,12 +9777,12 @@
     "id": "rid_959",
     "question": "海の真ん中で船が転覆して遭難した。救助隊が来るまで海水を絶対飲んではいけない本当の理由は？",
     "options": [
-      "塩分濃度が高く脱水がさらに進むから",
+      "体温が急激に下がるから",
       "サメが血の匂いに集まってくるから",
       "お腹を壊して腹痛を起こすから",
-      "体温が急激に下がるから"
+      "塩分濃度が高く脱水がさらに進むから"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9795,12 +9795,12 @@
     "id": "rid_960",
     "question": "病院に来た患者が医者に「体中が痛い。頭を触れても痛いし、足を触れても痛い」と訴えた。医者の診断結果は？",
     "options": [
-      "全身神経痛",
-      "線維筋痛症",
       "指の骨折",
+      "線維筋痛症",
+      "全身神経痛",
       "仮病"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9850,11 +9850,11 @@
     "question": "子供が横断歩道で赤信号を見て止まった。後ろの視覚障害者は信号を見ずに正確に青で渡った。どうやって知ったのじゃ？",
     "options": [
       "盲導犬が信号の色を見分けた",
-      "歩行者用音響信号の音を聞いた",
+      "車のクラクションで判断した",
       "周りの人の足音を聞いた",
-      "車のクラクションで判断した"
+      "歩行者用音響信号の音を聞いた"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9867,12 +9867,12 @@
     "id": "rid_964",
     "question": "真っ暗な部屋でろうそくを灯して鏡を見た。鏡の中の自分はなぜ右手でろうそくを持っているのじゃ？",
     "options": [
-      "鏡の曲率による歪み",
       "実際に左手で持っているから",
+      "鏡の曲率による歪み",
       "光の屈折現象",
       "鏡像が180度回転しているから"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9905,10 +9905,10 @@
     "options": [
       "10回",
       "11回",
-      "19回",
-      "20回"
+      "20回",
+      "19回"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9923,10 +9923,10 @@
     "options": [
       "金欲のない達人だから",
       "期限切れの不渡り小切手だから",
-      "サッカーボールに1億円のシールが貼ってあったから",
-      "風で飛んできたゴミだと思ったから"
+      "風で飛んできたゴミだと思ったから",
+      "サッカーボールに1億円のシールが貼ってあったから"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9939,12 +9939,12 @@
     "id": "rid_968",
     "question": "氷の上に重い鉄球と軽い卓球ボールを置いて強く息を吹いた。摩擦が0だとすると、より遠くまで転がるのは？",
     "options": [
-      "卓球ボール",
-      "鉄球",
       "どちらも止まらず永遠に転がる",
+      "鉄球",
+      "卓球ボール",
       "空気抵抗で鉄球"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9958,11 +9958,11 @@
     "question": "野球で打者がボールを打たずにじっとしていても1塁に出られる方法は？",
     "options": [
       "捕手が後ろにこぼしたとき（振り逃げ）",
-      "投手がボークを犯したとき",
       "死球またはフォアボール",
+      "投手がボークを犯したとき",
       "打撃妨害の判定がでたとき"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9994,11 +9994,11 @@
     "question": "夜に街灯の下を通るとき、街灯に近づくほど自分の影の長さはどう変わるじゃ？",
     "options": [
       "だんだん長くなる",
-      "だんだん短くなる",
+      "完全に消える",
       "変化なく一定",
-      "完全に消える"
+      "だんだん短くなる"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10011,12 +10011,12 @@
     "id": "rid_972",
     "question": "少年が船にかけたはしごの十段目に立っていた。波で海水が二段分上がったら、少年は今何段目に立っているじゃ？",
     "options": [
-      "8段目",
-      "12段目",
       "10段目",
+      "12段目",
+      "8段目",
       "水に沈んで0段目"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10048,11 +10048,11 @@
     "question": "完全に凍った漢江の氷の上に船を浮かべる最も速い方法は？",
     "options": [
       "砕氷船で氷を割って進む",
-      "氷の上に船を乗せる",
       "熱風器で氷を溶かす",
+      "氷の上に船を乗せる",
       "春が来るまで待つ"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10067,10 +10067,10 @@
     "options": [
       "赤外線暗視ゴーグルを使ったから",
       "昼間その道を通ったから",
-      "スマホの懐中電灯をつけて歩いたから",
-      "白杖でついて歩いたから"
+      "白杖でついて歩いたから",
+      "スマホの懐中電灯をつけて歩いたから"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10083,12 +10083,12 @@
     "id": "rid_976",
     "question": "路肩もない狭い一本橋で出会った二人が互いに譲らずそのまま歩いて無事に通り過ぎた。どうして可能だったのじゃ？",
     "options": [
-      "一人が水に潜ったから",
       "二人とも同じ方向に歩いていたから",
+      "一人が水に潜ったから",
       "一本橋が空中に2階建てだったから",
       "一人がもう一人を背負って渡ったから"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10102,11 +10102,11 @@
     "question": "ある動物が生まれて死ぬまで一度も水を飲まずに健康に生きられる理由は？",
     "options": [
       "体内で水分を合成する変異だから",
-      "露だけをなめて",
       "食べる餌（サボテン・草・種）の水分だけで十分なから",
+      "露だけをなめて",
       "水の代わりに土を食べるから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10120,11 +10120,11 @@
     "question": "エレベーターの定員が「大人10人（合計700kg）」です。大人8人（合計550kg）が乗ったのに過積載警報が鳴り扉が閉まらなかった。なぜじゃ？",
     "options": [
       "センサーのゼロ点調整が失敗したから",
-      "8人のうち一人が重い鉄の荷物を持っていたから",
       "乗客の中に子供が隠れていたから",
+      "8人のうち一人が重い鉄の荷物を持っていたから",
       "床のスプリングが老朽化したから"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10138,11 +10138,11 @@
     "question": "昼間の森道を歩いていて自分の影が前に長く伸びていた。今どちらを向いて歩いているじゃ？",
     "options": [
       "日が昇る方向",
-      "日を背にした反対方向",
+      "真北",
       "真南",
-      "真北"
+      "日を背にした反対方向"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10174,11 +10174,11 @@
     "question": "ある人が川を渡るために渡し船に乗った。船頭以外に乗客は誰もいなかったのに、川の真ん中で船が沈んだ。なぜじゃ？",
     "options": [
       "底に穴が開いたから",
-      "船頭の体重が500kgだったから",
+      "重い荷物が満載されていたから",
       "川底の岩礁にぶつかったから",
-      "重い荷物が満載されていたから"
+      "船頭の体重が500kgだったから"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10211,10 +10211,10 @@
     "options": [
       "風が強く上に吹いたから",
       "弾丸が屈折弾だったから",
-      "自分の家の寝室も高層ビルの10階だから",
-      "ガラスにレーザーが反射したから"
+      "ガラスにレーザーが反射したから",
+      "自分の家の寝室も高層ビルの10階だから"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10246,11 +10246,11 @@
     "question": "世界で最も深い海、マリアナ海溝の底に沈んだガラス瓶の中には何が入っているじゃ？",
     "options": [
       "超高圧の海水",
-      "真空状態の空気",
       "海水",
+      "真空状態の空気",
       "割れたガラスの破片"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10264,11 +10264,11 @@
     "question": "車でトンネルに入るとき前照灯をつける一番の理由は？",
     "options": [
       "自分の前方を照らすため",
-      "相手の車に自分の位置を知らせるため",
       "バッテリー上がりを防ぐため",
+      "相手の車に自分の位置を知らせるため",
       "トンネル内のセンサーを作動させるため"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10283,10 +10283,10 @@
     "options": [
       "8レーンがはるかに前からスタートする",
       "1レーンが前からスタートする",
-      "すべてのレーンのスタートラインが一直線で同じ",
-      "ジグザグに配置される"
+      "ジグザグに配置される",
+      "すべてのレーンのスタートラインが一直線で同じ"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10299,12 +10299,12 @@
     "id": "rid_988",
     "question": "ある人が100kgの米俵を軽々と持ち上げた。しかし10gの羽1枚を手のひらに載せて1時間耐えられなかった。なぜじゃ？",
     "options": [
-      "羽アレルギーがあるから",
       "腕の筋肉が水平姿勢で疲れてしびれるから",
+      "羽アレルギーがあるから",
       "風で羽が飛んでしまったから",
       "羽の静電気のため"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10355,10 +10355,10 @@
     "options": [
       "100回",
       "90回",
-      "45回",
-      "10回"
+      "10回",
+      "45回"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10371,12 +10371,12 @@
     "id": "rid_992",
     "question": "時計の時針と分針が正確に重なる現象は、昼12時から夜12時までに何回起きるじゃ？",
     "options": [
-      "12回",
       "11回",
+      "12回",
       "10回",
       "24回"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10390,11 +10390,11 @@
     "question": "男が吹雪の雪山で道に迷った。スマホは持っていたのに119に電話できなかった理由は？",
     "options": [
       "バッテリーが切れていたから",
-      "手袋をしていてタッチできなかったから",
       "基地局の電波が届かない通信圏外だったから",
+      "手袋をしていてタッチできなかったから",
       "緊急通話の暗証番号を忘れたから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10408,11 +10408,11 @@
     "question": "横10m縦10mの部屋の隅に5mのひもで犬がつながれている。犬が自由に動ける範囲の形は？",
     "options": [
       "円形",
-      "扇形（円の4分の1）",
       "正方形",
+      "扇形（円の4分の1）",
       "半円形"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10427,10 +10427,10 @@
     "options": [
       "必ず偶数",
       "必ず奇数",
-      "偶数でも奇数でもあり得る",
-      "わからない"
+      "わからない",
+      "偶数でも奇数でもあり得る"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10443,12 +10443,12 @@
     "id": "rid_996",
     "question": "遊覧船が岩礁にぶつかり沈み始めた。救命胴衣を着た乗客が海に飛び込んだのに、何人かが沈んだ理由は？",
     "options": [
-      "鉛のベストを着ていたから",
       "重い金塊のバッグを抱えていたから",
+      "鉛のベストを着ていたから",
       "海水の比重が淡水より低いから",
       "胴衣の紐を締めなかったから"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10479,12 +10479,12 @@
     "id": "rid_998",
     "question": "野球ボールとテニスボールのどちらが水に浮くじゃ？",
     "options": [
-      "中空のゴム製のボール",
-      "野球ボール",
       "両方浮く",
+      "野球ボール",
+      "中空のゴム製のボール",
       "両方沈む"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10498,11 +10498,11 @@
     "question": "1から50までの番号札が箱に入っている。素数の札を引く確率と、素数以外の札を引く確率ではどちらが高いじゃ？",
     "options": [
       "素数",
-      "合成数（1を除く）",
+      "わからない",
       "五分五分で同じ",
-      "わからない"
+      "合成数（1を除く）"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10515,12 +10515,12 @@
     "id": "rid_1000",
     "question": "二台の乗用車がトンネル内で向かい合って時速60kmで走った。トンネルは一方通行1車線なのに衝突しなかった。なぜじゃ？",
     "options": [
-      "一台が後進していたから",
+      "実は同じ方向に走っていたから",
       "反対の入口から入って止まったから",
       "一台がレッカーに牽引されていたから",
-      "実は同じ方向に走っていたから"
+      "一台が後進していたから"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10533,12 +10533,12 @@
     "id": "rid_1001",
     "question": "晴れた昼間に横断歩道を渡ろうとした人が信号が青なのに渡らず止まった。なぜじゃ？",
     "options": [
-      "車両用信号が青だったから",
       "信号の電球が故障していたから",
+      "車両用信号が青だったから",
       "スマホを見てぼーっとしていたから",
       "足に突然けいれんが起きたから"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10552,11 +10552,11 @@
     "question": "女性がエレベーターで15階から1階へ降りようとしたがボタンに「1」がなかった。どうやって1階へ行けたのじゃ？",
     "options": [
       "非常ベルを押して救助を求めた",
-      "「G」か「L」ボタンを押した",
       "階段で歩いて降りた",
+      "「G」か「L」ボタンを押した",
       "管理室に電話した"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10571,10 +10571,10 @@
     "options": [
       "重い野球ボール",
       "体積の大きいサッカーボール",
-      "両方同時に落ちる",
-      "跳ねるサッカーボール"
+      "跳ねるサッカーボール",
+      "両方同時に落ちる"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10606,11 +10606,11 @@
     "question": "暗い夜道を走る車のヘッドライトが両方消えていた。なのに道の真ん中にいた黒い服の歩行者をはねずに止まれた。運転者はどうやって見たのじゃ？",
     "options": [
       "暗視ゴーグルをかけていたから",
-      "歩行者が夜光ベストを着ていたから",
       "街灯の明かりが道を照らしていたから",
+      "歩行者が夜光ベストを着ていたから",
       "歩行者がスマホの光を振っていたから"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10624,11 +10624,11 @@
     "question": "正確に1kgの鉄球と1kgの綿のかたまりがある。普通の空気中で天秤に乗せるとどちらに傾くじゃ？",
     "options": [
       "綿の方に傾く",
-      "鉄球の方に傾く",
       "両方1kgなので完全に水平",
+      "鉄球の方に傾く",
       "わからない"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10642,11 +10642,11 @@
     "question": "鏡に映った自分の顔を見てウインクした。鏡の中の自分はどちら側の目を閉じたじゃ？",
     "options": [
       "自分と反対側の目",
-      "自分と同じ側の目",
+      "目を閉じなかった",
       "両方の目を閉じた",
-      "目を閉じなかった"
+      "自分と同じ側の目"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10659,12 +10659,12 @@
     "id": "rid_1008",
     "question": "泥棒が宝石店のショーウィンドウをハンマーで強く叩いたのにガラスに傷一つつかなかった。なぜじゃ？",
     "options": [
-      "特殊防弾ガラスだったから",
       "ショーウィンドウが開いていて空きを叩いたから",
+      "特殊防弾ガラスだったから",
       "ハンマーがゴム製だったから",
       "空振りしたから"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10696,11 +10696,11 @@
     "question": "部屋に三人座って話している。外から入ってきた人が「二人しかいないね？」と言った。どうしたのじゃ？",
     "options": [
       "一人がクローゼットに隠れていたから",
-      "一人が赤ちゃんだったから",
       "一人が透明人間だったから",
+      "一人が赤ちゃんだったから",
       "一人が鏡に映った影だったから"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10713,12 +10713,12 @@
     "id": "rid_1011",
     "question": "未舗装の砂利道を走るとき窓を全部閉めても車内に土ほこりが少し入る理由は？",
     "options": [
-      "車体下部の換気口から入るから",
+      "エアコンフィルターが破れているから",
       "窓のゴムパッキンがないから",
       "運転手の靴についた土が飛ぶから",
-      "エアコンフィルターが破れているから"
+      "車体下部の換気口から入るから"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10731,12 +10731,12 @@
     "id": "rid_1012",
     "question": "猟師がトラを見つけて引き金を引いた。弾はトラの眉間を正確に貫いたのにトラは血一滴も出さず無事だった。なぜじゃ？",
     "options": [
-      "防弾ベストを着たトラだったから",
+      "カメラのシャッターを切ったから",
       "剥製の模型だったから",
       "麻酔銃だったから",
-      "カメラのシャッターを切ったから"
+      "防弾ベストを着たトラだったから"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10786,11 +10786,11 @@
     "question": "氷がいっぱいのクーラーボックスに缶飲料を入れて10分。いちばん早く冷やす方法は？",
     "options": [
       "クーラーを毛布で覆う",
-      "氷に塩をたっぷりまいて水を注ぐ",
+      "ドライアイスを横に置く",
       "缶を逆さまにする",
-      "ドライアイスを横に置く"
+      "氷に塩をたっぷりまいて水を注ぐ"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10821,12 +10821,12 @@
     "id": "rid_1017",
     "question": "腕時計の秒針が1秒ごとに止まる動き（クオーツ）と滑らかに流れる動き（機械式）のうち、電池を使うのは？",
     "options": [
-      "ほとんどが止まるクオーツ時計",
       "滑らかな機械式時計",
+      "ほとんどが止まるクオーツ時計",
       "両方電池を使う",
       "両方ぜんまいで動く"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10839,12 +10839,12 @@
     "id": "rid_1018",
     "question": "自転車で急な下り坂を下るとき前ブレーキだけ強く握るとどうなるじゃ？",
     "options": [
-      "後輪が浮いて前転する（エンドー）",
-      "自転車がすぐにその場で止まる",
       "タイヤが横滑りして倒れる",
+      "自転車がすぐにその場で止まる",
+      "後輪が浮いて前転する（エンドー）",
       "チェーンが外れる"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10857,12 +10857,12 @@
     "id": "rid_1019",
     "question": "海の真ん中で雨が降ると海面の塩分濃度はどう変わるじゃ？",
     "options": [
-      "一時的に塩分が下がる（淡水が混ざる）",
+      "泡が立って白くなる",
       "海水が雨を吸収してもっと塩辛くなる",
       "海流のおかげで全く変わらない",
-      "泡が立って白くなる"
+      "一時的に塩分が下がる（淡水が混ざる）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10912,11 +10912,11 @@
     "question": "飛行機が高い高度に上がるほどお菓子の袋がパンパンに膨らむ科学的理由は？",
     "options": [
       "機内温度が急上昇するから",
-      "外気圧が下がって内部の空気が膨張するから",
       "お菓子の窒素が化学反応を起こすから",
+      "外気圧が下がって内部の空気が膨張するから",
       "エンジンの振動のせい"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10929,12 +10929,12 @@
     "id": "rid_1023",
     "question": "水の入ったグラスの縁を濡れた指で円くこすると澄んだ共鳴音が鳴る原理は？",
     "options": [
-      "指紋の摩擦によるグラスの微振動",
+      "空気がカップの中で渦を巻くから",
       "水が指の体温で沸騰するから",
       "指先の静電気放電現象",
-      "空気がカップの中で渦を巻くから"
+      "指紋の摩擦によるグラスの微振動"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10947,12 +10947,12 @@
     "id": "rid_1024",
     "question": "真っ暗な部屋で蛍光灯のスイッチを入れたとき、部屋全体が明るくなるのにかかる時間はおよそどれくらいじゃ？",
     "options": [
-      "1秒",
       "即座（光の速度）",
+      "1秒",
       "0.5秒",
       "5秒"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10965,12 +10965,12 @@
     "id": "rid_1025",
     "question": "100階建ての超高層ビルの屋上に上がると、地上1階より時間がごくわずかに速く流れる相対性理論の理由は？",
     "options": [
-      "地球の中心から遠ざかり重力が弱まるから",
       "風が強く吹いて時計が速くなるから",
+      "地球の中心から遠ざかり重力が弱まるから",
       "気温が低く原子の振動が速くなるから",
       "空気抵抗が減るから"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",

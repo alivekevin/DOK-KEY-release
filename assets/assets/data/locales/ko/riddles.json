@@ -21,11 +21,11 @@
     "question": "스스로를 태워 가장 어두운 곳을 환하게 밝히는 것은?",
     "options": [
       "유리창",
-      "거울",
       "촛불",
+      "거울",
       "항아리"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -38,12 +38,12 @@
   {
     "question": "빛이 강할수록 더 짙고 또렷해지며, 빛이 완전히 꺼져야만 비로소 발밑에서 사라지는 검은 짝꿍은?",
     "options": [
-      "그림자",
-      "거울",
       "발자국",
+      "거울",
+      "그림자",
       "먼지"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -58,10 +58,10 @@
     "options": [
       "그늘막",
       "비닐",
-      "장화",
-      "우비"
+      "우비",
+      "장화"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -92,12 +92,12 @@
   {
     "question": "푸른 대나무 뼈대 위에 얇은 한지 날개를 달고, 바람을 타며 하늘 높이 솟구치다가 줄이 끊어지면 먼 곳으로 날아가 버리는 것은?",
     "options": [
-      "연",
       "부채",
+      "연",
       "풍등",
       "바람개비"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -111,11 +111,11 @@
     "question": "소리 없이 찍히지만, 그 흔적에 이름이 남는 것은?",
     "options": [
       "우표",
-      "도장",
       "손바닥",
+      "도장",
       "주먹"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -129,11 +129,11 @@
     "question": "바람이 불면 소리를 내어 집을 지키는 대문 위의 장식은?",
     "options": [
       "나팔꽃",
-      "풍경",
+      "종",
       "깃발",
-      "종"
+      "풍경"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -164,12 +164,12 @@
   {
     "question": "남의 잘못이나 실수를 없애줄 때마다 제 몸이 문질러져 하얀 때를 남기고 닳아 없어지는 것은?",
     "options": [
-      "지우개",
       "비누",
+      "지우개",
       "걸레",
       "분필"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -182,12 +182,12 @@
   {
     "question": "평소엔 벽에 얌전히 걸려 세상 풍경을 비추다가, 바닥에 떨어져 깨지는 순간 수백 개의 파편으로 주인을 노려보는 것은?",
     "options": [
-      "거울",
-      "창문",
       "어항",
+      "창문",
+      "거울",
       "시계"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -200,12 +200,12 @@
   {
     "question": "처음 태어날 땐 길쭉하고 매끄럽더니, 주인의 생각을 흑연 가루로 쏟아내며 키가 점점 작아져 꼬마가 되는 학용품은?",
     "options": [
-      "연필",
+      "풀",
       "지우개",
       "자",
-      "풀"
+      "연필"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -218,12 +218,12 @@
   {
     "question": "낮에는 잠들고 밤에 눈이 번쩍! 산의 수호자는?",
     "options": [
-      "고라니",
       "부엉이",
+      "고라니",
       "토끼",
       "다람쥐"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -236,12 +236,12 @@
   {
     "question": "검은 먹을 갈아 글씨를 쓰게 돕는, 네모난 돌 그릇은?",
     "options": [
-      "벼루",
       "연적",
+      "벼루",
       "필통",
       "문진"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -254,12 +254,12 @@
   {
     "question": "바다 한가운데서 빛으로 배의 길을 밝혀주는 것은?",
     "options": [
-      "등대",
-      "별",
       "번개",
+      "별",
+      "등대",
       "달"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -309,11 +309,11 @@
     "question": "아침부터 저녁까지 해를 쫓아 고개를 돌리는 꽃은?",
     "options": [
       "코스모스",
-      "목련",
       "해바라기",
+      "목련",
       "무궁화"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -346,10 +346,10 @@
     "options": [
       "배",
       "둑",
-      "다리",
-      "우물"
+      "우물",
+      "다리"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -366,12 +366,12 @@
     "reward_keys": 1,
     "question": "목을 따뜻하게 감싸주더니, 실내로 들어오는 순간 혼자 땀범벅을 만들며 답답하게 조이는 방한용품은?",
     "options": [
-      "마스크",
       "목도리",
+      "마스크",
       "장갑",
       "귀마개"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "정답! 버스나 지하철 타자마자 사우나에 온 것처럼 땀이 줄줄 흐르게 만들지!",
       "wrong": "땡! 추울 땐 목을 칭칭 감아주지만 더울 땐 답답한 천이라네."
@@ -399,11 +399,11 @@
     "question": "산속에서 홀로 깜빡이는 푸른 불빛, 사람을 놀리는 것도 좋아하는 것은?",
     "options": [
       "반딧불",
-      "도깨비불",
       "별똥별",
+      "도깨비불",
       "화염"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -417,11 +417,11 @@
     "question": "동짓날이나 이사하는 날, 붉은 기운으로 악귀와 액운을 쫓아내려 집 안팎에 뿌리는 둥근 곡식은?",
     "options": [
       "쌀",
-      "팥",
+      "조",
       "보리",
-      "조"
+      "팥"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -434,12 +434,12 @@
   {
     "question": "거꾸로 걸어도 대문에 걸리면 복이 들어온다는 긴 짚으로 빚은 것은?",
     "options": [
-      "자",
-      "멍석",
       "복조리",
+      "멍석",
+      "자",
       "짚신"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -452,12 +452,12 @@
   {
     "question": "뿌리가 깊어 태풍에도 끄떡없이 서 있는, 숲의 장군은?",
     "options": [
-      "나무",
       "바위",
+      "나무",
       "덩굴",
       "풀"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -490,10 +490,10 @@
     "options": [
       "유성",
       "북두칠성",
-      "새벽별",
-      "폴라리스"
+      "폴라리스",
+      "새벽별"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -506,12 +506,12 @@
   {
     "question": "아무리 걸어가도 닿지 않는, 하늘과 땅이 만나는 그 선은?",
     "options": [
-      "지하철",
-      "밧줄",
       "지평선",
+      "밧줄",
+      "지하철",
       "경계선"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -525,11 +525,11 @@
     "question": "백 년을 살아도 봄이면 새순을 내는, 산의 지혜로운 노인은?",
     "options": [
       "풀",
-      "바위",
       "고목",
+      "바위",
       "연못"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -561,11 +561,11 @@
     "question": "발을 넘어야 집 안으로 들어오는, 문 아래의 낮은 성벽은?",
     "options": [
       "문고리",
-      "문지방",
+      "계단",
       "담장",
-      "계단"
+      "문지방"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -596,12 +596,12 @@
   {
     "question": "강 위에 하나씩 놓여 발판이 되어주는 돌의 길목은?",
     "options": [
-      "징검다리",
       "계단",
+      "징검다리",
       "뗏목",
       "부표"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -614,12 +614,12 @@
   {
     "question": "물속에서 오래 씻기고 굴러 매끈해진, 강가의 조용한 작은 돌은?",
     "options": [
-      "자갈",
-      "모래",
       "이끼",
+      "모래",
+      "자갈",
       "부들"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -632,12 +632,12 @@
   {
     "question": "졸졸 흘러가다 큰 강이 되는, 산의 가장 작은 강은?",
     "options": [
-      "개울",
+      "우물",
       "바다",
       "연못",
-      "우물"
+      "개울"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -650,12 +650,12 @@
   {
     "question": "연기로 집에 생명이 있다는 것을 알려주는 지붕 위의 친구는?",
     "options": [
-      "풍경",
+      "굴뚝",
       "깃대",
       "앵두",
-      "굴뚝"
+      "풍경"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -688,10 +688,10 @@
     "options": [
       "별",
       "달",
-      "횃불",
-      "등잔"
+      "등잔",
+      "횃불"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -704,12 +704,12 @@
   {
     "question": "바람을 먹고 빙글빙글 돌아가는, 아이들의 하늘 오르기 친구는?",
     "options": [
-      "바람개비",
+      "종이비행기",
       "풍선",
       "연",
-      "종이비행기"
+      "바람개비"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -722,12 +722,12 @@
   {
     "question": "상상 속에만 살지만 악귀를 물어뜯어 지켜주는, 문 앞의 신수는?",
     "options": [
-      "사슴",
+      "해태",
       "토끼",
       "호랑이",
-      "해태"
+      "사슴"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -741,11 +741,11 @@
     "question": "파란색과 빨간색이 돌아가며 조화를 이루는, 깃발과 옷의 문양은?",
     "options": [
       "무지개",
-      "꽃무늬",
+      "태극",
       "오방",
-      "태극"
+      "꽃무늬"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -776,12 +776,12 @@
   {
     "question": "입김을 불면 애절한 소리가 나는, 대나무로 만든 악기는?",
     "options": [
-      "대금",
+      "징",
       "장구",
       "북",
-      "징"
+      "대금"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -794,12 +794,12 @@
   {
     "question": "두드릴수록 소리가 커지는, 가죽으로 만든 심장은?",
     "options": [
-      "나팔",
       "북",
+      "나팔",
       "종",
       "피리"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -813,11 +813,11 @@
     "question": "칠 때마다 울리고, 다 치면 침묵하는 절의 거대한 목소리는?",
     "options": [
       "꽹과리",
-      "북",
       "종",
+      "북",
       "나팔"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -830,12 +830,12 @@
   {
     "question": "평소엔 조용히 잠자고 있다가, 화가 나면 시뻘건 불과 재를 하늘 높이 뿜어내는 산은?",
     "options": [
-      "화산",
-      "빙산",
       "모래언덕",
+      "빙산",
+      "화산",
       "폭포"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -848,12 +848,12 @@
   {
     "question": "99개의 황금 열쇠를 모은 용사에게 깨비가 내리는 최고의 칭호는?",
     "options": [
-      "도깨비 마스터",
+      "열쇠장인",
       "보물사냥꾼",
       "골드 캡틴",
-      "열쇠장인"
+      "도깨비 마스터"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -884,12 +884,12 @@
   {
     "question": "낮에는 숨어 있다가 밤이 되면 까만 하늘에 보석처럼 박히는 것은?",
     "options": [
-      "별",
       "등대",
+      "별",
       "반딧불이",
       "달무리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -902,12 +902,12 @@
   {
     "question": "머리에 빨간 모자를 쓰고 온몸을 태워 어둠을 몰아내는 것은?",
     "options": [
-      "성냥",
-      "단풍잎",
       "고추",
+      "단풍잎",
+      "성냥",
       "봉선화"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -921,11 +921,11 @@
     "question": "평소에는 얌전히 접혀 있다가, 하늘에서 눈물이 쏟아질 때만 머리 위로 활짝 피어나는 꽃은?",
     "options": [
       "장화",
-      "우산",
+      "부채",
       "비옷",
-      "부채"
+      "우산"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -956,12 +956,12 @@
   {
     "question": "하늘에서 내려올 땐 깃털처럼 보드랍더니, 손바닥 위에 살포시 내려앉는 순간 온기 때문에 맑은 눈물로 변하는 것은?",
     "options": [
-      "눈송이",
       "우박",
+      "눈송이",
       "이슬",
       "서리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -974,12 +974,12 @@
   {
     "question": "아침에는 네 발로 기고, 점심에는 두 발로 걷고, 저녁에는 세 발로 걷는 일생의 주인공은?",
     "options": [
-      "사람",
-      "호랑이",
       "원숭이",
+      "호랑이",
+      "사람",
       "두루미"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -992,12 +992,12 @@
   {
     "question": "늘 한자리에 서서 지나가는 길손에게 방향을 가리켜주는 돌기둥은?",
     "options": [
-      "장승",
+      "비석",
       "솟대",
       "돌탑",
-      "비석"
+      "장승"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1028,12 +1028,12 @@
   {
     "question": "발로 차면 공중에서 깃털을 날리며 사뿐사뿐 춤추는 전통 놀이기구는?",
     "options": [
-      "제기",
       "팽이",
+      "제기",
       "연",
       "굴렁쇠"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1046,12 +1046,12 @@
   {
     "question": "바람을 타고 하늘 높이 날아오르지만 가느다란 실 하나에 묶여 있는 것은?",
     "options": [
-      "방패연",
-      "풍선",
       "새장",
+      "풍선",
+      "방패연",
       "그네"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1064,12 +1064,12 @@
   {
     "question": "채로 칠수록 더 신나게 팽팽 돌아가는 얼음판 위의 작은 팽이는?",
     "options": [
-      "나무 팽이",
+      "맷돌",
       "바퀴",
       "구슬",
-      "맷돌"
+      "나무 팽이"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1100,12 +1100,12 @@
   {
     "question": "쉴 새 없이 뛰지만 스스로는 쉬지 못하는, 가슴속의 시계는?",
     "options": [
-      "심장",
       "폐",
+      "심장",
       "뇌",
       "눈"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1123,11 +1123,11 @@
     "question": "손목에 단정하게 차고 나왔는데, 옷소매를 걷을 때마다 셔츠 단추를 걸어 채며 실밥을 뜯어놓는 것은?",
     "options": [
       "가죽 시계줄",
-      "메탈 시계줄",
       "스마트 링",
+      "메탈 시계줄",
       "실리콘 밴드"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "타닥! 아끼는 니트 소매에 걸려 올이 쭈욱 풀려나가는 끔찍한 소리!",
       "wrong": "땡! 차가운 쇠마디가 옷감을 물고 늘어지는 손목 액세서리라네."
@@ -1136,12 +1136,12 @@
   {
     "question": "줄수록 커지고, 나눌수록 깊어지는 마음은?",
     "options": [
-      "사랑",
+      "슬픔",
       "미움",
       "욕심",
-      "슬픔"
+      "사랑"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1172,12 +1172,12 @@
   {
     "question": "맑은 날에는 온종일 보이지 않다가, 궂은비가 그치고 햇빛이 번질 때 하늘 높이 일곱 빛깔 다리를 놓는 것은?",
     "options": [
-      "무지개",
       "오로라",
+      "무지개",
       "은하수",
       "노을"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1190,12 +1190,12 @@
   {
     "question": "진흙 속에서 자라나지만 더러움에 물들지 않고 청초한 꽃을 피우는 지혜의 꽃은?",
     "options": [
-      "연꽃",
-      "국화",
       "매화",
+      "국화",
+      "연꽃",
       "수선화"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1208,12 +1208,12 @@
   {
     "question": "추운 겨울 눈보라 속에서도 푸른 잎을 잃지 않는 지조와 절개의 나무는?",
     "options": [
-      "소나무",
+      "은행나무",
       "버드나무",
       "단풍나무",
-      "은행나무"
+      "소나무"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1244,12 +1244,12 @@
   {
     "question": "속은 텅 비어 있으나 곧게 자라 마디마디를 단단히 채우는 절개의 상징은?",
     "options": [
-      "대나무",
       "갈대",
+      "대나무",
       "수수",
       "억새"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1262,12 +1262,12 @@
   {
     "question": "도깨비의 보물 창고를 열고 인생의 참된 지혜를 열어주는 신비한 열쇠는?",
     "options": [
-      "도깨비 황금 열쇠",
-      "쇠열쇠",
       "돌도끼",
+      "쇠열쇠",
+      "도깨비 황금 열쇠",
       "보물지도"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1280,12 +1280,12 @@
   {
     "question": "여덟 다리 친구가 밤새 짜 놓은, 이슬에 반짝이는 그물은?",
     "options": [
-      "거미줄",
+      "빨래망",
       "체망",
       "잠자리채",
-      "빨래망"
+      "거미줄"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1298,12 +1298,12 @@
   {
     "question": "어디로 가든 늘 한쪽만 가리키는, 길 잃은 여행자의 친구는?",
     "options": [
-      "지도",
       "나침반",
+      "지도",
       "시계",
       "망원경"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1334,12 +1334,12 @@
   {
     "question": "날마다 맛있는 밥을 한가득 입에 물려줘도, 삼키지 못하고 도로 뱉어내야 하는 주방 도구는?",
     "options": [
-      "숟가락",
-      "냄비",
       "도마",
+      "냄비",
+      "숟가락",
       "행주"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -1352,12 +1352,12 @@
   {
     "question": "앞으로 가려면 꼬리가 짧아지고, 뒤로 물러서면 꼬리가 길어지며 찢어진 곳을 꿰매는 것은?",
     "options": [
-      "바늘과 실",
+      "옷핀",
       "가위",
       "골무",
-      "옷핀"
+      "바늘과 실"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "daily",
@@ -1388,12 +1388,12 @@
   {
     "question": "하루 두 번 입속을 닦아주는, 작은 거품 요정의 도구는?",
     "options": [
-      "칫솔",
       "비누",
+      "칫솔",
       "수건",
       "컵"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1406,12 +1406,12 @@
   {
     "question": "처음 태어났을 땐 커다란 네모 얼음판이지만, 손바닥과 마주칠 때마다 향기로운 거품을 피워내며 점점 작아져 사라지는 목욕 도구는?",
     "options": [
-      "비누",
-      "스펀지",
       "샴푸",
+      "스펀지",
+      "비누",
       "치약"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -1424,12 +1424,12 @@
   {
     "question": "두 발에 하나씩 신고 발가락을 감싸며, 꼭 짝이 맞아야 하는 옷가지는?",
     "options": [
-      "양말",
+      "목도리",
       "장갑",
       "모자",
-      "목도리"
+      "양말"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1461,11 +1461,11 @@
     "question": "머리에 얹혀 햇빛을 가려주는 것은?",
     "options": [
       "안경",
-      "우산",
       "모자",
+      "우산",
       "신발"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1478,12 +1478,12 @@
   {
     "question": "바다가 숨을 쉴 때마다 밀려왔다 사라지는 것은?",
     "options": [
-      "파도",
-      "조수",
       "거품",
+      "조수",
+      "파도",
       "모래"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1496,12 +1496,12 @@
   {
     "question": "아침 햇살이 닿으면 보석처럼 맑은 구슬이 되어 풀잎 끝에 맺혔다가, 해가 높이 뜨면 소리도 없이 사라지는 것은?",
     "options": [
-      "이슬",
+      "우박",
       "서리",
       "진눈깨비",
-      "우박"
+      "이슬"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1550,12 +1550,12 @@
   {
     "question": "코가 길고 귀가 커서 부채처럼 부치는, 큰 동물은?",
     "options": [
-      "코끼리",
-      "코뿔소",
       "하마",
+      "코뿔소",
+      "코끼리",
       "기린"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1569,11 +1569,11 @@
     "question": "빨강·노랑·초록 세 눈으로 길을 알려주는 것은?",
     "options": [
       "가로등",
-      "신호등",
+      "표지판",
       "전봇대",
-      "표지판"
+      "신호등"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1586,12 +1586,12 @@
   {
     "question": "두 바퀴로 페달을 밟아 굴러가는 탈것은?",
     "options": [
-      "오토바이",
-      "자동차",
       "자전거",
+      "자동차",
+      "오토바이",
       "버스"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1604,12 +1604,12 @@
   {
     "question": "편지를 넣으면 멀리까지 대신 달려가 주는, 빨간 네모 상자는?",
     "options": [
-      "우체통",
       "서랍장",
+      "우체통",
       "금고",
       "책꽂이"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1641,11 +1641,11 @@
     "question": "한쪽이 내려가면 다른 쪽이 올라가는, 둘이 타는 놀이기구는?",
     "options": [
       "그네",
-      "시소",
+      "미끄럼틀",
       "회전목마",
-      "미끄럼틀"
+      "시소"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1695,11 +1695,11 @@
     "question": "번쩍인 뒤에 뒤늦게 우르릉 울리는 소리는?",
     "options": [
       "번개",
-      "천둥",
       "바람",
+      "천둥",
       "메아리"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1712,12 +1712,12 @@
   {
     "question": "앞이 뿌옇게 가려지는, 땅 위로 하얗게 내려앉은 장막은?",
     "options": [
-      "안개",
+      "서리",
       "구름",
       "먼지",
-      "서리"
+      "안개"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1730,12 +1730,12 @@
   {
     "question": "꽃잎처럼 알록달록 고운 날개를 펴고, 꽃밭 사이를 날아다니는 것은?",
     "options": [
-      "벌",
       "나비",
+      "벌",
       "잠자리",
       "새"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1749,11 +1749,11 @@
     "question": "날지 못하지만 남극에서 헤엄을 잘 치는, 턱시도 입은 새는?",
     "options": [
       "타조",
-      "갈매기",
       "펭귄",
+      "갈매기",
       "오리"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1767,11 +1767,11 @@
     "question": "말을 아끼라는 곳인데, 책은 수만 권 꽂혀 있는 조용한 집은?",
     "options": [
       "서점",
-      "도서관",
       "박물관",
+      "도서관",
       "학교"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1785,11 +1785,11 @@
     "question": "배추를 절여 양념해 겨울에 먹는, 매콤한 반찬은?",
     "options": [
       "장아찌",
-      "김치",
+      "샐러드",
       "피클",
-      "샐러드"
+      "김치"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1821,11 +1821,11 @@
     "question": "지키면 신뢰가 되고, 어기면 실망이 되는 말은?",
     "options": [
       "거짓말",
-      "비밀",
       "약속",
+      "비밀",
       "인사"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1840,10 +1840,10 @@
     "options": [
       "소",
       "호랑이",
-      "토끼",
-      "쥐"
+      "쥐",
+      "토끼"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -1874,12 +1874,12 @@
   {
     "question": "그리스 신화에서 바다를 다스리는 신은?",
     "options": [
-      "제우스",
+      "포세이돈",
       "아레스",
       "아폴론",
-      "포세이돈"
+      "제우스"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1893,11 +1893,11 @@
     "question": "그리스 신화에서 지혜와 전쟁을 상징하는 여신은?",
     "options": [
       "헤라",
-      "아프로디테",
+      "아테나",
       "아르테미스",
-      "아테나"
+      "아프로디테"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1912,10 +1912,10 @@
     "options": [
       "프레이야",
       "로키",
-      "발키리",
-      "토르"
+      "토르",
+      "발키리"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1926,7 +1926,7 @@
     "id": "rid_111"
   },
   {
-    "question": "그리스 신화에서 저승(명계)을 다스리는 왕은?",
+    "question": "그리스 신화에서 죽은 자들의 나라를 다스리며 케르베로스를 거느린 왕은?",
     "options": [
       "제우스",
       "헤르메스",
@@ -1946,12 +1946,12 @@
   {
     "question": "인도 신화에서 코끼리 머리를 한 지혜와 행운의 신은?",
     "options": [
-      "비슈누",
+      "가네샤",
       "인드라",
       "라",
-      "가네샤"
+      "비슈누"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1965,11 +1965,11 @@
     "question": "이집트 신화에서 자칼 머리를 한 죽음과 미라의 신은?",
     "options": [
       "오시리스",
-      "라",
+      "아누비스",
       "바스테트",
-      "아누비스"
+      "라"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1984,10 +1984,10 @@
     "options": [
       "원숭이",
       "양",
-      "말",
-      "닭"
+      "닭",
+      "말"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2018,12 +2018,12 @@
   {
     "question": "유리구두를 남기고 자정에 떠난 동화 속 소녀는?",
     "options": [
-      "백설공주",
+      "신데렐라",
       "인어공주",
       "라푼젤",
-      "신데렐라"
+      "백설공주"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2037,11 +2037,11 @@
     "question": "독이 든 사과를 먹고 깊이 잠든 공주는?",
     "options": [
       "신데렐라",
-      "인어공주",
+      "백설공주",
       "라푼젤",
-      "백설공주"
+      "인어공주"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2056,10 +2056,10 @@
     "options": [
       "피터팬",
       "헨젤",
-      "앨리스",
-      "피노키오"
+      "피노키오",
+      "앨리스"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2090,12 +2090,12 @@
   {
     "question": "숲속 과자 집의 마녀가 나오는 남매 동화는?",
     "options": [
-      "빨간모자",
+      "헨젤과 그레텔",
       "피노키오",
       "잭과 콩나무",
-      "헨젤과 그레텔"
+      "빨간모자"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2109,11 +2109,11 @@
     "question": "여름내 노래만 부르다 겨울에 굶게 된, 개미와 함께 나오는 곤충은?",
     "options": [
       "매미",
-      "귀뚜라미",
+      "베짱이",
       "나비",
-      "베짱이"
+      "귀뚜라미"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2128,10 +2128,10 @@
     "options": [
       "백설공주",
       "신데렐라",
-      "라푼젤",
-      "인어공주"
+      "인어공주",
+      "라푼젤"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2162,12 +2162,12 @@
   {
     "question": "호기심에 모든 재앙이 담긴 상자를 열어버린 여자는?",
     "options": [
-      "아테나",
+      "판도라",
       "헬레나",
       "메두사",
-      "판도라"
+      "아테나"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2181,11 +2181,11 @@
     "question": "논밭을 갈며 낮게 우는, 십이지신의 두 번째 동물은?",
     "options": [
       "말",
-      "양",
+      "소",
       "염소",
-      "소"
+      "양"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2200,10 +2200,10 @@
     "options": [
       "사자",
       "표범",
-      "곰",
-      "호랑이"
+      "호랑이",
+      "곰"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2234,12 +2234,12 @@
   {
     "question": "다리 없이 미끄러지듯 기는 십이지신은?",
     "options": [
-      "지렁이",
+      "뱀",
       "도마뱀",
       "악어",
-      "뱀"
+      "지렁이"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2253,11 +2253,11 @@
     "question": "십이지신 중 갈기를 휘날리며 힘차게 달리는 일곱 번째 동물은?",
     "options": [
       "당나귀",
-      "노새",
+      "말",
       "얼룩말",
-      "말"
+      "노새"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2272,10 +2272,10 @@
     "options": [
       "염소",
       "소",
-      "사슴",
-      "양"
+      "양",
+      "사슴"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2306,12 +2306,12 @@
   {
     "question": "풍요와 다복을 상징하는, 십이지신의 열두 번째 마지막 동물은?",
     "options": [
-      "멧돼지",
+      "돼지",
       "코끼리",
       "하마",
-      "돼지"
+      "멧돼지"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2325,11 +2325,11 @@
     "question": "어진 성인이 나타날 때 모습을 드러낸다는 동양의 상상 동물은?",
     "options": [
       "유니콘",
-      "봉황",
+      "기린",
       "용",
-      "기린"
+      "봉황"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2340,14 +2340,14 @@
     "id": "rid_136"
   },
   {
-    "question": "동양사상에서 사방을 지키는 사신 중, 남쪽을 맡아 붉은 불새의 모습을 한 신수는?",
+    "question": "여름과 불을 상징하며 남쪽 하늘을 지키는, 붉은 새 형상의 사신은?",
     "options": [
       "봉황",
       "삼족오",
-      "청룡",
-      "주작"
+      "주작",
+      "청룡"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2358,7 +2358,7 @@
     "id": "rid_137"
   },
   {
-    "question": "동양사상에서 사방을 지키는 사신 중, 북쪽을 맡아 거북과 뱀이 합쳐진 신수는?",
+    "question": "겨울과 물을 상징하며 북쪽 하늘을 지키는, 거북과 뱀이 하나 된 사신은?",
     "options": [
       "청룡",
       "백호",
@@ -2378,12 +2378,12 @@
   {
     "question": "동양에서 장수와 평화를 상징하는 흰 사슴 신수는?",
     "options": [
-      "백마",
+      "백록",
       "양",
       "기린",
-      "백록"
+      "백마"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2397,11 +2397,11 @@
     "question": "동양의 상상의 새 중에서, 오동나무에 깃들어 천하태평을 알린다는 새는?",
     "options": [
       "주작",
-      "공작",
+      "봉황",
       "학",
-      "봉황"
+      "공작"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2414,12 +2414,12 @@
   {
     "question": "동양 전설에서 태양 속에 산다는, 세 개의 발을 가진 신령한 검은 새는?",
     "options": [
-      "삼족오",
-      "까마귀",
       "제비",
+      "까마귀",
+      "삼족오",
       "두루미"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2450,12 +2450,12 @@
   {
     "question": "서양의 상상 동물 중에서, 이마에 뿔 하나가 솟은 것은?",
     "options": [
-      "그리핀",
+      "유니콘",
       "기린",
       "사슴",
-      "유니콘"
+      "그리핀"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2469,11 +2469,11 @@
     "question": "동양 신수 중에서, 눈이 세 개 달린 세 눈박이 개는?",
     "options": [
       "해태",
-      "백호",
+      "삼목구",
       "구미호",
-      "삼목구"
+      "백호"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2488,10 +2488,10 @@
     "options": [
       "아누비스",
       "아몬",
-      "바스테트",
-      "세베크"
+      "세베크",
+      "바스테트"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2522,12 +2522,12 @@
   {
     "question": "동양 신수 중에서, 물고기와 용이 합쳐진 바다의 신수는?",
     "options": [
-      "이무기",
+      "어룡",
       "레비아탄",
       "현무",
-      "어룡"
+      "이무기"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2541,11 +2541,11 @@
     "question": "사자 몸에 사람 머리, 수수께끼를 내는 이집트의 수호상은?",
     "options": [
       "그리핀",
-      "묘두사",
+      "스핑크스",
       "세베크",
-      "스핑크스"
+      "묘두사"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2560,10 +2560,10 @@
     "options": [
       "어룡",
       "이무기",
-      "크라켄",
-      "레비아탄"
+      "레비아탄",
+      "크라켄"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2594,12 +2594,12 @@
   {
     "question": "동양 전설에서 달 속에 산다는, 세 발 달린 두꺼비 신수는?",
     "options": [
-      "삼족오",
+      "삼족섬",
       "개구리",
       "거북",
-      "삼족섬"
+      "삼족오"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2613,11 +2613,11 @@
     "question": "서양의 상상 동물 중에서, 독수리 머리와 사자 몸을 가진 신수는?",
     "options": [
       "유니콘",
-      "스핑크스",
+      "그리핀",
       "봉황",
-      "그리핀"
+      "스핑크스"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2630,12 +2630,12 @@
   {
     "question": "동양사상에서 사방을 지키는 사신 중, 서쪽을 맡은 흰 맹수 신수는?",
     "options": [
-      "백호",
-      "호랑이",
       "표범",
+      "호랑이",
+      "백호",
       "해태"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2666,12 +2666,12 @@
   {
     "question": "한국 전설에서 산을 지키며 호랑이를 데리고 다니는 산의 신은?",
     "options": [
-      "용왕",
+      "산신령",
       "터줏대감",
       "저승사자",
-      "산신령"
+      "용왕"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2684,12 +2684,12 @@
   {
     "question": "그리스 신화에서 망자의 영혼을 배에 태워 저승의 강을 건네주는 뱃사공은?",
     "options": [
-      "카론",
       "저승사자",
+      "카론",
       "하데스",
       "큐피드"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2704,10 +2704,10 @@
     "options": [
       "염라대왕",
       "용왕",
-      "산신령",
-      "옥황상제"
+      "옥황상제",
+      "산신령"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2738,12 +2738,12 @@
   {
     "question": "동양 전설에서 세상을 만들었다는 거대한 할머니 창세 여신은?",
     "options": [
-      "삼신할머니",
+      "마고할미",
       "바리데기",
       "관음보살",
-      "마고할미"
+      "삼신할머니"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2757,11 +2757,11 @@
     "question": "동양 전설에서 죽은 부모를 살리려 저승까지 간 효녀 공주는?",
     "options": [
       "삼신할머니",
-      "마고할미",
+      "바리데기",
       "관음보살",
-      "바리데기"
+      "마고할미"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2776,10 +2776,10 @@
     "options": [
       "마고할미",
       "바리데기",
-      "터줏대감",
-      "삼신할머니"
+      "삼신할머니",
+      "터줏대감"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2810,12 +2810,12 @@
   {
     "question": "한국 전설에서 집터를 지키며 집안의 안녕을 돌보는 신은?",
     "options": [
-      "산신령",
+      "터줏대감",
       "용왕",
       "삼신할머니",
-      "터줏대감"
+      "산신령"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2829,11 +2829,11 @@
     "question": "그리스 신화에서 번개를 무기로 올림포스를 다스리는 최고 신은?",
     "options": [
       "헤파이스토스",
-      "하데스",
+      "제우스",
       "아폴론",
-      "제우스"
+      "하데스"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2848,10 +2848,10 @@
     "options": [
       "프레이",
       "로키",
-      "발키리",
-      "오딘"
+      "오딘",
+      "발키리"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2882,12 +2882,12 @@
   {
     "question": "북유럽 신화의 장난꾸러기, 속임수의 신은?",
     "options": [
-      "오딘",
+      "로키",
       "토르",
       "발키리",
-      "로키"
+      "오딘"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2901,11 +2901,11 @@
     "question": "전사한 영웅을 발할라로 데려가는, 북유럽의 여전사는?",
     "options": [
       "아테나",
-      "오딘",
+      "발키리",
       "프레이야",
-      "발키리"
+      "오딘"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2920,10 +2920,10 @@
     "options": [
       "관음보살",
       "시바",
-      "인드라",
-      "붓다"
+      "붓다",
+      "인드라"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2954,12 +2954,12 @@
   {
     "question": "인도 신화에서 파괴와 변화를 상징하는 신은?",
     "options": [
-      "크리슈나",
+      "시바",
       "인드라",
       "라",
-      "시바"
+      "크리슈나"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2973,11 +2973,11 @@
     "question": "인도 신화에서 번개와 비를 다스리는 신은?",
     "options": [
       "시바",
-      "브라흐마",
+      "인드라",
       "가네샤",
-      "인드라"
+      "브라흐마"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2992,10 +2992,10 @@
     "options": [
       "오시리스",
       "아누비스",
-      "토트",
-      "라"
+      "라",
+      "토트"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3026,12 +3026,12 @@
   {
     "question": "이집트 신화에서 고양이 머리를 한, 가정과 치유의 여신은?",
     "options": [
-      "아누비스",
+      "바스테트",
       "토트",
       "라",
-      "바스테트"
+      "아누비스"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3045,11 +3045,11 @@
     "question": "기독교 전통에서 악룡을 물리친 천사장, 하늘 군대의 지휘관은?",
     "options": [
       "가브리엘",
-      "라파엘",
+      "대천사 미카엘",
       "우리엘",
-      "대천사 미카엘"
+      "라파엘"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3064,10 +3064,10 @@
     "options": [
       "미카엘",
       "라파엘",
-      "우리엘",
-      "대천사 가브리엘"
+      "대천사 가브리엘",
+      "우리엘"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3098,12 +3098,12 @@
   {
     "question": "기독교 전통에서 불과 지혜를 상징하는 천사는?",
     "options": [
-      "미카엘",
+      "대천사 우리엘",
       "가브리엘",
       "라파엘",
-      "대천사 우리엘"
+      "미카엘"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3117,11 +3117,11 @@
     "question": "기독교 전통에서 태어날 때부터 곁에서 지켜준다는 천사는?",
     "options": [
       "대천사 미카엘",
-      "대천사 가브리엘",
+      "수호천사",
       "대천사 라파엘",
-      "수호천사"
+      "대천사 가브리엘"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3136,10 +3136,10 @@
     "options": [
       "발키리",
       "무사",
-      "하피",
-      "모이라이"
+      "모이라이",
+      "하피"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3170,12 +3170,12 @@
   {
     "question": "코 위에 뿔이 하나 달린, 두꺼운 갑옷의 동물은?",
     "options": [
-      "하마",
+      "코뿔소",
       "코끼리",
       "물소",
-      "코뿔소"
+      "하마"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3189,11 +3189,11 @@
     "question": "강에서 입을 크게 벌리는, 아프리카의 거대한 동물은?",
     "options": [
       "코뿔소",
-      "악어",
+      "하마",
       "물소",
-      "하마"
+      "악어"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3208,10 +3208,10 @@
     "options": [
       "말",
       "당나귀",
-      "라마",
-      "낙타"
+      "낙타",
+      "라마"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3242,12 +3242,12 @@
   {
     "question": "대나무를 좋아하는, 흑백 무늬 곰은?",
     "options": [
-      "곰",
+      "판다",
       "코알라",
       "너구리",
-      "판다"
+      "곰"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3261,11 +3261,11 @@
     "question": "검은 줄무늬가 있는, 아프리카의 말은?",
     "options": [
       "말",
-      "당나귀",
+      "얼룩말",
       "기린",
-      "얼룩말"
+      "당나귀"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3280,10 +3280,10 @@
     "options": [
       "매",
       "부엉이",
-      "까마귀",
-      "독수리"
+      "독수리",
+      "까마귀"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3314,12 +3314,12 @@
   {
     "question": "바다에서 가장 크고 물을 뿜는, 동물은?",
     "options": [
-      "상어",
+      "고래",
       "돌고래",
       "코끼리",
-      "고래"
+      "상어"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3333,11 +3333,11 @@
     "question": "여름에 초록 껍질 속이 빨간, 커다란 과일은?",
     "options": [
       "참외",
-      "멜론",
+      "수박",
       "호박",
-      "수박"
+      "멜론"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3352,10 +3352,10 @@
     "options": [
       "체리",
       "라즈베리",
-      "토마토",
-      "딸기"
+      "딸기",
+      "토마토"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3386,12 +3386,12 @@
   {
     "question": "노랗게 휘어진, 껍질을 벗겨 먹는 과일은?",
     "options": [
-      "참외",
+      "바나나",
       "망고",
       "파파야",
-      "바나나"
+      "참외"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3405,11 +3405,11 @@
     "question": "알갱이가 줄지어 박힌, 노란 이삭은?",
     "options": [
       "콩",
-      "밀",
+      "옥수수",
       "벼",
-      "옥수수"
+      "밀"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3424,10 +3424,10 @@
     "options": [
       "무",
       "고구마",
-      "감자",
-      "당근"
+      "당근",
+      "감자"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3458,12 +3458,12 @@
   {
     "question": "소에서 짜내는, 하얀 음료는?",
     "options": [
-      "물",
+      "우유",
       "주스",
       "요구르트",
-      "우유"
+      "물"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3477,11 +3477,11 @@
     "question": "끓는 물에 넣어 3분이면 완성되는, 면 요리는?",
     "options": [
       "국수",
-      "파스타",
+      "라면",
       "우동",
-      "라면"
+      "파스타"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3496,10 +3496,10 @@
     "options": [
       "주먹밥",
       "초밥",
-      "김치",
-      "김밥"
+      "김밥",
+      "김치"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3512,12 +3512,12 @@
   {
     "question": "그리스 신화에서 자랑이 지나쳐 하늘에 묶인 에티오피아의 왕비, W자 모양으로 북쪽 하늘에 빛나는 별자리는?",
     "options": [
-      "카시오페이아",
+      "백조자리",
       "안드로메다",
       "페가수스",
-      "백조자리"
+      "카시오페이아"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3548,12 +3548,12 @@
   {
     "question": "그리스 신화에서 오리온에게 독침을 놓아 이긴, 여름 남쪽 하늘의 별자리는?",
     "options": [
-      "전갈자리",
       "사자자리",
+      "전갈자리",
       "게자리",
       "황소자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3566,12 +3566,12 @@
   {
     "question": "그리스 신화에서 헤라클레스가 퇴치한 네메아 숲의 맹수, 봄밤 하늘의 왕 별자리는?",
     "options": [
-      "사자자리",
-      "전갈자리",
       "황소자리",
+      "전갈자리",
+      "사자자리",
       "쌍둥이자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3584,12 +3584,12 @@
   {
     "question": "그리스 신화에서 제우스가 유로파를 태우려 변신한 동물, 뿔을 치켜든 별자리는?",
     "options": [
-      "황소자리",
+      "게자리",
       "양자리",
       "염소자리",
-      "게자리"
+      "황소자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3620,12 +3620,12 @@
   {
     "question": "그리스 신화에서 정의의 여신이 밀 이삭을 들고 하늘로 올라간, 처녀 모양 별자리는?",
     "options": [
-      "처녀자리",
       "천칭자리",
+      "처녀자리",
       "게자리",
       "물병자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3638,12 +3638,12 @@
   {
     "question": "그리스 신화에서 정의를 재던 저울, 황도 위 균형의 별자리는?",
     "options": [
-      "천칭자리",
-      "처녀자리",
       "전갈자리",
+      "처녀자리",
+      "천칭자리",
       "사수자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3656,12 +3656,12 @@
   {
     "question": "그리스 신화에서 활과 화살을 든 현인 켄타우로스 케이론을 딴, 황도 위의 별자리는?",
     "options": [
-      "사수자리",
+      "양자리",
       "염소자리",
       "물병자리",
-      "양자리"
+      "사수자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3692,12 +3692,12 @@
   {
     "question": "그리스 신화에서 제우스가 데려간 미소년 가니메데스가 물을 붓는 별자리는?",
     "options": [
-      "물병자리",
       "물고기자리",
+      "물병자리",
       "처녀자리",
       "염소자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3710,12 +3710,12 @@
   {
     "question": "그리스 신화에서 아프로디테와 에로스가 변신해 실로 묶였다는, 황도 마지막 별자리는?",
     "options": [
-      "물고기자리",
-      "물병자리",
       "양자리",
+      "물병자리",
+      "물고기자리",
       "게자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3728,12 +3728,12 @@
   {
     "question": "그리스 신화에서 메두사의 피에서 태어난 날개 달린 말의 별자리는?",
     "options": [
-      "페가수스자리",
+      "카시오페이아자리",
       "안드로메다자리",
       "백조자리",
-      "카시오페이아자리"
+      "페가수스자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3764,12 +3764,12 @@
   {
     "question": "그리스 신화에서 제우스가 레다에게 다가가려 변신한 새의 별자리는?",
     "options": [
-      "백조자리",
       "페가수스",
+      "백조자리",
       "독수리자리",
       "까마귀자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3782,12 +3782,12 @@
   {
     "question": "그리스 신화에서 아틀라스의 딸들, 일곱 자매로 불리는 황소자리의 별무리는?",
     "options": [
-      "플레이아데스",
-      "시리우스",
       "베가",
+      "시리우스",
+      "플레이아데스",
       "카노푸스"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3800,12 +3800,12 @@
   {
     "question": "그리스 신화에서 헤라의 젖이 흘러 생겼다는, 밤하늘을 가로지르는 별의 강은?",
     "options": [
-      "은하수",
+      "유성우",
       "오로라",
       "혜성",
-      "유성우"
+      "은하수"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3836,12 +3836,12 @@
   {
     "question": "은하수 건너편의 짝을 그리워하며 베를 짜는 전설 속 별은?",
     "options": [
-      "직녀성",
       "북극성",
+      "직녀성",
       "카시오페이아",
       "데네브"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3854,12 +3854,12 @@
   {
     "question": "동양에서 하늘을 28개 구역으로 나눈 전통 별자리 체계는?",
     "options": [
-      "이십팔수",
-      "십이지",
       "사신",
+      "십이지",
+      "이십팔수",
       "북두칠성"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3872,12 +3872,12 @@
   {
     "question": "오리온자리 허리 아래 나란히 놓인 세 별을 동양에서 부르는 이름은?",
     "options": [
-      "삼태성",
+      "북두칠성",
       "삼신",
       "삼족오",
-      "북두칠성"
+      "삼태성"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3908,12 +3908,12 @@
   {
     "question": "북쪽 하늘에서 거의 움직이지 않아 뱃사람의 길잡이가 되는 별은?",
     "options": [
-      "북극성",
       "시리우스",
+      "북극성",
       "카노푸스",
       "베가"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3926,12 +3926,12 @@
   {
     "question": "국자 모양으로 일곱 별이 모여 북극성을 가리키는 별자리는?",
     "options": [
-      "북두칠성",
-      "카시오페이아",
       "작은곰자리",
+      "카시오페이아",
+      "북두칠성",
       "백조자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3944,12 +3944,12 @@
   {
     "question": "꼬리 끝에 북극성을 이고 있는, 작은 곰 모양의 북쪽 별자리는?",
     "options": [
-      "작은곰자리",
+      "물고기자리",
       "큰곰자리",
       "백조자리",
-      "물고기자리"
+      "작은곰자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3980,12 +3980,12 @@
   {
     "question": "그리스 신화에서 형제가 나란히 선, 겨울 하늘의 쌍둥이 별자리는?",
     "options": [
-      "쌍둥이자리",
       "사자자리",
+      "쌍둥이자리",
       "처녀자리",
       "천칭자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3998,12 +3998,12 @@
   {
     "question": "그리스 신화에서 거북이 등껍질로 만든 악기를 든 음악가의 별자리는?",
     "options": [
-      "거문고자리",
-      "백조자리",
       "페가수스",
+      "백조자리",
+      "거문고자리",
       "독수리자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4016,12 +4016,12 @@
   {
     "question": "밤하늘을 급히 지나며 소원을 빌게 하는, 꼬리 달린 별은?",
     "options": [
-      "유성",
+      "은하수",
       "혜성",
       "북극성",
-      "은하수"
+      "유성"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4052,12 +4052,12 @@
   {
     "question": "그리스 신화에서 사냥꾼 오리온의 사냥개로, 큰개자리의 가장 밝은 별은?",
     "options": [
-      "시리우스",
       "북극성",
+      "시리우스",
       "베가",
       "카노푸스"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4070,12 +4070,12 @@
   {
     "question": "남반구의 뱃사람들이 방향을 잡던, 십자 모양의 남쪽 별자리는?",
     "options": [
-      "남십자성",
-      "북두칠성",
       "카시오페이아",
+      "북두칠성",
+      "남십자성",
       "백조자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4088,12 +4088,12 @@
   {
     "question": "그리스 신화에서 곰을 지키는 목동으로, 밝은 별 아르크투루스를 품은 별자리는?",
     "options": [
-      "목동자리",
+      "처녀자리",
       "큰곰자리",
       "작은곰자리",
-      "처녀자리"
+      "목동자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4124,12 +4124,12 @@
   {
     "question": "그리스 최고의 영웅 이름을 딴, 여름밤의 큰 별자리는?",
     "options": [
-      "헤르쿨레스자리",
       "페르세우스자리",
+      "헤르쿨레스자리",
       "오리온",
       "사수자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4142,12 +4142,12 @@
   {
     "question": "안드로메다의 아버지이자 에티오피아의 왕, 북쪽 하늘의 별자리는?",
     "options": [
-      "케페우스자리",
-      "카시오페이아",
       "페르세우스자리",
+      "카시오페이아",
+      "케페우스자리",
       "페가수스"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4160,12 +4160,12 @@
   {
     "question": "그리스 신화의 반인반마 켄타우루스 종족 전체를 상징하는, 남쪽 하늘의 큰 별자리는?",
     "options": [
-      "센타우루스자리",
+      "페르세우스자리",
       "사수자리",
       "목동자리",
-      "페르세우스자리"
+      "센타우루스자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4196,12 +4196,12 @@
   {
     "question": "황소자리의 눈이라 불리는, 붉게 빛나는 별은?",
     "options": [
-      "알데바란",
       "리겔",
+      "알데바란",
       "베텔기우스",
       "시리우스"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4214,12 +4214,12 @@
   {
     "question": "오리온의 발치에서 푸르게 빛나는 별은?",
     "options": [
-      "리겔",
-      "베텔기우스",
       "데네브",
+      "베텔기우스",
+      "리겔",
       "카펠라"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4232,12 +4232,12 @@
   {
     "question": "오리온의 어깨에서 붉게 빛나는 별은?",
     "options": [
-      "베텔기우스",
+      "안타레스",
       "리겔",
       "알데바란",
-      "안타레스"
+      "베텔기우스"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4268,12 +4268,12 @@
   {
     "question": "작은개자리에서 가장 밝게 빛나며 겨울의 대삼각형을 이루는 별은?",
     "options": [
-      "프로키온",
       "스피카",
+      "프로키온",
       "아크투루스",
       "폴룩스"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4286,12 +4286,12 @@
   {
     "question": "마차부자리에서 가장 밝고, 염소별이라 불리는 별은?",
     "options": [
-      "카펠라",
-      "알데바란",
       "프로키온",
+      "알데바란",
+      "카펠라",
       "데네브"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4304,12 +4304,12 @@
   {
     "question": "오리온·시리우스·프로키온이 이루는, 겨울밤의 별 삼각형은?",
     "options": [
-      "겨울 대삼각형",
+      "북두칠성",
       "여름 대삼각형",
       "봄 대삼각형",
-      "북두칠성"
+      "겨울 대삼각형"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4340,12 +4340,12 @@
   {
     "question": "전갈자리의 심장이라 불리는, 붉게 빛나는 별은?",
     "options": [
-      "안타레스",
       "알데바란",
+      "안타레스",
       "베텔기우스",
       "리겔"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4358,12 +4358,12 @@
   {
     "question": "쌍둥이자리를 이루는 두 형제 중, 더 밝은 1등성(베타별)은?",
     "options": [
-      "폴룩스",
-      "카스토르",
       "알데바란",
+      "카스토르",
+      "폴룩스",
       "데네브"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4376,12 +4376,12 @@
   {
     "question": "북두칠성 국자 손잡이 끝에서 두 번째에 위치한 별로, 시력 검사에 쓰이던 짝별 알코르를 거느린 별은?",
     "options": [
-      "미자르",
+      "페크다",
       "두베",
       "메라크",
-      "페크다"
+      "미자르"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4412,12 +4412,12 @@
   {
     "question": "카펠라를 품은, 마부 모양의 별자리는?",
     "options": [
-      "마차부자리",
       "목동자리",
+      "마차부자리",
       "쌍둥이자리",
       "페르세우스자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4430,12 +4430,12 @@
   {
     "question": "하늘의 목동 곁에서 사냥개 두 마리를 상징하는 별자리는?",
     "options": [
-      "사냥개자리",
-      "목동자리",
       "큰개자리",
+      "목동자리",
+      "사냥개자리",
       "이리자리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4448,12 +4448,12 @@
   {
     "question": "남쪽 하늘에서 공작의 모습을 한, 밝은 별들을 품은 별자리는?",
     "options": [
-      "공작자리",
+      "센타우루스자리",
       "남십자성",
       "카리나자리",
-      "센타우루스자리"
+      "공작자리"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4484,12 +4484,12 @@
   {
     "question": "옷 여밈이 풀렸을 때 몰래 대신 채워 넣었지만, 움직일 때마다 살을 콕콕 찔러 게으름을 들통나게 하는 것은?",
     "options": [
-      "옷핀",
       "지퍼",
+      "옷핀",
       "벨크로(찍찍이)",
       "브로치"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4520,12 +4520,12 @@
   {
     "question": "베란다 바람에 옷이 날아가지 않게 물고 있다가, 어깨에 뿔자국을 남기는 것은?",
     "options": [
-      "빨래집게",
+      "옷걸이",
       "옷핀",
       "자석",
-      "옷걸이"
+      "빨래집게"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
@@ -4538,12 +4538,12 @@
   {
     "question": "음료수 뚜껑을 시원하게 따주려다 힘 조절에 실패하면 천장으로 뿜어 올리는 것은?",
     "options": [
-      "가위",
+      "병따개",
       "스패너",
       "코르크스크루",
-      "병따개"
+      "가위"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4592,12 +4592,12 @@
   {
     "question": "발톱을 깎아주는 척하다가 자른 파편을 거실 반대편까지 로켓처럼 발사하는 것은?",
     "options": [
-      "손톱깎이",
+      "줄",
       "가위",
       "칼",
-      "줄"
+      "손톱깎이"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4610,12 +4610,12 @@
   {
     "question": "물컵을 평화롭게 나르는 척하다가 문턱 하나 넘으면 와장창 파티를 여는 것은?",
     "options": [
-      "접시",
+      "쟁반",
       "도마",
       "바구니",
-      "쟁반"
+      "접시"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4664,12 +4664,12 @@
   {
     "question": "식빵을 얌전히 품다가, 딴생각할 때 미사일처럼 튀어 올라 사람을 놀라게 하는 것은?",
     "options": [
-      "토스터",
+      "에어프라이어",
       "전자레인지",
       "오븐",
-      "에어프라이어"
+      "토스터"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4682,12 +4682,12 @@
   {
     "question": "빨대 속을 닦으려 들어갔다가 털이 끼어 결투를 신청하는 세척 도구는?",
     "options": [
-      "칫솔",
+      "빨대 브러시",
       "면봉",
       "붓",
-      "빨대 브러시"
+      "칫솔"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "kitchen",
@@ -4718,12 +4718,12 @@
   {
     "question": "평소엔 구석에서 조용하다가, 물이 꽉 막혀 역류할 때만 소환되는 구원투수는?",
     "options": [
-      "뚫어뻥",
-      "변기",
       "세면대",
+      "변기",
+      "뚫어뻥",
       "솔"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4736,12 +4736,12 @@
   {
     "question": "택배를 지키는 척하다가, 밟을 때마다 팡팡 울려 몰래 뜯은 걸 들통나게 하는 것은?",
     "options": [
-      "뽁뽁이",
+      "테이프",
       "비닐",
       "스티로폼",
-      "테이프"
+      "뽁뽁이"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4754,12 +4754,12 @@
   {
     "question": "양치를 끝냈다고 믿는 입속에서 숨어 있던 고춧가루를 낚아채는 것은?",
     "options": [
-      "칫솔",
+      "치실",
       "이쑤시개",
       "가글",
-      "치실"
+      "칫솔"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4808,12 +4808,12 @@
   {
     "question": "빵빵할 땐 부드럽게 나오다가, 홀쭉해지면 악력 테스트를 시키는 것은?",
     "options": [
-      "치약",
+      "린스",
       "비누",
       "샴푸",
-      "린스"
+      "치약"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4826,12 +4826,12 @@
   {
     "question": "컴퓨터에 꽂으려는데 앞뒤가 안 맞아 몇 번씩 뒤집게 만드는 것은?",
     "options": [
-      "SD카드",
+      "USB 메모리",
       "충전기",
       "이어폰",
-      "USB 메모리"
+      "SD카드"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "tech",
@@ -4845,11 +4845,11 @@
     "question": "바삭하게 구운 얇은 검은 종이 같지만, 밥을 싸서 간장에 찍어 먹으면 꿀맛인 것은?",
     "options": [
       "미역",
-      "다시마",
       "구운 김",
+      "다시마",
       "파래"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -4880,12 +4880,12 @@
   {
     "question": "앉거나 누울 땐 푹신하지만, 일어나자마자 삐걱대는 소리로 방금 쉰 걸 들통나게 하는 거실 가구는?",
     "options": [
-      "소파",
+      "서랍장",
       "식탁",
       "책장",
-      "서랍장"
+      "소파"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -4898,12 +4898,12 @@
   {
     "question": "정류장을 놓치고 뒤늦게 누르면, 온 차가 돌아보게 만드는 것은?",
     "options": [
-      "손잡이",
+      "하차벨",
       "버튼",
       "안내방송",
-      "하차벨"
+      "손잡이"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "transit",
@@ -4952,12 +4952,12 @@
   {
     "question": "뚜껑을 안 닫으면 스스로 말라 돌멩이가 되는 것은?",
     "options": [
-      "딱풀",
+      "본드",
       "목공풀",
       "테이프",
-      "본드"
+      "딱풀"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -4970,12 +4970,12 @@
   {
     "question": "등에 업혀 무거운 교과서를 짊어지다가, 집에 오면 제일 먼저 방바닥에 패대기쳐지는 것은?",
     "options": [
-      "서류가방",
+      "책가방",
       "쇼핑백",
       "파우치",
-      "책가방"
+      "서류가방"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5024,12 +5024,12 @@
   {
     "question": "머리를 묶어주는 척하다가, 결정적 순간 '팅' 끊어지는 것은?",
     "options": [
-      "머리끈",
+      "빗",
       "핀",
       "머리띠",
-      "빗"
+      "머리끈"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5042,12 +5042,12 @@
   {
     "question": "한 장만 나오면 될 것을, 급히 뽑으면 소시지처럼 연달아 튀어나오는 것은?",
     "options": [
-      "휴지",
+      "물티슈",
       "손수건",
       "키친타월",
-      "물티슈"
+      "휴지"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5096,12 +5096,12 @@
   {
     "question": "앉아 있으면 폭신하지만, 일어설 때 툭 떨어져 발목을 낚아채는 것은?",
     "options": [
-      "방석",
+      "매트",
       "쿠션",
       "베개",
-      "매트"
+      "방석"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5114,12 +5114,12 @@
   {
     "question": "교복에 대고 굴리면 방 청소를 얼마나 안 했는지 증명하는 것은?",
     "options": [
-      "빗자루",
+      "테이프 클리너",
       "청소기",
       "먼지떨이",
-      "테이프 클리너"
+      "빗자루"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5168,12 +5168,12 @@
   {
     "question": "가만히 서 있을 땐 얌전하다가, 양손으로 손잡이를 잡고 쌩쌩 돌리면 발밑을 스치며 계속 뛰게 만드는 줄은?",
     "options": [
-      "줄넘기",
+      "뜀틀",
       "커피잔",
       "호루라기",
-      "뜀틀"
+      "줄넘기"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5186,12 +5186,12 @@
   {
     "question": "가볍게 튀다가, 세게 밟히면 찌그러져 돌아오지 않는 유리 멘탈은?",
     "options": [
-      "셔틀콕",
+      "탁구공",
       "야구공",
       "축구공",
-      "탁구공"
+      "셔틀콕"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5240,12 +5240,12 @@
   {
     "question": "찌개를 뜨려다 냄비 손잡이에 미끄러져 국물에 퐁당 빠지는 것은?",
     "options": [
-      "국자",
+      "숟가락",
       "주걱",
       "뒤집개",
-      "숟가락"
+      "국자"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5258,12 +5258,12 @@
   {
     "question": "좁은 입구에 붓다가 급하면 왈칵 역류시켜 밖으로 흘리는 것은?",
     "options": [
-      "국자",
+      "깔때기",
       "컵",
       "주전자",
-      "깔때기"
+      "국자"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5276,12 +5276,12 @@
   {
     "question": "운동하려고 바닥에 깔았는데, 눕는 순간 낮잠 침대로 둔갑하는 것은?",
     "options": [
-      "요가매트",
       "매트리스",
+      "요가매트",
       "이불",
       "방석"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5312,12 +5312,12 @@
   {
     "question": "숨소리와 심장 박동만 천둥처럼 크게 들리게 하는 것은?",
     "options": [
-      "귀마개",
+      "헤드폰",
       "이어폰",
       "안대",
-      "헤드폰"
+      "귀마개"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5330,12 +5330,12 @@
   {
     "question": "라면을 끓이다가 막 열어젖히면 발등에 물방울을 떨어뜨리는 것은?",
     "options": [
-      "프라이팬",
+      "냄비 뚜껑",
       "접시",
       "쟁반",
-      "냄비 뚜껑"
+      "프라이팬"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5366,12 +5366,12 @@
   {
     "question": "세탁기 안에서 다른 옷과 엉키지 않도록 옷감을 보호해주지만, 혼자 지퍼가 열려 밖으로 탈출시키는 세탁 용품은?",
     "options": [
-      "빨래망",
-      "다리미",
       "건조대",
+      "다리미",
+      "빨래망",
       "옷걸이"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",
@@ -5389,11 +5389,11 @@
     "question": "상처 난 자리를 안 아프게 감싸주더니, 손을 씻는 순간 물을 가득 머금고 덜렁거리며 떨어지는 것은?",
     "options": [
       "파스",
-      "일회용 밴드",
+      "붕대",
       "거즈",
-      "붕대"
+      "일회용 밴드"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "너덜너덜! 방수 기능이라 쓰여 있던 글자는 도대체 어디로 간 걸까?",
       "wrong": "아니야~ 물 한 번 묻히면 모서리가 허옇게 떠서 떼어내야 하는 건 밴드란다."
@@ -5402,12 +5402,12 @@
   {
     "question": "간지러운 귀를 시원하게 파주는 척하다가, 재채기 한 번에 지옥을 맛보게 하는 것은?",
     "options": [
-      "면봉",
+      "귀이개",
       "이쑤시개",
       "핀셋",
-      "귀이개"
+      "면봉"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "daily",
@@ -5456,12 +5456,12 @@
   {
     "question": "식당에서 이빨 사이 고춧가루를 가차 없이 파헤치는 것은?",
     "options": [
-      "이쑤시개",
+      "치실",
       "젓가락",
       "포크",
-      "치실"
+      "이쑤시개"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -5474,12 +5474,12 @@
   {
     "question": "머리를 감고 닦은 뒤, 안 말리고 욕실 구석에 뭉쳐두면 하루 만에 쉰내를 풍기는 것은?",
     "options": [
-      "샤워볼",
+      "수건",
       "때타월",
       "비누",
-      "수건"
+      "샤워볼"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5492,12 +5492,12 @@
   {
     "question": "두 개의 쇠 날이 서로 손을 맞잡고 싹둑거리며, 앞으로 나아갈 때마다 종이와 천을 두 동강 내는 것은?",
     "options": [
-      "가위",
       "칼",
+      "가위",
       "손톱깎이",
       "바늘"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5528,12 +5528,12 @@
   {
     "question": "펴둔 다리에 발을 뻗으면 정강이를 무쇠처럼 차버리는 것은?",
     "options": [
-      "접이식 밥상",
+      "의자",
       "책상",
       "식탁",
-      "의자"
+      "접이식 밥상"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5546,12 +5546,12 @@
   {
     "question": "주머니에서 달그락거리다가, 떨어뜨리면 자판기 밑으로 숨는 것은?",
     "options": [
-      "지폐",
+      "동전",
       "카드",
       "버튼",
-      "동전"
+      "지폐"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5587,11 +5587,11 @@
     "question": "손가락으로 시원하게 뜯으려고 당겼는데, 시작점만 찢어지고 얇은 세로줄로 갈라져 버리는 것은?",
     "options": [
       "종이테이프",
-      "박스테이프",
       "붕대",
+      "박스테이프",
       "랩"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "찌익! 손톱으로 끝 모서리 찾느라 빙글빙글 돌리며 10분 날리지!",
       "wrong": "땡! 사선으로 얇게 뜯겨나가며 사람 인내심 시험하는 건 박스테이프야."
@@ -5606,10 +5606,10 @@
     "options": [
       "포크",
       "빨대",
-      "젓가락",
-      "주걱"
+      "주걱",
+      "젓가락"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "딱 붙어 다녀야 제 맛! 하나만 남으면 그냥 가느다란 막대기야.",
       "wrong": "땡! 하나만 남으면 무용지물이 되는 건 젓가락이지."
@@ -5622,12 +5622,12 @@
     "reward_keys": 1,
     "question": "문서를 깔끔하게 정리해 주더니, 한 장이라도 더 넣으려 하면 입을 쩍 벌리고 다 뱉어내는 것은?",
     "options": [
-      "책갈피",
       "스테이플러",
+      "책갈피",
       "클립",
       "서류철"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "찰칵! 종이가 너무 두꺼우면 혼자 철심을 퉤 뱉으며 헛물만 켠단다.",
       "wrong": "땡! 두꺼운 종이에 찍었다가 철심이 납작하게 찌그러지는 건 호치케스야."
@@ -5641,11 +5641,11 @@
     "question": "시원하게 마시려고 빨아들였는데, 음료 대신 바닥에 남은 얼음 사이로 시끄러운 공기 소리만 내는 것은?",
     "options": [
       "보온병",
-      "종이컵",
       "플라스틱 빨대",
+      "종이컵",
       "숟가락"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "후루룩 컥! 조용한 도서관에서 혼자 천둥 같은 굉음을 터뜨리지!",
       "wrong": "아니지~ 음료는 끝났는데 허공만 쪽쪽 빨아들이는 소리는 빨대 소리란다."
@@ -5659,11 +5659,11 @@
     "question": "분명 방금 닫았는데 가방 속에서 뚜껑이 열려, 온갖 소지품을 끈적거리게 만들어놓는 것은?",
     "options": [
       "선크림",
-      "립밤",
       "물병",
+      "립밤",
       "치약"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "미끌! 가방 바닥을 더듬다 미끌거리는 내용물을 만졌을 때의 그 절망감!",
       "wrong": "틀렸어~ 주머니 열기만 닿아도 혼자 녹아서 뚜껑을 탈출하는 건 립밤이지."
@@ -5678,10 +5678,10 @@
     "options": [
       "우산",
       "부채",
-      "텀블러",
-      "보조배터리"
+      "보조배터리",
+      "텀블러"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "철벅! '완전 밀폐'라는 글자를 믿었다가 교과서 모서리가 물에 불어 터진단다.",
       "wrong": "아니야~ 가방을 열었을 때 물바다를 만들어 놓는 주범은 덜 닫힌 텀블러야."
@@ -5694,12 +5694,12 @@
     "reward_keys": 1,
     "question": "볼주머니에 먹이를 잔뜩 넣고 숨기더니, 쳇바퀴만 돌면 다 잊어버리는 것은?",
     "options": [
-      "토끼",
-      "다람쥐",
       "햄스터",
+      "다람쥐",
+      "토끼",
       "고슴도치"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "부지런! 뺨이 빵빵해질 때까지 숨기고 쳇바퀴만 열심히 돌리지.",
       "wrong": "땡! 볼주머니에 먹이를 숨기고 쳇바퀴를 타는 건 햄스터란다."
@@ -5712,12 +5712,12 @@
     "reward_keys": 1,
     "question": "바람을 가득 들이마실수록 둥글고 팽팽하게 부풀어 오르지만, 뾰족한 바늘 끝 하나만 닿아도 펑 소리를 내며 흔적도 없이 터지는 것은?",
     "options": [
-      "풍선",
       "비누방울",
+      "풍선",
       "타이어",
       "비치볼"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "정답! 입김을 불어넣으면 하늘로 둥실 떠오르지만 작은 핀에도 깜짝 놀라 터지는 풍선이라네!",
       "wrong": "땡! 공기를 넣으면 부풀어 오르는 알록달록한 고무 주머니라네."
@@ -5731,11 +5731,11 @@
     "question": "분명 100% 가득 채워 들고나왔는데, 저녁만 되면 혼자 붉은빛을 깜빡이며 헐떡이는 것은?",
     "options": [
       "스마트워치",
-      "보조배터리",
       "무선 마우스",
+      "보조배터리",
       "블루투스 스피커"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "깜빡깜빡! 밥 달라고 챙겨 나온 녀석이 정작 지 밥부터 다 털어먹었구나!",
       "wrong": "아니지~ 가방 안에서 벽돌 무게만 자랑하다가 방전되는 건 보조배터리야."
@@ -5750,10 +5750,10 @@
     "options": [
       "젤리",
       "초콜릿",
-      "페이스트리 파이",
-      "사탕"
+      "사탕",
+      "페이스트리 파이"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "파사삭! 입으로 들어가는 것보다 책상 위에 떨어지는 가루가 더 많지!",
       "wrong": "틀렸어~ 한 입 먹자마자 엄마의 등짝 스매싱을 부르는 과자는 파이란다."
@@ -5766,12 +5766,12 @@
     "reward_keys": 1,
     "question": "어두운 곳에서 환하게 비춰주더니, 내 얼굴 위에 손가락을 헛디디는 순간 안면으로 낙하하는 것은?",
     "options": [
-      "독서등",
       "스마트폰",
+      "독서등",
       "태블릿",
       "손전등"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "퍽! 누워서 유튜브 보다가 콧등을 제대로 찍혀본 자만이 아는 눈물!",
       "wrong": "아니야~ 방심하는 순간 중력에 이끌려 내 얼굴을 강타하는 건 스마트폰이지."
@@ -5821,11 +5821,11 @@
     "question": "뚜껑을 열면 따뜻한 밥이 나오는데, 다 먹고 나면 텅 빈 몸만 남아 돌아다니는 것은?",
     "options": [
       "냄비",
-      "도시락",
+      "접시",
       "보온병",
-      "접시"
+      "도시락"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "뚜껑 열면 반짝, 다 먹으면 빈 몸! 점심시간의 주인공이지.",
       "wrong": "땡! 밥을 담아 들고 다니는 작은 상자는 도시락이란다."
@@ -5838,12 +5838,12 @@
     "reward_keys": 1,
     "question": "버튼 하나로 내 위치를 빠르게 올려주더니, 문이 닫히는 찰나에 탄 사람과 어색하게 눈만 마주치게 하는 것은?",
     "options": [
-      "에스컬레이터",
       "엘리베이터",
+      "에스컬레이터",
       "케이블카",
       "무빙워크"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "띵! 올라가는 내내 천장 숫자판만 뚫어져라 쳐다보게 만드는 침묵의 방!",
       "wrong": "땡! 문 닫힘 버튼을 누르려다 남과 눈이 마주쳐 식은땀 흘리는 곳은 엘리베이터야."
@@ -5857,11 +5857,11 @@
     "question": "든든하게 조여 입었더니, 밥 한 숟가락 더 먹자마자 배를 가차 없이 파고드는 것은?",
     "options": [
       "멜빵",
-      "단추",
       "허리띠",
+      "단추",
       "고무줄"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "조였다 풀었다! 식당에서 몰래 한 칸 푸는 순간의 그 해방감이란!",
       "wrong": "틀렸어~ 뷔페에서 가장 먼저 항복을 선언하고 풀어헤치는 건 허리띠란다."
@@ -5875,11 +5875,11 @@
     "question": "음식을 바삭하게 데워주는 척하더니, 꺼내자마자 손가락이 데일 만큼 그릇만 펄펄 끓여놓는 것은?",
     "options": [
       "에어프라이어",
-      "전자레인지",
       "오븐",
+      "전자레인지",
       "토스터"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "앗 뜨거! 음식은 아직 미지근한데 접시 테두리만 용암처럼 끓고 있지!",
       "wrong": "아니지~ 30초만 돌려도 접시를 들지 못하게 만드는 건 전자레인지란다."
@@ -5894,10 +5894,10 @@
     "options": [
       "초콜릿 퐁듀",
       "와플",
-      "아이스크림",
-      "핫초코"
+      "핫초코",
+      "아이스크림"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "띵~! 너무 급하게 퍼먹다가 관자놀이를 부여잡고 멈칫하게 되지!",
       "wrong": "땡! 콘이나 컵에 담아 혀로 핥아먹는 차가운 유제품이라네."
@@ -5910,12 +5910,12 @@
     "reward_keys": 1,
     "question": "비밀번호를 입력하고 접속하려는데, 로봇이 아니라며 횡단보도 사진만 아홉 장 골라내라는 것은?",
     "options": [
-      "백신 프로그램",
       "캡차 인증",
+      "백신 프로그램",
       "지문인식기",
       "OTP 발생기"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "체크! 신호등 끄트머리가 걸렸는지 안 걸렸는지 5분 동안 고민하게 만들지!",
       "wrong": "아니야~ 내가 사람인지 기계인지 스스로 의심하게 만드는 건 캡차 인증이란다."
@@ -5929,11 +5929,11 @@
     "question": "스마트폰 화면을 깨끗하게 지켜주더니, 붙이자마자 가운데에 큼직한 기포 방울을 품고 버티는 것은?",
     "options": [
       "케이스",
-      "그립톡",
       "액정보호필름",
+      "그립톡",
       "카메라 커버"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "뾱! 먼지 한 톨 안 들어가게 숨죽여 붙였는데 기포 세 개가 반겨주지!",
       "wrong": "땡! 손톱이나 카드로 아무리 밀어내도 꿋꿋이 버티는 건 보호필름이란다."
@@ -5947,11 +5947,11 @@
     "question": "분명 방금까지 내 머리 위에 얌전히 얹혀 있었는데, 거울만 보면 이마에 붉은 자국만 남기고 사라지는 것은?",
     "options": [
       "헤어밴드",
-      "헤어롤",
       "머리핀",
+      "헤어롤",
       "수건"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "돌돌돌! 말고 있는 줄도 까먹고 그대로 엘리베이터 탈 뻔했지?",
       "wrong": "아니지~ 외출 직전 이마에 유니콘 뿔처럼 달고 다니는 건 헤어롤이야."
@@ -5966,10 +5966,10 @@
     "options": [
       "식용유",
       "간장",
-      "케첩",
-      "참기름"
+      "참기름",
+      "케첩"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "푸슉! 옷소매에 빨간 점 하나 찍히는 순간 오늘의 외출 코디는 끝이란다.",
       "wrong": "땡! 거꾸로 들고 통통 치다가 쟁반 위로 왈칵 쏟아지는 건 케첩통이지."
@@ -5982,12 +5982,12 @@
     "reward_keys": 1,
     "question": "방을 은은하게 비춰주며 분위기를 잡더니, 정작 끄려고 입김을 불면 매캐한 연기 폭탄을 날리는 것은?",
     "options": [
-      "디퓨저",
       "향초",
+      "디퓨저",
       "스탠드 조명",
       "무드등"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "후우 켁! 로맨틱한 향기는 온데간데없고 불장난 냄새만 가득 채우는 마술!",
       "wrong": "틀렸어~ 촛농 가운데만 푹 파고들어가 심지만 홀랑 타버리는 건 향초란다."
@@ -6001,11 +6001,11 @@
     "question": "바삭하고 달콤하게 구워져 나왔는데, 한입 베어 물자마자 안에 든 뜨거운 꿀을 턱으로 발사하는 것은?",
     "options": [
       "붕어빵",
-      "델리만쥬",
       "호떡",
+      "델리만쥬",
       "와플"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "앗 뜨거! 종이컵에 쥐고 호호 불다가 혓바닥 데이기 딱 좋은 겨울의 맛이지!",
       "wrong": "아니야~ 방심하고 덥석 물었다가 마그마 같은 설탕물에 당하는 건 호떡이야."
@@ -6019,11 +6019,11 @@
     "question": "필통 속에 고이 모셔뒀는데, 뚜껑이 헐거워져 혼자 속살을 쥐어짜며 가방 안을 보라색으로 칠하는 것은?",
     "options": [
       "도장",
-      "컴퓨터용 사인펜",
       "물감",
+      "컴퓨터용 사인펜",
       "스탬프패드"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "번쩍! OMR 카드 마킹해야 하는데 펜촉이 뭉개져 굵은 붓이 되어버렸구나!",
       "wrong": "아니지~ 뚜껑 뒤에 꽂아뒀다가 어디론가 잃어버리는 단골손님은 컴싸란다."
@@ -6037,11 +6037,11 @@
     "question": "입은 하나인데 넘어지면 속을 모조리 쏟아내는, 손잡이 달린 작은 그릇은?",
     "options": [
       "접시",
-      "컵",
+      "보온병",
       "냄비",
-      "보온병"
+      "컵"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "와르르! 조금만 부딪혀도 속을 다 쏟아내는 얄미운 그릇!",
       "wrong": "땡! 손잡이 달린 작은 그릇은 컵이란다."
@@ -6054,12 +6054,12 @@
     "reward_keys": 1,
     "question": "책상 위에서 혼자 쌩쌩 도는 척하더니, 내 책장 모서리를 건드려 서류를 사방으로 날려버리는 것은?",
     "options": [
-      "에어컨 리모컨",
       "탁상용 미니선풍기",
+      "에어컨 리모컨",
       "무선 가습기",
       "공기청정기"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "위잉 철썩! 바람 쐬려다 바닥에 흩어진 시험공부 프린트 줍느라 땀을 더 흘리지!",
       "wrong": "틀렸어~ 가분수 머리로 위태롭게 진동하다가 혼자 쓰러지는 건 미니선풍기란다."
@@ -6073,11 +6073,11 @@
     "question": "소파 위에서 편하게 뒹굴게 해주더니, 일어나는 순간 정전기 스파크와 함께 온몸을 털복숭이로 만드는 것은?",
     "options": [
       "가죽 쿠션",
-      "패딩 조끼",
       "극세사 담요",
+      "패딩 조끼",
       "모직 코트"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "따끔 파닥! 정전기 파티와 함께 검은 바지를 백곰 털로 뒤덮어버렸구나!",
       "wrong": "아니야~ 일어날 때마다 찌릿찌릿 스파크를 튀기는 겨울 친구는 극세사 담요야."
@@ -6110,10 +6110,10 @@
     "options": [
       "키보드",
       "조이스틱",
-      "광마우스",
-      "웹캠"
+      "웹캠",
+      "광마우스"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "버벅! 한타 싸움 중에 커서가 허공에서 얼어붙는 지옥의 순간!",
       "wrong": "땡! 바닥 빨간 센서에 먼지 하나 꼈다고 딴청 피우는 건 광마우스란다."
@@ -6126,12 +6126,12 @@
     "reward_keys": 1,
     "question": "손가락으로 시원하게 긁으라고 만들어놓고, 정작 긁고 나면 손톱 밑에 시커먼 은색 가루만 채워 넣는 것은?",
     "options": [
-      "연필 흑연",
       "스크래치 카드",
+      "연필 흑연",
       "스티커 뒷면",
       "분필가루"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "사각사각! 당첨인가 두근대며 긁었더니 '다음 기회에'만 또렷하게 남았구나!",
       "wrong": "아니야~ 동전 없어서 손톱으로 긁다 손가락만 더러워지는 건 즉석복권이지."
@@ -6145,11 +6145,11 @@
     "question": "라면을 끓이려고 정수기에서 뜨거운 물을 받았는데, 딱 선 바로 밑에서 앵꼬를 외치며 찬물을 뱉는 것은?",
     "options": [
       "커피포트",
-      "보온병",
       "온수 정수기",
+      "보온병",
       "전자레인지"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "졸졸졸 뚝! 미지근한 물에 면발이 불어 터져 떡라면을 먹게 생겼구나!",
       "wrong": "아니지~ 내 컵라면 앞에서 딱 온수가 끊겨 절망을 주는 건 정수기야."
@@ -6163,11 +6163,11 @@
     "question": "달콤한 알맹이를 열심히 씹으며 단물을 뺐는데, 뱉으려 하니 쌀 휴지가 없어서 입안에 감금당하는 것은?",
     "options": [
       "사탕",
-      "풍선껌",
       "젤리",
+      "풍선껌",
       "초콜릿"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "오물오물... 맛은 다 빠져서 턱만 아픈데 삼킬 수도 없고 난감하지!",
       "wrong": "땡! 주머니를 뒤져도 영수증 한 장 안 나와서 계속 씹고 있는 건 껌이란다."
@@ -6182,10 +6182,10 @@
     "options": [
       "신분증",
       "학생증",
-      "교통카드",
-      "사원증"
+      "사원증",
+      "교통카드"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "삑삑삑! 출근길 통곡의 벽을 만들며 뒤통수에 따가운 시선을 받게 하지!",
       "wrong": "땡! 지갑 채로 쓱 댔다가 문이 쾅 닫히며 허벅지를 치는 건 교통카드 오류야."
@@ -6198,12 +6198,12 @@
     "reward_keys": 1,
     "question": "달콤하고 시원한 음료수를 다 마셨는데, 얼음 틈새 바닥에 콕 박혀 끝까지 빨려 나오지 않는 쫀득한 것은?",
     "options": [
-      "나타드코코",
       "타피오카 펄",
+      "나타드코코",
       "알로에 알갱이",
       "치아씨드"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "쪽쪽쪽! 빨대로 조준 사격해도 얼음 밑에 숨어서 절대 안 올라오지!",
       "wrong": "아니지~ 버블티 다 마시고 컵 바닥에 남은 까만 보석은 타피오카 펄이란다."
@@ -6235,11 +6235,11 @@
     "question": "나를 깨워주는 척하다가, 내가 끄고 다시 자는 건 끝까지 지켜만 보는 것은?",
     "options": [
       "베개",
-      "알람시계",
       "이불",
+      "알람시계",
       "커튼"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "똑딱! 나는 매일 정직하게 울었지만, 이불이 너를 더 세게 붙잡았단다.",
       "wrong": "삐빅! 나는 새벽마다 거짓말 없이 울기만 했는데!"
@@ -6253,11 +6253,11 @@
     "question": "내 귀에선 노래를 들려주는 척하다가, 주머니 속에서만 실타래처럼 엉키는 것은?",
     "options": [
       "목걸이",
-      "이어폰",
+      "충전기",
       "마스크끈",
-      "충전기"
+      "이어폰"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "정답! 주머니 속은 이어폰들이 조용히 매듭을 짓는 비밀 작업실이야.",
       "wrong": "아니야~ 엉키는 건 언제나 내 이어폰 한 쌍뿐이라고!"
@@ -6270,12 +6270,12 @@
     "reward_keys": 1,
     "question": "내가 하는 말을 그대로 따라하기만 하더니, 결국 온 동네에 내 비밀을 다 방송하는 것은?",
     "options": [
-      "카나리아",
       "앵무새",
+      "카나리아",
       "참새",
       "까마귀"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "앵무앵무! 내가 한 말이 그대로 돌아올 때의 그 민망함!",
       "wrong": "똑똑! 사람 말을 흉내 내는 새는 앵무새다."
@@ -6289,11 +6289,11 @@
     "question": "느림보라고 놀림받아도, 딱딱한 등껍질 집을 메고 뭍과 물을 오가며 장수하는 파충류는?",
     "options": [
       "카멜레온",
-      "두더지",
       "거북이",
+      "두더지",
       "개미"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "정답! 거북이는 딱딱한 귀갑을 메고 백 년 넘게 장수하는 친구야!",
       "wrong": "땡! 토끼와 달리기 시합을 벌였던 등껍질의 주인공이라네."
@@ -6307,11 +6307,11 @@
     "question": "칠판에 하얗게 글씨를 쓰다가 똑 부러지고, 바닥에 떨어지면 산산조각 나는 것은?",
     "options": [
       "연필",
-      "분필",
       "크레파스",
+      "분필",
       "마커"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "톡! 조금만 세게 눌러도 툭 부러져 선생님 손에 남는 조각!",
       "wrong": "땡! 칠판에 쓰다가 힘주면 부러지는 하얀 막대는 분필이야."
@@ -6326,10 +6326,10 @@
     "options": [
       "스티커",
       "포스트잇",
-      "양면테이프",
-      "라벨"
+      "라벨",
+      "양면테이프"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "쩌억! 떼려다 종이가 반으로 찢어지면 그때야 존재를 알게 되지!",
       "wrong": "아니지~ 앞뒤 양쪽이 다 끈적해서 종이를 잡아먹는 건 양면테이프란다."
@@ -6342,12 +6342,12 @@
     "reward_keys": 1,
     "question": "실내에선 코끝으로 미끄러지더니, 햇빛 아래서만 세상을 까맣게 물들이는 것은?",
     "options": [
-      "모자",
       "선글라스",
+      "모자",
       "마스크",
       "안대"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "칙! 쨍한 햇빛 앞에서는 내가 세상의 색을 바꿔버리지.",
       "wrong": "땡! 눈에 쓰면 세상이 까매지는 건 선글라스란다."
@@ -6397,11 +6397,11 @@
     "question": "내가 찾을 땐 꼭 소파 밑에 숨어 있고, 막상 안 볼 땐 어느새 형 손에 쥐어져 있는 것은?",
     "options": [
       "안경",
-      "리모컨",
+      "이어폰",
       "충전기",
-      "이어폰"
+      "리모컨"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "딩동! 소파 밑은 리모컨들이 모여 사는 비밀 아지트란다.",
       "wrong": "땡! 안 볼 땐 온데간데없다가 필요할 때만 사라지는 건 리모컨이지."
@@ -6414,12 +6414,12 @@
     "reward_keys": 1,
     "question": "빙글빙글 돌며 옷을 깨끗하게 해주는 척하다가, 양말 한 짝을 영원히 숨겨버리는 것은?",
     "options": [
-      "건조기",
-      "식기세척기",
       "세탁기",
+      "식기세척기",
+      "건조기",
       "청소기"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "드르륵! 세탁기는 세상에서 제일 무서운 마술사야.",
       "wrong": "땡! 돌리고 나면 양말 한 짝이 꼭 사라지는 건 세탁기란다."
@@ -6429,12 +6429,12 @@
     "id": "rid_386",
     "question": "밤새 조용히 내려앉아, 아침이면 풀잎과 창가를 하얗게 물들이는 것은?",
     "options": [
-      "서리",
       "이슬",
+      "서리",
       "눈",
       "안개"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6447,12 +6447,12 @@
     "id": "rid_387",
     "question": "바스락거리는 얇은 갈색 비늘 옷을 겹겹이 껴입고, 벗겨도 벗겨도 속살은 매워 눈물만 쏙 빼놓는 채소는?",
     "options": [
-      "양파",
-      "마늘",
       "생강",
+      "마늘",
+      "양파",
       "당근"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6465,12 +6465,12 @@
     "id": "rid_388",
     "question": "머리를 맡기면 포근하게 받아주지만, 아침이면 침대 밑으로 굴러가 있는 것은?",
     "options": [
-      "베개",
+      "침대",
       "이불",
       "커튼",
-      "침대"
+      "베개"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6501,12 +6501,12 @@
     "id": "rid_390",
     "question": "허리를 쉴 새 없이 빙글빙글 흔들어야만 바닥으로 떨어지지 않고 맴도는 둥근 플라스틱 고리는?",
     "options": [
-      "훌라후프",
       "줄넘기",
+      "훌라후프",
       "부메랑",
       "요요"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6519,12 +6519,12 @@
     "id": "rid_391",
     "question": "단단한 이빨을 수십 개나 가지고 있으면서도 음식은 씹지 못하고, 헝클어진 머리칼만 단정하게 쓸어 넘겨주는 것은?",
     "options": [
-      "빗",
-      "칫솔",
       "포크",
+      "칫솔",
+      "빗",
       "톱"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6537,12 +6537,12 @@
     "id": "rid_392",
     "question": "가슴에 숫자 열두 개를 품고 쉬지 않고 바늘 다리를 놀리며 째깍째깍 달음박질치는 것은?",
     "options": [
-      "시계",
+      "체중계",
       "나침반",
       "계량기",
-      "체중계"
+      "시계"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6573,12 +6573,12 @@
     "id": "rid_394",
     "question": "날마다 사람들의 젖은 발을 안아주고 뽀송하게 물기를 닦아주지만, 목욕이 끝나면 제일 구석에 엎드려 축축하게 말라가는 것은?",
     "options": [
-      "발매트",
       "실내화",
+      "발매트",
       "세면대",
       "빨래바구니"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -6591,12 +6591,12 @@
     "id": "rid_395",
     "question": "부뚜막 위 붉은 불꽃 위에서 검은 연기를 마시며 밥을 짓고, 머리에 무거운 무쇠 뚜껑을 얹어야 비로소 누룽지를 내어주는 것은?",
     "options": [
-      "가마솥",
-      "뚝배기",
       "주전자",
+      "뚝배기",
+      "가마솥",
       "프라이팬"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "food",
@@ -6609,12 +6609,12 @@
     "id": "rid_396",
     "question": "바람 한 점 없는 날엔 얌전하게 굳어 있다가, 손으로 힘차게 흔들어야만 시원한 칼바람을 일으켜 무더위를 쫓아내는 접이식 날개는?",
     "options": [
-      "부채",
+      "파리채",
       "선풍기",
       "환풍기",
-      "파리채"
+      "부채"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6645,12 +6645,12 @@
     "id": "rid_398",
     "question": "손가락으로 꾹꾹 눌러 담은 비밀을 고이 감추고, 우표 한 장 가슴에 붙여 낯선 동네와 바다를 건너가는 하얀 종이 쌈은?",
     "options": [
-      "편지봉투",
       "엽서",
+      "편지봉투",
       "소포상자",
       "종이비행기"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6663,12 +6663,12 @@
     "id": "rid_399",
     "question": "보글보글 찌개를 끓여 식탁에 올려도 오랫동안 식지 않고 따뜻한 온기를 품고 있는 전통 질그릇은?",
     "options": [
-      "뚝배기",
-      "유리그릇",
       "양은냄비",
+      "유리그릇",
+      "뚝배기",
       "접시"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6681,12 +6681,12 @@
     "id": "rid_400",
     "question": "평소에는 얌전히 은빛 몸통을 접어두고 있다가, 어둠 속에서 딸깍 스위치를 누르면 앞길을 향해 노란 빛기둥을 쏘아 올리는 손바닥만 한 등불은?",
     "options": [
-      "손전등",
+      "가로등",
       "벽난로",
       "형광등",
-      "가로등"
+      "손전등"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6717,12 +6717,12 @@
     "id": "rid_402",
     "question": "맑은 날에는 거미줄처럼 잠잠히 흩어져 있다가, 땅바닥의 수분을 한껏 빨아올려 하늘을 잿빛으로 덮고 굵은 물방울을 쏟아내는 것은?",
     "options": [
-      "먹구름",
       "안개",
+      "먹구름",
       "황사",
       "서리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6735,12 +6735,12 @@
     "id": "rid_403",
     "question": "모루 위에서 시뻘건 불길과 메질을 온몸으로 견뎌내고, 차가운 물속에 몸을 던지는 급랭의 시련을 거쳐야 비로소 날카로운 칼날을 완성하는 쇠붙이의 과정은?",
     "options": [
-      "담금질",
-      "용접",
       "도금",
+      "용접",
+      "담금질",
       "주조"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "common_sense",
@@ -6753,12 +6753,12 @@
     "id": "rid_404",
     "question": "겨울 산자락에 주렁주렁 매달려 찬바람을 맞으며, 얼었다 녹았다를 백 번 넘게 반복해야 속살이 노랗고 부드러워지는 바다 생선은?",
     "options": [
-      "황태",
+      "굴비",
       "멸치",
       "자반고등어",
-      "굴비"
+      "황태"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "food",
@@ -6789,12 +6789,12 @@
     "id": "rid_406",
     "question": "손가락으로 팽팽하게 당겼다가 퉁 놓으면, 눈에 보이지도 않는 속도로 날아가 먼 과녁의 붉은 심장에 꽂히는 무기는?",
     "options": [
-      "화살",
       "창",
+      "화살",
       "부메랑",
       "돌팔매"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -6807,12 +6807,12 @@
     "id": "rid_407",
     "question": "작은 몸에 둥근 구슬을 품고, 입김을 힘껏 불어넣으면 삐익 소리쳐 모두를 멈춰 세우는 것은?",
     "options": [
-      "호루라기",
-      "커피잔",
       "배구공",
+      "커피잔",
+      "호루라기",
       "스톱워치"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6825,12 +6825,12 @@
     "id": "rid_408",
     "question": "빨갛고 까만 고무 옷을 양면에 입고, 둥근 탁자 위에서 작은 흰 공을 통통 튕겨내는 것은?",
     "options": [
-      "탁구채",
+      "네트",
       "커피잔",
       "운동화",
-      "네트"
+      "탁구채"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6861,12 +6861,12 @@
     "id": "rid_410",
     "question": "얼어붙은 극지방의 밤하늘에 나타나, 소리도 없이 초록빛과 보랏빛 비단 커튼을 살랑살랑 흔드는 신비로운 빛은?",
     "options": [
-      "오로라",
       "무지개",
+      "오로라",
       "번개",
       "노을"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6879,12 +6879,12 @@
     "id": "rid_411",
     "question": "뜨거운 사막과 아스팔트 위에 푸른 오아시스나 호수가 있는 척 손짓하지만, 다가가면 거짓말처럼 사라지는 빛의 마술은?",
     "options": [
-      "신기루",
-      "그림자",
       "무지개",
+      "그림자",
+      "신기루",
       "안개"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6897,12 +6897,12 @@
     "id": "rid_412",
     "question": "하늘과 땅을 잇는 거대한 팽이처럼 빙글빙글 돌며, 지나가는 길의 모든 것을 하늘로 빨아올리는 공포의 바람 기둥은?",
     "options": [
-      "토네이도",
+      "해일",
       "모래언덕",
       "지진",
-      "해일"
+      "토네이도"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6933,12 +6933,12 @@
     "id": "rid_414",
     "question": "대낮에 환하게 빛나던 태양의 얼굴을, 까만 달이 슬금슬금 다가와 한입 베어 물듯 덮어버려 세상을 어둡게 만드는 현상은?",
     "options": [
-      "일식",
       "월식",
+      "일식",
       "개기월식",
       "황혼"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6951,12 +6951,12 @@
     "id": "rid_415",
     "question": "한여름 무더운 하늘에서 갑자기 쏟아져 내려와, 콩알만 한 단단한 얼음 구슬로 지붕과 밭을 두들겨 패는 것은?",
     "options": [
-      "우박",
-      "싸락눈",
       "소나기",
+      "싸락눈",
+      "우박",
       "서리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6969,12 +6969,12 @@
     "id": "rid_416",
     "question": "어두운 동굴 천장에 거꾸로 매달려, 천 년 동안 떨어지는 물방울을 먹고 자라나는 돌 고드름은?",
     "options": [
-      "종유석",
+      "고드름",
       "석순",
       "산호",
-      "고드름"
+      "종유석"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7005,12 +7005,12 @@
     "id": "rid_418",
     "question": "발을 디디고 서 있는 거대한 대지가 갑자기 화를 내며, 땅바닥을 덜덜 떨고 건물들을 사정없이 흔들어 깨우는 자연재해는?",
     "options": [
-      "지진",
       "산사태",
+      "지진",
       "해일",
       "태풍"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7023,12 +7023,12 @@
     "id": "rid_419",
     "question": "바위도 흙도 없이 바람 부는 대로 매일매일 자리를 옮겨 다니는, 사막의 살아 움직이는 거대한 모래 언덕은?",
     "options": [
-      "모래언덕",
-      "화산",
       "빙산",
+      "화산",
+      "모래언덕",
       "고원"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7041,12 +7041,12 @@
     "id": "rid_420",
     "question": "수천 년 동안 쌓인 눈이 단단한 얼음 바위가 되어, 눈에 보이지 않을 만큼 아주 느리게 산골짜기를 깎으며 흘러내리는 거대한 얼음의 강은?",
     "options": [
-      "빙하",
+      "강물",
       "빙산",
       "눈사태",
-      "강물"
+      "빙하"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7077,12 +7077,12 @@
     "id": "rid_422",
     "question": "깊은 바닷속 땅이 흔들리면 먼바다에선 조용히 숨죽여 달려오다가, 해안가에 닿는 순간 거대한 물벽으로 솟구쳐 육지를 덮치는 바다의 괴물은?",
     "options": [
-      "해일",
       "간조",
+      "해일",
       "용오름",
       "소용돌이"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7095,12 +7095,12 @@
     "id": "rid_423",
     "question": "둥글고 밝던 보름달이 지구의 그림자 속으로 깊이 숨어들며, 어둠 속에서 붉은 핏빛 얼굴로 물드는 신비로운 밤의 현상은?",
     "options": [
-      "월식",
-      "일식",
       "초승달",
+      "일식",
+      "월식",
       "개기일식"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7113,12 +7113,12 @@
     "id": "rid_424",
     "question": "수백만 년 동안 쉼 없이 흐른 거센 강물이, 거대한 붉은 바위 대지를 칼로 베어내듯 깎아 만든 아찔하고 웅장한 바위 골짜기는?",
     "options": [
-      "협곡",
+      "모래언덕",
       "동굴",
       "분화구",
-      "모래언덕"
+      "협곡"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7149,12 +7149,12 @@
     "id": "rid_426",
     "question": "알록달록 아름다운 꽃밭처럼 바닷속에 피어나 수많은 물고기의 보금자리가 되어주지만, 사실은 작은 생명체들이 뼈대로 쌓아 올린 살아있는 거대한 성벽은?",
     "options": [
-      "산호초",
       "미역숲",
+      "산호초",
       "침몰선",
       "해저동굴"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7167,12 +7167,12 @@
     "id": "rid_427",
     "question": "지하수가 빠져나가 텅 빈 땅속 공간을 견디지 못하고, 어느 날 갑자기 멀쩡하던 도로와 땅바닥이 푹 꺼지며 생겨나는 거대한 구멍은?",
     "options": [
-      "싱크홀",
-      "분화구",
       "우물",
+      "분화구",
+      "싱크홀",
       "동굴"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7185,12 +7185,12 @@
     "id": "rid_428",
     "question": "지평선 끝에서 거대한 황토색 흙벽처럼 솟구쳐 올라와, 온 하늘과 태양을 집어삼키며 메마른 대지를 뒤덮는 사막의 거친 숨결은?",
     "options": [
-      "모래폭풍",
+      "안개",
       "눈보라",
       "황사",
-      "안개"
+      "모래폭풍"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7221,12 +7221,12 @@
     "id": "rid_430",
     "question": "새처럼 날개로 하늘을 날지만 깃털이 없고, 낮에는 동굴 천장에 거꾸로 매달려 자다가 밤에만 초음파로 길을 찾는 포유류는?",
     "options": [
-      "박쥐",
       "부엉이",
+      "박쥐",
       "다람쥐",
       "제비"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7239,12 +7239,12 @@
     "id": "rid_431",
     "question": "두 눈을 각자 따로따로 굴리며 주변을 살피고, 나뭇가지나 바위의 색깔에 맞춰 제 피부색을 자유자재로 바꾸는 파충류는?",
     "options": [
-      "카멜레온",
-      "도마뱀",
       "개구리",
+      "도마뱀",
+      "카멜레온",
       "악어"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7257,12 +7257,12 @@
     "id": "rid_432",
     "question": "두 눈은 거의 보이지 않지만, 삽자루처럼 넓적한 앞발로 흙을 파헤치며 평생 어두운 땅속 터널을 누비는 동물은?",
     "options": [
-      "두더지",
+      "토끼",
       "고슴도치",
       "오소리",
-      "토끼"
+      "두더지"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7293,12 +7293,12 @@
     "id": "rid_434",
     "question": "머리 전체를 덮은 수만 개의 겹눈을 번뜩이며, 얇고 투명한 네 장의 날개로 공중에서 정지 비행을 하다가 모기를 사냥하는 곤충은?",
     "options": [
-      "잠자리",
       "나비",
+      "잠자리",
       "벌",
       "메뚜기"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7311,12 +7311,12 @@
     "id": "rid_435",
     "question": "땅속 깊은 어둠 속에서 수년 동안 묵묵히 나무뿌리 수액을 먹고 자라나, 한여름 나무줄기에 붙어 며칠 동안 맴맴 목청껏 울다 가는 곤충은?",
     "options": [
-      "매미",
-      "귀뚜라미",
       "사마귀",
+      "귀뚜라미",
+      "매미",
       "풍뎅이"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7329,12 +7329,12 @@
     "id": "rid_436",
     "question": "미끌미끌한 진액으로 온몸을 감싸 맨손으로 잡으려 해도 쏙 빠져나가고, 흐린 진흙탕 밑바닥에 숨어 사는 수염 달린 민물고기는?",
     "options": [
-      "미꾸라지",
+      "뱀장어",
       "메기",
       "붕어",
-      "뱀장어"
+      "미꾸라지"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7365,12 +7365,12 @@
     "id": "rid_438",
     "question": "여름밤 맑은 개울가 풀숲을 날아다니며, 배 끝에서 깜빡깜빡 차갑고 은은한 초록빛 등불을 켜서 짝을 부르는 곤충은?",
     "options": [
-      "반딧불이",
       "풍뎅이",
+      "반딧불이",
       "모기",
       "잠자리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7383,12 +7383,12 @@
     "id": "rid_439",
     "question": "동그란 머리에 빨판 달린 다리 여덟 개를 거느리고, 위기에 처하면 새까만 먹물 폭탄을 뿜어내며 바위틈으로 숨는 바다 생물은?",
     "options": [
-      "문어",
-      "오징어",
       "해파리",
+      "오징어",
+      "문어",
       "불가사리"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7401,12 +7401,12 @@
     "id": "rid_440",
     "question": "새까만 탄소가 땅속 깊은 곳의 엄청난 열과 압력을 견뎌내어, 세상에서 가장 단단하고 영원히 빛나는 투명한 광물로 태어난 것은?",
     "options": [
-      "다이아몬드",
+      "흑연",
       "루비",
       "유리",
-      "흑연"
+      "다이아몬드"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7437,12 +7437,12 @@
     "id": "rid_442",
     "question": "물이나 공기에 닿아도 영원히 녹슬지 않고, 찬란한 노란 광채로 인류 역사상 가장 값지게 여겨져 온 대표 광물은?",
     "options": [
-      "금",
       "구리",
+      "금",
       "황동",
       "은"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7455,12 +7455,12 @@
     "id": "rid_443",
     "question": "달빛처럼 맑고 하얀 빛을 내며 열과 전기를 가장 잘 통하게 하고, 옛날부터 독을 만나면 검게 변한다고 알려져 있다. 무엇일까?",
     "options": [
-      "은",
-      "백금",
       "알루미늄",
+      "백금",
+      "은",
       "니켈"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7473,12 +7473,12 @@
     "id": "rid_444",
     "question": "지구상에서 가장 흔하고 단단하여 망치와 칼, 기차 레일과 거대한 빌딩 뼈대를 만드는 데 쓰이며, 붉게 녹이 슬기로 유명한 문명의 금속은?",
     "options": [
-      "철",
+      "아연",
       "구리",
       "납",
-      "아연"
+      "철"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7509,12 +7509,12 @@
     "id": "rid_446",
     "question": "얼음처럼 차갑고 유리처럼 투명하게 육각형 기둥 모양으로 자라나며, 목걸이나 시계의 초를 쪼개는 진동자로도 쓰이는 천연 보석 광물은?",
     "options": [
-      "수정",
       "다이아몬드",
+      "수정",
       "호박",
       "진주"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7527,12 +7527,12 @@
     "id": "rid_447",
     "question": "깊은 숲의 나뭇잎처럼 짙푸르고 영롱한 초록빛을 뽐내며, 고대 여왕 클레오파트라가 가장 사랑했다고 전해지는 대표 녹색 보석은?",
     "options": [
-      "에메랄드",
-      "사파이어",
       "루비",
+      "사파이어",
+      "에메랄드",
       "오팔"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7545,12 +7545,12 @@
     "id": "rid_448",
     "question": "쇠붙이만 보면 찰싹 달라붙고 같은 극끼리는 서로 밀쳐내며, 나침반의 바늘을 움직여 항상 북쪽을 가리키게 만드는 신비한 돌은?",
     "options": [
-      "자석",
+      "운석",
       "부싯돌",
       "차돌",
-      "운석"
+      "자석"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7581,12 +7581,12 @@
     "id": "rid_450",
     "question": "귀여운 흑백 줄무늬 털옷을 입고 다니다가, 적이 다가오면 꼬리를 번쩍 치켜들고 코를 찌르는 지독한 방귀 가스 폭탄을 뿜어내는 동물은?",
     "options": [
-      "스컹크",
       "너구리",
+      "스컹크",
       "족제비",
       "오소리"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7599,12 +7599,12 @@
     "id": "rid_451",
     "question": "말의 머리와 원숭이의 꼬리를 닮았지만 물속을 헤엄치는 물고기이며, 엄마 대신 아빠가 배에 알을 품어 새끼를 낳는 신비한 바다 생물은?",
     "options": [
-      "해마",
-      "해파리",
       "물개",
+      "해파리",
+      "해마",
       "바다거북"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7617,12 +7617,12 @@
     "id": "rid_452",
     "question": "하루 스무 시간을 나뭇가지에 거꾸로 매달려 잠만 자고, 너무 느리게 움직여 온몸의 털에 초록빛 이끼가 자라나는 세상에서 제일 게으른 동물은?",
     "options": [
-      "나무늘보",
+      "원숭이",
       "코알라",
       "판다",
-      "원숭이"
+      "나무늘보"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7653,12 +7653,12 @@
     "id": "rid_454",
     "question": "수천만 년 전 고대 소나무 등에서 흘러나온 송진이 단단하게 굳어 영롱한 황금빛 보석이 되었으며, 종종 고대 곤충을 가두고 있는 것은?",
     "options": [
-      "호박",
       "루비",
+      "호박",
       "진주",
       "수정"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7671,12 +7671,12 @@
     "id": "rid_455",
     "question": "손전등을 켜지도 않았는데, 햇살 아래서나 형광등 밑에서나 늘 눈부신 자체 발광을 뽐내는 사람은?",
     "options": [
-      "이마가 시원한 민머리 삼촌",
-      "주머니에 손 넣은 학생",
       "모자 푹 눌러쓴 형",
+      "주머니에 손 넣은 학생",
+      "이마가 시원한 민머리 삼촌",
       "껌 씹는 친구"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7689,12 +7689,12 @@
     "id": "rid_456",
     "question": "소리 없이 내 입을 크게 벌려놓더니, 맞은편에 앉아 있는 사람의 입까지 마법처럼 똑같이 벌어지게 만드는 신기한 전염병은?",
     "options": [
-      "하품",
+      "웃음",
       "기침",
       "딸꾹질",
-      "웃음"
+      "하품"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7725,12 +7725,12 @@
     "id": "rid_458",
     "question": "예고도 없이 찾아와 내 뱃속을 쿵쿵 울리며 끕 소리를 내고, 남이 뒤에서 갑자기 \"왁!\" 하고 놀래켜줘야만 도망치는 것은?",
     "options": [
-      "딸꾹질",
       "트림",
+      "딸꾹질",
       "재채기",
       "코골이"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7743,12 +7743,12 @@
     "id": "rid_459",
     "question": "나이를 먹을수록 눈앞에 숫자가 늘어나고, 마음속으로 비밀 소원을 빈 뒤 힘껏 입김을 불어야 비로소 환호와 박수를 받는 의식은?",
     "options": [
-      "생일 촛불 끄기",
-      "풍선 불기",
       "호루라기 불기",
+      "풍선 불기",
+      "생일 촛불 끄기",
       "비눗방울 놀이"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7761,12 +7761,12 @@
     "id": "rid_460",
     "question": "아침에 눈을 뜨자마자 팔다리를 사방으로 힘껏 뻗으며, 마치 온몸의 뼈마디를 다시 맞추듯 으아아 소리를 내는 동작은?",
     "options": [
-      "기지개",
+      "숨쉬기",
       "달리기",
       "줄넘기",
-      "숨쉬기"
+      "기지개"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7797,12 +7797,12 @@
     "id": "rid_462",
     "question": "두 눈을 다 감으면 잠자는 것이지만, 한쪽 눈만 찰나의 순간에 찡긋 감았다 뜨면 상대방의 가슴을 콩닥거리게 만드는 눈짓은?",
     "options": [
-      "윙크",
       "눈싸움",
+      "윙크",
       "하품",
       "졸음"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7815,12 +7815,12 @@
     "id": "rid_463",
     "question": "다섯 손가락 중 가장 작고 힘없는 막내 손가락끼리 서로 고리를 걸고, 엄지도장을 꾹 찍어야 비로소 마음이 놓이는 비밀 계약은?",
     "options": [
-      "손가락 걸고 약속",
-      "악수",
       "하이파이브",
+      "악수",
+      "손가락 걸고 약속",
       "팔씨름"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7833,12 +7833,12 @@
     "id": "rid_464",
     "question": "신나고 기쁜 일이 생겼을 때, 서로의 손바닥을 허공 높이 마주쳐 짝! 소리를 내야만 비로소 기쁨이 완성되는 손인사는?",
     "options": [
-      "하이파이브",
+      "팔짱",
       "악수",
       "박수",
-      "팔짱"
+      "하이파이브"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7869,12 +7869,12 @@
     "id": "rid_466",
     "question": "달에서도 보인다는 거대한 용처럼, 험준한 산맥 능선을 타고 만 리를 꼬불꼬불 기어가며 국경을 지키던 돌 성벽은?",
     "options": [
-      "만리장성",
       "베를린 장벽",
+      "만리장성",
       "피라미드",
       "콜로세움"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7887,12 +7887,12 @@
     "id": "rid_467",
     "question": "처음에는 흉측한 고철 덩어리라고 욕을 먹었지만, 지금은 파리의 하늘을 낭만으로 물들이며 우뚝 솟아있는 거대한 격자 철탑은?",
     "options": [
-      "에펠탑",
-      "도쿄타워",
       "피사의 사탑",
+      "도쿄타워",
+      "에펠탑",
       "엠파이어 스테이트 빌딩"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7905,12 +7905,12 @@
     "id": "rid_468",
     "question": "사막 한가운데 수백만 개의 거대한 돌을 네모반듯한 삼각형 산처럼 쌓아 올린, 고대 파라오의 영원한 무덤은?",
     "options": [
-      "피라미드",
+      "타지마할",
       "스핑크스",
       "파르테논 신전",
-      "타지마할"
+      "피라미드"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7941,12 +7941,12 @@
     "id": "rid_470",
     "question": "검은 건반과 흰 건반 여든여덟 개의 치아를 드러내고, 손가락으로 가볍게 두드릴 때마다 웅장하고 아름다운 화음을 노래하는 악기의 제왕은?",
     "options": [
-      "피아노",
       "바이올린",
+      "피아노",
       "드럼",
       "하프"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7959,12 +7959,12 @@
     "id": "rid_471",
     "question": "말총으로 만든 활로 가느다란 네 줄을 살며시 문지르면, 턱 밑에 안긴 채 사람의 목소리처럼 애절하고 맑은 소리로 우는 악기는?",
     "options": [
-      "바이올린",
-      "기타",
       "첼로",
+      "기타",
+      "바이올린",
       "우쿨렐레"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7977,12 +7977,12 @@
     "id": "rid_472",
     "question": "양손에 나무 막대기를 쥐고 신나게 두들겨 패야만, 심장을 쿵쾅거리게 만드는 폭풍 같은 리듬을 쏟아내는 타악기는?",
     "options": [
-      "드럼",
+      "트럼펫",
       "피아노",
       "플루트",
-      "트럼펫"
+      "드럼"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8013,12 +8013,12 @@
     "id": "rid_474",
     "question": "주머니 속에 쏙 들어갈 만큼 작지만, 입술을 대고 숨을 들이마시고 내쉴 때마다 고향의 향수를 노래하는 은빛 손바닥 악기는?",
     "options": [
-      "하모니카",
       "오카리나",
+      "하모니카",
       "리코더",
       "트럼펫"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8031,12 +8031,12 @@
     "id": "rid_475",
     "question": "사람마다 단 하나도 겹치지 않고 손가락 끝에 둥근 소용돌이 지도를 품고 있어, 전 세계에서 나를 증명해 주는 유일한 신분증은?",
     "options": [
-      "지문",
-      "손톱",
       "손등",
+      "손톱",
+      "지문",
       "손금"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8049,12 +8049,12 @@
     "id": "rid_476",
     "question": "몸속 깊은 곳에 단단한 흰 기둥 206개를 세워, 부드러운 살덩이가 주저앉지 않도록 나를 꼿꼿이 일으켜 세워주는 튼튼한 골격은?",
     "options": [
-      "뼈",
+      "피부",
       "근육",
       "혈관",
-      "피부"
+      "뼈"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8085,12 +8085,12 @@
     "id": "rid_478",
     "question": "세상에 태어나는 순간 어머니와의 생명줄을 끊어내고 남겨둔, 내 배 한가운데의 유일한 옛 추억의 흔적은?",
     "options": [
-      "배꼽",
       "점",
+      "배꼽",
       "상처",
       "갈비뼈"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8103,12 +8103,12 @@
     "id": "rid_479",
     "question": "단단한 머리뼈 감옥 속에 주름투성이 호두 모양으로 숨어 있으면서, 온몸의 생각과 기억, 숨소리까지 지휘하는 우리 몸의 사령탑은?",
     "options": [
-      "뇌",
-      "심장",
       "폐",
+      "심장",
+      "뇌",
       "위장"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8121,12 +8121,12 @@
     "id": "rid_480",
     "question": "서양 전설에서, 낮에는 관 속에서 잠자고 박쥐로 변해 날아다니며, 마늘과 은십자가, 햇빛을 극도로 무서워하고 사람의 피를 탐하는 어둠의 백작은?",
     "options": [
-      "드라큘라 (흡혈귀)",
+      "좀비",
       "늑대인간",
       "미라",
-      "좀비"
+      "드라큘라 (흡혈귀)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8157,12 +8157,12 @@
     "id": "rid_482",
     "question": "수천 년 전 이집트 피라미드 석관 속에 잠들어 있다가, 온몸에 붕대를 칭칭 감은 채 무덤을 침범한 자를 저주하며 걸어 나오는 괴물은?",
     "options": [
-      "미라",
       "해골",
+      "미라",
       "좀비",
       "유령"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8175,12 +8175,12 @@
     "id": "rid_483",
     "question": "서양 전설에서, 낮에는 평범한 인간으로 살아가다가, 밤하늘에 둥근 보름달이 차오르면 늑대의 털과 날카로운 송곳니를 드러내며 울부짖는 괴수는?",
     "options": [
-      "늑대인간 (웨어울프)",
-      "드라큘라",
       "구미호",
+      "드라큘라",
+      "늑대인간 (웨어울프)",
       "예티"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8193,12 +8193,12 @@
     "id": "rid_484",
     "question": "서양 전설에서, 영혼과 생각은 모두 잃어버린 채 오직 물어뜯으려는 본능만 남아, 떼를 지어 어기적거리며 걸어 다니는 시체는?",
     "options": [
-      "좀비",
+      "프랑켄슈타인",
       "강시",
       "해골병사",
-      "프랑켄슈타인"
+      "좀비"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8229,12 +8229,12 @@
     "id": "rid_486",
     "question": "청나라 관복을 입고 이마에 노란 부적을 붙였으며, 팔을 앞으로 나란히 뻗은 채 콩콩 제자리뜀으로 쫓아오는 중국의 전설 속 시체는?",
     "options": [
-      "강시",
       "도깨비",
+      "강시",
       "좀비",
       "미라"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8247,12 +8247,12 @@
     "id": "rid_487",
     "question": "서양 전설에서, 분명 내 앞에 서서 숨을 쉬고 발자국을 남기는데도, 붕대를 풀거나 옷을 벗어버리면 눈에 전혀 보이지 않아 만질 수조차 없는 사람은?",
     "options": [
-      "투명인간",
-      "유령",
       "그림자",
+      "유령",
+      "투명인간",
       "도깨비"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8265,12 +8265,12 @@
     "id": "rid_488",
     "question": "검은 후드 망토로 얼굴을 숨기고, 거대한 쇠 낫을 손에 든 채 죽은 자의 영혼을 거두어가는 서양 전설 속 죽음의 사자는?",
     "options": [
-      "사신 (그림 리퍼)",
+      "큐피드",
       "염라대왕",
       "하데스",
-      "큐피드"
+      "사신 (그림 리퍼)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8301,12 +8301,12 @@
     "id": "rid_490",
     "question": "서양 신화에서, 등 뒤에 작은 날개를 달고 장난기 가득한 아기의 모습을 하고 있지만, 황금 화살을 쏘아 맞은 사람을 누구든 사랑에 빠지게 만드는 사랑의 신은?",
     "options": [
-      "큐피드",
       "사신",
+      "큐피드",
       "헤르메스",
       "요정"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8319,12 +8319,12 @@
     "id": "rid_491",
     "question": "소인국에서는 온 도시의 집들이 장난감처럼 보이는 거인이 되었고, 거인국에서는 사람 손바닥 위에 올려져 구경거리가 되었던 영국의 모험가는?",
     "options": [
-      "걸리버",
-      "로빈슨 크루소",
       "신드바드",
+      "로빈슨 크루소",
+      "걸리버",
       "피터 팬"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8337,12 +8337,12 @@
     "id": "rid_492",
     "question": "먼지를 털려고 낡은 기름 램프를 싹싹 문질렀을 뿐인데, 거대한 파란 요정 지니가 튀어나와 세 가지 소원을 들어주는 마법의 주인은?",
     "options": [
-      "알라딘",
+      "어린 왕자",
       "알리바바",
       "신드바드",
-      "어린 왕자"
+      "알라딘"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8373,12 +8373,12 @@
     "id": "rid_494",
     "question": "기사 소설에 너무 깊이 빠진 나머지, 바람에 빙글빙글 돌아가는 풍차를 사악한 거인이라 부르며 창을 들고 돌격하는 엉뚱한 노기사는?",
     "options": [
-      "돈 키호테",
       "로빈 후드",
+      "돈 키호테",
       "아서 왕",
       "삼총사 달타냥"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8391,12 +8391,12 @@
     "id": "rid_495",
     "question": "정글 속에서 아기 때 버려졌으나 늑대 가족의 젖을 먹고 자라나, 곰 발루와 흑표범 바기라를 친구 삼아 포악한 호랑이와 맞서는 소년은?",
     "options": [
-      "모글리",
-      "타잔",
       "피터 팬",
+      "타잔",
+      "모글리",
       "헤라클레스"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8409,12 +8409,12 @@
     "id": "rid_496",
     "question": "문도 계단도 없는 아찔하게 높은 탑에 갇혀 지내며, 오직 자신의 끝없이 긴 황금빛 머리카락을 밧줄 삼아 창밖으로 늘어뜨리던 소녀는?",
     "options": [
-      "라푼젤",
+      "인어공주",
       "신데렐라",
       "잠자는 숲속의 공주",
-      "인어공주"
+      "라푼젤"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8445,12 +8445,12 @@
     "id": "rid_498",
     "question": "맨발로 다니는 다른 동물들과 달리, 멋진 가죽 장화를 신고 화려한 말솜씨와 꾀로 마왕을 속여 가난한 주인을 성주로 만든 영리한 동물은?",
     "options": [
-      "장화 신은 고양이",
       "브레멘 음악대",
+      "장화 신은 고양이",
       "체셔 캣",
       "피터 래빗"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8463,12 +8463,12 @@
     "id": "rid_499",
     "question": "초록색 옷과 모자를 쓰고 셔우드 숲에 숨어 살며, 백발백중의 활쏘기 실력으로 탐관오리의 재물을 빼앗아 가난한 백성들에게 나누어 준 의적은?",
     "options": [
-      "로빈 후드",
-      "윌리엄 텔",
       "돈 키호테",
+      "윌리엄 텔",
+      "로빈 후드",
       "삼총사"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8481,12 +8481,12 @@
     "id": "rid_500",
     "question": "배고픈 조카들을 위해 빵 한 조각을 훔쳤다가 19년간 옥살이를 했지만, 신부님의 은촛대 용서로 새사람이 되어 가난한 이들을 도운 남자는?",
     "options": [
-      "장발장",
+      "콰지모도",
       "몬테크리스토 백작",
       "올리버 트위스트",
-      "콰지모도"
+      "장발장"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8517,12 +8517,12 @@
     "id": "rid_502",
     "question": "틸틸과 미틸 남매가 진정한 행복을 찾아 온 세상을 헤매며 찾아다녔지만, 결국 자기 집 새장 안에서 발견한 희망의 깃털을 가진 새는?",
     "options": [
-      "파랑새",
       "봉황",
+      "파랑새",
       "비둘기",
       "까치"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8535,12 +8535,12 @@
     "id": "rid_503",
     "question": "만날 때마다 프라이팬과 덫으로 우당탕탕 쫓고 쫓기지만, 막상 한쪽이 안 보이면 쓸쓸해서 견디지 못하는 애니메이션 최고의 앙숙 콤비는?",
     "options": [
-      "톰과 제리",
-      "배트맨과 로빈",
       "덤 앤 더머",
+      "배트맨과 로빈",
+      "톰과 제리",
       "셜록과 왓슨"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8553,12 +8553,12 @@
     "id": "rid_504",
     "question": "크리스마스이브 밤, 착한 아이들에게 선물을 주기 위해 썰매를 타고 굴뚝으로 찾아오는 흰 수염의 할아버지는?",
     "options": [
-      "산타할아버지",
+      "호두까기 인형",
       "루돌프",
       "요정 (엘프)",
-      "호두까기 인형"
+      "산타할아버지"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8589,12 +8589,12 @@
     "id": "rid_506",
     "question": "소행성 B-612에서 한 송이 장미를 돌보다가, 우주를 여행해 지구 사막에서 불시착한 비행사를 만난 금발 머리의 소년은?",
     "options": [
-      "어린 왕자",
       "피터 팬",
+      "어린 왕자",
       "피노키오",
       "알라딘"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8607,12 +8607,12 @@
     "id": "rid_507",
     "question": "《아라비안나이트》의 주인공으로, 거대한 새 '로크'를 만나고 거대 고래의 등을 섬으로 착각하며 바다를 일곱 번이나 항해한 모험가는?",
     "options": [
-      "신드바드",
-      "로빈슨 크루소",
       "걸리버",
+      "로빈슨 크루소",
+      "신드바드",
       "피터 팬"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8625,12 +8625,12 @@
     "id": "rid_508",
     "question": "바위에 깊이 박힌 신비의 검 '엑스칼리버'를 뽑아 군주가 되었으며, 카멜롯 성에서 '원탁의 기사'들을 이끌었던 전설의 왕은?",
     "options": [
-      "아서 왕",
+      "알렉산더 대왕",
       "로빈 후드",
       "돈 키호테",
-      "알렉산더 대왕"
+      "아서 왕"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8661,12 +8661,12 @@
     "id": "rid_510",
     "question": "깊은 숲속 버섯 집에서 모여 사는 파란색 피부의 꼬마 생명체들로, 사악한 마법사 '가가멜'과 고양이의 위협을 물리치는 이들은?",
     "options": [
-      "개구쟁이 스머프",
       "미니언즈",
+      "개구쟁이 스머프",
       "텔레토비",
       "트롤"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8679,12 +8679,12 @@
     "id": "rid_511",
     "question": "알에서 깨어났을 때 크고 잿빛 털을 가져 구박받았으나, 모진 겨울을 견뎌내고 이듬해 봄 가장 아름다운 '백조'로 우아하게 날아오른 주인공은?",
     "options": [
-      "미운 오리 새끼",
-      "파랑새",
       "아기 새 피요",
+      "파랑새",
+      "미운 오리 새끼",
       "장화 신은 고양이"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8697,12 +8697,12 @@
     "id": "rid_512",
     "question": "초등학생의 몸이 되었지만 천재적 추리력으로 마취총 시계와 나비넥타이 음성 변조기를 쓰며 '내 이름은 OO, 탐정이죠!'를 외치는 고등학생 탐정은?",
     "options": [
-      "코난 (에도가와 코난)",
+      "아르센 루팡",
       "셜록 홈즈",
       "김전일",
-      "아르센 루팡"
+      "코난 (에도가와 코난)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8734,11 +8734,11 @@
     "question": "토끼와 거북이가 경주를 했는데 토끼가 낮잠도 안 자고 전력 질주했습니다. 그런데 거북이가 먼저 골인한 이유는?",
     "options": [
       "토끼가 도중에 길을 잘못 들어서",
-      "거북이가 지름길로 몰래 가서",
       "수영 경주라서",
+      "거북이가 지름길로 몰래 가서",
       "토끼 다리에 쥐가 나서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8752,11 +8752,11 @@
     "question": "사과 다섯 개가 든 바구니에서 세 개를 가져갔습니다. 내 손에 있는 사과는 몇 개일까요?",
     "options": [
       "2개",
-      "3개",
       "5개",
+      "3개",
       "0개"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -8771,10 +8771,10 @@
     "options": [
       "펭귄이 헤엄쳐 도망친다",
       "북극곰이 단숨에 잡아먹는다",
-      "마주칠 수 없다",
-      "펭귄 무리가 반격해 쫓아낸다"
+      "펭귄 무리가 반격해 쫓아낸다",
+      "마주칠 수 없다"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8787,12 +8787,12 @@
     "id": "rid_904",
     "question": "낮에는 절대 보이지 않고, 밤에도 비가 오면 사라지는 별은?",
     "options": [
-      "북극성",
-      "견우직녀별",
       "하늘의 별",
+      "견우직녀별",
+      "북극성",
       "눈동자(눈별)"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8806,11 +8806,11 @@
     "question": "비가 억수같이 쏟아지는 날 우산도 모자도 없이 걷던 사람이 머리카락이 하나도 안 젖은 이유는?",
     "options": [
       "건물 처마 밑으로만 다녀서",
-      "방수 스프레이를 뿌려서",
       "머리카락이 없는 대머리라서",
+      "방수 스프레이를 뿌려서",
       "비보다 빠르게 달려서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8843,10 +8843,10 @@
     "options": [
       "초록 벽돌",
       "단열 블록",
-      "유리",
-      "비닐"
+      "비닐",
+      "유리"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8859,12 +8859,12 @@
     "id": "rid_908",
     "question": "어떤 달은 31일이 있고, 어떤 달은 30일이 있습니다. 그렇다면 28일이 있는 달은 몇 개일까요?",
     "options": [
-      "1개 (2월만)",
-      "윤달이 든 해의 1개",
       "12개 (모든 달)",
+      "윤달이 든 해의 1개",
+      "1개 (2월만)",
       "7개"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8897,10 +8897,10 @@
     "options": [
       "출발국인 한국",
       "도착국인 일본",
-      "국경선 공동 묘지",
-      "묻지 않는다"
+      "묻지 않는다",
+      "국경선 공동 묘지"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8931,12 +8931,12 @@
     "id": "rid_912",
     "question": "구약성서에서 모세가 방주에 태운 각 동물의 수는 암수 몇 쌍일까요?",
     "options": [
-      "1쌍",
-      "7쌍",
       "0쌍 (0마리)",
+      "7쌍",
+      "1쌍",
       "2쌍"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8950,11 +8950,11 @@
     "question": "10층 건물 옥상에서 날달걀을 떨어뜨려 시멘트 바닥이 깨지지 않게 하려면 어떻게 해야 할까요?",
     "options": [
       "달걀에 완충재를 감싼다",
-      "낙하산을 매단다",
       "그냥 떨어뜨린다",
+      "낙하산을 매단다",
       "바닥에 매트리스를 깐다"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8968,11 +8968,11 @@
     "question": "한 농부에게 양이 열일곱 마리 있었는데, 아홉 마리를 빼고 다 병으로 죽었습니다. 살아남은 양은 몇 마리일까요?",
     "options": [
       "8마리",
-      "9마리",
       "0마리",
+      "9마리",
       "17마리"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8986,11 +8986,11 @@
     "question": "야구 방망이와 공을 합쳐 11,000원입니다. 방망이가 공보다 10,000원 비싸다면, 공의 가격은 얼마일까요?",
     "options": [
       "1,000원",
-      "500원",
+      "2,000원",
       "100원",
-      "2,000원"
+      "500원"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9003,12 +9003,12 @@
     "id": "rid_916",
     "question": "나무에 사과가 달려 있었는데, 사과를 딴 후 나무에도 사과가 없고 내 손에도 사과가 없었습니다. 어떻게 된 일일까요?",
     "options": [
-      "사과를 바닥에 떨어뜨렸다",
-      "딴 즉시 다 먹어버렸다",
       "사과가 2개 달려 있어서 1개만 땄다",
+      "딴 즉시 다 먹어버렸다",
+      "사과를 바닥에 떨어뜨렸다",
       "다른 사람이 낚아채 갔다"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9022,11 +9022,11 @@
     "question": "네모난 탁자 모서리 4개 중 톱으로 모서리 하나를 반듯하게 잘라냈습니다. 남은 모서리는 몇 개일까요?",
     "options": [
       "3개",
-      "4개",
       "5개",
+      "4개",
       "6개"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9059,10 +9059,10 @@
     "options": [
       "지구 쪽으로 떨어진다",
       "태양 쪽으로 날아간다",
-      "그 자리에 둥둥 떠 있는다",
-      "가장 가까운 행성으로 빨려 들어간다"
+      "가장 가까운 행성으로 빨려 들어간다",
+      "그 자리에 둥둥 떠 있는다"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9075,12 +9075,12 @@
     "id": "rid_920",
     "question": "깊이 3m, 가로 2m, 세로 2m인 흙 파낸 구덩이가 있습니다. 이 구덩이 안에 들어 있는 흙의 부피는?",
     "options": [
-      "12㎥",
-      "6㎥",
       "0㎥ (전혀 없다)",
+      "6㎥",
+      "12㎥",
       "1㎥"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9094,11 +9094,11 @@
     "question": "비가 억수같이 쏟아지는데 뚜껑 없는 오픈카를 탄 운전자의 옷이 전혀 젖지 않았습니다. 왜일까요?",
     "options": [
       "투명 우비를 껴입어서",
-      "비보다 빠르게 질주해서",
       "긴 터널 안을 달리고 있어서",
+      "비보다 빠르게 질주해서",
       "특수 발수 코팅 옷이라서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9130,11 +9130,11 @@
     "question": "의사가 환자에게 30분마다 알약 1개씩 복용하라며 총 3알을 처방했습니다. 약을 모두 먹는 데 걸리는 시간은?",
     "options": [
       "1시간 30분 (90분)",
-      "1시간 (60분)",
+      "2시간 (120분)",
       "45분",
-      "2시간 (120분)"
+      "1시간 (60분)"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9147,12 +9147,12 @@
     "id": "rid_924",
     "question": "어항 속에 금붕어 열 마리가 있습니다. 세 마리가 물에 빠져 숨지고 두 마리가 도망쳤다면 어항 속엔 몇 마리가 남았을까요?",
     "options": [
-      "5마리",
-      "7마리",
       "10마리",
+      "7마리",
+      "5마리",
       "8마리"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9166,11 +9166,11 @@
     "question": "두 남자가 체스 대결을 5판 치렀습니다. 무승부는 단 한 번도 없었는데, 두 사람 모두 3승을 거두었습니다. 어떻게 된 일일까요?",
     "options": [
       "승부 조작이다",
-      "판정 시비로 둘 다 승점 처리되었다",
       "서로가 아니라 각자 다른 상대와 두어서",
+      "판정 시비로 둘 다 승점 처리되었다",
       "홀수 판수 판정 규정 때문이다"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9203,10 +9203,10 @@
     "options": [
       "자신의 몸무게에 달하는 바위",
       "200kg 바벨",
-      "자신의 숨 (호흡)",
-      "철제 덤벨"
+      "철제 덤벨",
+      "자신의 숨 (호흡)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9219,12 +9219,12 @@
     "id": "rid_928",
     "question": "프랑스 파리 에펠탑 꼭대기 난간에서 쇠구슬을 똑바로 떨어뜨렸습니다. 구슬은 어디에 가장 먼저 부딪힐까요?",
     "options": [
-      "에펠탑 밑 잔디밭",
-      "보행자 광장 바닥",
       "에펠탑의 하부 철골 구조물",
+      "보행자 광장 바닥",
+      "에펠탑 밑 잔디밭",
       "센강 수면"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9274,11 +9274,11 @@
     "question": "한 미국인이 평생 미국 땅에서 태어나 자랐습니다. 하지만 그는 미국에서 단 한 번도 합법적으로 투표를 할 수 없었습니다. 왜일까요?",
     "options": [
       "전과 기록이 있어서",
-      "아직 8살 어린이(미성년자)라서",
+      "이중국적자 신분이라서",
       "미국 시민권을 박탈당해서",
-      "이중국적자 신분이라서"
+      "아직 8살 어린이(미성년자)라서"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9291,12 +9291,12 @@
     "id": "rid_932",
     "question": "경찰관이 도둑을 쫓다가 막다른 골목에 몰린 도둑을 눈앞에서 놓쳤습니다. 도둑은 날개도 없고 벽을 넘지도 않았는데 어떻게 사라졌을까요?",
     "options": [
-      "투명 망토를 써서",
       "바닥의 맨홀 뚜껑을 열고 들어가서",
+      "투명 망토를 써서",
       "경찰관이 눈을 깜빡여서",
       "사실 도둑이 골목 안에 없어서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9310,11 +9310,11 @@
     "question": "어느 날 한 남자가 25일 동안 잠을 한숨도 자지 않고 멀쩡하게 일상생활을 했습니다. 어떻게 이것이 가능했을까요?",
     "options": [
       "특수 각성제를 복용해서",
-      "기네스북 기록 보유자라서",
       "밤에만 잠을 잤기 때문에",
+      "기네스북 기록 보유자라서",
       "선 채로 얕은 잠을 자서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9328,11 +9328,11 @@
     "question": "어떤 물건을 살 때 만드는 사람은 필요 없어서 팔고, 사는 사람은 쓰지 않으며, 실제로 쓰는 사람은 자기가 쓰는지 모릅니다. 이 물건은?",
     "options": [
       "수면 안대",
-      "관()",
       "아기 기저귀",
+      "관()",
       "선물 포장지"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9346,11 +9346,11 @@
     "question": "철수와 영희가 같은 식당에서 같은 시간에 같은 냉커피를 마셨습니다. 영희는 커피를 1분 만에 원샷했고, 철수는 30분 동안 천천히 마셨습니다. 그런데 철수만 독에 중독되었습니다. 왜일까요?",
     "options": [
       "철수의 빨대에만 독이 묻어 있어서",
-      "커피 속 독이 든 얼음이 천천히 녹아서",
+      "웨이터가 나중에 몰래 독을 타서",
       "영희는 체내 해독 능력이 뛰어나서",
-      "웨이터가 나중에 몰래 독을 타서"
+      "커피 속 독이 든 얼음이 천천히 녹아서"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9363,12 +9363,12 @@
     "id": "rid_936",
     "question": "한 여성이 신분증, 지갑, 여권도 없이 다른 나라의 국경을 아무런 검문 없이 자유롭게 통과했습니다. 어떻게 가능했을까요?",
     "options": [
-      "외교관 면책특권을 받아서",
-      "밀항선 화물칸에 숨어서",
       "갓 태어난 신생아라서",
+      "밀항선 화물칸에 숨어서",
+      "외교관 면책특권을 받아서",
       "양국 간 국경 철조망이 없어서"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9382,11 +9382,11 @@
     "question": "한 배에 선장과 선원 10명이 타고 있었습니다. 갑판 위에서 선장이 한 발짝 내딛는 순간 배가 흔들리며 모두가 바다에 빠졌습니다. 그런데 물에 젖은 머리카락은 한 가닥도 없었습니다. 왜일까요?",
     "options": [
       "모두가 완전 방수 잠수모를 쓰고 있어서",
-      "바닷물이 얼어붙은 얼음판이라서",
       "탑승자 전원이 대머리라서",
+      "바닷물이 얼어붙은 얼음판이라서",
       "구명정에 올라타서 물에 안 닿아서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9400,11 +9400,11 @@
     "question": "사과 1개를 칼로 정확히 3번만 잘라서 8조각으로 만드는 가장 올바른 방법은?",
     "options": [
       "얇게 세로로 3번 썬다",
-      "십자(+)로 2번 자른 뒤 가로(수평)로 1번 자른다",
       "대각선으로 비스듬히 3번 쪼갠다",
+      "십자(+)로 2번 자른 뒤 가로(수평)로 1번 자른다",
       "8등분 눈금을 긋고 삼각으로 도려낸다"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9417,12 +9417,12 @@
     "id": "rid_939",
     "question": "한 남자가 비행기에서 낙하산 없이 뛰어내렸는데도 털끝 하나 다치지 않고 무사히 착지했습니다. 어떻게 된 일일까요?",
     "options": [
-      "비행기가 활주로에 멈춰 서 있어서",
+      "특수 윙수트를 입고 있어서",
       "아래에 거대한 짚더미가 쌓여 있어서",
       "초저공비행 중 물 위로 떨어져서",
-      "특수 윙수트를 입고 있어서"
+      "비행기가 활주로에 멈춰 서 있어서"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9435,12 +9435,12 @@
     "id": "rid_940",
     "question": "A와 B가 100m 달리기 시합을 했습니다. A가 결승선에 도착했을 때 B는 90m 지점에 있었습니다. 두 번째 시합에서 A는 출발선보다 10m 뒤에서 출발했습니다. 두 사람이 같은 속도로 달린다면 결과는?",
     "options": [
-      "동시에 들어온다",
       "여전히 A가 이긴다",
+      "동시에 들어온다",
       "B가 간발의 차로 이긴다",
       "거리가 같아 무승부다"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9454,11 +9454,11 @@
     "question": "아무리 깨끗하게 씻고 닦아도, 씻으면 씻을수록 점점 더 더러워지는 것은?",
     "options": [
       "걸레",
-      "비누",
       "씻는 물",
+      "비누",
       "수건"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9491,10 +9491,10 @@
     "options": [
       "컵의 부피에 따른 수천 방울",
       "표면장력이 버틸 때까지",
-      "딱 한 방울",
-      "컵이 찰 때까지 무한정"
+      "컵이 찰 때까지 무한정",
+      "딱 한 방울"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9507,12 +9507,12 @@
     "id": "rid_944",
     "question": "한 소년이 야구공을 힘껏 던졌습니다. 공은 벽에 부딪히지도 않고, 아무도 건드리지 않았으며, 줄에 묶여 있지도 않았는데 다시 소년의 손으로 정확히 돌아왔습니다. 어떻게 던졌을까요?",
     "options": [
-      "회전(스핀)을 강하게 주어 커브로 던졌다",
       "하늘을 향해 수직으로 똑바로 던졌다",
+      "회전(스핀)을 강하게 주어 커브로 던졌다",
       "부메랑처럼 둥글게 휘어 던졌다",
       "바람이 부는 반대 방향으로 던졌다"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9526,11 +9526,11 @@
     "question": "두 아버지와 두 아들이 낚시터에 가서 각자 물고기를 한 마리씩 잡았습니다. 그런데 잡은 물고기를 모아보니 총 3마리였습니다. 한 마리도 놓치지 않았는데 왜 3마리일까요?",
     "options": [
       "한 명이 낚시에 실패해서",
-      "낚시터 관리인이 한 마리를 가져가서",
       "할아버지, 아버지, 손자 3대() 가족이라서",
+      "낚시터 관리인이 한 마리를 가져가서",
       "물고기 한 마리가 두 번 잡혀서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9544,11 +9544,11 @@
     "question": "앞을 가로막는 무거운 철문을 열어야 합니다. 열쇠 꾸러미에 있는 10개의 열쇠 중 문을 열 수 있는 열쇠는 단 1개뿐입니다. 이 문을 여는 데 최대 몇 번 열쇠를 꽂아봐야 할까요?",
     "options": [
       "10번",
-      "9번",
       "1번",
+      "9번",
       "5번"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9563,10 +9563,10 @@
     "options": [
       "검은색",
       "옅은 회색",
-      "하얀색",
-      "투명한 색"
+      "투명한 색",
+      "하얀색"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9579,12 +9579,12 @@
     "id": "rid_948",
     "question": "밀폐된 방 안에 공기가 가득 차 있습니다. 이 방 안에서 공기를 가장 빠르게 빼내는 방법은?",
     "options": [
-      "대형 환풍기를 최대로 가동한다",
-      "진공 펌프로 흡입한다",
       "방 안에 물이나 가구를 가득 채운다",
+      "진공 펌프로 흡입한다",
+      "대형 환풍기를 최대로 가동한다",
       "창문을 활짝 연다"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9598,11 +9598,11 @@
     "question": "비행기 기장이 비행 중 계기판이 모두 고장 났음에도 한 치의 오차 없이 목적지에 정확히 착륙했습니다. 조종사가 본 유일한 것은 무엇일까요?",
     "options": [
       "밤하늘의 북극성과 별자리",
-      "관제탑의 무전 유도",
       "활주로의 유도등 불빛",
+      "관제탑의 무전 유도",
       "스마트폰 나침반 앱"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9616,11 +9616,11 @@
     "question": "남극점(South Pole)에 서서 나침반을 들고 북극 방향으로 똑바로 10km 걸어간 뒤, 오른쪽으로 90도 꺾어 10km 걸었습니다. 현재 위치는 남극점에서 어느 방향에 있을까요?",
     "options": [
       "동쪽",
-      "북쪽",
       "남동쪽",
+      "북쪽",
       "서쪽"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9634,11 +9634,11 @@
     "question": "한 학생이 시험공부를 하나도 하지 않고 시험을 치렀는데, 시험지를 백지로 내고도 100점을 맞았습니다. 어떻게 된 일일까요?",
     "options": [
       "선생님이 채점을 잘못해서",
-      "시력 검사표 시험이라서",
+      "문제가 모두 구술(말하기) 시험이라서",
       "다른 학생과 시험지가 바뀌어서",
-      "문제가 모두 구술(말하기) 시험이라서"
+      "시력 검사표 시험이라서"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9651,12 +9651,12 @@
     "id": "rid_952",
     "question": "물속에 완전히 잠겨 있으면서도 물에 젖지 않고 숨도 쉴 수 있는 사람은?",
     "options": [
-      "해녀",
       "잠수함에 타고 있는 승조원",
+      "해녀",
       "수영 선수",
       "스쿠버 다이버"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9669,12 +9669,12 @@
     "id": "rid_953",
     "question": "가위바위보 게임을 10번 연속으로 했는데, 두 사람 모두 주먹만 내서 10번 다 비겼습니다. 두 사람이 낸 손가락 수의 총합은 몇 개일까요?",
     "options": [
-      "0개",
       "100개",
+      "0개",
       "50개",
       "20개"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9688,11 +9688,11 @@
     "question": "어떤 사람이 하루에 수십 명의 수염을 깎아주지만, 정작 자기 얼굴에는 덥수룩한 턱수염이 그대로 있습니다. 이 사람의 직업은?",
     "options": [
       "면도기 공장 검수원",
-      "이발사",
       "특수 분장사",
+      "이발사",
       "피부과 의사"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9723,12 +9723,12 @@
     "id": "rid_956",
     "question": "고속도로를 달리는 자동차의 타이어 4개 중 1개가 펑크 났습니다. 그런데 운전자는 목적지까지 아무 문제 없이 정상 속도로 도착했습니다. 어떻게 가능했을까요?",
     "options": [
-      "런플랫(특수 방탄) 타이어라서",
       "트렁크에 실려 있던 스페어 타이어가 펑크 나서",
+      "런플랫(특수 방탄) 타이어라서",
       "바퀴 3개로 균형을 잡고 달려서",
       "견인차에 매달려 가서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9777,12 +9777,12 @@
     "id": "rid_959",
     "question": "바다 한가운데서 배가 전복되어 조난당했습니다. 구조대가 올 때까지 바닷물을 절대 마시면 안 되는 진짜 이유는?",
     "options": [
-      "염분 농도가 높아 탈수가 더 빨리 오므로",
+      "체온이 급격히 떨어지므로",
       "상어가 피 냄새를 맡고 몰려오므로",
       "배탈이 나서 복통을 유발하므로",
-      "체온이 급격히 떨어지므로"
+      "염분 농도가 높아 탈수가 더 빨리 오므로"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9795,12 +9795,12 @@
     "id": "rid_960",
     "question": "병원에 찾아온 환자가 의사에게 \"온몸이 다 아픕니다. 머리를 만져도 아프고, 다리를 만져도 아픕니다\"라고 호소했습니다. 의사의 진단 결과는?",
     "options": [
-      "전신 신경통",
-      "섬유근육통",
       "손가락 골절",
+      "섬유근육통",
+      "전신 신경통",
       "꾀병"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9850,11 +9850,11 @@
     "question": "한 아이가 횡단보도를 건너려다 빨간 불인 것을 보고 멈췄습니다. 그런데 뒤따라오던 시각장애인은 신호등을 보지 않고도 정확히 파란 불에 건넜습니다. 어떻게 알았을까요?",
     "options": [
       "안내견이 신호등 색을 구별해서",
-      "보행 신호 음향 안내기(신호음) 소리를 듣고",
+      "자동차 경적 소리로 파악해서",
       "주변 사람들의 발걸음 소리를 듣고",
-      "자동차 경적 소리로 파악해서"
+      "보행 신호 음향 안내기(신호음) 소리를 듣고"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9867,12 +9867,12 @@
     "id": "rid_964",
     "question": "깜깜한 방 안에서 촛불을 켜고 거울을 보았습니다. 거울 속의 나는 왜 오른손으로 촛불을 들고 있을까요?",
     "options": [
-      "거울의 곡률 왜곡 때문에",
       "내가 실제로 왼손으로 들고 있어서",
+      "거울의 곡률 왜곡 때문에",
       "빛의 굴절 현상 때문에",
       "거울 속 반사상이 180도 회전해서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9905,10 +9905,10 @@
     "options": [
       "10번",
       "11번",
-      "19번",
-      "20번"
+      "20번",
+      "19번"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9923,10 +9923,10 @@
     "options": [
       "돈 욕심이 전혀 없는 도인이라서",
       "유효기간이 지난 부도 수표라서",
-      "축구공에 1억 원짜리 수표 스티커가 붙어 있어서",
-      "바람에 날아가는 쓰레기인 줄 알아서"
+      "바람에 날아가는 쓰레기인 줄 알아서",
+      "축구공에 1억 원짜리 수표 스티커가 붙어 있어서"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9939,12 +9939,12 @@
     "id": "rid_968",
     "question": "얼음판 위에 무거운 쇠구슬과 가벼운 탁구공을 올려놓고 입으로 세게 불었습니다. 마찰력이 0이라고 가정할 때 더 멀리 굴러가는 것은?",
     "options": [
-      "탁구공",
-      "쇠구슬",
       "둘 다 멈추지 않고 영원히 굴러간다",
+      "쇠구슬",
+      "탁구공",
       "공기의 저항 때문에 쇠구슬"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9958,11 +9958,11 @@
     "question": "야구에서 타자가 공을 치지 않고 가만히 서 있었는데도 1루로 출루할 수 있는 방법은?",
     "options": [
       "포수가 공을 뒤로 빠뜨렸을 때 (낫아웃)",
-      "투수가 보크(Balk)를 범했을 때",
       "몸에 맞는 공(데드볼) 또는 볼넷(Four Balls)",
+      "투수가 보크(Balk)를 범했을 때",
       "타격 방해 판정이 났을 때"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9994,11 +9994,11 @@
     "question": "밤에 가로등 밑을 지나갈 때, 가로등에 가까워질수록 내 그림자의 길이는 어떻게 변할까요?",
     "options": [
       "점점 길어진다",
-      "점점 짧아진다",
+      "완전히 사라진다",
       "변화 없이 일정하다",
-      "완전히 사라진다"
+      "점점 짧아진다"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10011,12 +10011,12 @@
     "id": "rid_972",
     "question": "한 소년이 배에 걸린 사다리의 열 번째 칸에 서 있었습니다. 파도가 쳐서 바닷물이 사다리 두 칸 높이만큼 차올랐다면, 소년은 이제 몇 번째 칸에 서 있을까요?",
     "options": [
-      "8번째 칸",
-      "12번째 칸",
       "10번째 칸",
+      "12번째 칸",
+      "8번째 칸",
       "물에 잠겨 0번째 칸"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10048,11 +10048,11 @@
     "question": "완전히 얼어붙은 한강 빙판 위에 배를 띄우는 가장 빠른 방법은?",
     "options": [
       "쇄빙선으로 얼음을 깨고 전진한다",
-      "얼음 위에 배를 올려놓는다",
       "열풍기로 얼음을 녹인다",
+      "얼음 위에 배를 올려놓는다",
       "봄이 올 때까지 기다린다"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10067,10 +10067,10 @@
     "options": [
       "적외선 야간 투시경을 써서",
       "낮에 그 길을 지나갔기 때문에",
-      "스마트폰 손전등을 켜고 걸어서",
-      "시각장애인 지팡이로 짚어가며 걸어서"
+      "시각장애인 지팡이로 짚어가며 걸어서",
+      "스마트폰 손전등을 켜고 걸어서"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10083,12 +10083,12 @@
     "id": "rid_976",
     "question": "갓길도 없는 좁은 외나무다리에서 마주친 두 사람이 서로 비켜서지 않고 그대로 걸어서 무사히 지나갔습니다. 어떻게 가능했을까요?",
     "options": [
-      "한 사람이 물속으로 잠수해서",
       "두 사람 모두 같은 방향으로 걷고 있어서",
+      "한 사람이 물속으로 잠수해서",
       "외나무다리가 공중에 2층으로 놓여 있어서",
       "한 사람이 다른 사람을 업고 건너서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10102,11 +10102,11 @@
     "question": "어떤 동물이 태어나서 죽을 때까지 단 한 번도 물을 마시지 않고도 평생을 건강하게 살 수 있는 이유는?",
     "options": [
       "체내에서 수분을 합성하는 돌연변이라서",
-      "이슬만 핥아먹어서",
       "섭취하는 먹이(선인장·풀·씨앗) 속 수분만으로 충분해서",
+      "이슬만 핥아먹어서",
       "물 대신 흙을 섭취해서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10120,11 +10120,11 @@
     "question": "엘리베이터 정원이 '성인 10명(총 700kg)'입니다. 그런데 어른 8명(총 550kg)이 탔는데 과적 경고음이 울리며 문이 닫히지 않았습니다. 왜일까요?",
     "options": [
       "엘리베이터 센서가 영점 조절에 실패해서",
-      "8명 중 한 명이 무거운 쇳덩이 화물을 들고 있어서",
       "탑승자 중 어린이가 숨어 있어서",
+      "8명 중 한 명이 무거운 쇳덩이 화물을 들고 있어서",
       "바닥 스프링이 노후화되어서"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10138,11 +10138,11 @@
     "question": "낮에 숲길을 걸어가는데 내 그림자가 내 앞쪽에 길게 드리워져 있었습니다. 나는 지금 어느 방향을 향해 걷고 있을까요?",
     "options": [
       "해가 뜬 방향",
-      "해를 등진 반대 방향",
+      "정북쪽",
       "정남쪽",
-      "정북쪽"
+      "해를 등진 반대 방향"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10174,11 +10174,11 @@
     "question": "어떤 사람이 강을 건너기 위해 나룻배를 탔습니다. 배에는 사공 외에 승객이 아무도 없었는데, 배가 강 한가운데서 가라앉았습니다. 왜일까요?",
     "options": [
       "바닥에 구멍이 나서",
-      "사공의 몸무게가 500kg이라서",
+      "배에 무거운 짐이 가득 실려 있어서",
       "강바닥의 암초에 부딪혀서",
-      "배에 무거운 짐이 가득 실려 있어서"
+      "사공의 몸무게가 500kg이라서"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10211,10 +10211,10 @@
     "options": [
       "바람이 위로 강하게 불어서",
       "총알이 굴절 탄환이라서",
-      "자기 집 안방도 고층 빌딩 10층이라서",
-      "유리창에 레이저가 반사되어서"
+      "유리창에 레이저가 반사되어서",
+      "자기 집 안방도 고층 빌딩 10층이라서"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10246,11 +10246,11 @@
     "question": "세상에서 가장 깊은 바다인 마리아나 해구 바닥에 가라앉은 유리병 안에는 무엇이 들어 있을까요?",
     "options": [
       "초고압 해수",
-      "진공 상태의 공기",
       "바닷물",
+      "진공 상태의 공기",
       "깨진 유리 파편"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10264,11 +10264,11 @@
     "question": "자동차를 타고 터널에 진입할 때 전조등을 켜는 가장 주된 이유는 무엇일까요?",
     "options": [
       "내 앞길을 밝히기 위해서",
-      "상대방 차량에게 내 위치를 알리기 위해서",
       "배터리 방전을 막기 위해서",
+      "상대방 차량에게 내 위치를 알리기 위해서",
       "터널 내 센서를 작동시키기 위해서"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10283,10 +10283,10 @@
     "options": [
       "8번 레인이 훨씬 앞에서 출발한다",
       "1번 레인이 앞에서 출발한다",
-      "모든 레인의 출발선이 일직선으로 동일하다",
-      "지그재그로 배치된다"
+      "지그재그로 배치된다",
+      "모든 레인의 출발선이 일직선으로 동일하다"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10299,12 +10299,12 @@
     "id": "rid_988",
     "question": "어떤 사람이 100kg 무게의 쌀가마니를 번쩍 들어 올렸습니다. 그런데 10g짜리 깃털 하나를 손바닥 위에 올려놓고 1시간 동안 버티지 못했습니다. 왜일까요?",
     "options": [
-      "깃털 알레르기가 있어서",
       "팔에 근육 피로(젖산)가 누적되어 저리기 때문에",
+      "깃털 알레르기가 있어서",
       "바람에 깃털이 날아가서",
       "깃털의 정전기 때문에"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10355,10 +10355,10 @@
     "options": [
       "100번",
       "90번",
-      "45번",
-      "10번"
+      "10번",
+      "45번"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10371,12 +10371,12 @@
     "id": "rid_992",
     "question": "시계의 시침과 분침이 정확히 포개어지는(겹치는) 현상은 낮 12시부터 밤 12시 전까지 총 몇 번 일어날까요?",
     "options": [
-      "12번",
       "11번",
+      "12번",
       "10번",
       "24번"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10390,11 +10390,11 @@
     "question": "한 남자가 눈보라가 치는 설산에서 길을 잃었습니다. 손에 스마트폰이 있었지만 119에 구조 요청 전화를 걸지 못한 이유는?",
     "options": [
       "배터리가 방전되어서",
-      "장갑을 끼고 있어서 터치가 안 돼서",
       "기지국 전파가 닿지 않는 통신 음영 지역이라서",
+      "장갑을 끼고 있어서 터치가 안 돼서",
       "긴급 통화 비밀번호를 잊어버려서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10408,11 +10408,11 @@
     "question": "가로 10m, 세로 10m의 방 안 구석에 줄로 묶인 강아지가 있습니다. 줄의 길이가 5m라면 강아지가 자유롭게 돌아다닐 수 있는 영역의 모양은?",
     "options": [
       "원형",
-      "부채꼴 (원형의 4분의 1)",
       "정사각형",
+      "부채꼴 (원형의 4분의 1)",
       "반원형"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10427,10 +10427,10 @@
     "options": [
       "무조건 짝수",
       "무조건 홀수",
-      "짝수일 수도 있고 홀수일 수도 있다",
-      "알 수 없다"
+      "알 수 없다",
+      "짝수일 수도 있고 홀수일 수도 있다"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10443,12 +10443,12 @@
     "id": "rid_996",
     "question": "바다 위를 항해하던 유람선이 암초에 부딪혀 침몰하기 시작했습니다. 구명조끼를 입은 승객들이 바다로 뛰어들었는데, 몇몇 승객이 가라앉은 이유는?",
     "options": [
-      "구명조끼 대신 납 조끼를 입어서",
       "무거운 금괴 가방을 품에 꼭 안고 있어서",
+      "구명조끼 대신 납 조끼를 입어서",
       "바닷물의 비중이 민물보다 낮아서",
       "조끼 끈을 조이지 않아서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10479,12 +10479,12 @@
     "id": "rid_998",
     "question": "야구공과 테니스공 중 물에 뜨는 것은 어느 쪽일까요?",
     "options": [
-      "속이 빈 고무 재질의 공",
-      "야구공",
       "둘 다 뜬다",
+      "야구공",
+      "속이 빈 고무 재질의 공",
       "둘 다 가라앉는다"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10498,11 +10498,11 @@
     "question": "1부터 50까지 적힌 번호표가 상자 안에 있습니다. 소수가 적힌 번호표를 뽑을 확률과, 소수가 아닌 나머지 수가 적힌 번호표를 뽑을 확률 중 어느 쪽이 더 높을까요?",
     "options": [
       "소수",
-      "합성수(1 제외)",
+      "알 수 없다",
       "반반(50%)으로 같다",
-      "알 수 없다"
+      "합성수(1 제외)"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10515,12 +10515,12 @@
     "id": "rid_1000",
     "question": "두 대의 승용차가 터널 안에서 마주 보고 시속 60km로 달렸습니다. 터널 안은 일방통행 1차로였는데 두 차는 충돌하지 않았습니다. 왜일까요?",
     "options": [
-      "한 차가 후진으로 달려서",
+      "사실 두 차가 같은 방향으로 주행 중이라서",
       "두 차가 서로 반대편 입구에서 들어와 멈췄기 때문에",
       "한 차는 견인차에 매달려 끌려가고 있어서",
-      "사실 두 차가 같은 방향으로 주행 중이라서"
+      "한 차가 후진으로 달려서"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10533,12 +10533,12 @@
     "id": "rid_1001",
     "question": "맑은 대낮에 횡단보도를 건너던 사람이 신호등이 초록불인데도 건너지 않고 멈춰 섰습니다. 왜 그랬을까요?",
     "options": [
-      "차량용 신호등이 초록불이라서",
       "신호등 전구가 고장 나서",
+      "차량용 신호등이 초록불이라서",
       "스마트폰을 보느라 멍때려서",
       "다리에 갑자기 쥐가 나서"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10552,11 +10552,11 @@
     "question": "한 여성이 엘리베이터를 타고 15층에서 1층으로 내려가려는데, 버튼에 '1'이 없었습니다. 어떻게 1층으로 갈 수 있었을까요?",
     "options": [
       "비상벨을 누르고 구조를 요청했다",
-      "'G' 또는 'L' 버튼을 눌렀다",
       "계단으로 걸어 내려갔다",
+      "'G' 또는 'L' 버튼을 눌렀다",
       "관리실에 전화했다"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10571,10 +10571,10 @@
     "options": [
       "더 무거운 야구공",
       "부피가 더 큰 축구공",
-      "둘 다 동시에 떨어진다",
-      "튀어 오르는 축구공"
+      "튀어 오르는 축구공",
+      "둘 다 동시에 떨어진다"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10606,11 +10606,11 @@
     "question": "어두운 밤길을 달리던 자동차의 헤드라이트 두 개가 모두 꺼져 있었습니다. 그런데도 길 한가운데 서 있던 검은 옷의 보행자를 치지 않고 정확히 멈춰 섰습니다. 운전자는 어떻게 보행자를 보았을까요?",
     "options": [
       "야간 투시 고글을 쓰고 있어서",
-      "보행자가 야광 조끼를 입고 있어서",
       "가로등 불빛이 길을 환하게 비추고 있어서",
+      "보행자가 야광 조끼를 입고 있어서",
       "보행자가 스마트폰 불빛을 흔들어서"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10624,11 +10624,11 @@
     "question": "무게가 정확히 1kg인 쇠구슬과 1kg인 솜뭉치가 있습니다. 일반 공기 중에서 양팔 저울에 올리면 저울은 어느 쪽으로 기울까요?",
     "options": [
       "솜뭉치 쪽으로 기운다",
-      "쇠구슬 쪽으로 기운다",
       "둘 다 1kg이라 완벽히 수평을 이룬다",
+      "쇠구슬 쪽으로 기운다",
       "알 수 없다"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10642,11 +10642,11 @@
     "question": "거울 속에 비친 내 얼굴을 바라보며 윙크를 했습니다. 거울 속 나는 어느 쪽 눈을 감았을까요?",
     "options": [
       "나와 반대쪽 눈",
-      "나와 똑같은 쪽 눈",
+      "눈을 감지 않았다",
       "양쪽 눈을 모두 감았다",
-      "눈을 감지 않았다"
+      "나와 똑같은 쪽 눈"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10659,12 +10659,12 @@
     "id": "rid_1008",
     "question": "한 도둑이 보석상 쇼윈도 유리를 깨고 다이아몬드를 훔치려 했습니다. 그런데 쇠망치로 유리를 세게 내리쳤는데도 유리가 금 하나 가지 않았습니다. 왜일까요?",
     "options": [
-      "특수 방탄유리라서",
       "쇼윈도 유리가 열려 있어서 빈 곳을 쳐서",
+      "특수 방탄유리라서",
       "망치가 고무 재질이라서",
       "허공에 헛스윙을 해서"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10696,11 +10696,11 @@
     "question": "한 방에 세 사람이 앉아 이야기를 나누고 있습니다. 그런데 밖에서 문을 열고 들어온 사람은 \"방에 두 사람밖에 없네?\"라고 말했습니다. 어떻게 된 일일까요?",
     "options": [
       "한 사람이 옷장에 숨어 있어서",
-      "한 사람이 갓난아기(신생아)라서",
       "한 사람이 투명인간이라서",
+      "한 사람이 갓난아기(신생아)라서",
       "한 사람이 거울에 비친 그림자라서"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10713,12 +10713,12 @@
     "id": "rid_1011",
     "question": "자동차를 타고 비포장 자갈길을 달릴 때 창문을 모두 닫아도 차 안으로 흙먼지가 조금씩 들어오는 이유는?",
     "options": [
-      "차체 하부 환기구(에어 벤트)를 통해 유입되어서",
+      "에어컨 필터가 찢어져서",
       "유리창 틈새 고무패킹이 없어서",
       "운전자의 신발에 묻은 흙이 날려서",
-      "에어컨 필터가 찢어져서"
+      "차체 하부 환기구(에어 벤트)를 통해 유입되어서"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10731,12 +10731,12 @@
     "id": "rid_1012",
     "question": "사냥꾼이 호랑이를 발견하고 방아쇠를 당겼습니다. 총알은 호랑이의 미간을 정확히 꿰뚫었는데 호랑이는 피 한 방울 흘리지 않고 멀쩡했습니다. 왜일까요?",
     "options": [
-      "방탄 조끼를 입은 호랑이라서",
+      "사진기(카메라) 셔터를 당겨서",
       "박제된 모형 호랑이라서",
       "총알이 마취총이라서",
-      "사진기(카메라) 셔터를 당겨서"
+      "방탄 조끼를 입은 호랑이라서"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10786,11 +10786,11 @@
     "question": "얼음이 가득 찬 아이스박스에 캔 음료수를 넣고 10분이 지났습니다. 음료수가 가장 빨리 시원해지게 만드는 방법은?",
     "options": [
       "아이스박스를 담요로 덮는다",
-      "얼음에 소금을 듬뿍 뿌리고 물을 붓는다",
+      "드라이아이스를 옆에 둔다",
       "캔을 거꾸로 뒤집어 놓는다",
-      "드라이아이스를 옆에 둔다"
+      "얼음에 소금을 듬뿍 뿌리고 물을 붓는다"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10821,12 +10821,12 @@
     "id": "rid_1017",
     "question": "손목시계의 초침이 1초에 한 번씩 끊어져 움직이는 방식(쿼츠)과 부드럽게 흘러가듯 움직이는 방식(기계식) 중 배터리를 사용하는 시계는?",
     "options": [
-      "대부분 끊어져 움직이는 쿼츠 시계",
       "부드럽게 흐르는 기계식 시계",
+      "대부분 끊어져 움직이는 쿼츠 시계",
       "둘 다 배터리를 쓴다",
       "둘 다 태엽으로 간다"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10839,12 +10839,12 @@
     "id": "rid_1018",
     "question": "자전거를 타고 가파른 내리막길을 내려갈 때 앞 브레이크만 세게 꽉 잡으면 어떻게 될까요?",
     "options": [
-      "뒷바퀴가 들리며 앞으로 전복된다 (잭나이프)",
-      "자전거가 제자리에 즉시 멈춘다",
       "타이어가 미끄러지며 옆으로 넘어진다",
+      "자전거가 제자리에 즉시 멈춘다",
+      "뒷바퀴가 들리며 앞으로 전복된다 (잭나이프)",
       "체인이 벗겨진다"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10857,12 +10857,12 @@
     "id": "rid_1019",
     "question": "바다 한가운데서 비가 내리면 바닷물의 표면 염분 농도는 어떻게 변할까요?",
     "options": [
-      "순간적으로 염분이 낮아진다 (담수 유입)",
+      "거품이 일어 하얗게 변한다",
       "바닷물이 비를 흡수해 더 짜진다",
       "해류 때문에 전혀 변하지 않는다",
-      "거품이 일어 하얗게 변한다"
+      "순간적으로 염분이 낮아진다 (담수 유입)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10912,11 +10912,11 @@
     "question": "비행기가 높은 고도로 올라갈수록 과자 봉지가 빵빵하게 부풀어 오르는 과학적 이유는?",
     "options": [
       "기내 온도가 급격히 올라가서",
-      "외부 기압이 낮아져 내부 공기가 팽창해서",
       "과자 속 질소가 화학 반응을 일으켜서",
+      "외부 기압이 낮아져 내부 공기가 팽창해서",
       "비행기 엔진의 진동 때문에"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10929,12 +10929,12 @@
     "id": "rid_1023",
     "question": "물이 든 유리컵의 가장자리를 젖은 손가락으로 둥글게 문지르면 맑은 공명음 소리가 나는 원리는?",
     "options": [
-      "손가락 지문의 마찰로 인한 유리잔의 미세 진동",
+      "공기가 컵 안에서 회오리쳐서",
       "물이 손가락 체온에 의해 끓어서",
       "손가락 끝의 정전기 방전 현상",
-      "공기가 컵 안에서 회오리쳐서"
+      "손가락 지문의 마찰로 인한 유리잔의 미세 진동"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10947,12 +10947,12 @@
     "id": "rid_1024",
     "question": "아주 깜깜한 방에서 형광등 스위치를 켰을 때 방 전체가 밝아지는 데 걸리는 시간은 대략 얼마일까요?",
     "options": [
-      "1초",
       "즉시 (빛의 속도)",
+      "1초",
       "0.5초",
       "5초"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10965,12 +10965,12 @@
     "id": "rid_1025",
     "question": "100층 높이의 초고층 빌딩 옥상에 올라갔을 때 지상 1층보다 시간이 아주 미세하게 더 빨리 흐르는 상대성 이론의 이유는?",
     "options": [
-      "지구 중심에서 멀어져 중력이 더 약해지므로",
       "바람이 더 세게 불어 시계가 빨라지므로",
+      "지구 중심에서 멀어져 중력이 더 약해지므로",
       "기온이 낮아 원자 진동이 빨라져서",
       "공기 저항이 줄어들어서"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",

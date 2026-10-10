@@ -21,11 +21,11 @@
     "question": "What burns itself to brighten the darkest corner?",
     "options": [
       "Mirror",
-      "Glass",
+      "Candle",
       "Jar",
-      "Candle"
+      "Glass"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -38,12 +38,12 @@
   {
     "question": "What dark companion grows darker and clearer as the light gets stronger, and only disappears from under your feet when the light is fully gone?",
     "options": [
-      "Shadow",
-      "Mirror",
       "Footprint",
+      "Mirror",
+      "Shadow",
       "Dust"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -57,11 +57,11 @@
     "question": "On a rainy day, what protects the feet an umbrella cannot cover?",
     "options": [
       "Raincoat",
-      "Rain boots",
+      "Awning",
       "Tarp",
-      "Awning"
+      "Rain boots"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -92,12 +92,12 @@
   {
     "question": "What spreads thin paper wings over green bamboo ribs, soaring into high skies on the wind until a broken line carries it far away?",
     "options": [
-      "Kite",
       "Fan",
+      "Kite",
       "Sky Lantern",
       "Pinwheel"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -146,12 +146,12 @@
   {
     "question": "What white food made of rice takes the highest place on the New Year's table?",
     "options": [
-      "Steamed rice",
+      "Rice cake",
       "Fruit",
       "Noodles",
-      "Rice cake"
+      "Steamed rice"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -164,12 +164,12 @@
   {
     "question": "What wears away leaving white shavings behind each time it rubs away someone else's errors and mistakes?",
     "options": [
-      "Eraser",
       "Soap",
+      "Eraser",
       "Rag",
       "Chalk"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -182,12 +182,12 @@
   {
     "question": "What hangs peacefully on the wall reflecting the world, but the moment it shatters on the floor, glares at its owner with hundreds of shards?",
     "options": [
-      "Mirror",
-      "Window",
       "Fishbowl",
+      "Window",
+      "Mirror",
       "Clock"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -200,12 +200,12 @@
   {
     "question": "What school tool is born long and sleek, but pours out its owner's thoughts in graphite dust, shrinking shorter until it becomes a tiny stub?",
     "options": [
-      "Pencil",
+      "Glue",
       "Eraser",
       "Ruler",
-      "Glue"
+      "Pencil"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -218,12 +218,12 @@
   {
     "question": "Which guardian of the woods sleeps by day and sees sharply by night?",
     "options": [
-      "Deer",
       "Owl",
+      "Deer",
       "Rabbit",
       "Squirrel"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -236,12 +236,12 @@
   {
     "question": "A square stone vessel that grinds black ink to help you write. What is it?",
     "options": [
-      "Inkstone",
       "Water dropper",
+      "Inkstone",
       "Pencil case",
       "Paperweight"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -254,12 +254,12 @@
   {
     "question": "What lights the way for ships in the middle of the sea?",
     "options": [
-      "Lighthouse",
-      "Moon",
       "Lightning",
+      "Moon",
+      "Lighthouse",
       "Star"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -272,12 +272,12 @@
   {
     "question": "What is the goblin's favorite weapon that grants wishes with a swing?",
     "options": [
-      "Club",
+      "Bow",
       "Spear",
       "Shield",
-      "Bow"
+      "Club"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -309,11 +309,11 @@
     "question": "Which flower turns its head all day to follow the sun?",
     "options": [
       "Hibiscus",
-      "Cosmos",
       "Sunflower",
+      "Cosmos",
       "Magnolia"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -366,12 +366,12 @@
     "reward_keys": 1,
     "question": "It wraps your neck warmly, but the moment you step indoors it works up a sweat all by itself and squeezes stuffily. What winter item is it?",
     "options": [
-      "Mask",
       "Scarf",
+      "Mask",
       "Gloves",
       "Earmuffs"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Correct! The moment you board the bus or train, it turns into a sauna and makes sweat drip!",
       "wrong": "Nope! It wraps your neck when chilly, but turns suffocating when indoors."
@@ -398,12 +398,12 @@
   {
     "question": "What blue flame blinks alone in the mountains and loves to spook travelers?",
     "options": [
-      "Will-o'-the-wisp",
-      "Meteor",
       "Firefly",
+      "Meteor",
+      "Will-o'-the-wisp",
       "Torch"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -417,11 +417,11 @@
     "question": "What round red grain is scattered around the house on the winter solstice to drive away bad luck and evil spirits?",
     "options": [
       "Rice",
-      "Red bean (Adzuki)",
+      "Millet",
       "Barley",
-      "Millet"
+      "Red bean (Adzuki)"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -434,12 +434,12 @@
   {
     "question": "What long straw rope hangs on the gate to invite good fortune?",
     "options": [
-      "Straw shoe",
+      "Lucky straw rope",
       "Mat",
       "Rope",
-      "Lucky straw rope"
+      "Straw shoe"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -453,11 +453,11 @@
     "question": "Who stands unbowed even in a typhoon, thanks to deep roots — the general of the forest?",
     "options": [
       "Vine",
-      "Boulder",
+      "Tree",
       "Grass",
-      "Tree"
+      "Boulder"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -471,11 +471,11 @@
     "question": "What white grain is neither bitter nor sweet, yet every dish needs it?",
     "options": [
       "Pepper",
-      "Salt",
       "Sugar",
+      "Salt",
       "Vinegar"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -490,10 +490,10 @@
     "options": [
       "Meteor",
       "Polaris",
-      "Morning star",
-      "Big Dipper"
+      "Big Dipper",
+      "Morning star"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -506,12 +506,12 @@
   {
     "question": "What line where sky meets earth can you never reach?",
     "options": [
-      "Subway",
       "Horizon",
+      "Subway",
       "Border",
       "Rope"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -542,12 +542,12 @@
   {
     "question": "What plays the sun inside the house all winter long?",
     "options": [
-      "Stove",
-      "Hand fan",
       "Fan",
+      "Hand fan",
+      "Stove",
       "Window"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -562,10 +562,10 @@
     "options": [
       "Handle",
       "Fence",
-      "Threshold",
-      "Stairs"
+      "Stairs",
+      "Threshold"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -596,12 +596,12 @@
   {
     "question": "Placed one by one across a river to be your footholds — what is this stony path?",
     "options": [
-      "Stepping stones",
       "Stairs",
+      "Stepping stones",
       "Raft",
       "Buoy"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -614,12 +614,12 @@
   {
     "question": "Washed and tumbled in the stream for ages until perfectly smooth — what is the quiet little stone on the riverbank?",
     "options": [
-      "Pebble",
-      "Sand",
       "Moss",
+      "Sand",
+      "Pebble",
       "Reed"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -650,12 +650,12 @@
   {
     "question": "What friend on the roof tells you the house is alive by its smoke?",
     "options": [
-      "Chime",
+      "Chimney",
       "Cherry",
       "Flagpole",
-      "Chimney"
+      "Chime"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -669,11 +669,11 @@
     "question": "What falls in autumn yet becomes food for the tree in spring?",
     "options": [
       "Branch",
-      "Pollen",
       "Fallen leaf",
+      "Pollen",
       "Fruit"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -687,11 +687,11 @@
     "question": "What lights up the whole world yet leaves its own feet dark?",
     "options": [
       "Torch",
-      "Lamp",
       "Star",
+      "Lamp",
       "Moon"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -704,12 +704,12 @@
   {
     "question": "What spins round and round on the wind — a child's sky-riding friend?",
     "options": [
-      "Pinwheel",
+      "Balloon",
       "Paper plane",
       "Kite",
-      "Balloon"
+      "Pinwheel"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -722,12 +722,12 @@
   {
     "question": "Which mythical beast guards the gate by devouring evil spirits?",
     "options": [
-      "Deer",
-      "Tiger",
       "Haetae",
+      "Tiger",
+      "Deer",
       "Rabbit"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -741,11 +741,11 @@
     "question": "What pattern of blue and red circling in harmony decorates flags and robes?",
     "options": [
       "Rainbow",
-      "Floral",
+      "Taegeuk",
       "Five colors",
-      "Taegeuk"
+      "Floral"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -759,11 +759,11 @@
     "question": "What ribbon hangs long from a hanbok collar, completing its grace?",
     "options": [
       "Button",
-      "Goreum",
       "Cord",
+      "Goreum",
       "Zipper"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -777,11 +777,11 @@
     "question": "What bamboo instrument sings with a breath of sadness?",
     "options": [
       "Gong",
-      "Daegeum flute",
+      "Drum",
       "Janggu",
-      "Drum"
+      "Daegeum flute"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -794,12 +794,12 @@
   {
     "question": "What grows louder the more it is struck — the wide-hearted heart of music?",
     "options": [
-      "Trumpet",
-      "Bell",
       "Drum",
+      "Bell",
+      "Trumpet",
       "Flute"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -813,11 +813,11 @@
     "question": "What great voice rings when struck and falls silent after — the temple's bell?",
     "options": [
       "Drum",
-      "Trumpet",
       "Bell",
+      "Trumpet",
       "Gong"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -830,12 +830,12 @@
   {
     "question": "Which mountain sleeps quietly most of the time, but spews fiery lava and red-hot ash high into the sky when it erupts?",
     "options": [
-      "Volcano",
-      "Iceberg",
       "Sand dune",
+      "Iceberg",
+      "Volcano",
       "Waterfall"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -849,11 +849,11 @@
     "question": "What highest title does the goblin grant the hero who gathers 99 golden keys?",
     "options": [
       "Key master",
-      "Goblin Master",
+      "Gold captain",
       "Treasure hunter",
-      "Gold captain"
+      "Goblin Master"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -884,12 +884,12 @@
   {
     "question": "What hides by day and, when night falls, studs the black sky like jewels?",
     "options": [
-      "Stars",
       "A lighthouse",
+      "Stars",
       "Fireflies",
       "A moon halo"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -902,12 +902,12 @@
   {
     "question": "What wears a little red head and burns its whole body to drive away the dark?",
     "options": [
-      "A match",
-      "A maple leaf",
       "A chili pepper",
+      "A maple leaf",
+      "A match",
       "A garden balsam"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -921,11 +921,11 @@
     "question": "What flower usually stays folded neatly, but blooms wide overhead only when tears pour down from the sky?",
     "options": [
       "Boots",
-      "Umbrella",
+      "Fan",
       "Raincoat",
-      "Fan"
+      "Umbrella"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -956,12 +956,12 @@
   {
     "question": "What descends from the sky soft as a feather, yet melts into clear tears the moment it lands on a warm palm?",
     "options": [
-      "Snowflake",
       "Hail",
+      "Snowflake",
       "Dew",
       "Frost"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -974,12 +974,12 @@
   {
     "question": "Who is the hero of a lifetime that crawls on four legs in the morning, walks on two legs at noon, and walks on three legs in the evening?",
     "options": [
-      "Human",
-      "Tiger",
       "Monkey",
+      "Tiger",
+      "Human",
       "Crane"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -992,12 +992,12 @@
   {
     "question": "What stone pillar stands forever in one place, showing the way to passing travelers?",
     "options": [
-      "A jangseung (village signpost)",
+      "A monument",
       "A sotdae pole",
       "A stone tower",
-      "A monument"
+      "A jangseung (village signpost)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1028,12 +1028,12 @@
   {
     "question": "What traditional toy flutters its feathered skirt in mid-air, dancing lightly with every kick?",
     "options": [
-      "A jegi",
       "A spinning top",
+      "A jegi",
       "A kite",
       "A hoop"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1046,12 +1046,12 @@
   {
     "question": "What rides the wind high into the sky, yet is always tethered by one slender string?",
     "options": [
-      "A bangpaeyeon (shield kite)",
-      "A balloon",
       "A birdcage",
+      "A balloon",
+      "A bangpaeyeon (shield kite)",
       "A swing"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1064,12 +1064,12 @@
   {
     "question": "What little top on the ice spins all the merrier the more you whip it?",
     "options": [
-      "A wooden top",
+      "A millstone",
       "A wheel",
       "A marble",
-      "A millstone"
+      "A wooden top"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1100,12 +1100,12 @@
   {
     "question": "It beats without rest but never rests itself — what clock is in your chest?",
     "options": [
-      "Heart",
       "Lungs",
+      "Heart",
       "Brain",
       "Eye"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1123,11 +1123,11 @@
     "question": "Worn neatly on your wrist, but every time you roll up your sleeves its steel links snag shirt buttons and tear threads. What is it?",
     "options": [
       "Leather watch strap",
-      "Metal watch band",
       "Smart ring",
+      "Metal watch band",
       "Silicone band"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Snag! That agonizing sound of knit stitches unraveling on cold steel links!",
       "wrong": "Nope! It is the metallic link band that constantly catches on delicate fabric."
@@ -1136,12 +1136,12 @@
   {
     "question": "The more you give, the bigger it grows; the more you share, the deeper it becomes?",
     "options": [
-      "Love",
+      "Sorrow",
       "Hatred",
       "Greed",
-      "Sorrow"
+      "Love"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1172,12 +1172,12 @@
   {
     "question": "What remains hidden all through clear days, but arches a seven-colored bridge high across the sky when gloomy rain stops and sunshine breaks through?",
     "options": [
-      "Rainbow",
       "Aurora",
+      "Rainbow",
       "Milky Way",
       "Sunset Glow"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1190,12 +1190,12 @@
   {
     "question": "What flower of wisdom rises from the mud yet blooms unstained and pristine?",
     "options": [
-      "The lotus",
-      "The chrysanthemum",
       "The plum blossom",
+      "The chrysanthemum",
+      "The lotus",
       "The daffodil"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1208,12 +1208,12 @@
   {
     "question": "What tree of constancy keeps its green needles even through the winter blizzard?",
     "options": [
-      "The pine",
+      "The ginkgo",
       "The willow",
       "The maple",
-      "The ginkgo"
+      "The pine"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1244,12 +1244,12 @@
   {
     "question": "What symbol of integrity grows hollow yet straight, firm and true at every joint?",
     "options": [
-      "Bamboo",
       "Reeds",
+      "Bamboo",
       "Sorghum",
       "Silver grass"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1262,12 +1262,12 @@
   {
     "question": "What mysterious key opens the goblin's treasure house and unlocks the true wisdom of life?",
     "options": [
-      "The goblin golden key (DOK-KEY)",
-      "An iron key",
       "A stone axe",
+      "An iron key",
+      "The goblin golden key (DOK-KEY)",
       "A treasure map"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1280,12 +1280,12 @@
   {
     "question": "Woven overnight by an eight-legged friend, glinting with dew — what net is it?",
     "options": [
-      "Spider web",
+      "Laundry net",
       "Skimmer",
       "Butterfly net",
-      "Laundry net"
+      "Spider web"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1298,12 +1298,12 @@
   {
     "question": "Wherever you go it points the same way — a lost traveler's friend?",
     "options": [
-      "Map",
       "Compass",
+      "Map",
       "Watch",
       "Telescope"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1334,12 +1334,12 @@
   {
     "question": "What kitchen tool is fed a mouthful of delicious food every day, yet can never swallow and must give it all back?",
     "options": [
-      "Spoon",
-      "Pot",
       "Cutting Board",
+      "Pot",
+      "Spoon",
       "Dishcloth"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -1352,12 +1352,12 @@
   {
     "question": "What loses its tail as it moves forward, regains its tail as it backs away, and mends torn seams?",
     "options": [
-      "Needle and Thread",
+      "Safety Pin",
       "Scissors",
       "Thimble",
-      "Safety Pin"
+      "Needle and Thread"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "daily",
@@ -1388,12 +1388,12 @@
   {
     "question": "Twice a day it cleans your mouth — the tool of a tiny foam fairy?",
     "options": [
-      "Toothbrush",
       "Soap",
+      "Toothbrush",
       "Towel",
       "Cup"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1406,12 +1406,12 @@
   {
     "question": "What starts as a block resembling a slab of ice, but blooms into fragrant lather every time hands meet it, shrinking away until gone?",
     "options": [
-      "Soap",
-      "Sponge",
       "Shampoo",
+      "Sponge",
+      "Soap",
       "Toothpaste"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -1424,12 +1424,12 @@
   {
     "question": "Worn on each foot to wrap your toes, what clothing item must always come in a matching pair?",
     "options": [
-      "Socks",
+      "Scarf",
       "Gloves",
       "Hat",
-      "Scarf"
+      "Socks"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1461,11 +1461,11 @@
     "question": "It sits on your head and blocks the sunlight — what is it?",
     "options": [
       "Glasses",
-      "Umbrella",
       "Hat",
+      "Umbrella",
       "Shoes"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1478,12 +1478,12 @@
   {
     "question": "With every breath of the sea it rolls in and fades away?",
     "options": [
-      "Wave",
-      "Tide",
       "Foam",
+      "Tide",
+      "Wave",
       "Sand"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1496,12 +1496,12 @@
   {
     "question": "What forms a crystal bead like a jewel on grass tips when touched by morning sunlight, then vanishes without a sound as the sun climbs high?",
     "options": [
-      "Dew",
+      "Hail",
       "Frost",
       "Sleet",
-      "Hail"
+      "Dew"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1550,12 +1550,12 @@
   {
     "question": "Long nose and big ears it flaps like a fan — the huge animal?",
     "options": [
-      "Elephant",
-      "Rhino",
       "Hippo",
+      "Rhino",
+      "Elephant",
       "Giraffe"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1569,11 +1569,11 @@
     "question": "With three eyes of red, yellow, and green, it tells the road what to do?",
     "options": [
       "Street lamp",
-      "Traffic light",
+      "Sign",
       "Utility pole",
-      "Sign"
+      "Traffic light"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1586,12 +1586,12 @@
   {
     "question": "Two wheels and pedals — what vehicle do you push to move?",
     "options": [
-      "Motorcycle",
-      "Car",
       "Bicycle",
+      "Car",
+      "Motorcycle",
       "Bus"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1604,12 +1604,12 @@
   {
     "question": "Drop a letter in and it runs far away for you — what is this red square box?",
     "options": [
-      "Mailbox",
       "Dresser",
+      "Mailbox",
       "Safe",
       "Bookshelf"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1641,11 +1641,11 @@
     "question": "When one side goes down, the other goes up — the two-person ride?",
     "options": [
       "Swing",
-      "Seesaw",
+      "Slide",
       "Merry-go-round",
-      "Slide"
+      "Seesaw"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1695,11 +1695,11 @@
     "question": "After the flash, a rumble follows late — what sound?",
     "options": [
       "Lightning",
-      "Thunder",
       "Wind",
+      "Thunder",
       "Echo"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1712,12 +1712,12 @@
   {
     "question": "A white curtain settling over the ground that blurs everything ahead. What is it?",
     "options": [
-      "Fog",
+      "Frost",
       "Cloud",
       "Dust",
-      "Frost"
+      "Fog"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1730,12 +1730,12 @@
   {
     "question": "It spreads pretty, colorful wings like petals and flutters between the flowers. What is it?",
     "options": [
-      "Bee",
       "Butterfly",
+      "Bee",
       "Dragonfly",
       "Bird"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1749,11 +1749,11 @@
     "question": "It cannot fly but swims well in Antarctica — the bird in a tuxedo?",
     "options": [
       "Ostrich",
-      "Seagull",
       "Penguin",
+      "Seagull",
       "Duck"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1767,11 +1767,11 @@
     "question": "A place where you keep quiet but thousands of books live — the quiet house?",
     "options": [
       "Bookstore",
-      "Library",
       "Museum",
+      "Library",
       "School"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1785,11 +1785,11 @@
     "question": "Salted cabbage seasoned for winter — the spicy side dish?",
     "options": [
       "Pickled vegetables",
-      "Kimchi",
+      "Salad",
       "Pickle",
-      "Salad"
+      "Kimchi"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1821,11 +1821,11 @@
     "question": "Keeping it builds trust, breaking it brings disappointment — what promise?",
     "options": [
       "Lie",
-      "Secret",
       "Promise",
+      "Secret",
       "Greeting"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1840,10 +1840,10 @@
     "options": [
       "Ox",
       "Tiger",
-      "Rabbit",
-      "Rat"
+      "Rat",
+      "Rabbit"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -1874,12 +1874,12 @@
   {
     "question": "In Greek myth, who rules the sea?",
     "options": [
-      "Zeus",
+      "Poseidon",
       "Ares",
       "Apollo",
-      "Poseidon"
+      "Zeus"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1893,11 +1893,11 @@
     "question": "In Greek myth, which goddess symbolizes wisdom and war?",
     "options": [
       "Hera",
-      "Aphrodite",
+      "Athena",
       "Artemis",
-      "Athena"
+      "Aphrodite"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1912,10 +1912,10 @@
     "options": [
       "Freya",
       "Loki",
-      "Valkyrie",
-      "Thor"
+      "Thor",
+      "Valkyrie"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1926,7 +1926,7 @@
     "id": "rid_111"
   },
   {
-    "question": "In Greek myth, who rules the underworld?",
+    "question": "In Greek myth, which king rules the land of the dead and commands Cerberus?",
     "options": [
       "Zeus",
       "Hermes",
@@ -1946,12 +1946,12 @@
   {
     "question": "In Indian myth, who has an elephant head and grants wisdom and fortune?",
     "options": [
-      "Vishnu",
+      "Ganesha",
       "Indra",
       "Ra",
-      "Ganesha"
+      "Vishnu"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1965,11 +1965,11 @@
     "question": "In Egyptian myth, who has a jackal head and rules death and mummies?",
     "options": [
       "Osiris",
-      "Ra",
+      "Anubis",
       "Bastet",
-      "Anubis"
+      "Ra"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1984,10 +1984,10 @@
     "options": [
       "Monkey",
       "Sheep",
-      "Horse",
-      "Rooster"
+      "Rooster",
+      "Horse"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2018,12 +2018,12 @@
   {
     "question": "Which fairy-tale girl left a glass slipper and fled at midnight?",
     "options": [
-      "Snow White",
+      "Cinderella",
       "The Little Mermaid",
       "Rapunzel",
-      "Cinderella"
+      "Snow White"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2037,11 +2037,11 @@
     "question": "Which princess fell into a deep sleep after eating a poisoned apple?",
     "options": [
       "Cinderella",
-      "The Little Mermaid",
+      "Snow White",
       "Rapunzel",
-      "Snow White"
+      "The Little Mermaid"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2056,10 +2056,10 @@
     "options": [
       "Peter Pan",
       "Hansel",
-      "Alice",
-      "Pinocchio"
+      "Pinocchio",
+      "Alice"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2090,12 +2090,12 @@
   {
     "question": "Which sibling tale features a witch in a candy house?",
     "options": [
-      "Little Red Riding Hood",
+      "Hansel and Gretel",
       "Pinocchio",
       "Jack and the Beanstalk",
-      "Hansel and Gretel"
+      "Little Red Riding Hood"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2109,11 +2109,11 @@
     "question": "Which insect sang all summer and starved in winter, paired with the ant?",
     "options": [
       "Cicada",
-      "Cricket",
+      "Katydid",
       "Butterfly",
-      "Katydid"
+      "Cricket"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2128,10 +2128,10 @@
     "options": [
       "Snow White",
       "Cinderella",
-      "Rapunzel",
-      "The Little Mermaid"
+      "The Little Mermaid",
+      "Rapunzel"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2162,12 +2162,12 @@
   {
     "question": "Which woman opened a box holding all disasters out of curiosity?",
     "options": [
-      "Athena",
+      "Pandora",
       "Helen",
       "Medusa",
-      "Pandora"
+      "Athena"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2181,11 +2181,11 @@
     "question": "Which second zodiac animal lows while plowing the field?",
     "options": [
       "Horse",
-      "Sheep",
+      "Ox",
       "Goat",
-      "Ox"
+      "Sheep"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2200,10 +2200,10 @@
     "options": [
       "Lion",
       "Leopard",
-      "Bear",
-      "Tiger"
+      "Tiger",
+      "Bear"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2234,12 +2234,12 @@
   {
     "question": "Which zodiac animal glides along without legs?",
     "options": [
-      "Earthworm",
+      "Snake",
       "Lizard",
       "Crocodile",
-      "Snake"
+      "Earthworm"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2253,11 +2253,11 @@
     "question": "Among the 12 Zodiac animals, who is the 7th animal galloping across the plains with a flying mane?",
     "options": [
       "Donkey",
-      "Mule",
+      "Horse",
       "Zebra",
-      "Horse"
+      "Mule"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2272,10 +2272,10 @@
     "options": [
       "Goat",
       "Ox",
-      "Deer",
-      "Sheep"
+      "Sheep",
+      "Deer"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2306,12 +2306,12 @@
   {
     "question": "Symbolizing abundance and fortune, who is the 12th and final animal of the Asian Zodiac?",
     "options": [
-      "Wild boar",
+      "Pig",
       "Elephant",
       "Hippo",
-      "Pig"
+      "Wild boar"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2325,11 +2325,11 @@
     "question": "Which Eastern mythical beast appears when a wise sage is born?",
     "options": [
       "Unicorn",
-      "Phoenix",
+      "Qilin",
       "Dragon",
-      "Qilin"
+      "Phoenix"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2340,14 +2340,14 @@
     "id": "rid_136"
   },
   {
-    "question": "In Eastern thought, among the four guardian beasts, which guards the south as a red fire-bird?",
+    "question": "Which guardian beast of the south, a red fire-bird, symbolizes summer and flame?",
     "options": [
       "Phoenix",
       "Three-legged Crow",
-      "Blue Dragon",
-      "Vermilion Bird"
+      "Vermilion Bird",
+      "Blue Dragon"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2358,7 +2358,7 @@
     "id": "rid_137"
   },
   {
-    "question": "In Eastern thought, among the four guardian beasts, which guards the north, a turtle joined with a snake?",
+    "question": "Which guardian beast of the north, a turtle joined with a snake, symbolizes winter and water?",
     "options": [
       "Blue Dragon",
       "White Tiger",
@@ -2378,12 +2378,12 @@
   {
     "question": "Which white-deer beast symbolizes long life and peace in the East?",
     "options": [
-      "White Horse",
+      "White Deer",
       "Sheep",
       "Qilin",
-      "White Deer"
+      "White Horse"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2397,11 +2397,11 @@
     "question": "Which mythical bird perches on the paulownia and heralds peace?",
     "options": [
       "Vermilion Bird",
-      "Peacock",
+      "Phoenix",
       "Crane",
-      "Phoenix"
+      "Peacock"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2414,12 +2414,12 @@
   {
     "question": "In Eastern legend, a sacred black bird with three legs that lives in the sun. What is it?",
     "options": [
-      "Samjogo (three-legged crow)",
-      "Crow",
       "Swallow",
+      "Crow",
+      "Samjogo (three-legged crow)",
       "Crane"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2450,12 +2450,12 @@
   {
     "question": "Which Western mythical animal has a single horn on its forehead?",
     "options": [
-      "Griffin",
+      "Unicorn",
       "Qilin",
       "Deer",
-      "Unicorn"
+      "Griffin"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2469,11 +2469,11 @@
     "question": "Which dog beast has three eyes?",
     "options": [
       "Haetae",
-      "White Tiger",
+      "Three-eyed Dog",
       "Nine-tailed Fox",
-      "Three-eyed Dog"
+      "White Tiger"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2488,10 +2488,10 @@
     "options": [
       "Anubis",
       "Amon",
-      "Bastet",
-      "Sobek"
+      "Sobek",
+      "Bastet"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2522,12 +2522,12 @@
   {
     "question": "Which sea beast combines a fish and a dragon?",
     "options": [
-      "Imugi",
+      "Fish-Dragon",
       "Leviathan",
       "Black Tortoise",
-      "Fish-Dragon"
+      "Imugi"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2541,11 +2541,11 @@
     "question": "Which Egyptian guardian has a lion body and a human head, posing riddles?",
     "options": [
       "Griffin",
-      "Nekomata",
+      "Sphinx",
       "Sobek",
-      "Sphinx"
+      "Nekomata"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2560,10 +2560,10 @@
     "options": [
       "Fish-Dragon",
       "Imugi",
-      "Kraken",
-      "Leviathan"
+      "Leviathan",
+      "Kraken"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2594,12 +2594,12 @@
   {
     "question": "Which three-legged toad beast is said to live on the moon?",
     "options": [
-      "Three-legged Crow",
+      "Three-legged Toad",
       "Frog",
       "Turtle",
-      "Three-legged Toad"
+      "Three-legged Crow"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2613,11 +2613,11 @@
     "question": "Which Western beast has an eagle head and a lion body?",
     "options": [
       "Unicorn",
-      "Sphinx",
+      "Griffin",
       "Phoenix",
-      "Griffin"
+      "Sphinx"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2630,12 +2630,12 @@
   {
     "question": "Among the four guardians of the directions, the white beast deity of the West. What is it?",
     "options": [
-      "White Tiger",
-      "Tiger",
       "Leopard",
+      "Tiger",
+      "White Tiger",
       "Haetae"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2666,12 +2666,12 @@
   {
     "question": "Which mountain god keeps a tiger and guards the mountain?",
     "options": [
-      "Dragon King",
+      "Mountain God",
       "House Guardian",
       "Grim Reaper",
-      "Mountain God"
+      "Dragon King"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2684,12 +2684,12 @@
   {
     "question": "In Greek myth, which ferryman carries the souls of the dead across the river to the underworld?",
     "options": [
-      "Charon",
       "Grim Reaper",
+      "Charon",
       "Hades",
       "Cupid"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2704,10 +2704,10 @@
     "options": [
       "King Yama",
       "Dragon King",
-      "Mountain God",
-      "Jade Emperor"
+      "Jade Emperor",
+      "Mountain God"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2738,12 +2738,12 @@
   {
     "question": "In Eastern legend, which giant grandmother goddess is said to have created the world?",
     "options": [
-      "Birth Goddess",
+      "Grandmother Mago",
       "Princess Bari",
       "Guanyin",
-      "Grandmother Mago"
+      "Birth Goddess"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2757,11 +2757,11 @@
     "question": "In Eastern legend, which devoted princess went to the afterlife to save her parents?",
     "options": [
       "Birth Goddess",
-      "Grandmother Mago",
+      "Princess Bari",
       "Guanyin",
-      "Princess Bari"
+      "Grandmother Mago"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2776,10 +2776,10 @@
     "options": [
       "Grandmother Mago",
       "Princess Bari",
-      "House Guardian",
-      "Birth Goddess"
+      "Birth Goddess",
+      "House Guardian"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2810,12 +2810,12 @@
   {
     "question": "Which god protects the house site and household peace?",
     "options": [
-      "Mountain God",
+      "House Guardian",
       "Dragon King",
       "Birth Goddess",
-      "House Guardian"
+      "Mountain God"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2829,11 +2829,11 @@
     "question": "In Greek myth, who rules Olympus with lightning as the supreme god?",
     "options": [
       "Hephaestus",
-      "Hades",
+      "Zeus",
       "Apollo",
-      "Zeus"
+      "Hades"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2848,10 +2848,10 @@
     "options": [
       "Freyr",
       "Loki",
-      "Valkyrie",
-      "Odin"
+      "Odin",
+      "Valkyrie"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2882,12 +2882,12 @@
   {
     "question": "Who is the trickster god of Norse myth?",
     "options": [
-      "Odin",
+      "Loki",
       "Thor",
       "Valkyrie",
-      "Loki"
+      "Odin"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2901,11 +2901,11 @@
     "question": "Which Norse warrior-women carry slain heroes to Valhalla?",
     "options": [
       "Athena",
-      "Odin",
+      "Valkyrie",
       "Freya",
-      "Valkyrie"
+      "Odin"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2920,10 +2920,10 @@
     "options": [
       "Guanyin",
       "Shiva",
-      "Indra",
-      "Buddha"
+      "Buddha",
+      "Indra"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2954,12 +2954,12 @@
   {
     "question": "In Indian myth, who symbolizes destruction and transformation?",
     "options": [
-      "Krishna",
+      "Shiva",
       "Indra",
       "Ra",
-      "Shiva"
+      "Krishna"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2973,11 +2973,11 @@
     "question": "In Indian myth, who rules lightning and rain?",
     "options": [
       "Shiva",
-      "Brahma",
+      "Indra",
       "Ganesha",
-      "Indra"
+      "Brahma"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2992,10 +2992,10 @@
     "options": [
       "Osiris",
       "Anubis",
-      "Thoth",
-      "Ra"
+      "Ra",
+      "Thoth"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3026,12 +3026,12 @@
   {
     "question": "In Egyptian myth, who is the cat-headed goddess of home and healing?",
     "options": [
-      "Anubis",
+      "Bastet",
       "Thoth",
       "Ra",
-      "Bastet"
+      "Anubis"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3045,11 +3045,11 @@
     "question": "Which archangel defeated the evil dragon and commands heaven's army?",
     "options": [
       "Gabriel",
-      "Raphael",
+      "Archangel Michael",
       "Uriel",
-      "Archangel Michael"
+      "Raphael"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3064,10 +3064,10 @@
     "options": [
       "Michael",
       "Raphael",
-      "Uriel",
-      "Archangel Gabriel"
+      "Archangel Gabriel",
+      "Uriel"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3098,12 +3098,12 @@
   {
     "question": "Which angel symbolizes fire and wisdom?",
     "options": [
-      "Michael",
+      "Archangel Uriel",
       "Gabriel",
       "Raphael",
-      "Archangel Uriel"
+      "Michael"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3117,11 +3117,11 @@
     "question": "Which angel is said to watch over you from birth?",
     "options": [
       "Archangel Michael",
-      "Archangel Gabriel",
+      "Guardian Angel",
       "Archangel Raphael",
-      "Guardian Angel"
+      "Archangel Gabriel"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3136,10 +3136,10 @@
     "options": [
       "Valkyries",
       "Muses",
-      "Harpies",
-      "The Fates"
+      "The Fates",
+      "Harpies"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3170,12 +3170,12 @@
   {
     "question": "Which armored animal has a horn on its nose?",
     "options": [
-      "Hippo",
+      "Rhino",
       "Elephant",
       "Buffalo",
-      "Rhino"
+      "Hippo"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3189,11 +3189,11 @@
     "question": "Which huge African animal opens its mouth wide in the river?",
     "options": [
       "Rhino",
-      "Crocodile",
+      "Hippo",
       "Buffalo",
-      "Hippo"
+      "Crocodile"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3208,10 +3208,10 @@
     "options": [
       "Horse",
       "Donkey",
-      "Llama",
-      "Camel"
+      "Camel",
+      "Llama"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3242,12 +3242,12 @@
   {
     "question": "Which black-and-white bear loves bamboo?",
     "options": [
-      "Bear",
+      "Panda",
       "Koala",
       "Raccoon",
-      "Panda"
+      "Bear"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3261,11 +3261,11 @@
     "question": "Which African horse has black stripes?",
     "options": [
       "Horse",
-      "Donkey",
+      "Zebra",
       "Giraffe",
-      "Zebra"
+      "Donkey"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3280,10 +3280,10 @@
     "options": [
       "Falcon",
       "Owl",
-      "Crow",
-      "Eagle"
+      "Eagle",
+      "Crow"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3314,12 +3314,12 @@
   {
     "question": "Which is the largest sea animal that spouts water?",
     "options": [
-      "Shark",
+      "Whale",
       "Dolphin",
       "Elephant",
-      "Whale"
+      "Shark"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3333,11 +3333,11 @@
     "question": "Which large summer fruit is red inside a green rind?",
     "options": [
       "Oriental melon",
-      "Melon",
+      "Watermelon",
       "Pumpkin",
-      "Watermelon"
+      "Melon"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3352,10 +3352,10 @@
     "options": [
       "Cherry",
       "Raspberry",
-      "Tomato",
-      "Strawberry"
+      "Strawberry",
+      "Tomato"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3386,12 +3386,12 @@
   {
     "question": "Which yellow fruit is curved and peeled to eat?",
     "options": [
-      "Oriental melon",
+      "Banana",
       "Mango",
       "Papaya",
-      "Banana"
+      "Oriental melon"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3405,11 +3405,11 @@
     "question": "Which yellow ear has kernels in rows?",
     "options": [
       "Bean",
-      "Wheat",
+      "Corn",
       "Rice",
-      "Corn"
+      "Wheat"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3424,10 +3424,10 @@
     "options": [
       "Radish",
       "Sweet potato",
-      "Potato",
-      "Carrot"
+      "Carrot",
+      "Potato"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3458,12 +3458,12 @@
   {
     "question": "Which white drink is milked from a cow?",
     "options": [
-      "Water",
+      "Milk",
       "Juice",
       "Yogurt",
-      "Milk"
+      "Water"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3477,11 +3477,11 @@
     "question": "Which noodle dish is ready in 3 minutes in boiling water?",
     "options": [
       "Noodles",
-      "Pasta",
+      "Instant noodles",
       "Udon",
-      "Instant noodles"
+      "Pasta"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3496,10 +3496,10 @@
     "options": [
       "Rice ball",
       "Sushi",
-      "Kimchi",
-      "Gimbap"
+      "Gimbap",
+      "Kimchi"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3512,12 +3512,12 @@
   {
     "question": "In Greek myth, which W-shaped northern constellation is the vain queen of Ethiopia bound in the sky?",
     "options": [
-      "Cassiopeia",
+      "Cygnus",
       "Andromeda",
       "Pegasus",
-      "Cygnus"
+      "Cassiopeia"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3548,12 +3548,12 @@
   {
     "question": "In Greek myth, which summer southern constellation is the scorpion that stung Orion?",
     "options": [
-      "Scorpius",
       "Leo",
+      "Scorpius",
       "Cancer",
       "Taurus"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3566,12 +3566,12 @@
   {
     "question": "In Greek myth, which spring constellation is the Nemean beast Heracles slew?",
     "options": [
-      "Leo",
-      "Scorpius",
       "Taurus",
+      "Scorpius",
+      "Leo",
       "Gemini"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3584,12 +3584,12 @@
   {
     "question": "In Greek myth, which constellation is the bull Zeus became to carry Europa?",
     "options": [
-      "Taurus",
+      "Cancer",
       "Aries",
       "Capricorn",
-      "Cancer"
+      "Taurus"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3620,12 +3620,12 @@
   {
     "question": "In Greek myth, which maiden constellation is the goddess of justice who rose to the sky with wheat?",
     "options": [
-      "Virgo",
       "Libra",
+      "Virgo",
       "Cancer",
       "Aquarius"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3638,12 +3638,12 @@
   {
     "question": "In Greek myth, which zodiac constellation is the scales that weighed justice?",
     "options": [
-      "Libra",
-      "Virgo",
       "Scorpius",
+      "Virgo",
+      "Libra",
       "Sagittarius"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3656,12 +3656,12 @@
   {
     "question": "In Greek myth, which zodiac constellation is named for the wise centaur Chiron with bow and arrow?",
     "options": [
-      "Sagittarius",
+      "Aries",
       "Capricorn",
       "Aquarius",
-      "Aries"
+      "Sagittarius"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3692,12 +3692,12 @@
   {
     "question": "In Greek myth, which constellation is the youth Ganymede, taken by Zeus, pouring water?",
     "options": [
-      "Aquarius",
       "Pisces",
+      "Aquarius",
       "Virgo",
       "Capricorn"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3710,12 +3710,12 @@
   {
     "question": "In Greek myth, which last zodiac constellation are Aphrodite and Eros transformed and tied by a thread?",
     "options": [
-      "Pisces",
-      "Aquarius",
       "Aries",
+      "Aquarius",
+      "Pisces",
       "Cancer"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3728,12 +3728,12 @@
   {
     "question": "In Greek mythology, what constellation represents the winged horse born from the blood of Medusa?",
     "options": [
-      "Pegasus",
+      "Cassiopeia",
       "Andromeda",
       "Cygnus",
-      "Cassiopeia"
+      "Pegasus"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3764,12 +3764,12 @@
   {
     "question": "In Greek myth, which constellation is the bird Zeus became to approach Leda?",
     "options": [
-      "Cygnus",
       "Pegasus",
+      "Cygnus",
       "Aquila",
       "Corvus"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3782,12 +3782,12 @@
   {
     "question": "In Greek myth, which star cluster of Taurus is the seven sisters, daughters of Atlas?",
     "options": [
-      "Pleiades",
-      "Sirius",
       "Vega",
+      "Sirius",
+      "Pleiades",
       "Canopus"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3800,12 +3800,12 @@
   {
     "question": "In Greek myth, which river of stars across the night sky was made by Hera's spilled milk?",
     "options": [
-      "Milky Way",
+      "Meteor shower",
       "Aurora",
       "Comet",
-      "Meteor shower"
+      "Milky Way"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3836,12 +3836,12 @@
   {
     "question": "The legendary star that weaves cloth, longing for its partner across the Milky Way. Which is it?",
     "options": [
-      "Vega (Jiknyeo)",
       "Polaris",
+      "Vega (Jiknyeo)",
       "Cassiopeia",
       "Deneb"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3854,12 +3854,12 @@
   {
     "question": "Which Eastern system divides the sky into 28 traditional mansion constellations?",
     "options": [
-      "Twenty-eight Mansions",
-      "Twelve Earthly Branches",
       "Four Symbols",
+      "Twelve Earthly Branches",
+      "Twenty-eight Mansions",
       "Big Dipper"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3872,12 +3872,12 @@
   {
     "question": "What is the Eastern name for the three stars in a row below Orion's belt?",
     "options": [
-      "Alnitak trio (Samtaeseong)",
+      "Big Dipper",
       "Three Gods",
       "Three-legged Crow",
-      "Big Dipper"
+      "Alnitak trio (Samtaeseong)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3908,12 +3908,12 @@
   {
     "question": "Which star hardly moves in the northern sky and guides sailors?",
     "options": [
-      "Polaris",
       "Sirius",
+      "Polaris",
       "Canopus",
       "Vega"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3926,12 +3926,12 @@
   {
     "question": "Which constellation of seven stars forms a ladle pointing to Polaris?",
     "options": [
-      "Big Dipper",
-      "Cassiopeia",
       "Ursa Minor",
+      "Cassiopeia",
+      "Big Dipper",
       "Cygnus"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3944,12 +3944,12 @@
   {
     "question": "Which small bear constellation carries Polaris at the tip of its tail?",
     "options": [
-      "Ursa Minor",
+      "Pisces",
       "Ursa Major",
       "Cygnus",
-      "Pisces"
+      "Ursa Minor"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3980,12 +3980,12 @@
   {
     "question": "In Greek myth, which winter constellation shows twin brothers side by side?",
     "options": [
-      "Gemini",
       "Leo",
+      "Gemini",
       "Virgo",
       "Libra"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3998,12 +3998,12 @@
   {
     "question": "In Greek myth, which constellation is the musician with an instrument made from a tortoise shell?",
     "options": [
-      "Lyra",
-      "Cygnus",
       "Pegasus",
+      "Cygnus",
+      "Lyra",
       "Aquila"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4016,12 +4016,12 @@
   {
     "question": "Which streaking star with a tail makes people make a wish?",
     "options": [
-      "Shooting star",
+      "Milky Way",
       "Comet",
       "Polaris",
-      "Milky Way"
+      "Shooting star"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4052,12 +4052,12 @@
   {
     "question": "In Greek myth, which brightest star of Canis Major is the hunting dog of Orion?",
     "options": [
-      "Sirius",
       "Polaris",
+      "Sirius",
       "Vega",
       "Canopus"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4070,12 +4070,12 @@
   {
     "question": "Which cross-shaped southern constellation guided sailors of the southern hemisphere?",
     "options": [
-      "Southern Cross",
-      "Big Dipper",
       "Cassiopeia",
+      "Big Dipper",
+      "Southern Cross",
       "Cygnus"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4088,12 +4088,12 @@
   {
     "question": "In Greek myth, which constellation is the herdsman guarding the bears, holding Arcturus?",
     "options": [
-      "Boötes",
+      "Virgo",
       "Ursa Major",
       "Ursa Minor",
-      "Virgo"
+      "Boötes"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4124,12 +4124,12 @@
   {
     "question": "Which large summer constellation is named for the greatest Greek hero?",
     "options": [
-      "Hercules",
       "Perseus",
+      "Hercules",
       "Orion",
       "Sagittarius"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4142,12 +4142,12 @@
   {
     "question": "Which northern constellation is the king of Ethiopia, father of Andromeda?",
     "options": [
-      "Cepheus",
-      "Cassiopeia",
       "Perseus",
+      "Cassiopeia",
+      "Cepheus",
       "Pegasus"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4160,12 +4160,12 @@
   {
     "question": "Which large southern constellation symbolizes the whole centaur race of Greek myth?",
     "options": [
-      "Centaurus",
+      "Perseus",
       "Sagittarius",
       "Boötes",
-      "Perseus"
+      "Centaurus"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4196,12 +4196,12 @@
   {
     "question": "Which red star is called the eye of the bull?",
     "options": [
-      "Aldebaran",
       "Rigel",
+      "Aldebaran",
       "Betelgeuse",
       "Sirius"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4214,12 +4214,12 @@
   {
     "question": "Which star shines blue at the foot of Orion?",
     "options": [
-      "Rigel",
-      "Betelgeuse",
       "Deneb",
+      "Betelgeuse",
+      "Rigel",
       "Capella"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4232,12 +4232,12 @@
   {
     "question": "Which star shines red at Orion's shoulder?",
     "options": [
-      "Betelgeuse",
+      "Antares",
       "Rigel",
       "Aldebaran",
-      "Antares"
+      "Betelgeuse"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4268,12 +4268,12 @@
   {
     "question": "The brightest star of Canis Minor, forming the Winter Triangle. Which is it?",
     "options": [
-      "Procyon",
       "Spica",
+      "Procyon",
       "Arcturus",
       "Pollux"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4286,12 +4286,12 @@
   {
     "question": "Which brightest star of Auriga is called the goat star?",
     "options": [
-      "Capella",
-      "Aldebaran",
       "Procyon",
+      "Aldebaran",
+      "Capella",
       "Deneb"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4304,12 +4304,12 @@
   {
     "question": "Which winter triangle is formed by Orion, Sirius, and Procyon?",
     "options": [
-      "Winter Triangle",
+      "Big Dipper",
       "Summer Triangle",
       "Spring Triangle",
-      "Big Dipper"
+      "Winter Triangle"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4340,12 +4340,12 @@
   {
     "question": "Which red star is called the heart of the scorpion?",
     "options": [
-      "Antares",
       "Aldebaran",
+      "Antares",
       "Betelgeuse",
       "Rigel"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4358,12 +4358,12 @@
   {
     "question": "Between the twin brothers of Gemini (Castor and Pollux), which one is the brighter 1st-magnitude star (Beta Geminorum)?",
     "options": [
-      "Pollux",
-      "Castor",
       "Aldebaran",
+      "Castor",
+      "Pollux",
       "Deneb"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4376,12 +4376,12 @@
   {
     "question": "The second star from the tip of the Big Dipper's handle, which primary star forms a famous naked-eye double with Alcor?",
     "options": [
-      "Mizar",
+      "Phecda",
       "Dubhe",
       "Merak",
-      "Phecda"
+      "Mizar"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4412,12 +4412,12 @@
   {
     "question": "Which constellation shaped like a charioteer holds Capella?",
     "options": [
-      "Auriga",
       "Boötes",
+      "Auriga",
       "Gemini",
       "Perseus"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4430,12 +4430,12 @@
   {
     "question": "Beside the heavenly herdsman, which constellation symbolizes two hunting dogs?",
     "options": [
-      "Canes Venatici",
-      "Boötes",
       "Canis Major",
+      "Boötes",
+      "Canes Venatici",
       "Lupus"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4448,12 +4448,12 @@
   {
     "question": "Which southern constellation shaped like a peacock holds bright stars?",
     "options": [
-      "Pavo",
+      "Centaurus",
       "Southern Cross",
       "Carina",
-      "Centaurus"
+      "Pavo"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4484,12 +4484,12 @@
   {
     "question": "It secretly stands in when your clothing comes undone, yet pokes your skin and betrays your laziness. What is it?",
     "options": [
-      "Safety pin",
       "Zipper",
+      "Safety pin",
       "Velcro",
       "Brooch"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4520,12 +4520,12 @@
   {
     "question": "It bites clothes so balcony winds won't blow them away, but leaves stubborn horn marks on the shoulders. What is it?",
     "options": [
-      "Clothespin (Peg)",
+      "Hanger",
       "Safety pin",
       "Magnet",
-      "Hanger"
+      "Clothespin (Peg)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
@@ -4538,12 +4538,12 @@
   {
     "question": "It pops the cap to refresh you, but on a bad day sprays the ceiling. What am I?",
     "options": [
-      "Scissors",
+      "Bottle opener",
       "Wrench",
       "Corkscrew",
-      "Bottle opener"
+      "Scissors"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4592,12 +4592,12 @@
   {
     "question": "It trims your nails, then fires the clippings like a rocket across the room. What am I?",
     "options": [
-      "Nail clipper",
+      "File",
       "Scissors",
       "Knife",
-      "File"
+      "Nail clipper"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4610,12 +4610,12 @@
   {
     "question": "It carries cups calmly, then throws a crashing party at one doorstep. What am I?",
     "options": [
-      "Plate",
+      "Tray",
       "Cutting board",
       "Basket",
-      "Tray"
+      "Plate"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4664,12 +4664,12 @@
   {
     "question": "It holds bread quietly, then launches it like a missile the moment you daydream. What am I?",
     "options": [
-      "Toaster",
+      "Air fryer",
       "Microwave",
       "Oven",
-      "Air fryer"
+      "Toaster"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4682,12 +4682,12 @@
   {
     "question": "Sent in to clean a straw, it gets stuck and starts a duel. What am I?",
     "options": [
-      "Toothbrush",
+      "Straw brush",
       "Swab",
       "Paintbrush",
-      "Straw brush"
+      "Toothbrush"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "kitchen",
@@ -4718,12 +4718,12 @@
   {
     "question": "Usually quiet in a corner, summoned only when water is blocked and backing up. Who is this reliever?",
     "options": [
-      "Plunger",
-      "Toilet",
       "Sink",
+      "Toilet",
+      "Plunger",
       "Brush"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4736,12 +4736,12 @@
   {
     "question": "It guards your parcel, then pops and exposes the one you sneakily opened. What am I?",
     "options": [
-      "Bubble wrap",
+      "Tape",
       "Plastic",
       "Styrofoam",
-      "Tape"
+      "Bubble wrap"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4754,12 +4754,12 @@
   {
     "question": "It drags out hidden chili bits even after you think you finished brushing. What am I?",
     "options": [
-      "Toothbrush",
+      "Dental floss",
       "Toothpick",
       "Mouthwash",
-      "Dental floss"
+      "Toothbrush"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4808,12 +4808,12 @@
   {
     "question": "Gentle when full, it makes you test your grip when it runs low. What am I?",
     "options": [
-      "Toothpaste",
+      "Conditioner",
       "Soap",
       "Shampoo",
-      "Conditioner"
+      "Toothpaste"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4826,12 +4826,12 @@
   {
     "question": "You try to plug it in, but it never fits until the third flip. What am I?",
     "options": [
-      "SD card",
+      "USB drive",
       "Charger",
       "Earphone",
-      "USB drive"
+      "SD card"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "tech",
@@ -4845,11 +4845,11 @@
     "question": "Looks like thin, crispy black paper, but tastes amazing when wrapped around rice and dipped in soy sauce. What am I?",
     "options": [
       "Seaweed (Miyeok)",
-      "Kelp (Dasima)",
       "Roasted Seaweed (Gim)",
+      "Kelp (Dasima)",
       "Green Laver (Parae)"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -4880,12 +4880,12 @@
   {
     "question": "Cushiony to recline on, but squeaks loudly the second you stand up, instantly tattling that you were slacking off. What furniture is it?",
     "options": [
-      "Sofa (Couch)",
+      "Dresser",
       "Dining table",
       "Bookshelf",
-      "Dresser"
+      "Sofa (Couch)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -4898,12 +4898,12 @@
   {
     "question": "Press it late after missing your stop and the whole bus turns around. What am I?",
     "options": [
-      "Handrail",
+      "Stop-request bell",
       "Button",
       "Announcement",
-      "Stop-request bell"
+      "Handrail"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "transit",
@@ -4952,12 +4952,12 @@
   {
     "question": "Leave the cap off and it dries into a stone by itself. What am I?",
     "options": [
-      "Glue stick",
+      "Adhesive",
       "Wood glue",
       "Tape",
-      "Adhesive"
+      "Glue stick"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -4970,12 +4970,12 @@
   {
     "question": "Riding on your back carrying heavy textbooks, yet gets slammed onto the floor the very second you get home. What is it?",
     "options": [
-      "Briefcase",
+      "School backpack",
       "Shopping bag",
       "Pouch",
-      "School backpack"
+      "Briefcase"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5024,12 +5024,12 @@
   {
     "question": "It ties your hair, then snaps with a ting at the worst moment. What am I?",
     "options": [
-      "Hair tie",
+      "Comb",
       "Pin",
       "Headband",
-      "Comb"
+      "Hair tie"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5042,12 +5042,12 @@
   {
     "question": "One sheet would do, but pull in a hurry and they pop out like sausages. What am I?",
     "options": [
-      "Toilet paper",
+      "Wet wipes",
       "Handkerchief",
       "Paper towel",
-      "Wet wipes"
+      "Toilet paper"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5096,12 +5096,12 @@
   {
     "question": "Soft while you sit, it drops and hooks your ankle the moment you stand. What am I?",
     "options": [
-      "Seat cushion",
+      "Mat",
       "Cushion",
       "Pillow",
-      "Mat"
+      "Seat cushion"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5114,12 +5114,12 @@
   {
     "question": "Roll it on your uniform and it proves how long you skipped cleaning. What am I?",
     "options": [
-      "Broom",
+      "Lint roller",
       "Vacuum",
       "Duster",
-      "Lint roller"
+      "Broom"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5168,12 +5168,12 @@
   {
     "question": "What stays quiet when resting, but when swung by two handles, whips beneath your feet and makes you keep jumping?",
     "options": [
-      "Jump rope",
+      "Vaulting horse",
       "Coffee cup",
       "Whistle",
-      "Vaulting horse"
+      "Jump rope"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5186,12 +5186,12 @@
   {
     "question": "It bounces lightly, then stays dented forever once stepped on hard. What am I?",
     "options": [
-      "Shuttlecock",
+      "Ping-pong ball",
       "Baseball",
       "Soccer ball",
-      "Ping-pong ball"
+      "Shuttlecock"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5240,12 +5240,12 @@
   {
     "question": "You scoop stew, slip on the pot handle, and dive into the soup. What am I?",
     "options": [
-      "Ladle",
+      "Spoon",
       "Rice paddle",
       "Spatula",
-      "Spoon"
+      "Ladle"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5258,12 +5258,12 @@
   {
     "question": "Pour into a narrow neck too fast and it overflows right back out. What am I?",
     "options": [
-      "Ladle",
+      "Funnel",
       "Cup",
       "Kettle",
-      "Funnel"
+      "Ladle"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5276,12 +5276,12 @@
   {
     "question": "You lay it out to exercise, but it turns into a nap bed the moment you lie down. What is it?",
     "options": [
-      "Yoga mat",
       "Mattress",
+      "Yoga mat",
       "Blanket",
       "Cushion"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5312,12 +5312,12 @@
   {
     "question": "It makes your own breathing and heartbeat thunder in your ears. What am I?",
     "options": [
-      "Earplug",
+      "Headphones",
       "Earphone",
       "Eye mask",
-      "Headphones"
+      "Earplug"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5330,12 +5330,12 @@
   {
     "question": "You boil ramen, yank the lid open, and a drop lands on your foot. What am I?",
     "options": [
-      "Frying pan",
+      "Pot lid",
       "Plate",
       "Tray",
-      "Pot lid"
+      "Frying pan"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5366,12 +5366,12 @@
   {
     "question": "Supposed to protect delicates from tangling in the washing machine, but unzips on its own and lets clothes escape. What laundry item is it?",
     "options": [
-      "Mesh laundry bag",
-      "Clothes iron",
       "Drying rack",
+      "Clothes iron",
+      "Mesh laundry bag",
       "Hanger"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",
@@ -5389,11 +5389,11 @@
     "question": "It wraps a wound without hurting, but the moment you wash your hands it soaks up water, dangles, and falls off. What is it?",
     "options": [
       "Pain relief patch",
-      "Band-aid",
+      "Bandage",
       "Gauze",
-      "Bandage"
+      "Band-aid"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Dangling! Where on earth did the words 'waterproof' go?",
       "wrong": "No~ The one whose edges turn white and must be peeled off after one splash is the band-aid."
@@ -5402,12 +5402,12 @@
   {
     "question": "It scratches an itchy ear, then a sudden sneeze brings agony. What am I?",
     "options": [
-      "Cotton swab",
+      "Ear pick",
       "Toothpick",
       "Tweezers",
-      "Ear pick"
+      "Cotton swab"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "daily",
@@ -5456,12 +5456,12 @@
   {
     "question": "At a restaurant it digs out the chili powder hiding between teeth. What am I?",
     "options": [
-      "Toothpick",
+      "Dental floss",
       "Chopstick",
       "Fork",
-      "Dental floss"
+      "Toothpick"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -5474,12 +5474,12 @@
   {
     "question": "After drying your washed hair, if you leave it crumpled in a damp bathroom corner it reeks of musty odor within a day. What is it?",
     "options": [
-      "Loofah sponge",
+      "Bath towel",
       "Exfoliating glove",
       "Soap",
-      "Bath towel"
+      "Loofah sponge"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5492,12 +5492,12 @@
   {
     "question": "What has two iron blades holding hands with a snip, cleaving paper and cloth in two as it marches forward?",
     "options": [
-      "Scissors",
       "Knife",
+      "Scissors",
       "Nail Clipper",
       "Needle"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5528,12 +5528,12 @@
   {
     "question": "Stretch your foot toward its open leg and it kicks your shin like iron. What am I?",
     "options": [
-      "Folding table",
+      "Chair",
       "Desk",
       "Dining table",
-      "Chair"
+      "Folding table"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5546,12 +5546,12 @@
   {
     "question": "It jingles in your pocket, then hides under the vending machine when dropped. What am I?",
     "options": [
-      "Banknote",
+      "Coin",
       "Card",
       "Button",
-      "Coin"
+      "Banknote"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5587,11 +5587,11 @@
     "question": "You pull to tear it off coolly with your fingers, but only the starting corner rips and it splits into a thin vertical strip. What is it?",
     "options": [
       "Paper tape",
-      "Packing tape",
       "Bandage",
+      "Packing tape",
       "Cling wrap"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Rrrip! You end up spinning it round and round for ten minutes hunting for the edge with your fingernail!",
       "wrong": "Nope! The one that tears off in a thin diagonal sliver and tests your patience is packing tape."
@@ -5606,10 +5606,10 @@
     "options": [
       "Fork",
       "Straw",
-      "Chopsticks",
-      "Rice paddle"
+      "Rice paddle",
+      "Chopsticks"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Stuck together or no good! Left all alone, it's just a skinny little stick.",
       "wrong": "Nope! The one that becomes useless when left alone is the chopsticks."
@@ -5622,12 +5622,12 @@
     "reward_keys": 1,
     "question": "It tidies your documents nicely, but try to stuff in even one more page and it opens wide and spits them all back out. What is it?",
     "options": [
-      "Bookmark",
       "Stapler",
+      "Bookmark",
       "Paper clip",
       "Binder"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Click! If the paper's too thick, it spits out its own staple and just clicks at nothing!",
       "wrong": "Nope! The one that jams a thick stack and squashes the staple flat is a stapler."
@@ -5641,11 +5641,11 @@
     "question": "You sip to enjoy a cool drink, but instead of liquid it makes a loud airy noise through the ice at the bottom. What is it?",
     "options": [
       "Thermos",
-      "Paper cup",
       "Plastic straw",
+      "Paper cup",
       "Spoon"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Slurp, gulp! It sets off a thunderous racket all by itself in a quiet library!",
       "wrong": "Not that~ The one that keeps slurping at empty air after the drink's gone is the straw."
@@ -5659,11 +5659,11 @@
     "question": "You definitely just closed it, but in your bag the lid opens and makes all your belongings sticky. What is it?",
     "options": [
       "Sunscreen",
-      "Lip balm",
       "Water bottle",
+      "Lip balm",
       "Toothpaste"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Slippery! That despair when you grope the bag bottom and touch something slimy!",
       "wrong": "Wrong~ The one that melts and escapes its lid just from warm pocket air is lip balm."
@@ -5678,10 +5678,10 @@
     "options": [
       "Umbrella",
       "Fan",
-      "Tumbler",
-      "Power bank"
+      "Power bank",
+      "Tumbler"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Splash! You trusted the words 'fully sealed,' and now your textbook corners are waterlogged and bulging!",
       "wrong": "No~ The main culprit that turns your bag into a flood when you open it is a loosely closed tumbler."
@@ -5694,12 +5694,12 @@
     "reward_keys": 1,
     "question": "It stuffs its cheek pouches full of food and hides it, but forgets everything the moment it runs on the wheel. What is it?",
     "options": [
-      "Rabbit",
-      "Squirrel",
       "Hamster",
+      "Squirrel",
+      "Rabbit",
       "Hedgehog"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Busy-busy! It hides food until its cheeks puff up, then spins the wheel like crazy!",
       "wrong": "Nope! The one that hides food in its cheeks and runs on the wheel is the hamster."
@@ -5712,12 +5712,12 @@
     "reward_keys": 1,
     "question": "What swells round and taut the more breath it inhales, yet bursts without a trace with a loud pop at the slightest prick of a sharp needle?",
     "options": [
-      "Balloon",
       "Soap Bubble",
+      "Balloon",
       "Tire",
       "Beach Ball"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Correct! The balloon that floats high with a breath, but pops in surprise at a tiny pin!",
       "wrong": "Wrong! A colorful rubber pouch that swells when filled with air."
@@ -5731,11 +5731,11 @@
     "question": "You definitely left with it 100% full, but by evening it blinks red all alone and pants for breath. What is it?",
     "options": [
       "Smartwatch",
-      "Power bank",
       "Wireless mouse",
+      "Power bank",
       "Bluetooth speaker"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Blink, blink! The one you carried out to feed ended up eating its own meal first!",
       "wrong": "Not that~ The one that shows off brick weight in your bag then dies is the power bank."
@@ -5750,10 +5750,10 @@
     "options": [
       "Jelly",
       "Chocolate",
-      "Pastry pie",
-      "Candy"
+      "Candy",
+      "Pastry pie"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Crunch! More crumbs land on the desk than go into your mouth!",
       "wrong": "Wrong~ The snack that summons Mom's backhand smack the moment you bite is pie."
@@ -5766,12 +5766,12 @@
     "reward_keys": 1,
     "question": "It shines brightly in the dark, but the moment your fingers misstep over your face it drops onto your face. What is it?",
     "options": [
-      "Reading lamp",
       "Smartphone",
+      "Reading lamp",
       "Tablet",
       "Flashlight"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Thwack! Only those who've been smacked on the nose watching YouTube in bed know these tears!",
       "wrong": "No~ The one that gravity drags onto your face the moment you relax is the smartphone."
@@ -5821,11 +5821,11 @@
     "question": "Open the lid and warm rice appears, but once it's all eaten, only an empty body wanders around. What is it?",
     "options": [
       "Pot",
-      "Lunchbox",
+      "Plate",
       "Thermos",
-      "Plate"
+      "Lunchbox"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Lid opens with a sparkle, empty body when it's done! The star of lunchtime!",
       "wrong": "Nope! The little box you carry rice in is the lunchbox."
@@ -5838,12 +5838,12 @@
     "reward_keys": 1,
     "question": "It raises your position fast with one button, but the instant the door closes it leaves you awkwardly making eye contact with whoever got on. What is it?",
     "options": [
-      "Escalator",
       "Elevator",
+      "Escalator",
       "Cable car",
       "Moving walkway"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Ding! The silent room that makes you stare a hole through the ceiling number panel the whole ride!",
       "wrong": "Nope! The place where you reach for the close button and catch someone's eye, breaking into cold sweat, is the elevator."
@@ -5857,11 +5857,11 @@
     "question": "You put it on snug and secure, and the moment you eat one more spoonful it ruthlessly digs into your belly. What is it?",
     "options": [
       "Suspenders",
-      "Button",
       "Belt",
+      "Button",
       "Elastic band"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Tightened and loosened! That sweet relief of secretly undoing a notch at the restaurant!",
       "wrong": "Wrong~ The first to surrender and come undone at a buffet is the belt."
@@ -5875,11 +5875,11 @@
     "question": "It pretends to reheat food crispy, but the moment you take it out the plate alone is boiling hot enough to burn your fingers. What is it?",
     "options": [
       "Air fryer",
-      "Microwave",
       "Oven",
+      "Microwave",
       "Toaster"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Ow, hot! The food's still lukewarm but the plate's rim is bubbling like lava!",
       "wrong": "Not that~ The one that makes the plate impossible to hold after just 30 seconds is the microwave."
@@ -5894,10 +5894,10 @@
     "options": [
       "Chocolate fondue",
       "Waffle",
-      "Ice cream",
-      "Hot cocoa"
+      "Hot cocoa",
+      "Ice cream"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Brain freeze! You wolfed it down too fast and had to clutch your temples!",
       "wrong": "Nope! It is the creamy chilled treat served in scoops on cones or cups."
@@ -5910,12 +5910,12 @@
     "reward_keys": 1,
     "question": "You enter your password to log in, and it claims you're a robot and makes you pick out nine photos of crosswalks. What is it?",
     "options": [
-      "Antivirus program",
       "CAPTCHA verification",
+      "Antivirus program",
       "Fingerprint reader",
       "OTP generator"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Check! It makes you agonize for five minutes whether the tiniest corner of a traffic light counted!",
       "wrong": "No~ The one that makes you doubt whether you're human or machine is CAPTCHA verification."
@@ -5929,11 +5929,11 @@
     "question": "It keeps your phone screen spotless, then the moment you stick it on it holds a big bubble in the middle and won't budge. What is it?",
     "options": [
       "Phone case",
-      "PopSocket",
       "Screen protector film",
+      "PopSocket",
       "Camera cover"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Pop! You held your breath to keep out every speck of dust, and three bubbles greet you!",
       "wrong": "Nope! The one that stubbornly stays no matter how you push with a fingernail or card is the screen protector."
@@ -5947,11 +5947,11 @@
     "question": "It sat quietly on your head just moments ago, but check a mirror and it's gone, leaving only a red mark on your forehead. What is it?",
     "options": [
       "Hairband",
-      "Hair roller",
       "Hairpin",
+      "Hair roller",
       "Towel"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Roll, roll, roll! You forgot you were even wearing it and nearly rode the elevator with it on, right?",
       "wrong": "Not that~ The one you wear on your forehead like a unicorn horn right before going out is a hair roller."
@@ -5966,10 +5966,10 @@
     "options": [
       "Cooking oil",
       "Soy sauce",
-      "Ketchup",
-      "Sesame oil"
+      "Sesame oil",
+      "Ketchup"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Splat! The moment one red dot lands on your sleeve, today's outfit is over!",
       "wrong": "Nope! The one you hold upside down and tap until it gushes all over the tray is the ketchup bottle."
@@ -5982,12 +5982,12 @@
     "reward_keys": 1,
     "question": "It lights the room softly and sets the mood, but when you blow to put it out it fires a stinging smoke bomb instead. What is it?",
     "options": [
-      "Diffuser",
       "Scented candle",
+      "Diffuser",
       "Desk lamp",
       "Mood light"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Fwoof, cough! The magic that trades the romantic scent for nothing but the smell of playing with fire!",
       "wrong": "Wrong~ The one where the wick drowns in the wax pool and burns out crooked is the scented candle."
@@ -6001,11 +6001,11 @@
     "question": "It comes out crispy and sweet, but the moment you bite it, it fires the hot honey inside at your chin. What is it?",
     "options": [
       "Fish-shaped bun",
-      "Delimanju",
       "Hotteok",
+      "Delimanju",
       "Waffle"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Ow, hot! Blowing on it while holding it in a paper cup is the perfect winter treat for burning your tongue!",
       "wrong": "No~ The one that ambushes you with magma-like syrup when you bite carelessly is hotteok."
@@ -6019,11 +6019,11 @@
     "question": "You keep it carefully in your pencil case, but the lid loosens and it squeezes out its own insides, painting the inside of your bag purple. What is it?",
     "options": [
       "Stamp",
-      "Computer-marking pen",
       "Paint",
+      "Computer-marking pen",
       "Stamp pad"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Flash! You need to mark your OMR card, but the tip's smudged into a thick brush!",
       "wrong": "Not that~ The regular you clip on the back of the lid then lose somewhere is the computer pen."
@@ -6037,11 +6037,11 @@
     "question": "It has just one mouth, but tip it over and it spills all its insides—a little bowl with a handle. What is it?",
     "options": [
       "Plate",
-      "Cup",
+      "Thermos",
       "Pot",
-      "Thermos"
+      "Cup"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Whoosh! One little bump and it dumps everything out—what a sneaky little bowl!",
       "wrong": "Nope! The little bowl with a handle is the cup."
@@ -6054,12 +6054,12 @@
     "reward_keys": 1,
     "question": "It pretends to whirl around on the desk, then bumps your bookshelf corner and sends documents flying everywhere. What is it?",
     "options": [
-      "AC remote",
       "Desktop mini fan",
+      "AC remote",
       "Wireless humidifier",
       "Air purifier"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Whirr, smack! You wind up sweating more picking up your study printouts scattered on the floor!",
       "wrong": "Wrong~ The one with a top-heavy head that wobbles precariously then topples over is the mini fan."
@@ -6073,11 +6073,11 @@
     "question": "It lets you laze comfortably on the sofa, but the moment you stand up it makes your whole body fuzzy with static sparks. What is it?",
     "options": [
       "Leather cushion",
-      "Padded vest",
       "Fleece blanket",
+      "Padded vest",
       "Wool coat"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Zap, flap! Together with a static party, your black pants are blanketed in polar-bear fur!",
       "wrong": "No~ The winter friend that sparks and stings every time you get up is the fleece blanket."
@@ -6110,10 +6110,10 @@
     "options": [
       "Keyboard",
       "Joystick",
-      "Optical mouse",
-      "Webcam"
+      "Webcam",
+      "Optical mouse"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Lag! The hellish moment your cursor freezes midair during the deciding teamfight!",
       "wrong": "Nope! The one that throws a fit because a speck of dust got on the red sensor underneath is the optical mouse."
@@ -6126,12 +6126,12 @@
     "reward_keys": 1,
     "question": "It's made for you to scratch open coolly with a fingernail, but once scratched it just fills your nails with dark silver powder. What is it?",
     "options": [
-      "Pencil graphite",
       "Scratch card",
+      "Pencil graphite",
       "Back of a sticker",
       "Chalk powder"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Scratch, scratch! Your heart pounds for a win, but all that's left clear is 'better luck next time'!",
       "wrong": "No~ The one you scratch with a fingernail when you have no coin, only dirtying your finger, is the instant lottery ticket."
@@ -6145,11 +6145,11 @@
     "question": "You get hot water from the water purifier to cook ramen, but right below the line it cries uncle and spits out cold water. What is it?",
     "options": [
       "Coffee pot",
-      "Thermos",
       "Hot water purifier",
+      "Thermos",
       "Microwave"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Drip, drip, stop! Your noodles will swell up in lukewarm water and you'll end up eating rice-cake ramen!",
       "wrong": "Not that~ The one that despairs you by cutting off hot water right before your cup ramen is the water purifier."
@@ -6163,11 +6163,11 @@
     "question": "You chew a sweet piece hard to drain the flavor, and when you want to spit it out there’s no tissue, so you’re stuck with it in your mouth. What is it?",
     "options": [
       "Candy",
-      "Bubble gum",
       "Jelly",
+      "Bubble gum",
       "Chocolate"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Chew, chew... The flavor's gone and only your jaw aches, but you can't swallow it either. Awkward!",
       "wrong": "Nope! The one you keep chewing because not a single receipt turns up in your pockets is gum."
@@ -6182,10 +6182,10 @@
     "options": [
       "ID card",
       "Student ID",
-      "Transit card",
-      "Employee badge"
+      "Employee badge",
+      "Transit card"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Beep, beep, beep! You create a wailing wall on your commute and feel eyes burning into the back of your head!",
       "wrong": "Nope! The one that snaps shut and whacks your thigh when you swipe your whole wallet is a transit card error."
@@ -6198,12 +6198,12 @@
     "reward_keys": 1,
     "question": "You finish a sweet, cool drink, but something chewy stays stuck in the bottom between the ice and never gets sucked up. What is it?",
     "options": [
-      "Nata de coco",
       "Tapioca pearls",
+      "Nata de coco",
       "Aloe cubes",
       "Chia seeds"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Slurp, slurp, slurp! Even if you snipe with the straw, they hide under the ice and never come up!",
       "wrong": "Not that~ The black jewels left at the bottom of the cup after your bubble tea are tapioca pearls."
@@ -6235,11 +6235,11 @@
     "question": "It pretends to wake you, but just watches to the end as you turn it off and go back to sleep. What is it?",
     "options": [
       "Pillow",
-      "Alarm clock",
       "Blanket",
+      "Alarm clock",
       "Curtain"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Tick-tock! I honestly cried every day, but the blanket grabbed you harder.",
       "wrong": "Beep! I only cried without lying every dawn!"
@@ -6253,11 +6253,11 @@
     "question": "It pretends to play music in your ears, but only in your pocket it tangles up like a thread knot. What is it?",
     "options": [
       "Necklace",
-      "Earphones",
+      "Charger",
       "Mask strap",
-      "Charger"
+      "Earphones"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Correct! Inside your pocket is a secret workshop where earphones quietly tie knots.",
       "wrong": "No~ The only thing that ever tangles is my one pair of earphones!"
@@ -6270,12 +6270,12 @@
     "reward_keys": 1,
     "question": "It just copies everything I say, but in the end it broadcasts all my secrets to the whole neighborhood. What is it?",
     "options": [
-      "Canary",
       "Parrot",
+      "Canary",
       "Sparrow",
       "Crow"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Parrot-parrot! That awkward feeling when your own words come flying right back at you!",
       "wrong": "Ding! The bird that mimics human speech is the parrot."
@@ -6289,11 +6289,11 @@
     "question": "Teased for being slow, which reptile carries a hard shell house on its back, lives on both land and water, and enjoys a very long lifespan?",
     "options": [
       "Chameleon",
-      "Mole",
       "Turtle (Tortoise)",
+      "Mole",
       "Ant"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "Correct! Turtles carry their armored shell houses and live for over a century!",
       "wrong": "Nope! It is the fabled reptile with a shell that raced against the hare."
@@ -6307,11 +6307,11 @@
     "question": "It writes white on the blackboard, then snaps in two, and shatters into pieces when it hits the floor. What is it?",
     "options": [
       "Pencil",
-      "Chalk",
       "Crayon",
+      "Chalk",
       "Marker"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "Snap! Press a little too hard and it breaks clean off, leaving a nub in the teacher's hand!",
       "wrong": "Nope! The white stick that breaks when you press hard writing on the board is chalk."
@@ -6326,10 +6326,10 @@
     "options": [
       "Sticker",
       "Post-it",
-      "Double-sided tape",
-      "Label"
+      "Label",
+      "Double-sided tape"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Rrrip! You only learn it exists when the paper rips in half trying to remove it!",
       "wrong": "Not that~ The one that's sticky on both sides and devours paper is double-sided tape."
@@ -6342,12 +6342,12 @@
     "reward_keys": 1,
     "question": "It slides down to your nose tip indoors, but only under sunlight does it paint the world black. What is it?",
     "options": [
-      "Hat",
       "Sunglasses",
+      "Hat",
       "Mask",
       "Eye mask"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Click! In the glaring sun, I change the color of the world!",
       "wrong": "Nope! The one that turns the world dark when you put it on your eyes is sunglasses."
@@ -6397,11 +6397,11 @@
     "question": "It always hides under the sofa when I look for it, but when I'm not watching, it's somehow in your brother's hand. What is it?",
     "options": [
       "Glasses",
-      "Remote control",
+      "Earphones",
       "Charger",
-      "Earphones"
+      "Remote control"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "Ding-dong! Under the sofa is the secret hideout where remote controls gather!",
       "wrong": "Nope! The one that vanishes when you don't need it and only disappears when you do is the remote control."
@@ -6414,12 +6414,12 @@
     "reward_keys": 1,
     "question": "It spins round and round pretending to clean your clothes, then hides one sock forever. What is it?",
     "options": [
-      "Dryer",
-      "Dishwasher",
       "Washing machine",
+      "Dishwasher",
+      "Dryer",
       "Vacuum cleaner"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "Whirr! The washing machine is the scariest magician in the world.",
       "wrong": "Nope! The one that always makes one sock vanish after a cycle is the washing machine."
@@ -6429,12 +6429,12 @@
     "id": "rid_386",
     "question": "It settles quietly overnight and paints the grass and windows white by morning.",
     "options": [
-      "Frost",
       "Dew",
+      "Frost",
       "Snow",
       "Fog"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6447,12 +6447,12 @@
     "id": "rid_387",
     "question": "What vegetable wears layers of rustling brown scaly robes, and peeling each layer only brings pungent sting and tears?",
     "options": [
-      "Onion",
-      "Garlic",
       "Ginger",
+      "Garlic",
+      "Onion",
       "Carrot"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6465,12 +6465,12 @@
     "id": "rid_388",
     "question": "It cradles your head at night, yet ends up on the floor by morning.",
     "options": [
-      "Pillow",
+      "Bed",
       "Blanket",
       "Curtain",
-      "Bed"
+      "Pillow"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6501,12 +6501,12 @@
     "id": "rid_390",
     "question": "What is the round plastic hoop that stays spinning around your waist and will not fall to the floor only as long as you keep wiggling?",
     "options": [
-      "Hula hoop",
       "Jump rope",
+      "Hula hoop",
       "Boomerang",
       "Yo-yo"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6519,12 +6519,12 @@
     "id": "rid_391",
     "question": "What has dozens of stiff teeth yet cannot chew a bite, only smoothing and tidying tangled locks of hair?",
     "options": [
-      "Comb",
-      "Toothbrush",
       "Fork",
+      "Toothbrush",
+      "Comb",
       "Saw"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6537,12 +6537,12 @@
     "id": "rid_392",
     "question": "What carries twelve numbers on its chest and runs tirelessly on needle legs with a steady tick-tock?",
     "options": [
-      "Clock",
+      "Scale",
       "Compass",
       "Meter",
-      "Scale"
+      "Clock"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6573,12 +6573,12 @@
     "id": "rid_394",
     "question": "What embraces wet feet every day to dry them soft, only to lie flat in the corner drying damply when the bath is done?",
     "options": [
-      "Bath Mat",
       "Slippers",
+      "Bath Mat",
       "Sink",
       "Laundry Basket"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -6591,12 +6591,12 @@
     "id": "rid_395",
     "question": "What cooks rice swallowing smoke above hearth fire flames, yielding crispy scorched rice only under a heavy cast-iron lid?",
     "options": [
-      "Iron Cauldron",
-      "Earthen Pot",
       "Kettle",
+      "Earthen Pot",
+      "Iron Cauldron",
       "Frying Pan"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "food",
@@ -6609,12 +6609,12 @@
     "id": "rid_396",
     "question": "What stays still and still on windless days, spreading folding wings that whip up cool breezes to banish heat only when shaken by hand?",
     "options": [
-      "Hand Fan",
+      "Flyswatter",
       "Electric Fan",
       "Ventilator",
-      "Flyswatter"
+      "Hand Fan"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6645,12 +6645,12 @@
     "id": "rid_398",
     "question": "What paper pouch tucks away heartfelt secrets, bearing a stamp on its chest to travel across strange towns and seas?",
     "options": [
-      "Envelope",
       "Postcard",
+      "Envelope",
       "Parcel Box",
       "Paper Plane"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6663,12 +6663,12 @@
     "id": "rid_399",
     "question": "What traditional clay vessel keeps stews bubbling hot at the dining table for a long time without cooling quickly?",
     "options": [
-      "Earthenware pot",
-      "Glass bowl",
       "Aluminum pot",
+      "Glass bowl",
+      "Earthenware pot",
       "Plate"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6681,12 +6681,12 @@
     "id": "rid_400",
     "question": "What palm-sized lantern rests quietly until a switch clicks in the dark, casting a beam of yellow light ahead down the road?",
     "options": [
-      "Flashlight",
+      "Streetlight",
       "Fireplace",
       "Fluorescent Light",
-      "Streetlight"
+      "Flashlight"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6717,12 +6717,12 @@
     "id": "rid_402",
     "question": "What scatters faint as cobwebs on clear days, but gathers moisture to cloak the sky in dark gray and unleash heavy downpours?",
     "options": [
-      "Dark Cloud",
       "Fog",
+      "Dark Cloud",
       "Yellow Dust",
       "Frost"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6735,12 +6735,12 @@
     "id": "rid_403",
     "question": "What trial of metal endures red-hot flames and hammer blows upon the anvil, diving into cold water for rapid cooling to forge a keen blade?",
     "options": [
-      "Quenching",
-      "Welding",
       "Plating",
+      "Welding",
+      "Quenching",
       "Casting"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "common_sense",
@@ -6753,12 +6753,12 @@
     "id": "rid_404",
     "question": "What sea fish hangs on winter mountain racks facing icy winds, freezing and thawing over a hundred times until its flesh turns soft and golden?",
     "options": [
-      "Hwangtae",
+      "Gulbi",
       "Anchovy",
       "Salted Mackerel",
-      "Gulbi"
+      "Hwangtae"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "food",
@@ -6789,12 +6789,12 @@
     "id": "rid_406",
     "question": "What weapon flies at invisible speeds when drawn taut and released by fingers, piercing the red heart of a distant target?",
     "options": [
-      "Arrow",
       "Spear",
+      "Arrow",
       "Boomerang",
       "Sling"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -6807,12 +6807,12 @@
     "id": "rid_407",
     "question": "What holds a round pea inside its small body, and when blown hard, shrieks sharply to bring everyone to a sudden halt?",
     "options": [
-      "Whistle",
-      "Coffee cup",
       "Volleyball",
+      "Coffee cup",
+      "Whistle",
       "Stopwatch"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6825,12 +6825,12 @@
     "id": "rid_408",
     "question": "What wears red and black rubber on both sides, bouncing a tiny white ball back and forth across a table?",
     "options": [
-      "Table tennis racket",
+      "Net",
       "Coffee cup",
       "Sneakers",
-      "Net"
+      "Table tennis racket"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6861,12 +6861,12 @@
     "id": "rid_410",
     "question": "Which mysterious light dances silently in the freezing polar night sky, swaying like silky curtains of green and violet?",
     "options": [
-      "Aurora",
       "Rainbow",
+      "Aurora",
       "Lightning",
       "Sunset glow"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6879,12 +6879,12 @@
     "id": "rid_411",
     "question": "Which trick of light beckons on hot deserts or highways like a shimmering pool of water, only to vanish into thin air as you approach?",
     "options": [
-      "Mirage",
-      "Shadow",
       "Rainbow",
+      "Shadow",
+      "Mirage",
       "Fog"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6897,12 +6897,12 @@
     "id": "rid_412",
     "question": "Which terrifying vortex spins like a giant spinning top between sky and earth, sucking everything in its path up into the clouds?",
     "options": [
-      "Tornado",
+      "Tsunami",
       "Sand dune",
       "Earthquake",
-      "Tsunami"
+      "Tornado"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6933,12 +6933,12 @@
     "id": "rid_414",
     "question": "What celestial phenomenon occurs when the dark new moon creeps in front of the sun, devouring daylight and turning midday into twilight?",
     "options": [
-      "Solar eclipse",
       "Lunar eclipse",
+      "Solar eclipse",
       "Full eclipse",
       "Dusk"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6951,12 +6951,12 @@
     "id": "rid_415",
     "question": "What falls violently from stormy summer clouds, bombarding rooftops and crops with frozen pellets of hard ice?",
     "options": [
-      "Hail",
-      "Graupel",
       "Downpour",
+      "Graupel",
+      "Hail",
       "Frost"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6969,12 +6969,12 @@
     "id": "rid_416",
     "question": "Which stone icicle hangs upside-down from dark cave ceilings, growing drop by drop over thousands of years?",
     "options": [
-      "Stalactite",
+      "Icicle",
       "Stalagmite",
       "Coral",
-      "Icicle"
+      "Stalactite"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7005,12 +7005,12 @@
     "id": "rid_418",
     "question": "Which natural force strikes when the solid earth beneath our feet trembles with fury, violently shaking ground and buildings?",
     "options": [
-      "Earthquake",
       "Landslide",
+      "Earthquake",
       "Tsunami",
       "Typhoon"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7023,12 +7023,12 @@
     "id": "rid_419",
     "question": "Which roving hill of the vast desert has no solid rocks, drifting and shifting its giant shape wherever the wind blows?",
     "options": [
-      "Sand dune",
-      "Volcano",
       "Iceberg",
+      "Volcano",
+      "Sand dune",
       "Plateau"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7041,12 +7041,12 @@
     "id": "rid_420",
     "question": "What colossal river of ancient ice, formed from thousands of years of packed snow, carves valley rock as it flows creeping imperceptibly downhill?",
     "options": [
-      "Glacier",
+      "River",
       "Iceberg",
       "Avalanche",
-      "River"
+      "Glacier"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7077,12 +7077,12 @@
     "id": "rid_422",
     "question": "Triggered by undersea earthquakes, which silent sea monster races across deep water before rising as a crushing wall at the coast?",
     "options": [
-      "Tsunami",
       "Low tide",
+      "Tsunami",
       "Waterspout",
       "Whirlpool"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7095,12 +7095,12 @@
     "id": "rid_423",
     "question": "When the bright full moon glides directly into Earth’s dark shadow, which nighttime celestial event bathes its face in an eerie crimson blood-red glow?",
     "options": [
-      "Lunar eclipse",
-      "Solar eclipse",
       "Crescent moon",
+      "Solar eclipse",
+      "Lunar eclipse",
       "Total solar eclipse"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7113,12 +7113,12 @@
     "id": "rid_424",
     "question": "Carved over millions of years by a tireless flowing river, which dizzying and colossal chasm cuts through layers of towering red rock plateaus?",
     "options": [
-      "Canyon",
+      "Sand dune",
       "Cave",
       "Crater",
-      "Sand dune"
+      "Canyon"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7149,12 +7149,12 @@
     "id": "rid_426",
     "question": "Blooming like a dazzling underwater garden for colorful fish, which living fortress is built from millions of tiny sea animal skeletons?",
     "options": [
-      "Coral reef",
       "Kelp forest",
+      "Coral reef",
       "Sunken ship",
       "Underwater cave"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7167,12 +7167,12 @@
     "id": "rid_427",
     "question": "When hollow underground voids can no longer support the weight above, what sudden cavity opens up as roads and earth swallow themselves into the ground?",
     "options": [
-      "Sinkhole",
-      "Volcanic crater",
       "Water well",
+      "Volcanic crater",
+      "Sinkhole",
       "Cave"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7185,12 +7185,12 @@
     "id": "rid_428",
     "question": "Rising from the desert horizon like a towering wall of churning dust and grit, which tempest blots out the midday sun and swallows whole landscapes?",
     "options": [
-      "Sandstorm",
+      "Fog",
       "Blizzard",
       "Yellow dust",
-      "Fog"
+      "Sandstorm"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7221,12 +7221,12 @@
     "id": "rid_430",
     "question": "Which mammal flies with wings like a bird yet has no feathers, sleeps hanging upside down in caves by day, and navigates by echolocation at night?",
     "options": [
-      "Bat",
       "Owl",
+      "Bat",
       "Squirrel",
       "Swallow"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7239,12 +7239,12 @@
     "id": "rid_431",
     "question": "Which reptile can move each of its eyes independently in different directions while blending its skin tone perfectly into twigs and leaves?",
     "options": [
-      "Chameleon",
-      "Lizard",
       "Frog",
+      "Lizard",
+      "Chameleon",
       "Crocodile"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7257,12 +7257,12 @@
     "id": "rid_432",
     "question": "Nearly blind yet armed with powerful spade-like claws, which subterranean creature spends its life tunneling through dark soil beneath our gardens?",
     "options": [
-      "Mole",
+      "Rabbit",
       "Hedgehog",
       "Badger",
-      "Rabbit"
+      "Mole"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7293,12 +7293,12 @@
     "id": "rid_434",
     "question": "Armed with thousands of tiny compound eyes across its head, which aerial acrobat hovers effortlessly in place on four gossamer wings to catch mosquitoes?",
     "options": [
-      "Dragonfly",
       "Butterfly",
+      "Dragonfly",
       "Bee",
       "Grasshopper"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7311,12 +7311,12 @@
     "id": "rid_435",
     "question": "After years underground feeding on tree root sap, which summer insect emerges to sing its deafening buzz in the trees for just a few weeks?",
     "options": [
-      "Cicada",
-      "Cricket",
       "Mantis",
+      "Cricket",
+      "Cicada",
       "Beetle"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7329,12 +7329,12 @@
     "id": "rid_436",
     "question": "Coated in slippery mucus so it squirts easily out of bare hands, which whisker-faced freshwater fish burrows happily into muddy riverbeds?",
     "options": [
-      "Loach",
+      "Eel",
       "Catfish",
       "Crucian carp",
-      "Eel"
+      "Loach"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7365,12 +7365,12 @@
     "id": "rid_438",
     "question": "Drifting through summer meadows by clean streams, which magical insect flashes a cool, bioluminescent green beacon from its abdomen to signal its mate?",
     "options": [
-      "Firefly (Lightning bug)",
       "Scarab",
+      "Firefly (Lightning bug)",
       "Mosquito",
       "Dragonfly"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7383,12 +7383,12 @@
     "id": "rid_439",
     "question": "Featuring eight sucker-covered arms, clever camouflage and a jet of black defensive ink, which intelligent sea dweller slips into narrow rock crevices?",
     "options": [
-      "Octopus",
-      "Squid",
       "Jellyfish",
+      "Squid",
+      "Octopus",
       "Starfish"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7401,12 +7401,12 @@
     "id": "rid_440",
     "question": "Forged deep within Earth under extreme pressure and heat from humble carbon, which sparkling transparent crystal is the hardest mineral?",
     "options": [
-      "Diamond",
+      "Graphite",
       "Ruby",
       "Glass",
-      "Graphite"
+      "Diamond"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7437,12 +7437,12 @@
     "id": "rid_442",
     "question": "Untarnished by air and unrusted by ocean waves, which lustrous yellow precious metal has captivated civilizations as the eternal symbol of wealth?",
     "options": [
-      "Gold",
       "Copper",
+      "Gold",
       "Brass",
       "Silver"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7455,12 +7455,12 @@
     "id": "rid_443",
     "question": "Gleaming with cool moonlight brilliance and holding the highest electrical and thermal conductivity, which white noble metal detects toxins?",
     "options": [
-      "Silver",
-      "Platinum",
       "Aluminum",
+      "Platinum",
+      "Silver",
       "Nickel"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7473,12 +7473,12 @@
     "id": "rid_444",
     "question": "Forging train rails, skyscraper frames and sturdy hammers, which most abundant heavy metal built modern civilization but bleeds red rust in damp air?",
     "options": [
-      "Iron",
+      "Zinc",
       "Copper",
       "Lead",
-      "Zinc"
+      "Iron"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7509,12 +7509,12 @@
     "id": "rid_446",
     "question": "Growing into icy hexagonal prisms as clear as glass, which quartz crystal vibrates precisely to keep time inside watches and adorns fine jewelry?",
     "options": [
-      "Rock crystal (Quartz)",
       "Diamond",
+      "Rock crystal (Quartz)",
       "Amber",
       "Pearl"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7527,12 +7527,12 @@
     "id": "rid_447",
     "question": "Glowing with the lush, vivid green of deep enchanted forests, which prized beryl gemstone was famously cherished by Queen Cleopatra of Egypt?",
     "options": [
-      "Emerald",
-      "Sapphire",
       "Ruby",
+      "Sapphire",
+      "Emerald",
       "Opal"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7545,12 +7545,12 @@
     "id": "rid_448",
     "question": "Snapping tightly onto pieces of iron yet repelling its own kind, which mystical stone guides the compass needle to point persistently North?",
     "options": [
-      "Magnet (Lodestone)",
+      "Meteorite",
       "Flint",
       "Quartzite",
-      "Meteorite"
+      "Magnet (Lodestone)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7581,12 +7581,12 @@
     "id": "rid_450",
     "question": "Wearing a cute black-and-white striped coat, which animal raises its tail when threatened to fire a nauseating foul-smelling chemical spray?",
     "options": [
-      "Skunk",
       "Raccoon",
+      "Skunk",
       "Weasel",
       "Badger"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7599,12 +7599,12 @@
     "id": "rid_451",
     "question": "Sporting a horse-like head and monkey-like tail, which upright-swimming fish is famous for the father carrying the eggs and giving birth?",
     "options": [
-      "Seahorse",
-      "Jellyfish",
       "Seal",
+      "Jellyfish",
+      "Seahorse",
       "Sea turtle"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7617,12 +7617,12 @@
     "id": "rid_452",
     "question": "Sleeping up to twenty hours a day hanging upside down from rainforest trees, which creature moves so slowly that green algae grows on its fur?",
     "options": [
-      "Sloth",
+      "Monkey",
       "Koala",
       "Panda",
-      "Monkey"
+      "Sloth"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7653,12 +7653,12 @@
     "id": "rid_454",
     "question": "Formed from fossilized tree resin millions of years ago, which warm honey-golden gemstone often preserves ancient prehistoric insects trapped inside?",
     "options": [
-      "Amber",
       "Ruby",
+      "Amber",
       "Pearl",
       "Quartz"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7671,12 +7671,12 @@
     "id": "rid_455",
     "question": "Without turning on any flashlight or lantern, who always naturally reflects ambient light with a dazzling shiny glow under the sun or ceiling bulbs?",
     "options": [
-      "Bald uncle with a smooth shiny head",
-      "Student with hands in pockets",
       "Brother with a pulled-down cap",
+      "Student with hands in pockets",
+      "Bald uncle with a smooth shiny head",
       "Friend chewing gum"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7689,12 +7689,12 @@
     "id": "rid_456",
     "question": "Silently stretching your own mouth wide open, which mysterious contagion magically forces the person sitting across from you to open theirs too?",
     "options": [
-      "Yawn",
+      "Laughter",
       "Cough",
       "Hiccup",
-      "Laughter"
+      "Yawn"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7725,12 +7725,12 @@
     "id": "rid_458",
     "question": "Arriving uninvited to shake your chest with sudden spasms, which annoying reflex is famously cured when a friend leaps out and shouts \"Boo!\"?",
     "options": [
-      "Hiccups",
       "Burp",
+      "Hiccups",
       "Sneeze",
       "Snoring"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7743,12 +7743,12 @@
     "id": "rid_459",
     "question": "Where do the glowing numbers multiply each year, requiring you to make a silent wish and blow with all your breath to earn cheers and applause?",
     "options": [
-      "Blowing out birthday candles",
-      "Inflating a balloon",
       "Blowing a whistle",
+      "Inflating a balloon",
+      "Blowing out birthday candles",
       "Soap bubbles"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7761,12 +7761,12 @@
     "id": "rid_460",
     "question": "Awakening in the morning, which satisfying stretch has you flinging arms and legs wide while letting out a groaning sigh to reboot all your muscles?",
     "options": [
-      "Morning stretch (Pandiculation)",
+      "Deep breathing",
       "Running",
       "Jump rope",
-      "Deep breathing"
+      "Morning stretch (Pandiculation)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7797,12 +7797,12 @@
     "id": "rid_462",
     "question": "Closing both eyes means you are sleeping, but closing and opening just a single eye for a split second sends a charming secret signal called what?",
     "options": [
-      "Wink",
       "Staring contest",
+      "Wink",
       "Yawn",
       "Dozing"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7815,12 +7815,12 @@
     "id": "rid_463",
     "question": "Hooking together the smallest, weakest fifth fingers on both hands and stamping thumbs together, which sacred oath seals a playground pact?",
     "options": [
-      "Pinky promise (Pinky swear)",
-      "Handshake",
       "High five",
+      "Handshake",
+      "Pinky promise (Pinky swear)",
       "Arm wrestling"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7833,12 +7833,12 @@
     "id": "rid_464",
     "question": "When celebrating a sudden victory or triumph, which gesture is complete only when two open palms slap together high in the air with a crisp clap?",
     "options": [
-      "High five",
+      "Crossing arms",
       "Handshake",
       "Applause",
-      "Crossing arms"
+      "High five"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7869,12 +7869,12 @@
     "id": "rid_466",
     "question": "Winding like a colossal stone dragon across rugged mountain ridges for thousands of miles, which ancient fortification defended imperial borders?",
     "options": [
-      "Great Wall of China",
       "Berlin Wall",
+      "Great Wall of China",
       "Pyramids of Giza",
       "Colosseum"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7887,12 +7887,12 @@
     "id": "rid_467",
     "question": "Once mocked as a monstrous heap of scrap iron, which soaring lattice tower now defines romance against the Paris skyline?",
     "options": [
-      "Eiffel Tower",
-      "Tokyo Tower",
       "Leaning Tower of Pisa",
+      "Tokyo Tower",
+      "Eiffel Tower",
       "Empire State Building"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7905,12 +7905,12 @@
     "id": "rid_468",
     "question": "Built from millions of massive limestone blocks rising like triangular stone mountains from desert sands, what served as eternal tombs for Pharaohs?",
     "options": [
-      "Pyramids of Egypt",
+      "Taj Mahal",
       "Sphinx",
       "Parthenon",
-      "Taj Mahal"
+      "Pyramids of Egypt"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7941,12 +7941,12 @@
     "id": "rid_470",
     "question": "Smiling with eighty-eight black and white teeth, which grand \"King of Instruments\" sings rich harmonies whenever fingertips tap its keys?",
     "options": [
-      "Piano",
       "Violin",
+      "Piano",
       "Drums",
       "Harp"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7959,12 +7959,12 @@
     "id": "rid_471",
     "question": "Tucked snugly beneath the chin and caressed by a horsehair bow, which four-stringed wooden instrument sings with the soulful voice of human sorrow?",
     "options": [
-      "Violin (Fiddle)",
-      "Guitar",
       "Cello",
+      "Guitar",
+      "Violin (Fiddle)",
       "Ukulele"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7977,12 +7977,12 @@
     "id": "rid_472",
     "question": "Punished with wooden sticks in both hands and foot pedals below, which percussion set drives pulses racing with thundering rhythm?",
     "options": [
-      "Drum kit",
+      "Trumpet",
       "Piano",
       "Flute",
-      "Trumpet"
+      "Drum kit"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8013,12 +8013,12 @@
     "id": "rid_474",
     "question": "Small enough to hide in your pocket yet rich enough to play blues and folk, which pocket instrument sings through both inhaling and exhaling breath?",
     "options": [
-      "Harmonica (Mouth harp)",
       "Ocarina",
+      "Harmonica (Mouth harp)",
       "Recorder",
       "Trumpet"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8031,12 +8031,12 @@
     "id": "rid_475",
     "question": "Never duplicated among billions of humans, which swirling ridge pattern on your fingertips acts as your personal natural ID card?",
     "options": [
-      "Fingerprint",
-      "Fingernail",
       "Back of hand",
+      "Fingernail",
+      "Fingerprint",
       "Palm line"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8049,12 +8049,12 @@
     "id": "rid_476",
     "question": "Composed of two hundred and six rigid white pillars framed inside your body, what prevents your soft flesh from collapsing into a heap?",
     "options": [
-      "Bones (Skeleton)",
+      "Skin",
       "Muscles",
       "Blood vessels",
-      "Skin"
+      "Bones (Skeleton)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8085,12 +8085,12 @@
     "id": "rid_478",
     "question": "Left behind the very moment you entered this world when your lifeline to your mother was severed, what little button marks the center of your belly?",
     "options": [
-      "Belly button (Navel)",
       "Birthmark",
+      "Belly button (Navel)",
       "Scar",
       "Rib"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8103,12 +8103,12 @@
     "id": "rid_479",
     "question": "Protected within the bony fortress of your skull like a wrinkled walnut, which supreme command center orchestrates every thought, memory and breath?",
     "options": [
-      "Brain",
-      "Heart",
       "Lungs",
+      "Heart",
+      "Brain",
       "Stomach"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8121,12 +8121,12 @@
     "id": "rid_480",
     "question": "Sleeping in a coffin by day and flying as a bat by night, which dark count hungers for human blood yet dreads garlic, silver crucifixes and sunlight?",
     "options": [
-      "Count Dracula (Vampire)",
+      "Zombie",
       "Werewolf",
       "Mummy",
-      "Zombie"
+      "Count Dracula (Vampire)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8157,12 +8157,12 @@
     "id": "rid_482",
     "question": "Wrapped from head to toe in ancient linen bandages, which cursed Egyptian monarch rises from a dusty sarcophagus to haunt grave robbers?",
     "options": [
-      "Mummy",
       "Skeleton",
+      "Mummy",
       "Zombie",
       "Ghost"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8175,12 +8175,12 @@
     "id": "rid_483",
     "question": "Living as an ordinary mortal by day, which cursed soul transforms under the gaze of a full moon, sprouting fangs and fur to howl at the night?",
     "options": [
-      "Werewolf (Lycanthrope)",
-      "Dracula",
       "Nine-tailed fox",
+      "Dracula",
+      "Werewolf (Lycanthrope)",
       "Yeti"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8193,12 +8193,12 @@
     "id": "rid_484",
     "question": "Devoid of all thought and soul, driven only by an insatiable hunger for the living, which slow-shuffling undead horde groans through apocalyptic streets?",
     "options": [
-      "Zombie",
+      "Frankenstein",
       "Jiangshi",
       "Skeleton warrior",
-      "Frankenstein"
+      "Zombie"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8229,12 +8229,12 @@
     "id": "rid_486",
     "question": "Dressed in ornate Qing Dynasty robes with a yellow talisman pinned to its forehead, which hopping corpse bounces forward with outstretched stiff arms?",
     "options": [
-      "Jiangshi (Hopping Vampire)",
       "Dokkaebi (Goblin)",
+      "Jiangshi (Hopping Vampire)",
       "Zombie",
       "Mummy"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8247,12 +8247,12 @@
     "id": "rid_487",
     "question": "Breathing and leaving footprints right before your eyes, who vanishes utterly into thin air the moment they unwrap bandages and shed clothes?",
     "options": [
-      "Invisible Man",
-      "Ghost",
       "Shadow",
+      "Ghost",
+      "Invisible Man",
       "Goblin"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8265,12 +8265,12 @@
     "id": "rid_488",
     "question": "Cloaked in a black hooded cowl and wielding a giant harvesting scythe, which Western grim personification of death arrives to reap departing souls?",
     "options": [
-      "Grim Reaper",
+      "Cupid",
       "King Yama",
       "Hades",
-      "Cupid"
+      "Grim Reaper"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8301,12 +8301,12 @@
     "id": "rid_490",
     "question": "Winged like a playful cherub and armed with a magical bow, which god of desire shoots golden arrows that compel anyone struck to fall madly in love?",
     "options": [
-      "Cupid",
       "Grim Reaper",
+      "Cupid",
       "Hermes",
       "Fairy"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8319,12 +8319,12 @@
     "id": "rid_491",
     "question": "Treated as a towering giant in a kingdom of tiny people, yet cradled in a giant’s palm, which English traveler sailed into legend?",
     "options": [
-      "Lemuel Gulliver",
-      "Robinson Crusoe",
       "Sinbad",
+      "Robinson Crusoe",
+      "Lemuel Gulliver",
       "Peter Pan"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8337,12 +8337,12 @@
     "id": "rid_492",
     "question": "Rubbing an ancient dusty oil lamp to clean it, which streetwise youth summons the mighty blue Genie to grant him three wishes?",
     "options": [
-      "Aladdin",
+      "Little Prince",
       "Ali Baba",
       "Sinbad",
-      "Little Prince"
+      "Aladdin"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8373,12 +8373,12 @@
     "id": "rid_494",
     "question": "Driven mad by chivalric romances, which eccentric knight mounts his skinny steed Rocinante to charge fearlessly at windmills he mistakes for giants?",
     "options": [
-      "Don Quixote",
       "Robin Hood",
+      "Don Quixote",
       "King Arthur",
       "D’Artagnan"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8391,12 +8391,12 @@
     "id": "rid_495",
     "question": "Raised in the Indian jungle by a pack of wolves, which human \"man-cub\" learns the laws of the wild with Baloo the bear and Bagheera the panther?",
     "options": [
-      "Mowgli",
-      "Tarzan",
       "Peter Pan",
+      "Tarzan",
+      "Mowgli",
       "Hercules"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8409,12 +8409,12 @@
     "id": "rid_496",
     "question": "Imprisoned inside a tall tower without doors or stairs, which fair maiden lowered her enchantingly long golden hair as a ladder for her prince?",
     "options": [
-      "Rapunzel",
+      "The Little Mermaid",
       "Cinderella",
       "Sleeping Beauty",
-      "The Little Mermaid"
+      "Rapunzel"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8445,12 +8445,12 @@
     "id": "rid_498",
     "question": "Strutting in fine leather cavalier boots, which clever talking feline used sharp wits and silver tongue to make his poor master a wealthy nobleman?",
     "options": [
-      "Puss in Boots",
       "Town Musicians of Bremen",
+      "Puss in Boots",
       "Cheshire Cat",
       "Peter Rabbit"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8463,12 +8463,12 @@
     "id": "rid_499",
     "question": "Dressed in Lincoln green within Sherwood Forest, which legendary English outlaw archer stole from the corrupt rich to give back to the poor?",
     "options": [
-      "Robin Hood",
-      "William Tell",
       "Don Quixote",
+      "William Tell",
+      "Robin Hood",
       "The Three Musketeers"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8481,12 +8481,12 @@
     "id": "rid_500",
     "question": "Sentenced to nineteen years for stealing bread to feed starving children, who was redeemed by a bishop’s silver candlesticks to become a savior?",
     "options": [
-      "Jean Valjean",
+      "Quasimodo",
       "Count of Monte Cristo",
       "Oliver Twist",
-      "Quasimodo"
+      "Jean Valjean"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8517,12 +8517,12 @@
     "id": "rid_502",
     "question": "Sought across dreamlands by children seeking true happiness, which legendary bird was finally discovered waiting quietly in their own home cage?",
     "options": [
-      "The Blue Bird",
       "Phoenix",
+      "The Blue Bird",
       "Dove",
       "Magpie"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8535,12 +8535,12 @@
     "id": "rid_503",
     "question": "Smashing frying pans and setting mousetraps in endless slapstick chases yet inseparable deep down, who are the world’s most iconic cat-and-mouse rivals?",
     "options": [
-      "Tom and Jerry",
-      "Batman and Robin",
       "Dumb and Dumber",
+      "Batman and Robin",
+      "Tom and Jerry",
       "Holmes and Watson"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8553,12 +8553,12 @@
     "id": "rid_504",
     "question": "Flown across night skies by reindeer and sliding down chimneys to deliver gifts to good children on Christmas Eve, who is this festive figure?",
     "options": [
-      "Santa Claus",
+      "The Nutcracker",
       "Rudolph",
       "Elf",
-      "The Nutcracker"
+      "Santa Claus"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8589,12 +8589,12 @@
     "id": "rid_506",
     "question": "Caring for a single rose on Asteroid B-612 before voyaging across worlds to meet a stranded aviator in the Sahara, who is this golden-haired boy?",
     "options": [
-      "The Little Prince",
       "Peter Pan",
+      "The Little Prince",
       "Pinocchio",
       "Aladdin"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8607,12 +8607,12 @@
     "id": "rid_507",
     "question": "Which legendary Arabian mariner sailed seven mythical voyages, escaping giant Roc birds and mistaking a sleeping whale for a tranquil island?",
     "options": [
-      "Sinbad the Sailor",
-      "Robinson Crusoe",
       "Gulliver",
+      "Robinson Crusoe",
+      "Sinbad the Sailor",
       "Peter Pan"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8625,12 +8625,12 @@
     "id": "rid_508",
     "question": "Pulling the mystical sword Excalibur from a stone to claim the throne and gathering the Knights of the Round Table at Camelot, who is this legendary king?",
     "options": [
-      "King Arthur",
+      "Alexander the Great",
       "Robin Hood",
       "Don Quixote",
-      "Alexander the Great"
+      "King Arthur"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8661,12 +8661,12 @@
     "id": "rid_510",
     "question": "Living in a hidden village of mushroom houses in the forest, which tiny blue creatures constantly outsmart the wicked wizard Gargamel and his cat?",
     "options": [
-      "The Smurfs",
       "Minions",
+      "The Smurfs",
       "Teletubbies",
       "Trolls"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8679,12 +8679,12 @@
     "id": "rid_511",
     "question": "Teased by farmyard animals for being clumsy and gray, which nestling endured a harsh winter before discovering it had grown into a majestic swan?",
     "options": [
-      "The Ugly Duckling",
-      "The Blue Bird",
       "Tweety",
+      "The Blue Bird",
+      "The Ugly Duckling",
       "Puss in Boots"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8697,12 +8697,12 @@
     "id": "rid_512",
     "question": "Turned into a child by poison yet keeping his brilliant mind, which high-school sleuth solves crimes with a tranquilizer watch and voice-changing bow tie?",
     "options": [
-      "Conan Edogawa",
+      "Arsène Lupin",
       "Sherlock Holmes",
       "Hercule Poirot",
-      "Arsène Lupin"
+      "Conan Edogawa"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8734,11 +8734,11 @@
     "question": "A rabbit and a turtle raced, and the rabbit sprinted without napping. Why did the turtle finish first?",
     "options": [
       "The rabbit took a wrong turn",
-      "The turtle secretly took a shortcut",
       "It was a swimming race",
+      "The turtle secretly took a shortcut",
       "The rabbit got a cramp"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8752,11 +8752,11 @@
     "question": "There were five apples in a basket. I took three. How many apples are in my hand?",
     "options": [
       "2",
-      "3",
       "5",
+      "3",
       "0"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -8771,10 +8771,10 @@
     "options": [
       "The penguin swims away",
       "The bear eats it instantly",
-      "They can never meet",
-      "A penguin flock drives the bear off"
+      "A penguin flock drives the bear off",
+      "They can never meet"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8787,12 +8787,12 @@
     "id": "rid_904",
     "question": "What star is never visible by day and disappears on rainy nights?",
     "options": [
-      "The North Star",
-      "The Weaver and Cowherd stars",
       "A star in the sky",
+      "The Weaver and Cowherd stars",
+      "The North Star",
       "The pupil of the eye"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8806,11 +8806,11 @@
     "question": "A person walked in pouring rain with no umbrella or hat, yet not a single hair got wet. Why?",
     "options": [
       "Walked only under eaves",
-      "Used waterproof spray",
       "Had no hair at all",
+      "Used waterproof spray",
       "Ran faster than the rain"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8843,10 +8843,10 @@
     "options": [
       "Green bricks",
       "Insulation blocks",
-      "Glass",
-      "Plastic film"
+      "Plastic film",
+      "Glass"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8859,12 +8859,12 @@
     "id": "rid_908",
     "question": "Some months have 31 days, some have 30. How many months have 28 days?",
     "options": [
-      "Only one (February)",
-      "One in a leap year",
       "Twelve (all of them)",
+      "One in a leap year",
+      "Only one (February)",
       "Seven"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8897,10 +8897,10 @@
     "options": [
       "In Korea, the departure country",
       "In Japan, the arrival country",
-      "In a joint border cemetery",
-      "They shouldn’t be buried"
+      "They shouldn’t be buried",
+      "In a joint border cemetery"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8931,12 +8931,12 @@
     "id": "rid_912",
     "question": "In the Old Testament, how many pairs of each animal did Moses put on the ark?",
     "options": [
-      "One pair",
-      "Seven pairs",
       "Zero pairs",
+      "Seven pairs",
+      "One pair",
       "Two pairs"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8950,11 +8950,11 @@
     "question": "How can you drop a raw egg from a 10-story rooftop onto concrete without the concrete cracking?",
     "options": [
       "Wrap the egg in padding",
-      "Attach a parachute",
       "Just drop it",
+      "Attach a parachute",
       "Lay a mattress on the ground"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8968,11 +8968,11 @@
     "question": "A farmer had seventeen sheep. All but nine died of disease. How many sheep survived?",
     "options": [
       "8",
-      "9",
       "0",
+      "9",
       "17"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8986,11 +8986,11 @@
     "question": "A bat and a ball cost 11,000 won together. The bat costs 10,000 won more than the ball. How much is the ball?",
     "options": [
       "1,000 won",
-      "500 won",
+      "2,000 won",
       "100 won",
-      "2,000 won"
+      "500 won"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9003,12 +9003,12 @@
     "id": "rid_916",
     "question": "There were apples on a tree. After I picked some, neither the tree nor my hand had any apples left. What happened?",
     "options": [
-      "I dropped them on the ground",
-      "I ate them right away",
       "There were two; I picked only one",
+      "I ate them right away",
+      "I dropped them on the ground",
       "Someone else snatched them"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9022,11 +9022,11 @@
     "question": "A square table has four corners. You cut one corner off cleanly with a saw. How many corners remain?",
     "options": [
       "3",
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9059,10 +9059,10 @@
     "options": [
       "Falls toward Earth",
       "Flies toward the Sun",
-      "Floats right where it is",
-      "Gets pulled by the nearest planet"
+      "Gets pulled by the nearest planet",
+      "Floats right where it is"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9075,12 +9075,12 @@
     "id": "rid_920",
     "question": "A hole is 3 m deep, 2 m wide and 2 m long. How much dirt is inside the hole?",
     "options": [
-      "12 m³",
-      "6 m³",
       "0 m³ (none at all)",
+      "6 m³",
+      "12 m³",
       "1 m³"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9094,11 +9094,11 @@
     "question": "It was pouring rain, yet the driver of a topless convertible stayed completely dry. Why?",
     "options": [
       "Wore a clear raincoat",
-      "Drove faster than the rain",
       "Was driving through a long tunnel",
+      "Drove faster than the rain",
       "Wore special water-repellent clothes"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9130,11 +9130,11 @@
     "question": "A doctor told a patient to take one pill every 30 minutes and prescribed three pills. How long to finish them all?",
     "options": [
       "1 hour 30 minutes",
-      "1 hour",
+      "2 hours",
       "45 minutes",
-      "2 hours"
+      "1 hour"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9147,12 +9147,12 @@
     "id": "rid_924",
     "question": "Ten goldfish are in a tank. Three drown and two escape. How many remain in the tank?",
     "options": [
-      "5",
-      "7",
       "10",
+      "7",
+      "5",
       "8"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9166,11 +9166,11 @@
     "question": "Two men played five games of chess. No draws, yet both won three games. How?",
     "options": [
       "Match-fixing",
-      "Both awarded wins after disputes",
       "Each played different opponents",
+      "Both awarded wins after disputes",
       "Odd-game rule quirk"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9203,10 +9203,10 @@
     "options": [
       "A rock equal to their weight",
       "A 200 kg barbell",
-      "Their own breath",
-      "An iron dumbbell"
+      "An iron dumbbell",
+      "Their own breath"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9219,12 +9219,12 @@
     "id": "rid_928",
     "question": "A steel ball is dropped straight down from the top railing of the Eiffel Tower. What does it hit first?",
     "options": [
-      "The grass below the tower",
-      "The pedestrian plaza floor",
       "The tower’s lower iron structure",
+      "The pedestrian plaza floor",
+      "The grass below the tower",
       "The surface of the Seine"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9274,11 +9274,11 @@
     "question": "An American was born and raised his whole life on American soil. Yet he has never been able to vote legally in the United States. Why?",
     "options": [
       "He has a criminal record",
-      "He is still an 8-year-old child",
+      "He holds dual citizenship",
       "His citizenship was revoked",
-      "He holds dual citizenship"
+      "He is still an 8-year-old child"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9291,12 +9291,12 @@
     "id": "rid_932",
     "question": "A policeman chased a thief into a dead-end alley and lost him right in front of his eyes. The thief had no wings and didn’t climb the wall. How did he vanish?",
     "options": [
-      "Used an invisibility cloak",
       "Opened a manhole cover and went down",
+      "Used an invisibility cloak",
       "The policeman blinked",
       "There was actually no thief in the alley"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9310,11 +9310,11 @@
     "question": "A man went 25 days without sleeping a wink yet lived a perfectly normal daily life. How was that possible?",
     "options": [
       "Took special stimulants",
-      "Held a Guinness record",
       "He only slept at night",
+      "Held a Guinness record",
       "Slept standing with light dozes"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9328,11 +9328,11 @@
     "question": "The maker doesn’t need it so sells it, the buyer never uses it, and the actual user doesn’t know he’s using it. What is it?",
     "options": [
       "Sleep mask",
-      "Coffin",
       "Baby diaper",
+      "Coffin",
       "Gift wrapping paper"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9346,11 +9346,11 @@
     "question": "Cheolsu and Younghee drank the same iced coffee. Younghee finished in one minute; Cheolsu sipped for 30 minutes. Only Cheolsu was poisoned. Why?",
     "options": [
       "Only Cheolsu’s straw had poison",
-      "The poison was in the ice that melted slowly",
+      "The waiter later secretly added poison",
       "Younghee had strong detox ability",
-      "The waiter later secretly added poison"
+      "The poison was in the ice that melted slowly"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9363,12 +9363,12 @@
     "id": "rid_936",
     "question": "A woman crossed another country’s border freely with no ID, wallet or passport and no inspection. How?",
     "options": [
-      "Diplomatic immunity",
-      "Hid in a smuggling ship’s cargo",
       "She was a newborn baby",
+      "Hid in a smuggling ship’s cargo",
+      "Diplomatic immunity",
       "No border fence between the countries"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9382,11 +9382,11 @@
     "question": "A ship had a captain and ten sailors. The captain stepped on deck, the ship rocked and all fell into the sea. Yet no hair got wet. Why?",
     "options": [
       "All wore fully waterproof diving hoods",
-      "The seawater was frozen solid",
       "Every person on board was bald",
+      "The seawater was frozen solid",
       "They climbed into a lifeboat without touching water"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9400,11 +9400,11 @@
     "question": "What is the correct way to cut one apple into exactly eight pieces with only three straight cuts?",
     "options": [
       "Three thin vertical slices",
-      "Two cross cuts then one horizontal cut",
       "Three diagonal cuts",
+      "Two cross cuts then one horizontal cut",
       "Mark eighths and carve triangles"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9417,12 +9417,12 @@
     "id": "rid_939",
     "question": "A man jumped from an airplane without a parachute and landed unharmed. How?",
     "options": [
-      "The plane was parked on the runway",
+      "He wore a special wingsuit",
       "A huge haystack was below",
       "He fell into water from very low altitude",
-      "He wore a special wingsuit"
+      "The plane was parked on the runway"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9435,12 +9435,12 @@
     "id": "rid_940",
     "question": "A and B raced 100 m. When A finished, B was at the 90 m mark. In the second race A started 10 m behind. If they run at the same speeds, what is the result?",
     "options": [
-      "They finish together",
       "A still wins",
+      "They finish together",
       "B wins by a hair",
       "Equal distance so a draw"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9454,11 +9454,11 @@
     "question": "What gets dirtier the more you wash it, no matter how cleanly you scrub?",
     "options": [
       "A mop",
-      "Soap",
       "The washing water",
+      "Soap",
       "A towel"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9491,10 +9491,10 @@
     "options": [
       "Thousands depending on volume",
       "Until surface tension holds",
-      "Exactly one drop",
-      "Unlimited until full"
+      "Unlimited until full",
+      "Exactly one drop"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9507,12 +9507,12 @@
     "id": "rid_944",
     "question": "A boy threw a baseball hard. It hit no wall, no one touched it, and it wasn’t tied to a string, yet it returned exactly to his hand. How did he throw it?",
     "options": [
-      "Gave it strong spin for a curve",
       "Threw it straight up vertically",
+      "Gave it strong spin for a curve",
       "Threw it in a boomerang arc",
       "Threw against the wind"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9526,11 +9526,11 @@
     "question": "Two fathers and two sons went fishing and each caught one fish. Yet when they gathered the fish there were only three. No one lost any. Why three?",
     "options": [
       "One failed to catch",
-      "The pond keeper took one",
       "They were three generations: grandfather, father, grandson",
+      "The pond keeper took one",
       "One fish was caught twice"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9544,11 +9544,11 @@
     "question": "You must open a heavy iron door. Of the ten keys on the ring only one works. What is the maximum number of keys you need to try?",
     "options": [
       "10",
-      "9",
       "1",
+      "9",
       "5"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9563,10 +9563,10 @@
     "options": [
       "Black",
       "Light gray",
-      "White",
-      "Transparent"
+      "Transparent",
+      "White"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9579,12 +9579,12 @@
     "id": "rid_948",
     "question": "A sealed room is full of air. What is the fastest way to remove the air from the room?",
     "options": [
-      "Run a huge fan at maximum",
-      "Suck it out with a vacuum pump",
       "Fill the room with water or furniture",
+      "Suck it out with a vacuum pump",
+      "Run a huge fan at maximum",
       "Open the windows wide"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9598,11 +9598,11 @@
     "question": "The pilot’s instruments all failed mid-flight, yet he landed exactly on target. What was the only thing he looked at?",
     "options": [
       "The North Star and constellations",
-      "Radio guidance from the tower",
       "The runway lights",
+      "Radio guidance from the tower",
       "A smartphone compass app"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9616,11 +9616,11 @@
     "question": "At the South Pole you walk 10 km straight toward the pole star, turn 90° right, and walk 10 km more. Which direction are you from the South Pole now?",
     "options": [
       "East",
-      "North",
       "Southeast",
+      "North",
       "West"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9634,11 +9634,11 @@
     "question": "A student took a test without studying at all and handed in a blank paper yet scored 100. How?",
     "options": [
       "Teacher graded wrong",
-      "It was an eye-chart test",
+      "All questions were oral",
       "Papers were switched with another student",
-      "All questions were oral"
+      "It was an eye-chart test"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9651,12 +9651,12 @@
     "id": "rid_952",
     "question": "Who can be completely underwater yet stay dry and still breathe?",
     "options": [
-      "A haenyeo diver",
       "Crew inside a submarine",
+      "A haenyeo diver",
       "A competitive swimmer",
       "A scuba diver"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9669,12 +9669,12 @@
     "id": "rid_953",
     "question": "Two people played rock-paper-scissors ten times in a row and both only threw rock, so all ten were ties. What is the total number of fingers they extended?",
     "options": [
-      "0",
       "100",
+      "0",
       "50",
       "20"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9688,11 +9688,11 @@
     "question": "A person shaves dozens of beards every day yet keeps a full bushy beard on his own face. What is his job?",
     "options": [
       "Razor-factory inspector",
-      "Barber",
       "Special-effects makeup artist",
+      "Barber",
       "Dermatologist"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9723,12 +9723,12 @@
     "id": "rid_956",
     "question": "One of the four tires on a highway car went flat. Yet the driver reached the destination at normal speed with no problem. How?",
     "options": [
-      "It was a run-flat tire",
       "The spare tire in the trunk was the flat one",
+      "It was a run-flat tire",
       "Drove balanced on three wheels",
       "Was towed the whole way"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9777,12 +9777,12 @@
     "id": "rid_959",
     "question": "Your ship capsized in the middle of the ocean. What is the real reason you must never drink seawater while waiting for rescue?",
     "options": [
-      "High salt content causes faster dehydration",
+      "Body temperature drops rapidly",
       "Sharks are attracted to blood scent",
       "It causes stomach pain",
-      "Body temperature drops rapidly"
+      "High salt content causes faster dehydration"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9795,12 +9795,12 @@
     "id": "rid_960",
     "question": "A patient told the doctor, “My whole body hurts. When I touch my head it hurts, when I touch my leg it hurts.” What was the diagnosis?",
     "options": [
-      "Whole-body neuralgia",
-      "Fibromyalgia",
       "Broken finger",
+      "Fibromyalgia",
+      "Whole-body neuralgia",
       "Faking illness"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9850,11 +9850,11 @@
     "question": "A child stopped at a red pedestrian light. A blind person behind crossed exactly on green without seeing the signal. How did he know?",
     "options": [
       "Guide dog distinguished the colors",
-      "He heard the audible pedestrian signal",
+      "He judged by car horns",
       "He listened to other people’s footsteps",
-      "He judged by car horns"
+      "He heard the audible pedestrian signal"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9867,12 +9867,12 @@
     "id": "rid_964",
     "question": "In a dark room I lit a candle and looked in a mirror. Why is the me in the mirror holding the candle in the right hand?",
     "options": [
-      "Mirror curvature distortion",
       "Because I am actually holding it in my left hand",
+      "Mirror curvature distortion",
       "Because of light refraction",
       "The reflection is rotated 180 degrees"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9905,10 +9905,10 @@
     "options": [
       "10 times",
       "11 times",
-      "19 times",
-      "20 times"
+      "20 times",
+      "19 times"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9923,10 +9923,10 @@
     "options": [
       "He is a sage with no desire for money",
       "It was an expired bounced check",
-      "A soccer ball had a 100-million-won sticker on it",
-      "He thought it was wind-blown trash"
+      "He thought it was wind-blown trash",
+      "A soccer ball had a 100-million-won sticker on it"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9939,12 +9939,12 @@
     "id": "rid_968",
     "question": "On a frictionless ice sheet a heavy steel ball and a light ping-pong ball are blown hard. Which travels farther?",
     "options": [
-      "The ping-pong ball",
-      "The steel ball",
       "Both roll forever without stopping",
+      "The steel ball",
+      "The ping-pong ball",
       "The steel ball because of air resistance"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9958,11 +9958,11 @@
     "question": "In baseball, how can a batter reach first base without swinging at the ball?",
     "options": [
       "Catcher drops the third strike (dropped third)",
-      "Pitcher commits a balk",
       "Hit by pitch or four balls (walk)",
+      "Pitcher commits a balk",
       "Interference is called"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9994,11 +9994,11 @@
     "question": "Walking past a streetlamp at night, how does the length of your shadow change as you get closer to the lamp?",
     "options": [
       "It grows longer",
-      "It grows shorter",
+      "It disappears completely",
       "It stays the same",
-      "It disappears completely"
+      "It grows shorter"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10011,12 +10011,12 @@
     "id": "rid_972",
     "question": "A boy stands on the tenth rung of a ladder hanging from a ship. Waves raise the water by two rungs. Which rung is he standing on now?",
     "options": [
-      "8th rung",
-      "12th rung",
       "10th rung",
+      "12th rung",
+      "8th rung",
       "0th rung under water"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10048,11 +10048,11 @@
     "question": "What is the fastest way to float a boat on the completely frozen Han River?",
     "options": [
       "Break the ice with an icebreaker",
-      "Simply place the boat on the ice",
       "Melt the ice with heaters",
+      "Simply place the boat on the ice",
       "Wait until spring"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10067,10 +10067,10 @@
     "options": [
       "Used infrared night-vision goggles",
       "Had walked the same path by day",
-      "Walked with a smartphone flashlight on",
-      "Used a white cane for the blind"
+      "Used a white cane for the blind",
+      "Walked with a smartphone flashlight on"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10083,12 +10083,12 @@
     "id": "rid_976",
     "question": "Two people met on a narrow single-log bridge with no shoulder and walked past each other safely without stepping aside. How?",
     "options": [
-      "One dove into the water",
       "Both were walking in the same direction",
+      "One dove into the water",
       "The bridge had two levels in the air",
       "One carried the other across"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10102,11 +10102,11 @@
     "question": "Why can certain animals live their whole lives in perfect health without ever drinking water?",
     "options": [
       "They synthesize water inside the body",
-      "They only lick dew",
       "The moisture in their food (cactus, grass, seeds) is enough",
+      "They only lick dew",
       "They eat soil instead of water"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10120,11 +10120,11 @@
     "question": "An elevator’s capacity is “10 adults (700 kg total).” Eight adults (550 kg) boarded yet the overload alarm sounded and the door wouldn’t close. Why?",
     "options": [
       "Sensor zero-point failure",
-      "One of them carried heavy metal cargo",
       "A child was hiding among them",
+      "One of them carried heavy metal cargo",
       "Floor springs were worn out"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10138,11 +10138,11 @@
     "question": "Walking a forest path by day, my shadow stretched long in front of me. Which direction am I walking?",
     "options": [
       "Toward the rising sun",
-      "Away from the sun (sun at my back)",
+      "Due north",
       "Due south",
-      "Due north"
+      "Away from the sun (sun at my back)"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10174,11 +10174,11 @@
     "question": "A passenger boarded a ferry to cross a river. Besides the boatman there were no other passengers, yet the boat sank in mid-river. Why?",
     "options": [
       "A hole in the bottom",
-      "The boatman weighed 500 kg",
+      "It was loaded with heavy cargo",
       "It hit a submerged rock",
-      "It was loaded with heavy cargo"
+      "The boatman weighed 500 kg"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10211,10 +10211,10 @@
     "options": [
       "Strong upward wind",
       "The bullet was a ricochet round",
-      "His own bedroom is also on the 10th floor",
-      "Laser reflection on the glass"
+      "Laser reflection on the glass",
+      "His own bedroom is also on the 10th floor"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10246,11 +10246,11 @@
     "question": "A glass bottle sinks to the bottom of the Mariana Trench, the deepest ocean. What is inside the bottle?",
     "options": [
       "Ultra-high-pressure seawater",
-      "Vacuum air",
       "Seawater",
+      "Vacuum air",
       "Broken glass shards"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10264,11 +10264,11 @@
     "question": "What is the main reason drivers turn on headlights when entering a tunnel?",
     "options": [
       "To light the road ahead",
-      "To let other drivers see their position",
       "To prevent battery drain",
+      "To let other drivers see their position",
       "To trigger tunnel sensors"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10283,10 +10283,10 @@
     "options": [
       "Lane 8 starts much farther forward",
       "Lane 1 starts farther forward",
-      "All starting lines are in a straight line and identical",
-      "They are staggered zigzag"
+      "They are staggered zigzag",
+      "All starting lines are in a straight line and identical"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10299,12 +10299,12 @@
     "id": "rid_988",
     "question": "A person easily lifted a 100 kg sack of rice yet could not hold a 10 g feather on the palm for one hour. Why?",
     "options": [
-      "Feather allergy",
       "Arm muscles tire from holding horizontal",
+      "Feather allergy",
       "Wind blew the feather away",
       "Static electricity from the feather"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10355,10 +10355,10 @@
     "options": [
       "100",
       "90",
-      "45",
-      "10"
+      "10",
+      "45"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10371,12 +10371,12 @@
     "id": "rid_992",
     "question": "How many times do the hour and minute hands of a clock exactly overlap between noon and midnight?",
     "options": [
-      "12 times",
       "11 times",
+      "12 times",
       "10 times",
       "24 times"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10390,11 +10390,11 @@
     "question": "A man was lost in a snowstorm on a mountain with a smartphone, yet he could not call 911. Why?",
     "options": [
       "Battery was dead",
-      "Gloves prevented touch input",
       "No cell-signal coverage in the deep mountains",
+      "Gloves prevented touch input",
       "He forgot the emergency PIN"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10408,11 +10408,11 @@
     "question": "A dog is tied with a 5 m rope in the corner of a 10 m × 10 m room. What shape is the area it can freely roam?",
     "options": [
       "A full circle",
-      "A quarter-circle (sector)",
       "A square",
+      "A quarter-circle (sector)",
       "A semicircle"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10427,10 +10427,10 @@
     "options": [
       "Always even",
       "Always odd",
-      "Could be either even or odd",
-      "Impossible to know"
+      "Impossible to know",
+      "Could be either even or odd"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10443,12 +10443,12 @@
     "id": "rid_996",
     "question": "A cruise ship hit a reef and began sinking. Passengers in life jackets jumped in, yet some still sank. Why?",
     "options": [
-      "They wore lead vests instead",
       "They hugged heavy gold-bar bags",
+      "They wore lead vests instead",
       "Seawater is less dense than fresh water",
       "They didn’t tighten the straps"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10479,12 +10479,12 @@
     "id": "rid_998",
     "question": "Which floats on water—a baseball or a tennis ball?",
     "options": [
-      "The hollow rubber ball",
-      "The baseball",
       "Both float",
+      "The baseball",
+      "The hollow rubber ball",
       "Both sink"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10498,11 +10498,11 @@
     "question": "Tickets numbered 1 to 50 are in a box. Is the chance of drawing a prime higher or lower than drawing a non-prime?",
     "options": [
       "Prime higher",
-      "Composite (excluding 1) higher",
+      "Impossible to tell",
       "Exactly 50-50",
-      "Impossible to tell"
+      "Composite (excluding 1) higher"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10515,12 +10515,12 @@
     "id": "rid_1000",
     "question": "Two cars faced each other at 60 km/h inside a one-lane one-way tunnel yet never collided. Why?",
     "options": [
-      "One was reversing",
+      "They were actually traveling the same direction",
       "They entered opposite ends and stopped",
       "One was being towed",
-      "They were actually traveling the same direction"
+      "One was reversing"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10533,12 +10533,12 @@
     "id": "rid_1001",
     "question": "On a clear day a pedestrian stopped at a crosswalk even though the light was green. Why?",
     "options": [
-      "It was the vehicle signal that was green",
       "The bulb was broken",
+      "It was the vehicle signal that was green",
       "He was staring at his phone",
       "Sudden leg cramp"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10552,11 +10552,11 @@
     "question": "A woman wanted to go from floor 15 to floor 1, but the elevator had no “1” button. How did she reach the ground floor?",
     "options": [
       "Pressed the emergency button",
-      "Pressed “G” or “L”",
       "Took the stairs",
+      "Pressed “G” or “L”",
       "Called the front desk"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10571,10 +10571,10 @@
     "options": [
       "The heavier baseball",
       "The larger soccer ball",
-      "Both at the same time",
-      "The bouncing soccer ball"
+      "The bouncing soccer ball",
+      "Both at the same time"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10606,11 +10606,11 @@
     "question": "A car’s headlights were both out on a dark night road, yet the driver stopped exactly before a black-clad pedestrian. How did he see him?",
     "options": [
       "Wore night-vision goggles",
-      "Pedestrian wore a reflective vest",
       "Streetlights brightly lit the road",
+      "Pedestrian wore a reflective vest",
       "Pedestrian waved a phone light"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10624,11 +10624,11 @@
     "question": "A 1 kg steel ball and a 1 kg cotton ball are placed on a balance scale in ordinary air. Which side goes down?",
     "options": [
       "Cotton side",
-      "Steel side",
       "Perfectly level",
+      "Steel side",
       "Impossible to tell"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10642,11 +10642,11 @@
     "question": "I winked at my face in the mirror. Which eye did the mirror-me close?",
     "options": [
       "The opposite eye",
-      "The same-side eye",
+      "Neither eye",
       "Both eyes",
-      "Neither eye"
+      "The same-side eye"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10659,12 +10659,12 @@
     "id": "rid_1008",
     "question": "A thief swung a hammer hard at a jewelry-store window yet the glass didn’t even crack. Why?",
     "options": [
-      "It was bullet-proof glass",
       "The sliding window was already open—he hit empty air",
+      "It was bullet-proof glass",
       "The hammer was rubber",
       "He swung and missed"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10696,11 +10696,11 @@
     "question": "Three people were talking in a room. Someone opened the door and said, “Only two people here?” What happened?",
     "options": [
       "One was hiding in the closet",
-      "One was a newborn baby",
       "One was invisible",
+      "One was a newborn baby",
       "One was a mirror reflection"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10713,12 +10713,12 @@
     "id": "rid_1011",
     "question": "Why does a little dust still enter a car on a dirt road even with all windows closed?",
     "options": [
-      "Through the under-body air vents",
+      "Torn air-conditioner filter",
       "Missing rubber seals on the glass",
       "Dirt from the driver’s shoes",
-      "Torn air-conditioner filter"
+      "Through the under-body air vents"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10731,12 +10731,12 @@
     "id": "rid_1012",
     "question": "A hunter pulled the trigger on a tiger; the bullet went straight through its forehead yet the tiger didn’t bleed and stayed fine. Why?",
     "options": [
-      "Tiger wore a bullet-proof vest",
+      "He pressed a camera shutter",
       "It was a stuffed model",
       "The gun was a tranquilizer",
-      "He pressed a camera shutter"
+      "Tiger wore a bullet-proof vest"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10786,11 +10786,11 @@
     "question": "Canned drinks are placed in an ice-filled cooler for 10 minutes. What cools them fastest?",
     "options": [
       "Cover the cooler with a blanket",
-      "Add plenty of salt and water to the ice",
+      "Place dry ice beside them",
       "Turn the cans upside-down",
-      "Place dry ice beside them"
+      "Add plenty of salt and water to the ice"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10821,12 +10821,12 @@
     "id": "rid_1017",
     "question": "Wristwatch second hands either jump once per second (quartz) or sweep smoothly (mechanical). Which type uses a battery?",
     "options": [
-      "Mostly the jumping quartz watches",
       "The smooth mechanical watches",
+      "Mostly the jumping quartz watches",
       "Both use batteries",
       "Both use mainsprings"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10839,12 +10839,12 @@
     "id": "rid_1018",
     "question": "Riding a bicycle down a steep hill, if you squeeze only the front brake hard, what happens?",
     "options": [
-      "Rear wheel lifts and you flip forward (endo)",
-      "Bike stops instantly in place",
       "Tires skid sideways and you fall",
+      "Bike stops instantly in place",
+      "Rear wheel lifts and you flip forward (endo)",
       "Chain comes off"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10857,12 +10857,12 @@
     "id": "rid_1019",
     "question": "When rain falls in the middle of the ocean, what happens to the surface salinity?",
     "options": [
-      "It drops temporarily (fresh water mixes in)",
+      "Foam turns the surface white",
       "Seawater absorbs the rain and becomes saltier",
       "Currents keep it unchanged",
-      "Foam turns the surface white"
+      "It drops temporarily (fresh water mixes in)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10912,11 +10912,11 @@
     "question": "Why do snack bags puff up as an airplane climbs to high altitude?",
     "options": [
       "Cabin temperature rises sharply",
-      "Outside air pressure drops so the air inside expands",
       "Nitrogen in the snacks reacts chemically",
+      "Outside air pressure drops so the air inside expands",
       "Engine vibration inflates them"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10929,12 +10929,12 @@
     "id": "rid_1023",
     "question": "Rubbing the rim of a water-filled glass with a wet finger produces a clear ringing tone. What is the principle?",
     "options": [
-      "Micro-vibrations of the glass from fingerprint friction",
+      "Air swirling inside the glass",
       "Water boiling from finger heat",
       "Static discharge at the fingertip",
-      "Air swirling inside the glass"
+      "Micro-vibrations of the glass from fingerprint friction"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10947,12 +10947,12 @@
     "id": "rid_1024",
     "question": "In a completely dark room, roughly how long does it take for the whole room to brighten after you flip a fluorescent switch?",
     "options": [
-      "1 second",
       "Instantly (speed of light)",
+      "1 second",
       "0.5 seconds",
       "5 seconds"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10965,12 +10965,12 @@
     "id": "rid_1025",
     "question": "On the roof of a 100-story skyscraper, time flows a tiny bit faster than on the ground floor. Why, according to relativity?",
     "options": [
-      "Farther from Earth’s center, gravity is weaker",
       "Stronger wind makes clocks run faster",
+      "Farther from Earth’s center, gravity is weaker",
       "Lower temperature speeds atomic vibration",
       "Less air resistance"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",

@@ -2,12 +2,12 @@
   {
     "question": "浮在水上不沉底，载着人渡过大海的是什么？",
     "options": [
-      "气球",
-      "石头",
       "船",
+      "石头",
+      "气球",
       "渔网"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -20,12 +20,12 @@
   {
     "question": "燃烧自己，照亮最黑暗角落的是什么？",
     "options": [
-      "蜡烛",
       "镜子",
+      "蜡烛",
       "坛子",
       "玻璃"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -38,12 +38,12 @@
   {
     "question": "光线越强就越清晰深邃，只有当光芒完全熄灭时才从脚底消失的黑影同伴是什么？",
     "options": [
-      "影子",
-      "镜子",
       "脚印",
+      "镜子",
+      "影子",
       "灰尘"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -56,12 +56,12 @@
   {
     "question": "下雨天，替雨伞守护脚下的朋友是什么？",
     "options": [
-      "雨靴",
+      "雨衣",
       "凉棚",
       "塑料布",
-      "雨衣"
+      "雨靴"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -92,12 +92,12 @@
   {
     "question": "以青竹为骨架附上薄纸双翼，借风直上重霄，一旦断线便随风远遁之物是什么？",
     "options": [
-      "风筝",
       "团扇",
+      "风筝",
       "孔明灯",
       "风车"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -111,11 +111,11 @@
     "question": "被无声地按下，却留下你的名字的是什么？",
     "options": [
       "拳头",
-      "印章",
       "手掌",
+      "印章",
       "邮票"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -128,12 +128,12 @@
   {
     "question": "风吹过就歌唱，在大门上方守护家园的是什么？",
     "options": [
-      "风铃",
+      "牵牛花",
       "旗帜",
       "钟",
-      "牵牛花"
+      "风铃"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -146,12 +146,12 @@
   {
     "question": "用米做成，在新年祭桌上位居首位的是？",
     "options": [
-      "白饭",
       "年糕",
+      "白饭",
       "面条",
       "水果"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -164,12 +164,12 @@
   {
     "question": "每次替人抹去笔误差错时便摩擦自身，留下斑斑白屑而渐渐消耗殆尽的是什么？",
     "options": [
-      "橡皮",
       "肥皂",
+      "橡皮",
       "抹布",
       "粉笔"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -182,12 +182,12 @@
   {
     "question": "平日静悬于墙上映照世间万象，落向地面摔碎的刹那却化作数百块碎片凝视主人的事物是什么？",
     "options": [
-      "镜子",
-      "窗户",
       "鱼缸",
+      "窗户",
+      "镜子",
       "时钟"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -200,12 +200,12 @@
   {
     "question": "诞生时修长光滑，用石墨粉末倾泻主人的思绪，身形却日渐矮小沦为短小的文具是什么？",
     "options": [
-      "铅笔",
+      "胶水",
       "橡皮",
       "尺子",
-      "胶水"
+      "铅笔"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -218,12 +218,12 @@
   {
     "question": "白天睡觉、夜里目光如炬的森林守护者是谁？",
     "options": [
-      "松鼠",
-      "狍子",
       "猫头鹰",
+      "狍子",
+      "松鼠",
       "兔子"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -236,12 +236,12 @@
   {
     "question": "用来磨黑墨、助你写字的方形石制器皿是什么？",
     "options": [
-      "砚台",
       "水滴",
+      "砚台",
       "笔袋",
       "镇纸"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -256,10 +256,10 @@
     "options": [
       "星星",
       "月亮",
-      "闪电",
-      "灯塔"
+      "灯塔",
+      "闪电"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -328,10 +328,10 @@
     "options": [
       "火炉",
       "温突",
-      "坛子",
-      "冰箱"
+      "冰箱",
+      "坛子"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -346,10 +346,10 @@
     "options": [
       "船",
       "堤坝",
-      "桥",
-      "水井"
+      "水井",
+      "桥"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -366,12 +366,12 @@
     "reward_keys": 1,
     "question": "能把脖子暖暖地裹住，可一进屋就让人汗流浃背、闷得发紧的防寒用品是什么？",
     "options": [
-      "口罩",
       "围巾",
+      "口罩",
       "手套",
       "耳罩"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "答对了！一上公交车就像进了桑拿房，汗水淌个不停！",
       "wrong": "错啦！天冷时紧裹脖子，一热起来就让人喘不过气来的布料。"
@@ -381,11 +381,11 @@
     "question": "闭上眼一听就入睡的、用妈妈的嗓音唱的歌是什么？",
     "options": [
       "情歌",
-      "民谣",
       "摇篮曲",
+      "民谣",
       "童谣"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -398,12 +398,12 @@
   {
     "question": "在山里独自闪烁的蓝火，还爱吓唬行人的是什么？",
     "options": [
-      "鬼火",
-      "流星",
       "火把",
+      "流星",
+      "鬼火",
       "萤火虫"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -417,11 +417,11 @@
     "question": "在冬至或搬家时，用红色阳气驱赶恶鬼与厄运而撒在屋舍内外的圆形谷物是？",
     "options": [
       "大米",
-      "红豆",
+      "小米",
       "大麦",
-      "小米"
+      "红豆"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -434,12 +434,12 @@
   {
     "question": "倒着挂在大门上也会招福的、用稻草编成的长物是什么？",
     "options": [
-      "草鞋",
+      "福绳",
       "绳",
       "草席",
-      "福绳"
+      "草鞋"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -452,12 +452,12 @@
   {
     "question": "根扎得深、台风来了也纹丝不动的森林将军是谁？",
     "options": [
-      "树",
       "草",
+      "树",
       "巨石",
       "藤"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -488,12 +488,12 @@
   {
     "question": "日出之前只出现一瞬的最勤快的星星是什么？",
     "options": [
-      "启明星",
+      "北极星",
       "流星",
       "北斗七星",
-      "北极星"
+      "启明星"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -506,12 +506,12 @@
   {
     "question": "无论怎么走都到不了、天与地相接的那条线是什么？",
     "options": [
-      "绳索",
       "地平线",
+      "绳索",
       "边界线",
       "地铁"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -524,12 +524,12 @@
   {
     "question": "活了一百年、每年春天仍发新芽的山中智慧老者是谁？",
     "options": [
-      "古树",
       "草",
+      "古树",
       "池塘",
       "巨石"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -543,11 +543,11 @@
     "question": "整个冬天在屋里扮演太阳的温暖伙伴是什么？",
     "options": [
       "风扇",
-      "火炉",
       "窗户",
+      "火炉",
       "扇子"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -561,11 +561,11 @@
     "question": "必须跨过去才能进屋的、门下的矮墙是什么？",
     "options": [
       "台阶",
-      "门槛",
+      "门把",
       "围墙",
-      "门把"
+      "门槛"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -596,12 +596,12 @@
   {
     "question": "在河上一个个铺开、成为踏脚处的石径是什么？",
     "options": [
-      "踏脚石",
       "楼梯",
+      "踏脚石",
       "木筏",
       "浮标"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -614,12 +614,12 @@
   {
     "question": "在江水中长年冲刷翻滚而变得光滑圆润的岸边静止小石子是？",
     "options": [
-      "卵石 (细石)",
-      "沙子",
       "青苔",
+      "沙子",
+      "卵石 (细石)",
       "芦苇"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -633,11 +633,11 @@
     "question": "哗哗流淌最终成为大江的山间小河是什么？",
     "options": [
       "井",
-      "溪流",
+      "池塘",
       "大海",
-      "池塘"
+      "溪流"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -650,12 +650,12 @@
   {
     "question": "用炊烟告诉大家这户人家有人烟的屋顶伙伴是什么？",
     "options": [
-      "旗杆",
-      "风铃",
       "烟囱",
+      "风铃",
+      "旗杆",
       "樱桃"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -669,11 +669,11 @@
     "question": "秋天从树上落下、春天却化作大树的养料的是什么？",
     "options": [
       "花粉",
-      "果实",
       "落叶",
+      "果实",
       "树枝"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -794,12 +794,12 @@
   {
     "question": "越敲越响的、音乐的宽宏之心是什么？",
     "options": [
-      "笛",
+      "鼓",
       "钟",
       "喇叭",
-      "鼓"
+      "笛"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -813,11 +813,11 @@
     "question": "一敲就响、敲完归于沉默的寺庙巨声是什么？",
     "options": [
       "鼓",
-      "锣",
+      "钟",
       "喇叭",
-      "钟"
+      "锣"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -830,12 +830,12 @@
   {
     "question": "平时静静地沉睡，一旦发怒就会向高空喷出熊熊烈火与浓烟灰烬的山是什么？",
     "options": [
-      "火山",
-      "冰山",
       "沙丘",
+      "冰山",
+      "火山",
       "瀑布"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -848,12 +848,12 @@
   {
     "question": "集齐99把黄金钥匙的英雄，会被多吉比授予的最高称号是什么？",
     "options": [
-      "多吉比大师",
+      "黄金船长",
       "钥匙匠",
       "寻宝猎人",
-      "黄金船长"
+      "多吉比大师"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -884,12 +884,12 @@
   {
     "question": "白天藏起来，一到夜晚就像宝石一样镶嵌在黑夜里的是什么？",
     "options": [
-      "星星",
       "灯塔",
+      "星星",
       "萤火虫",
       "月晕"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -902,12 +902,12 @@
   {
     "question": "头戴红帽、燃烧全身驱散黑暗的是什么？",
     "options": [
-      "火柴",
-      "枫叶",
       "辣椒",
+      "枫叶",
+      "火柴",
       "凤仙花"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -921,11 +921,11 @@
     "question": "平日里静静折叠，唯有天空落泪时才在头顶盛开的花朵是什么？",
     "options": [
       "雨靴",
-      "雨伞",
+      "折扇",
       "雨衣",
-      "折扇"
+      "雨伞"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -956,12 +956,12 @@
   {
     "question": "自天而降时轻如羽毛，轻落手心之际却因温存化作清澈泪水的是什么？",
     "options": [
-      "雪花",
       "冰雹",
+      "雪花",
       "露水",
       "霜"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -974,12 +974,12 @@
   {
     "question": "早晨四条腿爬行，中午两条腿走路，傍晚三条腿漫步的一生主角是谁？",
     "options": [
-      "人",
-      "老虎",
       "猴子",
+      "老虎",
+      "人",
       "仙鹤"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -992,12 +992,12 @@
   {
     "question": "总是站在原地，为过往旅人指引方向的石柱是？",
     "options": [
-      "长丞（路标）",
+      "石碑",
       "索套竿",
       "石塔",
-      "石碑"
+      "长丞（路标）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1028,12 +1028,12 @@
   {
     "question": "一脚踢起就在空中展开羽毛、轻盈起舞的传统游戏道具是？",
     "options": [
-      "毽子",
       "陀螺",
+      "毽子",
       "风筝",
       "铁环"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1046,12 +1046,12 @@
   {
     "question": "乘着风飞上高空、却被一根细线牵引着的是什么？",
     "options": [
-      "盾风筝（风筝）",
-      "气球",
       "鸟笼",
+      "气球",
+      "盾风筝（风筝）",
       "秋千"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1064,12 +1064,12 @@
   {
     "question": "越抽越欢快地旋转的冰面上的小陀螺是？",
     "options": [
-      "木陀螺",
+      "石磨",
       "车轮",
       "玻璃珠",
-      "石磨"
+      "木陀螺"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1100,12 +1100,12 @@
   {
     "question": "不停地跳动，自己却无法休息，胸中的时钟是什么？",
     "options": [
-      "心脏",
       "肺",
+      "心脏",
       "大脑",
       "眼睛"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1123,11 +1123,11 @@
     "question": "端端正正戴在手腕上出门，可每次挽袖子都勾住衬衫纽扣把线头扯出来的是？",
     "options": [
       "皮表带",
-      "金属表带",
       "智能戒指",
+      "金属表带",
       "硅胶表带"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "嗒！勾住心爱的针织袖口、线头被一路抽出来的可怕声响！",
       "wrong": "错啦！冰冷坚硬的金属链节总爱咬住衣物的表带。"
@@ -1136,12 +1136,12 @@
   {
     "question": "越给予越大，越分享越深的心是什么？",
     "options": [
-      "爱",
+      "悲伤",
       "恨",
       "贪欲",
-      "悲伤"
+      "爱"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1172,12 +1172,12 @@
   {
     "question": "晴朗之日难寻踪迹，骤雨初歇日光倾泻之际，却在高空架起七彩桥梁的是什么？",
     "options": [
-      "彩虹",
       "极光",
+      "彩虹",
       "银河",
       "晚霞"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1190,12 +1190,12 @@
   {
     "question": "生于淤泥却不被污浊沾染、绽放清雅花朵的智慧之花是？",
     "options": [
-      "莲花",
-      "菊花",
       "梅花",
+      "菊花",
+      "莲花",
       "水仙"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1208,12 +1208,12 @@
   {
     "question": "即使在寒冷冬天暴风雪中也保持绿针的气节之树是？",
     "options": [
-      "松树",
+      "银杏树",
       "柳树",
       "枫树",
-      "银杏树"
+      "松树"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1244,12 +1244,12 @@
   {
     "question": "中空却笔直生长、节节坚实的气节象征是？",
     "options": [
-      "竹子",
       "芦苇",
+      "竹子",
       "高粱",
       "芒草"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1262,12 +1262,12 @@
   {
     "question": "打开吉鬼宝库、揭示人生真智慧的神钥匙是？",
     "options": [
-      "吉鬼黄金钥匙（DOK-KEY）",
-      "铁钥匙",
       "石斧",
+      "铁钥匙",
+      "吉鬼黄金钥匙（DOK-KEY）",
       "藏宝图"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "wisdom",
@@ -1280,12 +1280,12 @@
   {
     "question": "八条腿的朋友通宵织成、在露水中闪烁的网是什么？",
     "options": [
-      "蜘蛛网",
+      "洗衣袋",
       "漏勺",
       "捕虫网",
-      "洗衣袋"
+      "蜘蛛网"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1298,12 +1298,12 @@
   {
     "question": "无论走到哪里都只指向一边，迷路旅人的朋友是什么？",
     "options": [
-      "地图",
       "指南针",
+      "地图",
       "手表",
       "望远镜"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1334,12 +1334,12 @@
   {
     "question": "每天嘴里塞满美味佳肴，却一口也咽不下必须原样交出的厨房用具是什么？",
     "options": [
-      "勺子",
-      "锅",
       "案板",
+      "锅",
+      "勺子",
       "抹布"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -1352,12 +1352,12 @@
   {
     "question": "向前走尾巴变短，往后退尾巴变长，专门缝补破损之处的是什么？",
     "options": [
-      "针线",
+      "别针",
       "剪刀",
       "顶针",
-      "别针"
+      "针线"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "daily",
@@ -1388,12 +1388,12 @@
   {
     "question": "每天两次清洁口腔，小泡泡精灵的工具是什么？",
     "options": [
-      "牙刷",
       "香皂",
+      "牙刷",
       "毛巾",
       "杯子"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1406,12 +1406,12 @@
   {
     "question": "初生时犹如方正冰砖，每次在掌心揉搓便泛起馥郁泡沫，逐渐消磨殆尽的沐浴用品是什么？",
     "options": [
-      "肥皂",
-      "海绵",
       "洗发水",
+      "海绵",
+      "肥皂",
       "牙膏"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -1424,12 +1424,12 @@
   {
     "question": "每只脚各穿一只以包裹脚趾，且必须成双成对的衣物是什么？",
     "options": [
-      "袜子",
+      "围巾",
       "手套",
       "帽子",
-      "围巾"
+      "袜子"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1461,11 +1461,11 @@
     "question": "戴在头上，遮挡阳光的是什么？",
     "options": [
       "眼镜",
-      "雨伞",
       "帽子",
+      "雨伞",
       "鞋子"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1478,12 +1478,12 @@
   {
     "question": "大海每呼吸一次就涌来又退去的是什么？",
     "options": [
-      "海浪",
-      "潮汐",
       "泡沫",
+      "潮汐",
+      "海浪",
       "沙子"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1496,12 +1496,12 @@
   {
     "question": "晨光初照时如宝玉般晶莹缀于草叶尖端，烈日当空便悄然无息消散于无形的是什么？",
     "options": [
-      "露珠",
+      "冰雹",
       "霜",
       "雨夹雪",
-      "冰雹"
+      "露珠"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1550,12 +1550,12 @@
   {
     "question": "鼻子长、耳朵大，像扇子一样扇风的大动物是什么？",
     "options": [
-      "大象",
-      "犀牛",
       "河马",
+      "犀牛",
+      "大象",
       "长颈鹿"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1569,11 +1569,11 @@
     "question": "用红黄绿三只眼睛指挥道路的是什么？",
     "options": [
       "路灯",
-      "红绿灯",
+      "路牌",
       "电线杆",
-      "路牌"
+      "红绿灯"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1586,12 +1586,12 @@
   {
     "question": "两个轮子踩踏板前进的交通工具是什么？",
     "options": [
-      "摩托车",
-      "汽车",
       "自行车",
+      "汽车",
+      "摩托车",
       "公交车"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1604,12 +1604,12 @@
   {
     "question": "把信投进去，它替你跑到远方——这个红色方盒是什么？",
     "options": [
-      "邮筒",
       "抽屉柜",
+      "邮筒",
       "保险箱",
       "书架"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1641,11 +1641,11 @@
     "question": "一边下去另一边就上来，两人玩的游乐设施是什么？",
     "options": [
       "秋千",
-      "跷跷板",
+      "滑梯",
       "旋转木马",
-      "滑梯"
+      "跷跷板"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -1695,11 +1695,11 @@
     "question": "闪过之后，随后轰隆隆响起的声音是什么？",
     "options": [
       "闪电",
-      "雷声",
       "风",
+      "雷声",
       "回声"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1712,12 +1712,12 @@
   {
     "question": "白茫茫落在地面、让前方模糊的帷幕是什么？",
     "options": [
-      "雾",
+      "霜",
       "云",
       "灰尘",
-      "霜"
+      "雾"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1730,12 +1730,12 @@
   {
     "question": "它张开如花瓣般绚丽多彩的翅膀，在花丛间飞舞。是什么？",
     "options": [
-      "蜜蜂",
       "蝴蝶",
+      "蜜蜂",
       "蜻蜓",
       "鸟"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1749,11 +1749,11 @@
     "question": "不会飞却擅长在南极游泳、穿着燕尾服的鸟是什么？",
     "options": [
       "鸵鸟",
-      "海鸥",
       "企鹅",
+      "海鸥",
       "鸭子"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "nature",
@@ -1767,11 +1767,11 @@
     "question": "要求安静、却藏着成千上万本书的安静房子是什么？",
     "options": [
       "书店",
-      "图书馆",
       "博物馆",
+      "图书馆",
       "学校"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1785,11 +1785,11 @@
     "question": "腌好白菜调味、冬天吃的辣味小菜是什么？",
     "options": [
       "酱菜",
-      "泡菜",
+      "沙拉",
       "腌黄瓜",
-      "沙拉"
+      "泡菜"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -1821,11 +1821,11 @@
     "question": "遵守就成信任，违背就成失望的话是什么？",
     "options": [
       "谎言",
-      "秘密",
       "约定",
+      "秘密",
       "问候"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "wisdom",
@@ -1840,10 +1840,10 @@
     "options": [
       "牛",
       "虎",
-      "兔",
-      "鼠"
+      "鼠",
+      "兔"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -1874,12 +1874,12 @@
   {
     "question": "希腊神话中掌管海洋的神是谁？",
     "options": [
-      "宙斯",
+      "波塞冬",
       "阿瑞斯",
       "阿波罗",
-      "波塞冬"
+      "宙斯"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1893,11 +1893,11 @@
     "question": "希腊神话中象征智慧与战争的女神是谁？",
     "options": [
       "赫拉",
-      "阿佛洛狄忒",
+      "雅典娜",
       "阿尔忒弥斯",
-      "雅典娜"
+      "阿佛洛狄忒"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1912,10 +1912,10 @@
     "options": [
       "弗雷亚",
       "洛基",
-      "女武神",
-      "托尔"
+      "托尔",
+      "女武神"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1926,7 +1926,7 @@
     "id": "rid_111"
   },
   {
-    "question": "希腊神话中统治冥界的王是谁？",
+    "question": "希腊神话中，统治亡者之国并统率刻耳柏洛斯的王是谁？",
     "options": [
       "宙斯",
       "赫尔墨斯",
@@ -1946,12 +1946,12 @@
   {
     "question": "印度神话中象头、掌管智慧与幸运的神是谁？",
     "options": [
-      "毗湿奴",
+      "象头神",
       "因陀罗",
       "拉",
-      "象头神"
+      "毗湿奴"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1965,11 +1965,11 @@
     "question": "埃及神话中豺狼头、掌管死亡与木乃伊的神是谁？",
     "options": [
       "奥西里斯",
-      "拉",
+      "阿努比斯",
       "芭丝特",
-      "阿努比斯"
+      "拉"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -1984,10 +1984,10 @@
     "options": [
       "猴",
       "羊",
-      "马",
-      "鸡"
+      "鸡",
+      "马"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2018,12 +2018,12 @@
   {
     "question": "留下水晶鞋、午夜离开的童话少女是谁？",
     "options": [
-      "白雪公主",
+      "灰姑娘",
       "人鱼公主",
       "长发公主",
-      "灰姑娘"
+      "白雪公主"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2037,11 +2037,11 @@
     "question": "吃了毒苹果而沉睡的公主是谁？",
     "options": [
       "灰姑娘",
-      "人鱼公主",
+      "白雪公主",
       "长发公主",
-      "白雪公主"
+      "人鱼公主"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2056,10 +2056,10 @@
     "options": [
       "彼得潘",
       "汉泽尔",
-      "爱丽丝",
-      "匹诺曹"
+      "匹诺曹",
+      "爱丽丝"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2090,12 +2090,12 @@
   {
     "question": "有森林糖果屋女巫的兄妹童话是什么？",
     "options": [
-      "小红帽",
+      "糖果屋（汉泽尔与格莱特）",
       "匹诺曹",
       "杰克与魔豆",
-      "糖果屋（汉泽尔与格莱特）"
+      "小红帽"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2109,11 +2109,11 @@
     "question": "整个夏天只唱歌、冬天挨饿，与蚂蚁一起出现的昆虫是？",
     "options": [
       "蝉",
-      "蟋蟀",
+      "蝈蝈",
       "蝴蝶",
-      "蝈蝈"
+      "蟋蟀"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2128,10 +2128,10 @@
     "options": [
       "白雪公主",
       "灰姑娘",
-      "长发公主",
-      "人鱼公主"
+      "人鱼公主",
+      "长发公主"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -2162,12 +2162,12 @@
   {
     "question": "因好奇打开了装满灾祸的盒子的女人是谁？",
     "options": [
-      "雅典娜",
+      "潘多拉",
       "海伦",
       "美杜莎",
-      "潘多拉"
+      "雅典娜"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "story",
@@ -2181,11 +2181,11 @@
     "question": "耕田时低沉鸣叫、十二生肖中排第二的动物是？",
     "options": [
       "马",
-      "羊",
+      "牛",
       "山羊",
-      "牛"
+      "羊"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2200,10 +2200,10 @@
     "options": [
       "狮子",
       "豹",
-      "熊",
-      "虎"
+      "虎",
+      "熊"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2234,12 +2234,12 @@
   {
     "question": "没有脚、滑行前进的生肖是？",
     "options": [
-      "蚯蚓",
+      "蛇",
       "蜥蜴",
       "鳄鱼",
-      "蛇"
+      "蚯蚓"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2253,11 +2253,11 @@
     "question": "十二生肖中，鬃毛飞扬、奋蹄疾驰的第七位动物是？",
     "options": [
       "毛驴",
-      "骡子",
+      "马",
       "斑马",
-      "马"
+      "骡子"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2272,10 +2272,10 @@
     "options": [
       "山羊",
       "牛",
-      "鹿",
-      "羊"
+      "羊",
+      "鹿"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2306,12 +2306,12 @@
   {
     "question": "象征丰饶与福气、位列十二生肖第十二位的最后一位动物是？",
     "options": [
-      "野猪",
+      "猪",
       "大象",
       "河马",
-      "猪"
+      "野猪"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2325,11 +2325,11 @@
     "question": "传说圣贤降世时才会现身的东方瑞兽是？",
     "options": [
       "独角兽",
-      "凤凰",
+      "麒麟",
       "龙",
-      "麒麟"
+      "凤凰"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2340,14 +2340,14 @@
     "id": "rid_136"
   },
   {
-    "question": "东方思想中守护四方的四神里，掌管南方、形为朱雀的神兽是？",
+    "question": "象征夏天与火焰、守护南方天空、形为红色神鸟的守护神兽是？",
     "options": [
       "凤凰",
       "三足乌",
-      "青龙",
-      "朱雀"
+      "朱雀",
+      "青龙"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2358,7 +2358,7 @@
     "id": "rid_137"
   },
   {
-    "question": "东方思想中守护四方的四神里，掌管北方、龟蛇合体的神兽是？",
+    "question": "象征冬天与水、守护北方天空、龟蛇合体的守护神兽是？",
     "options": [
       "青龙",
       "白虎",
@@ -2378,12 +2378,12 @@
   {
     "question": "在东方象征长寿与和平的白鹿神兽是？",
     "options": [
-      "白马",
+      "白鹿",
       "羊",
       "麒麟",
-      "白鹿"
+      "白马"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2397,11 +2397,11 @@
     "question": "传说栖息梧桐、报天下太平的瑞鸟是？",
     "options": [
       "朱雀",
-      "孔雀",
+      "凤凰",
       "鹤",
-      "凤凰"
+      "孔雀"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2414,12 +2414,12 @@
   {
     "question": "东方传说中住在太阳里、长着三只脚的神圣黑鸟是什么？",
     "options": [
-      "三足乌",
-      "乌鸦",
       "燕子",
+      "乌鸦",
+      "三足乌",
       "鹤"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2450,12 +2450,12 @@
   {
     "question": "额头长着一只角的西方幻想动物是？",
     "options": [
-      "狮鹫",
+      "独角兽",
       "麒麟",
       "鹿",
-      "独角兽"
+      "狮鹫"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2469,11 +2469,11 @@
     "question": "长着三只眼睛、三眼犬神兽是？",
     "options": [
       "獬豸",
-      "白虎",
+      "三眼犬",
       "九尾狐",
-      "三眼犬"
+      "白虎"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2488,10 +2488,10 @@
     "options": [
       "阿努比斯",
       "阿蒙",
-      "芭丝特",
-      "索贝克"
+      "索贝克",
+      "芭丝特"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2522,12 +2522,12 @@
   {
     "question": "鱼与龙合体、掌管海洋的神兽是？",
     "options": [
-      "蟒蛇",
+      "鱼龙",
       "利维坦",
       "玄武",
-      "鱼龙"
+      "蟒蛇"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2541,11 +2541,11 @@
     "question": "狮身人面、出谜语的埃及守护像是？",
     "options": [
       "狮鹫",
-      "猫又",
+      "狮身人面像",
       "索贝克",
-      "狮身人面像"
+      "猫又"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2560,10 +2560,10 @@
     "options": [
       "鱼龙",
       "蟒蛇",
-      "海妖",
-      "利维坦"
+      "利维坦",
+      "海妖"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2594,12 +2594,12 @@
   {
     "question": "传说住在月亮上的三足蟾蜍神兽是？",
     "options": [
-      "三足乌",
+      "三足蟾",
       "青蛙",
       "龟",
-      "三足蟾"
+      "三足乌"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2613,11 +2613,11 @@
     "question": "鹰头狮身的西方神兽是？",
     "options": [
       "独角兽",
-      "狮身人面像",
+      "狮鹫",
       "凤凰",
-      "狮鹫"
+      "狮身人面像"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2630,12 +2630,12 @@
   {
     "question": "东方思想中镇守四方、掌管西方的白色神兽是什么？",
     "options": [
-      "白虎",
-      "老虎",
       "豹",
+      "老虎",
+      "白虎",
       "獬豸"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -2666,12 +2666,12 @@
   {
     "question": "带着老虎守护山林的，是什么山神？",
     "options": [
-      "龙王",
+      "山神",
       "宅神",
       "死神",
-      "山神"
+      "龙王"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2684,12 +2684,12 @@
   {
     "question": "希腊神话中，把亡者的灵魂用船渡过冥界之河的摆渡者是谁？",
     "options": [
-      "卡戎",
       "死神",
+      "卡戎",
       "哈迪斯",
       "丘比特"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2704,10 +2704,10 @@
     "options": [
       "阎罗王",
       "龙王",
-      "山神",
-      "玉皇大帝"
+      "玉皇大帝",
+      "山神"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2738,12 +2738,12 @@
   {
     "question": "东方传说中创造世界的巨大祖母创世女神是？",
     "options": [
-      "三神婆婆",
+      "麻姑奶奶",
       "钵里公主",
       "观音菩萨",
-      "麻姑奶奶"
+      "三神婆婆"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2757,11 +2757,11 @@
     "question": "东方传说中为救双亲而前往阴间的孝女公主是？",
     "options": [
       "三神婆婆",
-      "麻姑奶奶",
+      "钵里公主",
       "观音菩萨",
-      "钵里公主"
+      "麻姑奶奶"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2776,10 +2776,10 @@
     "options": [
       "麻姑奶奶",
       "钵里公主",
-      "宅神",
-      "三神婆婆"
+      "三神婆婆",
+      "宅神"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2810,12 +2810,12 @@
   {
     "question": "守护宅地、看顾家宅安宁的神是？",
     "options": [
-      "山神",
+      "宅神",
       "龙王",
       "三神婆婆",
-      "宅神"
+      "山神"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2829,11 +2829,11 @@
     "question": "希腊神话中以闪电为武器、统治奥林匹斯的最高神是？",
     "options": [
       "赫淮斯托斯",
-      "哈迪斯",
+      "宙斯",
       "阿波罗",
-      "宙斯"
+      "哈迪斯"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2848,10 +2848,10 @@
     "options": [
       "弗雷",
       "洛基",
-      "女武神",
-      "奥丁"
+      "奥丁",
+      "女武神"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2882,12 +2882,12 @@
   {
     "question": "北欧神话中爱恶作剧的诡计之神是？",
     "options": [
-      "奥丁",
+      "洛基",
       "托尔",
       "女武神",
-      "洛基"
+      "奥丁"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2901,11 +2901,11 @@
     "question": "把阵亡英雄带往瓦尔哈拉的北欧女战士是？",
     "options": [
       "雅典娜",
-      "奥丁",
+      "女武神",
       "弗蕾亚",
-      "女武神"
+      "奥丁"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2920,10 +2920,10 @@
     "options": [
       "观音菩萨",
       "湿婆",
-      "因陀罗",
-      "佛陀"
+      "佛陀",
+      "因陀罗"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2954,12 +2954,12 @@
   {
     "question": "印度神话中象征毁灭与变化的神是？",
     "options": [
-      "克里希纳",
+      "湿婆",
       "因陀罗",
       "拉",
-      "湿婆"
+      "克里希纳"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2973,11 +2973,11 @@
     "question": "印度神话中掌管雷电与雨的神是？",
     "options": [
       "湿婆",
-      "梵天",
+      "因陀罗",
       "象头神",
-      "因陀罗"
+      "梵天"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -2992,10 +2992,10 @@
     "options": [
       "奥西里斯",
       "阿努比斯",
-      "托特",
-      "拉"
+      "拉",
+      "托特"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3026,12 +3026,12 @@
   {
     "question": "埃及神话中猫头、掌管家庭与治愈的女神是？",
     "options": [
-      "阿努比斯",
+      "芭丝特",
       "托特",
       "拉",
-      "芭丝特"
+      "阿努比斯"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3045,11 +3045,11 @@
     "question": "击败恶龙、统领天军的天使长是？",
     "options": [
       "加百列",
-      "拉斐尔",
+      "大天使米迦勒",
       "乌列尔",
-      "大天使米迦勒"
+      "拉斐尔"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3064,10 +3064,10 @@
     "options": [
       "米迦勒",
       "拉斐尔",
-      "乌列尔",
-      "大天使加百列"
+      "大天使加百列",
+      "乌列尔"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3098,12 +3098,12 @@
   {
     "question": "象征火与智慧的天使是？",
     "options": [
-      "米迦勒",
+      "大天使乌列尔",
       "加百列",
       "拉斐尔",
-      "大天使乌列尔"
+      "米迦勒"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3117,11 +3117,11 @@
     "question": "据说从出生起就在身边守护的天使是？",
     "options": [
       "大天使米迦勒",
-      "大天使加百列",
+      "守护天使",
       "大天使拉斐尔",
-      "守护天使"
+      "大天使加百列"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3136,10 +3136,10 @@
     "options": [
       "女武神",
       "缪斯",
-      "哈耳庇厄",
-      "命运三女神"
+      "命运三女神",
+      "哈耳庇厄"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "myth",
@@ -3170,12 +3170,12 @@
   {
     "question": "鼻子上长着一只角、身披厚甲的动物是？",
     "options": [
-      "河马",
+      "犀牛",
       "大象",
       "水牛",
-      "犀牛"
+      "河马"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3189,11 +3189,11 @@
     "question": "在河中张开大嘴的非洲巨兽是？",
     "options": [
       "犀牛",
-      "鳄鱼",
+      "河马",
       "水牛",
-      "河马"
+      "鳄鱼"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3208,10 +3208,10 @@
     "options": [
       "马",
       "驴",
-      "羊驼",
-      "骆驼"
+      "骆驼",
+      "羊驼"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3242,12 +3242,12 @@
   {
     "question": "喜欢竹子、黑白花纹的熊是？",
     "options": [
-      "熊",
+      "熊猫",
       "考拉",
       "浣熊",
-      "熊猫"
+      "熊"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3261,11 +3261,11 @@
     "question": "有黑色条纹的非洲马是？",
     "options": [
       "马",
-      "驴",
+      "斑马",
       "长颈鹿",
-      "斑马"
+      "驴"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3280,10 +3280,10 @@
     "options": [
       "隼",
       "猫头鹰",
-      "乌鸦",
-      "鹰"
+      "鹰",
+      "乌鸦"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3314,12 +3314,12 @@
   {
     "question": "海洋中最大、会喷水的动物是？",
     "options": [
-      "鲨鱼",
+      "鲸",
       "海豚",
       "大象",
-      "鲸"
+      "鲨鱼"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3333,11 +3333,11 @@
     "question": "绿皮红瓤、夏天的大水果是？",
     "options": [
       "香瓜",
-      "甜瓜",
+      "西瓜",
       "南瓜",
-      "西瓜"
+      "甜瓜"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3352,10 +3352,10 @@
     "options": [
       "樱桃",
       "覆盆子",
-      "番茄",
-      "草莓"
+      "草莓",
+      "番茄"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3386,12 +3386,12 @@
   {
     "question": "黄色弯曲、剥皮吃的水果是？",
     "options": [
-      "香瓜",
+      "香蕉",
       "芒果",
       "木瓜",
-      "香蕉"
+      "香瓜"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3405,11 +3405,11 @@
     "question": "颗粒成排、黄色穗子的是？",
     "options": [
       "豆",
-      "小麦",
+      "玉米",
       "稻",
-      "玉米"
+      "小麦"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3424,10 +3424,10 @@
     "options": [
       "萝卜",
       "红薯",
-      "土豆",
-      "胡萝卜"
+      "胡萝卜",
+      "土豆"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3458,12 +3458,12 @@
   {
     "question": "从牛身上挤出的白色饮品是？",
     "options": [
-      "水",
+      "牛奶",
       "果汁",
       "酸奶",
-      "牛奶"
+      "水"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3477,11 +3477,11 @@
     "question": "放进沸水三分钟就能做好的面食是？",
     "options": [
       "面条",
-      "意面",
+      "方便面",
       "乌冬",
-      "方便面"
+      "意面"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3496,10 +3496,10 @@
     "options": [
       "饭团",
       "寿司",
-      "泡菜",
-      "紫菜包饭"
+      "紫菜包饭",
+      "泡菜"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -3512,12 +3512,12 @@
   {
     "question": "希腊神话中因自负而被缚于天空的埃塞俄比亚王后，呈W形闪耀于北天的是哪个星座？",
     "options": [
-      "仙后座",
+      "天鹅座",
       "仙女座",
       "飞马座",
-      "天鹅座"
+      "仙后座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3548,12 +3548,12 @@
   {
     "question": "希腊神话中用毒针刺败猎户座的，夏夜南天星座是？",
     "options": [
-      "天蝎座",
       "狮子座",
+      "天蝎座",
       "巨蟹座",
       "金牛座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3566,12 +3566,12 @@
   {
     "question": "希腊神话中被赫拉克勒斯制服的涅墨亚猛兽，春夜天空之王星座是？",
     "options": [
-      "狮子座",
-      "天蝎座",
       "金牛座",
+      "天蝎座",
+      "狮子座",
       "双子座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3584,12 +3584,12 @@
   {
     "question": "希腊神话中宙斯为载欧罗巴而变成的动物，昂角星座是？",
     "options": [
-      "金牛座",
+      "巨蟹座",
       "白羊座",
       "摩羯座",
-      "巨蟹座"
+      "金牛座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3620,12 +3620,12 @@
   {
     "question": "希腊神话中手持麦穗升天的正义女神，少女星座是？",
     "options": [
-      "处女座",
       "天秤座",
+      "处女座",
       "巨蟹座",
       "水瓶座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3638,12 +3638,12 @@
   {
     "question": "希腊神话中称量正义的天平，黄道上的平衡星座是？",
     "options": [
-      "天秤座",
-      "处女座",
       "天蝎座",
+      "处女座",
+      "天秤座",
       "射手座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3656,12 +3656,12 @@
   {
     "question": "希腊神话中手持弓箭的贤者喀戎命名的黄道星座是？",
     "options": [
-      "射手座",
+      "白羊座",
       "摩羯座",
       "水瓶座",
-      "白羊座"
+      "射手座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3692,12 +3692,12 @@
   {
     "question": "希腊神话中被宙斯带走的美少年伽倪墨得斯倒水的星座是？",
     "options": [
-      "水瓶座",
       "双鱼座",
+      "水瓶座",
       "处女座",
       "摩羯座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3710,12 +3710,12 @@
   {
     "question": "希腊神话中阿佛洛狄忒与厄洛斯变身并以线相连的黄道最后星座是？",
     "options": [
-      "双鱼座",
-      "水瓶座",
       "白羊座",
+      "水瓶座",
+      "双鱼座",
       "巨蟹座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3728,12 +3728,12 @@
   {
     "question": "希腊神话中从美杜莎血液中诞生的飞马，在秋季夜空中对应的星座是？",
     "options": [
-      "飞马座",
+      "仙后座",
       "仙女座",
       "天鹅座",
-      "仙后座"
+      "飞马座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3764,12 +3764,12 @@
   {
     "question": "希腊神话中宙斯为接近勒达而变成的鸟的星座是？",
     "options": [
-      "天鹅座",
       "飞马座",
+      "天鹅座",
       "天鹰座",
       "乌鸦座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3782,12 +3782,12 @@
   {
     "question": "希腊神话中阿特拉斯之女、被称为七姐妹的金牛座星团是？",
     "options": [
-      "昴宿星团",
-      "天狼星",
       "织女星",
+      "天狼星",
+      "昴宿星团",
       "老人星"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3800,12 +3800,12 @@
   {
     "question": "希腊神话中由赫拉的乳汁洒落形成的、横贯夜空的星之河是？",
     "options": [
-      "银河",
+      "流星雨",
       "极光",
       "彗星",
-      "流星雨"
+      "银河"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3836,12 +3836,12 @@
   {
     "question": "隔着银河思念伴侣、织着布的传说之星是哪颗？",
     "options": [
-      "织女星",
       "北极星",
+      "织女星",
       "仙后座",
       "天津四"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3854,12 +3854,12 @@
   {
     "question": "东方将天空分为28区的传统星官体系是？",
     "options": [
-      "二十八宿",
-      "十二地支",
       "四神",
+      "十二地支",
+      "二十八宿",
       "北斗七星"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3872,12 +3872,12 @@
   {
     "question": "东方把猎户座腰带下方成排的三颗星称为什么？",
     "options": [
-      "参宿三星",
+      "北斗七星",
       "三神",
       "三足乌",
-      "北斗七星"
+      "参宿三星"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3908,12 +3908,12 @@
   {
     "question": "在北天几乎不动、为水手指路的星是？",
     "options": [
-      "北极星",
       "天狼星",
+      "北极星",
       "老人星",
       "织女星"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3926,12 +3926,12 @@
   {
     "question": "七星聚成勺子形、指向北极的星座是？",
     "options": [
-      "北斗七星",
-      "仙后座",
       "小熊座",
+      "仙后座",
+      "北斗七星",
       "天鹅座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3944,12 +3944,12 @@
   {
     "question": "尾巴末端驮着北极星的小熊北天星座是？",
     "options": [
-      "小熊座",
+      "双鱼座",
       "大熊座",
       "天鹅座",
-      "双鱼座"
+      "小熊座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3980,12 +3980,12 @@
   {
     "question": "希腊神话中兄弟并肩而立的冬夜双子星座是？",
     "options": [
-      "双子座",
       "狮子座",
+      "双子座",
       "处女座",
       "天秤座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -3998,12 +3998,12 @@
   {
     "question": "希腊神话中手持龟壳所制乐器的音乐家星座是？",
     "options": [
-      "天琴座",
-      "天鹅座",
       "飞马座",
+      "天鹅座",
+      "天琴座",
       "天鹰座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4016,12 +4016,12 @@
   {
     "question": "拖着尾巴划过夜空、让人许愿的星是？",
     "options": [
-      "流星",
+      "银河",
       "彗星",
       "北极星",
-      "银河"
+      "流星"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4052,12 +4052,12 @@
   {
     "question": "希腊神话中猎户座的猎犬，大犬座最亮的星是？",
     "options": [
-      "天狼星",
       "北极星",
+      "天狼星",
       "织女星",
       "老人星"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4070,12 +4070,12 @@
   {
     "question": "南半球水手用来定向的十字形南天星座是？",
     "options": [
-      "南十字座",
-      "北斗七星",
       "仙后座",
+      "北斗七星",
+      "南十字座",
       "天鹅座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4088,12 +4088,12 @@
   {
     "question": "希腊神话中看守熊的牧人、怀有亮星大角星的星座是？",
     "options": [
-      "牧夫座",
+      "处女座",
       "大熊座",
       "小熊座",
-      "处女座"
+      "牧夫座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4124,12 +4124,12 @@
   {
     "question": "以希腊最伟大英雄命名的大型夏季星座是？",
     "options": [
-      "武仙座",
       "英仙座",
+      "武仙座",
       "猎户座",
       "射手座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4142,12 +4142,12 @@
   {
     "question": "仙女座公主的父亲、埃塞俄比亚国王的北天星座是？",
     "options": [
-      "仙王座",
-      "仙后座",
       "英仙座",
+      "仙后座",
+      "仙王座",
       "飞马座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4160,12 +4160,12 @@
   {
     "question": "象征希腊神话半人马族整体的南天大星座是？",
     "options": [
-      "半人马座",
+      "英仙座",
       "射手座",
       "牧夫座",
-      "英仙座"
+      "半人马座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4196,12 +4196,12 @@
   {
     "question": "被称为金牛座之眼、红色闪耀的星是？",
     "options": [
-      "毕宿五",
       "参宿七",
+      "毕宿五",
       "参宿四",
       "天狼星"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4214,12 +4214,12 @@
   {
     "question": "在猎户座脚下发出蓝光的星是？",
     "options": [
-      "参宿七",
-      "参宿四",
       "天津四",
+      "参宿四",
+      "参宿七",
       "五车二"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4232,12 +4232,12 @@
   {
     "question": "在猎户座肩头红光闪耀的星是？",
     "options": [
-      "参宿四",
+      "心宿二",
       "参宿七",
       "毕宿五",
-      "心宿二"
+      "参宿四"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4268,12 +4268,12 @@
   {
     "question": "小犬座中最亮、构成冬季大三角的星是哪颗？",
     "options": [
-      "南河三",
       "角宿一",
+      "南河三",
       "大角星",
       "北河三"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4286,12 +4286,12 @@
   {
     "question": "御夫座最亮、被称为山羊星的是？",
     "options": [
-      "五车二",
-      "毕宿五",
       "南河三",
+      "毕宿五",
+      "五车二",
       "天津四"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4304,12 +4304,12 @@
   {
     "question": "猎户座、天狼星、南河三构成的冬夜星三角是？",
     "options": [
-      "冬季大三角",
+      "北斗七星",
       "夏季大三角",
       "春季大三角",
-      "北斗七星"
+      "冬季大三角"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4340,12 +4340,12 @@
   {
     "question": "被称为天蝎座之心、红光闪耀的星是？",
     "options": [
-      "心宿二",
       "毕宿五",
+      "心宿二",
       "参宿四",
       "参宿七"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4358,12 +4358,12 @@
   {
     "question": "组成双子座头部的卡斯托尔与波吕克斯兄弟星中，更明亮的一等星（β星）是？",
     "options": [
-      "北河三 (波吕克斯/Pollux)",
-      "北河二 (卡斯托尔/Castor)",
       "毕宿五",
+      "北河二 (卡斯托尔/Castor)",
+      "北河三 (波吕克斯/Pollux)",
       "天津四"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4376,12 +4376,12 @@
   {
     "question": "位于北斗七星斗柄倒数第二颗、与视力测验伴星辅星(开阳增一/Alcor)组成肉眼双星的主星是？",
     "options": [
-      "开阳星 (Mizar)",
+      "天玑星 (Phecda)",
       "天枢星 (Dubhe)",
       "天璇星 (Merak)",
-      "天玑星 (Phecda)"
+      "开阳星 (Mizar)"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4412,12 +4412,12 @@
   {
     "question": "怀抱五车二、形似车夫的星座是？",
     "options": [
-      "御夫座",
       "牧夫座",
+      "御夫座",
       "双子座",
       "英仙座"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4430,12 +4430,12 @@
   {
     "question": "在天上的牧人身边、象征两只猎犬的星座是？",
     "options": [
-      "猎犬座",
-      "牧夫座",
       "大犬座",
+      "牧夫座",
+      "猎犬座",
       "豺狼座"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4448,12 +4448,12 @@
   {
     "question": "南天形似孔雀、含亮星的星座是？",
     "options": [
-      "孔雀座",
+      "半人马座",
       "南十字座",
       "船底座",
-      "半人马座"
+      "孔雀座"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "space",
@@ -4484,12 +4484,12 @@
   {
     "question": "衣服松开时悄悄顶替，却一动就戳皮肤、暴露你偷懒的是什么？",
     "options": [
-      "别针",
       "拉链",
+      "别针",
       "魔术贴",
       "胸针"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4520,12 +4520,12 @@
   {
     "question": "在阳台风中牢牢咬住衣服防吹落，却在肩膀上留下两道尖角夹痕的是？",
     "options": [
-      "晾衣夹",
+      "衣架",
       "别针",
       "磁铁",
-      "衣架"
+      "晾衣夹"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "laundry",
@@ -4538,12 +4538,12 @@
   {
     "question": "想爽快拧开瓶盖，一旦用力过猛就把饮料喷上天花板。我是什么?",
     "options": [
-      "剪刀",
+      "开瓶器",
       "扳手",
       "开瓶钻",
-      "开瓶器"
+      "剪刀"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4592,12 +4592,12 @@
   {
     "question": "装模作样剪指甲，却把剪下的碎片像火箭一样发射到客厅另一头。我是什么?",
     "options": [
-      "指甲剪",
+      "锉刀",
       "剪刀",
       "小刀",
-      "锉刀"
+      "指甲剪"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4610,12 +4610,12 @@
   {
     "question": "装作平稳地端着一摞杯子，一过门槛就举办稀里哗啦派对。我是什么?",
     "options": [
-      "盘子",
+      "托盘",
       "砧板",
       "篮子",
-      "托盘"
+      "盘子"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4664,12 +4664,12 @@
   {
     "question": "安静地抱着面包，一发呆就让它像导弹一样弹起吓到人。我是什么?",
     "options": [
-      "烤面包机",
+      "空气炸锅",
       "微波炉",
       "烤箱",
-      "空气炸锅"
+      "烤面包机"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -4682,12 +4682,12 @@
   {
     "question": "被塞进吸管里清洗，却卡住拔不出来，发起了决斗。我是什么?",
     "options": [
-      "牙刷",
+      "吸管刷",
       "棉签",
       "笔刷",
-      "吸管刷"
+      "牙刷"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "kitchen",
@@ -4718,12 +4718,12 @@
   {
     "question": "平时安静待在角落，只在堵塞反水时才被召唤的救兵是谁？",
     "options": [
-      "马桶搋子",
-      "马桶",
       "洗手池",
+      "马桶",
+      "马桶搋子",
       "刷子"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4736,12 +4736,12 @@
   {
     "question": "装作保护快递，可一踩就啪啪作响，暴露你偷偷拆过。我是什么?",
     "options": [
-      "气泡膜",
+      "胶带",
       "塑料膜",
       "泡沫",
-      "胶带"
+      "气泡膜"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -4754,12 +4754,12 @@
   {
     "question": "以为刷完牙了，它却把藏在嘴里的辣椒渣揪出来。我是什么?",
     "options": [
-      "牙刷",
+      "牙线",
       "牙签",
       "漱口水",
-      "牙线"
+      "牙刷"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4808,12 +4808,12 @@
   {
     "question": "鼓鼓的时候很顺滑，瘪下去就让你测试握力。我是什么?",
     "options": [
-      "牙膏",
+      "护发素",
       "肥皂",
       "洗发水",
-      "护发素"
+      "牙膏"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -4826,12 +4826,12 @@
   {
     "question": "想插进电脑，前后总不对，逼你翻来覆去好几次。我是什么?",
     "options": [
-      "SD卡",
+      "U盘",
       "充电器",
       "耳机",
-      "U盘"
+      "SD卡"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "tech",
@@ -4845,11 +4845,11 @@
     "question": "看起来像薄薄脆脆的黑纸，但包着米饭蘸酱油吃却美味绝顶的是什么？",
     "options": [
       "裙带菜",
-      "海带",
       "烤海苔",
+      "海带",
       "苔菜"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -4880,12 +4880,12 @@
   {
     "question": "坐卧时松软舒适，可一站起身就发出吱呀响声、当场告发你刚才偷懒的客厅家具是？",
     "options": [
-      "沙发",
+      "抽屉柜",
       "餐桌",
       "书架",
-      "抽屉柜"
+      "沙发"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -4898,12 +4898,12 @@
   {
     "question": "错过站才去按，全车人都回头看的东西。我是什么?",
     "options": [
-      "扶手",
+      "下车铃",
       "按钮",
       "广播",
-      "下车铃"
+      "扶手"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "transit",
@@ -4952,12 +4952,12 @@
   {
     "question": "不盖盖子就会自己干掉变成石头。我是什么?",
     "options": [
-      "固体胶",
+      "黏合剂",
       "木工胶",
       "胶带",
-      "黏合剂"
+      "固体胶"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -4970,12 +4970,12 @@
   {
     "question": "被背在背上扛着沉甸甸的课本，可一回到家就最先被狠狠扔在房间地板上的是？",
     "options": [
-      "公文包",
+      "学生书包",
       "购物纸袋",
       "收纳包",
-      "学生书包"
+      "公文包"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5024,12 +5024,12 @@
   {
     "question": "装作帮你扎头发，却在关键时刻'啪'地断掉。我是什么?",
     "options": [
-      "发圈",
+      "梳子",
       "发夹",
       "发箍",
-      "梳子"
+      "发圈"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5042,12 +5042,12 @@
   {
     "question": "一张就够，可一着急抽就香肠似地连出好几张。我是什么?",
     "options": [
-      "卫生纸",
+      "湿巾",
       "手帕",
       "厨房纸",
-      "湿巾"
+      "卫生纸"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5096,12 +5096,12 @@
   {
     "question": "坐着松软，一站起就啪地掉下勾住脚踝。我是什么?",
     "options": [
-      "坐垫",
+      "垫子",
       "靠垫",
       "枕头",
-      "垫子"
+      "坐垫"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -5114,12 +5114,12 @@
   {
     "question": "在制服上滚一滚，就证明你有多久没打扫。我是什么?",
     "options": [
-      "扫把",
+      "粘毛器",
       "吸尘器",
       "鸡毛掸",
-      "粘毛器"
+      "扫把"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5168,12 +5168,12 @@
   {
     "question": "静止时很安静，但双手握住手柄飞快挥动时，就会擦过脚底让人不断跳跃的绳子是什么？",
     "options": [
-      "跳绳",
+      "跳箱",
       "咖啡杯",
       "哨子",
-      "跳箱"
+      "跳绳"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5186,12 +5186,12 @@
   {
     "question": "轻轻一弹就跳，被用力一踩就凹进去弹不回来。我是什么?",
     "options": [
-      "羽毛球",
+      "乒乓球",
       "棒球",
       "足球",
-      "乒乓球"
+      "羽毛球"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5240,12 +5240,12 @@
   {
     "question": "想舀汤，却在锅柄上滑倒，噗通掉进汤里。我是什么?",
     "options": [
-      "汤勺",
+      "勺子",
       "饭铲",
       "锅铲",
-      "勺子"
+      "汤勺"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5258,12 +5258,12 @@
   {
     "question": "往窄口倒，一着急就反涌出来洒到外面。我是什么?",
     "options": [
-      "汤勺",
+      "漏斗",
       "杯子",
       "水壶",
-      "漏斗"
+      "汤勺"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5276,12 +5276,12 @@
   {
     "question": "铺开本想运动，一躺下就变成午睡床的是什么？",
     "options": [
-      "瑜伽垫",
       "床垫",
+      "瑜伽垫",
       "被子",
       "坐垫"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -5312,12 +5312,12 @@
   {
     "question": "让自己呼吸和心跳在耳朵里轰轰作响。我是什么?",
     "options": [
-      "耳塞",
+      "头戴耳机",
       "耳机",
       "眼罩",
-      "头戴耳机"
+      "耳塞"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5330,12 +5330,12 @@
   {
     "question": "煮拉面时猛地掀开，把水滴落到脚背上。我是什么?",
     "options": [
-      "平底锅",
+      "锅盖",
       "盘子",
       "托盘",
-      "锅盖"
+      "平底锅"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "kitchen",
@@ -5366,12 +5366,12 @@
   {
     "question": "原本是在洗衣机里防止衣物缠绕损坏的护衣用品，却常因拉链松开而让衣服偷偷溜出的是？",
     "options": [
-      "洗衣网袋",
-      "电熨斗",
       "晾衣架",
+      "电熨斗",
+      "洗衣网袋",
       "衣架"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "laundry",
@@ -5389,11 +5389,11 @@
     "question": "能无痛地包住伤口，可一洗手就吸饱水、吊儿郎当往下掉的是？",
     "options": [
       "膏药",
-      "创可贴",
+      "绷带",
       "纱布",
-      "绷带"
+      "创可贴"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "耷拉耷拉！写着防水功能的那行字，到底跑哪去了？",
       "wrong": "不对～一沾水边角就发白翘起、只能撕掉的，是创可贴。"
@@ -5402,12 +5402,12 @@
   {
     "question": "装作帮耳朵爽快掏一掏，一个喷嚏就让你尝到地狱。我是什么?",
     "options": [
-      "棉签",
+      "挖耳勺",
       "牙签",
       "镊子",
-      "挖耳勺"
+      "棉签"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "daily",
@@ -5456,12 +5456,12 @@
   {
     "question": "在餐馆里把牙缝里的辣椒粉毫不留情挖出来。我是什么?",
     "options": [
-      "牙签",
+      "牙线",
       "筷子",
       "叉子",
-      "牙线"
+      "牙签"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -5474,12 +5474,12 @@
   {
     "question": "洗完头擦干后，如果不晾开而揉成一团丢在浴室角落，一天之内就会发馊发臭的是？",
     "options": [
-      "浴球",
+      "毛巾",
       "搓澡巾",
       "香皂",
-      "毛巾"
+      "浴球"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -5492,12 +5492,12 @@
   {
     "question": "两柄铁刃挽手并肩咔嚓作响，每前进一步就将纸张与布料斩为两半的是什么？",
     "options": [
-      "剪刀",
       "小刀",
+      "剪刀",
       "指甲刀",
       "针"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5528,12 +5528,12 @@
   {
     "question": "把脚伸向它张开的腿，它就像铁一样踢你的小腿。我是什么?",
     "options": [
-      "折叠桌",
+      "椅子",
       "书桌",
       "餐桌",
-      "椅子"
+      "折叠桌"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "home",
@@ -5546,12 +5546,12 @@
   {
     "question": "在口袋里叮当作响，一掉落就滚进自动售货机下面躲起来。我是什么?",
     "options": [
-      "纸币",
+      "硬币",
       "卡",
       "纽扣",
-      "硬币"
+      "纸币"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -5587,11 +5587,11 @@
     "question": "想用手指爽快地撕开，结果只撕开一个头，就裂成细细一条竖线的是？",
     "options": [
       "纸胶带",
-      "封箱胶带",
       "绷带",
+      "封箱胶带",
       "保鲜膜"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "嘶——！用指甲找边角找得团团转，十分钟就这么没了！",
       "wrong": "答错！斜着撕成细细一条、专考验人耐心的，是封箱胶带。"
@@ -5606,10 +5606,10 @@
     "options": [
       "叉子",
       "吸管",
-      "筷子",
-      "锅铲"
+      "锅铲",
+      "筷子"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "必须黏在一起才有用！只剩一根就只是根细棍子。",
       "wrong": "错！只剩一个就没用的，是筷子。"
@@ -5622,12 +5622,12 @@
     "reward_keys": 1,
     "question": "能把文件整理得漂漂亮亮，可只要想多塞一张，就张大嘴巴全吐出来的是？",
     "options": [
-      "书签",
       "订书机",
+      "书签",
       "回形针",
       "文件夹"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "咔嚓！纸太厚的话，它就自己把钉书针吐出来，空咬一口。",
       "wrong": "答错！钉在厚纸上结果钉书针被压扁的，是订书机。"
@@ -5641,11 +5641,11 @@
     "question": "想凉爽地喝一口就吸了上去，结果没喝到饮料，只从杯底冰块缝里发出吵人空气声的是？",
     "options": [
       "保温瓶",
-      "纸杯",
       "塑料吸管",
+      "纸杯",
       "勺子"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "咕噜噜咳！在安静的图书馆里独自发出雷鸣般的巨响！",
       "wrong": "不对～饮料喝完了却对着空气啧啧吸的声音，是吸管发出来的。"
@@ -5659,11 +5659,11 @@
     "question": "明明刚才关好了，却在包里盖子松开，把各种随身物品弄得黏糊糊的是？",
     "options": [
       "防晒霜",
-      "润唇膏",
       "水瓶",
+      "润唇膏",
       "牙膏"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "滑溜溜！在包底摸来摸去，结果摸到黏糊糊内容物时的那种绝望！",
       "wrong": "错啦～只要口袋一点热度就自己融化、逃出盖子的是润唇膏。"
@@ -5678,10 +5678,10 @@
     "options": [
       "雨伞",
       "扇子",
-      "保温杯",
-      "充电宝"
+      "充电宝",
+      "保温杯"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "哗啦！相信了“完全密封”那几个字，结果课本角被水泡得胀开。",
       "wrong": "不对～打开包时把里面变成一片汪洋的罪魁祸首，是没盖紧的保温杯。"
@@ -5694,12 +5694,12 @@
     "reward_keys": 1,
     "question": "把食物塞满脸颊藏着，可一跑滚轮就全忘光的动物是？",
     "options": [
-      "兔子",
-      "松鼠",
       "仓鼠",
+      "松鼠",
+      "兔子",
       "刺猬"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "忙忙忙！把脸颊塞得鼓鼓的，然后拼命跑滚轮！",
       "wrong": "错！把食物藏在脸颊里、还跑滚轮的是仓鼠。"
@@ -5712,12 +5712,12 @@
     "reward_keys": 1,
     "question": "吸满气体就变得圆滚紧绷，哪怕仅被一根尖针轻触也会砰然碎散化为乌有的是什么？",
     "options": [
-      "气球",
       "肥皂泡",
+      "气球",
       "轮胎",
       "沙滩球"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "答对了！吹入气息便飘然上浮、遇到微细别针便惊慌爆裂的气球！",
       "wrong": "错了！注入空气就会鼓胀起来的五彩橡胶囊。"
@@ -5731,11 +5731,11 @@
     "question": "明明充满100%才带出门，可一到晚上就自己闪红灯、直喘气的是？",
     "options": [
       "智能手表",
-      "充电宝",
       "无线鼠标",
+      "充电宝",
       "蓝牙音箱"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "闪啊闪！本来是带出来讨饭吃的家伙，结果自己先把饭吃光了！",
       "wrong": "不对～在包里光炫耀砖头般的重量、然后没电的，是充电宝。"
@@ -5750,10 +5750,10 @@
     "options": [
       "果冻",
       "巧克力",
-      "酥皮派",
-      "糖果"
+      "糖果",
+      "酥皮派"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "啪沙沙！掉在桌上的碎屑比吃进嘴里的还多！",
       "wrong": "错啦～咬一口就招来妈妈一记后背掌的，是派。"
@@ -5766,12 +5766,12 @@
     "reward_keys": 1,
     "question": "在暗处能照得亮亮堂堂，可手指在脸上方一踩空，就砸向脸的是？",
     "options": [
-      "阅读灯",
       "手机",
+      "阅读灯",
       "平板",
       "手电筒"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "咚！躺着看视频被砸中鼻梁，只有经历过的人才懂的眼泪！",
       "wrong": "不对～一放松就被重力吸引、狠狠砸到脸的，是手机。"
@@ -5821,11 +5821,11 @@
     "question": "打开盖子就有热腾腾的米饭，可吃完以后只剩空壳到处乱跑。它是什么？",
     "options": [
       "锅",
-      "饭盒",
+      "盘子",
       "保温瓶",
-      "盘子"
+      "饭盒"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "掀盖一亮，吃完空壳！午饭时间的主角就是我。",
       "wrong": "错！装饭随身带的小盒子是饭盒。"
@@ -5838,12 +5838,12 @@
     "reward_keys": 1,
     "question": "按一个按钮就能飞快把我送上楼，可就在门关上的一刹那，让人和同乘者尴尬地对上眼的是？",
     "options": [
-      "自动扶梯",
       "电梯",
+      "自动扶梯",
       "缆车",
       "自动步道"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "叮！上楼全程只能盯着天花板数字板看的沉默之屋！",
       "wrong": "答错！想按关门键却和人对上眼、冷汗直流的，是电梯。"
@@ -5857,11 +5857,11 @@
     "question": "牢牢地勒着穿上，可刚多吃一勺饭，就毫不留情地掐进肚子的是？",
     "options": [
       "背带",
-      "纽扣",
       "腰带",
+      "纽扣",
       "橡皮筋"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "勒紧又松开！在餐厅偷偷松一格那瞬间的解放感！",
       "wrong": "错啦～在自助餐厅最先举手投降、被解开的，是腰带。"
@@ -5875,11 +5875,11 @@
     "question": "假装把食物热得酥脆，可一拿出来，只把碗烫到能烫伤手指的是？",
     "options": [
       "空气炸锅",
-      "微波炉",
       "烤箱",
+      "微波炉",
       "烤面包机"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "啊烫！食物还温温的，盘子边缘却像岩浆一样滚烫！",
       "wrong": "不对～只转30秒就让人拿不住盘子的，是微波炉。"
@@ -5894,10 +5894,10 @@
     "options": [
       "巧克力火锅",
       "华夫饼",
-      "冰淇淋",
-      "热可可"
+      "热可可",
+      "冰淇淋"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "冰到头疼！吃得太急瞬间引发脑冻结，只能捂着太阳穴发呆！",
       "wrong": "错啦！挖成圆球放在脆筒或杯子里的冰凉奶香甜点。"
@@ -5910,12 +5910,12 @@
     "reward_keys": 1,
     "question": "输好密码想登录，它却说你不是机器人、让你挑出九张斑马线照片的是？",
     "options": [
-      "杀毒软件",
       "验证码验证",
+      "杀毒软件",
       "指纹识别器",
       "动态口令器"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "勾选！让你为红绿灯边角算不算而纠结五分钟！",
       "wrong": "不对～让你怀疑自己到底是不是人的，是验证码验证。"
@@ -5929,11 +5929,11 @@
     "question": "能干净地保护手机屏幕，可一贴上去就在中间顶着一个大气泡不放的是？",
     "options": [
       "手机壳",
-      "指环支架",
       "屏幕保护膜",
+      "指环支架",
       "镜头盖"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "啵！憋着气贴得连一粒灰都没进去，结果三个气泡来迎接你！",
       "wrong": "答错！用指甲或卡片怎么推都不肯走的，是屏幕保护膜。"
@@ -5947,11 +5947,11 @@
     "question": "明明刚才还乖乖待在我头上，可一照镜子就只剩额头上一个红印子、自己消失的是？",
     "options": [
       "发带",
-      "卷发筒",
       "发夹",
+      "卷发筒",
       "毛巾"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "卷卷卷！忘了自己还卷着，差点就这么进了电梯吧？",
       "wrong": "不对～出门前像独角兽角一样挂在额头上的，是卷发筒。"
@@ -5966,10 +5966,10 @@
     "options": [
       "食用油",
       "酱油",
-      "番茄酱",
-      "香油"
+      "香油",
+      "番茄酱"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "噗咻！袖口溅上一个红点的瞬间，今天出门的穿搭就完蛋了。",
       "wrong": "答错！倒过来拍两下、就哗地洒满托盘的是番茄酱瓶。"
@@ -5982,12 +5982,12 @@
     "reward_keys": 1,
     "question": "能柔和地照亮房间、营造气氛，可真正想吹灭时，却甩出一颗呛人烟雾弹的是？",
     "options": [
-      "香薰",
       "香薰蜡烛",
+      "香薰",
       "台灯",
       "氛围灯"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "呼～咳！浪漫香气无影无踪，只剩一股玩火味的魔法！",
       "wrong": "错啦～往蜡油中间一戳，只把烛芯烧个精光的，是香薰蜡烛。"
@@ -6001,11 +6001,11 @@
     "question": "烤得又脆又甜，可一咬下去，就把里面滚烫的糖浆射向下巴的是？",
     "options": [
       "鲷鱼烧",
-      "奶油小蛋糕",
       "糖饼",
+      "奶油小蛋糕",
       "华夫饼"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "啊烫！拿纸杯捧着呼呼吹，正好把舌头烫到——这就是冬天的味道！",
       "wrong": "不对～一不留神大口咬下、被岩浆般糖水袭击的，是糖饼。"
@@ -6019,11 +6019,11 @@
     "question": "好好地供在笔袋里，可盖子松了，自己把内芯挤出来、把包里涂成紫色的是？",
     "options": [
       "印章",
-      "机读卡笔",
       "颜料",
+      "机读卡笔",
       "印台"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "闪光！该涂机读卡了，笔尖却糊成一团，变成大毛笔啦！",
       "wrong": "不对～盖子插在笔尾然后不知丢哪去的老常客，是机读卡笔。"
@@ -6037,11 +6037,11 @@
     "question": "只有一个口，可一跌倒就把里面全倒出来，带把手的小容器是？",
     "options": [
       "盘子",
-      "杯子",
+      "保温瓶",
       "锅",
-      "保温瓶"
+      "杯子"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "哗啦！轻轻一碰就把里面全倒出来，真是个讨人嫌的小容器！",
       "wrong": "错！带把手的小容器是杯子。"
@@ -6054,12 +6054,12 @@
     "reward_keys": 1,
     "question": "假装在桌上自己嗖嗖地转，却碰到我的书页边角、把文件吹得满天飞的是？",
     "options": [
-      "空调遥控器",
       "桌面小风扇",
+      "空调遥控器",
       "无线加湿器",
       "空气净化器"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "嗡嗡啪！本想吹吹风，结果弯腰捡满地的复习资料，汗流得更多！",
       "wrong": "错啦～顶着大头摇摇晃晃、自己倒下的是小风扇。"
@@ -6073,11 +6073,11 @@
     "question": "让人能在沙发上舒服地打滚，可一起身就伴着静电火花、把全身弄得毛茸茸的是？",
     "options": [
       "皮靠垫",
-      "羽绒背心",
       "珊瑚绒毛毯",
+      "羽绒背心",
       "羊毛大衣"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "刺啦啪嗒！静电派对一开，黑裤子就被白熊毛盖满啦！",
       "wrong": "不对～每次起身都滋啦滋啦冒火花的冬季朋友，是珊瑚绒毛毯。"
@@ -6110,10 +6110,10 @@
     "options": [
       "键盘",
       "游戏摇杆",
-      "光电鼠标",
-      "摄像头"
+      "摄像头",
+      "光电鼠标"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "卡顿！团战当中光标在半空冻住的地狱瞬间！",
       "wrong": "答错！红色传感器沾一粒灰就装傻不动的，是光电鼠标。"
@@ -6126,12 +6126,12 @@
     "reward_keys": 1,
     "question": "做出来就是让人用手指爽快刮开的，可真刮完之后，只在指甲缝里塞满黑黑银粉的是？",
     "options": [
-      "铅笔芯",
       "刮刮卡",
+      "铅笔芯",
       "贴纸背面",
       "粉笔灰"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "沙沙沙！心跳加速地刮开，结果只清清楚楚留下“下次再来”！",
       "wrong": "不对～没硬币就用指甲刮、结果只弄脏手指的，是即开彩票。"
@@ -6145,11 +6145,11 @@
     "question": "想煮泡面从饮水机接热水，可刚好在刻度下方就喊停、吐出冷水的是？",
     "options": [
       "电热水壶",
-      "保温瓶",
       "热水饮水机",
+      "保温瓶",
       "微波炉"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "咕噜咕噜滴答！温吞水把面条泡得发涨，看来要吃糊糊面啦！",
       "wrong": "不对～在我的杯面前刚好断热水、让人绝望的，是饮水机。"
@@ -6163,11 +6163,11 @@
     "question": "卖力嚼着甜芯把甜味榨干，可要吐时却没有纸巾，只好被困在嘴里的是？",
     "options": [
       "糖果",
-      "口香糖",
       "果冻",
+      "口香糖",
       "巧克力"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "嚼啊嚼……味道都没了，只剩下巴酸，又咽不下去，真尴尬！",
       "wrong": "答错！把口袋翻遍也找不到一张小票、只好继续嚼的，是口香糖。"
@@ -6182,10 +6182,10 @@
     "options": [
       "身份证",
       "学生证",
-      "交通卡",
-      "员工证"
+      "员工证",
+      "交通卡"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "滴滴滴！在上班路上筑起一道痛哭之墙，后脑勺被灼热目光盯穿！",
       "wrong": "答错！整包钱包一贴、门砰地关上还撞到大腿的，是交通卡读取错误。"
@@ -6198,12 +6198,12 @@
     "reward_keys": 1,
     "question": "又甜又凉的饮料都喝完了，却牢牢卡在冰块缝底、怎么都吸不上来的黏糯东西是？",
     "options": [
-      "椰果",
       "珍珠粉圆",
+      "椰果",
       "芦荟粒",
       "奇亚籽"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "啵啵啵！用吸管瞄准射击，它也躲在冰下死活不肯上来！",
       "wrong": "不对～珍珠奶茶喝完、留在杯底的黑色宝石，是珍珠粉圆。"
@@ -6235,11 +6235,11 @@
     "question": "假装要叫醒我，却眼睁睁看着我关掉它继续睡的是？",
     "options": [
       "枕头",
-      "闹钟",
       "被子",
+      "闹钟",
       "窗帘"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "滴答！我每天都老实巴交地响，可被子把你抓得更紧呀。",
       "wrong": "哔！我每个凌晨都毫无谎话地响个不停！"
@@ -6253,11 +6253,11 @@
     "question": "在我耳边假装放歌，却只在口袋里缠成线团一样的是？",
     "options": [
       "项链",
-      "耳机",
+      "充电器",
       "口罩带",
-      "充电器"
+      "耳机"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "答对！口袋里面，是耳机们悄悄打结的秘密工作室。",
       "wrong": "不对～会缠成一团的，永远只有我那副耳机！"
@@ -6270,12 +6270,12 @@
     "reward_keys": 1,
     "question": "它只是学我说话，最后却把我的秘密广播给整个小区。它是什么？",
     "options": [
-      "金丝雀",
       "鹦鹉",
+      "金丝雀",
       "麻雀",
       "乌鸦"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "鹦鹉鹦鹉！自己说的话原封不动飞回来时，那种尴尬劲儿！",
       "wrong": "叮！会模仿人说话的鸟是鹦鹉。"
@@ -6289,11 +6289,11 @@
     "question": "虽常被笑为慢吞吞，却背着坚硬甲壳之屋、在水陆间慢游且极为长寿的爬行动物是？",
     "options": [
       "变色龙",
-      "鼹鼠",
       "乌龟",
+      "鼹鼠",
       "蚂蚁"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "kkaebi_reaction": {
       "correct": "答对了！乌龟背负硬甲，能悠闲漫步活上逾百载！",
       "wrong": "错啦！在寓言故事中与兔子赛跑的背甲长寿动物。"
@@ -6307,11 +6307,11 @@
     "question": "在黑板上白花花的字写着写着就啪地折断，掉到地上就摔得粉碎的是？",
     "options": [
       "铅笔",
-      "粉笔",
       "蜡笔",
+      "粉笔",
       "马克笔"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "kkaebi_reaction": {
       "correct": "啪！稍微用力一按就折断，只剩一小截在老师手里！",
       "wrong": "答错！在黑板上写字一用力就断的白色小棍，是粉笔。"
@@ -6326,10 +6326,10 @@
     "options": [
       "贴纸",
       "便利贴",
-      "双面胶",
-      "标签"
+      "标签",
+      "双面胶"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "刺啦！想撕下来时纸被撕成两半，这时才知道它的存在！",
       "wrong": "不对～正反两面都黏、把纸吃掉的，是双面胶。"
@@ -6342,12 +6342,12 @@
     "reward_keys": 1,
     "question": "在室内会顺着鼻尖滑下去，却只在阳光下把世界染成黑色的是？",
     "options": [
-      "帽子",
       "太阳镜",
+      "帽子",
       "口罩",
       "眼罩"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "唰！在刺眼阳光下，我能把世界的颜色都换掉。",
       "wrong": "答错！戴在眼睛上世界就变黑的，是太阳镜。"
@@ -6397,11 +6397,11 @@
     "question": "我要找的时候它一定藏在沙发底下，可我不看时，它又不知不觉在哥哥手里的是？",
     "options": [
       "眼镜",
-      "遥控器",
+      "耳机",
       "充电器",
-      "耳机"
+      "遥控器"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "kkaebi_reaction": {
       "correct": "叮咚！沙发底下，是遥控器们聚居的秘密基地。",
       "wrong": "答错！不看时无影无踪、偏偏需要时就消失的，是遥控器。"
@@ -6414,12 +6414,12 @@
     "reward_keys": 1,
     "question": "转啊转假装把衣服洗干净，却把一只袜子永远藏起来的是？",
     "options": [
-      "烘干机",
-      "洗碗机",
       "洗衣机",
+      "洗碗机",
+      "烘干机",
       "吸尘器"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "kkaebi_reaction": {
       "correct": "轰隆！洗衣机是世界上最可怕的魔术师。",
       "wrong": "答错！转完之后一定少一只袜子的，是洗衣机。"
@@ -6429,12 +6429,12 @@
     "id": "rid_386",
     "question": "夜里悄悄落下，到了清晨把草叶和窗边染白的，是什么？",
     "options": [
-      "霜",
       "露",
+      "霜",
       "雪",
       "雾"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6447,12 +6447,12 @@
     "id": "rid_387",
     "question": "层层叠叠穿着沙沙作响的褐色鳞片外衣，剥了一层又一层却辣得让人直流泪的蔬菜是什么？",
     "options": [
-      "洋葱",
-      "大蒜",
       "生姜",
+      "大蒜",
+      "洋葱",
       "胡萝卜"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6465,12 +6465,12 @@
     "id": "rid_388",
     "question": "夜里温柔地托住你的头，早上却滚到地上的，是什么？",
     "options": [
-      "枕头",
+      "床",
       "毯子",
       "窗帘",
-      "床"
+      "枕头"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6501,12 +6501,12 @@
     "id": "rid_390",
     "question": "只有不停地扭动腰部才不会掉落到地上，在腰间不断旋转的塑料圆环是什么？",
     "options": [
-      "呼啦圈",
       "跳绳",
+      "呼啦圈",
       "回旋镖",
       "悠悠球"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6519,12 +6519,12 @@
     "id": "rid_391",
     "question": "生有数十枚坚硬利齿却无法咀嚼食物，唯独将蓬乱青丝顺滑理整之物是什么？",
     "options": [
-      "梳子",
-      "牙刷",
       "叉子",
+      "牙刷",
+      "梳子",
       "锯子"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6537,12 +6537,12 @@
     "id": "rid_392",
     "question": "胸前怀揣十二个数字，永不停歇挥动指针双腿滴答奔忙之物是什么？",
     "options": [
-      "时钟",
+      "体重秤",
       "指南针",
       "计量表",
-      "体重秤"
+      "时钟"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6573,12 +6573,12 @@
     "id": "rid_394",
     "question": "每日拥抱人们湿漉漉的双脚汲干水汽，沐浴过后却默默蜷伏在角落慢慢风干的事物是什么？",
     "options": [
-      "脚垫",
       "室内拖鞋",
+      "脚垫",
       "洗手池",
       "洗衣篮"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
@@ -6591,12 +6591,12 @@
     "id": "rid_395",
     "question": "于灶台烈焰之上咽下浓烟焖煮香饭，头顶压着沉重生铁厚盖方肯奉出焦香锅巴的是什么？",
     "options": [
-      "铁锅",
-      "砂锅",
       "水壶",
+      "砂锅",
+      "铁锅",
       "平底锅"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 2,
     "category": "food",
@@ -6609,12 +6609,12 @@
     "id": "rid_396",
     "question": "无风之日安分合拢，唯有用手有力挥动方能激荡凉风驱散酷暑的折叠羽翼是什么？",
     "options": [
-      "折扇",
+      "苍蝇拍",
       "电风扇",
       "换气扇",
-      "苍蝇拍"
+      "折扇"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6645,12 +6645,12 @@
     "id": "rid_398",
     "question": "将指尖写就的秘密悉心封存，胸前贴着一枚邮票便远涉重洋跨越异乡的白色纸封是什么？",
     "options": [
-      "信封",
       "明信片",
+      "信封",
       "包裹盒",
       "纸飞机"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6663,12 +6663,12 @@
     "id": "rid_399",
     "question": "炖着咕嘟咕嘟滚烫的汤菜端上餐桌也能长久保温、不易冷却的传统陶锅是什么？",
     "options": [
-      "砂锅",
-      "玻璃碗",
       "铝锅",
+      "玻璃碗",
+      "砂锅",
       "盘子"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
@@ -6681,12 +6681,12 @@
     "id": "rid_400",
     "question": "平时沉静休歇，暗夜中咔嗒按下开关便向前路射出一束明亮光柱的掌中明灯是什么？",
     "options": [
-      "手电筒",
+      "路灯",
       "壁炉",
       "日光灯",
-      "路灯"
+      "手电筒"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
@@ -6717,12 +6717,12 @@
     "id": "rid_402",
     "question": "明媚之日如蛛丝般静默流散，吸饱水汽后将长空覆为铁灰并倾泻瓢泼大雨的是什么？",
     "options": [
-      "乌云",
       "浓雾",
+      "乌云",
       "沙尘",
       "秋霜"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6735,12 +6735,12 @@
     "id": "rid_403",
     "question": "在铁砧上历经赤焰煅烧与万锤敲打，又经冷水淬炼急速冷却方能铸就绝世利刃的锻造工序是什么？",
     "options": [
-      "淬火",
-      "焊接",
       "电镀",
+      "焊接",
+      "淬火",
       "铸造"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "common_sense",
@@ -6753,12 +6753,12 @@
     "id": "rid_404",
     "question": "挂在冬日山野迎受刺骨寒风，历经百余次冻融交替方使肉质泛黄松软的海鱼是什么？",
     "options": [
-      "黄明太",
+      "黄花鱼干",
       "凤尾鱼",
       "咸青花鱼",
-      "黄花鱼干"
+      "黄明太"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 2,
     "difficulty": 2,
     "category": "food",
@@ -6789,12 +6789,12 @@
     "id": "rid_406",
     "question": "用指尖拉满弓弦骤然松手，便以肉眼莫辨之速疾飞而去、精准贯穿靶心之兵刃是什么？",
     "options": [
-      "箭",
       "长矛",
+      "箭",
       "回旋镖",
       "弹弓"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -6807,12 +6807,12 @@
     "id": "rid_407",
     "question": "小小的身体里含着一颗圆珠，用力吹一口气就会发出尖锐的声音让所有人停下脚步的是什么？",
     "options": [
-      "哨子",
-      "咖啡杯",
       "排球",
+      "咖啡杯",
+      "哨子",
       "秒表"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6825,12 +6825,12 @@
     "id": "rid_408",
     "question": "两面穿戴红黑两色的橡胶外衣，在球桌上来回击打白色小球的是什么？",
     "options": [
-      "乒乓球拍",
+      "球网",
       "咖啡杯",
       "运动鞋",
-      "球网"
+      "乒乓球拍"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "sports",
@@ -6861,12 +6861,12 @@
     "id": "rid_410",
     "question": "在严寒极地的夜空悄然出现，无声无息地轻轻摇曳着绿色与紫色丝绸光幕的神秘之光是什么？",
     "options": [
-      "极光",
       "彩虹",
+      "极光",
       "闪电",
       "晚霞"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6879,12 +6879,12 @@
     "id": "rid_411",
     "question": "在滚烫的沙漠与柏油路上招手假装有清凉湖泊，可一旦靠近就如谎言般瞬间消失的光之幻景是什么？",
     "options": [
-      "海市蜃楼",
-      "影子",
       "彩虹",
+      "影子",
+      "海市蜃楼",
       "浓雾"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6897,12 +6897,12 @@
     "id": "rid_412",
     "question": "宛如连结天地间的巨大陀螺般飞速旋转，将沿途一切事物狠狠吸向高空的恐怖风柱是什么？",
     "options": [
-      "龙卷风",
+      "海啸",
       "沙丘",
       "地震",
-      "海啸"
+      "龙卷风"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6933,12 +6933,12 @@
     "id": "rid_414",
     "question": "大白天正灿烂耀眼的太阳，被悄悄靠近的漆黑月牙一点点遮挡吞噬，令白昼骤然变暗的天文奇观是什么？",
     "options": [
-      "日食",
       "月食",
+      "日食",
       "月全食",
       "黄昏"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6951,12 +6951,12 @@
     "id": "rid_415",
     "question": "在闷热的雷雨天气突然从高空倾泻而下，以豆粒大小的坚硬冰块猛烈砸向房顶与田野的是什么？",
     "options": [
-      "冰雹",
-      "霰",
       "阵雨",
+      "霰",
+      "冰雹",
       "白霜"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -6969,12 +6969,12 @@
     "id": "rid_416",
     "question": "倒挂在幽暗洞穴的顶部，历经千年汲取滴落的水珠缓慢生长的石质冰凌是什么？",
     "options": [
-      "钟乳石",
+      "冰柱",
       "石笋",
       "珊瑚",
-      "冰柱"
+      "钟乳石"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7005,12 +7005,12 @@
     "id": "rid_418",
     "question": "我们脚下的坚实大地突然剧烈震颤发怒，疯狂晃动地面并摇撼房屋建筑的自然灾害是什么？",
     "options": [
-      "地震",
       "山体滑坡",
+      "地震",
       "海啸",
       "台风"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7023,12 +7023,12 @@
     "id": "rid_419",
     "question": "既没有坚硬岩石也没有泥土，随风每日悄悄挪移并变幻身姿的沙漠移动巨丘是什么？",
     "options": [
-      "沙丘",
-      "火山",
       "冰山",
+      "火山",
+      "沙丘",
       "高原"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7041,12 +7041,12 @@
     "id": "rid_420",
     "question": "数千年来积攒的厚雪冻结成坚硬巨冰，以肉眼难辨的极慢速度雕琢山谷岩石并缓缓滑移流动的巨大冰川是什么？",
     "options": [
-      "冰川",
+      "江河",
       "冰山",
       "雪崩",
-      "江河"
+      "冰川"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7077,12 +7077,12 @@
     "id": "rid_422",
     "question": "由海底剧烈震颤引发，在开阔大洋悄然疾驰，逼近海岸瞬间骤然耸立成滔天水墙狂暴吞噬陆地的巨浪是什么？",
     "options": [
-      "海啸",
       "退潮",
+      "海啸",
       "水龙卷",
       "漩涡"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7095,12 +7095,12 @@
     "id": "rid_423",
     "question": "圆润明亮的满月悄然遁入地球的暗影深处，在夜色中被染成一轮诡谲神秘血色红月的奇景是什么？",
     "options": [
-      "月食",
-      "日食",
       "新月",
+      "日食",
+      "月食",
       "日全食"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7113,12 +7113,12 @@
     "id": "rid_424",
     "question": "在数百万年奔腾不息的激流冲刷下，如利刃劈开层叠红岩大地般雕刻出的险峻壮丽的悬崖巨谷是什么？",
     "options": [
-      "大峡谷",
+      "沙丘",
       "洞穴",
       "火山口",
-      "沙丘"
+      "大峡谷"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7149,12 +7149,12 @@
     "id": "rid_426",
     "question": "如绚烂花田般绽放在温暖浅海，化作无数游鱼庇护所，实际上却是由微小生物骨骼日积月累堆砌而成的活体水下堡垒是什么？",
     "options": [
-      "珊瑚礁",
       "海藻林",
+      "珊瑚礁",
       "沉船",
       "海底洞穴"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7167,12 +7167,12 @@
     "id": "rid_427",
     "question": "地下水流失导致地层空洞无法承重，平坦道路与地面在某天突然毫无预兆地向下轰然坍塌形成的巨洞是什么？",
     "options": [
-      "天坑（地陷）",
-      "火山口",
       "水井",
+      "火山口",
+      "天坑（地陷）",
       "溶洞"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7185,12 +7185,12 @@
     "id": "rid_428",
     "question": "自大漠地平线腾空耸立起万丈黄沙巨墙，呼啸间遮蔽日月天光、席卷整片干涸荒野的狂暴天灾是什么？",
     "options": [
-      "沙尘暴",
+      "浓雾",
       "暴风雪",
       "浮尘",
-      "浓雾"
+      "沙尘暴"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7221,12 +7221,12 @@
     "id": "rid_430",
     "question": "像鸟一样张开双翼飞翔却浑身无羽，白天倒挂在洞穴顶端沉睡，夜晚仅靠超声波穿梭黑暗的哺乳动物是什么？",
     "options": [
-      "蝙蝠",
       "猫头鹰",
+      "蝙蝠",
       "松鼠",
       "燕子"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7239,12 +7239,12 @@
     "id": "rid_431",
     "question": "两只眼睛能够各自独立转动侦察四周，皮肤颜色还能随周围枝叶环境自由变换伪装的爬行动物是什么？",
     "options": [
-      "变色龙",
-      "壁虎",
       "青蛙",
+      "壁虎",
+      "变色龙",
       "鳄鱼"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7257,12 +7257,12 @@
     "id": "rid_432",
     "question": "双目几乎退化失明，却凭借如铲子般宽厚强壮的前爪刨开泥土，一生穿梭在黑暗地下隧道的掘土小能手是什么？",
     "options": [
-      "鼹鼠",
+      "兔子",
       "刺猬",
       "獾",
-      "兔子"
+      "鼹鼠"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7293,12 +7293,12 @@
     "id": "rid_434",
     "question": "头上长着由数万只小眼组成的巨大复眼，凭借四片轻薄透明的双翼在空中悬停自如并捕食蚊虫的飞行健将是什么？",
     "options": [
-      "蜻蜓",
       "蝴蝶",
+      "蜻蜓",
       "蜜蜂",
       "蚂蚱"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7311,12 +7311,12 @@
     "id": "rid_435",
     "question": "在幽暗地下潜伏数年甚至十余年吸食树根汁液，一朝破土爬上夏日树干、用生命震响刺耳蝉鸣的昆虫是什么？",
     "options": [
-      "蝉（知了）",
-      "蟋蟀",
       "螳螂",
+      "蟋蟀",
+      "蝉（知了）",
       "甲虫"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7329,12 +7329,12 @@
     "id": "rid_436",
     "question": "周身裹满滑溜溜的粘液让人空手极难握住，唇边长着须须、喜欢钻入浑浊泥塘深处潜藏的淡水小鱼是什么？",
     "options": [
-      "泥鳅",
+      "鳗鱼",
       "鲶鱼",
       "鲫鱼",
-      "鳗鱼"
+      "泥鳅"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7365,12 +7365,12 @@
     "id": "rid_438",
     "question": "夏夜在清澈溪流草丛间轻盈翻飞，腹末闪烁着幽冷青绿荧光、为同伴点亮微小灯笼的迷人昆虫是什么？",
     "options": [
-      "萤火虫",
       "金龟子",
+      "萤火虫",
       "蚊子",
       "蜻蜓"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7383,12 +7383,12 @@
     "id": "rid_439",
     "question": "长着圆圆的脑袋与八条布满强力吸盘的柔软腕足，遇险时喷射浓黑墨汁并狡黠滑入礁石夹缝的海底智者是什么？",
     "options": [
-      "章鱼（八爪鱼）",
-      "乌贼",
       "水母",
+      "乌贼",
+      "章鱼（八爪鱼）",
       "海星"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7401,12 +7401,12 @@
     "id": "rid_440",
     "question": "原本不起眼的纯碳历经地壳深处极高温度与千锤百炼的重压，蜕变成世上最坚硬且永恒闪耀的透明宝石是什么？",
     "options": [
-      "钻石（金刚石）",
+      "石墨",
       "红宝石",
       "玻璃",
-      "石墨"
+      "钻石（金刚石）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7437,12 +7437,12 @@
     "id": "rid_442",
     "question": "历经岁月风雨水浸也绝不生锈褪色，以夺目的金黄光泽成为人类历史上最具恒久价值的贵金属是什么？",
     "options": [
-      "黄金",
       "紫铜",
+      "黄金",
       "黄铜",
       "白银"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7455,12 +7455,12 @@
     "id": "rid_443",
     "question": "散发着如皎洁月光般的银白光华，导电导热性能冠绝所有金属，古时常用作验毒银针的贵金属是什么？",
     "options": [
-      "白银",
-      "铂金",
       "铝",
+      "铂金",
+      "白银",
       "镍"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7473,12 +7473,12 @@
     "id": "rid_444",
     "question": "质地坚韧且储量丰富，筑就了高楼大厦骨架、铁路钢轨与坚实刀锤，在潮湿空气中会泛起红锈的文明支柱金属是什么？",
     "options": [
-      "铁",
+      "锌",
       "铜",
       "铅",
-      "锌"
+      "铁"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7509,12 +7509,12 @@
     "id": "rid_446",
     "question": "宛如寒冰般清澈剔透、长着规整六角柱状棱柱身姿，在精密手表中担当计时振荡器并制成项链的天然宝石矿物是什么？",
     "options": [
-      "水晶",
       "钻石",
+      "水晶",
       "琥珀",
       "珍珠"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7527,12 +7527,12 @@
     "id": "rid_447",
     "question": "流淌着深邃森林般浓郁葱翠的华美翠绿光芒，相传曾令古埃及艳后克利奥帕特拉为之沉醉倾心的经典绿色贵宝石是什么？",
     "options": [
-      "祖母绿（翡翠绿宝石）",
-      "蓝宝石",
       "红宝石",
+      "蓝宝石",
+      "祖母绿（翡翠绿宝石）",
       "欧泊"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7545,12 +7545,12 @@
     "id": "rid_448",
     "question": "靠近铁器便紧紧相吸，同极相遇却顽强推拒排斥，并指引指南针永远坚定指向南北极的神秘磁性石头是什么？",
     "options": [
-      "磁铁（磁石）",
+      "陨石",
       "燧石",
       "石英石",
-      "陨石"
+      "磁铁（磁石）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7581,12 +7581,12 @@
     "id": "rid_450",
     "question": "身披醒目的黑白条纹皮毛，一旦遭遇强敌便高高竖起尾巴、喷射出令人窒息刺鼻恶臭气体的动物是什么？",
     "options": [
-      "臭鼬",
       "浣熊",
+      "臭鼬",
       "黄鼠狼",
       "獾"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7599,12 +7599,12 @@
     "id": "rid_451",
     "question": "长着骏马般的脑袋与猿猴般卷曲的尾巴，垂直在水中漫游，且由雄性父亲在育儿袋中孕育产下幼崽的神奇海洋鱼类是什么？",
     "options": [
-      "海马",
-      "水母",
       "海豹",
+      "水母",
+      "海马",
       "海龟"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7617,12 +7617,12 @@
     "id": "rid_452",
     "question": "终日倒挂在热带雨林树枝上沉睡近二十个小时，行动迟缓至极甚至连周身毛发里都长出了绿色苔藓的极慢动物是什么？",
     "options": [
-      "树懒",
+      "猴子",
       "考拉",
       "大熊猫",
-      "猴子"
+      "树懒"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -7653,12 +7653,12 @@
     "id": "rid_454",
     "question": "数千万年前古树流淌出的晶莹树脂经石化形成的蜂蜜色温润宝石，内部常常完美封印着远古史前昆虫的有机宝石是什么？",
     "options": [
-      "琥珀",
       "红宝石",
+      "琥珀",
       "珍珠",
       "水晶"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7671,12 +7671,12 @@
     "id": "rid_455",
     "question": "明明没有打开任何手电筒，却无论在阳光下还是日光灯下都时刻闪耀着明晃晃“自带反光”效果的人是谁？",
     "options": [
-      "头顶光溜溜的亮脑门叔叔",
-      "双手插兜的学生",
       "帽子压得很低的大哥",
+      "双手插兜的学生",
+      "头顶光溜溜的亮脑门叔叔",
       "嚼着口香糖的朋友"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7689,12 +7689,12 @@
     "id": "rid_456",
     "question": "悄无声息地让自己的嘴巴不由自主大大张开，接着仿佛施了魔法般让对面坐着的人也跟着大张开嘴的神奇“传染”是什么？",
     "options": [
-      "打哈欠",
+      "大笑",
       "咳嗽",
       "打嗝",
-      "大笑"
+      "打哈欠"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7725,12 +7725,12 @@
     "id": "rid_458",
     "question": "毫无预兆地突然发作让胸腹一下接一下抽动打嗝，民间传说必须让旁人在背后冷不防大喊一声“吓一跳”才能吓跑的是什么？",
     "options": [
-      "打嗝（呃逆）",
       "饱嗝",
+      "打嗝（呃逆）",
       "喷嚏",
       "打呼噜"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7743,12 +7743,12 @@
     "id": "rid_459",
     "question": "随着年龄增长眼前的数字越来越多，在心底默默许下愿望后用力吹一口气熄灭火焰、便会赢得满堂喝彩与掌声的仪式是什么？",
     "options": [
-      "吹生日蜡烛",
-      "吹气球",
       "吹哨子",
+      "吹气球",
+      "吹生日蜡烛",
       "吹泡泡"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7761,12 +7761,12 @@
     "id": "rid_460",
     "question": "清晨醒来睁开双眼的刹那，四肢不由自主向外拼命舒展延展、伴随一声舒服的呻吟唤醒全身筋骨的动作是什么？",
     "options": [
-      "伸懒腰",
+      "深呼吸",
       "跑步",
       "跳绳",
-      "深呼吸"
+      "伸懒腰"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7797,12 +7797,12 @@
     "id": "rid_462",
     "question": "双眼紧闭是在呼呼大睡，可如果单单眨动一只眼睛俏皮地一闭一睁，就能让人心跳加速的眼神暗号是什么？",
     "options": [
-      "眨眼（抛媚眼 / 眨单眼）",
       "斗眼比赛",
+      "眨眼（抛媚眼 / 眨单眼）",
       "打哈欠",
       "打瞌睡"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7815,12 +7815,12 @@
     "id": "rid_463",
     "question": "用五根手指中最细小无力的小指头相互勾缠成环，再大拇指对大拇指盖上印章才肯放心的童年神圣契约是什么？",
     "options": [
-      "拉钩盖章（拉钩上吊）",
-      "握手",
       "击掌",
+      "握手",
+      "拉钩盖章（拉钩上吊）",
       "扳手腕"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7833,12 +7833,12 @@
     "id": "rid_464",
     "question": "当欢庆进球或胜利降临时，双方高高扬起手掌在半空中“啪”的一声清脆击掌、方能将狂喜拉满的庆祝动作是什么？",
     "options": [
-      "击掌（Give me five）",
+      "交叉双臂",
       "握手",
       "鼓掌",
-      "交叉双臂"
+      "击掌（Give me five）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -7869,12 +7869,12 @@
     "id": "rid_466",
     "question": "宛如巨龙盘旋在崇山峻岭之巅，绵延蜿蜒万余里守护千百年古老国境的巍峨石砌防线是什么？",
     "options": [
-      "万里长城",
       "柏林墙",
+      "万里长城",
       "金字塔",
       "罗马斗兽场"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7887,12 +7887,12 @@
     "id": "rid_467",
     "question": "最初被文人讥讽为粗鄙难看的钢铁骨架废铁堆，如今却化作巴黎天际线上至死不渝浪漫象征的镂空巨塔是什么？",
     "options": [
-      "埃菲尔铁塔",
-      "东京铁塔",
       "比萨斜塔",
+      "东京铁塔",
+      "埃菲尔铁塔",
       "帝国大厦"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7905,12 +7905,12 @@
     "id": "rid_468",
     "question": "在浩瀚大漠中用数百万块数吨重的巨石垒叠如四棱锥金字高山，安息着古埃及法老永生之魂的奇迹陵墓是什么？",
     "options": [
-      "埃及金字塔",
+      "泰姬陵",
       "狮身人面像",
       "帕特农神庙",
-      "泰姬陵"
+      "埃及金字塔"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7941,12 +7941,12 @@
     "id": "rid_470",
     "question": "微笑着露出八十八颗黑白相间的整齐牙齿，当十指在上面轻盈跳跃击打时便能奏响宏伟和声的乐器之王是什么？",
     "options": [
-      "钢琴",
       "小提琴",
+      "钢琴",
       "架子鼓",
       "竖琴"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7959,12 +7959,12 @@
     "id": "rid_471",
     "question": "依偎在演奏者的颌下与肩窝，当马尾制成的琴弓轻拂过纤细的四根琴弦，便如人类歌喉般倾诉泣诉悠扬之音的乐器是什么？",
     "options": [
-      "小提琴",
-      "吉他",
       "大提琴",
+      "吉他",
+      "小提琴",
       "尤克里里"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -7977,12 +7977,12 @@
     "id": "rid_472",
     "question": "两手紧握木质鼓槌尽情砸击猛敲，踏板在脚下翻飞，激荡起如雷霆暴雨般令人心跳加速节拍的打击乐器是什么？",
     "options": [
-      "架子鼓（爵士鼓）",
+      "小号",
       "钢琴",
       "长笛",
-      "小号"
+      "架子鼓（爵士鼓）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8013,12 +8013,12 @@
     "id": "rid_474",
     "question": "小巧得可以随手塞进口袋，只需贴上嘴唇吸气呼气，便能在掌心间流淌出充满乡愁与布鲁斯蓝调口琴声的银色乐器是什么？",
     "options": [
-      "口琴",
       "陶笛",
+      "口琴",
       "竖笛",
       "小号"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "culture",
@@ -8031,12 +8031,12 @@
     "id": "rid_475",
     "question": "在全世界数十亿人中绝无完全雷同，藏在每个手指尖的天然旋转漩涡纹理、成为永恒个人生物身份证的是什么？",
     "options": [
-      "指纹",
-      "指甲",
       "手背",
+      "指甲",
+      "指纹",
       "手相掌纹"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8049,12 +8049,12 @@
     "id": "rid_476",
     "question": "在血肉深处架设起两百零六根坚固洁白的支柱，防止柔软的皮肉瘫倒、支撑起人体顶天立地站立的坚硬骨架是什么？",
     "options": [
-      "骨骼（骨头）",
+      "皮肤",
       "肌肉",
       "血管",
-      "皮肤"
+      "骨骼（骨头）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8085,12 +8085,12 @@
     "id": "rid_478",
     "question": "呱呱坠地降临人间那刻斩断与母亲血脉相连的生命脐带后，留在我们小腹正中央的唯一古老纪念印记是什么？",
     "options": [
-      "肚脐",
       "胎记",
+      "肚脐",
       "伤疤",
       "肋骨"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8103,12 +8103,12 @@
     "id": "rid_479",
     "question": "深藏在坚固颅骨堡垒深处、形如布满沟壑皱褶的核桃仁，统御着全身所有思维、记忆乃至心跳呼吸的中枢司令官是什么？",
     "options": [
-      "大脑（脑）",
-      "心脏",
       "肺",
+      "心脏",
+      "大脑（脑）",
       "胃"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -8121,12 +8121,12 @@
     "id": "rid_480",
     "question": "白天在阴森棺木中沉睡、入夜化作蝙蝠盘旋，极度畏惧阳光大蒜与银十字架、渴饮人类鲜血的暗夜贵族伯爵是谁？",
     "options": [
-      "德古拉伯爵（吸血鬼）",
+      "丧尸",
       "狼人",
       "木乃伊",
-      "丧尸"
+      "德古拉伯爵（吸血鬼）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8157,12 +8157,12 @@
     "id": "rid_482",
     "question": "在数千年前埃及金字塔石棺中安眠，浑身上下紧紧缠绕着层层亚麻布绷带、诅咒打扰陵墓盗墓者的起死回生怪物是什么？",
     "options": [
-      "木乃伊",
       "骷髅",
+      "木乃伊",
       "丧尸",
       "幽灵"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8175,12 +8175,12 @@
     "id": "rid_483",
     "question": "白昼与常人无异混迹在人群中，一旦漆黑夜空升起皎洁圆满的满月，便会长出尖牙浓密兽毛对月长啸的受诅咒生物是什么？",
     "options": [
-      "狼人",
-      "吸血鬼",
       "九尾狐",
+      "吸血鬼",
+      "狼人",
       "雪人（野人）"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8193,12 +8193,12 @@
     "id": "rid_484",
     "question": "丧失了所有的理性灵魂与思想记忆，仅存永不满足的噬咬本能，成群结队拖着迟缓步伐摇晃蹒跚游荡的活死人是什么？",
     "options": [
-      "丧尸（僵尸 / Zombie）",
+      "科学怪人",
       "清朝僵尸",
       "骷髅兵",
-      "科学怪人"
+      "丧尸（僵尸 / Zombie）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8229,12 +8229,12 @@
     "id": "rid_486",
     "question": "身穿清朝官服、额前贴着镇邪黄色符纸，两臂笔直前平举、依靠双腿僵硬并拢一蹦一跳蹦跳追赶活人的中国传说异怪是什么？",
     "options": [
-      "僵尸（清朝跳尸）",
       "小鬼（哥布林）",
+      "僵尸（清朝跳尸）",
       "丧尸",
       "木乃伊"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8247,12 +8247,12 @@
     "id": "rid_487",
     "question": "明明就站在你面前清晰呼吸并踩下脚印，可一旦解开身上缠裹的绷带或脱掉风衣衣物便会瞬间从视野中彻底隐形的人是谁？",
     "options": [
-      "隐形人（透明人）",
-      "幽灵",
       "影子",
+      "幽灵",
+      "隐形人（透明人）",
       "小鬼"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8265,12 +8265,12 @@
     "id": "rid_488",
     "question": "浑身裹在漆黑深邃的连帽兜帽长袍中遮蔽面孔，手持冰冷巨大的死神长镰、在凡人寿终正寝时收割灵魂的西方死神是谁？",
     "options": [
-      "死神（镰刀死神 / Grim Reaper）",
+      "丘比特",
       "阎罗王",
       "冥王哈迪斯",
-      "丘比特"
+      "死神（镰刀死神 / Grim Reaper）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8301,12 +8301,12 @@
     "id": "rid_490",
     "question": "背后长着扑闪小翅膀、形如调皮可爱的金发小男婴，却手持爱情金弓金箭、射中谁便令谁坠入炽热爱河的爱神是谁？",
     "options": [
-      "丘比特",
       "死神",
+      "丘比特",
       "赫尔墨斯",
       "小精灵"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "myth",
@@ -8319,12 +8319,12 @@
     "id": "rid_491",
     "question": "在小人国里巨大如山令整座都城宛如微缩玩具，在大人国里却渺小得只能站在别人掌心上供人观瞻的英国航海冒险家是谁？",
     "options": [
-      "格列佛",
-      "鲁滨逊",
       "辛巴达",
+      "鲁滨逊",
+      "格列佛",
       "彼得·潘"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8337,12 +8337,12 @@
     "id": "rid_492",
     "question": "只因拂拭灰尘轻轻摩擦了一盏破旧的油灯，便召唤出神通广大的蓝色神灯精灵满足三个愿望的神奇少年是谁？",
     "options": [
-      "阿拉丁",
+      "小王子",
       "阿里巴巴",
       "辛巴达",
-      "小王子"
+      "阿拉丁"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8373,12 +8373,12 @@
     "id": "rid_494",
     "question": "沉迷骑士文学走火入魔，将旷野上随风旋转的风车误当成张牙舞爪的邪恶巨人、挺起长矛奋勇冲锋的滑稽老骑士是谁？",
     "options": [
-      "堂吉诃德",
       "罗宾汉",
+      "堂吉诃德",
       "亚瑟王",
       "达达尼昂"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8391,12 +8391,12 @@
     "id": "rid_495",
     "question": "自幼被遗弃在幽深丛林却被母狼哺育成活，与棕熊巴鲁、黑豹巴吉拉情同手足并勇敢智斗恶虎谢尔汗的人类狼孩是谁？",
     "options": [
-      "毛克利（莫格利）",
-      "泰山",
       "彼得·潘",
+      "泰山",
+      "毛克利（莫格利）",
       "大力神赫拉克勒斯"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8409,12 +8409,12 @@
     "id": "rid_496",
     "question": "被囚禁在既无阶梯亦无门户的高耸孤塔之上，唯独将宛如金色绸缎般无比漫长的金色长发垂出窗外接引爱人的少女是谁？",
     "options": [
-      "长发公主（乐佩 / 莴苣姑娘）",
+      "小美人鱼",
       "灰姑娘",
       "睡美人",
-      "小美人鱼"
+      "长发公主（乐佩 / 莴苣姑娘）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8445,12 +8445,12 @@
     "id": "rid_498",
     "question": "不同于其他光脚行走的同类，它足蹬一双帅气皮长靴，凭三寸不烂之舌与绝妙机智智斗食人魔、让贫穷主人摇身变公爵的聪明动物是谁？",
     "options": [
-      "穿靴子的猫",
       "不来梅的音乐家",
+      "穿靴子的猫",
       "柴郡猫",
       "彼得兔"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8463,12 +8463,12 @@
     "id": "rid_499",
     "question": "身披一袭林肯绿衣隐居在舍伍德茂密森林中，以百步穿杨的绝世箭术劫富济贫、惩治贪官污吏的英国传奇绿林侠盗是谁？",
     "options": [
-      "罗宾汉",
-      "威廉·退尔",
       "堂吉诃德",
+      "威廉·退尔",
+      "罗宾汉",
       "三个火枪手"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8481,12 +8481,12 @@
     "id": "rid_500",
     "question": "因饥饿的外甥偷窃了一块面包而苦役十九载，出狱后盗取银烛台却被主教宽恕感化、洗心革面救助孤苦的悲惨世界主角是谁？",
     "options": [
-      "冉·阿让（冉阿让）",
+      "卡西莫多",
       "基督山伯爵",
       "雾都孤儿奥利弗",
-      "卡西莫多"
+      "冉·阿让（冉阿让）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8517,12 +8517,12 @@
     "id": "rid_502",
     "question": "蒂蒂尔与米蒂尔兄妹俩为了寻找真正的幸福历经千难万险走遍梦境，最终却在自家鸟笼里赫然发现的象征希望之鸟是什么？",
     "options": [
-      "青鸟（蓝鸟）",
       "凤凰",
+      "青鸟（蓝鸟）",
       "白鸽",
       "喜鹊"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8535,12 +8535,12 @@
     "id": "rid_503",
     "question": "每次相遇都抄起平底锅与捕鼠夹上演鸡飞狗跳的追逐大战，可一旦有一方离开便怅然若失的全球最著名欢喜冤家猫鼠搭档是谁？",
     "options": [
-      "汤姆和杰瑞（猫和老鼠）",
-      "蝙蝠侠与罗宾",
       "夏洛克与华生",
+      "蝙蝠侠与罗宾",
+      "汤姆和杰瑞（猫和老鼠）",
       "堂吉诃德与桑丘"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8553,12 +8553,12 @@
     "id": "rid_504",
     "question": "在平安夜，为了给乖孩子送去惊喜礼物，乘坐驯鹿雪橇从烟囱悄悄进屋的白胡子老爷爷是？",
     "options": [
-      "圣诞老人",
+      "胡桃夹子",
       "鲁道夫",
       "小精灵",
-      "胡桃夹子"
+      "圣诞老人"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8589,12 +8589,12 @@
     "id": "rid_506",
     "question": "来自B-612小行星，细心守护独一无二的玫瑰花，并在撒哈拉沙漠遇见落难飞行员的金发少年是？",
     "options": [
-      "小王子",
       "彼得·潘",
+      "小王子",
       "匹诺曹",
       "阿拉丁"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8607,12 +8607,12 @@
     "id": "rid_507",
     "question": "《一千零一夜》中的传奇航海家，曾误把浮上海面的大鲸鱼当成岛屿，并遭遇巨鸟洛克，历经七次惊险大航海的人物是？",
     "options": [
-      "辛巴达",
-      "鲁滨逊",
       "格列佛",
+      "鲁滨逊",
+      "辛巴达",
       "彼得·潘"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8625,12 +8625,12 @@
     "id": "rid_508",
     "question": "拔出了插在石头中的神剑'石中剑'而加冕为王，并在卡美洛城堡召集'圆桌骑士'的英勇传奇君王是？",
     "options": [
-      "亚瑟王",
+      "亚历山大大帝",
       "罗宾汉",
       "堂吉诃德",
-      "亚历山大大帝"
+      "亚瑟王"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8661,12 +8661,12 @@
     "id": "rid_510",
     "question": "居住在森林深处的蘑菇村庄里，拥有蓝色皮肤并齐心协力挫败邪恶巫师格格巫阴谋的可爱精灵们是？",
     "options": [
-      "蓝精灵",
       "小黄人",
+      "蓝精灵",
       "天线宝宝",
       "魔发精灵"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8679,12 +8679,12 @@
     "id": "rid_511",
     "question": "破壳时因体型硕大且羽毛灰暗而备受欺凌，但在熬过严冬之后蜕变成一只高贵优美白天鹅的雏鸟是？",
     "options": [
-      "丑小鸭",
-      "青鸟",
       "笨笨鸟",
+      "青鸟",
+      "丑小鸭",
       "穿靴子的猫"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8697,12 +8697,12 @@
     "id": "rid_512",
     "question": "因神秘药物身体缩减为小学生，但头脑依旧敏锐，借助麻醉手表与变声领结破解无数疑案的高中生名侦探是？",
     "options": [
-      "名侦探柯南（江户川柯南）",
+      "亚森·罗宾",
       "夏洛克·福尔摩斯",
       "金田一",
-      "亚森·罗宾"
+      "名侦探柯南（江户川柯南）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "story",
@@ -8734,11 +8734,11 @@
     "question": "兔子和乌龟赛跑，兔子一路全力冲刺、连觉都没睡。为什么先到终点的却是乌龟？",
     "options": [
       "兔子走错了路",
-      "乌龟偷偷抄了近道",
       "那其实是游泳比赛",
+      "乌龟偷偷抄了近道",
       "兔子腿抽筋了"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8752,11 +8752,11 @@
     "question": "篮子里有五个苹果，我拿走了三个。我手里有几个苹果？",
     "options": [
       "2个",
-      "3个",
       "5个",
+      "3个",
       "0个"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -8771,10 +8771,10 @@
     "options": [
       "企鹅游走逃走",
       "北极熊一口吃掉",
-      "根本不可能相遇",
-      "企鹅群反击赶走它"
+      "企鹅群反击赶走它",
+      "根本不可能相遇"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8787,12 +8787,12 @@
     "id": "rid_904",
     "question": "白天绝对看不见，晚上一下雨就消失的星星是什么？",
     "options": [
-      "北极星",
-      "牛郎织女星",
       "天上的星星",
+      "牛郎织女星",
+      "北极星",
       "眼珠里的星"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8806,11 +8806,11 @@
     "question": "下着倾盆大雨，一个人没带伞也没戴帽子走路，头发却一根都没湿。为什么？",
     "options": [
       "只走在屋檐下",
-      "喷了防水喷雾",
       "是个没有头发的秃头",
+      "喷了防水喷雾",
       "跑得比雨还快"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8843,10 +8843,10 @@
     "options": [
       "绿砖",
       "隔热砖",
-      "玻璃",
-      "塑料膜"
+      "塑料膜",
+      "玻璃"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8859,12 +8859,12 @@
     "id": "rid_908",
     "question": "有的月份有31天，有的有30天。那么有28天的月份有几个？",
     "options": [
-      "只有1个（二月）",
-      "闰年的1个",
       "12个（所有月份）",
+      "闰年的1个",
+      "只有1个（二月）",
       "7个"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8897,10 +8897,10 @@
     "options": [
       "出发国韩国",
       "到达国日本",
-      "边境共同墓地",
-      "不该埋葬"
+      "不该埋葬",
+      "边境共同墓地"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8931,12 +8931,12 @@
     "id": "rid_912",
     "question": "旧约圣经里摩西把每种动物带上了方舟几对？",
     "options": [
-      "1对",
-      "7对",
       "0对（0只）",
+      "7对",
+      "1对",
       "2对"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8950,11 +8950,11 @@
     "question": "从十层楼屋顶扔生鸡蛋，怎样才能不让水泥地裂开？",
     "options": [
       "给鸡蛋包缓冲材料",
-      "挂上降落伞",
       "直接扔下去",
+      "挂上降落伞",
       "地上铺床垫"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -8968,11 +8968,11 @@
     "question": "一个农夫有十七只羊，除了九只以外全病死了。还剩几只羊？",
     "options": [
       "8只",
-      "9只",
       "0只",
+      "9只",
       "17只"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -8986,11 +8986,11 @@
     "question": "球棒和球一共11000韩元。球棒比球贵10000韩元。球多少钱？",
     "options": [
       "1000韩元",
-      "500韩元",
+      "2000韩元",
       "100韩元",
-      "2000韩元"
+      "500韩元"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9003,12 +9003,12 @@
     "id": "rid_916",
     "question": "树上挂着苹果。摘完后树上没有苹果，手里也没有。怎么回事？",
     "options": [
-      "掉到地上了",
-      "立刻全吃了",
       "有两个，只摘了一个",
+      "立刻全吃了",
+      "掉到地上了",
       "被别人抢走了"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9022,11 +9022,11 @@
     "question": "方桌四个角，用锯子把一个角切平。还剩几个角？",
     "options": [
       "3个",
-      "4个",
       "5个",
+      "4个",
       "6个"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9059,10 +9059,10 @@
     "options": [
       "往地球方向掉",
       "飞向太阳",
-      "就停在原地飘着",
-      "被最近的行星吸走"
+      "被最近的行星吸走",
+      "就停在原地飘着"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9075,12 +9075,12 @@
     "id": "rid_920",
     "question": "一个挖好的坑深3米、宽2米、长2米。坑里有多少土？",
     "options": [
-      "12立方米",
-      "6立方米",
       "0立方米（完全没有）",
+      "6立方米",
+      "12立方米",
       "1立方米"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9094,11 +9094,11 @@
     "question": "下着倾盆大雨，开敞篷车的司机衣服却一点没湿。为什么？",
     "options": [
       "穿了透明雨衣",
-      "开得比雨快",
       "正开在长隧道里",
+      "开得比雨快",
       "衣服有特殊防水涂层"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9130,11 +9130,11 @@
     "question": "医生让病人每30分钟吃一粒药，共开了三粒。全部吃完需要多久？",
     "options": [
       "1小时30分",
-      "1小时",
+      "2小时",
       "45分",
-      "2小时"
+      "1小时"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9147,12 +9147,12 @@
     "id": "rid_924",
     "question": "鱼缸里有十条金鱼。三条淹死，两条逃走。鱼缸里还剩几条？",
     "options": [
-      "5条",
-      "7条",
       "10条",
+      "7条",
+      "5条",
       "8条"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9166,11 +9166,11 @@
     "question": "两个男人下了五盘棋。没有平局，两人却都赢了三盘。怎么回事？",
     "options": [
       "有人作弊",
-      "争议后都判赢",
       "各自和其他人下的",
+      "争议后都判赢",
       "奇数盘规则"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9203,10 +9203,10 @@
     "options": [
       "与自己体重相等的石头",
       "200公斤杠铃",
-      "自己的呼吸",
-      "铁哑铃"
+      "铁哑铃",
+      "自己的呼吸"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9219,12 +9219,12 @@
     "id": "rid_928",
     "question": "从巴黎埃菲尔铁塔顶栏杆竖直扔下铁球。球最先撞到哪里？",
     "options": [
-      "塔下的草地",
-      "步行广场地面",
       "铁塔下部的钢架结构",
+      "步行广场地面",
+      "塔下的草地",
       "塞纳河水面"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9274,11 +9274,11 @@
     "question": "一个美国人一生都在美国土地上出生长大。但他却从未在美国合法投过票。为什么？",
     "options": [
       "有犯罪记录",
-      "还只是8岁的小孩",
+      "是双重国籍",
       "公民权被剥夺了",
-      "是双重国籍"
+      "还只是8岁的小孩"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9291,12 +9291,12 @@
     "id": "rid_932",
     "question": "警察追小偷追到死胡同，眼睁睁看着他消失了。小偷没有翅膀也没翻墙。怎么消失的？",
     "options": [
-      "用了隐身斗篷",
       "打开井盖钻进去了",
+      "用了隐身斗篷",
       "警察眨眼了",
       "其实胡同里根本没有小偷"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9310,11 +9310,11 @@
     "question": "有个男人连续25天白天一夜没睡，却正常过着日常生活。怎么可能？",
     "options": [
       "吃了特殊提神药",
-      "是吉尼斯纪录保持者",
       "他只在晚上睡觉",
+      "是吉尼斯纪录保持者",
       "站着打盹"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9328,11 +9328,11 @@
     "question": "买某样东西时，做的人不需要所以卖，买的人不用，真正用的人不知道自己在用。这是什么？",
     "options": [
       "睡眠眼罩",
-      "棺材",
       "婴儿尿布",
+      "棺材",
       "礼物包装纸"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9346,11 +9346,11 @@
     "question": "哲洙和英姬在同一家餐厅同一时间喝了同样的冰咖啡。英姬一分钟就喝完，哲洙慢慢喝了30分钟。结果只有哲洙中毒了。为什么？",
     "options": [
       "只有哲洙的吸管上有毒",
-      "毒在慢慢融化的冰块里",
+      "服务员后来偷偷下了毒",
       "英姬解毒能力强",
-      "服务员后来偷偷下了毒"
+      "毒在慢慢融化的冰块里"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9363,12 +9363,12 @@
     "id": "rid_936",
     "question": "一位女士没带身份证、钱包、护照，却自由通过了另一个国家的边境，没有任何检查。怎么做到的？",
     "options": [
-      "有外交豁免权",
-      "躲在偷渡船货舱里",
       "她是刚出生的婴儿",
+      "躲在偷渡船货舱里",
+      "有外交豁免权",
       "两国边境没有铁丝网"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9382,11 +9382,11 @@
     "question": "一艘船上有船长和10名船员。船长在甲板上迈出一步，船就晃了，所有人都掉进海里。可是没有一根头发湿。为什么？",
     "options": [
       "全员戴着完全防水的潜水帽",
-      "海水结成了冰面",
       "船上所有人都是秃头",
+      "海水结成了冰面",
       "爬上救生艇没碰到水"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9400,11 +9400,11 @@
     "question": "用刀只切三刀，把一个苹果正好切成八块，最正确的方法是？",
     "options": [
       "竖着薄薄切三刀",
-      "十字切两刀再水平切一刀",
       "斜着切三刀",
+      "十字切两刀再水平切一刀",
       "画好八等分再挖三角"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9417,12 +9417,12 @@
     "id": "rid_939",
     "question": "一个男人从飞机上跳下来，没有降落伞，却毫发无伤地落地。怎么回事？",
     "options": [
-      "飞机停在跑道上",
+      "穿了特殊翼装",
       "下面有巨大的草堆",
       "超低空飞行掉进水里",
-      "穿了特殊翼装"
+      "飞机停在跑道上"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9435,12 +9435,12 @@
     "id": "rid_940",
     "question": "A和B进行100米赛跑。A到达终点时B在90米处。第二次比赛A从起点后10米出发。如果速度相同，结果如何？",
     "options": [
-      "同时到达",
       "还是A赢",
+      "同时到达",
       "B险胜",
       "距离相同所以平局"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9454,11 +9454,11 @@
     "question": "无论洗得多干净，越洗越脏的是什么？",
     "options": [
       "抹布",
-      "肥皂",
       "用来洗的水",
+      "肥皂",
       "毛巾"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9491,10 +9491,10 @@
     "options": [
       "按体积算几千滴",
       "直到表面张力撑住",
-      "正好一滴",
-      "装满为止无限"
+      "装满为止无限",
+      "正好一滴"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9507,12 +9507,12 @@
     "id": "rid_944",
     "question": "一个男孩用力扔出棒球。球没撞墙、没人碰、也没绑绳子，却准确回到他手里。他怎么扔的？",
     "options": [
-      "加了强旋转变成曲线球",
       "垂直向上扔",
+      "加了强旋转变成曲线球",
       "像回旋镖一样弧线扔",
       "逆风扔"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9526,11 +9526,11 @@
     "question": "两个父亲和两个儿子去钓鱼，每人钓到一条鱼。可是把鱼集中起来只有三条。一条都没丢，为什么是三条？",
     "options": [
       "有一个人没钓到",
-      "鱼塘管理员拿走了一条",
       "是祖父、父亲、孙子三代人",
+      "鱼塘管理员拿走了一条",
       "一条鱼被钓了两次"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9544,11 +9544,11 @@
     "question": "必须打开一扇沉重的铁门。钥匙串上有10把钥匙，只有一把能开。最多需要试几把钥匙？",
     "options": [
       "10把",
-      "9把",
       "1把",
+      "9把",
       "5把"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9563,10 +9563,10 @@
     "options": [
       "黑色",
       "浅灰色",
-      "白色",
-      "透明"
+      "透明",
+      "白色"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9579,12 +9579,12 @@
     "id": "rid_948",
     "question": "一个密闭房间里充满空气。最快把空气排出房间的方法是？",
     "options": [
-      "开最大功率的大风扇",
-      "用真空泵吸",
       "把房间塞满水或家具",
+      "用真空泵吸",
+      "开最大功率的大风扇",
       "把窗户开得大大的"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9598,11 +9598,11 @@
     "question": "飞机机长飞行中仪表全部失灵，却一分不差精确降落到目的地。他唯一看的是什么？",
     "options": [
       "夜空的北极星和星座",
-      "塔台的无线电引导",
       "跑道的引导灯",
+      "塔台的无线电引导",
       "手机指南针应用"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9616,11 +9616,11 @@
     "question": "站在南极点拿着指南针，朝北极方向笔直走10公里，再向右转90度走10公里。现在相对南极点在哪个方向？",
     "options": [
       "东",
-      "北方",
       "东南",
+      "北方",
       "西"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9634,11 +9634,11 @@
     "question": "一个学生完全没复习就去考试，交了白卷却得了100分。怎么回事？",
     "options": [
       "老师改错分了",
-      "是视力表考试",
+      "全是口试",
       "和别的学生试卷换了",
-      "全是口试"
+      "是视力表考试"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9651,12 +9651,12 @@
     "id": "rid_952",
     "question": "谁能完全浸在水里却不湿身体还能呼吸？",
     "options": [
-      "海女",
       "坐在潜水艇里的船员",
+      "海女",
       "游泳运动员",
       "水肺潜水员"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9669,12 +9669,12 @@
     "id": "rid_953",
     "question": "两个人连续玩了10次石头剪刀布，都只出石头，10次全平。他们伸出的手指总数是多少？",
     "options": [
-      "0根",
       "100根",
+      "0根",
       "50根",
       "20根"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9688,11 +9688,11 @@
     "question": "有个人每天给几十人刮胡子，自己脸上却留着浓密的胡子。他的职业是？",
     "options": [
       "剃须刀厂质检员",
-      "理发师",
       "特效化妆师",
+      "理发师",
       "皮肤科医生"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9723,12 +9723,12 @@
     "id": "rid_956",
     "question": "高速公路上汽车四个轮胎中有一个爆了。可司机却以正常速度顺利到达目的地。怎么可能？",
     "options": [
-      "是防爆轮胎",
       "后备箱里的备胎爆了",
+      "是防爆轮胎",
       "用三个轮子保持平衡开",
       "被拖车拖着走"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -9777,12 +9777,12 @@
     "id": "rid_959",
     "question": "船在大海中间翻了。等待救援时绝对不能喝海水的真正原因是？",
     "options": [
-      "盐分太高会更快脱水",
+      "体温会急剧下降",
       "鲨鱼会闻血味赶来",
       "会拉肚子肚子疼",
-      "体温会急剧下降"
+      "盐分太高会更快脱水"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9795,12 +9795,12 @@
     "id": "rid_960",
     "question": "病人对医生说：“全身都痛。摸头也痛，摸腿也痛。”医生的诊断是？",
     "options": [
-      "全身神经痛",
-      "纤维肌痛",
       "手指骨折",
+      "纤维肌痛",
+      "全身神经痛",
       "装病"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9850,11 +9850,11 @@
     "question": "一个孩子看到红灯停在斑马线前。后面的盲人没看信号灯却正好在绿灯时过了马路。他怎么知道的？",
     "options": [
       "导盲犬分辨了信号颜色",
-      "听了行人过街提示音",
+      "靠汽车喇叭判断",
       "听周围人的脚步声",
-      "靠汽车喇叭判断"
+      "听了行人过街提示音"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9867,12 +9867,12 @@
     "id": "rid_964",
     "question": "在黑暗房间里点上蜡烛照镜子。镜子里的我为什么用右手拿着蜡烛？",
     "options": [
-      "镜子曲率变形",
       "因为我实际用左手拿着",
+      "镜子曲率变形",
       "光的折射现象",
       "镜中像旋转了180度"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9905,10 +9905,10 @@
     "options": [
       "10次",
       "11次",
-      "19次",
-      "20次"
+      "20次",
+      "19次"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9923,10 +9923,10 @@
     "options": [
       "是毫无金钱欲的高人",
       "是过期空头支票",
-      "足球上贴着1亿韩元贴纸",
-      "以为是被风吹来的垃圾"
+      "以为是被风吹来的垃圾",
+      "足球上贴着1亿韩元贴纸"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -9939,12 +9939,12 @@
     "id": "rid_968",
     "question": "冰面上放重铁球和轻乒乓球用力吹气。假设摩擦力为零，哪个滚得更远？",
     "options": [
-      "乒乓球",
-      "铁球",
       "两个都永远不停地滚",
+      "铁球",
+      "乒乓球",
       "因为空气阻力铁球"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -9958,11 +9958,11 @@
     "question": "棒球中击球手不挥棒也能上一垒的方法是？",
     "options": [
       "捕手漏接第三好球（不死三振）",
-      "投手犯规（Balk）",
       "触身球或四坏球",
+      "投手犯规（Balk）",
       "被判妨碍打击"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -9994,11 +9994,11 @@
     "question": "夜里走过路灯，越靠近路灯自己的影子长度怎么变？",
     "options": [
       "越来越长",
-      "越来越短",
+      "完全消失",
       "不变",
-      "完全消失"
+      "越来越短"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10011,12 +10011,12 @@
     "id": "rid_972",
     "question": "男孩站在挂在船上的梯子第十级。波浪让海水上涨两级，男孩现在站在第几级？",
     "options": [
-      "第八级台阶",
-      "第十二级台阶",
       "第十级台阶",
+      "第十二级台阶",
+      "第八级台阶",
       "第零级（被淹）"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10048,11 +10048,11 @@
     "question": "在完全结冰的汉江上让船浮起来最快的方法是？",
     "options": [
       "用破冰船破冰前进",
-      "直接把船放在冰上",
       "用热风机融化冰",
+      "直接把船放在冰上",
       "等到春天"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10067,10 +10067,10 @@
     "options": [
       "用了红外夜视镜",
       "白天走过那条路",
-      "开着手机手电筒走",
-      "用盲人手杖探路"
+      "用盲人手杖探路",
+      "开着手机手电筒走"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10083,12 +10083,12 @@
     "id": "rid_976",
     "question": "在没有路肩的狭窄独木桥上相遇的两个人互不让路却安全走过。怎么可能？",
     "options": [
-      "一个人潜进水里",
       "两人都朝同一方向走",
+      "一个人潜进水里",
       "独木桥空中有两层",
       "一个人背着另一个人过"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10102,11 +10102,11 @@
     "question": "某种动物从生到死从不喝水却能健康活一辈子，原因是？",
     "options": [
       "体内能合成水分的突变",
-      "只舔露水",
       "食物（仙人掌、草、种子）里的水分就够",
+      "只舔露水",
       "吃土代替水"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10120,11 +10120,11 @@
     "question": "电梯限载“成人10人（共700公斤）”。8个成人（共550公斤）上了却超载报警门关不上。为什么？",
     "options": [
       "传感器零点校准失败",
-      "其中一人拿着沉重的铁件货物",
       "乘客中藏着小孩",
+      "其中一人拿着沉重的铁件货物",
       "地板弹簧老化"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10138,11 +10138,11 @@
     "question": "白天走森林小路，自己的影子长长地投在前面。我现在朝哪个方向走？",
     "options": [
       "太阳升起的方向",
-      "背对太阳的方向",
+      "正北",
       "正南",
-      "正北"
+      "背对太阳的方向"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10174,11 +10174,11 @@
     "question": "有人坐渡船过河。除了船夫没有其他乘客，船却在河中央沉了。为什么？",
     "options": [
       "船底有洞",
-      "船夫体重500公斤",
+      "装了满满的重货",
       "撞上水下暗礁",
-      "装了满满的重货"
+      "船夫体重500公斤"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10211,10 +10211,10 @@
     "options": [
       "风强烈向上吹",
       "子弹是折射弹",
-      "他自己的卧室也是10楼",
-      "玻璃反射了激光"
+      "玻璃反射了激光",
+      "他自己的卧室也是10楼"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10246,11 +10246,11 @@
     "question": "沉到世界最深的马里亚纳海沟底部的玻璃瓶里装的是什么？",
     "options": [
       "超高压海水",
-      "真空空气",
       "海水",
+      "真空空气",
       "碎玻璃"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10264,11 +10264,11 @@
     "question": "开车进入隧道时开前灯的主要原因是？",
     "options": [
       "照亮前方道路",
-      "让对方车辆看到自己的位置",
       "防止电瓶没电",
+      "让对方车辆看到自己的位置",
       "触发隧道传感器"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10283,10 +10283,10 @@
     "options": [
       "8道起跑线大幅靠前",
       "1道起跑线靠前",
-      "所有道起跑线都在同一直线上相同",
-      "呈之字形排列"
+      "呈之字形排列",
+      "所有道起跑线都在同一直线上相同"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10299,12 +10299,12 @@
     "id": "rid_988",
     "question": "有人轻松举起100公斤米袋，却无法把10克羽毛放在手掌上坚持一小时。为什么？",
     "options": [
-      "对羽毛过敏",
       "手臂水平姿势会肌肉疲劳发麻",
+      "对羽毛过敏",
       "风把羽毛吹走了",
       "羽毛的静电"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10355,10 +10355,10 @@
     "options": [
       "100次",
       "90次",
-      "45次",
-      "10次"
+      "10次",
+      "45次"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10371,12 +10371,12 @@
     "id": "rid_992",
     "question": "时钟的时针和分针从中午12点到午夜12点之前完全重合多少次？",
     "options": [
-      "12次",
       "11次",
+      "12次",
       "10次",
       "24次"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10390,11 +10390,11 @@
     "question": "一个男人在暴风雪的雪山里迷路了。手里有智能手机却打不通119。为什么？",
     "options": [
       "电池没电了",
-      "戴着手套触控不了",
       "基站信号覆盖不到的通信盲区",
+      "戴着手套触控不了",
       "忘记了紧急通话密码"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10408,11 +10408,11 @@
     "question": "10米×10米房间的角落用5米绳子拴着狗。狗能自由活动的区域是什么形状？",
     "options": [
       "圆形",
-      "扇形（四分之一圆）",
       "正方形",
+      "扇形（四分之一圆）",
       "半圆形"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10427,10 +10427,10 @@
     "options": [
       "一定是偶数",
       "一定是奇数",
-      "偶数或奇数都可能",
-      "无法知道"
+      "无法知道",
+      "偶数或奇数都可能"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10443,12 +10443,12 @@
     "id": "rid_996",
     "question": "游轮撞上暗礁开始下沉。穿救生衣的乘客跳进海里，却有人沉下去了。为什么？",
     "options": [
-      "穿的是铅背心",
       "怀里紧抱着沉重的金条包",
+      "穿的是铅背心",
       "海水比重比淡水低",
       "没系紧救生衣带子"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10479,12 +10479,12 @@
     "id": "rid_998",
     "question": "棒球和网球哪个能浮在水上？",
     "options": [
-      "空心橡胶球",
-      "棒球",
       "两个都浮",
+      "棒球",
+      "空心橡胶球",
       "两个都沉"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10498,11 +10498,11 @@
     "question": "盒子里有1到50的号码牌。抽到质数的概率和抽到非质数的概率哪个更高？",
     "options": [
       "质数",
-      "合数（除1外）",
+      "无法判断",
       "五五开一样",
-      "无法判断"
+      "合数（除1外）"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
@@ -10515,12 +10515,12 @@
     "id": "rid_1000",
     "question": "两辆轿车在隧道里面对面以时速60公里行驶。隧道是单行一车道却没有相撞。为什么？",
     "options": [
-      "一辆在倒车",
+      "其实两辆是同一方向行驶",
       "两辆从两端进入后停下",
       "一辆被拖车拖着",
-      "其实两辆是同一方向行驶"
+      "一辆在倒车"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10533,12 +10533,12 @@
     "id": "rid_1001",
     "question": "大晴天有人在斑马线看到绿灯却停住不走。为什么？",
     "options": [
-      "那是机动车绿灯",
       "信号灯灯泡坏了",
+      "那是机动车绿灯",
       "盯着手机发呆",
       "腿突然抽筋"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10552,11 +10552,11 @@
     "question": "一位女士想从15楼坐电梯到1楼，按钮却没有“1”。她怎么到1楼的？",
     "options": [
       "按紧急铃求救",
-      "按了“G”或“L”",
       "走楼梯下去",
+      "按了“G”或“L”",
       "打电话给管理处"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10571,10 +10571,10 @@
     "options": [
       "更重的棒球",
       "体积更大的足球",
-      "同时落下",
-      "会弹起的足球"
+      "会弹起的足球",
+      "同时落下"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10606,11 +10606,11 @@
     "question": "漆黑夜路上汽车两盏大灯都灭了，却正好停在穿黑衣的行人前面。司机怎么看见的？",
     "options": [
       "戴着夜视镜",
-      "行人穿了反光背心",
       "路灯把路照得很亮",
+      "行人穿了反光背心",
       "行人挥着手机光"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10624,11 +10624,11 @@
     "question": "正好1公斤的铁球和1公斤的棉团放在普通空气中的天平上。天平往哪边倾斜？",
     "options": [
       "棉团那边",
-      "铁球那边",
       "两边都是1公斤完全水平",
+      "铁球那边",
       "无法判断"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10642,11 +10642,11 @@
     "question": "看着镜子里的自己眨了一下眼。镜子里的我闭的是哪只眼？",
     "options": [
       "和我相反的那只",
-      "和我相同的那只",
+      "没有闭眼",
       "两只都闭了",
-      "没有闭眼"
+      "和我相同的那只"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10659,12 +10659,12 @@
     "id": "rid_1008",
     "question": "小偷用铁锤猛砸珠宝店橱窗玻璃，玻璃却一点裂缝都没有。为什么？",
     "options": [
-      "是特殊防弹玻璃",
       "橱窗已经打开，砸的是空处",
+      "是特殊防弹玻璃",
       "锤子是橡胶的",
       "打空了"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10696,11 +10696,11 @@
     "question": "房间里三个人在聊天。外面进来的人说“怎么只有两个人？”怎么回事？",
     "options": [
       "一个人躲在衣柜里",
-      "一个人是刚出生的婴儿",
       "一个人是隐形人",
+      "一个人是刚出生的婴儿",
       "一个人是镜子里的影子"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10713,12 +10713,12 @@
     "id": "rid_1011",
     "question": "开着车走土路，窗户全关为什么车里还是会进一点灰尘？",
     "options": [
-      "通过车底通风口进来",
+      "空调滤芯破了",
       "玻璃密封胶条没有了",
       "司机鞋上的土飞起来",
-      "空调滤芯破了"
+      "通过车底通风口进来"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10731,12 +10731,12 @@
     "id": "rid_1012",
     "question": "猎人发现老虎扣动扳机。子弹准确穿过老虎眉心，老虎却一滴血没流安然无恙。为什么？",
     "options": [
-      "老虎穿了防弹衣",
+      "按的是相机快门",
       "是标本模型",
       "是麻醉枪",
-      "按的是相机快门"
+      "老虎穿了防弹衣"
     ],
-    "answer_index": 3,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10786,11 +10786,11 @@
     "question": "冰块装满的冰盒里放罐装饮料10分钟。让饮料最快变凉的方法是？",
     "options": [
       "用毯子盖住冰盒",
-      "往冰上多撒盐再倒水",
+      "旁边放干冰",
       "把罐子倒过来",
-      "旁边放干冰"
+      "往冰上多撒盐再倒水"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10821,12 +10821,12 @@
     "id": "rid_1017",
     "question": "手表秒针一跳一跳（石英）和平滑流动（机械）两种，哪种用电池？",
     "options": [
-      "大多是一跳一跳的石英表",
       "平滑的机械表",
+      "大多是一跳一跳的石英表",
       "两种都用电池",
       "两种都用发条"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10839,12 +10839,12 @@
     "id": "rid_1018",
     "question": "骑自行车下陡坡时只猛捏前刹会怎样？",
     "options": [
-      "后轮抬起向前翻（头栽）",
-      "车子立刻原地停下",
       "轮胎侧滑摔倒",
+      "车子立刻原地停下",
+      "后轮抬起向前翻（头栽）",
       "链条脱落"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10857,12 +10857,12 @@
     "id": "rid_1019",
     "question": "大海中央下雨时，海面盐度会怎样变化？",
     "options": [
-      "瞬间盐度降低（淡水混入）",
+      "起泡沫变白",
       "海水吸收雨水变得更咸",
       "洋流让它完全不变",
-      "起泡沫变白"
+      "瞬间盐度降低（淡水混入）"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10912,11 +10912,11 @@
     "question": "飞机飞得越高，零食袋子鼓得越胀的科学原因是？",
     "options": [
       "机舱温度急剧升高",
-      "外部气压降低导致内部空气膨胀",
       "零食里的氮气发生化学反应",
+      "外部气压降低导致内部空气膨胀",
       "引擎振动导致"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
@@ -10929,12 +10929,12 @@
     "id": "rid_1023",
     "question": "用湿手指沿着装水玻璃杯边缘画圈会产生清脆共鸣声。原理是什么？",
     "options": [
-      "指纹摩擦引起的玻璃微振动",
+      "空气在杯里打旋",
       "水被手指体温煮沸",
       "指尖静电放电现象",
-      "空气在杯里打旋"
+      "指纹摩擦引起的玻璃微振动"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
@@ -10947,12 +10947,12 @@
     "id": "rid_1024",
     "question": "在完全黑暗的房间里打开荧光灯开关，整个房间变亮大约需要多长时间？",
     "options": [
-      "1秒",
       "瞬间（光速）",
+      "1秒",
       "0.5秒",
       "5秒"
     ],
-    "answer_index": 1,
+    "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
@@ -10965,12 +10965,12 @@
     "id": "rid_1025",
     "question": "登上100层超高楼楼顶时，时间比一楼流逝得稍微快一点。相对论的原因是？",
     "options": [
-      "离地心更远，重力更弱",
       "风更大让钟走得快",
+      "离地心更远，重力更弱",
       "气温低使原子振动加快",
       "空气阻力减小"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
