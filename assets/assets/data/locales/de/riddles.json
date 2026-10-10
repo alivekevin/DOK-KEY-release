@@ -36,7 +36,7 @@
     "id": "rid_002"
   },
   {
-    "question": "Welcher dunkle Begleiter wird umso dunkler und deutlicher, je stärker das Licht ist, und verschwindet erst unter deinen Füßen, wenn das Licht ganz erloschen ist?",
+    "question": "Welcher dunkle Begleiter wird umso dunkler und deutlicher, je stärker das Licht ist, und verschwindet erst unter den Füßen, wenn das Licht erlischt?",
     "options": [
       "Schatten",
       "Spiegel",
@@ -180,7 +180,7 @@
     "id": "rid_010"
   },
   {
-    "question": "Was hängt friedlich an der Wand und spiegelt die Welt, doch starrt im Moment des Zerbrechens seinen Besitzer mit hunderten Scherben an?",
+    "question": "Was hängt friedlich an der Wand und zeigt die Welt verkehrt herum, doch zerbricht es, starren den Besitzer hunderte Scherben an?",
     "options": [
       "Spiegel",
       "Fenster",
@@ -5836,7 +5836,7 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Mit einem Knopfdruck hebt es mich schnell auf meine Position, doch im Moment des Türenschließens lässt es mich nur peinlich mit einem Fremden Augenkontakt haben?",
+    "question": "Mit einem Knopfdruck hebt es mich schnell auf meine Position, doch beim Türenschließen lässt es mich peinlich mit einem Fremden Augenkontakt haben?",
     "options": [
       "Rolltreppe",
       "Fahrstuhl",
@@ -6052,7 +6052,7 @@
     "category": "home",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Es tut so, als würde es allein auf dem Schreibtisch herumwirbeln, doch es berührt die Ecke meines Bücherregals und lässt Papiere in alle Richtungen fliegen?",
+    "question": "Es tut so, als würde es allein auf dem Schreibtisch herumwirbeln, doch es berührt die Bücherregal-Ecke und lässt Papiere in alle Richtungen fliegen?",
     "options": [
       "Klimaanlagen-Fernbedienung",
       "Mini-Tischventilator",
@@ -7057,7 +7057,7 @@
   },
   {
     "id": "rid_421",
-    "question": "Welcher Himmelskörper aus Eis und Staub wandert durch das All und entfaltet beim Vorbeiflug an der Sonne einen langen, leuchtenden Schweif wie einen Besen?",
+    "question": "Welcher Himmelskörper aus Eis und Staub wandert durchs All und entfaltet beim Vorbeiflug an der Sonne einen langen, leuchtenden Schweif?",
     "options": [
       "Komet",
       "Satellit",
@@ -7075,7 +7075,7 @@
   },
   {
     "id": "rid_422",
-    "question": "Welches Seeungeheuer, ausgelöst von Erdbeben im Meeresgrund, eilt auf offener See fast unbemerkt heran, um an der Küste als riesige Wasserwand das Land zu überrollen?",
+    "question": "Welches Seeungeheuer, ausgelöst von Erdbeben im Meeresgrund, eilt unbemerkt heran und überrollt die Küste als riesige Wasserwand?",
     "options": [
       "Tsunami",
       "Ebbe",
@@ -7273,7 +7273,7 @@
   },
   {
     "id": "rid_433",
-    "question": "Welche Amphibie schwimmt als Kaulquappe mit Kiemen und Schwanz im Teich, verliert beides beim Heranwachsen und hüpft dann mit kräftigen Hinterbeinen umher?",
+    "question": "Welche Amphibie schwimmt als Kaulquappe mit Kiemen und Schwanz im Teich, verliert beides beim Heranwachsen und hüpft dann mit kräftigen Hinterbeinen?",
     "options": [
       "Frosch",
       "Salamander",
@@ -7561,7 +7561,7 @@
   },
   {
     "id": "rid_449",
-    "question": "Aus genau demselben Kohlenstoff wie der harte Diamant bestehend, aber so weich, dass es Spuren auf Papier hinterlässt; welches Mineral bildet Bleistiftminen?",
+    "question": "Aus demselben Kohlenstoff wie Diamant bestehend, doch so weich, dass es Spuren auf Papier hinterlässt; welches Mineral bildet Bleistiftminen?",
     "options": [
       "Graphit",
       "Kohle",
@@ -7723,7 +7723,7 @@
   },
   {
     "id": "rid_458",
-    "question": "Was überfällt dich ohne Vorwarnung mit rhythmischen Zuckungen im Zwerchfell und verschwindet oft erst, wenn dich jemand mit einem lauten „Buh!“ erschreckt?",
+    "question": "Was überfällt dich ohne Vorwarnung mit rhythmischen Zuckungen im Zwerchfell und verschwindet oft erst, wenn dich jemand mit lautem „Buh!“ erschreckt?",
     "options": [
       "Schluckauf",
       "Bäuerchen",
@@ -8227,7 +8227,7 @@
   },
   {
     "id": "rid_486",
-    "question": "Welcher hüpfende Vampir der chinesischen Folklore trägt ein historisches Beamtengewand, einen gelben Zettel auf der Stirn und streckt die Arme steif nach vorn?",
+    "question": "Welcher hüpfende Vampir der chinesischen Folklore trägt Beamtengewand, gelben Zettel auf der Stirn und streckt die Arme steif nach vorn?",
     "options": [
       "Jiangshi (Hüpfender Vampir)",
       "Goblin",
@@ -8299,7 +8299,7 @@
   },
   {
     "id": "rid_490",
-    "question": "Mit Flügeln wie ein schelmischer kleiner Engel und einem goldenen Bogen bewaffnet; welcher Gott der Liebe lässt jeden getroffenen Menschen unsterblich verlieben?",
+    "question": "Mit Flügeln wie ein schelmischer Engel und goldenem Bogen bewaffnet; welcher Gott der Liebe lässt jeden Getroffenen unsterblich verlieben?",
     "options": [
       "Amor (Cupido)",
       "Sensenmann",
@@ -8479,7 +8479,7 @@
   },
   {
     "id": "rid_500",
-    "question": "Wegen eines gestohlenen Laibs Brot für seine hungernde Familie neunzehn Jahre eingesperrt; wen verwandelte die Barmherzigkeit silberner Leuchter in einen Heiligen?",
+    "question": "Wegen gestohlenen Brots für hungernde Familie neunzehn Jahre eingesperrt; wen verwandelte die Barmherzigkeit silberner Leuchter in einen Heiligen?",
     "options": [
       "Jean Valjean",
       "Graf von Monte Christo",
@@ -8677,7 +8677,7 @@
   },
   {
     "id": "rid_511",
-    "question": "Welches Tierchen wurde im Hof verspottet, weil es grau und ungelenk war, bis es nach einem harten Winter feststellte, dass es ein wunderschöner Schwan geworden war?",
+    "question": "Welches Tierchen wurde im Hof verspottet, weil es grau und ungelenk war, bis es nach hartem Winter feststellte, ein wunderschöner Schwan zu sein?",
     "options": [
       "Das hässliche Entlein",
       "Der blaue Vogel",
@@ -8695,7 +8695,7 @@
   },
   {
     "id": "rid_512",
-    "question": "Welcher geniale Oberschülerdetektiv wurde durch ein Gift in ein Grundschulkind verwandelt und löst nun Fälle mit einer Betäubungsuhr und einer Stimmenverzerrer-Fliege?",
+    "question": "Welcher geniale Oberschülerdetektiv wurde durch Gift zum Grundschulkind und löst Fälle mit Betäubungsuhr und Stimmenverzerrer-Fliege?",
     "options": [
       "Detektiv Conan (Shin’ichi Kudō)",
       "Sherlock Holmes",
@@ -8713,7 +8713,7 @@
   },
   {
     "id": "rid_513",
-    "question": "Welches Mädchen wurde von einem Wirbelsturm nach Oz getragen und folgte mit Vogelscheuche, Blechmann und feigem Löwen der gelben Steinstraße zur Smaragdstadt?",
+    "question": "Welches Mädchen wurde von einem Wirbelsturm nach Oz getragen und folgte mit Vogelscheuche, Blechmann und feigem Löwen der gelben Steinstraße?",
     "options": [
       "Dorothy Gale",
       "Alice",

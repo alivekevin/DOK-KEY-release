@@ -36,7 +36,7 @@
     "id": "rid_002"
   },
   {
-    "question": "What dark companion grows darker and clearer as the light gets stronger, and only disappears from under your feet when the light is completely extinguished?",
+    "question": "What dark companion grows darker and clearer as the light gets stronger, and only disappears from under your feet when the light is fully gone?",
     "options": [
       "Shadow",
       "Mirror",
@@ -3888,7 +3888,7 @@
     "id": "rid_222"
   },
   {
-    "question": "Known as the Star of Longevity (Old Man Star) in Eastern lore, which bright southern star is said to grant long life if seen?",
+    "question": "Known as the Star of Longevity in Eastern lore, which bright southern star is said to grant long life if seen?",
     "options": [
       "Canopus (Old Man Star)",
       "Polaris",
@@ -4878,7 +4878,7 @@
     "id": "rid_277"
   },
   {
-    "question": "Cushiony to recline on, but squeaks loudly the second you stand up, instantly tattling that you were slacking off in the living room. What furniture is it?",
+    "question": "Cushiony to recline on, but squeaks loudly the second you stand up, instantly tattling that you were slacking off. What furniture is it?",
     "options": [
       "Sofa (Couch)",
       "Dining table",
@@ -6160,7 +6160,7 @@
     "category": "food",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "You chew a sweet piece hard to drain the flavor, and when you want to spit it out there's no tissue, so you're imprisoned with it in your mouth. What is it?",
+    "question": "You chew a sweet piece hard to drain the flavor, and when you want to spit it out there’s no tissue, so you’re stuck with it in your mouth. What is it?",
     "options": [
       "Candy",
       "Bubble gum",
@@ -6661,7 +6661,7 @@
   },
   {
     "id": "rid_399",
-    "question": "What traditional earthenware pot keeps bubbling stews piping hot at the dining table for a long time without cooling quickly?",
+    "question": "What traditional clay vessel keeps stews bubbling hot at the dining table for a long time without cooling quickly?",
     "options": [
       "Earthenware pot",
       "Glass bowl",
@@ -7075,7 +7075,7 @@
   },
   {
     "id": "rid_422",
-    "question": "Triggered by earthquakes beneath the ocean floor, which terrifying sea monster races silently across deep water before rearing up as a crushing wall of water at the coast?",
+    "question": "Triggered by undersea earthquakes, which silent sea monster races across deep water before rising as a crushing wall at the coast?",
     "options": [
       "Tsunami",
       "Low tide",
@@ -7147,7 +7147,7 @@
   },
   {
     "id": "rid_426",
-    "question": "Blooming beneath warm oceans like a dazzling garden sheltering countless colorful fish, which living fortress is actually built from millions of tiny sea animal skeletons?",
+    "question": "Blooming like a dazzling underwater garden for colorful fish, which living fortress is built from millions of tiny sea animal skeletons?",
     "options": [
       "Coral reef",
       "Kelp forest",
@@ -7309,7 +7309,7 @@
   },
   {
     "id": "rid_435",
-    "question": "After spending years underground silently feeding on tree root sap, which summer insect emerges into the trees to sing its deafening buzz for just a few weeks?",
+    "question": "After years underground feeding on tree root sap, which summer insect emerges to sing its deafening buzz in the trees for just a few weeks?",
     "options": [
       "Cicada",
       "Cricket",
@@ -7381,7 +7381,7 @@
   },
   {
     "id": "rid_439",
-    "question": "Featuring eight sucker-covered arms, clever camouflage, and a jet of jet-black defensive ink, which intelligent sea dweller slips into narrow rock crevices?",
+    "question": "Featuring eight sucker-covered arms, clever camouflage and a jet of black defensive ink, which intelligent sea dweller slips into narrow rock crevices?",
     "options": [
       "Octopus",
       "Squid",
@@ -7399,7 +7399,7 @@
   },
   {
     "id": "rid_440",
-    "question": "Forged deep within Earth under mind-boggling pressure and heat from humble carbon, which sparkling transparent crystal is the hardest mineral in existence?",
+    "question": "Forged deep within Earth under extreme pressure and heat from humble carbon, which sparkling transparent crystal is the hardest mineral?",
     "options": [
       "Diamond",
       "Ruby",
@@ -7435,7 +7435,7 @@
   },
   {
     "id": "rid_442",
-    "question": "Untarnished by air and unrusted by ocean waves, which lustrous yellow precious metal has captivated civilizations as the eternal symbol of supreme wealth?",
+    "question": "Untarnished by air and unrusted by ocean waves, which lustrous yellow precious metal has captivated civilizations as the eternal symbol of wealth?",
     "options": [
       "Gold",
       "Copper",
@@ -7453,7 +7453,7 @@
   },
   {
     "id": "rid_443",
-    "question": "Gleaming with the cool brilliance of moonlight and holding the highest electrical and thermal conductivity of all elements, which white noble metal detects toxins?",
+    "question": "Gleaming with cool moonlight brilliance and holding the highest electrical and thermal conductivity, which white noble metal detects toxins?",
     "options": [
       "Silver",
       "Platinum",
@@ -7471,7 +7471,7 @@
   },
   {
     "id": "rid_444",
-    "question": "Forging train rails, skyscraper frames, and sturdy hammers, which most abundant heavy metal built modern civilization but bleeds red rust in damp air?",
+    "question": "Forging train rails, skyscraper frames and sturdy hammers, which most abundant heavy metal built modern civilization but bleeds red rust in damp air?",
     "options": [
       "Iron",
       "Copper",
@@ -7507,7 +7507,7 @@
   },
   {
     "id": "rid_446",
-    "question": "Growing into icy hexagonal prisms as clear as glass, which quartz crystal vibrates precisely to keep time inside quartz watches and adorns fine jewelry?",
+    "question": "Growing into icy hexagonal prisms as clear as glass, which quartz crystal vibrates precisely to keep time inside watches and adorns fine jewelry?",
     "options": [
       "Rock crystal (Quartz)",
       "Diamond",
@@ -7687,7 +7687,7 @@
   },
   {
     "id": "rid_456",
-    "question": "Silently stretching your own mouth wide open, which mysterious \"contagion\" magically forces the person sitting right across from you to open theirs too?",
+    "question": "Silently stretching your own mouth wide open, which mysterious contagion magically forces the person sitting across from you to open theirs too?",
     "options": [
       "Yawn",
       "Cough",
@@ -8101,7 +8101,7 @@
   },
   {
     "id": "rid_479",
-    "question": "Protected within the bony fortress of your skull like a wrinkled walnut, which supreme command center orchestrates every thought, memory, and breath?",
+    "question": "Protected within the bony fortress of your skull like a wrinkled walnut, which supreme command center orchestrates every thought, memory and breath?",
     "options": [
       "Brain",
       "Heart",
@@ -8119,7 +8119,7 @@
   },
   {
     "id": "rid_480",
-    "question": "Sleeping in a coffin by day and flying as a bat by night, which dark count hungers for human blood yet dreads garlic, silver crucifixes, and sunlight?",
+    "question": "Sleeping in a coffin by day and flying as a bat by night, which dark count hungers for human blood yet dreads garlic, silver crucifixes and sunlight?",
     "options": [
       "Count Dracula (Vampire)",
       "Werewolf",
@@ -8209,7 +8209,7 @@
   },
   {
     "id": "rid_485",
-    "question": "Draped in a flowing white mourning hanbok with long disheveled black hair covering a tearful face, which famous Korean vengeful spirit floats through the mist?",
+    "question": "Draped in flowing white mourning hanbok with long disheveled black hair covering a tearful face, which famous Korean vengeful spirit floats through mist?",
     "options": [
       "Cheonyeo Gwishin (Virgin Ghost)",
       "Nine-tailed fox",
@@ -8245,7 +8245,7 @@
   },
   {
     "id": "rid_487",
-    "question": "Breathing and leaving footprints right in front of your eyes, who vanishes utterly into thin air the moment they unwrap their bandages and shed their clothes?",
+    "question": "Breathing and leaving footprints right before your eyes, who vanishes utterly into thin air the moment they unwrap bandages and shed clothes?",
     "options": [
       "Invisible Man",
       "Ghost",
@@ -8317,7 +8317,7 @@
   },
   {
     "id": "rid_491",
-    "question": "Treated as a towering giant in a kingdom of tiny people, yet cradled in the palm of a hand in a land of giants, which English traveler sailed into legend?",
+    "question": "Treated as a towering giant in a kingdom of tiny people, yet cradled in a giant’s palm, which English traveler sailed into legend?",
     "options": [
       "Lemuel Gulliver",
       "Robinson Crusoe",
@@ -8425,7 +8425,7 @@
   },
   {
     "id": "rid_497",
-    "question": "Puffing a curved briar pipe and donning a deerstalker cap, which brilliant resident of 221B Baker Street solves impossible crimes through sheer deduction?",
+    "question": "Puffing a curved briar pipe and donning a deerstalker cap, which brilliant resident of 221B Baker Street solves impossible crimes by pure deduction?",
     "options": [
       "Sherlock Holmes",
       "Arsène Lupin",
@@ -8443,7 +8443,7 @@
   },
   {
     "id": "rid_498",
-    "question": "Strutting boldly in fine leather cavalier boots, which clever talking feline used his razor-sharp wits and silver tongue to make his poor master a wealthy nobleman?",
+    "question": "Strutting in fine leather cavalier boots, which clever talking feline used sharp wits and silver tongue to make his poor master a wealthy nobleman?",
     "options": [
       "Puss in Boots",
       "Town Musicians of Bremen",
@@ -8479,7 +8479,7 @@
   },
   {
     "id": "rid_500",
-    "question": "Sentenced to nineteen years for stealing a loaf of bread to feed starving children, who was redeemed by a bishop’s silver candlesticks to become a savior of others?",
+    "question": "Sentenced to nineteen years for stealing bread to feed starving children, who was redeemed by a bishop’s silver candlesticks to become a savior?",
     "options": [
       "Jean Valjean",
       "Count of Monte Cristo",
@@ -8587,7 +8587,7 @@
   },
   {
     "id": "rid_506",
-    "question": "Caring for a single rose on Asteroid B-612 before voyaging across worlds to meet a stranded aviator in the Sahara Desert, who is this golden-haired boy?",
+    "question": "Caring for a single rose on Asteroid B-612 before voyaging across worlds to meet a stranded aviator in the Sahara, who is this golden-haired boy?",
     "options": [
       "The Little Prince",
       "Peter Pan",
@@ -8641,7 +8641,7 @@
   },
   {
     "id": "rid_509",
-    "question": "With braided red pigtails, freckles, mismatched knee-high stockings, and superhuman strength to lift a whole horse, who is this rebellious nine-year-old girl?",
+    "question": "With braided red pigtails, freckles, mismatched knee-high stockings and superhuman strength to lift a horse, who is this rebellious nine-year-old girl?",
     "options": [
       "Pippi Longstocking",
       "Anne of Green Gables",
@@ -8677,7 +8677,7 @@
   },
   {
     "id": "rid_511",
-    "question": "Teased and rejected by farmyard animals for being clumsy and gray, which nestling endured a harsh winter before discovering it had grown into a majestic swan?",
+    "question": "Teased by farmyard animals for being clumsy and gray, which nestling endured a harsh winter before discovering it had grown into a majestic swan?",
     "options": [
       "The Ugly Duckling",
       "The Blue Bird",
@@ -8695,7 +8695,7 @@
   },
   {
     "id": "rid_512",
-    "question": "Turned into a child by a mysterious poison but retaining his brilliant mind, which high-school sleuth solves crimes using a tranquilizer watch and voice-changing bow tie?",
+    "question": "Turned into a child by poison yet keeping his brilliant mind, which high-school sleuth solves crimes with a tranquilizer watch and voice-changing bow tie?",
     "options": [
       "Conan Edogawa",
       "Sherlock Holmes",
@@ -8713,7 +8713,7 @@
   },
   {
     "id": "rid_513",
-    "question": "Swept away by a Kansas cyclone to a magical realm, which young girl followed the Yellow Brick Road to the Emerald City with a Scarecrow, Tin Woodman, and Cowardly Lion?",
+    "question": "Swept by a Kansas cyclone to a magical realm, which girl followed the Yellow Brick Road to the Emerald City with Scarecrow, Tin Woodman and Cowardly Lion?",
     "options": [
       "Dorothy Gale",
       "Alice",
