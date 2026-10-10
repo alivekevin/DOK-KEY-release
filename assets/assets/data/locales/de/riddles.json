@@ -1875,7 +1875,7 @@
     "question": "Wer herrscht in der griechischen Mythologie über das Meer?",
     "options": [
       "Zeus",
-      "Hades",
+      "Ares",
       "Apollon",
       "Poseidon"
     ],
@@ -1910,7 +1910,7 @@
   {
     "question": "Wer erzeugt in der nordischen Mythologie mit Mjölnir den Donner?",
     "options": [
-      "Odin",
+      "Freya",
       "Loki",
       "Walküre",
       "Thor"
@@ -1929,7 +1929,7 @@
     "question": "Wer herrscht in der griechischen Mythologie über die Unterwelt?",
     "options": [
       "Zeus",
-      "Poseidon",
+      "Hermes",
       "Apollon",
       "Hades"
     ],
@@ -1946,7 +1946,7 @@
   {
     "question": "Wer hat in der indischen Mythologie einen Elefantenkopf für Weisheit und Glück?",
     "options": [
-      "Shiva",
+      "Vishnu",
       "Indra",
       "Ra",
       "Ganesha"
@@ -2487,7 +2487,7 @@
     "question": "Wer hat in der ägyptischen Mythologie einen Krokodilkopf und herrscht über den Nil?",
     "options": [
       "Anubis",
-      "Ra",
+      "Amun",
       "Bastet",
       "Sobek"
     ],
@@ -2828,7 +2828,7 @@
   {
     "question": "Wer herrscht im griechischen Mythos mit dem Blitz über den Olymp?",
     "options": [
-      "Poseidon",
+      "Hephaistos",
       "Hades",
       "Apollon",
       "Zeus"
@@ -2846,7 +2846,7 @@
   {
     "question": "Wer gab in der nordischen Mythologie ein Auge für Weisheit, der Allvater?",
     "options": [
-      "Thor",
+      "Freyr",
       "Loki",
       "Walküre",
       "Odin"
@@ -2954,7 +2954,7 @@
   {
     "question": "Wer symbolisiert in der indischen Mythologie Zerstörung und Wandel?",
     "options": [
-      "Ganesha",
+      "Krishna",
       "Indra",
       "Ra",
       "Shiva"
@@ -2973,7 +2973,7 @@
     "question": "Wer herrscht in der indischen Mythologie über Blitz und Regen?",
     "options": [
       "Shiva",
-      "Ra",
+      "Brahma",
       "Ganesha",
       "Indra"
     ],
@@ -2992,7 +2992,7 @@
     "options": [
       "Osiris",
       "Anubis",
-      "Sobek",
+      "Thot",
       "Ra"
     ],
     "answer_index": 3,
@@ -3008,7 +3008,7 @@
   {
     "question": "Wer herrscht in der ägyptischen Mythologie über Auferstehung und Jenseits?",
     "options": [
-      "Ra",
+      "Horus",
       "Anubis",
       "Sobek",
       "Osiris"
@@ -3027,7 +3027,7 @@
     "question": "Welche katzenköpfige Göttin Ägyptens steht für Heim und Heilung?",
     "options": [
       "Anubis",
-      "Sobek",
+      "Thot",
       "Ra",
       "Bastet"
     ],
@@ -4324,7 +4324,7 @@
     "options": [
       "Sommerdreieck",
       "Winterdreieck",
-      "Frühlingsdreieck",
+      "Winter-Sechseck",
       "Herbstdreieck"
     ],
     "answer_index": 0,
@@ -4467,7 +4467,7 @@
     "question": "Welches Frühlingsdreieck bilden Sterne aus Löwe, Bärenhüter und Jungfrau?",
     "options": [
       "Frühlingsdreieck",
-      "Sommerdreieck",
+      "Winter-Sechseck",
       "Winterdreieck",
       "Herbstdreieck"
     ],

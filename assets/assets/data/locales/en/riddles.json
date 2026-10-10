@@ -1875,7 +1875,7 @@
     "question": "In Greek myth, who rules the sea?",
     "options": [
       "Zeus",
-      "Hades",
+      "Ares",
       "Apollo",
       "Poseidon"
     ],
@@ -1910,7 +1910,7 @@
   {
     "question": "In Norse myth, who raises thunder with the hammer Mjölnir?",
     "options": [
-      "Odin",
+      "Freya",
       "Loki",
       "Valkyrie",
       "Thor"
@@ -1929,7 +1929,7 @@
     "question": "In Greek myth, who rules the underworld?",
     "options": [
       "Zeus",
-      "Poseidon",
+      "Hermes",
       "Apollo",
       "Hades"
     ],
@@ -1946,7 +1946,7 @@
   {
     "question": "In Indian myth, who has an elephant head and grants wisdom and fortune?",
     "options": [
-      "Shiva",
+      "Vishnu",
       "Indra",
       "Ra",
       "Ganesha"
@@ -2487,7 +2487,7 @@
     "question": "In Egyptian myth, who has a crocodile head and rules the Nile?",
     "options": [
       "Anubis",
-      "Ra",
+      "Amon",
       "Bastet",
       "Sobek"
     ],
@@ -2828,7 +2828,7 @@
   {
     "question": "In Greek myth, who rules Olympus with lightning as the supreme god?",
     "options": [
-      "Poseidon",
+      "Hephaestus",
       "Hades",
       "Apollo",
       "Zeus"
@@ -2846,7 +2846,7 @@
   {
     "question": "In Norse myth, who gave an eye for wisdom and is the father of the gods?",
     "options": [
-      "Thor",
+      "Freyr",
       "Loki",
       "Valkyrie",
       "Odin"
@@ -2954,7 +2954,7 @@
   {
     "question": "In Indian myth, who symbolizes destruction and transformation?",
     "options": [
-      "Ganesha",
+      "Krishna",
       "Indra",
       "Ra",
       "Shiva"
@@ -2973,7 +2973,7 @@
     "question": "In Indian myth, who rules lightning and rain?",
     "options": [
       "Shiva",
-      "Ra",
+      "Brahma",
       "Ganesha",
       "Indra"
     ],
@@ -2992,7 +2992,7 @@
     "options": [
       "Osiris",
       "Anubis",
-      "Sobek",
+      "Thoth",
       "Ra"
     ],
     "answer_index": 3,
@@ -3008,7 +3008,7 @@
   {
     "question": "In Egyptian myth, who rules resurrection and the afterlife?",
     "options": [
-      "Ra",
+      "Horus",
       "Anubis",
       "Sobek",
       "Osiris"
@@ -3027,7 +3027,7 @@
     "question": "In Egyptian myth, who is the cat-headed goddess of home and healing?",
     "options": [
       "Anubis",
-      "Sobek",
+      "Thoth",
       "Ra",
       "Bastet"
     ],
@@ -4324,7 +4324,7 @@
     "options": [
       "Summer Triangle",
       "Winter Triangle",
-      "Spring Triangle",
+      "Winter Hexagon",
       "Autumn Triangle"
     ],
     "answer_index": 0,
@@ -4467,7 +4467,7 @@
     "question": "Which spring triangle is formed by stars of Leo, Boötes, and Virgo?",
     "options": [
       "Spring Triangle",
-      "Summer Triangle",
+      "Winter Hexagon",
       "Winter Triangle",
       "Autumn Triangle"
     ],
