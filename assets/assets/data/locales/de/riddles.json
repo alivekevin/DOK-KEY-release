@@ -9289,7 +9289,7 @@
   },
   {
     "id": "rid_932",
-    "question": "Ein Polizist jagte einen Dieb in eine Sackgasse und verlor ihn direkt vor seinen Augen. Der Dieb hatte keine Flügel und kletterte nicht über die Mauer. Wie verschwand er?",
+    "question": "Ein Polizist jagte einen Dieb in eine Sackgasse und verlor ihn vor Augen. Keine Flügel, keine Mauer. Wie verschwand er?",
     "options": [
       "Nutze einen Unsichtbarkeitsmantel",
       "Öffnete einen Kanaldeckel und stieg hinab",
@@ -9325,7 +9325,7 @@
   },
   {
     "id": "rid_934",
-    "question": "Beim Kauf eines bestimmten Gegenstands braucht der Hersteller ihn nicht und verkauft ihn, der Käufer benutzt ihn nie, und der tatsächliche Nutzer merkt nicht, dass er ihn benutzt. Was ist das?",
+    "question": "Beim Kauf braucht der Hersteller den Gegenstand nicht und verkauft ihn, der Käufer benutzt ihn nie, der Nutzer merkt es nicht. Was ist das?",
     "options": [
       "Schlafmaske",
       "Sarg",
@@ -9343,7 +9343,7 @@
   },
   {
     "id": "rid_935",
-    "question": "Cheolsu und Younghee tranken zur gleichen Zeit im gleichen Restaurant denselben Eiskaffee. Younghee trank ihn in einer Minute aus, Cheolsu nippte 30 Minuten. Nur Cheolsu wurde vergiftet. Warum?",
+    "question": "Cheolsu und Younghee tranken denselben Eiskaffee. Younghee trank ihn in einer Minute aus, Cheolsu nippte 30 Minuten. Nur Cheolsu wurde vergiftet. Warum?",
     "options": [
       "Nur Cheolsus Strohhalm hatte Gift",
       "Das Gift war im Eis, das langsam schmolz",
@@ -9379,7 +9379,7 @@
   },
   {
     "id": "rid_937",
-    "question": "Auf einem Schiff waren ein Kapitän und zehn Matrosen. Als der Kapitän einen Schritt auf dem Deck machte, schwankte das Schiff und alle fielen ins Meer. Doch kein Haar wurde nass. Warum?",
+    "question": "Kapitän und zehn Matrosen an Bord. Der Kapitän trat aufs Deck, das Schiff schwankte, alle fielen ins Meer. Doch kein Haar wurde nass. Warum?",
     "options": [
       "Alle trugen vollständig wasserdichte Taucherhauben",
       "Das Meerwasser war zu Eis gefroren",
@@ -9505,7 +9505,7 @@
   },
   {
     "id": "rid_944",
-    "question": "Ein Junge warf einen Baseball mit aller Kraft. Er traf keine Wand, niemand berührte ihn, und er war nicht an einer Schnur, kehrte aber genau in seine Hand zurück. Wie warf er?",
+    "question": "Ein Junge warf einen Baseball mit Kraft. Keine Wand, niemand berührte ihn, keine Schnur, doch er kehrte in seine Hand zurück. Wie warf er?",
     "options": [
       "Gab starken Spin für einen Curveball",
       "Warf ihn senkrecht nach oben",
@@ -9613,7 +9613,7 @@
   },
   {
     "id": "rid_950",
-    "question": "Am Südpol stehend gehst du mit dem Kompass 10 km geradeaus Richtung Nordpol, drehst dich dann 90 Grad nach rechts und gehst weitere 10 km. In welcher Richtung vom Südpol befindest du dich jetzt?",
+    "question": "Am Südpol gehst du 10 km geradeaus Richtung Nord, drehst 90° rechts und gehst weitere 10 km. In welcher Richtung vom Südpol bist du jetzt?",
     "options": [
       "Osten",
       "Norden",
@@ -9667,7 +9667,7 @@
   },
   {
     "id": "rid_953",
-    "question": "Zwei Personen spielten zehnmal hintereinander Schere-Stein-Papier und warfen beide nur Stein, sodass alle zehn Unentschieden waren. Wie viele Finger streckten sie insgesamt aus?",
+    "question": "Zwei spielten zehnmal Schere-Stein-Papier und warfen nur Stein, alle Unentschieden. Wie viele Finger streckten sie insgesamt aus?",
     "options": [
       "0",
       "100",
@@ -10117,7 +10117,7 @@
   },
   {
     "id": "rid_978",
-    "question": "Ein Aufzug hat die Kapazität „10 Erwachsene (insgesamt 700 kg)“. Acht Erwachsene (550 kg) stiegen ein, doch der Überlastalarm tönte und die Tür schloss nicht. Warum?",
+    "question": "Aufzug Kapazität „10 Erwachsene (700 kg)“. Acht Erwachsene (550 kg) stiegen ein, doch Überlastalarm und Tür schloss nicht. Warum?",
     "options": [
       "Sensor-Nullpunkt fehlkalibriert",
       "Einer trug schwere Metallfracht",
@@ -10423,7 +10423,7 @@
   },
   {
     "id": "rid_995",
-    "question": "Zwei Personen wetteiferten beim Treppensteigen. Einer nahm zwei Stufen auf einmal, der andere eine Stufe schnell. Sie kamen gleichzeitig oben an. Ist die Stufenzahl gerade oder ungerade?",
+    "question": "Zwei Personen stiegen Treppen: einer zwei Stufen, der andere eine schnell. Sie kamen gleichzeitig an. Ist die Stufenzahl gerade oder ungerade?",
     "options": [
       "Immer gerade",
       "Immer ungerade",
@@ -10603,7 +10603,7 @@
   },
   {
     "id": "rid_1005",
-    "question": "Die Scheinwerfer eines Autos waren beide aus auf einer dunklen Nachtstraße, doch der Fahrer hielt genau vor einem schwarz gekleideten Fußgänger an. Wie sah er ihn?",
+    "question": "Beide Scheinwerfer aus auf dunkler Straße, doch der Fahrer hielt vor einem schwarz gekleideten Fußgänger an. Wie sah er ihn?",
     "options": [
       "Trug Nachtsichtbrille",
       "Fußgänger trug reflektierende Weste",

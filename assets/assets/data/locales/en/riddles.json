@@ -9325,7 +9325,7 @@
   },
   {
     "id": "rid_934",
-    "question": "When buying a certain item, the maker doesn’t need it so sells it, the buyer never uses it, and the one who actually uses it doesn’t know he’s using it. What is it?",
+    "question": "The maker doesn’t need it so sells it, the buyer never uses it, and the actual user doesn’t know he’s using it. What is it?",
     "options": [
       "Sleep mask",
       "Coffin",
@@ -9343,7 +9343,7 @@
   },
   {
     "id": "rid_935",
-    "question": "Cheolsu and Younghee drank the same iced coffee at the same time in the same restaurant. Younghee finished hers in one minute; Cheolsu sipped for 30 minutes. Only Cheolsu was poisoned. Why?",
+    "question": "Cheolsu and Younghee drank the same iced coffee. Younghee finished in one minute; Cheolsu sipped for 30 minutes. Only Cheolsu was poisoned. Why?",
     "options": [
       "Only Cheolsu’s straw had poison",
       "The poison was in the ice that melted slowly",
@@ -9379,7 +9379,7 @@
   },
   {
     "id": "rid_937",
-    "question": "A ship had a captain and ten sailors. The moment the captain took one step on deck the ship rocked and everyone fell into the sea. Yet not a single strand of hair got wet. Why?",
+    "question": "A ship had a captain and ten sailors. The captain stepped on deck, the ship rocked and all fell into the sea. Yet no hair got wet. Why?",
     "options": [
       "All wore fully waterproof diving hoods",
       "The seawater was frozen solid",
@@ -9613,7 +9613,7 @@
   },
   {
     "id": "rid_950",
-    "question": "Standing at the South Pole you walk 10 km straight toward the pole star, then turn 90 degrees right and walk another 10 km. In which direction from the South Pole are you now?",
+    "question": "At the South Pole you walk 10 km straight toward the pole star, turn 90° right, and walk 10 km more. Which direction are you from the South Pole now?",
     "options": [
       "East",
       "North",
