@@ -8728,5 +8728,2255 @@
       "correct": "Correct! Clicking her ruby slippers while chanting 'There’s no place like home', it is Dorothy!",
       "wrong": "Wrong! Think of the girl from Kansas who traveled the Yellow Brick Road."
     }
+  },
+  {
+    "id": "rid_901",
+    "question": "A rabbit and a turtle raced, and the rabbit sprinted without napping. Why did the turtle finish first?",
+    "options": [
+      "The rabbit took a wrong turn",
+      "The turtle secretly took a shortcut",
+      "It was a swimming race",
+      "The rabbit got a cramp"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Water is the turtle’s domain—never assume the race type!",
+      "wrong": "Nope! The event itself was the trick—think beyond running!"
+    }
+  },
+  {
+    "id": "rid_902",
+    "question": "There were five apples in a basket. I took three. How many apples are in my hand?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! You grabbed three—so three are right in your hand!",
+      "wrong": "Wrong! Count what you took, not what’s left in the basket!"
+    }
+  },
+  {
+    "id": "rid_903",
+    "question": "If a polar bear and a penguin meet on the ice, will the bear eat the penguin?",
+    "options": [
+      "The penguin swims away",
+      "The bear eats it instantly",
+      "They can never meet",
+      "A penguin flock drives the bear off"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! One lives at the North Pole, the other at the South—impossible!",
+      "wrong": "Nope! Geography is the real answer—check the poles!"
+    }
+  },
+  {
+    "id": "rid_904",
+    "question": "What star is never visible by day and disappears on rainy nights?",
+    "options": [
+      "The North Star",
+      "The Weaver and Cowherd stars",
+      "A star in the sky",
+      "The pupil of the eye"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Real sky stars hide by day and behind clouds!",
+      "wrong": "Wrong! Think of the ordinary stars above, not the special ones!"
+    }
+  },
+  {
+    "id": "rid_905",
+    "question": "A person walked in pouring rain with no umbrella or hat, yet not a single hair got wet. Why?",
+    "options": [
+      "Walked only under eaves",
+      "Used waterproof spray",
+      "Had no hair at all",
+      "Ran faster than the rain"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! No hair means nothing to get wet!",
+      "wrong": "Nope! The key is the absence of hair itself!"
+    }
+  },
+  {
+    "id": "rid_906",
+    "question": "A bus driver drove the wrong way on a one-way street and ignored signals. Why didn’t the police stop him?",
+    "options": [
+      "The officer was looking elsewhere",
+      "It was an emergency patient transport",
+      "He was walking, not driving",
+      "The one-way rule was lifted then"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The driver was on foot—no bus involved!",
+      "wrong": "Wrong! Job title fooled you—he wasn’t behind the wheel!"
+    }
+  },
+  {
+    "id": "rid_907",
+    "question": "A red house is built with red bricks, a blue house with blue bricks. What is a greenhouse built with?",
+    "options": [
+      "Green bricks",
+      "Insulation blocks",
+      "Glass",
+      "Plastic film"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Color name is the trap—glass lets the light in!",
+      "wrong": "Nope! It’s not about the color green!"
+    }
+  },
+  {
+    "id": "rid_908",
+    "question": "Some months have 31 days, some have 30. How many months have 28 days?",
+    "options": [
+      "Only one (February)",
+      "One in a leap year",
+      "Twelve (all of them)",
+      "Seven"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Every single month reaches day 28!",
+      "wrong": "Wrong! All twelve months contain a 28th day!"
+    }
+  },
+  {
+    "id": "rid_909",
+    "question": "In a race you overtake the runner who was one step ahead of the leader. What place are you in now?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Tied for first"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! You took second’s spot—now you’re second!",
+      "wrong": "Nope! Overtaking second puts you in second, not first!"
+    }
+  },
+  {
+    "id": "rid_910",
+    "question": "A plane crashes exactly on the Korea-Japan border. Where should the survivors be buried?",
+    "options": [
+      "In Korea, the departure country",
+      "In Japan, the arrival country",
+      "In a joint border cemetery",
+      "They shouldn’t be buried"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Survivors are alive—don’t bury them!",
+      "wrong": "Wrong! The word ‘survivor’ is the whole trick!"
+    }
+  },
+  {
+    "id": "rid_911",
+    "question": "An electric train races north at 100 km/h while the wind blows south. Which way does the smoke drift?",
+    "options": [
+      "South",
+      "North",
+      "Nowhere the wind blows",
+      "There is no smoke"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Electric trains make no smoke at all!",
+      "wrong": "Nope! No combustion means no smoke to drift!"
+    }
+  },
+  {
+    "id": "rid_912",
+    "question": "In the Old Testament, how many pairs of each animal did Moses put on the ark?",
+    "options": [
+      "One pair",
+      "Seven pairs",
+      "Zero pairs",
+      "Two pairs"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! It was Noah, not Moses—zero for Moses!",
+      "wrong": "Wrong! Moses never built an ark!"
+    }
+  },
+  {
+    "id": "rid_913",
+    "question": "How can you drop a raw egg from a 10-story rooftop onto concrete without the concrete cracking?",
+    "options": [
+      "Wrap the egg in padding",
+      "Attach a parachute",
+      "Just drop it",
+      "Lay a mattress on the ground"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Concrete doesn’t crack from a falling egg!",
+      "wrong": "Nope! The floor stays intact no matter what!"
+    }
+  },
+  {
+    "id": "rid_914",
+    "question": "A farmer had seventeen sheep. All but nine died of disease. How many sheep survived?",
+    "options": [
+      "8",
+      "9",
+      "0",
+      "17"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! ‘All but nine’ means nine are left!",
+      "wrong": "Wrong! The phrase keeps nine alive!"
+    }
+  },
+  {
+    "id": "rid_915",
+    "question": "A bat and a ball cost 11,000 won together. The bat costs 10,000 won more than the ball. How much is the ball?",
+    "options": [
+      "1,000 won",
+      "500 won",
+      "100 won",
+      "2,000 won"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 500 + 10,500 equals 11,000—perfect!",
+      "wrong": "Nope! Classic trap—500 is the real answer!"
+    }
+  },
+  {
+    "id": "rid_916",
+    "question": "There were apples on a tree. After I picked some, neither the tree nor my hand had any apples left. What happened?",
+    "options": [
+      "I dropped them on the ground",
+      "I ate them right away",
+      "There were two; I picked only one",
+      "Someone else snatched them"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Two apples, one picked—no ‘apples’ remain!",
+      "wrong": "Wrong! Plural language is the trick!"
+    }
+  },
+  {
+    "id": "rid_917",
+    "question": "A square table has four corners. You cut one corner off cleanly with a saw. How many corners remain?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Cutting one creates two new ones—five total!",
+      "wrong": "Nope! Geometry adds corners, doesn’t just remove!"
+    }
+  },
+  {
+    "id": "rid_918",
+    "question": "Two boys were born to the same mother on the same day and hour, same parents. Why aren’t they twins?",
+    "options": [
+      "One is adopted on paper",
+      "Born in different time zones",
+      "They are two of triplets or more",
+      "Doctor’s misdiagnosis"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Part of triplets or more—not just twins!",
+      "wrong": "Wrong! More than two can share the birthday!"
+    }
+  },
+  {
+    "id": "rid_919",
+    "question": "A stone thrown from a mountain falls down. If you gently release a stone in deep space, where does it go?",
+    "options": [
+      "Falls toward Earth",
+      "Flies toward the Sun",
+      "Floats right where it is",
+      "Gets pulled by the nearest planet"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Zero gravity—stays put!",
+      "wrong": "Nope! No force means no movement!"
+    }
+  },
+  {
+    "id": "rid_920",
+    "question": "A hole is 3 m deep, 2 m wide and 2 m long. How much dirt is inside the hole?",
+    "options": [
+      "12 m³",
+      "6 m³",
+      "0 m³ (none at all)",
+      "1 m³"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! A hole is empty—zero dirt inside!",
+      "wrong": "Wrong! The dirt was already dug out!"
+    }
+  },
+  {
+    "id": "rid_921",
+    "question": "It was pouring rain, yet the driver of a topless convertible stayed completely dry. Why?",
+    "options": [
+      "Wore a clear raincoat",
+      "Drove faster than the rain",
+      "Was driving through a long tunnel",
+      "Wore special water-repellent clothes"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Tunnel roof kept the rain off!",
+      "wrong": "Nope! Location is the secret—inside a tunnel!"
+    }
+  },
+  {
+    "id": "rid_922",
+    "question": "Which clock shows the correct time more often in 24 hours: one that loses 10 minutes a day or one that is completely stopped?",
+    "options": [
+      "The slow clock",
+      "They are equal",
+      "The stopped clock",
+      "Impossible to tell"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! A stopped clock is right twice a day!",
+      "wrong": "Wrong! The broken one wins the accuracy contest!"
+    }
+  },
+  {
+    "id": "rid_923",
+    "question": "A doctor told a patient to take one pill every 30 minutes and prescribed three pills. How long to finish them all?",
+    "options": [
+      "1 hour 30 minutes",
+      "1 hour",
+      "45 minutes",
+      "2 hours"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! First at 0, second at 30, last at 60—one hour!",
+      "wrong": "Nope! Three pills need only two intervals!"
+    }
+  },
+  {
+    "id": "rid_924",
+    "question": "Ten goldfish are in a tank. Three drown and two escape. How many remain in the tank?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Fish can’t drown or escape a closed tank—still ten!",
+      "wrong": "Wrong! Both events are impossible for goldfish!"
+    }
+  },
+  {
+    "id": "rid_925",
+    "question": "Two men played five games of chess. No draws, yet both won three games. How?",
+    "options": [
+      "Match-fixing",
+      "Both awarded wins after disputes",
+      "Each played different opponents",
+      "Odd-game rule quirk"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! They never played each other!",
+      "wrong": "Nope! Separate opponents explain the scores!"
+    }
+  },
+  {
+    "id": "rid_926",
+    "question": "A person living on the 20th floor jumped out a window and walked away unhurt. How?",
+    "options": [
+      "Firefighters’ air mattress below",
+      "Opened a parachute",
+      "Jumped from a first-floor window",
+      "Caught on a tree branch"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Lived on 20, jumped from 1—easy landing!",
+      "wrong": "Wrong! Floor of residence ≠ floor of jump!"
+    }
+  },
+  {
+    "id": "rid_927",
+    "question": "What can even the strongest person in the world never hold up for more than a minute?",
+    "options": [
+      "A rock equal to their weight",
+      "A 200 kg barbell",
+      "Their own breath",
+      "An iron dumbbell"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Holding one’s breath has a hard limit!",
+      "wrong": "Nope! It’s the breath, not any weight!"
+    }
+  },
+  {
+    "id": "rid_928",
+    "question": "A steel ball is dropped straight down from the top railing of the Eiffel Tower. What does it hit first?",
+    "options": [
+      "The grass below the tower",
+      "The pedestrian plaza floor",
+      "The tower’s lower iron structure",
+      "The surface of the Seine"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The widening lattice catches it first!",
+      "wrong": "Wrong! Pyramid shape means iron before ground!"
+    }
+  },
+  {
+    "id": "rid_929",
+    "question": "A hunter shoots one of five sparrows on a tree and drops it. How many sparrows remain on the tree?",
+    "options": [
+      "4",
+      "0",
+      "1",
+      "3"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The gunshot scares the rest away—zero left!",
+      "wrong": "Nope! Noise empties the tree!"
+    }
+  },
+  {
+    "id": "rid_930",
+    "question": "An old man was reading late at night in a pitch-dark room with no light at all. How could he read?",
+    "options": [
+      "Eyes fully adapted to darkness",
+      "Book printed in glow-in-the-dark ink",
+      "He is blind and reading braille",
+      "Used a phone screen for light"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Braille needs only fingertips—no light!",
+      "wrong": "Wrong! Touch reading solves the darkness!"
+    }
+  },
+  {
+    "id": "rid_931",
+    "question": "An American was born and raised his whole life on American soil. Yet he has never been able to vote legally in the United States. Why?",
+    "options": [
+      "He has a criminal record",
+      "He is still an 8-year-old child",
+      "His citizenship was revoked",
+      "He holds dual citizenship"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Simply too young to vote!",
+      "wrong": "Nope! Age is the only reason!"
+    }
+  },
+  {
+    "id": "rid_932",
+    "question": "A policeman chased a thief into a dead-end alley and lost him right in front of his eyes. The thief had no wings and didn’t climb the wall. How did he vanish?",
+    "options": [
+      "Used an invisibility cloak",
+      "Opened a manhole cover and went down",
+      "The policeman blinked",
+      "There was actually no thief in the alley"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Down the manhole—floor path overlooked!",
+      "wrong": "Wrong! Check the ground, not just the walls!"
+    }
+  },
+  {
+    "id": "rid_933",
+    "question": "A man went 25 days without sleeping a wink yet lived a perfectly normal daily life. How was that possible?",
+    "options": [
+      "Took special stimulants",
+      "Held a Guinness record",
+      "He only slept at night",
+      "Slept standing with light dozes"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! He simply slept at night like everyone else!",
+      "wrong": "Nope! ‘Daytime’ was the hidden word!"
+    }
+  },
+  {
+    "id": "rid_934",
+    "question": "When buying a certain item, the maker doesn’t need it so sells it, the buyer never uses it, and the one who actually uses it doesn’t know he’s using it. What is it?",
+    "options": [
+      "Sleep mask",
+      "Coffin",
+      "Baby diaper",
+      "Gift wrapping paper"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The coffin—maker sells, family buys, the dead never knows!",
+      "wrong": "Wrong! Think of the final resting box!"
+    }
+  },
+  {
+    "id": "rid_935",
+    "question": "Cheolsu and Younghee drank the same iced coffee at the same time in the same restaurant. Younghee finished hers in one minute; Cheolsu sipped for 30 minutes. Only Cheolsu was poisoned. Why?",
+    "options": [
+      "Only Cheolsu’s straw had poison",
+      "The poison was in the ice that melted slowly",
+      "Younghee had strong detox ability",
+      "The waiter later secretly added poison"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Poison in the ice—fast drinker stayed safe!",
+      "wrong": "Nope! Melting ice released the poison!"
+    }
+  },
+  {
+    "id": "rid_936",
+    "question": "A woman crossed another country’s border freely with no ID, wallet or passport and no inspection. How?",
+    "options": [
+      "Diplomatic immunity",
+      "Hid in a smuggling ship’s cargo",
+      "She was a newborn baby",
+      "No border fence between the countries"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Still in the womb or just born at the border!",
+      "wrong": "Wrong! Brand-new life needs no papers!"
+    }
+  },
+  {
+    "id": "rid_937",
+    "question": "A ship had a captain and ten sailors. The moment the captain took one step on deck the ship rocked and everyone fell into the sea. Yet not a single strand of hair got wet. Why?",
+    "options": [
+      "All wore fully waterproof diving hoods",
+      "The seawater was frozen solid",
+      "Every person on board was bald",
+      "They climbed into a lifeboat without touching water"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! All bald—no hair to get wet!",
+      "wrong": "Nope! Zero hair among them!"
+    }
+  },
+  {
+    "id": "rid_938",
+    "question": "What is the correct way to cut one apple into exactly eight pieces with only three straight cuts?",
+    "options": [
+      "Three thin vertical slices",
+      "Two cross cuts then one horizontal cut",
+      "Three diagonal cuts",
+      "Mark eighths and carve triangles"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 2×2×2 in three dimensions!",
+      "wrong": "Wrong! Think 3-D cuts, not flat ones!"
+    }
+  },
+  {
+    "id": "rid_939",
+    "question": "A man jumped from an airplane without a parachute and landed unharmed. How?",
+    "options": [
+      "The plane was parked on the runway",
+      "A huge haystack was below",
+      "He fell into water from very low altitude",
+      "He wore a special wingsuit"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Plane was still on the ground!",
+      "wrong": "Nope! It never left the runway!"
+    }
+  },
+  {
+    "id": "rid_940",
+    "question": "A and B raced 100 m. When A finished, B was at the 90 m mark. In the second race A started 10 m behind. If they run at the same speeds, what is the result?",
+    "options": [
+      "They finish together",
+      "A still wins",
+      "B wins by a hair",
+      "Equal distance so a draw"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! A is still faster over the final stretch!",
+      "wrong": "Wrong! A’s speed advantage remains!"
+    }
+  },
+  {
+    "id": "rid_941",
+    "question": "What gets dirtier the more you wash it, no matter how cleanly you scrub?",
+    "options": [
+      "A mop",
+      "Soap",
+      "The washing water",
+      "A towel"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The water itself becomes dirty!",
+      "wrong": "Nope! Water takes on the dirt!"
+    }
+  },
+  {
+    "id": "rid_942",
+    "question": "When you look at a full moon with the naked eye versus a 100× telescope, which shows the moon’s actual size larger?",
+    "options": [
+      "Through the 100× telescope",
+      "With the naked eye",
+      "Both show the exact same actual size",
+      "Atmospheric refraction makes the naked eye larger"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Actual physical size never changes!",
+      "wrong": "Wrong! Apparent size ≠ real size!"
+    }
+  },
+  {
+    "id": "rid_943",
+    "question": "An empty cup sits in the middle of the living room. How many drops of water can you put into this empty cup?",
+    "options": [
+      "Thousands depending on volume",
+      "Until surface tension holds",
+      "Exactly one drop",
+      "Unlimited until full"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! One drop and it’s no longer empty!",
+      "wrong": "Nope! The word ‘empty’ is the limit!"
+    }
+  },
+  {
+    "id": "rid_944",
+    "question": "A boy threw a baseball hard. It hit no wall, no one touched it, and it wasn’t tied to a string, yet it returned exactly to his hand. How did he throw it?",
+    "options": [
+      "Gave it strong spin for a curve",
+      "Threw it straight up vertically",
+      "Threw it in a boomerang arc",
+      "Threw against the wind"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Straight up—gravity brings it back!",
+      "wrong": "Wrong! Vertical throw is the answer!"
+    }
+  },
+  {
+    "id": "rid_945",
+    "question": "Two fathers and two sons went fishing and each caught one fish. Yet when they gathered the fish there were only three. No one lost any. Why three?",
+    "options": [
+      "One failed to catch",
+      "The pond keeper took one",
+      "They were three generations: grandfather, father, grandson",
+      "One fish was caught twice"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Three people make two fathers and two sons!",
+      "wrong": "Nope! Family tree math!"
+    }
+  },
+  {
+    "id": "rid_946",
+    "question": "You must open a heavy iron door. Of the ten keys on the ring only one works. What is the maximum number of keys you need to try?",
+    "options": [
+      "10",
+      "9",
+      "1",
+      "5"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! After nine failures the last one must work!",
+      "wrong": "Wrong! No need to test the tenth!"
+    }
+  },
+  {
+    "id": "rid_947",
+    "question": "Cows eat grass and give milk of one color. What color milk does a black goat give after eating black grass?",
+    "options": [
+      "Black",
+      "Light gray",
+      "White",
+      "Transparent"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! All mammal milk is white!",
+      "wrong": "Nope! Color of the animal doesn’t matter!"
+    }
+  },
+  {
+    "id": "rid_948",
+    "question": "A sealed room is full of air. What is the fastest way to remove the air from the room?",
+    "options": [
+      "Run a huge fan at maximum",
+      "Suck it out with a vacuum pump",
+      "Fill the room with water or furniture",
+      "Open the windows wide"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Displace the volume with something else!",
+      "wrong": "Wrong! Fill the space to push air out!"
+    }
+  },
+  {
+    "id": "rid_949",
+    "question": "The pilot’s instruments all failed mid-flight, yet he landed exactly on target. What was the only thing he looked at?",
+    "options": [
+      "The North Star and constellations",
+      "Radio guidance from the tower",
+      "The runway lights",
+      "A smartphone compass app"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Visual landing—runway lights!",
+      "wrong": "Nope! Eyes on the lights below!"
+    }
+  },
+  {
+    "id": "rid_950",
+    "question": "Standing at the South Pole you walk 10 km straight toward the pole star, then turn 90 degrees right and walk another 10 km. In which direction from the South Pole are you now?",
+    "options": [
+      "East",
+      "North",
+      "Southeast",
+      "West"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Every direction from the South Pole is north!",
+      "wrong": "Wrong! You’re still north of the pole!"
+    }
+  },
+  {
+    "id": "rid_951",
+    "question": "A student took a test without studying at all and handed in a blank paper yet scored 100. How?",
+    "options": [
+      "Teacher graded wrong",
+      "It was an eye-chart test",
+      "Papers were switched with another student",
+      "All questions were oral"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Eye chart—just say the letters!",
+      "wrong": "Nope! No writing needed!"
+    }
+  },
+  {
+    "id": "rid_952",
+    "question": "Who can be completely underwater yet stay dry and still breathe?",
+    "options": [
+      "A haenyeo diver",
+      "Crew inside a submarine",
+      "A competitive swimmer",
+      "A scuba diver"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Inside the sealed sub—dry and breathing!",
+      "wrong": "Wrong! The hull keeps water out!"
+    }
+  },
+  {
+    "id": "rid_953",
+    "question": "Two people played rock-paper-scissors ten times in a row and both only threw rock, so all ten were ties. What is the total number of fingers they extended?",
+    "options": [
+      "0",
+      "100",
+      "50",
+      "20"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Rock means zero fingers out!",
+      "wrong": "Nope! Fist = no extended fingers!"
+    }
+  },
+  {
+    "id": "rid_954",
+    "question": "A person shaves dozens of beards every day yet keeps a full bushy beard on his own face. What is his job?",
+    "options": [
+      "Razor-factory inspector",
+      "Barber",
+      "Special-effects makeup artist",
+      "Dermatologist"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Barber—shaves others, keeps his own!",
+      "wrong": "Wrong! Classic barber riddle!"
+    }
+  },
+  {
+    "id": "rid_955",
+    "question": "What body part always returns to you no matter how far you throw it?",
+    "options": [
+      "Hair",
+      "Fingernails",
+      "Spit",
+      "A glance (gaze)"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! You ‘throw a glance’ and it comes right back!",
+      "wrong": "Nope! Language trick—your gaze!"
+    }
+  },
+  {
+    "id": "rid_956",
+    "question": "One of the four tires on a highway car went flat. Yet the driver reached the destination at normal speed with no problem. How?",
+    "options": [
+      "It was a run-flat tire",
+      "The spare tire in the trunk was the flat one",
+      "Drove balanced on three wheels",
+      "Was towed the whole way"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Only the unused spare was flat!",
+      "wrong": "Wrong! The driving tires were fine!"
+    }
+  },
+  {
+    "id": "rid_957",
+    "question": "A bucket is full of water. You put something into it and the total weight becomes lighter. What did you put in?",
+    "options": [
+      "A helium balloon",
+      "A hole",
+      "Dry ice",
+      "A sponge"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! A hole lets the water out—lighter!",
+      "wrong": "Nope! Punch a hole and water escapes!"
+    }
+  },
+  {
+    "id": "rid_958",
+    "question": "What do hundreds of millions of people around the world do at the same time every morning?",
+    "options": [
+      "Brush their teeth",
+      "Check their smartphones",
+      "Open their eyes (wake up)",
+      "Yawn"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! First act of morning—open the eyes!",
+      "wrong": "Wrong! Waking up is universal!"
+    }
+  },
+  {
+    "id": "rid_959",
+    "question": "Your ship capsized in the middle of the ocean. What is the real reason you must never drink seawater while waiting for rescue?",
+    "options": [
+      "High salt content causes faster dehydration",
+      "Sharks are attracted to blood scent",
+      "It causes stomach pain",
+      "Body temperature drops rapidly"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Salt pulls water out of your cells!",
+      "wrong": "Nope! Osmosis makes thirst worse!"
+    }
+  },
+  {
+    "id": "rid_960",
+    "question": "A patient told the doctor, “My whole body hurts. When I touch my head it hurts, when I touch my leg it hurts.” What was the diagnosis?",
+    "options": [
+      "Whole-body neuralgia",
+      "Fibromyalgia",
+      "Broken finger",
+      "Faking illness"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The finger doing the touching was broken!",
+      "wrong": "Wrong! Pain was in the poking finger!"
+    }
+  },
+  {
+    "id": "rid_961",
+    "question": "If you throw something upward it always comes back down. What bounces back up even when thrown downward?",
+    "options": [
+      "A steel ball",
+      "A rubber ball (bouncy ball)",
+      "A feather",
+      "A paper airplane"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Elasticity sends the rubber ball skyward!",
+      "wrong": "Nope! Think bounce, not weight!"
+    }
+  },
+  {
+    "id": "rid_962",
+    "question": "It is pouring rain at exactly noon. What is the chance of bright sunshine exactly 72 hours later?",
+    "options": [
+      "50% (weather forecast)",
+      "100%",
+      "0% (it will be midnight)",
+      "25%"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 72 hours later is midnight—no sun!",
+      "wrong": "Wrong! Three full days land on midnight!"
+    }
+  },
+  {
+    "id": "rid_963",
+    "question": "A child stopped at a red pedestrian light. A blind person behind crossed exactly on green without seeing the signal. How did he know?",
+    "options": [
+      "Guide dog distinguished the colors",
+      "He heard the audible pedestrian signal",
+      "He listened to other people’s footsteps",
+      "He judged by car horns"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The beeping signal told him!",
+      "wrong": "Nope! Sound, not sight!"
+    }
+  },
+  {
+    "id": "rid_964",
+    "question": "In a dark room I lit a candle and looked in a mirror. Why is the me in the mirror holding the candle in the right hand?",
+    "options": [
+      "Mirror curvature distortion",
+      "Because I am actually holding it in my left hand",
+      "Because of light refraction",
+      "The reflection is rotated 180 degrees"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Left becomes right in the mirror!",
+      "wrong": "Wrong! You held it with the left!"
+    }
+  },
+  {
+    "id": "rid_965",
+    "question": "Inside a KTX train racing at 300 km/h a fly is hovering still in the air. What is the fly’s actual speed relative to the ground?",
+    "options": [
+      "0 km/h (hovering in place)",
+      "300 km/h (same as the train)",
+      "10 km/h (fly’s flight speed)",
+      "310 km/h"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The whole air mass moves with the train!",
+      "wrong": "Nope! Ground speed matches the train!"
+    }
+  },
+  {
+    "id": "rid_966",
+    "question": "How many times does the digit ‘9’ appear in the numbers from 1 to 100?",
+    "options": [
+      "10 times",
+      "11 times",
+      "19 times",
+      "20 times"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Ten in the units, ten in the tens—twenty!",
+      "wrong": "Wrong! Don’t forget the extra 9 in 99!"
+    }
+  },
+  {
+    "id": "rid_967",
+    "question": "A person walking down the street found a 100-million-won check underfoot. Why did he kick it away instead of picking it up?",
+    "options": [
+      "He is a sage with no desire for money",
+      "It was an expired bounced check",
+      "A soccer ball had a 100-million-won sticker on it",
+      "He thought it was wind-blown trash"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Just a sticker on a ball!",
+      "wrong": "Nope! Not real paper money!"
+    }
+  },
+  {
+    "id": "rid_968",
+    "question": "On a frictionless ice sheet a heavy steel ball and a light ping-pong ball are blown hard. Which travels farther?",
+    "options": [
+      "The ping-pong ball",
+      "The steel ball",
+      "Both roll forever without stopping",
+      "The steel ball because of air resistance"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Zero friction means endless motion for both!",
+      "wrong": "Wrong! Inertia keeps both going forever!"
+    }
+  },
+  {
+    "id": "rid_969",
+    "question": "In baseball, how can a batter reach first base without swinging at the ball?",
+    "options": [
+      "Catcher drops the third strike (dropped third)",
+      "Pitcher commits a balk",
+      "Hit by pitch or four balls (walk)",
+      "Interference is called"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Walk or hit-by-pitch—no swing needed!",
+      "wrong": "Nope! Four balls or a plunk does it!"
+    }
+  },
+  {
+    "id": "rid_970",
+    "question": "An apple tree on Cheolsu’s roof grows branches over the neighbor’s yard and bears fruit. Legally whose apples are they?",
+    "options": [
+      "Fallen ones neighbor’s, hanging ones Cheolsu’s",
+      "Neighbor’s because the branch crossed",
+      "Cheolsu’s because the roots are on his land",
+      "Whoever picks them first"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Fruit belongs to the owner of the roots!",
+      "wrong": "Wrong! Root ownership decides!"
+    }
+  },
+  {
+    "id": "rid_971",
+    "question": "Walking past a streetlamp at night, how does the length of your shadow change as you get closer to the lamp?",
+    "options": [
+      "It grows longer",
+      "It grows shorter",
+      "It stays the same",
+      "It disappears completely"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Closer to the light, shorter the shadow!",
+      "wrong": "Nope! Angle becomes steeper!"
+    }
+  },
+  {
+    "id": "rid_972",
+    "question": "A boy stands on the tenth rung of a ladder hanging from a ship. Waves raise the water by two rungs. Which rung is he standing on now?",
+    "options": [
+      "8th rung",
+      "12th rung",
+      "10th rung",
+      "0th rung under water"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The ladder rises with the ship—still tenth!",
+      "wrong": "Wrong! Boat and ladder float up together!"
+    }
+  },
+  {
+    "id": "rid_973",
+    "question": "A customer in a restaurant drank a whole bowl of pickled-radish brine but never touched the rice. Why?",
+    "options": [
+      "On a radish-brine diet",
+      "To pour it into seolleongtang soup",
+      "Too spicy to eat rice",
+      "Just tasting the broth to judge the restaurant"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Classic move—dump the brine into the soup!",
+      "wrong": "Nope! Korean soup-custom trick!"
+    }
+  },
+  {
+    "id": "rid_974",
+    "question": "What is the fastest way to float a boat on the completely frozen Han River?",
+    "options": [
+      "Break the ice with an icebreaker",
+      "Simply place the boat on the ice",
+      "Melt the ice with heaters",
+      "Wait until spring"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Just set it on the ice like a sled!",
+      "wrong": "Wrong! No need to melt anything!"
+    }
+  },
+  {
+    "id": "rid_975",
+    "question": "Walking a pitch-dark night road with no streetlights and no moon, the person ahead never tripped on a stone. Why?",
+    "options": [
+      "Used infrared night-vision goggles",
+      "Had walked the same path by day",
+      "Walked with a smartphone flashlight on",
+      "Used a white cane for the blind"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Phone light showed the way!",
+      "wrong": "Nope! A simple flashlight did it!"
+    }
+  },
+  {
+    "id": "rid_976",
+    "question": "Two people met on a narrow single-log bridge with no shoulder and walked past each other safely without stepping aside. How?",
+    "options": [
+      "One dove into the water",
+      "Both were walking in the same direction",
+      "The bridge had two levels in the air",
+      "One carried the other across"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Same direction—no need to pass!",
+      "wrong": "Wrong! They weren’t coming toward each other!"
+    }
+  },
+  {
+    "id": "rid_977",
+    "question": "Why can certain animals live their whole lives in perfect health without ever drinking water?",
+    "options": [
+      "They synthesize water inside the body",
+      "They only lick dew",
+      "The moisture in their food (cactus, grass, seeds) is enough",
+      "They eat soil instead of water"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Food moisture plus metabolic water!",
+      "wrong": "Nope! Desert animals get it from meals!"
+    }
+  },
+  {
+    "id": "rid_978",
+    "question": "An elevator’s capacity is “10 adults (700 kg total).” Eight adults (550 kg) boarded yet the overload alarm sounded and the door wouldn’t close. Why?",
+    "options": [
+      "Sensor zero-point failure",
+      "One of them carried heavy metal cargo",
+      "A child was hiding among them",
+      "Floor springs were worn out"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The extra weight was the cargo!",
+      "wrong": "Wrong! Luggage counted toward the limit!"
+    }
+  },
+  {
+    "id": "rid_979",
+    "question": "Walking a forest path by day, my shadow stretched long in front of me. Which direction am I walking?",
+    "options": [
+      "Toward the rising sun",
+      "Away from the sun (sun at my back)",
+      "Due south",
+      "Due north"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Shadow in front means sun behind!",
+      "wrong": "Nope! Light source is at your back!"
+    }
+  },
+  {
+    "id": "rid_980",
+    "question": "A three-story house: 1st floor living room, 2nd bedroom, 3rd attic. Stairs: 15 steps from 1st to 2nd, 15 from 2nd to 3rd. How many steps to go from 1st to 3rd?",
+    "options": [
+      "30 steps",
+      "15 steps",
+      "45 steps",
+      "29 steps"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 15 + 15 = 30—simple addition!",
+      "wrong": "Wrong! Both flights must be climbed!"
+    }
+  },
+  {
+    "id": "rid_981",
+    "question": "A passenger boarded a ferry to cross a river. Besides the boatman there were no other passengers, yet the boat sank in mid-river. Why?",
+    "options": [
+      "A hole in the bottom",
+      "The boatman weighed 500 kg",
+      "It hit a submerged rock",
+      "It was loaded with heavy cargo"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Cargo, not passengers, overloaded it!",
+      "wrong": "Nope! Freight exceeded the limit!"
+    }
+  },
+  {
+    "id": "rid_982",
+    "question": "Two candles: one thick and tall, one thin and short. Lit at the same time and blown out together—which burned longer?",
+    "options": [
+      "The thick tall one",
+      "The thin short one",
+      "Both burned for the exact same time",
+      "Impossible to tell"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Same start, same stop—same burn time!",
+      "wrong": "Wrong! Duration, not remaining life!"
+    }
+  },
+  {
+    "id": "rid_983",
+    "question": "A man opened his bedroom window and fired a gun horizontally; the 10th-floor window across the street shattered. How, if the bullet never rose?",
+    "options": [
+      "Strong upward wind",
+      "The bullet was a ricochet round",
+      "His own bedroom is also on the 10th floor",
+      "Laser reflection on the glass"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! His apartment is the same height!",
+      "wrong": "Nope! Both buildings are high-rises!"
+    }
+  },
+  {
+    "id": "rid_984",
+    "question": "A book lies face-down on a desk so its front cover faces the desk surface. Which way does the back cover face?",
+    "options": [
+      "The ceiling",
+      "The floor",
+      "Inside the desk drawer",
+      "The book’s own pages"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Front down means back faces up!",
+      "wrong": "Wrong! Opposite side points to the ceiling!"
+    }
+  },
+  {
+    "id": "rid_985",
+    "question": "A glass bottle sinks to the bottom of the Mariana Trench, the deepest ocean. What is inside the bottle?",
+    "options": [
+      "Ultra-high-pressure seawater",
+      "Vacuum air",
+      "Seawater",
+      "Broken glass shards"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Open bottle fills with surrounding seawater!",
+      "wrong": "Nope! Ordinary seawater fills it!"
+    }
+  },
+  {
+    "id": "rid_986",
+    "question": "What is the main reason drivers turn on headlights when entering a tunnel?",
+    "options": [
+      "To light the road ahead",
+      "To let other drivers see their position",
+      "To prevent battery drain",
+      "To trigger tunnel sensors"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Visibility for other vehicles!",
+      "wrong": "Wrong! Being seen is the priority!"
+    }
+  },
+  {
+    "id": "rid_987",
+    "question": "On a 100 m track lane 1 runs a shorter curve, lane 8 the outer. How do the starting lines differ in the 100 m race?",
+    "options": [
+      "Lane 8 starts much farther forward",
+      "Lane 1 starts farther forward",
+      "All starting lines are in a straight line and identical",
+      "They are staggered zigzag"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 100 m is pure straight—same start!",
+      "wrong": "Wrong! No curve, no stagger!"
+    }
+  },
+  {
+    "id": "rid_988",
+    "question": "A person easily lifted a 100 kg sack of rice yet could not hold a 10 g feather on the palm for one hour. Why?",
+    "options": [
+      "Feather allergy",
+      "Arm muscles tire from holding horizontal",
+      "Wind blew the feather away",
+      "Static electricity from the feather"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Horizontal arm posture exhausts fast!",
+      "wrong": "Nope! Position, not weight, is the problem!"
+    }
+  },
+  {
+    "id": "rid_989",
+    "question": "An apple tree has ten apples. Strong wind knocks four down; a magpie pecks two. How many intact apples remain on the tree?",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "0"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! 10 – 4 – 2 = 4 whole ones left!",
+      "wrong": "Wrong! Subtract both fallen and damaged!"
+    }
+  },
+  {
+    "id": "rid_990",
+    "question": "Ice cubes float in a glass of water filled to the brim. When the ice melts completely, what happens to the water level?",
+    "options": [
+      "It overflows",
+      "The level drops",
+      "The level stays exactly the same",
+      "Half evaporates"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Archimedes—displaced volume equals melt water!",
+      "wrong": "Nope! Level remains unchanged!"
+    }
+  },
+  {
+    "id": "rid_991",
+    "question": "Ten people in a room each shook hands with every other person once. How many handshakes took place in total?",
+    "options": [
+      "100",
+      "90",
+      "45",
+      "10"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Combinations: (10×9)/2 = 45!",
+      "wrong": "Nope! Each pair counts as one!"
+    }
+  },
+  {
+    "id": "rid_992",
+    "question": "How many times do the hour and minute hands of a clock exactly overlap between noon and midnight?",
+    "options": [
+      "12 times",
+      "11 times",
+      "10 times",
+      "24 times"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Only 11 times in 12 hours!",
+      "wrong": "Wrong! Not once every hour!"
+    }
+  },
+  {
+    "id": "rid_993",
+    "question": "A man was lost in a snowstorm on a mountain with a smartphone, yet he could not call 911. Why?",
+    "options": [
+      "Battery was dead",
+      "Gloves prevented touch input",
+      "No cell-signal coverage in the deep mountains",
+      "He forgot the emergency PIN"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! No signal in the wilderness!",
+      "wrong": "Nope! Out of network range!"
+    }
+  },
+  {
+    "id": "rid_994",
+    "question": "A dog is tied with a 5 m rope in the corner of a 10 m × 10 m room. What shape is the area it can freely roam?",
+    "options": [
+      "A full circle",
+      "A quarter-circle (sector)",
+      "A square",
+      "A semicircle"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Walls block three sides—only a quarter!",
+      "wrong": "Wrong! Corner limits it to 90 degrees!"
+    }
+  },
+  {
+    "id": "rid_995",
+    "question": "Two people raced up stairs. One took two steps at a time, the other one step quickly. They arrived at the top together. Is the number of stairs even or odd?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Could be either even or odd",
+      "Impossible to know"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Last single step makes either possible!",
+      "wrong": "Nope! Both parities work!"
+    }
+  },
+  {
+    "id": "rid_996",
+    "question": "A cruise ship hit a reef and began sinking. Passengers in life jackets jumped in, yet some still sank. Why?",
+    "options": [
+      "They wore lead vests instead",
+      "They hugged heavy gold-bar bags",
+      "Seawater is less dense than fresh water",
+      "They didn’t tighten the straps"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Gold outweighed the buoyancy!",
+      "wrong": "Wrong! Extra weight pulled them under!"
+    }
+  },
+  {
+    "id": "rid_997",
+    "question": "Why does white smoke rise from airplane wheels on landing?",
+    "options": [
+      "Brake pads are burning",
+      "Stationary tires hit 200 km/h runway and burn from friction",
+      "Steam from reverse thrust",
+      "Compressed air escaping the tires"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Sudden friction scorches the rubber!",
+      "wrong": "Nope! Instant spin-up burns the tires!"
+    }
+  },
+  {
+    "id": "rid_998",
+    "question": "Which floats on water—a baseball or a tennis ball?",
+    "options": [
+      "The hollow rubber ball",
+      "The baseball",
+      "Both float",
+      "Both sink"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Tennis ball is hollow and floats!",
+      "wrong": "Wrong! Baseball is dense and sinks!"
+    }
+  },
+  {
+    "id": "rid_999",
+    "question": "Tickets numbered 1 to 50 are in a box. Is the chance of drawing a prime higher or lower than drawing a non-prime?",
+    "options": [
+      "Prime higher",
+      "Composite (excluding 1) higher",
+      "Exactly 50-50",
+      "Impossible to tell"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Only 15 primes—composites win!",
+      "wrong": "Nope! Far more non-primes!"
+    }
+  },
+  {
+    "id": "rid_1000",
+    "question": "Two cars faced each other at 60 km/h inside a one-lane one-way tunnel yet never collided. Why?",
+    "options": [
+      "One was reversing",
+      "They entered opposite ends and stopped",
+      "One was being towed",
+      "They were actually traveling the same direction"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Rear of one faces front of the other—same way!",
+      "wrong": "Wrong! Normal one-way traffic!"
+    }
+  },
+  {
+    "id": "rid_1001",
+    "question": "On a clear day a pedestrian stopped at a crosswalk even though the light was green. Why?",
+    "options": [
+      "It was the vehicle signal that was green",
+      "The bulb was broken",
+      "He was staring at his phone",
+      "Sudden leg cramp"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Vehicle green means pedestrian red!",
+      "wrong": "Nope! Wrong signal set!"
+    }
+  },
+  {
+    "id": "rid_1002",
+    "question": "A woman wanted to go from floor 15 to floor 1, but the elevator had no “1” button. How did she reach the ground floor?",
+    "options": [
+      "Pressed the emergency button",
+      "Pressed “G” or “L”",
+      "Took the stairs",
+      "Called the front desk"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! G or L stands for ground/lobby!",
+      "wrong": "Wrong! Western labeling uses G/L!"
+    }
+  },
+  {
+    "id": "rid_1003",
+    "question": "A baseball and a soccer ball are dropped together from the same height inside a vacuum tube. Which hits the floor first?",
+    "options": [
+      "The heavier baseball",
+      "The larger soccer ball",
+      "Both at the same time",
+      "The bouncing soccer ball"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! No air resistance—identical acceleration!",
+      "wrong": "Nope! Mass doesn’t matter in vacuum!"
+    }
+  },
+  {
+    "id": "rid_1004",
+    "question": "A person needed to cross a river whose bridge was broken. He couldn’t swim and had no boat, yet crossed in one minute. How?",
+    "options": [
+      "It was mid-winter and the river was frozen solid",
+      "He long-jumped after a run-up",
+      "He rode a zip-line",
+      "He floated on a passing log"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Walked across the ice!",
+      "wrong": "Wrong! Season provided the bridge!"
+    }
+  },
+  {
+    "id": "rid_1005",
+    "question": "A car’s headlights were both out on a dark night road, yet the driver stopped exactly before a black-clad pedestrian. How did he see him?",
+    "options": [
+      "Wore night-vision goggles",
+      "Pedestrian wore a reflective vest",
+      "Streetlights brightly lit the road",
+      "Pedestrian waved a phone light"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Streetlights were on!",
+      "wrong": "Nope! Ambient lighting saved him!"
+    }
+  },
+  {
+    "id": "rid_1006",
+    "question": "A 1 kg steel ball and a 1 kg cotton ball are placed on a balance scale in ordinary air. Which side goes down?",
+    "options": [
+      "Cotton side",
+      "Steel side",
+      "Perfectly level",
+      "Impossible to tell"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Cotton gets more buoyancy—steel wins!",
+      "wrong": "Wrong! Air buoyancy tips the steel!"
+    }
+  },
+  {
+    "id": "rid_1007",
+    "question": "I winked at my face in the mirror. Which eye did the mirror-me close?",
+    "options": [
+      "The opposite eye",
+      "The same-side eye",
+      "Both eyes",
+      "Neither eye"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Mirror shows the same-side eye!",
+      "wrong": "Nope! Front-back reflection, not left-right swap!"
+    }
+  },
+  {
+    "id": "rid_1008",
+    "question": "A thief swung a hammer hard at a jewelry-store window yet the glass didn’t even crack. Why?",
+    "options": [
+      "It was bullet-proof glass",
+      "The sliding window was already open—he hit empty air",
+      "The hammer was rubber",
+      "He swung and missed"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Window was open—empty space!",
+      "wrong": "Wrong! He struck thin air!"
+    }
+  },
+  {
+    "id": "rid_1009",
+    "question": "Why does a marathon runner’s heart keep beating nonstop for the entire 42.195 km?",
+    "options": [
+      "Special marathon heart training",
+      "Autonomic nerves keep it beating without conscious will",
+      "Constant energy-drink intake",
+      "Leg muscles help the heart"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Involuntary muscle—runs on its own!",
+      "wrong": "Nope! Autonomic system never stops!"
+    }
+  },
+  {
+    "id": "rid_1010",
+    "question": "Three people were talking in a room. Someone opened the door and said, “Only two people here?” What happened?",
+    "options": [
+      "One was hiding in the closet",
+      "One was a newborn baby",
+      "One was invisible",
+      "One was a mirror reflection"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Two adults plus a baby in arms!",
+      "wrong": "Wrong! Baby isn’t counted as a ‘person’ at a glance!"
+    }
+  },
+  {
+    "id": "rid_1011",
+    "question": "Why does a little dust still enter a car on a dirt road even with all windows closed?",
+    "options": [
+      "Through the under-body air vents",
+      "Missing rubber seals on the glass",
+      "Dirt from the driver’s shoes",
+      "Torn air-conditioner filter"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Cabin pressure vents suck in dust!",
+      "wrong": "Nope! Bottom vents are the path!"
+    }
+  },
+  {
+    "id": "rid_1012",
+    "question": "A hunter pulled the trigger on a tiger; the bullet went straight through its forehead yet the tiger didn’t bleed and stayed fine. Why?",
+    "options": [
+      "Tiger wore a bullet-proof vest",
+      "It was a stuffed model",
+      "The gun was a tranquilizer",
+      "He pressed a camera shutter"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! He ‘shot’ with a camera!",
+      "wrong": "Wrong! Language trick—photo shoot!"
+    }
+  },
+  {
+    "id": "rid_1013",
+    "question": "Glue was spread thinly between two sheets of paper and pressed. One second later they would not separate. What adhesive was used?",
+    "options": [
+      "White glue",
+      "Instant adhesive (cyanoacrylate)",
+      "Double-sided tape",
+      "Rice paste"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Super-glue cures in seconds!",
+      "wrong": "Nope! Instant adhesive hardens fast!"
+    }
+  },
+  {
+    "id": "rid_1014",
+    "question": "A diver jumped from a 100 m cliff into the sea and was unhurt on impact. Why?",
+    "options": [
+      "Perfect knife-entry angle",
+      "Giant bubble curtain below",
+      "He wore a bungee cord",
+      "Water surface tension was weak"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Bungee rope stopped the fall!",
+      "wrong": "Wrong! Safety line, not free dive!"
+    }
+  },
+  {
+    "id": "rid_1015",
+    "question": "Canned drinks are placed in an ice-filled cooler for 10 minutes. What cools them fastest?",
+    "options": [
+      "Cover the cooler with a blanket",
+      "Add plenty of salt and water to the ice",
+      "Turn the cans upside-down",
+      "Place dry ice beside them"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Salt lowers freezing point—super chill!",
+      "wrong": "Nope! Brine contact speeds cooling!"
+    }
+  },
+  {
+    "id": "rid_1016",
+    "question": "Why is looking at moss on tree trunks not always a reliable way to find north when lost in the woods?",
+    "options": [
+      "Moss grows anywhere that is damp and shady",
+      "Compass magnetism disturbs the moss",
+      "Birds peck the moss away",
+      "Moss grows toward sunlight"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Shade and moisture, not direction!",
+      "wrong": "Wrong! Can grow on any side!"
+    }
+  },
+  {
+    "id": "rid_1017",
+    "question": "Wristwatch second hands either jump once per second (quartz) or sweep smoothly (mechanical). Which type uses a battery?",
+    "options": [
+      "Mostly the jumping quartz watches",
+      "The smooth mechanical watches",
+      "Both use batteries",
+      "Both use mainsprings"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Quartz steps to save battery power!",
+      "wrong": "Nope! Jumping ones are battery-powered!"
+    }
+  },
+  {
+    "id": "rid_1018",
+    "question": "Riding a bicycle down a steep hill, if you squeeze only the front brake hard, what happens?",
+    "options": [
+      "Rear wheel lifts and you flip forward (endo)",
+      "Bike stops instantly in place",
+      "Tires skid sideways and you fall",
+      "Chain comes off"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Weight shifts forward—over the bars!",
+      "wrong": "Wrong! Front-only brake = flip!"
+    }
+  },
+  {
+    "id": "rid_1019",
+    "question": "When rain falls in the middle of the ocean, what happens to the surface salinity?",
+    "options": [
+      "It drops temporarily (fresh water mixes in)",
+      "Seawater absorbs the rain and becomes saltier",
+      "Currents keep it unchanged",
+      "Foam turns the surface white"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Fresh rain dilutes the surface!",
+      "wrong": "Nope! Surface gets fresher for a while!"
+    }
+  },
+  {
+    "id": "rid_1020",
+    "question": "Someone photographed the Big Dipper at night with a smartphone, yet no stars appeared in the picture. Why?",
+    "options": [
+      "Exposure time was far too short (not enough light)",
+      "Lens filter blocked ultraviolet",
+      "Flash fired and blinded the sensor",
+      "Touch focus was wrong"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Need long exposure for faint stars!",
+      "wrong": "Wrong! Shutter was too fast!"
+    }
+  },
+  {
+    "id": "rid_1021",
+    "question": "If you leave a fan running for 10 hours in a sealed room, what happens to the room temperature?",
+    "options": [
+      "It gradually cools from the breeze",
+      "It rises because of the motor’s electrical heat",
+      "Temperature stays exactly the same",
+      "Humidity drops and it feels more comfortable"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! The motor turns electricity into heat!",
+      "wrong": "Nope! Fans don’t cool the air—they warm it!"
+    }
+  },
+  {
+    "id": "rid_1022",
+    "question": "Why do snack bags puff up as an airplane climbs to high altitude?",
+    "options": [
+      "Cabin temperature rises sharply",
+      "Outside air pressure drops so the air inside expands",
+      "Nitrogen in the snacks reacts chemically",
+      "Engine vibration inflates them"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Lower outside pressure lets the bag expand!",
+      "wrong": "Wrong! It’s pure pressure difference!"
+    }
+  },
+  {
+    "id": "rid_1023",
+    "question": "Rubbing the rim of a water-filled glass with a wet finger produces a clear ringing tone. What is the principle?",
+    "options": [
+      "Micro-vibrations of the glass from fingerprint friction",
+      "Water boiling from finger heat",
+      "Static discharge at the fingertip",
+      "Air swirling inside the glass"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Stick-slip friction makes the glass sing!",
+      "wrong": "Nope! Friction-driven vibration is the key!"
+    }
+  },
+  {
+    "id": "rid_1024",
+    "question": "In a completely dark room, roughly how long does it take for the whole room to brighten after you flip a fluorescent switch?",
+    "options": [
+      "1 second",
+      "Instantly (speed of light)",
+      "0.5 seconds",
+      "5 seconds"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Light travels so fast you never notice!",
+      "wrong": "Wrong! Speed of light is effectively instant indoors!"
+    }
+  },
+  {
+    "id": "rid_1025",
+    "question": "On the roof of a 100-story skyscraper, time flows a tiny bit faster than on the ground floor. Why, according to relativity?",
+    "options": [
+      "Farther from Earth’s center, gravity is weaker",
+      "Stronger wind makes clocks run faster",
+      "Lower temperature speeds atomic vibration",
+      "Less air resistance"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "Kahaha! Weaker gravity means less time dilation!",
+      "wrong": "Nope! General relativity: height = faster clocks!"
+    }
   }
 ]

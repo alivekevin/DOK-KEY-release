@@ -8728,5 +8728,2255 @@
       "correct": "答对了！带着小狗托托寻找回家之路的正是《绿野仙踪》的多萝西！",
       "wrong": "不对哦！想想穿着红宝石鞋沿着黄砖路寻找伟大魔法师的堪萨斯少女吧。"
     }
+  },
+  {
+    "id": "rid_901",
+    "question": "兔子和乌龟赛跑，兔子一路全力冲刺、连觉都没睡。为什么先到终点的却是乌龟？",
+    "options": [
+      "兔子走错了路",
+      "乌龟偷偷抄了近道",
+      "那其实是游泳比赛",
+      "兔子腿抽筋了"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！水里可是乌龟的天下！",
+      "wrong": "错啦！关键在比赛项目本身！"
+    }
+  },
+  {
+    "id": "rid_902",
+    "question": "篮子里有五个苹果，我拿走了三个。我手里有几个苹果？",
+    "options": [
+      "2个",
+      "3个",
+      "5个",
+      "0个"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！拿走的三个就在手里！",
+      "wrong": "错啦！问的是手里的，不是篮子里的！"
+    }
+  },
+  {
+    "id": "rid_903",
+    "question": "北极熊和企鹅在冰面上相遇，北极熊会吃掉企鹅吗？",
+    "options": [
+      "企鹅游走逃走",
+      "北极熊一口吃掉",
+      "根本不可能相遇",
+      "企鹅群反击赶走它"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！一个北极一个南极，永远见不着！",
+      "wrong": "错啦！住的地方完全不同！"
+    }
+  },
+  {
+    "id": "rid_904",
+    "question": "白天绝对看不见，晚上一下雨就消失的星星是什么？",
+    "options": [
+      "北极星",
+      "牛郎织女星",
+      "天上的星星",
+      "眼珠里的星"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！普通的夜空星星啊！",
+      "wrong": "错啦！不是特殊的星，是普通星星！"
+    }
+  },
+  {
+    "id": "rid_905",
+    "question": "下着倾盆大雨，一个人没带伞也没戴帽子走路，头发却一根都没湿。为什么？",
+    "options": [
+      "只走在屋檐下",
+      "喷了防水喷雾",
+      "是个没有头发的秃头",
+      "跑得比雨还快"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！根本没有头发可湿！",
+      "wrong": "错啦！关键是没有头发！"
+    }
+  },
+  {
+    "id": "rid_906",
+    "question": "公交车司机在单行道逆向行驶还闯红灯。警察明明看见却没抓他。为什么？",
+    "options": [
+      "警察在看别处",
+      "正在运送急诊病人",
+      "他没开车而是在走路",
+      "当时单行限制已解除"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！司机只是在走路！",
+      "wrong": "错啦！别被职业名骗了！"
+    }
+  },
+  {
+    "id": "rid_907",
+    "question": "红房子用红砖建，蓝房子用蓝砖建。那么温室用什么建？",
+    "options": [
+      "绿砖",
+      "隔热砖",
+      "玻璃",
+      "塑料膜"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！颜色是陷阱，用玻璃！",
+      "wrong": "错啦！不是绿色材料！"
+    }
+  },
+  {
+    "id": "rid_908",
+    "question": "有的月份有31天，有的有30天。那么有28天的月份有几个？",
+    "options": [
+      "只有1个（二月）",
+      "闰年的1个",
+      "12个（所有月份）",
+      "7个"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！每个月都有28号！",
+      "wrong": "错啦！十二个月全都有！"
+    }
+  },
+  {
+    "id": "rid_909",
+    "question": "赛跑中你超过了跑在第二位的选手。你现在是第几名？",
+    "options": [
+      "第一名",
+      "第二名",
+      "第三名",
+      "并列第一"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！超过第二就变成第二了！",
+      "wrong": "错啦！不是超过第一！"
+    }
+  },
+  {
+    "id": "rid_910",
+    "question": "飞机正好坠毁在韩日边境线上。幸存者应该埋在哪个国家？",
+    "options": [
+      "出发国韩国",
+      "到达国日本",
+      "边境共同墓地",
+      "不该埋葬"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！活人怎么能埋！",
+      "wrong": "错啦！“幸存者”才是关键！"
+    }
+  },
+  {
+    "id": "rid_911",
+    "question": "电动火车以时速100公里向北行驶，风从南边吹来。火车的烟往哪边飘？",
+    "options": [
+      "南边",
+      "北边",
+      "没风的那边",
+      "根本没有烟"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！电动火车不冒烟！",
+      "wrong": "错啦！前提就错了——没烟！"
+    }
+  },
+  {
+    "id": "rid_912",
+    "question": "旧约圣经里摩西把每种动物带上了方舟几对？",
+    "options": [
+      "1对",
+      "7对",
+      "0对（0只）",
+      "2对"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！方舟是诺亚造的，不是摩西！",
+      "wrong": "错啦！人物搞错了！"
+    }
+  },
+  {
+    "id": "rid_913",
+    "question": "从十层楼屋顶扔生鸡蛋，怎样才能不让水泥地裂开？",
+    "options": [
+      "给鸡蛋包缓冲材料",
+      "挂上降落伞",
+      "直接扔下去",
+      "地上铺床垫"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！鸡蛋砸不裂水泥地！",
+      "wrong": "错啦！地根本不会裂！"
+    }
+  },
+  {
+    "id": "rid_914",
+    "question": "一个农夫有十七只羊，除了九只以外全病死了。还剩几只羊？",
+    "options": [
+      "8只",
+      "9只",
+      "0只",
+      "17只"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！“除了九只”就是剩九只！",
+      "wrong": "错啦！关键在“除了”二字！"
+    }
+  },
+  {
+    "id": "rid_915",
+    "question": "球棒和球一共11000韩元。球棒比球贵10000韩元。球多少钱？",
+    "options": [
+      "1000韩元",
+      "500韩元",
+      "100韩元",
+      "2000韩元"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！500加10500正好11000！",
+      "wrong": "错啦！经典计算陷阱！"
+    }
+  },
+  {
+    "id": "rid_916",
+    "question": "树上挂着苹果。摘完后树上没有苹果，手里也没有。怎么回事？",
+    "options": [
+      "掉到地上了",
+      "立刻全吃了",
+      "有两个，只摘了一个",
+      "被别人抢走了"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！复数语言游戏！",
+      "wrong": "错啦！“苹果们”没了就对了！"
+    }
+  },
+  {
+    "id": "rid_917",
+    "question": "方桌四个角，用锯子把一个角切平。还剩几个角？",
+    "options": [
+      "3个",
+      "4个",
+      "5个",
+      "6个"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！切面会多出两个角，共五个！",
+      "wrong": "错啦！角是增加的！"
+    }
+  },
+  {
+    "id": "rid_918",
+    "question": "同一母亲同一天同一时刻生下的两个男孩，父母也相同。为什么不是双胞胎？",
+    "options": [
+      "户籍上是领养关系",
+      "在有时差的国家出生",
+      "是三胞胎或更多中的两个",
+      "医生误诊"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！三胞胎以上中的两个！",
+      "wrong": "错啦！不止两个也能同日生！"
+    }
+  },
+  {
+    "id": "rid_919",
+    "question": "从山上扔的石头会往下掉。在宇宙正中央轻轻松开石头，它会去哪？",
+    "options": [
+      "往地球方向掉",
+      "飞向太阳",
+      "就停在原地飘着",
+      "被最近的行星吸走"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！失重状态，原地不动！",
+      "wrong": "错啦！没有力就不会动！"
+    }
+  },
+  {
+    "id": "rid_920",
+    "question": "一个挖好的坑深3米、宽2米、长2米。坑里有多少土？",
+    "options": [
+      "12立方米",
+      "6立方米",
+      "0立方米（完全没有）",
+      "1立方米"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！坑是空的，没有土！",
+      "wrong": "错啦！土早就挖走了！"
+    }
+  },
+  {
+    "id": "rid_921",
+    "question": "下着倾盆大雨，开敞篷车的司机衣服却一点没湿。为什么？",
+    "options": [
+      "穿了透明雨衣",
+      "开得比雨快",
+      "正开在长隧道里",
+      "衣服有特殊防水涂层"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！隧道顶挡住了雨！",
+      "wrong": "错啦！人在隧道里啊！"
+    }
+  },
+  {
+    "id": "rid_922",
+    "question": "每天慢10分钟的表和一只停摆的表，24小时内哪个指对时间更多？",
+    "options": [
+      "慢10分钟的表",
+      "一样多",
+      "完全停住的表",
+      "无法判断"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！停表一天对两次！",
+      "wrong": "错啦！慢表几乎从不对！"
+    }
+  },
+  {
+    "id": "rid_923",
+    "question": "医生让病人每30分钟吃一粒药，共开了三粒。全部吃完需要多久？",
+    "options": [
+      "1小时30分",
+      "1小时",
+      "45分",
+      "2小时"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！0分、30分、60分，正好一小时！",
+      "wrong": "错啦！只要两个间隔！"
+    }
+  },
+  {
+    "id": "rid_924",
+    "question": "鱼缸里有十条金鱼。三条淹死，两条逃走。鱼缸里还剩几条？",
+    "options": [
+      "5条",
+      "7条",
+      "10条",
+      "8条"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！鱼不会淹死也逃不出去，还是十条！",
+      "wrong": "错啦！两件事都不可能发生！"
+    }
+  },
+  {
+    "id": "rid_925",
+    "question": "两个男人下了五盘棋。没有平局，两人却都赢了三盘。怎么回事？",
+    "options": [
+      "有人作弊",
+      "争议后都判赢",
+      "各自和其他人下的",
+      "奇数盘规则"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！他们根本没互相对弈！",
+      "wrong": "错啦！各自找了别的对手！"
+    }
+  },
+  {
+    "id": "rid_926",
+    "question": "住在20层公寓的人从窗户跳下去，却毫发无伤。怎么回事？",
+    "options": [
+      "下面有消防气垫",
+      "打开了降落伞",
+      "从一楼窗户跳的",
+      "被树枝挂住减速了"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！住20层，跳的是1层！",
+      "wrong": "错啦！居住层≠起跳层！"
+    }
+  },
+  {
+    "id": "rid_927",
+    "question": "即使是天下第一大力士，也绝对举不过一分钟的是什么？",
+    "options": [
+      "与自己体重相等的石头",
+      "200公斤杠铃",
+      "自己的呼吸",
+      "铁哑铃"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！憋气有生理极限！",
+      "wrong": "错啦！不是重物，是呼吸！"
+    }
+  },
+  {
+    "id": "rid_928",
+    "question": "从巴黎埃菲尔铁塔顶栏杆竖直扔下铁球。球最先撞到哪里？",
+    "options": [
+      "塔下的草地",
+      "步行广场地面",
+      "铁塔下部的钢架结构",
+      "塞纳河水面"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！向下变宽的钢架会先接住！",
+      "wrong": "错啦！金字塔结构，到不了地面！"
+    }
+  },
+  {
+    "id": "rid_929",
+    "question": "猎人准确射下树上五只麻雀中的一只。树上还剩几只？",
+    "options": [
+      "4只",
+      "0只",
+      "1只",
+      "3只"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！枪声一响，剩下的全飞了！",
+      "wrong": "错啦！声音把它们吓跑了！"
+    }
+  },
+  {
+    "id": "rid_930",
+    "question": "漆黑的房间里，一位老人深夜在读书。房间完全没有灯光，他怎么能读？",
+    "options": [
+      "眼睛完全适应了黑暗",
+      "书是夜光油墨印刷的",
+      "他是盲人，在读盲文书",
+      "用手机屏幕照着读"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！盲文用手指读，不需要光！",
+      "wrong": "错啦！靠触觉就能读！"
+    }
+  },
+  {
+    "id": "rid_931",
+    "question": "一个美国人一生都在美国土地上出生长大。但他却从未在美国合法投过票。为什么？",
+    "options": [
+      "有犯罪记录",
+      "还只是8岁的小孩",
+      "公民权被剥夺了",
+      "是双重国籍"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！只是还没到投票年龄！",
+      "wrong": "错啦！年龄才是原因！"
+    }
+  },
+  {
+    "id": "rid_932",
+    "question": "警察追小偷追到死胡同，眼睁睁看着他消失了。小偷没有翅膀也没翻墙。怎么消失的？",
+    "options": [
+      "用了隐身斗篷",
+      "打开井盖钻进去了",
+      "警察眨眼了",
+      "其实胡同里根本没有小偷"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！从井盖下去了——别只看墙！",
+      "wrong": "错啦！地面也有出路！"
+    }
+  },
+  {
+    "id": "rid_933",
+    "question": "有个男人连续25天白天一夜没睡，却正常过着日常生活。怎么可能？",
+    "options": [
+      "吃了特殊提神药",
+      "是吉尼斯纪录保持者",
+      "他只在晚上睡觉",
+      "站着打盹"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！白天不睡，晚上正常睡！",
+      "wrong": "错啦！漏了“白天”两个字！"
+    }
+  },
+  {
+    "id": "rid_934",
+    "question": "买某样东西时，做的人不需要所以卖，买的人不用，真正用的人不知道自己在用。这是什么？",
+    "options": [
+      "睡眠眼罩",
+      "棺材",
+      "婴儿尿布",
+      "礼物包装纸"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！棺材——做的人卖，家属买，死人不知道！",
+      "wrong": "错啦！想想最后的盒子！"
+    }
+  },
+  {
+    "id": "rid_935",
+    "question": "哲洙和英姬在同一家餐厅同一时间喝了同样的冰咖啡。英姬一分钟就喝完，哲洙慢慢喝了30分钟。结果只有哲洙中毒了。为什么？",
+    "options": [
+      "只有哲洙的吸管上有毒",
+      "毒在慢慢融化的冰块里",
+      "英姬解毒能力强",
+      "服务员后来偷偷下了毒"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！毒在冰里——喝得快的人没事！",
+      "wrong": "错啦！冰融化才放出毒！"
+    }
+  },
+  {
+    "id": "rid_936",
+    "question": "一位女士没带身份证、钱包、护照，却自由通过了另一个国家的边境，没有任何检查。怎么做到的？",
+    "options": [
+      "有外交豁免权",
+      "躲在偷渡船货舱里",
+      "她是刚出生的婴儿",
+      "两国边境没有铁丝网"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！还在妈妈肚子里或刚在边境出生！",
+      "wrong": "错啦！新生儿不需要证件！"
+    }
+  },
+  {
+    "id": "rid_937",
+    "question": "一艘船上有船长和10名船员。船长在甲板上迈出一步，船就晃了，所有人都掉进海里。可是没有一根头发湿。为什么？",
+    "options": [
+      "全员戴着完全防水的潜水帽",
+      "海水结成了冰面",
+      "船上所有人都是秃头",
+      "爬上救生艇没碰到水"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！全是秃头——没有头发可湿！",
+      "wrong": "错啦！根本没有头发！"
+    }
+  },
+  {
+    "id": "rid_938",
+    "question": "用刀只切三刀，把一个苹果正好切成八块，最正确的方法是？",
+    "options": [
+      "竖着薄薄切三刀",
+      "十字切两刀再水平切一刀",
+      "斜着切三刀",
+      "画好八等分再挖三角"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！三维空间2×2×2！",
+      "wrong": "错啦！要立体切，不是平面！"
+    }
+  },
+  {
+    "id": "rid_939",
+    "question": "一个男人从飞机上跳下来，没有降落伞，却毫发无伤地落地。怎么回事？",
+    "options": [
+      "飞机停在跑道上",
+      "下面有巨大的草堆",
+      "超低空飞行掉进水里",
+      "穿了特殊翼装"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！飞机根本还在地上！",
+      "wrong": "错啦！没起飞呢！"
+    }
+  },
+  {
+    "id": "rid_940",
+    "question": "A和B进行100米赛跑。A到达终点时B在90米处。第二次比赛A从起点后10米出发。如果速度相同，结果如何？",
+    "options": [
+      "同时到达",
+      "还是A赢",
+      "B险胜",
+      "距离相同所以平局"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！最后一段A还是更快！",
+      "wrong": "错啦！速度优势还在！"
+    }
+  },
+  {
+    "id": "rid_941",
+    "question": "无论洗得多干净，越洗越脏的是什么？",
+    "options": [
+      "抹布",
+      "肥皂",
+      "用来洗的水",
+      "毛巾"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！水自己变脏了！",
+      "wrong": "错啦！水承担了脏东西！"
+    }
+  },
+  {
+    "id": "rid_942",
+    "question": "用肉眼看满月和用100倍天文望远镜看，哪个看到的实际尺寸更大？",
+    "options": [
+      "100倍望远镜时",
+      "肉眼时",
+      "两者实际尺寸完全一样",
+      "大气折射让肉眼看起来更大"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！实际物理大小不会变！",
+      "wrong": "错啦！看起来的大小≠真实大小！"
+    }
+  },
+  {
+    "id": "rid_943",
+    "question": "客厅正中放着一个空杯子。这个空杯子最多能装几滴水？",
+    "options": [
+      "按体积算几千滴",
+      "直到表面张力撑住",
+      "正好一滴",
+      "装满为止无限"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！一滴下去就不再是空杯子！",
+      "wrong": "错啦！“空”字就是限制！"
+    }
+  },
+  {
+    "id": "rid_944",
+    "question": "一个男孩用力扔出棒球。球没撞墙、没人碰、也没绑绳子，却准确回到他手里。他怎么扔的？",
+    "options": [
+      "加了强旋转变成曲线球",
+      "垂直向上扔",
+      "像回旋镖一样弧线扔",
+      "逆风扔"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！垂直向上扔，重力会带回来！",
+      "wrong": "错啦！答案就是向上扔！"
+    }
+  },
+  {
+    "id": "rid_945",
+    "question": "两个父亲和两个儿子去钓鱼，每人钓到一条鱼。可是把鱼集中起来只有三条。一条都没丢，为什么是三条？",
+    "options": [
+      "有一个人没钓到",
+      "鱼塘管理员拿走了一条",
+      "是祖父、父亲、孙子三代人",
+      "一条鱼被钓了两次"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！三个人正好构成两个父亲和两个儿子！",
+      "wrong": "错啦！家族代数的计算！"
+    }
+  },
+  {
+    "id": "rid_946",
+    "question": "必须打开一扇沉重的铁门。钥匙串上有10把钥匙，只有一把能开。最多需要试几把钥匙？",
+    "options": [
+      "10把",
+      "9把",
+      "1把",
+      "5把"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！试到第9把不对，第10把一定对！",
+      "wrong": "错啦！不用试第10把！"
+    }
+  },
+  {
+    "id": "rid_947",
+    "question": "奶牛吃草产白牛奶。那么黑山羊吃黑草会产什么颜色的奶？",
+    "options": [
+      "黑色",
+      "浅灰色",
+      "白色",
+      "透明"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！所有哺乳动物的奶都是白色！",
+      "wrong": "错啦！毛色没关系！"
+    }
+  },
+  {
+    "id": "rid_948",
+    "question": "一个密闭房间里充满空气。最快把空气排出房间的方法是？",
+    "options": [
+      "开最大功率的大风扇",
+      "用真空泵吸",
+      "把房间塞满水或家具",
+      "把窗户开得大大的"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！用其他东西把空间占满挤出去！",
+      "wrong": "错啦！填满体积把空气挤走！"
+    }
+  },
+  {
+    "id": "rid_949",
+    "question": "飞机机长飞行中仪表全部失灵，却一分不差精确降落到目的地。他唯一看的是什么？",
+    "options": [
+      "夜空的北极星和星座",
+      "塔台的无线电引导",
+      "跑道的引导灯",
+      "手机指南针应用"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！目视降落——看跑道灯！",
+      "wrong": "错啦！眼睛盯着下面的灯！"
+    }
+  },
+  {
+    "id": "rid_950",
+    "question": "站在南极点拿着指南针，朝北极方向笔直走10公里，再向右转90度走10公里。现在相对南极点在哪个方向？",
+    "options": [
+      "东",
+      "北方",
+      "东南",
+      "西"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！从南极点出发任何方向都是北！",
+      "wrong": "错啦！你还在南极点的北边！"
+    }
+  },
+  {
+    "id": "rid_951",
+    "question": "一个学生完全没复习就去考试，交了白卷却得了100分。怎么回事？",
+    "options": [
+      "老师改错分了",
+      "是视力表考试",
+      "和别的学生试卷换了",
+      "全是口试"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！看视力表念字母就行！",
+      "wrong": "错啦！不用写字的考试！"
+    }
+  },
+  {
+    "id": "rid_952",
+    "question": "谁能完全浸在水里却不湿身体还能呼吸？",
+    "options": [
+      "海女",
+      "坐在潜水艇里的船员",
+      "游泳运动员",
+      "水肺潜水员"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！潜水艇里面是干的！",
+      "wrong": "错啦！船壳把水隔开了！"
+    }
+  },
+  {
+    "id": "rid_953",
+    "question": "两个人连续玩了10次石头剪刀布，都只出石头，10次全平。他们伸出的手指总数是多少？",
+    "options": [
+      "0根",
+      "100根",
+      "50根",
+      "20根"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！石头是握拳，手指全收着——0根！",
+      "wrong": "错啦！拳头没有伸出的手指！"
+    }
+  },
+  {
+    "id": "rid_954",
+    "question": "有个人每天给几十人刮胡子，自己脸上却留着浓密的胡子。他的职业是？",
+    "options": [
+      "剃须刀厂质检员",
+      "理发师",
+      "特效化妆师",
+      "皮肤科医生"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！理发师——给别人刮，自己留！",
+      "wrong": "错啦！经典理发师谜语！"
+    }
+  },
+  {
+    "id": "rid_955",
+    "question": "无论扔多远，总会回到自己身上的身体部位是？",
+    "options": [
+      "头发",
+      "指甲",
+      "口水",
+      "目光（视线）"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！“扔个眼神”马上就回来！",
+      "wrong": "错啦！语言游戏——你的视线！"
+    }
+  },
+  {
+    "id": "rid_956",
+    "question": "高速公路上汽车四个轮胎中有一个爆了。可司机却以正常速度顺利到达目的地。怎么可能？",
+    "options": [
+      "是防爆轮胎",
+      "后备箱里的备胎爆了",
+      "用三个轮子保持平衡开",
+      "被拖车拖着走"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！爆的是没用的备胎！",
+      "wrong": "错啦！正在用的轮胎没事！"
+    }
+  },
+  {
+    "id": "rid_957",
+    "question": "一个装满水的桶。往里面放了一样东西后，总重量反而变轻了。放了什么？",
+    "options": [
+      "氦气球",
+      "一个洞",
+      "干冰",
+      "海绵"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！打了个洞，水漏出去就轻了！",
+      "wrong": "错啦！洞让水逃走！"
+    }
+  },
+  {
+    "id": "rid_958",
+    "question": "每天早上全世界几亿人同时做的事情是什么？",
+    "options": [
+      "刷牙",
+      "看手机",
+      "睁开眼睛（醒来）",
+      "打哈欠"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！早上第一件事——睁眼！",
+      "wrong": "错啦！醒来是共同的！"
+    }
+  },
+  {
+    "id": "rid_959",
+    "question": "船在大海中间翻了。等待救援时绝对不能喝海水的真正原因是？",
+    "options": [
+      "盐分太高会更快脱水",
+      "鲨鱼会闻血味赶来",
+      "会拉肚子肚子疼",
+      "体温会急剧下降"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！盐会把细胞里的水吸走！",
+      "wrong": "错啦！渗透压让人更渴！"
+    }
+  },
+  {
+    "id": "rid_960",
+    "question": "病人对医生说：“全身都痛。摸头也痛，摸腿也痛。”医生的诊断是？",
+    "options": [
+      "全身神经痛",
+      "纤维肌痛",
+      "手指骨折",
+      "装病"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！用来摸的手指骨折了！",
+      "wrong": "错啦！痛的是正在按的手指！"
+    }
+  },
+  {
+    "id": "rid_961",
+    "question": "把东西往上扔一定会掉下来。但往下扔也会往上弹起的是什么？",
+    "options": [
+      "铁球",
+      "橡胶球（弹力球）",
+      "羽毛",
+      "纸飞机"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！弹力让橡胶球弹起来！",
+      "wrong": "错啦！想弹跳的东西！"
+    }
+  },
+  {
+    "id": "rid_962",
+    "question": "中午12点整下着倾盆大雨。正好72小时后阳光灿烂的概率是多少？",
+    "options": [
+      "50%（气象预报）",
+      "100%",
+      "0%（因为是半夜）",
+      "25%"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！72小时后是午夜——没太阳！",
+      "wrong": "错啦！三天后正好半夜！"
+    }
+  },
+  {
+    "id": "rid_963",
+    "question": "一个孩子看到红灯停在斑马线前。后面的盲人没看信号灯却正好在绿灯时过了马路。他怎么知道的？",
+    "options": [
+      "导盲犬分辨了信号颜色",
+      "听了行人过街提示音",
+      "听周围人的脚步声",
+      "靠汽车喇叭判断"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！提示音告诉他的！",
+      "wrong": "错啦！用耳朵听的！"
+    }
+  },
+  {
+    "id": "rid_964",
+    "question": "在黑暗房间里点上蜡烛照镜子。镜子里的我为什么用右手拿着蜡烛？",
+    "options": [
+      "镜子曲率变形",
+      "因为我实际用左手拿着",
+      "光的折射现象",
+      "镜中像旋转了180度"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！左手在镜子里变成右手！",
+      "wrong": "错啦！实际是左手拿的！"
+    }
+  },
+  {
+    "id": "rid_965",
+    "question": "时速300公里的KTX车厢里，一只苍蝇停在空中飞。苍蝇相对地面的实际速度是？",
+    "options": [
+      "时速0公里（原地飞）",
+      "时速300公里（和火车一样）",
+      "时速10公里（苍蝇飞速）",
+      "时速310公里"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！整团空气和火车一起动！",
+      "wrong": "错啦！对地速度就是火车速度！"
+    }
+  },
+  {
+    "id": "rid_966",
+    "question": "从1到100的数字中，数字“9”一共出现几次？",
+    "options": [
+      "10次",
+      "11次",
+      "19次",
+      "20次"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！个位10次、十位10次，共20次！",
+      "wrong": "错啦！别忘了99里的两个9！"
+    }
+  },
+  {
+    "id": "rid_967",
+    "question": "一个人走路时脚下发现一张1亿韩元支票。为什么不捡反而用脚踢开？",
+    "options": [
+      "是毫无金钱欲的高人",
+      "是过期空头支票",
+      "足球上贴着1亿韩元贴纸",
+      "以为是被风吹来的垃圾"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！只是球上的贴纸！",
+      "wrong": "错啦！不是真支票！"
+    }
+  },
+  {
+    "id": "rid_968",
+    "question": "冰面上放重铁球和轻乒乓球用力吹气。假设摩擦力为零，哪个滚得更远？",
+    "options": [
+      "乒乓球",
+      "铁球",
+      "两个都永远不停地滚",
+      "因为空气阻力铁球"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！零摩擦下两个都永远运动！",
+      "wrong": "错啦！惯性让它们一直滚！"
+    }
+  },
+  {
+    "id": "rid_969",
+    "question": "棒球中击球手不挥棒也能上一垒的方法是？",
+    "options": [
+      "捕手漏接第三好球（不死三振）",
+      "投手犯规（Balk）",
+      "触身球或四坏球",
+      "被判妨碍打击"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！四坏球或触身球就行！",
+      "wrong": "错啦！不用挥棒也能进垒！"
+    }
+  },
+  {
+    "id": "rid_970",
+    "question": "哲洙家屋顶的苹果树树枝伸到邻居院子并结了果。这些苹果法律上属于谁？",
+    "options": [
+      "掉下的邻居，挂着的哲洙",
+      "树枝越界所以是邻居的",
+      "根种在哲洙家所以是哲洙的",
+      "谁先捡是谁的"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！果实归树根主人！",
+      "wrong": "错啦！看根在谁家！"
+    }
+  },
+  {
+    "id": "rid_971",
+    "question": "夜里走过路灯，越靠近路灯自己的影子长度怎么变？",
+    "options": [
+      "越来越长",
+      "越来越短",
+      "不变",
+      "完全消失"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！越近影子越短！",
+      "wrong": "错啦！入射角越来越垂直！"
+    }
+  },
+  {
+    "id": "rid_972",
+    "question": "男孩站在挂在船上的梯子第十级。波浪让海水上涨两级，男孩现在站在第几级？",
+    "options": [
+      "第八级台阶",
+      "第十二级台阶",
+      "第十级台阶",
+      "第零级（被淹）"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！梯子随船上升，还是第十级！",
+      "wrong": "错啦！船和梯子一起浮！"
+    }
+  },
+  {
+    "id": "rid_973",
+    "question": "一位客人进餐厅只喝了一碗萝卜块汤汁，饭都没动。为什么？",
+    "options": [
+      "正在萝卜汤汁减肥",
+      "想把汤汁倒进牛骨汤里吃",
+      "太辣吃不下饭",
+      "只尝汤汁判断是不是好店"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！经典操作——倒进汤里！",
+      "wrong": "错啦！韩国人吃汤的习惯！"
+    }
+  },
+  {
+    "id": "rid_974",
+    "question": "在完全结冰的汉江上让船浮起来最快的方法是？",
+    "options": [
+      "用破冰船破冰前进",
+      "直接把船放在冰上",
+      "用热风机融化冰",
+      "等到春天"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！直接放在冰上就行！",
+      "wrong": "错啦！不用融化！"
+    }
+  },
+  {
+    "id": "rid_975",
+    "question": "走在漆黑的夜路上，没有路灯也没有月亮。前面的人却没被石头绊倒。为什么？",
+    "options": [
+      "用了红外夜视镜",
+      "白天走过那条路",
+      "开着手机手电筒走",
+      "用盲人手杖探路"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！手机灯光照路！",
+      "wrong": "错啦！简单的手电筒就够！"
+    }
+  },
+  {
+    "id": "rid_976",
+    "question": "在没有路肩的狭窄独木桥上相遇的两个人互不让路却安全走过。怎么可能？",
+    "options": [
+      "一个人潜进水里",
+      "两人都朝同一方向走",
+      "独木桥空中有两层",
+      "一个人背着另一个人过"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！同方向就不用错身！",
+      "wrong": "错啦！他们不是迎面走来的！"
+    }
+  },
+  {
+    "id": "rid_977",
+    "question": "某种动物从生到死从不喝水却能健康活一辈子，原因是？",
+    "options": [
+      "体内能合成水分的突变",
+      "只舔露水",
+      "食物（仙人掌、草、种子）里的水分就够",
+      "吃土代替水"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！食物水分加代谢水就够！",
+      "wrong": "错啦！沙漠动物从食物取水！"
+    }
+  },
+  {
+    "id": "rid_978",
+    "question": "电梯限载“成人10人（共700公斤）”。8个成人（共550公斤）上了却超载报警门关不上。为什么？",
+    "options": [
+      "传感器零点校准失败",
+      "其中一人拿着沉重的铁件货物",
+      "乘客中藏着小孩",
+      "地板弹簧老化"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！货物重量超了！",
+      "wrong": "错啦！行李也算重量！"
+    }
+  },
+  {
+    "id": "rid_979",
+    "question": "白天走森林小路，自己的影子长长地投在前面。我现在朝哪个方向走？",
+    "options": [
+      "太阳升起的方向",
+      "背对太阳的方向",
+      "正南",
+      "正北"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！影子在前说明太阳在后！",
+      "wrong": "错啦！光源在背后！"
+    }
+  },
+  {
+    "id": "rid_980",
+    "question": "三层楼房：一楼客厅、二楼卧室、三楼阁楼。楼梯一到二15级，二到三15级。从一楼到三楼要踩多少级？",
+    "options": [
+      "30级",
+      "15级",
+      "45级",
+      "29级"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！15+15=30级！",
+      "wrong": "错啦！两段都要走！"
+    }
+  },
+  {
+    "id": "rid_981",
+    "question": "有人坐渡船过河。除了船夫没有其他乘客，船却在河中央沉了。为什么？",
+    "options": [
+      "船底有洞",
+      "船夫体重500公斤",
+      "撞上水下暗礁",
+      "装了满满的重货"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！不是乘客，是货物超载！",
+      "wrong": "错啦！货物超重了！"
+    }
+  },
+  {
+    "id": "rid_982",
+    "question": "两根蜡烛：一根粗又长，一根细又短。同时点燃又同时吹灭，哪根烧得更久？",
+    "options": [
+      "粗又长的",
+      "细又短的",
+      "两根烧的时间完全一样",
+      "无法判断"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！同时点同时灭，时间一样！",
+      "wrong": "错啦！问的是燃烧时间，不是剩余寿命！"
+    }
+  },
+  {
+    "id": "rid_983",
+    "question": "一个男人打开自家卧室窗户水平开枪，对面公寓10楼的玻璃碎了。子弹没有向上飞，怎么回事？",
+    "options": [
+      "风强烈向上吹",
+      "子弹是折射弹",
+      "他自己的卧室也是10楼",
+      "玻璃反射了激光"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！他自己家也是同样高度的10楼！",
+      "wrong": "错啦！两栋都是高楼！"
+    }
+  },
+  {
+    "id": "rid_984",
+    "question": "桌上有一本书正面朝下，封面贴着桌面。那么书的“封底”朝向哪里？",
+    "options": [
+      "天花板",
+      "地板",
+      "书桌抽屉里",
+      "书的内页"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！封面朝下，封底就朝上！",
+      "wrong": "错啦！对面朝天花板！"
+    }
+  },
+  {
+    "id": "rid_985",
+    "question": "沉到世界最深的马里亚纳海沟底部的玻璃瓶里装的是什么？",
+    "options": [
+      "超高压海水",
+      "真空空气",
+      "海水",
+      "碎玻璃"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！开口瓶子就装满周围海水！",
+      "wrong": "错啦！普通海水填满它！"
+    }
+  },
+  {
+    "id": "rid_986",
+    "question": "开车进入隧道时开前灯的主要原因是？",
+    "options": [
+      "照亮前方道路",
+      "让对方车辆看到自己的位置",
+      "防止电瓶没电",
+      "触发隧道传感器"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！让别人看见自己！",
+      "wrong": "错啦！提高可见性是关键！"
+    }
+  },
+  {
+    "id": "rid_987",
+    "question": "100米跑道1道弯道短、8道在外侧。100米比赛起跑线位置有什么不同？",
+    "options": [
+      "8道起跑线大幅靠前",
+      "1道起跑线靠前",
+      "所有道起跑线都在同一直线上相同",
+      "呈之字形排列"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！100米全是直线，起跑线一样！",
+      "wrong": "错啦！没有弯道就没有错位！"
+    }
+  },
+  {
+    "id": "rid_988",
+    "question": "有人轻松举起100公斤米袋，却无法把10克羽毛放在手掌上坚持一小时。为什么？",
+    "options": [
+      "对羽毛过敏",
+      "手臂水平姿势会肌肉疲劳发麻",
+      "风把羽毛吹走了",
+      "羽毛的静电"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！水平举臂姿势很快累！",
+      "wrong": "错啦！不是重量，是姿势问题！"
+    }
+  },
+  {
+    "id": "rid_989",
+    "question": "苹果树上有十个苹果。大风吹落四个，喜鹊啄吃两个。树上还剩几个完整的苹果？",
+    "options": [
+      "6个",
+      "4个",
+      "10个",
+      "0个"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！10－4－2＝4个完整的！",
+      "wrong": "错啦！减去掉下的和被啄的！"
+    }
+  },
+  {
+    "id": "rid_990",
+    "question": "水杯里放冰块，水几乎要溢出来。冰块完全融化后水位会怎样？",
+    "options": [
+      "溢出来",
+      "水位下降",
+      "水位保持不变",
+      "蒸发减半"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！阿基米德原理——水位不变！",
+      "wrong": "错啦！排开的体积等于融化的水！"
+    }
+  },
+  {
+    "id": "rid_991",
+    "question": "房间里10个人，每个人都和其他人握了一次手。总共握了多少次手？",
+    "options": [
+      "100次",
+      "90次",
+      "45次",
+      "10次"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！组合公式(10×9)/2＝45次！",
+      "wrong": "错啦！每对只算一次！"
+    }
+  },
+  {
+    "id": "rid_992",
+    "question": "时钟的时针和分针从中午12点到午夜12点之前完全重合多少次？",
+    "options": [
+      "12次",
+      "11次",
+      "10次",
+      "24次"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！12小时里只有11次！",
+      "wrong": "错啦！不是每个小时一次！"
+    }
+  },
+  {
+    "id": "rid_993",
+    "question": "一个男人在暴风雪的雪山里迷路了。手里有智能手机却打不通119。为什么？",
+    "options": [
+      "电池没电了",
+      "戴着手套触控不了",
+      "基站信号覆盖不到的通信盲区",
+      "忘记了紧急通话密码"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！深山里没信号！",
+      "wrong": "错啦！不在服务区！"
+    }
+  },
+  {
+    "id": "rid_994",
+    "question": "10米×10米房间的角落用5米绳子拴着狗。狗能自由活动的区域是什么形状？",
+    "options": [
+      "圆形",
+      "扇形（四分之一圆）",
+      "正方形",
+      "半圆形"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！墙挡住三边，只剩四分之一！",
+      "wrong": "错啦！角落只能90度！"
+    }
+  },
+  {
+    "id": "rid_995",
+    "question": "两人比赛爬楼梯。一人一次两级，另一人一级一级快速爬。两人同时到顶，楼梯数是偶数还是奇数？",
+    "options": [
+      "一定是偶数",
+      "一定是奇数",
+      "偶数或奇数都可能",
+      "无法知道"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！最后剩一级时两种都可能！",
+      "wrong": "错啦！奇偶都可以！"
+    }
+  },
+  {
+    "id": "rid_996",
+    "question": "游轮撞上暗礁开始下沉。穿救生衣的乘客跳进海里，却有人沉下去了。为什么？",
+    "options": [
+      "穿的是铅背心",
+      "怀里紧抱着沉重的金条包",
+      "海水比重比淡水低",
+      "没系紧救生衣带子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！金条重量超过浮力！",
+      "wrong": "错啦！额外重量把人拖下去！"
+    }
+  },
+  {
+    "id": "rid_997",
+    "question": "飞机着陆时轮子冒白烟的原因是？",
+    "options": [
+      "刹车片在燃烧",
+      "静止轮胎碰到时速超200公里的跑道，摩擦生热燃烧",
+      "反推发动机喷出的蒸汽",
+      "轮胎内部压缩空气泄漏"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！突然摩擦让橡胶冒烟！",
+      "wrong": "错啦！瞬间高速旋转烧轮胎！"
+    }
+  },
+  {
+    "id": "rid_998",
+    "question": "棒球和网球哪个能浮在水上？",
+    "options": [
+      "空心橡胶球",
+      "棒球",
+      "两个都浮",
+      "两个都沉"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！网球是空心的会浮！",
+      "wrong": "错啦！棒球密度大下沉！"
+    }
+  },
+  {
+    "id": "rid_999",
+    "question": "盒子里有1到50的号码牌。抽到质数的概率和抽到非质数的概率哪个更高？",
+    "options": [
+      "质数",
+      "合数（除1外）",
+      "五五开一样",
+      "无法判断"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！质数只有15个，合数更多！",
+      "wrong": "错啦！非质数远多于质数！"
+    }
+  },
+  {
+    "id": "rid_1000",
+    "question": "两辆轿车在隧道里面对面以时速60公里行驶。隧道是单行一车道却没有相撞。为什么？",
+    "options": [
+      "一辆在倒车",
+      "两辆从两端进入后停下",
+      "一辆被拖车拖着",
+      "其实两辆是同一方向行驶"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！前车车尾对后车车头——同向正常行驶！",
+      "wrong": "错啦！正常的单行道情况！"
+    }
+  },
+  {
+    "id": "rid_1001",
+    "question": "大晴天有人在斑马线看到绿灯却停住不走。为什么？",
+    "options": [
+      "那是机动车绿灯",
+      "信号灯灯泡坏了",
+      "盯着手机发呆",
+      "腿突然抽筋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！机动车绿灯就是行人红灯！",
+      "wrong": "错啦！看错信号灯了！"
+    }
+  },
+  {
+    "id": "rid_1002",
+    "question": "一位女士想从15楼坐电梯到1楼，按钮却没有“1”。她怎么到1楼的？",
+    "options": [
+      "按紧急铃求救",
+      "按了“G”或“L”",
+      "走楼梯下去",
+      "打电话给管理处"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！G或L就是一楼！",
+      "wrong": "错啦！西方写法用G/L！"
+    }
+  },
+  {
+    "id": "rid_1003",
+    "question": "棒球和足球从同一高度的真空管（无空气阻力）中落下，哪个先着地？",
+    "options": [
+      "更重的棒球",
+      "体积更大的足球",
+      "同时落下",
+      "会弹起的足球"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！真空中加速度相同，同时落地！",
+      "wrong": "错啦！质量在真空里无关！"
+    }
+  },
+  {
+    "id": "rid_1004",
+    "question": "有人要过河，桥坏了。不会游泳也没有船，却在一分钟内过了河。怎么过的？",
+    "options": [
+      "正值隆冬，河面冻得结结实实",
+      "助跑后跳远过去",
+      "坐滑索飞过去",
+      "踩着漂来的木头过去"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！走冰面过去！",
+      "wrong": "错啦！季节给了桥！"
+    }
+  },
+  {
+    "id": "rid_1005",
+    "question": "漆黑夜路上汽车两盏大灯都灭了，却正好停在穿黑衣的行人前面。司机怎么看见的？",
+    "options": [
+      "戴着夜视镜",
+      "行人穿了反光背心",
+      "路灯把路照得很亮",
+      "行人挥着手机光"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！路灯亮着！",
+      "wrong": "错啦！环境光救了他！"
+    }
+  },
+  {
+    "id": "rid_1006",
+    "question": "正好1公斤的铁球和1公斤的棉团放在普通空气中的天平上。天平往哪边倾斜？",
+    "options": [
+      "棉团那边",
+      "铁球那边",
+      "两边都是1公斤完全水平",
+      "无法判断"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！棉团浮力大，铁球那边下沉！",
+      "wrong": "错啦！空气浮力让铁球重一点！"
+    }
+  },
+  {
+    "id": "rid_1007",
+    "question": "看着镜子里的自己眨了一下眼。镜子里的我闭的是哪只眼？",
+    "options": [
+      "和我相反的那只",
+      "和我相同的那只",
+      "两只都闭了",
+      "没有闭眼"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！闭的是同一侧的眼睛！",
+      "wrong": "错啦！前后反射，不是左右互换！"
+    }
+  },
+  {
+    "id": "rid_1008",
+    "question": "小偷用铁锤猛砸珠宝店橱窗玻璃，玻璃却一点裂缝都没有。为什么？",
+    "options": [
+      "是特殊防弹玻璃",
+      "橱窗已经打开，砸的是空处",
+      "锤子是橡胶的",
+      "打空了"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！窗户开着，砸的是空气！",
+      "wrong": "错啦！打到空地方了！"
+    }
+  },
+  {
+    "id": "rid_1009",
+    "question": "马拉松选手跑完42.195公里期间心脏不停跳动的生理原因是？",
+    "options": [
+      "专门的马拉松心脏训练",
+      "自主神经不受意志控制持续跳动",
+      "一直喝能量饮料",
+      "心脏靠腿部肌肉帮忙"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！不随意肌自己一直跳！",
+      "wrong": "错啦！自主神经不停！"
+    }
+  },
+  {
+    "id": "rid_1010",
+    "question": "房间里三个人在聊天。外面进来的人说“怎么只有两个人？”怎么回事？",
+    "options": [
+      "一个人躲在衣柜里",
+      "一个人是刚出生的婴儿",
+      "一个人是隐形人",
+      "一个人是镜子里的影子"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！两个大人和怀里的婴儿！",
+      "wrong": "错啦！婴儿一眼不被算作“人”！"
+    }
+  },
+  {
+    "id": "rid_1011",
+    "question": "开着车走土路，窗户全关为什么车里还是会进一点灰尘？",
+    "options": [
+      "通过车底通风口进来",
+      "玻璃密封胶条没有了",
+      "司机鞋上的土飞起来",
+      "空调滤芯破了"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！车底通风口吸进来！",
+      "wrong": "错啦！压力调节孔是通道！"
+    }
+  },
+  {
+    "id": "rid_1012",
+    "question": "猎人发现老虎扣动扳机。子弹准确穿过老虎眉心，老虎却一滴血没流安然无恙。为什么？",
+    "options": [
+      "老虎穿了防弹衣",
+      "是标本模型",
+      "是麻醉枪",
+      "按的是相机快门"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！用相机“射击”！",
+      "wrong": "错啦！语言游戏——拍照！"
+    }
+  },
+  {
+    "id": "rid_1013",
+    "question": "两张纸之间薄薄涂了胶水用力压住。一秒钟后想揭开已经牢牢粘住。用的是什么胶？",
+    "options": [
+      "白乳胶",
+      "瞬间胶（氰基丙烯酸酯）",
+      "双面胶",
+      "米饭粒"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！瞬间胶几秒就固化！",
+      "wrong": "错啦！超速硬化特性！"
+    }
+  },
+  {
+    "id": "rid_1014",
+    "question": "从100米悬崖跳下的潜水员撞击海面却没受伤。为什么？",
+    "options": [
+      "入水角度刀一般完美",
+      "下面有巨大气泡缓冲装置",
+      "悬崖上系了蹦极绳跳的",
+      "水的表面张力弱"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！蹦极绳拦住了！",
+      "wrong": "错啦！有安全绳，不是裸跳！"
+    }
+  },
+  {
+    "id": "rid_1015",
+    "question": "冰块装满的冰盒里放罐装饮料10分钟。让饮料最快变凉的方法是？",
+    "options": [
+      "用毯子盖住冰盒",
+      "往冰上多撒盐再倒水",
+      "把罐子倒过来",
+      "旁边放干冰"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！盐降低冰点，超级冷却！",
+      "wrong": "错啦！盐水接触最快！"
+    }
+  },
+  {
+    "id": "rid_1016",
+    "question": "在森林迷路时看树根苔藓找北方为什么不总是管用？",
+    "options": [
+      "只要潮湿阴凉哪里都能长苔藓",
+      "指南针磁场干扰苔藓",
+      "鸟把苔藓啄掉了",
+      "苔藓朝阳光生长"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！阴湿就长，跟方向无关！",
+      "wrong": "错啦！南边也能长！"
+    }
+  },
+  {
+    "id": "rid_1017",
+    "question": "手表秒针一跳一跳（石英）和平滑流动（机械）两种，哪种用电池？",
+    "options": [
+      "大多是一跳一跳的石英表",
+      "平滑的机械表",
+      "两种都用电池",
+      "两种都用发条"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！石英表省电才一步一跳！",
+      "wrong": "错啦！跳动的是电池驱动！"
+    }
+  },
+  {
+    "id": "rid_1018",
+    "question": "骑自行车下陡坡时只猛捏前刹会怎样？",
+    "options": [
+      "后轮抬起向前翻（头栽）",
+      "车子立刻原地停下",
+      "轮胎侧滑摔倒",
+      "链条脱落"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！重心前移，翻过去！",
+      "wrong": "错啦！只捏前刹会翻车！"
+    }
+  },
+  {
+    "id": "rid_1019",
+    "question": "大海中央下雨时，海面盐度会怎样变化？",
+    "options": [
+      "瞬间盐度降低（淡水混入）",
+      "海水吸收雨水变得更咸",
+      "洋流让它完全不变",
+      "起泡沫变白"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！淡雨水稀释表面！",
+      "wrong": "错啦！表面暂时变淡！"
+    }
+  },
+  {
+    "id": "rid_1020",
+    "question": "有人用手机拍夜空北斗七星，照片里一颗星都没有。为什么？",
+    "options": [
+      "手机曝光时间太短（光线不足）",
+      "镜头滤镜挡住紫外线",
+      "闪光灯闪了刺眼",
+      "触摸对焦没对上"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！暗星需要长曝光！",
+      "wrong": "错啦！快门太快了！"
+    }
+  },
+  {
+    "id": "rid_1021",
+    "question": "在密闭房间里让电风扇连续转10小时，房间温度会怎样？",
+    "options": [
+      "风吹得越来越凉快",
+      "电机发热使温度上升",
+      "温度完全不变",
+      "湿度降低感觉更舒适"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！电机把电能变成热能！",
+      "wrong": "错啦！风扇不制冷，反而加热！"
+    }
+  },
+  {
+    "id": "rid_1022",
+    "question": "飞机飞得越高，零食袋子鼓得越胀的科学原因是？",
+    "options": [
+      "机舱温度急剧升高",
+      "外部气压降低导致内部空气膨胀",
+      "零食里的氮气发生化学反应",
+      "引擎振动导致"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！外部气压降低袋子就鼓起来！",
+      "wrong": "错啦！纯粹是气压差！"
+    }
+  },
+  {
+    "id": "rid_1023",
+    "question": "用湿手指沿着装水玻璃杯边缘画圈会产生清脆共鸣声。原理是什么？",
+    "options": [
+      "指纹摩擦引起的玻璃微振动",
+      "水被手指体温煮沸",
+      "指尖静电放电现象",
+      "空气在杯里打旋"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！粘滑摩擦让杯子唱歌！",
+      "wrong": "错啦！摩擦振动才是关键！"
+    }
+  },
+  {
+    "id": "rid_1024",
+    "question": "在完全黑暗的房间里打开荧光灯开关，整个房间变亮大约需要多长时间？",
+    "options": [
+      "1秒",
+      "瞬间（光速）",
+      "0.5秒",
+      "5秒"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！光速快到人根本察觉不到！",
+      "wrong": "错啦！室内等于瞬间到达！"
+    }
+  },
+  {
+    "id": "rid_1025",
+    "question": "登上100层超高楼楼顶时，时间比一楼流逝得稍微快一点。相对论的原因是？",
+    "options": [
+      "离地心更远，重力更弱",
+      "风更大让钟走得快",
+      "气温低使原子振动加快",
+      "空气阻力减小"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "哈哈哈！重力越弱时间延迟越小！",
+      "wrong": "错啦！广义相对论：越高钟越快！"
+    }
   }
 ]

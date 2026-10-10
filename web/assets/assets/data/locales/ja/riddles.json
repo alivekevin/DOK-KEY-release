@@ -8728,5 +8728,2255 @@
       "correct": "正解！愛犬トトとエメラルドの都を目指した『オズの魔法使い』のドロシーじゃ！",
       "wrong": "ブー！「やっぱり我が家が一番」と願って旅をしたカンザスの少女じゃよ。"
     }
+  },
+  {
+    "id": "rid_901",
+    "question": "ウサギとカメが競争し、ウサギは居眠りもせず全力で走りました。なのに先にゴールしたのはカメ。なぜじゃ？",
+    "options": [
+      "ウサギが道を間違えた",
+      "カメが抜け道を通った",
+      "泳ぎの競争だったから",
+      "ウサギの足がつった"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！水の中ではカメの独壇場じゃ！",
+      "wrong": "ぶー！走る競争だと思うから引っかかるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_902",
+    "question": "リンゴが五つ入ったかごから三つ持っていった。手元にあるリンゴはいくつじゃ？",
+    "options": [
+      "2個",
+      "3個",
+      "5個",
+      "0個"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！持っていった三つが手元にあるのじゃ！",
+      "wrong": "ぶー！残った数ではなく持っていった数じゃ！"
+    }
+  },
+  {
+    "id": "rid_903",
+    "question": "ホッキョクグマとペンギンが氷の上で出会ったら、クマはペンギンを食べるだろうか？",
+    "options": [
+      "ペンギンが泳いで逃げる",
+      "クマが一瞬で食べてしまう",
+      "出会うこと自体がない",
+      "ペンギンの群れが追い払う"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！北極と南極じゃ、絶対に会えん！",
+      "wrong": "ぶー！住む場所が違うのじゃ！"
+    }
+  },
+  {
+    "id": "rid_904",
+    "question": "昼は絶対見えず、夜でも雨が降ると消えてしまう星は何じゃ？",
+    "options": [
+      "北極星",
+      "牽牛織女星",
+      "空の星",
+      "瞳（目玉の星）"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！普通の夜空の星じゃ！",
+      "wrong": "ぶー！特別な星ではなく空の星じゃ！"
+    }
+  },
+  {
+    "id": "rid_905",
+    "question": "土砂降りの雨の中、傘も帽子もなしで歩いていたのに髪の毛が一本も濡れなかった理由は？",
+    "options": [
+      "軒下ばかり歩いたから",
+      "防水スプレーをかけたから",
+      "髪の毛がない坊主頭だから",
+      "雨より速く走ったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！濡れる髪がないのじゃ！",
+      "wrong": "ぶー！髪がないから濡れようがないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_906",
+    "question": "バスの運転手が一方通行を逆走し信号も無視した。警官が見ていても捕まえなかった理由は？",
+    "options": [
+      "警官が別の方を見ていたから",
+      "救急患者を運ぶ緊急事態だったから",
+      "バスを運転せず歩いていたから",
+      "一方通行が解除された時間帯だったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！歩いておっただけじゃ！",
+      "wrong": "ぶー！運転中だと決めつけたのが誤りじゃ！"
+    }
+  },
+  {
+    "id": "rid_907",
+    "question": "赤い家は赤いレンガ、青い家は青いレンガで建てる。では温室は何で建てるのじゃ？",
+    "options": [
+      "緑のレンガ",
+      "断熱ブロック",
+      "ガラス",
+      "ビニール"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！色の罠じゃ、ガラスでのう！",
+      "wrong": "ぶー！緑色じゃなく透明な素材じゃ！"
+    }
+  },
+  {
+    "id": "rid_908",
+    "question": "ある月は31日、ある月は30日ある。では28日がある月はいくつじゃ？",
+    "options": [
+      "1つ（2月だけ）",
+      "うるう年の1つ",
+      "12個（すべての月）",
+      "7個"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！どの月も28日を通るのじゃ！",
+      "wrong": "ぶー！全部の月に28日があるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_909",
+    "question": "徒競走で、先頭のすぐ後ろを走っていた選手を追い抜いた。今何位じゃ？",
+    "options": [
+      "1位",
+      "2位",
+      "3位",
+      "同点1位"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！2位の位置を取ったから2位じゃ！",
+      "wrong": "ぶー！1位を抜いたわけではないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_910",
+    "question": "飛行機が韓国と日本の国境線ちょうど真ん中に墜落した。生存者はどこの国に埋葬すべきじゃ？",
+    "options": [
+      "出発国の韓国",
+      "到着国の日本",
+      "国境線の共同墓地",
+      "埋葬しない"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！生きておる者を埋めるでない！",
+      "wrong": "ぶー！生存者という言葉が鍵じゃ！"
+    }
+  },
+  {
+    "id": "rid_911",
+    "question": "電気列車が時速100kmで北へ走り、風は南へ吹いている。汽車の煙はどちらへ流れるじゃ？",
+    "options": [
+      "南",
+      "北",
+      "風の吹かない方",
+      "煙は出ない"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！電気列車に煙など出ん！",
+      "wrong": "ぶー！煙が出る前提が間違いじゃ！"
+    }
+  },
+  {
+    "id": "rid_912",
+    "question": "旧約聖書でモーセが箱舟に乗せた各動物の数は雌雄何対じゃ？",
+    "options": [
+      "1対",
+      "7対",
+      "0対（0匹）",
+      "2対"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！箱舟はノアじゃ、モーセではない！",
+      "wrong": "ぶー！人物を取り違えておるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_913",
+    "question": "10階建ての屋上から生卵を落としてコンクリートの床を割らないようにするにはどうすればよいじゃ？",
+    "options": [
+      "卵に緩衝材を巻く",
+      "パラシュートをつける",
+      "そのまま落とす",
+      "床にマットレスを敷く"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！卵で床は割れんのじゃ！",
+      "wrong": "ぶー！床が割れる心配など無用じゃ！"
+    }
+  },
+  {
+    "id": "rid_914",
+    "question": "ある農家に羊が十七頭いたが、九頭を除いてすべて病気で死んだ。生き残った羊は何頭じゃ？",
+    "options": [
+      "8頭",
+      "9頭",
+      "0頭",
+      "17頭"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！9頭を除いたから9頭残ったのじゃ！",
+      "wrong": "ぶー！「除いて」がポイントじゃ！"
+    }
+  },
+  {
+    "id": "rid_915",
+    "question": "バットとボールを合わせて11,000ウォン。バットがボールより10,000ウォン高いなら、ボールの値段は？",
+    "options": [
+      "1,000ウォン",
+      "500ウォン",
+      "100ウォン",
+      "2,000ウォン"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！500＋10,500で11,000じゃ！",
+      "wrong": "ぶー！よくある計算の罠じゃ！"
+    }
+  },
+  {
+    "id": "rid_916",
+    "question": "木にリンゴがなっていた。リンゴを摘んだ後、木にも手元にもリンゴがなかった。どうしたのじゃ？",
+    "options": [
+      "地面に落とした",
+      "すぐ食べてしまった",
+      "2個なっていて1個だけ摘んだ",
+      "他の人が奪っていった"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！複数形の言葉遊びじゃ！",
+      "wrong": "ぶー！「リンゴたち」が残らなかったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_917",
+    "question": "四角いテーブルの角4つのうち、のこぎりで角を一つまっすぐに切った。残った角はいくつじゃ？",
+    "options": [
+      "3つ",
+      "4つ",
+      "5つ",
+      "6つ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！切った面に新しい角が二つできて5つじゃ！",
+      "wrong": "ぶー！角は減るどころか増えるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_918",
+    "question": "同じ母親から同じ日同じ時刻に生まれ、親も同じ二人の少年がいる。双子ではない理由は？",
+    "options": [
+      "戸籍上養子関係だから",
+      "時差のある別の国で生まれたから",
+      "三つ以上の多胎児のうちの二人だから",
+      "医者の誤診だから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！三つ子以上の一部じゃ！",
+      "wrong": "ぶー！二人だけとは限らんのじゃ！"
+    }
+  },
+  {
+    "id": "rid_919",
+    "question": "山の上から投げた石は下へ落ちる。宇宙の真ん中で石をそっと手から離したらどこへ行くじゃ？",
+    "options": [
+      "地球の方へ落ちる",
+      "太陽の方へ飛ぶ",
+      "その場に浮いたまま",
+      "一番近い惑星に吸い込まれる"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！無重力じゃ、その場に留まる！",
+      "wrong": "ぶー！力が働かぬから動かぬのじゃ！"
+    }
+  },
+  {
+    "id": "rid_920",
+    "question": "深さ3m、横2m、縦2mの土を掘った穴がある。この穴の中にある土の体積は？",
+    "options": [
+      "12㎥",
+      "6㎥",
+      "0㎥（全くない）",
+      "1㎥"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！穴の中は空っぽじゃ！",
+      "wrong": "ぶー！すでに掘り出した土はないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_921",
+    "question": "土砂降りの雨なのにオープンカーの運転手の服が全く濡れなかった。なぜじゃ？",
+    "options": [
+      "透明なレインコートを着ていたから",
+      "雨より速く走ったから",
+      "長いトンネルの中を走っていたから",
+      "特殊な撥水コートの服だったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！トンネルの屋根が守っておった！",
+      "wrong": "ぶー！場所がトンネルだったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_922",
+    "question": "10分ずつ遅れる時計と、止まったままの時計。24時間で正確な時刻をより多く指すのは？",
+    "options": [
+      "10分遅い時計",
+      "どちらも同じ",
+      "完全に止まった時計",
+      "わからない"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！止まった時計は一日に二度合うのじゃ！",
+      "wrong": "ぶー！遅れる時計はほとんど合わん！"
+    }
+  },
+  {
+    "id": "rid_923",
+    "question": "医者が患者に30分ごとに薬を1錠ずつ、合計3錠処方した。すべて飲み終わるのにかかる時間は？",
+    "options": [
+      "1時間30分",
+      "1時間",
+      "45分",
+      "2時間"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！0分・30分・60分で1時間じゃ！",
+      "wrong": "ぶー！間隔は二つだけじゃ！"
+    }
+  },
+  {
+    "id": "rid_924",
+    "question": "水槽に金魚が十匹いる。三匹が水に溺れて死に、二匹が逃げた。水槽に残ったのは何匹じゃ？",
+    "options": [
+      "5匹",
+      "7匹",
+      "10匹",
+      "8匹"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！金魚は溺れず逃げられん、10匹のまま！",
+      "wrong": "ぶー！どちらも起こり得ぬことじゃ！"
+    }
+  },
+  {
+    "id": "rid_925",
+    "question": "二人の男がチェスを5局戦った。引き分けは一度もなく、二人とも3勝した。どうしたのじゃ？",
+    "options": [
+      "八百長だ",
+      "判定で両方に勝ちがついた",
+      "お互いではなく別の相手と戦った",
+      "奇数局の規定のため"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！互いに戦ったとは言っておらん！",
+      "wrong": "ぶー！別々の相手と戦ったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_926",
+    "question": "20階建てのアパートに住む人が窓から飛び降りたのに、かすり傷一つなく無事だった。どうしたのじゃ？",
+    "options": [
+      "下に消防のエアマットがあったから",
+      "パラシュートを開いたから",
+      "1階の窓から飛び降りたから",
+      "木の枝に引っかかって減速したから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！住まいは20階、飛び降りたのは1階じゃ！",
+      "wrong": "ぶー！住む階と飛び降りた階は違うのじゃ！"
+    }
+  },
+  {
+    "id": "rid_927",
+    "question": "天下の力自慢でも世界一の力士でも、絶対に1分以上高く掲げていられないものは？",
+    "options": [
+      "自分の体重分の岩",
+      "200kgのバーベル",
+      "自分の息（呼吸）",
+      "鉄のダンベル"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！息を止めるには限界があるのじゃ！",
+      "wrong": "ぶー！物理的な物ではないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_928",
+    "question": "パリのエッフェル塔の頂上の手すりから鉄の玉をまっすぐ落とした。玉が最初にぶつかる場所は？",
+    "options": [
+      "塔の下の芝生",
+      "歩行者広場の床",
+      "塔の下部の鉄骨構造",
+      "セーヌ川の水面"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！下に広がる鉄骨に先に当たるのじゃ！",
+      "wrong": "ぶー！ピラミッド型だから床まで届かぬ！"
+    }
+  },
+  {
+    "id": "rid_929",
+    "question": "猟師が木の上のスズメ5羽のうち1羽を銃で正確に撃ち落とした。木に残ったスズメは何羽じゃ？",
+    "options": [
+      "4羽",
+      "0羽",
+      "1羽",
+      "3羽"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！銃声に驚いて残りも全部飛んだ！",
+      "wrong": "ぶー！音で逃げてしまうのじゃ！"
+    }
+  },
+  {
+    "id": "rid_930",
+    "question": "真っ暗な部屋で夜遅く本を読んでいる老人がいた。部屋に明かりは全くなかったのに、どうして読めただろうか？",
+    "options": [
+      "目が完全に闇に慣れたから",
+      "夜光インクで印刷された本だから",
+      "視覚障害者で点字本を読んでいたから",
+      "スマホの画面の光で照らしたから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！点字は指で読むのじゃ！",
+      "wrong": "ぶー！光はいらぬ読み方があるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_931",
+    "question": "あるアメリカ人が一生アメリカの土地で生まれ育った。しかし彼はアメリカで一度も合法的に投票できなかった。なぜじゃ？",
+    "options": [
+      "前科があるから",
+      "まだ8歳の子供だから",
+      "市民権を剥奪されたから",
+      "二重国籍だから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！まだ投票年齢に達しておらん！",
+      "wrong": "ぶー！年齢が理由じゃ！"
+    }
+  },
+  {
+    "id": "rid_932",
+    "question": "警官が泥棒を追い、行き止まりの路地に追い込んだのに目の前で逃げられた。翼もなく壁も越えなかったのにどう消えたのじゃ？",
+    "options": [
+      "透明マントを使った",
+      "マンホールの蓋を開けて入った",
+      "警官がまばたきした",
+      "実は路地に泥棒がいなかった"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！床のマンホールじゃ！",
+      "wrong": "ぶー！壁ばかり見て床を忘れるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_933",
+    "question": "ある男が25日間一睡もしないで普通に日常生活を送った。どうして可能だったのじゃ？",
+    "options": [
+      "特殊な覚醒剤を飲んだから",
+      "ギネス記録保持者だから",
+      "夜だけ寝ていたから",
+      "立ったまま浅い眠りを取ったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！昼間は起きて夜は普通に寝たのじゃ！",
+      "wrong": "ぶー！「昼間」が抜けておる！"
+    }
+  },
+  {
+    "id": "rid_934",
+    "question": "ある物を買うとき、作る人は不要だから売り、買う人は使わず、実際に使う人は自分が使っていることを知らない。この物は何じゃ？",
+    "options": [
+      "睡眠アイマスク",
+      "棺",
+      "赤ちゃんのオムツ",
+      "プレゼントの包装紙"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！棺じゃ！作る人は売り、遺族が買い、死者は知らぬ！",
+      "wrong": "ぶー！最後の箱を思い出せ！"
+    }
+  },
+  {
+    "id": "rid_935",
+    "question": "チョルスとヨンヒが同じ食堂で同じ時間に同じアイスコーヒーを飲んだ。ヨンヒは1分で一気に飲み、チョルスは30分かけてゆっくり飲んだ。なのにチョルスだけが毒に当たった。なぜじゃ？",
+    "options": [
+      "チョルスのストローだけに毒がついていた",
+      "毒が入った氷がゆっくり溶けたから",
+      "ヨンヒは解毒能力が高かった",
+      "ウェイターが後からこっそり毒を入れた"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！氷の中の毒じゃ！早く飲んだ方が無事！",
+      "wrong": "ぶー！氷が溶けるまで毒が出ん！"
+    }
+  },
+  {
+    "id": "rid_936",
+    "question": "ある女性が身分証も財布もパスポートもなしに他国の国境を検問なしで自由に通過した。どうして可能だったのじゃ？",
+    "options": [
+      "外交官の免責特権を受けた",
+      "密航船の貨物室に隠れた",
+      "生まれたばかりの赤ちゃんだった",
+      "両国の国境に鉄条網がなかった"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！母親のお腹の中か国境で生まれたばかりじゃ！",
+      "wrong": "ぶー！新しい命に書類はいらぬ！"
+    }
+  },
+  {
+    "id": "rid_937",
+    "question": "ある船に船長と船員10人が乗っていた。甲板で船長が一歩踏み出した瞬間船が揺れ、全員海に落ちた。しかし濡れた髪の毛は一本もなかった。なぜじゃ？",
+    "options": [
+      "全員完全防水の潜水帽をかぶっていた",
+      "海水が凍って氷の板だった",
+      "乗船者全員が坊主頭だった",
+      "救命ボートに乗って水に触れなかった"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！全員坊主で髪がないのじゃ！",
+      "wrong": "ぶー！濡れる髪が存在せん！"
+    }
+  },
+  {
+    "id": "rid_938",
+    "question": "リンゴ1個を包丁で正確に3回だけ切って8切れにする正しい方法は？",
+    "options": [
+      "薄く縦に3回切る",
+      "十字に2回切った後水平に1回切る",
+      "斜めに3回割る",
+      "8等分の目盛りをつけて三角にくり抜く"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！立体で2×2×2じゃ！",
+      "wrong": "ぶー！平面ではなく立体で切るのじゃ！"
+    }
+  },
+  {
+    "id": "rid_939",
+    "question": "ある男が飛行機からパラシュートなしで飛び降りたのに無傷で着地した。どうしたのじゃ？",
+    "options": [
+      "飛行機が滑走路に止まっていたから",
+      "下に巨大な藁の山があったから",
+      "超低空飛行中に水の上に落ちたから",
+      "特殊なウィングスーツを着ていたから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！飛行機はまだ地上におった！",
+      "wrong": "ぶー！飛んでおらんかったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_940",
+    "question": "AとBが100m競争をした。AがゴールしたときBは90m地点にいた。2回目の試合でAはスタートラインより10m後ろから出発した。同じ速度なら結果は？",
+    "options": [
+      "同時に入る",
+      "やはりAが勝つ",
+      "Bがわずかに勝つ",
+      "距離が同じで引き分け"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！最後の10mでもAが速いのじゃ！",
+      "wrong": "ぶー！速度差は変わらん！"
+    }
+  },
+  {
+    "id": "rid_941",
+    "question": "どんなにきれいに洗っても、洗えば洗うほどどんどん汚くなるものは？",
+    "options": [
+      "ぞうきん",
+      "石鹸",
+      "洗う水",
+      "タオル"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！水自体が汚れるのじゃ！",
+      "wrong": "ぶー！汚れを引き受けるのが水じゃ！"
+    }
+  },
+  {
+    "id": "rid_942",
+    "question": "夜空の満月を肉眼で見るのと100倍の天体望遠鏡で見るのと、実際の大きさがより大きいのは？",
+    "options": [
+      "100倍望遠鏡で見るとき",
+      "肉眼で見るとき",
+      "どちらも実際の大きさは全く同じ",
+      "大気屈折で肉眼の方が大きい"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！実際の物理的大きさは変わらん！",
+      "wrong": "ぶー！見た目の大きさと実物は違うのじゃ！"
+    }
+  },
+  {
+    "id": "rid_943",
+    "question": "居間の真ん中に空のコップがある。この空のコップに水を何滴まで入れられるじゃ？",
+    "options": [
+      "コップの体積に応じた何千滴",
+      "表面張力が持つまで",
+      "ちょうど1滴",
+      "満杯になるまで無限"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！1滴入れた瞬間「空」ではなくなる！",
+      "wrong": "ぶー！「空」という言葉が限界じゃ！"
+    }
+  },
+  {
+    "id": "rid_944",
+    "question": "少年が野球ボールを思い切り投げた。壁に当たらず、誰も触らず、糸にもつながっていないのに少年の手に正確に戻ってきた。どう投げたのじゃ？",
+    "options": [
+      "強いスピンをかけてカーブを投げた",
+      "真上に垂直に投げた",
+      "ブーメランのように弧を描いて投げた",
+      "風の反対方向に投げた"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！真上に投げれば重力で戻るのじゃ！",
+      "wrong": "ぶー！垂直投げが答えじゃ！"
+    }
+  },
+  {
+    "id": "rid_945",
+    "question": "二人の父親と二人の息子が釣りに行き、それぞれ魚を1匹ずつ釣った。しかし集めたら合計3匹だった。1匹も逃していないのになぜ3匹じゃ？",
+    "options": [
+      "一人が釣りに失敗したから",
+      "釣り場の管理人が1匹持っていったから",
+      "祖父・父・孫の3世代家族だから",
+      "魚が1匹二度釣られたから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！3人で二人の父親と二人の息子が成立するのじゃ！",
+      "wrong": "ぶー！家系図の計算じゃ！"
+    }
+  },
+  {
+    "id": "rid_946",
+    "question": "重い鉄の扉を開けなければならない。鍵束の10本のうち開く鍵は1本だけ。この扉を開けるのに最大何回鍵を試せばよいか？",
+    "options": [
+      "10回",
+      "9回",
+      "1回",
+      "5回"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！9本失敗すれば残り1本が正解とわかる！",
+      "wrong": "ぶー！10本目は試す必要がないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_947",
+    "question": "乳牛は草を食べて白い牛乳を出す。では黒ヤギは黒い草を食べて何色の乳を出すじゃ？",
+    "options": [
+      "黒色",
+      "薄い灰色",
+      "白色",
+      "透明"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！哺乳類の乳はすべて白いのじゃ！",
+      "wrong": "ぶー！毛の色は関係ないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_948",
+    "question": "密閉された部屋に空気がいっぱいある。この部屋から空気を最も速く抜く方法は？",
+    "options": [
+      "大型換気扇を最大で回す",
+      "真空ポンプで吸い出す",
+      "部屋に水や家具をぎっしり詰める",
+      "窓を大きく開ける"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！他の物で体積を押し出すのじゃ！",
+      "wrong": "ぶー！空間を埋めて空気を追い出すのじゃ！"
+    }
+  },
+  {
+    "id": "rid_949",
+    "question": "飛行機の機長が飛行中に計器がすべて故障したのに誤差なく目的地に正確に着陸した。操縦士が見た唯一のものは？",
+    "options": [
+      "夜空の北極星と星座",
+      "管制塔の無線誘導",
+      "滑走路の誘導灯",
+      "スマホのコンパスアプリ"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！有視界着陸で滑走路の灯りを見たのじゃ！",
+      "wrong": "ぶー！目で確認した灯りじゃ！"
+    }
+  },
+  {
+    "id": "rid_950",
+    "question": "南極点に立ってコンパスを持ち、北極方向にまっすぐ10km歩いた後、右に90度曲がって10km歩いた。現在の位置は南極点からどの方向じゃ？",
+    "options": [
+      "東",
+      "北の方角",
+      "南東",
+      "西"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！南極点から出る方向はすべて北じゃ！",
+      "wrong": "ぶー！まだ南極点の北におる！"
+    }
+  },
+  {
+    "id": "rid_951",
+    "question": "ある学生が試験勉強を全くせずに試験を受け、白紙で出しても100点を取った。どうしたのじゃ？",
+    "options": [
+      "先生が採点を間違えた",
+      "視力検査の試験だったから",
+      "他の生徒と答案が入れ替わった",
+      "問題がすべて口述試験だった"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！視力表を見て答えるだけじゃ！",
+      "wrong": "ぶー！書く必要のない試験じゃ！"
+    }
+  },
+  {
+    "id": "rid_952",
+    "question": "水中に完全に沈みながらも水に濡れず息もできる人は？",
+    "options": [
+      "海女",
+      "潜水艦に乗っている乗員",
+      "水泳選手",
+      "スキューバダイバー"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！潜水艦の中は乾いておる！",
+      "wrong": "ぶー！船体が水を遮断するのじゃ！"
+    }
+  },
+  {
+    "id": "rid_953",
+    "question": "じゃんけんを10回連続でしたが、二人ともグーだけ出して10回全部引き分けた。二人が出した指の数の合計はいくつじゃ？",
+    "options": [
+      "0本",
+      "100本",
+      "50本",
+      "20本"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！グーは指を全部閉じるから0本じゃ！",
+      "wrong": "ぶー！握りこぶしに指は出ておらん！"
+    }
+  },
+  {
+    "id": "rid_954",
+    "question": "ある人が毎日数十人の髭を剃ってあげるが、自分の顔にはぼうぼうの顎髭がそのままある。この人の職業は？",
+    "options": [
+      "カミソリ工場の検査員",
+      "理髪師",
+      "特殊メイクアップアーティスト",
+      "皮膚科医"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！理髪師じゃ！他人は剃り自分は伸ばす！",
+      "wrong": "ぶー！定番の理髪師なぞなぞじゃ！"
+    }
+  },
+  {
+    "id": "rid_955",
+    "question": "どんなに遠くに投げても必ず自分に戻ってくる体の部位は？",
+    "options": [
+      "髪の毛",
+      "爪",
+      "唾",
+      "視線"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！「視線を投げる」と言って戻ってくるのじゃ！",
+      "wrong": "ぶー！言葉遊びの視線じゃ！"
+    }
+  },
+  {
+    "id": "rid_956",
+    "question": "高速道路を走る車のタイヤ4本のうち1本がパンクした。しかし運転手は目的地まで普通の速度で問題なく到着した。どうして可能だったのじゃ？",
+    "options": [
+      "ランフラットタイヤだったから",
+      "トランクに積んでいたスペアタイヤがパンクしていたから",
+      "車輪3本でバランスを取って走ったから",
+      "レッカー車にけん引されて行ったから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！使っていないスペアがパンクしておった！",
+      "wrong": "ぶー！走っているタイヤは無事じゃ！"
+    }
+  },
+  {
+    "id": "rid_957",
+    "question": "水がいっぱい入ったバケツがある。この中に何かを入れたら重さがかえって軽くなった。何を入れたのじゃ？",
+    "options": [
+      "ヘリウム風船",
+      "穴",
+      "ドライアイス",
+      "スポンジ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！穴を開けて水が抜けたのじゃ！",
+      "wrong": "ぶー！穴で水が逃げて軽くなる！"
+    }
+  },
+  {
+    "id": "rid_958",
+    "question": "毎朝世界中の数億人が同時にすることを何じゃ？",
+    "options": [
+      "歯を磨くこと",
+      "スマホを確認すること",
+      "目を開けること（目覚めること）",
+      "あくびをすること"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！朝の最初の行動は目を開けることじゃ！",
+      "wrong": "ぶー！目覚めるのが共通じゃ！"
+    }
+  },
+  {
+    "id": "rid_959",
+    "question": "海の真ん中で船が転覆して遭難した。救助隊が来るまで海水を絶対飲んではいけない本当の理由は？",
+    "options": [
+      "塩分濃度が高く脱水がさらに進むから",
+      "サメが血の匂いに集まってくるから",
+      "お腹を壊して腹痛を起こすから",
+      "体温が急激に下がるから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！塩が細胞から水を奪うのじゃ！",
+      "wrong": "ぶー！浸透圧で喉がもっと渇く！"
+    }
+  },
+  {
+    "id": "rid_960",
+    "question": "病院に来た患者が医者に「体中が痛い。頭を触れても痛いし、足を触れても痛い」と訴えた。医者の診断結果は？",
+    "options": [
+      "全身神経痛",
+      "線維筋痛症",
+      "指の骨折",
+      "仮病"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！触っている指が折れておったのじゃ！",
+      "wrong": "ぶー！痛むのは触る指じゃ！"
+    }
+  },
+  {
+    "id": "rid_961",
+    "question": "何かを上に投げると必ず下に落ちる。しかし下に投げても上に跳ね上がるものは？",
+    "options": [
+      "鉄球",
+      "ゴムボール（バウンドボール）",
+      "羽",
+      "紙飛行機"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！弾力でゴムボールが跳ね返るのじゃ！",
+      "wrong": "ぶー！弾むものを思い出せ！"
+    }
+  },
+  {
+    "id": "rid_962",
+    "question": "昼12時ちょうどに土砂降りです。正確に72時間後に日差しがさんさんと輝く確率は？",
+    "options": [
+      "50%（気象予報基準）",
+      "100%",
+      "0%（真夜中だから）",
+      "25%"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！72時間後は真夜中じゃ！",
+      "wrong": "ぶー！3日後は深夜になるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_963",
+    "question": "子供が横断歩道で赤信号を見て止まった。後ろの視覚障害者は信号を見ずに正確に青で渡った。どうやって知ったのじゃ？",
+    "options": [
+      "盲導犬が信号の色を見分けた",
+      "歩行者用音響信号の音を聞いた",
+      "周りの人の足音を聞いた",
+      "車のクラクションで判断した"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！音響信号の音じゃ！",
+      "wrong": "ぶー！耳で確認したのじゃ！"
+    }
+  },
+  {
+    "id": "rid_964",
+    "question": "真っ暗な部屋でろうそくを灯して鏡を見た。鏡の中の自分はなぜ右手でろうそくを持っているのじゃ？",
+    "options": [
+      "鏡の曲率による歪み",
+      "実際に左手で持っているから",
+      "光の屈折現象",
+      "鏡像が180度回転しているから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！左手が鏡では右手に見えるのじゃ！",
+      "wrong": "ぶー！実際は左手じゃ！"
+    }
+  },
+  {
+    "id": "rid_965",
+    "question": "時速300kmのKTX車内でハエが一匹空中に静止して飛んでいる。ハエの実際の移動速度は？",
+    "options": [
+      "時速0km（その場飛行）",
+      "時速300km（列車と同じ）",
+      "時速10km（ハエの飛行速度）",
+      "時速310km"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！空気ごと列車と一緒に動くのじゃ！",
+      "wrong": "ぶー！対地速度は列車と同じじゃ！"
+    }
+  },
+  {
+    "id": "rid_966",
+    "question": "1から100までの数字で数字「9」は合計何回出てくるじゃ？",
+    "options": [
+      "10回",
+      "11回",
+      "19回",
+      "20回"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！一の位10回、十の位10回で20回じゃ！",
+      "wrong": "ぶー！99の2回も忘れるな！"
+    }
+  },
+  {
+    "id": "rid_967",
+    "question": "ある人が道を歩いていて足元に1億円の小切手を見つけた。しかし拾わずに足でけとばした理由は？",
+    "options": [
+      "金欲のない達人だから",
+      "期限切れの不渡り小切手だから",
+      "サッカーボールに1億円のシールが貼ってあったから",
+      "風で飛んできたゴミだと思ったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！ボールに貼ったシールじゃ！",
+      "wrong": "ぶー！本物の紙ではないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_968",
+    "question": "氷の上に重い鉄球と軽い卓球ボールを置いて強く息を吹いた。摩擦が0だとすると、より遠くまで転がるのは？",
+    "options": [
+      "卓球ボール",
+      "鉄球",
+      "どちらも止まらず永遠に転がる",
+      "空気抵抗で鉄球"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！摩擦ゼロなら両方永遠に動くのじゃ！",
+      "wrong": "ぶー！慣性の法則じゃ！"
+    }
+  },
+  {
+    "id": "rid_969",
+    "question": "野球で打者がボールを打たずにじっとしていても1塁に出られる方法は？",
+    "options": [
+      "捕手が後ろにこぼしたとき（振り逃げ）",
+      "投手がボークを犯したとき",
+      "死球またはフォアボール",
+      "打撃妨害の判定がでたとき"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！フォアボールか死球じゃ！",
+      "wrong": "ぶー！振らなくても進めるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_970",
+    "question": "チョルスの家の屋上でリンゴの木が育ち、隣の庭に枝が伸びてリンゴがなった。このリンゴは法的に誰のものじゃ？",
+    "options": [
+      "落ちたのは隣、ぶら下がったのはチョルス",
+      "枝が越境したので隣のもの",
+      "根が埋まっているチョルスのもの",
+      "先に拾った人のもの"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！根の持ち主のものじゃ！",
+      "wrong": "ぶー！根の所有が決めるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_971",
+    "question": "夜に街灯の下を通るとき、街灯に近づくほど自分の影の長さはどう変わるじゃ？",
+    "options": [
+      "だんだん長くなる",
+      "だんだん短くなる",
+      "変化なく一定",
+      "完全に消える"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！近づくほど影は短くなるのじゃ！",
+      "wrong": "ぶー！入射角が垂直に近づくからじゃ！"
+    }
+  },
+  {
+    "id": "rid_972",
+    "question": "少年が船にかけたはしごの十段目に立っていた。波で海水が二段分上がったら、少年は今何段目に立っているじゃ？",
+    "options": [
+      "8段目",
+      "12段目",
+      "10段目",
+      "水に沈んで0段目"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！はしごも船と一緒に浮くから10段目のまま！",
+      "wrong": "ぶー！船とはしごは一緒に上がるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_973",
+    "question": "ある食堂に入った客がカクテキの汁だけを一杯飲み干し、ご飯には手をつけなかった。なぜじゃ？",
+    "options": [
+      "カクテキ汁ダイエット中だから",
+      "ソルロンタンにカクテキ汁を入れて食べようとしたから",
+      "辛すぎてご飯が食べられなかったから",
+      "汁の味だけで名店か判断しようとしたから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！定番の汁入れじゃ！",
+      "wrong": "ぶー！スープに注ぐ習慣じゃ！"
+    }
+  },
+  {
+    "id": "rid_974",
+    "question": "完全に凍った漢江の氷の上に船を浮かべる最も速い方法は？",
+    "options": [
+      "砕氷船で氷を割って進む",
+      "氷の上に船を乗せる",
+      "熱風器で氷を溶かす",
+      "春が来るまで待つ"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！氷の上に載せるだけじゃ！",
+      "wrong": "ぶー！溶かす必要などないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_975",
+    "question": "真っ暗な夜道を歩いていて街灯もなく月も出ていない。なのに先を歩く人が石につまずかなかった理由は？",
+    "options": [
+      "赤外線暗視ゴーグルを使ったから",
+      "昼間その道を通ったから",
+      "スマホの懐中電灯をつけて歩いたから",
+      "白杖でついて歩いたから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！スマホのライトじゃ！",
+      "wrong": "ぶー！簡単な明かりで十分じゃ！"
+    }
+  },
+  {
+    "id": "rid_976",
+    "question": "路肩もない狭い一本橋で出会った二人が互いに譲らずそのまま歩いて無事に通り過ぎた。どうして可能だったのじゃ？",
+    "options": [
+      "一人が水に潜ったから",
+      "二人とも同じ方向に歩いていたから",
+      "一本橋が空中に2階建てだったから",
+      "一人がもう一人を背負って渡ったから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！同じ方向ならすれ違う必要がない！",
+      "wrong": "ぶー！向かい合っていなかったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_977",
+    "question": "ある動物が生まれて死ぬまで一度も水を飲まずに健康に生きられる理由は？",
+    "options": [
+      "体内で水分を合成する変異だから",
+      "露だけをなめて",
+      "食べる餌（サボテン・草・種）の水分だけで十分なから",
+      "水の代わりに土を食べるから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！餌の水分と代謝水で足りるのじゃ！",
+      "wrong": "ぶー！砂漠の動物は食事から水分を取る！"
+    }
+  },
+  {
+    "id": "rid_978",
+    "question": "エレベーターの定員が「大人10人（合計700kg）」です。大人8人（合計550kg）が乗ったのに過積載警報が鳴り扉が閉まらなかった。なぜじゃ？",
+    "options": [
+      "センサーのゼロ点調整が失敗したから",
+      "8人のうち一人が重い鉄の荷物を持っていたから",
+      "乗客の中に子供が隠れていたから",
+      "床のスプリングが老朽化したから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！荷物の重さが加わったのじゃ！",
+      "wrong": "ぶー！荷物も重量に含まれる！"
+    }
+  },
+  {
+    "id": "rid_979",
+    "question": "昼間の森道を歩いていて自分の影が前に長く伸びていた。今どちらを向いて歩いているじゃ？",
+    "options": [
+      "日が昇る方向",
+      "日を背にした反対方向",
+      "真南",
+      "真北"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！影が前なら太陽は後ろじゃ！",
+      "wrong": "ぶー！光源が背中側にあるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_980",
+    "question": "3階建ての家で1階は居間、2階は寝室、3階は屋根裏です。階段は1階から2階まで15段、2階から3階まで15段。1階から3階まで上がるには何段踏めばよいか？",
+    "options": [
+      "30段",
+      "15段",
+      "45段",
+      "29段"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！15＋15＝30段じゃ！",
+      "wrong": "ぶー！両方の階段を踏むのじゃ！"
+    }
+  },
+  {
+    "id": "rid_981",
+    "question": "ある人が川を渡るために渡し船に乗った。船頭以外に乗客は誰もいなかったのに、川の真ん中で船が沈んだ。なぜじゃ？",
+    "options": [
+      "底に穴が開いたから",
+      "船頭の体重が500kgだったから",
+      "川底の岩礁にぶつかったから",
+      "重い荷物が満載されていたから"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！乗客ではなく貨物が過積載じゃ！",
+      "wrong": "ぶー！荷物が限度を超えたのじゃ！"
+    }
+  },
+  {
+    "id": "rid_982",
+    "question": "2本のろうそく、1本は太く長く、もう1本は細く短い。同時に火をつけて同時に吹き消したら、どちらが長く燃えたじゃ？",
+    "options": [
+      "太く長いろうそく",
+      "細く短いろうそく",
+      "どちらも同じ時間燃えた",
+      "わからない"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！同時に点けて同時に消したから同じ時間じゃ！",
+      "wrong": "ぶー！残りの寿命ではなく燃えた時間じゃ！"
+    }
+  },
+  {
+    "id": "rid_983",
+    "question": "ある男が自宅の寝室から窓を開けて銃を撃ったら、道向かいのアパート10階のガラス窓が割れた。弾丸は上に飛ばず水平に飛んだのにどうしたのじゃ？",
+    "options": [
+      "風が強く上に吹いたから",
+      "弾丸が屈折弾だったから",
+      "自分の家の寝室も高層ビルの10階だから",
+      "ガラスにレーザーが反射したから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！自分の家も同じ高さの10階じゃ！",
+      "wrong": "ぶー！両方とも高層じゃ！"
+    }
+  },
+  {
+    "id": "rid_984",
+    "question": "机の上に本が1冊裏返しに置いてある。この本の表紙は机の面を向いている。では本の「裏表紙」はどこを向いているじゃ？",
+    "options": [
+      "天井",
+      "床",
+      "机の引き出しの中",
+      "本の中身のページ"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！表が下なら裏は上（天井）じゃ！",
+      "wrong": "ぶー！反対側が上を向くのじゃ！"
+    }
+  },
+  {
+    "id": "rid_985",
+    "question": "世界で最も深い海、マリアナ海溝の底に沈んだガラス瓶の中には何が入っているじゃ？",
+    "options": [
+      "超高圧の海水",
+      "真空状態の空気",
+      "海水",
+      "割れたガラスの破片"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！開いた瓶なら周りの海水でいっぱいじゃ！",
+      "wrong": "ぶー！普通の海水が入るのじゃ！"
+    }
+  },
+  {
+    "id": "rid_986",
+    "question": "車でトンネルに入るとき前照灯をつける一番の理由は？",
+    "options": [
+      "自分の前方を照らすため",
+      "相手の車に自分の位置を知らせるため",
+      "バッテリー上がりを防ぐため",
+      "トンネル内のセンサーを作動させるため"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！他の車に自分を見せるためじゃ！",
+      "wrong": "ぶー！視認性確保が目的じゃ！"
+    }
+  },
+  {
+    "id": "rid_987",
+    "question": "100m走のトラックで1レーンは曲線を少なく、8レーンは外側を走る。100m競技でスタートラインの位置はどう違うじゃ？",
+    "options": [
+      "8レーンがはるかに前からスタートする",
+      "1レーンが前からスタートする",
+      "すべてのレーンのスタートラインが一直線で同じ",
+      "ジグザグに配置される"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！100mは全程直線だから同じじゃ！",
+      "wrong": "ぶー！カーブがないからズレなし！"
+    }
+  },
+  {
+    "id": "rid_988",
+    "question": "ある人が100kgの米俵を軽々と持ち上げた。しかし10gの羽1枚を手のひらに載せて1時間耐えられなかった。なぜじゃ？",
+    "options": [
+      "羽アレルギーがあるから",
+      "腕の筋肉が水平姿勢で疲れてしびれるから",
+      "風で羽が飛んでしまったから",
+      "羽の静電気のため"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！腕を水平に保つのがつらいのじゃ！",
+      "wrong": "ぶー！重さではなく姿勢の問題じゃ！"
+    }
+  },
+  {
+    "id": "rid_989",
+    "question": "リンゴの木に十個のリンゴがなっている。強風で四個落ち、カササギが来て二個つついた。木に残っている無傷のリンゴは何個じゃ？",
+    "options": [
+      "6個",
+      "4個",
+      "10個",
+      "0個"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！10－4－2＝4個の無傷じゃ！",
+      "wrong": "ぶー！落ちたものと傷ついたものを引くのじゃ！"
+    }
+  },
+  {
+    "id": "rid_990",
+    "question": "水の入ったコップに角氷を浮かべたら水がギリギリあふれそうだった。氷が完全に溶けたらコップの水はどうなるじゃ？",
+    "options": [
+      "あふれ出す",
+      "水面が下がる",
+      "水面の高さがそのまま保たれる",
+      "蒸発して半分になる"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！アルキメデスの原理で高さは変わらん！",
+      "wrong": "ぶー！押しのけた分と溶けた分が同じじゃ！"
+    }
+  },
+  {
+    "id": "rid_991",
+    "question": "10人が集まった部屋で全員が互いに一度ずつ握手しました。握手は合計何回行われたじゃ？",
+    "options": [
+      "100回",
+      "90回",
+      "45回",
+      "10回"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！組み合わせで(10×9)/2＝45回じゃ！",
+      "wrong": "ぶー！ペアで1回と数えるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_992",
+    "question": "時計の時針と分針が正確に重なる現象は、昼12時から夜12時までに何回起きるじゃ？",
+    "options": [
+      "12回",
+      "11回",
+      "10回",
+      "24回"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！12時間で11回だけじゃ！",
+      "wrong": "ぶー！毎時ではないのじゃ！"
+    }
+  },
+  {
+    "id": "rid_993",
+    "question": "男が吹雪の雪山で道に迷った。スマホは持っていたのに119に電話できなかった理由は？",
+    "options": [
+      "バッテリーが切れていたから",
+      "手袋をしていてタッチできなかったから",
+      "基地局の電波が届かない通信圏外だったから",
+      "緊急通話の暗証番号を忘れたから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！山奥は圏外じゃ！",
+      "wrong": "ぶー！電波が届かんのじゃ！"
+    }
+  },
+  {
+    "id": "rid_994",
+    "question": "横10m縦10mの部屋の隅に5mのひもで犬がつながれている。犬が自由に動ける範囲の形は？",
+    "options": [
+      "円形",
+      "扇形（円の4分の1）",
+      "正方形",
+      "半円形"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！壁に遮られて90度の扇形じゃ！",
+      "wrong": "ぶー！隅だから4分の1だけじゃ！"
+    }
+  },
+  {
+    "id": "rid_995",
+    "question": "二人が階段を上る競争をした。一人は2段ずつ、もう一人は1段ずつ素早く上った。同時に頂上に着いたら階段の数は偶数か奇数か？",
+    "options": [
+      "必ず偶数",
+      "必ず奇数",
+      "偶数でも奇数でもあり得る",
+      "わからない"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！最後の1段でどちらも可能じゃ！",
+      "wrong": "ぶー！両方あり得るのじゃ！"
+    }
+  },
+  {
+    "id": "rid_996",
+    "question": "遊覧船が岩礁にぶつかり沈み始めた。救命胴衣を着た乗客が海に飛び込んだのに、何人かが沈んだ理由は？",
+    "options": [
+      "鉛のベストを着ていたから",
+      "重い金塊のバッグを抱えていたから",
+      "海水の比重が淡水より低いから",
+      "胴衣の紐を締めなかったから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！金塊の重さが浮力を上回ったのじゃ！",
+      "wrong": "ぶー！荷物が沈めたのじゃ！"
+    }
+  },
+  {
+    "id": "rid_997",
+    "question": "飛行機が着陸するとき車輪から白い煙が上がる理由は？",
+    "options": [
+      "ブレーキパッドが燃えているから",
+      "止まっていたタイヤが時速200km超の滑走路に触れて摩擦熱で燃えるから",
+      "逆噴射エンジンの蒸気だから",
+      "タイヤ内の圧縮空気が抜けたから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！急激な摩擦でゴムが燃えるのじゃ！",
+      "wrong": "ぶー！静止タイヤが高速で回る瞬間じゃ！"
+    }
+  },
+  {
+    "id": "rid_998",
+    "question": "野球ボールとテニスボールのどちらが水に浮くじゃ？",
+    "options": [
+      "中空のゴム製のボール",
+      "野球ボール",
+      "両方浮く",
+      "両方沈む"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！テニスボールは中空で浮くのじゃ！",
+      "wrong": "ぶー！野球ボールは密度が高く沈む！"
+    }
+  },
+  {
+    "id": "rid_999",
+    "question": "1から50までの番号札が箱に入っている。素数の札を引く確率と、素数以外の札を引く確率ではどちらが高いじゃ？",
+    "options": [
+      "素数",
+      "合成数（1を除く）",
+      "五分五分で同じ",
+      "わからない"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "school",
+    "kkaebi_reaction": {
+      "correct": "クハハ！素数は15個だけ、合成数の方が多い！",
+      "wrong": "ぶー！非素数の方がはるかに多いのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1000",
+    "question": "二台の乗用車がトンネル内で向かい合って時速60kmで走った。トンネルは一方通行1車線なのに衝突しなかった。なぜじゃ？",
+    "options": [
+      "一台が後進していたから",
+      "反対の入口から入って止まったから",
+      "一台がレッカーに牽引されていたから",
+      "実は同じ方向に走っていたから"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！前の車の後ろと後ろの車の前が向かい合う普通の走行じゃ！",
+      "wrong": "ぶー！同じ方向の一方通行じゃ！"
+    }
+  },
+  {
+    "id": "rid_1001",
+    "question": "晴れた昼間に横断歩道を渡ろうとした人が信号が青なのに渡らず止まった。なぜじゃ？",
+    "options": [
+      "車両用信号が青だったから",
+      "信号の電球が故障していたから",
+      "スマホを見てぼーっとしていたから",
+      "足に突然けいれんが起きたから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！車両用青は歩行者赤じゃ！",
+      "wrong": "ぶー！信号の種類が違うのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1002",
+    "question": "女性がエレベーターで15階から1階へ降りようとしたがボタンに「1」がなかった。どうやって1階へ行けたのじゃ？",
+    "options": [
+      "非常ベルを押して救助を求めた",
+      "「G」か「L」ボタンを押した",
+      "階段で歩いて降りた",
+      "管理室に電話した"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！GやLが1階を意味するのじゃ！",
+      "wrong": "ぶー！西洋式表記じゃ！"
+    }
+  },
+  {
+    "id": "rid_1003",
+    "question": "野球ボールとサッカーボールを同じ高さの真空管（空気抵抗なし）から同時に落とした。先に床に着くのは？",
+    "options": [
+      "重い野球ボール",
+      "体積の大きいサッカーボール",
+      "両方同時に落ちる",
+      "跳ねるサッカーボール"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！真空では質量に関係なく同時じゃ！",
+      "wrong": "ぶー！重力加速度は同じじゃ！"
+    }
+  },
+  {
+    "id": "rid_1004",
+    "question": "ある人が川を渡ろうとしたが橋が壊れていた。泳げず船もないのに1分で渡った。どうやって？",
+    "options": [
+      "真冬で川が凍りついていたから",
+      "助走をつけて走り幅跳びをしたから",
+      "ジップラインのワイヤーで飛んだから",
+      "通りかかった丸太に乗って渡ったから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！氷の上を歩いて渡ったのじゃ！",
+      "wrong": "ぶー！季節が橋を作ったのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1005",
+    "question": "暗い夜道を走る車のヘッドライトが両方消えていた。なのに道の真ん中にいた黒い服の歩行者をはねずに止まれた。運転者はどうやって見たのじゃ？",
+    "options": [
+      "暗視ゴーグルをかけていたから",
+      "歩行者が夜光ベストを着ていたから",
+      "街灯の明かりが道を照らしていたから",
+      "歩行者がスマホの光を振っていたから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！街灯がついておったのじゃ！",
+      "wrong": "ぶー！周囲の明かりで見えた！"
+    }
+  },
+  {
+    "id": "rid_1006",
+    "question": "正確に1kgの鉄球と1kgの綿のかたまりがある。普通の空気中で天秤に乗せるとどちらに傾くじゃ？",
+    "options": [
+      "綿の方に傾く",
+      "鉄球の方に傾く",
+      "両方1kgなので完全に水平",
+      "わからない"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！綿の方が浮力を多く受けるから鉄が下がる！",
+      "wrong": "ぶー！空気の浮力で鉄側に傾くのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1007",
+    "question": "鏡に映った自分の顔を見てウインクした。鏡の中の自分はどちら側の目を閉じたじゃ？",
+    "options": [
+      "自分と反対側の目",
+      "自分と同じ側の目",
+      "両方の目を閉じた",
+      "目を閉じなかった"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！同じ側の目が閉じるのじゃ！",
+      "wrong": "ぶー！前後反射で左右は入れ替わらん！"
+    }
+  },
+  {
+    "id": "rid_1008",
+    "question": "泥棒が宝石店のショーウィンドウをハンマーで強く叩いたのにガラスに傷一つつかなかった。なぜじゃ？",
+    "options": [
+      "特殊防弾ガラスだったから",
+      "ショーウィンドウが開いていて空きを叩いたから",
+      "ハンマーがゴム製だったから",
+      "空振りしたから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！窓が開いていて空っぽを叩いたのじゃ！",
+      "wrong": "ぶー！空間を打っただけじゃ！"
+    }
+  },
+  {
+    "id": "rid_1009",
+    "question": "マラソン選手が42.195kmを走り切る間、心臓が止まらず動き続ける生理学的理由は？",
+    "options": [
+      "マラソン専用の心臓強化訓練のおかげ",
+      "自律神経が意志と関係なく拍動を保つから",
+      "エナジードリンクを飲み続けたから",
+      "心臓が脚の筋肉の助けを借りるから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！不随意筋で勝手に動き続けるのじゃ！",
+      "wrong": "ぶー！自律神経が止めんのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1010",
+    "question": "部屋に三人座って話している。外から入ってきた人が「二人しかいないね？」と言った。どうしたのじゃ？",
+    "options": [
+      "一人がクローゼットに隠れていたから",
+      "一人が赤ちゃんだったから",
+      "一人が透明人間だったから",
+      "一人が鏡に映った影だったから"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！大人二人と抱かれた赤ちゃんだったのじゃ！",
+      "wrong": "ぶー！赤ちゃんは「人」と数えにくい！"
+    }
+  },
+  {
+    "id": "rid_1011",
+    "question": "未舗装の砂利道を走るとき窓を全部閉めても車内に土ほこりが少し入る理由は？",
+    "options": [
+      "車体下部の換気口から入るから",
+      "窓のゴムパッキンがないから",
+      "運転手の靴についた土が飛ぶから",
+      "エアコンフィルターが破れているから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！下部の通気口から吸い込まれるのじゃ！",
+      "wrong": "ぶー！圧力調整の穴じゃ！"
+    }
+  },
+  {
+    "id": "rid_1012",
+    "question": "猟師がトラを見つけて引き金を引いた。弾はトラの眉間を正確に貫いたのにトラは血一滴も出さず無事だった。なぜじゃ？",
+    "options": [
+      "防弾ベストを着たトラだったから",
+      "剥製の模型だったから",
+      "麻酔銃だったから",
+      "カメラのシャッターを切ったから"
+    ],
+    "answer_index": 3,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！カメラで「撃った」のじゃ！",
+      "wrong": "ぶー！言葉遊びの撮影じゃ！"
+    }
+  },
+  {
+    "id": "rid_1013",
+    "question": "二枚の紙の間にのりを薄く塗って強く押した。1秒で剥がそうとしたらもう固くくっついていた。使った接着剤は？",
+    "options": [
+      "木工用ボンド",
+      "瞬間接着剤（シアノアクリレート）",
+      "両面テープ",
+      "ご飯粒"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！瞬間接着剤は数秒で固まるのじゃ！",
+      "wrong": "ぶー！超速硬化の性質じゃ！"
+    }
+  },
+  {
+    "id": "rid_1014",
+    "question": "高さ100mの崖から飛び込んだダイバーが水面にぶつかっても怪我しなかった理由は？",
+    "options": [
+      "入水角度を刀のように完璧に合わせたから",
+      "下に巨大な気泡緩衝装置があったから",
+      "崖からバンジージャンプのロープをつけて飛んだから",
+      "水の表面張力が弱かったから"
+    ],
+    "answer_index": 2,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！バンジーロープが止めたのじゃ！",
+      "wrong": "ぶー！安全ロープ付きじゃ！"
+    }
+  },
+  {
+    "id": "rid_1015",
+    "question": "氷がいっぱいのクーラーボックスに缶飲料を入れて10分。いちばん早く冷やす方法は？",
+    "options": [
+      "クーラーを毛布で覆う",
+      "氷に塩をたっぷりまいて水を注ぐ",
+      "缶を逆さまにする",
+      "ドライアイスを横に置く"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！塩で氷点を下げて超冷却じゃ！",
+      "wrong": "ぶー！塩水接触が一番早い！"
+    }
+  },
+  {
+    "id": "rid_1016",
+    "question": "森で道に迷ったとき木の根元の苔を見て北を探す方法がいつも当たらない理由は？",
+    "options": [
+      "湿気と日陰があればどこでも苔が生えるから",
+      "コンパスの磁場が苔を乱すから",
+      "鳥が苔をついばむから",
+      "苔は日光に向かって生えるから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！日陰と湿気があれば方向関係なし！",
+      "wrong": "ぶー！南にも生えるのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1017",
+    "question": "腕時計の秒針が1秒ごとに止まる動き（クオーツ）と滑らかに流れる動き（機械式）のうち、電池を使うのは？",
+    "options": [
+      "ほとんどが止まるクオーツ時計",
+      "滑らかな機械式時計",
+      "両方電池を使う",
+      "両方ぜんまいで動く"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！クオーツは電池節約でステップ駆動じゃ！",
+      "wrong": "ぶー！跳ねる方が電池式じゃ！"
+    }
+  },
+  {
+    "id": "rid_1018",
+    "question": "自転車で急な下り坂を下るとき前ブレーキだけ強く握るとどうなるじゃ？",
+    "options": [
+      "後輪が浮いて前転する（エンドー）",
+      "自転車がすぐにその場で止まる",
+      "タイヤが横滑りして倒れる",
+      "チェーンが外れる"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！重心が前に移って前転じゃ！",
+      "wrong": "ぶー！前ブレーキだけは危険じゃ！"
+    }
+  },
+  {
+    "id": "rid_1019",
+    "question": "海の真ん中で雨が降ると海面の塩分濃度はどう変わるじゃ？",
+    "options": [
+      "一時的に塩分が下がる（淡水が混ざる）",
+      "海水が雨を吸収してもっと塩辛くなる",
+      "海流のおかげで全く変わらない",
+      "泡が立って白くなる"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！真水の雨で表面が薄まるのじゃ！",
+      "wrong": "ぶー！一時的に薄くなる！"
+    }
+  },
+  {
+    "id": "rid_1020",
+    "question": "夜空の北斗七星をスマホのカメラで撮ったのに写真に星が一つも写らなかった。なぜじゃ？",
+    "options": [
+      "スマホの露出時間が短すぎて光が足りないから",
+      "レンズフィルターが紫外線を遮断したから",
+      "フラッシュが焚かれてまぶしかったから",
+      "画面タッチのピントが合わなかったから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！暗い星には長時間露光が必要なのじゃ！",
+      "wrong": "ぶー！シャッターが速すぎたのじゃ！"
+    }
+  },
+  {
+    "id": "rid_1021",
+    "question": "密閉された部屋で扇風機を10時間つけっぱなしにすると、部屋の温度はどうなるじゃ？",
+    "options": [
+      "風でだんだん涼しくなる",
+      "モーターの電気発熱で温度が上がる",
+      "温度は全く変わらない",
+      "湿度が下がって快適になる"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！モーターが電気を熱に変えるのじゃ！",
+      "wrong": "ぶー！扇風機は空気を冷やさん、温める！"
+    }
+  },
+  {
+    "id": "rid_1022",
+    "question": "飛行機が高い高度に上がるほどお菓子の袋がパンパンに膨らむ科学的理由は？",
+    "options": [
+      "機内温度が急上昇するから",
+      "外気圧が下がって内部の空気が膨張するから",
+      "お菓子の窒素が化学反応を起こすから",
+      "エンジンの振動のせい"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！外気圧が下がって袋が膨らむのじゃ！",
+      "wrong": "ぶー！気圧差だけの現象じゃ！"
+    }
+  },
+  {
+    "id": "rid_1023",
+    "question": "水の入ったグラスの縁を濡れた指で円くこすると澄んだ共鳴音が鳴る原理は？",
+    "options": [
+      "指紋の摩擦によるグラスの微振動",
+      "水が指の体温で沸騰するから",
+      "指先の静電気放電現象",
+      "空気がカップの中で渦を巻くから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "nature",
+    "kkaebi_reaction": {
+      "correct": "クハハ！スティック・スリップ摩擦でグラスが歌うのじゃ！",
+      "wrong": "ぶー！摩擦振動が鍵じゃ！"
+    }
+  },
+  {
+    "id": "rid_1024",
+    "question": "真っ暗な部屋で蛍光灯のスイッチを入れたとき、部屋全体が明るくなるのにかかる時間はおよそどれくらいじゃ？",
+    "options": [
+      "1秒",
+      "即座（光の速度）",
+      "0.5秒",
+      "5秒"
+    ],
+    "answer_index": 1,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "common_sense",
+    "kkaebi_reaction": {
+      "correct": "クハハ！光の速さは人間には瞬時じゃ！",
+      "wrong": "ぶー！室内では事実上一瞬じゃ！"
+    }
+  },
+  {
+    "id": "rid_1025",
+    "question": "100階建ての超高層ビルの屋上に上がると、地上1階より時間がごくわずかに速く流れる相対性理論の理由は？",
+    "options": [
+      "地球の中心から遠ざかり重力が弱まるから",
+      "風が強く吹いて時計が速くなるから",
+      "気温が低く原子の振動が速くなるから",
+      "空気抵抗が減るから"
+    ],
+    "answer_index": 0,
+    "reward_keys": 1,
+    "difficulty": 1,
+    "category": "space",
+    "kkaebi_reaction": {
+      "correct": "クハハ！重力が弱いほど時間の遅れが少ないのじゃ！",
+      "wrong": "ぶー！一般相対性理論：高いほど時計が速く進む！"
+    }
   }
 ]
