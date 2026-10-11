@@ -3902,22 +3902,6 @@
     "kkaebi_comment": "Si el obstáculo es un muro, ¡conviértete en escalera! Da Vinci vivió así."
   },
   {
-    "id": "quo_246",
-    "text": "Sonamos con transformar el planeta; casi nunca pensamos en mirar hacia dentro.",
-    "category": "world",
-    "tone_tags": [
-      "zen"
-    ],
-    "author": "León Tolstói",
-    "source": "Tres métodos de reforma (1900)",
-    "theme": "growth",
-    "emotion": "awaken",
-    "time_slot": [
-      "evening"
-    ],
-    "kkaebi_comment": "¡No puedes arreglar todo el mundo! Hoy empieza por cortarte las uñas."
-  },
-  {
     "id": "quo_247",
     "text": "Qué maravilla que no haga falta esperar ni un instante para empezar a mejorar el mundo.",
     "category": "world",
@@ -4420,22 +4404,6 @@
     "kkaebi_comment": "¡Deja de quejarte del viento! Coge tu garrote y corramos juntos."
   },
   {
-    "id": "quo_277",
-    "text": "La fortuna está del lado de los valientes.",
-    "category": "world",
-    "tone_tags": [
-      "fire"
-    ],
-    "author": "Virgilio",
-    "source": "Eneida, libro X",
-    "theme": "courage",
-    "emotion": "fire",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "¡No te acobardes! Mi llave dorada te protege."
-  },
-  {
     "id": "quo_278",
     "text": "Si preocuparse acabara con las preocupaciones, no habría preocupaciones.",
     "category": "proverb",
@@ -4834,22 +4802,6 @@
       "noon"
     ],
     "kkaebi_comment": "¡Ríete hoy a carcajadas y la suerte vendrá rodando sola!"
-  },
-  {
-    "id": "quo_303",
-    "text": "Descubrir de veras no exige tierras lejanas: exige estrenar una mirada distinta.",
-    "category": "world",
-    "tone_tags": [
-      "serene"
-    ],
-    "author": "Marcel Proust",
-    "source": "En busca del tiempo perdido",
-    "theme": "zen",
-    "emotion": "serene",
-    "time_slot": [
-      "evening"
-    ],
-    "kkaebi_comment": "Gira un poquito la mirada: las oportunidades están por todas partes."
   },
   {
     "id": "quo_304",
@@ -8180,22 +8132,6 @@
     "kkaebi_comment": "¡Cuanto más fea se pone la situación, más afilada brilla la mirada de este duende!"
   },
   {
-    "id": "quo_512",
-    "text": "Quien acumula libros y no medita camina a ciegas; quien medita sin libros se tambalea.",
-    "category": "classic",
-    "tone_tags": [
-      "serene"
-    ],
-    "author": "Confucio",
-    "source": "Analectas: Weizheng",
-    "theme": "growth",
-    "emotion": "serene",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "Si ya estudiaste, ¡haz rodar la cabeza con tu propio código!"
-  },
-  {
     "id": "quo_513",
     "text": "Un alma que sabe agradecer lo pequeño nunca es pobre.",
     "category": "classic",
@@ -9044,22 +8980,6 @@
     "kkaebi_comment": "Abre bien los ojos y mira alrededor: ¡todo es tu escenario!"
   },
   {
-    "id": "quo_566",
-    "text": "Solo al pasar por el valle oscuro se aprende a guiarse por las estrellas.",
-    "category": "proverb",
-    "tone_tags": [
-      "serene"
-    ],
-    "author": "Proverbio de Oriente y Occidente",
-    "source": "Frases DOK-KEY",
-    "theme": "comfort",
-    "emotion": "serene",
-    "time_slot": [
-      "night"
-    ],
-    "kkaebi_comment": "¡No te asustes porque el camino sea áspero: yo voy delante abriéndolo!"
-  },
-  {
     "id": "quo_567",
     "text": "El verdadero valor se esconde en la humildad y la fanfarronería sale del carro vacío.",
     "category": "world",
@@ -9250,22 +9170,6 @@
       "morning"
     ],
     "kkaebi_comment": "¡Si vives por el gusto de aprender cosas nuevas, serás un duende eternamente joven!"
-  },
-  {
-    "id": "quo_579",
-    "text": "Aguantar sabe amargo; la cosecha que deja, en cambio, es dulce.",
-    "category": "world",
-    "tone_tags": [
-      "serene"
-    ],
-    "author": "Jean-Jacques Rousseau",
-    "source": "Frases DOK-KEY",
-    "theme": "growth",
-    "emotion": "serene",
-    "time_slot": [
-      "noon"
-    ],
-    "kkaebi_comment": "¡Aprieta los dientes un poco: te espera una recompensa más dulce que la miel!"
   },
   {
     "id": "quo_580",
@@ -10322,22 +10226,6 @@
       "morning"
     ],
     "kkaebi_comment": "Una gota de sudor de hoy caerá mañana como un rayo de oro."
-  },
-  {
-    "id": "quo_646",
-    "text": "El verdadero valor no es no tener miedo, sino plantarle cara.",
-    "category": "classic",
-    "tone_tags": [
-      "fire"
-    ],
-    "author": "Platón",
-    "source": "Frases DOK-KEY",
-    "theme": "courage",
-    "emotion": "fire",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "¡Aunque te tiemblen las piernas, agarra firme el garrote y da un paso!"
   },
   {
     "id": "quo_647",
@@ -12721,23 +12609,6 @@
     "kkaebi_comment": "Por cada día que aguantaste, hay una estrella más en el cielo."
   },
   {
-    "id": "quo_791",
-    "text": "El recuerdo no te impide dejar el pasado: hace más valioso el hoy.",
-    "category": "insight",
-    "tone_tags": [
-      "wisdom",
-      "serene"
-    ],
-    "author": "Cuaderno de sabiduría de Kkaebi",
-    "source": "Colección de sabiduría DOK-KEY",
-    "theme": "nostalgia",
-    "emotion": "love",
-    "time_slot": [
-      "evening"
-    ],
-    "kkaebi_comment": "Gracias a los recuerdos bonitos, el hoy brilla más."
-  },
-  {
     "id": "quo_792",
     "text": "Cuando corren las lágrimas, esas lágrimas están lavándote el corazón.",
     "category": "insight",
@@ -12980,23 +12851,6 @@
       "night"
     ],
     "kkaebi_comment": "Aunque se vayan, lo que queda en el recuerdo es amor."
-  },
-  {
-    "id": "quo_806",
-    "text": "Para ti, que has pasado un tiempo difícil, el mundo será un poco más amable.",
-    "category": "insight",
-    "tone_tags": [
-      "hope",
-      "serene"
-    ],
-    "author": "Cuaderno de sabiduría de Kkaebi",
-    "source": "Colección de sabiduría DOK-KEY",
-    "theme": "comfort",
-    "emotion": "hope",
-    "time_slot": [
-      "morning"
-    ],
-    "kkaebi_comment": "Tanto como aguantaste, el mundo te tratará con más cariño."
   },
   {
     "id": "quo_807",
