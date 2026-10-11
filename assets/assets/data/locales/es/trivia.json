@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "tri_001",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "¿Cuál es el animal vivo más grande de la Tierra?",
+    "options": [
+      "Elefante africano",
+      "Ballena azul",
+      "Cachalote",
+      "Gran tiburón blanco"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "¿Qué distancia recorre aproximadamente la luz en el vacío durante un segundo?",
+    "options": [
+      "Unos 30.000 km",
+      "Unos 150.000 km",
+      "Unos 300.000 km",
+      "Unos 500.000 km"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "¿Cuántos días tiene normalmente un año solar, es decir, el tiempo que tarda la Tierra en dar una vuelta alrededor del Sol?",
+    "options": [
+      "365 días",
+      "360 días",
+      "366 días",
+      "300 días"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "¿Cuántas cavidades tiene el corazón humano?",
+    "options": [
+      "Dos aurículas y un ventrículo",
+      "Dos aurículas y dos ventrículos (cuatro en total)",
+      "Una aurícula y dos ventrículos",
+      "Tres aurículas y un ventrículo"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "¿Cuántos planetas hay en el sistema solar, desde Mercurio hasta Neptuno?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "¿Cuál es el mineral natural más duro conocido, con una dureza de 10 en la escala de Mohs?",
+    "options": [
+      "Cuarzo",
+      "Corindón",
+      "Diamante",
+      "Titanio"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "¿Qué gas absorben las plantas del aire para realizar la fotosíntesis?",
+    "options": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Hidrógeno"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "¿Cuál es el órgano más grande del cuerpo humano por superficie y peso?",
+    "options": [
+      "Hígado",
+      "Pulmones",
+      "Intestino grueso",
+      "Piel"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "¿Cuál es la distancia media aproximada entre la Tierra y la Luna?",
+    "options": [
+      "Unos 38.000 km",
+      "Unos 384.000 km",
+      "Unos 3.800.000 km",
+      "Unos 1.500.000 km"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "¿Por qué la punta norte de una brújula magnética señala hacia el norte geográfico?",
+    "options": [
+      "Porque el norte geográfico de la Tierra tiene propiedades magnéticas de polo sur",
+      "Porque hay enormes minas de hierro magnético en el polo",
+      "Porque la luz solar se concentra hacia el norte",
+      "Porque el eje de rotación terrestre está inclinado"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "¿Cuál es el nombre químico del ingrediente principal de la sal de mesa?",
+    "options": [
+      "Carbonato de calcio",
+      "Cloruro de sodio (NaCl)",
+      "Sulfato de magnesio",
+      "Hidróxido de potasio"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "¿Cuántos colores se distinguen tradicionalmente en el arcoíris?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer_index": 2,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "¿Qué animal terrestre puede alcanzar una velocidad punta de unos 120 km/h?",
+    "options": [
+      "Guepardo",
+      "Leopardo",
+      "León",
+      "Gacela"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "¿Por qué el hielo sólido flota sobre el agua líquida?",
+    "options": [
+      "Porque el hielo tiene menor densidad que el agua líquida",
+      "Porque el hielo está más frío",
+      "Porque el hielo contiene muchas burbujas de aire",
+      "Porque tiene menor tensión superficial"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "¿Cuántos huesos tiene normalmente el esqueleto de una persona adulta?",
+    "options": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "¿Qué planeta del sistema solar es el más grande por volumen y masa?",
+    "options": [
+      "Saturno",
+      "Júpiter",
+      "Neptuno",
+      "Urano"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "¿Qué gas constituye aproximadamente el 78 % del volumen de la atmósfera terrestre?",
+    "options": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Argón",
+      "Nitrógeno"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "¿Cuál es la unidad básica más pequeña de información en la informática binaria?",
+    "options": [
+      "Bit",
+      "Byte",
+      "Palabra",
+      "Nibble"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "¿Cuál es la velocidad aproximada del sonido en el aire a temperatura ambiente?",
+    "options": [
+      "Unos 140 m/s",
+      "Unos 340 m/s",
+      "Unos 740 m/s",
+      "Unos 1.200 m/s"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_021",
+    "question": "¿Qué planeta está más cerca del Sol?",
+    "options": [
+      "Mercurio",
+      "Venus",
+      "Tierra",
+      "Marte"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_022",
+    "question": "¿En qué capa de la atmósfera terrestre se encuentra la capa de ozono que absorbe la radiación ultravioleta?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_023",
+    "question": "¿Cómo se llama un cuerpo celeste que emite luz propia?",
+    "options": [
+      "Planeta",
+      "Satélite",
+      "Estrella",
+      "Cometa"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_024",
+    "question": "¿Qué planeta es el más brillante en nuestro cielo y también se conoce como lucero del alba?",
+    "options": [
+      "Júpiter",
+      "Venus",
+      "Marte",
+      "Saturno"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_025",
+    "question": "¿Por qué la superficie de Marte se ve roja?",
+    "options": [
+      "Porque la lava hierve y se desborda",
+      "Porque contiene mucho óxido de hierro (herrumbre)",
+      "Porque refleja la luz solar en tonos rojos",
+      "Porque su atmósfera es rica en oxígeno"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_026",
+    "question": "¿Cómo se llama la subida y bajada periódica del nivel del mar causada por la gravedad de la Luna y el Sol?",
+    "options": [
+      "Tsunami",
+      "Mareas (pleamar y bajamar)",
+      "Corrientes oceánicas",
+      "El Niño"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_027",
+    "question": "¿Cuáles son los principales componentes del núcleo metálico, extremadamente caliente y denso, de la Tierra?",
+    "options": [
+      "Aluminio y cobre",
+      "Hierro y níquel",
+      "Oro y plata",
+      "Magnesio y silicio"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_028",
+    "question": "¿Qué objeto celeste se forma cuando una estrella colapsa por la gravedad hasta alcanzar una densidad de la que ni siquiera puede escapar la luz?",
+    "options": [
+      "Enana blanca",
+      "Agujero negro",
+      "Estrella de neutrones",
+      "Cuásar"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_029",
+    "question": "¿Qué forma tiene nuestra galaxia, la Vía Láctea?",
+    "options": [
+      "Galaxia elíptica",
+      "Galaxia irregular",
+      "Galaxia espiral barrada",
+      "Galaxia esférica"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_030",
+    "question": "¿Qué planeta del sistema solar es el más grande y tiene anillos destacados de hielo y roca?",
+    "options": [
+      "Júpiter",
+      "Saturno",
+      "Urano",
+      "Neptuno"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_031",
+    "question": "¿Qué fenómeno se produce porque la Luna tarda lo mismo en girar sobre sí misma que en orbitar la Tierra?",
+    "options": [
+      "Desde la Tierra solo vemos la cara cercana de la Luna",
+      "Las fases de la Luna nunca cambian",
+      "Hay un eclipse lunar todos los meses",
+      "La gravedad de la Luna se vuelve cero"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_032",
+    "question": "¿Cuántos grados aproximadamente está inclinado el eje de rotación de la Tierra respecto a la vertical?",
+    "options": [
+      "Unos 15,5°",
+      "Unos 23,5°",
+      "Unos 33,5°",
+      "Unos 45,0°"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_033",
+    "question": "¿Cómo se llama el espectacular telón de luces que aparece en los cielos polares debido a la actividad solar?",
+    "options": [
+      "Aurora",
+      "Espejismo",
+      "Arcoíris",
+      "Resplandor del atardecer"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_034",
+    "question": "¿Qué onda sísmica llega primero a una estación de observación tras originarse un terremoto?",
+    "options": [
+      "Onda P (longitudinal)",
+      "Onda S (transversal)",
+      "Onda L (superficial)",
+      "Onda R"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_035",
+    "question": "¿Cómo se llaman las enormes olas provocadas por erupciones volcánicas o terremotos submarinos?",
+    "options": [
+      "Olas de tormenta",
+      "Tsunami (ola sísmica marina)",
+      "Mar de fondo",
+      "Corrientes de marea"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_036",
+    "question": "¿Cuál es la fosa oceánica más profunda de la Tierra, con una profundidad cercana a los 11.000 metros?",
+    "options": [
+      "Fosa de las Marianas",
+      "Fosa de Japón",
+      "Fosa de Tonga",
+      "Fosa de Puerto Rico"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_037",
+    "question": "¿Cuál es la causa fundamental de las cuatro estaciones del año?",
+    "options": [
+      "La distancia entre la Tierra y el Sol cambia",
+      "La Tierra orbita el Sol con su eje inclinado",
+      "La energía térmica del Sol cambia según la estación",
+      "La gravedad de la Luna varía"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_038",
+    "question": "¿Qué planeta es el más caliente del sistema solar y alcanza unos 460 °C en su superficie?",
+    "options": [
+      "Mercurio",
+      "Venus (efecto invernadero)",
+      "Marte",
+      "Júpiter"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_039",
+    "question": "¿Qué porcentaje aproximado del volumen de la atmósfera terrestre corresponde al oxígeno?",
+    "options": [
+      "Un 10 %",
+      "Un 21 %",
+      "Un 35 %",
+      "Un 50 %"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_040",
+    "question": "¿Cómo se llama la roca fundida y extremadamente caliente que se encuentra bajo tierra y puede salir durante una erupción volcánica?",
+    "options": [
+      "Lava",
+      "Magma",
+      "Ceniza volcánica",
+      "Basalto"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_041",
+    "question": "¿Qué ley de la física describe la fuerza con la que todos los objetos se atraen mutuamente?",
+    "options": [
+      "Gravitación universal (gravedad)",
+      "Fricción",
+      "Fuerza centrífuga",
+      "Fuerza electromagnética"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_042",
+    "question": "¿Qué células sanguíneas transportan el oxígeno por todo el cuerpo humano?",
+    "options": [
+      "Glóbulos blancos",
+      "Glóbulos rojos (hemoglobina)",
+      "Plaquetas",
+      "Plasma"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_043",
+    "question": "¿Cuál es la unidad estándar del SI para la corriente eléctrica, el flujo de carga?",
+    "options": [
+      "Voltio (V)",
+      "Amperio (A)",
+      "Vatio (W)",
+      "Ohmio (Ω)"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_044",
+    "question": "¿A qué temperatura hierve el agua pura a presión atmosférica estándar (1 atm)?",
+    "options": [
+      "90°C",
+      "100°C",
+      "120°C",
+      "80°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_045",
+    "question": "¿Qué componente de la sangre coagula y detiene el sangrado cuando el cuerpo se hiere?",
+    "options": [
+      "Glóbulos rojos",
+      "Plaquetas",
+      "Linfocitos",
+      "Monocitos"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_046",
+    "question": "¿Qué cambio de estado convierte un sólido directamente en gas sin pasar por líquido?",
+    "options": [
+      "Fusión",
+      "Vaporización",
+      "Sublimación",
+      "Solidificación"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_047",
+    "question": "¿Qué partículas con carga negativa orbitan alrededor de los protones y neutrones del núcleo atómico?",
+    "options": [
+      "Electrones",
+      "Fotones",
+      "Positrones",
+      "Quarks"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_048",
+    "question": "¿Qué propiedad tiene una solución con un pH inferior a 7?",
+    "options": [
+      "Ácida",
+      "Básica (alcalina)",
+      "Neutra",
+      "No polar"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_049",
+    "question": "¿Cuál es el órgano más grande del cuerpo humano, encargado de la desintoxicación, la producción de bilis y el almacenamiento de nutrientes?",
+    "options": [
+      "Estómago",
+      "Hígado",
+      "Riñones",
+      "Bazo"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_050",
+    "question": "¿Qué gran principio de la física afirma que la energía no se crea ni se destruye, solo se transforma?",
+    "options": [
+      "Ley de conservación de la energía",
+      "Ley de la inercia",
+      "Ley de acción y reacción",
+      "Principio de Pascal"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_051",
+    "question": "¿Cuál es el elemento más ligero y abundante del universo, el número 1 de la tabla periódica?",
+    "options": [
+      "Helio",
+      "Hidrógeno (H)",
+      "Litio",
+      "Carbono"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_052",
+    "question": "¿Cuál es aproximadamente la temperatura corporal normal del ser humano?",
+    "options": [
+      "Alrededor de 35,0°C",
+      "Alrededor de 36,5°C",
+      "Alrededor de 38,0°C",
+      "Alrededor de 39,5°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_053",
+    "question": "¿Qué parte del ojo actúa como una lente, refractando la luz para enfocar la imagen en la retina?",
+    "options": [
+      "El cristalino",
+      "El iris",
+      "La córnea",
+      "El cuerpo vítreo"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_054",
+    "question": "¿Cómo se llama la reacción química en la que una sustancia se combina rápidamente con oxígeno liberando calor y luz?",
+    "options": [
+      "Oxidación",
+      "Combustión",
+      "Reducción",
+      "Neutralización"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_055",
+    "question": "¿Qué órgano filtra los desechos de la sangre y los elimina en forma de orina?",
+    "options": [
+      "Vesícula biliar",
+      "Riñones",
+      "Páncreas",
+      "Duodeno"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_056",
+    "question": "¿Cómo se llama la reacción cuando el hierro se encuentra con oxígeno y humedad del aire y se oxida de color rojo?",
+    "options": [
+      "Reacción de oxidación",
+      "Reacción de reducción",
+      "Reacción de sustitución",
+      "Reacción de fermentación"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_057",
+    "question": "¿Qué propiedad hace que un objeto mantenga su estado de movimiento a menos que actúe una fuerza externa?",
+    "options": [
+      "Elasticidad",
+      "Inercia",
+      "Fricción",
+      "Viscosidad"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_058",
+    "question": "¿Qué unidad expresa el consumo de energía de los electrodomésticos?",
+    "options": [
+      "Voltio (V)",
+      "Vatio (W)",
+      "Hertz (Hz)",
+      "Julio (J)"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_059",
+    "question": "¿Qué molécula de doble hélice en el núcleo celular contiene la información genética del cuerpo?",
+    "options": [
+      "ADN",
+      "ARN",
+      "ATP",
+      "Proteína"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_060",
+    "question": "¿Qué fuerza hace que los polos iguales de un imán se repelan y los polos opuestos se atraigan?",
+    "options": [
+      "Fuerza magnética",
+      "Fuerza centrífuga",
+      "Flotabilidad",
+      "Gravedad"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_061",
+    "question": "¿Cuál es el único mamífero que puede volar de verdad?",
+    "options": [
+      "Ardilla voladora",
+      "Murciélago",
+      "Avestruz",
+      "Pingüino"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_062",
+    "question": "¿Cuál es el mamífero más alto de la Tierra?",
+    "options": [
+      "Elefante",
+      "Jirafa",
+      "Hipopótamo",
+      "Camello"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_063",
+    "question": "¿Qué ave vive principalmente en la Antártida, no puede volar pero nada excelentemente?",
+    "options": [
+      "Gaviota",
+      "Pingüino",
+      "Albatros",
+      "Pelícano"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_064",
+    "question": "¿Qué animal, con jorobas en la espalda, sobrevive días en el desierto sin agua ni comida?",
+    "options": [
+      "Camello",
+      "Yak",
+      "Llama",
+      "Zorro del desierto"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_065",
+    "question": "¿Qué reptil cambia libremente el color de su piel según el entorno y la luz?",
+    "options": [
+      "Camaleón",
+      "Gecko",
+      "Iguana",
+      "Cocodrilo"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_066",
+    "question": "¿Cuál es la vasta selva tropical llamada los pulmones de la Tierra, que genera gran parte del oxígeno del mundo?",
+    "options": [
+      "La selva amazónica",
+      "La selva del Congo",
+      "La taiga siberiana",
+      "La selva de Borneo"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_067",
+    "question": "El cuerpo de un insecto se divide en cabeza, tórax y abdomen. ¿Cuántas patas tiene en total?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_068",
+    "question": "¿Es una araña un insecto o no? (Las arañas tienen 8 patas)",
+    "options": [
+      "No es un insecto (es un arácnido, clase Arachnida)",
+      "Es un insecto",
+      "Es un molusco",
+      "Es un anélido"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_069",
+    "question": "¿Cómo se llama el proceso por el cual las plantas liberan agua en forma de vapor al aire a través de tallos y hojas?",
+    "options": [
+      "Transpiración",
+      "Fotosíntesis",
+      "Respiración",
+      "Ósmosis"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_070",
+    "question": "¿Qué mamífero marino icónico vive en el mar, es muy inteligente y se comunica con ultrasonidos?",
+    "options": [
+      "Delfín",
+      "Tiburón",
+      "Atún",
+      "Raya"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_071",
+    "question": "¿Cuál es la teoría principal sobre lo que extinguió a los dinosaurios hace unos 66 millones de años?",
+    "options": [
+      "La llegada de una era glacial",
+      "El impacto de un asteroide (meteorito)",
+      "Una pandemia descontrolada",
+      "El agotamiento del oxígeno"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_072",
+    "question": "¿Cuáles son dos gases de efecto invernadero representativos detrás del calentamiento global?",
+    "options": [
+      "Dióxido de carbono y metano",
+      "Oxígeno y nitrógeno",
+      "Hidrógeno y helio",
+      "Argón y neón"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_073",
+    "question": "¿Cómo se llama la transformación en la que un renacuajo se convierte en rana, cambiando completamente su forma?",
+    "options": [
+      "Muda",
+      "Metamorfosis",
+      "Evolución",
+      "División"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_074",
+    "question": "¿El bambú es un árbol o una hierba?",
+    "options": [
+      "Una hierba perenne (de la familia de las gramíneas)",
+      "Un árbol leñoso",
+      "Una enredadera",
+      "Un musgo"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_075",
+    "question": "¿Qué criaturas marinas son los clásicos peces cartilaginosos, con esqueletos hechos solo de cartílago blando?",
+    "options": [
+      "Tiburones y rayas",
+      "Caballa y pez saurio",
+      "Dorada y lenguado",
+      "Salmón y trucha"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_076",
+    "question": "¿Cuál es el océano más grande de la Tierra, que cubre aproximadamente un tercio de su superficie?",
+    "options": [
+      "Océano Atlántico",
+      "Océano Pacífico",
+      "Océano Índico",
+      "Océano Ártico"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_077",
+    "question": "¿Qué informan las abejas a sus compañeras de colmena mediante su danza?",
+    "options": [
+      "La dirección y distancia del alimento (flores)",
+      "Una invasión enemiga",
+      "El paradero de la reina",
+      "Un pronóstico del tiempo"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_078",
+    "question": "¿Qué criatura hermafrodita sale del suelo después de la lluvia y fertiliza la tierra?",
+    "options": [
+      "Lombriz de tierra",
+      "Ciempiés",
+      "Caracol",
+      "Hormiga"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_079",
+    "question": "¿De qué color es realmente la piel de un oso polar debajo de su pelaje?",
+    "options": [
+      "Blanca",
+      "Negra (para absorber calor)",
+      "Rosa",
+      "Gris"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_080",
+    "question": "¿Qué grupo de animales respira por branquias en el agua y luego por pulmones y piel en la edad adulta?",
+    "options": [
+      "Anfibios",
+      "Reptiles",
+      "Aves",
+      "Mamíferos"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_081",
+    "question": "¿Cuántos bits componen un byte?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_082",
+    "question": "¿Qué científico británico inventó la World Wide Web (WWW), abriendo la revolución de internet?",
+    "options": [
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Alan Turing"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_083",
+    "question": "¿Cómo se llama el alfabeto propio de Corea creado por el rey Sejong el Grande de Joseon?",
+    "options": [
+      "Hunminjeongeum (Hangul)",
+      "Idu",
+      "Hyangchal",
+      "Gugyeol"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_084",
+    "question": "¿Cuál es la montaña más alta del mundo, un pico de 8.848 m en el Himalaya?",
+    "options": [
+      "K2",
+      "Monte Everest (Qomolangma)",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "answer_index": 1,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_085",
+    "question": "¿Qué matemático, considerado el padre de la inteligencia artificial, ideó el test de Turing?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Norbert Wiener",
+      "Claude Shannon"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_086",
+    "question": "¿Cuál fue el primer reloj de agua automático del mundo, construido por el científico de Joseon Jang Yeong-sil y otros?",
+    "options": [
+      "Jagyungnu (el reloj de agua autogolpeante)",
+      "Angbuilgu (reloj de sol)",
+      "Cheugugi (pluviómetro)",
+      "Honcheonui (esfera armilar)"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_087",
+    "question": "¿Qué componente central actúa como el cerebro del ordenador, encargándose del cálculo y el control?",
+    "options": [
+      "CPU (unidad central de procesamiento)",
+      "RAM (memoria principal)",
+      "SSD (almacenamiento secundario)",
+      "Fuente de alimentación"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_088",
+    "question": "¿Cuál es el libro más antiguo del mundo impreso con tipos móviles de metal que se conserva, incluido en el Registro de la Memoria del Mundo de la UNESCO?",
+    "options": [
+      "Jikji Simche Yojeol",
+      "La Biblia de Gutenberg",
+      "El Tripitaka Koreana",
+      "Samguk Yusa"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_089",
+    "question": "¿Qué método táctil detecta pequeños cambios electrostáticos cuando un dedo toca la pantalla de un smartphone?",
+    "options": [
+      "Resistivo",
+      "Capacitivo",
+      "Ultrasónico",
+      "Óptico"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_090",
+    "question": "¿Cómo se llamaba el cuerpo de jóvenes de Silla cuyo entrenamiento impulsó la unificación de los Tres Reinos?",
+    "options": [
+      "Hwarangdo",
+      "Joüi Seonin",
+      "Ssaulabi",
+      "Byeolmuban"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_091",
+    "question": "¿Qué tecnología de libro mayor distribuido almacena datos en muchos nodos para impedir la falsificación y la manipulación?",
+    "options": [
+      "Blockchain",
+      "Nube",
+      "Big data",
+      "Virtualización"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_092",
+    "question": "¿Qué barco de guerra acorazado ideó el almirante Yi Sun-sin para derrotar a la flota japonesa en la Guerra de Imjin?",
+    "options": [
+      "El Geobukseon (barco tortuga)",
+      "Panokseon",
+      "Maengseon",
+      "Hyeopseon"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_093",
+    "question": "¿Cómo se llama el protocolo que añade cifrado SSL/TLS al protocolo web HTTP?",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_094",
+    "question": "¿Qué escrituras talló Goryeo en más de 80.000 planchas de madera para orar por el rechazo de la invasión mongola?",
+    "options": [
+      "El Tripitaka Koreana (Palman Daejanggyeong)",
+      "Jikji",
+      "Samguk Sagi",
+      "Dongguk Isanggukjip"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_095",
+    "question": "¿Qué rey danés del siglo X dio nombre a la tecnología Bluetooth?",
+    "options": [
+      "Harald Bluetooth (Diente Azul)",
+      "Canuto el Grande",
+      "Eric Hacha de Sangre",
+      "Gustaf"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_096",
+    "question": "¿Qué ciudad fortaleza planificada construida por el rey Jeongjo de Joseon es Patrimonio de la Humanidad de la UNESCO?",
+    "options": [
+      "Suwon Hwaseong",
+      "Namhansanseong",
+      "Bukhansanseong",
+      "Jinjuseong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_097",
+    "question": "¿Qué matemático ideó la arquitectura de programa almacenado que está en el corazón de los ordenadores modernos?",
+    "options": [
+      "John von Neumann",
+      "Alan Turing",
+      "Isaac Newton",
+      "Gottfried Leibniz"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_098",
+    "question": "¿Qué fiesta tradicional coreana cae el día 15 del octavo mes lunar, cuando se preparan pasteles de arroz songpyeon con la nueva cosecha?",
+    "options": [
+      "Chuseok (Hangawi)",
+      "Seollal",
+      "Dano",
+      "Daeboreum"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_099",
+    "question": "En el código QR, ¿qué significan las siglas QR?",
+    "options": [
+      "Quick Response",
+      "Quality Record",
+      "Quantum Reader",
+      "Query Route"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_100",
+    "question": "¿Qué obra maestra enciclopédica de la medicina oriental compiló Heo Jun de Joseon?",
+    "options": [
+      "Dongui Bogam",
+      "Hyangyak Jipseongbang",
+      "Uibang Yuchwi",
+      "Bencao Gangmu"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_101",
+    "question": "¿Qué tecnología basada en satélites localiza posiciones en todo el mundo en tiempo real?",
+    "options": [
+      "GPS",
+      "NFC",
+      "RFID",
+      "LTE"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_102",
+    "question": "¿Qué canción popular coreana emblemática está inscrita en la lista del patrimonio cultural inmaterial de la UNESCO?",
+    "options": [
+      "Arirang",
+      "Doraji Taryeong",
+      "Miryang Arirang",
+      "Gunbam Taryeong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_103",
+    "question": "¿Qué estándar inalámbrico de corto alcance alimenta las tarjetas de transporte y los pagos móviles?",
+    "options": [
+      "NFC",
+      "Wi-Fi",
+      "GPS",
+      "Zigbee"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_104",
+    "question": "¿Cuál es el observatorio astronómico más antiguo de Oriente, erigido bajo la reina Seondeok de Silla?",
+    "options": [
+      "Cheomseongdae",
+      "Ganuidae",
+      "Gwacheondae",
+      "Heumgyeonggak"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_105",
+    "question": "¿Qué valor central entrega nuestra app DOK-KEY, que lleva la sabiduría del goblin?",
+    "options": [
+      "Sabiduría de vida — citas, consejos e insight",
+      "Meras puntuaciones de juego",
+      "Suerte aleatoria",
+      "Diversión de corta duración"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  }
+]

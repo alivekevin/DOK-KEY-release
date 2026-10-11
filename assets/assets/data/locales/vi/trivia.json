@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "tri_001",
+    "question": "Công thức hóa học của nước là gì?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "Động vật còn sống nào lớn nhất trên Trái Đất?",
+    "options": [
+      "Voi châu Phi",
+      "Cá voi xanh",
+      "Cá nhà táng",
+      "Cá mập trắng lớn"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "Trong chân không, ánh sáng đi được khoảng bao xa trong một giây?",
+    "options": [
+      "Khoảng 30.000 km",
+      "Khoảng 150.000 km",
+      "Khoảng 300.000 km",
+      "Khoảng 500.000 km"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "Một năm dương lịch thông thường có bao nhiêu ngày, tính theo thời gian Trái Đất quay quanh Mặt Trời một vòng?",
+    "options": [
+      "365 ngày",
+      "360 ngày",
+      "366 ngày",
+      "300 ngày"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "Tim người có bao nhiêu ngăn?",
+    "options": [
+      "Hai tâm nhĩ và một tâm thất",
+      "Hai tâm nhĩ và hai tâm thất (tổng cộng bốn ngăn)",
+      "Một tâm nhĩ và hai tâm thất",
+      "Ba tâm nhĩ và một tâm thất"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "Hệ Mặt Trời có bao nhiêu hành tinh, từ Sao Thủy đến Sao Hải Vương?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "Khoáng vật tự nhiên nào cứng nhất theo thang độ cứng Mohs, đạt mức 10?",
+    "options": [
+      "Thạch anh",
+      "Corundum",
+      "Kim cương",
+      "Titan"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "Thực vật hấp thụ khí nào từ không khí để thực hiện quá trình quang hợp?",
+    "options": [
+      "Oxy",
+      "Cacbon đioxit",
+      "Nitơ",
+      "Hydro"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "Cơ quan nào lớn nhất trong cơ thể người xét theo diện tích bề mặt và trọng lượng?",
+    "options": [
+      "Gan",
+      "Phổi",
+      "Ruột già",
+      "Da"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "Khoảng cách trung bình giữa Trái Đất và Mặt Trăng là bao nhiêu?",
+    "options": [
+      "Khoảng 38.000 km",
+      "Khoảng 384.000 km",
+      "Khoảng 3.800.000 km",
+      "Khoảng 1.500.000 km"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "Vì sao đầu Bắc của kim la bàn từ luôn chỉ về phía Bắc địa lý?",
+    "options": [
+      "Vì khu vực Bắc địa lý của Trái Đất có tính chất từ của cực Nam",
+      "Vì ở cực Bắc có những mỏ sắt từ khổng lồ",
+      "Vì ánh sáng Mặt Trời tập trung về phía Bắc",
+      "Vì trục quay của Trái Đất bị nghiêng"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "Tên hóa học của thành phần chính trong muối ăn là gì?",
+    "options": [
+      "Canxi cacbonat",
+      "Natri clorua (NaCl)",
+      "Magie sunfat",
+      "Kali hydroxit"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "Theo cách phân loại truyền thống, cầu vồng có bao nhiêu màu?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer_index": 2,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "Loài động vật trên cạn nào có thể đạt tốc độ tối đa khoảng 120 km/h?",
+    "options": [
+      "Báo gêpa",
+      "Báo hoa mai",
+      "Sư tử",
+      "Linh dương"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "Vì sao băng rắn nổi trên mặt nước lỏng?",
+    "options": [
+      "Vì băng có khối lượng riêng thấp hơn nước lỏng",
+      "Vì băng lạnh hơn",
+      "Vì trong băng có nhiều bọt khí",
+      "Vì sức căng bề mặt của băng thấp hơn"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "Bộ xương của một người trưởng thành thường có bao nhiêu chiếc xương?",
+    "options": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "Hành tinh nào lớn nhất trong Hệ Mặt Trời xét về thể tích và khối lượng?",
+    "options": [
+      "Sao Thổ",
+      "Sao Mộc",
+      "Sao Hải Vương",
+      "Sao Thiên Vương"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "Khí nào chiếm khoảng 78% thể tích khí quyển Trái Đất?",
+    "options": [
+      "Oxy",
+      "Cacbon đioxit",
+      "Argon",
+      "Nitơ"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "Đơn vị thông tin cơ bản nhỏ nhất trong máy tính nhị phân là gì?",
+    "options": [
+      "Bit",
+      "Byte",
+      "Word",
+      "Nibble"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "Ở nhiệt độ phòng, tốc độ âm thanh truyền trong không khí xấp xỉ bao nhiêu?",
+    "options": [
+      "Khoảng 140 m/s",
+      "Khoảng 340 m/s",
+      "Khoảng 740 m/s",
+      "Khoảng 1.200 m/s"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_021",
+    "question": "Hành tinh nào nằm gần Mặt Trời nhất?",
+    "options": [
+      "Sao Thủy",
+      "Sao Kim",
+      "Trái Đất",
+      "Sao Hỏa"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_022",
+    "question": "Tầng nào của khí quyển Trái Đất chứa tầng ôzôn hấp thụ tia cực tím?",
+    "options": [
+      "Tầng đối lưu",
+      "Tầng bình lưu",
+      "Tầng trung lưu",
+      "Tầng nhiệt"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_023",
+    "question": "Thiên thể tự phát ra ánh sáng được gọi là gì?",
+    "options": [
+      "Hành tinh",
+      "Vệ tinh",
+      "Ngôi sao",
+      "Sao chổi"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_024",
+    "question": "Hành tinh nào sáng nhất trên bầu trời và còn được gọi là sao Mai?",
+    "options": [
+      "Sao Mộc",
+      "Sao Kim",
+      "Sao Hỏa",
+      "Sao Thổ"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_025",
+    "question": "Vì sao bề mặt Sao Hỏa có màu đỏ?",
+    "options": [
+      "Vì dung nham sôi trào lên",
+      "Vì chứa nhiều oxit sắt (gỉ sắt)",
+      "Vì bề mặt phản chiếu ánh sáng Mặt Trời thành màu đỏ",
+      "Vì khí quyển chứa nhiều oxy"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_026",
+    "question": "Hiện tượng mực nước biển lên xuống theo chu kỳ do lực hấp dẫn của Mặt Trăng và Mặt Trời được gọi là gì?",
+    "options": [
+      "Sóng thần",
+      "Thủy triều (triều lên và triều xuống)",
+      "Dòng hải lưu",
+      "El Niño"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_027",
+    "question": "Hai thành phần chính của lõi kim loại nóng nhất và đặc nhất bên trong Trái Đất là gì?",
+    "options": [
+      "Nhôm và đồng",
+      "Sắt và niken",
+      "Vàng và bạc",
+      "Magiê và silic"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_028",
+    "question": "Thiên thể nào hình thành khi một ngôi sao sụp đổ do trọng lực, trở nên đặc đến mức ánh sáng cũng không thể thoát ra?",
+    "options": [
+      "Sao lùn trắng",
+      "Hố đen",
+      "Sao neutron",
+      "Chuẩn tinh"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_029",
+    "question": "Dải Ngân Hà của chúng ta có hình dạng tổng thể như thế nào?",
+    "options": [
+      "Thiên hà elip",
+      "Thiên hà bất quy tắc",
+      "Thiên hà xoắn ốc có thanh",
+      "Thiên hà hình cầu"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_030",
+    "question": "Hành tinh nào lớn nhất trong Hệ Mặt Trời và có những vành đai nổi bật làm từ băng và đá?",
+    "options": [
+      "Sao Mộc",
+      "Sao Thổ",
+      "Sao Thiên Vương",
+      "Sao Hải Vương"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_031",
+    "question": "Hiện tượng nào xảy ra vì thời gian Mặt Trăng tự quay quanh trục bằng thời gian nó quay quanh Trái Đất?",
+    "options": [
+      "Từ Trái Đất, chúng ta chỉ nhìn thấy mặt gần của Mặt Trăng",
+      "Các pha của Mặt Trăng không bao giờ thay đổi",
+      "Nguyệt thực xảy ra mỗi tháng",
+      "Lực hấp dẫn của Mặt Trăng trở thành bằng không"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_032",
+    "question": "Trục quay của Trái Đất nghiêng khoảng bao nhiêu độ so với phương thẳng đứng?",
+    "options": [
+      "Khoảng 15,5°",
+      "Khoảng 23,5°",
+      "Khoảng 33,5°",
+      "Khoảng 45,0°"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_033",
+    "question": "Những dải ánh sáng kỳ ảo xuất hiện trên bầu trời vùng cực do hoạt động của Mặt Trời được gọi là gì?",
+    "options": [
+      "Cực quang",
+      "Ảo ảnh",
+      "Cầu vồng",
+      "Ánh hoàng hôn"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_034",
+    "question": "Loại sóng địa chấn nào đến trạm quan trắc đầu tiên sau khi động đất xảy ra?",
+    "options": [
+      "Sóng P (sóng dọc)",
+      "Sóng S (sóng ngang)",
+      "Sóng L (sóng mặt)",
+      "Sóng R"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_035",
+    "question": "Những con sóng khổng lồ do núi lửa phun trào hoặc động đất dưới đáy biển gây ra được gọi là gì?",
+    "options": [
+      "Sóng bão",
+      "Sóng thần",
+      "Sóng biển dài",
+      "Dòng triều"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_036",
+    "question": "Rãnh biển nào sâu nhất trên Trái Đất, với độ sâu khoảng 11.000 mét?",
+    "options": [
+      "Rãnh Mariana",
+      "Rãnh Nhật Bản",
+      "Rãnh Tonga",
+      "Rãnh Puerto Rico"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_037",
+    "question": "Nguyên nhân cơ bản nhất tạo ra bốn mùa trong năm là gì?",
+    "options": [
+      "Khoảng cách giữa Trái Đất và Mặt Trời thay đổi",
+      "Trái Đất quay quanh Mặt Trời trong khi trục quay bị nghiêng",
+      "Lượng nhiệt Mặt Trời phát ra thay đổi theo mùa",
+      "Lực hấp dẫn của Mặt Trăng thay đổi"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_038",
+    "question": "Hành tinh nào nóng nhất trong Hệ Mặt Trời, với nhiệt độ bề mặt khoảng 460 °C?",
+    "options": [
+      "Sao Thủy",
+      "Sao Kim (hiệu ứng nhà kính)",
+      "Sao Hỏa",
+      "Sao Mộc"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_039",
+    "question": "Oxy chiếm khoảng bao nhiêu phần trăm thể tích khí quyển Trái Đất?",
+    "options": [
+      "Khoảng 10%",
+      "Khoảng 21%",
+      "Khoảng 35%",
+      "Khoảng 50%"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_040",
+    "question": "Đá nóng chảy ở sâu dưới lòng đất, có thể phun ra khi núi lửa hoạt động, được gọi là gì?",
+    "options": [
+      "Dung nham",
+      "Magma",
+      "Tro núi lửa",
+      "Đá bazan"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_041",
+    "question": "Định luật vật lý nào mô tả lực hút giữa mọi vật thể?",
+    "options": [
+      "Vạn vật hấp dẫn (trọng lực)",
+      "Ma sát",
+      "Lực ly tâm",
+      "Lực điện từ"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_042",
+    "question": "Tế bào máu nào vận chuyển oxy đi khắp cơ thể người?",
+    "options": [
+      "Bạch cầu",
+      "Hồng cầu (hemoglobin)",
+      "Tiểu cầu",
+      "Huyết tương"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_043",
+    "question": "Đơn vị chuẩn SI của dòng điện, dòng chảy của điện tích là gì?",
+    "options": [
+      "Volt (V)",
+      "Ampere (A)",
+      "Watt (W)",
+      "Ohm (Ω)"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_044",
+    "question": "Nước tinh khiết sôi ở nhiệt độ bao nhiêu dưới áp suất khí quyển tiêu chuẩn (1 atm)?",
+    "options": [
+      "90°C",
+      "100°C",
+      "120°C",
+      "80°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_045",
+    "question": "Thành phần máu nào đông máu và cầm máu khi cơ thể bị thương?",
+    "options": [
+      "Hồng cầu",
+      "Tiểu cầu",
+      "Lympho bào",
+      "Mono bào"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_046",
+    "question": "Sự thay đổi trạng thái nào biến chất rắn trực tiếp thành khí mà không qua lỏng?",
+    "options": [
+      "Nóng chảy",
+      "Bay hơi",
+      "Thăng hoa",
+      "Đông đặc"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_047",
+    "question": "Hạt mang điện tích âm nào quay quanh proton và neutron của hạt nhân nguyên tử?",
+    "options": [
+      "Electron",
+      "Photon",
+      "Positron",
+      "Quark"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_048",
+    "question": "Dung dịch có pH dưới 7 mang tính chất gì?",
+    "options": [
+      "Axit",
+      "Bazơ (kiềm)",
+      "Trung tính",
+      "Không phân cực"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_049",
+    "question": "Cơ quan lớn nhất trong cơ thể người, đảm nhiệm giải độc, tạo mật và dự trữ dưỡng chất là gì?",
+    "options": [
+      "Dạ dày",
+      "Gan",
+      "Thận",
+      "Lách"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_050",
+    "question": "Nguyên lý lớn nào của vật lý khẳng định năng lượng không được tạo ra hay bị hủy diệt, chỉ biến đổi hình thức?",
+    "options": [
+      "Định luật bảo toàn năng lượng",
+      "Định luật quán tính",
+      "Định luật tác dụng và phản tác dụng",
+      "Nguyên lý Pascal"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_051",
+    "question": "Nguyên tố nhẹ nhất và phổ biến nhất trong vũ trụ, số 1 trong bảng tuần hoàn là gì?",
+    "options": [
+      "Heli",
+      "Hydro (H)",
+      "Liti",
+      "Carbon"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_052",
+    "question": "Nhiệt độ cơ thể bình thường của con người khoảng bao nhiêu độ C?",
+    "options": [
+      "Khoảng 35,0°C",
+      "Khoảng 36,5°C",
+      "Khoảng 38,0°C",
+      "Khoảng 39,5°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_053",
+    "question": "Bộ phận nào của mắt đóng vai trò thấu kính, khúc xạ ánh sáng để tạo ảnh trên võng mạc?",
+    "options": [
+      "Thủy tinh thể",
+      "Mống mắt",
+      "Giác mạc",
+      "Dịch kính"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_054",
+    "question": "Phản ứng hóa học nào khi chất kết hợp nhanh với oxy, tỏa nhiệt và ánh sáng?",
+    "options": [
+      "Oxy hóa",
+      "Đốt cháy",
+      "Khử",
+      "Trung hòa"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_055",
+    "question": "Cơ quan nào lọc chất thải từ máu và thải ra dưới dạng nước tiểu?",
+    "options": [
+      "Túi mật",
+      "Thận",
+      "Tụy",
+      "Tá tràng"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_056",
+    "question": "Phản ứng nào xảy ra khi sắt gặp oxy và hơi ẩm trong không khí rồi bị gỉ đỏ?",
+    "options": [
+      "Phản ứng oxy hóa",
+      "Phản ứng khử",
+      "Phản ứng thế",
+      "Phản ứng lên men"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_057",
+    "question": "Tính chất nào khiến vật thể giữ nguyên trạng thái chuyển động nếu không có lực ngoài tác dụng?",
+    "options": [
+      "Đàn hồi",
+      "Quán tính",
+      "Ma sát",
+      "Độ nhớt"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_058",
+    "question": "Đơn vị nào biểu thị công suất tiêu thụ của các thiết bị điện gia dụng?",
+    "options": [
+      "Volt (V)",
+      "Watt (W)",
+      "Hertz (Hz)",
+      "Joule (J)"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_059",
+    "question": "Phân tử xoắn kép nào trong nhân tế bào mang thông tin di truyền của cơ thể?",
+    "options": [
+      "DNA",
+      "RNA",
+      "ATP",
+      "Protein"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_060",
+    "question": "Lực nào khiến các cực cùng tên của nam châm đẩy nhau và cực trái tên hút nhau?",
+    "options": [
+      "Lực từ",
+      "Lực ly tâm",
+      "Lực đẩy Archimedes",
+      "Trọng lực"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_061",
+    "question": "Loài động vật có vú duy nhất có thể bay thật sự là gì?",
+    "options": [
+      "Sóc bay",
+      "Dơi",
+      "Đà điểu",
+      "Chim cánh cụt"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_062",
+    "question": "Loài động vật có vú cao nhất trên Trái Đất là gì?",
+    "options": [
+      "Voi",
+      "Hươu cao cổ",
+      "Hà mã",
+      "Lạc đà"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_063",
+    "question": "Loài chim nào chủ yếu sống ở Nam Cực, không bay được nhưng bơi rất giỏi?",
+    "options": [
+      "Mòng biển",
+      "Chim cánh cụt",
+      "Albatros",
+      "Bồ nông"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_064",
+    "question": "Loài động vật nào có bướu trên lưng, sống được nhiều ngày trong sa mạc không cần nước và thức ăn?",
+    "options": [
+      "Lạc đà",
+      "Yak",
+      "Lama",
+      "Cáo sa mạc"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_065",
+    "question": "Loài bò sát nào thay đổi màu da tự do theo môi trường và ánh sáng?",
+    "options": [
+      "Tắc kè hoa",
+      "Thằn lằn",
+      "Iguana",
+      "Cá sấu"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_066",
+    "question": "Khu rừng nhiệt đới rộng lớn nào được gọi là lá phổi của Trái Đất, tạo ra phần lớn oxy trên thế giới?",
+    "options": [
+      "Rừng Amazon",
+      "Rừng Congo",
+      "Taiga Siberia",
+      "Rừng Borneo"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_067",
+    "question": "Cơ thể côn trùng chia thành đầu, ngực và bụng. Tổng cộng có bao nhiêu chân?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_068",
+    "question": "Nhện có phải là côn trùng không? (Nhện có 8 chân)",
+    "options": [
+      "Không phải côn trùng (là động vật chân khớp lớp Arachnida)",
+      "Là côn trùng",
+      "Là động vật thân mềm",
+      "Là động vật hình vòng"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_069",
+    "question": "Quá trình nào khiến thực vật thải nước dưới dạng hơi ra không khí qua thân và lá?",
+    "options": [
+      "Thoát hơi nước",
+      "Quang hợp",
+      "Hô hấp",
+      "Thẩm thấu"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_070",
+    "question": "Loài động vật có vú biển biểu tượng nào sống dưới biển, rất thông minh và giao tiếp bằng sóng siêu âm?",
+    "options": [
+      "Cá heo",
+      "Cá mập",
+      "Cá ngừ",
+      "Cá đuối"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_071",
+    "question": "Giả thuyết hàng đầu về nguyên nhân khiến khủng long tuyệt chủng khoảng 66 triệu năm trước là gì?",
+    "options": [
+      "Kỷ băng hà đến",
+      "Va chạm tiểu hành tinh (thiên thạch)",
+      "Đại dịch lây lan",
+      "Cạn kiệt oxy"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_072",
+    "question": "Hai khí nhà kính tiêu biểu gây nóng lên toàn cầu là gì?",
+    "options": [
+      "Carbon dioxide và methane",
+      "Oxy và nitơ",
+      "Hydro và heli",
+      "Argon và neon"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_073",
+    "question": "Quá trình biến đổi hình dạng hoàn toàn khi nòng nọc trở thành ếch được gọi là gì?",
+    "options": [
+      "Lột xác",
+      "Biến thái",
+      "Tiến hóa",
+      "Phân chia"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_074",
+    "question": "Tre là cây gỗ hay cỏ?",
+    "options": [
+      "Cỏ sống nhiều năm (họ hòa thảo)",
+      "Cây gỗ",
+      "Cây dây leo",
+      "Rêu"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_075",
+    "question": "Những sinh vật biển nào là cá sụn điển hình, xương chỉ gồm sụn mềm?",
+    "options": [
+      "Cá mập và cá đuối",
+      "Cá thu và cá nục",
+      "Cá tráp và cá bơn",
+      "Cá hồi và cá tầm"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_076",
+    "question": "Đại dương lớn nhất thế giới, chiếm khoảng 1/3 bề mặt Trái Đất là gì?",
+    "options": [
+      "Đại Tây Dương",
+      "Thái Bình Dương",
+      "Ấn Độ Dương",
+      "Bắc Băng Dương"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_077",
+    "question": "Ong mật truyền đạt thông tin gì cho đồng loại qua điệu nhảy?",
+    "options": [
+      "Hướng và khoảng cách đến thức ăn (hoa)",
+      "Kẻ thù xâm nhập",
+      "Vị trí của ong chúa",
+      "Dự báo thời tiết"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_078",
+    "question": "Sinh vật lưỡng tính nào bò lên mặt đất sau mưa và làm đất màu mỡ?",
+    "options": [
+      "Giun đất",
+      "Rết",
+      "Ốc sên",
+      "Kiến"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_079",
+    "question": "Màu da thật sự của gấu Bắc Cực dưới lớp lông là gì?",
+    "options": [
+      "Trắng",
+      "Đen (để hấp thụ nhiệt)",
+      "Hồng",
+      "Xám"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_080",
+    "question": "Nhóm động vật nào thở bằng mang dưới nước rồi chuyển sang thở bằng phổi và da khi trưởng thành?",
+    "options": [
+      "Lưỡng cư",
+      "Bò sát",
+      "Chim",
+      "Động vật có vú"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_081",
+    "question": "Một byte gồm bao nhiêu bit?",
+    "options": [
+      "4 bit",
+      "8 bit",
+      "16 bit",
+      "32 bit"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_082",
+    "question": "Nhà khoa học người Anh nào đã phát minh World Wide Web (WWW), mở ra cuộc cách mạng internet?",
+    "options": [
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Alan Turing"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_083",
+    "question": "Tên chữ viết riêng của Hàn Quốc do vua Sejong Đại Đế thời Joseon sáng tạo là gì?",
+    "options": [
+      "Hunminjeongeum (Hangul)",
+      "Idu",
+      "Hyangchal",
+      "Gugyeol"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_084",
+    "question": "Ngọn núi cao nhất thế giới, đỉnh cao 8.848 m thuộc dãy Himalaya là gì?",
+    "options": [
+      "K2",
+      "Núi Everest (Qomolangma)",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "answer_index": 1,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_085",
+    "question": "Nhà toán học nào được mệnh danh là cha đẻ của trí tuệ nhân tạo và đã nghĩ ra bài kiểm tra Turing?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Norbert Wiener",
+      "Claude Shannon"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_086",
+    "question": "Chiếc đồng hồ nước tự động đầu tiên trên thế giới do nhà khoa học Joseon Jang Yeong-sil và những người khác chế tạo là gì?",
+    "options": [
+      "Jagyungnu (đồng hồ nước tự gõ)",
+      "Angbuilgu (đồng hồ mặt trời)",
+      "Cheugugi (máy đo mưa)",
+      "Honcheonui (quả cầu thiên văn)"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_087",
+    "question": "Bộ phận lõi nào đóng vai trò như bộ não của máy tính, xử lý tính toán và điều khiển?",
+    "options": [
+      "CPU (bộ xử lý trung tâm)",
+      "RAM (bộ nhớ chính)",
+      "SSD (bộ nhớ phụ)",
+      "Nguồn điện"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_088",
+    "question": "Cuốn sách cổ nhất còn tồn tại được in bằng chữ kim loại di động, được UNESCO ghi vào Ký ức Thế giới là gì?",
+    "options": [
+      "Jikji Simche Yojeol",
+      "Kinh Thánh Gutenberg",
+      "Tripitaka Koreana",
+      "Samguk Yusa"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_089",
+    "question": "Phương pháp cảm ứng nào phát hiện sự thay đổi tĩnh điện nhỏ khi ngón tay chạm vào màn hình smartphone?",
+    "options": [
+      "Điện trở",
+      "Điện dung",
+      "Siêu âm",
+      "Quang học"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_090",
+    "question": "Tên tổ chức thanh niên Silla chuyên rèn luyện thân tâm đã dẫn dắt việc thống nhất Tam Quốc là gì?",
+    "options": [
+      "Hwarangdo",
+      "Joüi Seonin",
+      "Ssaulabi",
+      "Byeolmuban"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_091",
+    "question": "Công nghệ sổ cái phân tán nào lưu trữ dữ liệu trên nhiều nút để ngăn chặn giả mạo và can thiệp?",
+    "options": [
+      "Blockchain",
+      "Đám mây",
+      "Big data",
+      "Ảo hóa"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_092",
+    "question": "Chiến thuyền bọc sắt nào do Đô đốc Yi Sun-sin thiết kế để đánh bại hạm đội Nhật trong Chiến tranh Imjin?",
+    "options": [
+      "Geobukseon (thuyền rùa)",
+      "Panokseon",
+      "Maengseon",
+      "Hyeopseon"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_093",
+    "question": "Giao thức nào thêm mã hóa SSL/TLS vào giao thức web HTTP?",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_094",
+    "question": "Kinh điển nào được Goryeo khắc trên hơn 80.000 tấm gỗ để cầu nguyện đẩy lùi cuộc xâm lược của Mông Cổ?",
+    "options": [
+      "Tripitaka Koreana (Palman Daejanggyeong)",
+      "Jikji",
+      "Samguk Sagi",
+      "Dongguk Isanggukjip"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_095",
+    "question": "Vị vua Đan Mạch thế kỷ 10 nào đã đặt tên cho công nghệ Bluetooth?",
+    "options": [
+      "Harald Bluetooth (Răng Xanh)",
+      "Canute Đại Đế",
+      "Eric Bloodaxe",
+      "Gustaf"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_096",
+    "question": "Thành trì quy hoạch nào do vua Jeongjo thời Joseon xây dựng và được UNESCO công nhận là Di sản Thế giới?",
+    "options": [
+      "Suwon Hwaseong",
+      "Namhansanseong",
+      "Bukhansanseong",
+      "Jinjuseong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_097",
+    "question": "Nhà toán học nào đã nghĩ ra kiến trúc chương trình lưu trữ làm nền tảng cho máy tính hiện đại?",
+    "options": [
+      "John von Neumann",
+      "Alan Turing",
+      "Isaac Newton",
+      "Gottfried Leibniz"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_098",
+    "question": "Ngày lễ truyền thống Hàn Quốc nào rơi vào ngày 15 tháng 8 âm lịch, khi người ta làm bánh songpyeon từ gạo mới?",
+    "options": [
+      "Chuseok (Hangawi)",
+      "Seollal",
+      "Dano",
+      "Daeboreum"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_099",
+    "question": "Trong mã QR, chữ viết tắt QR có nghĩa là gì?",
+    "options": [
+      "Quick Response",
+      "Quality Record",
+      "Quantum Reader",
+      "Query Route"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_100",
+    "question": "Bách khoa toàn thư y học Đông phương do Heo Jun thời Joseon biên soạn là gì?",
+    "options": [
+      "Dongui Bogam",
+      "Hyangyak Jipseongbang",
+      "Uibang Yuchwi",
+      "Bencao Gangmu"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_101",
+    "question": "Công nghệ dựa trên vệ tinh nào xác định vị trí trên toàn thế giới theo thời gian thực?",
+    "options": [
+      "GPS",
+      "NFC",
+      "RFID",
+      "LTE"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_102",
+    "question": "Bài dân ca Hàn Quốc tiêu biểu nào được UNESCO ghi vào danh sách di sản văn hóa phi vật thể của nhân loại?",
+    "options": [
+      "Arirang",
+      "Doraji Taryeong",
+      "Miryang Arirang",
+      "Gunbam Taryeong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_103",
+    "question": "Tiêu chuẩn không dây tầm ngắn nào được dùng cho thẻ giao thông và thanh toán di động?",
+    "options": [
+      "NFC",
+      "Wi-Fi",
+      "GPS",
+      "Zigbee"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_104",
+    "question": "Đài thiên văn cổ nhất phương Đông, được xây dựng dưới thời nữ hoàng Seondeok của Silla là gì?",
+    "options": [
+      "Cheomseongdae",
+      "Ganuidae",
+      "Gwacheondae",
+      "Heumgyeonggak"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_105",
+    "question": "Giá trị cốt lõi mà ứng dụng DOK-KEY của chúng ta, mang trí tuệ của yêu tinh, mang đến là gì?",
+    "options": [
+      "Trí tuệ cuộc sống — danh ngôn, lời khuyên và sự thấu hiểu",
+      "Điểm số trò chơi đơn thuần",
+      "May mắn ngẫu nhiên",
+      "Giải trí ngắn hạn"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  }
+]
