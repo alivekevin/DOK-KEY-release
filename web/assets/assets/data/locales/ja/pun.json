@@ -45,21 +45,6 @@
     "audio_path": "assets/audio/pun/ja/03.mp3"
   },
   {
-    "id": "pun_ja_04",
-    "category": "pun",
-    "question": "行っても行っても戻りたくなる部屋はどこ？",
-    "options": [
-      "リビング",
-      "お風呂",
-      "といれ",
-      "寝室"
-    ],
-    "answer_index": 2,
-    "explanation": "お手洗いの「といれ（トイレ）」と「問入れ」をかけた定番なぞなぞです。",
-    "audio_key": "pun_ja_04",
-    "audio_path": "assets/audio/pun/ja/04.mp3"
-  },
-  {
     "id": "pun_ja_05",
     "category": "pun",
     "question": "お寿司屋さんで値段を聞いている魚の卵は何？",
@@ -73,21 +58,6 @@
     "explanation": "鮭の卵「イクラ」と値段を尋ねる「幾ら？」の同音異義語です。",
     "audio_key": "pun_ja_05",
     "audio_path": "assets/audio/pun/ja/05.mp3"
-  },
-  {
-    "id": "pun_ja_06",
-    "category": "pun",
-    "question": "パンはパンでも、絶対に食べられないパンは何？",
-    "options": [
-      "フランスパン",
-      "食パン",
-      "フライパン",
-      "カレーパン"
-    ],
-    "answer_index": 2,
-    "explanation": "調理器具のフライパンの語尾にある「パン」を引っかけにした国民的クイズです。",
-    "audio_key": "pun_ja_06",
-    "audio_path": "assets/audio/pun/ja/06.mp3"
   },
   {
     "id": "pun_ja_07",
@@ -150,111 +120,6 @@
     "audio_path": "assets/audio/pun/ja/10.mp3"
   },
   {
-    "id": "pun_ja_11",
-    "category": "pun",
-    "question": "サイがマウンドから投げた最初の一球は何？",
-    "options": [
-      "フォーク",
-      "カーブ",
-      "サイショ球",
-      "デッドボール"
-    ],
-    "answer_index": 2,
-    "explanation": "動物の犀（サイ）と野球の「最初球（さいしょきゅう）」の頭文字を掛けたものです。",
-    "audio_key": "pun_ja_11",
-    "audio_path": "assets/audio/pun/ja/11.mp3"
-  },
-  {
-    "id": "pun_ja_12",
-    "category": "pun",
-    "question": "カモが手招きしながら言う英語の挨拶は何？",
-    "options": [
-      "ハロー",
-      "グッバイ",
-      "カモ〜ン",
-      "サンキュー"
-    ],
-    "answer_index": 2,
-    "explanation": "鳥の鴨（カモ）と英語の「Come on（カモン）」の発音の一致です。",
-    "audio_key": "pun_ja_12",
-    "audio_path": "assets/audio/pun/ja/12.mp3"
-  },
-  {
-    "id": "pun_ja_13",
-    "category": "pun",
-    "question": "校長先生が廊下で滑って転んだ時の鳴き声は何？",
-    "options": [
-      "痛い",
-      "危ない",
-      "コケッコー",
-      "助けて"
-    ],
-    "answer_index": 2,
-    "explanation": "転んだ（こけた）ことと鶏の鳴き声「コケッコー」を融合させたギャグです。",
-    "audio_key": "pun_ja_13",
-    "audio_path": "assets/audio/pun/ja/13.mp3"
-  },
-  {
-    "id": "pun_ja_14",
-    "category": "pun",
-    "question": "お風呂で体を真っ白に洗ってくれる鳥は何？",
-    "options": [
-      "スズメ",
-      "カラス",
-      "白鳥",
-      "ハト"
-    ],
-    "answer_index": 2,
-    "explanation": "白い泡だらけになって垢を落とす姿と「白鳥（はくちょう）」を連想させています。",
-    "audio_key": "pun_ja_14",
-    "audio_path": "assets/audio/pun/ja/14.mp3"
-  },
-  {
-    "id": "pun_ja_15",
-    "category": "pun",
-    "question": "虫たちがちょこんと座る特別なイスは何？",
-    "options": [
-      "木の葉",
-      "小石",
-      "むシート",
-      "枝先"
-    ],
-    "answer_index": 2,
-    "explanation": "昆虫の「虫（むし）」と座席の「シート」を合体させた造語パロディです。",
-    "audio_key": "pun_ja_15",
-    "audio_path": "assets/audio/pun/ja/15.mp3"
-  },
-  {
-    "id": "pun_ja_16",
-    "category": "pun",
-    "question": "冷たい冷蔵庫の中に隠れている大きな動物は何？",
-    "options": [
-      "ペンギン",
-      "シロクマ",
-      "ゾウ",
-      "アザラシ"
-    ],
-    "answer_index": 2,
-    "explanation": "「冷蔵庫（れいぞうこ）」という漢字の中に「ゾウ（蔵）」が隠れている文字遊びです。",
-    "audio_key": "pun_ja_16",
-    "audio_path": "assets/audio/pun/ja/16.mp3"
-  },
-  {
-    "id": "pun_ja_17",
-    "category": "pun",
-    "question": "青いトマトが真っ赤に熟した本当の理由は？",
-    "options": [
-      "日光を浴びた",
-      "怒ったから",
-      "恥ずかしくて",
-      "寒かったから"
-    ],
-    "answer_index": 2,
-    "explanation": "サラダドレッシング（着替え）を見て顔を赤らめたという擬人化ジョークです。",
-    "audio_key": "pun_ja_17",
-    "audio_path": "assets/audio/pun/ja/17.mp3"
-  },
-  {
     "id": "pun_ja_18",
     "category": "pun",
     "question": "針は針でも、大空を猛スピードで巻き上げる針は何？",
@@ -283,20 +148,5 @@
     "explanation": "鳴き声のミンミンと「千（セン・セミ）」の音を重ねた古典的なダジャレです。",
     "audio_key": "pun_ja_19",
     "audio_path": "assets/audio/pun/ja/19.mp3"
-  },
-  {
-    "id": "pun_ja_20",
-    "category": "pun",
-    "question": "飲めば飲むほど逆に喉が渇いてしまう飲み物は何？",
-    "options": [
-      "熱いお茶",
-      "炭酸水",
-      "海水",
-      "ブラックコーヒー"
-    ],
-    "answer_index": 2,
-    "explanation": "塩分濃度が高く脱水症状を引き起こす海水の性質を突いた逆転クイズです。",
-    "audio_key": "pun_ja_20",
-    "audio_path": "assets/audio/pun/ja/20.mp3"
   }
 ]

@@ -15,21 +15,6 @@
     "audio_path": "assets/audio/pun/pt/01.mp3"
   },
   {
-    "id": "pun_pt_02",
-    "category": "pun",
-    "question": "Por que o livro de matemática foi parar no consultório do psicólogo?",
-    "options": [
-      "Estava rasgado",
-      "Tinha poucas folhas",
-      "Cheio de problemas",
-      "Ninguém lia"
-    ],
-    "answer_index": 2,
-    "explanation": "Brincadeira com os problemas matemáticos para resolver e os problemas emocionais da vida.",
-    "audio_key": "pun_pt_02",
-    "audio_path": "assets/audio/pun/pt/02.mp3"
-  },
-  {
     "id": "pun_pt_03",
     "category": "pun",
     "question": "Qual é o café mais perigoso que já cumpriu pena na cadeia?",
@@ -45,21 +30,6 @@
     "audio_path": "assets/audio/pun/pt/03.mp3"
   },
   {
-    "id": "pun_pt_04",
-    "category": "pun",
-    "question": "O que acontece quando o peixe cai do vigésimo andar do prédio?",
-    "options": [
-      "Morre seco",
-      "Cai na água",
-      "Aaaaaaa... TUM!",
-      "Fica tonto"
-    ],
-    "answer_index": 2,
-    "explanation": "O peixe atum tem o mesmo som do impacto de um baque forte contra o solo (tum!).",
-    "audio_key": "pun_pt_04",
-    "audio_path": "assets/audio/pun/pt/04.mp3"
-  },
-  {
     "id": "pun_pt_05",
     "category": "pun",
     "question": "Por que o tomate foi até o banco no centro da cidade?",
@@ -73,21 +43,6 @@
     "explanation": "Joga com o extrato bancário de conta corrente e o extrato de tomate culinário.",
     "audio_key": "pun_pt_05",
     "audio_path": "assets/audio/pun/pt/05.mp3"
-  },
-  {
-    "id": "pun_pt_06",
-    "category": "pun",
-    "question": "Para onde a vaca foi viajar quando decidiu conhecer o espaço sideral?",
-    "options": [
-      "Para a Lua",
-      "Para Marte",
-      "Para o Vácuo espacial",
-      "Para o Sol"
-    ],
-    "answer_index": 2,
-    "explanation": "Associa o mugido das vacas ao conceito físico de vácuo no espaço cósmico.",
-    "audio_key": "pun_pt_06",
-    "audio_path": "assets/audio/pun/pt/06.mp3"
   },
   {
     "id": "pun_pt_07",
@@ -120,21 +75,6 @@
     "audio_path": "assets/audio/pun/pt/08.mp3"
   },
   {
-    "id": "pun_pt_09",
-    "category": "pun",
-    "question": "O que o número zero disse em tom de elogio para o número oito?",
-    "options": [
-      "Você é gordo",
-      "Tem duas cabeças",
-      "Que belo cinto",
-      "Você é o dobro"
-    ],
-    "answer_index": 2,
-    "explanation": "O formato do algarismo oito parece um zero bem apertado por um cinto no meio.",
-    "audio_key": "pun_pt_09",
-    "audio_path": "assets/audio/pun/pt/09.mp3"
-  },
-  {
     "id": "pun_pt_10",
     "category": "pun",
     "question": "Por que os esqueletos nunca entram em brigas no cemitério?",
@@ -150,51 +90,6 @@
     "audio_path": "assets/audio/pun/pt/10.mp3"
   },
   {
-    "id": "pun_pt_11",
-    "category": "pun",
-    "question": "Qual é o animal que já nasceu na época da televisão em preto e branco?",
-    "options": [
-      "Pinguim",
-      "Panda",
-      "A Zebra",
-      "Gato malhado"
-    ],
-    "answer_index": 2,
-    "explanation": "As listras pretas e brancas da zebra lembram os aparelhos de TV antigos.",
-    "audio_key": "pun_pt_11",
-    "audio_path": "assets/audio/pun/pt/11.mp3"
-  },
-  {
-    "id": "pun_pt_12",
-    "category": "pun",
-    "question": "Duas pulgas saíram do cinema à noite e uma perguntou para a outra:",
-    "options": [
-      "Gostou do filme?",
-      "Vamos de táxi?",
-      "Pegamos aquele cachorro?",
-      "Cadê a pipoca?"
-    ],
-    "answer_index": 2,
-    "explanation": "Pulgas pegam carona nos pelos dos cães como as pessoas pegam ônibus ou táxi.",
-    "audio_key": "pun_pt_12",
-    "audio_path": "assets/audio/pun/pt/12.mp3"
-  },
-  {
-    "id": "pun_pt_13",
-    "category": "pun",
-    "question": "Como se chama uma pessoa que acabou de nascer agorinha mesmo?",
-    "options": [
-      "Criança",
-      "Filhote",
-      "É Bebê, ué",
-      "Recém-chegado"
-    ],
-    "answer_index": 2,
-    "explanation": "Resposta óbvia da clássica piada de adivinhação brasileira.",
-    "audio_key": "pun_pt_13",
-    "audio_path": "assets/audio/pun/pt/13.mp3"
-  },
-  {
     "id": "pun_pt_14",
     "category": "pun",
     "question": "O que é uma maçãzinha vermelha em cima dos trilhos de trem?",
@@ -208,51 +103,6 @@
     "explanation": "Típica piada sem sentido infantil com o som do apito do trem (piuí).",
     "audio_key": "pun_pt_14",
     "audio_path": "assets/audio/pun/pt/14.mp3"
-  },
-  {
-    "id": "pun_pt_15",
-    "category": "pun",
-    "question": "O que a impressora disse charmosa quando viu outra impressora?",
-    "options": [
-      "Acabou a folha",
-      "Falta cartucho",
-      "É impressão minha",
-      "Vamos rodar"
-    ],
-    "answer_index": 2,
-    "explanation": "Expressão usada para engano visual associada à impressão de documentos.",
-    "audio_key": "pun_pt_15",
-    "audio_path": "assets/audio/pun/pt/15.mp3"
-  },
-  {
-    "id": "pun_pt_16",
-    "category": "pun",
-    "question": "Qual é o objeto da cozinha que mais vive estressado sob cobrança?",
-    "options": [
-      "O garfo",
-      "O prato fundo",
-      "A panela de pressão",
-      "O liquidificador"
-    ],
-    "answer_index": 2,
-    "explanation": "A panela de pressão acumula vapor físico, associado ao estresse e à pressão psicológica.",
-    "audio_key": "pun_pt_16",
-    "audio_path": "assets/audio/pun/pt/16.mp3"
-  },
-  {
-    "id": "pun_pt_17",
-    "category": "pun",
-    "question": "O que acontece com o cliente desastrado que quebra louça cara no restaurante?",
-    "options": [
-      "Ganha desconto",
-      "Vai embora rindo",
-      "Quem quebrou, paga",
-      "Lava a louça"
-    ],
-    "answer_index": 2,
-    "explanation": "Ditado popular 'pagar o pato / pagar o prato' para quem assume o prejuízo da confusão.",
-    "audio_key": "pun_pt_17",
-    "audio_path": "assets/audio/pun/pt/17.mp3"
   },
   {
     "id": "pun_pt_18",

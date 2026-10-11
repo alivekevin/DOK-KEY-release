@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍎 What fruit is this?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Cherry",
+      "Grape"
+    ],
+    "answer_index": 0,
+    "explanation": "Apple 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍌 What fruit is this?",
+    "options": [
+      "Orange",
+      "Banana",
+      "Peach",
+      "Lemon"
+    ],
+    "answer_index": 1,
+    "explanation": "Banana 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍇 What fruit is this?",
+    "options": [
+      "Strawberry",
+      "Peach",
+      "Grape",
+      "Watermelon"
+    ],
+    "answer_index": 2,
+    "explanation": "Grape 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍓 What fruit is this?",
+    "options": [
+      "Strawberry",
+      "Melon",
+      "Cherry",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Strawberry 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍉 What fruit is this?",
+    "options": [
+      "Mango",
+      "Watermelon",
+      "Papaya",
+      "Avocado"
+    ],
+    "answer_index": 1,
+    "explanation": "Watermelon 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍊 What fruit is this?",
+    "options": [
+      "Lemon",
+      "Lime",
+      "Orange",
+      "Grapefruit"
+    ],
+    "answer_index": 2,
+    "explanation": "Orange 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🍒 What fruit is this?",
+    "options": [
+      "Blueberry",
+      "Cherry",
+      "Plum",
+      "Olive"
+    ],
+    "answer_index": 1,
+    "explanation": "Cherry 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🐱 Guess this cute animal:",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fox",
+      "Rabbit"
+    ],
+    "answer_index": 0,
+    "explanation": "Cat 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🐶 Guess this loyal friend:",
+    "options": [
+      "Wolf",
+      "Dog",
+      "Bear",
+      "Tiger"
+    ],
+    "answer_index": 1,
+    "explanation": "Dog 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🐼 Guess this lovely bamboo lover:",
+    "options": [
+      "Koala",
+      "Sloth",
+      "Panda",
+      "Raccoon"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🦁 King of the savanna:",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Leopard",
+      "Panther"
+    ],
+    "answer_index": 0,
+    "explanation": "Lion 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🐯 Majestic striped predator:",
+    "options": [
+      "Hyena",
+      "Jaguar",
+      "Tiger",
+      "Wolf"
+    ],
+    "answer_index": 2,
+    "explanation": "Tiger 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🐬 Friendly ocean swimmer:",
+    "options": [
+      "Shark",
+      "Dolphin",
+      "Whale",
+      "Seal"
+    ],
+    "answer_index": 1,
+    "explanation": "Dolphin 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🐘 Giant with a long trunk:",
+    "options": [
+      "Hippo",
+      "Rhino",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer_index": 2,
+    "explanation": "Elephant 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "✈️ Flying across the sky:",
+    "options": [
+      "Airplane",
+      "Helicopter",
+      "Rocket",
+      "Drone"
+    ],
+    "answer_index": 0,
+    "explanation": "Airplane ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "영어",
+    "difficulty": 3,
+    "question": "🚀 Heading into outer space:",
+    "options": [
+      "Satellite",
+      "Rocket",
+      "Meteor",
+      "Comet"
+    ],
+    "answer_index": 1,
+    "explanation": "Rocket 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🚢 Sailing across the ocean:",
+    "options": [
+      "Submarine",
+      "Boat",
+      "Ship",
+      "Canoe"
+    ],
+    "answer_index": 2,
+    "explanation": "Ship 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🚗 Driving on the road:",
+    "options": [
+      "Car",
+      "Truck",
+      "Motorcycle",
+      "Scooter"
+    ],
+    "answer_index": 0,
+    "explanation": "Car 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "영어",
+    "difficulty": 1,
+    "question": "🚌 Public transit picking up passengers:",
+    "options": [
+      "Van",
+      "Taxi",
+      "Bus",
+      "Ambulance"
+    ],
+    "answer_index": 2,
+    "explanation": "Bus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "영어",
+    "difficulty": 2,
+    "question": "🚒 Emergency vehicle putting out fires:",
+    "options": [
+      "Police Car",
+      "Fire Engine",
+      "Tow Truck",
+      "Bulldozer"
+    ],
+    "answer_index": 1,
+    "explanation": "Fire Engine 🚒",
+    "reward_coins": 10
+  }
+]

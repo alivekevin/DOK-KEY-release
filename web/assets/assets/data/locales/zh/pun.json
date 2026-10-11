@@ -45,21 +45,6 @@
     "audio_path": "assets/audio/pun/zh/03.mp3"
   },
   {
-    "id": "pun_zh_04",
-    "category": "pun",
-    "question": "大灰狼来了猜一种水果，大灰狼又来了再猜一种水果？",
-    "options": [
-      "苹果与梨",
-      "西瓜与香蕉",
-      "杨桃，杨梅",
-      "葡萄与桃"
-    ],
-    "answer_index": 2,
-    "explanation": "狼来了羊逃跑（羊逃谐音杨桃），狼又来羊全没了（羊没谐音杨梅）。",
-    "audio_key": "pun_zh_04",
-    "audio_path": "assets/audio/pun/zh/04.mp3"
-  },
-  {
     "id": "pun_zh_05",
     "category": "pun",
     "question": "鸭子坐出租车到达目的地后，会对司机叫什么？",
@@ -90,36 +75,6 @@
     "audio_path": "assets/audio/pun/zh/06.mp3"
   },
   {
-    "id": "pun_zh_07",
-    "category": "pun",
-    "question": "小明每天吃完饭为什么从来都不用洗碗？",
-    "options": [
-      "妈妈帮他洗",
-      "家里有洗碗机",
-      "吃外卖",
-      "用手抓着吃"
-    ],
-    "answer_index": 2,
-    "explanation": "现代年轻人吃外卖或泡面，使用一次性餐盒直接扔掉，根本不需要洗碗。",
-    "audio_key": "pun_zh_07",
-    "audio_path": "assets/audio/pun/zh/07.mp3"
-  },
-  {
-    "id": "pun_zh_08",
-    "category": "pun",
-    "question": "一只小狗在茫茫沙漠里探险，最后是因为什么死掉的？",
-    "options": [
-      "渴死的",
-      "中暑热死的",
-      "给憋死的",
-      "迷路饿死的"
-    ],
-    "answer_index": 2,
-    "explanation": "小狗习惯找电线杆或树干抬腿撒尿，沙漠里一根杆子都找不到，结果给憋死了。",
-    "audio_key": "pun_zh_08",
-    "audio_path": "assets/audio/pun/zh/08.mp3"
-  },
-  {
     "id": "pun_zh_09",
     "category": "pun",
     "question": "巧克力和西红柿打架，谁会当场认输？",
@@ -133,36 +88,6 @@
     "explanation": "巧克力（Qiǎokèlì）打架打没了力气，就变成了‘巧克力输’。",
     "audio_key": "pun_zh_09",
     "audio_path": "assets/audio/pun/zh/09.mp3"
-  },
-  {
-    "id": "pun_zh_10",
-    "category": "pun",
-    "question": "数字1到10里面，哪两个数字一个是行动派一个是坚持派？",
-    "options": [
-      "1和10",
-      "3和7",
-      "一不做，二不休",
-      "0和9"
-    ],
-    "answer_index": 2,
-    "explanation": "成语‘一不做，二不休’字面拆解成了数字1不做、数字2不肯停歇的幽默梗。",
-    "audio_key": "pun_zh_10",
-    "audio_path": "assets/audio/pun/zh/10.mp3"
-  },
-  {
-    "id": "pun_zh_11",
-    "category": "pun",
-    "question": "钢铁侠在下暴雨的日子里为什么飞不起来？",
-    "options": [
-      "反应堆没电",
-      "自重太沉了",
-      "生锈啦",
-      "零件被偷了"
-    ],
-    "answer_index": 2,
-    "explanation": "钢铁遇到水会发生氧化腐蚀，全身是铁的超级英雄下雨天就关节生锈了。",
-    "audio_key": "pun_zh_11",
-    "audio_path": "assets/audio/pun/zh/11.mp3"
   },
   {
     "id": "pun_zh_12",
@@ -210,36 +135,6 @@
     "audio_path": "assets/audio/pun/zh/14.mp3"
   },
   {
-    "id": "pun_zh_15",
-    "category": "pun",
-    "question": "功能再强大的智能手机最害怕遇到什么情况？",
-    "options": [
-      "掉进水里",
-      "遇到扒手",
-      "没电关机",
-      "贴膜碎裂"
-    ],
-    "answer_index": 2,
-    "explanation": "再昂贵的电子产品一旦电量耗尽关机，都会瞬间变成毫无作用的砖头。",
-    "audio_key": "pun_zh_15",
-    "audio_path": "assets/audio/pun/zh/15.mp3"
-  },
-  {
-    "id": "pun_zh_16",
-    "category": "pun",
-    "question": "谁天天都在撕衣服脱衣服，却一辈子也不穿衣服？",
-    "options": [
-      "橱窗模特",
-      "落叶树木",
-      "老日历",
-      "大洋葱"
-    ],
-    "answer_index": 2,
-    "explanation": "传统手撕老日历每过一天就要撕去一页外皮，撕完一年就彻底脱光了。",
-    "audio_key": "pun_zh_16",
-    "audio_path": "assets/audio/pun/zh/16.mp3"
-  },
-  {
     "id": "pun_zh_17",
     "category": "pun",
     "question": "天上的星星为什么整夜都不合眼睡觉？",
@@ -253,50 +148,5 @@
     "explanation": "儿歌中常唱‘一闪一闪眨眼睛’，既然一直在眨巴眼睛，当然就没有闭眼睡觉。",
     "audio_key": "pun_zh_17",
     "audio_path": "assets/audio/pun/zh/17.mp3"
-  },
-  {
-    "id": "pun_zh_18",
-    "category": "pun",
-    "question": "什么样的海一滴水都没有，却挤得水泄不通？",
-    "options": [
-      "死海",
-      "红海",
-      "人海",
-      "地中海"
-    ],
-    "answer_index": 2,
-    "explanation": "形容人群聚集极多的成语‘人山人海’，里面全都是人，没有真正的海水。",
-    "audio_key": "pun_zh_18",
-    "audio_path": "assets/audio/pun/zh/18.mp3"
-  },
-  {
-    "id": "pun_zh_19",
-    "category": "pun",
-    "question": "世界上什么职业的人工作时最喜欢听到别人大叫救命？",
-    "options": [
-      "急诊医生",
-      "消防战士",
-      "救生员",
-      "电影演员"
-    ],
-    "answer_index": 2,
-    "explanation": "救生员的职责就是听声救人，听到呼喊才能精准定位并完成营救任务。",
-    "audio_key": "pun_zh_19",
-    "audio_path": "assets/audio/pun/zh/19.mp3"
-  },
-  {
-    "id": "pun_zh_20",
-    "category": "pun",
-    "question": "愚公移山的故事中，天神最终帮他搬走的是哪两座大山？",
-    "options": [
-      "泰山与华山",
-      "昆仑与天山",
-      "王屋与太行",
-      "喜马拉雅山"
-    ],
-    "answer_index": 2,
-    "explanation": "出自《列子·汤问》的典故，被天神操蛇之神背走的是太行山和王屋山。",
-    "audio_key": "pun_zh_20",
-    "audio_path": "assets/audio/pun/zh/20.mp3"
   }
 ]
