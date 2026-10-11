@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍎 ¿Qué fruta es esta?",
+    "options": [
+      "Manzana",
+      "Plátano",
+      "Cereza",
+      "Uva"
+    ],
+    "answer_index": 0,
+    "explanation": "Manzana 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍌 ¿Reconoces esta fruta?",
+    "options": [
+      "Naranja",
+      "Plátano",
+      "Melocotón",
+      "Limón"
+    ],
+    "answer_index": 1,
+    "explanation": "Plátano 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍇 ¿Cómo se llama esta fruta?",
+    "options": [
+      "Fresa",
+      "Melocotón",
+      "Uva",
+      "Sandía"
+    ],
+    "answer_index": 2,
+    "explanation": "Uva 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍓 ¿Qué fruta roja es esta?",
+    "options": [
+      "Fresa",
+      "Melón",
+      "Cereza",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Fresa 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍉 ¿Sabes qué fruta es?",
+    "options": [
+      "Mango",
+      "Sandía",
+      "Papaya",
+      "Aguacate"
+    ],
+    "answer_index": 1,
+    "explanation": "Sandía 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍊 ¿Cómo se llama este cítrico?",
+    "options": [
+      "Limón",
+      "Lima",
+      "Naranja",
+      "Pomelo"
+    ],
+    "answer_index": 2,
+    "explanation": "Naranja 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🍒 ¿Qué fruta aparece aquí?",
+    "options": [
+      "Arándano",
+      "Cereza",
+      "Ciruela",
+      "Aceituna"
+    ],
+    "answer_index": 1,
+    "explanation": "Cereza 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🐱 ¿Qué animalito tan adorable es este?",
+    "options": [
+      "Gato",
+      "Perro",
+      "Zorro",
+      "Conejo"
+    ],
+    "answer_index": 0,
+    "explanation": "Gato 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🐶 ¿Cuál es el fiel amigo del ser humano?",
+    "options": [
+      "Lobo",
+      "Perro",
+      "Oso",
+      "Tigre"
+    ],
+    "answer_index": 1,
+    "explanation": "Perro 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🐼 ¿Qué animal tan adorable adora el bambú?",
+    "options": [
+      "Koala",
+      "Perezoso",
+      "Panda",
+      "Mapache"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🦁 ¿Quién es el rey de la sabana?",
+    "options": [
+      "León",
+      "Guepardo",
+      "Leopardo",
+      "Pantera"
+    ],
+    "answer_index": 0,
+    "explanation": "León 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🐯 ¿Qué feroz depredador tiene unas rayas impresionantes?",
+    "options": [
+      "Hiena",
+      "Jaguar",
+      "Tigre",
+      "Lobo"
+    ],
+    "answer_index": 2,
+    "explanation": "Tigre 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🐬 ¿Qué simpático animal nada en el océano?",
+    "options": [
+      "Tiburón",
+      "Delfín",
+      "Ballena",
+      "Foca"
+    ],
+    "answer_index": 1,
+    "explanation": "Delfín 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🐘 ¿Qué enorme animal tiene una trompa larga?",
+    "options": [
+      "Hipopótamo",
+      "Rinoceronte",
+      "Elefante",
+      "Jirafa"
+    ],
+    "answer_index": 2,
+    "explanation": "Elefante 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "✈️ ¿Qué vehículo vuela por el cielo?",
+    "options": [
+      "Avión",
+      "Helicóptero",
+      "Cohete",
+      "Dron"
+    ],
+    "answer_index": 0,
+    "explanation": "Avión ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Español",
+    "difficulty": 3,
+    "question": "🚀 ¿Qué vehículo viaja hacia el espacio?",
+    "options": [
+      "Satélite",
+      "Cohete",
+      "Meteoro",
+      "Cometa"
+    ],
+    "answer_index": 1,
+    "explanation": "Cohete 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🚢 ¿Qué embarcación navega por el océano?",
+    "options": [
+      "Submarino",
+      "Lancha",
+      "Barco",
+      "Canoa"
+    ],
+    "answer_index": 2,
+    "explanation": "Barco 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🚗 ¿Qué vehículo circula por la carretera?",
+    "options": [
+      "Coche",
+      "Camión",
+      "Motocicleta",
+      "Scooter"
+    ],
+    "answer_index": 0,
+    "explanation": "Coche 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Español",
+    "difficulty": 1,
+    "question": "🚌 ¿Qué transporte público recoge pasajeros?",
+    "options": [
+      "Furgoneta",
+      "Taxi",
+      "Autobús",
+      "Ambulancia"
+    ],
+    "answer_index": 2,
+    "explanation": "Autobús 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Español",
+    "difficulty": 2,
+    "question": "🚒 ¿Qué vehículo de emergencia se utiliza para apagar incendios?",
+    "options": [
+      "Coche de policía",
+      "Camión de bomberos",
+      "Grúa",
+      "Bulldozer"
+    ],
+    "answer_index": 1,
+    "explanation": "Camión de bomberos 🚒",
+    "reward_coins": 10
+  }
+]

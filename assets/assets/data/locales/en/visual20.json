@@ -1,7 +1,7 @@
 [
   {
     "id": "visual_01",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍎 What fruit is this?",
     "options": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "visual_02",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍌 What fruit is this?",
     "options": [
@@ -31,7 +31,7 @@
   },
   {
     "id": "visual_03",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍇 What fruit is this?",
     "options": [
@@ -46,7 +46,7 @@
   },
   {
     "id": "visual_04",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍓 What fruit is this?",
     "options": [
@@ -61,7 +61,7 @@
   },
   {
     "id": "visual_05",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍉 What fruit is this?",
     "options": [
@@ -76,7 +76,7 @@
   },
   {
     "id": "visual_06",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍊 What fruit is this?",
     "options": [
@@ -91,7 +91,7 @@
   },
   {
     "id": "visual_07",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🍒 What fruit is this?",
     "options": [
@@ -106,7 +106,7 @@
   },
   {
     "id": "visual_08",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🐱 Guess this cute animal:",
     "options": [
@@ -121,7 +121,7 @@
   },
   {
     "id": "visual_09",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🐶 Guess this loyal friend:",
     "options": [
@@ -136,7 +136,7 @@
   },
   {
     "id": "visual_10",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🐼 Guess this lovely bamboo lover:",
     "options": [
@@ -151,7 +151,7 @@
   },
   {
     "id": "visual_11",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🦁 King of the savanna:",
     "options": [
@@ -166,7 +166,7 @@
   },
   {
     "id": "visual_12",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🐯 Majestic striped predator:",
     "options": [
@@ -181,7 +181,7 @@
   },
   {
     "id": "visual_13",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🐬 Friendly ocean swimmer:",
     "options": [
@@ -196,7 +196,7 @@
   },
   {
     "id": "visual_14",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🐘 Giant with a long trunk:",
     "options": [
@@ -211,7 +211,7 @@
   },
   {
     "id": "visual_15",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "✈️ Flying across the sky:",
     "options": [
@@ -226,7 +226,7 @@
   },
   {
     "id": "visual_16",
-    "category": "영어",
+    "category": "English",
     "difficulty": 3,
     "question": "🚀 Heading into outer space:",
     "options": [
@@ -241,7 +241,7 @@
   },
   {
     "id": "visual_17",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🚢 Sailing across the ocean:",
     "options": [
@@ -256,7 +256,7 @@
   },
   {
     "id": "visual_18",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🚗 Driving on the road:",
     "options": [
@@ -271,7 +271,7 @@
   },
   {
     "id": "visual_19",
-    "category": "영어",
+    "category": "English",
     "difficulty": 1,
     "question": "🚌 Public transit picking up passengers:",
     "options": [
@@ -286,7 +286,7 @@
   },
   {
     "id": "visual_20",
-    "category": "영어",
+    "category": "English",
     "difficulty": 2,
     "question": "🚒 Emergency vehicle putting out fires:",
     "options": [

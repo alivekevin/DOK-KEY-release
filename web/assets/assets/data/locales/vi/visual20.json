@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍎 Đây là loại trái cây gì?",
+    "options": [
+      "Táo",
+      "Chuối",
+      "Anh đào",
+      "Nho"
+    ],
+    "answer_index": 0,
+    "explanation": "Táo 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍌 Bạn đoán đây là quả gì?",
+    "options": [
+      "Cam",
+      "Chuối",
+      "Đào",
+      "Chanh"
+    ],
+    "answer_index": 1,
+    "explanation": "Chuối 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍇 Loại trái cây này tên là gì?",
+    "options": [
+      "Dâu tây",
+      "Đào",
+      "Nho",
+      "Dưa hấu"
+    ],
+    "answer_index": 2,
+    "explanation": "Nho 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍓 Đây là loại quả đỏ nào?",
+    "options": [
+      "Dâu tây",
+      "Dưa lưới",
+      "Anh đào",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Dâu tây 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍉 Bạn có nhận ra loại quả này không?",
+    "options": [
+      "Xoài",
+      "Dưa hấu",
+      "Đu đủ",
+      "Bơ"
+    ],
+    "answer_index": 1,
+    "explanation": "Dưa hấu 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍊 Loại quả có múi này tên là gì?",
+    "options": [
+      "Chanh vàng",
+      "Chanh xanh",
+      "Cam",
+      "Bưởi chùm"
+    ],
+    "answer_index": 2,
+    "explanation": "Cam 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🍒 Đây là loại trái cây nào?",
+    "options": [
+      "Việt quất",
+      "Anh đào",
+      "Mận",
+      "Ô liu"
+    ],
+    "answer_index": 1,
+    "explanation": "Anh đào 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🐱 Bạn có biết con vật đáng yêu này là gì không?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Cáo",
+      "Thỏ"
+    ],
+    "answer_index": 0,
+    "explanation": "Mèo 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🐶 Đâu là người bạn trung thành của con người?",
+    "options": [
+      "Sói",
+      "Chó",
+      "Gấu",
+      "Hổ"
+    ],
+    "answer_index": 1,
+    "explanation": "Chó 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🐼 Con vật đáng yêu nào rất thích ăn tre?",
+    "options": [
+      "Gấu koala",
+      "Con lười",
+      "Gấu trúc",
+      "Gấu mèo"
+    ],
+    "answer_index": 2,
+    "explanation": "Gấu trúc 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🦁 Ai là vua của thảo nguyên?",
+    "options": [
+      "Sư tử",
+      "Báo gêpa",
+      "Báo hoa mai",
+      "Báo đen"
+    ],
+    "answer_index": 0,
+    "explanation": "Sư tử 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🐯 Loài thú săn mồi oai vệ nào có những sọc vằn?",
+    "options": [
+      "Linh cẩu",
+      "Báo đốm Mỹ",
+      "Hổ",
+      "Sói"
+    ],
+    "answer_index": 2,
+    "explanation": "Hổ 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🐬 Loài vật thân thiện nào bơi dưới đại dương?",
+    "options": [
+      "Cá mập",
+      "Cá heo",
+      "Cá voi",
+      "Hải cẩu"
+    ],
+    "answer_index": 1,
+    "explanation": "Cá heo 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🐘 Loài vật khổng lồ nào có chiếc vòi dài?",
+    "options": [
+      "Hà mã",
+      "Tê giác",
+      "Voi",
+      "Hươu cao cổ"
+    ],
+    "answer_index": 2,
+    "explanation": "Voi 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "✈️ Phương tiện nào bay trên bầu trời?",
+    "options": [
+      "Máy bay",
+      "Trực thăng",
+      "Tên lửa",
+      "Máy bay không người lái"
+    ],
+    "answer_index": 0,
+    "explanation": "Máy bay ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Tiếng Việt",
+    "difficulty": 3,
+    "question": "🚀 Phương tiện nào bay vào vũ trụ?",
+    "options": [
+      "Vệ tinh",
+      "Tên lửa",
+      "Sao băng",
+      "Sao chổi"
+    ],
+    "answer_index": 1,
+    "explanation": "Tên lửa 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🚢 Phương tiện nào đi biển và vượt đại dương?",
+    "options": [
+      "Tàu ngầm",
+      "Thuyền",
+      "Tàu thủy",
+      "Thuyền độc mộc"
+    ],
+    "answer_index": 2,
+    "explanation": "Tàu thủy 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🚗 Phương tiện nào chạy trên đường bộ?",
+    "options": [
+      "Ô tô",
+      "Xe tải",
+      "Xe máy",
+      "Xe tay ga"
+    ],
+    "answer_index": 0,
+    "explanation": "Ô tô 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Tiếng Việt",
+    "difficulty": 1,
+    "question": "🚌 Phương tiện giao thông công cộng nào chở hành khách?",
+    "options": [
+      "Xe tải van",
+      "Taxi",
+      "Xe buýt",
+      "Xe cứu thương"
+    ],
+    "answer_index": 2,
+    "explanation": "Xe buýt 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Tiếng Việt",
+    "difficulty": 2,
+    "question": "🚒 Xe chuyên dụng nào được dùng để chữa cháy?",
+    "options": [
+      "Xe cảnh sát",
+      "Xe cứu hỏa",
+      "Xe kéo cứu hộ",
+      "Xe ủi đất"
+    ],
+    "answer_index": 1,
+    "explanation": "Xe cứu hỏa 🚒",
+    "reward_coins": 10
+  }
+]

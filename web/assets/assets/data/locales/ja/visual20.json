@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍎 この果物の名前は何でしょう？",
+    "options": [
+      "りんご",
+      "バナナ",
+      "さくらんぼ",
+      "ぶどう"
+    ],
+    "answer_index": 0,
+    "explanation": "りんご 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍌 この果物の名前は何でしょう？",
+    "options": [
+      "オレンジ",
+      "バナナ",
+      "もも",
+      "レモン"
+    ],
+    "answer_index": 1,
+    "explanation": "バナナ 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍇 この果物の名前は何でしょう？",
+    "options": [
+      "いちご",
+      "もも",
+      "ぶどう",
+      "すいか"
+    ],
+    "answer_index": 2,
+    "explanation": "ぶどう 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍓 この果物の名前は何でしょう？",
+    "options": [
+      "いちご",
+      "メロン",
+      "さくらんぼ",
+      "キウイ"
+    ],
+    "answer_index": 0,
+    "explanation": "いちご 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍉 この果物の名前は何でしょう？",
+    "options": [
+      "マンゴー",
+      "すいか",
+      "パパイヤ",
+      "アボカド"
+    ],
+    "answer_index": 1,
+    "explanation": "すいか 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍊 この果物の名前は何でしょう？",
+    "options": [
+      "レモン",
+      "ライム",
+      "オレンジ",
+      "グレープフルーツ"
+    ],
+    "answer_index": 2,
+    "explanation": "オレンジ 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🍒 この果物の名前は何でしょう？",
+    "options": [
+      "ブルーベリー",
+      "さくらんぼ",
+      "すもも",
+      "オリーブ"
+    ],
+    "answer_index": 1,
+    "explanation": "さくらんぼ 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🐱 このかわいい動物は何でしょう？",
+    "options": [
+      "ねこ",
+      "いぬ",
+      "きつね",
+      "うさぎ"
+    ],
+    "answer_index": 0,
+    "explanation": "ねこ 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🐶 人間の頼もしい友達といえば？",
+    "options": [
+      "おおかみ",
+      "いぬ",
+      "くま",
+      "とら"
+    ],
+    "answer_index": 1,
+    "explanation": "いぬ 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🐼 竹が大好きな愛らしい動物は？",
+    "options": [
+      "コアラ",
+      "ナマケモノ",
+      "パンダ",
+      "アライグマ"
+    ],
+    "answer_index": 2,
+    "explanation": "パンダ 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🦁 サバンナの王者といえば？",
+    "options": [
+      "ライオン",
+      "チーター",
+      "ヒョウ",
+      "クロヒョウ"
+    ],
+    "answer_index": 0,
+    "explanation": "ライオン 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🐯 立派なしま模様を持つ猛獣は？",
+    "options": [
+      "ハイエナ",
+      "ジャガー",
+      "トラ",
+      "おおかみ"
+    ],
+    "answer_index": 2,
+    "explanation": "トラ 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🐬 海を泳ぐ人なつっこい動物は？",
+    "options": [
+      "サメ",
+      "イルカ",
+      "クジラ",
+      "アザラシ"
+    ],
+    "answer_index": 1,
+    "explanation": "イルカ 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🐘 長い鼻を持つ大きな動物は？",
+    "options": [
+      "カバ",
+      "サイ",
+      "ゾウ",
+      "キリン"
+    ],
+    "answer_index": 2,
+    "explanation": "ゾウ 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "✈️ 空を飛んで移動する乗り物は？",
+    "options": [
+      "飛行機",
+      "ヘリコプター",
+      "ロケット",
+      "ドローン"
+    ],
+    "answer_index": 0,
+    "explanation": "飛行機 ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "日本語",
+    "difficulty": 3,
+    "question": "🚀 宇宙を目指して飛び立つものは？",
+    "options": [
+      "人工衛星",
+      "ロケット",
+      "流星",
+      "彗星"
+    ],
+    "answer_index": 1,
+    "explanation": "ロケット 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🚢 海を渡って航海する乗り物は？",
+    "options": [
+      "潜水艦",
+      "ボート",
+      "船",
+      "カヌー"
+    ],
+    "answer_index": 2,
+    "explanation": "船 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🚗 道路を走る乗り物は何でしょう？",
+    "options": [
+      "自動車",
+      "トラック",
+      "オートバイ",
+      "スクーター"
+    ],
+    "answer_index": 0,
+    "explanation": "自動車 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "日本語",
+    "difficulty": 1,
+    "question": "🚌 乗客を乗せて走る公共交通機関は？",
+    "options": [
+      "ワゴン車",
+      "タクシー",
+      "バス",
+      "救急車"
+    ],
+    "answer_index": 2,
+    "explanation": "バス 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "日本語",
+    "difficulty": 2,
+    "question": "🚒 火事を消すために出動する緊急車両は？",
+    "options": [
+      "パトカー",
+      "消防車",
+      "レッカー車",
+      "ブルドーザー"
+    ],
+    "answer_index": 1,
+    "explanation": "消防車 🚒",
+    "reward_coins": 10
+  }
+]

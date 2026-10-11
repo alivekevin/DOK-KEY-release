@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍎 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "사과",
+      "바나나",
+      "체리",
+      "포도"
+    ],
+    "answer_index": 0,
+    "explanation": "사과 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍌 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "오렌지",
+      "바나나",
+      "복숭아",
+      "레몬"
+    ],
+    "answer_index": 1,
+    "explanation": "바나나 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍇 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "딸기",
+      "복숭아",
+      "포도",
+      "수박"
+    ],
+    "answer_index": 2,
+    "explanation": "포도 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍓 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "딸기",
+      "멜론",
+      "체리",
+      "키위"
+    ],
+    "answer_index": 0,
+    "explanation": "딸기 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍉 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "망고",
+      "수박",
+      "파파야",
+      "아보카도"
+    ],
+    "answer_index": 1,
+    "explanation": "수박 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍊 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "레몬",
+      "라임",
+      "오렌지",
+      "자몽"
+    ],
+    "answer_index": 2,
+    "explanation": "오렌지 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🍒 이 과일의 이름은 무엇일까요?",
+    "options": [
+      "블루베리",
+      "체리",
+      "자두",
+      "올리브"
+    ],
+    "answer_index": 1,
+    "explanation": "체리 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🐱 귀여운 이 동물은 무엇일까요?",
+    "options": [
+      "고양이",
+      "강아지",
+      "여우",
+      "토끼"
+    ],
+    "answer_index": 0,
+    "explanation": "고양이 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🐶 사람과 친한 충직한 친구는 누구일까요?",
+    "options": [
+      "늑대",
+      "강아지",
+      "곰",
+      "호랑이"
+    ],
+    "answer_index": 1,
+    "explanation": "강아지 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🐼 대나무를 좋아하는 사랑스러운 동물은?",
+    "options": [
+      "코알라",
+      "나무늘보",
+      "판다",
+      "너구리"
+    ],
+    "answer_index": 2,
+    "explanation": "판다 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🦁 사바나의 왕은 누구일까요?",
+    "options": [
+      "사자",
+      "치타",
+      "표범",
+      "흑표범"
+    ],
+    "answer_index": 0,
+    "explanation": "사자 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🐯 줄무늬가 멋진 맹수는 무엇일까요?",
+    "options": [
+      "하이에나",
+      "재규어",
+      "호랑이",
+      "늑대"
+    ],
+    "answer_index": 2,
+    "explanation": "호랑이 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🐬 바다에서 헤엄치는 친근한 동물은?",
+    "options": [
+      "상어",
+      "돌고래",
+      "고래",
+      "물개"
+    ],
+    "answer_index": 1,
+    "explanation": "돌고래 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🐘 긴 코를 가진 거대한 동물은 무엇일까요?",
+    "options": [
+      "하마",
+      "코뿔소",
+      "코끼리",
+      "기린"
+    ],
+    "answer_index": 2,
+    "explanation": "코끼리 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "✈️ 하늘을 가로질러 날아가는 탈것은?",
+    "options": [
+      "비행기",
+      "헬리콥터",
+      "로켓",
+      "드론"
+    ],
+    "answer_index": 0,
+    "explanation": "비행기 ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "한국어",
+    "difficulty": 3,
+    "question": "🚀 우주를 향해 날아가는 것은 무엇일까요?",
+    "options": [
+      "인공위성",
+      "로켓",
+      "유성",
+      "혜성"
+    ],
+    "answer_index": 1,
+    "explanation": "로켓 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🚢 바다를 가로질러 항해하는 탈것은?",
+    "options": [
+      "잠수함",
+      "보트",
+      "배",
+      "카누"
+    ],
+    "answer_index": 2,
+    "explanation": "배 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🚗 도로 위를 달리는 탈것은 무엇일까요?",
+    "options": [
+      "자동차",
+      "트럭",
+      "오토바이",
+      "스쿠터"
+    ],
+    "answer_index": 0,
+    "explanation": "자동차 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "한국어",
+    "difficulty": 1,
+    "question": "🚌 승객을 태우고 다니는 대중교통은?",
+    "options": [
+      "승합차",
+      "택시",
+      "버스",
+      "구급차"
+    ],
+    "answer_index": 2,
+    "explanation": "버스 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "한국어",
+    "difficulty": 2,
+    "question": "🚒 불을 끄러 출동하는 긴급 차량은?",
+    "options": [
+      "경찰차",
+      "소방차",
+      "견인차",
+      "불도저"
+    ],
+    "answer_index": 1,
+    "explanation": "소방차 🚒",
+    "reward_coins": 10
+  }
+]

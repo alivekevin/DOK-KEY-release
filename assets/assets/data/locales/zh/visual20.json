@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍎 你知道这是什么水果吗？",
+    "options": [
+      "苹果",
+      "香蕉",
+      "樱桃",
+      "葡萄"
+    ],
+    "answer_index": 0,
+    "explanation": "苹果 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍌 猜猜这是什么水果？",
+    "options": [
+      "橙子",
+      "香蕉",
+      "桃子",
+      "柠檬"
+    ],
+    "answer_index": 1,
+    "explanation": "香蕉 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍇 这串水果叫什么？",
+    "options": [
+      "草莓",
+      "桃子",
+      "葡萄",
+      "西瓜"
+    ],
+    "answer_index": 2,
+    "explanation": "葡萄 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍓 这种红红的水果是什么？",
+    "options": [
+      "草莓",
+      "甜瓜",
+      "樱桃",
+      "猕猴桃"
+    ],
+    "answer_index": 0,
+    "explanation": "草莓 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍉 你能认出这种水果吗？",
+    "options": [
+      "芒果",
+      "西瓜",
+      "木瓜",
+      "牛油果"
+    ],
+    "answer_index": 1,
+    "explanation": "西瓜 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍊 猜猜这个水果叫什么？",
+    "options": [
+      "柠檬",
+      "青柠",
+      "橙子",
+      "葡萄柚"
+    ],
+    "answer_index": 2,
+    "explanation": "橙子 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🍒 这是什么水果？",
+    "options": [
+      "蓝莓",
+      "樱桃",
+      "李子",
+      "橄榄"
+    ],
+    "answer_index": 1,
+    "explanation": "樱桃 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🐱 这只可爱的小动物是什么？",
+    "options": [
+      "猫",
+      "狗",
+      "狐狸",
+      "兔子"
+    ],
+    "answer_index": 0,
+    "explanation": "猫 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🐶 人类忠实的好伙伴是什么？",
+    "options": [
+      "狼",
+      "狗",
+      "熊",
+      "老虎"
+    ],
+    "answer_index": 1,
+    "explanation": "狗 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🐼 哪种可爱的动物最爱吃竹子？",
+    "options": [
+      "考拉",
+      "树懒",
+      "熊猫",
+      "浣熊"
+    ],
+    "answer_index": 2,
+    "explanation": "熊猫 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🦁 谁是大草原之王？",
+    "options": [
+      "狮子",
+      "猎豹",
+      "花豹",
+      "黑豹"
+    ],
+    "answer_index": 0,
+    "explanation": "狮子 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🐯 哪种猛兽有威风的条纹？",
+    "options": [
+      "鬣狗",
+      "美洲豹",
+      "老虎",
+      "狼"
+    ],
+    "answer_index": 2,
+    "explanation": "老虎 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🐬 哪种友善的动物喜欢在海里游泳？",
+    "options": [
+      "鲨鱼",
+      "海豚",
+      "鲸鱼",
+      "海豹"
+    ],
+    "answer_index": 1,
+    "explanation": "海豚 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🐘 哪种庞大的动物长着长鼻子？",
+    "options": [
+      "河马",
+      "犀牛",
+      "大象",
+      "长颈鹿"
+    ],
+    "answer_index": 2,
+    "explanation": "大象 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "✈️ 哪种交通工具能飞越天空？",
+    "options": [
+      "飞机",
+      "直升机",
+      "火箭",
+      "无人机"
+    ],
+    "answer_index": 0,
+    "explanation": "飞机 ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "中文",
+    "difficulty": 3,
+    "question": "🚀 哪种飞行器能飞向外太空？",
+    "options": [
+      "卫星",
+      "火箭",
+      "流星",
+      "彗星"
+    ],
+    "answer_index": 1,
+    "explanation": "火箭 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🚢 哪种交通工具能在海上航行？",
+    "options": [
+      "潜水艇",
+      "小船",
+      "轮船",
+      "独木舟"
+    ],
+    "answer_index": 2,
+    "explanation": "轮船 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🚗 哪种交通工具在道路上行驶？",
+    "options": [
+      "汽车",
+      "卡车",
+      "摩托车",
+      "踏板车"
+    ],
+    "answer_index": 0,
+    "explanation": "汽车 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "中文",
+    "difficulty": 1,
+    "question": "🚌 哪种公共交通工具会载客出行？",
+    "options": [
+      "面包车",
+      "出租车",
+      "公共汽车",
+      "救护车"
+    ],
+    "answer_index": 2,
+    "explanation": "公共汽车 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "中文",
+    "difficulty": 2,
+    "question": "🚒 哪种紧急车辆专门用来灭火？",
+    "options": [
+      "警车",
+      "消防车",
+      "拖车",
+      "推土机"
+    ],
+    "answer_index": 1,
+    "explanation": "消防车 🚒",
+    "reward_coins": 10
+  }
+]

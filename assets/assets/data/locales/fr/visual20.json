@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍎 Quel est le nom de ce fruit ?",
+    "options": [
+      "Pomme",
+      "Banane",
+      "Cerise",
+      "Raisin"
+    ],
+    "answer_index": 0,
+    "explanation": "Pomme 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍌 Sauras-tu reconnaître ce fruit ?",
+    "options": [
+      "Orange",
+      "Banane",
+      "Pêche",
+      "Citron"
+    ],
+    "answer_index": 1,
+    "explanation": "Banane 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍇 Comment s'appelle ce fruit ?",
+    "options": [
+      "Fraise",
+      "Pêche",
+      "Raisin",
+      "Pastèque"
+    ],
+    "answer_index": 2,
+    "explanation": "Raisin 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍓 Quel est ce fruit rouge ?",
+    "options": [
+      "Fraise",
+      "Melon",
+      "Cerise",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Fraise 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍉 Reconnais-tu ce fruit ?",
+    "options": [
+      "Mangue",
+      "Pastèque",
+      "Papaye",
+      "Avocat"
+    ],
+    "answer_index": 1,
+    "explanation": "Pastèque 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍊 Comment s'appelle cet agrume ?",
+    "options": [
+      "Citron",
+      "Citron vert",
+      "Orange",
+      "Pamplemousse"
+    ],
+    "answer_index": 2,
+    "explanation": "Orange 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🍒 Quel est ce fruit ?",
+    "options": [
+      "Myrtille",
+      "Cerise",
+      "Prune",
+      "Olive"
+    ],
+    "answer_index": 1,
+    "explanation": "Cerise 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🐱 Quel est ce petit animal tout mignon ?",
+    "options": [
+      "Chat",
+      "Chien",
+      "Renard",
+      "Lapin"
+    ],
+    "answer_index": 0,
+    "explanation": "Chat 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🐶 Quel animal est le fidèle compagnon de l'homme ?",
+    "options": [
+      "Loup",
+      "Chien",
+      "Ours",
+      "Tigre"
+    ],
+    "answer_index": 1,
+    "explanation": "Chien 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🐼 Quel adorable animal adore le bambou ?",
+    "options": [
+      "Koala",
+      "Paresseux",
+      "Panda",
+      "Raton laveur"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🦁 Qui est le roi de la savane ?",
+    "options": [
+      "Lion",
+      "Guépard",
+      "Léopard",
+      "Panthère"
+    ],
+    "answer_index": 0,
+    "explanation": "Lion 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🐯 Quel puissant prédateur possède de magnifiques rayures ?",
+    "options": [
+      "Hyène",
+      "Jaguar",
+      "Tigre",
+      "Loup"
+    ],
+    "answer_index": 2,
+    "explanation": "Tigre 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🐬 Quel animal sympathique nage dans l'océan ?",
+    "options": [
+      "Requin",
+      "Dauphin",
+      "Baleine",
+      "Phoque"
+    ],
+    "answer_index": 1,
+    "explanation": "Dauphin 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🐘 Quel animal géant possède une longue trompe ?",
+    "options": [
+      "Hippopotame",
+      "Rhinocéros",
+      "Éléphant",
+      "Girafe"
+    ],
+    "answer_index": 2,
+    "explanation": "Éléphant 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "✈️ Quel véhicule vole dans le ciel ?",
+    "options": [
+      "Avion",
+      "Hélicoptère",
+      "Fusée",
+      "Drone"
+    ],
+    "answer_index": 0,
+    "explanation": "Avion ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Français",
+    "difficulty": 3,
+    "question": "🚀 Quel engin part à la conquête de l'espace ?",
+    "options": [
+      "Satellite",
+      "Fusée",
+      "Météore",
+      "Comète"
+    ],
+    "answer_index": 1,
+    "explanation": "Fusée 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🚢 Quel bateau navigue sur l'océan ?",
+    "options": [
+      "Sous-marin",
+      "Barque",
+      "Navire",
+      "Canoë"
+    ],
+    "answer_index": 2,
+    "explanation": "Navire 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🚗 Quel véhicule roule sur la route ?",
+    "options": [
+      "Voiture",
+      "Camion",
+      "Moto",
+      "Scooter"
+    ],
+    "answer_index": 0,
+    "explanation": "Voiture 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Français",
+    "difficulty": 1,
+    "question": "🚌 Quel moyen de transport public prend des passagers ?",
+    "options": [
+      "Fourgonnette",
+      "Taxi",
+      "Bus",
+      "Ambulance"
+    ],
+    "answer_index": 2,
+    "explanation": "Bus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Français",
+    "difficulty": 2,
+    "question": "🚒 Quel véhicule d'urgence sert à éteindre les incendies ?",
+    "options": [
+      "Voiture de police",
+      "Camion de pompiers",
+      "Dépanneuse",
+      "Bulldozer"
+    ],
+    "answer_index": 1,
+    "explanation": "Camion de pompiers 🚒",
+    "reward_coins": 10
+  }
+]

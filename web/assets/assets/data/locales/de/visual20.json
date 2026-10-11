@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍎 Welche Frucht ist das?",
+    "options": [
+      "Apfel",
+      "Banane",
+      "Kirsche",
+      "Traube"
+    ],
+    "answer_index": 0,
+    "explanation": "Apfel 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍌 Welche Frucht ist das?",
+    "options": [
+      "Orange",
+      "Banane",
+      "Pfirsich",
+      "Zitrone"
+    ],
+    "answer_index": 1,
+    "explanation": "Banane 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍇 Wie heißt diese Frucht?",
+    "options": [
+      "Erdbeere",
+      "Pfirsich",
+      "Weintraube",
+      "Wassermelone"
+    ],
+    "answer_index": 2,
+    "explanation": "Weintraube 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍓 Welche rote Frucht ist das?",
+    "options": [
+      "Erdbeere",
+      "Melone",
+      "Kirsche",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Erdbeere 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍉 Erkennst du diese Frucht?",
+    "options": [
+      "Mango",
+      "Wassermelone",
+      "Papaya",
+      "Avocado"
+    ],
+    "answer_index": 1,
+    "explanation": "Wassermelone 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍊 Wie heißt diese Zitrusfrucht?",
+    "options": [
+      "Zitrone",
+      "Limette",
+      "Orange",
+      "Grapefruit"
+    ],
+    "answer_index": 2,
+    "explanation": "Orange 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🍒 Welche Frucht ist das?",
+    "options": [
+      "Blaubeere",
+      "Kirsche",
+      "Pflaume",
+      "Olive"
+    ],
+    "answer_index": 1,
+    "explanation": "Kirsche 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🐱 Welches niedliche Tier ist das?",
+    "options": [
+      "Katze",
+      "Hund",
+      "Fuchs",
+      "Kaninchen"
+    ],
+    "answer_index": 0,
+    "explanation": "Katze 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🐶 Welches Tier ist der treue Freund des Menschen?",
+    "options": [
+      "Wolf",
+      "Hund",
+      "Bär",
+      "Tiger"
+    ],
+    "answer_index": 1,
+    "explanation": "Hund 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🐼 Welches niedliche Tier liebt Bambus?",
+    "options": [
+      "Koala",
+      "Faultier",
+      "Panda",
+      "Waschbär"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🦁 Wer ist der König der Savanne?",
+    "options": [
+      "Löwe",
+      "Gepard",
+      "Leopard",
+      "Panther"
+    ],
+    "answer_index": 0,
+    "explanation": "Löwe 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🐯 Welches Raubtier hat ein prächtiges Streifenmuster?",
+    "options": [
+      "Hyäne",
+      "Jaguar",
+      "Tiger",
+      "Wolf"
+    ],
+    "answer_index": 2,
+    "explanation": "Tiger 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🐬 Welches freundliche Tier schwimmt im Meer?",
+    "options": [
+      "Hai",
+      "Delfin",
+      "Wal",
+      "Robbe"
+    ],
+    "answer_index": 1,
+    "explanation": "Delfin 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🐘 Welches riesige Tier hat einen langen Rüssel?",
+    "options": [
+      "Nilpferd",
+      "Nashorn",
+      "Elefant",
+      "Giraffe"
+    ],
+    "answer_index": 2,
+    "explanation": "Elefant 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "✈️ Welches Verkehrsmittel fliegt durch den Himmel?",
+    "options": [
+      "Flugzeug",
+      "Hubschrauber",
+      "Rakete",
+      "Drohne"
+    ],
+    "answer_index": 0,
+    "explanation": "Flugzeug ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Deutsch",
+    "difficulty": 3,
+    "question": "🚀 Welches Fluggerät startet ins Weltall?",
+    "options": [
+      "Satellit",
+      "Rakete",
+      "Meteor",
+      "Komet"
+    ],
+    "answer_index": 1,
+    "explanation": "Rakete 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🚢 Welches Verkehrsmittel fährt über das Meer?",
+    "options": [
+      "U-Boot",
+      "Boot",
+      "Schiff",
+      "Kanu"
+    ],
+    "answer_index": 2,
+    "explanation": "Schiff 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🚗 Welches Fahrzeug fährt auf der Straße?",
+    "options": [
+      "Auto",
+      "Lastwagen",
+      "Motorrad",
+      "Motorroller"
+    ],
+    "answer_index": 0,
+    "explanation": "Auto 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Deutsch",
+    "difficulty": 1,
+    "question": "🚌 Welches öffentliche Verkehrsmittel nimmt Fahrgäste mit?",
+    "options": [
+      "Kleinbus",
+      "Taxi",
+      "Bus",
+      "Krankenwagen"
+    ],
+    "answer_index": 2,
+    "explanation": "Bus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Deutsch",
+    "difficulty": 2,
+    "question": "🚒 Welches Einsatzfahrzeug löscht Brände?",
+    "options": [
+      "Polizeiauto",
+      "Feuerwehrauto",
+      "Abschleppwagen",
+      "Bulldozer"
+    ],
+    "answer_index": 1,
+    "explanation": "Feuerwehrauto 🚒",
+    "reward_coins": 10
+  }
+]

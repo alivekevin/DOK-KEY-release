@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍎 Que fruta é esta?",
+    "options": [
+      "Maçã",
+      "Banana",
+      "Cereja",
+      "Uva"
+    ],
+    "answer_index": 0,
+    "explanation": "Maçã 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍌 Você sabe que fruta é esta?",
+    "options": [
+      "Laranja",
+      "Banana",
+      "Pêssego",
+      "Limão"
+    ],
+    "answer_index": 1,
+    "explanation": "Banana 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍇 Como se chama esta fruta?",
+    "options": [
+      "Morango",
+      "Pêssego",
+      "Uva",
+      "Melancia"
+    ],
+    "answer_index": 2,
+    "explanation": "Uva 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍓 Que fruta vermelha é esta?",
+    "options": [
+      "Morango",
+      "Melão",
+      "Cereja",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Morango 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍉 Você consegue reconhecer esta fruta?",
+    "options": [
+      "Manga",
+      "Melancia",
+      "Mamão",
+      "Abacate"
+    ],
+    "answer_index": 1,
+    "explanation": "Melancia 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍊 Qual é o nome desta fruta cítrica?",
+    "options": [
+      "Limão",
+      "Lima",
+      "Laranja",
+      "Toranja"
+    ],
+    "answer_index": 2,
+    "explanation": "Laranja 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🍒 Que fruta aparece aqui?",
+    "options": [
+      "Mirtilo",
+      "Cereja",
+      "Ameixa",
+      "Azeitona"
+    ],
+    "answer_index": 1,
+    "explanation": "Cereja 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🐱 Que animalzinho fofo é este?",
+    "options": [
+      "Gato",
+      "Cachorro",
+      "Raposa",
+      "Coelho"
+    ],
+    "answer_index": 0,
+    "explanation": "Gato 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🐶 Qual é o amigo fiel do ser humano?",
+    "options": [
+      "Lobo",
+      "Cachorro",
+      "Urso",
+      "Tigre"
+    ],
+    "answer_index": 1,
+    "explanation": "Cachorro 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🐼 Qual animal adorável adora bambu?",
+    "options": [
+      "Coala",
+      "Bicho-preguiça",
+      "Panda",
+      "Guaxinim"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🦁 Quem é o rei da savana?",
+    "options": [
+      "Leão",
+      "Guepardo",
+      "Leopardo",
+      "Pantera"
+    ],
+    "answer_index": 0,
+    "explanation": "Leão 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🐯 Qual predador imponente tem listras marcantes?",
+    "options": [
+      "Hiena",
+      "Onça-pintada",
+      "Tigre",
+      "Lobo"
+    ],
+    "answer_index": 2,
+    "explanation": "Tigre 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🐬 Qual animal simpático nada no oceano?",
+    "options": [
+      "Tubarão",
+      "Golfinho",
+      "Baleia",
+      "Foca"
+    ],
+    "answer_index": 1,
+    "explanation": "Golfinho 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🐘 Qual animal gigante tem uma tromba comprida?",
+    "options": [
+      "Hipopótamo",
+      "Rinoceronte",
+      "Elefante",
+      "Girafa"
+    ],
+    "answer_index": 2,
+    "explanation": "Elefante 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "✈️ Qual veículo voa pelo céu?",
+    "options": [
+      "Avião",
+      "Helicóptero",
+      "Foguete",
+      "Drone"
+    ],
+    "answer_index": 0,
+    "explanation": "Avião ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Português",
+    "difficulty": 3,
+    "question": "🚀 Qual veículo segue rumo ao espaço?",
+    "options": [
+      "Satélite",
+      "Foguete",
+      "Meteoro",
+      "Cometa"
+    ],
+    "answer_index": 1,
+    "explanation": "Foguete 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🚢 Qual embarcação navega pelo oceano?",
+    "options": [
+      "Submarino",
+      "Barco",
+      "Navio",
+      "Canoa"
+    ],
+    "answer_index": 2,
+    "explanation": "Navio 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🚗 Qual veículo circula pelas estradas?",
+    "options": [
+      "Carro",
+      "Caminhão",
+      "Motocicleta",
+      "Scooter"
+    ],
+    "answer_index": 0,
+    "explanation": "Carro 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Português",
+    "difficulty": 1,
+    "question": "🚌 Qual transporte público leva passageiros?",
+    "options": [
+      "Van",
+      "Táxi",
+      "Ônibus",
+      "Ambulância"
+    ],
+    "answer_index": 2,
+    "explanation": "Ônibus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Português",
+    "difficulty": 2,
+    "question": "🚒 Qual veículo de emergência combate incêndios?",
+    "options": [
+      "Carro de polícia",
+      "Caminhão de bombeiros",
+      "Guincho",
+      "Trator de esteira"
+    ],
+    "answer_index": 1,
+    "explanation": "Caminhão de bombeiros 🚒",
+    "reward_coins": 10
+  }
+]
