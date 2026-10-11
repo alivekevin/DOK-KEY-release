@@ -1621,7 +1621,7 @@
       "fire"
     ],
     "author": "Laotse",
-    "source": "도덕경",
+    "source": "Daodejing",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1653,7 +1653,7 @@
       "zen"
     ],
     "author": "Laotse",
-    "source": "도덕경",
+    "source": "Daodejing",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1685,7 +1685,7 @@
       "zen"
     ],
     "author": "Zhuangzi",
-    "source": "장자",
+    "source": "Zhuangzi",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1701,7 +1701,7 @@
       "curious"
     ],
     "author": "Seneca",
-    "source": "운문에 대하여",
+    "source": "Über die Dichtkunst",
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
@@ -1733,7 +1733,7 @@
       "zen"
     ],
     "author": "Epiktet",
-    "source": "강론",
+    "source": "Erörterungen",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1748,8 +1748,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "전통 격언",
-    "source": "델포이 신전",
+    "author": "Überlieferte Spruchweisheit",
+    "source": "Tempel von Delphi",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1765,7 +1765,7 @@
       "fire"
     ],
     "author": "Platon",
-    "source": "국가",
+    "source": "Der Staat",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1797,7 +1797,7 @@
       "fire"
     ],
     "author": "Aristoteles",
-    "source": "격언",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1813,7 +1813,7 @@
       "zen"
     ],
     "author": "Epikur",
-    "source": "격언",
+    "source": "Aphorismen",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1845,7 +1845,7 @@
       "fire"
     ],
     "author": "Äsop",
-    "source": "우화",
+    "source": "Fabeln",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1860,7 +1860,7 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "베이컨",
+    "author": "Francis Bacon",
     "source": "DOK-KEY Zitate",
     "theme": "growth",
     "emotion": "curious",
@@ -1877,7 +1877,7 @@
       "zen"
     ],
     "author": "William Shakespeare",
-    "source": "햄릿",
+    "source": "Hamlet",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1893,7 +1893,7 @@
       "rage"
     ],
     "author": "William Shakespeare",
-    "source": "햄릿",
+    "source": "Hamlet",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -1908,8 +1908,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "파스칼",
-    "source": "팡세",
+    "author": "Pascal",
+    "source": "Pensées",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1924,8 +1924,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "데카르트",
-    "source": "방법서설",
+    "author": "Descartes",
+    "source": "Abhandlung über die Methode",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1940,8 +1940,8 @@
     "tone_tags": [
       "calm"
     ],
-    "author": "칸트",
-    "source": "비판철학",
+    "author": "Kant",
+    "source": "Kritische Philosophie",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1956,8 +1956,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "괴테",
-    "source": "격언",
+    "author": "Goethe",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1972,8 +1972,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "볼테르",
-    "source": "격언",
+    "author": "Voltaire",
+    "source": "Aphorismen",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1988,8 +1988,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "루소",
-    "source": "사회계약론",
+    "author": "Rousseau",
+    "source": "Der Gesellschaftsvertrag",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2004,8 +2004,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "톨스토이",
-    "source": "격언",
+    "author": "Tolstoi",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2020,8 +2020,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "니체",
-    "source": "황혼의 우상",
+    "author": "Nietzsche",
+    "source": "Götzen-Dämmerung",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2036,8 +2036,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "니체",
-    "source": "격언",
+    "author": "Nietzsche",
+    "source": "Aphorismen",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
@@ -2053,7 +2053,7 @@
       "fire"
     ],
     "author": "Talmud",
-    "source": "격언",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2069,7 +2069,7 @@
       "rage"
     ],
     "author": "Talmud",
-    "source": "격언",
+    "source": "Aphorismen",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2084,8 +2084,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "솔론",
-    "source": "격언",
+    "author": "Solon",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2100,8 +2100,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "프랭클린",
-    "source": "격언",
+    "author": "Franklin",
+    "source": "Aphorismen",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2116,8 +2116,8 @@
     "tone_tags": [
       "calm"
     ],
-    "author": "프랭클린",
-    "source": "빈약한 리처드의 연감",
+    "author": "Franklin",
+    "source": "Poor Richard's Almanack",
     "theme": "growth",
     "emotion": "normal",
     "time_slot": [
@@ -2164,8 +2164,8 @@
     "tone_tags": [
       "hope"
     ],
-    "author": "에머슨",
-    "source": "격언",
+    "author": "Emerson",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "hope",
     "time_slot": [
@@ -2180,8 +2180,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "에머슨",
-    "source": "우정에 대하여",
+    "author": "Emerson",
+    "source": "Über die Freundschaft",
     "theme": "growth",
     "emotion": "shy",
     "time_slot": [
@@ -2196,8 +2196,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "미상",
-    "source": "출전 불명 (다 빈치 귀속설)",
+    "author": "Unbekannt",
+    "source": "Quelle unbekannt (da Vinci zugeschrieben)",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2212,8 +2212,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "다 빈치",
-    "source": "노트",
+    "author": "Leonardo da Vinci",
+    "source": "Notizbücher",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2228,8 +2228,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "플루타르코스",
-    "source": "격언",
+    "author": "Plutarch",
+    "source": "Aphorismen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2244,8 +2244,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "이순신",
-    "source": "난중일기",
+    "author": "Yi Sun-sin",
+    "source": "Nanjung Ilgi (Kriegstagebuch)",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2260,8 +2260,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "허난설헌",
-    "source": "허난설헌 시화",
+    "author": "Heo Nanseolheon",
+    "source": "Heo Nanseolheons Poetik",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2276,8 +2276,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "도쿠가와 이에야스",
-    "source": "격언",
+    "author": "Tokugawa Ieyasu",
+    "source": "Aphorismen",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2292,8 +2292,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "무사시",
-    "source": "오륜서",
+    "author": "Miyamoto Musashi",
+    "source": "Das Buch der fünf Ringe",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2308,8 +2308,8 @@
     "tone_tags": [
       "sad"
     ],
-    "author": "바쇼",
-    "source": "오쿠노호소미치",
+    "author": "Matsuo Bashō",
+    "source": "Oku no Hosomichi",
     "theme": "zen",
     "emotion": "sad",
     "time_slot": [
@@ -2341,7 +2341,7 @@
       "zen"
     ],
     "author": "Laotse",
-    "source": "도덕경",
+    "source": "Daodejing",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2357,7 +2357,7 @@
       "zen"
     ],
     "author": "Laotse",
-    "source": "도덕경",
+    "source": "Daodejing",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2389,7 +2389,7 @@
       "zen"
     ],
     "author": "Menzius",
-    "source": "맹자",
+    "source": "Menzius",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2404,8 +2404,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "왕양명",
-    "source": "전습록",
+    "author": "Wang Yangming",
+    "source": "Aufzeichnungen über praktisches Lernen",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [

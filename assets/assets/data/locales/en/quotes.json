@@ -1621,7 +1621,7 @@
       "fire"
     ],
     "author": "Laozi",
-    "source": "도덕경",
+    "source": "Tao Te Ching",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1653,7 +1653,7 @@
       "zen"
     ],
     "author": "Laozi",
-    "source": "도덕경",
+    "source": "Tao Te Ching",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1685,7 +1685,7 @@
       "zen"
     ],
     "author": "Zhuangzi",
-    "source": "장자",
+    "source": "Zhuangzi",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1701,7 +1701,7 @@
       "curious"
     ],
     "author": "Seneca",
-    "source": "운문에 대하여",
+    "source": "On Verse",
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
@@ -1733,7 +1733,7 @@
       "zen"
     ],
     "author": "Epictetus",
-    "source": "강론",
+    "source": "Discourses",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1749,7 +1749,7 @@
       "curious"
     ],
     "author": "Traditional Proverb",
-    "source": "델포이 신전",
+    "source": "Temple of Delphi",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1765,7 +1765,7 @@
       "fire"
     ],
     "author": "Plato",
-    "source": "국가",
+    "source": "The Republic",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1797,7 +1797,7 @@
       "fire"
     ],
     "author": "Aristotle",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1813,7 +1813,7 @@
       "zen"
     ],
     "author": "Epicurus",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1845,7 +1845,7 @@
       "fire"
     ],
     "author": "Aesop",
-    "source": "우화",
+    "source": "Fables",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1877,7 +1877,7 @@
       "zen"
     ],
     "author": "William Shakespeare",
-    "source": "햄릿",
+    "source": "Hamlet",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1893,7 +1893,7 @@
       "rage"
     ],
     "author": "William Shakespeare",
-    "source": "햄릿",
+    "source": "Hamlet",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -1909,7 +1909,7 @@
       "curious"
     ],
     "author": "Blaise Pascal",
-    "source": "팡세",
+    "source": "Pensées",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1925,7 +1925,7 @@
       "curious"
     ],
     "author": "René Descartes",
-    "source": "방법서설",
+    "source": "Discourse on Method",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1941,7 +1941,7 @@
       "calm"
     ],
     "author": "Immanuel Kant",
-    "source": "비판철학",
+    "source": "Critical Philosophy",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1957,7 +1957,7 @@
       "fire"
     ],
     "author": "Johann Wolfgang von Goethe",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1973,7 +1973,7 @@
       "zen"
     ],
     "author": "Voltaire",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1989,7 +1989,7 @@
       "rage"
     ],
     "author": "Jean-Jacques Rousseau",
-    "source": "사회계약론",
+    "source": "The Social Contract",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2005,7 +2005,7 @@
       "fire"
     ],
     "author": "Leo Tolstoy",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2021,7 +2021,7 @@
       "rage"
     ],
     "author": "Friedrich Nietzsche",
-    "source": "황혼의 우상",
+    "source": "Twilight of the Idols",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2037,7 +2037,7 @@
       "fire"
     ],
     "author": "Friedrich Nietzsche",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
@@ -2053,7 +2053,7 @@
       "fire"
     ],
     "author": "Talmud",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2069,7 +2069,7 @@
       "rage"
     ],
     "author": "Talmud",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2085,7 +2085,7 @@
       "curious"
     ],
     "author": "Solon",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2101,7 +2101,7 @@
       "shy"
     ],
     "author": "Benjamin Franklin",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2117,7 +2117,7 @@
       "calm"
     ],
     "author": "Benjamin Franklin",
-    "source": "빈약한 리처드의 연감",
+    "source": "Poor Richard's Almanack",
     "theme": "growth",
     "emotion": "normal",
     "time_slot": [
@@ -2165,7 +2165,7 @@
       "hope"
     ],
     "author": "Ralph Waldo Emerson",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "hope",
     "time_slot": [
@@ -2181,7 +2181,7 @@
       "shy"
     ],
     "author": "Ralph Waldo Emerson",
-    "source": "우정에 대하여",
+    "source": "On Friendship",
     "theme": "growth",
     "emotion": "shy",
     "time_slot": [
@@ -2197,7 +2197,7 @@
       "zen"
     ],
     "author": "Unknown",
-    "source": "출전 불명 (다 빈치 귀속설)",
+    "source": "Source unknown (attributed to da Vinci)",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2213,7 +2213,7 @@
       "curious"
     ],
     "author": "Leonardo da Vinci",
-    "source": "노트",
+    "source": "Notebooks",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2229,7 +2229,7 @@
       "fire"
     ],
     "author": "Plutarch",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2245,7 +2245,7 @@
       "rage"
     ],
     "author": "Yi Sun-sin",
-    "source": "난중일기",
+    "source": "Nanjung Ilgi (War Diary)",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2261,7 +2261,7 @@
       "shy"
     ],
     "author": "Heo Nanseolheon",
-    "source": "허난설헌 시화",
+    "source": "Heo Nanseolheon's Poetics",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2277,7 +2277,7 @@
       "zen"
     ],
     "author": "Tokugawa Ieyasu",
-    "source": "격언",
+    "source": "Maxims",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2293,7 +2293,7 @@
       "fire"
     ],
     "author": "Miyamoto Musashi",
-    "source": "오륜서",
+    "source": "The Book of Five Rings",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2309,7 +2309,7 @@
       "sad"
     ],
     "author": "Matsuo Bashō",
-    "source": "오쿠노호소미치",
+    "source": "Oku no Hosomichi",
     "theme": "zen",
     "emotion": "sad",
     "time_slot": [
@@ -2341,7 +2341,7 @@
       "zen"
     ],
     "author": "Laozi",
-    "source": "도덕경",
+    "source": "Tao Te Ching",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2357,7 +2357,7 @@
       "zen"
     ],
     "author": "Laozi",
-    "source": "도덕경",
+    "source": "Tao Te Ching",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2389,7 +2389,7 @@
       "zen"
     ],
     "author": "Mencius",
-    "source": "맹자",
+    "source": "Mencius",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2405,7 +2405,7 @@
       "fire"
     ],
     "author": "Wang Yangming",
-    "source": "전습록",
+    "source": "Instructions for Practical Living",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [

@@ -1621,7 +1621,7 @@
       "fire"
     ],
     "author": "लाओत्सु",
-    "source": "도덕경",
+    "source": "ताओ ते चिंग",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1653,7 +1653,7 @@
       "zen"
     ],
     "author": "लाओत्सु",
-    "source": "도덕경",
+    "source": "ताओ ते चिंग",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1685,7 +1685,7 @@
       "zen"
     ],
     "author": "झुआंगत्सी",
-    "source": "장자",
+    "source": "झुआंगज़ी",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1701,7 +1701,7 @@
       "curious"
     ],
     "author": "सेनेका",
-    "source": "운문에 대하여",
+    "source": "छंद-काव्य पर",
     "theme": "fortune",
     "emotion": "curious",
     "time_slot": [
@@ -1733,7 +1733,7 @@
       "zen"
     ],
     "author": "एपिक्टेटस",
-    "source": "강론",
+    "source": "प्रवचन",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1748,8 +1748,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "전통 격언",
-    "source": "델포이 신전",
+    "author": "पारंपरिक कहावत",
+    "source": "डेल्फ़ी का मंदिर",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1765,7 +1765,7 @@
       "fire"
     ],
     "author": "प्लेटो",
-    "source": "국가",
+    "source": "रिपब्लिक (राज्य)",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1797,7 +1797,7 @@
       "fire"
     ],
     "author": "अरस्तू",
-    "source": "격언",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1813,7 +1813,7 @@
       "zen"
     ],
     "author": "एपिक्यूरियस",
-    "source": "격언",
+    "source": "सूक्तियाँ",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1845,7 +1845,7 @@
       "fire"
     ],
     "author": "ईसप",
-    "source": "우화",
+    "source": "दंतकथाएँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1860,7 +1860,7 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "베이컨",
+    "author": "फ़्रांसिस बेकन",
     "source": "DOK-KEY उद्धरण",
     "theme": "growth",
     "emotion": "curious",
@@ -1877,7 +1877,7 @@
       "zen"
     ],
     "author": "विलियम शेक्सपियर",
-    "source": "햄릿",
+    "source": "हैमलेट",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1893,7 +1893,7 @@
       "rage"
     ],
     "author": "विलियम शेक्सपियर",
-    "source": "햄릿",
+    "source": "हैमलेट",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -1908,8 +1908,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "파스칼",
-    "source": "팡세",
+    "author": "पास्कल",
+    "source": "पांसे",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1924,8 +1924,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "데카르트",
-    "source": "방법서설",
+    "author": "देकार्त",
+    "source": "विधि पर चर्चा",
     "theme": "zen",
     "emotion": "curious",
     "time_slot": [
@@ -1940,8 +1940,8 @@
     "tone_tags": [
       "calm"
     ],
-    "author": "칸트",
-    "source": "비판철학",
+    "author": "कांट",
+    "source": "समीक्षात्मक दर्शन",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1956,8 +1956,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "괴테",
-    "source": "격언",
+    "author": "गोएथे",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -1972,8 +1972,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "볼테르",
-    "source": "격언",
+    "author": "वॉल्टेयर",
+    "source": "सूक्तियाँ",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -1988,8 +1988,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "루소",
-    "source": "사회계약론",
+    "author": "रूसो",
+    "source": "सामाजिक अनुबंध",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2004,8 +2004,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "톨스토이",
-    "source": "격언",
+    "author": "टॉल्स्टॉय",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2020,8 +2020,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "니체",
-    "source": "황혼의 우상",
+    "author": "नीत्शे",
+    "source": "मूर्तियों का सांध्यकाल",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2036,8 +2036,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "니체",
-    "source": "격언",
+    "author": "नीत्शे",
+    "source": "सूक्तियाँ",
     "theme": "challenge",
     "emotion": "fire",
     "time_slot": [
@@ -2053,7 +2053,7 @@
       "fire"
     ],
     "author": "तालमुद",
-    "source": "격언",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2069,7 +2069,7 @@
       "rage"
     ],
     "author": "तालमुद",
-    "source": "격언",
+    "source": "सूक्तियाँ",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2084,8 +2084,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "솔론",
-    "source": "격언",
+    "author": "सोलोन",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2100,8 +2100,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "프랭클린",
-    "source": "격언",
+    "author": "फ्रैंकलिन",
+    "source": "सूक्तियाँ",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2116,8 +2116,8 @@
     "tone_tags": [
       "calm"
     ],
-    "author": "프랭클린",
-    "source": "빈약한 리처드의 연감",
+    "author": "फ्रैंकलिन",
+    "source": "पुअर रिचर्ड्स अल्मनैक",
     "theme": "growth",
     "emotion": "normal",
     "time_slot": [
@@ -2164,8 +2164,8 @@
     "tone_tags": [
       "hope"
     ],
-    "author": "에머슨",
-    "source": "격언",
+    "author": "एमरसन",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "hope",
     "time_slot": [
@@ -2180,8 +2180,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "에머슨",
-    "source": "우정에 대하여",
+    "author": "एमरसन",
+    "source": "मित्रता पर",
     "theme": "growth",
     "emotion": "shy",
     "time_slot": [
@@ -2196,8 +2196,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "미상",
-    "source": "출전 불명 (다 빈치 귀속설)",
+    "author": "अज्ञात",
+    "source": "स्रोत अज्ञात (दा विंची को आरोपित)",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2212,8 +2212,8 @@
     "tone_tags": [
       "curious"
     ],
-    "author": "다 빈치",
-    "source": "노트",
+    "author": "लियोनार्डो दा विंची",
+    "source": "नोटबुक",
     "theme": "growth",
     "emotion": "curious",
     "time_slot": [
@@ -2228,8 +2228,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "플루타르코스",
-    "source": "격언",
+    "author": "प्लूटार्क",
+    "source": "सूक्तियाँ",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2244,8 +2244,8 @@
     "tone_tags": [
       "rage"
     ],
-    "author": "이순신",
-    "source": "난중일기",
+    "author": "यी सुन-सिन",
+    "source": "नानजुंग इलगी (युद्ध-डायरी)",
     "theme": "challenge",
     "emotion": "rage",
     "time_slot": [
@@ -2260,8 +2260,8 @@
     "tone_tags": [
       "shy"
     ],
-    "author": "허난설헌",
-    "source": "허난설헌 시화",
+    "author": "हो नान्सोलहोन",
+    "source": "हो नान्सोलहोन की काव्य-चर्चा",
     "theme": "fortune",
     "emotion": "shy",
     "time_slot": [
@@ -2276,8 +2276,8 @@
     "tone_tags": [
       "zen"
     ],
-    "author": "도쿠가와 이에야스",
-    "source": "격언",
+    "author": "तोकुगावा इएयासु",
+    "source": "सूक्तियाँ",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2292,8 +2292,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "무사시",
-    "source": "오륜서",
+    "author": "मियामोतो मुसाशी",
+    "source": "पाँच छल्लों की पुस्तक",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
@@ -2308,8 +2308,8 @@
     "tone_tags": [
       "sad"
     ],
-    "author": "바쇼",
-    "source": "오쿠노호소미치",
+    "author": "मात्सुओ बाशो",
+    "source": "ओकु नो होसोमिची",
     "theme": "zen",
     "emotion": "sad",
     "time_slot": [
@@ -2341,7 +2341,7 @@
       "zen"
     ],
     "author": "लाओत्सु",
-    "source": "도덕경",
+    "source": "ताओ ते चिंग",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2357,7 +2357,7 @@
       "zen"
     ],
     "author": "लाओत्सु",
-    "source": "도덕경",
+    "source": "ताओ ते चिंग",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2389,7 +2389,7 @@
       "zen"
     ],
     "author": "मेन्सियस",
-    "source": "맹자",
+    "source": "मेंगज़ी",
     "theme": "zen",
     "emotion": "normal",
     "time_slot": [
@@ -2404,8 +2404,8 @@
     "tone_tags": [
       "fire"
     ],
-    "author": "왕양명",
-    "source": "전습록",
+    "author": "वांग यांगमिंग",
+    "source": "चुआन्शीलू",
     "theme": "growth",
     "emotion": "fire",
     "time_slot": [
