@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_fr_01",
+    "category": "pun",
+    "question": "Pourquoi l'électricien était-il surpris lors de l'accident?",
+    "options": [
+      "Il faisait noir",
+      "La lampe est tombée",
+      "Pas du tout au courant",
+      "Il avait faim"
+    ],
+    "answer_index": 2,
+    "explanation": "Jeu de mots entre le courant électrique et l'expression 'être au courant' (être informé).",
+    "audio_key": "pun_fr_01",
+    "audio_path": "assets/audio/pun/fr/01.mp3"
+  },
+  {
+    "id": "pun_fr_02",
+    "category": "pun",
+    "question": "Que crie un vampire quand on lui écrase un orteil dans la cuisine?",
+    "options": [
+      "Sang!",
+      "Au secours!",
+      "Aïe!",
+      "Pardon!"
+    ],
+    "answer_index": 2,
+    "explanation": "Cri de douleur 'Aïe' identique phonétiquement à l'ail, la plante qui repousse les vampires.",
+    "audio_key": "pun_fr_02",
+    "audio_path": "assets/audio/pun/fr/02.mp3"
+  },
+  {
+    "id": "pun_fr_03",
+    "category": "pun",
+    "question": "Pourquoi les plongeurs sous-marins plongent-ils toujours en arrière du bateau?",
+    "options": [
+      "Pour le style",
+      "C'est la règle",
+      "Sinon plouf dans le bateau",
+      "Pour voir les poissons"
+    ],
+    "answer_index": 2,
+    "explanation": "S'ils basculent vers l'avant, ils retombent bêtement au fond de leur propre embarcation.",
+    "audio_key": "pun_fr_03",
+    "audio_path": "assets/audio/pun/fr/03.mp3"
+  },
+  {
+    "id": "pun_fr_04",
+    "category": "pun",
+    "question": "Que dit un citron pressé le matin qui court après le bus?",
+    "options": [
+      "Je suis jaune",
+      "Attendez-moi",
+      "Pas le temps, je me presse",
+      "Bonjour"
+    ],
+    "answer_index": 2,
+    "explanation": "Double sens de presser un agrume pour faire du jus et se dépêcher (se presser).",
+    "audio_key": "pun_fr_04",
+    "audio_path": "assets/audio/pun/fr/04.mp3"
+  },
+  {
+    "id": "pun_fr_05",
+    "category": "pun",
+    "question": "Quelle est la boisson préférée des petits félins parisiens?",
+    "options": [
+      "Lait froid",
+      "Eau fraîche",
+      "Un bon dé-CHAT-féiné",
+      "Jus d'orange"
+    ],
+    "answer_index": 2,
+    "explanation": "Jeu de mots entre le café décaféiné et le mot 'chat'.",
+    "audio_key": "pun_fr_05",
+    "audio_path": "assets/audio/pun/fr/05.mp3"
+  },
+  {
+    "id": "pun_fr_06",
+    "category": "pun",
+    "question": "Pourquoi le hibou est-il le plus heureux des oiseaux dans la forêt?",
+    "options": [
+      "Il vole la nuit",
+      "Il est sage",
+      "Sa femme est chouette",
+      "Il aime les arbres"
+    ],
+    "answer_index": 2,
+    "explanation": "Le hibou et la chouette sont deux oiseaux nocturnes, et 'chouette' signifie géniale et formidable.",
+    "audio_key": "pun_fr_06",
+    "audio_path": "assets/audio/pun/fr/06.mp3"
+  },
+  {
+    "id": "pun_fr_07",
+    "category": "pun",
+    "question": "Que mange un crocodile quand il a une petite faim entre midi et deux?",
+    "options": [
+      "Une salade",
+      "Un poisson",
+      "Une croque",
+      "Des algues"
+    ],
+    "answer_index": 2,
+    "explanation": "Allusion comique au sandwich chaud 'croque-monsieur' et au fait de croquer ses proies.",
+    "audio_key": "pun_fr_07",
+    "audio_path": "assets/audio/pun/fr/07.mp3"
+  },
+  {
+    "id": "pun_fr_08",
+    "category": "pun",
+    "question": "Que font les deux glands sous le grand chêne toute la journée?",
+    "options": [
+      "Ils dorment",
+      "Ils poussent",
+      "Qu'est-ce qu'on glande",
+      "Ils tombent"
+    ],
+    "answer_index": 2,
+    "explanation": "Trocadilho avec le fruit du chêne (le gland) et l'argot familier 'glander' (ne rien faire).",
+    "audio_key": "pun_fr_08",
+    "audio_path": "assets/audio/pun/fr/08.mp3"
+  },
+  {
+    "id": "pun_fr_09",
+    "category": "pun",
+    "question": "Pourquoi le facteur a-t-il été emmené à l'hôpital psychiatrique?",
+    "options": [
+      "Il a perdu son vélo",
+      "Il a trop marché",
+      "Complètement timbré",
+      "Il pleuvait"
+    ],
+    "answer_index": 2,
+    "explanation": "Un timbre postal se colle sur les lettres, tandis qu'être timbré signifie être complètement fou.",
+    "audio_key": "pun_fr_09",
+    "audio_path": "assets/audio/pun/fr/09.mp3"
+  },
+  {
+    "id": "pun_fr_10",
+    "category": "pun",
+    "question": "Pourquoi les hirondelles s'envolent-elles vers le sud chaque automne?",
+    "options": [
+      "Pour les vacances",
+      "Pour la nourriture",
+      "À pied ça prendrait l'hiver",
+      "Par habitude"
+    ],
+    "answer_index": 2,
+    "explanation": "Humour absurde: Si elles faisaient toute cette distance à pied, cela prendrait une éternité.",
+    "audio_key": "pun_fr_10",
+    "audio_path": "assets/audio/pun/fr/10.mp3"
+  },
+  {
+    "id": "pun_fr_11",
+    "category": "pun",
+    "question": "Pourquoi le Père Noël est-il toujours fatigué en décembre?",
+    "options": [
+      "Les rennes dorment",
+      "Le traîneau est lourd",
+      "Trop de bouleau",
+      "Il fait froid"
+    ],
+    "answer_index": 2,
+    "explanation": "Jeu de mots entre l'arbre de bouleau et le mot argotique 'boulot' (travail intensif).",
+    "audio_key": "pun_fr_11",
+    "audio_path": "assets/audio/pun/fr/11.mp3"
+  },
+  {
+    "id": "pun_fr_12",
+    "category": "pun",
+    "question": "Que crie un écureuil qui tombe au fond d'un grand lac?",
+    "options": [
+      "Au secours!",
+      "Où sont mes noisettes?",
+      "Je me noie-x",
+      "Froid!"
+    ],
+    "answer_index": 2,
+    "explanation": "Homophonie entre le verbe se noyer (je me noie) et les noix qu'adore manger l'écureuil.",
+    "audio_key": "pun_fr_12",
+    "audio_path": "assets/audio/pun/fr/12.mp3"
+  },
+  {
+    "id": "pun_fr_13",
+    "category": "pun",
+    "question": "Quel est le comble pour un pilote d'avion très discret?",
+    "options": [
+      "Voler la nuit",
+      "Porter des lunettes",
+      "Atterrir en silence",
+      "Avoir le vertige"
+    ],
+    "answer_index": 2,
+    "explanation": "Contraste humoristique entre le bruit des réacteurs et l'atterrissage sur la pointe des pieds.",
+    "audio_key": "pun_fr_13",
+    "audio_path": "assets/audio/pun/fr/13.mp3"
+  },
+  {
+    "id": "pun_fr_14",
+    "category": "pun",
+    "question": "Quelle est la petite goutte qui fait déborder tout le vase?",
+    "options": [
+      "La première",
+      "Celle du milieu",
+      "La goutte de trop",
+      "La dernière larme"
+    ],
+    "answer_index": 2,
+    "explanation": "Expression française courante désignant l'élément minime qui déclenche la crise.",
+    "audio_key": "pun_fr_14",
+    "audio_path": "assets/audio/pun/fr/14.mp3"
+  },
+  {
+    "id": "pun_fr_15",
+    "category": "pun",
+    "question": "Que mangent les petits monstres au dîner le soir d'Halloween?",
+    "options": [
+      "Des bonbons",
+      "De la soupe",
+      "Purée de TERREUR",
+      "Des carottes"
+    ],
+    "answer_index": 2,
+    "explanation": "Calembour culinaire entre la traditionnelle purée de pommes de terre et la terreur d'Halloween.",
+    "audio_key": "pun_fr_15",
+    "audio_path": "assets/audio/pun/fr/15.mp3"
+  },
+  {
+    "id": "pun_fr_16",
+    "category": "pun",
+    "question": "Quel objet a deux branches solides mais aucune feuille verte?",
+    "options": [
+      "Un arbre mort",
+      "Un compas",
+      "Mes lunettes",
+      "Un buisson"
+    ],
+    "answer_index": 2,
+    "explanation": "Les montures de lunettes possèdent deux branches latérales qui reposent sur les oreilles.",
+    "audio_key": "pun_fr_16",
+    "audio_path": "assets/audio/pun/fr/16.mp3"
+  },
+  {
+    "id": "pun_fr_17",
+    "category": "pun",
+    "question": "Qui passe discrètement sous l'oreiller pour échanger les dents de lait?",
+    "options": [
+      "Le loup",
+      "Le chat botté",
+      "La petite souris",
+      "Le marchand de sable"
+    ],
+    "answer_index": 2,
+    "explanation": "Légende enfantine française où la petite souris remplace une dent tombée par une pièce.",
+    "audio_key": "pun_fr_17",
+    "audio_path": "assets/audio/pun/fr/17.mp3"
+  },
+  {
+    "id": "pun_fr_18",
+    "category": "pun",
+    "question": "Quelle est la carte que le serveur apporte toujours avec le sourire?",
+    "options": [
+      "L'as de pique",
+      "La carte de crédit",
+      "La carte du menu",
+      "La carte routière"
+    ],
+    "answer_index": 2,
+    "explanation": "Jeu de cartes détourné vers la carte des plats et desserts au restaurant.",
+    "audio_key": "pun_fr_18",
+    "audio_path": "assets/audio/pun/fr/18.mp3"
+  },
+  {
+    "id": "pun_fr_19",
+    "category": "pun",
+    "question": "Comment appelle-t-on un chat noir qui a quatre roues motrices?",
+    "options": [
+      "Un tigre",
+      "Un félin rapide",
+      "Un vrai 4x4",
+      "Une panthère"
+    ],
+    "answer_index": 2,
+    "explanation": "Parodie reliant les quatre pattes agiles d'un chat au véhicule tout-terrain 4x4.",
+    "audio_key": "pun_fr_19",
+    "audio_path": "assets/audio/pun/fr/19.mp3"
+  },
+  {
+    "id": "pun_fr_20",
+    "category": "pun",
+    "question": "Pourquoi l'oiseau de Nouvelle-Zélande ne mange-t-il pas de kiwi?",
+    "options": [
+      "C'est acide",
+      "Il n'a pas faim",
+      "Je suis un Kiwi",
+      "Il préfère les vers"
+    ],
+    "answer_index": 2,
+    "explanation": "Le kiwi est à la fois un fruit vert et le nom d'un oiseau emblématique, d'où le refus du cannibalisme.",
+    "audio_key": "pun_fr_20",
+    "audio_path": "assets/audio/pun/fr/20.mp3"
+  }
+]

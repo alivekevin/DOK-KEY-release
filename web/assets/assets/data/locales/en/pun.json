@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_en_01",
+    "category": "pun",
+    "question": "What do bees style their hair with?",
+    "options": [
+      "Wax",
+      "Hair gel",
+      "Honeycombs",
+      "Wind"
+    ],
+    "answer_index": 2,
+    "explanation": "Comb is a tool used for untangling hair, and honeycombs are structures built by bees.",
+    "audio_key": "pun_en_01",
+    "audio_path": "assets/audio/pun/en/01.mp3"
+  },
+  {
+    "id": "pun_en_02",
+    "category": "pun",
+    "question": "What do you call a bear with no teeth?",
+    "options": [
+      "Old bear",
+      "Soft bear",
+      "A gummy bear",
+      "Sleeping bear"
+    ],
+    "answer_index": 2,
+    "explanation": "Gums are the soft tissue in the mouth, and gummy bears are popular chewy gelatin candies.",
+    "audio_key": "pun_en_02",
+    "audio_path": "assets/audio/pun/en/02.mp3"
+  },
+  {
+    "id": "pun_en_03",
+    "category": "pun",
+    "question": "Why did the scarecrow win an award?",
+    "options": [
+      "He was very scary",
+      "He worked hard",
+      "Outstanding in his field",
+      "Birds loved him"
+    ],
+    "answer_index": 2,
+    "explanation": "Outstanding means excellent, while literally standing out in an agricultural field.",
+    "audio_key": "pun_en_03",
+    "audio_path": "assets/audio/pun/en/03.mp3"
+  },
+  {
+    "id": "pun_en_04",
+    "category": "pun",
+    "question": "What do you call fake spaghetti?",
+    "options": [
+      "Plastic noodle",
+      "Ramen",
+      "An Impasta",
+      "Cheap dinner"
+    ],
+    "answer_index": 2,
+    "explanation": "An imposter is someone pretending to be someone else, rhyming playfully with pasta.",
+    "audio_key": "pun_en_04",
+    "audio_path": "assets/audio/pun/en/04.mp3"
+  },
+  {
+    "id": "pun_en_05",
+    "category": "pun",
+    "question": "What kind of cheese doesn't belong to you?",
+    "options": [
+      "Cheddar",
+      "Gouda",
+      "Nacho cheese",
+      "Swiss cheese"
+    ],
+    "answer_index": 2,
+    "explanation": "Nacho cheese sounds identical to 'not your cheese'.",
+    "audio_key": "pun_en_05",
+    "audio_path": "assets/audio/pun/en/05.mp3"
+  },
+  {
+    "id": "pun_en_06",
+    "category": "pun",
+    "question": "Why don't skeletons fight each other?",
+    "options": [
+      "They are peaceful",
+      "No guts",
+      "They are fragile",
+      "No swords"
+    ],
+    "answer_index": 1,
+    "explanation": "Guts means courage or nerve, but skeletons literally lack internal digestive organs.",
+    "audio_key": "pun_en_06",
+    "audio_path": "assets/audio/pun/en/06.mp3"
+  },
+  {
+    "id": "pun_en_07",
+    "category": "pun",
+    "question": "What do you call a sleeping dinosaur?",
+    "options": [
+      "T-Rex",
+      "Fossil",
+      "A Dino-snore",
+      "Sleepy head"
+    ],
+    "answer_index": 2,
+    "explanation": "Combines the word dinosaur with snore, the sound made while sleeping heavily.",
+    "audio_key": "pun_en_07",
+    "audio_path": "assets/audio/pun/en/07.mp3"
+  },
+  {
+    "id": "pun_en_08",
+    "category": "pun",
+    "question": "What kind of tea is very hard to swallow?",
+    "options": [
+      "Hot black tea",
+      "Cold herbal tea",
+      "Reali-tea",
+      "Bitter green tea"
+    ],
+    "answer_index": 2,
+    "explanation": "Reality can be bitter and difficult to accept, sharing the sound of tea.",
+    "audio_key": "pun_en_08",
+    "audio_path": "assets/audio/pun/en/08.mp3"
+  },
+  {
+    "id": "pun_en_09",
+    "category": "pun",
+    "question": "Why did the bicycle fall over?",
+    "options": [
+      "Flat tire",
+      "Heavy wind",
+      "Two-tired",
+      "Slippery road"
+    ],
+    "answer_index": 2,
+    "explanation": "Two-tired (having two wheels) sounds identical to being too tired (fatigued).",
+    "audio_key": "pun_en_09",
+    "audio_path": "assets/audio/pun/en/09.mp3"
+  },
+  {
+    "id": "pun_en_10",
+    "category": "pun",
+    "question": "What musical instrument is found in the bathroom?",
+    "options": [
+      "Trumpet",
+      "Flute",
+      "A tuba toothpaste",
+      "Violin"
+    ],
+    "answer_index": 2,
+    "explanation": "'A tube of toothpaste' sounds remarkably like the brass instrument tuba.",
+    "audio_key": "pun_en_10",
+    "audio_path": "assets/audio/pun/en/10.mp3"
+  },
+  {
+    "id": "pun_en_11",
+    "category": "pun",
+    "question": "Why can't a leopard play hide and seek successfully?",
+    "options": [
+      "Too loud",
+      "Always spotted",
+      "Runs too fast",
+      "Distinct smell"
+    ],
+    "answer_index": 1,
+    "explanation": "Spotted means having distinctive spots on the coat, as well as being seen and caught.",
+    "audio_key": "pun_en_11",
+    "audio_path": "assets/audio/pun/en/11.mp3"
+  },
+  {
+    "id": "pun_en_12",
+    "category": "pun",
+    "question": "What do you call a factory that makes mediocre goods?",
+    "options": [
+      "Average workshop",
+      "Standard mill",
+      "A satis-factory",
+      "Cheap plant"
+    ],
+    "answer_index": 2,
+    "explanation": "Satisfactory means adequate or acceptable, containing the word factory.",
+    "audio_key": "pun_en_12",
+    "audio_path": "assets/audio/pun/en/12.mp3"
+  },
+  {
+    "id": "pun_en_13",
+    "category": "pun",
+    "question": "Why did the little tomato turn red?",
+    "options": [
+      "Too sunny",
+      "Hot stove",
+      "Salad dressing",
+      "Very angry"
+    ],
+    "answer_index": 2,
+    "explanation": "Dressing refers to salad sauce, but also the action of changing clothes.",
+    "audio_key": "pun_en_13",
+    "audio_path": "assets/audio/pun/en/13.mp3"
+  },
+  {
+    "id": "pun_en_14",
+    "category": "pun",
+    "question": "What do you call an alligator wearing a fashionable vest?",
+    "options": [
+      "Fancy gator",
+      "Modern reptile",
+      "An in-vest-igator",
+      "Detective crocs"
+    ],
+    "answer_index": 2,
+    "explanation": "An investigator investigates mysteries, containing the clothing item vest.",
+    "audio_key": "pun_en_14",
+    "audio_path": "assets/audio/pun/en/14.mp3"
+  },
+  {
+    "id": "pun_en_15",
+    "category": "pun",
+    "question": "How do you make a piece of tissue dance?",
+    "options": [
+      "Turn on disco",
+      "Blow it high",
+      "A little boogie",
+      "Shake the box"
+    ],
+    "answer_index": 2,
+    "explanation": "Boogie is a lively dance style, while booger refers to nasal mucus in a tissue.",
+    "audio_key": "pun_en_15",
+    "audio_path": "assets/audio/pun/en/15.mp3"
+  },
+  {
+    "id": "pun_en_16",
+    "category": "pun",
+    "question": "Why do golfers keep an extra pair of trousers?",
+    "options": [
+      "Sudden rain",
+      "Muddy grass",
+      "A hole in one",
+      "Clean style"
+    ],
+    "answer_index": 2,
+    "explanation": "A hole in one is a dream golf score, but also an accidental tear in pants.",
+    "audio_key": "pun_en_16",
+    "audio_path": "assets/audio/pun/en/16.mp3"
+  },
+  {
+    "id": "pun_en_17",
+    "category": "pun",
+    "question": "What do you call a snowman in July?",
+    "options": [
+      "Hot ice",
+      "Warm fellow",
+      "A puddle",
+      "Magic mist"
+    ],
+    "answer_index": 2,
+    "explanation": "A snowman melts completely under summer heat, leaving behind only a pool of water.",
+    "audio_key": "pun_en_17",
+    "audio_path": "assets/audio/pun/en/17.mp3"
+  },
+  {
+    "id": "pun_en_18",
+    "category": "pun",
+    "question": "Why was the math textbook looking so depressed?",
+    "options": [
+      "No one read it",
+      "Too thick",
+      "Too many problems",
+      "Dusty shelf"
+    ],
+    "answer_index": 2,
+    "explanation": "Math problems refer to calculation exercises, but problems also mean personal troubles.",
+    "audio_key": "pun_en_18",
+    "audio_path": "assets/audio/pun/en/18.mp3"
+  },
+  {
+    "id": "pun_en_19",
+    "category": "pun",
+    "question": "What do hungry sea monsters enjoy for lunch?",
+    "options": [
+      "Seaweed chips",
+      "Giant squids",
+      "Fish and ships",
+      "Coral soup"
+    ],
+    "answer_index": 2,
+    "explanation": "A play on the traditional British meal 'fish and chips', swapping chips with ships.",
+    "audio_key": "pun_en_19",
+    "audio_path": "assets/audio/pun/en/19.mp3"
+  },
+  {
+    "id": "pun_en_20",
+    "category": "pun",
+    "question": "How does the wide ocean greet people on the beach?",
+    "options": [
+      "Makes splashes",
+      "Sings deep",
+      "It just waves",
+      "Blowing foam"
+    ],
+    "answer_index": 2,
+    "explanation": "A wave is a swell of seawater, but waving is also a friendly hand gesture.",
+    "audio_key": "pun_en_20",
+    "audio_path": "assets/audio/pun/en/20.mp3"
+  }
+]

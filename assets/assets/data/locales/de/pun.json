@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_de_01",
+    "category": "pun",
+    "question": "Was isst ein Astronaut am liebsten auf seiner Reise?",
+    "options": [
+      "Trockennahrung",
+      "Einen Mars-Riegel",
+      "Nudeln aus der Tube",
+      "Astronautenbrot"
+    ],
+    "answer_index": 1,
+    "explanation": "Ein Wortspiel zwischen dem roten Planeten Mars und dem bekannten Schokoriegel Mars.",
+    "audio_key": "pun_de_01",
+    "audio_path": "assets/audio/pun/de/01.mp3"
+  },
+  {
+    "id": "pun_de_02",
+    "category": "pun",
+    "question": "Was macht ein Clown im Büro?",
+    "options": [
+      "Kaffee kochen",
+      "Akten sortieren",
+      "Faxen",
+      "Papierflieger werfen"
+    ],
+    "answer_index": 2,
+    "explanation": "Doppeldeutigkeit der Redewendung 'Faxen machen' (Quatsch treiben) und dem Bürogerät Fax.",
+    "audio_key": "pun_de_02",
+    "audio_path": "assets/audio/pun/de/02.mp3"
+  },
+  {
+    "id": "pun_de_03",
+    "category": "pun",
+    "question": "Welches Tier kann am besten rechnen?",
+    "options": [
+      "Der schlaue Fuchs",
+      "Der Rechenvogel",
+      "Das Zebra",
+      "Der Delphin"
+    ],
+    "answer_index": 2,
+    "explanation": "Das Zebra hat unzählige Streifen, die an Rechenstriche oder Maßstäbe erinnern.",
+    "audio_key": "pun_de_03",
+    "audio_path": "assets/audio/pun/de/03.mp3"
+  },
+  {
+    "id": "pun_de_04",
+    "category": "pun",
+    "question": "Welches ist das Lieblingsgetränk der Informatiker?",
+    "options": [
+      "Kaffee mit Milch",
+      "Energy-Drink",
+      "Cola",
+      "Java"
+    ],
+    "answer_index": 3,
+    "explanation": "Ein Wortwitz zwischen der Programmiersprache Java und der traditionellen Kaffeesorte Java.",
+    "audio_key": "pun_de_04",
+    "audio_path": "assets/audio/pun/de/04.mp3"
+  },
+  {
+    "id": "pun_de_05",
+    "category": "pun",
+    "question": "Warum summen Bienen eigentlich immer?",
+    "options": [
+      "Weil sie fröhlich sind",
+      "Weil sie fliegen müssen",
+      "Weil sie den Text vergessen haben",
+      "Um den Bären zu vertreiben"
+    ],
+    "answer_index": 2,
+    "explanation": "Wer den Liedtext vergessen hat, summt einfach nur die Melodie mit.",
+    "audio_key": "pun_de_05",
+    "audio_path": "assets/audio/pun/de/05.mp3"
+  },
+  {
+    "id": "pun_de_06",
+    "category": "pun",
+    "question": "Welches Gemüse ist am lustigsten?",
+    "options": [
+      "Die Karotte",
+      "Die Gurke",
+      "Die Kichererbse",
+      "Die Tomate"
+    ],
+    "answer_index": 2,
+    "explanation": "Kombination aus dem Verb 'kichern' (leise lachen) und der Hülsenfrucht Kichererbse.",
+    "audio_key": "pun_de_06",
+    "audio_path": "assets/audio/pun/de/06.mp3"
+  },
+  {
+    "id": "pun_de_07",
+    "category": "pun",
+    "question": "Welches Brot isst man am liebsten im Schwimmbad?",
+    "options": [
+      "Toastbrot",
+      "Vollkornbrot",
+      "Das Chlorbrötchen",
+      "Laugengebäck"
+    ],
+    "answer_index": 2,
+    "explanation": "Kombiniert das Desinfektionsmittel Chlor im Hallenbad mit einem gewöhnlichen Brötchen.",
+    "audio_key": "pun_de_07",
+    "audio_path": "assets/audio/pun/de/07.mp3"
+  },
+  {
+    "id": "pun_de_08",
+    "category": "pun",
+    "question": "Was liegt am Strand und spricht undeutlich?",
+    "options": [
+      "Ein Betrunkener",
+      "Ein Seestern",
+      "Eine Nuschel",
+      "Eine Krabbe"
+    ],
+    "answer_index": 2,
+    "explanation": "Legendärer Flachwitz: Verschmelzung von Muschel mit dem Verb 'nuscheln' (undeutlich sprechen).",
+    "audio_key": "pun_de_08",
+    "audio_path": "assets/audio/pun/de/08.mp3"
+  },
+  {
+    "id": "pun_de_09",
+    "category": "pun",
+    "question": "Wie nennt man ein Kaninchen im Fitnessstudio?",
+    "options": [
+      "Muskelhase",
+      "Ein Pumpernickel",
+      "Sportkaninchen",
+      "Renner"
+    ],
+    "answer_index": 1,
+    "explanation": "Wortspiel aus dem westfälischen Roggenbrot Pumpernickel und einem Kraftsportler (Pumper).",
+    "audio_key": "pun_de_09",
+    "audio_path": "assets/audio/pun/de/09.mp3"
+  },
+  {
+    "id": "pun_de_10",
+    "category": "pun",
+    "question": "Wo wohnen Katzen am liebsten im Haus?",
+    "options": [
+      "Im Schlafzimmer",
+      "Im Miau-soläum",
+      "Auf dem Sofa",
+      "In der Küche"
+    ],
+    "answer_index": 1,
+    "explanation": "Zusammensetzung aus dem ehrwürdigen Mausoleum und dem Miauen einer Katze.",
+    "audio_key": "pun_de_10",
+    "audio_path": "assets/audio/pun/de/10.mp3"
+  },
+  {
+    "id": "pun_de_11",
+    "category": "pun",
+    "question": "Welches Tier fährt am liebsten mit dem Zug?",
+    "options": [
+      "Der Hund",
+      "Das Pferd",
+      "Der Zugvogel",
+      "Der Affe"
+    ],
+    "answer_index": 2,
+    "explanation": "Der Zugvogel fliegt in den Süden, aber 'Zug' bedeutet auf Deutsch auch Eisenbahn.",
+    "audio_key": "pun_de_11",
+    "audio_path": "assets/audio/pun/de/11.mp3"
+  },
+  {
+    "id": "pun_de_12",
+    "category": "pun",
+    "question": "Was hängt am Baum und macht 'Wau-Wau'?",
+    "options": [
+      "Ein Jagdhund",
+      "Ein Ast mit Sprachfehler",
+      "Ein kletternder Welpe",
+      "Ein Eichhörnchen"
+    ],
+    "answer_index": 1,
+    "explanation": "Klassischer Nonsens-Witz, der die Erwartung eines bellenden Hundes absurd bricht.",
+    "audio_key": "pun_de_12",
+    "audio_path": "assets/audio/pun/de/12.mp3"
+  },
+  {
+    "id": "pun_de_13",
+    "category": "pun",
+    "question": "Was ist weiß und versteckt sich ängstlich hinter dem Baum?",
+    "options": [
+      "Ein Schneemann",
+      "Ein Eisbär",
+      "Schüchterne Milch",
+      "Ein weißes Kaninchen"
+    ],
+    "answer_index": 2,
+    "explanation": "Ein surrealer Kalauer, der einem Glas Milch menschliche Schüchternheit zuschreibt.",
+    "audio_key": "pun_de_13",
+    "audio_path": "assets/audio/pun/de/13.mp3"
+  },
+  {
+    "id": "pun_de_14",
+    "category": "pun",
+    "question": "Warum fliegen Vögel im Winter nach Süden?",
+    "options": [
+      "Weil es dort wärmer ist",
+      "Weil es dort Futter gibt",
+      "Weil zu Fuß gehen zu lange dauert",
+      "Weil der Wind nach Süden weht"
+    ],
+    "answer_index": 2,
+    "explanation": "Fokus auf die Fortbewegungsart: Zu Fuß durch den Schnee zu laufen würde ewig dauern.",
+    "audio_key": "pun_de_14",
+    "audio_path": "assets/audio/pun/de/14.mp3"
+  },
+  {
+    "id": "pun_de_15",
+    "category": "pun",
+    "question": "Was ist das Lieblingsfach des Skeletts in der Schule?",
+    "options": [
+      "Biologie",
+      "Geschichte",
+      "Leibeserziehung",
+      "Kunst"
+    ],
+    "answer_index": 2,
+    "explanation": "Ironie pur: Ein Skelett besitzt keinen fleischlichen Leib, macht aber Leibeserziehung (Sport).",
+    "audio_key": "pun_de_15",
+    "audio_path": "assets/audio/pun/de/15.mp3"
+  },
+  {
+    "id": "pun_de_16",
+    "category": "pun",
+    "question": "Welcher Schuh passt an keinen Fuß der Welt?",
+    "options": [
+      "Ein Holzschuh",
+      "Ein Aschenputtelschuh",
+      "Der Handschuh",
+      "Ein Minischuh"
+    ],
+    "answer_index": 2,
+    "explanation": "Der Handschuh ist ein Bekleidungsstück für die Hände und passt niemals an die Füße.",
+    "audio_key": "pun_de_16",
+    "audio_path": "assets/audio/pun/de/16.mp3"
+  },
+  {
+    "id": "pun_de_17",
+    "category": "pun",
+    "question": "Welcher Baum hat keine Blätter und keine Wurzeln, spendet aber Schatten?",
+    "options": [
+      "Ein toter Baum",
+      "Der Purzelbaum",
+      "Ein Eisenbaum",
+      "Ein Telegrafenmast"
+    ],
+    "answer_index": 1,
+    "explanation": "Ein Purzelbaum ist eine akrobatische Rolle vorwärts auf dem Boden, kein pflanzlicher Baum.",
+    "audio_key": "pun_de_17",
+    "audio_path": "assets/audio/pun/de/17.mp3"
+  },
+  {
+    "id": "pun_de_18",
+    "category": "pun",
+    "question": "Was brennt Tag und Nacht und wird niemals heiß?",
+    "options": [
+      "Die Sonne",
+      "Eine LED-Lampe",
+      "Die Brennnessel",
+      "Ein Irrlicht"
+    ],
+    "answer_index": 2,
+    "explanation": "Das Brennen auf der Haut bei Berührung einer Brennnessel erzeugt keine echte physikalische Hitze.",
+    "audio_key": "pun_de_18",
+    "audio_path": "assets/audio/pun/de/18.mp3"
+  },
+  {
+    "id": "pun_de_19",
+    "category": "pun",
+    "question": "Welcher Zahn beißt niemals zu?",
+    "options": [
+      "Der Milchzahn",
+      "Der Weisheitszahn",
+      "Der Löwenzahn",
+      "Der Goldzahn"
+    ],
+    "answer_index": 2,
+    "explanation": "Der Löwenzahn ist eine gelbe Wiesenblume und kein gefährliches Gebiss eines Löwen.",
+    "audio_key": "pun_de_19",
+    "audio_path": "assets/audio/pun/de/19.mp3"
+  },
+  {
+    "id": "pun_de_20",
+    "category": "pun",
+    "question": "Was ist grün, glücklich und hüpft über das Gras?",
+    "options": [
+      "Ein Frosch",
+      "Eine Heuschrecke",
+      "Eine Freuschrecke",
+      "Ein Grashüpfer"
+    ],
+    "answer_index": 2,
+    "explanation": "Wortneuschöpfung: Aus Heuschrecke wird durch das Verb freuen eine glückliche Freuschrecke.",
+    "audio_key": "pun_de_20",
+    "audio_path": "assets/audio/pun/de/20.mp3"
+  }
+]

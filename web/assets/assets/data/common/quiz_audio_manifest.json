@@ -1,0 +1,1002 @@
+{
+  "pun_de_01": {
+    "bytes": 21357,
+    "duration_ms": 2628,
+    "path": "assets/audio/pun/de/01.mp3"
+  },
+  "pun_de_02": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/de/02.mp3"
+  },
+  "pun_de_03": {
+    "bytes": 15597,
+    "duration_ms": 1908,
+    "path": "assets/audio/pun/de/03.mp3"
+  },
+  "pun_de_04": {
+    "bytes": 17325,
+    "duration_ms": 2124,
+    "path": "assets/audio/pun/de/04.mp3"
+  },
+  "pun_de_05": {
+    "bytes": 20781,
+    "duration_ms": 2556,
+    "path": "assets/audio/pun/de/05.mp3"
+  },
+  "pun_de_06": {
+    "bytes": 14157,
+    "duration_ms": 1728,
+    "path": "assets/audio/pun/de/06.mp3"
+  },
+  "pun_de_07": {
+    "bytes": 17325,
+    "duration_ms": 2124,
+    "path": "assets/audio/pun/de/07.mp3"
+  },
+  "pun_de_08": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/de/08.mp3"
+  },
+  "pun_de_09": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/de/09.mp3"
+  },
+  "pun_de_10": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/de/10.mp3"
+  },
+  "pun_de_11": {
+    "bytes": 9261,
+    "duration_ms": 1116,
+    "path": "assets/audio/pun/de/11.mp3"
+  },
+  "pun_de_12": {
+    "bytes": 21645,
+    "duration_ms": 2664,
+    "path": "assets/audio/pun/de/12.mp3"
+  },
+  "pun_de_13": {
+    "bytes": 18477,
+    "duration_ms": 2268,
+    "path": "assets/audio/pun/de/13.mp3"
+  },
+  "pun_de_14": {
+    "bytes": 17037,
+    "duration_ms": 2088,
+    "path": "assets/audio/pun/de/14.mp3"
+  },
+  "pun_de_15": {
+    "bytes": 16173,
+    "duration_ms": 1980,
+    "path": "assets/audio/pun/de/15.mp3"
+  },
+  "pun_de_16": {
+    "bytes": 8685,
+    "duration_ms": 1044,
+    "path": "assets/audio/pun/de/16.mp3"
+  },
+  "pun_de_17": {
+    "bytes": 15597,
+    "duration_ms": 1908,
+    "path": "assets/audio/pun/de/17.mp3"
+  },
+  "pun_de_18": {
+    "bytes": 10701,
+    "duration_ms": 1296,
+    "path": "assets/audio/pun/de/18.mp3"
+  },
+  "pun_de_19": {
+    "bytes": 11853,
+    "duration_ms": 1440,
+    "path": "assets/audio/pun/de/19.mp3"
+  },
+  "pun_de_20": {
+    "bytes": 15021,
+    "duration_ms": 1836,
+    "path": "assets/audio/pun/de/20.mp3"
+  },
+  "pun_en_01": {
+    "bytes": 14157,
+    "duration_ms": 1728,
+    "path": "assets/audio/pun/en/01.mp3"
+  },
+  "pun_en_02": {
+    "bytes": 13581,
+    "duration_ms": 1656,
+    "path": "assets/audio/pun/en/02.mp3"
+  },
+  "pun_en_03": {
+    "bytes": 21069,
+    "duration_ms": 2592,
+    "path": "assets/audio/pun/en/03.mp3"
+  },
+  "pun_en_04": {
+    "bytes": 13581,
+    "duration_ms": 1656,
+    "path": "assets/audio/pun/en/04.mp3"
+  },
+  "pun_en_05": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/en/05.mp3"
+  },
+  "pun_en_06": {
+    "bytes": 18477,
+    "duration_ms": 2268,
+    "path": "assets/audio/pun/en/06.mp3"
+  },
+  "pun_en_07": {
+    "bytes": 16461,
+    "duration_ms": 2016,
+    "path": "assets/audio/pun/en/07.mp3"
+  },
+  "pun_en_08": {
+    "bytes": 16461,
+    "duration_ms": 2016,
+    "path": "assets/audio/pun/en/08.mp3"
+  },
+  "pun_en_09": {
+    "bytes": 21069,
+    "duration_ms": 2592,
+    "path": "assets/audio/pun/en/09.mp3"
+  },
+  "pun_en_10": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/en/10.mp3"
+  },
+  "pun_en_11": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/en/11.mp3"
+  },
+  "pun_en_12": {
+    "bytes": 18477,
+    "duration_ms": 2268,
+    "path": "assets/audio/pun/en/12.mp3"
+  },
+  "pun_en_13": {
+    "bytes": 16173,
+    "duration_ms": 1980,
+    "path": "assets/audio/pun/en/13.mp3"
+  },
+  "pun_en_14": {
+    "bytes": 17901,
+    "duration_ms": 2196,
+    "path": "assets/audio/pun/en/14.mp3"
+  },
+  "pun_en_15": {
+    "bytes": 13293,
+    "duration_ms": 1620,
+    "path": "assets/audio/pun/en/15.mp3"
+  },
+  "pun_en_16": {
+    "bytes": 17901,
+    "duration_ms": 2196,
+    "path": "assets/audio/pun/en/16.mp3"
+  },
+  "pun_en_17": {
+    "bytes": 11277,
+    "duration_ms": 1368,
+    "path": "assets/audio/pun/en/17.mp3"
+  },
+  "pun_en_18": {
+    "bytes": 20205,
+    "duration_ms": 2484,
+    "path": "assets/audio/pun/en/18.mp3"
+  },
+  "pun_en_19": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/en/19.mp3"
+  },
+  "pun_en_20": {
+    "bytes": 13581,
+    "duration_ms": 1656,
+    "path": "assets/audio/pun/en/20.mp3"
+  },
+  "pun_es_01": {
+    "bytes": 10413,
+    "duration_ms": 1260,
+    "path": "assets/audio/pun/es/01.mp3"
+  },
+  "pun_es_02": {
+    "bytes": 15021,
+    "duration_ms": 1836,
+    "path": "assets/audio/pun/es/02.mp3"
+  },
+  "pun_es_03": {
+    "bytes": 12717,
+    "duration_ms": 1548,
+    "path": "assets/audio/pun/es/03.mp3"
+  },
+  "pun_es_04": {
+    "bytes": 12717,
+    "duration_ms": 1548,
+    "path": "assets/audio/pun/es/04.mp3"
+  },
+  "pun_es_05": {
+    "bytes": 18477,
+    "duration_ms": 2268,
+    "path": "assets/audio/pun/es/05.mp3"
+  },
+  "pun_es_06": {
+    "bytes": 12717,
+    "duration_ms": 1548,
+    "path": "assets/audio/pun/es/06.mp3"
+  },
+  "pun_es_07": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/es/07.mp3"
+  },
+  "pun_es_08": {
+    "bytes": 19629,
+    "duration_ms": 2412,
+    "path": "assets/audio/pun/es/08.mp3"
+  },
+  "pun_es_09": {
+    "bytes": 14445,
+    "duration_ms": 1764,
+    "path": "assets/audio/pun/es/09.mp3"
+  },
+  "pun_es_10": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/es/10.mp3"
+  },
+  "pun_es_11": {
+    "bytes": 13005,
+    "duration_ms": 1584,
+    "path": "assets/audio/pun/es/11.mp3"
+  },
+  "pun_es_12": {
+    "bytes": 18189,
+    "duration_ms": 2232,
+    "path": "assets/audio/pun/es/12.mp3"
+  },
+  "pun_es_13": {
+    "bytes": 14157,
+    "duration_ms": 1728,
+    "path": "assets/audio/pun/es/13.mp3"
+  },
+  "pun_es_14": {
+    "bytes": 13005,
+    "duration_ms": 1584,
+    "path": "assets/audio/pun/es/14.mp3"
+  },
+  "pun_es_15": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/es/15.mp3"
+  },
+  "pun_es_16": {
+    "bytes": 16461,
+    "duration_ms": 2016,
+    "path": "assets/audio/pun/es/16.mp3"
+  },
+  "pun_es_17": {
+    "bytes": 16173,
+    "duration_ms": 1980,
+    "path": "assets/audio/pun/es/17.mp3"
+  },
+  "pun_es_18": {
+    "bytes": 23085,
+    "duration_ms": 2844,
+    "path": "assets/audio/pun/es/18.mp3"
+  },
+  "pun_es_19": {
+    "bytes": 18189,
+    "duration_ms": 2232,
+    "path": "assets/audio/pun/es/19.mp3"
+  },
+  "pun_es_20": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/es/20.mp3"
+  },
+  "pun_fr_01": {
+    "bytes": 23373,
+    "duration_ms": 2880,
+    "path": "assets/audio/pun/fr/01.mp3"
+  },
+  "pun_fr_02": {
+    "bytes": 29997,
+    "duration_ms": 3708,
+    "path": "assets/audio/pun/fr/02.mp3"
+  },
+  "pun_fr_03": {
+    "bytes": 25677,
+    "duration_ms": 3168,
+    "path": "assets/audio/pun/fr/03.mp3"
+  },
+  "pun_fr_04": {
+    "bytes": 13005,
+    "duration_ms": 1584,
+    "path": "assets/audio/pun/fr/04.mp3"
+  },
+  "pun_fr_05": {
+    "bytes": 32301,
+    "duration_ms": 3996,
+    "path": "assets/audio/pun/fr/05.mp3"
+  },
+  "pun_fr_06": {
+    "bytes": 26541,
+    "duration_ms": 3276,
+    "path": "assets/audio/pun/fr/06.mp3"
+  },
+  "pun_fr_07": {
+    "bytes": 19341,
+    "duration_ms": 2376,
+    "path": "assets/audio/pun/fr/07.mp3"
+  },
+  "pun_fr_08": {
+    "bytes": 30285,
+    "duration_ms": 3744,
+    "path": "assets/audio/pun/fr/08.mp3"
+  },
+  "pun_fr_09": {
+    "bytes": 17613,
+    "duration_ms": 2160,
+    "path": "assets/audio/pun/fr/09.mp3"
+  },
+  "pun_fr_10": {
+    "bytes": 25677,
+    "duration_ms": 3168,
+    "path": "assets/audio/pun/fr/10.mp3"
+  },
+  "pun_fr_11": {
+    "bytes": 33165,
+    "duration_ms": 4104,
+    "path": "assets/audio/pun/fr/11.mp3"
+  },
+  "pun_fr_12": {
+    "bytes": 23661,
+    "duration_ms": 2916,
+    "path": "assets/audio/pun/fr/12.mp3"
+  },
+  "pun_fr_13": {
+    "bytes": 23373,
+    "duration_ms": 2880,
+    "path": "assets/audio/pun/fr/13.mp3"
+  },
+  "pun_fr_14": {
+    "bytes": 19341,
+    "duration_ms": 2376,
+    "path": "assets/audio/pun/fr/14.mp3"
+  },
+  "pun_fr_15": {
+    "bytes": 32589,
+    "duration_ms": 4032,
+    "path": "assets/audio/pun/fr/15.mp3"
+  },
+  "pun_fr_16": {
+    "bytes": 18189,
+    "duration_ms": 2232,
+    "path": "assets/audio/pun/fr/16.mp3"
+  },
+  "pun_fr_17": {
+    "bytes": 19917,
+    "duration_ms": 2448,
+    "path": "assets/audio/pun/fr/17.mp3"
+  },
+  "pun_fr_18": {
+    "bytes": 25965,
+    "duration_ms": 3204,
+    "path": "assets/audio/pun/fr/18.mp3"
+  },
+  "pun_fr_19": {
+    "bytes": 22509,
+    "duration_ms": 2772,
+    "path": "assets/audio/pun/fr/19.mp3"
+  },
+  "pun_fr_20": {
+    "bytes": 28845,
+    "duration_ms": 3564,
+    "path": "assets/audio/pun/fr/20.mp3"
+  },
+  "pun_hi_01": {
+    "bytes": 15885,
+    "duration_ms": 1944,
+    "path": "assets/audio/pun/hi/01.mp3"
+  },
+  "pun_hi_02": {
+    "bytes": 8685,
+    "duration_ms": 1044,
+    "path": "assets/audio/pun/hi/02.mp3"
+  },
+  "pun_hi_03": {
+    "bytes": 20781,
+    "duration_ms": 2556,
+    "path": "assets/audio/pun/hi/03.mp3"
+  },
+  "pun_hi_04": {
+    "bytes": 15885,
+    "duration_ms": 1944,
+    "path": "assets/audio/pun/hi/04.mp3"
+  },
+  "pun_hi_05": {
+    "bytes": 11565,
+    "duration_ms": 1404,
+    "path": "assets/audio/pun/hi/05.mp3"
+  },
+  "pun_hi_06": {
+    "bytes": 23661,
+    "duration_ms": 2916,
+    "path": "assets/audio/pun/hi/06.mp3"
+  },
+  "pun_hi_07": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/hi/07.mp3"
+  },
+  "pun_hi_08": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/hi/08.mp3"
+  },
+  "pun_hi_09": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/hi/09.mp3"
+  },
+  "pun_hi_10": {
+    "bytes": 13005,
+    "duration_ms": 1584,
+    "path": "assets/audio/pun/hi/10.mp3"
+  },
+  "pun_hi_11": {
+    "bytes": 23373,
+    "duration_ms": 2880,
+    "path": "assets/audio/pun/hi/11.mp3"
+  },
+  "pun_hi_12": {
+    "bytes": 6381,
+    "duration_ms": 756,
+    "path": "assets/audio/pun/hi/12.mp3"
+  },
+  "pun_hi_13": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/hi/13.mp3"
+  },
+  "pun_hi_14": {
+    "bytes": 10701,
+    "duration_ms": 1296,
+    "path": "assets/audio/pun/hi/14.mp3"
+  },
+  "pun_hi_15": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/hi/15.mp3"
+  },
+  "pun_hi_16": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/hi/16.mp3"
+  },
+  "pun_hi_17": {
+    "bytes": 14157,
+    "duration_ms": 1728,
+    "path": "assets/audio/pun/hi/17.mp3"
+  },
+  "pun_hi_18": {
+    "bytes": 11853,
+    "duration_ms": 1440,
+    "path": "assets/audio/pun/hi/18.mp3"
+  },
+  "pun_hi_19": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/hi/19.mp3"
+  },
+  "pun_hi_20": {
+    "bytes": 18189,
+    "duration_ms": 2232,
+    "path": "assets/audio/pun/hi/20.mp3"
+  },
+  "pun_ja_01": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/ja/01.mp3"
+  },
+  "pun_ja_02": {
+    "bytes": 13293,
+    "duration_ms": 1620,
+    "path": "assets/audio/pun/ja/02.mp3"
+  },
+  "pun_ja_03": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/ja/03.mp3"
+  },
+  "pun_ja_04": {
+    "bytes": 11565,
+    "duration_ms": 1404,
+    "path": "assets/audio/pun/ja/04.mp3"
+  },
+  "pun_ja_05": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/ja/05.mp3"
+  },
+  "pun_ja_06": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/ja/06.mp3"
+  },
+  "pun_ja_07": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/ja/07.mp3"
+  },
+  "pun_ja_08": {
+    "bytes": 10701,
+    "duration_ms": 1296,
+    "path": "assets/audio/pun/ja/08.mp3"
+  },
+  "pun_ja_09": {
+    "bytes": 11853,
+    "duration_ms": 1440,
+    "path": "assets/audio/pun/ja/09.mp3"
+  },
+  "pun_ja_10": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/ja/10.mp3"
+  },
+  "pun_ja_11": {
+    "bytes": 6669,
+    "duration_ms": 792,
+    "path": "assets/audio/pun/ja/11.mp3"
+  },
+  "pun_ja_12": {
+    "bytes": 13293,
+    "duration_ms": 1620,
+    "path": "assets/audio/pun/ja/12.mp3"
+  },
+  "pun_ja_13": {
+    "bytes": 17325,
+    "duration_ms": 2124,
+    "path": "assets/audio/pun/ja/13.mp3"
+  },
+  "pun_ja_14": {
+    "bytes": 11277,
+    "duration_ms": 1368,
+    "path": "assets/audio/pun/ja/14.mp3"
+  },
+  "pun_ja_15": {
+    "bytes": 23949,
+    "duration_ms": 2952,
+    "path": "assets/audio/pun/ja/15.mp3"
+  },
+  "pun_ja_16": {
+    "bytes": 11277,
+    "duration_ms": 1368,
+    "path": "assets/audio/pun/ja/16.mp3"
+  },
+  "pun_ja_17": {
+    "bytes": 18765,
+    "duration_ms": 2304,
+    "path": "assets/audio/pun/ja/17.mp3"
+  },
+  "pun_ja_18": {
+    "bytes": 15597,
+    "duration_ms": 1908,
+    "path": "assets/audio/pun/ja/18.mp3"
+  },
+  "pun_ja_19": {
+    "bytes": 9837,
+    "duration_ms": 1188,
+    "path": "assets/audio/pun/ja/19.mp3"
+  },
+  "pun_ja_20": {
+    "bytes": 27405,
+    "duration_ms": 3384,
+    "path": "assets/audio/pun/ja/20.mp3"
+  },
+  "pun_ko_01": {
+    "bytes": 16173,
+    "duration_ms": 1980,
+    "path": "assets/audio/pun/ko/01.mp3"
+  },
+  "pun_ko_02": {
+    "bytes": 8109,
+    "duration_ms": 972,
+    "path": "assets/audio/pun/ko/02.mp3"
+  },
+  "pun_ko_03": {
+    "bytes": 12717,
+    "duration_ms": 1548,
+    "path": "assets/audio/pun/ko/03.mp3"
+  },
+  "pun_ko_04": {
+    "bytes": 11853,
+    "duration_ms": 1440,
+    "path": "assets/audio/pun/ko/04.mp3"
+  },
+  "pun_ko_05": {
+    "bytes": 12717,
+    "duration_ms": 1548,
+    "path": "assets/audio/pun/ko/05.mp3"
+  },
+  "pun_ko_06": {
+    "bytes": 27693,
+    "duration_ms": 3420,
+    "path": "assets/audio/pun/ko/06.mp3"
+  },
+  "pun_ko_07": {
+    "bytes": 15885,
+    "duration_ms": 1944,
+    "path": "assets/audio/pun/ko/07.mp3"
+  },
+  "pun_ko_08": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/ko/08.mp3"
+  },
+  "pun_ko_09": {
+    "bytes": 10989,
+    "duration_ms": 1332,
+    "path": "assets/audio/pun/ko/09.mp3"
+  },
+  "pun_ko_10": {
+    "bytes": 14445,
+    "duration_ms": 1764,
+    "path": "assets/audio/pun/ko/10.mp3"
+  },
+  "pun_ko_11": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/ko/11.mp3"
+  },
+  "pun_ko_12": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/ko/12.mp3"
+  },
+  "pun_ko_13": {
+    "bytes": 9549,
+    "duration_ms": 1152,
+    "path": "assets/audio/pun/ko/13.mp3"
+  },
+  "pun_ko_14": {
+    "bytes": 14733,
+    "duration_ms": 1800,
+    "path": "assets/audio/pun/ko/14.mp3"
+  },
+  "pun_ko_15": {
+    "bytes": 10125,
+    "duration_ms": 1224,
+    "path": "assets/audio/pun/ko/15.mp3"
+  },
+  "pun_ko_16": {
+    "bytes": 10701,
+    "duration_ms": 1296,
+    "path": "assets/audio/pun/ko/16.mp3"
+  },
+  "pun_ko_17": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/ko/17.mp3"
+  },
+  "pun_ko_18": {
+    "bytes": 29709,
+    "duration_ms": 3672,
+    "path": "assets/audio/pun/ko/18.mp3"
+  },
+  "pun_ko_19": {
+    "bytes": 8397,
+    "duration_ms": 1008,
+    "path": "assets/audio/pun/ko/19.mp3"
+  },
+  "pun_ko_20": {
+    "bytes": 13869,
+    "duration_ms": 1692,
+    "path": "assets/audio/pun/ko/20.mp3"
+  },
+  "pun_pt_01": {
+    "bytes": 31149,
+    "duration_ms": 3852,
+    "path": "assets/audio/pun/pt/01.mp3"
+  },
+  "pun_pt_02": {
+    "bytes": 40077,
+    "duration_ms": 4968,
+    "path": "assets/audio/pun/pt/02.mp3"
+  },
+  "pun_pt_03": {
+    "bytes": 29997,
+    "duration_ms": 3708,
+    "path": "assets/audio/pun/pt/03.mp3"
+  },
+  "pun_pt_04": {
+    "bytes": 30861,
+    "duration_ms": 3816,
+    "path": "assets/audio/pun/pt/04.mp3"
+  },
+  "pun_pt_05": {
+    "bytes": 21069,
+    "duration_ms": 2592,
+    "path": "assets/audio/pun/pt/05.mp3"
+  },
+  "pun_pt_06": {
+    "bytes": 27117,
+    "duration_ms": 3348,
+    "path": "assets/audio/pun/pt/06.mp3"
+  },
+  "pun_pt_07": {
+    "bytes": 33741,
+    "duration_ms": 4176,
+    "path": "assets/audio/pun/pt/07.mp3"
+  },
+  "pun_pt_08": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/pt/08.mp3"
+  },
+  "pun_pt_09": {
+    "bytes": 22221,
+    "duration_ms": 2736,
+    "path": "assets/audio/pun/pt/09.mp3"
+  },
+  "pun_pt_10": {
+    "bytes": 16749,
+    "duration_ms": 2052,
+    "path": "assets/audio/pun/pt/10.mp3"
+  },
+  "pun_pt_11": {
+    "bytes": 27117,
+    "duration_ms": 3348,
+    "path": "assets/audio/pun/pt/11.mp3"
+  },
+  "pun_pt_12": {
+    "bytes": 28557,
+    "duration_ms": 3528,
+    "path": "assets/audio/pun/pt/12.mp3"
+  },
+  "pun_pt_13": {
+    "bytes": 27693,
+    "duration_ms": 3420,
+    "path": "assets/audio/pun/pt/13.mp3"
+  },
+  "pun_pt_14": {
+    "bytes": 23661,
+    "duration_ms": 2916,
+    "path": "assets/audio/pun/pt/14.mp3"
+  },
+  "pun_pt_15": {
+    "bytes": 25101,
+    "duration_ms": 3096,
+    "path": "assets/audio/pun/pt/15.mp3"
+  },
+  "pun_pt_16": {
+    "bytes": 26541,
+    "duration_ms": 3276,
+    "path": "assets/audio/pun/pt/16.mp3"
+  },
+  "pun_pt_17": {
+    "bytes": 22797,
+    "duration_ms": 2808,
+    "path": "assets/audio/pun/pt/17.mp3"
+  },
+  "pun_pt_18": {
+    "bytes": 28557,
+    "duration_ms": 3528,
+    "path": "assets/audio/pun/pt/18.mp3"
+  },
+  "pun_pt_19": {
+    "bytes": 11565,
+    "duration_ms": 1404,
+    "path": "assets/audio/pun/pt/19.mp3"
+  },
+  "pun_pt_20": {
+    "bytes": 36621,
+    "duration_ms": 4536,
+    "path": "assets/audio/pun/pt/20.mp3"
+  },
+  "pun_vi_01": {
+    "bytes": 39213,
+    "duration_ms": 4860,
+    "path": "assets/audio/pun/vi/01.mp3"
+  },
+  "pun_vi_02": {
+    "bytes": 39789,
+    "duration_ms": 4932,
+    "path": "assets/audio/pun/vi/02.mp3"
+  },
+  "pun_vi_03": {
+    "bytes": 27117,
+    "duration_ms": 3348,
+    "path": "assets/audio/pun/vi/03.mp3"
+  },
+  "pun_vi_04": {
+    "bytes": 36909,
+    "duration_ms": 4572,
+    "path": "assets/audio/pun/vi/04.mp3"
+  },
+  "pun_vi_05": {
+    "bytes": 30573,
+    "duration_ms": 3780,
+    "path": "assets/audio/pun/vi/05.mp3"
+  },
+  "pun_vi_06": {
+    "bytes": 26253,
+    "duration_ms": 3240,
+    "path": "assets/audio/pun/vi/06.mp3"
+  },
+  "pun_vi_07": {
+    "bytes": 39789,
+    "duration_ms": 4932,
+    "path": "assets/audio/pun/vi/07.mp3"
+  },
+  "pun_vi_08": {
+    "bytes": 19053,
+    "duration_ms": 2340,
+    "path": "assets/audio/pun/vi/08.mp3"
+  },
+  "pun_vi_09": {
+    "bytes": 35181,
+    "duration_ms": 4356,
+    "path": "assets/audio/pun/vi/09.mp3"
+  },
+  "pun_vi_10": {
+    "bytes": 30285,
+    "duration_ms": 3744,
+    "path": "assets/audio/pun/vi/10.mp3"
+  },
+  "pun_vi_11": {
+    "bytes": 35469,
+    "duration_ms": 4392,
+    "path": "assets/audio/pun/vi/11.mp3"
+  },
+  "pun_vi_12": {
+    "bytes": 31437,
+    "duration_ms": 3888,
+    "path": "assets/audio/pun/vi/12.mp3"
+  },
+  "pun_vi_13": {
+    "bytes": 29997,
+    "duration_ms": 3708,
+    "path": "assets/audio/pun/vi/13.mp3"
+  },
+  "pun_vi_14": {
+    "bytes": 32013,
+    "duration_ms": 3960,
+    "path": "assets/audio/pun/vi/14.mp3"
+  },
+  "pun_vi_15": {
+    "bytes": 33741,
+    "duration_ms": 4176,
+    "path": "assets/audio/pun/vi/15.mp3"
+  },
+  "pun_vi_16": {
+    "bytes": 21933,
+    "duration_ms": 2700,
+    "path": "assets/audio/pun/vi/16.mp3"
+  },
+  "pun_vi_17": {
+    "bytes": 34029,
+    "duration_ms": 4212,
+    "path": "assets/audio/pun/vi/17.mp3"
+  },
+  "pun_vi_18": {
+    "bytes": 21645,
+    "duration_ms": 2664,
+    "path": "assets/audio/pun/vi/18.mp3"
+  },
+  "pun_vi_19": {
+    "bytes": 20781,
+    "duration_ms": 2556,
+    "path": "assets/audio/pun/vi/19.mp3"
+  },
+  "pun_vi_20": {
+    "bytes": 29133,
+    "duration_ms": 3600,
+    "path": "assets/audio/pun/vi/20.mp3"
+  },
+  "pun_zh_01": {
+    "bytes": 11277,
+    "duration_ms": 1368,
+    "path": "assets/audio/pun/zh/01.mp3"
+  },
+  "pun_zh_02": {
+    "bytes": 13293,
+    "duration_ms": 1620,
+    "path": "assets/audio/pun/zh/02.mp3"
+  },
+  "pun_zh_03": {
+    "bytes": 11277,
+    "duration_ms": 1368,
+    "path": "assets/audio/pun/zh/03.mp3"
+  },
+  "pun_zh_04": {
+    "bytes": 21645,
+    "duration_ms": 2664,
+    "path": "assets/audio/pun/zh/04.mp3"
+  },
+  "pun_zh_05": {
+    "bytes": 15885,
+    "duration_ms": 1944,
+    "path": "assets/audio/pun/zh/05.mp3"
+  },
+  "pun_zh_06": {
+    "bytes": 28557,
+    "duration_ms": 3528,
+    "path": "assets/audio/pun/zh/06.mp3"
+  },
+  "pun_zh_07": {
+    "bytes": 10413,
+    "duration_ms": 1260,
+    "path": "assets/audio/pun/zh/07.mp3"
+  },
+  "pun_zh_08": {
+    "bytes": 20493,
+    "duration_ms": 2520,
+    "path": "assets/audio/pun/zh/08.mp3"
+  },
+  "pun_zh_09": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/zh/09.mp3"
+  },
+  "pun_zh_10": {
+    "bytes": 17325,
+    "duration_ms": 2124,
+    "path": "assets/audio/pun/zh/10.mp3"
+  },
+  "pun_zh_11": {
+    "bytes": 15309,
+    "duration_ms": 1872,
+    "path": "assets/audio/pun/zh/11.mp3"
+  },
+  "pun_zh_12": {
+    "bytes": 12429,
+    "duration_ms": 1512,
+    "path": "assets/audio/pun/zh/12.mp3"
+  },
+  "pun_zh_13": {
+    "bytes": 11565,
+    "duration_ms": 1404,
+    "path": "assets/audio/pun/zh/13.mp3"
+  },
+  "pun_zh_14": {
+    "bytes": 15021,
+    "duration_ms": 1836,
+    "path": "assets/audio/pun/zh/14.mp3"
+  },
+  "pun_zh_15": {
+    "bytes": 21357,
+    "duration_ms": 2628,
+    "path": "assets/audio/pun/zh/15.mp3"
+  },
+  "pun_zh_16": {
+    "bytes": 25677,
+    "duration_ms": 3168,
+    "path": "assets/audio/pun/zh/16.mp3"
+  },
+  "pun_zh_17": {
+    "bytes": 13005,
+    "duration_ms": 1584,
+    "path": "assets/audio/pun/zh/17.mp3"
+  },
+  "pun_zh_18": {
+    "bytes": 13293,
+    "duration_ms": 1620,
+    "path": "assets/audio/pun/zh/18.mp3"
+  },
+  "pun_zh_19": {
+    "bytes": 12141,
+    "duration_ms": 1476,
+    "path": "assets/audio/pun/zh/19.mp3"
+  },
+  "pun_zh_20": {
+    "bytes": 16173,
+    "duration_ms": 1980,
+    "path": "assets/audio/pun/zh/20.mp3"
+  }
+}

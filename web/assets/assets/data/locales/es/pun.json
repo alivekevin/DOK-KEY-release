@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_es_01",
+    "category": "pun",
+    "question": "¿Qué baile hacen las abejas cuando están felices en la colmena?",
+    "options": [
+      "Salsa",
+      "Flamenco",
+      "Zumba",
+      "Tango"
+    ],
+    "answer_index": 2,
+    "explanation": "El zumbido característico de las abejas coincide con el popular baile de fitness Zumba.",
+    "audio_key": "pun_es_01",
+    "audio_path": "assets/audio/pun/es/01.mp3"
+  },
+  {
+    "id": "pun_es_02",
+    "category": "pun",
+    "question": "¿Qué olor usa el pez elegante antes de salir a pasear?",
+    "options": [
+      "Agua de colonia",
+      "Jabón",
+      "El pez-fume",
+      "Algas marinas"
+    ],
+    "answer_index": 2,
+    "explanation": "Juego de palabras entre la palabra pez y perfume.",
+    "audio_key": "pun_es_02",
+    "audio_path": "assets/audio/pun/es/02.mp3"
+  },
+  {
+    "id": "pun_es_03",
+    "category": "pun",
+    "question": "¿Qué le dice una taza de café a otra en la cocina?",
+    "options": [
+      "Hola amiga",
+      "Estás caliente",
+      "¿Qué taza haciendo?",
+      "Pásame el azúcar"
+    ],
+    "answer_index": 2,
+    "explanation": "La pronunciación de '¿Qué taza haciendo?' suena igual a '¿Qué estás haciendo?'.",
+    "audio_key": "pun_es_03",
+    "audio_path": "assets/audio/pun/es/03.mp3"
+  },
+  {
+    "id": "pun_es_04",
+    "category": "pun",
+    "question": "¿Qué hace un perro con un taladro en las patas?",
+    "options": [
+      "Construye",
+      "Juega",
+      "Ta-ladrando",
+      "Muerde madera"
+    ],
+    "answer_index": 2,
+    "explanation": "Doble sentido cómico entre ladrar (el sonido del perro) y usar el taladro (taladrando).",
+    "audio_key": "pun_es_04",
+    "audio_path": "assets/audio/pun/es/04.mp3"
+  },
+  {
+    "id": "pun_es_05",
+    "category": "pun",
+    "question": "¿Cómo se dice buzo o submarinista en japonés de broma?",
+    "options": [
+      "Sushimi",
+      "Karateka",
+      "Tokofondo",
+      "Sayonara"
+    ],
+    "answer_index": 2,
+    "explanation": "Chiste clásico en español que imita sonidos japoneses con 'Toco fondo'.",
+    "audio_key": "pun_es_05",
+    "audio_path": "assets/audio/pun/es/05.mp3"
+  },
+  {
+    "id": "pun_es_06",
+    "category": "pun",
+    "question": "¿Cuál es el último animal que subió al arca de Noé?",
+    "options": [
+      "El elefante",
+      "El caracol",
+      "El del-fín",
+      "La tortuga"
+    ],
+    "answer_index": 2,
+    "explanation": "Delfín contiene las palabras 'del fin', indicando el final de la fila de animales.",
+    "audio_key": "pun_es_06",
+    "audio_path": "assets/audio/pun/es/06.mp3"
+  },
+  {
+    "id": "pun_es_07",
+    "category": "pun",
+    "question": "¿Qué le dice una impresora coqueta a otra impresora?",
+    "options": [
+      "Me falta tinta",
+      "Estoy rota",
+      "¿Es impresión mía?",
+      "Cuidado con el papel"
+    ],
+    "answer_index": 2,
+    "explanation": "La expresión 'impresión mía' significa error de percepción y el acto mecánico de imprimir papel.",
+    "audio_key": "pun_es_07",
+    "audio_path": "assets/audio/pun/es/07.mp3"
+  },
+  {
+    "id": "pun_es_08",
+    "category": "pun",
+    "question": "¿Qué produce una vaca que medita con los ojos cerrados?",
+    "options": [
+      "Mantequilla",
+      "Queso fresco",
+      "Leche concentrada",
+      "Yogur"
+    ],
+    "answer_index": 2,
+    "explanation": "La leche condensada o concentrada se asocia con el estado mental de estar muy concentrado.",
+    "audio_key": "pun_es_08",
+    "audio_path": "assets/audio/pun/es/08.mp3"
+  },
+  {
+    "id": "pun_es_09",
+    "category": "pun",
+    "question": "¿Cuál es el café con peor carácter y más peligroso del mundo?",
+    "options": [
+      "Café expreso",
+      "Café frío",
+      "Con mala leche",
+      "Café cortado"
+    ],
+    "answer_index": 2,
+    "explanation": "En español 'tener mala leche' es una locución coloquial que describe a alguien con mal genio.",
+    "audio_key": "pun_es_09",
+    "audio_path": "assets/audio/pun/es/09.mp3"
+  },
+  {
+    "id": "pun_es_10",
+    "category": "pun",
+    "question": "¿Por qué las aves no necesitan crearse una cuenta de Facebook?",
+    "options": [
+      "No tienen manos",
+      "No hay wifi",
+      "Ya tienen Twitter",
+      "Prefieren cantar"
+    ],
+    "answer_index": 2,
+    "explanation": "Twitter proviene del sonido del trino de los pájaros (tweet).",
+    "audio_key": "pun_es_10",
+    "audio_path": "assets/audio/pun/es/10.mp3"
+  },
+  {
+    "id": "pun_es_11",
+    "category": "pun",
+    "question": "¿Qué le grita un semáforo avergonzado al semáforo de enfrente?",
+    "options": [
+      "Viene un coche",
+      "Ponte en verde",
+      "¡Me estoy cambiando!",
+      "Mira la luz"
+    ],
+    "answer_index": 2,
+    "explanation": "Los colores de la luz cambian, lo que se compara con cambiarse de ropa en privado.",
+    "audio_key": "pun_es_11",
+    "audio_path": "assets/audio/pun/es/11.mp3"
+  },
+  {
+    "id": "pun_es_12",
+    "category": "pun",
+    "question": "¿Cuál es el mayor colmo que le puede ocurrir a un jardinero?",
+    "options": [
+      "Que no llueva",
+      "Perder las tijeras",
+      "Que lo deje plantado",
+      "Tener alergia"
+    ],
+    "answer_index": 2,
+    "explanation": "'Dejar plantado' significa cancelar una cita a última hora, y plantar es la tarea del jardinero.",
+    "audio_key": "pun_es_12",
+    "audio_path": "assets/audio/pun/es/12.mp3"
+  },
+  {
+    "id": "pun_es_13",
+    "category": "pun",
+    "question": "¿Qué le dice una pared del pasillo a la pared de enfrente?",
+    "options": [
+      "Sujeta el techo",
+      "Píntate bien",
+      "¡Nos vemos en la esquina!",
+      "Eres muy dura"
+    ],
+    "answer_index": 2,
+    "explanation": "Dos paredes contiguas se cruzan físicamente en la esquina de la habitación.",
+    "audio_key": "pun_es_13",
+    "audio_path": "assets/audio/pun/es/13.mp3"
+  },
+  {
+    "id": "pun_es_14",
+    "category": "pun",
+    "question": "¿Qué hace un pececito dorado en una fiesta de cumpleaños?",
+    "options": [
+      "Bailar salsa",
+      "Comer pastel",
+      "¡Nada!",
+      "Beber zumo"
+    ],
+    "answer_index": 2,
+    "explanation": "La tercera persona del verbo nadar (él nada) se escribe exactamente igual que nada (ninguna cosa).",
+    "audio_key": "pun_es_14",
+    "audio_path": "assets/audio/pun/es/14.mp3"
+  },
+  {
+    "id": "pun_es_15",
+    "category": "pun",
+    "question": "¿Cómo se dice pañuelo para la nariz en japonés ficticio?",
+    "options": [
+      "Origami",
+      "Kimono",
+      "Saka-moko",
+      "Sayonara"
+    ],
+    "answer_index": 2,
+    "explanation": "Construcción cómica que imita el japonés uniendo 'saca moco'.",
+    "audio_key": "pun_es_15",
+    "audio_path": "assets/audio/pun/es/15.mp3"
+  },
+  {
+    "id": "pun_es_16",
+    "category": "pun",
+    "question": "¿Qué piropo le dice el número cero al número ocho?",
+    "options": [
+      "Estás muy gordo",
+      "Qué dos cabezas",
+      "¡Qué bonito cinturón!",
+      "Eres el doble"
+    ],
+    "answer_index": 2,
+    "explanation": "El número ocho parece un cero apretado con un cinturón ajustado en el medio.",
+    "audio_key": "pun_es_16",
+    "audio_path": "assets/audio/pun/es/16.mp3"
+  },
+  {
+    "id": "pun_es_17",
+    "category": "pun",
+    "question": "¿Cuál es el santo protector preferido de todos los calzados?",
+    "options": [
+      "San Pedro",
+      "San Juan",
+      "San-dalia",
+      "San Mateo"
+    ],
+    "answer_index": 2,
+    "explanation": "Unión del título religioso San con el calzado de verano sandalia.",
+    "audio_key": "pun_es_17",
+    "audio_path": "assets/audio/pun/es/17.mp3"
+  },
+  {
+    "id": "pun_es_18",
+    "category": "pun",
+    "question": "¿Por qué el libro de matemáticas estaba tan triste y desesperado?",
+    "options": [
+      "Nadie lo leía",
+      "Se cayó al suelo",
+      "¡Demasiados problemas!",
+      "Estaba viejo"
+    ],
+    "answer_index": 2,
+    "explanation": "Los problemas son ejercicios matemáticos de cálculo, pero también angustias y dificultades vitales.",
+    "audio_key": "pun_es_18",
+    "audio_path": "assets/audio/pun/es/18.mp3"
+  },
+  {
+    "id": "pun_es_19",
+    "category": "pun",
+    "question": "¿Qué criatura mágica tiene la mayor colección de dientes?",
+    "options": [
+      "El gran tiburón",
+      "El cocodrilo",
+      "El Ratoncito Pérez",
+      "La ballena"
+    ],
+    "answer_index": 2,
+    "explanation": "Personaje del folclore hispanohablante que recoge los dientes de leche de los niños bajo la almohada.",
+    "audio_key": "pun_es_19",
+    "audio_path": "assets/audio/pun/es/19.mp3"
+  },
+  {
+    "id": "pun_es_20",
+    "category": "pun",
+    "question": "¿Qué ocurre si tiras un pato de goma al agua del mar?",
+    "options": [
+      "Se hunde",
+      "Cambia de color",
+      "¡Pues nada!",
+      "Se disuelve"
+    ],
+    "answer_index": 2,
+    "explanation": "El pato simplemente flota y nada, a la vez que no ocurre absolutamente nada relevante.",
+    "audio_key": "pun_es_20",
+    "audio_path": "assets/audio/pun/es/20.mp3"
+  }
+]

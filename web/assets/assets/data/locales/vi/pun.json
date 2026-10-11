@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_vi_01",
+    "category": "pun",
+    "question": "Cái gì lững lờ trôi, cây gỗ thì nổi mà hòn sỏi lại chìm?",
+    "options": [
+      "Ngọn gió",
+      "Đám mây",
+      "Dòng sông trôi",
+      "Chiếc lá"
+    ],
+    "answer_index": 2,
+    "explanation": "Câu đố dân gian quen thuộc về hiện tượng nổi chìm trên mặt nước dòng sông.",
+    "audio_key": "pun_vi_01",
+    "audio_path": "assets/audio/pun/vi/01.mp3"
+  },
+  {
+    "id": "pun_vi_02",
+    "category": "pun",
+    "question": "Cây gì trăm đốt, càng đốt nhiều thì lại càng dài ra?",
+    "options": [
+      "Cây mía",
+      "Cây cau",
+      "Cây tre trăm đốt",
+      "Cây dừa"
+    ],
+    "answer_index": 2,
+    "explanation": "Chơi chữ giữa 'đốt' thân tre và động từ 'đốt' cháy trong truyện cổ tích.",
+    "audio_key": "pun_vi_02",
+    "audio_path": "assets/audio/pun/vi/02.mp3"
+  },
+  {
+    "id": "pun_vi_03",
+    "category": "pun",
+    "question": "Cái gì thuộc về bạn, nhưng người khác lại dùng nhiều hơn bạn?",
+    "options": [
+      "Chiếc áo",
+      "Tiền bạc",
+      "Cái tên của bạn",
+      "Chiếc xe máy"
+    ],
+    "answer_index": 2,
+    "explanation": "Tên là của mình nhưng mọi người xung quanh luôn gọi tên mình hàng ngày.",
+    "audio_key": "pun_vi_03",
+    "audio_path": "assets/audio/pun/vi/03.mp3"
+  },
+  {
+    "id": "pun_vi_04",
+    "category": "pun",
+    "question": "Cái gì có lưỡi có mũi nhưng không bao giờ biết cắn hay ngửi?",
+    "options": [
+      "Con dao",
+      "Chiếc kéo",
+      "Chiếc giày đi bộ",
+      "Cái cày"
+    ],
+    "answer_index": 2,
+    "explanation": "Đôi giày có bộ phận gọi là lưỡi gà và mũi giày theo cấu tạo đồ vật.",
+    "audio_key": "pun_vi_04",
+    "audio_path": "assets/audio/pun/vi/04.mp3"
+  },
+  {
+    "id": "pun_vi_05",
+    "category": "pun",
+    "question": "Bệnh nhân bị gãy cả hai tay thì bác sĩ phải làm sao?",
+    "options": [
+      "Kê thuốc uống",
+      "Cho về nhà",
+      "Bó tay",
+      "Khuyên nghỉ ngơi"
+    ],
+    "answer_index": 2,
+    "explanation": "Chơi chữ giữa động từ y tế 'bó tay' bằng thạch cao và thành ngữ 'bó tay' bất lực.",
+    "audio_key": "pun_vi_05",
+    "audio_path": "assets/audio/pun/vi/05.mp3"
+  },
+  {
+    "id": "pun_vi_06",
+    "category": "pun",
+    "question": "Con chuột nào trên thế giới đi bằng hai chân giống con người?",
+    "options": [
+      "Chuột cống",
+      "Chuột chù",
+      "Chuột Mickey",
+      "Chuột đồng"
+    ],
+    "answer_index": 2,
+    "explanation": "Nhân vật hoạt hình nổi tiếng Chuột Mickey của Walt Disney luôn đứng bằng hai chân.",
+    "audio_key": "pun_vi_06",
+    "audio_path": "assets/audio/pun/vi/06.mp3"
+  },
+  {
+    "id": "pun_vi_07",
+    "category": "pun",
+    "question": "Thế còn con vịt nào đi bằng hai chân?",
+    "options": [
+      "Vịt Donald",
+      "Vịt bầu",
+      "Vịt nào mà chả đi bằng hai chân",
+      "Vịt quay"
+    ],
+    "answer_index": 2,
+    "explanation": "Bẫy tâm lý sau câu chuột Mickey, vì tất cả các loài vịt bình thường đều đi bằng hai chân.",
+    "audio_key": "pun_vi_07",
+    "audio_path": "assets/audio/pun/vi/07.mp3"
+  },
+  {
+    "id": "pun_vi_08",
+    "category": "pun",
+    "question": "Cái gì khi mua thì màu đen, khi dùng thì màu đỏ, khi vứt đi thì màu xám?",
+    "options": [
+      "Thanh sắt",
+      "Bình gas",
+      "Cục Than củi",
+      "Cây nến"
+    ],
+    "answer_index": 2,
+    "explanation": "Than gỗ màu đen, khi đỏ lửa thì có màu đỏ rực, cháy tàn chỉ còn tro xám.",
+    "audio_key": "pun_vi_08",
+    "audio_path": "assets/audio/pun/vi/08.mp3"
+  },
+  {
+    "id": "pun_vi_09",
+    "category": "pun",
+    "question": "Trong một năm, tháng nào có ngày hai mươi tám?",
+    "options": [
+      "Tháng Hai",
+      "Tháng Giêng",
+      "Tháng nào cũng có",
+      "Tháng Chạp"
+    ],
+    "answer_index": 2,
+    "explanation": "Mọi tháng trong năm đều có ít nhất 28 ngày, kể cả tháng Hai.",
+    "audio_key": "pun_vi_09",
+    "audio_path": "assets/audio/pun/vi/09.mp3"
+  },
+  {
+    "id": "pun_vi_10",
+    "category": "pun",
+    "question": "Quả gì ăn được nhưng không bao giờ hái được trên cây?",
+    "options": [
+      "Quả sầu riêng",
+      "Quả trứng",
+      "Trái tim",
+      "Quả dừa"
+    ],
+    "answer_index": 1,
+    "explanation": "Trong tiếng Việt, 'quả' vừa chỉ trái cây vừa là lượng từ đứng trước danh từ (quả trứng), nên quả trứng tuy ăn được nhưng không bao giờ hái được trên cây.",
+    "audio_key": "pun_vi_10",
+    "audio_path": "assets/audio/pun/vi/10.mp3"
+  },
+  {
+    "id": "pun_vi_11",
+    "category": "pun",
+    "question": "Loại xe nào chạy hoài cả ngày mà không bao giờ sợ hết xăng?",
+    "options": [
+      "Xe máy điện",
+      "Xe cứu hỏa",
+      "Xe đạp đạp bằng cơm",
+      "Xe buýt"
+    ],
+    "answer_index": 2,
+    "explanation": "Xe đạp di chuyển bằng sức người đạp, thường được gọi vui là chạy bằng cơm.",
+    "audio_key": "pun_vi_11",
+    "audio_path": "assets/audio/pun/vi/11.mp3"
+  },
+  {
+    "id": "pun_vi_12",
+    "category": "pun",
+    "question": "Con gì vừa mới sinh ra đã có bộ râu dài thượt?",
+    "options": [
+      "Con mèo con",
+      "Con sư tử",
+      "Con Dê già",
+      "Con tôm sú"
+    ],
+    "answer_index": 2,
+    "explanation": "Loài dê từ khi còn non đã có chòm râu đặc trưng ở dưới cằm.",
+    "audio_key": "pun_vi_12",
+    "audio_path": "assets/audio/pun/vi/12.mp3"
+  },
+  {
+    "id": "pun_vi_13",
+    "category": "pun",
+    "question": "Quần gì rộng nhất thế giới, không ai có thể mặc vừa?",
+    "options": [
+      "Quần đùi",
+      "Quần dài",
+      "Quần đảo",
+      "Quần bò"
+    ],
+    "answer_index": 2,
+    "explanation": "Quần đảo là tập hợp các hòn đảo giữa đại dương, đồng âm với chiếc quần mặc.",
+    "audio_key": "pun_vi_13",
+    "audio_path": "assets/audio/pun/vi/13.mp3"
+  },
+  {
+    "id": "pun_vi_14",
+    "category": "pun",
+    "question": "Kiến gì có đầu óc nhưng chẳng bao giờ đốt hay cắn ai?",
+    "options": [
+      "Kiến lửa",
+      "Kiến ba khoang",
+      "Ý kiến",
+      "Kiến càng"
+    ],
+    "answer_index": 2,
+    "explanation": "'Ý kiến' là suy nghĩ đóng góp quan điểm, không phải loài côn trùng kiến.",
+    "audio_key": "pun_vi_14",
+    "audio_path": "assets/audio/pun/vi/14.mp3"
+  },
+  {
+    "id": "pun_vi_15",
+    "category": "pun",
+    "question": "Cái gì lấy dao chặt hoài không đứt, lấy tay bốc không rời?",
+    "options": [
+      "Dây thừng",
+      "Khúc gỗ",
+      "Dòng nước mát lành",
+      "Khói bếp"
+    ],
+    "answer_index": 2,
+    "explanation": "Nước ở trạng thái lỏng nên dao chém hay tay nắm đều không thể chia cắt.",
+    "audio_key": "pun_vi_15",
+    "audio_path": "assets/audio/pun/vi/15.mp3"
+  },
+  {
+    "id": "pun_vi_16",
+    "category": "pun",
+    "question": "Lịch gì dài nhất trong lịch sử, không dùng để xem ngày mai?",
+    "options": [
+      "Lịch vạn niên",
+      "Lịch treo tường",
+      "Lịch sử ngàn năm",
+      "Lịch bàn"
+    ],
+    "answer_index": 2,
+    "explanation": "Lịch sử là tiến trình quá khứ hàng ngàn năm của nhân loại, không phải cuốn lịch xem ngày.",
+    "audio_key": "pun_vi_16",
+    "audio_path": "assets/audio/pun/vi/16.mp3"
+  },
+  {
+    "id": "pun_vi_17",
+    "category": "pun",
+    "question": "Bánh gì chỉ nhìn thấy trên trang giấy mà chẳng bao giờ ăn được?",
+    "options": [
+      "Bánh bao",
+      "Bánh rán",
+      "Bánh vẽ trên giấy",
+      "Bánh chưng"
+    ],
+    "answer_index": 2,
+    "explanation": "Thành ngữ 'bánh vẽ' ám chỉ những lời hứa hão huyền không có thật.",
+    "audio_key": "pun_vi_17",
+    "audio_path": "assets/audio/pun/vi/17.mp3"
+  },
+  {
+    "id": "pun_vi_18",
+    "category": "pun",
+    "question": "Cái áo nào trời nắng gắt cất đi, trời đổ mưa to mới đem ra mặc?",
+    "options": [
+      "Áo sơ mi",
+      "Áo len dày",
+      "Chiếc Áo mưa",
+      "Áo khoác gió"
+    ],
+    "answer_index": 2,
+    "explanation": "Áo mưa chuyên dụng để che nước mưa khi đi lại ngoài đường.",
+    "audio_key": "pun_vi_18",
+    "audio_path": "assets/audio/pun/vi/18.mp3"
+  },
+  {
+    "id": "pun_vi_19",
+    "category": "pun",
+    "question": "Cái gì càng hút nhiều thì thân lại càng ngắn lại?",
+    "options": [
+      "Ống hút trà sữa",
+      "Bình oxy",
+      "Điếu thuốc lá",
+      "Ống mực"
+    ],
+    "answer_index": 2,
+    "explanation": "Điếu thuốc lá càng châm lửa hút thì chiều dài của điếu càng bị cháy ngắn đi.",
+    "audio_key": "pun_vi_19",
+    "audio_path": "assets/audio/pun/vi/19.mp3"
+  },
+  {
+    "id": "pun_vi_20",
+    "category": "pun",
+    "question": "Nhà Nam có ba người con: anh cả tên Nhất, anh hai tên Nhị, người thứ ba tên gì?",
+    "options": [
+      "Tam",
+      "Tứ",
+      "Là thằng Nam chứ ai",
+      "Út"
+    ],
+    "answer_index": 2,
+    "explanation": "Câu hỏi đã nêu ngay từ đầu 'Nhà Nam có ba người con', nên người thứ ba chính là Nam.",
+    "audio_key": "pun_vi_20",
+    "audio_path": "assets/audio/pun/vi/20.mp3"
+  }
+]

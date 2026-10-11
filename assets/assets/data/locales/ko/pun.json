@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pun_ko_01",
+    "category": "pun",
+    "question": "흙이 슬프게 울 때 내는 소리는?",
+    "options": [
+      "훌쩍훌쩍",
+      "흙흙! (흑흑)",
+      "엉! 엉!",
+      "응애~ 응애~"
+    ],
+    "answer_index": 1,
+    "explanation": "슬플 때 내는 울음소리 '흑흑'과 물질 '흙'의 발음이 같은 점을 이용한 언어유희입니다.",
+    "audio_key": "pun_ko_01",
+    "audio_path": "assets/audio/pun/ko/01.mp3"
+  },
+  {
+    "id": "pun_ko_02",
+    "category": "pun",
+    "question": "컴퓨터가 일을 하다가 지치면 무엇을 할까요?",
+    "options": [
+      "커피 마시기",
+      "절전모드",
+      "로딩중",
+      "퇴근하기"
+    ],
+    "answer_index": 2,
+    "explanation": "화면이 멈춰 돌아가는 '로딩(Loading)'과 지쳤을 때 쉬는 상황의 언어유희입니다.",
+    "audio_key": "pun_ko_02",
+    "audio_path": "assets/audio/pun/ko/02.mp3"
+  },
+  {
+    "id": "pun_ko_03",
+    "category": "pun",
+    "question": "기름 중에서 가장 인사를 잘하는 기름은?",
+    "options": [
+      "참기름",
+      "들기름",
+      "올리브유",
+      "카놀라유"
+    ],
+    "answer_index": 3,
+    "explanation": "카놀라유의 발음이 '카~ 놀라유(놀랐어요)' 인사말처럼 들리는 아재개그입니다.",
+    "audio_key": "pun_ko_03",
+    "audio_path": "assets/audio/pun/ko/03.mp3"
+  },
+  {
+    "id": "pun_ko_04",
+    "category": "pun",
+    "question": "왕이 넘어지면 무엇이 될까요?",
+    "options": [
+      "부상",
+      "킹콩",
+      "쿵덕쿵",
+      "퇴위"
+    ],
+    "answer_index": 1,
+    "explanation": "영어의 왕(King)과 쿵 넘어지는 소리(Kong)를 합친 말장난입니다.",
+    "audio_key": "pun_ko_04",
+    "audio_path": "assets/audio/pun/ko/04.mp3"
+  },
+  {
+    "id": "pun_ko_05",
+    "category": "pun",
+    "question": "신사가 자기소개를 할 때 뭐라고 할까요?",
+    "options": [
+      "안녕하세요",
+      "신사임당",
+      "처음 뵙겠습니다",
+      "반갑습니다"
+    ],
+    "answer_index": 1,
+    "explanation": "'신사입니다'와 화폐 인물 '신사임당'의 발음 유사성을 활용한 개그입니다.",
+    "audio_key": "pun_ko_05",
+    "audio_path": "assets/audio/pun/ko/05.mp3"
+  },
+  {
+    "id": "pun_ko_06",
+    "category": "pun",
+    "question": "자동차가 울면서 지나갈 때 내는 소리는?",
+    "options": [
+      "흑흑",
+      "삐뽀삐뽀",
+      "잉잉",
+      "엉엉"
+    ],
+    "answer_index": 2,
+    "explanation": "자동차의 심장인 '엔진(Engine)'과 우는 소리 '잉잉'의 언어유희입니다.",
+    "audio_key": "pun_ko_06",
+    "audio_path": "assets/audio/pun/ko/06.mp3"
+  },
+  {
+    "id": "pun_ko_07",
+    "category": "pun",
+    "question": "딸기가 회사에서 쫓겨나면 무엇이 될까요?",
+    "options": [
+      "딸기잼",
+      "썩은 과일",
+      "딸기시럽",
+      "생과일주스"
+    ],
+    "answer_index": 2,
+    "explanation": "직장을 잃는 '실업(失業)'과 딸기 '시럽(Syrup)'의 동음이의어입니다.",
+    "audio_key": "pun_ko_07",
+    "audio_path": "assets/audio/pun/ko/07.mp3"
+  },
+  {
+    "id": "pun_ko_08",
+    "category": "pun",
+    "question": "세상에서 가장 억울한 도형은 무엇일까요?",
+    "options": [
+      "직사각형",
+      "정삼각형",
+      "원통",
+      "마름모"
+    ],
+    "answer_index": 2,
+    "explanation": "입체도형 '원통'과 분하고 억울함을 뜻하는 '원통하다'의 발음 일치입니다.",
+    "audio_key": "pun_ko_08",
+    "audio_path": "assets/audio/pun/ko/08.mp3"
+  },
+  {
+    "id": "pun_ko_09",
+    "category": "pun",
+    "question": "오리가 꽁꽁 얼어붙으면 무엇이 될까요?",
+    "options": [
+      "냉동오리",
+      "북경오리",
+      "언덕",
+      "빙판"
+    ],
+    "answer_index": 2,
+    "explanation": "얼어붙은 상태 '언'과 오리의 영어 'Duck(덕)'을 합성한 언어유희입니다.",
+    "audio_key": "pun_ko_09",
+    "audio_path": "assets/audio/pun/ko/09.mp3"
+  },
+  {
+    "id": "pun_ko_10",
+    "category": "pun",
+    "question": "바나나가 웃으면 무엇이라고 부를까요?",
+    "options": [
+      "스마일",
+      "노란맛",
+      "바나나킥",
+      "바나나껍질"
+    ],
+    "answer_index": 2,
+    "explanation": "바나나가 '킥킥' 웃는다는 표현을 과자 이름 '바나나킥'에 빗댄 말장난입니다.",
+    "audio_key": "pun_ko_10",
+    "audio_path": "assets/audio/pun/ko/10.mp3"
+  },
+  {
+    "id": "pun_ko_11",
+    "category": "pun",
+    "question": "도둑이 가장 좋아하는 아이스크림은?",
+    "options": [
+      "메로나",
+      "비비빅",
+      "보석바",
+      "월드콘"
+    ],
+    "answer_index": 2,
+    "explanation": "귀금속 보석을 탐내는 도둑의 심리와 '보석바'의 이름 결합입니다.",
+    "audio_key": "pun_ko_11",
+    "audio_path": "assets/audio/pun/ko/11.mp3"
+  },
+  {
+    "id": "pun_ko_12",
+    "category": "pun",
+    "question": "비가 1시간 동안 내리면 무엇이라고 부를까요?",
+    "options": [
+      "소나기",
+      "장마철",
+      "추적 60분",
+      "게릴라 폭우"
+    ],
+    "answer_index": 2,
+    "explanation": "비가 추적추적 내리는 모습과 1시간(60분)을 엮은 방송 프로그램 패러디입니다.",
+    "audio_key": "pun_ko_12",
+    "audio_path": "assets/audio/pun/ko/12.mp3"
+  },
+  {
+    "id": "pun_ko_13",
+    "category": "pun",
+    "question": "소가 계단을 성큼성큼 올라갈 때 내는 소리는?",
+    "options": [
+      "음메음메",
+      "쿵쾅쿵쾅",
+      "소오름",
+      "헥헥"
+    ],
+    "answer_index": 2,
+    "explanation": "소(Cow)가 오름(올라감)과 오싹함을 뜻하는 '소름'의 발음 일치입니다.",
+    "audio_key": "pun_ko_13",
+    "audio_path": "assets/audio/pun/ko/13.mp3"
+  },
+  {
+    "id": "pun_ko_14",
+    "category": "pun",
+    "question": "사람의 몸무게가 가장 많이 나갈 때는 언제일까요?",
+    "options": [
+      "식사 직후",
+      "명절 연휴",
+      "철들었을 때",
+      "겨울철"
+    ],
+    "answer_index": 2,
+    "explanation": "정신적으로 성숙함을 뜻하는 '철들다'와 무거운 금속 '철(Fe)'의 중의적 언어유희입니다.",
+    "audio_key": "pun_ko_14",
+    "audio_path": "assets/audio/pun/ko/14.mp3"
+  },
+  {
+    "id": "pun_ko_15",
+    "category": "pun",
+    "question": "물고기 중에서 가장 학벌이 높고 유식한 물고기는?",
+    "options": [
+      "백상아리",
+      "범고래",
+      "고등어",
+      "참치"
+    ],
+    "answer_index": 2,
+    "explanation": "고등교육(高等)을 마쳤다는 의미와 생선 '고등어'의 언어유희입니다.",
+    "audio_key": "pun_ko_15",
+    "audio_path": "assets/audio/pun/ko/15.mp3"
+  },
+  {
+    "id": "pun_ko_16",
+    "category": "pun",
+    "question": "할아버지가 가장 좋아하는 돈은 무엇일까요?",
+    "options": [
+      "오만원권",
+      "달러",
+      "할머니",
+      "비상금"
+    ],
+    "answer_index": 2,
+    "explanation": "'할머니'의 끝말 '머니'를 영어의 돈(Money)으로 연결한 고전 아재개그입니다.",
+    "audio_key": "pun_ko_16",
+    "audio_path": "assets/audio/pun/ko/16.mp3"
+  },
+  {
+    "id": "pun_ko_17",
+    "category": "pun",
+    "question": "창문 100개 중 2개가 깨지면 무엇이 될까요?",
+    "options": [
+      "98개",
+      "유리파편",
+      "윈도우 98",
+      "수리비청구"
+    ],
+    "answer_index": 2,
+    "explanation": "창문(Windows) 100개에서 2개가 빠져 98개가 남았다는 OS 명칭 말장난입니다.",
+    "audio_key": "pun_ko_17",
+    "audio_path": "assets/audio/pun/ko/17.mp3"
+  },
+  {
+    "id": "pun_ko_18",
+    "category": "pun",
+    "question": "신데렐라가 밤에 잠을 못 자면 무엇이라고 부를까요?",
+    "options": [
+      "불면증",
+      "만성피로",
+      "모짜렐라",
+      "야간근무"
+    ],
+    "answer_index": 2,
+    "explanation": "'잠을 못 자는 렐라'를 치즈 종류인 '모짜렐라'와 연결한 발음 트릭입니다.",
+    "audio_key": "pun_ko_18",
+    "audio_path": "assets/audio/pun/ko/18.mp3"
+  },
+  {
+    "id": "pun_ko_19",
+    "category": "pun",
+    "question": "세상에서 가장 순식간에 지나가는 빠른 새는?",
+    "options": [
+      "참매",
+      "송골매",
+      "눈 깜짝할 새",
+      "칼새"
+    ],
+    "answer_index": 2,
+    "explanation": "찰나의 시간을 의미하는 '눈 깜짝할 사이(새)'를 조류 '새'로 뒤튼 퀴즈입니다.",
+    "audio_key": "pun_ko_19",
+    "audio_path": "assets/audio/pun/ko/19.mp3"
+  },
+  {
+    "id": "pun_ko_20",
+    "category": "pun",
+    "question": "곰이 사과를 한입에 베어 물면 무엇이 될까요?",
+    "options": [
+      "포식자",
+      "사과먹는곰",
+      "베어문 곰",
+      "달콤한곰"
+    ],
+    "answer_index": 2,
+    "explanation": "영어의 곰(Bear)과 이빨로 베어 물었다는 우리말 동사의 발음 결합입니다.",
+    "audio_key": "pun_ko_20",
+    "audio_path": "assets/audio/pun/ko/20.mp3"
+  }
+]
