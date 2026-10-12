@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Vị Khách Tò Mò",
+      "subtitle": "Thận trọng tò mò và quan sát lịch sự",
+      "quote": "Ngươi từ đâu đến vậy, con người? Có phải đang tò mò ngắm chiếc gậy thần Dokkaebi của ta không?",
+      "perks": [
+        "Mở khóa 1 lần rút quẻ vận may hàng ngày",
+        "Trò chuyện tâm sự cơ bản cùng Kkaebi"
+      ]
+    },
+    "2": {
+      "title": "Bạn Quen Thân",
+      "subtitle": "Yêu tinh Dokkaebi tinh nghịch và gần gũi",
+      "quote": "Ồ! Ngươi lại ghé thăm rồi à bạn hữu! Hôm nay có chuyện gì vui thế?",
+      "perks": [
+        "Kkaebi bay lơ lửng với biểu cảm nháy mắt và reo mừng",
+        "Điểm chạm Kkaebi hàng ngày (Thân mật +5)",
+        "Giọng điệu thân thiện trên màn hình kết quả vận may"
+      ]
+    },
+    "3": {
+      "title": "Tri Kỷ Thơ Ấu",
+      "subtitle": "Đôi bạn thân chia sẻ bí mật thần thú và linh khí",
+      "quote": "Ta chỉ nói nhỏ cho mỗi ngươi nghe thôi đấy: linh khí Thần Thú hôm nay phi thường lắm!",
+      "perks": [
+        "Chủ đề trò chuyện mật độc quyền trong phòng chat",
+        "Lời khuyên 1 dòng bí mật trên màn hình vận may",
+        "Hiệu ứng ánh sáng vàng kim trên gậy Dokkaebi"
+      ]
+    },
+    "4": {
+      "title": "Đôi Bạn Dokkaebi",
+      "subtitle": "Người bạn tuyệt vời luôn trao trọn niềm tin và phước lành",
+      "quote": "Chúng ta đã gắn bó đến nhường này rồi sao! Giờ ngươi là người bạn thân nhất trần đời của ta.",
+      "perks": [
+        "Kích hoạt hào quang lửa Dokkaebi quanh Kkaebi lơ lửng",
+        "Tặng thêm Chìa Khóa Vàng vào mỗi thứ Hai (+1)",
+        "Mở khóa lời khuyên thấu hiểu sâu sắc trong phòng chat"
+      ]
+    },
+    "5": {
+      "title": "Tri Kỷ Ngàn Năm",
+      "subtitle": "Thần hộ mệnh vĩnh cửu gìn giữ duyên phận nghìn năm",
+      "quote": "Ta có cảm giác như đã đợi ngươi suốt ngàn năm qua. Ta sẽ ban phước lành hoàng kim rực rỡ cho tương lai của ngươi!",
+      "perks": [
+        "Huy hiệu Bậc Thầy Dokkaebi Hoàng Kim",
+        "Hiệu ứng phước lành hoàng kim tối thượng Dokkaebi",
+        "Mở khóa mật thoại truyền thuyết bí truyền"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Ái chà nhột quá! Sao cứ chọc ta hoài thế? 😆",
+    "Hì hì, xem ra ngươi thích vuốt ve ta lắm nhỉ! ✨",
+    "Vàng bạc tuôn ra nào! Chúc bạn hữu ngập tràn phúc lộc! 🔮",
+    "Nghe nói chạm vào sừng Dokkaebi là điều ước sẽ thành hiện thực đấy? 😈",
+    "Hôm nay cũng cố lên nhé! Ta luôn dõi theo ủng hộ ngươi! 💖"
+  ]
+}

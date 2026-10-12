@@ -1,0 +1,332 @@
+{
+  "Z01": {
+    "name": "Zi (Rat)",
+    "symbol": "Héraut de la sagesse et de la richesse",
+    "description": "Une énergie brillante qui trouve son chemin même dans l'obscurité et vous donne la clé d'or de la richesse"
+  },
+  "Z02": {
+    "name": "Chou (Bœuf)",
+    "symbol": "Terre d'honnêteté et de sincérité",
+    "description": "La puissance du bœuf qui vous aide à avancer pas à pas et enfin à obtenir d'excellents résultats"
+  },
+  "Z03": {
+    "name": "Yin (Tigre)",
+    "symbol": "Seigneur de la Valeur et de l'Exorcisme",
+    "description": "L'esprit qui coupe la malchance avec une seule épée aux yeux féroces et ouvre la porte à la grande fortune"
+  },
+  "Z04": {
+    "name": "Mao (Lapin)",
+    "symbol": "Clair de lune d’agilité et de saut",
+    "description": "La sagesse pour surmonter facilement les crises en créant une inspiration qui scintille au clair de lune"
+  },
+  "Z05": {
+    "name": "Chen (Dragon Bleu)",
+    "symbol": "Guide du Ciel et de l'Harmonie",
+    "description": "L'esprit d'un dragon qui ouvre une chance harmonieuse entre le ciel et la terre comme s'il montait au ciel en embrassant le bleu Yeouiju"
+  },
+  "Z06": {
+    "name": "Si (Serpent)",
+    "symbol": "Flamme de transformation et d'intuition",
+    "description": "Une sagesse qui mène à un tournant dans la vie avec une profonde perspicacité, comme perdre sa peau et naître de nouveau"
+  },
+  "Z07": {
+    "name": "Wu (Cheval Blanc)",
+    "symbol": "Un cheval blanc de passion et de galop",
+    "description": "L'énergie qui se propage puissamment vers le but comme si elle courait à travers le pays avec sa crinière flottante"
+  },
+  "Z08": {
+    "name": "Wei (Mouton)",
+    "symbol": "Esprit de paix et de douceur",
+    "description": "Une vertu qui embrasse doucement les relations comme une fourrure d'un blanc pur et apporte une paix profonde au cœur"
+  },
+  "Z09": {
+    "name": "Shen (Singe)",
+    "symbol": "Un éclair d'esprit et de talent",
+    "description": "Un talent pour aider à surmonter n'importe quel obstacle avec des idées agréables et un talent agile"
+  },
+  "Z10": {
+    "name": "You (Coq)",
+    "symbol": "Sentinelle de lumière qui éveille l'aube",
+    "description": "Un son qui annonce le début de nouvelles opportunités et de prospérité, tout comme il traverse les ténèbres et annonce la lumière de l'aube"
+  },
+  "Z11": {
+    "name": "Xu (Chien)",
+    "symbol": "Un chien gardien de fidélité et de foyer",
+    "description": "Un ami fiable qui protège toujours les relations et les valeurs précieuses avec une loyauté inébranlable"
+  },
+  "Z12": {
+    "name": "Hai (Cochon d'Or)",
+    "symbol": "Le fruit de l'abondance et de la grande fortune",
+    "description": "Un symbole de pleine fortune, rempli de bénédictions dorées et déversant abondamment richesse et prospérité"
+  },
+  "Z13": {
+    "name": "Haïti",
+    "symbol": "L'esprit de justice et de mort maléfique",
+    "description": "Un esprit de bon augure qui juge le bien et le mal et conjure le feu et le désastre"
+  },
+  "Z14": {
+    "name": "girafe",
+    "symbol": "L'eau bénite qui annonce l'ère de la paix",
+    "description": "Un arbre divin qui bénit l'émergence d'un saint miséricordieux et bienveillant et la prospérité paisible du monde"
+  },
+  "Z15": {
+    "name": "Suzaku",
+    "symbol": "Le Phénix et la Passion du Sud",
+    "description": "L'énergie qui brûle l'énergie maléfique et insuffle une vitalité indomptable avec les ailes de flamme rouge"
+  },
+  "Z16": {
+    "name": "Hyeonmu",
+    "symbol": "Longévité et assise solide dans le Nord",
+    "description": "Le serpent et la tortue ne font qu'un, protégeant la santé et la stabilité pendant des éons"
+  },
+  "Z17": {
+    "name": "Cerf blanc (cerf blanc)",
+    "symbol": "Vie éternelle et guérison pure",
+    "description": "Seongsu, rempli de la rosée claire de la montagne Yeongsan et offrant une guérison pure et la paix d'une vie longue et saine"
+  },
+  "Z18": {
+    "name": "Phénix",
+    "symbol": "Caractère noble et paix",
+    "description": "Un oiseau aux plumes brillantes de cinq couleurs qui apporte les bénédictions les plus nobles et vertueuses à votre maison"
+  },
+  "Z19": {
+    "name": "Corbeau à trois pattes",
+    "symbol": "Héraut du Soleil et de la Lumière",
+    "description": "Un grand messager de lumière qui répand la lumière du ciel sur cette terre et relie la volonté du ciel et de la terre"
+  },
+  "Z20": {
+    "name": "Gumiho",
+    "symbol": "Mille ans de sagesse et de fascination",
+    "description": "Chacune des neuf queues est une bête spirituelle dotée d'une magie et d'une sagesse magiques qui captivent le cœur des gens."
+  },
+  "Z21": {
+    "name": "Licorne",
+    "symbol": "Une corne de pureté et de miracle",
+    "description": "Des mots qui guérissent un cœur blessé avec la lumière vive de la corne et apportent une chance miraculeuse"
+  },
+  "Z22": {
+    "name": "Sammokgu (chien à trois yeux)",
+    "symbol": "Exorcisme de la vision et de la perspicacité spirituelles",
+    "description": "Un chien de garde magique qui voit à travers et chasse la malchance cachée avec le troisième œil sur le front"
+  },
+  "Z23": {
+    "name": "Ganesh",
+    "symbol": "Surmonter les obstacles et prospérer la richesse",
+    "description": "Une bête divine qui détruit tous les obstacles devant vous et ouvre la richesse, la renommée et la sagesse"
+  },
+  "Z24": {
+    "name": "Sébek",
+    "symbol": "Eau de vie et ressources inépuisables",
+    "description": "Yeongsu, qui offre un sol fertile et une richesse abondante avec les bénédictions d'une rivière qui ne tarit jamais"
+  },
+  "Z25": {
+    "name": "Imoogi",
+    "symbol": "Urgence de patience et chronicité à long terme",
+    "description": "Après mille ans d'entraînement, l'énergie de persévérance et de grandeur pour enfin s'envoler en embrassant Yeouiju"
+  },
+  "Z26": {
+    "name": "Ichthyosaure",
+    "symbol": "Déclaration de nomination et annonce de réussite",
+    "description": "Le pouvoir d'escalader une puissante cascade et de réaliser enfin le miracle d'un grand succès et d'une grande renommée"
+  },
+  "Z27": {
+    "name": "Sphinx",
+    "symbol": "Voûte d'énigmes et de sagesse",
+    "description": "Arbre gardien qui ouvre la porte à un trésor d'or caché grâce à une sagesse avisée"
+  },
+  "Z28": {
+    "name": "Léviathan",
+    "symbol": "Le potentiel infini des grands fonds",
+    "description": "Un souffle qui éveille de vastes ressources cachées et de la vitalité en nageant dans les profondeurs marines"
+  },
+  "Z29": {
+    "name": "Myoduse",
+    "symbol": "Sens aiguisés et repos tranquille",
+    "description": "Un esprit mystique à tête de chat qui empêche les intrus et protège la maison"
+  },
+  "Z30": {
+    "name": "Île à trois pattes (crapaud à l'estomac)",
+    "symbol": "Le Dieu de la Richesse portant une pièce d'or",
+    "description": "Un crapaud qui remplit les caisses en rassemblant toutes les richesses du monde avec ses trois pattes"
+  },
+  "Z31": {
+    "name": "Griffon",
+    "symbol": "Gardien de la bravoure et du trésor d'or",
+    "description": "Le pouvoir de protéger farouchement les trésors précieux et l'honneur avec les ailes d'un aigle et le pouvoir d'un lion"
+  },
+  "Z32": {
+    "name": "Tigre blanc",
+    "symbol": "Exorciste et courage juste",
+    "description": "Une bête divine qui vainc toute malchance et ouvre la voie à une victoire inébranlable avec du givre argenté et un esprit vif"
+  },
+  "Z33": {
+    "name": "Quetzalcóatl",
+    "symbol": "Le vent et les germes d'une nouvelle civilisation",
+    "description": "Un serpent volant dans le ciel avec des plumes arc-en-ciel, diffusant de nouvelles connaissances et les fruits d'une riche civilisation"
+  },
+  "M01": {
+    "name": "Esprit de la Montagne",
+    "symbol": "L’ermite bienveillant de Yeongsan",
+    "description": "Un saint qui méprise l'énergie claire des montagnes et des rivières et accorde protection et sagesse bienveillantes"
+  },
+  "M02": {
+    "name": "Faucheuse",
+    "symbol": "Un guide du destin et une pause contre la malchance",
+    "description": "Un lion qui vous aide à mettre fin à la malchance et à avancer sur un nouveau chemin"
+  },
+  "M03": {
+    "name": "Empereur de Jade",
+    "symbol": "Harmonie céleste et fortune suprême",
+    "description": "Un empereur céleste qui gouverne l'ordre et l'harmonie dans le monde céleste, équilibre le monde et accorde une grande fortune"
+  },
+  "M04": {
+    "name": "Roi Yeomra",
+    "symbol": "Le beau paysage et la justice d'un guerrier impartial",
+    "description": "Un juge qui éclaire brillamment la vérité selon les Écritures, établit la justice et lave l'injustice"
+  },
+  "M05": {
+    "name": "Mago Halmi",
+    "symbol": "Le pouvoir créateur du commencement qui a façonné la terre",
+    "description": "En tant que colosse qui a créé la terre primordiale et toutes choses, une tolérance infinie et le pouvoir de fournir un foyer à la vie"
+  },
+  "M06": {
+    "name": "Baridegi",
+    "symbol": "Eau Guérison de Vie et de Dévotion",
+    "description": "Princesse de Miséricorde qui caresse les blessures profondes avec l'eau de la vie et aide à la renaissance miraculeuse dans le désespoir"
+  },
+  "M07": {
+    "name": "Grand-mère Samsin",
+    "symbol": "Bénédictions de la vie et paix de la famille",
+    "description": "Une chaleureuse bénédiction maternelle qui assure la naissance d'une nouvelle vie et le bien-être de la famille."
+  },
+  "M08": {
+    "name": "Roi Dragon",
+    "symbol": "Les trésors et les grandes richesses de la Mer Morte",
+    "description": "Le dieu de la mer qui règne sur toutes les eaux et les trésors de la mer Morte et ouvre une abondance infinie et de précieuses opportunités"
+  },
+  "M09": {
+    "name": "Théojudaegam",
+    "symbol": "Protéger votre maison et vos biens",
+    "description": "Un vassal qui protège le bien-être du foyer et protège fermement la paix et la richesse de la famille de la dispersion"
+  },
+  "M10": {
+    "name": "Zeus",
+    "symbol": "Des éclairs dans le ciel et un leadership confiant",
+    "description": "Le dieu qui contrôle les éclairs du ciel et donne un leadership puissant et la dignité de la victoire"
+  },
+  "M11": {
+    "name": "Poséidon",
+    "symbol": "Vagues océaniques et défis imparables",
+    "description": "En tant que monarque qui traverse les vagues agitées de l'océan, un dieu qui ouvre une vitalité imparable et de grandes aspirations"
+  },
+  "M12": {
+    "name": "Hadès",
+    "symbol": "Trésors souterrains et potentiel caché",
+    "description": "Un dieu qui règne sur les trésors cachés au plus profond de la terre et contribue silencieusement à leur épanouissement profond"
+  },
+  "M13": {
+    "name": "Thor",
+    "symbol": "Le courage de Mjolnir et surmonter les difficultés",
+    "description": "Un guerrier qui manie le marteau du tonnerre pour détruire instantanément toute barrière et remporter la victoire"
+  },
+  "M14": {
+    "name": "Odin",
+    "symbol": "Sagesse runique et perspicacité profonde",
+    "description": "Une personne qui explore toutes les providences du monde et mène à une vision profonde et à de sages décisions"
+  },
+  "M15": {
+    "name": "Athéna",
+    "symbol": "Sagesse juste et stratégie gagnante",
+    "description": "Déesse qui guide la victoire juste et sage avec un esprit brillant et une stratégie approfondie"
+  },
+  "M16": {
+    "name": "Apollon",
+    "symbol": "L'éclat du soleil et l'inspiration artistique",
+    "description": "Le dieu solaire qui élimine les ténèbres de l'esprit et fait briller une inspiration brillante et une vitalité saine"
+  },
+  "M17": {
+    "name": "Loki",
+    "symbol": "Une touche agréable et un esprit brillant",
+    "description": "Le pouvoir de renversement qui renverse allègrement une situation bondée d'idées non conventionnelles"
+  },
+  "M18": {
+    "name": "Valkyrie",
+    "symbol": "Ailes de victoire et conseils honorables",
+    "description": "Un messager qui prend les courageux par la main et les conduit vers les hauts temples de la renommée et du succès"
+  },
+  "M19": {
+    "name": "Bouddha",
+    "symbol": "Réalisation de la tranquillité et de la miséricorde éternelles",
+    "description": "Un saint qui lave l'angoisse et offre à l'esprit un repos tranquille et une claire sérénité"
+  },
+  "M20": {
+    "name": "Bodhisattva Avalokitesvara",
+    "symbol": "Grande préparation personnelle à l'écoute du monde",
+    "description": "Un bodhisattva qui écoute avec compassion toutes les souffrances et tous les souhaits et apporte un salut chaleureux et une paix"
+  },
+  "M21": {
+    "name": "Ganesha (Divinité)",
+    "symbol": "Nouveaux départs et prospérité des entreprises",
+    "description": "Dieu qui ouvre la porte à un nouveau voyage et vous bénit avec richesse et résultats sages"
+  },
+  "M22": {
+    "name": "Shiva",
+    "symbol": "Danse de transformation et de création puissante",
+    "description": "Un puissant moteur de changement qui brise la vieille stagnation et insuffle une nouvelle vie"
+  },
+  "M23": {
+    "name": "Indra",
+    "symbol": "Éclair de l'Est et Haute Honneur",
+    "description": "Jeseokcheon commande le ciel céleste et protège son esprit fier et son grand honneur"
+  },
+  "M24": {
+    "name": "Ra (dieu du soleil)",
+    "symbol": "Le faucon du soleil qui illumine le monde entier",
+    "description": "Dieu qui illumine le monde entier de manière uniforme et donne la meilleure lumière et vitalité qui ne se refroidit jamais"
+  },
+  "M25": {
+    "name": "Osiris",
+    "symbol": "Le germe de la résurrection et de la vie éternelle",
+    "description": "Un monarque qui fait germer les graines d'une régénération incassable et de nouveaux bonds"
+  },
+  "M26": {
+    "name": "Bastet",
+    "symbol": "Myosine Gardienne de la Joie et de la Paix",
+    "description": "Dieu qui protège l'harmonie familiale et apporte le rire et la sécurité de bon augure"
+  },
+  "M27": {
+    "name": "Anubis",
+    "symbol": "Balance de Vérité et Guide de l'Âme",
+    "description": "Un guide équitable pour vous aider à prendre des décisions judicieuses et à atteindre la tranquillité d'esprit."
+  },
+  "M28": {
+    "name": "Archange Michel",
+    "symbol": "Épée de justice et bouclier de protection",
+    "description": "Un archange qui bat toutes les forces du mal et vous protège avec l'épée de lumière qui traverse les ténèbres"
+  },
+  "M29": {
+    "name": "Archange Gabriel",
+    "symbol": "Trompettes d'espoir et de bonnes nouvelles",
+    "description": "Un messager qui délivre de bonnes nouvelles et un message d'espoir, informant de bonne fortune et de bonne chance"
+  },
+  "M30": {
+    "name": "Archange Raphaël",
+    "symbol": "Chaleur curative et sécurité du voyage",
+    "description": "Un ange qui réconforte les voyages fatigués et les cœurs brisés et donne une douce guérison et une bonne santé"
+  },
+  "M31": {
+    "name": "Archange Uriel",
+    "symbol": "Un phare de sagesse qui éclaire les ténèbres",
+    "description": "Un ange qui fait briller la lumière de la vérité dans les moments de confusion et guide le chemin sage"
+  },
+  "M32": {
+    "name": "Ange Gardien",
+    "symbol": "Protection du côté convivial et tranquillité du quotidien",
+    "description": "Un ange qui ne vous quitte jamais et reste à vos côtés, prenant soin de vous à chaque étape de votre vie quotidienne"
+  },
+  "M33": {
+    "name": "Moirai",
+    "symbol": "Fil du destin et relation noble",
+    "description": "La déesse qui dénoue les liens enchevêtrés et crée le plus beau fil du destin."
+  }
+}

@@ -1,0 +1,2094 @@
+{
+  "symbols": [
+    {
+      "id": "tiger",
+      "label": "tigre",
+      "keywords": [
+        "tigre",
+        "poêle",
+        "bête sauvage",
+        "Rêve de tigre",
+        "tigre"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "tiger",
+      "meaning": "Un grand rêve dans lequel apparaîtront un pouvoir, un grand honneur et un puissant allié",
+      "advice": "C'est l'esprit d'un tigre ! N’hésitez pas à prendre une grande décision aujourd’hui, foncez !"
+    },
+    {
+      "id": "pig",
+      "label": "Cochon",
+      "keywords": [
+        "Cochon",
+        "Cochon chanceux",
+        "Porc Cochon",
+        "Rêve de cochon",
+        "cochon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "pig",
+      "meaning": "Un rêve porte-bonheur traditionnel où richesse et aubaines inattendues arrivent",
+      "advice": "Le cochon porte-bonheur frappe à la porte ! Rangez votre portefeuille aujourd'hui et ayez de la chance !"
+    },
+    {
+      "id": "snake",
+      "label": "serpent",
+      "keywords": [
+        "serpent",
+        "serpent",
+        "serpent blanc",
+        "python",
+        "serpent"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "snake",
+      "meaning": "Sagesse et guérison, gros contrats ou rêves gestationnels, richesse accrue",
+      "advice": "Une journée de renouveau, comme une mue ! Jetez les vieilles pensées et faites le grand saut !"
+    },
+    {
+      "id": "dragon",
+      "label": "dragon",
+      "keywords": [
+        "dragon",
+        "Dragon Bleu",
+        "Hwangryong",
+        "Rêve de dragon",
+        "dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "dragon",
+      "meaning": "La plus grande envolée et la plus grande renommée de la vie, la plus grande autorité et le plus grand succès",
+      "advice": "Il est temps de monter vers le ciel avec Yeouiju dans la bouche ! Ouvre grand ton cœur aujourd’hui, kkaebi !"
+    },
+    {
+      "id": "bird",
+      "label": "Oiseau / Pie / Grue",
+      "keywords": [
+        "oiseau",
+        "Pie",
+        "École",
+        "Grue",
+        "Pigeon",
+        "Nouveau rêve",
+        "oiseau"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "wind_child",
+      "meaning": "Bonnes nouvelles, visites d'invités de marque et promotions honorables",
+      "advice": "La nouvelle que vous attendiez arrive ! Regardez attentivement la lettre ou le message !"
+    },
+    {
+      "id": "fish",
+      "label": "Poisson / Carpe",
+      "keywords": [
+        "Poisson",
+        "Carpe",
+        "Poisson rouge",
+        "Poisson",
+        "Poisson",
+        "poisson"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "water_sprite",
+      "meaning": "Un bon rêve pour des revenus abondants, le développement des talents et de grands talents",
+      "advice": "Une journée pour nager librement comme un poisson dans l'eau ! Montrez pleinement vos compétences !"
+    },
+    {
+      "id": "dog",
+      "label": "Chien/Chiot",
+      "keywords": [
+        "chien",
+        "Chiot",
+        "Chien",
+        "Chien",
+        "chien",
+        "chiot"
+      ],
+      "fortune": "normal",
+      "lucky_number": 19,
+      "card_id": "dog",
+      "meaning": "Renforcer le lien avec un fidèle assistant ou vérifier la confiance interpersonnelle",
+      "advice": "Un ami digne de confiance est à vos côtés ! Envoie un mot gentil aux gens autour de toi, kkaebi !"
+    },
+    {
+      "id": "cat",
+      "label": "chat",
+      "keywords": [
+        "chat",
+        "Miaou",
+        "chat errant",
+        "Bébé chat",
+        "chat",
+        "chaton"
+      ],
+      "fortune": "normal",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Intuition vive, opportunités secrètes, exploration du moi intérieur caché",
+      "advice": "C'est une journée où vos sens pétillent ! Faites confiance à votre intuition difficile à expliquer et agissez !"
+    },
+    {
+      "id": "ox",
+      "label": "Vache/Taureau",
+      "keywords": [
+        "Vache",
+        "Taureau",
+        "Meuh",
+        "petit rêve",
+        "Grange",
+        "bœuf",
+        "taureau",
+        "vache"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 8,
+      "card_id": "ox",
+      "meaning": "Le fruit d'efforts silencieux, d'une base solide et d'une accumulation stable de richesse",
+      "advice": "Si vous marchez en toute confiance, vous pouvez même gravir le mont Tai ! Ne vous précipitez pas, procédez étape par étape !"
+    },
+    {
+      "id": "horse",
+      "label": "cheval / cheval blanc",
+      "keywords": [
+        "cheval",
+        "cheval blanc",
+        "cheval célèbre",
+        "En cours d'exécution",
+        "Rêve de cheval",
+        "cheval"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Conduite imparable, réalisation de grands objectifs, voyages d'affaires longue distance ou sauts",
+      "advice": "Le bruit des sabots des chevaux est majestueux ! N’hésitez plus et foncez de toutes vos forces !"
+    },
+    {
+      "id": "turtle",
+      "label": "Tortue / Tortue",
+      "keywords": [
+        "tortue",
+        "Tortue",
+        "grandir",
+        "Longévité",
+        "tortue",
+        "tortue"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 80,
+      "card_id": "moon_jar",
+      "meaning": "Longévité sans santé, honneur inébranlable et richesse durable",
+      "advice": "C'est la sagesse de vivre mille ans ! Au lieu d’être impatient pour l’avenir immédiat, regardez devant cent ans !"
+    },
+    {
+      "id": "rooster",
+      "label": "poulet / coq",
+      "keywords": [
+        "poulet",
+        "Coq",
+        "gloussement",
+        "Jangdak",
+        "Commandements",
+        "coq",
+        "poulet"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 31,
+      "card_id": "rooster",
+      "meaning": "Signe de bon augure de la disparition des ténèbres et de l'aube, de la réussite des examens et de la bonne fortune",
+      "advice": "Un son fort qui vous réveille à l'aube ! Une nouvelle opportunité se présente sous vos yeux !"
+    },
+    {
+      "id": "butterfly",
+      "label": "Papillon / Abeille",
+      "keywords": [
+        "Papillon",
+        "Punition",
+        "Papillon machaon",
+        "abeille",
+        "papillon",
+        "abeille"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 44,
+      "card_id": "flower_fairy",
+      "meaning": "Chance amoureuse accrue, fruit sucré, sensibilité artistique et charme accrus",
+      "advice": "Il est temps de voler et de suivre le parfum des fleurs ! Ne cachez pas votre charme !"
+    },
+    {
+      "id": "bug",
+      "label": "bug / fourmi / araignée",
+      "keywords": [
+        "bug",
+        "fourmi",
+        "Araignée",
+        "Insecte",
+        "Mille-pattes",
+        "bug",
+        "fourmi",
+        "araignée"
+      ],
+      "fortune": "normal",
+      "lucky_number": 16,
+      "card_id": "wooden_comb",
+      "meaning": "Besoin de régler des soucis insignifiants, signe d'une accumulation sincère comme les fourmis",
+      "advice": "Il ne vous reste plus qu'à vous débarrasser de vos petits soucis ! Commencez par nettoyer votre environnement !"
+    },
+    {
+      "id": "mouse",
+      "label": "Rat / Écureuil",
+      "keywords": [
+        "rat",
+        "souris",
+        "Écureuil",
+        "Rat de gouttière",
+        "souris",
+        "rat"
+      ],
+      "fortune": "normal",
+      "lucky_number": 1,
+      "card_id": "rat",
+      "meaning": "Détection intelligente des opportunités, économies frugales et informations secrètes inattendues",
+      "advice": "Il y a un trésor dans une petite crevasse que les autres ne peuvent pas voir ! Ouvrez grand les yeux !"
+    },
+    {
+      "id": "lion",
+      "label": "Lion",
+      "keywords": [
+        "Lion",
+        "roi des chômeurs",
+        "Lionne",
+        "lion mâle",
+        "lions"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "mountain_spirit",
+      "meaning": "Prendre le contrôle de la direction de l'organisation, d'un pouvoir inébranlable et d'un soutien solide",
+      "advice": "Commandez fièrement comme le roi des bêtes ! Tu es le personnage principal, kkaebi !"
+    },
+    {
+      "id": "monkey",
+      "label": "singe",
+      "keywords": [
+        "singe",
+        "Rêve de singe",
+        "talents",
+        "singe",
+        "singe"
+      ],
+      "fortune": "normal",
+      "lucky_number": 51,
+      "card_id": "monkey",
+      "meaning": "Surmonter les difficultés avec esprit et rapidité, conseils pour se prémunir de l'orgueil",
+      "advice": "Soyez malin, mais surveillez bien vos pas pour ne pas tomber de l'arbre !"
+    },
+    {
+      "id": "deer",
+      "label": "Cerf / Chevreuil",
+      "keywords": [
+        "Cerf",
+        "Cerf sika",
+        "bois de cerf",
+        "Chevreuil",
+        "Wapiti",
+        "cerf"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 75,
+      "card_id": "cloud_hermit",
+      "meaning": "Reconnaissance du caractère noble, de l'amour noble et du bonheur paisible",
+      "advice": "Il y a une énergie claire et calme dans l’air ! Traitez les gens avec un doux sourire !"
+    },
+    {
+      "id": "bear",
+      "label": "ours",
+      "keywords": [
+        "ours",
+        "ours noir",
+        "Bébé ours",
+        "Ours blanc",
+        "ours"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 82,
+      "card_id": "mountain_spirit",
+      "meaning": "Rêve prénatal, protection d'une personne puissante et accumulation d'énormes richesses",
+      "advice": "La lourde persévérance brille ! Avance patiemment, kkaebi !"
+    },
+    {
+      "id": "toad",
+      "label": "Crapaud / Grenouille",
+      "keywords": [
+        "Crapaud",
+        "grenouille",
+        "Crapaud doré",
+        "Monkong",
+        "crapaud",
+        "grenouille"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 93,
+      "card_id": "silk_pouch",
+      "meaning": "Grande fortune et aubaine apportées par les crapauds dorés, prospérité de la famille",
+      "advice": "Une fortune arrive à la maison ! Partagez la joie avec votre famille !"
+    },
+    {
+      "id": "teeth",
+      "label": "rêve de dents qui tombent",
+      "keywords": [
+        "Dents",
+        "dents",
+        "Les dents tombent",
+        "Les dents tombent",
+        "Extraction dentaire",
+        "dents",
+        "dent"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "wooden_comb",
+      "meaning": "Vérification du bien-être de proches ou de membres de la famille, anxiété passagère",
+      "advice": "Le gobelin se débarrassera de la mauvaise énergie en le frappant avec une batte, alors appelle tes parents aujourd'hui pour leur dire bonjour !"
+    },
+    {
+      "id": "poo",
+      "label": "Rêve de marcher sur ou d’enterrer du caca",
+      "keywords": [
+        "caca",
+        "tabouret",
+        "Portions",
+        "Marcher sur du caca",
+        "excréments",
+        "caca",
+        "caca"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "silk_pouch",
+      "meaning": "Un rêve bouleversant où la richesse vient comme si elle se collait au corps",
+      "advice": "C’est un jackpot agréable ! Dès aujourd’hui, commencez à investir ou à relever des défis devant lesquels vous hésitiez !"
+    },
+    {
+      "id": "blood",
+      "label": "Rêve de saigner ou de voir du sang",
+      "keywords": [
+        "sang",
+        "Saignement",
+        "Éversement de sang",
+        "Du sang frais",
+        "rêve de sang",
+        "sang"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Une énorme explosion de vitalité et de richesse, une percée rafraîchissante grâce à la renommée et aux fortunes bloquées",
+      "advice": "Le sang rouge, c'est une énorme vitalité et de l'argent ! Ce qui était opprimé est soulagé !"
+    },
+    {
+      "id": "urine",
+      "label": "Rêve d'uriner confortablement",
+      "keywords": [
+        "faire pipi",
+        "Urine",
+        "Rêve d’uriner",
+        "Vessie",
+        "Miction",
+        "urines",
+        "faire pipi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 55,
+      "card_id": "water_sprite",
+      "meaning": "Réalisation de souhaits de longue date, libération complète des soucis et grand succès",
+      "advice": "C'est une journée qui m'épate ! Débarrassez-vous de tous vos soucis d’un seul coup !"
+    },
+    {
+      "id": "hair_cut",
+      "label": "Rêve de couper ou de soigner les cheveux",
+      "keywords": [
+        "cheveux",
+        "salon de coiffure",
+        "coupe de cheveux",
+        "Cheveux",
+        "Coupe de cheveux",
+        "cheveux"
+      ],
+      "fortune": "normal",
+      "lucky_number": 28,
+      "card_id": "wooden_comb",
+      "meaning": "Nouvelle détermination, dénouement des anciennes relations et changement d'image",
+      "advice": "Organisez votre environnement comme si vous vous coiffiez soigneusement ! Une nouvelle relation arrive !"
+    },
+    {
+      "id": "tears",
+      "label": "Rêve de pleurer avec beaucoup de larmes",
+      "keywords": [
+        "larmes",
+        "gémissant",
+        "Rêve qui pleure",
+        "tristesse",
+        "Sanglotant",
+        "larmes",
+        "pleurer"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 90,
+      "card_id": "water_sprite",
+      "meaning": "Un soulagement rafraîchissant de la douleur dans votre cœur, une chance d'être largement connu",
+      "advice": "Après avoir beaucoup pleuré, le monde devient plus clair ! Une joie palpitante est juste devant vous !"
+    },
+    {
+      "id": "injury",
+      "label": "Rêve de vous blesser aux mains ou aux pieds",
+      "keywords": [
+        "blessé",
+        "blesser",
+        "Blessure à la main",
+        "Baldachim",
+        "Fracture",
+        "blessure",
+        "blessé"
+      ],
+      "fortune": "normal",
+      "lucky_number": 34,
+      "card_id": "brass_bell",
+      "meaning": "Recommandation pour rythmer les travaux en cours, examen minutieux du contrat",
+      "advice": "Battez le pont de pierre et traversez-le ! Ne vous précipitez pas aujourd’hui, regardez de près !"
+    },
+    {
+      "id": "bath",
+      "label": "Rêve de prendre un bain ou une douche",
+      "keywords": [
+        "bain",
+        "Douche",
+        "source chaude",
+        "Pousser",
+        "laver",
+        "bain",
+        "douche"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "lotus_lamp",
+      "meaning": "Dissiper les malentendus et les stigmates, se remettre d'une maladie, recharger sa vitalité pour un nouveau bond en avant",
+      "advice": "Élimine facilement les vieilles saletés ! Recommençons avec un corps et un esprit plus légers !"
+    },
+    {
+      "id": "surgery",
+      "label": "Rêve de subir une intervention chirurgicale ou un traitement",
+      "keywords": [
+        "chirurgie",
+        "hôpital",
+        "Traitement",
+        "docteur",
+        "salle d'opération",
+        "chirurgie"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "folding_fan",
+      "meaning": "Créer des résultats révolutionnaires grâce à une amélioration structurelle fondamentale et une réorganisation organisationnelle",
+      "advice": "Il faut couper la zone douloureuse pour faire pousser une nouvelle peau ! Commençons une nouvelle ère avec une décision audacieuse !"
+    },
+    {
+      "id": "pregnancy",
+      "label": "rêve d'être enceinte",
+      "keywords": [
+        "enceinte",
+        "Taegi",
+        "Rêve de grossesse",
+        "Nouvelle vie",
+        "femme enceinte",
+        "grossesse",
+        "enceinte"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "moon_jar",
+      "meaning": "Lancer un nouveau projet, porteur d'un énorme potentiel et de fruits créatifs",
+      "advice": "J'avais des graines bénies ! Si vous le cultivez avec soin, il portera d’énormes fruits !"
+    },
+    {
+      "id": "twins",
+      "label": "Rêve de donner naissance à des jumeaux",
+      "keywords": [
+        "Jumeaux",
+        "Dadungi",
+        "nid",
+        "Naissance de jumeaux",
+        "jumeaux"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 22,
+      "card_id": "silk_pouch",
+      "meaning": "Double pente ! Un bon rêve pour récolter deux ou plusieurs gros profits avec un seul effort",
+      "advice": "La double fortune arrive ! Vous pouvez faire d’une pierre deux coups !"
+    },
+    {
+      "id": "growing_tall",
+      "label": "Rêve de grandir",
+      "keywords": [
+        "Kickeur Jim",
+        "croissance",
+        "Grand",
+        "Grand",
+        "Hauteur",
+        "grandir"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "cloud_hermit",
+      "meaning": "Élévation du statut, expansion des perspectives, avancement à un poste plus élevé que les autres",
+      "advice": "Regardez le monde d’en haut ! Votre vaisseau grandit !"
+    },
+    {
+      "id": "face_change",
+      "label": "Un rêve où ton visage brille et devient joli",
+      "keywords": [
+        "visage",
+        "Beau",
+        "Beauté",
+        "peau",
+        "Apparence",
+        "éclat du visage",
+        "beauté"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "jade_ring",
+      "meaning": "Augmentation rapide de la popularité, explosion des éloges et du charme du peuple, amélioration du statut social",
+      "advice": "Votre visage rayonne ! Aujourd’hui, affichez fièrement votre charme où que vous soyez !"
+    },
+    {
+      "id": "naked",
+      "label": "Rêve de se déshabiller ou d'être nu",
+      "keywords": [
+        "Nue",
+        "nu",
+        "Vêtements enlevés",
+        "corps nu",
+        "corps nu",
+        "nue"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "folding_fan",
+      "meaning": "Le moment de vérité où vous craignez qu'un secret soit révélé ou que tout soit révélé honnêtement",
+      "advice": "Vous êtes plus confiant lorsque vous n’avez rien à cacher ! L'honnêteté est la meilleure arme du jour !"
+    },
+    {
+      "id": "sweating",
+      "label": "Rêve d'avoir des sueurs froides",
+      "keywords": [
+        "transpirer",
+        "Sueurs froides",
+        "transpirer",
+        "Transpiration",
+        "Couvert de sueur",
+        "transpirer"
+      ],
+      "fortune": "normal",
+      "lucky_number": 60,
+      "card_id": "tea_bowl",
+      "meaning": "Consommation d'énergie due aux travaux pénibles, signal de repos et d'hydratation",
+      "advice": "C’est un signal de votre corps vous disant de vous reposer ! Buvez une tasse de thé chaud aujourd'hui et reposez-vous !"
+    },
+    {
+      "id": "water",
+      "label": "eau claire",
+      "keywords": [
+        "eau",
+        "Eau claire",
+        "Vallée",
+        "eau de source",
+        "eau en bouteille",
+        "eau"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "water_sprite",
+      "meaning": "Les émotions sont purifiées, l'esprit devient clair et le travail avance en douceur",
+      "advice": "L'eau claire purifie l'esprit ! Si vous commencez l’esprit vide, de grandes choses se réaliseront !"
+    },
+    {
+      "id": "fire",
+      "label": "Flamme brûlante / Feu",
+      "keywords": [
+        "feu",
+        "flamme",
+        "feu",
+        "Rêve brûlant",
+        "Flammes",
+        "feu",
+        "flamme"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Un grand rêve dans lequel l'énergie brûlera férocement et où les affaires et la gloire prospéreront",
+      "advice": "Il est temps de se propager comme le feu ! Mettez le feu aux choses que vous avez reportées tout de suite !"
+    },
+    {
+      "id": "star",
+      "label": "Étoiles/météores dans le ciel nocturne",
+      "keywords": [
+        "étoile",
+        "Lumière des étoiles",
+        "Météore",
+        "étoile filante",
+        "Voie Lactée",
+        "étoile",
+        "météore"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "star_weaver",
+      "meaning": "Une explosion d'inspiration et de créativité, une popularité populaire et un énorme succès de l'œuvre",
+      "advice": "Les idées qui brillent comme des étoiles affluent ! Gardez toujours un bloc-notes avec vous !"
+    },
+    {
+      "id": "sun",
+      "label": "Soleil levant / Soleil",
+      "keywords": [
+        "soleil",
+        "Faire",
+        "lever du soleil",
+        "soleil",
+        "lever du soleil",
+        "soleil",
+        "lever du soleil"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "sun_messenger",
+      "meaning": "Une belle naissance, la meilleure carrière qui vous rendra célèbre dans le monde",
+      "advice": "Le soleil éclatant illumine le monde entier ! Redressez vos épaules et marchez en toute confiance !"
+    },
+    {
+      "id": "moon",
+      "label": "Douce pleine lune / clair de lune",
+      "keywords": [
+        "lune",
+        "pleine lune",
+        "Clair de lune",
+        "croissant de lune",
+        "Clair de lune",
+        "lune"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "moon_rabbit",
+      "meaning": "Harmonie familiale, fruits abondants, tranquillité d'esprit et inspiration artistique",
+      "advice": "Une sagesse aussi douce que le clair de lune brille ! Parlez à votre proche ce soir !"
+    },
+    {
+      "id": "mountain",
+      "label": "Montagne imposante / Conquérir le sommet",
+      "keywords": [
+        "montagne",
+        "escalade",
+        "Normale",
+        "Taishan",
+        "sommet de la montagne",
+        "montagne"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Réalisation de grandes aspirations, surmonter d'énormes obstacles et accéder au pouvoir",
+      "advice": "Quand vous êtes au sommet, vous pouvez tout voir ! Ne vous lassez pas de la colline devant vous et montez jusqu’au bout !"
+    },
+    {
+      "id": "sea",
+      "label": "Grande mer et vagues",
+      "keywords": [
+        "océan",
+        "vagues",
+        "horizon",
+        "océan",
+        "plage",
+        "mer",
+        "océan"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "water_sprite",
+      "meaning": "Avancement sur la scène mondiale, vision large et succès à grande échelle",
+      "advice": "Levez l’ancre vers l’océan ! Ne vous laissez pas prendre par les petites choses et embrassez le grand océan !"
+    },
+    {
+      "id": "river",
+      "label": "Rivières et lacs qui coulent fièrement",
+      "keywords": [
+        "rivière",
+        "lac",
+        "rivière",
+        "Rivière",
+        "traversier",
+        "rivière",
+        "lac"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 26,
+      "card_id": "tea_bowl",
+      "meaning": "Circulation stable des fonds, négociations judicieuses et résolution des conflits de longue date",
+      "advice": "C'est une journée qui coule sans obstacle comme une rivière ! Veuillez ajuster vos opinions avec flexibilité !"
+    },
+    {
+      "id": "muddy_water",
+      "label": "Eau boueuse/turbide",
+      "keywords": [
+        "eau boueuse",
+        "Eau trouble",
+        "boue",
+        "Eaux usées",
+        "Taksu",
+        "eau boueuse"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 42,
+      "card_id": "wooden_comb",
+      "meaning": "Attention aux jugements altérés, attention aux offres douteuses ou aux transactions frauduleuses",
+      "advice": "Attendez que l'eau baisse ! Ne signez aucun contrat important aujourd'hui !"
+    },
+    {
+      "id": "heavy_rain",
+      "label": "pluie / fortes pluies / averses",
+      "keywords": [
+        "Pluie",
+        "fortes pluies",
+        "douche",
+        "Danbi",
+        "Saison des pluies",
+        "pluie",
+        "fortes pluies"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "water_sprite",
+      "meaning": "Un problème qui disparaît comme une douce pluie ou une douche passagère d'émotions",
+      "advice": "Les averses vont bientôt passer ! Préparez-vous sereinement, comme si vous preniez un parapluie !"
+    },
+    {
+      "id": "snow",
+      "label": "La neige recouvre le monde entier",
+      "keywords": [
+        "neige",
+        "grands yeux",
+        "Scène de neige",
+        "flocon de neige",
+        "couverture de neige",
+        "neige"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 72,
+      "card_id": "moon_jar",
+      "meaning": "Restauration d'un cœur pur, couverture de tous les défauts et bénédictions sereines",
+      "advice": "C'est votre chance de recommencer blanc comme neige ! Disposez un nouveau morceau de papier à dessin !"
+    },
+    {
+      "id": "lightning",
+      "label": "Foudre et coup de foudre / tonnerre",
+      "keywords": [
+        "Foudre",
+        "Coup de tonnerre",
+        "tonnerre",
+        "éclair",
+        "Clignotant",
+        "éclair",
+        "tonnerre"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 97,
+      "card_id": "dokkaebi_club",
+      "meaning": "Une réalisation ultra-rapide, un succès soudain qui attire l’attention du monde entier",
+      "advice": "L’inspiration jaillit comme un éclair ! Notez les pensées qui vous viennent à l’esprit en ce moment !"
+    },
+    {
+      "id": "rainbow",
+      "label": "arc-en-ciel de sept couleurs",
+      "keywords": [
+        "Arc-en-ciel",
+        "double arc-en-ciel",
+        "cinq couleurs",
+        "Rêve arc-en-ciel",
+        "arc-en-ciel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "lotus_lamp",
+      "meaning": "La gloire brillante à la fin de la souffrance, la réalisation dramatique d'un rêve tant attendu",
+      "advice": "La pluie s'est dissipée et un arc-en-ciel est apparu ! Il est maintenant temps de célébrer et de célébrer !"
+    },
+    {
+      "id": "earthquake",
+      "label": "Tremblement de terre / Fissuration du sol",
+      "keywords": [
+        "tremblement de terre",
+        "Fissuration du sol",
+        "Changement tectonique",
+        "Vibrations",
+        "tremblement de terre"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "folding_fan",
+      "meaning": "Changements rapides dans les moyens de subsistance, nécessité de sécuriser des actifs et de s'y préparer",
+      "advice": "Plus vous secouez, plus vous plantez fermement vos pieds ! Évitez les dépenses spéculatives dès aujourd’hui !"
+    },
+    {
+      "id": "money",
+      "label": "Rêve de ramasser de l’argent/des billets",
+      "keywords": [
+        "argent",
+        "billets de banque",
+        "Récupérer de l'argent",
+        "Ramasser les billets",
+        "pièce de monnaie",
+        "Rêve d'argent",
+        "argent"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Augmentation de la richesse et des récompenses financières, créant de réels profits",
+      "advice": "C'est ainsi que l'argent rentre ! Économisez de l'argent aujourd'hui et vérifiez votre compte d'épargne !"
+    },
+    {
+      "id": "losing_money",
+      "label": "Rêve de perdre de l'argent ou un portefeuille",
+      "keywords": [
+        "Perdre de l'argent",
+        "Portefeuille perdu",
+        "Perdu",
+        "vol",
+        "Voler de l'argent",
+        "perdre de l'argent"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "brass_bell",
+      "meaning": "Il faut contrôler les dépenses, faire attention aux petits déchets et vérifier le budget",
+      "advice": "Arrêtez le bol qui fuit ! Prenez votre reçu et annulez les abonnements inutiles !"
+    },
+    {
+      "id": "jewel",
+      "label": "Rêve d’obtenir des bijoux/trésors d’or et d’argent",
+      "keywords": [
+        "Bijoux",
+        "diamant",
+        "lingots d'or",
+        "Trésor",
+        "Refuser",
+        "bijou",
+        "gemmes"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "jade_ring",
+      "meaning": "Acquérez une position précieuse, reconnaissez la valeur la plus élevée et recevez un brillant honneur.",
+      "advice": "Un jour où vous brillerez comme un bijou ! Ne diminue pas ta propre valeur, salaud !"
+    },
+    {
+      "id": "wallet",
+      "label": "Rêve d'acheter un nouveau portefeuille ou de recevoir un cadeau",
+      "keywords": [
+        "Portefeuille",
+        "Nouveau portefeuille",
+        "Pince à billets",
+        "Portefeuille d'argent",
+        "Cadeau portefeuille",
+        "portefeuille"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 36,
+      "card_id": "silk_pouch",
+      "meaning": "Ouvrir un nouveau canal de revenus et améliorer considérablement les compétences en gestion financière",
+      "advice": "Les bénédictions arrivent dans un nouveau bol ! Organisez votre nouveau compte ou plan d'investissement!"
+    },
+    {
+      "id": "lottery",
+      "label": "Gagner à la loterie/le solde du compte bancaire s'envole",
+      "keywords": [
+        "Loterie",
+        "Loto",
+        "gagnant",
+        "Livret",
+        "Génial",
+        "loterie",
+        "gros lot"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "silk_pouch",
+      "meaning": "Un tournant majeur dans la vie, une chance inattendue et une importante prime de performance",
+      "advice": "Dieu de la chance vous sourit ! Ayez confiance dans tout ce que vous abordez aujourd’hui !"
+    },
+    {
+      "id": "new_clothes",
+      "label": "Rêve de porter de nouveaux vêtements",
+      "keywords": [
+        "Nouveaux vêtements",
+        "Vêtements",
+        "robe",
+        "costume",
+        "Porter de nouveaux vêtements",
+        "nouveaux vêtements"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 15,
+      "card_id": "lotus_lamp",
+      "meaning": "Nomination à de nouveaux postes, relations interpersonnelles améliorées et changements de statut attractifs",
+      "advice": "J'ai des ailes ! Si vous traitez les gens avec une attitude gentille, leur sympathie sera doublée !"
+    },
+    {
+      "id": "lost_shoes",
+      "label": "Rêve de perdre vos chaussures",
+      "keywords": [
+        "chaussure perdue",
+        "Chaussures perdues",
+        "Chaussures perdues",
+        "pieds nus",
+        "chaussures",
+        "chaussures perdues"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Friction temporaire avec une aide ou un lieu de travail sur lequel vous comptez, besoin d'indépendance",
+      "advice": "Ne comptez pas sur les autres, volez de vos propres ailes ! Croyez en vous et trouvez votre voie !"
+    },
+    {
+      "id": "new_shoes",
+      "label": "Rêve de porter de nouvelles chaussures",
+      "keywords": [
+        "nouvelles chaussures",
+        "Nouvelles chaussures",
+        "baskets",
+        "Cadeau de chaussures",
+        "Porter des chaussures",
+        "nouvelles chaussures"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "folding_fan",
+      "meaning": "Un nouveau départ, l'émergence d'un partenaire fiable et le début d'un voyage en douceur",
+      "advice": "Enfilez vos nouvelles chaussures et courez vigoureusement ! Le chemin à parcourir est solide !"
+    },
+    {
+      "id": "ring",
+      "label": "Rêve de porter une bague/un collier",
+      "keywords": [
+        "bague",
+        "collier",
+        "bague en or",
+        "Okgarakji",
+        "cadeau",
+        "bague",
+        "collier"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "jade_ring",
+      "meaning": "Alliance éternelle, rencontrer un partenaire pour la vie, construire une relation de confiance profonde",
+      "advice": "Le gage de promesse a été placé dans votre main ! Chérissez votre précieuse relation !"
+    },
+    {
+      "id": "bag",
+      "label": "Rêve de préparer un sac/un bagage",
+      "keywords": [
+        "sac",
+        "Botjim",
+        "Sac à dos",
+        "Transporteur",
+        "Emballage",
+        "sac",
+        "bagages"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 30,
+      "card_id": "silk_pouch",
+      "meaning": "Entreprendre une nouvelle mission, préparer son expansion à l'étranger et recevoir un riche ensemble de réalisations",
+      "advice": "L’opportunité se présente à ceux qui sont préparés ! Remplissez votre sac avec les connaissances et compétences nécessaires !"
+    },
+    {
+      "id": "key",
+      "label": "Rêve d'ouvrir une porte avec une clé",
+      "keywords": [
+        "clé",
+        "verrouiller",
+        "Ouvrez la porte",
+        "Rêve clé",
+        "Solution",
+        "clé"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "brass_bell",
+      "meaning": "Découvrir des solutions à des problèmes difficiles, franchir les passerelles bloquées et gagner en autorité",
+      "advice": "J'ai le passe-partout ! Ouvrez la porte fermée en toute confiance et sans hésitation !"
+    },
+    {
+      "id": "clock",
+      "label": "Horloge / Rêve de voir l'heure exacte",
+      "keywords": [
+        "horloge",
+        "temps",
+        "aiguilles de l'horloge",
+        "Alarme",
+        "Calendrier",
+        "horloge",
+        "temps"
+      ],
+      "fortune": "normal",
+      "lucky_number": 12,
+      "card_id": "inkstone",
+      "meaning": "L'avènement du temps doré, l'importance d'une planification et d'un timing précis",
+      "advice": "Le moment est venu ! Ne perdez pas de temps et prenez une décision au moment convenu !"
+    },
+    {
+      "id": "knife",
+      "label": "Rêve de couper quelque chose avec un couteau/des ciseaux",
+      "keywords": [
+        "couteau",
+        "Ciseaux",
+        "coupe",
+        "couteau de cuisine",
+        "Épée",
+        "couteau",
+        "ciseaux"
+      ],
+      "fortune": "normal",
+      "lucky_number": 47,
+      "card_id": "dokkaebi_club",
+      "meaning": "Déconnexion et décision audacieuses, régler les relations compliquées et prendre des décisions claires",
+      "advice": "Coupez vos regrets comme un couteau ! Vous devez être sûr de réussir et de défaire votre chance pour avoir de la chance !"
+    },
+    {
+      "id": "mirror",
+      "label": "Rêve de voir un reflet clair dans le miroir",
+      "keywords": [
+        "miroir",
+        "Regardez-vous dans le miroir",
+        "reflet du miroir",
+        "réflexion",
+        "Rêve miroir",
+        "miroir"
+      ],
+      "fortune": "normal",
+      "lucky_number": 18,
+      "card_id": "inkstone",
+      "meaning": "Réflexion sur soi, rencontre avec la vérité, réalisation profonde de soi-même",
+      "advice": "La réponse est dans le miroir ! Au lieu de blâmer les autres, regardez simplement dans votre cœur !"
+    },
+    {
+      "id": "gift",
+      "label": "Rêve de recevoir un cadeau inattendu",
+      "keywords": [
+        "cadeau",
+        "Recevez un cadeau",
+        "Coffret cadeau",
+        "Livraison",
+        "Cadeau",
+        "cadeau",
+        "présent"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 70,
+      "card_id": "silk_pouch",
+      "meaning": "Aide d'un noble, confession d'affection, récompense surprise, nouveau contrat",
+      "advice": "Exprimez d’abord votre gratitude ! Plus vous partagez les bénédictions que vous recevez, plus le cadeau sera grand !"
+    },
+    {
+      "id": "ancestor",
+      "label": "Ancêtres/parents décédés",
+      "keywords": [
+        "ancêtres",
+        "Ancêtre",
+        "Parents",
+        "personne décédée",
+        "grand-mère",
+        "Grand-père",
+        "ancêtre"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "mountain_spirit",
+      "meaning": "Protection spirituelle et révélation pour la famille, évasion de la crise et grande chance d'une vie",
+      "advice": "Nos ancêtres ont ouvert la voie ! Faites le bon choix avec un cœur divin !"
+    },
+    {
+      "id": "mountain_god",
+      "label": "Esprit de la montagne / Vieil homme aux cheveux blancs",
+      "keywords": [
+        "Esprit de montagne",
+        "Frais",
+        "Vieil homme aux cheveux blancs",
+        "Esprit",
+        "Taoïste",
+        "dieu de la montagne"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Acquérir la meilleure sagesse, apprendre les astuces pour résoudre les difficultés en même temps",
+      "advice": "Ce sont les enseignements du grand professeur ! Écoutez les conseils des seniors et des experts !"
+    },
+    {
+      "id": "dokkaebi",
+      "label": "Rencontre Gobelin/Kaebibul",
+      "keywords": [
+        "Gobelin",
+        "kkaebi",
+        "Esprit Gardien",
+        "Feu Follet",
+        "chauve-souris kkaebi",
+        "dokkaebi",
+        "gobelin"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Activation de la magie créative, un puissant cadeau porte-bonheur de la part de l'esprit gardien de l'appareil",
+      "advice": "Je suis sorti moi-même ! Tout peut être résolu d'un simple coup, alors ne vous inquiétez pas, souriez !"
+    },
+    {
+      "id": "ghost",
+      "label": "Rêve de rencontrer un fantôme/mauvais esprit",
+      "keywords": [
+        "fantôme",
+        "mauvais esprit",
+        "fantôme",
+        "monstre",
+        "Fantôme",
+        "fantôme"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "brass_bell",
+      "meaning": "Expression de stress psychologique et d'anxiété, besoin de retrouver la sérénité",
+      "advice": "Une illusion n’a pas de substance ! N'ayez pas peur, je vais tous les faire exploser avec la batte !"
+    },
+    {
+      "id": "saint",
+      "label": "Rêve de voir Bouddha / Jésus / Saint",
+      "keywords": [
+        "Bouddha",
+        "Jésus",
+        "Adulte",
+        "Vierge Marie",
+        "Bodhisattva",
+        "Dieu",
+        "sainte",
+        "Dieu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "lotus_lamp",
+      "meaning": "Miséricorde et salut extrêmes, toutes les difficultés de la vie se transforment en grâce",
+      "advice": "La Sainte Lumière vous entoure ! Une petite bonne action que vous faites aujourd’hui deviendra une bénédiction dix mille fois supérieure !"
+    },
+    {
+      "id": "angel",
+      "label": "Rêve de rencontrer un ange/une fée",
+      "keywords": [
+        "ange",
+        "Fée",
+        "ailes",
+        "Fée",
+        "Ciel",
+        "ange",
+        "fée"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "flower_fairy",
+      "meaning": "L'amour pur, la formation d'une relation noble, le summum de la sensibilité artistique",
+      "advice": "Votre esprit devient aussi clair que le ciel ! Confessez votre amour avec un cœur sincère !"
+    },
+    {
+      "id": "ritual",
+      "label": "Rêve d'accomplir un rite ancestral ou de prier",
+      "keywords": [
+        "rite ancestral",
+        "Prière",
+        "Culte",
+        "Table des matières",
+        "feux d'artifice",
+        "rituel",
+        "prière"
+      ],
+      "fortune": "normal",
+      "lucky_number": 50,
+      "card_id": "wooden_fish",
+      "meaning": "Gérer les crises par la transmission de vœux, la purification spirituelle et une attitude pieuse",
+      "advice": "Mon souhait sincère atteint le ciel ! Commencez votre journée sereinement, l'esprit ensemble !"
+    },
+    {
+      "id": "talisman",
+      "label": "Rêve d’utiliser ou de recevoir une amulette",
+      "keywords": [
+        "Amulette",
+        "Première Dame",
+        "Écriture",
+        "Calomnie",
+        "Département d'autodéfense",
+        "talisman"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "inkstone",
+      "meaning": "Former un puissant bouclier spirituel, bloquant la source de toute malchance",
+      "advice": "Le bouclier gobelin invincible a été frappé ! Aucun obstacle ne peut vous briser !"
+    },
+    {
+      "id": "coffin",
+      "label": "Rêve de voir ou d'entrer dans un cercueil (cadavre)",
+      "keywords": [
+        "cercueil",
+        "cadavre",
+        "Cadavre",
+        "Entrée",
+        "Cendres",
+        "cercueil",
+        "cadavre"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Mort complète et résurrection du passé, héritage et richesse énormes",
+      "advice": "L'ancien moi est mort et un nouveau moi est né ! Un énorme changement dans la vie commence !"
+    },
+    {
+      "id": "reaper",
+      "label": "Rêve de rencontrer la faucheuse",
+      "keywords": [
+        "Faucheuse",
+        "Lion",
+        "monde souterrain",
+        "Chasa",
+        "faucheuse",
+        "faucheuse"
+      ],
+      "fortune": "normal",
+      "lucky_number": 13,
+      "card_id": "shadow_walker",
+      "meaning": "Un moment de décision critique dans la vie, une opportunité de vérifier votre santé et de vous débarrasser des mauvaises habitudes",
+      "advice": "C’est un signal pour prendre conscience de l’importance du temps ! Assurez-vous de briser une mauvaise habitude aujourd’hui !"
+    },
+    {
+      "id": "flying",
+      "label": "Rêve de voler librement dans le ciel",
+      "keywords": [
+        "Ciel",
+        "Vol",
+        "voler",
+        "Lévitation",
+        "Voler dans le ciel",
+        "volant"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "wind_child",
+      "meaning": "Une trajectoire ascendante imparable, loin de l’esclavage et vers la liberté et la réussite.",
+      "advice": "Plus vous flottez longtemps dans les airs, plus votre champ de vision s’élargit ! Dessinez une vue d'ensemble aujourd'hui, kkaebi !"
+    },
+    {
+      "id": "falling",
+      "label": "Rêve de tomber d’une falaise ou dans les airs",
+      "keywords": [
+        "crash",
+        "Chute",
+        "Chute",
+        "falaise",
+        "Glisser",
+        "chute"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "brass_bell",
+      "meaning": "Peur de perdre son statut ou son contrôle, inspection de base recommandée",
+      "advice": "Ne fermez pas les yeux lorsque vous tombez ! Dès que vous trouvez un espace sur lequel marcher, vous rebondissez !"
+    },
+    {
+      "id": "chased",
+      "label": "Rêve d'être poursuivi par un monstre ou une bête sauvage",
+      "keywords": [
+        "pourchassé",
+        "Fuyez",
+        "chasser",
+        "Fuyez",
+        "Rêve d'être poursuivi",
+        "pourchassé",
+        "s'enfuir"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "shadow_walker",
+      "meaning": "Il est temps de faire face aux délais et à la pression, et non de s'enfuir",
+      "advice": "Plus vous fuyez, plus le monstre devient gros ! Arrêtez-vous et regardez comme un gobelin !"
+    },
+    {
+      "id": "dreaming",
+      "label": "Rêver encore dans un rêve",
+      "keywords": [
+        "Un rêve dans un rêve",
+        "rêve lucide",
+        "Rêve lucide",
+        "rêve rêve",
+        "double rêve",
+        "rêve en rêve"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "dream_eater",
+      "meaning": "Contemplation profonde de la réalité et des idéaux, exploration précise de l'inconscient",
+      "advice": "Ne vous laissez pas prendre dans le labyrinthe des pensées ! Secouez vos cheveux et faites une promenade légère dès aujourd'hui !"
+    },
+    {
+      "id": "cleaning",
+      "label": "Rêve de nettoyer proprement une maison ou une pièce",
+      "keywords": [
+        "Nettoyage",
+        "Résumé",
+        "nettoyage",
+        "aspirateur",
+        "Nettoyage des chambres",
+        "nettoyage"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "wooden_comb",
+      "meaning": "Soulager les vieux soucis, accueillir de nouveaux invités et bonne fortune",
+      "advice": "Les bénédictions résident dans des endroits purs ! Commencez par nettoyer votre bureau dès aujourd’hui !"
+    },
+    {
+      "id": "wedding",
+      "label": "Rêve d'assister ou d'avoir un mariage",
+      "keywords": [
+        "mariage",
+        "mariage",
+        "mariage",
+        "Marié",
+        "Mariée",
+        "mariage",
+        "mariage"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "jade_ring",
+      "meaning": "Signature d'un nouvel accord de partenariat et lancement d'un projet commun",
+      "advice": "Il est temps de se donner la main et de commencer ! Tenez strictement vos promesses envers votre partenaire !"
+    },
+    {
+      "id": "funeral",
+      "label": "Rêve de funérailles/bière",
+      "keywords": [
+        "Funérailles",
+        "Maison des Portraits",
+        "Bonus",
+        "Condoléances",
+        "Cérémonie funéraire",
+        "funérailles"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Une fin complète à la douleur passée, un énorme rebondissement et une aubaine",
+      "advice": "La douleur du passé est complètement terminée ! Mettez le vin nouveau dans une nouvelle bouteille et faites la fête !"
+    },
+    {
+      "id": "exam_pass",
+      "label": "Rêve de réussir l'examen en toute confiance",
+      "keywords": [
+        "Passé",
+        "J'ai réussi l'examen",
+        "élu",
+        "Entrée",
+        "Emploi",
+        "réussite à l'examen"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 100,
+      "card_id": "rooster",
+      "meaning": "La récompense parfaite pour un long travail acharné, l'obtention d'une qualification reconnue et des acclamations",
+      "advice": "Les gouttes de sueur se sont transformées en fruits dorés ! Félicitez-vous pour tout votre travail acharné !"
+    },
+    {
+      "id": "exam_fail",
+      "label": "Rêve d'échouer ou d'être en retard à un examen",
+      "keywords": [
+        "Échec",
+        "Examen échoué",
+        "En retard à l'examen",
+        "Échec",
+        "Retester",
+        "échec à l'examen"
+      ],
+      "fortune": "normal",
+      "lucky_number": 31,
+      "card_id": "inkstone",
+      "meaning": "Attention au perfectionnisme excessif, au besoin de détente et de révision dans la pratique",
+      "advice": "C’est plutôt comme se faire vacciner ! Détendez-vous et vérifiez encore une fois !"
+    },
+    {
+      "id": "fight",
+      "label": "Rêve de frapper et de se battre violemment",
+      "keywords": [
+        "combat",
+        "Combats",
+        "Combat à coups de poing",
+        "rêve de se battre",
+        "Bagarre",
+        "combat"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "dokkaebi_club",
+      "meaning": "Résoudre le conflit par une confrontation frontale, l'abandon complet de l'autre partie",
+      "advice": "Il faut entrer en collision sans esquiver pour gagner ! Déploie fièrement ma logique, kkaebi !"
+    },
+    {
+      "id": "murder",
+      "label": "Rêve de tuer ou d’exécuter quelqu’un",
+      "keywords": [
+        "meurtre",
+        "Tuer des gens",
+        "Punition",
+        "Maîtriser",
+        "meurtre",
+        "tuer",
+        "meurtre"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dokkaebi_club",
+      "meaning": "Éradication complète des obstacles de longue date, réalisation complète des souhaits de longue date et grande victoire",
+      "advice": "L'obstacle a été complètement éliminé ! C'est le moment de gagner sans problème !"
+    },
+    {
+      "id": "thief",
+      "label": "Rêve d'un voleur ou d'un voleur par effraction",
+      "keywords": [
+        "voleur",
+        "Voleur",
+        "Intrusion",
+        "Vol",
+        "vol",
+        "voleur",
+        "voleur"
+      ],
+      "fortune": "normal",
+      "lucky_number": 38,
+      "card_id": "brass_bell",
+      "meaning": "Contrôles de sécurité requis, protection de la propriété intellectuelle ou des idées précieuses",
+      "advice": "Je protège mon trésor ! Changez votre mot de passe et vérifiez votre sécurité !"
+    },
+    {
+      "id": "police",
+      "label": "Rêve de rencontrer la police ou de faire l'objet d'une enquête",
+      "keywords": [
+        "police",
+        "Policier",
+        "Enquête",
+        "Arrêté",
+        "poste de police",
+        "police"
+      ],
+      "fortune": "normal",
+      "lucky_number": 11,
+      "card_id": "inkstone",
+      "meaning": "Assurer la sécurité du respect des réglementations, de l'inspection des documents et de l'examen fiscal/juridique",
+      "advice": "Si vous suivez les principes, il n’y a rien à craindre ! Assurez-vous que vos documents sont parfaitement conformes à la réglementation !"
+    },
+    {
+      "id": "lost_way",
+      "label": "Rêve de se perdre et d'errer",
+      "keywords": [
+        "Perdu",
+        "Mia",
+        "Errant",
+        "Errant",
+        "Carrefour",
+        "chemin perdu"
+      ],
+      "fortune": "normal",
+      "lucky_number": 44,
+      "card_id": "brass_bell",
+      "meaning": "Signal de réinitialisation de l'objectif, temps de pause et de vérification de la boussole",
+      "advice": "Quand on ne connaît pas le chemin, le plus rapide est de s'arrêter ! Revenez au début et vérifiez vos objectifs !"
+    },
+    {
+      "id": "moving_house",
+      "label": "Rêve de déménager dans une nouvelle maison ou de construire une maison",
+      "keywords": [
+        "Directeur",
+        "Maison neuve",
+        "Construire une maison",
+        "Architecture",
+        "Emménager",
+        "déménagement",
+        "nouvelle maison"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 65,
+      "card_id": "folding_fan",
+      "meaning": "Amélioration révolutionnaire de l'environnement, expansion des sites commerciaux et création d'une fondation pour une grande fortune",
+      "advice": "Votre nouvelle maison est pleine de bénédictions ! Prenons un nouveau départ dans un nouvel environnement !"
+    },
+    {
+      "id": "eating",
+      "label": "Rêve de manger un délicieux festin",
+      "keywords": [
+        "Rêve de manger",
+        "repas",
+        "Un somptueux festin",
+        "Alimentation",
+        "Dîner",
+        "manger",
+        "festin"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "tea_bowl",
+      "meaning": "Abondance et satisfaction matérielles, interactions agréables avec les invités de bienvenue",
+      "advice": "Une journée pour remplir votre corps et votre esprit de nutriments ! Partageons ensemble de délicieux plats !"
+    },
+    {
+      "id": "flower",
+      "label": "Fleurs et champs de fleurs en pleine floraison",
+      "keywords": [
+        "fleur",
+        "champ de fleurs",
+        "Floraison",
+        "Bouquets",
+        "Jardin fleuri",
+        "fleur",
+        "fleur"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "flower_fairy",
+      "meaning": "Pleine floraison de renommée et de popularité, chance en amour, fruit artistique",
+      "advice": "Les fleurs sont en pleine floraison ! Montrez fièrement vos beaux résultats au monde !"
+    },
+    {
+      "id": "rice_cake",
+      "label": "Gâteau de riz chaud et riz moelleux",
+      "keywords": [
+        "gâteau de riz",
+        "Bob",
+        "Sirutdeok",
+        "Injeolmi",
+        "Riz",
+        "gâteau de riz",
+        "riz"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "silk_pouch",
+      "meaning": "Abondance et festins à la maison, alimentation fiable et prospérité",
+      "advice": "Boktteok arrive ! Mangez bien et avancez avec force !"
+    },
+    {
+      "id": "fruit",
+      "label": "Pommes / pêches / fruits délicieusement mûrs",
+      "keywords": [
+        "fruits",
+        "pomme",
+        "Pêche",
+        "Kaki",
+        "Raisins",
+        "fruits",
+        "fruits",
+        "pomme",
+        "pêche"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 76,
+      "card_id": "lotus_lamp",
+      "meaning": "Rêve prénatal, fruit de l'amour, revenus fructueux et longévité",
+      "advice": "Il est temps de récolter les fruits mûrs ! Soyez fier de vos efforts jusqu’à présent !"
+    },
+    {
+      "id": "big_tree",
+      "label": "Grands arbres et forêts denses",
+      "keywords": [
+        "arbre",
+        "Grand arbre",
+        "vieil arbre",
+        "forêt",
+        "forêt",
+        "arbre",
+        "forêt"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 92,
+      "card_id": "mountain_spirit",
+      "meaning": "Cultiver une personne qui deviendra un immense pilier, une prospérité permanente et de l'ombre pour la famille",
+      "advice": "Un arbre aux racines profondes n’est pas ébranlé par le vent ! Restez fort et gardez votre centre de gravité !"
+    },
+    {
+      "id": "meat_dish",
+      "label": "Un rêve de se voir servir un plat de viande généreux",
+      "keywords": [
+        "viande",
+        "BBQ",
+        "Bulgogi",
+        "Côtes levées",
+        "viande",
+        "viande",
+        "barbecue"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 64,
+      "card_id": "tea_bowl",
+      "meaning": "Récupérez votre énergie, recevez l'hospitalité et le soutien total d'une personne riche",
+      "advice": "Mon énergie monte en flèche ! Mangez bien et surmontez les choses que vous avez reportées, kkaebi !"
+    },
+    {
+      "id": "drinking",
+      "label": "Rêve de boire et de griller",
+      "keywords": [
+        "alcool",
+        "Boire",
+        "Bravo",
+        "bière",
+        "vin",
+        "Soju",
+        "boire",
+        "pain grillé"
+      ],
+      "fortune": "normal",
+      "lucky_number": 45,
+      "card_id": "tea_bowl",
+      "meaning": "Une agréable combinaison de relations humaines, mais attention aux insultes ivres ou à la consommation excessive d'alcool",
+      "advice": "Buvez joyeusement, mais restez prudent ! Ne perdez pas votre sérieux au milieu de la gaieté !"
+    },
+    {
+      "id": "rotten_food",
+      "label": "Rêve de voir de la nourriture avariée ou des fruits pourris",
+      "keywords": [
+        "nourriture avariée",
+        "fruits pourris",
+        "Corruption",
+        "Intoxication alimentaire",
+        "nourriture pourrie",
+        "nourriture pourrie"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 14,
+      "card_id": "brass_bell",
+      "meaning": "Méfiez-vous de la confiance aveugle dans les opportunités expirées et les informations obsolètes",
+      "advice": "Jetez tout ce qui n’est pas frais ! Ne vous accrochez pas aux vieilles idées et recherchez de nouveaux produits !"
+    },
+    {
+      "id": "planting_seeds",
+      "label": "Un rêve de planter des graines dans un champ et de faire germer des pousses",
+      "keywords": [
+        "graines",
+        "Semis",
+        "Germer",
+        "Plantation",
+        "semis",
+        "planter des graines",
+        "germer"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 28,
+      "card_id": "cloud_pillow",
+      "meaning": "Le début d'un grand investissement pour l'avenir, la germination d'un nouvel espoir",
+      "advice": "Une petite graine devient un immense arbre ! Une petite habitude que vous plantez aujourd’hui va changer votre vie !"
+    },
+    {
+      "id": "ginseng",
+      "label": "Rêve de déterrer des champignons sauvages ginseng/reishi",
+      "keywords": [
+        "Ginseng sauvage",
+        "Ginseng",
+        "Champignon Reishi",
+        "Je l'ai vu",
+        "phytothérapie",
+        "ginseng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "mountain_spirit",
+      "meaning": "Je l'ai essayé ! Le meilleur médicament rempli de chance céleste, d'un grand rêve et de l'acquisition d'un trésor à vie",
+      "advice": "Je ne peux m'empêcher de crier que je l'ai essayé ! Ne manquez pas cette opportunité offerte par le ciel, saisissez-la !"
+    },
+    {
+      "id": "wind",
+      "label": "Vent frais / typhon",
+      "keywords": [
+        "vent",
+        "Typhon",
+        "coup de vent",
+        "brise",
+        "vent fort",
+        "vent",
+        "typhon"
+      ],
+      "fortune": "normal",
+      "lucky_number": 37,
+      "card_id": "wind_child",
+      "meaning": "Une nouvelle vague de changement, le renouvellement de l'ancien système et Lee Dong-su",
+      "advice": "Si vous chevauchez le vent, vous volez plus loin ! N'ayez pas peur du changement, suivez le courant !"
+    },
+    {
+      "id": "door",
+      "label": "Nouvelle porte / gardien",
+      "keywords": [
+        "porte",
+        "porte principale",
+        "Quitter",
+        "Entrée",
+        "Gardien",
+        "porte",
+        "portail"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "dokkaebi_club",
+      "meaning": "La porte vers de nouvelles opportunités est grande ouverte, entrant dans un nouveau monde",
+      "advice": "N’hésitez plus et franchissez le seuil ! Une scène vous attend derrière la porte !"
+    },
+    {
+      "id": "missed_bus",
+      "label": "Rêve de rater le bus ou le train",
+      "keywords": [
+        "J'ai raté le bus",
+        "J'ai raté le train",
+        "mademoiselle",
+        "Dernier train",
+        "Echec de l'embarquement",
+        "bus manqué"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Anxiété de perdre des opportunités, besoin de gérer un horaire flexible",
+      "advice": "La prochaine voiture viendra certainement ! Ne soyez pas impatient et attendez au prochain arrêt !"
+    },
+    {
+      "id": "airplane",
+      "label": "Rêve de voler haut dans un avion",
+      "keywords": [
+        "avion",
+        "Embarquement",
+        "Décollage",
+        "Aéronautique",
+        "Ciel",
+        "avion",
+        "vol"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "wind_child",
+      "meaning": "Augmentation rapide du statut, avancement dans les affaires à l'étranger et réalisation réussie d'énormes projets",
+      "advice": "Prêt pour le décollage ! Attachez votre ceinture de sécurité et envolez-vous vers une altitude plus élevée !"
+    },
+    {
+      "id": "car_driving",
+      "label": "Vous rêvez de conduire vous-même une belle voiture",
+      "keywords": [
+        "Conduite",
+        "voiture",
+        "Conduire",
+        "Supercar",
+        "En cours d'exécution",
+        "conduite",
+        "voiture"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Prenez le contrôle de votre vie et gérez votre entreprise sans interruption",
+      "advice": "La poignée est entre vos mains ! N'appuyez pas sur les freins, appuyez dessus froidement !"
+    },
+    {
+      "id": "car_accident",
+      "label": "Rêve d'un accident de voiture ou d'un accident de voiture",
+      "keywords": [
+        "accident de la route",
+        "accident de voiture",
+        "Collision",
+        "crash",
+        "Accident de voiture",
+        "accident de voiture"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 32,
+      "card_id": "brass_bell",
+      "meaning": "Méfiez-vous des désaccords soudains, de la vertu du céder et de la conduite défensive",
+      "advice": "Assurez-vous de vous arrêter au feu jaune aujourd'hui ! Donner un pas est le secret pour garder dix longueurs d’avance !"
+    },
+    {
+      "id": "ship",
+      "label": "Rêve de monter sur une immense croisière/un grand navire",
+      "keywords": [
+        "navire",
+        "Bateau de croisière",
+        "Croisière",
+        "Voile",
+        "navire",
+        "navire",
+        "croisière"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 74,
+      "card_id": "water_sprite",
+      "meaning": "Lancement d'une organisation d'envergure, voyage au long cours inébranlable et grand succès",
+      "advice": "Partez avec un vent favorable ! Ramez vigoureusement en harmonie avec vos collègues !"
+    },
+    {
+      "id": "bicycle",
+      "label": "Rêve de faire du vélo/moto",
+      "keywords": [
+        "vélo",
+        "moto",
+        "vélo",
+        "Pédale",
+        "Équitation",
+        "vélo",
+        "vélo"
+      ],
+      "fortune": "normal",
+      "lucky_number": 25,
+      "card_id": "wind_child",
+      "meaning": "Mobilité agile, maintenir le sens de l'équilibre et avancer dans la vie quotidienne",
+      "advice": "Il faut trouver un équilibre pour avancer ! Ne vous penchez pas à gauche ou à droite, restez centré !"
+    },
+    {
+      "id": "elevator",
+      "label": "Rêve d'un ascenseur qui monte à grande vitesse",
+      "keywords": [
+        "Ascenseur",
+        "Ascenseur",
+        "en hausse",
+        "Montée à grande vitesse",
+        "ascenseur",
+        "ascenseur"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "sun_messenger",
+      "meaning": "Super promotion avec ascension verticale, montez à une position haute en un instant",
+      "advice": "J'ai appuyé sur le bouton de l'ascenseur ! Lorsque la porte s'ouvre, accueillez le monde d'en haut !"
+    },
+    {
+      "id": "stairs",
+      "label": "Rêve de monter les escaliers un à un",
+      "keywords": [
+        "escaliers",
+        "Monter les escaliers",
+        "en hausse",
+        "escaliers",
+        "marches en pierre",
+        "escaliers"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 63,
+      "card_id": "mountain_spirit",
+      "meaning": "Succès étape par étape, promotion régulière basée sur de solides compétences",
+      "advice": "Chaque étape dépend de vous ! Ne perdez pas pied et montez en silence !"
+    },
+    {
+      "id": "bridge",
+      "label": "Rêve de traverser un pont solide",
+      "keywords": [
+        "jambes",
+        "pont",
+        "traverser le pont",
+        "Passage supérieur",
+        "pont de pierre",
+        "pont"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 46,
+      "card_id": "star_weaver",
+      "meaning": "Une transition sûre vers une nouvelle étape de la vie, un lien pacifique avec le conflit",
+      "advice": "Vous avez traversé la rivière, ne regardez pas en arrière ! Un nouveau territoire se dévoile sous vos yeux !"
+    },
+    {
+      "id": "tunnel",
+      "label": "Rêve de sortir d'un tunnel sombre",
+      "keywords": [
+        "tunnel",
+        "Passer le tunnel",
+        "Échapper aux ténèbres",
+        "lumière",
+        "Fin du tunnel",
+        "tunnel"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 51,
+      "card_id": "lotus_lamp",
+      "meaning": "Une fin complète aux âges sombres, un soleil éblouissant vous saluant à la sortie",
+      "advice": "Il y a une lumière brillante au bout du tunnel ! Maintenant, les épreuves sont terminées et le bonheur commence !"
+    },
+    {
+      "id": "laughing",
+      "label": "Rêve de tenir son nombril et de rire aux éclats",
+      "keywords": [
+        "Mdr",
+        "Rire",
+        "Si fort et fort",
+        "Paan Daeso",
+        "Rêve de sourire",
+        "rire"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Une agréable explosion d'énergie bloquée, un grand événement de bon augure qui résonnera dans toute la maison",
+      "advice": "C'est vrai que le rire porte chance ! Souriez vivement à tous ceux que vous rencontrez aujourd'hui, kkaebi !"
+    },
+    {
+      "id": "sleep_paralysis",
+      "label": "Rêve d'être pressé par des ciseaux ou que votre corps devienne raide",
+      "keywords": [
+        "Ciseaux pressés",
+        "Durcissement du corps",
+        "paralysie",
+        "cauchemar",
+        "Mouvement du corps",
+        "paralysie du sommeil"
+      ],
+      "fortune": "normal",
+      "lucky_number": 33,
+      "card_id": "brass_bell",
+      "meaning": "Une fatigue excessive accumulée, un sommeil suffisant et un repos thermique sont nécessaires de toute urgence",
+      "advice": "Mon corps crie ! Éteignez votre smartphone ce soir et dormez bien !"
+    },
+    {
+      "id": "anger",
+      "label": "Rêve d'être violemment en colère et de crier",
+      "keywords": [
+        "colère",
+        "Crier",
+        "en colère",
+        "explosion",
+        "indignation",
+        "colère",
+        "criant"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Expression juste des émotions réprimées, détermination à faire preuve de leadership",
+      "advice": "N’avalez pas votre colère, mais exprimez-la avec sagesse ! Il est temps pour vous d'être ferme !"
+    },
+    {
+      "id": "ecstasy",
+      "label": "Extase indescriptible et paix profonde",
+      "keywords": [
+        "Extase",
+        "paix",
+        "Joie",
+        "paradis",
+        "Joie",
+        "extase",
+        "bonheur"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "cloud_pillow",
+      "meaning": "L'épanouissement complet de l'âme, le summum de la plus grande fortune et grâce de la vie",
+      "advice": "Toutes les bénédictions de l’univers se déversent sur vous ! Profitez de ce bonheur de tout votre cœur !"
+    },
+    {
+      "id": "kkaebi_bat",
+      "label": "Un rêve de tenir une chauve-souris kkaebi dans sa main",
+      "keywords": [
+        "chauve-souris kkaebi",
+        "Chauve-souris gobeline",
+        "Sortez avec de l'or",
+        "baguette magique",
+        "chauve-souris",
+        "club de magie"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Sortez avec de l'or ! Le summum de la créativité où tout devient réalité lorsque vous appuyez sur",
+      "advice": "Dites ce que vous voulez à voix haute ! Je vais te frapper avec une batte et faire en sorte que tout se réalise !"
+    },
+    {
+      "id": "kkaebi_hat",
+      "label": "Un rêve d'utiliser un gamtu gobelin",
+      "keywords": [
+        "Gobelin Gamtu",
+        "chapeau transparent",
+        "Gamtu",
+        "Furtif",
+        "chapeau de gobelin",
+        "chapeau magique"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Liberté du regard des ennemis, capacité de dominer secrètement la tendance",
+      "advice": "Pas besoin de vous soucier de ce que pensent les autres ! Tranquillement et secrètement, occupe-toi de tous les détails pratiques, salaud !"
+    },
+    {
+      "id": "lucky_pouch",
+      "label": "Rêve d'ouvrir un sac porte-bonheur doré",
+      "keywords": [
+        "Sac porte-bonheur",
+        "Sac porte-bonheur doré",
+        "pochette en soie",
+        "Bokdon",
+        "Sac au trésor",
+        "pochette porte-bonheur"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Une richesse qui ne sèche jamais comme un pot de fleurs, une fortune familiale qui se transmettra de génération en génération",
+      "advice": "Votre poche est pleine de chance ! La générosité que vous donnez aujourd’hui vous reviendra doublement !"
+    },
+    {
+      "id": "magic_broom",
+      "label": "Rêve d'écrire avec un mystérieux balai doré",
+      "keywords": [
+        "Balai",
+        "Balai doré",
+        "Balai gobelin",
+        "balayage",
+        "balai de nettoyage",
+        "balai magique"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 68,
+      "card_id": "wooden_comb",
+      "meaning": "Une purification magique qui balaie la malchance et attire l'or.",
+      "advice": "Éliminez toutes les mauvaises choses et ne récupérez que la bonne fortune ! Aérez l'air de votre maison !"
+    },
+    {
+      "id": "dragon_jewel",
+      "label": "Un rêve d'embrasser la perle du dragon (perle de dragon)",
+      "keywords": [
+        "Yeouiju",
+        "Perle de dragon",
+        "Yonguiyeouiju",
+        "perles",
+        "Le meilleur au monde",
+        "orbe de dragon"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dragon",
+      "meaning": "Obtenir le meilleur orbe qui gouvernera le monde, un grand rêve où votre souhait se réalisera à 100%",
+      "advice": "Le meilleur Yeouiju du monde est dans vos bras ! Il n’y a aucun rêve qui ne puisse être réalisé !"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "morning": {
+    "name": "Mañana",
+    "emoji": "🌅",
+    "meaning_axis": "Nuevos comienzos y saltos audaces",
+    "description": "Al salir el sol, momento de reiniciar lo que estaba detenido"
+  },
+  "noon": {
+    "name": "Mediodía",
+    "emoji": "☀️",
+    "meaning_axis": "Expansión de lazos y encuentro con un benefactor",
+    "description": "Bajo la luz más cálida, momento de conectar y abrir el corazón"
+  },
+  "evening": {
+    "name": "Tarde",
+    "emoji": "🌇",
+    "meaning_axis": "Conclusión y serena reflexión",
+    "description": "Al caer el atardecer, momento de cosechar frutos y pulir detalles"
+  },
+  "night": {
+    "name": "Noche",
+    "emoji": "🌙",
+    "meaning_axis": "Introspección y crecimiento sereno",
+    "description": "En la quietud, momento de calmar los estímulos y nutrir el alma"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "topics": [
+    {
+      "id": "kkaebi_touch",
+      "chip_title": "✨ Veux-tu toucher Kkaebi ?",
+      "user_question": "Kkaebi, puis-je toucher tes cornes et ton ventre ? Révèle-moi aussi tes secrets cachés !",
+      "req_level": 2,
+      "steps": [
+        "Aha ! Comment oses-tu chatouiller les cornes et le ventre d’un Dokkaebi millénaire ? Ça me chatouille... mais ta main est si douce et chaleureuse. Très bien ! Aujourd’hui, je vais te révéler les secrets fabuleux de Kkaebi un par un !",
+        "Premier conseil ! As-tu touché mon personnage 3D sur l’écran d’accueil ? Selon mon humeur, je te salue, je danse et j’illumine ta journée !",
+        "Deuxième conseil spécial ! Notre lien a atteint le niveau {affinity_title} (Niv. {affinity_lv}) ! Me caresser et échanger avec moi chaque jour fait grimper vite notre affinité, débloquant des bonus de présence et des discussions plus profondes ! Veux-tu voir tes avantages dès maintenant ?",
+        "Troisième secret caché ! Si tu me touches 12 fois d’affilée... ma massue magique résonnera et une belle surprise apparaîtra ! Mais attention, ne me pique pas trop fort !",
+        "Quatrième conseil avisé ! Ne compare jamais les apparences éclatantes des autres à ton monde intérieur ! La scène de ta vie t’appartient et tu en es l’unique héros !",
+        "Cinquième conseil ! Tu te sens vidé de ton énergie et épuisé ? Alors repose-toi aujourd’hui sans le moindre remords ! Le repos serein est le plus précieux des trésors.",
+        "Sixième secret ! Quand tu n’as envie de rien faire, compte simplement les lignes au plafond. Parfois, faire le vide complet permet d’accueillir la meilleure solution.",
+        "Septième conseil ! Tu crains de t’être trompé de route et tout semble sombre ? Les jours de grand brouillard, même les oiseaux replient leurs ailes en attendant le soleil. Ton printemps arrivera en son temps !",
+        "Huitième secret de Kkaebi ! Une angoisse te pèse sur le cœur ? Écris-la sur un morceau de papier et déchire-le en mille morceaux. Tes tracas s’envoleront avec les débris !",
+        "Neuvième mystère céleste ! La bête divine protectrice que tu as tirée ce(tte) {time_greeting} est 「{card_name}」 ! Du matin jusqu’à la nuit, les conseils de Kkaebi s’ajustent en temps réel ! Partage aussi ta fortune #{number} avec tes êtres chers !",
+        "Dixième et dernier secret ! Celui qui sourit chaque jour attire la fortune sans même la chercher. Si tu souris maintenant... ma massue magique bénit déjà ta journée ! Que le bonheur fleurisse !"
+      ]
+    },
+    {
+      "id": "kkaebi_lore",
+      "chip_title": "📖 Légendes de Kkaebi & Boussole du Destin",
+      "user_question": "Kkaebi, raconte-moi tes contes millénaires et les mystères de la Boussole du Destin !",
+      "req_level": 2,
+      "steps": [
+        "Oh merveille ! Un compagnon au lien si profond est venu m’écouter ! Je me suis réveillé il y a mille ans d’un vieux balai et d’un ancien totem protecteur. Depuis, je veille sur le cœur des humains comme un gobelin bienveillant.",
+        "Pour ne pas se perdre sur l’océan de la vie, il faut un phare de sagesse ! Chaque matin, la 'Citation du Jour' éclaire ton esprit et guide tes choix avec justesse.",
+        "Le corps et l’esprit connaissent de perpétuelles marées. Le biorythme 🧬 conjugue trois cycles : Physique (P), Émotionnel (E) et Intellectuel (I). En cas de coup de mou, consulte ta courbe pour comprendre ton propre rythme !",
+        "Et mon atelier secret 🔑 'Forge des Clés Dorées (KeyBox)' ! Crée des mots de passe robustes et inviolables pour tes coffres en associant dates et prénoms. Une protection assurée par la magie du Dokkaebi !",
+        "Hahaha ! Et que dis-tu de ceci ? L’expédition secrète dans les cavernes antiques ! Évite pièges et monstres dans le labyrinthe souterrain pour retrouver des trésors oubliés.",
+        "Le secret de la Grande Encyclopédie de 99 espèces ! Collectionne 33 Bêtes Divines fastes, 33 Divinités Ancestrales et 33 Talismans protecteurs pour bâtir ton sanctuaire de félicité.",
+        "Telle est la légende céleste qui appelle la fortune et repousse les mauvais sorts ! Accompagne Kkaebi chaque jour et écrivons ensemble une grande épopée !"
+      ]
+    },
+    {
+      "id": "utility_mastery",
+      "chip_title": "🧰 Boîte à Outils Maîtrisée à 200%",
+      "user_question": "Kkaebi, montre-moi comment utiliser la Boîte à Outils à 200% de son potentiel !",
+      "req_level": 2,
+      "steps": [
+        "Premier conseil malin ! 📝 Le 'Bloc-notes Intelligent' s’ouvre en une seconde pour griffonner en plein écran toute idée lumineuse avant qu’elle ne s’envole.",
+        "Deuxième conseil malin ! 🎨 La 'Toile de Dessin' propose 5 pinceaux et 8 couleurs vives pour esquisser tes pensées, gribouiller et enregistrer tes créations dans la galerie.",
+        "Troisième conseil malin ! 🪞 Le 'Miroir Intelligent' dispose d’une vue inversée et d’un anneau lumineux pour vérifier ton allure dans la pénombre, tandis que la 🔍 'Loupe de Poche' grossit les petits caractères avec sa torche.",
+        "Quatrième conseil malin ! 🧮 La 'Calculatrice 9 en 1' gère le partage d’addition entre amis, le calcul des jours ouvrés, le compte à rebours d’examens et la conversion de pourboires en un clin d’œil.",
+        "Cinquième conseil malin ! 🎵 Le 'Laboratoire Sonore' diffuse des sons naturels apaisants (pluie, vagues, forêt) en haute fidélité avec minuteur de sommeil pour t’endormir paisiblement.",
+        "Sixième conseil d’or ! Tu peux épingler tes outils préférés dans les 📌 'Raccourcis Rapides' en haut de l’écran principal pour y accéder immédiatement.",
+        "Hahaha ! Plus de dix instruments indispensables rassemblés dans la sacoche du Dokkaebi ! Sers-t’en en toute sérénité dès que le besoin s’en fait sentir !"
+      ]
+    },
+    {
+      "id": "quiz_riddle_mastery",
+      "chip_title": "⚡ Piste d’Énigmes & Arène de Quiz",
+      "user_question": "Kkaebi, donne-moi tes astuces pour triompher aux énigmes et au quiz !",
+      "req_level": 2,
+      "steps": [
+        "As-tu tenté de résoudre les ❓ 'Énigmes de Kkaebi' ? Des questions pleines d’esprit et d’humour qui déclenchent le rire et aiguisent ton intelligence.",
+        "Le palpitant ⚡ 'Quiz de Survie' ! Lors d’une course rapide de 10 questions de culture générale, enchaîne les combos parfaits pour inscrire ton nom au Panthéon des champions.",
+        "Et une fonction encore plus sensationnelle ! L’⚔️ 'Arène de Quiz Personnalisée', où tu crées toi-même des questions pour défier tes amis, ta famille ou ton âme sœur avec des codes secrets.",
+        "Besoin d’étudier ? Profite du pack de 500 mots essentiels et du 'Cahier de Révision des Erreurs' pour consolider tes connaissances sans stress.",
+        "Même les Dokkaebis s’inclinent devant ceux qui exercent leur esprit chaque jour ! Relève le défi aujourd’hui et décroche la couronne du quiz !"
+      ]
+    },
+    {
+      "id": "timelab_tally_secret",
+      "chip_title": "⏱️ Secrets de TimeLab & Compteur Tally",
+      "user_question": "Kkaebi, comment utiliser au mieux le minuteur de concentration et le compteur ?",
+      "req_level": 2,
+      "steps": [
+        "Qui maîtrise le temps règne sur le monde ! Mon TimeLab cinématique et le compteur Tally sont tes meilleurs alliés pour l’immersion et le suivi au quotidien.",
+        "Pour étudier ou travailler, active le minuteur Pomodoro : 25 minutes de concentration intense + 5 minutes de pause. Il enchaîne automatiquement les étapes au son de doux carillons !",
+        "Pour les séries sportives ou les tâches séquentielles, le ⛓️ 'Minuteur en Chaîne' assure la continuité de ta routine sans que tu aies besoin de toucher l’écran.",
+        "Pour compter les répétitions d’exercice, les prières ou les passages dans ton café, le 🔢 'Cliqueur Tally' te permet d’incrémenter d’une seule main avec retour vibratoire.",
+        "Du chronomètre précis à la nanoseconde jusqu’au relevé des temps au tour, repousse tes limites dans le laboratoire du temps !"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "chip_title": "💰 Économie de Kkaebi & Pièces Magiques",
+      "user_question": "Kkaebi, donne-moi des astuces pour amasser des pièces magiques et bien les dépenser !",
+      "req_level": 2,
+      "steps": [
+        "Je vais te dévoiler les 5 règles d’or pour récolter les pièces magiques du village de Kkaebi ! Économise avec finesse et deviens aussi fortuné qu’un Dokkaebi !",
+        "Premièrement : ouvre l’application chaque jour pour ton premier tirage et tamponne ta présence ! Tu es déjà venu me voir {streak} jours d’affilée ! Ta fidélité multiplie les gains.",
+        "Deuxièmement : réussis la 🎓 'Leçon Quotidienne' d’une minute pour remporter +50 pièces, +15 EXP d’affinité et de précieuses clés bonus.",
+        "Troisièmement : donne les bonnes réponses dans le ⚡ Quiz et résous les énigmes pour décrocher de belles bourses de pièces.",
+        "Quatrièmement : amuse-toi dans la 🕹️ 'Salle d’Arcade de Kkaebi' avec jeux de tir spatial, casse-briques, tetris, tir à bulles et démineur hexagonal pour engranger des pièces supplémentaires.",
+        "Cinquièmement : avec tes pièces patiemment économisées (tu as {coins} pièces dans ta bourse !), procure-toi dans la 🛒 'Boutique' 18 'Talismans Protecteurs' pour la prospérité, les examens et l’amour."
+      ]
+    },
+    {
+      "id": "lucky_numbers",
+      "chip_title": "🔢 Combinaison & Sauvegarde des Numéros Fétiches",
+      "user_question": "Kkaebi, montre-moi comment générer et enregistrer mes numéros fétiches aujourd’hui !",
+      "req_level": 2,
+      "steps": [
+        "Les numéros fétiches sont un clin d’œil complice aux énergies du cosmos, non une vérité absolue. Mais ils mettent sans conteste de la joie dans le cœur !",
+        "Ouvre le 'Générateur de Chiffres' dans le KeyBox pour marier date de naissance, prénom et énergie en une harmonieuse série de 6 numéros.",
+        "Tu peux choisir des préréglages sacrés comme les Quatre Bêtes Divines pour obtenir des tirages uniques sans le moindre doublon.",
+        "Enregistre tes séries préférées avec des étiquettes personnalisées, comme 'Numéros de cette semaine', pour les retrouver en un clin d’œil.",
+        "Une fois tes numéros choisis, partage-les sous forme de cartes illustrées porte-bonheur avec tes proches ! Les chiffres sont un jeu ; c’est toi qui illumines chaque jour ! 🔑"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Ouf ! J’ai révélé tellement de secrets célestes aujourd’hui que ma vie de gobelin a raccourci de 5 ans ! L’heure est venue de regagner mon chaudron ! Demande-moi autre chose ! 💨",
+    "Si j’ajoute un mot de plus, un éclair du ciel fendra mes cornes ! La bourse de sagesse de Kkaebi est en rupture de stock pour aujourd’hui ! Sors et passe une merveilleuse journée !",
+    "J’ai bavardé avec tant d’enthousiasme que mes cornes en ont attrapé des crampes ! La consultation divinatoire est terminée pour aujourd’hui ! Dors bien et reviens demain avec une nouvelle clé 🌙"
+  ],
+  "weekly_openers": {
+    "kkaebi_touch": [
+      "Hahaha ! Tu vises encore mes cornes !",
+      "Réglons la fréquence de l’antenne du Dokkaebi :",
+      "La potion de sagesse d’un Dokkaebi millénaire...",
+      "Redresse les épaules et écoute les secrets célestes :",
+      "Le monde s’est-il montré rude avec toi aujourd’hui ?",
+      "C’est l’heure d’éprouver la magie de la massue :",
+      "Secoue les amertumes du passé et souris à la vie :"
+    ],
+    "kkaebi_lore": [
+      "Un secret enfoui depuis mille ans...",
+      "Réservé uniquement aux êtres au lien privilégié :",
+      "Et si nous réveillions les légendes de la Vallée de Kkaebi ?",
+      "Je te confie une légende ancestrale rien qu’à toi :",
+      "Curieux de découvrir la véritable âme de la clé dorée ?",
+      "Cette histoire, je ne la raconte pas au premier venu :",
+      "Si ton cœur est prêt, tends bien l’oreille :"
+    ],
+    "utility_mastery": [
+      "Ouvrons la boîte à outils aux mille merveilles :",
+      "Le moment est venu de sortir notre arme secrète :",
+      "La sacoche d’outils du gobelin ne déçoit jamais :",
+      "Des pouvoirs magiques pour simplifier ton quotidien :",
+      "Calculatrice, miroir, loupe... que te faut-il aujourd’hui ?",
+      "Des secrets pour exploiter ta boîte à outils à 200% :",
+      "Les portes de l’arsenal du gobelin sont grandes ouvertes !"
+    ],
+    "quiz_riddle_mastery": [
+      "C’est l’heure de faire briller tes neurones :",
+      "Et si nous résolvions une énigme millénaire ?",
+      "Le champ de bataille de la sagesse est ouvert !",
+      "L’étincelle vive du quiz de survie :",
+      "Affûtons notre esprit avec des jeux de mots :",
+      "Plonge dans l’océan de la culture générale !",
+      "J’aperçois déjà l’éclat doré de la bonne réponse !"
+    ],
+    "timelab_tally_secret": [
+      "Qui maîtrise le temps s’empare du monde :",
+      "Ouvre les portes du TimeLab cinématique :",
+      "L’instant est venu d’activer le charme de concentration :",
+      "Tic-tac, le grand mystère de chaque nanoseconde :",
+      "Un, deux, trois... comptons d’un pas tranquille :",
+      "Respire profondément et rassemble ton attention :",
+      "Glisse dans le flot de l’immersion absolue :"
+    ],
+    "coin_economy_mastery": [
+      "Ouvrons la bourse aux pièces enchantées :",
+      "Que l’or et l’argent jaillissent d’un coup de baguette !",
+      "Je vais te guider sur le chemin de l’abondance :",
+      "Le trésor secret du Dokkaebi est dévoilé !",
+      "Les petits ruisseaux font les grandes rivières :",
+      "La gestion avisée des pièces magiques du gobelin :",
+      "Économise avec soin et dépense avec sagesse :"
+    ],
+    "lucky_numbers": [
+      "C’est l’heure de façonner tes numéros de chance :",
+      "Captons l’énergie céleste en chiffres harmonieux :",
+      "Composons ensemble tes numéros fétiches du jour :",
+      "Mêlons date et prénom pour attirer la fortune :",
+      "Tire ta propre série de numéros protecteurs :",
+      "Six chiffres fétiches créés pour le plaisir :",
+      "Choisis la chance que tu offriras à ceux que tu aimes :"
+    ]
+  }
+}

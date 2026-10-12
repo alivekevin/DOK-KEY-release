@@ -1,0 +1,176 @@
+{
+  "topics": [
+    {
+      "id": "kkaebi_touch",
+      "chip_title": "✨ Bạn muốn chạm vào Kkaebi không?",
+      "user_question": "Kkaebi ơi, ta có thể chạm vào sừng và bụng của bạn một chút không? Hãy chia sẻ bí mật với ta nhé!",
+      "req_level": 2,
+      "steps": [
+        "Ái chà! Dám cả gan chọc vào sừng và bụng của yêu tinh Dokkaebi ngàn năm tuổi sao! Nhột quá đi... nhưng bàn tay bạn ấm áp thật đấy. Được rồi! Hôm nay ta sẽ hé lộ bí quyết Dokkaebi đặc biệt dành riêng cho bạn!",
+        "Mẹo đầu tiên! Bạn đã chạm vào mô hình 3D của ta trên màn hình chính chưa? Tùy theo tâm trạng, ta sẽ chào hỏi, nhảy múa và làm sáng bừng tâm hồn bạn đấy!",
+        "Mẹo đặc biệt thứ hai! Hiện mối duyên của chúng ta đang ở mức {affinity_title} (Cấp {affinity_lv}) rồi đấy! Vuốt ve và trò chuyện với ta mỗi ngày sẽ giúp độ thân mật tăng vùn vụt, nhận thêm tiền thưởng điểm danh và mở khóa tâm sự sâu sắc! Bạn muốn xem quyền lợi chi tiết ngay không?",
+        "Bí mật thứ ba ẩn giấu! Nếu bạn chạm vào ta 12 lần liên tiếp... chiếc gậy thần Dokkaebi sẽ rung lên và điều kỳ diệu sẽ xuất hiện đấy! Nhưng đừng chọc mạnh tay quá nhé!",
+        "Lời khuyên thứ tư sâu sắc! Đừng bao giờ so sánh vẻ hào nhoáng bên ngoài của người khác với nội tâm của chính mình! Sân khấu cuộc đời là của bạn và bạn chính là nhân vật chính tuyệt vời nhất!",
+        "Lời khuyên thứ năm! Bạn cảm thấy kiệt sức và năng lượng cạn kiệt sao? Vậy thì hôm nay hãy nghỉ ngơi thật thoải mái mà không phải áy náy nhé! Sự nghỉ ngơi tĩnh lặng cũng là món quà quý giá nhất.",
+        "Bí quyết thứ sáu! Khi chẳng muốn làm bất cứ điều gì, bạn cứ nằm đếm những đường vân trên trần nhà. Đôi khi buông lỏng tâm trí hoàn toàn lại mở ra đáp án sáng suốt nhất.",
+        "Lời khuyên thứ bảy! Bạn lo lắng mình đi sai đường và tương lai mịt mờ sao? Vào những ngày sương mù giăng kín, ngay cả chim trời cũng khép cánh chờ mặt trời mọc. Mùa xuân tươi đẹp của bạn nhất định sẽ tới!",
+        "Bí quyết thứ tám của Kkaebi! Nếu có nỗi muộn phiền đè nặng trong lòng, hãy viết nó ra một mảnh giấy rồi xé tan thành từng mảnh nhỏ. Muộn phiền sẽ tan biến theo từng mảnh vụn ấy!",
+        "Bí mật thiên cơ thứ chín! Thần thú hộ mệnh mà bạn rút được trong {time_greeting} này là 「{card_name}」 đấy! Từ sáng sớm đến đêm khuya, lời khuyên của Kkaebi luôn thay đổi theo thời gian thực! Hãy chia sẻ vận may #{number} với bạn bè thân thương nữa nhé!",
+        "Bí quyết thứ mười và cũng là cuối cùng! Người hay cười mỗi ngày sẽ tự nhiên thu hút tài lộc gõ cửa. Nếu bây giờ bạn nở nụ cười thật tươi... chiếc gậy thần của ta đã ban phước lành cho ngày mới của bạn rồi đấy! Phúc lộc dồi dào nhé!"
+      ]
+    },
+    {
+      "id": "kkaebi_lore",
+      "chip_title": "📖 Truyền Thuyết Kkaebi & La Bàn Số Phận",
+      "user_question": "Kkaebi ơi, hãy kể cho ta nghe về truyền thuyết nghìn năm và bí quyết La Bàn Số Phận nhé!",
+      "req_level": 2,
+      "steps": [
+        "Ồ tuyệt quá! Người bạn tri kỷ có mối duyên sâu sắc đã ghé thăm ta rồi! Ngày xửa ngày xưa, ta thức tỉnh từ chiếc chổi cũ và cột mốc hộ mệnh cổ xưa. Suốt nghìn năm qua, ta luôn che chở cho tâm hồn con người như một vị thần Dokkaebi nhân hậu.",
+        "Để không lạc lối giữa đại dương cuộc đời, bạn cần một ngọn hải đăng trí tuệ! Mỗi buổi sáng, 'Danh Ngôn Hôm Nay' sẽ soi sáng tâm hồn và mang lại sự sáng suốt cho mọi quyết định của bạn.",
+        "Thể xác và tâm trí con người luôn nhấp nhô như sóng biển. Nhịp sinh học 🧬 kết hợp ba chu kỳ Thể chất (P), Cảm xúc (E) và Trí tuệ (I). Khi thấy mỏi mệt, hãy nhìn biểu đồ để thấu hiểu nhịp điệu của chính mình nhé!",
+        "Và kho báu bí mật của ta 🔑 'Xưởng Đúc Chìa Khóa Vàng (KeyBox)'! Tạo mật khẩu kiên cố không thể phá vỡ cho khóa cửa hay két sắt bằng cách phối hợp ngày tháng và tên gọi. An toàn tuyệt đối nhờ phép thuật Dokkaebi!",
+        "Haha! Còn điều này thì sao? Chuyến thám hiểm hang động cổ xưa bí mật! Tránh né cạm bẫy và quái vật trong mê cung lòng đất để thu thập kho báu và di vật ngàn năm.",
+        "Bí mật của Đại Bách Khoa 99 loài linh thiêng! Sưu tầm 33 Thần Thú cát tường, 33 Thần Thần cổ xưa và 33 Bùa Hộ Mệnh quý giá để xây dựng thánh địa may mắn của riêng bạn.",
+        "Đây chính là truyền thuyết thiên cơ mang lại phước lành và xua tan vận rủi! Hãy đồng hành cùng Kkaebi mỗi ngày để cùng nhau viết nên trang huyền thoại rực rỡ nhé!"
+      ]
+    },
+    {
+      "id": "utility_mastery",
+      "chip_title": "🧰 Hộp Công Cụ Đa Năng 200%",
+      "user_question": "Kkaebi ơi, hãy chỉ cho ta cách sử dụng Hộp Công Cụ thông minh đạt hiệu quả 200% nhé!",
+      "req_level": 2,
+      "steps": [
+        "Mẹo hay thứ nhất! 📝 'Ghi Chú Thông Minh' mở ra chỉ trong 1 giây để bạn ghi lại nguồn cảm hứng bất chợt toàn màn hình mà không sợ quên mất.",
+        "Mẹo hay thứ hai! 🎨 'Bảng Vẽ Sáng Tạo' với 5 loại cọ và 8 màu sắc rực rỡ giúp bạn phác thảo ý tưởng, vẽ nguệch ngoạc và lưu ngay vào album ảnh.",
+        "Mẹo hay thứ ba! 🪞 'Gương Thông Minh' có chế độ lật ngược và đèn trợ sáng để bạn soi rõ trong bóng tối, trong khi 🔍 'Kính Lúp Bỏ Túi' phóng to chữ nhỏ với đèn pin tiện lợi.",
+        "Mẹo hay thứ tư! 🧮 'Máy Tính 9 Trong 1' hỗ trợ chia tiền sòng phẳng khi đi ăn cùng bạn bè, tính ngày nghỉ, đếm ngược ngày thi và đổi tiền boa chỉ với một chạm.",
+        "Mẹo hay thứ năm! 🎵 'Phòng Âm Thanh Thư Giãn' sở hữu trình phát âm thanh chất lượng cao với tiếng mưa, tiếng sóng, tiếng rừng cùng hẹn giờ tắt để bạn ngủ ngon.",
+        "Mẹo đặc biệt thứ sáu! Bạn có thể ghim các công cụ hay dùng lên 📌 'Thanh Phím Tắt' ở đầu màn hình chính để mở ra ngay tức thì.",
+        "Haha! Hơn mười công cụ hữu ích tề tựu trong túi thần kỳ của Dokkaebi! Bất cứ lúc nào cần, bạn cứ lấy ra sử dụng thoải mái nhé!"
+      ]
+    },
+    {
+      "id": "quiz_riddle_mastery",
+      "chip_title": "⚡ Đấu Trường Đố Vui & Mẹo Giải Câu Đố",
+      "user_question": "Kkaebi ơi, hãy chia sẻ bí quyết giải câu đố và giật giải quán quân đố vui nhé!",
+      "req_level": 2,
+      "steps": [
+        "Bạn đã thử giải ❓ 'Câu Đố Dân Gian' kỳ thú của Dokkaebi chưa? Những câu hỏi hóm hỉnh, bất ngờ sẽ mang lại tiếng cười sảng khoái và rèn luyện trí tuệ sắc bén.",
+        "⚡ 'Đố Vui Sinh Tồn' nghẹt thở! Trong cuộc đua tốc độ 10 câu hỏi kiến thức đời sống, duy trì chuỗi combo điểm tối đa để vinh danh trên Bảng Vàng nhé.",
+        "Và tính năng tuyệt vời hơn nữa! ⚔️ 'Đấu Trường Đố Tự Tạo', nơi bạn tự ra đề để thách đố bạn bè, gia đình hoặc người thương bằng mật mã riêng biệt.",
+        "Cần ôn tập bài vở? Hãy tận dụng gói từ vựng 500 từ cốt lõi và 'Sổ Tay Ôn Tập Câu Sai' để nắm vững kiến thức một cách nhẹ nhàng.",
+        "Đến cả Dokkaebi cũng phải khâm phục những ai siêng năng rèn luyện trí não mỗi ngày! Hãy tham gia thử thách hôm nay và trở thành nhà vô địch đố vui nhé!"
+      ]
+    },
+    {
+      "id": "timelab_tally_secret",
+      "chip_title": "⏱️ Bí Quyết TimeLab & Bộ Đếm Tally",
+      "user_question": "Kkaebi ơi, làm sao để dùng đồng hồ tập trung và bộ đếm hiệu quả nhất?",
+      "req_level": 2,
+      "steps": [
+        "Người làm chủ thời gian sẽ làm chủ cuộc đời! TimeLab điện ảnh và bộ đếm Tally của ta là trợ thủ đắc lực nhất giúp bạn tập trung và ghi chép từng khoảnh khắc.",
+        "Khi học tập hay làm việc, hãy bật đồng hồ Pomodoro: 25 phút tập trung cao độ + 5 phút nghỉ ngơi. Hệ thống sẽ tự động chuyển giai đoạn kèm tiếng chuông êm dịu!",
+        "Khi tập luyện theo hiệp hoặc làm việc nhiều bước, ⛓️ 'Đồng Hồ Chuỗi' sẽ giúp quy trình diễn ra liên tục mà bạn không cần chạm vào màn hình.",
+        "Khi cần đếm số lần tập gym, lần niệm kinh cầu nguyện hay lượng khách ghé quán, 🔢 'Nút Đếm Tally' cho phép bạn bấm bằng một tay với phản hồi rung tiện lợi.",
+        "Từ đồng hồ bấm giờ chuẩn xác đến từng nano giây cho đến ghi lại từng vòng thời gian, hãy bứt phá giới hạn của bản thân tại phòng nghiên cứu thời gian!"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "chip_title": "💰 Kinh Tế Dokkaebi & Cách Tích Lũy Tiền Vàng",
+      "user_question": "Kkaebi ơi, hãy mách ta mẹo kiếm tiền vàng và cách tiêu dùng khôn ngoan nhé!",
+      "req_level": 2,
+      "steps": [
+        "Ta sẽ bật mí cho bạn 5 bí quyết chắc chắn nhất để thu thập tiền vàng ma thuật tại làng Dokkaebi! Tiết kiệm chăm chỉ để trở thành phú ông Dokkaebi nào!",
+        "Thứ nhất: mở ứng dụng mỗi ngày để rút quẻ đầu tiên và điểm danh! Bạn đã ghé thăm ta liên tục suốt {streak} ngày rồi đấy! Chuỗi ngày chăm chỉ sẽ nhân đôi phần thưởng.",
+        "Thứ hai: hoàn thành 🎓 'Bài Học Hàng Ngày' 1 phút để nhận +50 tiền vàng, +15 điểm thân mật và chìa khóa thưởng phong phú.",
+        "Thứ ba: trả lời đúng trong ⚡ Đố Vui và giải câu đố hóc búa để rinh về những túi tiền vàng đầy ắp.",
+        "Thứ tư: giải trí tại 🕹️ 'Khu Trò Chơi Kkaebi' với bắn phi thuyền, đập gạch, xếp khối gạch, bắn bóng và dò mìn lục giác để kiếm thêm tiền rủng rỉnh.",
+        "Thứ năm: với số tiền vàng dành dụm được (trong túi bạn hiện có {coins} tiền vàng đấy!), ghé thăm 🛒 'Cửa Hàng' để mua 18 'Bùa Hộ Mệnh' cầu tài lộc, thi cử và tình duyên."
+      ]
+    },
+    {
+      "id": "lucky_numbers",
+      "chip_title": "🔢 Phối Hợp & Lưu Trữ Số May Mắn",
+      "user_question": "Kkaebi ơi, hãy chỉ cho ta cách phối hợp và lưu lại những con số may mắn hôm nay!",
+      "req_level": 2,
+      "steps": [
+        "Con số may mắn là trò chơi vui vẻ mượn linh khí đất trời, không phải chân lý bất biến. Nhưng chắc chắn nó sẽ mang lại niềm hứng khởi rộn ràng cho bạn!",
+        "Mở 'Trình Tạo Số' trong KeyBox để kết hợp ngày sinh, họ tên và vận khí của bạn thành một tổ hợp 6 con số hài hòa tuyệt đẹp.",
+        "Bạn có thể chọn cài đặt sẵn như Tứ Đại Thần Thú để tạo ra các bộ số độc nhất vô nhị không hề trùng lặp.",
+        "Lưu lại tổ hợp ưng ý với nhãn tên riêng biệt, ví dụ như 'Số may mắn tuần này', để dễ dàng tra cứu bất cứ khi nào bạn muốn.",
+        "Sau khi chọn xong, hãy chia sẻ hình ảnh may mắn ấy cho người thân thương nhé. Những con số là niềm vui nho nhỏ; còn ngày mới tỏa sáng là nhờ chính bạn tạo ra! 🔑"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Ối chà! Hôm nay tiết lộ thiên cơ nhiều quá khiến tuổi thọ Dokkaebi của ta giảm mất 5 năm rồi! Đến lúc ta phải chui lại vào nồi gang đây! Hỏi chuyện khác đi nhé! 💨",
+    "Nếu nói thêm câu nào nữa, sét trên trời sẽ đánh trúng sừng của ta mất! Túi trí khôn Kkaebi hôm nay đã cháy hàng rồi! Hãy ra ngoài và tận hưởng một ngày tuyệt vời nhé!",
+    "Tâm sự với bạn hào hứng quá khiến sừng của ta suýt nữa bị chuột rút rồi đây! Tư vấn vận may hôm nay xin khép lại! Ngủ ngon và ngày mai mang chìa khóa mới đến nhé 🌙"
+  ],
+  "weekly_openers": {
+    "kkaebi_touch": [
+      "Khà khà! Lại nhắm vào sừng của ta nữa rồi!",
+      "Cùng bắt tần số ăng-ten của thần Dokkaebi nào!",
+      "Đơn thuốc trí tuệ nghìn năm của Kkaebi đây:",
+      "Hãy ưỡn thẳng vai và lắng nghe bí mật thiên cơ:",
+      "Hôm nay thế giới có làm bạn thấy mệt mỏi không?",
+      "Đến lúc nếm thử phép màu gậy Dokkaebi rồi đây:",
+      "Hãy rũ bỏ những đắng cay và nở nụ cười thật tươi:"
+    ],
+    "kkaebi_lore": [
+      "Bí mật được chôn giấu suốt một nghìn năm...",
+      "Chỉ dành riêng cho người tri kỷ có duyên sâu nặng:",
+      "Chúng ta cùng lật lại huyền thoại Thung Lũng Dokkaebi nhé?",
+      "Ta sẽ kể truyền thuyết xa xưa chỉ cho riêng bạn nghe:",
+      "Bạn tò mò về linh hồn thực sự của chiếc chìa khóa vàng sao?",
+      "Câu chuyện này ta không kể cho bất kỳ ai đâu đấy:",
+      "Nếu trái tim bạn đã sẵn sàng, hãy lắng tai nghe nhé:"
+    ],
+    "utility_mastery": [
+      "Mở túi đồ nghề của hộp công cụ đa năng nào:",
+      "Đến lúc rút vũ khí bí mật ra rồi đây:",
+      "Hộp đồ nghề của Dokkaebi lúc nào cũng đáng tin cậy:",
+      "Phép thần thông giúp cuộc sống thường ngày tiện lợi hơn:",
+      "Máy tính, gương soi, kính lúp... bạn cần món gì hôm nay?",
+      "Bí quyết tận dụng 200% hiệu năng hộp công cụ:",
+      "Cánh cửa kho vũ khí Dokkaebi đã mở ra rồi!"
+    ],
+    "quiz_riddle_mastery": [
+      "Đến lúc giúp bộ não bừng sáng rồi đây:",
+      "Cùng giải câu đố hóc búa ngàn năm tuổi nhé?",
+      "Đấu trường so tài trí tuệ đã khai mở!",
+      "Tia lửa tốc độ của cuộc thi đố vui sinh tồn:",
+      "Cùng tôi luyện sự sắc bén với trò chơi chữ nhé?",
+      "Hãy nhảy vào đại dương kiến thức phong phú!",
+      "Ta đã nhìn thấy ánh sáng hoàng kim của câu trả lời đúng!"
+    ],
+    "timelab_tally_secret": [
+      "Người làm chủ thời gian sẽ làm chủ thiên hạ:",
+      "Mở cánh cửa của phòng thí nghiệm TimeLab điện ảnh:",
+      "Đến lúc kích hoạt phép màu tập trung cao độ:",
+      "Tích tắc tích tắc, bí mật của từng nano giây:",
+      "Một hai ba, cùng đếm nhịp điệu nào:",
+      "Hít một hơi thật sâu và điều hòa nhịp thở tập trung:",
+      "Bước vào dòng chảy của sự tập trung trọn vẹn:"
+    ],
+    "coin_economy_mastery": [
+      "Mở gói tiền vàng may mắn ra xem nào:",
+      "Vàng tuôn ra nào, bạc tuôn ra nào, biến hóa!",
+      "Ta sẽ chỉ cho bạn con đường trở nên giàu có:",
+      "Kho báu bí mật của thần Dokkaebi đã mở ra!",
+      "Góp gió thành bão, tích tiểu thành đại mà:",
+      "Kinh tế học tiền vàng tiết kiệm và thông thái:",
+      "Tích lũy khôn ngoan và chi tiêu sáng suốt nhé:"
+    ],
+    "lucky_numbers": [
+      "Đến lúc nhào nặn những con số may mắn rồi:",
+      "Cùng đón linh khí trời xanh vào từng con số:",
+      "Ta phối hợp số may mắn hôm nay cho bạn nhé?",
+      "Hòa quyện ngày tháng và họ tên để tạo số đại cát:",
+      "Rút ra bộ số hộ mệnh của riêng bạn nào:",
+      "Sáu con số may mắn được tạo ra để vui vẻ:",
+      "Chọn vận may ngọt ngào để sẻ chia với người thân thương:"
+    ]
+  }
+}

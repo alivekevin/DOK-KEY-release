@@ -1,0 +1,176 @@
+{
+  "topics": [
+    {
+      "id": "kkaebi_touch",
+      "chip_title": "✨ Quer tocar no Kkaebi?",
+      "user_question": "Kkaebi, posso tocar nos seus chifres e na sua barriguinha? Compartilhe seus segredos comigo!",
+      "req_level": 2,
+      "steps": [
+        "Ora essa! Como ousa cutucar os chifres e a barriga de um duende milenar? Faz cócegas... mas seu toque é bem quentinho. Está bem! Hoje vou revelar segredos especiais do Kkaebi só para você!",
+        "Primeira dica! Você já tocou no meu mascote 3D na tela inicial? Conforme meu humor, eu cumprimento, danço e alegro o seu dia!",
+        "Segunda dica especial! Nosso laço está no nível {affinity_title} (Nv.{affinity_lv})! Fazer carinho e conversar comigo todo dia aumenta rápido a afinidade, garantindo mais moedas de presença e conversas profundas! Quer ver seus benefícios agora?",
+        "Terceiro segredo oculto! Se me cutucar 12 vezes seguidas... meu bastão mágico de duende vai vibrar e uma surpresa vai acontecer! Mas não cutuque forte demais!",
+        "Quarta dica sábia! Nunca compare as aparências brilhantes dos outros com o seu interior! O palco da sua vida é só seu e você é a grande estrela!",
+        "Quinta dica! Sentiu que a energia acabou e bateu o cansaço? Então descanse hoje sem culpa! O repouso sereno também é a maior das dádivas.",
+        "Sexto segredo! Quando não tiver vontade de fazer nada, apenas conte as linhas do teto. Às vezes, esvaziar a mente por completo abre espaço para a melhor resposta.",
+        "Sétimo conselho! Tem medo de estar no caminho errado ou o futuro parece escuro? Em dias de neblina, até os pássaros recolhem as asas e esperam o sol. Sua primavera vai chegar!",
+        "Oitavo segredo do Kkaebi! Tem alguma angústia apertando o peito? Escreva num pedaço de papel e rasgue em mil pedaços. Suas preocupações vão se desfazer com ele!",
+        "Nono mistério celestial! A criatura guardiã que você tirou neste(a) {time_greeting} é 「{card_name}」. Da manhã à noite, meus conselhos se adaptam em tempo real! Compartilhe sua sorte #{number} com amigos queridos!",
+        "Décimo e último segredo! Quem sorri todo dia atrai fartura sem nem perceber. Se você sorrir agora mesmo... meu bastão mágico já estará abençoando o seu dia! Que venha a sorte!"
+      ]
+    },
+    {
+      "id": "kkaebi_lore",
+      "chip_title": "📖 Lendas do Kkaebi e a Bússola do Destino",
+      "user_question": "Kkaebi, conte-me sobre suas lendas milenares e os segredos da Bússola do Destino!",
+      "req_level": 2,
+      "steps": [
+        "Ora, ora! Um companheiro de laços tão profundos veio me escutar! Despertei há mil anos de uma velha vassoura e de um antigo totem guardião. Desde então, venho protegendo os corações humanos como um duende amigo.",
+        "Para não se perder no mar da vida, é preciso um farol de sabedoria! Todo dia, a 'Frase do Dia' ilumina seu espírito e traz clareza para suas decisões.",
+        "O corpo e a mente vivem em constantes marés. O biorritmo 🧬 combina os três ciclos: Físico (P), Emocional (E) e Intelectual (I). Se o desânimo bater, veja seu gráfico e entenda seu próprio tempo!",
+        "E meu depósito secreto 🔑 'Oficina de Chaves Douradas (KeyBox)'! Crie senhas fortes e inquebráveis para suas trancas e cofres misturando datas e nomes. Segurança protegida com magia de duende!",
+        "Hahaha! E que tal isso? A expedição secreta às cavernas ancestrais! Desvie de armadilhas e criaturas no labirinto subterrâneo para resgatar tesouros perdidos.",
+        "O segredo da Grande Enciclopédia de 99 espécies! Colecione 33 Feras Divinas auspiciosas, 33 Divindades Ancestrais e 33 Talismãs protetores para forjar seu próprio santuário de sorte.",
+        "Esta é a lenda celestial que atrai bênçãos e afasta o azar! Acompanhe o Kkaebi dia a dia e vamos construir uma grande história juntos!"
+      ]
+    },
+    {
+      "id": "utility_mastery",
+      "chip_title": "🧰 Caixa de Ferramentas ao Máximo (200%)",
+      "user_question": "Kkaebi, como uso a Caixa de Ferramentas com 200% de inteligência?",
+      "req_level": 2,
+      "steps": [
+        "Primeiro truque! 📝 O 'Bloco de Notas Inteligente' abre em um segundo para você anotar inspirações relâmpago em tela cheia sem perder a linha.",
+        "Segundo truque! 🎨 O 'Quadro de Desenho' tem 5 pincéis e 8 cores vivas para você rascunhar ideias, fazer rabiscos e salvar direto na galeria.",
+        "Terceiro truque! 🪞 O 'Espelho Inteligente' tem modo invertido e luz de led para retocar o visual no escuro, enquanto a 🔍 'Lupa de Bolso' amplia letras miúdas com lanterna.",
+        "Quarto truque! 🧮 A 'Calculadora 9 em 1' inclui divisão de contas entre amigos, dias úteis, contagem regressiva para provas e conversão de gorjetas em um toque.",
+        "Quinto truque! 🎵 O 'Laboratório de Sons' oferece áudio de alta fidelidade com sons da natureza (chuva, floresta, ondas) e temporizador para dormir relaxado.",
+        "Sexto truque especial! Você pode fixar suas ferramentas favoritas nos 📌 'Atalhos Rápidos' no topo da tela inicial para acessá-las num instante.",
+        "Hahaha! Mais de dez ferramentas reunidas na maleta do duende! Use sempre que precisar com total tranquilidade!"
+      ]
+    },
+    {
+      "id": "quiz_riddle_mastery",
+      "chip_title": "⚡ Pista de Charadas e Arena de Quiz",
+      "user_question": "Kkaebi, ensine-me os truques para vencer nas charadas e no quiz!",
+      "req_level": 2,
+      "steps": [
+        "Você já experimentou as ❓ 'Charadas do Kkaebi'? Perguntas espirituosas e bem-humoradas que arrancam gargalhadas e afiam seu raciocínio na hora.",
+        "O eletrizante ⚡ 'Quiz de Sobrevivência'! Numa corrida rápida de 10 perguntas de conhecimentos gerais, emende combos perfeitos para gravar seu nome no Hall da Fama.",
+        "E um recurso ainda mais incrível! A ⚔️ 'Arena de Quiz Personalizada', onde você mesmo cria perguntas para desafiar amigos, família ou parceiro com códigos secretos.",
+        "Precisa estudar? Use o pacote semente com 500 palavras essenciais e o 'Caderno de Revisão de Erros' para dominar matérias sem complicação.",
+        "Até os duendes tiram o chapéu para quem exercita a mente todo dia! Aceite o desafio hoje e torne-se o campeão do quiz!"
+      ]
+    },
+    {
+      "id": "timelab_tally_secret",
+      "chip_title": "⏱️ Segredos do TimeLab e Contador Tally",
+      "user_question": "Kkaebi, como usar com eficácia o temporizador de foco e o contador?",
+      "req_level": 2,
+      "steps": [
+        "Quem domina o tempo conquista o mundo! Meu TimeLab cinematográfico e o contador Tally são seus melhores parceiros para foco e registro diário.",
+        "Para estudar ou trabalhar, use o temporizador Pomodoro: 25 minutos de foco total + 5 minutos de pausa. Ele alterna as etapas automaticamente com sinos serenos!",
+        "Para séries de treino ou tarefas em etapas, o ⛓️ 'Temporizador em Cadeia' faz a transição entre blocos sem você precisar encostar na tela.",
+        "Para contar repetições na academia, orações ou fluxo de clientes na sua loja, o 🔢 'Clicador Tally' permite somar com uma mão só e resposta tátil.",
+        "Do cronômetro com precisão de nanossegundos à gravação de voltas, supere seus próprios limites no laboratório do tempo!"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "chip_title": "💰 Economia do Kkaebi e Moedas Mágicas",
+      "user_question": "Kkaebi, dê-me dicas para juntar moedas mágicas e usá-las bem!",
+      "req_level": 2,
+      "steps": [
+        "Vou te ensinar as 5 regras de ouro para juntar moedas mágicas na aldeia do Kkaebi! Economize com inteligência e fique próspero como um duende!",
+        "Primeiro: abra o app todo dia para sua tirada e carimbe a presença! Você já me visitou por {streak} dias seguidos! Sua sequência multiplica os prêmios.",
+        "Segundo: complete a 🎓 'Lição Diária' de 1 minuto para ganhar +50 moedas, +15 EXP de afinidade e chaves bônus.",
+        "Terceiro: acerte respostas no ⚡ Quiz e resolva charadas para encher seus bolsos com fartas recompensas de moedas.",
+        "Quarto: divirta-se no 🕹️ 'Fliperama do Kkaebi' com jogos de nave, quebra-blocos, encaixe de peças, estoura-bolhas e campo minado hexagonal para faturar moedas extras.",
+        "Quinto: com as moedas acumuladas (você tem {coins} moedas no bolso agora!), adquira na 🛒 'Loja' 18 'Talismãs Guardiões' para prosperidade, estudos e amor."
+      ]
+    },
+    {
+      "id": "lucky_numbers",
+      "chip_title": "🔢 Combinação e Salvamento de Números da Sorte",
+      "user_question": "Kkaebi, ensine-me a gerar e guardar meus números da sorte de hoje!",
+      "req_level": 2,
+      "steps": [
+        "Números da sorte são uma brincadeira divertida com as energias do universo, não uma certeza absoluta. Mas com certeza animam o dia!",
+        "Abra o 'Gerador de Números' no KeyBox para misturar sua data de nascimento, nome e energia numa sequência de 6 números harmoniosos.",
+        "Você pode escolher predefinições como as Quatro Feras Divinas para gerar conjuntos exclusivos sem números repetidos.",
+        "Guarde suas combinações favoritas com etiquetas personalizadas, como 'Números desta semana', para consultar sempre que quiser.",
+        "Depois de gerar, compartilhe com pessoas queridas em forma de cartão de sorte! Números são diversão; o brilho do dia é você quem faz! 🔑"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Ufa! Falei tantos segredos celestiais hoje que sinto minha vida de duende encurtar 5 anos! Hora de voltar para o caldeirão! Pergunte outra coisa! 💨",
+    "Se eu falar mais uma palavra, um raio do céu vai acertar meus chifres! A sabedoria do Kkaebi por hoje esgotou! Vá agora e aproveite um grande dia!",
+    "Conversei tão animado com você que meus chifres até tiveram cãibra! Atendimento de sorte encerrado por hoje! Durma bem e volte amanhã com uma nova chave 🌙"
+  ],
+  "weekly_openers": {
+    "kkaebi_touch": [
+      "Hahaha! Mirando nos meus chifres de novo!",
+      "Vamos sintonizar a frequência da antena do duende?",
+      "A receita de sabedoria de um duende milenar...",
+      "Endireite a postura e escute os segredos celestiais:",
+      "O mundo pesou sobre os seus ombros hoje?",
+      "Hora de provar o toque do bastão do duende:",
+      "Sacuda os dissabores da vida e dê a volta por cima:"
+    ],
+    "kkaebi_lore": [
+      "Um segredo guardado a sete chaves por mil anos...",
+      "Concedido apenas a quem compartilha um laço profundo:",
+      "Vamos desenterrar as velhas lendas do Vale do Kkaebi?",
+      "Vou contar uma lenda ancestral só para você:",
+      "Ficou curioso sobre a verdadeira essência da chave dourada?",
+      "Esta história eu não conto para qualquer um, sabe?",
+      "Se o seu coração estiver pronto, apure os ouvidos:"
+    ],
+    "utility_mastery": [
+      "Vamos abrir a caixa de ferramentas do duende:",
+      "Hora de puxar a nossa carta na manga:",
+      "A maleta de ferramentas do duende nunca falha:",
+      "Poderes místicos para facilitar a sua rotina:",
+      "Calculadora, espelho, lupa... do que precisa hoje?",
+      "Segredos para aproveitar 200% da sua caixa de ferramentas:",
+      "Os portões do arsenal do duende estão abertos!"
+    ],
+    "quiz_riddle_mastery": [
+      "Hora de fazer o cérebro brilhar:",
+      "Vamos decifrar uma charada de mil anos?",
+      "O tabuleiro do duelo de sabedoria está montado!",
+      "A centelha veloz do quiz de sobrevivência:",
+      "Que tal afiar o raciocínio com jogos de palavras?",
+      "Mergulhe no oceano do conhecimento geral!",
+      "Já consigo ver o brilho dourado da resposta certa!"
+    ],
+    "timelab_tally_secret": [
+      "Quem domina o tempo conquista o mundo:",
+      "Abra as portas do TimeLab cinematográfico:",
+      "Hora de ativar a magia da concentração plena:",
+      "Tique-taque, o mistério de cada nanossegundo:",
+      "Um, dois, três... vamos contar com calma:",
+      "Respire fundo e concentre a sua atenção:",
+      "Entre no fluxo da imersão absoluta:"
+    ],
+    "coin_economy_mastery": [
+      "Vamos abrir a sacola de moedas mágicas:",
+      "Brota ouro, brota prata com um toque de mágica!",
+      "Vou te mostrar o caminho da prosperidade:",
+      "O tesouro secreto do duende foi aberto!",
+      "De grão em grão a galinha enche o papo, não é?",
+      "A sábia economia das moedas do duende:",
+      "Junte com inteligência e gaste com sabedoria:"
+    ],
+    "lucky_numbers": [
+      "Hora de moldar seus números da sorte:",
+      "Vamos capturar a energia do céu em números:",
+      "Que tal combinarmos seus números de sorte de hoje?",
+      "Misture data e nome para atrair boas vibrações:",
+      "Escolha seus próprios números guardiões:",
+      "Seis números de sorte criados para sua diversão:",
+      "Escolha a sorte que vai compartilhar com quem ama:"
+    ]
+  }
+}

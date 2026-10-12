@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Visitante Curioso",
+      "subtitle": "Cautela intrigada y observación educada",
+      "quote": "¿De dónde vienes, humano? ¿Miras con curiosidad mi mazo de duende?",
+      "perks": [
+        "Desbloqueo de 1 tirada diaria de fortuna",
+        "Diálogo básico sincero con Kkaebi"
+      ]
+    },
+    "2": {
+      "title": "Amigo Conocido",
+      "subtitle": "Duende juguetón y compañero cercano",
+      "quote": "¡Vaya! ¡Has vuelto, amigo! ¿Qué travesura o alegría te trae hoy?",
+      "perks": [
+        "Kkaebi flotante con guiño y animación de festejo",
+        "Toque diario de Kkaebi (Afecto +5)",
+        "Tono amistoso y cercano en resultados de fortuna"
+      ]
+    },
+    "3": {
+      "title": "Compañero Inseparable",
+      "subtitle": "Amigo íntimo que comparte secretos místicos",
+      "quote": "Te lo cuento en secreto solo a ti: ¡la energía de la Bestia Divina de hoy es asombrosa!",
+      "perks": [
+        "Temas de chat exclusivos y secretos",
+        "Consejo secreto de 1 línea en la pantalla de fortuna",
+        "Partículas doradas mejoradas en el mazo de duende"
+      ]
+    },
+    "4": {
+      "title": "Compañero Duende",
+      "subtitle": "El mejor aliado que otorga confianza y bendición",
+      "quote": "¡Mira cuánto nos hemos acercado! Ahora eres mi compañero más querido.",
+      "perks": [
+        "Aura de fuego fatuo alrededor de Kkaebi flotante",
+        "Llave dorada de bonificación los lunes (+1)",
+        "Consejos de empatía profunda en el chat"
+      ]
+    },
+    "5": {
+      "title": "Alma Gemela Milenaria",
+      "subtitle": "Espíritu guardián eterno que cuida un lazo milenario",
+      "quote": "Siento que te he esperado durante mil años. ¡Haré brotar fortuna dorada en tu sendero!",
+      "perks": [
+        "Insignia de Maestro Kkaebi Dorado",
+        "Efecto supremo de bendición dorada del duende",
+        "Desbloqueo de diálogos legendarios secretos"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "¡Ay, qué cosquillas! ¿Por qué me tocas tanto? 😆",
+    "¡Jeje, veo que te encanta acariciarme! ✨",
+    "¡Que brote el oro! ¡Recibe mucha fortuna, amigo! 🔮",
+    "Dicen que tocar mis cuernos concede cualquier deseo... ¿será verdad? 😈",
+    "¡Ánimo hoy también! ¡Siempre te cuido las espaldas! 💖"
+  ]
+}

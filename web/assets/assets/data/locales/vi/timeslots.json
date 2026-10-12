@@ -1,0 +1,26 @@
+{
+  "morning": {
+    "name": "Buổi sáng",
+    "emoji": "🌅",
+    "meaning_axis": "Khởi đầu mới và bước nhảy vọt",
+    "description": "Khi mặt trời mọc, thời điểm khởi động lại những việc còn dang dở"
+  },
+  "noon": {
+    "name": "Buổi trưa",
+    "emoji": "☀️",
+    "meaning_axis": "Mở rộng mối quan hệ và gặp gỡ quý nhân",
+    "description": "Lúc ánh nắng ấm áp nhất, thời điểm giao lưu và mở rộng tấm lòng"
+  },
+  "evening": {
+    "name": "Buổi chiều tối",
+    "emoji": "🌇",
+    "meaning_axis": "Khép lại ngày và bình tĩnh nhìn nhận",
+    "description": "Khi hoàng hôn buông xuống, thời điểm thu hoạch thành quả và trau chuốt"
+  },
+  "night": {
+    "name": "Đêm khuya",
+    "emoji": "🌙",
+    "meaning_axis": "Suy ngẫm nội tâm và tích lũy thầm lặng",
+    "description": "Trong tĩnh lặng, thời điểm giảm bớt ồn ào và vun đắp nội lực"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Visitante Curioso",
+      "subtitle": "Cautela intrigada e observação educada",
+      "quote": "De onde veio, humano? Está espiando curioso o meu bastão de duende?",
+      "perks": [
+        "Desbloqueio de 1 tiragem diária de sorte",
+        "Diálogo sincero básico com o Kkaebi"
+      ]
+    },
+    "2": {
+      "title": "Amigo Conhecido",
+      "subtitle": "Duende brincalhão e parceiro próximo",
+      "quote": "Ora, ora! Você voltou, amigo! O que te traz de bom hoje?",
+      "perks": [
+        "Kkaebi flutuante com piscadela e animação festiva",
+        "Toque diário no Kkaebi (Afeto +5)",
+        "Tom amigável e descontraído no resultado da sorte"
+      ]
+    },
+    "3": {
+      "title": "Amigo Inseparável",
+      "subtitle": "Companheiro leal que compartilha segredos místicos",
+      "quote": "Conto isso em segredo só para você: a energia da Fera Divina de hoje é impressionante!",
+      "perks": [
+        "Tópicos de bate-papo secretos e exclusivos",
+        "Conselho secreto de 1 linha na tela de sorte",
+        "Partículas douradas aprimoradas no bastão de duende"
+      ]
+    },
+    "4": {
+      "title": "Parceiro Duende",
+      "subtitle": "Melhor companheiro trazendo confiança e bênçãos",
+      "quote": "Olha só o quanto nos aproximamos! Agora você é meu parceiro insubstituível.",
+      "perks": [
+        "Aura de fogo-fátuo ao redor do Kkaebi flutuante",
+        "Chave dourada bônus toda segunda-feira (+1)",
+        "Conselhos de empatia profunda no bate-papo"
+      ]
+    },
+    "5": {
+      "title": "Alma Gêmea Milenar",
+      "subtitle": "Espírito guardião eterno zelando por um laço milenar",
+      "quote": "Sinto que esperei mil anos por você. Farei brotar fartura dourada no seu caminho!",
+      "perks": [
+        "Emblema de Mestre Kkaebi Dourado",
+        "Efeito supremo de bênção dourada do duende",
+        "Desbloqueio de diálogos lendários secretos"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Ai, que cócegas! Por que fica me cutucando? 😆",
+    "Hehe, vejo que você gosta mesmo de me fazer carinho! ✨",
+    "Que venha o ouro! Receba muita sorte, companheiro! 🔮",
+    "Dizem que tocar nos meus chifres realiza qualquer desejo... será? 😈",
+    "Força no dia de hoje! Estou sempre torcendo por você! 💖"
+  ]
+}

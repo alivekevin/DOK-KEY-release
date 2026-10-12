@@ -1,0 +1,2094 @@
+{
+  "symbols": [
+    {
+      "id": "tiger",
+      "label": "hổ",
+      "keywords": [
+        "hổ",
+        "chảo",
+        "thú rừng",
+        "Giấc mơ hổ",
+        "hổ"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 27,
+      "card_id": "tiger",
+      "meaning": "Một giấc mơ vĩ đại trong đó quyền lực, vinh dự lớn lao và một đồng minh đắc lực sẽ xuất hiện",
+      "advice": "Đây là tinh thần của một con hổ! Đừng ngần ngại đưa ra một quyết định lớn ngay hôm nay, hãy thực hiện nó!"
+    },
+    {
+      "id": "pig",
+      "label": "Lợn",
+      "keywords": [
+        "Lợn",
+        "Heo may mắn",
+        "Heo Heo",
+        "Giấc mơ lợn",
+        "lợn"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 12,
+      "card_id": "pig",
+      "meaning": "Một giấc mơ may mắn truyền thống nơi sự giàu có và những cơn gió bất ngờ ập đến",
+      "advice": "Con lợn may mắn đang gõ cửa! Hãy dọn dẹp ví của bạn ngay hôm nay và chúc bạn may mắn!"
+    },
+    {
+      "id": "snake",
+      "label": "con rắn",
+      "keywords": [
+        "con rắn",
+        "con rắn",
+        "rắn trắng",
+        "trăn",
+        "con rắn"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "snake",
+      "meaning": "Trí tuệ và sự chữa lành, những hợp đồng lớn hay những giấc mơ mang thai, gia tăng sự giàu có",
+      "advice": "Một ngày đổi mới như lột bỏ làn da! Hãy vứt bỏ những suy nghĩ cũ và thực hiện một bước nhảy vọt!"
+    },
+    {
+      "id": "dragon",
+      "label": "rồng",
+      "keywords": [
+        "rồng",
+        "Rồng Xanh",
+        "Hwangryong",
+        "Giấc mơ rồng",
+        "rồng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 5,
+      "card_id": "dragon",
+      "meaning": "Chuyến bay và danh tiếng vĩ đại nhất trong cuộc đời, quyền lực và thành công lớn nhất",
+      "advice": "Đã đến lúc bay lên trời với Yeouiju trong miệng rồi! Hãy mở rộng trái tim của bạn ngay hôm nay, kkaebi!"
+    },
+    {
+      "id": "bird",
+      "label": "Chim / Ác là / Sếu",
+      "keywords": [
+        "chim",
+        "Ác là",
+        "Trường học",
+        "Cần cẩu",
+        "Bồ Câu",
+        "Giấc mơ mới",
+        "chim"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 39,
+      "card_id": "wind_child",
+      "meaning": "Tin vui, sự viếng thăm của các vị khách quý và các chương trình khuyến mãi danh giá",
+      "advice": "Tin tức bạn mong chờ sắp đến rồi! Hãy xem kỹ bức thư hoặc tin nhắn!"
+    },
+    {
+      "id": "fish",
+      "label": "Cá/ Cá Chép",
+      "keywords": [
+        "Cá",
+        "Cá chép",
+        "Cá Vàng",
+        "Cá",
+        "Cá",
+        "cá"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 62,
+      "card_id": "water_sprite",
+      "meaning": "Ước mơ tốt về thu nhập dồi dào, phát triển tài năng và tài năng lớn",
+      "advice": "Một ngày được bơi tự do như cá trong nước! Thể hiện kỹ năng của bạn một cách đầy đủ nhất!"
+    },
+    {
+      "id": "dog",
+      "label": "Chó/Cún con",
+      "keywords": [
+        "con chó",
+        "Cún Con",
+        "Con Chó",
+        "Chó",
+        "con chó",
+        "cún con"
+      ],
+      "fortune": "normal",
+      "lucky_number": 19,
+      "card_id": "dog",
+      "meaning": "Tăng cường mối quan hệ với người trợ giúp trung thành hoặc kiểm tra niềm tin giữa các cá nhân",
+      "advice": "Một người bạn đáng tin cậy luôn ở bên cạnh bạn! Hãy gửi những lời tử tế đến những người xung quanh bạn, kkaebi!"
+    },
+    {
+      "id": "cat",
+      "label": "con mèo",
+      "keywords": [
+        "con mèo",
+        "Meo",
+        "mèo hoang",
+        "Con mèo con",
+        "con mèo",
+        "mèo con"
+      ],
+      "fortune": "normal",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Trực giác nhạy bén, cơ hội bí mật, khám phá nội tâm tiềm ẩn",
+      "advice": "Đó là một ngày khi các giác quan của bạn lấp lánh! Hãy tin vào trực giác khó giải thích của bạn và hành động!"
+    },
+    {
+      "id": "ox",
+      "label": "Bò/Bò",
+      "keywords": [
+        "Bò",
+        "Bò",
+        "Moo",
+        "giấc mơ nhỏ",
+        "Chuồng",
+        "bò",
+        "bò",
+        "bò"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 8,
+      "card_id": "ox",
+      "meaning": "Thành quả của những nỗ lực thầm lặng, nền tảng vững chắc và tích lũy của cải ổn định",
+      "advice": "Nếu bạn bước đi tự tin, bạn thậm chí có thể leo lên núi Thái Sơn! Đừng vội vàng, hãy thực hiện từng bước một!"
+    },
+    {
+      "id": "horse",
+      "label": "ngựa / ngựa trắng",
+      "keywords": [
+        "ngựa",
+        "ngựa trắng",
+        "con ngựa nổi tiếng",
+        "Đang chạy",
+        "Giấc mơ ngựa",
+        "ngựa"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Nỗ lực không ngừng, đạt được những mục tiêu lớn, những chuyến công tác xa hay những bước nhảy vọt",
+      "advice": "Tiếng vó ngựa thật uy nghiêm! Đừng ngần ngại và hãy chạy về phía trước bằng tất cả sức lực của mình!"
+    },
+    {
+      "id": "turtle",
+      "label": "Rùa / Rùa",
+      "keywords": [
+        "rùa",
+        "Rùa",
+        "lớn lên",
+        "Tuổi thọ",
+        "rùa",
+        "rùa"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 80,
+      "card_id": "moon_jar",
+      "meaning": "Sức khỏe trường thọ, danh dự vững chắc và phú quý bền vững",
+      "advice": "Đây là sự khôn ngoan của việc sống một ngàn năm! Thay vì nôn nóng vì tương lai trước mắt, hãy nhìn về phía trước cả trăm năm!"
+    },
+    {
+      "id": "rooster",
+      "label": "gà / gà trống",
+      "keywords": [
+        "thịt gà",
+        "Dậu",
+        "cục tác",
+        "Jangdak",
+        "Điều răn",
+        "gà trống",
+        "gà"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 31,
+      "card_id": "rooster",
+      "meaning": "điềm báo bóng tối tan đi và bình minh sắp đến, thi đậu và gặp nhiều may mắn",
+      "advice": "Một âm thanh lớn đánh thức bạn vào lúc bình minh! Một cơ hội mới đang ló dạng trước mắt bạn!"
+    },
+    {
+      "id": "butterfly",
+      "label": "Bướm / Ong",
+      "keywords": [
+        "Bướm",
+        "Trừng phạt",
+        "Bướm Đuôi Én",
+        "con ong",
+        "bướm",
+        "con ong"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 44,
+      "card_id": "flower_fairy",
+      "meaning": "Tăng may mắn trong tình yêu, kết trái ngọt ngào, tăng sự nhạy cảm và quyến rũ về mặt nghệ thuật",
+      "advice": "Đã đến lúc bay và theo mùi hương của hoa! Đừng che giấu sự quyến rũ của bạn!"
+    },
+    {
+      "id": "bug",
+      "label": "bọ / kiến ​​/ nhện",
+      "keywords": [
+        "lỗi",
+        "kiến",
+        "Nhện",
+        "Côn trùng",
+        "Rết",
+        "lỗi",
+        "kiến",
+        "nhện"
+      ],
+      "fortune": "normal",
+      "lucky_number": 16,
+      "card_id": "wooden_comb",
+      "meaning": "Cần giải quyết những lo lắng tầm thường, dấu hiệu của sự tích lũy chân thành như con kiến ​​",
+      "advice": "Tất cả những gì bạn phải làm là rũ bỏ những lo lắng nho nhỏ của mình! Hãy bắt đầu bằng việc dọn dẹp môi trường xung quanh bạn!"
+    },
+    {
+      "id": "mouse",
+      "label": "Chuột / Sóc",
+      "keywords": [
+        "chuột",
+        "chuột",
+        "Sóc",
+        "Chuột cống",
+        "chuột",
+        "chuột"
+      ],
+      "fortune": "normal",
+      "lucky_number": 1,
+      "card_id": "rat",
+      "meaning": "Phát hiện cơ hội thông minh, tiết kiệm tiết kiệm và những thông tin bí mật bất ngờ",
+      "advice": "Có một kho báu trong một kẽ hở nhỏ mà người khác không thể nhìn thấy! Hãy mở to mắt ra!"
+    },
+    {
+      "id": "lion",
+      "label": "Sư Tử",
+      "keywords": [
+        "Sư Tử",
+        "vua thất nghiệp",
+        "Sư tử cái",
+        "sư tử đực",
+        "sư tử"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "mountain_spirit",
+      "meaning": "Nắm quyền lãnh đạo của tổ chức, quyền lực vững chắc và sự hỗ trợ mạnh mẽ",
+      "advice": "Chỉ huy một cách kiêu hãnh như vua của các loài thú! Bạn là nhân vật chính, kkaebi!"
+    },
+    {
+      "id": "monkey",
+      "label": "khỉ",
+      "keywords": [
+        "khỉ",
+        "Giấc mơ khỉ",
+        "tài năng",
+        "khỉ",
+        "khỉ"
+      ],
+      "fortune": "normal",
+      "lucky_number": 51,
+      "card_id": "monkey",
+      "meaning": "Vượt qua khó khăn bằng sự thông minh và nhanh trí, lời khuyên đề phòng kiêu mạn",
+      "advice": "Hãy thông minh nhưng hãy cẩn thận bước đi để không bị ngã khỏi cây!"
+    },
+    {
+      "id": "deer",
+      "label": "Hươu/Trứng Hươu",
+      "keywords": [
+        "Hươu",
+        "Hươu Sika",
+        "nhung hươu",
+        "Hươu nai",
+        "Nai sừng tấm",
+        "con nai"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 75,
+      "card_id": "cloud_hermit",
+      "meaning": "Ghi nhận nhân cách cao thượng, tình yêu cao đẹp và hạnh phúc bình yên",
+      "advice": "Có một năng lượng rõ ràng và bình tĩnh trong không khí! Hãy đối xử với mọi người bằng một nụ cười dịu dàng!"
+    },
+    {
+      "id": "bear",
+      "label": "gấu",
+      "keywords": [
+        "gấu",
+        "gấu đen",
+        "Gấu Con",
+        "Gấu trắng",
+        "gấu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 82,
+      "card_id": "mountain_spirit",
+      "meaning": "Giấc mơ trước khi sinh, sự bảo vệ của một người quyền lực và tích lũy khối tài sản khổng lồ",
+      "advice": "Sự kiên trì nặng nề tỏa sáng! Hãy kiên nhẫn tiến về phía trước, kkaebi!"
+    },
+    {
+      "id": "toad",
+      "label": "Cóc/Ếch",
+      "keywords": [
+        "Cóc",
+        "ếch",
+        "Cóc Vàng",
+        "Mông Cổ",
+        "cóc",
+        "ếch"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 93,
+      "card_id": "silk_pouch",
+      "meaning": "Đại vận may do cóc vàng mang lại, gia đình thịnh vượng",
+      "advice": "Vận may đang đến nhà! Chia sẻ niềm vui với gia đình bạn!"
+    },
+    {
+      "id": "teeth",
+      "label": "mơ thấy rụng răng",
+      "keywords": [
+        "Răng",
+        "răng",
+        "Răng rụng",
+        "Răng rụng",
+        "Nhổ răng",
+        "răng",
+        "răng"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 43,
+      "card_id": "wooden_comb",
+      "meaning": "Kiểm tra sức khỏe của người quen thân hoặc thành viên trong gia đình, nhất thời lo lắng",
+      "advice": "Con yêu tinh sẽ xua đuổi năng lượng xấu bằng cách dùng gậy đánh nó, vì vậy hãy gọi điện cho bố mẹ bạn ngay hôm nay để chào hỏi nhé!"
+    },
+    {
+      "id": "poo",
+      "label": "Nằm mơ thấy mình giẫm phải hoặc chôn phân",
+      "keywords": [
+        "ị",
+        "ghế đẩu",
+        "Khẩu phần",
+        "Giẫm phải phân",
+        "phân",
+        "ị",
+        "ị"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 84,
+      "card_id": "silk_pouch",
+      "meaning": "Một giấc mơ choáng ngợp nơi của cải đến như dính chặt vào cơ thể",
+      "advice": "Đó là một giải độc đắc thú vị! Ngay hôm nay, hãy bắt đầu đầu tư hoặc đón nhận những thử thách mà bạn đang do dự!"
+    },
+    {
+      "id": "blood",
+      "label": "Nằm mơ thấy chảy máu hoặc nhìn thấy máu",
+      "keywords": [
+        "máu",
+        "Chảy máu",
+        "Đổ máu",
+        "Máu tươi",
+        "giấc mơ máu",
+        "máu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Một sự bùng nổ lớn về sức sống và sự giàu có, một bước đột phá sảng khoái nhờ danh vọng và vận may bị chặn",
+      "advice": "Máu đỏ là sức sống và tiền bạc rất lớn! Những gì bị áp bức đang được giải tỏa!"
+    },
+    {
+      "id": "urine",
+      "label": "Nằm mơ thấy đi tiểu thoải mái",
+      "keywords": [
+        "đi tiểu",
+        "Nước tiểu",
+        "Nằm mơ thấy đi tiểu",
+        "Bàng quang",
+        "Đi tiểu",
+        "nước tiểu",
+        "đi tiểu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 55,
+      "card_id": "water_sprite",
+      "meaning": "Hoàn thành tâm nguyện bấy lâu, giải tỏa trọn vẹn lo âu và thành công rực rỡ",
+      "advice": "Đó là một ngày làm tôi choáng váng! Loại bỏ tất cả những lo lắng của bạn trong một cú trượt ngã!"
+    },
+    {
+      "id": "hair_cut",
+      "label": "Nằm mơ thấy mình cắt tóc",
+      "keywords": [
+        "tóc",
+        "tiệm làm tóc",
+        "cắt tóc",
+        "Tóc",
+        "Cắt tóc",
+        "tóc"
+      ],
+      "fortune": "normal",
+      "lucky_number": 28,
+      "card_id": "wooden_comb",
+      "meaning": "Quyết tâm mới, sắp xếp lại các mối quan hệ cũ và thay đổi hình ảnh",
+      "advice": "Sắp xếp môi trường xung quanh giống như bạn chải tóc gọn gàng! Một mối quan hệ mới đang đến!"
+    },
+    {
+      "id": "tears",
+      "label": "Nằm mơ thấy mình khóc nhiều nước mắt",
+      "keywords": [
+        "nước mắt",
+        "than khóc",
+        "Giấc mơ khóc",
+        "nỗi buồn",
+        "Nức nở",
+        "nước mắt",
+        "khóc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 90,
+      "card_id": "water_sprite",
+      "meaning": "Một sự giải tỏa sảng khoái khỏi nỗi đau trong lòng, một cơ hội được biết đến rộng rãi",
+      "advice": "Sau khi khóc thật nhiều, thế giới trở nên rõ ràng hơn! Một niềm vui thót tim đang ở ngay trước mắt bạn!"
+    },
+    {
+      "id": "injury",
+      "label": "Nằm mơ thấy mình bị thương ở tay hoặc chân",
+      "keywords": [
+        "đau",
+        "vết thương",
+        "Chấn thương tay",
+        "Baldachim",
+        "Gãy xương",
+        "chấn thương",
+        "bị thương"
+      ],
+      "fortune": "normal",
+      "lucky_number": 34,
+      "card_id": "brass_bell",
+      "meaning": "Khuyến nghị đẩy nhanh tiến độ công việc, xem xét hợp đồng cẩn thận",
+      "advice": "Đánh vào cây cầu đá và vượt qua nó! Đừng vội vàng hôm nay, hãy xem xét kỹ!"
+    },
+    {
+      "id": "bath",
+      "label": "Nằm mơ thấy mình đang tắm",
+      "keywords": [
+        "tắm",
+        "Tắm",
+        "suối nước nóng",
+        "Đẩy",
+        "rửa",
+        "tắm",
+        "tắm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "lotus_lamp",
+      "meaning": "Xóa bỏ hiểu lầm, kỳ thị, khỏi bệnh, nạp lại sinh lực cho bước nhảy vọt mới",
+      "advice": "Loại bỏ bụi bẩn cũ một cách dễ dàng! Hãy bắt đầu lại với một cơ thể và tâm trí nhẹ nhàng hơn!"
+    },
+    {
+      "id": "surgery",
+      "label": "Mơ thấy mình được phẫu thuật hoặc điều trị",
+      "keywords": [
+        "phẫu thuật",
+        "bệnh viện",
+        "Điều trị",
+        "bác sĩ",
+        "phòng mổ",
+        "phẫu thuật"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "folding_fan",
+      "meaning": "Tạo ra kết quả đột phá thông qua cải tiến cơ cấu cơ bản và tổ chức lại tổ chức",
+      "advice": "Bạn phải cắt bỏ vùng đau để mọc da mới! Hãy bắt đầu một kỷ nguyên mới với một quyết định táo bạo!"
+    },
+    {
+      "id": "pregnancy",
+      "label": "mơ thấy mình có bầu",
+      "keywords": [
+        "có thai",
+        "Taegi",
+        "Giấc mơ mang thai",
+        "Cuộc Sống Mới",
+        "phụ nữ mang thai",
+        "mang thai",
+        "có thai"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "moon_jar",
+      "meaning": "Khởi động dự án mới, ươm mầm tiềm năng to lớn và thành quả sáng tạo",
+      "advice": "Tôi đã có hạt giống may mắn! Nếu bạn trồng nó một cách cẩn thận, nó sẽ sinh hoa trái to lớn!"
+    },
+    {
+      "id": "twins",
+      "label": "Nằm mơ thấy sinh đôi",
+      "keywords": [
+        "Cặp song sinh",
+        "Dadungi",
+        "tổ",
+        "Sinh đôi",
+        "cặp song sinh"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 22,
+      "card_id": "silk_pouch",
+      "meaning": "Độ dốc đôi! Một giấc mơ tốt đẹp để thu được hai hoặc nhiều lợi nhuận lớn chỉ với một nỗ lực",
+      "advice": "Vận may nhân đôi đến! Bạn có thể giết hai con chim bằng một hòn đá!"
+    },
+    {
+      "id": "growing_tall",
+      "label": "Ước mơ ngày càng cao",
+      "keywords": [
+        "Chân sút Jim",
+        "tăng trưởng",
+        "Cao",
+        "Cao",
+        "Chiều cao",
+        "ngày càng cao"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "cloud_hermit",
+      "meaning": "Nâng cao địa vị, mở rộng tầm nhìn, thăng tiến lên vị trí cao hơn người khác",
+      "advice": "Nhìn xuống thế giới từ trên cao! Tàu của bạn đang phát triển!"
+    },
+    {
+      "id": "face_change",
+      "label": "Giấc mơ nơi khuôn mặt bạn tỏa sáng và trở nên xinh đẹp",
+      "keywords": [
+        "mặt",
+        "Đẹp trai",
+        "Người đẹp",
+        "da",
+        "Ngoại hình",
+        "khuôn mặt rạng rỡ",
+        "sắc đẹp"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "jade_ring",
+      "meaning": "Sự nổi tiếng nhanh chóng, sự bùng nổ của sự khen ngợi và quyến rũ của mọi người, cải thiện địa vị xã hội",
+      "advice": "Khuôn mặt của bạn phát sáng! Hôm nay, hãy tự hào thể hiện sự quyến rũ của mình dù bạn ở bất cứ đâu!"
+    },
+    {
+      "id": "naked",
+      "label": "Nằm mơ thấy mình cởi quần áo hoặc khỏa thân",
+      "keywords": [
+        "Khỏa thân",
+        "khỏa thân",
+        "Cởi quần áo",
+        "khỏa thân",
+        "khỏa thân",
+        "khỏa thân"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "folding_fan",
+      "meaning": "Khoảnh khắc sự thật khiến bạn lo lắng về một bí mật bị tiết lộ hoặc mọi chuyện được tiết lộ một cách trung thực",
+      "advice": "Bạn tự tin nhất khi không có gì phải giấu giếm! Sự trung thực là vũ khí tốt nhất trong ngày!"
+    },
+    {
+      "id": "sweating",
+      "label": "Nằm mơ thấy toát mồ hôi lạnh",
+      "keywords": [
+        "đổ mồ hôi",
+        "Đổ mồ hôi lạnh",
+        "đổ mồ hôi",
+        "Đổ mồ hôi",
+        "Đổ đầy mồ hôi",
+        "đổ mồ hôi"
+      ],
+      "fortune": "normal",
+      "lucky_number": 60,
+      "card_id": "tea_bowl",
+      "meaning": "Tiêu hao năng lượng do làm việc nặng, tín hiệu cần nghỉ ngơi và bổ sung nước",
+      "advice": "Đây là tín hiệu từ cơ thể bảo bạn hãy nghỉ ngơi! Hôm nay hãy uống một tách trà ấm và nghỉ ngơi!"
+    },
+    {
+      "id": "water",
+      "label": "nước trong veo",
+      "keywords": [
+        "nước",
+        "Nước trong veo",
+        "Thung lũng",
+        "nước suối",
+        "nước đóng chai",
+        "nước"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 17,
+      "card_id": "water_sprite",
+      "meaning": "Cảm xúc được thanh lọc, đầu óc trở nên minh mẫn, công việc tiến triển thuận lợi",
+      "advice": "Nước trong vắt thanh lọc tâm trí! Nếu bạn bắt đầu với một tâm trí trống rỗng, những điều lớn lao sẽ thành công!"
+    },
+    {
+      "id": "fire",
+      "label": "Ngọn lửa đang cháy / Lửa",
+      "keywords": [
+        "lửa",
+        "ngọn lửa",
+        "lửa",
+        "Ước mơ cháy bỏng",
+        "Ngọn lửa",
+        "lửa",
+        "ngọn lửa"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Một giấc mơ vĩ đại, trong đó năng lượng sẽ bùng cháy mãnh liệt, công việc làm ăn và danh vọng sẽ khởi sắc",
+      "advice": "Đã đến lúc lan rộng như lửa! Hãy đốt cháy những thứ bạn đang trì hoãn ngay lập tức!"
+    },
+    {
+      "id": "star",
+      "label": "Sao/sao băng trên bầu trời đêm",
+      "keywords": [
+        "ngôi sao",
+        "Ánh Sao",
+        "Sao băng",
+        "ngôi sao băng",
+        "Dải Ngân hà",
+        "ngôi sao",
+        "sao băng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "star_weaver",
+      "meaning": "Sự bùng nổ của cảm hứng và sự sáng tạo, sự phổ biến rộng rãi và tác phẩm thành công vang dội",
+      "advice": "Những ý tưởng lấp lánh như những ngôi sao đang đổ về! Hãy luôn giữ một cuốn sổ ghi chú bên mình!"
+    },
+    {
+      "id": "sun",
+      "label": "Mặt trời mọc / Nắng",
+      "keywords": [
+        "mặt trời",
+        "Làm",
+        "mặt trời mọc",
+        "nắng",
+        "mặt trời mọc",
+        "mặt trời",
+        "mặt trời mọc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 91,
+      "card_id": "sun_messenger",
+      "meaning": "Một sự ra đời vĩ đại, một sự nghiệp tốt đẹp nhất sẽ khiến bạn nổi tiếng khắp thế giới",
+      "advice": "Mặt trời rực rỡ chiếu sáng cả thế giới! Hãy thẳng vai và bước đi một cách tự tin!"
+    },
+    {
+      "id": "moon",
+      "label": "Trăng tròn mềm mại / ánh trăng",
+      "keywords": [
+        "mặt trăng",
+        "trăng tròn",
+        "Ánh trăng",
+        "trăng lưỡi liềm",
+        "Ánh trăng",
+        "mặt trăng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 49,
+      "card_id": "moon_rabbit",
+      "meaning": "Gia đình hòa thuận, hoa trái dồi dào, an tâm và cảm hứng nghệ thuật",
+      "advice": "Trí tuệ mềm mại như ánh trăng chiếu rọi! Hãy nói chuyện với người thân yêu của bạn tối nay!"
+    },
+    {
+      "id": "mountain",
+      "label": "Núi Cao chót vót/Chinh phục đỉnh cao",
+      "keywords": [
+        "núi",
+        "leo núi",
+        "Bình thường",
+        "Thái Sơn",
+        "đỉnh núi",
+        "núi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Hiện thực hóa khát vọng lớn lao, vượt qua những trở ngại to lớn và lên nắm quyền",
+      "advice": "Khi bạn đứng trên đỉnh, bạn có thể nhìn thấy mọi thứ! Đừng cảm thấy mệt mỏi với ngọn đồi trước mặt và hãy leo đến cuối cùng!"
+    },
+    {
+      "id": "sea",
+      "label": "Biển rộng và sóng",
+      "keywords": [
+        "đại dương",
+        "sóng",
+        "chân trời",
+        "đại dương",
+        "bãi biển",
+        "biển",
+        "đại dương"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "water_sprite",
+      "meaning": "Tiến lên sân khấu toàn cầu, hiểu biết sâu rộng và thành công trên quy mô lớn",
+      "advice": "Hãy nhổ neo hướng về biển! Đừng bị cuốn vào những điều nhỏ nhặt mà hãy nắm lấy đại dương lớn!"
+    },
+    {
+      "id": "river",
+      "label": "Sông hồ chảy kiêu hãnh",
+      "keywords": [
+        "sông",
+        "hồ",
+        "sông",
+        "Sông",
+        "phà",
+        "sông",
+        "hồ"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 26,
+      "card_id": "tea_bowl",
+      "meaning": "Lưu thông vốn ổn định, đàm phán sáng suốt và giải quyết các xung đột lâu đời",
+      "advice": "Đó là một ngày trôi không bị cản trở như một dòng sông! Hãy linh hoạt điều chỉnh ý kiến ​​của mình nhé!"
+    },
+    {
+      "id": "muddy_water",
+      "label": "Nước đục/đục",
+      "keywords": [
+        "nước bùn",
+        "Nước đục",
+        "bùn",
+        "Nước thải",
+        "Taksu",
+        "nước đục"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 42,
+      "card_id": "wooden_comb",
+      "meaning": "Cảnh giác với khả năng phán đoán kém, đề phòng những lời đề nghị đáng ngờ hoặc giao dịch lừa đảo",
+      "advice": "Chờ cho đến khi nước rút! Đừng ký bất kỳ hợp đồng quan trọng nào ngày hôm nay!"
+    },
+    {
+      "id": "heavy_rain",
+      "label": "mưa / mưa to / mưa rào",
+      "keywords": [
+        "Mưa",
+        "mưa to",
+        "tắm",
+        "Danbi",
+        "Mùa mưa",
+        "mưa",
+        "mưa to"
+      ],
+      "fortune": "normal",
+      "lucky_number": 68,
+      "card_id": "water_sprite",
+      "meaning": "Một vấn đề qua đi như một cơn mưa nhẹ, hay một cơn mưa cảm xúc nhất thời",
+      "advice": "Những cơn mưa rào sẽ sớm qua đi! Hãy bình tĩnh chuẩn bị như cầm ô!"
+    },
+    {
+      "id": "snow",
+      "label": "Tuyết bao phủ khắp thế giới",
+      "keywords": [
+        "tuyết",
+        "đôi mắt to",
+        "Cảnh tuyết",
+        "bông tuyết",
+        "tuyết phủ",
+        "tuyết"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 72,
+      "card_id": "moon_jar",
+      "meaning": "Phục hồi tâm hồn trong sáng, che đậy mọi khuyết điểm và phước lành thanh thản",
+      "advice": "Đây là cơ hội để bạn bắt đầu lại trắng như tuyết! Đặt một mảnh giấy vẽ mới!"
+    },
+    {
+      "id": "lightning",
+      "label": "Sét và sấm sét / sấm sét",
+      "keywords": [
+        "Sét",
+        "Sấm sét",
+        "sấm sét",
+        "sét",
+        "Nhấp nháy",
+        "sét",
+        "sấm sét"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 97,
+      "card_id": "dokkaebi_club",
+      "meaning": "Nhận thức nhanh như chớp, thành công bất ngờ khiến cả thế giới chú ý",
+      "advice": "Cảm hứng lóe lên như tia chớp! Hãy viết ra những suy nghĩ hiện lên trong đầu bạn lúc này!"
+    },
+    {
+      "id": "rainbow",
+      "label": "cầu vồng bảy màu",
+      "keywords": [
+        "Cầu vồng",
+        "cầu vồng đôi",
+        "năm màu",
+        "Giấc Mơ Cầu Vồng",
+        "cầu vồng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "lotus_lamp",
+      "meaning": "Vinh quang rực rỡ cuối cùng của đau khổ, thành tựu đầy kịch tính của ước mơ hằng khao khát",
+      "advice": "Mưa đã tạnh và cầu vồng xuất hiện! Bây giờ là lúc để ăn mừng và ăn mừng!"
+    },
+    {
+      "id": "earthquake",
+      "label": "Động đất / Nứt đất",
+      "keywords": [
+        "trận động đất",
+        "Nứt đất",
+        "Sự dịch chuyển kiến ​​tạo",
+        "Rung động",
+        "trận động đất"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "folding_fan",
+      "meaning": "Sinh kế thay đổi nhanh chóng, cần đảm bảo tài sản an toàn và chuẩn bị cho chúng",
+      "advice": "Bạn càng lắc, bạn càng đặt chân vững chắc! Hãy tránh chi tiêu mang tính đầu cơ ngay hôm nay!"
+    },
+    {
+      "id": "money",
+      "label": "Nằm mơ nhặt được tiền/tiền giấy",
+      "keywords": [
+        "tiền",
+        "tiền giấy",
+        "Nhặt tiền",
+        "Nhặt tiền giấy",
+        "đồng xu",
+        "Giấc mơ kiếm tiền",
+        "tiền bạc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Gia tăng sự giàu có và phần thưởng tài chính, tạo ra lợi nhuận thực sự",
+      "advice": "Đây là cách tiền đi vào! Hãy tiết kiệm tiền ngay hôm nay và kiểm tra tài khoản tiết kiệm của bạn!"
+    },
+    {
+      "id": "losing_money",
+      "label": "Nằm mơ thấy mất tiền hoặc ví",
+      "keywords": [
+        "Mất tiền",
+        "Bị mất ví",
+        "Bị mất",
+        "trộm cắp",
+        "Trộm tiền",
+        "mất tiền"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 41,
+      "card_id": "brass_bell",
+      "meaning": "Cần kiểm soát chi tiêu, coi chừng lãng phí lặt vặt và kiểm tra ngân sách",
+      "advice": "Dừng bát bị rò rỉ! Hãy nhận biên lai của bạn và hủy các đăng ký không cần thiết!"
+    },
+    {
+      "id": "jewel",
+      "label": "Nằm mơ thấy được châu báu/báu vật vàng bạc",
+      "keywords": [
+        "Đồ trang sức",
+        "kim cương",
+        "vàng miếng",
+        "Kho báu",
+        "Từ chối",
+        "viên ngọc",
+        "đá quý"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "jade_ring",
+      "meaning": "Có được một vị trí có giá trị, nhận ra giá trị cao nhất và nhận được vinh dự rực rỡ.",
+      "advice": "Một ngày nào đó bạn sẽ tỏa sáng như một viên ngọc quý! Đừng hạ thấp giá trị của chính mình, đồ khốn!"
+    },
+    {
+      "id": "wallet",
+      "label": "Nằm mơ thấy mình mua ví mới hoặc được tặng quà",
+      "keywords": [
+        "Ví",
+        "Ví mới",
+        "Kẹp Tiền",
+        "Ví tiền",
+        "Quà tặng ví",
+        "ví"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 36,
+      "card_id": "silk_pouch",
+      "meaning": "Mở ra nguồn thu nhập mới, cải thiện đáng kể kỹ năng quản lý tiền",
+      "advice": "Phước lành đến trong một cái bát mới! Sắp xếp tài khoản hoặc kế hoạch đầu tư mới của bạn!"
+    },
+    {
+      "id": "lottery",
+      "label": "Trúng xổ số/số dư tài khoản ngân hàng tăng vọt",
+      "keywords": [
+        "Xổ số",
+        "Xổ số",
+        "chiến thắng",
+        "Sổ hộ khẩu",
+        "Tuyệt vời",
+        "xổ số",
+        "giải độc đắc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 7,
+      "card_id": "silk_pouch",
+      "meaning": "Bước ngoặt lớn của cuộc đời, nhận được may mắn bất ngờ và số tiền thưởng hiệu suất lớn",
+      "advice": "Thần may mắn sẽ mỉm cười với bạn! Hãy tự tin vào mọi việc bạn giải quyết ngày hôm nay!"
+    },
+    {
+      "id": "new_clothes",
+      "label": "Nằm mơ thấy mặc quần áo mới",
+      "keywords": [
+        "Quần áo mới",
+        "Quần áo",
+        "váy",
+        "bộ đồ",
+        "Mặc quần áo mới",
+        "quần áo mới"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 15,
+      "card_id": "lotus_lamp",
+      "meaning": "Bổ nhiệm vào các vị trí mới, cải thiện mối quan hệ giữa các cá nhân và thay đổi địa vị hấp dẫn",
+      "advice": "Tôi có đôi cánh! Nếu bạn đối xử tử tế với mọi người thì khả năng được yêu mến của họ sẽ tăng gấp đôi!"
+    },
+    {
+      "id": "lost_shoes",
+      "label": "Nằm mơ thấy mình bị mất giày",
+      "keywords": [
+        "mất giày",
+        "Mất giày",
+        "Mất giày",
+        "chân trần",
+        "giày",
+        "mất giày"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Bất đồng tạm thời với người trợ giúp hoặc nơi làm việc mà bạn tin cậy, cần sự độc lập",
+      "advice": "Đừng dựa dẫm vào người khác, hãy đứng trên đôi chân của chính mình! Hãy tin vào chính mình và tìm ra con đường của mình!"
+    },
+    {
+      "id": "new_shoes",
+      "label": "Nằm mơ thấy đi giày mới",
+      "keywords": [
+        "giày mới",
+        "Giày mới",
+        "giày thể thao",
+        "Quà tặng giày",
+        "Đi giày",
+        "giày mới"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "folding_fan",
+      "meaning": "Một khởi đầu mới, sự xuất hiện của đối tác đáng tin cậy và khởi đầu cho một hành trình suôn sẻ",
+      "advice": "Hãy mang đôi giày mới của bạn vào và chạy thật mạnh mẽ! Chặng đường phía trước thật vững chắc!"
+    },
+    {
+      "id": "ring",
+      "label": "Nằm mơ thấy đeo nhẫn/vòng cổ",
+      "keywords": [
+        "nhẫn",
+        "vòng cổ",
+        "nhẫn vàng",
+        "Okgarakji",
+        "quà tặng",
+        "nhẫn",
+        "vòng cổ"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 66,
+      "card_id": "jade_ring",
+      "meaning": "Giao ước vĩnh cửu, gặp được bạn đời, xây dựng mối quan hệ tin cậy sâu đậm",
+      "advice": "Lời hứa đã được đặt vào tay bạn! Hãy trân trọng mối quan hệ quý giá của bạn!"
+    },
+    {
+      "id": "bag",
+      "label": "Nằm mơ thấy mình đang đóng gói túi xách/hành lý",
+      "keywords": [
+        "túi",
+        "Botjim",
+        "Ba lô",
+        "Nhà cung cấp dịch vụ",
+        "Đóng gói",
+        "túi",
+        "hành lý"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 30,
+      "card_id": "silk_pouch",
+      "meaning": "Nhận sứ mệnh mới, chuẩn bị mở rộng ra nước ngoài và nhận được gói thành tích phong phú",
+      "advice": "Cơ hội sẽ đến với người có sự chuẩn bị! Hãy lấp đầy túi của bạn với những kiến ​​thức và kỹ năng cần thiết!"
+    },
+    {
+      "id": "key",
+      "label": "Nằm mơ thấy mình mở cửa bằng chìa khóa",
+      "keywords": [
+        "chìa khóa",
+        "khóa",
+        "Mở cửa",
+        "Chìa khóa giấc mơ",
+        "Giải pháp",
+        "chìa khóa"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "brass_bell",
+      "meaning": "Khám phá giải pháp cho các vấn đề khó khăn, vượt qua các cổng bị chặn và giành được quyền lực",
+      "advice": "Tôi có chìa khóa chính! Tự tin mở cánh cửa đóng kín mà không do dự!"
+    },
+    {
+      "id": "clock",
+      "label": "Đồng hồ / Nằm mơ thấy đúng giờ",
+      "keywords": [
+        "đồng hồ",
+        "thời gian",
+        "kim đồng hồ",
+        "Báo động",
+        "Thời gian",
+        "đồng hồ",
+        "thời gian"
+      ],
+      "fortune": "normal",
+      "lucky_number": 12,
+      "card_id": "inkstone",
+      "meaning": "Sự xuất hiện của thời điểm vàng, tầm quan trọng của việc lập kế hoạch và thời gian chính xác",
+      "advice": "Thời cơ đã chín muồi! Đừng lãng phí thời gian và đưa ra quyết định vào thời điểm được chỉ định!"
+    },
+    {
+      "id": "knife",
+      "label": "Nằm mơ thấy mình dùng dao/kéo cắt đồ vật",
+      "keywords": [
+        "con dao",
+        "Kéo",
+        "cắt",
+        "con dao làm bếp",
+        "Kiếm",
+        "con dao",
+        "kéo"
+      ],
+      "fortune": "normal",
+      "lucky_number": 47,
+      "card_id": "dokkaebi_club",
+      "meaning": "Táo bạo ngắt kết nối và đưa ra quyết định, phân loại các mối quan hệ phức tạp và đưa ra quyết định rõ ràng",
+      "advice": "Cắt đứt sự hối tiếc của bạn như một con dao! Bạn phải chắc chắn thực hiện và phá vỡ vận may của mình để gặp may mắn!"
+    },
+    {
+      "id": "mirror",
+      "label": "Nằm mơ thấy hình ảnh phản chiếu rõ ràng trong gương",
+      "keywords": [
+        "gương",
+        "Nhìn vào gương",
+        "sự phản chiếu gương",
+        "phản ánh",
+        "Gương giấc mơ",
+        "gương"
+      ],
+      "fortune": "normal",
+      "lucky_number": 18,
+      "card_id": "inkstone",
+      "meaning": "Tự suy ngẫm, chạm trán với sự thật, nhận thức sâu sắc về con người thật của mình",
+      "advice": "Câu trả lời nằm trong gương! Thay vì đổ lỗi cho người khác, hãy nhìn vào trái tim mình!"
+    },
+    {
+      "id": "gift",
+      "label": "Nằm mơ thấy nhận được món quà bất ngờ",
+      "keywords": [
+        "quà tặng",
+        "Nhận quà",
+        "Hộp quà",
+        "Giao hàng",
+        "Quà tặng",
+        "quà tặng",
+        "hiện tại"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 70,
+      "card_id": "silk_pouch",
+      "meaning": "Sự giúp đỡ từ một quý ông, tỏ tình, phần thưởng bất ngờ, hợp đồng mới",
+      "advice": "Hãy bày tỏ lòng biết ơn của bạn trước tiên! Bạn càng chia sẻ những phước lành bạn nhận được, món quà sẽ đến càng lớn!"
+    },
+    {
+      "id": "ancestor",
+      "label": "Tổ tiên/cha mẹ đã khuất",
+      "keywords": [
+        "tổ tiên",
+        "Tổ tiên",
+        "Cha mẹ",
+        "người đã chết",
+        "bà ngoại",
+        "Ông nội",
+        "tổ tiên"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "mountain_spirit",
+      "meaning": "Bảo vệ và soi sáng tinh thần cho gia đình, thoát khỏi khủng hoảng và gặp nhiều may mắn trong đời",
+      "advice": "Tổ tiên chúng ta đã mở đường! Hãy lựa chọn đúng đắn với trái tim tin kính!"
+    },
+    {
+      "id": "mountain_god",
+      "label": "Thần núi/Ông già tóc trắng",
+      "keywords": [
+        "Thần Núi",
+        "Tươi",
+        "Ông già tóc trắng",
+        "Tinh Thần",
+        "Đạo giáo",
+        "thần núi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 81,
+      "card_id": "mountain_spirit",
+      "meaning": "Tích lũy trí tuệ tốt nhất, học hỏi các thủ thuật giải quyết khó khăn ngay lập tức",
+      "advice": "Đây là lời dạy của người thầy vĩ đại! Hãy lắng nghe lời khuyên của các tiền bối và chuyên gia!"
+    },
+    {
+      "id": "dokkaebi",
+      "label": "Cuộc chạm trán yêu tinh/Kaebibul",
+      "keywords": [
+        "Yêu tinh",
+        "kkaebi",
+        "Thần hộ mệnh",
+        "Will-the-Wisp",
+        "dơi kkaebi",
+        "dokkaebi",
+        "yêu tinh"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Kích hoạt phép thuật sáng tạo, món quà may mắn mạnh mẽ từ thần hộ mệnh trên thiết bị",
+      "advice": "Tôi tự mình đi ra! Mọi chuyện đều có thể được giải quyết chỉ bằng một cú đánh nhanh chóng nên đừng lo lắng, hãy cứ mỉm cười nhé!"
+    },
+    {
+      "id": "ghost",
+      "label": "Mơ thấy gặp ma/ác quỷ",
+      "keywords": [
+        "ma",
+        "ác thần",
+        "ma",
+        "quái vật",
+        "Ma",
+        "ma"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "brass_bell",
+      "meaning": "Biểu hiện tâm lý căng thẳng, lo âu, cần lấy lại sự bình yên trong tâm hồn",
+      "advice": "Ảo tưởng không có thực chất! Đừng sợ, tôi sẽ dùng gậy thổi bay tất cả bọn chúng!"
+    },
+    {
+      "id": "saint",
+      "label": "Mơ thấy Phật / Chúa Giêsu / Thánh",
+      "keywords": [
+        "Phật",
+        "Chúa Giêsu",
+        "Người lớn",
+        "Đức Trinh Nữ Maria",
+        "Bồ Tát",
+        "chúa",
+        "thánh",
+        "chúa ơi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "lotus_lamp",
+      "meaning": "Lòng thương xót và sự cứu rỗi vô cùng, mọi khó khăn trong cuộc sống đều được chuyển hóa thành ân sủng",
+      "advice": "Ánh sáng thiêng liêng bao quanh bạn! Một việc tốt nhỏ bạn làm hôm nay sẽ trở thành một phước lành gấp vạn lần!"
+    },
+    {
+      "id": "angel",
+      "label": "Mơ thấy gặp thiên thần/tiên nữ",
+      "keywords": [
+        "thiên thần",
+        "Cổ tích",
+        "đôi cánh",
+        "Cổ tích",
+        "Thiên Đường",
+        "thiên thần",
+        "cổ tích"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 33,
+      "card_id": "flower_fairy",
+      "meaning": "Tình yêu trong sáng, hình thành mối quan hệ cao đẹp, đỉnh cao của cảm thụ nghệ thuật",
+      "advice": "Tâm trí của bạn trở nên rõ ràng như bầu trời! Hãy thổ lộ tình yêu của bạn bằng trái tim chân thành!"
+    },
+    {
+      "id": "ritual",
+      "label": "Nằm mơ thấy mình đang làm lễ cúng tổ tiên hoặc cầu nguyện",
+      "keywords": [
+        "nghi thức tổ tiên",
+        "Cầu nguyện",
+        "Thờ cúng",
+        "Mục lục",
+        "pháo hoa",
+        "nghi lễ",
+        "cầu nguyện"
+      ],
+      "fortune": "normal",
+      "lucky_number": 50,
+      "card_id": "wooden_fish",
+      "meaning": "Xử lý khủng hoảng thông qua việc truyền đạt mong muốn, thanh lọc tâm hồn và thái độ ngoan đạo",
+      "advice": "Mong muốn tha thiết của tôi đạt đến bầu trời! Bắt đầu ngày mới một cách bình tĩnh với tâm trí của bạn cùng nhau!"
+    },
+    {
+      "id": "talisman",
+      "label": "Nằm mơ thấy mình sử dụng hoặc nhận được bùa hộ mệnh",
+      "keywords": [
+        "Bùa hộ mệnh",
+        "Đệ nhất phu nhân",
+        "Kinh thánh",
+        "Vu khống",
+        "Cục Tự Vệ",
+        "bùa hộ mệnh"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 73,
+      "card_id": "inkstone",
+      "meaning": "Hình thành lá chắn tinh thần vững chắc, ngăn chặn nguồn gốc của mọi điều xui xẻo",
+      "advice": "Lá chắn yêu tinh bất khả chiến bại đã bị tấn công! Không có trở ngại nào có thể phá vỡ bạn!"
+    },
+    {
+      "id": "coffin",
+      "label": "Nằm mơ thấy hoặc đi vào quan tài (xác chết)",
+      "keywords": [
+        "quan tài",
+        "xác chết",
+        "Xác chết",
+        "Nhập học",
+        "Tro tàn",
+        "quan tài",
+        "xác chết"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Quá khứ hoàn toàn chết đi và sống lại, tài sản thừa kế khổng lồ",
+      "advice": "Cái tôi cũ đã chết và cái tôi mới được sinh ra! Một bước ngoặt lớn trong cuộc đời bắt đầu!"
+    },
+    {
+      "id": "reaper",
+      "label": "Nằm mơ thấy gặp thần chết",
+      "keywords": [
+        "Tử thần",
+        "Sư Tử",
+        "thế giới ngầm",
+        "Chasa",
+        "máy gặt",
+        "thần chết"
+      ],
+      "fortune": "normal",
+      "lucky_number": 13,
+      "card_id": "shadow_walker",
+      "meaning": "Một thời điểm quyết định quan trọng của cuộc đời, một cơ hội để kiểm tra sức khỏe và bỏ đi những thói quen xấu",
+      "advice": "Đây là tín hiệu nhận ra tầm quan trọng của thời gian! Hãy chắc chắn từ bỏ một thói quen xấu ngay hôm nay!"
+    },
+    {
+      "id": "flying",
+      "label": "Ước mơ được bay tự do trên bầu trời",
+      "keywords": [
+        "Bầu trời",
+        "Chuyến bay",
+        "bay",
+        "Bay lên",
+        "Bay trên bầu trời",
+        "bay"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "wind_child",
+      "meaning": "Một quỹ đạo đi lên không thể ngăn cản, thoát khỏi sự ràng buộc và hướng tới tự do và thành tựu.",
+      "advice": "Bạn lơ lửng trong không trung càng lâu thì tầm nhìn của bạn càng rộng! Hãy vẽ bức tranh lớn ngày hôm nay, kkaebi!"
+    },
+    {
+      "id": "falling",
+      "label": "Nằm mơ thấy mình rơi từ vách đá hoặc trên không",
+      "keywords": [
+        "tai nạn",
+        "Rơi",
+        "Rơi",
+        "vách đá",
+        "Trượt",
+        "rơi"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 58,
+      "card_id": "brass_bell",
+      "meaning": "Sợ mất địa vị hoặc quyền kiểm soát, đề nghị kiểm tra cơ bản",
+      "advice": "Đừng nhắm mắt khi bạn ngã! Ngay khi bạn tìm thấy một khoảng trống để bước lên, bạn sẽ bật trở lại!"
+    },
+    {
+      "id": "chased",
+      "label": "Nằm mơ thấy bị quái vật hoặc dã thú truy đuổi",
+      "keywords": [
+        "bị truy đuổi",
+        "Chạy đi",
+        "đuổi theo",
+        "Chạy đi",
+        "Nằm mơ thấy bị rượt đuổi",
+        "bị truy đuổi",
+        "bỏ chạy"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 29,
+      "card_id": "shadow_walker",
+      "meaning": "Đã đến lúc phải đối mặt với thời hạn và áp lực chứ không phải bỏ chạy",
+      "advice": "Bạn càng chạy trốn, con quái vật càng trở nên lớn hơn! Hãy dừng lại và trừng mắt như một con yêu tinh!"
+    },
+    {
+      "id": "dreaming",
+      "label": "Lại mơ trong giấc mơ",
+      "keywords": [
+        "Giấc mơ trong giấc mơ",
+        "giấc mơ sáng suốt",
+        "Giấc mơ sáng suốt",
+        "giấc mơ giấc mơ",
+        "giấc mơ đôi",
+        "mơ trong mơ"
+      ],
+      "fortune": "normal",
+      "lucky_number": 73,
+      "card_id": "dream_eater",
+      "meaning": "Suy ngẫm sâu sắc về hiện thực và lý tưởng, khám phá chính xác tiềm thức",
+      "advice": "Đừng để bị mắc kẹt trong mê cung của những suy nghĩ! Hãy rũ bỏ mái tóc của bạn và đi dạo nhẹ nhàng ngay hôm nay!"
+    },
+    {
+      "id": "cleaning",
+      "label": "Nằm mơ thấy mình dọn dẹp nhà cửa, phòng sạch sẽ",
+      "keywords": [
+        "Dọn dẹp",
+        "Tóm tắt",
+        "lau nhà",
+        "máy hút bụi",
+        "Dọn phòng",
+        "dọn dẹp"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 47,
+      "card_id": "wooden_comb",
+      "meaning": "Xua tan nỗi lo cũ, đón khách mới và gặp nhiều may mắn",
+      "advice": "Phước lành cư trú ở những nơi sạch sẽ! Hãy bắt đầu bằng việc lau sạch bàn làm việc của bạn ngay hôm nay!"
+    },
+    {
+      "id": "wedding",
+      "label": "Nằm mơ thấy mình đi dự hoặc tổ chức đám cưới",
+      "keywords": [
+        "kết hôn",
+        "đám cưới",
+        "đám cưới",
+        "Chú rể",
+        "Cô dâu",
+        "hôn nhân",
+        "đám cưới"
+      ],
+      "fortune": "normal",
+      "lucky_number": 26,
+      "card_id": "jade_ring",
+      "meaning": "Ký kết thỏa thuận hợp tác mới, khởi động dự án chung",
+      "advice": "Đã đến lúc chung tay và bắt đầu! Hãy giữ đúng lời hứa với đối tác của mình!"
+    },
+    {
+      "id": "funeral",
+      "label": "Giấc mơ tang lễ/bier",
+      "keywords": [
+        "Tang lễ",
+        "Ngôi Nhà Chân Dung",
+        "Tiền thưởng",
+        "Xin chia buồn",
+        "Lễ tang",
+        "tang lễ"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 95,
+      "card_id": "moon_jar",
+      "meaning": "Một sự kết thúc hoàn toàn cho nỗi đau trong quá khứ, một bước ngoặt lớn và may mắn",
+      "advice": "Nỗi đau quá khứ đã hoàn toàn qua đi! Đổ rượu mới vào bình mới và tổ chức một bữa tiệc!"
+    },
+    {
+      "id": "exam_pass",
+      "label": "Ước mơ tự tin vượt qua kỳ thi",
+      "keywords": [
+        "Đã vượt qua",
+        "Đã vượt qua kỳ thi",
+        "được bầu",
+        "Nhập học",
+        "Việc làm",
+        "vượt qua kỳ thi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 100,
+      "card_id": "rooster",
+      "meaning": "Phần thưởng hoàn hảo cho sự làm việc chăm chỉ lâu dài, đạt được bằng cấp được công nhận và sự cổ vũ",
+      "advice": "Những giọt mồ hôi biến thành quả vàng! Khen ngợi bản thân vì tất cả công việc khó khăn của bạn!"
+    },
+    {
+      "id": "exam_fail",
+      "label": "Nằm mơ thấy mình thi trượt hoặc đi thi muộn",
+      "keywords": [
+        "Thất bại",
+        "Thi trượt",
+        "Đi thi muộn",
+        "Thất bại",
+        "Kiểm tra lại",
+        "thi trượt"
+      ],
+      "fortune": "normal",
+      "lucky_number": 31,
+      "card_id": "inkstone",
+      "meaning": "Coi chừng chủ nghĩa cầu toàn quá mức, cần thư giãn và ôn tập trong thực hành",
+      "advice": "Đúng hơn, nó giống như tiêm vắc-xin! Hãy thư giãn đầu óc và kiểm tra lại một lần nữa!"
+    },
+    {
+      "id": "fight",
+      "label": "Nằm mơ thấy đánh nhau dữ dội",
+      "keywords": [
+        "chiến đấu",
+        "Chiến đấu",
+        "Đánh nhau",
+        "giấc mơ đánh nhau",
+        "Đánh nhau",
+        "chiến đấu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "dokkaebi_club",
+      "meaning": "Giải quyết xung đột thông qua đối đầu trực diện, đối phương đầu hàng hoàn toàn",
+      "advice": "Bạn phải va chạm mà không né tránh để giành chiến thắng! Hãy tự hào bộc lộ logic của tôi đi, kkaebi!"
+    },
+    {
+      "id": "murder",
+      "label": "Nằm mơ thấy giết hoặc hành quyết người khác",
+      "keywords": [
+        "giết người",
+        "Giết người",
+        "Trừng phạt",
+        "Áp đảo",
+        "giết người",
+        "giết",
+        "giết người"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dokkaebi_club",
+      "meaning": "Xóa bỏ hoàn toàn chướng ngại bấy lâu, hoàn thành tâm nguyện bấy lâu và giành thắng lợi vĩ đại",
+      "advice": "Trở ngại đã được loại bỏ hoàn toàn! Bây giờ là lúc để giành chiến thắng mà không gặp bất kỳ rắc rối nào!"
+    },
+    {
+      "id": "thief",
+      "label": "Nằm mơ thấy kẻ trộm đột nhập",
+      "keywords": [
+        "tên trộm",
+        "Tên cướp",
+        "Xâm nhập",
+        "Trộm cắp",
+        "trộm cắp",
+        "tên trộm",
+        "tên cướp"
+      ],
+      "fortune": "normal",
+      "lucky_number": 38,
+      "card_id": "brass_bell",
+      "meaning": "Yêu cầu kiểm tra an ninh, bảo vệ tài sản trí tuệ hoặc ý tưởng có giá trị",
+      "advice": "Tôi bảo vệ kho báu của mình! Thay đổi mật khẩu của bạn và kiểm tra bảo mật của bạn!"
+    },
+    {
+      "id": "police",
+      "label": "Nằm mơ thấy gặp công an hoặc bị điều tra",
+      "keywords": [
+        "cảnh sát",
+        "Cảnh sát",
+        "Điều tra",
+        "Bị bắt",
+        "đồn cảnh sát",
+        "cảnh sát"
+      ],
+      "fortune": "normal",
+      "lucky_number": 11,
+      "card_id": "inkstone",
+      "meaning": "Đảm bảo an toàn tuân thủ quy định, kiểm tra hồ sơ, rà soát thuế/pháp lý",
+      "advice": "Nếu bạn tuân theo các nguyên tắc thì không có gì phải sợ cả! Hãy chắc chắn rằng tài liệu của bạn hoàn toàn phù hợp với quy định!"
+    },
+    {
+      "id": "lost_way",
+      "label": "Nằm mơ thấy mình đi lạc và lang thang",
+      "keywords": [
+        "Bị mất",
+        "Mia",
+        "Lang thang",
+        "Lang thang",
+        "Ngã Tư",
+        "lạc đường"
+      ],
+      "fortune": "normal",
+      "lucky_number": 44,
+      "card_id": "brass_bell",
+      "meaning": "Tín hiệu đặt lại mục tiêu, tạm dừng và kiểm tra la bàn",
+      "advice": "Khi không biết đường, cách nhanh nhất là dừng lại! Hãy quay lại từ đầu và kiểm tra mục tiêu của bạn!"
+    },
+    {
+      "id": "moving_house",
+      "label": "Nằm mơ thấy chuyển đến nhà mới hoặc xây nhà",
+      "keywords": [
+        "Giám đốc",
+        "Nhà mới",
+        "Xây nhà",
+        "Kiến trúc",
+        "Chuyển đến ở",
+        "chuyển nhà",
+        "nhà mới"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 65,
+      "card_id": "folding_fan",
+      "meaning": "Cải thiện đột phá về môi trường, mở rộng địa điểm kinh doanh và thiết lập nền tảng cho sự giàu có",
+      "advice": "Ngôi nhà mới của bạn tràn đầy phước lành! Hãy bắt đầu một khởi đầu mới ở một môi trường mới!"
+    },
+    {
+      "id": "eating",
+      "label": "Nằm mơ thấy ăn cơm ngon",
+      "keywords": [
+        "Nằm mơ thấy ăn",
+        "bữa ăn",
+        "Bữa tiệc thịnh soạn",
+        "Món ăn",
+        "Bữa tối",
+        "đang ăn",
+        "bữa tiệc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 56,
+      "card_id": "tea_bowl",
+      "meaning": "Sự phong phú về vật chất và sự hài lòng, tương tác thú vị với những vị khách được chào đón",
+      "advice": "Một ngày để bổ sung chất dinh dưỡng cho cơ thể và tâm trí của bạn! Hãy cùng nhau chia sẻ những món ăn ngon nhé!"
+    },
+    {
+      "id": "flower",
+      "label": "Hoa và cánh đồng hoa nở rộ",
+      "keywords": [
+        "hoa",
+        "cánh đồng hoa",
+        "Ra hoa",
+        "Bó hoa",
+        "Vườn Hoa",
+        "hoa",
+        "nở hoa"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 35,
+      "card_id": "flower_fairy",
+      "meaning": "Danh vọng tràn đầy, may mắn trong tình duyên, thành quả nghệ thuật",
+      "advice": "Những bông hoa đang nở rộ! Tự hào khoe kết quả đẹp đẽ của bạn với thế giới!"
+    },
+    {
+      "id": "rice_cake",
+      "label": "Bánh gạo ấm và cơm dẻo",
+      "keywords": [
+        "bánh gạo",
+        "Bob",
+        "Sirutdeok",
+        "Injeolmi",
+        "Gạo",
+        "bánh gạo",
+        "cơm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "silk_pouch",
+      "meaning": "Tiệc tùng tại nhà dồi dào, đồ ăn đảm bảo và thịnh vượng",
+      "advice": "Boktteok đang lăn bánh! Hãy ăn uống đầy đủ và mạnh mẽ tiến về phía trước!"
+    },
+    {
+      "id": "fruit",
+      "label": "Táo/đào/quả chín thơm ngon",
+      "keywords": [
+        "trái cây",
+        "táo",
+        "Đào",
+        "Hồng",
+        "Nho",
+        "trái cây",
+        "trái cây",
+        "táo",
+        "đào"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 76,
+      "card_id": "lotus_lamp",
+      "meaning": "Ước mơ trước khi sinh, thành quả của tình yêu, thu nhập dồi dào và trường thọ",
+      "advice": "Đã đến lúc thu hoạch trái chín! Hãy tự hào về những nỗ lực của bạn cho đến nay!"
+    },
+    {
+      "id": "big_tree",
+      "label": "Cây cối rậm rạp và rừng rậm",
+      "keywords": [
+        "cây",
+        "Cây lớn",
+        "cây cổ thụ",
+        "rừng",
+        "rừng",
+        "cây",
+        "rừng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 92,
+      "card_id": "mountain_spirit",
+      "meaning": "Nuôi dưỡng một người sẽ trở thành trụ cột to lớn, thịnh vượng và bóng mát lâu dài cho gia đình",
+      "advice": "Cây có rễ sâu không bị gió rung chuyển! Hãy mạnh mẽ và giữ trọng tâm của bạn!"
+    },
+    {
+      "id": "meat_dish",
+      "label": "Ước mơ được phục vụ một đĩa thịt thịnh soạn",
+      "keywords": [
+        "thịt",
+        "Thịt nướng",
+        "Bulgogi",
+        "Sườn",
+        "thịt",
+        "thịt",
+        "thịt nướng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 64,
+      "card_id": "tea_bowl",
+      "meaning": "Lấy lại năng lượng, nhận được sự hiếu khách và hỗ trợ hết mình từ một người giàu có",
+      "advice": "Năng lượng của tôi đang tăng vọt! Hãy ăn uống đầy đủ và vượt qua những việc bạn đang trì hoãn, kkaebi!"
+    },
+    {
+      "id": "drinking",
+      "label": "Nằm mơ thấy uống rượu và nướng bánh",
+      "keywords": [
+        "rượu",
+        "Uống rượu",
+        "Chúc mừng",
+        "bia",
+        "rượu",
+        "Soju",
+        "uống rượu",
+        "nâng ly chúc mừng"
+      ],
+      "fortune": "normal",
+      "lucky_number": 45,
+      "card_id": "tea_bowl",
+      "meaning": "Một sự kết hợp thú vị giữa các mối quan hệ giữa con người với nhau, nhưng hãy cẩn thận với những lời nói tục tĩu khi say rượu hoặc uống rượu quá mức",
+      "advice": "Uống vui vẻ nhưng vẫn an toàn! Đừng đánh mất sự nghiêm túc của bạn giữa niềm vui!"
+    },
+    {
+      "id": "rotten_food",
+      "label": "Nằm mơ thấy thực phẩm hư hỏng hoặc trái cây thối",
+      "keywords": [
+        "thực phẩm hư hỏng",
+        "trái cây thối",
+        "Tham nhũng",
+        "Ngộ độc thực phẩm",
+        "đồ ăn thối",
+        "đồ ăn thối"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 14,
+      "card_id": "brass_bell",
+      "meaning": "Cảnh giác với niềm tin mù quáng vào những cơ hội đã hết và thông tin lỗi thời",
+      "advice": "Vứt bỏ bất cứ thứ gì không còn tươi! Đừng bám vào những ý tưởng cũ và tìm kiếm sản phẩm mới!"
+    },
+    {
+      "id": "planting_seeds",
+      "label": "Ước mơ gieo hạt trên đồng và nảy mầm",
+      "keywords": [
+        "hạt giống",
+        "Gieo hạt",
+        "Mầm",
+        "Trồng",
+        "cây giống",
+        "gieo hạt",
+        "nảy mầm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 28,
+      "card_id": "cloud_pillow",
+      "meaning": "Sự khởi đầu của một khoản đầu tư lớn cho tương lai, sự nảy mầm của hy vọng mới",
+      "advice": "Một hạt giống nhỏ sẽ trở thành một cây lớn! Một thói quen nhỏ bạn rèn luyện hôm nay sẽ thay đổi cuộc đời bạn!"
+    },
+    {
+      "id": "ginseng",
+      "label": "Nằm mơ đào được nhân sâm/nấm linh chi rừng",
+      "keywords": [
+        "nhân sâm rừng",
+        "Nhân Sâm",
+        "Nấm Linh Chi",
+        "Tôi đã thấy nó",
+        "thuốc thảo dược",
+        "nhân sâm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "mountain_spirit",
+      "meaning": "Tôi đã thử nó! Liều thuốc tốt nhất tràn đầy may mắn trên trời, một giấc mơ vĩ đại và có được kho báu cả đời",
+      "advice": "Tôi không thể không hét lên rằng tôi đã thử nó! Đừng bỏ lỡ cơ hội được trời ban này, hãy nắm lấy nó!"
+    },
+    {
+      "id": "wind",
+      "label": "Gió mát/bão",
+      "keywords": [
+        "gió",
+        "Bão",
+        "cơn gió mạnh",
+        "gió nhẹ",
+        "gió mạnh",
+        "gió",
+        "cơn bão"
+      ],
+      "fortune": "normal",
+      "lucky_number": 37,
+      "card_id": "wind_child",
+      "meaning": "Làn sóng thay đổi mới, đổi mới hệ thống cũ và Lee Dong-su",
+      "advice": "Nếu bạn cưỡi gió, bạn sẽ bay xa hơn! Đừng sợ thay đổi, hãy đi theo dòng chảy!"
+    },
+    {
+      "id": "door",
+      "label": "Cổng Mới/Người gác cổng",
+      "keywords": [
+        "cửa",
+        "cổng chính",
+        "Thoát",
+        "Lối vào",
+        "Người gác cổng",
+        "cửa",
+        "cổng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 21,
+      "card_id": "dokkaebi_club",
+      "meaning": "Cánh cửa cơ hội mới đang rộng mở, bước vào một thế giới mới",
+      "advice": "Đừng ngần ngại và vượt qua ngưỡng! Một sân khấu đang chờ bạn sau cánh cửa!"
+    },
+    {
+      "id": "missed_bus",
+      "label": "Nằm mơ thấy lỡ xe buýt hoặc tàu hỏa",
+      "keywords": [
+        "Lỡ xe buýt",
+        "Lỡ tàu",
+        "nhớ",
+        "Chuyến tàu cuối cùng",
+        "Lên máy bay không thành công",
+        "lỡ xe buýt"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 52,
+      "card_id": "brass_bell",
+      "meaning": "Lo mất cơ hội, cần sắp xếp lịch trình linh hoạt",
+      "advice": "Chiếc xe tiếp theo chắc chắn sẽ đến! Đừng nôn nóng và chờ đợi ở điểm dừng tiếp theo!"
+    },
+    {
+      "id": "airplane",
+      "label": "Nằm mơ thấy mình bay cao trên máy bay",
+      "keywords": [
+        "máy bay",
+        "Lên máy bay",
+        "Cất cánh",
+        "Hàng không",
+        "Bầu trời",
+        "máy bay",
+        "chuyến bay"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 88,
+      "card_id": "wind_child",
+      "meaning": "Nâng cao địa vị nhanh chóng, thăng tiến kinh doanh ở nước ngoài và hoàn thành thành công các dự án lớn",
+      "advice": "Sẵn sàng cất cánh! Hãy thắt dây an toàn và bay lên độ cao cao hơn!"
+    },
+    {
+      "id": "car_driving",
+      "label": "Ước mơ được tự mình lái một chiếc ô tô đẹp",
+      "keywords": [
+        "Lái xe",
+        "xe hơi",
+        "Lái xe",
+        "Siêu xe",
+        "Đang chạy",
+        "lái xe",
+        "xe hơi"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 71,
+      "card_id": "horse",
+      "meaning": "Kiểm soát cuộc sống của chính bạn và điều hành công việc kinh doanh của bạn mà không bị gián đoạn",
+      "advice": "Tay cầm nằm trong tay bạn! Đừng đạp phanh, hãy đạp thật bình tĩnh!"
+    },
+    {
+      "id": "car_accident",
+      "label": "Nằm mơ thấy tai nạn hoặc đâm xe",
+      "keywords": [
+        "tai nạn giao thông",
+        "tai nạn xe hơi",
+        "Va chạm",
+        "tai nạn",
+        "Tai nạn xe hơi",
+        "tai nạn xe hơi"
+      ],
+      "fortune": "ominous",
+      "lucky_number": 32,
+      "card_id": "brass_bell",
+      "meaning": "Cẩn thận với những bất đồng bất ngờ, đức tính nhường nhịn và lái xe phòng thủ",
+      "advice": "Hôm nay nhớ dừng đèn vàng nhé! Nhường một bước là bí quyết để đi trước mười bước!"
+    },
+    {
+      "id": "ship",
+      "label": "Ước mơ được cưỡi một chuyến du thuyền / con tàu lớn",
+      "keywords": [
+        "tàu",
+        "Tàu du lịch",
+        "Du thuyền",
+        "Đi thuyền",
+        "tàu",
+        "tàu",
+        "hành trình"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 74,
+      "card_id": "water_sprite",
+      "meaning": "Ra mắt tổ chức quy mô lớn, hành trình dài hạn vững vàng và thành công rực rỡ",
+      "advice": "Ra khơi với một cơn gió thuận lợi! Chèo mạnh mẽ hòa hợp với đồng nghiệp của bạn!"
+    },
+    {
+      "id": "bicycle",
+      "label": "Nằm mơ thấy đi xe đạp/xe máy",
+      "keywords": [
+        "xe đạp",
+        "xe máy",
+        "xe đạp",
+        "Bàn đạp",
+        "Cưỡi ngựa",
+        "xe đạp",
+        "xe đạp"
+      ],
+      "fortune": "normal",
+      "lucky_number": 25,
+      "card_id": "wind_child",
+      "meaning": "Di chuyển nhanh nhẹn, duy trì cảm giác cân bằng và tiến về phía trước trong cuộc sống hàng ngày",
+      "advice": "Bạn phải tìm sự cân bằng để tiến về phía trước! Đừng nghiêng sang trái hoặc phải, hãy ở giữa!"
+    },
+    {
+      "id": "elevator",
+      "label": "Nằm mơ thấy thang máy đi lên với tốc độ cao",
+      "keywords": [
+        "Thang máy",
+        "Thang máy",
+        "tăng",
+        "Tăng tốc độ cao",
+        "nâng",
+        "thang máy"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 89,
+      "card_id": "sun_messenger",
+      "meaning": "Siêu khuyến mãi tăng theo chiều dọc, vươn lên vị trí cao trong tích tắc",
+      "advice": "Tôi đã nhấn nút thang máy! Khi cánh cửa mở ra, hãy chào đón thế giới từ trên cao!"
+    },
+    {
+      "id": "stairs",
+      "label": "Nằm mơ thấy mình lần lượt đi lên cầu thang",
+      "keywords": [
+        "cầu thang",
+        "Leo cầu thang",
+        "tăng",
+        "cầu thang",
+        "bậc đá",
+        "cầu thang"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 63,
+      "card_id": "mountain_spirit",
+      "meaning": "Từng bước thành công, thăng tiến vững chắc dựa trên kỹ năng vững chắc",
+      "advice": "Mỗi bước là tùy thuộc vào bạn! Đừng trượt chân và leo lên trong im lặng!"
+    },
+    {
+      "id": "bridge",
+      "label": "Nằm mơ thấy qua cây cầu vững chắc",
+      "keywords": [
+        "chân",
+        "cầu",
+        "qua cầu",
+        "Cầu vượt",
+        "cầu đá",
+        "cầu"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 46,
+      "card_id": "star_weaver",
+      "meaning": "Một sự chuyển đổi an toàn sang một giai đoạn mới của cuộc sống, kết nối hòa bình với xung đột",
+      "advice": "Bạn đã qua sông rồi, đừng ngoảnh lại! Một lãnh thổ mới mở ra trước mắt bạn!"
+    },
+    {
+      "id": "tunnel",
+      "label": "Nằm mơ thấy mình bước ra khỏi đường hầm tối tăm",
+      "keywords": [
+        "đường hầm",
+        "Đi qua đường hầm",
+        "Thoát khỏi bóng tối",
+        "ánh sáng",
+        "Cuối đường hầm",
+        "đường hầm"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 51,
+      "card_id": "lotus_lamp",
+      "meaning": "Kết thúc trọn vẹn thời kỳ đen tối, ánh nắng chói chang chào đón bạn ở lối ra",
+      "advice": "Có một ánh sáng rực rỡ ở cuối đường hầm! Bây giờ những khó khăn đã qua và hạnh phúc bắt đầu!"
+    },
+    {
+      "id": "laughing",
+      "label": "Nằm mơ thấy mình ôm rốn cười lớn",
+      "keywords": [
+        "Cười lớn",
+        "Tiếng cười",
+        "Ồn ào quá",
+        "Paan Daeso",
+        "Ước mơ mỉm cười",
+        "cười"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Một sự bùng nổ dễ chịu của năng lượng bị chặn, một sự kiện tốt lành sẽ vang vọng khắp ngôi nhà",
+      "advice": "Đúng là tiếng cười mang lại may mắn! Hãy mỉm cười rạng rỡ với mọi người bạn gặp hôm nay, kkaebi!"
+    },
+    {
+      "id": "sleep_paralysis",
+      "label": "Nằm mơ thấy mình bị kéo ép hoặc cơ thể trở nên cứng đờ",
+      "keywords": [
+        "Kéo ép",
+        "Làm cứng cơ thể",
+        "sự tê liệt",
+        "cơn ác mộng",
+        "Chuyển động cơ thể",
+        "tê liệt khi ngủ"
+      ],
+      "fortune": "normal",
+      "lucky_number": 33,
+      "card_id": "brass_bell",
+      "meaning": "Sự mệt mỏi tích tụ quá mức, ngủ đủ giấc và nghỉ ngơi giải nhiệt là rất cần thiết",
+      "advice": "Cơ thể tôi đang gào thét! Tắt điện thoại thông minh của bạn tối nay và ngủ ngon!"
+    },
+    {
+      "id": "anger",
+      "label": "Nằm mơ thấy mình giận dữ và la hét",
+      "keywords": [
+        "giận dữ",
+        "La hét",
+        "tức giận",
+        "vụ nổ",
+        "phẫn nộ",
+        "giận dữ",
+        "hét lên"
+      ],
+      "fortune": "normal",
+      "lucky_number": 48,
+      "card_id": "dokkaebi_fire",
+      "meaning": "Thể hiện công bằng những cảm xúc bị kìm nén, quyết tâm thể hiện khả năng lãnh đạo",
+      "advice": "Đừng nuốt cơn giận của bạn mà hãy thể hiện nó một cách khôn ngoan! Đã đến lúc bạn phải vững vàng!"
+    },
+    {
+      "id": "ecstasy",
+      "label": "Ngây ngất và bình yên sâu lắng",
+      "keywords": [
+        "Thuốc lắc",
+        "hòa bình",
+        "Niềm vui",
+        "thiên đường",
+        "Niềm vui",
+        "ngây ngất",
+        "hạnh phúc"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "cloud_pillow",
+      "meaning": "Sự viên mãn trọn vẹn của tâm hồn, đỉnh cao của sự may mắn và ân sủng lớn nhất của cuộc đời",
+      "advice": "Tất cả các phước lành của vũ trụ đổ xuống bạn! Hãy tận hưởng niềm hạnh phúc này bằng cả trái tim!"
+    },
+    {
+      "id": "kkaebi_bat",
+      "label": "Nằm mơ thấy mình cầm con dơi kkaebi trên tay",
+      "keywords": [
+        "dơi kkaebi",
+        "Yêu Tinh Dơi",
+        "Hãy ra ngoài với vàng",
+        "cây đũa thần",
+        "dơi",
+        "câu lạc bộ phép thuật"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 77,
+      "card_id": "dokkaebi_club",
+      "meaning": "Hãy ra ngoài với vàng! Đỉnh cao của sự sáng tạo nơi mọi thứ trở thành hiện thực khi bạn chạm vào",
+      "advice": "Hãy nói to những gì bạn muốn! Tôi sẽ đánh bạn bằng một cây gậy và biến tất cả thành hiện thực!"
+    },
+    {
+      "id": "kkaebi_hat",
+      "label": "Ước mơ sử dụng gamtu yêu tinh",
+      "keywords": [
+        "Yêu tinh Gamtu",
+        "mũ trong suốt",
+        "Gamtu",
+        "Tàng hình",
+        "mũ yêu tinh",
+        "chiếc mũ thần kì"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 23,
+      "card_id": "shadow_walker",
+      "meaning": "Tự do khỏi ánh mắt của kẻ thù, khả năng bí mật thống trị xu hướng",
+      "advice": "Không cần phải lo lắng về những gì người khác nghĩ! Âm thầm và bí mật, lo liệu mọi việc thực tế đi, đồ khốn!"
+    },
+    {
+      "id": "lucky_pouch",
+      "label": "Nằm mơ thấy mở túi vàng may mắn",
+      "keywords": [
+        "Túi may mắn",
+        "Túi May Mắn Vàng",
+        "túi lụa",
+        "Bokdon",
+        "Túi Kho Báu",
+        "túi may mắn"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "silk_pouch",
+      "meaning": "Của cải không bao giờ khô như chậu hoa, tài sản gia đình sẽ truyền từ thế hệ này sang thế hệ khác",
+      "advice": "Túi của bạn tràn đầy may mắn! Sự hào phóng mà bạn cho đi hôm nay sẽ được đền đáp gấp đôi!"
+    },
+    {
+      "id": "magic_broom",
+      "label": "Nằm mơ thấy viết bằng cây chổi vàng huyền bí",
+      "keywords": [
+        "Cây chổi",
+        "Cây Chổi Vàng",
+        "Cây chổi yêu tinh",
+        "quét",
+        "chổi lau nhà",
+        "cây chổi ma thuật"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 68,
+      "card_id": "wooden_comb",
+      "meaning": "Một phép thanh lọc kỳ diệu giúp xua tan xui xẻo và thu hút vàng.",
+      "advice": "Hãy quét sạch tất cả những điều xấu và chỉ thu thập những điều may mắn! Thông gió không khí trong nhà của bạn!"
+    },
+    {
+      "id": "dragon_jewel",
+      "label": "Giấc mơ ôm ngọc rồng (long châu)",
+      "keywords": [
+        "Yeouiju",
+        "Hạt Rồng",
+        "Yonguiyeouiju",
+        "hạt",
+        "Tốt nhất thế giới",
+        "quả cầu rồng"
+      ],
+      "fortune": "auspicious",
+      "lucky_number": 99,
+      "card_id": "dragon",
+      "meaning": "Có được quả cầu tốt nhất sẽ thống trị thế giới, một giấc mơ tuyệt vời nơi điều ước của bạn sẽ thành hiện thực 100%",
+      "advice": "Yeouiju tốt nhất trên thế giới đang ở trong vòng tay của bạn! Không có ước mơ nào là không thể đạt được!"
+    }
+  ]
+}

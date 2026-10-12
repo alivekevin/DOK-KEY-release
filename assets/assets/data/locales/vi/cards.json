@@ -1,0 +1,332 @@
+{
+  "Z01": {
+    "name": "Tý (Chuột)",
+    "symbol": "Sứ giả của trí tuệ và sự giàu có",
+    "description": "Một nguồn năng lượng rực rỡ tìm ra con đường ngay cả trong bóng tối và mang lại cho bạn chiếc chìa khóa vàng dẫn đến sự giàu có"
+  },
+  "Z02": {
+    "name": "Sửu (Trâu/Bò)",
+    "symbol": "Vùng đất lương thiện và chân thành",
+    "description": "Sức mạnh của tuổi Sửu giúp bạn từng bước tiến về phía trước và cuối cùng đạt được kết quả tuyệt vời"
+  },
+  "Z03": {
+    "name": "Dần (Hổ)",
+    "symbol": "Chúa tể của lòng dũng cảm và trừ tà",
+    "description": "Linh hồn cắt bỏ vận rủi chỉ bằng một thanh kiếm với đôi mắt hung dữ và mở ra cánh cửa vận may"
+  },
+  "Z04": {
+    "name": "Mão (Mèo/Thỏ)",
+    "symbol": "Ánh trăng nhanh nhẹn và nhảy vọt",
+    "description": "Trí tuệ dễ dàng vượt qua khủng hoảng bằng cách tạo nguồn cảm hứng lấp lánh dưới ánh trăng"
+  },
+  "Z05": {
+    "name": "Thìn (Rồng Xanh)",
+    "symbol": "Hướng Dẫn Thiên Đường và Hòa Hợp",
+    "description": "Linh hồn rồng mở ra vận may hài hòa giữa đất trời như bay lên trời ôm lấy Yeouiju màu xanh"
+  },
+  "Z06": {
+    "name": "Tỵ (Rắn)",
+    "symbol": "Ngọn lửa biến đổi và trực giác",
+    "description": "Trí tuệ dẫn đến bước ngoặt của cuộc đời với cái nhìn sâu sắc, như lột da và tái sinh"
+  },
+  "Z07": {
+    "name": "Ngọ (Ngựa Trắng)",
+    "symbol": "Một con ngựa trắng của niềm đam mê và phi nước đại",
+    "description": "Năng lượng lan tỏa mạnh mẽ về phía mục tiêu như thể chạy ngang qua vùng đất với bờm tung bay"
+  },
+  "Z08": {
+    "name": "Mùi (Dê/Cừu)",
+    "symbol": "Tinh thần hòa bình và dịu dàng",
+    "description": "Một đức tính nhẹ nhàng ôm lấy các mối quan hệ như bộ lông trắng tinh và mang lại sự bình yên sâu sắc cho trái tim"
+  },
+  "Z09": {
+    "name": "Thân (Khỉ)",
+    "symbol": "Một thoáng thông minh và tài năng",
+    "description": "Sở trường giúp vượt qua mọi trở ngại bằng những ý tưởng thú vị và tài năng nhanh nhẹn"
+  },
+  "Z10": {
+    "name": "Dậu (Gà)",
+    "symbol": "Canh gác ánh sáng đánh thức bình minh",
+    "description": "Một âm thanh báo hiệu sự khởi đầu của những cơ hội và thịnh vượng mới, giống như nó xuyên qua bóng tối và báo hiệu ánh sáng bình minh"
+  },
+  "Z11": {
+    "name": "Tuất (Chó)",
+    "symbol": "Chú chó bảo vệ lòng trung thành và ngôi nhà",
+    "description": "Một người bạn đáng tin cậy luôn bảo vệ những mối quan hệ và giá trị quý giá bằng lòng trung thành không lay chuyển"
+  },
+  "Z12": {
+    "name": "Hợi (Lợn Vàng)",
+    "symbol": "Quả của sự dồi dào và tài lộc lớn",
+    "description": "Biểu tượng của sự sung túc, tràn đầy phước lành vàng son và dồi dào phú quý thịnh vượng"
+  },
+  "Z13": {
+    "name": "Hải Đài",
+    "symbol": "Tinh thần công lý và cái chết ác độc",
+    "description": "Một linh hồn tốt lành phán đoán đúng sai và xua đuổi lửa và tai họa"
+  },
+  "Z14": {
+    "name": "hươu cao cổ",
+    "symbol": "Nước thánh báo kỷ nguyên hòa bình",
+    "description": "Cây thần linh phù hộ cho sự xuất hiện của vị thánh từ bi nhân hậu và thế giới thịnh vượng hòa bình"
+  },
+  "Z15": {
+    "name": "Suzaku",
+    "symbol": "Phượng hoàng và niềm đam mê phương Nam",
+    "description": "Năng lượng đốt cháy năng lượng tà ác và khơi dậy sức sống bất khuất bằng đôi cánh ngọn lửa đỏ"
+  },
+  "Z16": {
+    "name": "Hyeonmu",
+    "symbol": "Sống lâu và nền tảng vững chắc ở miền Bắc",
+    "description": "Rắn và rùa hòa làm một, bảo vệ sức khỏe và sự ổn định cho muôn kiếp"
+  },
+  "Z17": {
+    "name": "Hươu trắng (hươu trắng)",
+    "symbol": "Sự sống vĩnh cửu và sự chữa lành thuần khiết",
+    "description": "Seongsu, tràn ngập sương trong vắt của núi Yeongsan và mang đến sự chữa lành thuần khiết cũng như sự bình yên của cuộc sống lâu dài và khỏe mạnh"
+  },
+  "Z18": {
+    "name": "Phượng Hoàng",
+    "symbol": "Tính cách cao quý và hòa bình",
+    "description": "Một loài chim với bộ lông ngũ sắc óng ả mang đến những phước lành cao quý và đức hạnh nhất cho ngôi nhà bạn"
+  },
+  "Z19": {
+    "name": "Quạ ba chân",
+    "symbol": "Sứ giả của Mặt trời và Ánh sáng",
+    "description": "Sứ giả vĩ đại của ánh sáng, người truyền bá ánh sáng của thiên đường đến trái đất này và kết nối ý chí của trời và đất"
+  },
+  "Z20": {
+    "name": "Gumiho",
+    "symbol": "Một Ngàn Năm Trí Tuệ Và Hấp Dẫn",
+    "description": "Mỗi con trong số chín đuôi là một linh thú với phép thuật kỳ diệu và trí tuệ làm say đắm lòng người."
+  },
+  "Z21": {
+    "name": "Kỳ Lân",
+    "symbol": "Một sừng của sự tinh khiết và kỳ diệu",
+    "description": "Những lời chữa lành trái tim bị tổn thương bằng ánh sáng rực rỡ của chiếc tù và mang lại may mắn thần kỳ"
+  },
+  "Z22": {
+    "name": "Sammokgu (Chó ba mắt)",
+    "symbol": "Trừ tà tầm nhìn tâm linh và cái nhìn sâu sắc",
+    "description": "Chú chó thần hộ mệnh có khả năng nhìn thấu và xua đuổi vận rủi ẩn giấu bằng con mắt thứ ba trên trán"
+  },
+  "Z23": {
+    "name": "Ganesha",
+    "symbol": "Vượt qua trở ngại và làm giàu thịnh vượng",
+    "description": "Một thần thú tiêu diệt mọi chướng ngại vật trước mặt bạn và mở ra sự giàu có, danh vọng và trí tuệ"
+  },
+  "Z24": {
+    "name": "Sebek",
+    "symbol": "Nước sự sống và nguồn tài nguyên vô tận",
+    "description": "Yeongsu, nơi cung cấp mảnh đất màu mỡ và sự giàu có dồi dào với sự phù hộ của một dòng sông không bao giờ cạn"
+  },
+  "Z25": {
+    "name": "Imoogi",
+    "symbol": "Khẩn cấp kiên nhẫn và mãn tính lâu dài",
+    "description": "Sau một ngàn năm rèn luyện, năng lượng của sự kiên trì và vĩ đại cuối cùng cũng tăng vọt khi ôm lấy Yeouiju"
+  },
+  "Z26": {
+    "name": "Thằn lằn cá",
+    "symbol": "Tuyên bố bổ nhiệm và thông báo thành công",
+    "description": "Sức mạnh leo lên ngọn thác hùng vĩ và cuối cùng đạt được kỳ tích thành công rực rỡ và danh vọng"
+  },
+  "Z27": {
+    "name": "Nhân sư",
+    "symbol": "Kho câu đố và trí tuệ",
+    "description": "Cây hộ mệnh mở cửa kho báu vàng ẩn giấu nhờ tuệ giác sáng suốt"
+  },
+  "Z28": {
+    "name": "Leviathan",
+    "symbol": "Tiềm năng vô hạn của biển sâu",
+    "description": "Hơi thở đánh thức nguồn tài nguyên và sức sống tiềm ẩn rộng lớn khi bơi dưới biển sâu"
+  },
+  "Z29": {
+    "name": "Myodusa",
+    "symbol": "Các giác quan nhạy bén và nghỉ ngơi yên tĩnh",
+    "description": "Linh hồn đầu mèo thần bí ngăn chặn kẻ xâm nhập và bảo vệ ngôi nhà"
+  },
+  "Z30": {
+    "name": "Đảo Ba Chân (Cóc Bụng)",
+    "symbol": "Thần Tài cầm đồng tiền vàng",
+    "description": "Một con cóc lấp đầy kho bạc bằng cách thu thập tất cả của cải trên thế giới bằng ba chân của nó"
+  },
+  "Z31": {
+    "name": "Griffin",
+    "symbol": "Người bảo vệ bản lĩnh và kho báu vàng",
+    "description": "Sức mạnh quyết liệt bảo vệ kho báu và danh dự quý giá với đôi cánh đại bàng và sức mạnh của sư tử"
+  },
+  "Z32": {
+    "name": "Bạch Hổ",
+    "symbol": "Trừ tà và lòng dũng cảm chính trực",
+    "description": "Thần thú đánh bại mọi vận rủi và mở ra con đường chiến thắng vững chắc với sương bạc và tinh thần sắc bén"
+  },
+  "Z33": {
+    "name": "Quetzalcoatl",
+    "symbol": "Gió và hạt giống của nền văn minh mới",
+    "description": "Một con rắn bay qua bầu trời với bộ lông cầu vồng, truyền bá kiến ​​thức mới và thành quả của một nền văn minh giàu có"
+  },
+  "M01": {
+    "name": "Thần Núi",
+    "symbol": "Ẩn sĩ nhân từ của Yeongsan",
+    "description": "Vị thánh nhìn xuống năng lượng trong trẻo của núi sông và ban cho sự che chở nhân từ và trí tuệ"
+  },
+  "M02": {
+    "name": "Tử thần",
+    "symbol": "Hướng dẫn về vận mệnh và thoát khỏi vận rủi",
+    "description": "Một con sư tử giúp bạn cắt đứt vận rủi và bước sang con đường mới đúng đắn"
+  },
+  "M03": {
+    "name": "Ngọc Hoàng",
+    "symbol": "Thiên đường hòa hợp và vận may tối thượng",
+    "description": "Một thiên đế cai trị trật tự và hòa hợp trong thiên giới, cân bằng thế giới và ban phát tài lớn"
+  },
+  "M04": {
+    "name": "Vua Yeomra",
+    "symbol": "Cảnh đẹp và công lý của một chiến binh vô tư",
+    "description": "Một thẩm phán soi sáng sự thật theo kinh thánh, thiết lập công lý và xóa bỏ bất công"
+  },
+  "M05": {
+    "name": "Mago Halmi",
+    "symbol": "Sức mạnh sáng tạo của sự khởi đầu đã định hình nên trái đất",
+    "description": "Là một người khổng lồ đã tạo ra trái đất nguyên thủy và vạn vật, lòng bao dung vô hạn và sức mạnh cung cấp một ngôi nhà cho cuộc sống"
+  },
+  "M06": {
+    "name": "Baridegi",
+    "symbol": "Nước chữa bệnh của sự sống và sự tận tâm",
+    "description": "Công chúa Mercy, người vuốt ve vết thương sâu bằng nước sự sống và giúp hồi sinh thần kỳ trong tuyệt vọng"
+  },
+  "M07": {
+    "name": "Bà Samsin",
+    "symbol": "Phước lành cuộc sống và bình an gia đình",
+    "description": "Một lời chúc phúc ấm áp của người mẹ đảm bảo cho sự ra đời của một cuộc sống mới và hạnh phúc của gia đình."
+  },
+  "M08": {
+    "name": "Vua Rồng",
+    "symbol": "Kho báu và sự giàu có to lớn của Biển Chết",
+    "description": "Vị thần biển cai trị toàn bộ vùng nước và kho báu của Biển Chết và mở ra vô số cơ hội quý giá"
+  },
+  "M09": {
+    "name": "Teojudaegam",
+    "symbol": "Bảo vệ nhà cửa và tài sản của bạn",
+    "description": "Là chư hầu bảo vệ hạnh phúc gia đình và kiên quyết bảo vệ sự bình yên, giàu sang của gia đình khỏi bị phân tán"
+  },
+  "M10": {
+    "name": "Zeus",
+    "symbol": "Tia chớp trên bầu trời và sự lãnh đạo tự tin",
+    "description": "Vị thần điều khiển sấm sét của bầu trời và ban cho quyền lực lãnh đạo và phẩm giá chiến thắng"
+  },
+  "M11": {
+    "name": "Poseidon",
+    "symbol": "Sóng biển và thử thách không thể ngăn cản",
+    "description": "Là vị quân vương vượt qua sóng dữ của đại dương, vị thần khơi dậy sức sống không thể ngăn cản và khát vọng lớn lao"
+  },
+  "M12": {
+    "name": "Hades",
+    "symbol": "Kho báu dưới lòng đất và tiềm năng tiềm ẩn",
+    "description": "Một vị thần cai trị kho báu ẩn sâu trong lòng đất và âm thầm giúp mang lại thành quả sâu sắc"
+  },
+  "M13": {
+    "name": "Thor",
+    "symbol": "Sự dũng cảm và vượt qua khó khăn của Mjolnir",
+    "description": "Một chiến binh sử dụng búa sấm sét để phá hủy ngay lập tức mọi rào cản và giành chiến thắng"
+  },
+  "M14": {
+    "name": "Odin",
+    "symbol": "Trí tuệ runic và cái nhìn sâu sắc",
+    "description": "Một người khám phá tất cả những điều quan trọng của thế giới và đưa đến những hiểu biết sâu sắc và những quyết định sáng suốt"
+  },
+  "M15": {
+    "name": "Athena",
+    "symbol": "Trí tuệ chân chính và chiến lược chiến thắng",
+    "description": "Nữ thần dẫn dắt chiến thắng công bằng và khôn ngoan bằng trí tuệ thông minh và chiến lược kỹ lưỡng"
+  },
+  "M16": {
+    "name": "Apollo",
+    "symbol": "Sự rực rỡ của mặt trời và cảm hứng nghệ thuật",
+    "description": "Thần mặt trời xóa tan bóng tối trong tâm trí và tỏa sáng nguồn cảm hứng rực rỡ và sức sống khỏe mạnh"
+  },
+  "M17": {
+    "name": "Loki",
+    "symbol": "Sự thay đổi thú vị và sự hóm hỉnh tuyệt vời",
+    "description": "Sức mạnh đảo ngược vui vẻ lật ngược tình thế đông đúc bằng những ý tưởng độc đáo"
+  },
+  "M18": {
+    "name": "Valkyrie",
+    "symbol": "Đôi cánh chiến thắng và sự hướng dẫn đáng kính",
+    "description": "Một sứ giả nắm tay những người dũng cảm và dẫn họ đến đại sảnh danh vọng và thành công"
+  },
+  "M19": {
+    "name": "Phật Thích Ca",
+    "symbol": "Hiện thực hóa sự yên bình và lòng thương xót vĩnh cửu",
+    "description": "Một vị thánh gột rửa nỗi thống khổ và mang lại sự nghỉ ngơi yên tĩnh và sự thanh thản trong sáng cho tâm trí"
+  },
+  "M20": {
+    "name": "Quán Thế Âm Bồ Tát",
+    "symbol": "Sự tự chuẩn bị tuyệt vời để lắng nghe thế giới",
+    "description": "Một vị Bồ Tát từ bi lắng nghe mọi đau khổ và mong muốn và mang lại sự cứu rỗi và hòa bình ấm áp"
+  },
+  "M21": {
+    "name": "Ganesha (Thần)",
+    "symbol": "Khởi đầu mới và kinh doanh thịnh vượng",
+    "description": "Chúa là người mở ra cánh cửa cho một hành trình mới và ban phước lành cho bạn sự giàu có và kết quả khôn ngoan"
+  },
+  "M22": {
+    "name": "Shiva",
+    "symbol": "Vũ điệu của sự biến đổi và sáng tạo mạnh mẽ",
+    "description": "Một động lực thay đổi mạnh mẽ phá vỡ sự trì trệ cũ và thổi luồng sinh khí mới"
+  },
+  "M23": {
+    "name": "Indra",
+    "symbol": "Tia chớp phương Đông và vinh quang cao quý",
+    "description": "Jeseokcheon chỉ huy bầu trời và bảo vệ tinh thần kiêu hãnh và danh dự cao quý của mình"
+  },
+  "M24": {
+    "name": "Ra (thần mặt trời)",
+    "symbol": "Chim ưng mặt trời chiếu sáng cả thế giới",
+    "description": "Chúa là người chiếu sáng toàn thế giới một cách đồng đều và mang lại ánh sáng và sức sống tốt nhất không bao giờ nguội đi"
+  },
+  "M25": {
+    "name": "Osiris",
+    "symbol": "Mầm sống lại và sự sống vĩnh cửu",
+    "description": "Một vị vua ươm mầm những hạt giống tái sinh không thể phá vỡ và những bước nhảy vọt mới"
+  },
+  "M26": {
+    "name": "Tên khốn",
+    "symbol": "Người bảo vệ Myosin của niềm vui và hòa bình",
+    "description": "Vị thần bảo vệ sự hòa thuận trong gia đình và mang lại tiếng cười tốt lành và sự an toàn"
+  },
+  "M27": {
+    "name": "Anubis",
+    "symbol": "Cân Sự thật và Hướng dẫn Tâm hồn",
+    "description": "Một hướng dẫn công bằng giúp bạn đưa ra quyết định hợp lý và đạt được sự an tâm."
+  },
+  "M28": {
+    "name": "Tổng lãnh thiên thần Michael",
+    "symbol": "Thanh kiếm công lý và Lá chắn bảo vệ",
+    "description": "Vị tổng lãnh thiên thần đánh bại mọi thế lực tà ác và bảo vệ bạn an toàn bằng thanh kiếm ánh sáng cắt xuyên bóng tối"
+  },
+  "M29": {
+    "name": "Tổng lãnh thiên thần Gabriel",
+    "symbol": "Tiếng kèn hy vọng và tin vui",
+    "description": "Người đưa tin tốt lành, thông điệp hy vọng, báo điềm lành, may mắn"
+  },
+  "M30": {
+    "name": "Tổng lãnh thiên thần Raphael",
+    "symbol": "Chữa lành ấm áp và hành trình an toàn",
+    "description": "Một thiên thần an ủi những hành trình mệt mỏi và những trái tim tan vỡ, đồng thời mang lại sự hồi phục và sức khỏe nhẹ nhàng"
+  },
+  "M31": {
+    "name": "Tổng lãnh thiên thần Uriel",
+    "symbol": "Ngọn hải đăng trí tuệ soi sáng bóng tối",
+    "description": "Một thiên thần soi sáng sự thật trong lúc bối rối và dẫn dắt con đường khôn ngoan"
+  },
+  "M32": {
+    "name": "Thiên thần hộ mệnh",
+    "symbol": "Sự bảo vệ từ phía thân thiện và sự bình yên trong cuộc sống hàng ngày",
+    "description": "Một thiên thần không bao giờ rời xa dù chỉ một giây và luôn ở bên cạnh bạn, chăm sóc ấm áp trong từng bước đi của cuộc sống hàng ngày của bạn"
+  },
+  "M33": {
+    "name": "Moirai",
+    "symbol": "Sợi dây số phận và mối tình cao đẹp",
+    "description": "Nữ thần tháo gỡ những mối ràng buộc rối rắm và tạo ra sợi dây định mệnh đẹp đẽ nhất."
+  }
+}

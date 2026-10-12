@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Visiteur Curieux",
+      "subtitle": "Prudence intriguée et observation polie",
+      "quote": "D’où viens-tu, humain ? Regardes-tu avec curiosité ma massue de gobelin ?",
+      "perks": [
+        "Déblocage de 1 tirage quotidien de fortune",
+        "Dialogue intime de base avec Kkaebi"
+      ]
+    },
+    "2": {
+      "title": "Ami Proche",
+      "subtitle": "Gobelin farceur et compagnon complice",
+      "quote": "Oh ! Te revoilà, mon ami ! Quelle aventure t’amène aujourd’hui ?",
+      "perks": [
+        "Kkaebi flottant avec clin d’œil et animation joyeuse",
+        "Réaction de chatouillement quotidien (Affinité +5)",
+        "Ton chaleureux et amical sur les résultats de fortune"
+      ]
+    },
+    "3": {
+      "title": "Compagnon Inséparable",
+      "subtitle": "Ami intime partageant les secrets des bêtes divines",
+      "quote": "Je ne te le dis qu’à toi en secret : l’énergie de la Bête Divine d’aujourd’hui est extraordinaire !",
+      "perks": [
+        "Thèmes de discussion secrets et exclusifs",
+        "Conseil secret en une ligne sur l’écran de fortune",
+        "Particules dorées enrichies sur la massue magique"
+      ]
+    },
+    "4": {
+      "title": "Partenaire Gobelin",
+      "subtitle": "Meilleur allié offrant confiance et bénédiction infinie",
+      "quote": "Regarde comme nous sommes devenus proches ! Tu es désormais mon partenaire le plus cher.",
+      "perks": [
+        "Aura de feu follet autour du Kkaebi flottant",
+        "Clé dorée bonus offerte chaque lundi (+1)",
+        "Conseils d’empathie profonde dans le salon de discussion"
+      ]
+    },
+    "5": {
+      "title": "Âme Sœur Millénaire",
+      "subtitle": "Esprit gardien éternel veillant sur un lien millénaire",
+      "quote": "J’ai l’impression de t’avoir attendu mille ans. Je ferai pleuvoir la fortune dorée sur ta route !",
+      "perks": [
+        "Badge de Maître Kkaebi Doré",
+        "Effet ultime de bénédiction dorée du Dokkaebi",
+        "Déblocage des dialogues légendaires secrets"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Oh, ça chatouille ! Pourquoi me piques-tu tout le temps ? 😆",
+    "Héhé, je vois que tu aimes beaucoup me caresser ! ✨",
+    "Que l’or apparaisse ! Reçois mille bénédictions, mon ami ! 🔮",
+    "On dit que toucher mes cornes exauce tous les souhaits... Qui sait ? 😈",
+    "Courage pour cette belle journée ! Je veille toujours sur toi ! 💖"
+  ]
+}
