@@ -101677,7 +101677,7 @@ aSZ(a,b){var s=0,r=A.m(t.H),q=1,p=[],o=this,n,m,l,k
 var $async$M8=A.n(function(c,d){if(c===1){p.push(d)
 s=q}for(;;)switch(s){case 0:A.bH()
 $.aj().bH()
-n=A.hN("mailto:alivekevin@gmail.com?subject="+A.md(2,"[DOK-KEY v5.19.100 (Build 717)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bG,!1)+"&body="+A.md(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.100 (Build 717)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bG,!1),0,null)
+n=A.hN("mailto:alivekevin@gmail.com?subject="+A.md(2,"[DOK-KEY v5.19.101 (Build 718)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bG,!1)+"&body="+A.md(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.101 (Build 718)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bG,!1),0,null)
 m=!1
 q=3
 s=6
@@ -101936,7 +101936,7 @@ l=A.u(10)
 n=A.G(B.c_.m(0.6),1.2)
 l=A.b8(!1,m,!0,A.w(j,A.y(A.a([B.ajL,B.S,A.d(k.hH(e,"Feedback senden","Send Feedback","\u092b\u0940\u0921\u092c\u0948\u0915 \u092d\u0947\u091c\u0947\u0902","\u3054\u610f\u898b\u30fb\u4e0d\u5177\u5408\u5831\u544a",g,"\u610f\u89c1 / \u95ee\u9898\u53cd\u9988"),j,j,j,j,j,B.baz,j,j,j)],s),B.d,B.c,B.y,0,j),B.j,j,j,new A.x(B.a8m,j,n,l,j,j,B.n),j,j,j,j,B.j1,j,j,j),j,!0,j,j,j,j,j,j,j,j,j,j,new A.bi6(k,a0,e),j,j,j,j,j,j,j)
 n=A.bM(j,j,B.aa,j,j,j,4,j,j,B.v,j,j,B.adQ,j,new A.aF(A.u(12),B.w),j,j,j,j,j)
-return A.dX(j,B.G,A.w(j,A.I(A.a([r,q,p,A.w(j,A.I(A.a([A.y(A.a([l,A.dz(A.d(k.hH(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zw,j,j,j),new A.bi7(a0),n)],s),B.d,B.aF,B.h,0,j),B.ar,A.b2(A.d("v5.19.100 \xb7 Dokkey Studio",j,j,j,j,j,B.b8V,B.a1,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a2c,j,j,j,j,B.j3,j,j,j)],s),B.d,j,B.c,B.h,0,B.o),B.j,j,B.a1V,new A.x(B.mr,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j4,B.bt,j,j,j)},
+return A.dX(j,B.G,A.w(j,A.I(A.a([r,q,p,A.w(j,A.I(A.a([A.y(A.a([l,A.dz(A.d(k.hH(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zw,j,j,j),new A.bi7(a0),n)],s),B.d,B.aF,B.h,0,j),B.ar,A.b2(A.d("v5.19.101 \xb7 Dokkey Studio",j,j,j,j,j,B.b8V,B.a1,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a2c,j,j,j,j,B.j3,j,j,j)],s),B.d,j,B.c,B.h,0,B.o),B.j,j,B.a1V,new A.x(B.mr,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j4,B.bt,j,j,j)},
 L4(a,b){return this.aT0(a,b)},
 aT0(a,b){var s=0,r=A.m(t.H)
 var $async$L4=A.n(function(c,d){if(c===1)return A.j(d,r)
@@ -104226,7 +104226,7 @@ break B}if("fr"===b){a0="Contexte :  \xb7  \xb7  visites"
 break B}a0="\uc9c0\uae08 \uae68\ube44\uac00 \uac10\uc9c0\ud55c \ub9e5\ub77d:  \xb7  \xb7 \ubc29\ubb38 \ud68c"
 break B}l.push(A.d(a0,g,g,g,g,g,A.q(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,10,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.a1,g,g))
 l.push(B.a4)
-a0=A.d("DOK-KEY v5.19.100 \u2022 Zero-Login Architecture",g,g,g,g,g,A.q(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,11,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)
+a0=A.d("DOK-KEY v5.19.101 \u2022 Zero-Login Architecture",g,g,g,g,g,A.q(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,11,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)
 a1=A.Cl("main_slogan",c.e)
 l.push(A.bp(g,A.b2(A.I(A.a([a0,B.aQ,A.d(a1,g,g,g,g,g,A.q(g,g,$.c?B.L:B.I,g,g,g,g,g,g,g,g,10.5,B.jb,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.a1,g,g)],a2),B.d,g,B.c,B.h,0,B.o),g,g),B.z,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,h.gaOE(),g,g,g,g,g,g,!1,B.a7))
 l.push(B.aC)

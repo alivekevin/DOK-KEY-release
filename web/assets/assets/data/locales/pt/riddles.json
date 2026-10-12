@@ -181,7 +181,7 @@
   },
   {
     "id": "rid_012",
-    "question": "What is something that usually hangs quietly on the wall and reflects the world, but when it falls to the floor and shatters, it glares at the owner with hundreds of fragments?",
+    "question": "Costuma ficar quieto na parede refletindo o mundo, mas no instante em que cai no chão e se quebra, encara o dono com centenas de lascas. O que é?",
     "options": [
       "aquário",
       "janela",
@@ -401,7 +401,7 @@
     "options": [
       "vaga-lume",
       "estrela cadente",
-      "Will-the-Wisp",
+      "Fogo-fátuo",
       "Chama"
     ],
     "answer_index": 2,
@@ -4675,7 +4675,7 @@
     "difficulty": 1,
     "category": "kitchen",
     "kkaebi_reaction": {
-      "correct": "Correto! Resposta correta! O 'Tap!' O som sempre faz meu coração palpitar.",
+      "correct": "Correto! O «Tchim!» da torradeira sempre faz meu coração disparar.",
       "wrong": "Errou! Ding! É uma máquina de fazer pão."
     }
   },

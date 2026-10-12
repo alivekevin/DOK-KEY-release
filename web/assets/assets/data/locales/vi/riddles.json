@@ -401,7 +401,7 @@
     "options": [
       "đom đóm",
       "ngôi sao băng",
-      "Will-the-Wisp",
+      "Lửa ma trơi",
       "Ngọn lửa"
     ],
     "answer_index": 2,
@@ -409,7 +409,7 @@
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Will-o'-the-wisp là thứ mà người thân của chúng ta chơi vào ban đêm!",
+      "correct": "Haha! Lửa ma trơi là trò mà họ hàng nhà ta chơi vào ban đêm!",
       "wrong": "Sai rồi! Đinh! Đó là ánh sáng xanh nhấp nháy một mình trên núi!"
     }
   },
@@ -4675,7 +4675,7 @@
     "difficulty": 1,
     "category": "kitchen",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Tiếng 'Tap!' của máy nướng bánh mì Âm thanh luôn làm tim tôi rung động.",
+      "correct": "Đúng rồi! Tiếng «Tách!» của máy nướng bánh mì luôn làm tim tôi giật mình.",
       "wrong": "Sai rồi! Đinh! Đó là một chiếc máy nướng bánh mì."
     }
   },
