@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "Weisheit",
+        "Sanftmut",
+        "Flinkheit"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "Aufrichtigkeit",
+        "Geduld",
+        "Gelassenheit"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "Leidenschaft",
+        "Mut",
+        "Vitalität"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "Feingefühl",
+        "Sanftmut",
+        "Sensibilität"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "Weite",
+        "Vertrauen",
+        "Stabilität"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "Einsicht",
+        "Umsicht",
+        "Gründlichkeit"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "Entschlossenheit",
+        "Antrieb",
+        "Ehrlichkeit"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "Eleganz",
+        "Rücksicht",
+        "Feingefühl"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "Geistesgegenwart",
+        "Flexibilität",
+        "Schlagfertigkeit"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "Gespür",
+        "Raffinesse",
+        "Beobachtung"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "Verantwortung",
+        "Prinzip",
+        "Treue"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "Empathie",
+        "Sanftmut",
+        "Vorstellungskraft"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "Heiterkeit",
+        "Schlagfertigkeit",
+        "Lebhaftigkeit"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "Geduld",
+        "Aufrichtigkeit",
+        "Gelassenheit"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "Pioniergeist",
+        "Mut",
+        "Antrieb"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "Herzlichkeit",
+        "Rücksicht",
+        "Gelassenheit"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "Entschiedenheit",
+        "Entschlossenheit",
+        "Selbstvertrauen"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "Klugheit",
+        "Analyse",
+        "Raffinesse"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "Freiheit",
+        "Leidenschaft",
+        "Optimismus"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "Empfindsamkeit",
+        "Empathie",
+        "Sanftmut"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "Fortschritt",
+        "Geistesgegenwart",
+        "Unabhängigkeit"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "Präzision",
+        "Feingefühl",
+        "Ästhetik"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "Edelmut",
+        "Leidenschaft",
+        "Verantwortung"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "Sanftmut",
+        "Intuition",
+        "Sensibilität"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "Besonnenheit",
+        "Weisheit",
+        "Umsicht"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "Beharrlichkeit",
+        "Geduld",
+        "Aufrichtigkeit"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "Tapferkeit",
+        "Entschlossenheit",
+        "Unabhängigkeit"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "Eleganz",
+        "Gespür",
+        "Rücksicht"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "Ambition",
+        "Einsicht",
+        "Fortschritt"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "Intuition",
+        "Beobachtung",
+        "Weisheit"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "Vitalität",
+        "Optimismus",
+        "Antrieb"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "Wärme",
+        "Rücksicht",
+        "Geduld"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "Schlagfertigkeit",
+        "Heiterkeit",
+        "Flinkheit"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "Raffinesse",
+        "Gespür",
+        "Feingefühl"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "Treue",
+        "Verantwortung",
+        "Stabilität"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "Großzügigkeit",
+        "Empathie",
+        "Muße"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "Brillanz",
+        "Urteilskraft",
+        "Entschlossenheit"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "Umsicht",
+        "Mäßigung",
+        "Aufrichtigkeit"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "Abenteuerlust",
+        "Unabhängigkeit",
+        "Leidenschaft"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "Gelassenheit",
+        "Herzlichkeit",
+        "Sensibilität"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "Ideal",
+        "Fortschritt",
+        "Ambition"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "Inspiration",
+        "Intuition",
+        "Feingefühl"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "Optimismus",
+        "Vitalität",
+        "Selbstvertrauen"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "Sanftmut",
+        "Harmonie",
+        "Rücksicht"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "Pragmatismus",
+        "Urteilskraft",
+        "Flinkheit"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "Gewissenhaftigkeit",
+        "Präzision",
+        "Verantwortung"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "Geradlinigkeit",
+        "Treue",
+        "Prinzip"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "Fantasie",
+        "Sensibilität",
+        "Einsicht"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "Scharfsinn",
+        "Weisheit",
+        "Flexibilität"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "Wortkargheit",
+        "Geduld",
+        "Stabilität"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "Pioniergeist",
+        "Fortschritt",
+        "Mut"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "Herzlichkeit",
+        "Sanftmut",
+        "Ästhetik"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "Selbstsicherheit",
+        "Leidenschaft",
+        "Weite"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "Schärfe",
+        "Einsicht",
+        "Gespür"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "Aufgeschlossenheit",
+        "Selbstvertrauen",
+        "Antrieb"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "Gelassenheit",
+        "Großzügigkeit",
+        "Aufrichtigkeit"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "Flinkheit",
+        "Analyse",
+        "Entschlossenheit"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "Perfektion",
+        "Präzision",
+        "Raffinesse"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "Treue",
+        "Verantwortung",
+        "Weite"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "Nachdenken",
+        "Intuition",
+        "Vorstellungskraft"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Granat",
+      "stoneSub": "",
+      "stoneMeaning": "echte Freundschaft",
+      "flower": "Nelke",
+      "flowerSub": "Schneeglöckchen",
+      "flowerMeaning": "Respekt und Liebe",
+      "season": "Winter",
+      "theme": "Neuanfang und Vorbereitung",
+      "colorName": "Granatrot",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Amethyst",
+      "stoneSub": "",
+      "stoneMeaning": "Ruhe und Aufrichtigkeit",
+      "flower": "Veilchen",
+      "flowerSub": "Iris",
+      "flowerMeaning": "aufrichtige Liebe",
+      "season": "Winter",
+      "theme": "Einkehr und Weisheit",
+      "colorName": "Violett",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Aquamarin",
+      "stoneSub": "",
+      "stoneMeaning": "Mut und Hoffnung",
+      "flower": "Narzisse",
+      "flowerSub": "",
+      "flowerMeaning": "Selbstachtung und Hoffnung",
+      "season": "Frühling",
+      "theme": "Hoffnung und Beginn",
+      "colorName": "Aqua",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Diamant",
+      "stoneSub": "",
+      "stoneMeaning": "Reinheit und Beständigkeit",
+      "flower": "Gänseblümchen",
+      "flowerSub": "Duftwicke",
+      "flowerMeaning": "Reinheit und Frieden",
+      "season": "Frühling",
+      "theme": "Reinheit und Wachstum",
+      "colorName": "Klares Weiß",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Smaragd",
+      "stoneSub": "",
+      "stoneMeaning": "Glück und Erholung",
+      "flower": "Maiglöckchen",
+      "flowerSub": "Weißdorn",
+      "flowerMeaning": "Rückkehr des Glücks",
+      "season": "Frühling",
+      "theme": "Leben und Erholung",
+      "colorName": "Smaragd",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Perle",
+      "stoneSub": "Alexandrit",
+      "stoneMeaning": "Liebe und Fülle",
+      "flower": "Rose",
+      "flowerSub": "",
+      "flowerMeaning": "Liebe und Leidenschaft",
+      "season": "Sommer",
+      "theme": "Beziehungen und Fülle",
+      "colorName": "Perlcreme",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Rubin",
+      "stoneSub": "",
+      "stoneMeaning": "Leidenschaft und Mut",
+      "flower": "Rittersporn",
+      "flowerSub": "Seerose",
+      "flowerMeaning": "ein reines Herz",
+      "season": "Sommer",
+      "theme": "Leidenschaft und Mut",
+      "colorName": "Rubinrot",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Peridot",
+      "stoneSub": "",
+      "stoneMeaning": "Erfolg und Frieden",
+      "flower": "Gladiole",
+      "flowerSub": "Mohn",
+      "flowerMeaning": "Aufrichtigkeit und Sieg",
+      "season": "Sommer",
+      "theme": "Kraft und Erfolg",
+      "colorName": "Peridotgrün",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Saphir",
+      "stoneSub": "",
+      "stoneMeaning": "Weisheit und Wahrheit",
+      "flower": "Vergissmeinnicht",
+      "flowerSub": "Aster",
+      "flowerMeaning": "ein Herz, das erinnert",
+      "season": "Herbst",
+      "theme": "Weisheit und Balance",
+      "colorName": "Saphirblau",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Opal",
+      "stoneSub": "Turmalin",
+      "stoneMeaning": "Kreativität und Hoffnung",
+      "flower": "Ringelblume",
+      "flowerSub": "Kosmee",
+      "flowerMeaning": "Glück, das gewiss kommt",
+      "season": "Herbst",
+      "theme": "Kreativität und Wandel",
+      "colorName": "Gold",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Topas",
+      "stoneSub": "Citrin",
+      "stoneMeaning": "Dankbarkeit und Freundschaft",
+      "flower": "Chrysantheme",
+      "flowerSub": "",
+      "flowerMeaning": "Edelmut und Wahrheit",
+      "season": "Herbst",
+      "theme": "Dankbarkeit und Güte",
+      "colorName": "Citringold",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Türkis",
+      "stoneSub": "Tansanit",
+      "stoneMeaning": "Segen und Erfolg",
+      "flower": "Weihnachtsstern",
+      "flowerSub": "Stechpalme",
+      "flowerMeaning": "Segen und Hoffnung",
+      "season": "Winter",
+      "theme": "Segen und Hoffnung",
+      "colorName": "Türkis",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Steinbock",
+      "range": "12/22–1/19",
+      "keywords": [
+        "Verantwortung",
+        "Geduld",
+        "Realismus"
+      ]
+    },
+    {
+      "sign": "Wassermann",
+      "range": "1/20–2/18",
+      "keywords": [
+        "Originalität",
+        "Freiheit",
+        "Freundschaft"
+      ]
+    },
+    {
+      "sign": "Fische",
+      "range": "2/19–3/20",
+      "keywords": [
+        "Empathie",
+        "Vorstellungskraft",
+        "Intuition"
+      ]
+    },
+    {
+      "sign": "Widder",
+      "range": "3/21–4/19",
+      "keywords": [
+        "Leidenschaft",
+        "Herausforderung",
+        "Antrieb"
+      ]
+    },
+    {
+      "sign": "Stier",
+      "range": "4/20–5/20",
+      "keywords": [
+        "Stabilität",
+        "Vertrauen",
+        "Ausdauer"
+      ]
+    },
+    {
+      "sign": "Zwillinge",
+      "range": "5/21–6/20",
+      "keywords": [
+        "Schlagfertigkeit",
+        "Kommunikation",
+        "Neugier"
+      ]
+    },
+    {
+      "sign": "Krebs",
+      "range": "6/21–7/22",
+      "keywords": [
+        "Rücksicht",
+        "Gefühl",
+        "Schutz"
+      ]
+    },
+    {
+      "sign": "Löwe",
+      "range": "7/23–8/22",
+      "keywords": [
+        "Selbstvertrauen",
+        "Führung",
+        "Leidenschaft"
+      ]
+    },
+    {
+      "sign": "Jungfrau",
+      "range": "8/23–9/22",
+      "keywords": [
+        "Feingefühl",
+        "Analyse",
+        "Aufrichtigkeit"
+      ]
+    },
+    {
+      "sign": "Waage",
+      "range": "9/23–10/22",
+      "keywords": [
+        "Harmonie",
+        "Balance",
+        "Rücksicht"
+      ]
+    },
+    {
+      "sign": "Skorpion",
+      "range": "10/23–11/21",
+      "keywords": [
+        "Einsicht",
+        "Fokus",
+        "Treue"
+      ]
+    },
+    {
+      "sign": "Schütze",
+      "range": "11/22–12/21",
+      "keywords": [
+        "Fortschritt",
+        "Freiheit",
+        "Optimismus"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Frühling",
+      "mood": "Eine Zeit des Neuanfangs"
+    },
+    {
+      "name": "Sommer",
+      "mood": "Eine Zeit der Leidenschaft und des Wachstums"
+    },
+    {
+      "name": "Herbst",
+      "mood": "Eine Zeit der Reife und Dankbarkeit"
+    },
+    {
+      "name": "Winter",
+      "mood": "Eine Zeit der Ruhe und Einkehr"
+    }
+  ]
+}
