@@ -102432,7 +102432,7 @@ aTf(a,b){var s=0,r=A.m(t.H),q=1,p=[],o=this,n,m,l,k
 var $async$Mh=A.n(function(c,d){if(c===1){p.push(d)
 s=q}for(;;)switch(s){case 0:A.bH()
 $.aj().bI()
-n=A.hP("mailto:alivekevin@gmail.com?subject="+A.me(2,"[DOK-KEY v5.19.109 (Build 726)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bG,!1)+"&body="+A.me(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.109 (Build 726)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bG,!1),0,null)
+n=A.hP("mailto:alivekevin@gmail.com?subject="+A.me(2,"[DOK-KEY v5.19.110 (Build 727)] \ud14c\uc2a4\ud130 \ud53c\ub4dc\ubc31 \ubc0f \uc81c\uc548",B.bG,!1)+"&body="+A.me(2,"\uc548\ub155\ud558\uc138\uc694, DOK-KEY \uac1c\ubc1c\ud300!\n\n-----------------------------------------\n\ud83d\udcf1 \ud658\uacbd \uc815\ubcf4\n- \uc571 \ubc84\uc804: v5.19.110 (Build 727)\n- \uc5b8\uc5b4 \uc124\uc815: "+b+"\n-----------------------------------------\n\n\ud83d\udcac \uc758\uacac / \uac74\uc758\uc0ac\ud56d / \ubc84\uadf8 \ub0b4\uc6a9:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n\n\u2728 \ubc14\ub77c\ub294 \uae30\ub2a5\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc544\uc774\ub514\uc5b4:\n(\uc5ec\uae30\uc5d0 \uc790\uc720\ub86d\uac8c \uc791\uc131\ud574 \uc8fc\uc138\uc694)\n\n",B.bG,!1),0,null)
 m=!1
 q=3
 s=6
@@ -102691,7 +102691,7 @@ l=A.r(10)
 n=A.G(B.c_.m(0.6),1.2)
 l=A.aZ(!1,m,!0,A.w(j,A.y(A.a([B.ak_,B.U,A.d(k.hI(e,"Feedback senden","Send Feedback","\u092b\u0940\u0921\u092c\u0948\u0915 \u092d\u0947\u091c\u0947\u0902","\u3054\u610f\u898b\u30fb\u4e0d\u5177\u5408\u5831\u544a",g,"\u610f\u89c1 / \u95ee\u9898\u53cd\u9988"),j,j,j,j,j,B.bbZ,j,j,j)],s),B.d,B.c,B.y,0,j),B.j,j,j,new A.x(B.a8B,j,n,l,j,j,B.n),j,j,j,j,B.j3,j,j,j),j,!0,j,j,j,j,j,j,j,j,j,j,new A.bjb(k,a0,e),j,j,j,j,j,j,j)
 n=A.bM(j,j,B.aa,j,j,j,4,j,j,B.v,j,j,B.ae4,j,new A.aF(A.r(12),B.w),j,j,j,j,j)
-return A.dY(j,B.G,A.w(j,A.H(A.a([r,q,p,A.w(j,A.H(A.a([A.y(A.a([l,A.dm(A.d(k.hI(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zF,j,j,j),new A.bjc(a0),n)],s),B.d,B.aH,B.f,0,j),B.ap,A.b3(A.d("v5.19.109 \xb7 Dokkey Studio",j,j,j,j,j,B.bak,B.a2,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a2s,j,j,j,j,B.j5,j,j,j)],s),B.d,j,B.c,B.f,0,B.o),B.j,j,B.a2a,new A.x(B.mt,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j6,B.bt,j,j,j)},
+return A.dY(j,B.G,A.w(j,A.H(A.a([r,q,p,A.w(j,A.H(A.a([A.y(A.a([l,A.dm(A.d(k.hI(e,"OK","OK","\u0920\u0940\u0915 \u0939\u0948","\u78ba\u8a8d","\ud655\uc778","\u786e\u8ba4"),j,j,j,j,j,B.zF,j,j,j),new A.bjc(a0),n)],s),B.d,B.aH,B.f,0,j),B.ap,A.b3(A.d("v5.19.110 \xb7 Dokkey Studio",j,j,j,j,j,B.bak,B.a2,j,j),j,j)],s),B.d,j,B.c,B.y,0,B.o),B.j,j,j,B.a2s,j,j,j,j,B.j5,j,j,j)],s),B.d,j,B.c,B.f,0,B.o),B.j,j,B.a2a,new A.x(B.mt,j,b,c,a,j,B.n),j,j,j,j,j,j,j,j),j,j,j,B.j6,B.bt,j,j,j)},
 Lc(a,b){return this.aTh(a,b)},
 aTh(a,b){var s=0,r=A.m(t.H)
 var $async$Lc=A.n(function(c,d){if(c===1)return A.j(d,r)
@@ -102879,16 +102879,15 @@ return A.l($async$EP,r)},
 v(c7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2=this,c3=null,c4=A.aG(c7,!0,t.n),c5=c4.e,c6=c4.db
 A.bHD(c5)
 s="Lifetime VIP"
-r="C\xf3dice Personalizado 99 Temas"
-switch(c5){case"ja":q="\ud83d\udc51 DOK-KEY PRO \u30d7\u30e9\u30f3"
-p="\u3059\u3079\u3066\u306e\u5236\u9650\u3092\u89e3\u9664\u3057\u3001\u5b8c\u5168\u306a\u6a5f\u80fd\u3092\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044"
-o="1\u5e74\u30d7\u30e9\u30f3"
+switch(c5){case"ja":r="\ud83d\udc51 DOK-KEY PRO \u30d7\u30e9\u30f3"
+q="\u3059\u3079\u3066\u306e\u5236\u9650\u3092\u89e3\u9664\u3057\u3001\u5b8c\u5168\u306a\u6a5f\u80fd\u3092\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044"
+p="1\u5e74\u30d7\u30e9\u30f3"
 s="\u6c38\u4e45\u30e9\u30a4\u30bb\u30f3\u30b9"
-n="\u4e00\u756a\u4eba\u6c17 \u2b50"
-m="\u7d44\u5408\u305b\u4fdd\u7ba1\u7bb1 99\u30b9\u30ed\u30c3\u30c8\u62e1\u5f35"
-l="\u7121\u65999\u30b9\u30ed\u30c3\u30c8\u306e\u5236\u9650\u3092\u89e3\u9664\u3057\u300199\u30b9\u30ed\u30c3\u30c8\u306e\u5927\u5bb9\u91cf\u4fdd\u7ba1"
-r="\u30ab\u30b9\u30bf\u30e0\u56f3\u9451 99\u30c6\u30fc\u30de\u62e1\u5f35"
-k="33\u7a2e\xd7\u6700\u592799\u30c6\u30fc\u30de\u30b9\u30ed\u30c3\u30c8(\u8a083,267\u679a)\u306e\u81ea\u7531\u5165\u66ff"
+o="\u4e00\u756a\u4eba\u6c17 \u2b50"
+n="\u7d44\u5408\u305b\u4fdd\u7ba1\u7bb1 99\u30b9\u30ed\u30c3\u30c8\u62e1\u5f35"
+m="\u7121\u65999\u30b9\u30ed\u30c3\u30c8\u306e\u5236\u9650\u3092\u89e3\u9664\u3057\u300199\u30b9\u30ed\u30c3\u30c8\u306e\u5927\u5bb9\u91cf\u4fdd\u7ba1"
+l="\u30ab\u30b9\u30bf\u30e0\u56f3\u9451 33\u30b9\u30ed\u30c3\u30c8\u5168\u958b\u653e"
+k="\u30de\u30a4\u30ab\u30fc\u30c9\u3092\u516833\u30b9\u30ed\u30c3\u30c8\u306b\u767b\u9332 \xb7 \u3044\u3064\u3067\u3082\u7de8\u96c6/\u5dee\u3057\u66ff\u3048"
 j="\u304a\u672d\u56f3\u9451 33\u30b9\u30ed\u30c3\u30c8\u5168\u958b\u653e"
 i="\u516c\u5f0f18\u7a2e\u306e\u5373\u6642\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0bMY custom 15\u30b9\u30ed\u30c3\u30c8\u958b\u653e"
 h="\u30c8\u30c3\u30b1\u30d3\u30a2\u30fc\u30b1\u30fc\u30c9 13\u7a2e \u7121\u5236\u9650\u30d7\u30ec\u30a4"
@@ -102905,15 +102904,15 @@ a2="\u6c38\u4e45\u30e9\u30a4\u30bb\u30f3\u30b9 \xb7 \u671f\u9650\u306a\u3057"
 a3="\u65e2\u5b58\u306ePRO\u7b49\u7d1a\u3092\u7dad\u6301\u4e2d"
 a4="\u9589\u3058\u308b"
 break
-case"zh":q="\ud83d\udc51 DOK-KEY \u4e13\u4e1a\u7248\u65b9\u6848"
-p="\u89e3\u9501\u5168\u90e8\u9650\u5236\uff0c\u7545\u4eab\u5b8c\u6574\u9ad8\u9636\u4f53\u9a8c"
-o="1\u5e74\u8ba2\u9605"
+case"zh":r="\ud83d\udc51 DOK-KEY \u4e13\u4e1a\u7248\u65b9\u6848"
+q="\u89e3\u9501\u5168\u90e8\u9650\u5236\uff0c\u7545\u4eab\u5b8c\u6574\u9ad8\u9636\u4f53\u9a8c"
+p="1\u5e74\u8ba2\u9605"
 s="\u7ec8\u8eab\u4e70\u65ad\u7248"
-n="\u6700\u8d85\u503c \u2b50"
-m="\u7ec4\u5408\u5e93 99\u683c\u5927\u5bb9\u91cf\u6269\u5c55"
-l="\u89e3\u9664\u514d\u8d399\u683c\u9650\u5236\uff0c\u5c0a\u4eab99\u683c\u672c\u5730\u7ec4\u5408\u7a7a\u95f4"
-r="\u81ea\u5b9a\u4e49\u56fe\u9274 99\u4e3b\u9898\u6269\u5c55"
-k="33\u5f20\xd7\u6700\u591a99\u4e3b\u9898\u5361\u69fd(\u51713,267\u5f20)\u81ea\u7531\u66ff\u6362"
+o="\u6700\u8d85\u503c \u2b50"
+n="\u7ec4\u5408\u5e93 99\u683c\u5927\u5bb9\u91cf\u6269\u5c55"
+m="\u89e3\u9664\u514d\u8d399\u683c\u9650\u5236\uff0c\u5c0a\u4eab99\u683c\u672c\u5730\u7ec4\u5408\u7a7a\u95f4"
+l="\u81ea\u5b9a\u4e49\u56fe\u9274 33 \u683c\u5168\u5f00\u653e"
+k="\u6211\u7684\u5361\u7247\u53ef\u4e0a\u4f20\u81f3\u5168\u90e8 33 \u683c \xb7 \u968f\u65f6\u7f16\u8f91/\u66ff\u6362"
 j="\u7b26\u5492\u56fe\u9274 33\u683c\u5168\u5f00\u653e"
 i="\u5b98\u65b918\u79cd\u7acb\u5373\u6536\u96c6\uff0bMY custom 15\u683c\u5168\u5f00\u653e"
 h="\u5409\u9b3c\u8857\u673a 13\u6b3e\u6e38\u620f\u65e0\u9650\u7545\u73a9"
@@ -102930,15 +102929,15 @@ a2="\u7ec8\u8eab\u4e70\u65ad \xb7 \u6c38\u4e0d\u8fc7\u671f"
 a3="\u4fdd\u7559\u539f\u6709PRO\u7b49\u7ea7"
 a4="\u5173\u95ed"
 break
-case"hi":q="\ud83d\udc51 DOK-KEY \u092a\u094d\u0930\u094b \u092a\u094d\u0932\u093e\u0928"
-p="\u0938\u092d\u0940 \u0938\u0940\u092e\u093e\u090f\u0902 \u0939\u091f\u093e\u090f\u0902 \u0914\u0930 \u0938\u0902\u092a\u0942\u0930\u094d\u0923 \u0905\u0928\u0941\u092d\u0935 \u0915\u093e \u0906\u0928\u0902\u0926 \u0932\u0947\u0902"
-o="1 \u0935\u0930\u094d\u0937 \u092a\u094d\u0932\u093e\u0928"
+case"hi":r="\ud83d\udc51 DOK-KEY \u092a\u094d\u0930\u094b \u092a\u094d\u0932\u093e\u0928"
+q="\u0938\u092d\u0940 \u0938\u0940\u092e\u093e\u090f\u0902 \u0939\u091f\u093e\u090f\u0902 \u0914\u0930 \u0938\u0902\u092a\u0942\u0930\u094d\u0923 \u0905\u0928\u0941\u092d\u0935 \u0915\u093e \u0906\u0928\u0902\u0926 \u0932\u0947\u0902"
+p="1 \u0935\u0930\u094d\u0937 \u092a\u094d\u0932\u093e\u0928"
 s="\u0932\u093e\u0907\u092b\u091f\u093e\u0907\u092e \u092a\u093e\u0938"
-n="\u0938\u0930\u094d\u0935\u094b\u0924\u094d\u0924\u092e \u092e\u0942\u0932\u094d\u092f \u2b50"
-m="99 \u0915\u0902\u092c\u093f\u0928\u0947\u0936\u0928 \u0938\u094d\u0932\u0949\u091f \u0935\u093f\u0938\u094d\u0924\u093e\u0930"
-l="\u092e\u0941\u092b\u093c\u094d\u0924 9 \u0938\u094d\u0932\u0949\u091f \u0938\u0940\u092e\u093e \u0939\u091f\u0947\u0902 \u2014 99 \u0935\u093f\u0936\u093e\u0932 \u0938\u094d\u0932\u0949\u091f"
-r="\u0915\u0938\u094d\u091f\u092e \u0938\u0902\u0917\u094d\u0930\u0939 99 \u0925\u0940\u092e \u0935\u093f\u0938\u094d\u0924\u093e\u0930"
-k="33\xd7\u0905\u0927\u093f\u0915\u0924\u092e 99 \u0925\u0940\u092e \u0938\u094d\u0932\u0949\u091f (\u0915\u0941\u0932 3,267 \u0915\u093e\u0930\u094d\u0921) \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u0909\u092a\u092f\u094b\u0917"
+o="\u0938\u0930\u094d\u0935\u094b\u0924\u094d\u0924\u092e \u092e\u0942\u0932\u094d\u092f \u2b50"
+n="99 \u0915\u0902\u092c\u093f\u0928\u0947\u0936\u0928 \u0938\u094d\u0932\u0949\u091f \u0935\u093f\u0938\u094d\u0924\u093e\u0930"
+m="\u092e\u0941\u092b\u093c\u094d\u0924 9 \u0938\u094d\u0932\u0949\u091f \u0938\u0940\u092e\u093e \u0939\u091f\u0947\u0902 \u2014 99 \u0935\u093f\u0936\u093e\u0932 \u0938\u094d\u0932\u0949\u091f"
+l="\u0915\u0938\u094d\u091f\u092e \u0938\u0902\u0917\u094d\u0930\u0939: \u0938\u092d\u0940 33 \u0938\u094d\u0932\u0949\u091f \u0916\u0941\u0932\u0947"
+k="\u0905\u092a\u0928\u0947 \u0915\u093e\u0930\u094d\u0921 \u0938\u092d\u0940 33 \u0938\u094d\u0932\u0949\u091f \u092e\u0947\u0902 \u0930\u0916\u0947\u0902 \u2014 \u0915\u092d\u0940 \u092d\u0940 \u0938\u0902\u092a\u093e\u0926\u093f\u0924/\u092c\u0926\u0932\u0947\u0902"
 j="\u0924\u093e\u092c\u0940\u091c \u0938\u0902\u0917\u094d\u0930\u0939 33 \u0938\u094d\u0932\u0949\u091f \u092a\u0942\u0930\u094d\u0923 \u0916\u0941\u0932\u0947"
 i="\u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915 18 \u0915\u093e \u0924\u0941\u0930\u0902\u0924 \u0938\u0902\u0917\u094d\u0930\u0939 + MY custom 15 \u0938\u094d\u0932\u0949\u091f \u0916\u0941\u0932\u0947"
 h="13 \u0906\u0930\u094d\u0915\u0947\ub4dc \u0917\u0947\u092e\u094d\u0938 \u0905\u0938\u0940\u092e\u093f\u0924 \u0916\u0947\u0932"
@@ -102955,14 +102954,14 @@ a2="\u0932\u093e\u0907\u092b\u091f\u093e\u0907\u092e \u092a\u093e\u0938 \xb7 \u0
 a3="\u092e\u094c\u091c\u0942\u0926\u093e PRO \u0938\u094d\u0924\u0930 \u092c\u0928\u093e \u0930\u0939\u0947\u0917\u093e"
 a4="\u092c\u0902\u0926 \u0915\u0930\u0947\u0902"
 break
-case"de":q="\ud83d\udc51 DOK-KEY PRO-Tarife"
-p="Alle Limits aufheben \u2014 volles Premium-Erlebnis genie\xdfen"
-o="1-Jahres-Abo"
-n="Bester Wert \u2b50"
-m="99 Kombinations-Slots"
-l="Gratis-Limit von 9 Slots fallen lassen \u2014 99 ger\xe4umige Slots"
-r="Custom-Kodex 99 Themes"
-k="33 Karten \xd7 bis zu 99 Theme-Slots (3.267 Karten) frei tauschbar"
+case"de":r="\ud83d\udc51 DOK-KEY PRO-Tarife"
+q="Alle Limits aufheben \u2014 volles Premium-Erlebnis genie\xdfen"
+p="1-Jahres-Abo"
+o="Bester Wert \u2b50"
+n="99 Kombinations-Slots"
+m="Gratis-Limit von 9 Slots fallen lassen \u2014 99 ger\xe4umige Slots"
+l="Custom-Kodex: alle 33 Slots offen"
+k="Eigene Karten in alle 33 Slots \u2014 jederzeit bearbeiten oder tauschen"
 j="Talisman-Kodex: alle 33 Slots offen"
 i="18 offizielle sofort gesammelt + 15 MY-Custom-Slots offen"
 h="13 Arcade-Spiele unbegrenzt"
@@ -102979,14 +102978,14 @@ a2="Lifetime VIP \xb7 l\xe4uft nie ab"
 a3="Bisheriger PRO-Status bleibt erhalten"
 a4="Schlie\xdfen"
 break
-case"en":q="\ud83d\udc51 DOK-KEY PRO Plans"
-p="Unlock all limits \u2014 enjoy the ultimate full-tier experience"
-o="1-Year Pass"
-n="Best Value \u2b50"
-m="99 Combined Vault Slots"
-l="Drop the free 9-slot limit \u2014 99 massive local slots"
-r="Custom Codex 99 Themes"
-k="33 cards \xd7 up to 99 theme slots (3,267 cards total), freely swappable"
+case"en":r="\ud83d\udc51 DOK-KEY PRO Plans"
+q="Unlock all limits \u2014 enjoy the ultimate full-tier experience"
+p="1-Year Pass"
+o="Best Value \u2b50"
+n="99 Combined Vault Slots"
+m="Drop the free 9-slot limit \u2014 99 massive local slots"
+l="Custom Codex: all 33 slots open"
+k="Upload your own cards to all 33 slots \u2014 edit or replace anytime"
 j="Talisman Codex: all 33 slots open"
 i="Official 18 instantly collected + 15 MY custom slots open"
 h="13 Arcade Games Unlimited"
@@ -103003,14 +103002,15 @@ a2="Lifetime Pass \xb7 never expires"
 a3="Existing PRO tier preserved"
 a4="Close"
 break
-case"es":q="\ud83d\udc51 Planes DOK-KEY PRO"
-p="Elimina todos los l\xedmites y disfruta de la experiencia pr\xe9mium"
-o="Pase de 1 a\xf1o"
+case"es":r="\ud83d\udc51 Planes DOK-KEY PRO"
+q="Elimina todos los l\xedmites y disfruta de la experiencia pr\xe9mium"
+p="Pase de 1 a\xf1o"
 s="Pase de por vida"
-n="Mejor Valor \u2b50"
-m="99 Espacios de B\xf3veda"
-l="Supera el l\xedmite de 9 espacios: 99 amplios espacios locales"
-k="33 cartas \xd7 hasta 99 temas (3.267 cartas) intercambiables"
+o="Mejor Valor \u2b50"
+n="99 Espacios de B\xf3veda"
+m="Supera el l\xedmite de 9 espacios: 99 amplios espacios locales"
+l="C\xf3dice personalizado: 33 espacios"
+k="Sube tus cartas a los 33 espacios \u2014 edita o cambia cuando quieras"
 j="C\xf3dice de Talismanes: 33 Espacios"
 i="18 oficiales al instante + 15 espacios personalizados"
 h="13 Juegos de Arcade Ilimitados"
@@ -103027,14 +103027,15 @@ a2="Pase de por vida \xb7 sin vencimiento"
 a3="Nivel PRO conservado"
 a4="Cerrar"
 break
-case"pt":q="\ud83d\udc51 Planos DOK-KEY PRO"
-p="Remova todos os limites e aproveite a experi\xeancia premium"
-o="Passe de 1 ano"
+case"pt":r="\ud83d\udc51 Planos DOK-KEY PRO"
+q="Remova todos os limites e aproveite a experi\xeancia premium"
+p="Passe de 1 ano"
 s="Passe Vital\xedcio"
-n="Melhor Valor \u2b50"
-m="99 Slots no Cofre"
-l="Elimine o limite de 9 slots: 99 espa\xe7os locais amplos"
-k="33 cartas \xd7 at\xe9 99 temas (3.267 cartas) troc\xe1veis"
+o="Melhor Valor \u2b50"
+n="99 Slots no Cofre"
+m="Elimine o limite de 9 slots: 99 espa\xe7os locais amplos"
+l="C\xf3dice personalizado: 33 slots"
+k="Envie suas cartas nos 33 slots \u2014 edite ou troque quando quiser"
 j="C\xf3dice de Talism\xe3s: 33 Slots"
 i="18 oficiais imediatos + 15 slots personalizados"
 h="13 Jogos Arcade Ilimitados"
@@ -103051,15 +103052,15 @@ a2="Passe vital\xedcio \xb7 sem expira\xe7\xe3o"
 a3="N\xedvel PRO preservado"
 a4="Fechar"
 break
-case"vi":q="\ud83d\udc51 G\xf3i DOK-KEY PRO"
-p="M\u1edf kh\xf3a m\u1ecdi gi\u1edbi h\u1ea1n v\xe0 t\u1eadn h\u01b0\u1edfng tr\u1ea3i nghi\u1ec7m cao c\u1ea5p"
-o="G\xf3i 1 N\u0103m"
+case"vi":r="\ud83d\udc51 G\xf3i DOK-KEY PRO"
+q="M\u1edf kh\xf3a m\u1ecdi gi\u1edbi h\u1ea1n v\xe0 t\u1eadn h\u01b0\u1edfng tr\u1ea3i nghi\u1ec7m cao c\u1ea5p"
+p="G\xf3i 1 N\u0103m"
 s="G\xf3i Tr\u1ecdn \u0110\u1eddi"
-n="Gi\xe1 Tr\u1ecb Nh\u1ea5t \u2b50"
-m="M\u1edf R\u1ed9ng Kho 99 \xd4"
-l="B\u1ecf gi\u1edbi h\u1ea1n 9 \xf4 mi\u1ec5n ph\xed: 99 \xf4 l\u01b0u tr\u1eef n\u1ed9i b\u1ed9 r\u1ed9ng r\xe3i"
-r="B\u1ed9 S\u01b0u T\u1eadp 99 Ch\u1ee7 \u0110\u1ec1"
-k="33 th\u1ebb \xd7 t\u1ed1i \u0111a 99 ch\u1ee7 \u0111\u1ec1 (t\u1ed5ng 3.267 th\u1ebb) t\u1ef1 do thay \u0111\u1ed5i"
+o="Gi\xe1 Tr\u1ecb Nh\u1ea5t \u2b50"
+n="M\u1edf R\u1ed9ng Kho 99 \xd4"
+m="B\u1ecf gi\u1edbi h\u1ea1n 9 \xf4 mi\u1ec5n ph\xed: 99 \xf4 l\u01b0u tr\u1eef n\u1ed9i b\u1ed9 r\u1ed9ng r\xe3i"
+l="B\u1ed9 s\u01b0u t\u1eadp t\xf9y ch\u1ec9nh: 33 \xf4"
+k="T\u1ea3i th\u1ebb c\u1ee7a b\u1ea1n v\xe0o c\u1ea3 33 \xf4 \u2014 s\u1eeda ho\u1eb7c thay b\u1ea5t c\u1ee9 l\xfac n\xe0o"
 j="M\u1edf To\xe0n B\u1ed9 33 \xd4 B\xf9a"
 i="18 th\u1ebb ch\xednh th\u1ee9c t\u1ee9c th\xec + 15 \xf4 t\xf9y ch\u1ec9nh m\u1edf ho\xe0n to\xe0n"
 h="Ch\u01a1i Kh\xf4ng Gi\u1edbi H\u1ea1n 13 Tr\xf2 Ch\u01a1i"
@@ -103076,15 +103077,15 @@ a2="Tr\u1ecdn \u0111\u1eddi \xb7 kh\xf4ng bao gi\u1edd h\u1ebft h\u1ea1n"
 a3="Duy tr\xec c\u1ea5p b\u1eadc PRO hi\u1ec7n t\u1ea1i"
 a4="\u0110\xf3ng"
 break
-case"fr":q="\ud83d\udc51 Formules DOK-KEY PRO"
-p="D\xe9bloquez toutes les limites et profitez d'une exp\xe9rience premium"
-o="Pass 1 An"
+case"fr":r="\ud83d\udc51 Formules DOK-KEY PRO"
+q="D\xe9bloquez toutes les limites et profitez d'une exp\xe9rience premium"
+p="Pass 1 An"
 s="Pass \xc0 Vie"
-n="Meilleure Offre \u2b50"
-m="Extension Coffre 99 Emplacements"
-l="Supprimez la limite gratuite de 9 emplacements : 99 grands emplacements"
-r="Codex Personnalis\xe9 99 Th\xe8mes"
-k="33 cartes \xd7 jusqu'\xe0 99 th\xe8mes (3 267 cartes) interchangeables"
+o="Meilleure Offre \u2b50"
+n="Extension Coffre 99 Emplacements"
+m="Supprimez la limite gratuite de 9 emplacements : 99 grands emplacements"
+l="Codex personnalis\xe9 : 33 emplacements"
+k="Importez vos cartes dans les 33 emplacements \u2014 modifiez ou remplacez"
 j="Codex des Talismans : 33 Emplacements"
 i="18 officiels imm\xe9diats + 15 emplacements personnalis\xe9s"
 h="13 Jeux d'Arcade Illimit\xe9s"
@@ -103101,15 +103102,15 @@ a2="Pass \xe0 vie \xb7 sans expiration"
 a3="Statut PRO existant pr\xe9serv\xe9"
 a4="Fermer"
 break
-case"ko":default:q="\ud83d\udc51 DOK-KEY PRO \ud50c\ub79c"
-p="\ubaa8\ub4e0 \ud55c\ub3c4\ub97c \ud574\uc81c\ud558\uace0 \uc644\uc804\ud55c \uace0\ud488\uaca9 \uae30\ub2a5\uc744 \ub204\ub9ac\uc138\uc694"
-o="1\ub144 \uc815\uae30 \uc774\uc6a9\uad8c"
+case"ko":default:r="\ud83d\udc51 DOK-KEY PRO \ud50c\ub79c"
+q="\ubaa8\ub4e0 \ud55c\ub3c4\ub97c \ud574\uc81c\ud558\uace0 \uc644\uc804\ud55c \uace0\ud488\uaca9 \uae30\ub2a5\uc744 \ub204\ub9ac\uc138\uc694"
+p="1\ub144 \uc815\uae30 \uc774\uc6a9\uad8c"
 s="\ud3c9\uc0dd \uc18c\uc7a5\uad8c (VIP)"
-n="BEST \ud3c9\uc0dd \uc18c\uc7a5 \u2b50"
-m="\uc870\ud569 \ubcf4\uad00\ud568 99\uc2ac\ub86f \ub300\uc6a9\ub7c9 \ud655\uc7a5"
-l="\ubb34\ub8cc 9\uc2ac\ub86f \ud55c\ub3c4 \ud574\uc81c \u2192 99\uc2ac\ub86f \ub300\uc6a9\ub7c9 \ub85c\uceec \ubcf4\uad00"
-r="\ucee4\uc2a4\ud140 \ub3c4\uac10 99\ud14c\ub9c8 \ud655\uc7a5"
-k="\ud14c\ub9c8\ub2f9 33\uc885 \xd7 \ucd5c\ub300 99\uc2ac\ub86f(\ucd1d 3,267\uc7a5) \uc790\uc720 \uad50\uccb4"
+o="BEST \ud3c9\uc0dd \uc18c\uc7a5 \u2b50"
+n="\uc870\ud569 \ubcf4\uad00\ud568 99\uc2ac\ub86f \ub300\uc6a9\ub7c9 \ud655\uc7a5"
+m="\ubb34\ub8cc 9\uc2ac\ub86f \ud55c\ub3c4 \ud574\uc81c \u2192 99\uc2ac\ub86f \ub300\uc6a9\ub7c9 \ub85c\uceec \ubcf4\uad00"
+l="\ucee4\uc2a4\ud140 \ub3c4\uac10 33\uc2ac\ub86f \uc804\uccb4 \uac1c\ubc29"
+k="\ub098\ub9cc\uc758 \uce74\ub4dc 33\uc2ac\ub86f \uc5c5\ub85c\ub4dc \xb7 \uc5b8\uc81c\ub4e0 \uc218\uc815\xb7\uad50\uccb4"
 j="\ubd80\uc801 \ub3c4\uac10 33\uc2ac\ub86f \uc804\uccb4 \uac1c\ubc29"
 i="\uacf5\uc2dd 18\uc885 \uc989\uc2dc \uc218\uc9d1 + MY \ucee4\uc2a4\ud140 15\uc2ac\ub86f \uc644\uc804 \uac1c\ubc29"
 h="\uae68\ube44 \uc624\ub77d\uc2e4 13\uc885 \ubb34\uc81c\ud55c \ud50c\ub808\uc774"
@@ -103131,8 +103132,8 @@ a7=t.V
 a8=A.a([new A.am(2,B.B,B.aa.m(0.25),B.q,30)],a7)
 a9=t.p
 b0=A.a([A.bq(c3,A.w(c3,B.aiI,B.j,c3,c3,new A.x(c3,c3,c3,c3,A.a([new A.am(0,B.B,B.aa.m(0.4),B.q,16)],a7),B.alH,B.ak),c3,c3,c3,c3,B.c1,c3,c3,c3),B.z,!1,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c2.gaIm(),c3,c3,c3,c3,c3,c3,!1,B.a6),A.d8(c3,A.jl(c3,c3,B.bs,c3,new A.bqZ(c7),28,a4),c3,c3,c3,0,0,c3)],a9)
-b1=A.d(q,c3,c3,c3,c3,c3,B.b8w,B.a2,c3,c3)
-b2=A.d(p,c3,c3,c3,c3,c3,B.b8Y,B.a2,c3,c3)
+b1=A.d(r,c3,c3,c3,c3,c3,B.b8w,B.a2,c3,c3)
+b2=A.d(q,c3,c3,c3,c3,c3,B.b8Y,B.a2,c3,c3)
 b3=c2.d===0
 b4=b3?B.uW:B.p2
 b5=A.r(16)
@@ -103140,7 +103141,7 @@ b6=b3?B.aa:B.Dm
 b6=A.G(b6,b3?2:1.2)
 b7=b3?B.pS:B.mS
 b7=A.ad(b7,b3?B.aa:B.dG,c3,c3,16)
-b4=A.a6(A.bq(c3,A.w(c3,A.H(A.a([A.y(A.a([b7,B.U,new A.cy(1,B.aK,A.d(o,c3,1,B.X,c3,c3,A.o(c3,c3,b3?B.bi:B.u,c3,c3,c3,c3,c3,c3,c3,c3,13,c3,c3,B.D,c3,c3,!0,c3,c3,c3,c3,c3,c3,c3,c3),c3,c3,c3),c3)],a9),B.d,B.aD,B.f,0,c3)],a9),B.d,c3,B.c,B.f,0,B.o),B.j,c3,c3,new A.x(b4,c3,b6,b5,c3,c3,B.n),c3,c3,c3,c3,B.EH,c3,c3,c3),B.z,!1,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,new A.br_(c2),c3,c3,c3,c3,c3,c3,!1,B.a6),1)
+b4=A.a6(A.bq(c3,A.w(c3,A.H(A.a([A.y(A.a([b7,B.U,new A.cy(1,B.aK,A.d(p,c3,1,B.X,c3,c3,A.o(c3,c3,b3?B.bi:B.u,c3,c3,c3,c3,c3,c3,c3,c3,13,c3,c3,B.D,c3,c3,!0,c3,c3,c3,c3,c3,c3,c3,c3),c3,c3,c3),c3)],a9),B.d,B.aD,B.f,0,c3)],a9),B.d,c3,B.c,B.f,0,B.o),B.j,c3,c3,new A.x(b4,c3,b6,b5,c3,c3,B.n),c3,c3,c3,c3,B.EH,c3,c3,c3),B.z,!1,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,new A.br_(c2),c3,c3,c3,c3,c3,c3,!1,B.a6),1)
 b3=c2.d===1
 b5=b3?B.uW:B.p2
 b6=A.r(16)
@@ -103151,9 +103152,9 @@ b8=A.ad(b8,b3?B.aa:B.dG,c3,c3,16)
 b5=A.w(c3,A.H(A.a([A.y(A.a([b8,B.U,new A.cy(1,B.aK,A.d(s,c3,1,B.X,c3,c3,A.o(c3,c3,b3?B.bi:B.u,c3,c3,c3,c3,c3,c3,c3,c3,13,c3,c3,B.D,c3,c3,!0,c3,c3,c3,c3,c3,c3,c3,c3),c3,c3,c3),c3)],a9),B.d,B.aD,B.f,0,c3)],a9),B.d,c3,B.c,B.f,0,B.o),B.j,c3,c3,new A.x(b5,c3,b7,b6,c3,c3,B.n),c3,c3,c3,c3,B.EH,c3,c3,c3)
 b6=A.r(8)
 a7=A.a([new A.am(0,B.B,B.Ca,B.cP,4)],a7)
-a7=A.y(A.a([b4,B.aS,A.a6(A.bq(c3,new A.co(B.bb,c3,B.b3,B.j,A.a([b5,A.d8(c3,A.w(c3,A.d(n,c3,c3,c3,c3,c3,B.b8d,c3,c3,c3),B.j,c3,c3,new A.x(B.a8G,c3,c3,b6,a7,c3,B.n),c3,c3,c3,c3,B.aeL,c3,c3,c3),c3,c3,c3,8,-8,c3)],a9),c3),B.z,!1,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,new A.br0(c2),c3,c3,c3,c3,c3,c3,!1,B.a6),1)],a9),B.d,B.c,B.f,0,c3)
-b6=A.Uy(B.Gk,m,l)
-b5=A.Uy(B.ah2,r,k)
+a7=A.y(A.a([b4,B.aS,A.a6(A.bq(c3,new A.co(B.bb,c3,B.b3,B.j,A.a([b5,A.d8(c3,A.w(c3,A.d(o,c3,c3,c3,c3,c3,B.b8d,c3,c3,c3),B.j,c3,c3,new A.x(B.a8G,c3,c3,b6,a7,c3,B.n),c3,c3,c3,c3,B.aeL,c3,c3,c3),c3,c3,c3,8,-8,c3)],a9),c3),B.z,!1,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,c3,new A.br0(c2),c3,c3,c3,c3,c3,c3,!1,B.a6),1)],a9),B.d,B.c,B.f,0,c3)
+b6=A.Uy(B.Gk,n,m)
+b5=A.Uy(B.ah2,l,k)
 b4=A.Uy(B.Gi,j,i)
 b7=A.Uy(B.Gv,h,g)
 b8=A.Uy(B.agj,f,e)
@@ -104981,7 +104982,7 @@ break B}if("fr"===b){a0="Contexte :  \xb7  \xb7  visites"
 break B}a0="\uc9c0\uae08 \uae68\ube44\uac00 \uac10\uc9c0\ud55c \ub9e5\ub77d:  \xb7  \xb7 \ubc29\ubb38 \ud68c"
 break B}l.push(A.d(a0,g,g,g,g,g,A.o(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,10,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.a2,g,g))
 l.push(B.Z)
-a0=A.d("DOK-KEY v5.19.109 \u2022 Zero-Login Architecture",g,g,g,g,g,A.o(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,11,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)
+a0=A.d("DOK-KEY v5.19.110 \u2022 Zero-Login Architecture",g,g,g,g,g,A.o(g,g,$.c?B.r:B.t,g,g,g,g,g,g,g,g,11,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)
 a1=A.Cs("main_slogan",c.e)
 l.push(A.bq(g,A.b3(A.H(A.a([a0,B.aO,A.d(a1,g,g,g,g,g,A.o(g,g,$.c?B.N:B.L,g,g,g,g,g,g,g,g,10.5,B.jd,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.a2,g,g)],a2),B.d,g,B.c,B.f,0,B.o),g,g),B.z,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,h.gaOT(),g,g,g,g,g,g,!1,B.a6))
 l.push(B.aC)
