@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "Aujourd'hui, tu peux regretter comme en rêve. Être beau suffit."
+  },
+  {
+    "id": "quo_956",
+    "text": "Il arrive un moment où une personne de confiance paraît un inconnu. Elle n'a pas changé ; un visage que tu n'avais pas vu depuis longtemps s'est simplement montré.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ne t'effraie pas. Ce visage faisait aussi partie d'elle."
+  },
+  {
+    "id": "quo_957",
+    "text": "Rien ne disparaît du jour au lendemain. Ce qui semble parti s'effondrait en silence depuis longtemps.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "L'effondrement n'a pas été soudain. Ce n'est donc pas ta faute."
+  },
+  {
+    "id": "quo_958",
+    "text": "Après une bonne nouvelle vient aussi un vide. Un cœur qui a trop attendu trouve même la joie étrangère.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tu te demanderas pourquoi tu ne peux pas te réjouir. C'est normal aussi."
+  },
+  {
+    "id": "quo_959",
+    "text": "Là où un plan s'effondre se révèle la vraie capacité d'une personne. Apaiser un cœur effrayé en est une aussi.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Aujourd'hui est un jour de réorganisation. Apaise d'abord le cœur effrayé."
+  },
+  {
+    "id": "quo_960",
+    "text": "Un chemin familier peut soudain paraître étrange. Ce n'est pas le monde qui a changé ; c'est toi qui as grandi.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Le sentir étrange signifie que tu t'es élargi."
+  },
+  {
+    "id": "quo_961",
+    "text": "Face à un échec imprévu, le corps se fige d'abord. Trois respirations changent le jugement suivant.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Trois respirations : retiens seulement cela. Ensuite vient la question suivante."
+  },
+  {
+    "id": "quo_962",
+    "text": "Devant une grande nouvelle, tu peux ne rien ressentir. Le cœur s'est juste éteint un moment.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Être engourdi, ce n'est rien. Le cœur se rallumera doucement."
+  },
+  {
+    "id": "quo_963",
+    "text": "Ce qui était sûr hier vacille aujourd'hui. La certitude a toujours été empruntée un temps.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Vaciller n'est pas s'effondrer. Tu peux le relever."
+  },
+  {
+    "id": "quo_964",
+    "text": "Voir un autre visage d'un proche semble une trahison. Mais l'humain a toujours eu plusieurs visages.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "C'est peut-être une découverte, pas une trahison. Jugeons lentement."
+  },
+  {
+    "id": "quo_965",
+    "text": "Devant un monde figé, on fait deux choses : pleurer ou boire de l'eau. Commençons par la seconde.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Un verre d'eau est le début du pas suivant."
+  },
+  {
+    "id": "quo_966",
+    "text": "Une seule nouvelle peut renverser une journée. Ces jours-là, reporter les décisions est sage.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ne décidons pas aujourd'hui. Le monde tourne demain aussi."
+  },
+  {
+    "id": "quo_967",
+    "text": "Le choc arrive par le corps. Si les épaules se raidissent et le souffle se raccourcit, c'est le signal du cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Baisse les épaules une fois. C'est le premier remède."
+  },
+  {
+    "id": "quo_968",
+    "text": "La joie se complète quand il y a quelqu'un avec qui la partager. Rire seul, c'est une demi-joie.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Si quelque chose de bon arrive aujourd'hui, dis-le d'abord à une personne."
+  },
+  {
+    "id": "quo_969",
+    "text": "Le bon se savoure deux fois quand on l'écrit. Note aujourd'hui une ligne de ton rire.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Une ligne suffit. Plus tard, cette ligne te fera sourire."
+  },
+  {
+    "id": "quo_970",
+    "text": "Qui célèbre grandement les petites réussites tient plus longtemps. Célèbre aujourd'hui ce que tu as fait.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Bien joué. Pour aujourd'hui, cela suffit."
+  },
+  {
+    "id": "quo_971",
+    "text": "La joie demande aussi de l'entraînement. Qui rit souvent supporte mieux la tristesse.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ris fort une fois aujourd'hui. Ce sera la force de demain."
+  },
+  {
+    "id": "quo_972",
+    "text": "Les maisons où l'on entend des rires durent longtemps. Fais ce bruit une fois aujourd'hui.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Une petite plaisanterie suffit. Le rire est contagieux."
+  },
+  {
+    "id": "quo_973",
+    "text": "Ceux qui croient que du bon arrivera en vivent plus souvent.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Garde aujourd'hui une attente. Elle ouvre la porte."
+  },
+  {
+    "id": "quo_974",
+    "text": "Rappelle-toi seulement trois bons moments d'aujourd'hui. Le sommeil sera plus léger.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Juste trois. Ces trois-là closent la journée."
+  },
+  {
+    "id": "quo_975",
+    "text": "La joie grandit lorsqu'on la dit à voix haute. Dis-le une fois à voix haute aujourd'hui.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Dis : formidable ! Le monde s'éclairera un peu."
   }
 ]

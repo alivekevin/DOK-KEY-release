@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "今日は夢のように恋しがってもいい。美しければ十分。"
+  },
+  {
+    "id": "quo_956",
+    "text": "信じていた人が急に見知らぬ顔になる瞬間が来る。そのとき変わったのは相手ではなく、長く見ていなかった顔が現れただけだ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "驚かないで。その顔もその人の一部だったんだ。"
+  },
+  {
+    "id": "quo_957",
+    "text": "一夜で消えるものはない。消えたように見えるのは、長く静かに崩れていたからだ。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "崩れたのは急ではない。だから君のせいでもない。"
+  },
+  {
+    "id": "quo_958",
+    "text": "良い知らせのあとに来る虚しさがある。長く待ちすぎた心は喜びさえも知らない顔をする。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "喜べばいいのに、と思うだろう。その心も普通だよ。"
+  },
+  {
+    "id": "quo_959",
+    "text": "計画が崩れた場所で人の本当の力が見える。驚いた心をなだめるのも力だ。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日は立て直す日。驚いた心からなだめよう。"
+  },
+  {
+    "id": "quo_960",
+    "text": "慣れた道が急に見知らぬ道になることがある。世界が変わったのではなく、自分が育ったのだ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "見知らぬと感じるのは、君が広くなった証拠。"
+  },
+  {
+    "id": "quo_961",
+    "text": "予想外の失敗が来ると体が先に固まる。そのとき三回息をすれば次の判断が変わる。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "三回の呼吸、それだけ覚えて。次はその次の問題だ。"
+  },
+  {
+    "id": "quo_962",
+    "text": "大きな知らせの前で何も感じないことがある。心がしばらく自分を切っただけだ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "無感覚でも大丈夫。心は後でゆっくり点く。"
+  },
+  {
+    "id": "quo_963",
+    "text": "昨日まで確かだったものが今日ゆらぐ。確かさはもともと少し借りていたものだ。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "ゆらいでも崩れはしない。また立てればいい。"
+  },
+  {
+    "id": "quo_964",
+    "text": "近い人の別の顔を見ると裏切られた気がする。だが人はもともと多くの顔を持つ存在だ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "裏切りではなく発見かもしれない。ゆっくり判断しよう。"
+  },
+  {
+    "id": "quo_965",
+    "text": "止まった世界の前で人は二つをする。泣くか、水を飲むか。二つ目から始めよう。",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "水一杯が次の一歩のはじまり。"
+  },
+  {
+    "id": "quo_966",
+    "text": "ニュース一つで一日がひっくり返ることがある。そんな日は決断を延ばすのが知恵だ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日は決めないでおこう。世界は明日も回る。"
+  },
+  {
+    "id": "quo_967",
+    "text": "衝撃は体を通じて来る。肩がこわばり息が浅くなるなら、それが心の合図だ。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "肩を一度下げて。それが最初の手当て。"
+  },
+  {
+    "id": "quo_968",
+    "text": "喜びは分かち合う人がいるとき完成する。一人で笑うと半分の喜びだ。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日いいことがあったら、まず一人に伝えて。"
+  },
+  {
+    "id": "quo_969",
+    "text": "良いことは書き留めると二度うれしい。今日の笑いを一行書いておこう。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "一行で十分。後でその一行が君を笑わせる。"
+  },
+  {
+    "id": "quo_970",
+    "text": "小さな達成を大きく祝う人が長く続く。今日やったことを自分で祝おう。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "よくやった。今日はそれだけでも十分。"
+  },
+  {
+    "id": "quo_971",
+    "text": "喜びにも練習が要る。よく笑う人は悲しみにもよく耐える。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日一度大きく笑おう。それが明日の力になる。"
+  },
+  {
+    "id": "quo_972",
+    "text": "笑い声が聞こえる家は長く続く。今日その音を一度作ってみよう。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "小さな冗談ひとつで十分。笑いは移るから。"
+  },
+  {
+    "id": "quo_973",
+    "text": "良いことが起きると信じる人に、良いことはより多く起きる。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日ひとつ期待を持とう。それが扉を開く。"
+  },
+  {
+    "id": "quo_974",
+    "text": "今日一日の良かった瞬間を三つだけ思い出そう。眠りが楽になる。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "三つだけ。その三つが今日の締めくくり。"
+  },
+  {
+    "id": "quo_975",
+    "text": "喜びは声に出して表すと大きくなる。今日一度大きく言ってみよう。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "いいね！と声に出して。世界が少し明るくなる。"
   }
 ]

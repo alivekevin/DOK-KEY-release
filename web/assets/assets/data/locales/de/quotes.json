@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "Heute darfst du traumhaft sehnen. Schön zu sein genügt."
+  },
+  {
+    "id": "quo_956",
+    "text": "Es kommt ein Moment, in dem ein Vertrauter fremd wirkt. Nicht er hat sich verändert; ein lange ungesehenes Gesicht zeigt sich nur.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Erschrick nicht. Auch dieses Gesicht gehört zu ihm."
+  },
+  {
+    "id": "quo_957",
+    "text": "Nichts verschwindet über Nacht. Was verschwunden scheint, war lange still am Zerfallen.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Der Einsturz war nicht plötzlich. Also ist es nicht deine Schuld."
+  },
+  {
+    "id": "quo_958",
+    "text": "Nach einer guten Nachricht kommt eine Leere. Ein Herz, das zu lange wartete, findet selbst Freude fremd.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Du fragst dich, warum du dich nicht freuen kannst. Auch das ist normal."
+  },
+  {
+    "id": "quo_959",
+    "text": "Wo ein Plan zerbricht, zeigt sich die wahre Fähigkeit eines Menschen. Ein erschrockenes Herz zu beruhigen ist auch Fähigkeit.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Heute ist ein Tag des Neuordnens. Beruhige zuerst das erschrockene Herz."
+  },
+  {
+    "id": "quo_960",
+    "text": "Ein vertrauter Weg kann plötzlich fremd werden. Nicht die Welt hat sich geändert; du bist gewachsen.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Fremd zu fühlen heißt, du bist weiter geworden."
+  },
+  {
+    "id": "quo_961",
+    "text": "Bei unerwartetem Scheitern erstarrt zuerst der Körper. Drei Atemzüge ändern dann dein nächstes Urteil.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Drei Atemzüge — nur das merken. Danach kommt die nächste Frage."
+  },
+  {
+    "id": "quo_962",
+    "text": "Vor einer großen Nachricht fühlt man manchmal nichts. Das Herz hat sich nur kurz abgeschaltet.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Auch Taubheit ist in Ordnung. Das Herz geht später langsam an."
+  },
+  {
+    "id": "quo_963",
+    "text": "Was gestern sicher war, wankt heute. Sicherheit war immer nur geliehen.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wanken ist kein Einsturz. Du kannst es neu aufrichten."
+  },
+  {
+    "id": "quo_964",
+    "text": "Ein anderes Gesicht eines Nahen wirkt wie Verrat. Doch Menschen waren immer Wesen mit vielen Gesichtern.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Vielleicht keine Treulosigkeit, sondern eine Entdeckung. Urteile langsam."
+  },
+  {
+    "id": "quo_965",
+    "text": "Vor einer erstarrten Welt tun Menschen zwei Dinge: weinen oder Wasser trinken. Beginnen wir mit dem Zweiten.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ein Glas Wasser ist der Beginn des nächsten Schritts."
+  },
+  {
+    "id": "quo_966",
+    "text": "Eine einzige Nachricht kann einen Tag umwerfen. An solchen Tagen ist Aufschieben von Entscheidungen klug.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Entscheide heute nichts. Die Welt dreht sich morgen weiter."
+  },
+  {
+    "id": "quo_967",
+    "text": "Der Schock kommt über den Körper. Wenn Schultern hart werden und der Atem flach wird, ist das das Signal des Herzens.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Lass die Schultern einmal sinken. Das ist die erste Behandlung."
+  },
+  {
+    "id": "quo_968",
+    "text": "Freude wird vollständig, wenn es jemanden zum Teilen gibt. Allein zu lachen ist halbe Freude.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Wenn heute etwas Schönes passiert, sag es zuerst einem Menschen."
+  },
+  {
+    "id": "quo_969",
+    "text": "Gutes doppelt sich, wenn man es aufschreibt. Notiere das heutige Lachen in einer Zeile.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Eine Zeile genügt. Später wird diese Zeile dich lächeln lassen."
+  },
+  {
+    "id": "quo_970",
+    "text": "Wer kleine Erfolge groß feiert, bleibt lange dran. Feiere heute selbst, was du geschafft hast.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Gut gemacht. Für heute genügt das schon."
+  },
+  {
+    "id": "quo_971",
+    "text": "Auch Freude braucht Übung. Wer oft lacht, erträgt auch Trauer besser.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Lach heute einmal laut. Das wird die Kraft von morgen."
+  },
+  {
+    "id": "quo_972",
+    "text": "Häuser, in denen Lachen zu hören ist, halten lange. Erzeuge dieses Geräusch heute einmal.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ein kleiner Scherz genügt. Lachen steckt an."
+  },
+  {
+    "id": "quo_973",
+    "text": "Menschen, die glauben, dass Gutes geschieht, erleben es häufiger.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Halte heute eine Erwartung fest. Sie öffnet die Tür."
+  },
+  {
+    "id": "quo_974",
+    "text": "Erinnere dich nur an drei gute Momente des heutigen Tages. Der Schlaf wird leichter.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Nur drei. Diese drei schließen den Tag."
+  },
+  {
+    "id": "quo_975",
+    "text": "Freude wächst, wenn man sie laut ausspricht. Sag es heute einmal laut.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi-Weisheitsnotizen",
+    "source": "DOK-KEY Weisheitssammlung",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Sag laut: Wunderbar! Die Welt wird ein wenig heller."
   }
 ]

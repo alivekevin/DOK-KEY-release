@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "Hoje pode sentir saudade como num sonho. Ser belo já basta."
+  },
+  {
+    "id": "quo_956",
+    "text": "Chega um momento em que alguém de confiança parece um estranho. Não mudou: apenas surgiu um rosto que você passou muito tempo sem ver.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Não se assuste. Esse rosto também fazia parte dele."
+  },
+  {
+    "id": "quo_957",
+    "text": "Nada desaparece da noite para o dia. O que parece ter sumido estava havia muito tempo desmoronando em silêncio.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "O desmoronamento não foi de repente. Então também não é sua culpa."
+  },
+  {
+    "id": "quo_958",
+    "text": "Depois de uma boa notícia também vem um vazio. Um coração que esperou demais acha até a alegria estranha.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Você vai se perguntar por que não consegue se alegrar. Isso também é normal."
+  },
+  {
+    "id": "quo_959",
+    "text": "Onde um plano desmorona, aparece a verdadeira habilidade de alguém. Acalmar um coração assustado também é habilidade.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hoje é dia de reorganizar. Acalme primeiro o coração assustado."
+  },
+  {
+    "id": "quo_960",
+    "text": "Um caminho conhecido pode de repente parecer estranho. Não foi o mundo que mudou; você cresceu.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Sentir estranheza significa que você ficou mais amplo."
+  },
+  {
+    "id": "quo_961",
+    "text": "Diante de um fracasso inesperado, o corpo trava primeiro. Três respirações mudam o julgamento seguinte.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Três respirações: lembre-se só disso. Depois vem o próximo problema."
+  },
+  {
+    "id": "quo_962",
+    "text": "Diante de uma grande notícia você pode não sentir nada. O coração apenas se desligou por um tempo.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ficar dormente também está bem. O coração se acenderá devagar depois."
+  },
+  {
+    "id": "quo_963",
+    "text": "O que ontem era certo hoje oscila. A certeza sempre foi emprestada por um tempo.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Oscilar não é desmoronar. Você pode levantar de novo."
+  },
+  {
+    "id": "quo_964",
+    "text": "Ver outra face de alguém próximo parece traição. Mas o ser humano sempre foi um ser de muitas faces.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Pode ser descoberta, não traição. Julgue com calma."
+  },
+  {
+    "id": "quo_965",
+    "text": "Diante de um mundo parado as pessoas fazem duas coisas: choram ou bebem água. Comecemos pela segunda.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Um copo de água é o começo do próximo passo."
+  },
+  {
+    "id": "quo_966",
+    "text": "Uma única notícia pode virar um dia. Nesses dias, adiar decisões é sabedoria.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje não decidamos. O mundo gira amanhã também."
+  },
+  {
+    "id": "quo_967",
+    "text": "O impacto chega pelo corpo. Se os ombros endurecem e a respiração encurta, é o sinal do coração.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Abaixe os ombros uma vez. Esse é o primeiro remédio."
+  },
+  {
+    "id": "quo_968",
+    "text": "A alegria se completa quando há alguém com quem dividi-la. Rir sozinho é meia alegria.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Se hoje acontecer algo bom, conte primeiro a uma pessoa."
+  },
+  {
+    "id": "quo_969",
+    "text": "O que é bom se aproveita duas vezes ao ser anotado. Escreva hoje uma linha do seu riso.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Uma linha basta. Depois, essa linha vai fazer você sorrir."
+  },
+  {
+    "id": "quo_970",
+    "text": "Quem celebra em grande as pequenas conquistas dura mais. Comemore hoje o que você fez.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Muito bem. Para hoje, isso já basta."
+  },
+  {
+    "id": "quo_971",
+    "text": "A alegria também precisa de prática. Quem ri com frequência suporta melhor a tristeza.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ria alto uma vez hoje. Isso será a força de amanhã."
+  },
+  {
+    "id": "quo_972",
+    "text": "Casas onde se ouve riso duram muito. Crie hoje esse som uma vez.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Uma piada pequena basta. O riso é contagioso."
+  },
+  {
+    "id": "quo_973",
+    "text": "A quem crê que algo bom virá, o bom acontece com mais frequência.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Guarde hoje uma expectativa. Ela abre a porta."
+  },
+  {
+    "id": "quo_974",
+    "text": "Lembre-se apenas de três bons momentos de hoje. O sono fica mais leve.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Só três. Esses três fecham o dia."
+  },
+  {
+    "id": "quo_975",
+    "text": "A alegria cresce quando dita em voz alta. Diga hoje uma vez em voz alta.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Diga: que ótimo! O mundo clareia um pouco."
   }
 ]

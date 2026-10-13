@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "Hôm nay nhớ như trong mơ cũng được. Đẹp là đủ."
+  },
+  {
+    "id": "quo_956",
+    "text": "Có một khoảnh khắc người bạn tin tưởng bỗng trở nên xa lạ. Không phải họ đổi thay; chỉ là gương mặt lâu nay chưa thấy hiện ra.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Đừng giật mình. Gương mặt đó cũng là một phần của họ."
+  },
+  {
+    "id": "quo_957",
+    "text": "Không gì biến mất trong một đêm. Điều trông như đã mất đã âm thầm sụp đổ từ rất lâu.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Sự sụp đổ không đến bất chợt. Nên đó cũng không phải lỗi của bạn."
+  },
+  {
+    "id": "quo_958",
+    "text": "Sau tin vui cũng có một khoảng trống. Trái tim chờ quá lâu thấy cả niềm vui cũng lạ lẫm.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Bạn sẽ tự hỏi sao mình không vui được. Cảm giác ấy cũng bình thường."
+  },
+  {
+    "id": "quo_959",
+    "text": "Nơi kế hoạch đổ vỡ, năng lực thật của một người hiện ra. Dỗ trái tim đang hoảng cũng là năng lực.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay là ngày sắp xếp lại. Hãy dỗ trái tim đang hoảng trước."
+  },
+  {
+    "id": "quo_960",
+    "text": "Con đường quen bỗng trở nên lạ lẫm. Không phải thế giới đổi thay; bạn đã lớn lên.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Thấy lạ nghĩa là bạn đã rộng hơn."
+  },
+  {
+    "id": "quo_961",
+    "text": "Trước thất bại bất ngờ, cơ thể cứng lại trước. Ba hơi thở sẽ đổi phán đoán tiếp theo.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ba hơi thở, chỉ nhớ điều đó. Sau là câu hỏi kế tiếp."
+  },
+  {
+    "id": "quo_962",
+    "text": "Trước tin lớn, có lúc bạn chẳng cảm thấy gì. Trái tim chỉ tạm tắt đi một lúc.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tê dại cũng không sao. Trái tim sẽ bật lên chậm rãi sau."
+  },
+  {
+    "id": "quo_963",
+    "text": "Điều hôm qua còn chắc chắn hôm nay đã lung lay. Sự chắc chắn vốn chỉ là mượn tạm.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Lung lay không phải đổ vỡ. Bạn có thể dựng lại."
+  },
+  {
+    "id": "quo_964",
+    "text": "Thấy một gương mặt khác của người thân, ta thấy như bị phản bội. Nhưng con người vốn có nhiều gương mặt.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Có thể là khám phá, không phải phản bội. Hãy phán đoán chậm."
+  },
+  {
+    "id": "quo_965",
+    "text": "Trước thế giới đang dừng lại, người ta làm hai việc: khóc, hoặc uống nước. Hãy bắt đầu từ việc thứ hai.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Một ly nước là khởi đầu của bước tiếp theo."
+  },
+  {
+    "id": "quo_966",
+    "text": "Một tin có thể lật ngược một ngày. Ngày ấy, hoãn quyết định là khôn ngoan.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay đừng quyết. Thế giới mai vẫn quay."
+  },
+  {
+    "id": "quo_967",
+    "text": "Cú sốc đến qua cơ thể. Vai cứng lại và hơi thở ngắn đi, đó là tín hiệu của trái tim.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hạ vai một lần. Đó là cách chữa đầu tiên."
+  },
+  {
+    "id": "quo_968",
+    "text": "Niềm vui trọn vẹn khi có người để chia sẻ. Cười một mình chỉ là nửa niềm vui.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay có chuyện vui, hãy kể cho một người trước."
+  },
+  {
+    "id": "quo_969",
+    "text": "Điều tốt khi ghi lại thì vui gấp đôi. Hôm nay viết một dòng về tiếng cười.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Một dòng là đủ. Sau này dòng ấy sẽ khiến bạn cười."
+  },
+  {
+    "id": "quo_970",
+    "text": "Người ăn mừng lớn thành quả nhỏ sẽ đi lâu hơn. Hôm nay tự chúc mừng việc đã làm.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Làm tốt lắm. Hôm nay chỉ thế là đủ."
+  },
+  {
+    "id": "quo_971",
+    "text": "Niềm vui cũng cần luyện tập. Người hay cười cũng chịu đựng nỗi buồn tốt hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay cười thật to một lần. Đó sẽ là sức mạnh ngày mai."
+  },
+  {
+    "id": "quo_972",
+    "text": "Nhà nào nghe thấy tiếng cười thì bền lâu. Hôm nay hãy tạo âm thanh ấy một lần.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Một câu đùa nhỏ là đủ. Tiếng cười lan truyền."
+  },
+  {
+    "id": "quo_973",
+    "text": "Người tin điều tốt sẽ đến thì điều tốt đến với họ nhiều hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay hãy giữ một kỳ vọng. Nó mở cánh cửa."
+  },
+  {
+    "id": "quo_974",
+    "text": "Chỉ nhớ ba khoảnh khắc tốt của hôm nay. Giấc ngủ sẽ nhẹ hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Chỉ ba. Ba điều ấy khép lại ngày hôm nay."
+  },
+  {
+    "id": "quo_975",
+    "text": "Niềm vui lớn lên khi nói ra thành tiếng. Hôm nay hãy nói to một lần.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hãy nói: tuyệt quá! Thế giới sẽ sáng hơn một chút."
   }
 ]

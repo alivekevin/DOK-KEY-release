@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "Today you may long dreamlike. Being beautiful is enough."
+  },
+  {
+    "id": "quo_956",
+    "text": "There comes a moment when someone you trusted looks like a stranger. They did not change; a face you had not seen in a long time simply showed itself.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Do not be startled. That face was part of them too."
+  },
+  {
+    "id": "quo_957",
+    "text": "Nothing vanishes overnight. What looks gone had been quietly collapsing for a long time.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "The collapse was not sudden. So it is not your fault either."
+  },
+  {
+    "id": "quo_958",
+    "text": "There is an emptiness that follows good news. A heart that waited too long finds even joy unfamiliar.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "You may wonder why you cannot just be glad. That feeling is normal too."
+  },
+  {
+    "id": "quo_959",
+    "text": "Where a plan collapses, a person's real skill shows. Soothing your startled heart is skill as well.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Today is for regrouping. Soothe the startled heart first."
+  },
+  {
+    "id": "quo_960",
+    "text": "A familiar road can suddenly feel strange. The world did not change; you grew.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Feeling unfamiliar means you have grown wider."
+  },
+  {
+    "id": "quo_961",
+    "text": "When an unexpected failure comes, the body stiffens first. Three breaths then change your next judgment.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Three breaths — remember only that. What comes next is the next problem."
+  },
+  {
+    "id": "quo_962",
+    "text": "Before big news you may feel nothing at all. Your heart has simply shut itself off for a while.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Feeling numb is fine. The heart will switch on slowly later."
+  },
+  {
+    "id": "quo_963",
+    "text": "What was certain until yesterday wavers today. Certainty was always borrowed for a while.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Wavering is not collapsing. You can set it up again."
+  },
+  {
+    "id": "quo_964",
+    "text": "Seeing another face of someone close feels like betrayal. But people were always beings with many faces.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "It may be a discovery rather than betrayal. Let us judge slowly."
+  },
+  {
+    "id": "quo_965",
+    "text": "Before a halted world people do two things: cry, or drink water. Let us start with the second.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "A glass of water is the start of the next step."
+  },
+  {
+    "id": "quo_966",
+    "text": "One piece of news can flip a day. On such days, postponing decisions is wisdom.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Let us not decide today. The world turns tomorrow too."
+  },
+  {
+    "id": "quo_967",
+    "text": "Shock arrives through the body. When shoulders stiffen and breath shortens, that is the heart's signal.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Drop your shoulders once. That is the first treatment."
+  },
+  {
+    "id": "quo_968",
+    "text": "Joy is completed when there is someone to share it. Laughing alone is half a joy.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "If something good happens today, tell one person first."
+  },
+  {
+    "id": "quo_969",
+    "text": "Good things are enjoyed twice when written down. Let us note today's laughter in one line.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "One line is enough. Later, that line will make you smile."
+  },
+  {
+    "id": "quo_970",
+    "text": "Those who celebrate small wins loudly last long. Celebrate today's work yourself.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Well done. Today, that alone is well done."
+  },
+  {
+    "id": "quo_971",
+    "text": "Joy needs practice too. Those who laugh often bear sorrow better as well.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Laugh big once today. That becomes tomorrow's strength."
+  },
+  {
+    "id": "quo_972",
+    "text": "Homes where laughter is heard last long. Let us make that sound once today.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "One small joke is enough. Laughter is contagious."
+  },
+  {
+    "id": "quo_973",
+    "text": "Good things happen more often to those who believe good things will come.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hold one expectation today. That opens the door."
+  },
+  {
+    "id": "quo_974",
+    "text": "Recall just three good moments of today. Sleep becomes easier.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Just three. Those three close the day."
+  },
+  {
+    "id": "quo_975",
+    "text": "Joy grows when spoken aloud. Let us say it out loud once today.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Say it out loud: wonderful! The world will brighten a little."
   }
 ]

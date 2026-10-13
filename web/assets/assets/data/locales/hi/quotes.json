@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "आज सपने जैसा याद करना भी ठीक है। सुंदर होना काफ़ी है।"
+  },
+  {
+    "id": "quo_956",
+    "text": "एक पल आता है जब भरोसेमंद व्यक्ति अचानक अजनबी लगने लगता है। वह बदला नहीं; बस वह चेहरा सामने आया जो बहुत दिनों से नहीं दिखा था।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "घबराओ मत। वह चेहरा भी उसी का हिस्सा था।"
+  },
+  {
+    "id": "quo_957",
+    "text": "रातोंरात कुछ नहीं मिटता। जो गायब दिखता है, वह बहुत दिनों से चुपचाप ढह रहा था।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "ढहना अचानक नहीं था। इसलिए यह तुम्हारी ग़लती भी नहीं।"
+  },
+  {
+    "id": "quo_958",
+    "text": "अच्छी खबर के बाद एक ख़ालीपन भी आता है। बहुत देर इंतज़ार करने वाला दिल खुशी को भी अजनबी मानता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "लगेगा कि खुश होना चाहिए। वह भावना भी सामान्य है।"
+  },
+  {
+    "id": "quo_959",
+    "text": "योजना टूटने की जगह पर इंसान का असली हुनर दिखता है। चौंके दिल को शांत करना भी हुनर है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज फिर से जुटने का दिन है। पहले चौंके दिल को शांत करो।"
+  },
+  {
+    "id": "quo_960",
+    "text": "जानी-पहचानी राह कभी अचानक अजनबी लगती है। दुनिया नहीं बदली; तुम बड़े हुए हो।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अजनबी लगना यानी तुम और विस्तृत हुए।"
+  },
+  {
+    "id": "quo_961",
+    "text": "अनपेक्षित असफलता पर शरीर पहले जकड़ जाता है। तब तीन साँस लो, अगला फ़ैसला बदल जाएगा।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "तीन साँस — बस यही याद रखो। फिर अगला सवाल है।"
+  },
+  {
+    "id": "quo_962",
+    "text": "बड़ी खबर के सामने कभी कुछ महसूस नहीं होता। दिल ने बस थोड़ी देर खुद को बंद कर लिया है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सुन्न होना भी ठीक है। दिल बाद में धीरे जलेगा।"
+  },
+  {
+    "id": "quo_963",
+    "text": "जो कल तक पक्का था, आज डगमगाता है। पक्कापन हमेशा थोड़ी देर के लिए उधार था।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "डगमगाना गिर जाना नहीं है। फिर खड़ा कर लो।"
+  },
+  {
+    "id": "quo_964",
+    "text": "करीबी का दूसरा चेहरा देखकर धोखा लगता है। पर इंसान हमेशा कई चेहरों वाला प्राणी था।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "यह धोखा नहीं, खोज भी हो सकती है। धीरे तय करो।"
+  },
+  {
+    "id": "quo_965",
+    "text": "रुकी हुई दुनिया के सामने इंसान दो काम करता है: रोता है या पानी पीता है। दूसरे से शुरू करें।",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "एक गिलास पानी अगले कदम की शुरुआत है।"
+  },
+  {
+    "id": "quo_966",
+    "text": "एक खबर पूरा दिन पलट सकती है। ऐसे दिन फ़ैसले टाल देना ही बुद्धिमानी है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज फ़ैसला न करें। दुनिया कल भी घूमेगी।"
+  },
+  {
+    "id": "quo_967",
+    "text": "झटका शरीर के रास्ते आता है। कंधे कड़े हों और साँस छोटी हो, तो यही दिल का संकेत है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "कंधे एक बार गिराओ। यही पहला इलाज है।"
+  },
+  {
+    "id": "quo_968",
+    "text": "खुशी तब पूरी होती है जब बाँटने वाला कोई हो। अकेले हँसना आधी खुशी है।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज कुछ अच्छा हो तो सबसे पहले किसी एक को बताओ।"
+  },
+  {
+    "id": "quo_969",
+    "text": "अच्छी बातें लिख लो तो दुगनी खुशी मिलती है। आज की हँसी एक पंक्ति में लिखो।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक पंक्ति काफ़ी है। बाद में वही पंक्ति तुम्हें हँसाएगी।"
+  },
+  {
+    "id": "quo_970",
+    "text": "छोटी उपलब्धि को बड़ा मना लेने वाला लंबा चलता है। आज अपनी मेहनत को खुद बधाई दो।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "शाबाश। आज इतना ही काफ़ी है।"
+  },
+  {
+    "id": "quo_971",
+    "text": "खुशी का भी अभ्यास चाहिए। जो खूब हँसता है, वह दुख भी बेहतर सहता है।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज एक बार ज़ोर से हँसो। वही कल की ताक़त बनेगा।"
+  },
+  {
+    "id": "quo_972",
+    "text": "जिस घर में हँसी सुनाई देती है, वह लंबा चलता है। आज वह आवाज़ एक बार बनाओ।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "एक छोटा मज़ाक काफ़ी है। हँसी फैलती है।"
+  },
+  {
+    "id": "quo_973",
+    "text": "जो मानते हैं कि अच्छा होगा, उनके साथ अच्छा ज़्यादा होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज एक उम्मीद थामो। वही दरवाज़ा खोलेगी।"
+  },
+  {
+    "id": "quo_974",
+    "text": "आज के बस तीन अच्छे पल याद करो। नींद हल्की हो जाएगी।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "बस तीन। वही तीन आज का समापन हैं।"
+  },
+  {
+    "id": "quo_975",
+    "text": "खुशी ज़ोर से कहने पर बड़ी होती है। आज एक बार ज़ोर से कहो।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "कहो — वाह! दुनिया थोड़ी रोशन होगी।"
   }
 ]

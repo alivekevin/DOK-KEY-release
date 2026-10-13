@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "今天可以如梦般想念。美就足够了。"
+  },
+  {
+    "id": "quo_956",
+    "text": "会有那么一刻，你信任的人忽然显得陌生。不是他变了，只是一直没看清的那张脸浮现了出来。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "别惊讶。那张脸也是他的一部分。"
+  },
+  {
+    "id": "quo_957",
+    "text": "没有东西会一夜消失。看起来消失的，其实早已静静崩塌很久。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "崩塌不是突然的。所以也不是你的错。"
+  },
+  {
+    "id": "quo_958",
+    "text": "好消息之后也会有空虚。等得太久的心，连喜悦都觉得陌生。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "你会想，明明可以高兴。那种心也很正常。"
+  },
+  {
+    "id": "quo_959",
+    "text": "计划崩塌的地方能看出一个人真正的本事。安抚受惊的心，也是本事。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天是重整的一天。先安抚受惊的心。"
+  },
+  {
+    "id": "quo_960",
+    "text": "熟悉的路有时忽然变得陌生。不是世界变了，而是你长大了。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "觉得陌生，说明你变宽了。"
+  },
+  {
+    "id": "quo_961",
+    "text": "意外失败到来时，身体先僵住。那时呼吸三次，接下来的判断就会不同。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "三次呼吸，只记住这个。之后是下一个问题。"
+  },
+  {
+    "id": "quo_962",
+    "text": "面对重大消息，有时什么都感觉不到。那只是心暂时把自己关掉了。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "麻木也没关系。心会慢慢重新亮起来。"
+  },
+  {
+    "id": "quo_963",
+    "text": "昨天还确定的事，今天开始动摇。确定本来就是暂时借来的。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "动摇不等于崩塌。重新立起来就好。"
+  },
+  {
+    "id": "quo_964",
+    "text": "看到亲近之人的另一面会感到被背叛。但人本来就是拥有许多面的存在。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "也许不是背叛，而是发现。慢慢判断吧。"
+  },
+  {
+    "id": "quo_965",
+    "text": "面对停住的世界，人会做两件事：哭，或者喝水。就从第二件开始吧。",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "一杯水就是下一步的开始。"
+  },
+  {
+    "id": "quo_966",
+    "text": "一条消息就能掀翻一天。那种日子，延后决定才是智慧。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天先不决定。世界明天也会转。"
+  },
+  {
+    "id": "quo_967",
+    "text": "冲击会通过身体传来。肩膀发硬、呼吸变浅，那就是心的信号。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "把肩膀放下一次。那就是最初的治疗。"
+  },
+  {
+    "id": "quo_968",
+    "text": "喜悦在有人分享时才完整。独自笑，只是半个喜悦。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天若有好消息，先告诉一个人。"
+  },
+  {
+    "id": "quo_969",
+    "text": "好事写下来会快乐两次。今天把一次笑声记成一行。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "一行就够。日后那一行会让你笑。"
+  },
+  {
+    "id": "quo_970",
+    "text": "把小成就当成大事庆祝的人走得更远。今天为自己庆祝一次。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "做得好。今天这样就已经足够。"
+  },
+  {
+    "id": "quo_971",
+    "text": "喜悦也需要练习。常笑的人，也更能承受悲伤。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天大声笑一次。那会成为明天的力量。"
+  },
+  {
+    "id": "quo_972",
+    "text": "能听见笑声的家会走得长久。今天就制造一次那样的声音。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "一个小玩笑就够。笑是会传染的。"
+  },
+  {
+    "id": "quo_973",
+    "text": "相信好事会发生的人，好事确实更常发生。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天抱一个期待吧。它会打开门。"
+  },
+  {
+    "id": "quo_974",
+    "text": "只回想今天三个好的瞬间。睡眠会轻松些。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "就三个。那三个就是今天的收尾。"
+  },
+  {
+    "id": "quo_975",
+    "text": "喜悦说出来会变大。今天就大声说一次。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "喊一声“太好了！”。世界会亮一点。"
   }
 ]

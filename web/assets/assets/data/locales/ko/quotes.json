@@ -15143,5 +15143,345 @@
       "night"
     ],
     "kkaebi_comment": "오늘은 꿈결처럼 그리워해도 돼. 아름다우면 충분해."
+  },
+  {
+    "id": "quo_956",
+    "text": "믿었던 사람이 낯설게 보이는 순간이 온다. 그때는 사람이 변한 게 아니라, 오래 못 본 얼굴이 드러난 것이다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "놀라지 마. 그 얼굴도 그 사람의 일부였어."
+  },
+  {
+    "id": "quo_957",
+    "text": "하루아침에 사라지는 것은 없다. 사라진 것처럼 보이는 건, 오래 조용히 무너지고 있었기 때문이다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "무너진 게 갑자기가 아니야. 그래서 네 잘못도 아니고."
+  },
+  {
+    "id": "quo_958",
+    "text": "기쁜 소식 뒤에 오는 허무가 있다. 너무 오래 기다린 마음은 기쁨도 낯설어한다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "기뻐도 되는데 왜 이러지 싶겠지. 그 마음도 정상이야."
+  },
+  {
+    "id": "quo_959",
+    "text": "계획이 무너진 자리에서 사람의 진짜 실력이 보인다. 놀란 마음을 다독이는 것도 실력이다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘은 재정비하는 날이야. 놀란 마음부터 달래자."
+  },
+  {
+    "id": "quo_960",
+    "text": "익숙한 길이 갑자기 낯설어질 때가 있다. 세상이 바뀐 게 아니라, 내가 자란 것이다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "낯설다는 건 네가 넓어졌다는 뜻이야."
+  },
+  {
+    "id": "quo_961",
+    "text": "예상 밖의 실패가 오면 몸이 먼저 굳는다. 그때 숨을 세 번 쉬면 다음 판단이 달라진다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "fire"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "숨 세 번, 그것만 기억해. 다음은 그다음 문제야."
+  },
+  {
+    "id": "quo_962",
+    "text": "큰 소식 앞에서 아무 감정도 안 느껴질 수 있다. 마음이 잠시 스스로를 껐을 뿐이다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "무감각해도 괜찮아. 마음은 나중에 천천히 켜질 거야."
+  },
+  {
+    "id": "quo_963",
+    "text": "어제까지 확실했던 것이 오늘 흔들린다. 확실함은 원래 잠시 빌려온 것이었다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "흔들려도 무너지진 않아. 다시 세우면 되니까."
+  },
+  {
+    "id": "quo_964",
+    "text": "가까운 사람의 다른 얼굴을 보면 배신감이 든다. 그러나 사람은 원래 여러 얼굴을 가진 존재다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "배신이 아니라 발견일 수도 있어. 천천히 판단하자."
+  },
+  {
+    "id": "quo_965",
+    "text": "멈춘 세계 앞에서 사람은 두 가지를 한다. 울거나, 물을 마시거나. 두 번째부터 시작하자.",
+    "category": "insight",
+    "tone_tags": [
+      "fire",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "challenge",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "물 한 잔이 다음 걸음의 시작이야."
+  },
+  {
+    "id": "quo_966",
+    "text": "뉴스 하나가 하루를 뒤집을 수 있다. 그런 날은 결정을 미루는 것이 지혜다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘은 결정하지 말자. 세상은 내일도 돌아가."
+  },
+  {
+    "id": "quo_967",
+    "text": "충격은 몸을 통해 온다. 어깨가 굳고 숨이 얕아지면, 그것이 마음의 신호다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "어깨를 한 번 내려봐. 그게 첫 치료야."
+  },
+  {
+    "id": "quo_968",
+    "text": "기쁨은 나눌 사람이 있을 때 완성된다. 혼자 웃으면 절반짜리 기쁨이다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘 기쁜 일이 생기면 제일 먼저 한 사람에게 알려줘."
+  },
+  {
+    "id": "quo_969",
+    "text": "좋은 일은 기록해두면 두 번 기쁘다. 오늘의 웃음을 한 줄 적어두자.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "한 줄이면 충분해. 나중에 그 줄이 너를 웃게 해."
+  },
+  {
+    "id": "quo_970",
+    "text": "작은 성취를 크게 축하하는 사람이 오래 간다. 오늘 한 일을 스스로 축하해주자.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "잘했어. 오늘 그것만으로도 충분히 잘했어."
+  },
+  {
+    "id": "quo_971",
+    "text": "기쁨도 연습이 필요하다. 자주 웃어본 사람이 슬픔도 더 잘 견딘다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘 한 번 크게 웃어보자. 그게 내일의 힘이야."
+  },
+  {
+    "id": "quo_972",
+    "text": "웃음소리가 들리는 집은 오래 산다. 오늘 그 소리를 한 번 만들어보자.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "작은 농담 하나면 충분해. 웃음은 옮는 거니까."
+  },
+  {
+    "id": "quo_973",
+    "text": "좋은 일이 생길 거라 믿는 사람에게 좋은 일이 더 자주 생긴다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "hope"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 한 가지 기대를 품어보자. 그게 문을 열어."
+  },
+  {
+    "id": "quo_974",
+    "text": "오늘 하루의 좋았던 순간을 세 개만 떠올려보자. 잠이 더 편해진다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "세 개만. 그 셋이 오늘의 마무리야."
+  },
+  {
+    "id": "quo_975",
+    "text": "기쁨은 소리 내어 표현할 때 커진다. 오늘 한 번 크게 말해보자.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "좋아! 하고 소리 내봐. 세상이 조금 밝아질 거야."
   }
 ]
