@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Bí mật đó chưa sẵn sàng. Hãy thử chủ đề khác nhé!",
+  "exhausted": "Hôm nay ta đã tiết lộ quá nhiều thiên cơ rồi! Hãy hỏi điều khác đi! 💨",
+  "card_name": "Chìa khóa Dokkaebi",
+  "tone_name": "Hy vọng",
+  "affinity_title": "Bạn đồng hành duyên phận",
+  "greeting": {
+    "morning": "Buổi sáng sảng khoái",
+    "afternoon": "Buổi trưa tràn đầy năng lượng",
+    "evening": "Buổi chiều tà",
+    "night": "Đêm tĩnh lặng"
+  }
+}

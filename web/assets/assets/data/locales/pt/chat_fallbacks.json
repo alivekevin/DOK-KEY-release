@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Esse segredo ainda não está pronto. Tente outro assunto!",
+  "exhausted": "Hoje revelei segredos demais! Pergunte outra coisa! 💨",
+  "card_name": "Chave Dokkaebi",
+  "tone_name": "Esperança",
+  "affinity_title": "Companheiro do Destino",
+  "greeting": {
+    "morning": "Manhã radiante",
+    "afternoon": "Tarde animada",
+    "evening": "Entardecer sereno",
+    "night": "Noite tranquila"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Dieses Geheimnis ist noch nicht bereit. Frag etwas anderes!",
+  "exhausted": "Heute hast du zu viel Himmelsgeheimnis gehört! Frag etwas anderes! 💨",
+  "card_name": "Dokkaebi-Schlüssel",
+  "tone_name": "Hoffnung",
+  "affinity_title": "Gefährte des Schicksals",
+  "greeting": {
+    "morning": "Frischer Morgen",
+    "afternoon": "Lebhafter Tag",
+    "evening": "Abenddämmerung",
+    "night": "Stille Nacht"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "empty_topic": "这则秘技还在准备中，换个话题吧！",
+  "exhausted": "今天天机泄露太多啦！去问点别的吧！ 💨",
+  "card_name": "鬼怪之匙",
+  "tone_name": "曙光希望",
+  "affinity_title": "缘分之友",
+  "greeting": {
+    "morning": "清爽的早晨",
+    "afternoon": "充满活力的白天",
+    "evening": "晚霞的傍晚",
+    "night": "寂静的夜晚"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "empty_topic": "그 비기는 아직 준비 중이란다. 다른 주제를 물어보거라!",
+  "exhausted": "오늘 천기누설을 너무 많이 했다! 이제 다른 거나 물어보거라! 💨",
+  "card_name": "도깨비 열쇠",
+  "tone_name": "희망",
+  "affinity_title": "인연의 벗",
+  "greeting": {
+    "morning": "상쾌한 아침",
+    "afternoon": "활기찬 낮",
+    "evening": "노을 지는 저녁",
+    "night": "고요한 밤"
+  }
+}

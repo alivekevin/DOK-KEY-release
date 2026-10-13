@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Ce secret n’est pas encore prêt. Essayez un autre sujet !",
+  "exhausted": "J’ai révélé trop de secrets aujourd’hui ! Demandez autre chose ! 💨",
+  "card_name": "Clé Dokkaebi",
+  "tone_name": "Espoir",
+  "affinity_title": "Compagnon du destin",
+  "greeting": {
+    "morning": "Matin revigorant",
+    "afternoon": "Après-midi dynamique",
+    "evening": "Crépuscule doré",
+    "night": "Nuit paisible"
+  }
+}

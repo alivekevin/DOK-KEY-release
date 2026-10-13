@@ -1,0 +1,13 @@
+{
+  "empty_topic": "その秘技はまだ準備中です。他の話題を聞いてみて！",
+  "exhausted": "今日は天機を漏らしすぎた！もう別のことを聞いてくれ！ 💨",
+  "card_name": "トッケビの鍵",
+  "tone_name": "希望",
+  "affinity_title": "縁の友",
+  "greeting": {
+    "morning": "爽やかな朝",
+    "afternoon": "活気ある昼",
+    "evening": "夕暮れの夕べ",
+    "night": "静かな夜"
+  }
+}

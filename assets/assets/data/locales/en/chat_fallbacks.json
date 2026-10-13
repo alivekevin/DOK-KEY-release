@@ -1,0 +1,13 @@
+{
+  "empty_topic": "That secret is not ready yet. Try another topic!",
+  "exhausted": "You have heard too many secrets today! Ask something else! 💨",
+  "card_name": "Dokkaebi Key",
+  "tone_name": "Hope",
+  "affinity_title": "Companion",
+  "greeting": {
+    "morning": "Good Morning",
+    "afternoon": "Good Afternoon",
+    "evening": "Good Evening",
+    "night": "Good Night"
+  }
+}
