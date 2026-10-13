@@ -13698,5 +13698,1450 @@
     ],
     "text": "轻车熟路自是惬意平坦，但唯有从未涉足的荒径，才能赠你全新风光。",
     "kkaebi_comment": "贪图省事溜达老路，那这辈子可瞧不见新奇景致啦！"
+  },
+  {
+    "id": "quo_871",
+    "text": "放手也是爱。有时候，松开的手比握住的手更温暖。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "不用哭也没关系。你放下的份量，对方也会懂你的心。"
+  },
+  {
+    "id": "quo_872",
+    "text": "思念并没有消失，只是安静地坐在心里的某个角落，成为一份温暖。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "会想念，说明他依然珍贵。这没什么不好。"
+  },
+  {
+    "id": "quo_873",
+    "text": "流泪不是心太弱，而是因为装得太满、太深。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天可以尽情哭。我会坐在你身边。"
+  },
+  {
+    "id": "quo_874",
+    "text": "离别的地方，清晨照样会来。伤口愈合时，也让你更深一点。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "变深了，也就变得更温暖。今天要不要看看窗外？"
+  },
+  {
+    "id": "quo_875",
+    "text": "离别不是终点，而是各自回到自己位置的归途。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "在自己的位置上好好生活，总有一天会笑着再见。"
+  },
+  {
+    "id": "quo_876",
+    "text": "面对突如其来的告别，任何话都没准备好。所以心先哭了。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "说不出话也没关系。那份沉默也是心意。"
+  },
+  {
+    "id": "quo_877",
+    "text": "崩塌的声音并不大。在极安静的一瞬，里面啪地断掉。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "断掉的地方以后会更坚固。我替你撑着。"
+  },
+  {
+    "id": "quo_878",
+    "text": "心动常常会弄错，也没关系。那是心还活着最诚实的信号。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "心跳不是丢脸，是在发光。"
+  },
+  {
+    "id": "quo_879",
+    "text": "流泪撒种的，必欢呼收割。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "圣经",
+    "source": "诗篇 126:5（意译）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天流的泪也会变成种子。再等一等吧。"
+  },
+  {
+    "id": "quo_880",
+    "text": "天下至柔，驰骋天下之至坚。",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "老子",
+    "source": "道德经（意译）",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "思念也柔软，所以才留得久。"
+  },
+  {
+    "id": "quo_881",
+    "text": "悲伤是过路的客人。别锁门，让它暂住一会儿。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "客人终会离开。它不会赖在你心里不走。"
+  },
+  {
+    "id": "quo_882",
+    "text": "也需要翻开旧信的夜晚。思念，是整理心的工作。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "慢慢读就好。我们是懂得等待的存在。"
+  },
+  {
+    "id": "quo_883",
+    "text": "空下来的位置不是痛，而是曾经被填满过的时间留下的痕迹。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "空了多少，就爱了多少。那不算后悔。"
+  },
+  {
+    "id": "quo_884",
+    "text": "当所信之事动摇时，动摇的不是世界，而是你曾站立的位置。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "地面摇晃，你的中心还在。再站一次就好。"
+  },
+  {
+    "id": "quo_885",
+    "text": "孤独有时不是因为没有人，而是因为理解自己的时间不够。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天愿意对自己温柔一点吗？那我就在你身边。"
+  },
+  {
+    "id": "quo_886",
+    "text": "爱过的季节不会消失。每当风吹起，它就以那温度回来。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "风起时闭上眼睛试试。那份温度会回来。"
+  },
+  {
+    "id": "quo_887",
+    "text": "有些日子天亮了，心却起得晚。那样的日子慢一点也没关系。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "别急。心的早晨按你的速度到来。"
+  },
+  {
+    "id": "quo_888",
+    "text": "瞬间塌掉的计划，重新搭起来就好。塌掉的地方会告诉你不稳之处。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "你没有失去，只是找到了薄弱点。那是收获。"
+  },
+  {
+    "id": "quo_889",
+    "text": "喜欢这句话为什么说得这么晚？心早就说过好多次了。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "心先说了，就已经完成一半。剩下的慢慢说。"
+  },
+  {
+    "id": "quo_890",
+    "text": "好的相遇尊重彼此的速度。不是快的一方，而是一起走的一方更长久。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天就等对方一步吧。那是长久的秘诀。"
+  },
+  {
+    "id": "quo_891",
+    "text": "后悔不是过错，而是想变得更好的心的另一个名字。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "会后悔的人，下一次能更温暖。"
+  },
+  {
+    "id": "quo_892",
+    "text": "怀念回不去的时间，说明那时的自己足够诚实。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "那时的你和现在的你都很努力。两个都抱一抱。"
+  },
+  {
+    "id": "quo_893",
+    "text": "坏消息突然到来，但承受的力量慢慢生长。所以人能活下去。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天只需撑住一步。力量明天会更大。"
+  },
+  {
+    "id": "quo_894",
+    "text": "提前练习告别的人，是心已经受过伤的人。先抱抱那颗心吧。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "不用练习。那个瞬间按你的速度来就好。"
+  },
+  {
+    "id": "quo_895",
+    "text": "心动不需要勇气也能开始。所以它是最容易让一天发亮的方法。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天心动了，那就是好信号。"
+  },
+  {
+    "id": "quo_896",
+    "text": "压抑悲伤，身体会替你哭。温柔地让它流走吧。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "想哭就哭。那是整理心最健康的方式。"
+  },
+  {
+    "id": "quo_897",
+    "text": "走远的人，在我心里仍站在原来的位置。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "那个位置由你守着。谁都抹不掉。"
+  },
+  {
+    "id": "quo_898",
+    "text": "伤口愈合需要时间。催促时间，疤痕会更深。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天什么都不做也没关系。休息也是治疗。"
+  },
+  {
+    "id": "quo_899",
+    "text": "面对意外，心会先停住。那时先调匀呼吸，只向前一步。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "停住的心也没关系。那只是重新跳动前的休止符。"
+  },
+  {
+    "id": "quo_900",
+    "text": "爱留下的更多是细小习惯，而不是盛大场面。像替你关门的一只手。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天做一个小小的温柔吧。它会留得很久。"
+  },
+  {
+    "id": "quo_901",
+    "text": "离别之后，季节仍会回来。你也会一点点回到自己的位置。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天好好吃一顿饭。那是恢复的开始。"
+  },
+  {
+    "id": "quo_902",
+    "text": "思念不是丈量两人距离的尺子，而是丈量心底深度的尺子。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "越深说明你爱得越好。那值得自豪。"
+  },
+  {
+    "id": "quo_903",
+    "text": "什么都没做成的一天，心也拼命撑住了。别小看那一天。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "撑住也是一种完成。今晚这已经足够。"
+  },
+  {
+    "id": "quo_904",
+    "text": "错位的事，比起复原，重新对齐更快。今天是校准的一天。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "先修一个吧。修好一个，其余的也会跟上。"
+  },
+  {
+    "id": "quo_905",
+    "text": "一起笑过的人，即使分别，也注定会再见。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "想想你们一起笑的时候。那说明路还在。"
+  },
+  {
+    "id": "quo_906",
+    "text": "悲伤在无人可诉时更大。所以今天跟谁说都可以。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "想说就对我说也行。我挺会听的。"
+  },
+  {
+    "id": "quo_907",
+    "text": "回忆不是用来抓住的，偶尔翻开的相册就足够了。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天就翻一页吧。剩下的留给明天的你。"
+  },
+  {
+    "id": "quo_908",
+    "text": "善于告别的人不会长久拖着留恋。只是不常想起罢了。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "不是忘记，而是让痛少一点。那才是温柔。"
+  },
+  {
+    "id": "quo_909",
+    "text": "巨大冲击之后，细小日常成了药。饭、水、睡眠，先这三样。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天从一杯水开始。身体先恢复，心才跟上。"
+  },
+  {
+    "id": "quo_910",
+    "text": "表白不是勇气的问题，而是准备好尊重对方的问题。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "准备好了今天说也行。不然明天也可以。"
+  },
+  {
+    "id": "quo_911",
+    "text": "哭累睡着的夜晚，到了早晨也会轻一些。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今晚好好睡。明天的你会更轻一点。"
+  },
+  {
+    "id": "quo_912",
+    "text": "想你这句不是软弱的话，而是情仍在的证据。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "就让这份心留着吧。活着的心终会再长出来。"
+  },
+  {
+    "id": "quo_913",
+    "text": "没有完全整理好的悲伤。稍微凌乱地活着也没关系。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "整理不好也能活下去。这就是人。"
+  },
+  {
+    "id": "quo_914",
+    "text": "遇到无法解释的事，比起解释，先需要有陪在身边的人。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天我就静静陪着你。话明天说也行。"
+  },
+  {
+    "id": "quo_915",
+    "text": "老去的爱更接近温度而非火焰。不烫，却暖得久。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天数数身边的温暖吧。比想象中多。"
+  },
+  {
+    "id": "quo_916",
+    "text": "悲伤一旦有了名字，就会稍微安静下来。今天你的悲伤叫什么？",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "取不出名字也没关系。知道它在，就够了。"
+  },
+  {
+    "id": "quo_917",
+    "text": "心沉的日子可以把决定往后推。沉日的决定会痛得更久。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天先别决定。明天的你会更轻地选择。"
+  },
+  {
+    "id": "quo_918",
+    "text": "不必憎恨离开的人。憎恨反而会把你抓得更久。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "把恨换成距离吧。那才是保护你的方法。"
+  },
+  {
+    "id": "quo_919",
+    "text": "独处的夜越长，清晨的声音越让人欢喜。今夜也会过去。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "夜再长也有尽头。我替你数着天亮。"
+  },
+  {
+    "id": "quo_920",
+    "text": "久看旧照片时，那时的你会安慰现在的你。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "那时的你仍在为你加油。可以相信。"
+  },
+  {
+    "id": "quo_921",
+    "text": "有想再见的人，说明心还温热。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "珍惜那份温度吧。总有一天会用到。"
+  },
+  {
+    "id": "quo_922",
+    "text": "思念是不忘的静默约定。不必说出口，也能守住。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "约定不必说出口也能守。我就是守着它的存在。"
+  },
+  {
+    "id": "quo_923",
+    "text": "时间不会抹去一切，只是把它冷却到你能拿住的温度。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "滚烫的记忆凉一点，就能看得更久。"
+  },
+  {
+    "id": "quo_924",
+    "text": "听到消息身体僵住时，先动动脚尖。心会随后跟上。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "动一步就好。那是恢复的开始。"
+  },
+  {
+    "id": "quo_925",
+    "text": "把大事小事一起看会更可怕。只看看现在要做的那一件。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "只选一件吧。剩下的交给明天的你。"
+  },
+  {
+    "id": "quo_926",
+    "text": "爱在努力确认时变远，只是陪在身边时变近。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天不确认，只陪着吧。那是更大的话。"
+  },
+  {
+    "id": "quo_927",
+    "text": "谢谢是爱最安静的形式。今天说一次吧。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "先对亲近的人说吧。会惊讶地更近一步。"
+  },
+  {
+    "id": "quo_928",
+    "text": "一起吃饭虽是小事，却是分享彼此一天的大事。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天若与人吃饭，就把那段时间完整地给他。"
+  },
+  {
+    "id": "quo_929",
+    "text": "爱不是填满彼此的空缺，而是一起承受那些空缺。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "空缺不必填满。一起就能忍受。"
+  },
+  {
+    "id": "quo_930",
+    "text": "长久相爱的方法很简单：把今天的他，看得与昨天不同。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天发现一件新的吧。那是长久的秘诀。"
+  },
+  {
+    "id": "quo_931",
+    "text": "喜欢的心藏起来会变小，表达出来会慢慢长大。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "一个小小表达就够。今天先送个微笑？"
+  },
+  {
+    "id": "quo_932",
+    "text": "心动不是错的心，只是还在准备的心。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "准备中也好。什么时候都能说。"
+  },
+  {
+    "id": "quo_933",
+    "text": "表白前的心动本身就是礼物。今天好好享受它。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "不说也没关系。今天的心跳就够了。"
+  },
+  {
+    "id": "quo_934",
+    "text": "若对初识的人心动，那是新季节到来的信号。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "新季节可以慢慢迎接。不必着急。"
+  },
+  {
+    "id": "quo_935",
+    "text": "心动分享出去会翻倍。今天把这份心情写下来吧。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "写在纸上吧。以后读起，那天的温度还在。"
+  },
+  {
+    "id": "quo_936",
+    "text": "也有流不出泪的悲伤。那样的悲伤，让身体休息就会松一点。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天早点躺下吧。身体休息，心也会松一点。"
+  },
+  {
+    "id": "quo_937",
+    "text": "不想被听见哭声的日子，可以开窗。风会保守秘密。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "交给风吧。我也不会告诉任何人。"
+  },
+  {
+    "id": "quo_938",
+    "text": "失去不是长久号哭，而是慢慢接受。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天接受一小块就好。其余慢慢来。"
+  },
+  {
+    "id": "quo_939",
+    "text": "留下来的人的本分是继续活下去。那和忘记并不相同。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "继续活下去不是背叛。那个人也会希望你这样。"
+  },
+  {
+    "id": "quo_940",
+    "text": "面对突变，别抓牢计划。抓得越紧，手越受伤。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "把手张开吧。你没有丢，而是空出来。"
+  },
+  {
+    "id": "quo_941",
+    "text": "“要战胜悲伤”这句话是错的。学会与悲伤一起生活就好。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "不必战胜。放在身边一起活就好。"
+  },
+  {
+    "id": "quo_942",
+    "text": "在悲伤里找到一个可感谢的东西，心的温度就会升一点。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天就找一个吧。很小也没关系。"
+  },
+  {
+    "id": "quo_943",
+    "text": "把思念之人的名字念出来吧。心会松一点。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "轻轻地念一次。我只听着。"
+  },
+  {
+    "id": "quo_944",
+    "text": "今天微小的开始，会成为明天巨大的变化。开始总是安静的。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天就只开始一件。很小也是真正的开始。"
+  },
+  {
+    "id": "quo_945",
+    "text": "“还不算晚”不是安慰，而是事实。今天门依然开着。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "再试一次吧。今天的门还没关。"
+  },
+  {
+    "id": "quo_946",
+    "text": "等待的人觉得时间漫长，但相见的那一刻，所有计算都消失。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "等待也是一种准备。今天再多准备一步。"
+  },
+  {
+    "id": "quo_947",
+    "text": "把小喜悦放大品味的人，幸福得更久。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天遇到的小喜悦，就大声笑一笑。"
+  },
+  {
+    "id": "quo_948",
+    "text": "笑会传染。今天让一个人笑，你的一天会快乐两次。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "多吉比智慧笔记",
+    "source": "DOK-KEY 智慧合集",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天就逗笑一个人吧。那笑也会回到你身上。"
+  },
+  {
+    "id": "quo_949",
+    "text": "笑有时，哭有时。哭的时间也尽它的本分。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "传道书",
+    "source": "传道书 3:4（意译）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今天是哭的时候。明天笑的时刻会来。"
+  },
+  {
+    "id": "quo_950",
+    "text": "你的心是你的，外面的事不是你的。动摇的通常是外面。",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "马可·奥勒留",
+    "source": "沉思录（意译）",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "外面再摇，中心由你自己定。"
+  },
+  {
+    "id": "quo_951",
+    "text": "逆境是锻炼人的老师。今日的辛苦造出日后的器量。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "菜根谭",
+    "source": "菜根谭（意译）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "你的器量正在变大。花时间是应该的。"
+  },
+  {
+    "id": "quo_952",
+    "text": "忍耐得住，好日子必来。忍耐之力，靠一天的重复生长。",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "明心宝鉴",
+    "source": "明心宝鉴（意译）",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今天先忍这一天。那一天会累积成力量。"
+  },
+  {
+    "id": "quo_953",
+    "text": "在泪水浸润的田里，喜乐的种子生长。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "塔木德",
+    "source": "塔木德（意译）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天的泪浇了田。种子明天就能看到。"
+  },
+  {
+    "id": "quo_954",
+    "text": "幸福在为他人而活时到来。只为自己而活，人会萎缩。",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "托尔斯泰",
+    "source": "托尔斯泰（意译）",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今天为一个人做一件小事吧。"
+  },
+  {
+    "id": "quo_955",
+    "text": "分不清是蝴蝶入梦还是我在梦中时，思念也会如梦般美丽。",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "庄子",
+    "source": "庄子（意译）",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今天可以如梦般想念。美就足够了。"
   }
 ]

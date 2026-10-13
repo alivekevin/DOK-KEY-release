@@ -13698,5 +13698,1450 @@
     ],
     "text": "익숙한 길은 편하지만, 새 길만이 새 풍경을 준다.",
     "kkaebi_comment": "편한 길엔 새 풍경이 없단다!"
+  },
+  {
+    "id": "quo_871",
+    "text": "보내주는 것도 사랑이란다. 붙잡는 손보다 놓아주는 손이 더 따뜻할 때가 있지.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "울지 않아도 괜찮아. 네가 놓아준 만큼 그 사람도 네 마음을 알 거야."
+  },
+  {
+    "id": "quo_872",
+    "text": "그리움은 사라진 게 아니라, 마음 한켠에 조용히 앉아 있는 온기란다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "그리운 건 아직 소중하다는 증거야. 나쁜 게 아니야."
+  },
+  {
+    "id": "quo_873",
+    "text": "눈물이 흐르는 건 마음이 약해서가 아니라, 그만큼 깊이 담아두었기 때문이란다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘은 푹 울어도 돼. 내가 옆에 앉아 있을게."
+  },
+  {
+    "id": "quo_874",
+    "text": "이별한 자리에도 아침은 온다. 상처는 아물면서 너를 조금 더 깊게 만든다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "깊어진 만큼 더 따뜻해진 거야. 오늘은 창밖을 한 번 봐줄래?"
+  },
+  {
+    "id": "quo_875",
+    "text": "헤어짐은 마지막이 아니라, 서로의 자리로 돌아가는 길이란다.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "네 자리에서 잘 지내면 언젠가 웃으며 다시 만나게 될 거야."
+  },
+  {
+    "id": "quo_876",
+    "text": "갑작스러운 작별 앞에서는 아무 말도 준비되지 않는다. 그래서 마음이 먼저 운다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "말이 안 나와도 괜찮아. 그 침묵도 충분히 마음이야."
+  },
+  {
+    "id": "quo_877",
+    "text": "무너지는 소리는 크지 않다. 아주 조용한 순간, 안쪽에서 툭 하고 부러진다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "부러진 곳은 나중에 더 단단해져. 내가 잡고 있을게."
+  },
+  {
+    "id": "quo_878",
+    "text": "설렘은 자주 틀려도 괜찮아. 마음이 살아 있다는 가장 정직한 신호니까.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "두근거림은 부끄러운 게 아니라 반짝이는 거야."
+  },
+  {
+    "id": "quo_879",
+    "text": "눈물을 흘리며 씨를 뿌리는 자는 기쁨으로 거두리로다.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "성경",
+    "source": "시편 126:5 (의역)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 흘린 눈물도 씨앗이 된단다. 조금만 기다려 보자."
+  },
+  {
+    "id": "quo_880",
+    "text": "지극히 부드러운 것이 지극히 굳센 것을 이긴다.",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "노자",
+    "source": "도덕경 (의역)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "그리움도 부드러움이라서 오래 남는 거야."
+  },
+  {
+    "id": "quo_881",
+    "text": "슬픔은 지나가는 손님이야. 문을 잠그지 말고 잠시 머물게 해주렴.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "손님은 언젠가 떠나. 네 안에 눌러앉지는 않아."
+  },
+  {
+    "id": "quo_882",
+    "text": "오래된 편지를 꺼내보는 밤도 필요해. 그리움은 마음을 정리하는 일이니까.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "천천히 읽어도 돼. 우린 기다릴 줄 아는 존재니까."
+  },
+  {
+    "id": "quo_883",
+    "text": "텅 빈 자리는 아픔이 아니라, 그만큼 채워졌던 시간의 흔적이다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "빈자리만큼 사랑했던 거야. 그건 후회가 아니야."
+  },
+  {
+    "id": "quo_884",
+    "text": "믿었던 것이 흔들릴 때, 세상이 아니라 내가 서 있던 자리가 흔들린다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "땅이 흔들려도 네 중심은 남아 있어. 다시 딛고 서면 돼."
+  },
+  {
+    "id": "quo_885",
+    "text": "외로움은 사람이 없어서가 아니라, 나를 이해할 시간이 부족해서 오기도 한다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 나에게 다정한 사람이 되어줄래? 그럼 내가 옆에 있을게."
+  },
+  {
+    "id": "quo_886",
+    "text": "사랑했던 계절은 사라지지 않아. 바람이 불 때마다 그 온도로 돌아온다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "바람이 불면 잠깐 눈을 감아봐. 그때의 온기가 올 거야."
+  },
+  {
+    "id": "quo_887",
+    "text": "아침이 밝아도 마음은 늦게 뜨는 날이 있어. 그런 날은 조금 느려도 괜찮아.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "서두르지 마. 마음의 아침은 네 속도로 오는 거야."
+  },
+  {
+    "id": "quo_888",
+    "text": "한순간에 무너진 계획도 다시 세우면 된다. 무너진 자리는 기초를 보여준다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "무너진 게 아니라 약한 곳을 찾은 거야. 그건 이득이지."
+  },
+  {
+    "id": "quo_889",
+    "text": "좋아한다는 말은 왜 이렇게 늦게 나올까. 마음은 벌써 여러 번 말했는데.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "마음이 먼저 말했으면 절반은 한 거야. 천천히 나머지를 말해보자."
+  },
+  {
+    "id": "quo_890",
+    "text": "좋은 만남은 서로의 속도를 존중한다. 빠른 쪽이 아니라 함께 가는 쪽이 오래 간다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘은 상대의 발걸음을 한 번만 기다려줘. 그게 오래 가는 비결이야."
+  },
+  {
+    "id": "quo_891",
+    "text": "후회는 잘못이 아니라, 더 나아지고 싶은 마음의 다른 이름이다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "후회할 줄 아는 사람은 다음에 더 따뜻해질 수 있어."
+  },
+  {
+    "id": "quo_892",
+    "text": "돌아갈 수 없는 시간을 그리워하는 건, 그만큼 그때의 내가 정직했기 때문이다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "그때의 너도 지금의 너도 참 애썼어. 둘 다 안아주자."
+  },
+  {
+    "id": "quo_893",
+    "text": "나쁜 소식은 갑자기 오지만, 감당할 힘은 천천히 자란다. 그래서 살아진다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘 한 걸음만 버티면 돼. 힘은 내일 더 커져 있을 거야."
+  },
+  {
+    "id": "quo_894",
+    "text": "작별 인사를 미리 연습하는 사람은 이미 마음이 다친 사람이다. 그 마음을 먼저 안아주자.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "연습하지 않아도 돼. 그 순간에 네 속도로 하면 되니까."
+  },
+  {
+    "id": "quo_895",
+    "text": "설렘은 용기 없이도 시작된다. 그래서 하루를 반짝이게 만드는 가장 쉬운 방법이다.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 마음이 두근거린다면, 그건 좋은 신호야."
+  },
+  {
+    "id": "quo_896",
+    "text": "슬픔을 억누르면 몸이 대신 운다. 다정하게 흘려보내 주자.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "울고 싶으면 울어. 그게 가장 건강한 정리야."
+  },
+  {
+    "id": "quo_897",
+    "text": "멀어진 사람도 내 마음속에서는 여전히 그 자리에 서 있다.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "그 자리는 네가 지키는 거야. 아무도 함부로 지울 수 없어."
+  },
+  {
+    "id": "quo_898",
+    "text": "상처가 아무는 데는 시간이 필요하다. 시간을 재촉하면 흉터가 더 깊어진다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘은 아무것도 하지 않아도 괜찮아. 쉬는 것도 치료야."
+  },
+  {
+    "id": "quo_899",
+    "text": "예상 밖의 일에는 마음이 먼저 멈춘다. 그때는 숨을 고르고 한 걸음만 옮기자.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "멈춘 마음도 괜찮아. 다시 뛰기 전 쉼표일 뿐이야."
+  },
+  {
+    "id": "quo_900",
+    "text": "사랑은 큰 장면보다 작은 습관으로 남는다. 문을 닫아주는 손처럼.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘의 작은 다정함을 하나만 만들어볼래? 그게 오래 남아."
+  },
+  {
+    "id": "quo_901",
+    "text": "헤어진 뒤에도 계절은 돌아온다. 너도 조금씩 제자리로 돌아올 거야.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘은 밥 한 끼를 잘 챙겨 먹자. 그게 회복의 시작이야."
+  },
+  {
+    "id": "quo_902",
+    "text": "그리움은 두 사람 사이의 거리를 재는 자가 아니라, 마음의 깊이를 재는 자다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "깊은 만큼 네가 잘 사랑했던 거야. 그건 자랑스러운 일이야."
+  },
+  {
+    "id": "quo_903",
+    "text": "아무 일도 못 한 하루도 마음은 열심히 버텼다. 그 하루를 얕보지 말자.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "버틴 것도 해낸 거야. 오늘 밤은 그걸로 충분해."
+  },
+  {
+    "id": "quo_904",
+    "text": "어긋난 일은 되돌리는 것보다 다시 맞추는 쪽이 빠르다. 오늘은 맞추는 날이다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "하나만 고쳐보자. 하나만 고쳐도 나머지가 따라온다."
+  },
+  {
+    "id": "quo_905",
+    "text": "함께 웃어본 사람과는 헤어져도 다시 만나게 되어 있다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "그 사람과의 웃음을 떠올려봐. 길이 아직 남아 있다는 뜻이야."
+  },
+  {
+    "id": "quo_906",
+    "text": "슬픔은 나눌 사람이 없을 때 더 커진다. 그래서 오늘은 아무에게나 말해도 좋다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "말하고 싶으면 나에게라도 해. 나는 잘 들어주는 편이야."
+  },
+  {
+    "id": "quo_907",
+    "text": "추억은 붙잡는 것이 아니라, 가끔 꺼내 보는 앨범이면 충분하다.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 한 장만 펼쳐보자. 나머지는 내일의 네가 봐도 돼."
+  },
+  {
+    "id": "quo_908",
+    "text": "이별을 잘하는 사람은 미련을 오래 끌지 않는다. 그저 자주 떠올리지 않을 뿐이다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "잊는 게 아니라, 덜 아프게 하는 거야. 그게 다정함이지."
+  },
+  {
+    "id": "quo_909",
+    "text": "큰 충격 뒤에는 작은 일상이 약이 된다. 밥, 물, 잠. 그 셋이 먼저다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘은 물 한 잔부터 시작하자. 몸이 먼저 회복되어야 마음도 따라와."
+  },
+  {
+    "id": "quo_910",
+    "text": "고백은 용기의 문제가 아니라, 상대를 존중할 준비의 문제다.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "준비됐다면 오늘 말해도 돼. 아니면 내일도 괜찮아."
+  },
+  {
+    "id": "quo_911",
+    "text": "울다 지쳐 잠이 드는 밤도, 아침에는 조금 가벼워져 있다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘 밤은 잘 자. 내일의 네가 조금 더 가벼울 거야."
+  },
+  {
+    "id": "quo_912",
+    "text": "보고 싶다는 말은 약한 말이 아니라, 아직 정이 살아 있다는 증거다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "그 마음은 그냥 두자. 살아 있는 마음은 언젠가 다시 자라."
+  },
+  {
+    "id": "quo_913",
+    "text": "완벽하게 정리된 슬픔은 없다. 조금 어질러진 채로 살아가도 괜찮다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "정리되지 않아도 살아갈 수 있어. 그게 사람이라는 거야."
+  },
+  {
+    "id": "quo_914",
+    "text": "설명할 수 없는 일을 만나면, 설명보다 먼저 곁에 있어주는 사람이 필요하다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 나만 조용히 곁에 있을게. 말은 내일 해도 돼."
+  },
+  {
+    "id": "quo_915",
+    "text": "오래된 사랑은 불꽃보다 온기에 가깝다. 뜨겁지 않아도 오래 따뜻하다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 곁에 있는 온기를 한 번 세어봐. 생각보다 많을 거야."
+  },
+  {
+    "id": "quo_916",
+    "text": "슬픔에는 이름을 붙여주면 조금 얌전해진다. 오늘 네 슬픔의 이름은 무엇이니.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "이름을 못 붙여도 괜찮아. 그냥 있다는 것만 알아도 충분해."
+  },
+  {
+    "id": "quo_917",
+    "text": "마음이 무거운 날은 결정을 미뤄도 된다. 무거운 날의 결정은 오래 아프다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘은 결정하지 말자. 내일의 네가 더 가볍게 고를 거야."
+  },
+  {
+    "id": "quo_918",
+    "text": "떠난 사람을 미워하지 않아도 된다. 미워하는 마음은 나를 더 오래 붙잡는다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "미움 대신 거리를 두자. 그게 너를 지키는 방법이야."
+  },
+  {
+    "id": "quo_919",
+    "text": "혼자인 밤이 길수록 아침의 소리가 반가워진다. 오늘 밤도 지나갈 것이다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "밤이 길어도 끝은 있어. 내가 새벽을 세어줄게."
+  },
+  {
+    "id": "quo_920",
+    "text": "지난 사진을 오래 보다 보면, 그때의 내가 지금의 나를 위로해준다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "그때의 네가 아직도 너를 응원하고 있어. 믿어도 돼."
+  },
+  {
+    "id": "quo_921",
+    "text": "다시 만나고 싶은 사람이 있다는 건, 아직 마음이 따뜻하다는 뜻이다.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "그 온기를 소중히 두자. 언젠가 쓸 날이 올 거야."
+  },
+  {
+    "id": "quo_922",
+    "text": "그리움은 잊지 않겠다는 조용한 약속이다. 아무에게도 말하지 않아도 지켜진다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "약속은 말하지 않아도 지킬 수 있어. 나는 그걸 지켜보는 존재야."
+  },
+  {
+    "id": "quo_923",
+    "text": "시간은 모든 것을 지우지 않는다. 다만 다룰 수 있는 온도로 식혀준다.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "뜨거운 기억은 조금 식으면 오래 볼 수 있어."
+  },
+  {
+    "id": "quo_924",
+    "text": "처음 듣는 소식에 몸이 굳으면, 발끝부터 움직여보자. 마음은 뒤따라온다.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "한 발만 움직여도 좋아. 그게 회복의 시작이야."
+  },
+  {
+    "id": "quo_925",
+    "text": "큰일과 작은일을 함께 보면 더 무서워진다. 지금 해야 할 하나만 보자.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "하나만 고르자. 나머지는 내일의 네가 고를 거야."
+  },
+  {
+    "id": "quo_926",
+    "text": "사랑은 확인받으려 애쓸 때 멀어진다. 그냥 곁에 있어줄 때 가까워진다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 확인 대신 곁에 있어주자. 그게 더 큰 말이야."
+  },
+  {
+    "id": "quo_927",
+    "text": "고맙다는 말은 사랑의 가장 조용한 형태다. 오늘 한 번만 건네보자.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "가까운 사람에게 먼저 말해봐. 놀랄 만큼 가까워져."
+  },
+  {
+    "id": "quo_928",
+    "text": "함께 밥을 먹는 일은 작지만, 서로의 하루를 나누는 큰 일이다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘 누군가와 밥을 먹는다면, 그 시간을 온전히 줘봐."
+  },
+  {
+    "id": "quo_929",
+    "text": "사랑은 서로의 빈 곳을 채우는 일이 아니라, 빈 곳을 함께 견디는 일이다.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "빈 곳은 채워지지 않아도 돼. 함께 있으면 견딜 만해져."
+  },
+  {
+    "id": "quo_930",
+    "text": "오래 사랑하는 방법은 단순하다. 오늘의 그 사람을 어제와 다르게 보는 것.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘 한 가지 새로 발견해봐. 그게 오래 가는 비결이야."
+  },
+  {
+    "id": "quo_931",
+    "text": "좋아하는 마음은 숨기면 작아지고, 표현하면 조금씩 자란다.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "작은 표현 하나면 충분해. 오늘 미소라도 보내볼래?"
+  },
+  {
+    "id": "quo_932",
+    "text": "설레는 마음은 틀린 마음이 아니다. 아직 준비 중인 마음일 뿐이다.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "준비 중이어도 좋아. 언제든 말할 수 있으니까."
+  },
+  {
+    "id": "quo_933",
+    "text": "고백하기 전의 설렘은 그 자체로 선물이다. 오늘은 그걸 누려보자.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "말하지 않아도 괜찮아. 오늘의 두근거림만으로 충분해."
+  },
+  {
+    "id": "quo_934",
+    "text": "처음 만난 사람에게 설렌다면, 그건 새로운 계절이 왔다는 신호다.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "새 계절은 천천히 맞이해도 돼. 서두를 필요 없어."
+  },
+  {
+    "id": "quo_935",
+    "text": "설렘을 나누면 두 배가 된다. 오늘 그 마음을 어딘가에 적어두자.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "종이에 적어봐. 나중에 읽으면 그날의 온도가 남아 있어."
+  },
+  {
+    "id": "quo_936",
+    "text": "눈물이 나지 않는 슬픔도 있다. 그런 슬픔은 몸을 쉬게 해주면 조금 풀린다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 일찍 눕자. 몸이 쉬면 마음도 조금 풀려."
+  },
+  {
+    "id": "quo_937",
+    "text": "우는 소리를 들키고 싶지 않은 날엔 창문을 열어도 좋다. 바람은 비밀을 지킨다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "바람에게 맡기자. 나도 아무에게도 말하지 않을게."
+  },
+  {
+    "id": "quo_938",
+    "text": "상실은 오래 통곡하는 일이 아니라, 천천히 받아들이는 일이다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 한 조각만 받아들이자. 나머지는 천천히 해도 돼."
+  },
+  {
+    "id": "quo_939",
+    "text": "남겨진 사람의 몫은 살아지는 일이다. 그건 잊는 것과 다르다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "살아지는 건 배신이 아니야. 그 사람도 그걸 바랄 거야."
+  },
+  {
+    "id": "quo_940",
+    "text": "갑작스러운 변화 앞에서 계획을 붙잡지 말자. 붙잡을수록 손만 다친다.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "손을 펴보자. 놓친 게 아니라 비운 거야."
+  },
+  {
+    "id": "quo_941",
+    "text": "슬픔을 이겨내라는 말은 틀렸다. 슬픔과 함께 살아가는 법을 배우면 된다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "이겨내지 않아도 돼. 옆에 두고 살아가면 돼."
+  },
+  {
+    "id": "quo_942",
+    "text": "슬픔 속에서도 고마운 것을 하나 찾으면, 마음의 온도가 조금 올라간다.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘 하나만 찾아보자. 아주 작아도 괜찮아."
+  },
+  {
+    "id": "quo_943",
+    "text": "그리워하는 사람의 이름을 소리 내어 불러보자. 마음이 조금 놓인다.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "조용히 한 번 불러봐. 나는 듣고만 있을게."
+  },
+  {
+    "id": "quo_944",
+    "text": "오늘의 작은 시작이 내일의 큰 변화가 된다. 시작은 언제나 조용하다.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 딱 하나만 시작하자. 작아도 진짜 시작이야."
+  },
+  {
+    "id": "quo_945",
+    "text": "아직 늦지 않았다는 말은 위로가 아니라 사실이다. 오늘도 문은 열려 있다.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "한 번 더 해보자. 오늘의 문은 아직 닫히지 않았어."
+  },
+  {
+    "id": "quo_946",
+    "text": "기다리는 사람에게는 시간이 길지만, 만나는 순간 모든 계산이 사라진다.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "기다림도 준비의 한 종류야. 오늘 한 걸음 더 준비해보자."
+  },
+  {
+    "id": "quo_947",
+    "text": "작은 기쁨을 크게 누리는 사람이 오래 행복하다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘 만난 작은 기쁨 하나를 크게 웃어주자."
+  },
+  {
+    "id": "quo_948",
+    "text": "웃음은 전염된다. 오늘 누군가를 웃게 하면 하루가 두 번 즐거워진다.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "도깨비 지혜 노트",
+    "source": "DOK-KEY 지혜 모음",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘 한 사람만 웃겨보자. 그 웃음은 네게도 돌아와."
+  },
+  {
+    "id": "quo_949",
+    "text": "웃을 때가 있고 울 때가 있다. 우는 시간도 제 몫을 다한다.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "전도서",
+    "source": "전도서 3:4 (의역)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "오늘은 울 때야. 내일은 웃을 때가 올 거야."
+  },
+  {
+    "id": "quo_950",
+    "text": "네 마음은 네 것이요, 바깥의 일은 네 것이 아니다. 흔들리는 건 대개 바깥이다.",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "마르쿠스 아우렐리우스",
+    "source": "명상록 (의역)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "바깥이 흔들려도 네 중심은 네가 정하자."
+  },
+  {
+    "id": "quo_951",
+    "text": "역경은 사람을 단련하는 스승이다. 지금의 고생은 나중의 그릇을 만든다.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "채근담",
+    "source": "채근담 (의역)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "지금의 그릇은 조금 크고 있어. 시간이 걸리는 게 당연해."
+  },
+  {
+    "id": "quo_952",
+    "text": "참고 견디면 반드시 좋은 날이 온다. 견디는 힘은 하루의 반복으로 자란다.",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "명심보감",
+    "source": "명심보감 (의역)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "오늘 하루만 견디자. 그 하루가 쌓여서 힘이 돼."
+  },
+  {
+    "id": "quo_953",
+    "text": "눈물로 적신 밭에 기쁨의 씨앗이 자란다.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "탈무드",
+    "source": "탈무드 (의역)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘의 눈물이 밭을 적셨어. 씨앗은 내일 볼 수 있어."
+  },
+  {
+    "id": "quo_954",
+    "text": "행복은 남을 위해 살 때 온다. 나를 위해만 살면 움츠러든다.",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "톨스토이",
+    "source": "톨스토이 (의역)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "오늘 한 사람을 위해 작은 일 하나 해보자."
+  },
+  {
+    "id": "quo_955",
+    "text": "나비가 꿈인지 내가 꿈인지 모를 때, 그리움도 꿈결처럼 아름다워진다.",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "장자",
+    "source": "장자 (의역)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "오늘은 꿈결처럼 그리워해도 돼. 아름다우면 충분해."
   }
 ]

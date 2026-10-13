@@ -13698,5 +13698,1450 @@
       "morning"
     ],
     "kkaebi_comment": "Đường êm ru quen thuộc làm sao có cảnh đẹp mới lạ cho ta ngắm chứ!"
+  },
+  {
+    "id": "quo_871",
+    "text": "Buông tay cũng là yêu. Đôi khi bàn tay mở ra lại ấm hơn bàn tay đang nắm.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Không cần phải khóc. Bao nhiêu điều bạn buông, người ấy cũng sẽ hiểu tấm lòng bạn."
+  },
+  {
+    "id": "quo_872",
+    "text": "Nỗi nhớ không hề mất đi; đó là hơi ấm lặng lẽ ngồi ở một góc trái tim.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Nhớ nhung chứng tỏ điều đó vẫn quý giá. Không có gì xấu cả."
+  },
+  {
+    "id": "quo_873",
+    "text": "Nước mắt không rơi vì tim yếu, mà vì tim đã mang quá nhiều.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay bạn khóc bao nhiêu cũng được. Tôi sẽ ngồi bên cạnh."
+  },
+  {
+    "id": "quo_874",
+    "text": "Ở nơi chia tay, buổi sáng vẫn đến. Vết thương lành dần và khiến bạn sâu sắc hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Càng sâu, bạn càng ấm áp. Hôm nay thử nhìn ra cửa sổ một lát nhé?"
+  },
+  {
+    "id": "quo_875",
+    "text": "Chia tay không phải kết thúc, mà là đường trở về chỗ của mỗi người.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Sống tốt ở chỗ của mình, rồi sẽ có ngày gặp lại bằng nụ cười."
+  },
+  {
+    "id": "quo_876",
+    "text": "Trước lời từ biệt bất chợt, không câu nào kịp chuẩn bị. Nên tim khóc trước.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Không nói được cũng không sao. Sự im lặng ấy cũng là cảm xúc."
+  },
+  {
+    "id": "quo_877",
+    "text": "Tiếng đổ vỡ không lớn. Trong một khoảnh khắc rất yên, bên trong bỗng rạn ra.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Chỗ rạn sau này sẽ vững hơn. Tôi giữ nó cho bạn."
+  },
+  {
+    "id": "quo_878",
+    "text": "Tim rung động có sai cũng không sao. Đó là dấu hiệu chân thật nhất rằng tim còn sống.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Tim đập nhanh không đáng xấu hổ, mà là đang lấp lánh."
+  },
+  {
+    "id": "quo_879",
+    "text": "Ai gieo trong nước mắt, sẽ gặt hái trong vui mừng.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kinh Thánh",
+    "source": "Thi Thiên 126:5 (diễn giải)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Nước mắt hôm nay cũng thành hạt giống. Hãy chờ thêm chút nữa."
+  },
+  {
+    "id": "quo_880",
+    "text": "Cái mềm mại nhất thắng cái cứng rắn nhất.",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "Lão Tử",
+    "source": "Đạo Đức Kinh (diễn giải)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Nỗi nhớ cũng mềm, nên ở lại lâu."
+  },
+  {
+    "id": "quo_881",
+    "text": "Nỗi buồn là vị khách đi ngang. Đừng khóa cửa, hãy để nó ở lại một lát.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Khách rồi cũng đi. Nó không ở lì trong bạn đâu."
+  },
+  {
+    "id": "quo_882",
+    "text": "Cũng có những đêm cần lấy thư cũ ra xem. Nỗi nhớ là việc sắp xếp trái tim.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Cứ đọc chậm thôi. Chúng ta là những người biết chờ đợi."
+  },
+  {
+    "id": "quo_883",
+    "text": "Khoảng trống không phải nỗi đau, mà là dấu vết của thời gian từng đầy ắp.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Trống bao nhiêu là vì đã yêu bấy nhiêu. Đó không phải hối hận."
+  },
+  {
+    "id": "quo_884",
+    "text": "Khi điều mình tin lung lay, thứ lung lay không phải thế giới mà là nơi mình đang đứng.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Đất có rung, tâm điểm của bạn vẫn còn. Chỉ cần đứng lên lại."
+  },
+  {
+    "id": "quo_885",
+    "text": "Cô đơn đôi khi không vì thiếu người, mà vì thiếu thời gian hiểu chính mình.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay bạn dịu dàng với mình nhé? Vậy tôi sẽ ở bên."
+  },
+  {
+    "id": "quo_886",
+    "text": "Mùa bạn từng yêu không biến mất. Mỗi lần gió thổi, nó trở lại với hơi ấm ấy.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Khi gió thổi, hãy nhắm mắt một lát. Hơi ấm ấy sẽ về."
+  },
+  {
+    "id": "quo_887",
+    "text": "Có ngày trời sáng mà tim vẫn dậy muộn. Ngày ấy chậm một chút cũng được.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Đừng vội. Buổi sáng của trái tim đến theo nhịp của bạn."
+  },
+  {
+    "id": "quo_888",
+    "text": "Kế hoạch sụp trong khoảnh khắc vẫn dựng lại được. Chỗ sụp cho bạn thấy nền móng.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Bạn không mất, mà đã tìm ra chỗ yếu. Đó là được."
+  },
+  {
+    "id": "quo_889",
+    "text": "Sao câu thích bạn lại nói muộn đến vậy. Trái tim đã nói bao lần rồi.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Nếu tim nói trước, bạn đã xong một nửa. Nói phần còn lại thật chậm."
+  },
+  {
+    "id": "quo_890",
+    "text": "Cuộc gặp tốt tôn trọng nhịp của nhau. Không phải người nhanh, mà người đi cùng mới bền.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay thử chờ một lần bước chân của người kia. Đó là bí quyết bền lâu."
+  },
+  {
+    "id": "quo_891",
+    "text": "Hối hận không phải lỗi lầm, mà là tên gọi khác của mong muốn tốt hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Người biết hối hận có thể ấm áp hơn ở lần sau."
+  },
+  {
+    "id": "quo_892",
+    "text": "Nhớ một thời không thể quay lại nghĩa là khi đó bạn đã sống thật lòng.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Bạn của ngày ấy và bây giờ đều đã cố gắng. Hãy ôm cả hai."
+  },
+  {
+    "id": "quo_893",
+    "text": "Tin xấu đến bất ngờ, nhưng sức chịu đựng lớn dần. Nhờ vậy ta sống tiếp.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay chỉ cần chịu một bước. Mai sức bạn sẽ lớn hơn."
+  },
+  {
+    "id": "quo_894",
+    "text": "Người tập trước lời tạm biệt là người đã đau. Hãy ôm trái tim ấy trước.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Không cần tập. Cứ làm theo nhịp của bạn ngay lúc đó."
+  },
+  {
+    "id": "quo_895",
+    "text": "Rung động bắt đầu mà không cần can đảm. Nên đó là cách dễ nhất để một ngày bừng sáng.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay tim bạn rung động thì đó là dấu hiệu tốt."
+  },
+  {
+    "id": "quo_896",
+    "text": "Nén buồn thì cơ thể khóc thay. Hãy để nó trôi đi một cách dịu dàng.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Muốn khóc thì khóc. Đó là cách dọn lòng lành mạnh nhất."
+  },
+  {
+    "id": "quo_897",
+    "text": "Người đã xa vẫn đứng ở chỗ của họ trong tim tôi.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Chỗ đó bạn giữ. Không ai xóa bừa được."
+  },
+  {
+    "id": "quo_898",
+    "text": "Vết thương cần thời gian để lành. Hối thúc thời gian chỉ làm sẹo sâu hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay không làm gì cũng được. Nghỉ ngơi cũng là chữa lành."
+  },
+  {
+    "id": "quo_899",
+    "text": "Trước điều bất ngờ, tim dừng trước tiên. Khi ấy hãy thở đều và bước một bước.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Tim dừng lại cũng không sao. Đó chỉ là dấu lặng trước khi đập lại."
+  },
+  {
+    "id": "quo_900",
+    "text": "Tình yêu ở lại nơi thói quen nhỏ hơn là cảnh lớn. Như bàn tay đóng cửa giúp bạn.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay tạo một dịu dàng nhỏ. Nó sẽ ở lại rất lâu."
+  },
+  {
+    "id": "quo_901",
+    "text": "Sau chia tay, mùa vẫn quay lại. Bạn cũng dần trở về chỗ của mình.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay ăn một bữa tử tế. Đó là khởi đầu hồi phục."
+  },
+  {
+    "id": "quo_902",
+    "text": "Nỗi nhớ không đo khoảng cách hai người, mà đo độ sâu của trái tim.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Càng sâu nghĩa là bạn đã yêu càng tốt. Điều đó đáng tự hào."
+  },
+  {
+    "id": "quo_903",
+    "text": "Một ngày không làm được gì, tim cũng đã cố chịu đựng. Đừng xem nhẹ ngày ấy.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Chịu được cũng là làm được. Đêm nay thế là đủ."
+  },
+  {
+    "id": "quo_904",
+    "text": "Điều lệch lạc chỉnh lại nhanh hơn hoàn tác. Hôm nay là ngày chỉnh lại.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Sửa một thứ thôi. Sửa một cái, những cái khác theo sau."
+  },
+  {
+    "id": "quo_905",
+    "text": "Người từng cười cùng nhau, dù chia tay cũng sẽ gặp lại.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Nhớ lại tiếng cười chung. Nghĩa là con đường vẫn còn."
+  },
+  {
+    "id": "quo_906",
+    "text": "Nỗi buồn lớn hơn khi không có ai chia sẻ. Nên hôm nay nói với ai cũng được.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Muốn nói thì nói với tôi. Tôi nghe khá tốt đấy."
+  },
+  {
+    "id": "quo_907",
+    "text": "Ký ức không phải để nắm giữ; một cuốn album thỉnh thoảng mở ra là đủ.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay mở một trang thôi. Phần còn lại để bạn của ngày mai xem."
+  },
+  {
+    "id": "quo_908",
+    "text": "Người chia tay giỏi không kéo dài nuối tiếc. Chỉ ít nhớ lại hơn mà thôi.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Không phải quên, mà là bớt đau. Đó là sự dịu dàng."
+  },
+  {
+    "id": "quo_909",
+    "text": "Sau cú sốc lớn, nếp nhỏ trở thành thuốc. Ăn, nước, ngủ: ba điều ấy trước.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay bắt đầu bằng một ly nước. Thân thể lành trước, tim sẽ theo sau."
+  },
+  {
+    "id": "quo_910",
+    "text": "Tỏ tình không phải chuyện can đảm, mà là chuyện sẵn sàng tôn trọng đối phương.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Sẵn sàng thì nói hôm nay cũng được. Không thì mai cũng ổn."
+  },
+  {
+    "id": "quo_911",
+    "text": "Đêm khóc đến mệt rồi ngủ, đến sáng cũng nhẹ hơn một chút.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Đêm nay ngủ ngon nhé. Bạn của ngày mai sẽ nhẹ hơn."
+  },
+  {
+    "id": "quo_912",
+    "text": "Nhớ bạn không phải lời yếu đuối, mà là bằng chứng tình cảm còn sống.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Cứ để cảm xúc ấy. Trái tim còn sống rồi sẽ lớn lại."
+  },
+  {
+    "id": "quo_913",
+    "text": "Không có nỗi buồn nào được sắp xếp hoàn hảo. Sống hơi lộn xộn cũng không sao.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Không sắp xếp được vẫn sống được. Đó là con người."
+  },
+  {
+    "id": "quo_914",
+    "text": "Gặp điều không thể giải thích, cần người ở bên hơn là lời giải thích.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay tôi ở bên lặng lẽ. Lời nói để mai cũng được."
+  },
+  {
+    "id": "quo_915",
+    "text": "Tình yêu lâu năm gần với hơi ấm hơn ngọn lửa. Không nóng, nhưng ấm lâu.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay đếm hơi ấm quanh bạn. Nhiều hơn bạn nghĩ."
+  },
+  {
+    "id": "quo_916",
+    "text": "Nỗi buồn có tên sẽ dịu lại một chút. Hôm nay nỗi buồn của bạn tên gì?",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Không đặt được tên cũng không sao. Biết nó có ở đó là đủ."
+  },
+  {
+    "id": "quo_917",
+    "text": "Ngày lòng nặng có thể hoãn quyết định. Quyết định ngày nặng đau lâu hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay đừng quyết. Bạn của ngày mai sẽ chọn nhẹ nhàng hơn."
+  },
+  {
+    "id": "quo_918",
+    "text": "Không cần ghét người đã đi. Ghét giữ bạn lâu hơn nó giữ họ.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Thay vì ghét, hãy tạo khoảng cách. Đó là cách bảo vệ bạn."
+  },
+  {
+    "id": "quo_919",
+    "text": "Đêm một mình càng dài, tiếng bình minh càng đáng quý. Đêm nay rồi cũng qua.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Đêm dài cũng có hồi kết. Tôi đếm bình minh cho bạn."
+  },
+  {
+    "id": "quo_920",
+    "text": "Nhìn ảnh cũ thật lâu, bạn của ngày xưa sẽ an ủi bạn của hôm nay.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Bạn của ngày ấy vẫn cổ vũ bạn. Cứ tin đi."
+  },
+  {
+    "id": "quo_921",
+    "text": "Có người muốn gặp lại nghĩa là trái tim vẫn còn ấm.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Giữ hơi ấm ấy. Sẽ có ngày cần dùng."
+  },
+  {
+    "id": "quo_922",
+    "text": "Nỗi nhớ là lời hứa lặng thầm không quên. Không nói ra vẫn giữ được.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Lời hứa không nói vẫn giữ được. Tôi là người trông coi nó."
+  },
+  {
+    "id": "quo_923",
+    "text": "Thời gian không xóa hết mọi thứ. Nó chỉ làm nguội đến nhiệt độ bạn cầm được.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ký ức nóng nguội bớt thì bạn nhìn được lâu hơn."
+  },
+  {
+    "id": "quo_924",
+    "text": "Nghe tin mà người cứng lại thì hãy động đầu ngón chân trước. Tim sẽ theo sau.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Một bước cũng được. Đó là khởi đầu hồi phục."
+  },
+  {
+    "id": "quo_925",
+    "text": "Nhìn điều lớn và nhỏ cùng lúc càng đáng sợ. Chỉ nhìn một việc cần làm bây giờ.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Chọn một thứ thôi. Phần còn lại để bạn của ngày mai chọn."
+  },
+  {
+    "id": "quo_926",
+    "text": "Tình yêu xa dần khi bạn cố xác nhận. Nó gần lại khi bạn chỉ ở bên.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay ở bên thay vì xác nhận. Đó là lời lớn hơn."
+  },
+  {
+    "id": "quo_927",
+    "text": "Cảm ơn là hình thái lặng lẽ nhất của tình yêu. Hôm nay nói một lần.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Nói với người thân thiết trước. Hai người sẽ gần nhau bất ngờ."
+  },
+  {
+    "id": "quo_928",
+    "text": "Ăn cùng nhau tuy nhỏ, nhưng là việc lớn chia sẻ một ngày của nhau.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay ăn với ai thì hãy dành trọn thời gian ấy."
+  },
+  {
+    "id": "quo_929",
+    "text": "Yêu không phải lấp chỗ trống của nhau, mà cùng chịu đựng những chỗ trống ấy.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Chỗ trống không cần lấp. Ở bên nhau là chịu được."
+  },
+  {
+    "id": "quo_930",
+    "text": "Cách yêu lâu dài rất đơn giản: nhìn người của hôm nay khác với hôm qua.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay khám phá một điều mới. Đó là bí quyết bền lâu."
+  },
+  {
+    "id": "quo_931",
+    "text": "Trái tim thích ai mà giấu thì nhỏ lại, bày tỏ thì lớn dần.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Một biểu hiện nhỏ là đủ. Hôm nay gửi một nụ cười nhé?"
+  },
+  {
+    "id": "quo_932",
+    "text": "Tim rung động không phải tim sai. Đó chỉ là tim đang chuẩn bị.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Đang chuẩn bị cũng tốt. Khi nào cũng có thể nói."
+  },
+  {
+    "id": "quo_933",
+    "text": "Rung động trước khi tỏ tình tự nó là món quà. Hôm nay hãy tận hưởng.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Không nói cũng không sao. Nhịp tim hôm nay là đủ."
+  },
+  {
+    "id": "quo_934",
+    "text": "Nếu rung động trước người mới quen, đó là dấu hiệu một mùa mới đến.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Mùa mới có thể đón chậm. Không cần vội."
+  },
+  {
+    "id": "quo_935",
+    "text": "Rung động chia sẻ sẽ nhân đôi. Hôm nay hãy ghi cảm xúc ấy ở đâu đó.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Viết lên giấy đi. Sau này đọc lại, hơi ấm ngày ấy vẫn còn."
+  },
+  {
+    "id": "quo_936",
+    "text": "Cũng có nỗi buồn không khóc. Nỗi buồn ấy dịu đi khi cơ thể được nghỉ.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay nằm sớm nhé. Cơ thể nghỉ thì tim cũng dịu lại."
+  },
+  {
+    "id": "quo_937",
+    "text": "Ngày không muốn ai nghe tiếng khóc, bạn có thể mở cửa sổ. Gió giữ bí mật.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hãy giao cho gió. Tôi cũng không nói với ai."
+  },
+  {
+    "id": "quo_938",
+    "text": "Mất mát không phải khóc than dài, mà là chấp nhận từ từ.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay chỉ nhận một mảnh thôi. Phần còn lại cứ từ từ."
+  },
+  {
+    "id": "quo_939",
+    "text": "Việc của người ở lại là tiếp tục sống. Điều đó khác với quên.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tiếp tục sống không phải phản bội. Người ấy cũng mong vậy."
+  },
+  {
+    "id": "quo_940",
+    "text": "Trước thay đổi đột ngột, đừng nắm chặt kế hoạch. Càng nắm, tay càng đau.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Mở tay ra. Bạn không mất, mà đã làm trống."
+  },
+  {
+    "id": "quo_941",
+    "text": "Câu phải vượt qua nỗi buồn là sai. Hãy học cách sống cùng nó.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Không cần vượt qua. Cứ mang nó bên cạnh mà sống."
+  },
+  {
+    "id": "quo_942",
+    "text": "Trong nỗi buồn mà tìm được một điều biết ơn, nhiệt độ trái tim tăng lên chút ít.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay tìm một điều thôi. Rất nhỏ cũng được."
+  },
+  {
+    "id": "quo_943",
+    "text": "Hãy gọi tên người bạn nhớ. Lòng sẽ nhẹ đi một chút.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Gọi một lần, thật khẽ. Tôi chỉ nghe thôi."
+  },
+  {
+    "id": "quo_944",
+    "text": "Khởi đầu nhỏ hôm nay thành thay đổi lớn ngày mai. Khởi đầu luôn lặng lẽ.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay chỉ bắt đầu một việc. Nhỏ thôi, nhưng là khởi đầu thật."
+  },
+  {
+    "id": "quo_945",
+    "text": "Vẫn chưa muộn không phải lời an ủi, mà là sự thật. Hôm nay cửa vẫn mở.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Thử một lần nữa. Cửa hôm nay chưa đóng."
+  },
+  {
+    "id": "quo_946",
+    "text": "Người chờ thấy thời gian dài, nhưng khoảnh khắc gặp nhau mọi toan tính tan biến.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Chờ đợi cũng là chuẩn bị. Hôm nay chuẩn bị thêm một bước."
+  },
+  {
+    "id": "quo_947",
+    "text": "Người tận hưởng niềm vui nhỏ một cách lớn lao thì hạnh phúc lâu hơn.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay hãy cười thật to vì một niềm vui nhỏ bạn gặp."
+  },
+  {
+    "id": "quo_948",
+    "text": "Tiếng cười lan truyền. Hôm nay làm ai cười, ngày của bạn vui gấp đôi.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Sổ tay trí tuệ Kkaebi",
+    "source": "Bộ sưu tập trí tuệ DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay làm một người cười. Tiếng cười ấy cũng quay về với bạn."
+  },
+  {
+    "id": "quo_949",
+    "text": "Có lúc cười, có lúc khóc. Thời gian khóc cũng làm tròn phần việc của nó.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Truyền Đạo",
+    "source": "Truyền Đạo 3:4 (diễn giải)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hôm nay là lúc khóc. Mai sẽ đến lúc cười."
+  },
+  {
+    "id": "quo_950",
+    "text": "Tâm trí là của bạn; việc bên ngoài thì không. Thứ lay động thường ở bên ngoài.",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Marcus Aurelius",
+    "source": "Suy tưởng (diễn giải)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ngoài kia có lay, tâm điểm do bạn quyết."
+  },
+  {
+    "id": "quo_951",
+    "text": "Nghịch cảnh là thầy rèn con người. Vất vả hôm nay tạo nên tầm vóc ngày mai.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Thái Căn Đàm",
+    "source": "Thái Căn Đàm (diễn giải)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tầm vóc của bạn đang lớn lên. Cần thời gian là điều tự nhiên."
+  },
+  {
+    "id": "quo_952",
+    "text": "Nhẫn nhịn chịu đựng ắt có ngày tốt. Sức chịu đựng lớn lên nhờ lặp lại mỗi ngày.",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Minh Tâm Bảo Giám",
+    "source": "Minh Tâm Bảo Giám (diễn giải)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hôm nay chỉ chịu một ngày thôi. Những ngày ấy tích lại thành sức mạnh."
+  },
+  {
+    "id": "quo_953",
+    "text": "Trên cánh đồng tưới bằng nước mắt, hạt giống niềm vui mọc lên.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Talmud",
+    "source": "Talmud (diễn giải)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Nước mắt hôm nay đã tưới cánh đồng. Mai bạn sẽ thấy hạt giống."
+  },
+  {
+    "id": "quo_954",
+    "text": "Hạnh phúc đến khi sống vì người khác. Chỉ sống vì mình thì con người teo lại.",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Tolstoy",
+    "source": "Tolstoy (diễn giải)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hôm nay làm một việc nhỏ cho ai đó."
+  },
+  {
+    "id": "quo_955",
+    "text": "Khi không biết bướm mơ ta hay ta mơ bướm, nỗi nhớ cũng đẹp như giấc mơ.",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "Trang Tử",
+    "source": "Trang Tử (diễn giải)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hôm nay nhớ như trong mơ cũng được. Đẹp là đủ."
   }
 ]

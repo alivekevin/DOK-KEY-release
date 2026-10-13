@@ -13698,5 +13698,1450 @@
       "morning"
     ],
     "kkaebi_comment": "Sur la route facile et battue, il n'y a point de paysages neufs à contempler !"
+  },
+  {
+    "id": "quo_871",
+    "text": "Laisser partir, c'est aussi aimer. Parfois la main qui lâche est plus chaude que celle qui retient.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tu n'as pas à pleurer. Tout ce que tu as lâché, l'autre le comprendra aussi dans ton cœur."
+  },
+  {
+    "id": "quo_872",
+    "text": "La nostalgie n'est pas perdue : c'est une chaleur assise en silence dans un coin du cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Manquer à quelqu'un prouve qu'il compte encore. Ce n'est pas mauvais."
+  },
+  {
+    "id": "quo_873",
+    "text": "Les larmes ne coulent pas parce que le cœur est faible, mais parce qu'il a tant porté.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Aujourd'hui, tu peux pleurer autant que nécessaire. Je resterai assis près de toi."
+  },
+  {
+    "id": "quo_874",
+    "text": "Même au lieu de l'adieu, le matin arrive. Les blessures guérissent et te rendent un peu plus profond.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Plus tu deviens profond, plus tu deviens chaleureux. Veux-tu regarder par la fenêtre aujourd'hui ?"
+  },
+  {
+    "id": "quo_875",
+    "text": "Un adieu n'est pas une fin, mais le chemin du retour vers la place de chacun.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Si tu vis bien à ta place, un jour vous vous retrouverez en souriant."
+  },
+  {
+    "id": "quo_876",
+    "text": "Devant un adieu soudain, aucun mot n'est prêt. C'est pourquoi le cœur pleure d'abord.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ce n'est rien si les mots ne viennent pas. Ce silence est aussi un sentiment."
+  },
+  {
+    "id": "quo_877",
+    "text": "L'effondrement n'est pas bruyant. Dans un instant très silencieux, quelque chose cède à l'intérieur.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ce qui a cédé deviendra plus solide. Je le tiens pour toi."
+  },
+  {
+    "id": "quo_878",
+    "text": "Ce n'est rien si le cœur se trompe souvent. C'est le signe le plus honnête qu'il est vivant.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Un cœur qui bat n'est pas honteux ; il scintille."
+  },
+  {
+    "id": "quo_879",
+    "text": "Ceux qui sèment dans les larmes moissonneront dans la joie.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Bible",
+    "source": "Psaumes 126:5 (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Les larmes d'aujourd'hui deviendront semence. Attendons un peu."
+  },
+  {
+    "id": "quo_880",
+    "text": "Le plus souple triomphe du plus dur.",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "Lao Tseu",
+    "source": "Tao Te King (paraphrase)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "La nostalgie dure aussi parce qu'elle est souple."
+  },
+  {
+    "id": "quo_881",
+    "text": "La tristesse est une visite passagère. Ne verrouille pas la porte ; laisse-la rester un moment.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Les visites finissent par partir. Elle ne s'installera pas en toi."
+  },
+  {
+    "id": "quo_882",
+    "text": "Certaines nuits, il faut ressortir de vieilles lettres. La nostalgie, c'est ranger son cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Lis lentement. Nous sommes des êtres qui savent attendre."
+  },
+  {
+    "id": "quo_883",
+    "text": "L'espace vide n'est pas une douleur, mais la trace d'un temps qui fut rempli à ras bord.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Tu as aimé autant que c'était plein. Ce n'est pas un regret."
+  },
+  {
+    "id": "quo_884",
+    "text": "Quand ce en quoi tu croyais vacille, ce n'est pas le monde qui tremble, mais le sol où tu te tenais.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Même si le sol tremble, ton centre demeure. Relève-toi simplement."
+  },
+  {
+    "id": "quo_885",
+    "text": "La solitude vient parfois non de l'absence de gens, mais du manque de temps pour se comprendre.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Veux-tu être doux avec toi aujourd'hui ? Alors je resterai près de toi."
+  },
+  {
+    "id": "quo_886",
+    "text": "La saison que tu as aimée ne disparaît pas. Chaque fois que le vent souffle, elle revient à cette chaleur.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Quand le vent souffle, ferme les yeux un instant. Cette chaleur reviendra."
+  },
+  {
+    "id": "quo_887",
+    "text": "Certains jours, l'aube se lève mais le cœur se lève tard. Ces jours-là, aller lentement est permis.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ne te presse pas. Le matin du cœur vient à ton rythme."
+  },
+  {
+    "id": "quo_888",
+    "text": "Un plan effondré en un instant peut être rebâti. L'endroit effondré montre la fondation.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Tu n'as pas perdu : tu as trouvé le point faible. C'est un gain."
+  },
+  {
+    "id": "quo_889",
+    "text": "Pourquoi le mot je t'aime bien sort-il si tard ? Le cœur l'a déjà dit tant de fois.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Si le cœur a parlé d'abord, tu as fait la moitié. Disons le reste doucement."
+  },
+  {
+    "id": "quo_890",
+    "text": "Une belle rencontre respecte le rythme de l'autre. Pas celui qui va vite, mais celui qui va ensemble dure.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Aujourd'hui, attends une fois le pas de l'autre. C'est le secret de la durée."
+  },
+  {
+    "id": "quo_891",
+    "text": "Le regret n'est pas une erreur, mais un autre nom du désir de devenir meilleur.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Qui peut regretter peut être plus chaleureux la prochaine fois."
+  },
+  {
+    "id": "quo_892",
+    "text": "Regretter un temps où l'on ne peut revenir signifie qu'alors tu étais sincère.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Toi d'alors et toi d'aujourd'hui, vous avez tant essayé. Embrassons les deux."
+  },
+  {
+    "id": "quo_893",
+    "text": "La mauvaise nouvelle arrive d'un coup, mais la force de la porter grandit lentement. Ainsi on continue de vivre.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Aujourd'hui, tiens un seul pas. Demain ta force sera plus grande."
+  },
+  {
+    "id": "quo_894",
+    "text": "Qui répète les adieux a déjà le cœur blessé. Prends d'abord soin de ce cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Pas besoin de répéter. Fais-le sur le moment, à ton rythme."
+  },
+  {
+    "id": "quo_895",
+    "text": "L'émoi commence sans courage. C'est donc la façon la plus simple d'illuminer une journée.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Si ton cœur s'émeut aujourd'hui, c'est bon signe."
+  },
+  {
+    "id": "quo_896",
+    "text": "Si tu refoules la tristesse, le corps pleure à ta place. Laisse-la couler avec douceur.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Si tu veux pleurer, pleure. C'est le rangement le plus sain."
+  },
+  {
+    "id": "quo_897",
+    "text": "Même éloignée, la personne reste debout à sa place dans mon cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Cette place, c'est toi qui la gardes. Personne ne peut l'effacer."
+  },
+  {
+    "id": "quo_898",
+    "text": "Les blessures ont besoin de temps pour guérir. Presser le temps ne fait qu'approfondir la marque.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ne rien faire aujourd'hui est permis. Se reposer, c'est aussi guérir."
+  },
+  {
+    "id": "quo_899",
+    "text": "Devant l'imprévu, le cœur s'arrête d'abord. Alors respire et fais un seul pas.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Un cœur arrêté, ce n'est rien. Juste un silence avant de battre à nouveau."
+  },
+  {
+    "id": "quo_900",
+    "text": "L'amour demeure plus dans les petites habitudes que dans les grandes scènes. Comme une main qui ferme la porte.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Crée aujourd'hui une petite douceur. Elle reste longtemps."
+  },
+  {
+    "id": "quo_901",
+    "text": "Après l'adieu, les saisons reviennent. Toi aussi, tu reviendras peu à peu à ta place.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Mange bien une fois aujourd'hui. C'est là que commence la guérison."
+  },
+  {
+    "id": "quo_902",
+    "text": "La nostalgie ne mesure pas la distance entre deux personnes, mais la profondeur du cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Plus c'est profond, mieux tu as aimé. C'est une fierté."
+  },
+  {
+    "id": "quo_903",
+    "text": "Un jour sans rien accomplir, ton cœur a quand même tenu. Ne méprise pas ce jour.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tenir, c'est aussi accomplir. Pour ce soir, cela suffit."
+  },
+  {
+    "id": "quo_904",
+    "text": "Ce qui est décalé se réaligne plus vite qu'il ne se défait. Aujourd'hui est un jour d'alignement.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Répare une seule chose. Une réparée, les autres suivent."
+  },
+  {
+    "id": "quo_905",
+    "text": "Ceux qui ont ri ensemble sont destinés à se revoir, même après un adieu.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Souviens-toi de ce rire partagé. Cela signifie que la route est encore ouverte."
+  },
+  {
+    "id": "quo_906",
+    "text": "La tristesse grandit quand personne ne peut la partager. Aujourd'hui, dis-le à n'importe qui.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Si tu veux parler, parle-moi. Je suis plutôt bon auditeur."
+  },
+  {
+    "id": "quo_907",
+    "text": "Les souvenirs ne s'agrippent pas ; un album que l'on ouvre de temps en temps suffit.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ouvre une seule page aujourd'hui. Le reste, ton toi de demain le verra."
+  },
+  {
+    "id": "quo_908",
+    "text": "Qui sait bien dire adieu ne traîne pas ses regrets. Il se souvient simplement moins souvent.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Non pas oublier, mais avoir moins mal. C'est de la tendresse."
+  },
+  {
+    "id": "quo_909",
+    "text": "Après un grand choc, la petite routine devient remède. Manger, boire, dormir : ces trois d'abord.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Commence par un verre d'eau aujourd'hui. Si le corps guérit d'abord, le cœur suit."
+  },
+  {
+    "id": "quo_910",
+    "text": "L'aveu n'est pas une question de courage, mais de préparation à respecter l'autre.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Si tu es prêt, dis-le aujourd'hui. Sinon, demain aussi."
+  },
+  {
+    "id": "quo_911",
+    "text": "Même une nuit où l'on s'endort en pleurant est un peu plus légère au matin.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Dors bien ce soir. Ton toi de demain sera un peu plus léger."
+  },
+  {
+    "id": "quo_912",
+    "text": "Dire tu me manques n'est pas une faiblesse ; c'est la preuve que l'affection est vivante.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Laisse ce sentiment être. Un cœur vivant repousse un jour."
+  },
+  {
+    "id": "quo_913",
+    "text": "Il n'existe pas de tristesse parfaitement rangée. Vivre un peu en désordre est permis.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Même non rangé, tu peux vivre. C'est cela, être humain."
+  },
+  {
+    "id": "quo_914",
+    "text": "Face à l'inexplicable, on a besoin de quelqu'un à ses côtés plus que d'une explication.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Aujourd'hui, je resterai en silence près de toi. Les mots peuvent attendre demain."
+  },
+  {
+    "id": "quo_915",
+    "text": "Un vieil amour ressemble plus à la chaleur qu'à la flamme. Il ne brûle pas, mais réchauffe longtemps.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Compte aujourd'hui la chaleur autour de toi. Il y en a plus que tu ne crois."
+  },
+  {
+    "id": "quo_916",
+    "text": "La tristesse s'apaise un peu quand on lui donne un nom. Comment s'appelle la tienne aujourd'hui ?",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Si tu ne peux pas la nommer, ce n'est rien. Savoir qu'elle est là suffit."
+  },
+  {
+    "id": "quo_917",
+    "text": "Les jours de cœur lourd, tu peux reporter les décisions. Les décisions lourdes font mal plus longtemps.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ne décide pas aujourd'hui. Ton toi de demain choisira plus léger."
+  },
+  {
+    "id": "quo_918",
+    "text": "Pas besoin de haïr celui qui est parti. La haine te retient plus longtemps que lui.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Au lieu de la haine, mets de la distance. C'est ainsi que tu te protèges."
+  },
+  {
+    "id": "quo_919",
+    "text": "Plus la nuit seule est longue, plus le son du matin est bienvenu. Cette nuit aussi passera.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Si longue soit-elle, la nuit finit. Je compterai l'aube pour toi."
+  },
+  {
+    "id": "quo_920",
+    "text": "Si tu regardes longtemps de vieilles photos, le toi d'alors console le toi d'aujourd'hui.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Le toi d'alors t'encourage encore. Tu peux le croire."
+  },
+  {
+    "id": "quo_921",
+    "text": "Avoir quelqu'un que l'on veut revoir signifie que le cœur est encore chaud.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Gardons cette chaleur. Un jour tu en auras besoin."
+  },
+  {
+    "id": "quo_922",
+    "text": "La nostalgie est une promesse silencieuse de ne pas oublier. Elle tient même sans être dite.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Une promesse peut se tenir sans mots. Je suis celui qui la garde."
+  },
+  {
+    "id": "quo_923",
+    "text": "Le temps n'efface pas tout. Il refroidit seulement jusqu'à une température supportable.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Quand un souvenir brûlant refroidit, tu peux le regarder plus longtemps."
+  },
+  {
+    "id": "quo_924",
+    "text": "Si le corps se fige à une nouvelle, bouge d'abord les orteils. Le cœur suit ensuite.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Un pas suffit. C'est là que commence la guérison."
+  },
+  {
+    "id": "quo_925",
+    "text": "Voir le grand et le petit ensemble fait plus peur. Ne regarde que ce qui est à faire maintenant.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Choisis-en une seule. Le reste, ton toi de demain le choisira."
+  },
+  {
+    "id": "quo_926",
+    "text": "L'amour s'éloigne quand on cherche à le confirmer. Il se rapproche quand on reste simplement.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Aujourd'hui, reste au lieu de confirmer. C'est la parole la plus grande."
+  },
+  {
+    "id": "quo_927",
+    "text": "Merci est la forme la plus silencieuse de l'amour. Dis-le une fois aujourd'hui.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Dis-le d'abord à un proche. Vous vous rapprocherez étonnamment."
+  },
+  {
+    "id": "quo_928",
+    "text": "Manger ensemble est petit, mais c'est un grand partage de la journée de chacun.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Si tu manges avec quelqu'un aujourd'hui, donne-lui ce temps tout entier."
+  },
+  {
+    "id": "quo_929",
+    "text": "Aimer, ce n'est pas combler les vides de l'autre, mais supporter ces vides ensemble.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Les vides n'ont pas besoin d'être comblés. Ensemble, ils deviennent supportables."
+  },
+  {
+    "id": "quo_930",
+    "text": "Aimer longtemps est simple : voir celui d'aujourd'hui autrement que celui d'hier.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Découvre aujourd'hui une chose nouvelle. C'est le secret de la durée."
+  },
+  {
+    "id": "quo_931",
+    "text": "Un cœur qui aime rétrécit si on le cache et grandit si on l'exprime.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Une petite expression suffit. Enverras-tu un sourire aujourd'hui ?"
+  },
+  {
+    "id": "quo_932",
+    "text": "Un cœur qui s'émeut n'est pas un cœur faux. C'est juste un cœur en préparation.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Être en préparation est bien. Tu peux le dire quand tu veux."
+  },
+  {
+    "id": "quo_933",
+    "text": "L'émoi avant un aveu est en soi un cadeau. Savoure-le aujourd'hui.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Ne pas le dire est permis. L'émoi d'aujourd'hui suffit."
+  },
+  {
+    "id": "quo_934",
+    "text": "Si une nouvelle connaissance t'émeut, c'est le signe qu'une nouvelle saison arrive.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Une nouvelle saison peut s'accueillir lentement. Pas besoin de se presser."
+  },
+  {
+    "id": "quo_935",
+    "text": "L'émoi partagé double. Écris aujourd'hui ce sentiment quelque part.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Écris-le sur papier. En le relisant, la chaleur de ce jour restera."
+  },
+  {
+    "id": "quo_936",
+    "text": "Il existe une tristesse qui ne pleure pas. Elle se détend un peu quand le corps se repose.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Couche-toi tôt ce soir. Si le corps se repose, le cœur se détend aussi."
+  },
+  {
+    "id": "quo_937",
+    "text": "Les jours où tu ne veux pas qu'on entende tes pleurs, tu peux ouvrir la fenêtre. Le vent garde les secrets.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Confie-le au vent. Moi non plus, je ne le dirai à personne."
+  },
+  {
+    "id": "quo_938",
+    "text": "La perte n'est pas une longue plainte, mais une acceptation lente.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Accepte seulement un morceau aujourd'hui. Le reste peut aller doucement."
+  },
+  {
+    "id": "quo_939",
+    "text": "La tâche de celui qui reste est de continuer à vivre. Cela diffère d'oublier.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Continuer à vivre n'est pas une trahison. L'autre l'aurait voulu aussi."
+  },
+  {
+    "id": "quo_940",
+    "text": "Face à un changement soudain, n'agrippe pas tes plans. Plus tu serres, plus tes mains souffrent.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Ouvre les mains. Tu n'as pas perdu ; tu as vidé."
+  },
+  {
+    "id": "quo_941",
+    "text": "Dire qu'il faut surmonter la tristesse est faux. Apprends à vivre avec elle.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Pas besoin de la surmonter. Garde-la à côté et vis."
+  },
+  {
+    "id": "quo_942",
+    "text": "Trouver dans la tristesse une chose à remercier fait monter un peu la température du cœur.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Cherches-en une seule aujourd'hui. Même très petite."
+  },
+  {
+    "id": "quo_943",
+    "text": "Dis à voix haute le nom de celui qui te manque. Le cœur s'allège un peu.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Dis-le une fois, tout bas. Je ne fais qu'écouter."
+  },
+  {
+    "id": "quo_944",
+    "text": "Le petit début d'aujourd'hui deviendra le grand changement de demain. Les débuts sont toujours silencieux.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Commence une seule chose aujourd'hui. Petite, mais un vrai début."
+  },
+  {
+    "id": "quo_945",
+    "text": "Dire qu'il n'est pas trop tard n'est pas un réconfort, mais un fait. Aujourd'hui la porte est encore ouverte.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Essaie encore une fois. La porte d'aujourd'hui n'est pas fermée."
+  },
+  {
+    "id": "quo_946",
+    "text": "Pour qui attend, le temps est long ; mais au moment de se retrouver, tout calcul s'efface.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Attendre est aussi une préparation. Prépare aujourd'hui un pas de plus."
+  },
+  {
+    "id": "quo_947",
+    "text": "Qui savoure grandement les petites joies reste heureux plus longtemps.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Ris fort aujourd'hui pour une petite joie rencontrée."
+  },
+  {
+    "id": "quo_948",
+    "text": "Le rire est contagieux. Si tu fais rire quelqu'un aujourd'hui, ta journée sera deux fois plus belle.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Carnet de sagesse de Kkaebi",
+    "source": "Recueil de sagesse DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Fais rire une personne aujourd'hui. Ce rire te reviendra aussi."
+  },
+  {
+    "id": "quo_949",
+    "text": "Il y a un temps pour rire et un temps pour pleurer. Le temps de pleurer fait aussi sa part.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Ecclésiaste",
+    "source": "Ecclésiaste 3:4 (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Aujourd'hui, c'est le temps de pleurer. Demain viendra le temps de rire."
+  },
+  {
+    "id": "quo_950",
+    "text": "Ton esprit est à toi ; ce qui est dehors ne l'est pas. Ce qui vacille est souvent dehors.",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Marc Aurèle",
+    "source": "Pensées pour moi-même (paraphrase)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Même si le dehors vacille, c'est toi qui fixes ton centre."
+  },
+  {
+    "id": "quo_951",
+    "text": "L'adversité est le maître qui forge la personne. La peine d'aujourd'hui fait le vase de demain.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caigentan",
+    "source": "Caigentan (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Ton vase grandit maintenant. Qu'il faille du temps est naturel."
+  },
+  {
+    "id": "quo_952",
+    "text": "Qui endure verra sûrement de bons jours. L'endurance grandit en répétant les jours.",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Myeongsim Bogam",
+    "source": "Myeongsim Bogam (paraphrase)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tiens bon seulement aujourd'hui. Ces jours s'accumulent en force."
+  },
+  {
+    "id": "quo_953",
+    "text": "Dans un champ arrosé de larmes pousse la semence de la joie.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Talmud",
+    "source": "Talmud (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Les larmes d'aujourd'hui ont arrosé le champ. Tu verras la semence demain."
+  },
+  {
+    "id": "quo_954",
+    "text": "Le bonheur vient quand on vit pour les autres. Vivre seulement pour soi rétrécit.",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Tolstoï",
+    "source": "Tolstoï (paraphrase)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Fais aujourd'hui une petite chose pour quelqu'un."
+  },
+  {
+    "id": "quo_955",
+    "text": "Quand on ne sait si le papillon rêve ou si l'on rêve, la nostalgie devient belle comme un rêve.",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "Zhuangzi",
+    "source": "Zhuangzi (paraphrase)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Aujourd'hui, tu peux regretter comme en rêve. Être beau suffit."
   }
 ]

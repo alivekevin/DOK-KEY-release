@@ -13698,5 +13698,1450 @@
     ],
     "text": "जाने-पहचाने रास्ते आसान होते हैं, मगर नए नज़ारे केवल नए रास्ते ही दिखाते हैं।",
     "kkaebi_comment": "आसान रास्तों पर कभी नए नज़ारे नहीं मिलते!"
+  },
+  {
+    "id": "quo_871",
+    "text": "छोड़ देना भी प्रेम है। कभी-कभी खुला हाथ पकड़े हुए हाथ से ज़्यादा गर्म होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "रोना नहीं है। जितना तुमने छोड़ा, उतना ही वह भी तुम्हारा मन समझेगा।"
+  },
+  {
+    "id": "quo_872",
+    "text": "याद खोई नहीं है; वह दिल के एक कोने में चुपचाप बैठी गर्माहट है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "याद आना इसका सबूत है कि वह अब भी कीमती है। यह बुरा नहीं है।"
+  },
+  {
+    "id": "quo_873",
+    "text": "आँसू इसलिए नहीं आते कि दिल कमज़ोर है, बल्कि इसलिए कि उसने बहुत कुछ सँभाला है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज जितना रोना हो, रो लो। मैं तुम्हारे पास बैठा रहूँगा।"
+  },
+  {
+    "id": "quo_874",
+    "text": "जुदाई की जगह पर भी सुबह आती है। घाव भरते हुए तुम्हें थोड़ा गहरा बनाते हैं।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जितने गहरे हुए, उतने गर्म हुए। आज खिड़की से बाहर झाँक लोगे?"
+  },
+  {
+    "id": "quo_875",
+    "text": "जुदाई अंत नहीं, अपने-अपने ठिकाने लौटने का रास्ता है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अपनी जगह पर अच्छे से रहो, तो किसी दिन हँसते हुए फिर मिलेंगे।"
+  },
+  {
+    "id": "quo_876",
+    "text": "अचानक हुई विदाई के सामने कोई शब्द तैयार नहीं होता। इसलिए दिल पहले रोता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "शब्द न आएँ तो कोई बात नहीं। वह मौन भी भावना है।"
+  },
+  {
+    "id": "quo_877",
+    "text": "गिरने की आवाज़ तेज़ नहीं होती। बहुत शांत पल में भीतर कुछ चटक जाता है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "टूटी जगह बाद में मज़बूत होती है। मैं सँभाले हुए हूँ।"
+  },
+  {
+    "id": "quo_878",
+    "text": "धड़कन का ग़लत हो जाना ठीक है। यह दिल के ज़िंदा होने का सबसे सच्चा संकेत है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "धड़कन शर्मिंदगी नहीं, चमक है।"
+  },
+  {
+    "id": "quo_879",
+    "text": "जो आँसुओं के साथ बोता है, वह आनंद के साथ काटेगा।",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "बाइबल",
+    "source": "भजन संहिता 126:5 (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज के आँसू भी बीज बनेंगे। थोड़ा इंतज़ार करें।"
+  },
+  {
+    "id": "quo_880",
+    "text": "सबसे कोमल, सबसे कठोर को जीत लेता है।",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "लाओत्सु",
+    "source": "ताओ ते चिंग (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "याद भी कोमल है, इसलिए देर तक टिकती है।"
+  },
+  {
+    "id": "quo_881",
+    "text": "दुख एक आता-जाता मेहमान है। दरवाज़ा बंद न करो; थोड़ी देर ठहरने दो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "मेहमान कभी न कभी जाते हैं। वह तुम्हारे भीतर बस नहीं जाएगा।"
+  },
+  {
+    "id": "quo_882",
+    "text": "कुछ रातें पुरानी चिट्ठियाँ निकालने के लिए होती हैं। याद दिल को सँवारने का काम है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "धीरे पढ़ो। हम इंतज़ार करना जानने वाले हैं।"
+  },
+  {
+    "id": "quo_883",
+    "text": "खाली जगह दर्द नहीं, उस भरे हुए समय का निशान है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "जितनी जगह खाली है, उतना प्यार किया। यह पछतावा नहीं।"
+  },
+  {
+    "id": "quo_884",
+    "text": "जिस पर भरोसा था वह डगमगाए, तो हिलती दुनिया नहीं, तुम्हारी खड़ी ज़मीन है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "ज़मीन हिले तो भी तुम्हारा केंद्र बचा है। फिर खड़े हो जाओ।"
+  },
+  {
+    "id": "quo_885",
+    "text": "अकेलापन कभी लोगों की कमी से नहीं, खुद को समझने के समय की कमी से आता है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज खुद के लिए नरम बनोगे? तब मैं पास रहूँगा।"
+  },
+  {
+    "id": "quo_886",
+    "text": "जिस मौसम से प्यार किया वह मिटता नहीं। हवा चलते ही उसी गर्माहट से लौटता है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "हवा चले तो पल भर आँख बंद करो। वह गर्माहट आएगी।"
+  },
+  {
+    "id": "quo_887",
+    "text": "कुछ दिन सुबह हो जाती है, पर दिल देर से उठता है। ऐसे दिन धीरे चलो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "जल्दी मत करो। दिल की सुबह तुम्हारी गति से आती है।"
+  },
+  {
+    "id": "quo_888",
+    "text": "पल भर में गिरी योजना फिर बनाई जा सकती है। गिरी जगह नींव दिखा देती है।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "तुमने खोया नहीं, कमज़ोर जगह पाई। यह लाभ है।"
+  },
+  {
+    "id": "quo_889",
+    "text": "पसंद है यह शब्द इतना देर से क्यों आता है? दिल तो कई बार कह चुका।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "दिल ने पहले कह दिया तो आधा हो गया। बाकी धीरे कहें।"
+  },
+  {
+    "id": "quo_890",
+    "text": "अच्छा मिलन एक-दूसरे की गति का सम्मान करता है। तेज़ नहीं, साथ चलने वाला लंबा चलता है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज एक बार साथी के कदम का इंतज़ार करो। यही टिकने का राज़ है।"
+  },
+  {
+    "id": "quo_891",
+    "text": "पछतावा ग़लती नहीं, बेहतर बनने की चाह का दूसरा नाम है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जो पछता सकता है, वह अगली बार ज़्यादा नरम हो सकता है।"
+  },
+  {
+    "id": "quo_892",
+    "text": "जिस समय लौट नहीं सकते उसकी याद इसलिए आती है कि तब तुम ईमानदार थे।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तब के तुमने और अब के तुमने बहुत कोशिश की। दोनों को थाम लें।"
+  },
+  {
+    "id": "quo_893",
+    "text": "बुरी खबर अचानक आती है, पर सहने की शक्ति धीरे बढ़ती है। इसीलिए जीवन चलता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज बस एक कदम सह लो। कल शक्ति बड़ी होगी।"
+  },
+  {
+    "id": "quo_894",
+    "text": "जो पहले से विदाई का अभ्यास करता है, उसका दिल पहले ही चोट खा चुका है। पहले उस दिल को थामो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "अभ्यास की ज़रूरत नहीं। उस पल अपनी गति से कर लेना।"
+  },
+  {
+    "id": "quo_895",
+    "text": "धड़कन बिना साहस भी शुरू होती है। इसलिए यह दिन चमकाने का सबसे आसान तरीका है।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज धड़कन हो तो यह अच्छा संकेत है।"
+  },
+  {
+    "id": "quo_896",
+    "text": "दुख दबाओ तो शरीर रो पड़ता है। नरमी से बहने दो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "रोना हो तो रो लो। यह सबसे स्वस्थ सफ़ाई है।"
+  },
+  {
+    "id": "quo_897",
+    "text": "दूर जा चुका इंसान भी मेरे दिल में अपनी जगह पर खड़ा है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "वह जगह तुम सँभालते हो। कोई उसे मिटा नहीं सकता।"
+  },
+  {
+    "id": "quo_898",
+    "text": "घाव भरने में समय लगता है। समय को उकसाओ तो निशान गहरा होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज कुछ न करना भी ठीक है। आराम भी इलाज है।"
+  },
+  {
+    "id": "quo_899",
+    "text": "अनपेक्षित के सामने दिल पहले रुकता है। तब साँस सँभालो और एक कदम चलो।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "रुका दिल भी ठीक है। यह फिर धड़कने से पहले का विराम है।"
+  },
+  {
+    "id": "quo_900",
+    "text": "प्रेम बड़े दृश्यों से ज़्यादा छोटी आदतों में रहता है। दरवाज़ा बंद करने वाले हाथ जैसे।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज एक छोटी नरमी बनाओ। वह देर तक रहती है।"
+  },
+  {
+    "id": "quo_901",
+    "text": "जुदाई के बाद भी मौसम लौटते हैं। तुम भी धीरे-धीरे अपनी जगह लौटोगे।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज एक भोजन ठीक से करो। वहीं से सँभलना शुरू होता है।"
+  },
+  {
+    "id": "quo_902",
+    "text": "याद दो लोगों की दूरी नहीं, दिल की गहराई नापती है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जितनी गहरी, उतना अच्छा प्यार किया। यह गर्व की बात है।"
+  },
+  {
+    "id": "quo_903",
+    "text": "कुछ न कर पाए दिन भी दिल ने जी-तोड़ सहा। उस दिन को छोटा मत आँको।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "सहना भी उपलब्धि है। आज रात इतना ही काफ़ी है।"
+  },
+  {
+    "id": "quo_904",
+    "text": "बिगड़े को पलटने से जल्दी फिर से जोड़ा जा सकता है। आज जोड़ने का दिन है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "एक चीज़ ठीक करो। एक ठीक हो तो बाकी भी आ जाती हैं।"
+  },
+  {
+    "id": "quo_905",
+    "text": "जो साथ हँसे हैं, जुदा होकर भी फिर मिलना तय है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "साथ की हँसी याद करो। इसका मतलब रास्ता अब भी है।"
+  },
+  {
+    "id": "quo_906",
+    "text": "बाँटने वाला न हो तो दुख बड़ा होता है। इसलिए आज किसी से भी कह दो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "कहना हो तो मुझसे कहो। मैं सुनने में अच्छा हूँ।"
+  },
+  {
+    "id": "quo_907",
+    "text": "यादें पकड़ने की नहीं; कभी खोलने वाली एल्बम काफ़ी है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज एक पन्ना खोलो। बाकी कल का तुम देख लेगा।"
+  },
+  {
+    "id": "quo_908",
+    "text": "अच्छे से विदा लेने वाला लंबा मलाल नहीं रखता। बस कम याद करता है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "भूलना नहीं, दर्द कम करना। यही नरमी है।"
+  },
+  {
+    "id": "quo_909",
+    "text": "बड़े झटके के बाद छोटी दिनचर्या दवा बनती है। खाना, पानी, नींद — पहले ये तीन।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज एक गिलास पानी से शुरू करो। शरीर पहले ठीक हो तो दिल भी आता है।"
+  },
+  {
+    "id": "quo_910",
+    "text": "इक़रार साहस का नहीं, सामने वाले का सम्मान करने की तैयारी का सवाल है।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "तैयार हो तो आज कह दो। वरना कल भी ठीक है।"
+  },
+  {
+    "id": "quo_911",
+    "text": "रोते-रोते सो जाने वाली रात भी सुबह थोड़ी हल्की होती है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज रात ठीक से सोओ। कल का तुम थोड़ा हल्का होगा।"
+  },
+  {
+    "id": "quo_912",
+    "text": "मिस करना कमज़ोर शब्द नहीं, लगाव के ज़िंदा होने का सबूत है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "उस भावना को रहने दो। ज़िंदा दिल फिर उगता है।"
+  },
+  {
+    "id": "quo_913",
+    "text": "पूरी तरह सँवरा हुआ दुख नहीं होता। थोड़ा बिखरा जीना भी ठीक है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "सँवारा न जाए तो भी जी सकते हो। यही इंसान होना है।"
+  },
+  {
+    "id": "quo_914",
+    "text": "जो समझा न जा सके, उसके सामने समझाने से पहले साथ रहने वाला चाहिए।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज मैं चुपचाप साथ रहूँगा। बातें कल भी हो सकती हैं।"
+  },
+  {
+    "id": "quo_915",
+    "text": "पुराना प्रेम आग से ज़्यादा गर्माहट के पास है। गर्म नहीं, पर देर तक गर्म।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज पास की गर्माहट गिन लो। सोच से ज़्यादा होगी।"
+  },
+  {
+    "id": "quo_916",
+    "text": "दुख को नाम दे दो तो वह थोड़ा शांत हो जाता है। आज तुम्हारे दुख का नाम क्या है?",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "नाम न दे पाओ तो ठीक है। उसका होना जानना ही काफ़ी है।"
+  },
+  {
+    "id": "quo_917",
+    "text": "दिल भारी हो तो फैसले टाल सकते हो। भारी दिन के फैसले देर तक चुभते हैं।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज फैसला न करें। कल का तुम हल्के मन से चुनेगा।"
+  },
+  {
+    "id": "quo_918",
+    "text": "जा चुके से नफ़रत न करो। नफ़रत तुम्हें उससे ज़्यादा देर पकड़ती है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "नफ़रत की जगह दूरी रखो। यही तुम्हें बचाता है।"
+  },
+  {
+    "id": "quo_919",
+    "text": "अकेली रात जितनी लंबी, सुबह की आवाज़ उतनी भली। आज की रात भी बीत जाएगी।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "रात लंबी हो तो भी अंत है। मैं भोर गिनता रहूँगा।"
+  },
+  {
+    "id": "quo_920",
+    "text": "पुरानी तस्वीरें देर तक देखो तो उस समय का तुम आज के तुम्हें सांत्वना देता है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "तब का तुम आज भी हौसला दे रहा है। भरोसा करो।"
+  },
+  {
+    "id": "quo_921",
+    "text": "फिर मिलने की चाह होना यानी दिल अब भी गर्म है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "उस गर्माहट को सँजोएँ। किसी दिन काम आएगी।"
+  },
+  {
+    "id": "quo_922",
+    "text": "याद न भूलने का चुपचाप वादा है। बिना कहे भी निभता है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "वादा बिना कहे भी निभता है। मैं उसका रखवाला हूँ।"
+  },
+  {
+    "id": "quo_923",
+    "text": "समय सब कुछ मिटाता नहीं। वह उसे सहने योग्य तापमान तक ठंडा कर देता है।",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "गरम याद थोड़ी ठंडी हो तो देर तक देख सकते हो।"
+  },
+  {
+    "id": "quo_924",
+    "text": "खबर सुनकर शरीर जम जाए तो पंजों से हिलो। दिल पीछे-पीछे आता है।",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "एक कदम ही काफ़ी है। वहीं से सँभलना शुरू होता है।"
+  },
+  {
+    "id": "quo_925",
+    "text": "बड़ा और छोटा साथ देखो तो डर बढ़ता है। अभी करने वाला एक ही देखो।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "एक चुनो। बाकी कल का तुम चुनेगा।"
+  },
+  {
+    "id": "quo_926",
+    "text": "प्रेम जताने की कोशिश में दूर होता है। बस पास रहने से नज़दीक होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज जताने की जगह पास रहो। वह बड़ा शब्द है।"
+  },
+  {
+    "id": "quo_927",
+    "text": "धन्यवाद प्रेम का सबसे शांत रूप है। आज एक बार कहो।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "पास वाले से पहले कहो। हैरान करने वाला नज़दीकी आएगा।"
+  },
+  {
+    "id": "quo_928",
+    "text": "साथ खाना छोटा है, पर एक-दूसरे का दिन बाँटने का बड़ा काम है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज किसी के साथ खाओ तो वह समय पूरा दो।"
+  },
+  {
+    "id": "quo_929",
+    "text": "प्रेम एक-दूसरे की खाली जगह भरना नहीं, उसे साथ सहना है।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "खाली जगह भरनी नहीं। साथ हो तो सही जाती है।"
+  },
+  {
+    "id": "quo_930",
+    "text": "देर तक प्यार करने का तरीका सरल है: आज के उसे कल से अलग देखना।",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज एक नई बात खोजो। यही टिकने का राज़ है।"
+  },
+  {
+    "id": "quo_931",
+    "text": "पसंद का भाव छिपाओ तो छोटा, जताओ तो धीरे बड़ा होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक छोटा इज़हार काफ़ी है। आज एक मुस्कान भेजो?"
+  },
+  {
+    "id": "quo_932",
+    "text": "धड़कता दिल ग़लत दिल नहीं। वह बस तैयारी में है।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "तैयारी में होना भी ठीक है। कभी भी कह सकते हो।"
+  },
+  {
+    "id": "quo_933",
+    "text": "इक़रार से पहले की धड़कन खुद एक तोहफ़ा है। आज उसका आनंद लो।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "न कहो तो भी ठीक। आज की धड़कन ही काफ़ी है।"
+  },
+  {
+    "id": "quo_934",
+    "text": "नए मिले इंसान से धड़कन हो तो यह नए मौसम का संकेत है।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "नया मौसम धीरे स्वागत करो। जल्दी की ज़रूरत नहीं।"
+  },
+  {
+    "id": "quo_935",
+    "text": "धड़कन बाँटो तो दुगनी होती है। आज वह भावना कहीं लिख दो।",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "कागज़ पर लिखो। बाद में पढ़ोगे तो उस दिन की गर्मी रहेगी।"
+  },
+  {
+    "id": "quo_936",
+    "text": "ऐसा दुख भी है जिसमें आँसू नहीं आते। ऐसा दुख शरीर को आराम देने से थोड़ा ढीला होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज जल्दी लेट जाओ। शरीर आराम करे तो दिल भी ढीला होता है।"
+  },
+  {
+    "id": "quo_937",
+    "text": "जिस दिन रोना न सुनाना हो, खिड़की खोल सकते हो। हवा राज़ रखती है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "हवा को सौंप दो। मैं भी किसी को नहीं बताऊँगा।"
+  },
+  {
+    "id": "quo_938",
+    "text": "खोना लंबा विलाप नहीं, धीरे-धीरे स्वीकारना है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज एक टुकड़ा स्वीकारो। बाकी धीरे चलेगा।"
+  },
+  {
+    "id": "quo_939",
+    "text": "बचे हुओं का काम जीते रहना है। यह भूलने से अलग है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जीते रहना विश्वासघात नहीं। वह भी यही चाहता होगा।"
+  },
+  {
+    "id": "quo_940",
+    "text": "अचानक बदलाव के सामने योजना पकड़ो मत। जितना पकड़ो, हाथ उतने चोट खाते हैं।",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "हाथ खोलो। खोया नहीं, खाली किया है।"
+  },
+  {
+    "id": "quo_941",
+    "text": "दुख को जीतो कहना ग़लत है। उसके साथ जीना सीख लो।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "जीतना नहीं है। पास रखकर जीना है।"
+  },
+  {
+    "id": "quo_942",
+    "text": "दुख के बीच एक शुक्रिया मिल जाए तो दिल का तापमान थोड़ा बढ़ता है।",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज एक ढूँढो। बहुत छोटा भी चलेगा।"
+  },
+  {
+    "id": "quo_943",
+    "text": "जिसकी याद आती है, उसका नाम बोलकर पुकारो। दिल थोड़ा हल्का होता है।",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "चुपचाप एक बार पुकारो। मैं सुनता रहूँगा।"
+  },
+  {
+    "id": "quo_944",
+    "text": "आज की छोटी शुरुआत कल का बड़ा बदलाव बनती है। शुरुआत हमेशा शांत होती है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज बस एक चीज़ शुरू करो। छोटी, पर सच्ची शुरुआत।"
+  },
+  {
+    "id": "quo_945",
+    "text": "अब भी देर नहीं यह तसल्ली नहीं, सच है। आज भी दरवाज़ा खुला है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "एक बार और करो। आज का दरवाज़ा अभी बंद नहीं हुआ।"
+  },
+  {
+    "id": "quo_946",
+    "text": "इंतज़ार करने वाले को समय लंबा लगता है, पर मिलते ही सारा हिसाब मिट जाता है।",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "इंतज़ार भी तैयारी है। आज एक कदम और तैयारी करो।"
+  },
+  {
+    "id": "quo_947",
+    "text": "छोटी खुशी को बड़ा जीने वाला देर तक सुखी रहता है।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज मिली छोटी खुशी पर ज़ोर से हँसो।"
+  },
+  {
+    "id": "quo_948",
+    "text": "हँसी फैलती है। आज किसी को हँसाओ तो दिन दुगना सुहावना होगा।",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "कैकैबी ज्ञान-टिप्पणी",
+    "source": "DOK-KEY ज्ञान संग्रह",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज एक इंसान को हँसाओ। वह हँसी तुम्हें भी लौटेगी।"
+  },
+  {
+    "id": "quo_949",
+    "text": "हँसने का समय है और रोने का समय है। रोने का समय भी अपना काम करता है।",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "सभोपदेशक",
+    "source": "सभोपदेशक 3:4 (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "आज रोने का समय है। कल हँसने का समय आएगा।"
+  },
+  {
+    "id": "quo_950",
+    "text": "तुम्हारा मन तुम्हारा है, बाहर की बातें तुम्हारी नहीं। डगमगाता प्रायः बाहर ही है।",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "मार्कस ऑरेलियस",
+    "source": "मेडिटेशन्स (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "बाहर हिले तो भी केंद्र तुम तय करो।"
+  },
+  {
+    "id": "quo_951",
+    "text": "विपत्ति इंसान को गढ़ने वाला गुरु है। आज की मेहनत कल का पात्र बनाती है।",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "चाइगेनतान",
+    "source": "चाइगेनतान (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "तुम्हारा पात्र अभी बड़ा हो रहा है। समय लगना स्वाभाविक है।"
+  },
+  {
+    "id": "quo_952",
+    "text": "सह लो तो अच्छे दिन ज़रूर आते हैं। सहने की शक्ति दिन दोहराने से बढ़ती है।",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "म्योंगसिम बोगाम",
+    "source": "म्योंगसिम बोगाम (भावानुवाद)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "आज बस एक दिन सहो। वे दिन जमा होकर शक्ति बनते हैं।"
+  },
+  {
+    "id": "quo_953",
+    "text": "आँसुओं से सींचे खेत में खुशी का बीज उगता है।",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "तल्मूद",
+    "source": "तल्मूद (भावानुवाद)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज के आँसुओं ने खेत सींचा। बीज कल दिखेगा।"
+  },
+  {
+    "id": "quo_954",
+    "text": "खुशी दूसरों के लिए जीने से आती है। सिर्फ अपने लिए जीने से इंसान सिकुड़ता है।",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "टॉल्स्टॉय",
+    "source": "टॉल्स्टॉय (भावानुवाद)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "आज किसी के लिए एक छोटा काम करो।"
+  },
+  {
+    "id": "quo_955",
+    "text": "पता न हो कि तितली सपना है या मैं, तब याद भी सपने जैसी सुंदर हो जाती है।",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "झुआंगज़ी",
+    "source": "झुआंगज़ी (भावानुवाद)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "आज सपने जैसा याद करना भी ठीक है। सुंदर होना काफ़ी है।"
   }
 ]

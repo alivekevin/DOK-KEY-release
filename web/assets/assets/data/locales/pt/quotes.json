@@ -13698,5 +13698,1450 @@
       "morning"
     ],
     "kkaebi_comment": "Caminho fácil e conhecido não tem paisagens inéditas para mostrar!"
+  },
+  {
+    "id": "quo_871",
+    "text": "Deixar ir também é amor. Às vezes a mão que solta é mais quente que a que segura.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Você não precisa chorar. Tudo o que soltou, ele também entenderá no seu coração."
+  },
+  {
+    "id": "quo_872",
+    "text": "A saudade não se perdeu: é um calor que se senta em silêncio num canto do coração.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Sentir falta prova que ainda importa. Isso não é ruim."
+  },
+  {
+    "id": "quo_873",
+    "text": "As lágrimas não brotam porque o coração é fraco, mas porque carregou muita coisa.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje você pode chorar o quanto precisar. Vou ficar sentado ao seu lado."
+  },
+  {
+    "id": "quo_874",
+    "text": "Mesmo no lugar da despedida vem a manhã. As feridas curam e te tornam um pouco mais fundo.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Quanto mais fundo, mais quente você ficou. Hoje olha um instante pela janela?"
+  },
+  {
+    "id": "quo_875",
+    "text": "A despedida não é um fim, mas o caminho de volta ao lugar de cada um.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Se viver bem no seu lugar, um dia se encontrarão sorrindo de novo."
+  },
+  {
+    "id": "quo_876",
+    "text": "Diante de um adeus repentino, nenhuma palavra está pronta. Por isso o coração chora primeiro.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Tudo bem se as palavras não vierem. Esse silêncio também é sentimento."
+  },
+  {
+    "id": "quo_877",
+    "text": "O desmoronamento não é alto. Num instante muito silencioso, algo se rompe por dentro.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "O que se rompeu ficará mais firme depois. Eu seguro por você."
+  },
+  {
+    "id": "quo_878",
+    "text": "Tudo bem o coração se enganar com frequência. É o sinal mais honesto de que está vivo.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Coração acelerado não é vergonha; é brilho."
+  },
+  {
+    "id": "quo_879",
+    "text": "Os que semeiam com lágrimas, com júbilo colherão.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Bíblia",
+    "source": "Salmos 126:5 (paráfrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "As lágrimas de hoje também serão semente. Vamos esperar um pouco."
+  },
+  {
+    "id": "quo_880",
+    "text": "O mais macio vence o mais duro.",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "Lao Tsé",
+    "source": "Tao Te Ching (paráfrase)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A saudade também dura porque é macia."
+  },
+  {
+    "id": "quo_881",
+    "text": "A tristeza é uma visita passageira. Não tranque a porta; deixe-a ficar um pouco.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "As visitas vão embora um dia. Ela não se instalará dentro de você."
+  },
+  {
+    "id": "quo_882",
+    "text": "Há noites em que é preciso tirar cartas antigas. A saudade é o trabalho de arrumar o coração.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Leia devagar. Somos seres que sabem esperar."
+  },
+  {
+    "id": "quo_883",
+    "text": "O espaço vazio não é dor, mas o vestígio de um tempo que esteve cheio até a borda.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Encheu-se conforme o quanto você amou. Isso não é arrependimento."
+  },
+  {
+    "id": "quo_884",
+    "text": "Quando o que você acreditava treme, não treme o mundo, mas o chão onde você estava.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Mesmo que o chão trema, seu centro permanece. Basta levantar de novo."
+  },
+  {
+    "id": "quo_885",
+    "text": "A solidão às vezes não vem de estar sem gente, mas de ter pouco tempo para se entender.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje você será gentil consigo? Então ficarei ao seu lado."
+  },
+  {
+    "id": "quo_886",
+    "text": "A estação que você amou não desaparece. Sempre que o vento sopra, volta com aquele calor.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Quando o vento soprar, feche os olhos por um instante. Esse calor virá."
+  },
+  {
+    "id": "quo_887",
+    "text": "Há dias em que amanhece, mas o coração acorda tarde. Nesses dias, ir devagar está bem.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Não se apresse. A manhã do coração chega no seu ritmo."
+  },
+  {
+    "id": "quo_888",
+    "text": "Um plano que caiu num instante pode ser refeito. O lugar caído mostra o alicerce.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Você não perdeu: achou o ponto fraco. Isso é ganho."
+  },
+  {
+    "id": "quo_889",
+    "text": "Por que a palavra eu gosto sai tão tarde. O coração já a disse muitas vezes.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Se o coração falou primeiro, já fez metade. Digamos o resto devagar."
+  },
+  {
+    "id": "quo_890",
+    "text": "Um bom encontro respeita o ritmo do outro. Não quem vai rápido, mas quem vai junto, dura mais.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Hoje espere uma vez o passo do outro. Esse é o segredo de durar."
+  },
+  {
+    "id": "quo_891",
+    "text": "O arrependimento não é um erro, mas outro nome de querer ser melhor.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Quem consegue se arrepender pode ser mais quente na próxima vez."
+  },
+  {
+    "id": "quo_892",
+    "text": "Sentir falta de um tempo ao qual não se pode voltar significa que você foi honesto então.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Antes e agora você se esforçou muito. Abracemos os dois."
+  },
+  {
+    "id": "quo_893",
+    "text": "A má notícia chega de repente, mas a força para carregá-la cresce devagar. Assim se segue vivendo.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje aguente apenas um passo. Amanhã sua força será maior."
+  },
+  {
+    "id": "quo_894",
+    "text": "Quem ensaia despedidas já tem o coração ferido. Abrace primeiro esse coração.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Não precisa ensaiar. Faça no momento, no seu ritmo."
+  },
+  {
+    "id": "quo_895",
+    "text": "O coração se agita sem precisar de coragem. Por isso é o jeito mais fácil de iluminar um dia.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Se hoje o coração acelerar, é bom sinal."
+  },
+  {
+    "id": "quo_896",
+    "text": "Se você reprime a tristeza, o corpo chora no seu lugar. Deixe fluir com carinho.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Se quiser chorar, chore. É o desabafo mais saudável."
+  },
+  {
+    "id": "quo_897",
+    "text": "Quem se afastou ainda está de pé no lugar dele dentro do meu coração.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Esse lugar você guarda. Ninguém pode apagar assim."
+  },
+  {
+    "id": "quo_898",
+    "text": "As feridas precisam de tempo para sarar. Apressar o tempo só aprofunda a marca.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hoje não fazer nada está bem. Descansar também é cura."
+  },
+  {
+    "id": "quo_899",
+    "text": "Diante do inesperado, o coração para primeiro. Respire então e dê apenas um passo.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Um coração parado está bem. É só uma pausa antes de bater de novo."
+  },
+  {
+    "id": "quo_900",
+    "text": "O amor fica mais nos pequenos costumes do que nas grandes cenas. Como uma mão que fecha a porta.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Crie hoje uma pequena gentileza. Essa fica muito tempo."
+  },
+  {
+    "id": "quo_901",
+    "text": "Depois da despedida, as estações voltam. Você também voltará aos poucos ao seu lugar.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje coma bem uma vez. Aí começa a recuperação."
+  },
+  {
+    "id": "quo_902",
+    "text": "A saudade não mede a distância entre duas pessoas, mas a profundidade do coração.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Quanto mais funda, melhor você amou. Isso é motivo de orgulho."
+  },
+  {
+    "id": "quo_903",
+    "text": "Um dia sem conquistas também aguentou muito em seu coração. Não menospreze esse dia.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Aguentar também é conquista. Para hoje à noite, basta."
+  },
+  {
+    "id": "quo_904",
+    "text": "O que saiu do lugar se realinha mais rápido do que se desfaz. Hoje é dia de alinhar.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Arrume só uma coisa. Ao arrumar uma, as outras vêm junto."
+  },
+  {
+    "id": "quo_905",
+    "text": "Quem riu junto está destinado a se reencontrar, mesmo depois da despedida.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Lembre do riso que dividiram. Isso significa que o caminho segue aberto."
+  },
+  {
+    "id": "quo_906",
+    "text": "A tristeza cresce quando não há com quem dividi-la. Por isso hoje pode contar a qualquer um.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Se quiser falar, fale comigo. Sou bom ouvinte."
+  },
+  {
+    "id": "quo_907",
+    "text": "As lembranças não se agarram; basta um álbum que você abre de vez em quando.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Abra hoje só uma página. O resto o você de amanhã verá."
+  },
+  {
+    "id": "quo_908",
+    "text": "Quem se despede bem não arrasta o pesar. Só lembra com menos frequência.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Não é esquecer, mas doer menos. Isso é ternura."
+  },
+  {
+    "id": "quo_909",
+    "text": "Depois de um grande choque, a pequena rotina vira remédio. Comida, água, sono: esses três primeiro.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Comece hoje com um copo de água. Se o corpo sara primeiro, o coração acompanha."
+  },
+  {
+    "id": "quo_910",
+    "text": "Confessar não é questão de coragem, mas de estar pronto para respeitar o outro.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Se estiver pronto, diga hoje. Se não, amanhã também vale."
+  },
+  {
+    "id": "quo_911",
+    "text": "Mesmo uma noite em que se adormece chorando é um pouco mais leve pela manhã.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Durma bem hoje. O você de amanhã pesará um pouco menos."
+  },
+  {
+    "id": "quo_912",
+    "text": "Dizer estou com saudade não é fraqueza; é prova de que o afeto segue vivo.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Deixe esse sentimento estar. Um coração vivo volta a crescer."
+  },
+  {
+    "id": "quo_913",
+    "text": "Não existe tristeza perfeitamente arrumada. Está bem viver com um pouco de desordem.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Mesmo sem arrumar, você pode viver. Isso é ser humano."
+  },
+  {
+    "id": "quo_914",
+    "text": "Diante do inexplicável, precisa-se de alguém ao lado mais do que de uma explicação.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje ficarei em silêncio ao seu lado. As palavras podem esperar até amanhã."
+  },
+  {
+    "id": "quo_915",
+    "text": "O amor antigo se parece mais com o calor do que com a chama. Não queima, mas aquece por muito tempo.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje conte o calor ao seu redor. É mais do que você imagina."
+  },
+  {
+    "id": "quo_916",
+    "text": "A tristeza se acalma um pouco quando você lhe dá um nome. Como se chama a sua tristeza hoje?",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Se não conseguir nomeá-la, tudo bem. Saber que existe já basta."
+  },
+  {
+    "id": "quo_917",
+    "text": "Nos dias de coração pesado, pode adiar decisões. Decisões pesadas doem por mais tempo.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje não decida. O você de amanhã escolherá mais leve."
+  },
+  {
+    "id": "quo_918",
+    "text": "Não é preciso odiar quem partiu. O ódio prende você por mais tempo do que a ele.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Em vez de ódio, ponha distância. Assim você se protege."
+  },
+  {
+    "id": "quo_919",
+    "text": "Quanto mais longa a noite sozinho, mais grato o som do amanhecer. Esta noite também passará.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Por longa que seja, a noite termina. Eu contarei o amanhecer para você."
+  },
+  {
+    "id": "quo_920",
+    "text": "Se olhar fotos antigas por muito tempo, o você de então consola o você de agora.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "O você de então ainda torce por você. Pode acreditar."
+  },
+  {
+    "id": "quo_921",
+    "text": "Ter alguém que você quer rever significa que o coração ainda está quente.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Guardemos esse calor. Um dia você vai precisar."
+  },
+  {
+    "id": "quo_922",
+    "text": "A saudade é uma promessa silenciosa de não esquecer. Cumpre-se mesmo sem ser dita.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Uma promessa pode ser cumprida sem palavras. Eu sou quem a guarda."
+  },
+  {
+    "id": "quo_923",
+    "text": "O tempo não apaga tudo. Só esfria até uma temperatura que você consegue segurar.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Se uma lembrança ardente esfriar, você poderá olhá-la por mais tempo."
+  },
+  {
+    "id": "quo_924",
+    "text": "Se o corpo travar com a notícia, mexa primeiro os pés. O coração vem depois.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Um passo basta. Aí começa a recuperação."
+  },
+  {
+    "id": "quo_925",
+    "text": "Ver o grande e o pequeno juntos dá mais medo. Olhe só o que cabe agora.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Escolha só uma. O resto o você de amanhã escolherá."
+  },
+  {
+    "id": "quo_926",
+    "text": "O amor se afasta quando você tenta confirmá-lo. Aproxima-se quando você apenas fica.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje fique em vez de confirmar. Essa é a palavra maior."
+  },
+  {
+    "id": "quo_927",
+    "text": "Obrigado é a forma mais silenciosa do amor. Diga hoje uma vez.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Diga primeiro a alguém próximo. Vocês ficarão surpreendentemente perto."
+  },
+  {
+    "id": "quo_928",
+    "text": "Comer juntos é pequeno, mas é um grande compartilhar do dia um do outro.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Se hoje comer com alguém, dê esse tempo inteiro a ele."
+  },
+  {
+    "id": "quo_929",
+    "text": "Amar não é preencher as lacunas do outro, mas sustentar juntos essas lacunas.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "As lacunas não precisam ser preenchidas. Juntos, tornam-se suportáveis."
+  },
+  {
+    "id": "quo_930",
+    "text": "Amar por muito tempo é simples: ver o de hoje diferente do de ontem.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Descubra hoje algo novo. Esse é o segredo de durar."
+  },
+  {
+    "id": "quo_931",
+    "text": "Um coração que gosta encolhe se escondido e cresce se expressado.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Uma pequena expressão basta. Envia hoje um sorriso?"
+  },
+  {
+    "id": "quo_932",
+    "text": "Um coração acelerado não é um coração errado. É apenas um coração em preparação.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Estar em preparação está bem. Você pode dizer quando quiser."
+  },
+  {
+    "id": "quo_933",
+    "text": "A agitação antes de confessar é, em si, um presente. Aproveite-a hoje.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Não dizer está bem. Com a agitação de hoje, basta."
+  },
+  {
+    "id": "quo_934",
+    "text": "Se alguém recém-conhecido agita seu coração, é sinal de que chegou uma estação nova.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "A estação nova pode ser recebida devagar. Não há pressa."
+  },
+  {
+    "id": "quo_935",
+    "text": "A agitação compartilhada se duplica. Hoje escreva esse sentimento em algum lugar.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Escreva no papel. Ao reler depois, o calor daquele dia permanecerá."
+  },
+  {
+    "id": "quo_936",
+    "text": "Existe tristeza que não chora. Essa tristeza afrouxa um pouco quando o corpo descansa.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje deite cedo. Se o corpo descansa, o coração afrouxa."
+  },
+  {
+    "id": "quo_937",
+    "text": "Nos dias em que não quer que ouçam seu choro, pode abrir a janela. O vento guarda segredos.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Deixe com o vento. Eu também não contarei a ninguém."
+  },
+  {
+    "id": "quo_938",
+    "text": "A perda não é um lamento longo, mas aceitar devagar.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hoje aceite só um pedaço. O resto pode ir devagar."
+  },
+  {
+    "id": "quo_939",
+    "text": "A tarefa de quem fica é seguir vivendo. Isso é diferente de esquecer.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Seguir vivendo não é traição. Ele também iria querer isso."
+  },
+  {
+    "id": "quo_940",
+    "text": "Diante de uma mudança súbita, não agarre os planos. Quanto mais aperta, mais as mãos se machucam.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Abra as mãos. Você não perdeu; esvaziou."
+  },
+  {
+    "id": "quo_941",
+    "text": "Esse negócio de superar a tristeza está errado. Aprenda a viver junto dela.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Você não precisa superá-la. Leve-a ao lado e viva."
+  },
+  {
+    "id": "quo_942",
+    "text": "Se dentro da tristeza você encontrar algo a agradecer, a temperatura do coração sobe um pouco.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje procure só uma. Ainda que bem pequena."
+  },
+  {
+    "id": "quo_943",
+    "text": "Diga em voz alta o nome de quem você sente falta. O coração alivia um pouco.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Diga uma vez, baixinho. Eu só escuto."
+  },
+  {
+    "id": "quo_944",
+    "text": "O pequeno começo de hoje será a grande mudança de amanhã. Os começos são sempre silenciosos.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Hoje comece só uma coisa. Pequena, mas um começo de verdade."
+  },
+  {
+    "id": "quo_945",
+    "text": "Dizer que ainda não é tarde não é consolo, é fato. Hoje a porta continua aberta.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Tente mais uma vez. A porta de hoje não está fechada."
+  },
+  {
+    "id": "quo_946",
+    "text": "Para quem espera, o tempo é longo; mas no encontro toda conta se apaga.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Esperar também é preparar. Prepare hoje mais um passo."
+  },
+  {
+    "id": "quo_947",
+    "text": "Quem saboreia em grande as pequenas alegrias permanece feliz por mais tempo.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje ria alto por uma pequena alegria que encontrar."
+  },
+  {
+    "id": "quo_948",
+    "text": "O riso é contagioso. Se hoje fizer alguém rir, seu dia será duplamente bom.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Caderno de Sabedoria do Kkaebi",
+    "source": "Coletânea de sabedoria DOK-KEY",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Faça hoje uma pessoa rir. Esse riso também voltará para você."
+  },
+  {
+    "id": "quo_949",
+    "text": "Há tempo de rir e tempo de chorar. O tempo de chorar também cumpre sua parte.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Eclesiastes",
+    "source": "Eclesiastes 3:4 (paráfrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Hoje é tempo de chorar. Amanhã virá o tempo de rir."
+  },
+  {
+    "id": "quo_950",
+    "text": "Sua mente é sua; o que está fora não é. O que oscila costuma estar fora.",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Marco Aurélio",
+    "source": "Meditações (paráfrase)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Mesmo que fora balance, seu centro quem decide é você."
+  },
+  {
+    "id": "quo_951",
+    "text": "A adversidade é o mestre que forja a pessoa. A fadiga de hoje faz o vaso de amanhã.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caigentan",
+    "source": "Caigentan (paráfrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Seu vaso está crescendo agora. É natural levar tempo."
+  },
+  {
+    "id": "quo_952",
+    "text": "Quem suporta verá sem falta dias bons. A resistência cresce repetindo dias.",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Myeongsim Bogam",
+    "source": "Myeongsim Bogam (paráfrase)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Aguente só hoje. Esses dias se somam e viram força."
+  },
+  {
+    "id": "quo_953",
+    "text": "No campo regado com lágrimas cresce a semente da alegria.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Talmude",
+    "source": "Talmude (paráfrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "As lágrimas de hoje regaram o campo. Amanhã você verá a semente."
+  },
+  {
+    "id": "quo_954",
+    "text": "A felicidade chega ao viver para os outros. Viver só para si encolhe.",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Tolstói",
+    "source": "Tolstói (paráfrase)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Faça hoje uma coisa pequena por alguém."
+  },
+  {
+    "id": "quo_955",
+    "text": "Quando não se sabe se a borboleta sonha ou se sonhas tu, a saudade fica bela como um sonho.",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "Zhuangzi",
+    "source": "Zhuangzi (paráfrase)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Hoje pode sentir saudade como num sonho. Ser belo já basta."
   }
 ]

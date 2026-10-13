@@ -13698,5 +13698,1450 @@
     ],
     "text": "慣れた道は心地よいが、新しい道だけが新しい景色を見せてくれる。",
     "kkaebi_comment": "楽な道ばかり歩いてちゃ、新しい景色は見られんぞ！"
+  },
+  {
+    "id": "quo_871",
+    "text": "見送ることも愛なんだよ。握る手より、放す手のほうが温かいこともある。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "泣かなくても大丈夫。手放した分だけ、相手にもあなたの心が伝わるよ。"
+  },
+  {
+    "id": "quo_872",
+    "text": "恋しさは消えたのではなく、心の片隅に静かに座っている温もりなんだ。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "恋しいというのは、まだ大切だという証。悪いことじゃないよ。"
+  },
+  {
+    "id": "quo_873",
+    "text": "涙が出るのは心が弱いからではなく、それだけ深く抱えてきたからなんだ。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日は思いきり泣いていい。私がそばに座っているから。"
+  },
+  {
+    "id": "quo_874",
+    "text": "別れた場所にも朝は来る。傷は癒えながら、あなたを少し深くする。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "深くなった分だけ温かくなったんだ。今日は窓の外を見てみない？"
+  },
+  {
+    "id": "quo_875",
+    "text": "別れは終わりではなく、それぞれの居場所へ戻る道なんだ。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "自分の場所で元気にしていれば、いつか笑ってまた会えるよ。"
+  },
+  {
+    "id": "quo_876",
+    "text": "突然の別れの前では、どんな言葉も用意できない。だから心が先に泣く。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "言葉が出なくても大丈夫。その沈黙も十分に心だよ。"
+  },
+  {
+    "id": "quo_877",
+    "text": "崩れる音は大きくない。とても静かな瞬間、内側でぷつりと折れる。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "折れたところは後でもっと強くなる。私が支えているから。"
+  },
+  {
+    "id": "quo_878",
+    "text": "ときめきはよく間違えてもいい。心が生きているという、いちばん正直な合図だから。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "胸の高鳴りは恥ずかしいものじゃなく、きらめきなんだ。"
+  },
+  {
+    "id": "quo_879",
+    "text": "涙を流して種を蒔く者は、喜びのうちに刈り取る。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "聖書",
+    "source": "詩篇 126:5（意訳）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日流した涙も種になる。もう少しだけ待ってみよう。"
+  },
+  {
+    "id": "quo_880",
+    "text": "この上なく柔らかなものが、この上なく固いものを打ち負かす。",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "老子",
+    "source": "道徳経（意訳）",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "恋しさも柔らかいから、長く残るんだよ。"
+  },
+  {
+    "id": "quo_881",
+    "text": "悲しみは通り過ぎる客。鍵をかけずに、しばらく留まらせてあげよう。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "客はいずれ去る。あなたの中に居座りはしない。"
+  },
+  {
+    "id": "quo_882",
+    "text": "古い手紙を開く夜も必要だ。恋しさは心を整える仕事だから。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "ゆっくり読んでいい。私たちは待つことを知っている存在だから。"
+  },
+  {
+    "id": "quo_883",
+    "text": "空いた場所は痛みではなく、それだけ満たされていた時間の跡だ。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "空いた分だけ愛したんだ。それは後悔じゃない。"
+  },
+  {
+    "id": "quo_884",
+    "text": "信じていたものが揺れるとき、揺れるのは世界ではなく、自分が立っていた場所だ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "地面が揺れても中心は残っている。もう一度立てばいい。"
+  },
+  {
+    "id": "quo_885",
+    "text": "孤独は人がいないからではなく、自分を理解する時間が足りないから訪れることもある。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は自分に優しい人になってくれる？ そしたら私がそばにいる。"
+  },
+  {
+    "id": "quo_886",
+    "text": "愛した季節は消えない。風が吹くたび、あの温もりで戻ってくる。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "風が吹いたら少し目を閉じてみて。あの温もりが来るよ。"
+  },
+  {
+    "id": "quo_887",
+    "text": "朝が明けても心が遅く起きる日もある。そんな日はゆっくりでいい。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "急がないで。心の朝はあなたの速さで来るから。"
+  },
+  {
+    "id": "quo_888",
+    "text": "一瞬で崩れた計画も立て直せばいい。崩れた場所は基礎を見せてくれる。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "失ったのではなく弱い場所を見つけた。それは得だよ。"
+  },
+  {
+    "id": "quo_889",
+    "text": "好きだという言葉はなぜこんなに遅いのか。心はもう何度も言ったのに。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "心が先に言ったなら半分はできている。ゆっくり残りを言おう。"
+  },
+  {
+    "id": "quo_890",
+    "text": "良い出会いは互いの速さを尊重する。速いほうではなく、一緒に行くほうが長く続く。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日は相手の歩みを一度だけ待ってみて。それが長く続く秘訣。"
+  },
+  {
+    "id": "quo_891",
+    "text": "後悔は過ちではなく、もっと良くなりたい心の別の名前だ。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "後悔できる人は、次にもっと温かくなれる。"
+  },
+  {
+    "id": "quo_892",
+    "text": "戻れない時間を恋しく思うのは、それだけあの時の自分が正直だったからだ。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "あの時のあなたも今のあなたもよく頑張った。両方を抱きしめよう。"
+  },
+  {
+    "id": "quo_893",
+    "text": "悪い知らせは突然来るが、耐える力はゆっくり育つ。だから生きていける。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は一歩だけ耐えればいい。力は明日もっと大きくなる。"
+  },
+  {
+    "id": "quo_894",
+    "text": "別れの挨拶を前もって練習する人は、もう心が傷ついている人だ。その心を先に抱こう。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "練習しなくていい。その瞬間にあなたの速さでやればいい。"
+  },
+  {
+    "id": "quo_895",
+    "text": "ときめきは勇気なしでも始まる。だから一日を輝かせるいちばん簡単な方法だ。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日、胸が高鳴るなら良い合図だよ。"
+  },
+  {
+    "id": "quo_896",
+    "text": "悲しみを抑え込むと体が代わりに泣く。優しく流してあげよう。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "泣きたいなら泣いて。それがいちばん健康な整理だよ。"
+  },
+  {
+    "id": "quo_897",
+    "text": "遠くなった人も、私の心の中ではまだその場所に立っている。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "その場所はあなたが守るもの。誰も勝手に消せない。"
+  },
+  {
+    "id": "quo_898",
+    "text": "傷が癒えるには時間が要る。時間を急かすと傷跡が深くなる。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日は何もしなくていい。休むことも治療だよ。"
+  },
+  {
+    "id": "quo_899",
+    "text": "予想外のことには心が先に止まる。そのときは息を整えて一歩だけ進もう。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "止まった心も大丈夫。また動く前の休符にすぎない。"
+  },
+  {
+    "id": "quo_900",
+    "text": "愛は大きな場面より小さな習慣に残る。ドアを閉めてくれる手のように。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日、小さな優しさを一つ作ってみない？ それが長く残る。"
+  },
+  {
+    "id": "quo_901",
+    "text": "別れた後も季節は巡る。あなたも少しずつ自分の場所へ戻っていく。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日はごはんをちゃんと食べよう。それが回復の始まり。"
+  },
+  {
+    "id": "quo_902",
+    "text": "恋しさは二人の距離を測る物差しではなく、心の深さを測る物差しだ。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "深いほどよく愛したということ。それは誇っていい。"
+  },
+  {
+    "id": "quo_903",
+    "text": "何もできなかった一日も、心は懸命に耐えた。その一日を軽く見ないで。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "耐えたこともやり遂げたこと。今夜はそれで十分。"
+  },
+  {
+    "id": "quo_904",
+    "text": "ずれたことは戻すより、合わせ直すほうが速い。今日は合わせる日だ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "一つだけ直そう。一つ直せば残りもついてくる。"
+  },
+  {
+    "id": "quo_905",
+    "text": "一緒に笑った人とは、別れてもまた会えるようにできている。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "その人との笑いを思い出して。道はまだ残っている証だよ。"
+  },
+  {
+    "id": "quo_906",
+    "text": "悲しみは分かち合う人がいないとき大きくなる。だから今日は誰にでも話していい。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "話したいなら私にでも話して。私は聞き上手なほうだよ。"
+  },
+  {
+    "id": "quo_907",
+    "text": "思い出は掴むものではなく、ときどき開くアルバムで十分だ。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日は一枚だけ開こう。残りは明日のあなたが見ればいい。"
+  },
+  {
+    "id": "quo_908",
+    "text": "別れが上手な人は未練を長く引かない。ただ思い出す回数が少ないだけだ。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "忘れるのではなく、痛みを減らすこと。それが優しさだよ。"
+  },
+  {
+    "id": "quo_909",
+    "text": "大きな衝撃の後は小さな日常が薬になる。ごはん、水、睡眠。まずその三つ。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日は水を一杯から始めよう。体が先に癒えれば心もついてくる。"
+  },
+  {
+    "id": "quo_910",
+    "text": "告白は勇気の問題ではなく、相手を尊重する準備の問題だ。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "準備できたら今日言ってもいい。でなければ明日でも。"
+  },
+  {
+    "id": "quo_911",
+    "text": "泣き疲れて眠る夜も、朝には少し軽くなっている。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今夜はよく眠って。明日のあなたは少し軽いよ。"
+  },
+  {
+    "id": "quo_912",
+    "text": "会いたいという言葉は弱さではなく、まだ情が生きている証拠だ。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "その気持ちはそのままにしよう。生きている心はいずれまた育つ。"
+  },
+  {
+    "id": "quo_913",
+    "text": "完璧に整理された悲しみはない。少し乱れたまま生きていてもいい。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "整理できなくても生きていける。それが人というものだよ。"
+  },
+  {
+    "id": "quo_914",
+    "text": "説明できないことに出会ったら、説明より先にそばにいてくれる人が必要だ。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は私が静かにそばにいる。言葉は明日でもいい。"
+  },
+  {
+    "id": "quo_915",
+    "text": "古い愛は炎より温もりに近い。熱くなくても長く温かい。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日はそばにある温もりを数えてみて。思ったより多いよ。"
+  },
+  {
+    "id": "quo_916",
+    "text": "悲しみは名前をつけてあげると少し大人しくなる。今日のあなたの悲しみの名前は何？",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "名づけられなくても大丈夫。あると知っているだけで十分。"
+  },
+  {
+    "id": "quo_917",
+    "text": "心が重い日は決断を先延ばしにしていい。重い日の決断は長く痛む。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日は決めないでおこう。明日のあなたがもっと軽く選ぶよ。"
+  },
+  {
+    "id": "quo_918",
+    "text": "去った人を憎まなくてもいい。憎しみはあなたをより長く掴む。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "憎しみの代わりに距離を置こう。それがあなたを守る方法。"
+  },
+  {
+    "id": "quo_919",
+    "text": "一人の夜が長いほど、朝の音が嬉しくなる。今夜もきっと過ぎていく。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "夜が長くても終わりはある。私が夜明けを数えてあげる。"
+  },
+  {
+    "id": "quo_920",
+    "text": "昔の写真を長く眺めていると、あの時の自分が今の自分を慰めてくれる。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "あの時のあなたが今も応援している。信じていいよ。"
+  },
+  {
+    "id": "quo_921",
+    "text": "また会いたい人がいるというのは、まだ心が温かいという意味だ。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "その温もりを大切にしよう。いつか使う日が来る。"
+  },
+  {
+    "id": "quo_922",
+    "text": "恋しさは忘れないという静かな約束だ。誰にも言わなくても守られる。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "約束は言わなくても守れる。私はそれを見守る存在だよ。"
+  },
+  {
+    "id": "quo_923",
+    "text": "時間はすべてを消さない。ただ扱える温度まで冷ましてくれる。",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "熱い記憶も少し冷めれば長く見ていられる。"
+  },
+  {
+    "id": "quo_924",
+    "text": "初めて聞く知らせに体が固まったら、つま先から動かしてみよう。心は後からついてくる。",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "一歩だけ動けばいい。それが回復の始まり。"
+  },
+  {
+    "id": "quo_925",
+    "text": "大きなことと小さなことを一緒に見ると余計に怖い。今やる一つだけを見よう。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "一つだけ選ぼう。残りは明日のあなたが選ぶ。"
+  },
+  {
+    "id": "quo_926",
+    "text": "愛は確かめようと努めると遠ざかる。ただそばにいるだけで近くなる。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は確かめる代わりにそばにいよう。それがもっと大きな言葉。"
+  },
+  {
+    "id": "quo_927",
+    "text": "ありがとうは愛のいちばん静かな形だ。今日一度だけ伝えてみよう。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "近しい人に先に言ってみて。驚くほど近くなるよ。"
+  },
+  {
+    "id": "quo_928",
+    "text": "一緒に食事をすることは小さくても、互いの一日を分かち合う大きなことだ。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日誰かと食べるなら、その時間を丸ごとあげてみて。"
+  },
+  {
+    "id": "quo_929",
+    "text": "愛は互いの空いた所を埋めることではなく、空いた所を一緒に耐えることだ。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "空いた所は埋まらなくていい。一緒なら耐えられる。"
+  },
+  {
+    "id": "quo_930",
+    "text": "長く愛する方法は単純だ。今日のその人を昨日と違って見ること。",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日ひとつ新しい発見をしてみて。それが長く続く秘訣。"
+  },
+  {
+    "id": "quo_931",
+    "text": "好きという心は隠せば小さくなり、表せば少しずつ育つ。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "小さな表現ひとつで十分。今日は笑顔でも送ってみる？"
+  },
+  {
+    "id": "quo_932",
+    "text": "ときめく心は間違った心ではない。まだ準備中の心にすぎない。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "準備中でもいい。いつでも言えるから。"
+  },
+  {
+    "id": "quo_933",
+    "text": "告白する前のときめきは、それ自体が贈り物だ。今日はそれを味わおう。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "言わなくても大丈夫。今日の高鳴りだけで十分。"
+  },
+  {
+    "id": "quo_934",
+    "text": "初めて会った人にときめくなら、それは新しい季節が来た合図だ。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "新しい季節はゆっくり迎えていい。急ぐ必要はない。"
+  },
+  {
+    "id": "quo_935",
+    "text": "ときめきは分かち合うと二倍になる。今日その気持ちをどこかに書き留めよう。",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "紙に書いてみて。後で読むとあの日の温度が残っている。"
+  },
+  {
+    "id": "quo_936",
+    "text": "涙が出ない悲しみもある。そんな悲しみは体を休めると少しほどける。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は早く横になろう。体が休めば心も少しほどける。"
+  },
+  {
+    "id": "quo_937",
+    "text": "泣き声を聞かれたくない日は窓を開けてもいい。風は秘密を守る。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "風に任せよう。私も誰にも言わない。"
+  },
+  {
+    "id": "quo_938",
+    "text": "喪失は長く号泣することではなく、ゆっくり受け入れることだ。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日はひとかけらだけ受け入れよう。残りはゆっくりでいい。"
+  },
+  {
+    "id": "quo_939",
+    "text": "残された者の務めは生きていくことだ。それは忘れることとは違う。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "生きていくのは裏切りじゃない。その人もそれを望むはず。"
+  },
+  {
+    "id": "quo_940",
+    "text": "突然の変化の前で計画を掴まないでおこう。掴むほど手が傷つく。",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "手を開こう。失ったのではなく、空けたんだ。"
+  },
+  {
+    "id": "quo_941",
+    "text": "悲しみを乗り越えろという言葉は間違っている。悲しみと共に生きる術を学べばいい。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "乗り越えなくていい。そばに置いて生きていけばいい。"
+  },
+  {
+    "id": "quo_942",
+    "text": "悲しみの中でも感謝できるものを一つ見つけると、心の温度が少し上がる。",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日ひとつだけ探してみよう。小さくてもいい。"
+  },
+  {
+    "id": "quo_943",
+    "text": "恋しい人の名前を声に出して呼んでみよう。心が少し楽になる。",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "静かに一度呼んでみて。私は聞いているだけだから。"
+  },
+  {
+    "id": "quo_944",
+    "text": "今日の小さな始まりが明日の大きな変化になる。始まりはいつも静かだ。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日ひとつだけ始めよう。小さくても本当の始まり。"
+  },
+  {
+    "id": "quo_945",
+    "text": "まだ遅くないという言葉は慰めではなく事実だ。今日も扉は開いている。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "もう一度やってみよう。今日の扉はまだ閉じていない。"
+  },
+  {
+    "id": "quo_946",
+    "text": "待つ人には時間が長いが、会う瞬間にすべての計算が消える。",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "待つことも準備の一種。今日もう一歩準備しよう。"
+  },
+  {
+    "id": "quo_947",
+    "text": "小さな喜びを大きく味わう人が長く幸せだ。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日出会った小さな喜びに、大きく笑おう。"
+  },
+  {
+    "id": "quo_948",
+    "text": "笑いは伝染する。今日誰かを笑わせると、一日が二度楽しくなる。",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "トッケビ知恵ノート",
+    "source": "DOK-KEY 知恵コレクション",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日一人だけ笑わせてみよう。その笑いはあなたにも戻る。"
+  },
+  {
+    "id": "quo_949",
+    "text": "笑う時があり、泣く時がある。泣く時間もその役目を果たす。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "伝道者の書",
+    "source": "伝道者の書 3:4（意訳）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "今日は泣く時。明日は笑う時が来るよ。"
+  },
+  {
+    "id": "quo_950",
+    "text": "あなたの心はあなたのもの、外の出来事はあなたのものではない。揺れるのはたいてい外だ。",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "マルクス・アウレリウス",
+    "source": "自省録（意訳）",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "外が揺れても、中心はあなたが決めよう。"
+  },
+  {
+    "id": "quo_951",
+    "text": "逆境は人を鍛える師だ。今の苦労は後の器を作る。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "菜根譚",
+    "source": "菜根譚（意訳）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今、器が少しずつ大きくなっている。時間がかかって当然だよ。"
+  },
+  {
+    "id": "quo_952",
+    "text": "耐え忍べば必ず良い日が来る。耐える力は一日の積み重ねで育つ。",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "明心宝鑑",
+    "source": "明心宝鑑（意訳）",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "今日一日だけ耐えよう。その一日が積もって力になる。"
+  },
+  {
+    "id": "quo_953",
+    "text": "涙で濡れた畑に喜びの種が育つ。",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "タルムード",
+    "source": "タルムード（意訳）",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日の涙が畑を濡らした。種は明日見られるよ。"
+  },
+  {
+    "id": "quo_954",
+    "text": "幸福は人のために生きるときに来る。自分のためだけに生きると縮こまる。",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "トルストイ",
+    "source": "トルストイ（意訳）",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "今日、誰かのために小さなことを一つしてみよう。"
+  },
+  {
+    "id": "quo_955",
+    "text": "蝶が夢か私が夢か分からないとき、恋しさも夢のように美しくなる。",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "荘子",
+    "source": "荘子（意訳）",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "今日は夢のように恋しがってもいい。美しければ十分。"
   }
 ]

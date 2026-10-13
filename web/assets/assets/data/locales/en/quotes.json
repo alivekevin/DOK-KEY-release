@@ -13698,5 +13698,1450 @@
     ],
     "text": "Familiar roads are easy, but only untrodden paths grant new vistas.",
     "kkaebi_comment": "Comfortable trails never show you fresh horizons!"
+  },
+  {
+    "id": "quo_871",
+    "text": "Letting go can also be love. Sometimes the hand that releases is warmer than the hand that holds.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "You don't have to cry. As much as you let go, they will understand your heart too."
+  },
+  {
+    "id": "quo_872",
+    "text": "Longing is not something lost; it is warmth quietly seated in a corner of your heart.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Missing someone proves they still matter. That is not a bad thing."
+  },
+  {
+    "id": "quo_873",
+    "text": "Tears flow not because the heart is weak, but because it held so much.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "You may cry as much as you need today. I will sit right beside you."
+  },
+  {
+    "id": "quo_874",
+    "text": "Morning comes even where a farewell happened. As wounds heal, they make you a little deeper.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "You grew deeper, so you grew warmer. Would you look out the window today?"
+  },
+  {
+    "id": "quo_875",
+    "text": "Parting is not an ending; it is the road back to each other's own place.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "If you live well where you are, one day you will meet again with a smile."
+  },
+  {
+    "id": "quo_876",
+    "text": "Before a sudden goodbye, no words are ready. That is why the heart weeps first.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "It is fine if words will not come. That silence is feeling enough."
+  },
+  {
+    "id": "quo_877",
+    "text": "Collapse is not loud. In a very quiet moment, something inside simply snaps.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "What broke becomes stronger later. I will hold on for you."
+  },
+  {
+    "id": "quo_878",
+    "text": "It is fine if fluttering feelings are often wrong. It is the most honest sign that your heart is alive.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "shy"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "A racing heart is not embarrassing; it is sparkling."
+  },
+  {
+    "id": "quo_879",
+    "text": "Those who sow in tears will reap with songs of joy.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Bible",
+    "source": "Psalms 126:5 (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Even today's tears become seeds. Let us wait a little."
+  },
+  {
+    "id": "quo_880",
+    "text": "The softest thing overcomes the hardest.",
+    "category": "classic",
+    "tone_tags": [
+      "wisdom",
+      "calm"
+    ],
+    "author": "Laozi",
+    "source": "Tao Te Ching (paraphrase)",
+    "theme": "comfort",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Longing lasts because it is soft, too."
+  },
+  {
+    "id": "quo_881",
+    "text": "Sadness is a passing guest. Do not lock the door; let it stay a while.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Guests leave eventually. It will not settle inside you forever."
+  },
+  {
+    "id": "quo_882",
+    "text": "Some nights you need to reread old letters. Longing is how the heart tidies itself.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Take your time reading. We are creatures who know how to wait."
+  },
+  {
+    "id": "quo_883",
+    "text": "An empty place is not pain; it is the trace of time that was filled to the brim.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "You loved as much as the space left empty. That is not regret."
+  },
+  {
+    "id": "quo_884",
+    "text": "When what you trusted shakes, it is not the world but the ground beneath you that trembles.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Even if the ground shakes, your center remains. Just stand again."
+  },
+  {
+    "id": "quo_885",
+    "text": "Loneliness sometimes comes not from being alone, but from lacking time to understand yourself.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Will you be kind to yourself today? Then I will stay beside you."
+  },
+  {
+    "id": "quo_886",
+    "text": "The season you loved does not disappear. Whenever the wind blows, it returns at that same warmth.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "When the wind blows, close your eyes for a moment. That warmth will come back."
+  },
+  {
+    "id": "quo_887",
+    "text": "Some days the morning breaks but the heart rises late. On such days, being slow is fine.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Do not rush. Your heart's morning comes at your own pace."
+  },
+  {
+    "id": "quo_888",
+    "text": "A plan that collapsed in a moment can be rebuilt. The collapse shows you where the foundation was.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "You did not lose it; you found the weak spot. That is a gain."
+  },
+  {
+    "id": "quo_889",
+    "text": "Why does the word love come out so late? The heart has already said it many times.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "If the heart spoke first, you are halfway there. Let us say the rest slowly."
+  },
+  {
+    "id": "quo_890",
+    "text": "A good meeting respects each other's pace. Going together, not going fast, lasts long.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Today, wait for their steps just once. That is the secret to lasting."
+  },
+  {
+    "id": "quo_891",
+    "text": "Regret is not a mistake; it is another name for wanting to become better.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Someone who can feel regret can be warmer next time."
+  },
+  {
+    "id": "quo_892",
+    "text": "Missing a time you cannot return to means you were honest back then.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Both then and now, you tried so hard. Let us hold both."
+  },
+  {
+    "id": "quo_893",
+    "text": "Bad news arrives suddenly, but the strength to bear it grows slowly. That is how we live on.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Just endure one step today. Tomorrow your strength will be greater."
+  },
+  {
+    "id": "quo_894",
+    "text": "Those who rehearse goodbyes have already hurt. Hold that heart first.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "You do not need to rehearse. Do it at your own pace in that moment."
+  },
+  {
+    "id": "quo_895",
+    "text": "Fluttering starts without courage. That makes it the easiest way to brighten a day.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "If your heart races today, that is a good sign."
+  },
+  {
+    "id": "quo_896",
+    "text": "If you suppress sorrow, the body weeps for you. Let it flow out gently.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "If you want to cry, cry. That is the healthiest way to tidy up."
+  },
+  {
+    "id": "quo_897",
+    "text": "Even someone far away still stands in their place inside your heart.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "You keep that place. No one can erase it carelessly."
+  },
+  {
+    "id": "quo_898",
+    "text": "Wounds need time to heal. Rushing time only deepens the scar.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "It is fine to do nothing today. Resting is also healing."
+  },
+  {
+    "id": "quo_899",
+    "text": "At the unexpected, the heart stops first. Breathe, then take a single step.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "A paused heart is fine. It is just a comma before beating again."
+  },
+  {
+    "id": "quo_900",
+    "text": "Love lingers more in small habits than grand scenes. Like a hand closing the door for you.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Will you make one small kindness today? That is what lasts."
+  },
+  {
+    "id": "quo_901",
+    "text": "Seasons return even after farewells. You, too, will return to yourself, little by little.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Let us eat one good meal today. That is where recovery begins."
+  },
+  {
+    "id": "quo_902",
+    "text": "Longing does not measure the distance between two people; it measures the depth of the heart.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "As deep as it is, that is how well you loved. That is something to be proud of."
+  },
+  {
+    "id": "quo_903",
+    "text": "Even on a day you did nothing, your heart endured hard. Do not belittle that day.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Enduring is also an achievement. Tonight, that is enough."
+  },
+  {
+    "id": "quo_904",
+    "text": "What went wrong is faster to realign than to undo. Today is a day for realigning.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Let us fix one thing. Fixing one brings the rest along."
+  },
+  {
+    "id": "quo_905",
+    "text": "Those who have laughed together are bound to meet again, even after goodbye.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Think of the laughter you shared. It means the road is still open."
+  },
+  {
+    "id": "quo_906",
+    "text": "Sorrow grows when there is no one to share it. So today, tell anyone at all.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "If you want to talk, talk to me. I am a good listener."
+  },
+  {
+    "id": "quo_907",
+    "text": "Memories are not for holding onto; an album you open now and then is enough.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Open just one page today. Tomorrow's you can see the rest."
+  },
+  {
+    "id": "quo_908",
+    "text": "Those who say goodbye well do not drag regrets; they simply recall them less often.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "It is not forgetting, but hurting less. That is tenderness."
+  },
+  {
+    "id": "quo_909",
+    "text": "After a great shock, small routines become medicine. Food, water, sleep — those three come first.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Start with a glass of water today. When the body recovers first, the heart follows."
+  },
+  {
+    "id": "quo_910",
+    "text": "Confessing is not a matter of courage, but of being ready to respect the other.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "If you are ready, you may say it today. If not, tomorrow is fine."
+  },
+  {
+    "id": "quo_911",
+    "text": "Even a night of crying yourself to sleep is a little lighter by morning.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Sleep well tonight. Tomorrow's you will be a little lighter."
+  },
+  {
+    "id": "quo_912",
+    "text": "Saying I miss you is not weak; it is proof that affection is still alive.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Let that feeling be. A living heart grows again someday."
+  },
+  {
+    "id": "quo_913",
+    "text": "There is no perfectly organized sorrow. It is fine to live with it a little messy.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "You can live even without tidying it up. That is what being human is."
+  },
+  {
+    "id": "quo_914",
+    "text": "When you meet something unexplainable, you need someone beside you more than an explanation.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Today I will simply stay quietly beside you. Words can wait until tomorrow."
+  },
+  {
+    "id": "quo_915",
+    "text": "Old love is closer to warmth than to flame. It stays warm long without being hot.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Today, count the warmth beside you. There is more than you think."
+  },
+  {
+    "id": "quo_916",
+    "text": "Sorrow calms a little once you name it. What is the name of your sorrow today?",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "It is fine if you cannot name it. Knowing it is there is enough."
+  },
+  {
+    "id": "quo_917",
+    "text": "On heavy-hearted days you may postpone decisions. Decisions made heavy linger painfully.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Let us not decide today. Tomorrow's you will choose more lightly."
+  },
+  {
+    "id": "quo_918",
+    "text": "You do not have to hate the one who left. Hatred holds you longer than it holds them.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Instead of hate, keep a distance. That is how you protect yourself."
+  },
+  {
+    "id": "quo_919",
+    "text": "The longer a night alone, the more welcome the sound of morning. Tonight will pass too.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "However long the night, it ends. I will count the dawn for you."
+  },
+  {
+    "id": "quo_920",
+    "text": "If you look at old photos long enough, the you of back then comforts the you of now.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "The you of back then is still cheering for you. You can believe that."
+  },
+  {
+    "id": "quo_921",
+    "text": "Having someone you want to meet again means your heart is still warm.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Let us treasure that warmth. Someday you will need it."
+  },
+  {
+    "id": "quo_922",
+    "text": "Longing is a quiet promise not to forget. It holds even unspoken.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "A promise can be kept unspoken. I am the one who watches over that."
+  },
+  {
+    "id": "quo_923",
+    "text": "Time does not erase everything. It only cools it to a temperature you can handle.",
+    "category": "insight",
+    "tone_tags": [
+      "farewell",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Once a hot memory cools, you can look at it longer."
+  },
+  {
+    "id": "quo_924",
+    "text": "If your body freezes at news, move your toes first. The heart follows.",
+    "category": "insight",
+    "tone_tags": [
+      "mystery",
+      "conflict"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "One step is enough. That is where recovery begins."
+  },
+  {
+    "id": "quo_925",
+    "text": "Looking at big and small things together makes them scarier. Look at just the one thing now.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Choose just one. Tomorrow's you will choose the rest."
+  },
+  {
+    "id": "quo_926",
+    "text": "Love drifts away when you try hard to be reassured. It comes close when you simply stay.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Today, stay instead of seeking proof. That is the bigger word."
+  },
+  {
+    "id": "quo_927",
+    "text": "Thank you is the quietest form of love. Say it just once today.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Say it to someone close first. You will grow startlingly closer."
+  },
+  {
+    "id": "quo_928",
+    "text": "Eating together is small, yet it is a big act of sharing each other's day.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "If you share a meal today, give that time fully."
+  },
+  {
+    "id": "quo_929",
+    "text": "Love is not filling each other's gaps, but enduring those gaps together.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Gaps need not be filled. Together, they become bearable."
+  },
+  {
+    "id": "quo_930",
+    "text": "The way to love long is simple: see today's them differently from yesterday's.",
+    "category": "insight",
+    "tone_tags": [
+      "love",
+      "zen"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "love",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Discover one new thing today. That is the secret to lasting."
+  },
+  {
+    "id": "quo_931",
+    "text": "A liking heart shrinks when hidden and grows little by little when expressed.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "hope"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "One small expression is enough. Send a smile today?"
+  },
+  {
+    "id": "quo_932",
+    "text": "A fluttering heart is not a wrong heart. It is just a heart still preparing.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Preparing is fine. You can say it whenever."
+  },
+  {
+    "id": "quo_933",
+    "text": "The flutter before a confession is a gift in itself. Enjoy it today.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "It is fine not to say it. Today's fluttering is enough."
+  },
+  {
+    "id": "quo_934",
+    "text": "If a new acquaintance makes your heart flutter, it signals a new season.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "You may welcome a new season slowly. No need to hurry."
+  },
+  {
+    "id": "quo_935",
+    "text": "Sharing fluttering makes it twice as big. Write that feeling somewhere today.",
+    "category": "insight",
+    "tone_tags": [
+      "shy",
+      "joy"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "love",
+    "emotion": "shy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Write it down. Later, the warmth of that day will remain."
+  },
+  {
+    "id": "quo_936",
+    "text": "Some sorrow does not weep. Resting the body loosens that kind of sorrow.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Let us lie down early tonight. When the body rests, the heart loosens."
+  },
+  {
+    "id": "quo_937",
+    "text": "On days you do not want your crying heard, open the window. The wind keeps secrets.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "lonely"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Leave it to the wind. I will not tell anyone either."
+  },
+  {
+    "id": "quo_938",
+    "text": "Loss is not long wailing, but slowly accepting.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Accept just one piece today. The rest can go slowly."
+  },
+  {
+    "id": "quo_939",
+    "text": "The task left to those who remain is to live on. That is different from forgetting.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "farewell",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Living on is not betrayal. They would want that too."
+  },
+  {
+    "id": "quo_940",
+    "text": "Before sudden change, do not grip your plans. The tighter you hold, the more your hands hurt.",
+    "category": "insight",
+    "tone_tags": [
+      "conflict",
+      "sad"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Open your hands. You did not lose it; you emptied them."
+  },
+  {
+    "id": "quo_941",
+    "text": "Being told to overcome sorrow is wrong. Learn to live alongside it instead.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "You do not have to overcome it. Keep it beside you and live."
+  },
+  {
+    "id": "quo_942",
+    "text": "Finding one thing to be grateful for inside sorrow raises your heart's temperature a little.",
+    "category": "insight",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Find just one today. Even a tiny one is fine."
+  },
+  {
+    "id": "quo_943",
+    "text": "Say aloud the name of the one you miss. Your heart eases a little.",
+    "category": "insight",
+    "tone_tags": [
+      "lonely",
+      "love"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Say it once, quietly. I will only listen."
+  },
+  {
+    "id": "quo_944",
+    "text": "Today's small start becomes tomorrow's big change. Beginnings are always quiet.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "calm"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Start just one thing today. Small, but a real start."
+  },
+  {
+    "id": "quo_945",
+    "text": "It is not too late is not comfort but fact. The door is open again today.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "fire"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Try once more. Today's door is not closed yet."
+  },
+  {
+    "id": "quo_946",
+    "text": "Time is long for one who waits, but the moment of meeting erases every count.",
+    "category": "insight",
+    "tone_tags": [
+      "hope",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Waiting is a kind of preparation. Prepare one more step today."
+  },
+  {
+    "id": "quo_947",
+    "text": "Those who enjoy small joys greatly stay happy longer.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "wisdom"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "comfort",
+    "emotion": "joy",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Laugh big at one small joy you met today."
+  },
+  {
+    "id": "quo_948",
+    "text": "Laughter is contagious. Making someone laugh doubles your own day.",
+    "category": "insight",
+    "tone_tags": [
+      "joy",
+      "meeting"
+    ],
+    "author": "Kkaebi Wisdom Notes",
+    "source": "DOK-KEY Wisdom Collection",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Make one person laugh today. That laughter returns to you."
+  },
+  {
+    "id": "quo_949",
+    "text": "There is a time to laugh and a time to weep. The hour of weeping does its own work.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Ecclesiastes",
+    "source": "Ecclesiastes 3:4 (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "evening"
+    ],
+    "kkaebi_comment": "Today is for weeping. Tomorrow a time to laugh will come."
+  },
+  {
+    "id": "quo_950",
+    "text": "Your mind is yours; outer events are not. What shakes is usually outside.",
+    "category": "classic",
+    "tone_tags": [
+      "conflict",
+      "calm"
+    ],
+    "author": "Marcus Aurelius",
+    "source": "Meditations (paraphrase)",
+    "theme": "comfort",
+    "emotion": "shock",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Even when the outside shakes, let your center be your own."
+  },
+  {
+    "id": "quo_951",
+    "text": "Adversity is the teacher that forges a person. Today's hardship shapes tomorrow's vessel.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Caigentan",
+    "source": "Caigentan (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Your vessel is growing larger now. Of course it takes time."
+  },
+  {
+    "id": "quo_952",
+    "text": "Endure, and a good day surely comes. Endurance grows by repeating days.",
+    "category": "classic",
+    "tone_tags": [
+      "hope",
+      "wisdom"
+    ],
+    "author": "Myeongsim Bogam",
+    "source": "Myeongsim Bogam (paraphrase)",
+    "theme": "hope",
+    "emotion": "hope",
+    "time_slot": [
+      "morning"
+    ],
+    "kkaebi_comment": "Endure just today. Those days stack into strength."
+  },
+  {
+    "id": "quo_953",
+    "text": "In a field watered by tears, seeds of joy grow.",
+    "category": "classic",
+    "tone_tags": [
+      "sad",
+      "wisdom"
+    ],
+    "author": "Talmud",
+    "source": "Talmud (paraphrase)",
+    "theme": "comfort",
+    "emotion": "sad",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Today's tears watered the field. You can see the seeds tomorrow."
+  },
+  {
+    "id": "quo_954",
+    "text": "Happiness comes when you live for others. Living only for yourself makes you shrink.",
+    "category": "classic",
+    "tone_tags": [
+      "joy",
+      "love"
+    ],
+    "author": "Tolstoy",
+    "source": "Tolstoy (paraphrase)",
+    "theme": "joy",
+    "emotion": "joy",
+    "time_slot": [
+      "noon"
+    ],
+    "kkaebi_comment": "Do one small thing for someone today."
+  },
+  {
+    "id": "quo_955",
+    "text": "When you cannot tell whether the butterfly dreams you or you dream it, longing turns dreamlike and beautiful.",
+    "category": "classic",
+    "tone_tags": [
+      "lonely",
+      "wisdom"
+    ],
+    "author": "Zhuangzi",
+    "source": "Zhuangzi (paraphrase)",
+    "theme": "nostalgia",
+    "emotion": "longing",
+    "time_slot": [
+      "night"
+    ],
+    "kkaebi_comment": "Today you may long dreamlike. Being beautiful is enough."
   }
 ]
