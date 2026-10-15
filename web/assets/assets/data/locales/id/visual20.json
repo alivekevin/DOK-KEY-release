@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍎 Buah apakah ini?",
+    "options": [
+      "Apel",
+      "Pisang",
+      "Ceri",
+      "Anggur"
+    ],
+    "answer_index": 0,
+    "explanation": "Apel 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍌 Buah apakah ini?",
+    "options": [
+      "Jeruk",
+      "Pisang",
+      "Persik",
+      "Lemon"
+    ],
+    "answer_index": 1,
+    "explanation": "Pisang 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍇 Buah apakah ini?",
+    "options": [
+      "Stroberi",
+      "Persik",
+      "Anggur",
+      "Semangka"
+    ],
+    "answer_index": 2,
+    "explanation": "Anggur 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍓 Buah apakah ini?",
+    "options": [
+      "Stroberi",
+      "Melon",
+      "Ceri",
+      "Kiwi"
+    ],
+    "answer_index": 0,
+    "explanation": "Stroberi 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍉 Buah apakah ini?",
+    "options": [
+      "Mangga",
+      "Semangka",
+      "Pepaya",
+      "Alpukat"
+    ],
+    "answer_index": 1,
+    "explanation": "Semangka 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍊 Buah apakah ini?",
+    "options": [
+      "Lemon",
+      "Limau",
+      "Jeruk",
+      "Jeruk Bali"
+    ],
+    "answer_index": 2,
+    "explanation": "Jeruk 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍒 Buah apakah ini?",
+    "options": [
+      "Blueberry",
+      "Ceri",
+      "Plum",
+      "Zaitun"
+    ],
+    "answer_index": 1,
+    "explanation": "Ceri 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐱 Hewan lucu apakah ini?",
+    "options": [
+      "Kucing",
+      "Anjing",
+      "Rubah",
+      "Kelinci"
+    ],
+    "answer_index": 0,
+    "explanation": "Kucing 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐶 Siapakah sahabat setia manusia ini?",
+    "options": [
+      "Serigala",
+      "Anjing",
+      "Beruang",
+      "Harimau"
+    ],
+    "answer_index": 1,
+    "explanation": "Anjing 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐼 Hewan menggemaskan pemakan bambu ini adalah?",
+    "options": [
+      "Koala",
+      "Kukang",
+      "Panda",
+      "Rakun"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🦁 Siapakah raja sabana ini?",
+    "options": [
+      "Singa",
+      "Citah",
+      "Macan Tutul",
+      "Kumbang"
+    ],
+    "answer_index": 0,
+    "explanation": "Singa 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐯 Hewan buas bergaris indah ini adalah?",
+    "options": [
+      "Hiena",
+      "Jaguar",
+      "Harimau",
+      "Serigala"
+    ],
+    "answer_index": 2,
+    "explanation": "Harimau 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐬 Hewan laut perenang yang ramah ini adalah?",
+    "options": [
+      "Hiu",
+      "Lumba-lumba",
+      "Paus",
+      "Anjing Laut"
+    ],
+    "answer_index": 1,
+    "explanation": "Lumba-lumba 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐘 Hewan raksasa berbelalai panjang ini adalah?",
+    "options": [
+      "Kuda Nil",
+      "Badak",
+      "Gajah",
+      "Jerapah"
+    ],
+    "answer_index": 2,
+    "explanation": "Gajah 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "✈️ Kendaraan yang terbang melintasi langit adalah?",
+    "options": [
+      "Pesawat",
+      "Helikopter",
+      "Roket",
+      "Drone"
+    ],
+    "answer_index": 0,
+    "explanation": "Pesawat ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Visual",
+    "difficulty": 3,
+    "question": "🚀 Kendaraan yang meluncur ke luar angkasa adalah?",
+    "options": [
+      "Satelit",
+      "Roket",
+      "Meteor",
+      "Komet"
+    ],
+    "answer_index": 1,
+    "explanation": "Roket 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚢 Kendaraan yang berlayar melintasi samudra adalah?",
+    "options": [
+      "Kapal Selam",
+      "Perahu",
+      "Kapal",
+      "Kano"
+    ],
+    "answer_index": 2,
+    "explanation": "Kapal 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚗 Kendaraan yang melaju di jalan raya adalah?",
+    "options": [
+      "Mobil",
+      "Truk",
+      "Sepeda Motor",
+      "Skuter"
+    ],
+    "answer_index": 0,
+    "explanation": "Mobil 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚌 Angkutan umum yang membawa banyak penumpang adalah?",
+    "options": [
+      "Van",
+      "Taksi",
+      "Bus",
+      "Ambulans"
+    ],
+    "answer_index": 2,
+    "explanation": "Bus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚒 Kendaraan darurat pemadam kebakaran adalah?",
+    "options": [
+      "Mobil Polisi",
+      "Mobil Pemadam",
+      "Mobil Derek",
+      "Buldoser"
+    ],
+    "answer_index": 1,
+    "explanation": "Mobil Pemadam 🚒",
+    "reward_coins": 10
+  }
+]

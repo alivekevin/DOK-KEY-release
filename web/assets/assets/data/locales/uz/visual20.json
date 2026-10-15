@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍎 Bu qaysi meva?",
+    "options": [
+      "Olma",
+      "Banan",
+      "Gilos",
+      "Uzum"
+    ],
+    "answer_index": 0,
+    "explanation": "Olma 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍌 Bu qaysi meva?",
+    "options": [
+      "Apelsin",
+      "Banan",
+      "Shaftoli",
+      "Limon"
+    ],
+    "answer_index": 1,
+    "explanation": "Banan 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍇 Bu qaysi meva?",
+    "options": [
+      "Qulupnay",
+      "Shaftoli",
+      "Uzum",
+      "Tarvuz"
+    ],
+    "answer_index": 2,
+    "explanation": "Uzum 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍓 Bu qaysi meva?",
+    "options": [
+      "Qulupnay",
+      "Qovun",
+      "Gilos",
+      "Kivi"
+    ],
+    "answer_index": 0,
+    "explanation": "Qulupnay 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍉 Bu qaysi meva?",
+    "options": [
+      "Mango",
+      "Tarvuz",
+      "Papayya",
+      "Avokado"
+    ],
+    "answer_index": 1,
+    "explanation": "Tarvuz 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍊 Bu qaysi meva?",
+    "options": [
+      "Limon",
+      "Laym",
+      "Apelsin",
+      "Greypfrut"
+    ],
+    "answer_index": 2,
+    "explanation": "Apelsin 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍒 Bu qaysi meva?",
+    "options": [
+      "Chernika",
+      "Olcha",
+      "Olxo'ri",
+      "Zaytun"
+    ],
+    "answer_index": 1,
+    "explanation": "Olcha 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐱 Bu yoqimli jonivor nima?",
+    "options": [
+      "Mushuk",
+      "Kuchuk",
+      "Tulki",
+      "Quyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Mushuk 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐶 Insonning sodiq do'sti kim?",
+    "options": [
+      "Bo'ri",
+      "Kuchuk",
+      "Ayiq",
+      "Yo'lbars"
+    ],
+    "answer_index": 1,
+    "explanation": "Kuchuk 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐼 Bambukni yaxshi ko'radigan yoqimli hayvon?",
+    "options": [
+      "Koala",
+      "Yalqov",
+      "Panda",
+      "Yelik"
+    ],
+    "answer_index": 2,
+    "explanation": "Panda 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🦁 Savannaning shohi kim?",
+    "options": [
+      "Sher",
+      "Gepard",
+      "Qoplon",
+      "Pantera"
+    ],
+    "answer_index": 0,
+    "explanation": "Sher 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐯 Chiziqli ajoyib yirtqich nima?",
+    "options": [
+      "Sirtlon",
+      "Yaguar",
+      "Yo'lbars",
+      "Bo'ri"
+    ],
+    "answer_index": 2,
+    "explanation": "Yo'lbars 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐬 Dengizda suzuvchi do'stona jonivor?",
+    "options": [
+      "Akula",
+      "Delfin",
+      "Kit",
+      "Tyulen"
+    ],
+    "answer_index": 1,
+    "explanation": "Delfin 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐘 Uzun xartumli ulkan hayvon nima?",
+    "options": [
+      "Begemot",
+      "Karkidon",
+      "Fil",
+      "Jirafa"
+    ],
+    "answer_index": 2,
+    "explanation": "Fil 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "✈️ Osmonda uchuvchi transport nima?",
+    "options": [
+      "Samolyot",
+      "Vertolyot",
+      "Raketa",
+      "Dron"
+    ],
+    "answer_index": 0,
+    "explanation": "Samolyot ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Visual",
+    "difficulty": 3,
+    "question": "🚀 Fazoga uchuvchi transport nima?",
+    "options": [
+      "Yo'ldosh",
+      "Raketa",
+      "Meteorit",
+      "Kometa"
+    ],
+    "answer_index": 1,
+    "explanation": "Raketa 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚢 Ummon bo'ylab suzuvchi transport nima?",
+    "options": [
+      "Suvosti kemasi",
+      "Qayiq",
+      "Kema",
+      "Kanoe"
+    ],
+    "answer_index": 2,
+    "explanation": "Kema 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚗 Yo'lda yuruvchi transport nima?",
+    "options": [
+      "Mashina",
+      "Yuk mashinasi",
+      "Mototsikl",
+      "Skuter"
+    ],
+    "answer_index": 0,
+    "explanation": "Mashina 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚌 Yo'lovchilarni tasiydigan jamoat transporti?",
+    "options": [
+      "Mikroavtobus",
+      "Taksi",
+      "Avtobus",
+      "Tez yordam"
+    ],
+    "answer_index": 2,
+    "explanation": "Avtobus 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚒 Yong'in o'chirishga shoshiluvchi maxsus mashina?",
+    "options": [
+      "Politsiya mashinasi",
+      "O't o'chirish mashinasi",
+      "Evakuator",
+      "Buldozer"
+    ],
+    "answer_index": 1,
+    "explanation": "O't o'chirish mashinasi 🚒",
+    "reward_coins": 10
+  }
+]

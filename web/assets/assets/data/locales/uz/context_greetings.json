@@ -1,0 +1,70 @@
+{
+  "first_visit": {
+    "morning": [
+      "Qayerdan keldingiz? Yangi chehra! Tong saharda kalit izlash haqiqiy jasoratdir!",
+      "Kunning birinchi mehmoni! Quyosh chiqishi bilan kelgan mehmon ming yilda bir keladi deyishadi. Xush kelibsiz!",
+      "Tong shabnami bilan yangi chehra keldi. Bugun sizga ajoyib kalit taqdim etaman!",
+      "Bunday erta tongda yengil qadamlar bilan keldingiz! Omad sizdek mehmonlarni doim birinchi topadi.",
+      "Tong havosi hali salqin. Sekin aylanib ko'ring, yangi mehmon.",
+      "Sahardagi ilk uchrashuv — bugungi eshik allaqachon yarim ochiq!"
+    ],
+    "noon": [
+      "Peshinda yangi mehmon? Bu taqdirdagi yordamchining belgisi! Marhamat, o'tiring!",
+      "Yangi mehmonlar eng iliq kutib olishga loyiqdir. Quyosh ostida bog'langan rishtalar uzoq davom etadi.",
+      "Ajoyib vaqtda keldingiz! Tushgi energiya dillarni bog'laydi. Tez orada yangi eshiklar ochiladi.",
+      "Ilk bor tush payti quyosh ostida uchrashdik. Iliq rishtalar osonlikcha sovimaydi.",
+      "Kunning yarmida yangi chehra — tushlik qildingizmi? Qalbingizni ham quvonchga to'ldiraylik.",
+      "Kunduzgi ilk tashrif, juda soz. Quyoshli kunda qarorlar oson qabul qilinadi."
+    ],
+    "evening": [
+      "Quyosh botayotganda ilk tashrif! Ko'zlaringizdagi shijoat menga yoqdi — kun hosilini izlamoqdasiz.",
+      "Shom vaqtidagi birinchi mehmon... go'zal rishtalar kech gullaydi. Keling, do'stim!",
+      "Oqshom eshigini qoqqan yangi mehmon, kunni muvaffaqiyatli tugatganlar doim shunday uchrashadilar!",
+      "Shom paytidagi ilk tashrif. Kunni sarhisob qilishga kelganlar katta omad olib keladilar.",
+      "Kechki shafaq yangi mehmonni qutlamoqda. O'tiring va dam oling.",
+      "Oqshomdagi ilk uchrashuv — kun oxirida ajoyib boshlanishga duch keldingiz."
+    ],
+    "night": [
+      "Yarim tunda ilk bor keldingizmi? Aytadigan qiziq hikoyangiz borga o'xshaydi. Marhamat, so'rang!",
+      "Tun sayyohi! Yarim tunda kalit izlagan odamda haqiqiy samimiyat bo'ladi.",
+      "Yarim tundagi ilk tashrif... sokin qalb egasi ekansiz. Qani, hikoyangizni eshitaylik!",
+      "Tunning sokin pallasida birinchi bor keldingiz. Ko'nglingizda og'irlik bo'lsa, bemalol ayting.",
+      "Tun sukunatidagi mehmon — vaqt qancha sokin bo'lsa, qalb shuncha ravshanlashadi.",
+      "Tunda bog'langan rishtalar qadrlidir, va bu aynan sizsiz."
+    ]
+  },
+  "revisit": {
+    "morning": [
+      "Yana tong saharda qaytdingiz, {nick}! Sizdek doimiy mehmonlar mening eng sevimli do'stlarimdir.",
+      "Tong otdi, {nick}! Yangi kalit sizni tun bo'yi kutdi.",
+      "Qat'iyatlilikni hatto sehrli maxluqlar ham hurmat qilishadi, {nick}! Bugungi eshikni ochaylik.",
+      "Tong havosidan siz bilan birga nafas olish, {nick}, kunga umid baxsh etadi.",
+      "Tonggi qadamlaringiz yanada shaxdam, {nick}. Bugungi maqsadimiz nima?",
+      "Xayrli tong, {nick}! Bugungi donolik kaliti tayyor."
+    ],
+    "noon": [
+      "Peshinda yana ko'rishganimizdan xursandman, {nick}! Bugungi energiya eng yuqori nuqtada.",
+      "Kunduzgi quyosh yo'limizni yoritmoqda, {nick}. Keling, bugungi vazifani yakunlaylik!",
+      "Tushlik qildingizmi, {nick}? Biroz hordiq chiqaring va omad sirlarini tinglang.",
+      "Peshindagi ikkinchi tashrifingiz ortiqcha omad keltiradi, {nick}!",
+      "Sodiq do'st bilan yoqimli tushlik vaqti, {nick}. Sayohatimizni davom ettiramiz.",
+      "Shijoatingiz hech qachon so'nmasin, {nick}! Muvaffaqiyat eshigi lang ochiq."
+    ],
+    "evening": [
+      "Quyosh ufqqa bosh qo'ydi, {nick}. Bugungi muvaffaqiyatlarni sarhisob qilish vaqti.",
+      "Bugungi mashaqqatli mehnat o'z samarasini berdi, {nick}! Endi hordiq chiqaramiz.",
+      "Siz bilan shomni kutib olish doim xotirjamlik bag'ishlaydi, {nick}.",
+      "Tez orada tun eshiklari ochiladi, {nick}. Qaytganingiz uchun tashakkur.",
+      "Tirishqoq qalb uchun go'zal oqshom, {nick}.",
+      "Xayrli oqshom, {nick}! Bugun kechqurun omad kalitingizni asrab qo'ying."
+    ],
+    "night": [
+      "Yana sokin tun keldi, {nick}. Charchagan qalbingizga orom bering.",
+      "Yulduzlar bugun siz uchun porlamoqda, {nick}.",
+      "Tunning sukunati xotirjamlik keltiradi, {nick}. Shirin tushlar ko'ring.",
+      "Sizga xayrli tun tilayman, {nick}. Ertagacha!",
+      "Bugungi kalit xavfsiz qulflab qo'yildi, {nick}. Orom oling.",
+      "Haqiqiy do'st bilan o'tgan sokin tun, {nick}. Xayrli tun."
+    ]
+  }
+}

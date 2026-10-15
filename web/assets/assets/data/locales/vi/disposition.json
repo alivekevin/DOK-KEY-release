@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "trí tuệ",
+        "ôn hòa",
+        "nhanh nhẹn"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "chân thành",
+        "kiên nhẫn",
+        "điềm tĩnh"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "nhiệt huyết",
+        "can đảm",
+        "sức sống"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "섬세",
+        "ôn hòa",
+        "cảm xúc"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "bao dung",
+        "tin cậy",
+        "ổn định"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "sâu sắc",
+        "thận trọng",
+        "chặt chẽ"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "quyết đoán",
+        "quyết đoán",
+        "trung thực"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "tao nhã",
+        "chu đáo",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "mưu trí",
+        "linh hoạt",
+        "dí dỏm"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "nhạy bén",
+        "tinh tế",
+        "quan sát"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "trách nhiệm",
+        "nguyên tắc",
+        "nghĩa hiệp"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "thấu cảm",
+        "ôn hòa",
+        "tưởng tượng"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "vui tươi",
+        "dí dỏm",
+        "năng động"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "kiên nhẫn",
+        "chân thành",
+        "bình yên"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "tiên phong",
+        "can đảm",
+        "quyết đoán"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "dịu dàng",
+        "chu đáo",
+        "bình yên"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "kiên định",
+        "quyết đoán",
+        "tự tin"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "lanh lợi",
+        "phân tích",
+        "tinh tế"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "tự do",
+        "nhiệt huyết",
+        "lạc quan"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "nhạy cảm",
+        "thấu cảm",
+        "ôn hòa"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "tiến thủ",
+        "mưu trí",
+        "độc lập"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "tinh xảo",
+        "섬세",
+        "thẩm mỹ"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "nghĩa khí",
+        "nhiệt huyết",
+        "trách nhiệm"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "ôn hòa",
+        "trực giác",
+        "cảm xúc"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "bình tĩnh",
+        "trí tuệ",
+        "thận trọng"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "bền bỉ",
+        "kiên nhẫn",
+        "chân thành"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "dũng mãnh",
+        "quyết đoán",
+        "độc lập"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "tao nhã",
+        "nhạy bén",
+        "chu đáo"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "hoài bão",
+        "sâu sắc",
+        "tiến thủ"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "trực giác",
+        "quan sát",
+        "trí tuệ"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "sức sống",
+        "lạc quan",
+        "quyết đoán"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "ấm áp",
+        "chu đáo",
+        "kiên nhẫn"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "dí dỏm",
+        "vui tươi",
+        "nhanh nhẹn"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "tinh tế",
+        "nhạy bén",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "tín nghĩa",
+        "trách nhiệm",
+        "ổn định"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "hào hiệp",
+        "thấu cảm",
+        "thư thả"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "sáng suốt",
+        "판단",
+        "quyết đoán"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "thận trọng",
+        "chừng mực",
+        "chân thành"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "phiêu lưu",
+        "độc lập",
+        "nhiệt huyết"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "bình yên",
+        "dịu dàng",
+        "cảm xúc"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "lý tưởng",
+        "tiến thủ",
+        "hoài bão"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "cảm hứng",
+        "trực giác",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "lạc quan",
+        "sức sống",
+        "tự tin"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "ôn hòa",
+        "hài hòa",
+        "chu đáo"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "thực tế",
+        "판단",
+        "nhanh nhẹn"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "tỉ mỉ",
+        "tinh xảo",
+        "trách nhiệm"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "chính trực",
+        "nghĩa hiệp",
+        "nguyên tắc"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "tưởng tượng",
+        "cảm xúc",
+        "sâu sắc"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "thông minh",
+        "trí tuệ",
+        "linh hoạt"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "trầm lặng",
+        "kiên nhẫn",
+        "ổn định"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "tiên phong",
+        "tiến thủ",
+        "can đảm"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "dịu dàng",
+        "ôn hòa",
+        "thẩm mỹ"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "vững vàng",
+        "nhiệt huyết",
+        "bao dung"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "sắc sảo",
+        "sâu sắc",
+        "nhạy bén"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "hoạt bát",
+        "tự tin",
+        "quyết đoán"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "bình yên",
+        "hào hiệp",
+        "chân thành"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "nhanh nhẹn",
+        "phân tích",
+        "quyết đoán"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "hoàn thiện",
+        "tinh xảo",
+        "tinh tế"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "nghĩa hiệp",
+        "trách nhiệm",
+        "bao dung"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "trầm tư",
+        "trực giác",
+        "tưởng tượng"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Ngọc hồng lựu",
+      "stoneSub": "",
+      "stoneMeaning": "tình bạn chân thành",
+      "flower": "Cẩm chướng",
+      "flowerSub": "Tuyết hoa",
+      "flowerMeaning": "yêu quý",
+      "season": "Mùa đông",
+      "theme": "khởi đầu",
+      "colorName": "Đỏ lựu",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Thạch anh tím",
+      "stoneSub": "",
+      "stoneMeaning": "bình an, chân thật",
+      "flower": "Hoa tím",
+      "flowerSub": "Diên vĩ",
+      "flowerMeaning": "tình yêu thủy chung",
+      "season": "Mùa đông",
+      "theme": "trí tuệ",
+      "colorName": "Tím",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Ngọc xanh biển",
+      "stoneSub": "",
+      "stoneMeaning": "dũng cảm, hy vọng",
+      "flower": "Thủy tiên",
+      "flowerSub": "",
+      "flowerMeaning": "hy vọng",
+      "season": "Mùa xuân",
+      "theme": "hy vọng",
+      "colorName": "Xanh ngọc biển",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Kim cương",
+      "stoneSub": "",
+      "stoneMeaning": "thuần khiết, bền bỉ",
+      "flower": "Cúc họa mi",
+      "flowerSub": "Đậu thơm",
+      "flowerMeaning": "an lành",
+      "season": "Mùa xuân",
+      "theme": "trưởng thành",
+      "colorName": "Trắng sáng",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Ngọc lục bảo",
+      "stoneSub": "",
+      "stoneMeaning": "hạnh phúc, an lành",
+      "flower": "Linh lan",
+      "flowerSub": "Táo gai",
+      "flowerMeaning": "niềm vui trở lại",
+      "season": "Mùa xuân",
+      "theme": "sức sống",
+      "colorName": "Xanh lục bảo",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Ngọc trai",
+      "stoneSub": "Alexandrite",
+      "stoneMeaning": "yêu thương, no đủ",
+      "flower": "Hoa hồng",
+      "flowerSub": "",
+      "flowerMeaning": "nhiệt huyết",
+      "season": "Mùa hè",
+      "theme": "gắn kết",
+      "colorName": "Kem ngọc trai",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Hồng ngọc",
+      "stoneSub": "",
+      "stoneMeaning": "nhiệt huyết, dũng khí",
+      "flower": "Phi yến",
+      "flowerSub": "Hoa súng",
+      "flowerMeaning": "trong sáng",
+      "season": "Mùa hè",
+      "theme": "dũng khí",
+      "colorName": "Đỏ ruby",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Ngọc cật",
+      "stoneSub": "",
+      "stoneMeaning": "thành tựu, an vui",
+      "flower": "Lay ơn",
+      "flowerSub": "Anh túc",
+      "flowerMeaning": "chiến thắng",
+      "season": "Mùa hè",
+      "theme": "sức mạnh",
+      "colorName": "Xanh peridot",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Lam ngọc",
+      "stoneSub": "",
+      "stoneMeaning": "trí tuệ, chân lý",
+      "flower": "Lưu ly",
+      "flowerSub": "Cúc tây",
+      "flowerMeaning": "sâu đậm",
+      "season": "Mùa thu",
+      "theme": "cân bằng",
+      "colorName": "Xanh sapphire",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Mắt mèo",
+      "stoneSub": "Tourmaline",
+      "stoneMeaning": "sáng tạo, đổi thay",
+      "flower": "Vạn thọ",
+      "flowerSub": "Cosmos",
+      "flowerMeaning": "hạnh phúc",
+      "season": "Mùa thu",
+      "theme": "đổi mới",
+      "colorName": "Vàng kim",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Hoàng ngọc",
+      "stoneSub": "Thạch anh vàng",
+      "stoneMeaning": "biết ơn, quý mến",
+      "flower": "Hoa cúc",
+      "flowerSub": "",
+      "flowerMeaning": "thanh tao",
+      "season": "Mùa thu",
+      "theme": "biết ơn",
+      "colorName": "Vàng citrine",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Ngọc lam",
+      "stoneSub": "Tanzanite",
+      "stoneMeaning": "phước lành, thành công",
+      "flower": "Trạng nguyên",
+      "flowerSub": "Nhựa ruồi",
+      "flowerMeaning": "phước lành",
+      "season": "Mùa đông",
+      "theme": "phước lành",
+      "colorName": "Xanh ngọc lam",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Ma Kết",
+      "range": "12/22–1/19",
+      "keywords": [
+        "trách nhiệm",
+        "kiên nhẫn",
+        "thực tế"
+      ]
+    },
+    {
+      "sign": "Bảo Bình",
+      "range": "1/20–2/18",
+      "keywords": [
+        "độc đáo",
+        "tự do",
+        "tình bạn"
+      ]
+    },
+    {
+      "sign": "Song Ngư",
+      "range": "2/19–3/20",
+      "keywords": [
+        "thấu cảm",
+        "tưởng tượng",
+        "trực giác"
+      ]
+    },
+    {
+      "sign": "Bạch Dương",
+      "range": "3/21–4/19",
+      "keywords": [
+        "nhiệt huyết",
+        "thử thách",
+        "quyết đoán"
+      ]
+    },
+    {
+      "sign": "Kim Ngưu",
+      "range": "4/20–5/20",
+      "keywords": [
+        "ổn định",
+        "tin cậy",
+        "bền chí"
+      ]
+    },
+    {
+      "sign": "Song Tử",
+      "range": "5/21–6/20",
+      "keywords": [
+        "dí dỏm",
+        "kết nối",
+        "hiếu kỳ"
+      ]
+    },
+    {
+      "sign": "Cự Giải",
+      "range": "6/21–7/22",
+      "keywords": [
+        "chu đáo",
+        "tình cảm",
+        "che chở"
+      ]
+    },
+    {
+      "sign": "Sư Tử",
+      "range": "7/23–8/22",
+      "keywords": [
+        "tự tin",
+        "thủ lĩnh",
+        "nhiệt huyết"
+      ]
+    },
+    {
+      "sign": "Xử Nữ",
+      "range": "8/23–9/22",
+      "keywords": [
+        "섬세",
+        "phân tích",
+        "chân thành"
+      ]
+    },
+    {
+      "sign": "Thiên Bình",
+      "range": "9/23–10/22",
+      "keywords": [
+        "hài hòa",
+        "균형",
+        "chu đáo"
+      ]
+    },
+    {
+      "sign": "Bọ Cạp",
+      "range": "10/23–11/21",
+      "keywords": [
+        "sâu sắc",
+        "tập trung",
+        "nghĩa hiệp"
+      ]
+    },
+    {
+      "sign": "Nhân Mã",
+      "range": "11/22–12/21",
+      "keywords": [
+        "tiến thủ",
+        "tự do",
+        "lạc quan"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Mùa xuân",
+      "mood": "mùa của khởi đầu mới"
+    },
+    {
+      "name": "Mùa hè",
+      "mood": "mùa của nhiệt huyết và vươn lên"
+    },
+    {
+      "name": "Mùa thu",
+      "mood": "mùa của lắng đọng và biết ơn"
+    },
+    {
+      "name": "Mùa đông",
+      "mood": "mùa của an yên và chiêm nghiệm"
+    }
+  ]
+}

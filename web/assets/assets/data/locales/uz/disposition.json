@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "donolik",
+        "muloyim",
+        "chaqqon"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "samimiy",
+        "sabrli",
+        "xotirjam"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "ishtiyoq",
+        "jasorat",
+        "hayotbaxsh"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "nozik",
+        "muloyim",
+        "ta'sirchan"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "bag'rikeng",
+        "ishonch",
+        "barqaror"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "ziyraklik",
+        "ehtiyotkor",
+        "aniq"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "qat'iy",
+        "g'ayrat",
+        "halol"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "nafis",
+        "mehribon",
+        "nozik"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "ziyrak",
+        "moslashuvchan",
+        "xushmuomala"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "hissiyot",
+        "odoblilik",
+        "kuzatuvchan"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "mas'uliyatli",
+        "qat'iy",
+        "sodiq"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "hamdardlik",
+        "muloyim",
+        "xayolparast"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "quvnoq",
+        "topqir",
+        "sho'x"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "sabrli",
+        "samimiy",
+        "osuda"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "tashabbuskor",
+        "jasorat",
+        "g'ayrat"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "mehribon",
+        "mehribon",
+        "osuda"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "sobitqadam",
+        "qat'iy",
+        "o'ziga ishongan"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "aqlli",
+        "tahliliy",
+        "odoblilik"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "erkin",
+        "jo'shqin",
+        "optimist"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "ta'sirchan",
+        "hamdard",
+        "muloyim"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "tadbirkor",
+        "topqir",
+        "mustaqil"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "puxta",
+        "nozik",
+        "estetik"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "olijanob",
+        "jo'shqin",
+        "mas'uliyatli"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "muloyim",
+        "sezgir",
+        "ta'sirchan"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "bosiq",
+        "wise",
+        "ehtiyotkor"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "matonatli",
+        "sabrli",
+        "samimiy"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "botir",
+        "sobitqadam",
+        "mustaqil"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "nafis",
+        "hushyor",
+        "mehribon"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "intiluvchan",
+        "idrokli",
+        "tadbirkor"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "sezgir",
+        "kuzatuvchan",
+        "wise"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "faol",
+        "optimist",
+        "driven"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "samimiy",
+        "mehribon",
+        "sabrli"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "topqir",
+        "quvnoq",
+        "chaqqon"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "odoblilik",
+        "hushyor",
+        "nozik"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "vafoqdor",
+        "mas'uliyatli",
+        "barqaror"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "saxiy",
+        "hamdard",
+        "erkin"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "yorqin",
+        "mulohazali",
+        "qat'iy"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "ehtiyotkor",
+        "vazmin",
+        "samimiy"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "sarguzashttalab",
+        "mustaqil",
+        "jo'shqin"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "osuda",
+        "mehribon",
+        "ta'sirchan"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "idealist",
+        "tadbirkor",
+        "intiluvchan"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "ilhomlangan",
+        "sezgir",
+        "nozik"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "optimist",
+        "faol",
+        "o'ziga ishongan"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "muloyim",
+        "ahil",
+        "mehribon"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "amaliy",
+        "mulohazali",
+        "chaqqon"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "batafsil",
+        "puxta",
+        "mas'uliyatli"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "to'g'riso'z",
+        "sodiq",
+        "qat'iy"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "xayolparast",
+        "ta'sirchan",
+        "idrokli"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "ravshan",
+        "wise",
+        "moslashuvchan"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "kamgap",
+        "sabrli",
+        "barqaror"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "tashabbuskor",
+        "tadbirkor",
+        "dovyurak"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "mehribon",
+        "muloyim",
+        "estetik"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "o'ziga ishongan",
+        "jo'shqin",
+        "bag'rikeng"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "o'tkir",
+        "idrokli",
+        "hushyor"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "kirishimli",
+        "o'ziga ishongan",
+        "driven"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "osuda",
+        "saxiy",
+        "samimiy"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "chaqqon",
+        "tahliliy",
+        "qat'iy"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "mukammallikchi",
+        "puxta",
+        "odoblilik"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "sodiq",
+        "mas'uliyatli",
+        "bag'rikeng"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "mulohazakor",
+        "sezgir",
+        "xayolparast"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Garnet",
+      "stoneSub": "",
+      "stoneMeaning": "true friendship",
+      "flower": "Carnation",
+      "flowerSub": "Snowdrop",
+      "flowerMeaning": "respect and love",
+      "season": "Qish",
+      "theme": "yangi boshlanish va tayyorgarlik",
+      "colorName": "Garnet Red",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Amethyst",
+      "stoneSub": "",
+      "stoneMeaning": "calm and sincerity",
+      "flower": "Violet",
+      "flowerSub": "Iris",
+      "flowerMeaning": "sincere love",
+      "season": "Qish",
+      "theme": "tafakkur va donolik",
+      "colorName": "Purple",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Aquamarine",
+      "stoneSub": "",
+      "stoneMeaning": "courage and hope",
+      "flower": "Daffodil",
+      "flowerSub": "",
+      "flowerMeaning": "self-respect and hope",
+      "season": "Bahor",
+      "theme": "umid va ibtido",
+      "colorName": "Aqua",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Diamond",
+      "stoneSub": "",
+      "stoneMeaning": "purity and constancy",
+      "flower": "Daisy",
+      "flowerSub": "Sweet Pea",
+      "flowerMeaning": "purity and peace",
+      "season": "Bahor",
+      "theme": "soflik va o'sish",
+      "colorName": "Clear White",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Emerald",
+      "stoneSub": "",
+      "stoneMeaning": "happiness and recovery",
+      "flower": "Lily of the Valley",
+      "flowerSub": "Hawthorn",
+      "flowerMeaning": "return of happiness",
+      "season": "Bahor",
+      "theme": "hayot va tiklanish",
+      "colorName": "Emerald",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Pearl",
+      "stoneSub": "Alexandrite",
+      "stoneMeaning": "love and abundance",
+      "flower": "Rose",
+      "flowerSub": "",
+      "flowerMeaning": "love and passion",
+      "season": "Yoz",
+      "theme": "munosabatlar va to'kinlik",
+      "colorName": "Pearl Cream",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Ruby",
+      "stoneSub": "",
+      "stoneMeaning": "passion and courage",
+      "flower": "Larkspur",
+      "flowerSub": "Water Lily",
+      "flowerMeaning": "a pure heart",
+      "season": "Yoz",
+      "theme": "jo'shqinlik va jasorat",
+      "colorName": "Ruby Red",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Peridot",
+      "stoneSub": "",
+      "stoneMeaning": "achievement and peace",
+      "flower": "Gladiolus",
+      "flowerSub": "Poppy",
+      "flowerMeaning": "sincerity and victory",
+      "season": "Yoz",
+      "theme": "kuch va yutuq",
+      "colorName": "Peridot Green",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Sapphire",
+      "stoneSub": "",
+      "stoneMeaning": "wisdom and truth",
+      "flower": "Forget-me-not",
+      "flowerSub": "Aster",
+      "flowerMeaning": "a heart that remembers",
+      "season": "Kuz",
+      "theme": "donolik va muvozanat",
+      "colorName": "Sapphire Blue",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Opal",
+      "stoneSub": "Tourmaline",
+      "stoneMeaning": "creativity and hope",
+      "flower": "Marigold",
+      "flowerSub": "Cosmos",
+      "flowerMeaning": "happiness that surely comes",
+      "season": "Kuz",
+      "theme": "ijodkorlik va o'zgarish",
+      "colorName": "Gold",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Topaz",
+      "stoneSub": "Citrine",
+      "stoneMeaning": "gratitude and friendship",
+      "flower": "Chrysanthemum",
+      "flowerSub": "",
+      "flowerMeaning": "nobility and truth",
+      "season": "Kuz",
+      "theme": "minnatdorlik va yaxshilik",
+      "colorName": "Citrine Gold",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Turquoise",
+      "stoneSub": "Tanzanite",
+      "stoneMeaning": "blessing and success",
+      "flower": "Poinsettia",
+      "flowerSub": "Holly",
+      "flowerMeaning": "blessing and hope",
+      "season": "Qish",
+      "theme": "baraka va umid",
+      "colorName": "Turquoise",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Tog' echkisi",
+      "range": "12/22–1/19",
+      "keywords": [
+        "mas'uliyatli",
+        "sabrli",
+        "realist"
+      ]
+    },
+    {
+      "sign": "Qovg'a",
+      "range": "1/20–2/18",
+      "keywords": [
+        "o'ziga xos",
+        "erkin",
+        "do'stona"
+      ]
+    },
+    {
+      "sign": "Baliq",
+      "range": "2/19–3/20",
+      "keywords": [
+        "hamdard",
+        "xayolparast",
+        "sezgir"
+      ]
+    },
+    {
+      "sign": "Qo'y",
+      "range": "3/21–4/19",
+      "keywords": [
+        "jo'shqin",
+        "jur'atli",
+        "driven"
+      ]
+    },
+    {
+      "sign": "Buzoq",
+      "range": "4/20–5/20",
+      "keywords": [
+        "barqaror",
+        "trusting",
+        "qat'iyatli"
+      ]
+    },
+    {
+      "sign": "Egizaklar",
+      "range": "5/21–6/20",
+      "keywords": [
+        "topqir",
+        "muloqotchan",
+        "qiziquvchan"
+      ]
+    },
+    {
+      "sign": "Qisqichbaqa",
+      "range": "6/21–7/22",
+      "keywords": [
+        "mehribon",
+        "hissiyotli",
+        "himoyachi"
+      ]
+    },
+    {
+      "sign": "Arslon",
+      "range": "7/23–8/22",
+      "keywords": [
+        "o'ziga ishongan",
+        "yetakchi",
+        "jo'shqin"
+      ]
+    },
+    {
+      "sign": "Parizod",
+      "range": "8/23–9/22",
+      "keywords": [
+        "nozik",
+        "tahliliy",
+        "samimiy"
+      ]
+    },
+    {
+      "sign": "Tarozi",
+      "range": "9/23–10/22",
+      "keywords": [
+        "ahil",
+        "balanced",
+        "mehribon"
+      ]
+    },
+    {
+      "sign": "Chayon",
+      "range": "10/23–11/21",
+      "keywords": [
+        "idrokli",
+        "diqqatli",
+        "sodiq"
+      ]
+    },
+    {
+      "sign": "O'qotar",
+      "range": "11/22–12/21",
+      "keywords": [
+        "tadbirkor",
+        "erkin",
+        "optimist"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Bahor",
+      "mood": "yangi boshlanishlar fasli"
+    },
+    {
+      "name": "Yoz",
+      "mood": "jo'shqinlik va o'sish fasli"
+    },
+    {
+      "name": "Kuz",
+      "mood": "kamolot va minnatdorchilik fasli"
+    },
+    {
+      "name": "Qish",
+      "mood": "orom va tafakkur fasli"
+    }
+  ]
+}

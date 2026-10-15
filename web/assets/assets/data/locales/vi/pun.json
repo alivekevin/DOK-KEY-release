@@ -47,15 +47,15 @@
   {
     "id": "pun_vi_07",
     "category": "pun",
-    "question": "Thế còn con vịt nào đi bằng hai chân?",
+    "question": "Có 3 con chim sẻ đậu trên dây điện. Thợ săn bắn trúng một con. Hỏi trên dây điện còn lại mấy con chim sẻ?",
     "options": [
-      "Vịt Donald",
-      "Vịt bầu",
-      "Vịt nào mà chả đi bằng hai chân",
-      "Vịt quay"
+      "2 con",
+      "1 con",
+      "0 con",
+      "3 con"
     ],
     "answer_index": 2,
-    "explanation": "Bẫy tâm lý sau câu chuột Mickey, vì tất cả các loài vịt bình thường đều đi bằng hai chân.",
+    "explanation": "Nghe thấy tiếng súng nổ, những con còn lại đã giật mình bay đi hết rồi.",
     "audio_key": "pun_vi_07",
     "audio_path": "assets/audio/pun/vi/07.mp3"
   },

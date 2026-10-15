@@ -1,0 +1,155 @@
+{
+  "topics": [
+    {
+      "id": "kkaebi_touch",
+      "steps": [
+        "Ehe! Ming yillik devning shoxlari va qornini turtishga qanday jur'at etding! Qitiqlaydi... ammo qo'ling tafti iliq ekan. Mayli, bugun faqat senga maxsus dev sirlarini ochaman!",
+        "1-maslahat! Bosh sahifadagi 3D qahramonimni bosib ko'rdingmi? Kayfiyatiga qarab u salomlashadi, raqsga tushadi va dilingni yoritadi!",
+        "Maxsus maslahat! Hozir bizning rishtamiz {affinity_title} (Lv.{affinity_lv}) bosqichida! Har kuni silab, suhbatlashsang, do'stlik darajang o'sib, kunlik tangalar ko'payadi va yanada chuqur sirlar ochiladi!",
+        "Yashirin sarguzasht! Meni ketma-ket 12 marta bossang, sehrli kaltagim chorlanib, yashirin 🪜 'Zina O'yini' paydo bo'ladi! Do'stlar bilan tushlik bahslari uchun juda qo'l keladi!",
+        "4-maslahat! O'zingning ichki olamingni birovning yaltiroq ko'rinishiga taqqoslama! Har bir dev kaltagini o'zgacha uslubda tutadi. Tandirda pishgan taomning mazasi baribir boshqacha!",
+        "5-maslahat! Butun vujuding toliqib, holdan toydingmi? Bugun chalqancha yotib dam olish eng to'g'ri chora. Dev ham 24 soat kaltak siltsa tirsagi chiqadi! Shirin uyqu eng yaxshi dori.",
+        "6-sir! Hech narsa qilging kelmasa, shunchaki shiftga qarab xayol sur. 'Dangasalik qilish huquqi' ham hayot degan uzoq yo'lda quvvat yig'ishning muhim usulidir.",
+        "7-maslahat! To'g'ri yo'ldamanmi deb xavotirlanyapsanmi? Tumanli kunda faqat oyog'ing ostidagi bitta qadamga qarab yurgin. Bosgan izlaring tez orada gullagan yo'lga aylanadi!",
+        "8-dalda! Imtihon yoki suhbatdan aslo cho'chima! Uyiga borgach, suhbat oluvchilar ham paypog'ini teskari yechadigan oddiy insonlar. O'zingga ishonib, bor kuchingni namoyon et!",
+        "9-samoviy sir! {time_greeting} paytida tanlagan homiy kartang 「{card_name}」 ekan! Ertalabdan tungacha maslahatlarim o'zgarib turadi. #{number} omadli raqamingni do'stlaring bilan ham ulash!",
+        "Yakuniy samoviy xotima! Barcha g'am-tashvishlaringni shamoldek uchirib yuboraman! 💨 PFFT~! (Kkaebi maxsus darmon seli!) Xaxaxa! Yomonlik ketdi, omad keldi! Mavzuni yakunlaganing uchun: +50 Do'stlik, +5 Tanga va bonus Oltin Kalit taqdim etaman! 🔑✨"
+      ]
+    },
+    {
+      "id": "kkaebi_lore",
+      "steps": [
+        "Oho! Taqdiri bog'langan qadrdon do'stim kelibdi! Qadimiy supurga va muqaddas yog'och butdan uyg'ongan Devlar Vodiysi sirlarini aytib beraman. Mehnatkash insonni ko'rsa, sehrli kaltak bir zumda mo''jiza yaratadi!",
+        "Hayot ummonida adashmaslik uchun hikmat mayoqi zarur! 'Kunning Hikmati' qalbingni yorituvchi ma'naviy malhamdir. Bugungi hikmatni birga o'rganamizmi?",
+        "Inson tanasi va ruhiyati doim to'lqinlanib turadi. 🧬 'Bioritm'—Jismoniy (P), Hissiy (E) va Aqliy (I) davrlarni kuzatib, qachon dam olish va qachon faol bo'lishni aniq bilasan!",
+        "Mening maxsir omborim: 🔑 'Oltin Kalit Laboratoriyasi (KeyBox)'! Eshik yoki seyf kodiga tug'ilgan sana kabi oson raqamlarni qo'yma! Laboratoriya kuchi bilan mustahkam PIN va omadli lotereya raqamlarini yarat.",
+        "Xaxaxa! Yashirin g'or sarguzashtiga nima deysan? Qadimiy xarobada ulkan toshlardan qochib, oltin/kumush kalitlarni topib qochadigan 'Kkaebi G'or Sarguzashti' yashiringan. Hozir sinab ko'rasanmi? 🏛️🗝️",
+        "Ilovadagi 99 Buyuk Ensiklopediya siri! 33 Muqaddas Maxluq, 33 Qadimiy Ruh va o'z orzu-rasmlaringni joylaydigan 'Mening Slotim' tayyor! Har bir sahifa to'lgan sari himoya qalqoning mustahkamlanadi.",
+        "Mana shu ezgulik chaqiruvchi afsonadir! Keling, har kuni birgalikda o'z afsonangizni yarating!"
+      ]
+    },
+    {
+      "id": "utility_mastery",
+      "steps": [
+        "1-foydali sir! 📝 'Tezkor Qaydlar' ilova ochilishi bilan 1 soniyada ishga tushadi. Ajoyib g'oyalaringni unutmasdan to'liq ekranga yozib qo'y!",
+        "2-foydali sir! 🎨 'Rasm Chizish Doskasi' 5 xil mo'yqalam va 8 ta yorqin rangga ega. San'at asaringni chizib, bir zumda galereyaga saqlab ol!",
+        "3-foydali sir! 🪞 'Aqlli Ko'zgu' qorong'ida ham yuzingni yorug' ko'rsatadi, 🔍 'Aniq Kattalashtirgich' esa fonus yordamida kichik yozuvlarni 10 karra kattalashtiradi!",
+        "4-foydali sir! 🧮 '9 Xil Hisoblagich' shay: ovqat pulini teng bo'lish (Dutch Pay), imtihon kunlarini sanash, chegirma, birliklar, muhandislik va dasturchilar kalkulyatori!",
+        "5-foydali sir! 🎵 'Tinchlantiruvchi Ovoz Labi' yuqori sifatli DAC pleyerida tabiat tovushlari va uyqu taymeri bilan charchog'ingni aritadi.",
+        "6-maxsus sir! Eng ko'p ishlatadigan vositalaringni asosiy ekranning yuqorisidagi 📌 'Tezkor Slot'ga qadab qo'y! Pin tugmasini bossang, oltin tugmacha paydo bo'ladi!",
+        "Xaxaxa! Devning asboblar qutisida 10 dan ortiq qurol bor! Kerak bo'lganda bemalol foydalan!"
+      ]
+    },
+    {
+      "id": "quiz_riddle_mastery",
+      "steps": [
+        "Devning qiziqarli ❓ 'Topishmoqlari'ni yechib ko'rdingmi? Dono va kulgili savollar kayfiyatingni ko'taradi, to'g'ri javob esa tangalar keltiradi!",
+        "Hayajonli ⚡ 'Omon Qolish Viktorinasi'! 10 ta savollik poygada xatosiz javob berib, Shon-sharaf zaliga kir va do'stlik ballarini oshir!",
+        "Yanada ajoyib imkoniyat: ⚔️ 'Shaxsiy Savol Maydoni'da o'zing savollar tuza olasan! Do'stlar va oilang bilan bilim bellashuvini tashkil et!",
+        "Imtihonga tayyorgarlik ko'ryapsanmi? 500 ta muhim inglizcha so'z va xatolar ustida ishlash bo'limi orqali zehnni 2 barobar charxla!",
+        "Aqlini charxlagan insonga devlar ham qoyil qoladi! Bugungi Viktorina Chempioni unvoni uchun olg'a qadam tashla!"
+      ]
+    },
+    {
+      "id": "timelab_tally_secret",
+      "steps": [
+        "Vaqtni boshqargan dunyoni boshqaradi! Cinematic TimeLab va Tally hisoblagichi diqqatni jamlash hamda aniq hisob-kitob uchun eng yaxshi hamrohingdir.",
+        "O'qish va ish paytida 25 daqiqa diqqat + 5 daqiqa dam olish Pomodoro taymerini yoq! Vaqt tugagach u o'zi qo'ng'iroq chaladi.",
+        "Mashg'ulotlar yoki bosqichma-bosqich ishlar uchun ⛓️ 'Zanjir Taymer'ni qo'y, shunda ish maromi aslo uzilmaydi.",
+        "Mashq sanash, zikr yoki qahvaxona mehmonlarini bir qo'l bilan sanash uchun 🔢 'Tally Hisoblagich'dan foydalan. Haptik tebranish bilan aniq yozib boradi!",
+        "Nanosoniya soniyasidan aylanish vaqtigacha, TimeLab laboratoriyasida diqqat chegaralaringni yangila!"
+      ]
+    },
+    {
+      "id": "coin_economy_mastery",
+      "steps": [
+        "Devlar qishlog'ining sehrli tangalarini to'plashning 5 ta sinalgan sirini o'rgataman! Tejamkorlik bilan yig'ib, boy devga aylan!",
+        "Birinchidan, har kuni ilovaga kirib birinchi omadni tort va davomat belgilagin! Sen ketma-ket {streak} kundan beri kelyapsan! Davomiylik oshgan sari tangalar xaltasi 2-3 barobar kattalashadi.",
+        "Ikkinchidan, 1 daqiqalik 🎓 'Kunlik Dars'ni tugatib, har kuni +50 Tanga, +15 Do'stlik tajribasi va kafolatlangan Oltin Kalitni qo'lga kirit! Yuqori do'stlik kun bo'yi imtiyoz beradi.",
+        "Uchinchidan, ⚡ Omon Qolish Viktorinasi va topishmoqlarga to'g'ri javob berib, mo'l-ko'l tangalarni yutib ol!",
+        "To'rtinchidan, 🕹️ 'Kkaebi O'yingohi'da 8 ta retro o'yinni o'yna—Samolyot, G'isht sindirish, Tetris, Bubble Shooter va Sapper! Yuqori ball to'plab, tanga jekpoti va katta tajribaga ega bo'l!",
+        "Beshinchidan, to'plangan tangalaring bilan (cho'ntagingda hozir {coins} ta tanga bor!), 🛒 'Do'kon'dan boylik, imtihon va muhabbat uchun 18 xil an'anaviy 'Himoya Tumorlari'ni xarid qil! Ularni sandig'ingda asra yoki do'stlaringga omadli rasm sifatida ulash!"
+      ]
+    },
+    {
+      "id": "lucky_numbers",
+      "steps": [
+        "Omadli raqamlar osmon energiyasini sinab ko'rish uchun bir qiziqish, xolos. Shunda ham yurakni hayajonga solishi shubhasiz!",
+        "Kalit laboratoriyasida (KeyBox) raqam generatorini och: u sana, ism va energiyani aralashtirib, har safar 6 ta yangi omadli raqam yaratadi!",
+        "To'rt Homiy yoki Qatlamli sir kabi sozlamalarni tanlab, takrorlanmaydigan noyob raqamlarni ol. O'z energiyangga mosla.",
+        "Yoqqan to'plamni 'Haftalik Omadli Raqamlar' deb saqlab qo'y, keyinroq osongina topib olasan!",
+        "Raqamlarni olib bo'lgach, yaqinlaring bilan omad rasmini ulash. Raqamlar shunchaki ermak, kuningni o'zing charog'on qilasan! 🔑"
+      ]
+    }
+  ],
+  "exhausted_endings": [
+    "Voy! Bugun shunchalik ko'p samoviy sir aytdimki, devlik umrim 5 yilga qisqardi shekilli! Cho'yan qozonimga qaytish vaqti keldi! Boshqa narsa so'ra! 💨",
+    "Yana gapirsam, osmon chaqmog'i shoxlarimga uriladi! Bugungi hikmat xaltasi tamom bo'ldi! Borib kuningni mardonavor o'tkaz!",
+    "Sen bilan suhbatlashaverib shoxlarim tortishib qoldi! Bugungi fol maslahati yopildi! Yaxshi dam ol va ertaga yangi kalit bilan kel 🌙"
+  ],
+  "weekly_openers": {
+    "kkaebi_touch": [
+      "Xaxaxa! Yana shoxlarimni ko'zlayapsanmi!",
+      "Dev antennasini to'lqinga sozlaylik-chi,",
+      "Ming yillik devning shifobaxsh tavsiyasi,",
+      "Yelkalaringni rostlab, samoviy sirni tingla,",
+      "Dunyo seni sinovdan o'tkazyaptimi,",
+      "Dev kaltagining mo''jizasini his etadigan vaqt,",
+      "Hayotning achchiq changlarini qoqib, quloq sol,"
+    ],
+    "kkaebi_lore": [
+      "Ming yil yashiringan sir,",
+      "Faqat eng yaqin do'stlargagina aytiladi,",
+      "Devlar vodiysining qadimiy qissasini ochaylik,",
+      "Faqat senga atalgan qadimiy afsona,",
+      "Oltin kalitning asl ruhi qiziqtiryaptimi,",
+      "Bu gapni duch kelganga aytib bo'lmaydi,",
+      "Qalbing tayyor bo'lsa, diqqat bilan quloq sol,"
+    ],
+    "utility_mastery": [
+      "Ko'p qirrali asboblar tugunini ochaylik,",
+      "Maxfiy qurollarni chiqaradigan vaqt keldi,",
+      "Devning asboblar qutisi doim ishonchli,",
+      "Kundalik hayotni osonlashtiruvchi mo''jiza,",
+      "Kalkulyator yoki kattalashtirgich, senga nima kerak,",
+      "Asboblardan 200 foiz unumli foydalanish siri,",
+      "Dev qurolxonasining eshiklari lang ochildi,"
+    ],
+    "quiz_riddle_mastery": [
+      "Zehnni charxlaydigan vaqt keldi,",
+      "Ming yillik topishmoqni yechamizmi,",
+      "Zakovat va donolik maydoni ochildi,",
+      "Tezkor viktorinaning yorqin olovi,",
+      "Lug'at boyligingni sinab ko'ramiz,",
+      "Umumiy bilimlar ummoniga sho'ng'i,",
+      "To'g'ri javobning oltin nuri ko'rinmoqda,"
+    ],
+    "timelab_tally_secret": [
+      "Vaqtni zabt etgan butun olamni zabt etadi,",
+      "Kinematik TimeLab darvozasini oching,",
+      "Chuqur diqqat sehrini ishga soladigan vaqt,",
+      "Chiq-chiq, nanosoniyalarning siri,",
+      "Bir, ikki, uch, raqamlarni sanaylik,",
+      "Diqqat nafasini rostlab ol,",
+      "Nanosoniya darajasidagi diqqat maydoniga kir,"
+    ],
+    "coin_economy_mastery": [
+      "Sehrli tangalar xaltasini ochamiz,",
+      "Oltin chiqsin taq-tuq, kumush chiqsin taq-tuq,",
+      "Haqiqiy boylik sari yo'lni ko'rsataman,",
+      "Devning xazina ombori qulfi ochildi,",
+      "Tomchidan ko'l hosil bo'ladi demaganlarmi,",
+      "Tejamkor dev iqtisodiyoti,",
+      "Donolik bilan yig' va aql bilan sarfla,"
+    ],
+    "lucky_numbers": [
+      "Omadli raqamlarni yaratadigan fursat keldi,",
+      "Falak energiyasini raqamlarga joylaylik,",
+      "Bugungi omadli raqamlaringni tuzib beraymi,",
+      "Sana va ismni aralashtirib ulug'vor raqam yasaymiz,",
+      "O'zingning homiy raqamlaringni tanla,",
+      "Omad keltiruvchi quvnoq olti raqam,",
+      "Qadrdonlaring bilan ulashish uchun omadni tanla,"
+    ]
+  }
+}

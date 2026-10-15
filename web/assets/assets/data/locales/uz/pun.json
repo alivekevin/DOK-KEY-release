@@ -1,0 +1,162 @@
+[
+  {
+    "id": "pun_uz_01",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Simda 3 ta chumchuq o'tirgan edi. Ovchi bittasini otib tushirdi. Simda nechta chumchuq qoldi?",
+    "options": [
+      "2 ta",
+      "1 ta",
+      "0 ta",
+      "3 ta"
+    ],
+    "answer_index": 2,
+    "explanation": "O'q ovozidan qo'rqqan qolgan chumchuqlar uchib ketdi, shuning uchun hech biri qolmadi.",
+    "audio_key": "pun_uz_01",
+    "audio_path": "assets/audio/pun/uz/01.mp3"
+  },
+  {
+    "id": "pun_uz_02",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Qaysi mashinada hech qachon benzin tugamaydi?",
+    "options": [
+      "Mersedes",
+      "Velosiped",
+      "Damas",
+      "Traktor"
+    ],
+    "answer_index": 1,
+    "explanation": "Velosiped benzin bilan emas, oyoq kuchi bilan harakatlanadi.",
+    "audio_key": "pun_uz_02",
+    "audio_path": "assets/audio/pun/uz/02.mp3"
+  },
+  {
+    "id": "pun_uz_03",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Kallasi bor, lekin miyasi yo'q narsa nima?",
+    "options": [
+      "Piyoz",
+      "Pomidor",
+      "Karam",
+      "Qovun"
+    ],
+    "answer_index": 0,
+    "explanation": "O'zbek tilida piyozning bosh qismi 'bosh' (kalla) deb ataladi.",
+    "audio_key": "pun_uz_03",
+    "audio_path": "assets/audio/pun/uz/03.mp3"
+  },
+  {
+    "id": "pun_uz_04",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Yozda kiyinadi, qishda yechinadi. Bu nima?",
+    "options": [
+      "Muzlatgich",
+      "Daraxt",
+      "Pechka",
+      "Qorbola"
+    ],
+    "answer_index": 1,
+    "explanation": "Daraxtlar bahor va yozda barg yozadi, qishda esa to'kadi.",
+    "audio_key": "pun_uz_04",
+    "audio_path": "assets/audio/pun/uz/04.mp3"
+  },
+  {
+    "id": "pun_uz_05",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Qaysi daryoning suvi yo'q?",
+    "options": [
+      "Amudaryo",
+      "Xaritadagi daryo",
+      "Sirdaryo",
+      "Zarafshon"
+    ],
+    "answer_index": 1,
+    "explanation": "Xaritada daryolar faqat chiziq shaklida chizilgan, suv bo'lmaydi.",
+    "audio_key": "pun_uz_05",
+    "audio_path": "assets/audio/pun/uz/05.mp3"
+  },
+  {
+    "id": "pun_uz_06",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Eshikni ochish uchun birinchi nima qilish kerak?",
+    "options": [
+      "Kalit solish",
+      "Irik siltash",
+      "Eshikka yaqinlashish",
+      "Taqillatish"
+    ],
+    "answer_index": 2,
+    "explanation": "Eshikka yaqin kelmasdan turib eshikni ochib bo'lmaydi.",
+    "audio_key": "pun_uz_06",
+    "audio_path": "assets/audio/pun/uz/06.mp3"
+  },
+  {
+    "id": "pun_uz_07",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Qaysi soat kuniga ikki marta to'g'ri vaqtni ko'rsatadi?",
+    "options": [
+      "Qo'l soati",
+      "Buzilgan soat",
+      "Quyosh soati",
+      "Devor soati"
+    ],
+    "answer_index": 1,
+    "explanation": "To'xtab qolgan soat har 12 soatda bir marta to'g'ri vaqt ustida turadi.",
+    "audio_key": "pun_uz_07",
+    "audio_path": "assets/audio/pun/uz/07.mp3"
+  },
+  {
+    "id": "pun_uz_08",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Tishlari ko'p, lekin hech narsa yemaydi. Bu nima?",
+    "options": [
+      "Taroq",
+      "Akula",
+      "Arra",
+      "Tog'"
+    ],
+    "answer_index": 0,
+    "explanation": "Taroqning tishlari bor, lekin u ovqat yemaydi.",
+    "audio_key": "pun_uz_08",
+    "audio_path": "assets/audio/pun/uz/08.mp3"
+  },
+  {
+    "id": "pun_uz_09",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Qancha ko'p olsang, shuncha kattalashadi. Bu nima?",
+    "options": [
+      "Qarz",
+      "Chuqur",
+      "Boylik",
+      "Qorin"
+    ],
+    "answer_index": 1,
+    "explanation": "Tuproqni qancha ko'p qazib olsangiz, o'ra (chuqur) shuncha kattalashadi.",
+    "audio_key": "pun_uz_09",
+    "audio_path": "assets/audio/pun/uz/09.mp3"
+  },
+  {
+    "id": "pun_uz_10",
+    "lang": "uz",
+    "category": "pun",
+    "question": "Qaysi oyda odamlar eng kam uxlaydilar?",
+    "options": [
+      "Yanvar",
+      "Fevral",
+      "Iyun",
+      "Dekabr"
+    ],
+    "answer_index": 1,
+    "explanation": "Fevral oyi 28 yoki 29 kundan iborat bo'lgani uchun kunlar soni eng kam.",
+    "audio_key": "pun_uz_10",
+    "audio_path": "assets/audio/pun/uz/10.mp3"
+  }
+]

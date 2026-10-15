@@ -1,0 +1,26 @@
+{
+  "morning": {
+    "name": "Tong",
+    "emoji": "🌅",
+    "meaning_axis": "Yangi boshlanish va jasur parvoz",
+    "description": "Quyosh ko'tariladigan payt, to'xtab qolgan ishlarga shiddatli start berish vaqti"
+  },
+  "noon": {
+    "name": "Tush",
+    "emoji": "☀️",
+    "meaning_axis": "Risoladagi do'stlik va homiy ko'magi",
+    "description": "Kun charaqlagan palla, insonlar bilan muloqot qilib, dilingni ochish vaqti"
+  },
+  "evening": {
+    "name": "Oqshom",
+    "emoji": "🌇",
+    "meaning_axis": "Xotima va sokin tahlil",
+    "description": "Quyosh botayotgan vaqt, mevalarni terib, kamchiliklarni to'g'rilash pallasi"
+  },
+  "night": {
+    "name": "Yarim Tun",
+    "emoji": "🌙",
+    "meaning_axis": "Ichki xotirjamlik va ma'naviy yuksalish",
+    "description": "Sokinlik hukm suradigan payt, ortiqcha shovqinni o'chirib, o'zlikni anglash vaqti"
+  }
+}

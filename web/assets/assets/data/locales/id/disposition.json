@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "kebijaksanaan",
+        "lembut",
+        "cepat"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "tulus",
+        "sabar",
+        "tenang"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "hasrat",
+        "keberanian",
+        "vitalitas"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "halus",
+        "lembut",
+        "sensitif"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "merangkul",
+        "kepercayaan",
+        "stabil"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "wawasan",
+        "bijak",
+        "teliti"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "tegas",
+        "dorongan",
+        "jujur"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "anggun",
+        "peduli",
+        "halus"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "cerdik",
+        "fleksibel",
+        "taktik"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "kepekaan",
+        "elegan",
+        "pengamat"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "tanggung jawab",
+        "berprinsip",
+        "setia"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "empati",
+        "lembut",
+        "imajinatif"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "ceria",
+        "jenaka",
+        "hidup"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "sabar",
+        "tulus",
+        "damai"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "perintis",
+        "keberanian",
+        "dorongan"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "penuh kasih",
+        "peduli",
+        "damai"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "teguh",
+        "tegas",
+        "percaya diri"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "pandai",
+        "analitis",
+        "elegan"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "bebas",
+        "bergairah",
+        "optimis"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "sensitif",
+        "empatik",
+        "lembut"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "gigih",
+        "jenaka",
+        "mandiri"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "tepat",
+        "halus",
+        "estetis"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "kesatria",
+        "bergairah",
+        "tanggung jawab"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "lembut",
+        "intuitif",
+        "sensitif"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "tenang",
+        "wise",
+        "bijak"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "mantap",
+        "sabar",
+        "tulus"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "pemberani",
+        "teguh",
+        "mandiri"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "anggun",
+        "peka",
+        "peduli"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "ambisius",
+        "berwawasan",
+        "gigih"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "intuitif",
+        "pengamat",
+        "wise"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "bersemangat",
+        "optimis",
+        "driven"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "hangat",
+        "peduli",
+        "sabar"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "jenaka",
+        "ceria",
+        "cepat"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "elegan",
+        "peka",
+        "halus"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "setia",
+        "tanggung jawab",
+        "stabil"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "dermawan",
+        "empatik",
+        "santai"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "cemerlang",
+        "kritis",
+        "tegas"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "bijak",
+        "ugahari",
+        "tulus"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "petualang",
+        "mandiri",
+        "bergairah"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "damai",
+        "penuh kasih",
+        "sensitif"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "idealis",
+        "gigih",
+        "ambisius"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "terinspirasi",
+        "intuitif",
+        "halus"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "optimis",
+        "bersemangat",
+        "percaya diri"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "lembut",
+        "harmonis",
+        "peduli"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "praktis",
+        "kritis",
+        "cepat"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "seksama",
+        "tepat",
+        "tanggung jawab"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "lurus",
+        "setia",
+        "berprinsip"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "imajinatif",
+        "sensitif",
+        "berwawasan"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "cerah",
+        "wise",
+        "fleksibel"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "hening",
+        "sabar",
+        "stabil"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "perintis",
+        "gigih",
+        "berani"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "penuh kasih",
+        "lembut",
+        "estetis"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "percaya diri",
+        "bergairah",
+        "merangkul"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "tajam",
+        "berwawasan",
+        "peka"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "ramah",
+        "percaya diri",
+        "driven"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "damai",
+        "dermawan",
+        "tulus"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "cepat",
+        "analitis",
+        "tegas"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "perfeksionis",
+        "tepat",
+        "elegan"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "setia",
+        "tanggung jawab",
+        "merangkul"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "reflektif",
+        "intuitif",
+        "imajinatif"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Garnet",
+      "stoneSub": "",
+      "stoneMeaning": "true friendship",
+      "flower": "Carnation",
+      "flowerSub": "Snowdrop",
+      "flowerMeaning": "respect and love",
+      "season": "Musim Dingin",
+      "theme": "awal baru dan persiapan",
+      "colorName": "Garnet Red",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Amethyst",
+      "stoneSub": "",
+      "stoneMeaning": "calm and sincerity",
+      "flower": "Violet",
+      "flowerSub": "Iris",
+      "flowerMeaning": "sincere love",
+      "season": "Musim Dingin",
+      "theme": "refleksi dan kebijaksanaan",
+      "colorName": "Purple",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Aquamarine",
+      "stoneSub": "",
+      "stoneMeaning": "courage and hope",
+      "flower": "Daffodil",
+      "flowerSub": "",
+      "flowerMeaning": "self-respect and hope",
+      "season": "Musim Semi",
+      "theme": "harapan dan permulaan",
+      "colorName": "Aqua",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Diamond",
+      "stoneSub": "",
+      "stoneMeaning": "purity and constancy",
+      "flower": "Daisy",
+      "flowerSub": "Sweet Pea",
+      "flowerMeaning": "purity and peace",
+      "season": "Musim Semi",
+      "theme": "kemurnian dan pertumbuhan",
+      "colorName": "Clear White",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Emerald",
+      "stoneSub": "",
+      "stoneMeaning": "happiness and recovery",
+      "flower": "Lily of the Valley",
+      "flowerSub": "Hawthorn",
+      "flowerMeaning": "return of happiness",
+      "season": "Musim Semi",
+      "theme": "kehidupan dan pemulihan",
+      "colorName": "Emerald",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Pearl",
+      "stoneSub": "Alexandrite",
+      "stoneMeaning": "love and abundance",
+      "flower": "Rose",
+      "flowerSub": "",
+      "flowerMeaning": "love and passion",
+      "season": "Musim Panas",
+      "theme": "hubungan dan kelimpahan",
+      "colorName": "Pearl Cream",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Ruby",
+      "stoneSub": "",
+      "stoneMeaning": "passion and courage",
+      "flower": "Larkspur",
+      "flowerSub": "Water Lily",
+      "flowerMeaning": "a pure heart",
+      "season": "Musim Panas",
+      "theme": "hasrat dan keberanian",
+      "colorName": "Ruby Red",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Peridot",
+      "stoneSub": "",
+      "stoneMeaning": "achievement and peace",
+      "flower": "Gladiolus",
+      "flowerSub": "Poppy",
+      "flowerMeaning": "sincerity and victory",
+      "season": "Musim Panas",
+      "theme": "kekuatan dan pencapaian",
+      "colorName": "Peridot Green",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Sapphire",
+      "stoneSub": "",
+      "stoneMeaning": "wisdom and truth",
+      "flower": "Forget-me-not",
+      "flowerSub": "Aster",
+      "flowerMeaning": "a heart that remembers",
+      "season": "Musim Gugur",
+      "theme": "kebijaksanaan dan keseimbangan",
+      "colorName": "Sapphire Blue",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Opal",
+      "stoneSub": "Tourmaline",
+      "stoneMeaning": "creativity and hope",
+      "flower": "Marigold",
+      "flowerSub": "Cosmos",
+      "flowerMeaning": "happiness that surely comes",
+      "season": "Musim Gugur",
+      "theme": "kreativitas dan perubahan",
+      "colorName": "Gold",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Topaz",
+      "stoneSub": "Citrine",
+      "stoneMeaning": "gratitude and friendship",
+      "flower": "Chrysanthemum",
+      "flowerSub": "",
+      "flowerMeaning": "nobility and truth",
+      "season": "Musim Gugur",
+      "theme": "rasa syukur dan kebaikan",
+      "colorName": "Citrine Gold",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Turquoise",
+      "stoneSub": "Tanzanite",
+      "stoneMeaning": "blessing and success",
+      "flower": "Poinsettia",
+      "flowerSub": "Holly",
+      "flowerMeaning": "blessing and hope",
+      "season": "Musim Dingin",
+      "theme": "berkah dan harapan",
+      "colorName": "Turquoise",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Kaprikornus",
+      "range": "12/22–1/19",
+      "keywords": [
+        "tanggung jawab",
+        "sabar",
+        "realistis"
+      ]
+    },
+    {
+      "sign": "Akuarius",
+      "range": "1/20–2/18",
+      "keywords": [
+        "orisinal",
+        "bebas",
+        "ramah"
+      ]
+    },
+    {
+      "sign": "Pises",
+      "range": "2/19–3/20",
+      "keywords": [
+        "empatik",
+        "imajinatif",
+        "intuitif"
+      ]
+    },
+    {
+      "sign": "Aries",
+      "range": "3/21–4/19",
+      "keywords": [
+        "bergairah",
+        "berani",
+        "driven"
+      ]
+    },
+    {
+      "sign": "Taurus",
+      "range": "4/20–5/20",
+      "keywords": [
+        "stabil",
+        "trusting",
+        "gigih"
+      ]
+    },
+    {
+      "sign": "Gemini",
+      "range": "5/21–6/20",
+      "keywords": [
+        "jenaka",
+        "komunikatif",
+        "ingin tahu"
+      ]
+    },
+    {
+      "sign": "Kanker",
+      "range": "6/21–7/22",
+      "keywords": [
+        "peduli",
+        "emosional",
+        "melindungi"
+      ]
+    },
+    {
+      "sign": "Leo",
+      "range": "7/23–8/22",
+      "keywords": [
+        "percaya diri",
+        "pemimpin",
+        "bergairah"
+      ]
+    },
+    {
+      "sign": "Virgo",
+      "range": "8/23–9/22",
+      "keywords": [
+        "halus",
+        "analitis",
+        "tulus"
+      ]
+    },
+    {
+      "sign": "Libra",
+      "range": "9/23–10/22",
+      "keywords": [
+        "harmonis",
+        "balanced",
+        "peduli"
+      ]
+    },
+    {
+      "sign": "Skorpio",
+      "range": "10/23–11/21",
+      "keywords": [
+        "berwawasan",
+        "fokus",
+        "setia"
+      ]
+    },
+    {
+      "sign": "Sagitarius",
+      "range": "11/22–12/21",
+      "keywords": [
+        "gigih",
+        "bebas",
+        "optimis"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Musim Semi",
+      "mood": "musim awal yang baru"
+    },
+    {
+      "name": "Musim Panas",
+      "mood": "musim semangat dan pertumbuhan"
+    },
+    {
+      "name": "Musim Gugur",
+      "mood": "musim kedewasaan dan rasa syukur"
+    },
+    {
+      "name": "Musim Dingin",
+      "mood": "musim istirahat dan refleksi"
+    }
+  ]
+}

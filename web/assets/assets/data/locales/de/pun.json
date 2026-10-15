@@ -47,15 +47,15 @@
   {
     "id": "pun_de_08",
     "category": "pun",
-    "question": "Was liegt am Strand und spricht undeutlich?",
+    "question": "Drei Spatzen sitzen auf einem Ast. Ein Jäger schießt einen ab. Wie viele Spatzen sitzen noch auf dem Ast?",
     "options": [
-      "Ein Betrunkener",
-      "Ein Seestern",
-      "Eine Nuschel",
-      "Eine Krabbe"
+      "2 Spatzen",
+      "1 Spatz",
+      "0 Spatzen",
+      "3 Spatzen"
     ],
     "answer_index": 2,
-    "explanation": "Legendärer Flachwitz: Verschmelzung von Muschel mit dem Verb 'nuscheln' (undeutlich sprechen).",
+    "explanation": "Durch den lauten Schussknall sind die anderen Spatzen alle weggeflogen.",
     "audio_key": "pun_de_08",
     "audio_path": "assets/audio/pun/de/08.mp3"
   },

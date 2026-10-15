@@ -32,15 +32,15 @@
   {
     "id": "pun_ko_04",
     "category": "pun",
-    "question": "왕이 넘어지면 무엇이 될까요?",
+    "question": "전깃줄에 참새 3마리가 앉아 있었는데, 포수가 총을 쏴서 1마리를 맞혔다. 전깃줄에 남은 참새는 몇 마리일까요?",
     "options": [
-      "부상",
-      "킹콩",
-      "쿵덕쿵",
-      "퇴위"
+      "2마리",
+      "1마리",
+      "0마리",
+      "3마리"
     ],
-    "answer_index": 1,
-    "explanation": "영어의 왕(King)과 쿵 넘어지는 소리(Kong)를 합친 말장난입니다.",
+    "answer_index": 2,
+    "explanation": "총소리에 놀란 나머지 참새들이 전부 날아가 버렸기 때문에 0마리입니다.",
     "audio_key": "pun_ko_04",
     "audio_path": "assets/audio/pun/ko/04.mp3"
   },

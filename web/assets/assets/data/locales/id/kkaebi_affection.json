@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Tamu Asing",
+      "subtitle": "Pengamat sopan yang masih waspada",
+      "quote": "Siapa pengelana jauh ini? Tertarik melihat tongkat ajaib goblinku ya?",
+      "perks": [
+        "Buka Ramalan 1-Undian Harian",
+        "Sapaan Standar Kkaebi"
+      ]
+    },
+    "2": {
+      "title": "Kawan Akrab",
+      "subtitle": "Goblin jenaka yang mulai ramah",
+      "quote": "Wah! Datang lagi kawan! Hal seru apa yang kau bawa hari ini?",
+      "perks": [
+        "Ekspresi Kedip & Sorak Kkaebi Melayang",
+        "Sentuh Harian Kkaebi (+5 Keakraban)",
+        "Suara Ramalan Santai & Hangat"
+      ]
+    },
+    "3": {
+      "title": "Sahabat Sejati",
+      "subtitle": "Teman karib pembagi rahasia Makhluk Suci & Dewa",
+      "quote": "Kuberi tahu rahasia kecil... energi Makhluk Suci hari ini sungguh luar biasa!",
+      "perks": [
+        "Topik Obrolan Rahasia Terbuka",
+        "Nasihat Khusus 1 Baris pada Hasil Ramalan",
+        "Efek Kilau Emas Tongkat Lebih Megah"
+      ]
+    },
+    "4": {
+      "title": "Belahan Jiwa Goblin",
+      "subtitle": "Sahabat tepercaya pembawa limpahan rezeki emas",
+      "quote": "Lihat betapa eratnya kita kini! Kau benar-benar belahan jiwa terbaikku.",
+      "perks": [
+        "Efek Aura Api Goblin Melayang Aktif",
+        "Bonus Kunci Emas (+1) Tiap Hari Senin",
+        "Bimbingan Empati Mendalam di Ruang Obrolan"
+      ]
+    },
+    "5": {
+      "title": "Legenda Abadi",
+      "subtitle": "Roh pelindung ikatan takdir seribu tahun",
+      "quote": "Rasa-rasanya aku sudah menantimu selama seribu tahun. Kuberi berkah emas melimpah di langkahmu!",
+      "perks": [
+        "Lencana Gelar Master Goblin Emas",
+        "Efek Berkah Emas Tertinggi",
+        "Buka Dialog Legenda Rahasia Purba"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Aduh geli! Mengapa menggelitikku terus? 😆",
+    "Hehe, kau suka sekali membelai kepalaku ya! ✨",
+    "Emas keluarlah tuk-tak! Semoga berkah raya menyertaimu! 🔮",
+    "Katanya menyentuh tanduk goblin bisa mengabulkan impianmu! 😈",
+    "Semangat hari ini! Aku selalu menjagamu dari belakang! 💖"
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "sabiduría",
+        "afable",
+        "ágil"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "sincero",
+        "paciencia",
+        "sereno"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "pasión",
+        "valor",
+        "vigor"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "섬세",
+        "afable",
+        "emoción"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "acogida",
+        "confianza",
+        "estable"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "visión",
+        "prudente",
+        "minucioso"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "decisión",
+        "empuje",
+        "honesto"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "elegante",
+        "atento",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "ingenio",
+        "flexible",
+        "chispa"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "sentido",
+        "refinado",
+        "visión"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "deber",
+        "norma",
+        "lealtad"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "empatía",
+        "afable",
+        "fantasía"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "alegre",
+        "chispa",
+        "activo"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "paciencia",
+        "sincero",
+        "paz"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "pionero",
+        "valor",
+        "empuje"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "afable",
+        "atento",
+        "paz"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "firmeza",
+        "decisión",
+        "seguro"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "listo",
+        "análisis",
+        "refinado"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "libre",
+        "pasión",
+        "optimista"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "sensible",
+        "empatía",
+        "afable"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "audaz",
+        "ingenio",
+        "libre"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "fino",
+        "섬세",
+        "estética"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "noble",
+        "pasión",
+        "deber"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "afable",
+        "intuición",
+        "emoción"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "calmo",
+        "sabiduría",
+        "prudente"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "constante",
+        "paciencia",
+        "sincero"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "furia",
+        "decisión",
+        "libre"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "elegante",
+        "sentido",
+        "atento"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "meta",
+        "visión",
+        "audaz"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "intuición",
+        "visión",
+        "sabiduría"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "vigor",
+        "optimista",
+        "empuje"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "calidez",
+        "atento",
+        "paciencia"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "chispa",
+        "alegre",
+        "ágil"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "refinado",
+        "sentido",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "fe",
+        "deber",
+        "estable"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "magnánimo",
+        "empatía",
+        "calma"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "brillante",
+        "판단",
+        "decisión"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "prudente",
+        "mesura",
+        "sincero"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "aventura",
+        "libre",
+        "pasión"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "paz",
+        "afable",
+        "emoción"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "ideal",
+        "audaz",
+        "meta"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "inspirado",
+        "intuición",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "optimista",
+        "vigor",
+        "seguro"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "afable",
+        "armonía",
+        "atento"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "práctico",
+        "판단",
+        "ágil"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "meticuloso",
+        "fino",
+        "deber"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "rectitud",
+        "lealtad",
+        "norma"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "creativo",
+        "emoción",
+        "visión"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "listo",
+        "sabiduría",
+        "flexible"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "silente",
+        "paciencia",
+        "estable"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "pionero",
+        "audaz",
+        "valor"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "afable",
+        "afable",
+        "estética"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "seguro",
+        "pasión",
+        "acogida"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "agudo",
+        "visión",
+        "sentido"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "vivo",
+        "seguro",
+        "empuje"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "paz",
+        "magnánimo",
+        "sincero"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "ágil",
+        "análisis",
+        "decisión"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "precisión",
+        "fino",
+        "refinado"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "lealtad",
+        "deber",
+        "acogida"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "reflexión",
+        "intuición",
+        "fantasía"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Granate",
+      "stoneSub": "",
+      "stoneMeaning": "amistad sincera",
+      "flower": "Clavel",
+      "flowerSub": "Campanilla",
+      "flowerMeaning": "amor y respeto",
+      "season": "Invierno",
+      "theme": "nuevo inicio",
+      "colorName": "Rojo Granate",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Amatista",
+      "stoneSub": "",
+      "stoneMeaning": "calma y lealtad",
+      "flower": "Violeta",
+      "flowerSub": "Iris",
+      "flowerMeaning": "amor sincero",
+      "season": "Invierno",
+      "theme": "sabiduría",
+      "colorName": "Púrpura",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Aguamarina",
+      "stoneSub": "",
+      "stoneMeaning": "valor y esperanza",
+      "flower": "Narciso",
+      "flowerSub": "",
+      "flowerMeaning": "esperanza",
+      "season": "Primavera",
+      "theme": "esperanza",
+      "colorName": "Agua",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Diamante",
+      "stoneSub": "",
+      "stoneMeaning": "pureza y firmeza",
+      "flower": "Margarita",
+      "flowerSub": "Guisante",
+      "flowerMeaning": "paz y pureza",
+      "season": "Primavera",
+      "theme": "crecimiento",
+      "colorName": "Blanco Puro",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Esmeralda",
+      "stoneSub": "",
+      "stoneMeaning": "dicha y salud",
+      "flower": "Lirio de mayo",
+      "flowerSub": "Espino",
+      "flowerMeaning": "felicidad",
+      "season": "Primavera",
+      "theme": "renacimiento",
+      "colorName": "Esmeralda",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Perla",
+      "stoneSub": "Alejandrita",
+      "stoneMeaning": "amor y riqueza",
+      "flower": "Rosa",
+      "flowerSub": "",
+      "flowerMeaning": "pasión",
+      "season": "Verano",
+      "theme": "vínculos",
+      "colorName": "Crema Perla",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Rubí",
+      "stoneSub": "",
+      "stoneMeaning": "pasión y valor",
+      "flower": "Espuela",
+      "flowerSub": "Nenúfar",
+      "flowerMeaning": "corazón puro",
+      "season": "Verano",
+      "theme": "energía",
+      "colorName": "Rojo Rubí",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Peridoto",
+      "stoneSub": "",
+      "stoneMeaning": "éxito y paz",
+      "flower": "Gladiolo",
+      "flowerSub": "Amapola",
+      "flowerMeaning": "victoria",
+      "season": "Verano",
+      "theme": "logro",
+      "colorName": "Verde Peridoto",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Zafiro",
+      "stoneSub": "",
+      "stoneMeaning": "verdad y saber",
+      "flower": "Miosotis",
+      "flowerSub": "Áster",
+      "flowerMeaning": "recuerdo",
+      "season": "Otoño",
+      "theme": "equilibrio",
+      "colorName": "Azul Zafiro",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Ópalo",
+      "stoneSub": "Turmalina",
+      "stoneMeaning": "ilusión y arte",
+      "flower": "Caléndula",
+      "flowerSub": "Cosmos",
+      "flowerMeaning": "dicha futura",
+      "season": "Otoño",
+      "theme": "cambio",
+      "colorName": "Oro",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Topacio",
+      "stoneSub": "Citrino",
+      "stoneMeaning": "gratitud y paz",
+      "flower": "Crisantemo",
+      "flowerSub": "",
+      "flowerMeaning": "nobleza",
+      "season": "Otoño",
+      "theme": "gratitud",
+      "colorName": "Oro Citrino",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Turquesa",
+      "stoneSub": "Tanzanita",
+      "stoneMeaning": "éxito y bien",
+      "flower": "Poinsettia",
+      "flowerSub": "Acebo",
+      "flowerMeaning": "bendición",
+      "season": "Invierno",
+      "theme": "bendición",
+      "colorName": "Turquesa",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Capricornio",
+      "range": "12/22–1/19",
+      "keywords": [
+        "deber",
+        "paciencia",
+        "real"
+      ]
+    },
+    {
+      "sign": "Acuario",
+      "range": "1/20–2/18",
+      "keywords": [
+        "original",
+        "libre",
+        "amistad"
+      ]
+    },
+    {
+      "sign": "Piscis",
+      "range": "2/19–3/20",
+      "keywords": [
+        "empatía",
+        "fantasía",
+        "intuición"
+      ]
+    },
+    {
+      "sign": "Aries",
+      "range": "3/21–4/19",
+      "keywords": [
+        "pasión",
+        "reto",
+        "empuje"
+      ]
+    },
+    {
+      "sign": "Tauro",
+      "range": "4/20–5/20",
+      "keywords": [
+        "estable",
+        "confianza",
+        "tesón"
+      ]
+    },
+    {
+      "sign": "Géminis",
+      "range": "5/21–6/20",
+      "keywords": [
+        "chispa",
+        "diálogo",
+        "curioso"
+      ]
+    },
+    {
+      "sign": "Cáncer",
+      "range": "6/21–7/22",
+      "keywords": [
+        "atento",
+        "sentir",
+        "amparo"
+      ]
+    },
+    {
+      "sign": "Leo",
+      "range": "7/23–8/22",
+      "keywords": [
+        "seguro",
+        "líder",
+        "pasión"
+      ]
+    },
+    {
+      "sign": "Virgo",
+      "range": "8/23–9/22",
+      "keywords": [
+        "섬세",
+        "análisis",
+        "sincero"
+      ]
+    },
+    {
+      "sign": "Libra",
+      "range": "9/23–10/22",
+      "keywords": [
+        "armonía",
+        "균형",
+        "atento"
+      ]
+    },
+    {
+      "sign": "Escorpio",
+      "range": "10/23–11/21",
+      "keywords": [
+        "visión",
+        "foco",
+        "lealtad"
+      ]
+    },
+    {
+      "sign": "Sagitario",
+      "range": "11/22–12/21",
+      "keywords": [
+        "audaz",
+        "libre",
+        "optimista"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Primavera",
+      "mood": "tiempo de nuevo inicio"
+    },
+    {
+      "name": "Verano",
+      "mood": "tiempo de pasión y vida"
+    },
+    {
+      "name": "Otoño",
+      "mood": "tiempo de calma y gratitud"
+    },
+    {
+      "name": "Invierno",
+      "mood": "tiempo de paz y reflexión"
+    }
+  ]
+}

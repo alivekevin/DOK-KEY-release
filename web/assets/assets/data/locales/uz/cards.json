@@ -1,0 +1,332 @@
+{
+  "Z01": {
+    "name": "Zi (Sichqon)",
+    "symbol": "Homiy timsol: Messenger of Wisdom & Wealth",
+    "description": "Sharp wit that discovers pathways in the dark, bringing golden keys of abundance."
+  },
+  "Z02": {
+    "name": "Chou (Ho'kiz)",
+    "symbol": "Homiy timsol: Steadfast Earth & Diligence",
+    "description": "Unyielding perseverance advancing step by step toward monumental harvest."
+  },
+  "Z03": {
+    "name": "Yin (Yo'lbars)",
+    "symbol": "Homiy timsol: Lord of Valor & Protection",
+    "description": "Fierce courage that cuts through misfortune and flings wide the gates of fortune."
+  },
+  "Z04": {
+    "name": "Mao (Quyon)",
+    "symbol": "Homiy timsol: Moonlight of Agility & Leap",
+    "description": "Sparkling inspiration beneath the moon, leaping gracefully over all hurdles."
+  },
+  "Z05": {
+    "name": "Chen (Ajdaho)",
+    "symbol": "Homiy timsol: Guide of Celestial Harmony",
+    "description": "Ascending heaven with the azure jewel, ushering in grand celestial harmony."
+  },
+  "Z06": {
+    "name": "Si (Ilon)",
+    "symbol": "Homiy timsol: Flame of Transformation & Intuition",
+    "description": "Shedding the old to be reborn, guiding life turning points with piercing insight."
+  },
+  "Z07": {
+    "name": "Wu (Oq Ot)",
+    "symbol": "Homiy timsol: Passion & Unstoppable Gallop",
+    "description": "Galloping across open plains with wind-swept mane, surging toward your destiny."
+  },
+  "Z08": {
+    "name": "Wei (Qo'y)",
+    "symbol": "Homiy timsol: Serenity & Gentle Harmony",
+    "description": "Embracing relationships with pure warmth, bringing profound inner tranquility."
+  },
+  "Z09": {
+    "name": "Shen (Maymun)",
+    "symbol": "Homiy timsol: Spark of Wit & Talent",
+    "description": "Clever agility that turns complicated challenges into cheerful creative breakthroughs."
+  },
+  "Z10": {
+    "name": "You (Xo'roz)",
+    "symbol": "Homiy timsol: Herald of Dawn & Foresight",
+    "description": "Piercing the dark to welcome the morning sun, calling forth fresh opportunity and wealth."
+  },
+  "Z11": {
+    "name": "Xu (It)",
+    "symbol": "Homiy timsol: Loyalty & Guardian of Home",
+    "description": "Steadfast fidelity guarding cherished bonds and fortune with unwavering warmth."
+  },
+  "Z12": {
+    "name": "Hai (Oltin To'ng'iz)",
+    "symbol": "Homiy timsol: Harvest of Abundance & Fortune",
+    "description": "Overflowing with golden blessings, pouring boundless wealth and joy into your life."
+  },
+  "Z13": {
+    "name": "Haetae (Adolat homiysi)",
+    "symbol": "Homiy timsol: Guardian of Justice & Fire Protection",
+    "description": "Mythical beast discerning truth from falsehood, repelling disasters and bringing justice."
+  },
+  "Z14": {
+    "name": "Qilin (Tinchlik timsoli)",
+    "symbol": "Homiy timsol: Herald of Peace & Prosperity",
+    "description": "Benevolent mythical creature blessing the world with tranquility and enlightened wisdom."
+  },
+  "Z15": {
+    "name": "Alvon Qaqnus (Jujak)",
+    "symbol": "Homiy timsol: Southern Phoenix & Eternal Flame",
+    "description": "Fiery wings consuming negativity and igniting inexhaustible passion and vitality."
+  },
+  "Z16": {
+    "name": "Qora Toshbaqa (Hyeonmu)",
+    "symbol": "Homiy timsol: Longevity & Northern Shield",
+    "description": "Turtle and serpent united, securing everlasting stability, health, and firm foundations."
+  },
+  "Z17": {
+    "name": "Oq Kiyik",
+    "symbol": "Homiy timsol: Pure Healing & Longevity",
+    "description": "Sacred mountain deer drinking pure morning dew, granting gentle recovery and serenity."
+  },
+  "Z18": {
+    "name": "Fenghuang (Muqaddas Qush)",
+    "symbol": "Homiy timsol: Noble Dignity & Harmony",
+    "description": "Luminous five-colored plumage blessing your home with supreme grace and prosperity."
+  },
+  "Z19": {
+    "name": "Uchoq Qarg'a",
+    "symbol": "Homiy timsol: Solar Messenger & Radiance",
+    "description": "Sun crow channeling celestial radiance, connecting heaven's will to human endeavor."
+  },
+  "Z20": {
+    "name": "To'qqiz Dumluk Tulki",
+    "symbol": "Homiy timsol: Millennial Wisdom & Charm",
+    "description": "Mystical fox weaving enchantment and deep psychological insight across nine tails."
+  },
+  "Z21": {
+    "name": "Yakkashox (Unicorn)",
+    "symbol": "Homiy timsol: Purity & Miraculous Hope",
+    "description": "Radiant horned steed cleansing tired spirits and welcoming miraculous luck."
+  },
+  "Z22": {
+    "name": "Uch Ko'zli Kuchuk",
+    "symbol": "Homiy timsol: Clairvoyance & Ward of Evil",
+    "description": "The third eye penetrating all hidden illusions, warding off misfortune instantly."
+  },
+  "Z23": {
+    "name": "Ganesha qiyofasi",
+    "symbol": "Homiy timsol: Remover of Obstacles & Fortune",
+    "description": "Destroying all barriers on your path and inaugurating vast prosperity and wisdom."
+  },
+  "Z24": {
+    "name": "Sobek qo'riqchisi",
+    "symbol": "Homiy timsol: Nile Fertility & Abundance",
+    "description": "River vitality blessing your soil with everlasting fertility and abundant wealth."
+  },
+  "Z25": {
+    "name": "Imugi (Kichik Ajdaho)",
+    "symbol": "Homiy timsol: Patience & Great Ascendance",
+    "description": "Unbending persistence evolving through patience to finally seize the celestial jewel."
+  },
+  "Z26": {
+    "name": "Baliq Ajdaho",
+    "symbol": "Homiy timsol: Leap over Dragon Gate & Success",
+    "description": "Swimming against strong rapids to transform into a dragon of high prestige."
+  },
+  "Z27": {
+    "name": "Sfinks",
+    "symbol": "Homiy timsol: Riddle Master & Golden Vault",
+    "description": "Guardian opening hidden vaults of gold for minds possessing deep discernment."
+  },
+  "Z28": {
+    "name": "Leviafan",
+    "symbol": "Homiy timsol: Deep Ocean Potential & Depth",
+    "description": "Vast marine majesty stirring dormant inner potentials and limitless vitality."
+  },
+  "Z29": {
+    "name": "Mushuk Boshli Ilon",
+    "symbol": "Homiy timsol: Keen Instinct & Serene Rest",
+    "description": "Sharp sensory guard repelling negative energies to ensure tranquil peace."
+  },
+  "Z30": {
+    "name": "Uch Oyoqli Oltin Baqa",
+    "symbol": "Homiy timsol: Attractor of Golden Wealth",
+    "description": "Gathering gold coins from all corners to fill your treasury with prosperity."
+  },
+  "Z31": {
+    "name": "Grifon",
+    "symbol": "Homiy timsol: Courage & Guardian of Treasure",
+    "description": "Eagle wings and lion strength fiercely protecting honor, legacy, and wealth."
+  },
+  "Z32": {
+    "name": "Oq Yo'lbars",
+    "symbol": "Homiy timsol: Ward Against Evil & Righteous Valor",
+    "description": "A sacred beast that dispels misfortunes with silver frost and unwavering courage, opening a steadfast path to victory."
+  },
+  "Z33": {
+    "name": "Qanotli Ilon (Quetzalcoatl)",
+    "symbol": "Homiy timsol: Feathered Serpent of Wisdom",
+    "description": "Rainbow-winged serpent sowing seeds of revolutionary knowledge and abundance."
+  },
+  "M01": {
+    "name": "Sehrli Kaltak Jangchisi",
+    "symbol": "Homiy timsol: Benevolent Sage of Sacred Peaks",
+    "description": "Compassionate mountain guardian overseeing valleys, bestowing spiritual clarity."
+  },
+  "M02": {
+    "name": "Tog' Tangrisi (Sansin)",
+    "symbol": "Homiy timsol: Severer of Ill Fate & Guide",
+    "description": "Severing cursed attachments decisively to lead the soul toward rightful renewal."
+  },
+  "M03": {
+    "name": "Yetti Yulduz Tangrisi",
+    "symbol": "Homiy timsol: Celestial Harmony & Sovereign Luck",
+    "description": "Supreme ruler of heavenly realms harmonizing cosmos and pouring forth boundless fortune."
+  },
+  "M04": {
+    "name": "O'choq Tangrisi (Jowang)",
+    "symbol": "Homiy timsol: Mirror of Truth & Impartial Justice",
+    "description": "Holding the mirror of absolute truth, restoring balance and vindicating rightful deeds."
+  },
+  "M05": {
+    "name": "Xonadon Homiysi (Seongju)",
+    "symbol": "Homiy timsol: Primordial Creation & Abundant Earth",
+    "description": "Giant primordial creatrix shaping land and rivers, cradling life with boundless nurture."
+  },
+  "M06": {
+    "name": "Darvoza Homiysi (Jangseung)",
+    "symbol": "Homiy timsol: Elixir of Life & Devotion",
+    "description": "Retrieving the water of resurrection to heal deep spiritual wounds with tender compassion."
+  },
+  "M07": {
+    "name": "Go'daklar Homiysi (Samshin)",
+    "symbol": "Homiy timsol: Blessing of Birth & Family Peace",
+    "description": "Guardian of life and family well-being, bestowing warm maternal grace upon all beginnings."
+  },
+  "M08": {
+    "name": "Dengiz Ajdaho Shohi",
+    "symbol": "Homiy timsol: Ocean Treasures & Boundless Wealth",
+    "description": "Commanding oceanic depths and tides, uncovering hidden riches and infinite fortunes."
+  },
+  "M09": {
+    "name": "Yer Homiysi (Toji)",
+    "symbol": "Homiy timsol: Sanctuary Guardian & Wealth Anchor",
+    "description": "Anchor of domestic tranquility preventing fortune from scattering, ensuring peace."
+  },
+  "M10": {
+    "name": "Besh Tomon Baraka Tangrisi",
+    "symbol": "Homiy timsol: Sky Thunder & Supreme Authority",
+    "description": "Wielding celestial thunder, granting majestic leadership and resounding victory."
+  },
+  "M11": {
+    "name": "Bahor Shamoli Ma'budasi",
+    "symbol": "Homiy timsol: Ocean Surges & Untamed Ambition",
+    "description": "Ruler of tumultuous seas, opening wide frontiers of daring venture and power."
+  },
+  "M12": {
+    "name": "Falak Qozisi",
+    "symbol": "Homiy timsol: Subterranean Wealth & Silent Power",
+    "description": "Lord of hidden minerals and precious stones, yielding solid wealth in silent depth."
+  },
+  "M13": {
+    "name": "Samoviy Xabarchi",
+    "symbol": "Homiy timsol: Mjolnir's Courage & Breakthrough",
+    "description": "Shattering obstacles with the thunder hammer, championing decisive triumph."
+  },
+  "M14": {
+    "name": "Qadimiy Daraxt Homiysi",
+    "symbol": "Homiy timsol: Runic Wisdom & Deep Insight",
+    "description": "Allfather seeking cosmic truth, guiding minds with profound strategic vision."
+  },
+  "M15": {
+    "name": "Chaqmoq va Momaqaldiroq Tangrisi",
+    "symbol": "Homiy timsol: Strategic Wisdom & Just Victory",
+    "description": "Goddess of tactical intellect, guiding endeavors toward flawless, righteous victory."
+  },
+  "M16": {
+    "name": "Muqaddas Buloq Homiysi",
+    "symbol": "Homiy timsol: Solar Radiance & Creative Inspiration",
+    "description": "Illuminating the spirit with warm golden light, inspiring art, health, and bright futures."
+  },
+  "M17": {
+    "name": "Tong Yulduzi Tangrisi",
+    "symbol": "Homiy timsol: Playful Twist & Unorthodox Wit",
+    "description": "Thinking outside all boxes to flip gridlocked stalemates with ingenious flair."
+  },
+  "M18": {
+    "name": "To'quvchi Ma'buda",
+    "symbol": "Homiy timsol: Wings of Victory & Honorable Ascent",
+    "description": "Lifting courageous spirits toward halls of honor, glory, and noble achievement."
+  },
+  "M19": {
+    "name": "To'qqiz Osmon Sayyohi",
+    "symbol": "Homiy timsol: Infinite Serenity & Compassion",
+    "description": "Washing away all worries, gifting absolute inner stillness and boundless peace."
+  },
+  "M20": {
+    "name": "Oltin Kimyo Tangrisi",
+    "symbol": "Homiy timsol: Universal Compassion & Relief",
+    "description": "Listening tenderly to every whispered plea, bestowing soothing solace and relief."
+  },
+  "M21": {
+    "name": "Bambukzor Homiysi",
+    "symbol": "Homiy timsol: New Beginnings & Golden Prosperity",
+    "description": "Patron of successful ventures, clearing paths for new beginnings and flourishing trade."
+  },
+  "M22": {
+    "name": "Cho'yan Qozon Homiysi",
+    "symbol": "Homiy timsol: Cosmic Dance & Mighty Transformation",
+    "description": "Dissolving stagnation through cosmic rhythm, igniting powerful rebirth and vitality."
+  },
+  "M23": {
+    "name": "Nay Navosi Tangrisi",
+    "symbol": "Homiy timsol: Lightning of the East & High Honor",
+    "description": "Commanding celestial skies with righteous storm, defending nobility and valor."
+  },
+  "M24": {
+    "name": "Tushlar Rahbari",
+    "symbol": "Homiy timsol: Solar Falcon & Supreme Radiance",
+    "description": "Golden solar falcon soaring across skies, infusing existence with radiant strength."
+  },
+  "M25": {
+    "name": "Dengiz Qoyalari Homiysi",
+    "symbol": "Homiy timsol: Rebirth & Eternal Sprouting",
+    "description": "Lord of fertile regeneration, nurturing resilient seeds of revival and fruitful rebirth."
+  },
+  "M26": {
+    "name": "Tong Sh شبnami Tangrisi",
+    "symbol": "Homiy timsol: Joy & Protector of the Hearth",
+    "description": "Feline goddess shielding homes with gentle joy, warmth, and protective blessings."
+  },
+  "M27": {
+    "name": "Nilufar Chirog'i Homiysi",
+    "symbol": "Homiy timsol: Scales of Truth & Guiding Beacon",
+    "description": "Weighing matters with pure justice, providing crystal clarity in moments of dilemma."
+  },
+  "M28": {
+    "name": "Hikmat Ko'zgusi Tangrisi",
+    "symbol": "Homiy timsol: Sword of Justice & Celestial Shield",
+    "description": "Smiting dark energies with incandescent blade, providing absolute protection."
+  },
+  "M29": {
+    "name": "Ezgu Qo'ng'iroq Tangrisi",
+    "symbol": "Homiy timsol: Trumpet of Hope & Joyful Tidings",
+    "description": "Blowing the horn of good news, heralding joyful reunions and fortunate breakthroughs."
+  },
+  "M30": {
+    "name": "Yomg'ir Yelpog'i Tangrisi",
+    "symbol": "Homiy timsol: Healing Warmth & Safe Journey",
+    "description": "Gentle healer mending weary hearts and guiding travelers toward safe recovery."
+  },
+  "M31": {
+    "name": "Yulduzlar Darvozaboni",
+    "symbol": "Homiy timsol: Beacon of Wisdom & Illumination",
+    "description": "Illuminating complex dilemmas with divine spark, showing clear direction."
+  },
+  "M32": {
+    "name": "Musofirlar Homiysi",
+    "symbol": "Homiy timsol: Gentle Presence & Daily Protection",
+    "description": "Unwavering loving companion watching over every quiet step of daily life."
+  },
+  "M33": {
+    "name": "Devlar Hukmdori Kkaebi",
+    "symbol": "Homiy timsol: Weaver of Destiny & Precious Ties",
+    "description": "Untangling complicated threads to weave a tapestry of noble destiny and serendipity."
+  }
+}

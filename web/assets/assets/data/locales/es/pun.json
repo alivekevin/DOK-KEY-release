@@ -62,15 +62,15 @@
   {
     "id": "pun_es_05",
     "category": "pun",
-    "question": "¿Cómo se dice buzo o submarinista en japonés de broma?",
+    "question": "Había 3 pájaros en un cable. Un cazador disparó y le dio a uno. ¿Cuántos pájaros quedan en el cable?",
     "options": [
-      "Sushimi",
-      "Karateka",
-      "Tokofondo",
-      "Sayonara"
+      "2 pájaros",
+      "1 pájaro",
+      "0 pájaros",
+      "3 pájaros"
     ],
     "answer_index": 2,
-    "explanation": "Chiste clásico en español que imita sonidos japoneses con 'Toco fondo'.",
+    "explanation": "El fuerte sonido del disparo asustó a los demás y todos salieron volando.",
     "audio_key": "pun_es_05",
     "audio_path": "assets/audio/pun/es/05.mp3"
   },

@@ -107,15 +107,15 @@
   {
     "id": "pun_fr_15",
     "category": "pun",
-    "question": "Que mangent les petits monstres au dîner le soir d'Halloween?",
+    "question": "Trois oiseaux étaient posés sur un fil. Un chasseur tire et en touche un. Combien d'oiseaux reste-t-il sur le fil ?",
     "options": [
-      "Des bonbons",
-      "De la soupe",
-      "Purée de TERREUR",
-      "Des carottes"
+      "2 oiseaux",
+      "1 oiseau",
+      "0 oiseau",
+      "3 oiseaux"
     ],
     "answer_index": 2,
-    "explanation": "Calembour culinaire entre la traditionnelle purée de pommes de terre et la terreur d'Halloween.",
+    "explanation": "Le bruit du coup de feu a effrayé tous les autres, ils se sont donc tous envolés.",
     "audio_key": "pun_fr_15",
     "audio_path": "assets/audio/pun/fr/15.mp3"
   },

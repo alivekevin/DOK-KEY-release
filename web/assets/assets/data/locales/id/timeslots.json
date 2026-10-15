@@ -1,0 +1,26 @@
+{
+  "morning": {
+    "name": "Pagi",
+    "emoji": "🌅",
+    "meaning_axis": "Awal baru dan lompatan berani",
+    "description": "Fajar menyingsing, saatnya menyalakan kembali impian yang tertunda"
+  },
+  "noon": {
+    "name": "Siang",
+    "emoji": "☀️",
+    "meaning_axis": "Relasi luas dan hadirnya penolong",
+    "description": "Matahari paling hangat, saatnya menyapa kawan dan membuka pintu hati"
+  },
+  "evening": {
+    "name": "Sore",
+    "emoji": "🌇",
+    "meaning_axis": "Penyelesaian dan perenungan tenang",
+    "description": "Lembayung senja merekah, saatnya memetik hasil dan menyempurnakan celah"
+  },
+  "night": {
+    "name": "Larut Malam",
+    "emoji": "🌙",
+    "meaning_axis": "Refleksi batin dan ketenangan jiwa",
+    "description": "Keheningan malam tiba, saatnya redam kebisingan dan perkuat akar jiwamu"
+  }
+}

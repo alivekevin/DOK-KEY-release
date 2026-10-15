@@ -77,15 +77,15 @@
   {
     "id": "pun_zh_09",
     "category": "pun",
-    "question": "巧克力和西红柿打架，谁会当场认输？",
+    "question": "电线上停着3只麻雀，猎人开枪打中了一只。请问电线上还剩几只麻雀？",
     "options": [
-      "西红柿",
-      "两个都输",
-      "巧克力输",
-      "平局收场"
+      "2只",
+      "1只",
+      "0只",
+      "3只"
     ],
     "answer_index": 2,
-    "explanation": "巧克力（Qiǎokèlì）打架打没了力气，就变成了‘巧克力输’。",
+    "explanation": "听到枪声后，剩下的麻雀全被吓飞了，所以一只都不剩。",
     "audio_key": "pun_zh_09",
     "audio_path": "assets/audio/pun/zh/09.mp3"
   },

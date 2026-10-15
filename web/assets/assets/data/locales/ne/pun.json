@@ -1,0 +1,162 @@
+[
+  {
+    "id": "pun_ne_01",
+    "lang": "ne",
+    "category": "pun",
+    "question": "एउटा तारमा ३ वटा भँगेराहरू बसिरहेका थिए। शिकारीले एउटालाई गोली हान्यो। अब तारमा कतिवटा भँगेरा बाँकी होलान्?",
+    "options": [
+      "२ वटा",
+      "१ वटा",
+      "० वटा",
+      "३ वटा"
+    ],
+    "answer_index": 2,
+    "explanation": "बन्दुकको चर्को आवाजले गर्दा बाँकी भँगेराहरू सबै डराएर उडेर गए।",
+    "audio_key": "pun_ne_01",
+    "audio_path": "assets/audio/pun/ne/01.mp3"
+  },
+  {
+    "id": "pun_ne_02",
+    "lang": "ne",
+    "category": "pun",
+    "question": "संसारको सबैभन्दा अल्छी महिना कुन हो?",
+    "options": [
+      "बैशाख",
+      "फागुन",
+      "असार",
+      "माघ"
+    ],
+    "answer_index": 1,
+    "explanation": "फागुन (फेब्रुअरी) वर्षको सबैभन्दा थोरै दिन भएको महिना हो।",
+    "audio_key": "pun_ne_02",
+    "audio_path": "assets/audio/pun/ne/02.mp3"
+  },
+  {
+    "id": "pun_ne_03",
+    "lang": "ne",
+    "category": "pun",
+    "question": "दाँत धेरै भएको तर कहिल्यै नटोक्ने के हो?",
+    "options": [
+      "कायो",
+      "कुखुरा",
+      "माछा",
+      "स्याल"
+    ],
+    "answer_index": 0,
+    "explanation": "कायो (काँइयो) को दाँत हुन्छ तर यसले टोक्दैन।",
+    "audio_key": "pun_ne_03",
+    "audio_path": "assets/audio/pun/ne/03.mp3"
+  },
+  {
+    "id": "pun_ne_04",
+    "lang": "ne",
+    "category": "pun",
+    "question": "जति धेरै खन्यो, त्यति ठूलो हुने के हो?",
+    "options": [
+      "पहाड",
+      "खाल्डो",
+      "रुख",
+      "घर"
+    ],
+    "answer_index": 1,
+    "explanation": "माटो जति निकाल्यो, खाल्डो त्यति नै फराकिलो र ठूलो हुन्छ।",
+    "audio_key": "pun_ne_04",
+    "audio_path": "assets/audio/pun/ne/04.mp3"
+  },
+  {
+    "id": "pun_ne_05",
+    "lang": "ne",
+    "category": "pun",
+    "question": "पानी नभएको खोला कहाँ भेटिन्छ?",
+    "options": [
+      "हिमालमा",
+      "नक्सामा",
+      "तराईमा",
+      "सपनामा"
+    ],
+    "answer_index": 1,
+    "explanation": "नक्सामा कोरिएका खोलाहरूमा पानी हुँदैन।",
+    "audio_key": "pun_ne_05",
+    "audio_path": "assets/audio/pun/ne/05.mp3"
+  },
+  {
+    "id": "pun_ne_06",
+    "lang": "ne",
+    "category": "pun",
+    "question": "मान्छेहरू सबैभन्दा कम सुत्ने महिना कुन हो?",
+    "options": [
+      "पुस",
+      "फागुन",
+      "जेठ",
+      "साउन"
+    ],
+    "answer_index": 1,
+    "explanation": "फागुनमा दिनको संख्या कम हुने हुनाले सुत्ने समय स्वतः कम हुन्छ।",
+    "audio_key": "pun_ne_06",
+    "audio_path": "assets/audio/pun/ne/06.mp3"
+  },
+  {
+    "id": "pun_ne_07",
+    "lang": "ne",
+    "category": "pun",
+    "question": "टाउको छ तर कपाल नभएको तरकारी कुन हो?",
+    "options": [
+      "आलु",
+      "प्याज",
+      "काउली",
+      "भन्टा"
+    ],
+    "answer_index": 1,
+    "explanation": "प्याजको शिर भागलाई टाउको भनिन्छ।",
+    "audio_key": "pun_ne_07",
+    "audio_path": "assets/audio/pun/ne/07.mp3"
+  },
+  {
+    "id": "pun_ne_08",
+    "lang": "ne",
+    "category": "pun",
+    "question": "बिग्रिएको घडीले दिनमा कति पटक सही समय देखाउँछ?",
+    "options": [
+      "० पटक",
+      "२ पटक",
+      "१ पटक",
+      "१२ पटक"
+    ],
+    "answer_index": 1,
+    "explanation": "रोकिएको घडीले २४ घण्टामा ठ्याक्कै दुई पटक सही समय देखाउँछ।",
+    "audio_key": "pun_ne_08",
+    "audio_path": "assets/audio/pun/ne/08.mp3"
+  },
+  {
+    "id": "pun_ne_09",
+    "lang": "ne",
+    "category": "pun",
+    "question": "गर्मीमा लुगा लगाउने, जाडोमा नाङ्गै हुने के हो?",
+    "options": [
+      "रुख",
+      "कुकर",
+      "पंखा",
+      "ढोका"
+    ],
+    "answer_index": 0,
+    "explanation": "रुखले गर्मीमा पात फेर्छ र जाडोमा पात झार्छ।",
+    "audio_key": "pun_ne_09",
+    "audio_path": "assets/audio/pun/ne/09.mp3"
+  },
+  {
+    "id": "pun_ne_10",
+    "lang": "ne",
+    "category": "pun",
+    "question": "पेट्रोल नहाली सधैं गुड्ने गाडी कुन हो?",
+    "options": [
+      "बस",
+      "साइकल",
+      "ट्याक्सी",
+      "ट्रक"
+    ],
+    "answer_index": 1,
+    "explanation": "साइकललाई पेट्रोल चाहिँदैन, खुट्टाले कुदाउने हो।",
+    "audio_key": "pun_ne_10",
+    "audio_path": "assets/audio/pun/ne/10.mp3"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "visual_01",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍎 यो कुन फल हो?",
+    "options": [
+      "स्याउ",
+      "केरा",
+      "चेरी",
+      "अंगुर"
+    ],
+    "answer_index": 0,
+    "explanation": "स्याउ 🍎",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_02",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍌 यो कुन फल हो?",
+    "options": [
+      "सुन्तला",
+      "केरा",
+      "आरु",
+      "कागती"
+    ],
+    "answer_index": 1,
+    "explanation": "केरा 🍌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_03",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍇 यो कुन फल हो?",
+    "options": [
+      "स्ट्रबेरी",
+      "आरु",
+      "अंगुर",
+      "खर्बुजा"
+    ],
+    "answer_index": 2,
+    "explanation": "अंगुर 🍇",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_04",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍓 यो कुन फल हो?",
+    "options": [
+      "स्ट्रबेरी",
+      "खरबुजा",
+      "चेरी",
+      "किवी"
+    ],
+    "answer_index": 0,
+    "explanation": "स्ट्रबेरी 🍓",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_05",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍉 यो कुन फल हो?",
+    "options": [
+      "आँप",
+      "खर्बुजा",
+      "मेवा",
+      "एभोकाडो"
+    ],
+    "answer_index": 1,
+    "explanation": "खर्बुजा 🍉",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_06",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍊 यो कुन फल हो?",
+    "options": [
+      "कागती",
+      "जुनार",
+      "सुन्तला",
+      "भोगटे"
+    ],
+    "answer_index": 2,
+    "explanation": "सुन्तला 🍊",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_07",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🍒 यो कुन फल हो?",
+    "options": [
+      "ब्लुबेरी",
+      "चेरी",
+      "आरुबखडा",
+      "जैतुन"
+    ],
+    "answer_index": 1,
+    "explanation": "चेरी 🍒",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_08",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐱 यो प्यारो जनावर कुन हो?",
+    "options": [
+      "बिरालो",
+      "कुकुर",
+      "स्याल",
+      "खरायो"
+    ],
+    "answer_index": 0,
+    "explanation": "बिरालो 🐱",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_09",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐶 मानिसको इमानदार साथी को हो?",
+    "options": [
+      "ब्वाँसो",
+      "कुकुर",
+      "भालु",
+      "बाघ"
+    ],
+    "answer_index": 1,
+    "explanation": "कुकुर 🐶",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_10",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🐼 बाँस मन पराउने प्यारो जनावर कुन हो?",
+    "options": [
+      "कोआला",
+      "स्लोथ",
+      "पाण्डा",
+      "रकुन"
+    ],
+    "answer_index": 2,
+    "explanation": "पाण्डा 🐼",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_11",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🦁 जंगलको राजा को हो?",
+    "options": [
+      "सिंह",
+      "चिता",
+      "चितुवा",
+      "कालो चितुवा"
+    ],
+    "answer_index": 0,
+    "explanation": "सिंह 🦁",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_12",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐯 धर्के छाला भएको भयानक शिकारी कुन हो?",
+    "options": [
+      "हाइना",
+      "जगुआर",
+      "बाघ",
+      "ब्वाँसो"
+    ],
+    "answer_index": 2,
+    "explanation": "बाघ 🐯",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_13",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐬 समुद्रमा पौडने मिलनसार जीव कुन हो?",
+    "options": [
+      "शार्क",
+      "डल्फिन",
+      "ह्वेल",
+      "सील"
+    ],
+    "answer_index": 1,
+    "explanation": "डल्फिन 🐬",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_14",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🐘 लामो सुँड भएको विशाल जनावर कुन हो?",
+    "options": [
+      "गैँडा",
+      "जलहत्ती",
+      "हात्ती",
+      "जिराफ"
+    ],
+    "answer_index": 2,
+    "explanation": "हात्ती 🐘",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_15",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "✈️ आकाशमा उड्ने सवारी साधन कुन हो?",
+    "options": [
+      "हवाईजहाज",
+      "हेलिकप्टर",
+      "रकेट",
+      "ड्रोन"
+    ],
+    "answer_index": 0,
+    "explanation": "हवाईजहाज ✈️",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_16",
+    "category": "Visual",
+    "difficulty": 3,
+    "question": "🚀 अन्तरिक्षतर्फ उड्ने साधन कुन हो?",
+    "options": [
+      "उपग्रह",
+      "रकेट",
+      "उल्का",
+      "धूमकेतु"
+    ],
+    "answer_index": 1,
+    "explanation": "रकेट 🚀",
+    "reward_coins": 15
+  },
+  {
+    "id": "visual_17",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚢 समुद्रमा तैरिने ठूलो सवारी कुन हो?",
+    "options": [
+      "पनडुब्बी",
+      "डुङ्गा",
+      "पानीजहाज",
+      "डङ्गी"
+    ],
+    "answer_index": 2,
+    "explanation": "पानीजहाज 🚢",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_18",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚗 सडकमा गुड्ने साधन कुन हो?",
+    "options": [
+      "कार",
+      "ट्रक",
+      "मोटरसाइकल",
+      "स्कुटर"
+    ],
+    "answer_index": 0,
+    "explanation": "कार 🚗",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_19",
+    "category": "Visual",
+    "difficulty": 1,
+    "question": "🚌 धेरै यात्रु बोक्ने सार्वजनिक साधन कुन हो?",
+    "options": [
+      "भ्यान",
+      "ट्याक्सी",
+      "बस",
+      "एम्बुलेन्स"
+    ],
+    "answer_index": 2,
+    "explanation": "बस 🚌",
+    "reward_coins": 10
+  },
+  {
+    "id": "visual_20",
+    "category": "Visual",
+    "difficulty": 2,
+    "question": "🚒 आगो निभाउन जाने आपतकालीन गाडी कुन हो?",
+    "options": [
+      "प्रहरी गाडी",
+      "दमकल",
+      "क्रेन",
+      "डोजर"
+    ],
+    "answer_index": 1,
+    "explanation": "दमकल 🚒",
+    "reward_coins": 10
+  }
+]

@@ -1,0 +1,770 @@
+{
+  "sexagenary": [
+    {
+      "n": "Gapja (甲子)",
+      "k": [
+        "sagesse",
+        "doux",
+        "vif"
+      ]
+    },
+    {
+      "n": "Eulchuk (乙丑)",
+      "k": [
+        "sincère",
+        "patience",
+        "calme"
+      ]
+    },
+    {
+      "n": "Byeongin (丙寅)",
+      "k": [
+        "passion",
+        "courage",
+        "vitalité"
+      ]
+    },
+    {
+      "n": "Jeongmyo (丁卯)",
+      "k": [
+        "섬세",
+        "doux",
+        "émotion"
+      ]
+    },
+    {
+      "n": "Mujin (戊辰)",
+      "k": [
+        "accueil",
+        "confiance",
+        "stable"
+      ]
+    },
+    {
+      "n": "Gisa (己巳)",
+      "k": [
+        "clairvoyant",
+        "prudent",
+        "rigoureux"
+      ]
+    },
+    {
+      "n": "Gyeongo (庚午)",
+      "k": [
+        "décision",
+        "élan",
+        "honnête"
+      ]
+    },
+    {
+      "n": "Sinmi (辛未)",
+      "k": [
+        "élégant",
+        "attentif",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Imsin (壬申)",
+      "k": [
+        "ingénieux",
+        "souple",
+        "esprit"
+      ]
+    },
+    {
+      "n": "Gyeyu (癸酉)",
+      "k": [
+        "sens",
+        "raffiné",
+        "regard"
+      ]
+    },
+    {
+      "n": "Gapsul (甲戌)",
+      "k": [
+        "devoir",
+        "principe",
+        "loyal"
+      ]
+    },
+    {
+      "n": "Eulhae (乙亥)",
+      "k": [
+        "empathie",
+        "doux",
+        "rêve"
+      ]
+    },
+    {
+      "n": "Byeongja (丙子)",
+      "k": [
+        "gai",
+        "esprit",
+        "actif"
+      ]
+    },
+    {
+      "n": "Jeongchuk (丁丑)",
+      "k": [
+        "patience",
+        "sincère",
+        "paix"
+      ]
+    },
+    {
+      "n": "Muin (戊寅)",
+      "k": [
+        "pionnier",
+        "courage",
+        "élan"
+      ]
+    },
+    {
+      "n": "Gimyo (己卯)",
+      "k": [
+        "tendre",
+        "attentif",
+        "paix"
+      ]
+    },
+    {
+      "n": "Gyeongjin (庚辰)",
+      "k": [
+        "fermeté",
+        "décision",
+        "assurance"
+      ]
+    },
+    {
+      "n": "Sinsa (辛巳)",
+      "k": [
+        "habile",
+        "analyse",
+        "raffiné"
+      ]
+    },
+    {
+      "n": "Imo (壬午)",
+      "k": [
+        "libre",
+        "passion",
+        "optimiste"
+      ]
+    },
+    {
+      "n": "Gyemi (癸未)",
+      "k": [
+        "sensible",
+        "empathie",
+        "doux"
+      ]
+    },
+    {
+      "n": "Gapsin (甲申)",
+      "k": [
+        "audacieux",
+        "ingénieux",
+        "libre"
+      ]
+    },
+    {
+      "n": "Euryu (乙酉)",
+      "k": [
+        "précis",
+        "섬세",
+        "goût"
+      ]
+    },
+    {
+      "n": "Byeongsul (丙戌)",
+      "k": [
+        "noble",
+        "passion",
+        "devoir"
+      ]
+    },
+    {
+      "n": "Jeonghae (丁亥)",
+      "k": [
+        "doux",
+        "intuition",
+        "émotion"
+      ]
+    },
+    {
+      "n": "Muja (戊子)",
+      "k": [
+        "calme",
+        "sagesse",
+        "prudent"
+      ]
+    },
+    {
+      "n": "Gichuk (己丑)",
+      "k": [
+        "constant",
+        "patience",
+        "sincère"
+      ]
+    },
+    {
+      "n": "Gyeongin (庚寅)",
+      "k": [
+        "vaillant",
+        "décision",
+        "libre"
+      ]
+    },
+    {
+      "n": "Sinmyo (辛卯)",
+      "k": [
+        "élégant",
+        "sens",
+        "attentif"
+      ]
+    },
+    {
+      "n": "Imjin (壬辰)",
+      "k": [
+        "ambition",
+        "clairvoyant",
+        "audacieux"
+      ]
+    },
+    {
+      "n": "Gyesa (癸巳)",
+      "k": [
+        "intuition",
+        "regard",
+        "sagesse"
+      ]
+    },
+    {
+      "n": "Gabo (甲午)",
+      "k": [
+        "vitalité",
+        "optimiste",
+        "élan"
+      ]
+    },
+    {
+      "n": "Eulmi (乙未)",
+      "k": [
+        "chaleur",
+        "attentif",
+        "patience"
+      ]
+    },
+    {
+      "n": "Byeongsin (丙申)",
+      "k": [
+        "esprit",
+        "gai",
+        "vif"
+      ]
+    },
+    {
+      "n": "Jeongyu (丁酉)",
+      "k": [
+        "raffiné",
+        "sens",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Musul (戊戌)",
+      "k": [
+        "foi",
+        "devoir",
+        "stable"
+      ]
+    },
+    {
+      "n": "Gihae (己亥)",
+      "k": [
+        "généreux",
+        "empathie",
+        "aisance"
+      ]
+    },
+    {
+      "n": "Gyeongja (庚子)",
+      "k": [
+        "brillant",
+        "판단",
+        "décision"
+      ]
+    },
+    {
+      "n": "Sinchuk (辛丑)",
+      "k": [
+        "prudent",
+        "mesure",
+        "sincère"
+      ]
+    },
+    {
+      "n": "Imin (壬寅)",
+      "k": [
+        "audace",
+        "libre",
+        "passion"
+      ]
+    },
+    {
+      "n": "Gyemyo (癸卯)",
+      "k": [
+        "paix",
+        "tendre",
+        "émotion"
+      ]
+    },
+    {
+      "n": "Gapjin (甲辰)",
+      "k": [
+        "idéal",
+        "audacieux",
+        "ambition"
+      ]
+    },
+    {
+      "n": "Eulsa (乙巳)",
+      "k": [
+        "inspiré",
+        "intuition",
+        "섬세"
+      ]
+    },
+    {
+      "n": "Byeongo (丙午)",
+      "k": [
+        "optimiste",
+        "vitalité",
+        "assurance"
+      ]
+    },
+    {
+      "n": "Jeongmi (丁未)",
+      "k": [
+        "doux",
+        "harmonie",
+        "attentif"
+      ]
+    },
+    {
+      "n": "Musin (戊申)",
+      "k": [
+        "pratique",
+        "판단",
+        "vif"
+      ]
+    },
+    {
+      "n": "Giyu (己酉)",
+      "k": [
+        "minutieux",
+        "précis",
+        "devoir"
+      ]
+    },
+    {
+      "n": "Gyeongsul (庚戌)",
+      "k": [
+        "droiture",
+        "loyal",
+        "principe"
+      ]
+    },
+    {
+      "n": "Sinhae (辛亥)",
+      "k": [
+        "inventif",
+        "émotion",
+        "clairvoyant"
+      ]
+    },
+    {
+      "n": "Imja (壬子)",
+      "k": [
+        "avisé",
+        "sagesse",
+        "souple"
+      ]
+    },
+    {
+      "n": "Gyechuk (癸丑)",
+      "k": [
+        "posé",
+        "patience",
+        "stable"
+      ]
+    },
+    {
+      "n": "Gabin (甲寅)",
+      "k": [
+        "pionnier",
+        "audacieux",
+        "courage"
+      ]
+    },
+    {
+      "n": "Eulmyo (乙卯)",
+      "k": [
+        "tendre",
+        "doux",
+        "goût"
+      ]
+    },
+    {
+      "n": "Byeongjin (丙辰)",
+      "k": [
+        "assuré",
+        "passion",
+        "accueil"
+      ]
+    },
+    {
+      "n": "Jeongsa (丁巳)",
+      "k": [
+        "affûté",
+        "clairvoyant",
+        "sens"
+      ]
+    },
+    {
+      "n": "Muo (戊午)",
+      "k": [
+        "enjoué",
+        "assurance",
+        "élan"
+      ]
+    },
+    {
+      "n": "Gimi (己未)",
+      "k": [
+        "paix",
+        "généreux",
+        "sincère"
+      ]
+    },
+    {
+      "n": "Gyeongsin (庚申)",
+      "k": [
+        "vif",
+        "analyse",
+        "décision"
+      ]
+    },
+    {
+      "n": "Sinyu (辛酉)",
+      "k": [
+        "parfait",
+        "précis",
+        "raffiné"
+      ]
+    },
+    {
+      "n": "Imsul (壬戌)",
+      "k": [
+        "loyal",
+        "devoir",
+        "accueil"
+      ]
+    },
+    {
+      "n": "Gyehae (癸亥)",
+      "k": [
+        "méditation",
+        "intuition",
+        "rêve"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "stone": "Grenat",
+      "stoneSub": "",
+      "stoneMeaning": "amitié fidèle",
+      "flower": "Œillet",
+      "flowerSub": "Perce-neige",
+      "flowerMeaning": "respect et amour",
+      "season": "Hiver",
+      "theme": "nouveau départ",
+      "colorName": "Rouge Grenat",
+      "hex": "#8B1E3F",
+      "number": 1
+    },
+    {
+      "stone": "Améthyste",
+      "stoneSub": "",
+      "stoneMeaning": "calme et franchise",
+      "flower": "Violette",
+      "flowerSub": "Iris",
+      "flowerMeaning": "amour sincère",
+      "season": "Hiver",
+      "theme": "sagesse",
+      "colorName": "Pourpre",
+      "hex": "#8064A2",
+      "number": 2
+    },
+    {
+      "stone": "Aigue-marine",
+      "stoneSub": "",
+      "stoneMeaning": "courage et espoir",
+      "flower": "Jonquille",
+      "flowerSub": "",
+      "flowerMeaning": "espoir",
+      "season": "Printemps",
+      "theme": "élan",
+      "colorName": "Aqua",
+      "hex": "#7EC8D3",
+      "number": 3
+    },
+    {
+      "stone": "Diamant",
+      "stoneSub": "",
+      "stoneMeaning": "pureté absolue",
+      "flower": "Pâquerette",
+      "flowerSub": "Pois de senteur",
+      "flowerMeaning": "paix et pureté",
+      "season": "Printemps",
+      "theme": "croissance",
+      "colorName": "Blanc Pur",
+      "hex": "#F2F4F7",
+      "number": 4
+    },
+    {
+      "stone": "Émeraude",
+      "stoneSub": "",
+      "stoneMeaning": "bonheur et vie",
+      "flower": "Muguet",
+      "flowerSub": "Aubépine",
+      "flowerMeaning": "joie retrouvée",
+      "season": "Printemps",
+      "theme": "renaissance",
+      "colorName": "Émeraude",
+      "hex": "#2E8B57",
+      "number": 5
+    },
+    {
+      "stone": "Perle",
+      "stoneSub": "Alexandrite",
+      "stoneMeaning": "amour et éclat",
+      "flower": "Rose",
+      "flowerSub": "",
+      "flowerMeaning": "passion",
+      "season": "Été",
+      "theme": "harmonie",
+      "colorName": "Crème Perle",
+      "hex": "#F3E8D3",
+      "number": 6
+    },
+    {
+      "stone": "Rubis",
+      "stoneSub": "",
+      "stoneMeaning": "passion et feu",
+      "flower": "Pied-d'alouette",
+      "flowerSub": "Nénuphar",
+      "flowerMeaning": "cœur pur",
+      "season": "Été",
+      "theme": "courage",
+      "colorName": "Rouge Rubis",
+      "hex": "#C2183A",
+      "number": 7
+    },
+    {
+      "stone": "Péridot",
+      "stoneSub": "",
+      "stoneMeaning": "paix et triomphe",
+      "flower": "Glaïeul",
+      "flowerSub": "Pavot",
+      "flowerMeaning": "victoire",
+      "season": "Été",
+      "theme": "force",
+      "colorName": "Vert Péridot",
+      "hex": "#A4B83B",
+      "number": 8
+    },
+    {
+      "stone": "Saphir",
+      "stoneSub": "",
+      "stoneMeaning": "vérité et clarté",
+      "flower": "Myosotis",
+      "flowerSub": "Aster",
+      "flowerMeaning": "fidélité",
+      "season": "Automne",
+      "theme": "équilibre",
+      "colorName": "Bleu Saphir",
+      "hex": "#2455A4",
+      "number": 9
+    },
+    {
+      "stone": "Opale",
+      "stoneSub": "Tourmaline",
+      "stoneMeaning": "art et espoir",
+      "flower": "Souci",
+      "flowerSub": "Cosmos",
+      "flowerMeaning": "bonheur promis",
+      "season": "Automne",
+      "theme": "changement",
+      "colorName": "Or",
+      "hex": "#D9A441",
+      "number": 10
+    },
+    {
+      "stone": "Topaze",
+      "stoneSub": "Citrine",
+      "stoneMeaning": "gratitude et cœur",
+      "flower": "Chrysanthème",
+      "flowerSub": "",
+      "flowerMeaning": "vérité",
+      "season": "Automne",
+      "theme": "gratitude",
+      "colorName": "Or Citrine",
+      "hex": "#DDAA33",
+      "number": 11
+    },
+    {
+      "stone": "Turquoise",
+      "stoneSub": "Tanzanite",
+      "stoneMeaning": "bénédiction",
+      "flower": "Poinsettia",
+      "flowerSub": "Houx",
+      "flowerMeaning": "bénédiction",
+      "season": "Hiver",
+      "theme": "bénédiction",
+      "colorName": "Turquoise",
+      "hex": "#40B7B5",
+      "number": 12
+    }
+  ],
+  "zodiac": [
+    {
+      "sign": "Capricorne",
+      "range": "12/22–1/19",
+      "keywords": [
+        "devoir",
+        "patience",
+        "lucide"
+      ]
+    },
+    {
+      "sign": "Verseau",
+      "range": "1/20–2/18",
+      "keywords": [
+        "original",
+        "libre",
+        "amitié"
+      ]
+    },
+    {
+      "sign": "Poissons",
+      "range": "2/19–3/20",
+      "keywords": [
+        "empathie",
+        "rêve",
+        "intuition"
+      ]
+    },
+    {
+      "sign": "Bélier",
+      "range": "3/21–4/19",
+      "keywords": [
+        "passion",
+        "défi",
+        "élan"
+      ]
+    },
+    {
+      "sign": "Taureau",
+      "range": "4/20–5/20",
+      "keywords": [
+        "stable",
+        "confiance",
+        "ténacité"
+      ]
+    },
+    {
+      "sign": "Gémeaux",
+      "range": "5/21–6/20",
+      "keywords": [
+        "esprit",
+        "échange",
+        "curieux"
+      ]
+    },
+    {
+      "sign": "Cancer",
+      "range": "6/21–7/22",
+      "keywords": [
+        "attentif",
+        "cœur",
+        "protecteur"
+      ]
+    },
+    {
+      "sign": "Lion",
+      "range": "7/23–8/22",
+      "keywords": [
+        "assurance",
+        "leader",
+        "passion"
+      ]
+    },
+    {
+      "sign": "Vierge",
+      "range": "8/23–9/22",
+      "keywords": [
+        "섬세",
+        "analyse",
+        "sincère"
+      ]
+    },
+    {
+      "sign": "Balance",
+      "range": "9/23–10/22",
+      "keywords": [
+        "harmonie",
+        "균형",
+        "attentif"
+      ]
+    },
+    {
+      "sign": "Scorpion",
+      "range": "10/23–11/21",
+      "keywords": [
+        "clairvoyant",
+        "focus",
+        "loyal"
+      ]
+    },
+    {
+      "sign": "Sagittaire",
+      "range": "11/22–12/21",
+      "keywords": [
+        "audacieux",
+        "libre",
+        "optimiste"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "name": "Printemps",
+      "mood": "saison du renouveau"
+    },
+    {
+      "name": "Été",
+      "mood": "saison de passion et d'élan"
+    },
+    {
+      "name": "Automne",
+      "mood": "saison de paix et gratitude"
+    },
+    {
+      "name": "Hiver",
+      "mood": "saison de calme et réflexion"
+    }
+  ]
+}

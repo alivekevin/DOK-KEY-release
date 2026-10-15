@@ -122,15 +122,15 @@
   {
     "id": "pun_en_15",
     "category": "pun",
-    "question": "How do you make a piece of tissue dance?",
+    "question": "Three birds were sitting on a wire. A hunter shot one of them. How many birds are left on the wire?",
     "options": [
-      "Turn on disco",
-      "Blow it high",
-      "A little boogie",
-      "Shake the box"
+      "2 birds",
+      "1 bird",
+      "0 birds",
+      "3 birds"
     ],
     "answer_index": 2,
-    "explanation": "Boogie is a lively dance style, while booger refers to nasal mucus in a tissue.",
+    "explanation": "The loud gunshot scared the other birds away, so none are left.",
     "audio_key": "pun_en_15",
     "audio_path": "assets/audio/pun/en/15.mp3"
   },

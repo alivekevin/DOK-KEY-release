@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "tri_001",
+    "question": "Suvning kimyoviy formulasi qanday?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "Hozirgi kunda Yer yuzidagi eng yirik tirik hayvon qaysi?",
+    "options": [
+      "Afrika fili",
+      "Ko'k kit",
+      "Kashalot",
+      "Katta oq akula"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "Yorug'lik vakuumda 1 soniyada taxminan qancha masofani bosib o'tadi?",
+    "options": [
+      "~30 000 km",
+      "~150 000 km",
+      "~300 000 km",
+      "~500 000 km"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "Yer Quyosh atrofini to'liq bir marta aylanib chiqishi uchun oddiy quyosh yilida necha kun kerak bo'ladi?",
+    "options": [
+      "365 kun",
+      "360 kun",
+      "366 kun",
+      "300 kun"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "Odam yuragi necha kameradan iborat?",
+    "options": [
+      "3 ta kamera",
+      "4 ta kamera",
+      "2 ta kamera",
+      "5 ta kamera"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "Quyosh tizimimizda Merkuriy'dan Neptun'gacha jami nechta sayyora bor?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "Moos shkalasi bo'yicha qattiqligi 10 bo'lgan tabiatdagi eng qattiq mineral nima?",
+    "options": [
+      "Kvars",
+      "Korund",
+      "Olmos",
+      "Titan"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "O'simliklar fotosintez jarayoni uchun havodan qaysi gazni yutadi?",
+    "options": [
+      "Kislorod",
+      "Karbonat angidrid",
+      "Azot",
+      "Vodorod"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "Inson tanasidagi maydoni va og'irligi bo'yicha eng katta a'zo qaysi?",
+    "options": [
+      "Jigar",
+      "O'pka",
+      "Yo'g'on ichak",
+      "Teri"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "Yerdan Oygacha bo'lgan o'rtacha masofa qancha?",
+    "options": [
+      "~38 000 km",
+      "~384 000 km",
+      "~3 800 000 km",
+      "~1 500 000 km"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "Magnit kompasning shimoliy ko'rsatkichi nima uchun doim Shimolga qaraydi?",
+    "options": [
+      "Yerning geografik shimoli magnit jihatdan janubiy qutbdir",
+      "Qutbda ulkan magnit konlari borligi uchun",
+      "Quyosh nurlari shimolda to'planishi sababli",
+      "Yer aylanish o'qining qiyaligi sababli"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "Kundalik ovqatimizda ishlatiladigan osh tuzining kimyoviy nomi nima?",
+    "options": [
+      "Kalsiy karbonat",
+      "Natriy xlorid (NaCl)",
+      "Magniy sulfat",
+      "Kaliy gidroksid"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "Kamalakda nechta asosiy rang bor?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer_index": 2,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "Quruqlikda eng tez yuguradigan va tezligi ~120 km/soatga yetadigan yirtqich hayvon qaysi?",
+    "options": [
+      "Gepard",
+      "Qoplon",
+      "Sher",
+      "G'azol"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "Muz nima sababdan suyuq suv yuzasida suzadi?",
+    "options": [
+      "Muzning zichligi suyuq suvnikidan past bo'lgani uchun",
+      "Muz sovuqroq bo'lgani uchun",
+      "Muz ichida havo pufakchalari bo'lgani uchun",
+      "Sirt tarangligi past bo'lgani uchun"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "Voyaga yetgan inson skeleti nechta suyakdan iborat?",
+    "options": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "Quyosh tizimida hajmi va massasi bo'yicha eng yirik sayyora qaysi?",
+    "options": [
+      "Saturn",
+      "Yupiter",
+      "Neptun",
+      "Uran"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "Yer atmosferasining taxminan 78% hajmini qaysi gaz tashkil etadi?",
+    "options": [
+      "Kislorod",
+      "Karbonat angidrid",
+      "Argon",
+      "Azot"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "Ikkilik hisoblash tizimida axborotning eng kichik asosiy birligi nima?",
+    "options": [
+      "Bit",
+      "Bayt",
+      "So'z",
+      "Nibbl"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "Xona haroratida tovushning havoda tarqalish tezligi taxminan qancha?",
+    "options": [
+      "~140 m/s",
+      "~340 m/s",
+      "~740 m/s",
+      "~1 200 m/s"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_021",
+    "question": "Quyoshga eng yaqin joylashgan sayyora qaysi?",
+    "options": [
+      "Merkuriy",
+      "Venera",
+      "Yer",
+      "Mars"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_022",
+    "question": "Yer atmosferasining qaysi qatlamida ultrabinafsha nurlarni yutuvchi ozon qatlami joylashgan?",
+    "options": [
+      "Troposfera",
+      "Stratosfera",
+      "Mezosfera",
+      "Termosfera"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_023",
+    "question": "O'zidan yorug'lik chiqaradigan osmon jismi nima deb ataladi?",
+    "options": [
+      "Sayyora",
+      "Yo'ldosh",
+      "Yulduz",
+      "Kometa"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_024",
+    "question": "Bizning osmonda eng yorqin ko'rinadigan va Tong yulduzi deb ham ataladigan sayyora qaysi?",
+    "options": [
+      "Yupiter",
+      "Venera (Zuhro)",
+      "Mars",
+      "Saturn"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_025",
+    "question": "Mars sayyorasining yuzasi nima sababdan qizil ko'rinadi?",
+    "options": [
+      "Lava qaynayotgani sababli",
+      "Temir oksidi (zang) moddasi ko'p bo'lgani uchun",
+      "Quyosh nurlari qizil aks etgani uchun",
+      "Atmosferasida kislorod ko'pligi uchun"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_026",
+    "question": "Oy va Quyoshning tortishish kuchi ta'sirida dengiz suvining davriy ravishda ko'tarilishi va qaytishi nima deb ataladi?",
+    "options": [
+      "Sunami",
+      "Suv qalqishi va qaytishi (Toshqin va qaytish)",
+      "Okean oqimlari",
+      "El-Nino"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_027",
+    "question": "Yer markazidagi eng issiq va eng og'ir metall yadroning asosiy tarkibiy qismi nima?",
+    "options": [
+      "Alyuminiy va mis",
+      "Temir va nikel",
+      "Oltin va kumush",
+      "Magniy va kremniy"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_028",
+    "question": "Yulduzlar tortishish kuchi tufayli siqilib, hatto yorug'lik ham chiqib keta olmaydigan darajada zichlashgan jism nima?",
+    "options": [
+      "Oq mitti",
+      "Qora tuynuk",
+      "Neytron yulduz",
+      "Kvazar"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_029",
+    "question": "Biz yashayotgan Somon Yo'li galaktikasining umumiy shakli qanday?",
+    "options": [
+      "Elliptik galaktika",
+      "Noto'g'ri shaklli galaktika",
+      "To'siqli spiral galaktika",
+      "Shar shaklidagi galaktika"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_030",
+    "question": "Muz va toshlardan iborat ulkan va yorqin halqalari bilan mashhur sayyora qaysi?",
+    "options": [
+      "Yupiter",
+      "Saturn (Zuhal)",
+      "Uran",
+      "Neptun"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_031",
+    "question": "Oyning Yer atrofida aylanish davri o'z o'qi atrofida aylanish davriga teng bo'lgani sababli qanday hodisa ro'y beradi?",
+    "options": [
+      "Yerdan faqat Oyning bir tomoni ko'rinadi",
+      "Oy fazalari hech qachon o'zgarmaydi",
+      "Har oyda oy tutilishi sodir bo'ladi",
+      "Oyning tortishish kuchi nolga teng bo'ladi"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_032",
+    "question": "Yerning aylanish o'qi perpendikulyar chiziqqa nisbatan taxminan necha gradusga qiyalangan?",
+    "options": [
+      "Taxminan 15,5°",
+      "Taxminan 23,5°",
+      "Taxminan 33,5°",
+      "Taxminan 45,0°"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_033",
+    "question": "Quyosh yuzasidagi chaqnashlar tufayli Yerning qutb osmonlarida paydo bo'ladigan sirli yorug'lik nima deb ataladi?",
+    "options": [
+      "Qutb yog'dusi (Avrora)",
+      "Sarob",
+      "Kamalak",
+      "Shom shafag'i"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_034",
+    "question": "Zilzila markazidan tarqalib, seysmik stansiyaga birinchi bo'lib yetib keladigan seysmik to'lqin qaysi?",
+    "options": [
+      "P-to'lqin (bo'ylama)",
+      "S-to'lqin (ko'ndalang)",
+      "L-to'lqin (sirt)",
+      "Reley to'lqini"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_035",
+    "question": "Suv osti vulqoni otilishi yoki suv osti zilzilalari tufayli yuzaga keladigan ulkan to'lqin nima deb ataladi?",
+    "options": [
+      "Bo'ron to'lqini",
+      "Sunami (seysmik dengiz to'lqini)",
+      "Shiddatli oqim",
+      "Qaytish to'lqini"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_036",
+    "question": "Chuqurligi qariyb 11 000 metrga yetadigan dunyodagi eng chuqur dengiz botig'i qaysi?",
+    "options": [
+      "Mariana botig'i",
+      "Yaponiya botig'i",
+      "Tonga botig'i",
+      "Puerto-Riko botig'i"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_037",
+    "question": "Yil fasllari almashinuvining eng asosiy va tub sababi nima?",
+    "options": [
+      "Yer bilan Quyosh orasidagi masofaning o'zgarishi",
+      "Yer o'z o'qini qiyalatgan holda Quyosh atrofida aylanishi",
+      "Fasllar bo'yicha Quyoshdan chiqadigan issiqlik o'zgarishi",
+      "Oy tortishish kuchining o'zgarishi"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_038",
+    "question": "Issiqxona effekti tufayli sirt harorati taxminan 460°C ga yetadigan Quyosh tizimidagi eng issiq sayyora qaysi?",
+    "options": [
+      "Merkuriy",
+      "Venera (issiqxona effekti)",
+      "Mars",
+      "Yupiter"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_039",
+    "question": "Yer atmosferasining taxminan necha foiz hajmini kislorod gazi tashkil etadi?",
+    "options": [
+      "Taxminan 10%",
+      "Taxminan 21%",
+      "Taxminan 35%",
+      "Taxminan 50%"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_040",
+    "question": "Vulqon otilishi paytida yer qa'rida erigan holda joylashgan yuqori haroratli suyuq jins nima deb ataladi?",
+    "options": [
+      "Lava",
+      "Magma",
+      "Vulqon kuli",
+      "Bazalt"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_041",
+    "question": "Barcha jismlar bir-birini o'ziga tortishi kuchini ifodalovchi fizika qonuni nima?",
+    "options": [
+      "Butunjahon tortishish qonuni (gravitatsiya)",
+      "Ishqalanish kuchi",
+      "Markazdan qochma kuch",
+      "Elektromagnit kuchi"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_042",
+    "question": "Inson qonida kislorodni butun tana bo'ylab tashiydigan qon hujayrasi qaysi?",
+    "options": [
+      "Oq qon tanachalari (leykotsitlar)",
+      "Qizil qon tanachalari (gemoglobin)",
+      "Trombotsitlar",
+      "Qon plazmasi"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_043",
+    "question": "Elektr zaryadining harakat oqimini ko'rsatuvchi tok kuchining xalqaro (SI) o'lchov birligi nima?",
+    "options": [
+      "Volt (V)",
+      "Amper (A)",
+      "Vatt (W)",
+      "Om (Ω)"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_044",
+    "question": "Toza suv standart atmosfera bosimida (1 atm) necha daraja Selsiyda qaynaydi?",
+    "options": [
+      "90°C",
+      "100°C",
+      "120°C",
+      "80°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_045",
+    "question": "Tana jarohatlanganda qonni ivitib, qon ketishini to'xtatishga yordam beruvchi qon elementi qaysi?",
+    "options": [
+      "Qizil qon tanachalari",
+      "Trombotsitlar",
+      "Limfotsitlar",
+      "Monotsitlar"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_046",
+    "question": "Moddaning qattiq holatdan suyuqlikka o'tmasdan to'g'ridan-to'g'ri gazga aylanishi nima deb ataladi?",
+    "options": [
+      "Erish",
+      "Bug'lanish",
+      "Sublimatsiya",
+      "Qotish"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_047",
+    "question": "Atom yadrosidagi proton va neytronlar atrofida aylanadigan manfiy zaryadli zarracha nima?",
+    "options": [
+      "Elektron",
+      "Foton",
+      "Pozitron",
+      "Kvark"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_048",
+    "question": "pH ko'rsatkichi 7 dan past bo'lgan eritmaning kimyoviy xossasi qanday bo'ladi?",
+    "options": [
+      "Kislotali",
+      "Ishqoriy",
+      "Neytral",
+      "Qutbsiz"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_049",
+    "question": "Toksinlarni zararsizlantirish, safro ishlab chiqarish va ozuqalarni saqlash vazifasini bajaruvchi eng katta a'zo qaysi?",
+    "options": [
+      "Oshqozon",
+      "Jigar",
+      "Buyrak",
+      "Taloq"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_050",
+    "question": "Energiya yo'qdan bor bo'lmaydi va yo'qolmaydi, faqat shaklini o'zgartiradi degan asosiy qonun nima?",
+    "options": [
+      "Energiyaning saqlanish qonuni",
+      "Inersiya qonuni",
+      "Ta'sir va aks ta'sir qonuni",
+      "Paskal qonuni"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_051",
+    "question": "Koinotda eng ko'p tarqalgan va eng yengil element bo'lib, atom raqami 1 bo'lgan modda nima?",
+    "options": [
+      "Geliy",
+      "Vodorod (H)",
+      "Litiy",
+      "Uglerod"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_052",
+    "question": "Sog'lom inson tanasining odatdagi normal harorati taxminan necha daraja bo'ladi?",
+    "options": [
+      "Taxminan 35,0°C",
+      "Taxminan 36,5°C",
+      "Taxminan 38,0°C",
+      "Taxminan 39,5°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_053",
+    "question": "Ko'z tuzilishida yorug'likni sindirib to'r pardada tasvir hosil bo'lishiga linza kabi xizmat qiluvchi qism nima?",
+    "options": [
+      "Ko'z gavhari (kristallik)",
+      "Kamalak parda",
+      "Shox parda",
+      "Shishasimon tana"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_054",
+    "question": "Moddaning kislorod bilan tez reaksiyaga kirishib issiqlik va yorug'lik chiqarish jarayoni nima deb ataladi?",
+    "options": [
+      "Oksidlanish",
+      "Yonish",
+      "Qaytarilish",
+      "Neytrallanish"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_055",
+    "question": "Qondagi chiqindi moddalarni filtrlab, siydik shaklida ajratib chiqaruvchi a'zo qaysi?",
+    "options": [
+      "O't qopi",
+      "Buyrak",
+      "Oshqozon osti bezi",
+      "O'n ikki barmoqli ichak"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_056",
+    "question": "Temir havoda kislorod va namlik bilan reaksiyaga kirishib qizil zang hosil qilishi qanday reaksiya?",
+    "options": [
+      "Oksidlanish reaksiyasi",
+      "Qaytarilish reaksiyasi",
+      "O'rin olish reaksiyasi",
+      "Bijg'ish"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_057",
+    "question": "Tashqi kuch ta'sir qilmaguncha jismning tinchlik yoki to'g'ri chiziqli harakat holatini saqlash xossasi nima?",
+    "options": [
+      "Elastiklik",
+      "Inersiya",
+      "Ishqalanish",
+      "Qovushqoqlik"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_058",
+    "question": "Maishiy elektr jihozlarining iste'mol qiladigan elektr quvvatini ifodalovchi birlik nima?",
+    "options": [
+      "Volt (V)",
+      "Vatt (W)",
+      "Gers (Hz)",
+      "Joul (J)"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_059",
+    "question": "Hujayra yadrosida irsiy ma'lumotlarni saqlovchi qo'sh spiral shaklidagi molekula nima?",
+    "options": [
+      "DNK",
+      "RNK",
+      "ATF",
+      "Oqsil"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_060",
+    "question": "Magnitning bir xil qutblari bir-birini itarishi va har xil qutblari tortishishiga sabab bo'lgan kuch nima?",
+    "options": [
+      "Magnit kuchi",
+      "Markazdan qochma kuch",
+      "Suzish kuchi",
+      "Gravitatsiya kuchi"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_061",
+    "question": "Ucha oladigan dunyodagi yagona sutemizuvchi hayvon qaysi?",
+    "options": [
+      "Uchar olmaxon",
+      "Ko'rshapalak",
+      "Tuyaqush",
+      "Pingvin"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_062",
+    "question": "Yer yuzidagi eng bo'yi baland sutemizuvchi hayvon qaysi?",
+    "options": [
+      "Fil",
+      "Jirafa",
+      "Begemot",
+      "Tuya"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_063",
+    "question": "Asosan Antarktidada yashaydigan, ucha olmaydigan, lekin a'lo darajada suzadigan qush qaysi?",
+    "options": [
+      "Chag'alay",
+      "Pingvin",
+      "Albatros",
+      "Pelikan"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_064",
+    "question": "Orqasida o'rkachi bor va sahroda suvsiz ko'p kun yashay oladigan hayvon qaysi?",
+    "options": [
+      "Tuya",
+      "Qutoq",
+      "Lama",
+      "Cho'l tulkisi"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_065",
+    "question": "Atrof-muhit rangi va yorug'likka qarab o'z terisi rangini erkin o'zgartira oladigan sudralib yuruvchi nima?",
+    "options": [
+      "Xameleon",
+      "Gekkon",
+      "Iguana",
+      "Timsoh"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_066",
+    "question": "Yerning o'pkasi deb ataladigan va dunyodagi kislorodning katta qismini ishlab chiqaradigan ulkan tropik o'rmon qaysi?",
+    "options": [
+      "Amazonka o'rmonlari",
+      "Kongo o'rmonlari",
+      "Sibir taygasi",
+      "Borneo o'rmonlari"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_067",
+    "question": "Hasharotlarning tanasi bosh, ko'krak va qoringa bo'linadi. Ularning jami nechta oyog'i bor?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_068",
+    "question": "O'rgimchak hasharot hisoblanadimi yoki yo'qmi? (O'rgimchakning 8 ta oyog'i bor)",
+    "options": [
+      "Hasharot emas (o'rgimchaksimonlar sinfiga kiradi)",
+      "Hasharot hisoblanadi",
+      "Mollyuska hisoblanadi",
+      "Halqali chuvalchang hisoblanadi"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_069",
+    "question": "O'simliklar poyasi va barglari orqali suvni bug' holatida havoga chiqarish jarayoni nima deb ataladi?",
+    "options": [
+      "Transpiratsiya",
+      "Fotosintez",
+      "Nafas olish",
+      "Osmos"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_070",
+    "question": "Dengizda yashaydigan, juda aqlli va ultratovush orqali muloqot qiladigan dengiz sutemizuvchisi qaysi?",
+    "options": [
+      "Delfin",
+      "Akula",
+      "Tyunets",
+      "Skat"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_071",
+    "question": "Taxminan 66 million yil oldin dinozavrlarning qirilib ketishiga sabab bo'lgan eng asosiy ilmiy faraz nima?",
+    "options": [
+      "Muzlik davrining kelishi",
+      "Asteroid (meteorit) to'qnashuvi",
+      "Ommaviy pandemiya tarqalishi",
+      "Kislorodning kamayib ketishi"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_072",
+    "question": "Global isishga sabab bo'ladigan eng asosiy ikkita issiqxona gazi qaysilar?",
+    "options": [
+      "Karbonat angidrid va metan",
+      "Kislorod va azot",
+      "Vodorod va geliy",
+      "Argon va neon"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_073",
+    "question": "Isqirt (itbaliq) ning qurbaqaga aylanishi kabi tana shaklining to'liq o'zgarishi biologiyada nima deb ataladi?",
+    "options": [
+      "Po'st tashlash",
+      "Metamorfoz (o'zgarish)",
+      "Evolyutsiya",
+      "Bo'linish"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_074",
+    "question": "Bambuk o'simligi daraxt turiga kiradimi yoki o't turigami?",
+    "options": [
+      "Ko'p yillik o't (g'alladoshlar oilasi)",
+      "Yog'ochli daraxt",
+      "Chirmashuvchi o'simlik",
+      "Yo'sin"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_075",
+    "question": "Skeleti faqat tog'ay (yumshoq suyak) lardan iborat bo'lgan dengizdagi tog'ayli baliqlarning asosiy vakillari qaysilar?",
+    "options": [
+      "Akula va skatlar",
+      "Skumbriya va sayra",
+      "Qizil ko'z va laqqa",
+      "Losos va gulmoyi"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_076",
+    "question": "Yer yuzasining qariyb uchdan bir qismini egallagan dunyodagi eng katta okean qaysi?",
+    "options": [
+      "Atlantika okeani",
+      "Tinch okeani",
+      "Hind okeani",
+      "Shimoliy Muz okeani"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_077",
+    "question": "Asalari o'ziga xos raqs harakatlari orqali boshqa arilarga qanday ma'lumot beradi?",
+    "options": [
+      "Ozuqa (gul) joylashgan yo'nalish va masofa",
+      "Yirtqich dushman hujumi",
+      "Ona arining turgan joyi",
+      "Ob-havo ma'lumoti"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_078",
+    "question": "Yomg'irdan so'ng yer yuzasiga chiqadigan va tuproqni unumdor qiladigan germafrodit jonivor qaysi?",
+    "options": [
+      "Yomg'ir chuvalchangi",
+      "Qirqoyoq",
+      "Shilliqqurt",
+      "Chumoli"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_079",
+    "question": "Oq ayiqning qalin oq yungi ostidagi haqiqiy teri rangi qanday?",
+    "options": [
+      "Oq",
+      "Qora (issiqlikni yutish uchun)",
+      "Pushti",
+      "Kulrang"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_080",
+    "question": "Suvda jabra orqali, voyaga yetgach esa o'pka va teri orqali nafas oluvchi hayvonlar guruhi qaysi?",
+    "options": [
+      "Suvda ham quruqlikda yashovchilar (amfibiyalar)",
+      "Sudralib yuruvchilar",
+      "Qushlar",
+      "Sutemizuvchilar"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_081",
+    "question": "Kompyuter tizimida 1 bayt (Byte) nechta bit (Bit) dan tashkil topadi?",
+    "options": [
+      "4 bit",
+      "8 bit",
+      "16 bit",
+      "32 bit"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_082",
+    "question": "Butunjahon o'rgimchak to'ri (WWW) ni ixtiro qilib, zamonaviy internet inqilobini boshlab bergan britaniyalik olim kim?",
+    "options": [
+      "Tim Berners-Li",
+      "Bill Geyts",
+      "Stiv Jobs",
+      "Alan Tyuring"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_083",
+    "question": "Choson davrida Buyuk Qirol Sejong tomonidan yaratilgan Koreyaning o'ziga xos milliy alifbosi nima deb ataladi?",
+    "options": [
+      "Hunminjeongeum (Hangul)",
+      "Idu",
+      "Hyangchal",
+      "Gugyeol"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_084",
+    "question": "Himalay tog'larida joylashgan va dengiz sathidan 8 848 metr baland bo'lgan dunyodagi eng baland cho'qqi qaysi?",
+    "options": [
+      "K2",
+      "Everest cho'qqisi (Jomolungma)",
+      "Kanchenjunga",
+      "Makalu"
+    ],
+    "answer_index": 1,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_085",
+    "question": "Sun'iy intellektning otasi hisoblangan va Tyuring testini taklif qilgan matematik kim?",
+    "options": [
+      "Alan Tyuring",
+      "Jon fon Neyman",
+      "Norbert Viner",
+      "Klod Shennon"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_086",
+    "question": "Choson davrida olim Jang Yong-sil tomonidan yaratilgan dunyodagi birinchi avtomatik suv soati qanday atalgan?",
+    "options": [
+      "Jagyungnu",
+      "Angbuilgu",
+      "Cheugugi",
+      "Honcheonui"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_087",
+    "question": "Kompyuterning miyasi hisoblangan, hisoblash va buyruqlarni boshqarishni amalga oshiruvchi markaziy qism nima?",
+    "options": [
+      "CPU (markaziy protsessor)",
+      "RAM",
+      "SSD",
+      "Quvvat bloki"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_088",
+    "question": "Ko'chma metall harflar bilan bosilgan va YUNESKO Jahon xotirasi ro'yxatiga kiritilgan dunyodagi eng qadimgi kitob nima?",
+    "options": [
+      "Jikji Simche Yojeol",
+      "Gutenberg Injili",
+      "Tripitaka Koreana",
+      "Samguk Yusa"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_089",
+    "question": "Zamonaviy smartfonlarda barmoq tekkanda mayda elektrostatik o'zgarishlarni sezuvchi sensorli ekran texnologiyasi nima?",
+    "options": [
+      "Rezistiv",
+      "Sig'imli (Kapasitiv)",
+      "Ultratovushli",
+      "Optik"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_090",
+    "question": "Shilla davlatida yoshlarning jismoniy va ma'naviy tarbiyasiga rahbarlik qilgan tarixiy yoshlar tashkiloti nima?",
+    "options": [
+      "Hwarangdo",
+      "Joui Seonin",
+      "Ssaulabi",
+      "Byeolmuban"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_091",
+    "question": "Ma'lumotlarni ko'plab tugunlarda taqsimlangan holda saqlab, soxtalashtirishni oldini oluvchi texnologiya nima?",
+    "options": [
+      "Blokcheyn",
+      "Bulutli hisoblash",
+      "Katta ma'lumotlar",
+      "Virtualizatsiya"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_092",
+    "question": "Admiral Li Sun-sin tomonidan Imjin urushida dushmanni tor-mor etish uchun yaratilgan temir qoplamali jangovar kema nima?",
+    "options": [
+      "Geobukseon (Toshbaqa kema)",
+      "Panokseon",
+      "Maengseon",
+      "Hyeopseon"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_093",
+    "question": "Standart HTTP internet aloqa protokoliga SSL/TLS xavfsiz shifrlash qo'shilgan protokol nima deb ataladi?",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_094",
+    "question": "Mo'g'ullar bosqinini daf etish niyatida Koryo davrida 80 mingdan ortiq yog'och taxtalarga o'yilgan buddistik matnlar nima?",
+    "options": [
+      "Tripitaka Koreana (Palman Daejanggyeong)",
+      "Jikji",
+      "Samguk Sagi",
+      "Dongguk Isanggukjip"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_095",
+    "question": "Bluetooth texnologiyasining nomiga asos bo'lgan 10-asrdagi Daniya qiroli kim edi?",
+    "options": [
+      "Harald Bluetooth",
+      "Buyuk Kanut",
+      "Erik Qonli Bolta",
+      "Gustaf"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_096",
+    "question": "Choson qiroli Jeongjo tomonidan bunyod etilgan va YUNESKO Butunjahon merosi hisoblangan rejaviy qal'a qaysi?",
+    "options": [
+      "Suwon Hwaseong qal'asi",
+      "Namhansanseong",
+      "Bukhansanseong",
+      "Jinjuseong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_097",
+    "question": "Zamonaviy kompyuterlarning asosi bo'lgan ichki dasturli xotira arxitekturasini ishlab chiqqan matematik kim?",
+    "options": [
+      "Jon fon Neyman",
+      "Alan Tyuring",
+      "Isaak Nyuton",
+      "Gotfrid Leybnits"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_098",
+    "question": "Oy taqvimining 8-oyi 15-kunida yangi hosil guruchidan songpyeon pishirib nishonlanadigan koreys milliy bayrami qaysi?",
+    "options": [
+      "Chuseok (Hangawi)",
+      "Seollal",
+      "Dano",
+      "Daeboreum"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_099",
+    "question": "QR kod terminidagi QR qisqartmasi nimani anglatadi?",
+    "options": [
+      "Quick Response (Tezkor javob)",
+      "Quality Record",
+      "Quantum Reader",
+      "Query Route"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_100",
+    "question": "Choson davrida tabib Heo Jun tomonidan jamlangan Sharq tabobati ensiklopediyasi nima deb ataladi?",
+    "options": [
+      "Dongui Bogam",
+      "Hyangyak Jipseongbang",
+      "Uibang Yuchwi",
+      "Bencao Gangmu"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_101",
+    "question": "Sun'iy yo'ldoshlar orqali dunyo bo'ylab aniq joylashuvni real vaqt rejimida aniqlovchi texnologiya nima?",
+    "options": [
+      "GPS",
+      "NFC",
+      "RFID",
+      "LTE"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_102",
+    "question": "YUNESKO Nomoddiy madaniy merosi ro'yxatiga kiritilgan Koreyaning ramziy an'anaviy xalq qo'shig'i nima?",
+    "options": [
+      "Arirang",
+      "Doraji Taryeong",
+      "Miryang Arirang",
+      "Gunbam Taryeong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_103",
+    "question": "Transport kartalari va mobil to'lovlarda qo'llaniladigan qisqa masofali simsiz aloqa standarti nima?",
+    "options": [
+      "NFC",
+      "Wi-Fi",
+      "GPS",
+      "Zigbee"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_104",
+    "question": "Shilla qirolichasi Seondeok davrida bunyod etilgan Sharqdagi eng qadimiy rasadxona yodgorligi qaysi?",
+    "options": [
+      "Cheomseongdae",
+      "Ganuidae",
+      "Gwacheondae",
+      "Heumgyeonggak"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_105",
+    "question": "Dokkebining donoligini o'zida mujassam etgan DOK-KEY ilovasi foydalanuvchiga yetkazadigan asosiy qadriyat nima?",
+    "options": [
+      "Hayotiy hikmatlar — dono iqtiboslar, maslahatlar va ma'naviy saboqlar",
+      "Shunchaki o'yin ballari",
+      "Tasodifiy omad",
+      "Qisqa muddatli ermak"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  }
+]

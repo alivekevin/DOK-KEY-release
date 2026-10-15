@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "tri_001",
+    "question": "Apa rumus kimia untuk air?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_002",
+    "question": "Hewan hidup apakah yang paling besar di Bumi saat ini?",
+    "options": [
+      "Gajah afrika",
+      "Paus biru",
+      "Paus sperma",
+      "Hiu putih besar"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_003",
+    "question": "Berapa kira-kira jarak tempuh cahaya dalam ruang hampa selama 1 detik?",
+    "options": [
+      "~30.000 km",
+      "~150.000 km",
+      "~300.000 km",
+      "~500.000 km"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_004",
+    "question": "Berapa hari waktu yang dibutuhkan Bumi untuk mengelilingi Matahari dalam satu tahun matahari biasa?",
+    "options": [
+      "365 hari",
+      "360 hari",
+      "366 hari",
+      "300 hari"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_005",
+    "question": "Berapa jumlah ruang yang dimiliki oleh jantung manusia?",
+    "options": [
+      "3 ruang",
+      "4 ruang",
+      "2 ruang",
+      "5 ruang"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_006",
+    "question": "Ada berapa banyak planet di tata surya kita dari Merkurius hingga Neptunus?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_007",
+    "question": "Apakah mineral alami terkeras di dunia dengan skala kekerasan Mohs 10?",
+    "options": [
+      "Kuarsa",
+      "Korundum",
+      "Berlian (Intan)",
+      "Titanium"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_008",
+    "question": "Gas apakah yang diserap tumbuhan dari udara untuk fotosintesis?",
+    "options": [
+      "Oksigen",
+      "Karbon Dioksida",
+      "Nitrogen",
+      "Hidrogen"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_009",
+    "question": "Organ tubuh manusia manakah yang terbesar berdasarkan luas permukaan dan berat?",
+    "options": [
+      "Hati",
+      "Paru-paru",
+      "Usus besar",
+      "Kulit"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_010",
+    "question": "Berapakah jarak rata-rata dari Bumi ke Bulan?",
+    "options": [
+      "~38.000 km",
+      "~384.000 km",
+      "~3.800.000 km",
+      "~1.500.000 km"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_011",
+    "question": "Mengapa jarum penunjuk utara kompas magnetik selalu mengarah ke Kutub Utara?",
+    "options": [
+      "Kutub utara geografis Bumi bersifat kutub magnet selatan",
+      "Terdapat tambang besi magnet raksasa di kutub",
+      "Cahaya matahari terkonsentrasi di utara",
+      "Kemiringan sumbu rotasi Bumi"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_012",
+    "question": "Apakah nama kimia dari garam meja yang kita konsumsi sehari-hari?",
+    "options": [
+      "Kalsium karbonat",
+      "Natrium klorida (NaCl)",
+      "Magnesium sulfat",
+      "Kalium hidroksida"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_013",
+    "question": "Berapa jumlah warna dasar dalam spektrum pelangi standar?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer_index": 2,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_014",
+    "question": "Hewan darat manakah yang mampu berlari paling cepat hingga mencapai kecepatan ~120 km/jam?",
+    "options": [
+      "Cheetah",
+      "Macan tutul",
+      "Singa",
+      "Gazel"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_015",
+    "question": "Mengapa es padat mengapung di atas air cair?",
+    "options": [
+      "Es memiliki massa jenis lebih rendah daripada air cair",
+      "Suhu es lebih dingin",
+      "Es memerangkap gelembung udara",
+      "Tegangan permukaan es lebih rendah"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_016",
+    "question": "Berapa banyak tulang yang menyusun kerangka tubuh manusia dewasa?",
+    "options": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_017",
+    "question": "Planet manakah yang terbesar di tata surya kita berdasarkan volume dan massa?",
+    "options": [
+      "Saturnus",
+      "Jupiter",
+      "Neptunus",
+      "Uranus"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_018",
+    "question": "Gas apakah yang menyusun sekitar 78% volume atmosfer Bumi?",
+    "options": [
+      "Oksigen",
+      "Karbon dioksida",
+      "Argon",
+      "Nitrogen"
+    ],
+    "answer_index": 3,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_019",
+    "question": "Apakah unit dasar terkecil dari informasi dalam komputasi biner?",
+    "options": [
+      "Bit",
+      "Byte",
+      "Word",
+      "Nibble"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_020",
+    "question": "Berapakah perkiraan kecepatan suara merambat di udara pada suhu ruang?",
+    "options": [
+      "~140 m/s",
+      "~340 m/s",
+      "~740 m/s",
+      "~1.200 m/s"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_021",
+    "question": "Planet manakah yang posisinya paling dekat dengan Matahari?",
+    "options": [
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_022",
+    "question": "Lapisan atmosfer Bumi manakah yang memiliki lapisan ozon untuk menyerap sinar ultraviolet?",
+    "options": [
+      "Troposfer",
+      "Stratosfer",
+      "Mesosfer",
+      "Termosfer"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_023",
+    "question": "Benda langit apakah yang mampu memancarkan cahayanya sendiri?",
+    "options": [
+      "Planet",
+      "Satelit",
+      "Bintang",
+      "Komet"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_024",
+    "question": "Planet manakah yang bersinar paling terang di langit kita dan dijuluki Bintang Fajar?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Mars",
+      "Saturnus"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_025",
+    "question": "Mengapa permukaan planet Mars tampak berwarna merah?",
+    "options": [
+      "Karena lahar mendidih meluap",
+      "Karena kaya akan oksida besi (karat)",
+      "Karena memantulkan sinar matahari merah",
+      "Karena atmosfernya kaya oksigen"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_026",
+    "question": "Fenomena naik turunnya air laut secara periodik akibat gravitasi Bulan dan Matahari disebut apa?",
+    "options": [
+      "Tsunami",
+      "Pasang surut air laut",
+      "Arus laut",
+      "El Nino"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_027",
+    "question": "Logam utama apakah yang menyusun inti Bumi yang paling dalam, panas, dan berat?",
+    "options": [
+      "Aluminium dan tembaga",
+      "Besi dan nikel",
+      "Emas dan perak",
+      "Magnesium dan silikon"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_028",
+    "question": "Benda langit apakah yang terbentuk saat bintang runtuh di bawah gravitasi ekstrem hingga cahaya pun tak bisa lolos?",
+    "options": [
+      "Katai putih",
+      "Lubang hitam (Black hole)",
+      "Bintang neutron",
+      "Kuasar"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_029",
+    "question": "Apakah bentuk keseluruhan dari galaksi Bima Sakti tempat kita berada?",
+    "options": [
+      "Galaksi elips",
+      "Galaksi tak beraturan",
+      "Galaksi spiral berpalang",
+      "Galaksi bulat"
+    ],
+    "answer_index": 2,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_030",
+    "question": "Planet tata surya manakah yang paling terkenal dengan cincin es dan batu yang megah?",
+    "options": [
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_031",
+    "question": "Fenomena apa yang terjadi karena periode revolusi Bulan mengelilingi Bumi sama dengan periode rotasinya?",
+    "options": [
+      "Hanya sisi depan Bulan yang terlihat dari Bumi",
+      "Fase Bulan tidak pernah berubah",
+      "Gerhana bulan terjadi setiap bulan",
+      "Gravitasi Bulan menjadi nol"
+    ],
+    "answer_index": 0,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_032",
+    "question": "Berapa derajat kira-kira kemiringan sumbu rotasi Bumi terhadap garis tegak lurus?",
+    "options": [
+      "Sekitar 15,5°",
+      "Sekitar 23,5°",
+      "Sekitar 33,5°",
+      "Sekitar 45,0°"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_033",
+    "question": "Tirai cahaya misterius apakah yang muncul di langit wilayah kutub akibat ledakan partikel Matahari?",
+    "options": [
+      "Aurora",
+      "Fatamorgana",
+      "Pelangi",
+      "Semburat senja"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_034",
+    "question": "Gelombang seismik gempa bumi manakah yang pertama kali tiba di stasiun pencatat gempa?",
+    "options": [
+      "Gelombang P (longitudinal)",
+      "Gelombang S (transversal)",
+      "Gelombang L (permukaan)",
+      "Gelombang Rayleigh"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_035",
+    "question": "Gelombang laut raksasa apakah yang dipicu oleh letusan gunung berapi bawah laut atau gempa bumi bawah laut?",
+    "options": [
+      "Gelombang badai",
+      "Tsunami (gelombang laut seismik)",
+      "Alun laut",
+      "Arus pasang surut"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_036",
+    "question": "Palung laut manakah yang terdalam di dunia dengan kedalaman mencapai sekitar 11.000 meter?",
+    "options": [
+      "Palung Mariana",
+      "Palung Jepang",
+      "Palung Tonga",
+      "Palung Puerto Riko"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_037",
+    "question": "Apakah penyebab paling mendasar dari terjadinya pergantian empat musim di Bumi?",
+    "options": [
+      "Jarak antara Bumi dan Matahari berubah",
+      "Bumi mengelilingi Matahari dengan sumbu rotasi yang miring",
+      "Keluaran panas Matahari berubah antar musim",
+      "Gravitasi Bulan berubah"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_038",
+    "question": "Planet tata surya manakah yang paling panas dengan suhu permukaan mencapai sekitar 460°C akibat efek rumah kaca?",
+    "options": [
+      "Merkurius",
+      "Venus (efek rumah kaca)",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer_index": 1,
+    "category": "space",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_039",
+    "question": "Berapakah perkiraan persentase volume gas oksigen dalam atmosfer Bumi?",
+    "options": [
+      "Sekitar 10%",
+      "Sekitar 21%",
+      "Sekitar 35%",
+      "Sekitar 50%"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_040",
+    "question": "Apakah sebutan untuk batuan cair bersuhu sangat tinggi yang meleleh jauh di dalam perut bumi?",
+    "options": [
+      "Lahar",
+      "Magma",
+      "Abu vulkanik",
+      "Basalt"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_041",
+    "question": "Hukum fisika apakah yang menyatakan bahwa setiap benda di alam semesta saling tarik-menarik?",
+    "options": [
+      "Gravitasi universal (gaya gravitasi)",
+      "Gaya gesek",
+      "Gaya sentrifugal",
+      "Gaya elektromagnetik"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_042",
+    "question": "Sel darah apakah yang bertugas mengangkut oksigen ke seluruh tubuh manusia?",
+    "options": [
+      "Sel darah putih",
+      "Sel darah merah (hemoglobin)",
+      "Keping darah (trombosit)",
+      "Plasma darah"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_043",
+    "question": "Apakah satuan standar internasional (SI) untuk mengukur kuat arus listrik?",
+    "options": [
+      "Volt (V)",
+      "Ampere (A)",
+      "Watt (W)",
+      "Ohm (Ω)"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_044",
+    "question": "Pada suhu berapa derajat Celsius air murni mendidih pada tekanan atmosfer standar (1 atm)?",
+    "options": [
+      "90°C",
+      "100°C",
+      "120°C",
+      "80°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_045",
+    "question": "Komponen darah manakah yang berperan membekukan darah dan menghentikan pendarahan saat tubuh terluka?",
+    "options": [
+      "Sel darah merah",
+      "Keping darah (trombosit)",
+      "Limfosit",
+      "Monosit"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_046",
+    "question": "Perubahan wujud zat dari padat langsung menjadi gas tanpa mencair terlebih dahulu disebut apa?",
+    "options": [
+      "Mencair",
+      "Menguap",
+      "Menyublim (sublimasi)",
+      "Membeku"
+    ],
+    "answer_index": 2,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_047",
+    "question": "Partikel bermuatan negatif apakah yang mengorbit mengelilingi proton dan neutron dalam inti atom?",
+    "options": [
+      "Elektron",
+      "Foton",
+      "Positron",
+      "Kuark"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_048",
+    "question": "Larutan dengan tingkat keasaman pH kurang dari 7 memiliki sifat kimia apa?",
+    "options": [
+      "Asam",
+      "Basa (alkali)",
+      "Netral",
+      "Nonpolar"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_049",
+    "question": "Organ tubuh manakah yang paling besar, bertugas menetralisir racun, memproduksi empedu, dan menyimpan nutrisi?",
+    "options": [
+      "Lambung",
+      "Hati",
+      "Ginjal",
+      "Limpa"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_050",
+    "question": "Prinsip fisika apakah yang menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah bentuknya?",
+    "options": [
+      "Hukum kekekalan energi",
+      "Hukum kelembaman",
+      "Hukum aksi-reaksi",
+      "Prinsip Pascal"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_051",
+    "question": "Unsur kimia paling ringan dan paling melimpah di alam semesta dengan nomor atom 1 adalah apa?",
+    "options": [
+      "Helium",
+      "Hidrogen (H)",
+      "Litium",
+      "Karbon"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_052",
+    "question": "Berapakah perkiraan suhu tubuh normal manusia yang sehat?",
+    "options": [
+      "Sekitar 35,0°C",
+      "Sekitar 36,5°C",
+      "Sekitar 38,0°C",
+      "Sekitar 39,5°C"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_053",
+    "question": "Bagian mata manakah yang berfungsi sebagai lensa untuk membiaskan cahaya agar tepat fokus di retina?",
+    "options": [
+      "Lensa mata (kristalin)",
+      "Iris",
+      "Kornea",
+      "Badan vitreus"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_054",
+    "question": "Reaksi kimia pelepasan panas dan cahaya saat suatu zat bereaksi cepat dengan oksigen disebut apa?",
+    "options": [
+      "Oksidasi",
+      "Pembakaran",
+      "Reduksi",
+      "Netralisasi"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_055",
+    "question": "Organ tubuh manakah yang menyaring sisa metabolisme dari darah dan mengeluarkannya sebagai urine?",
+    "options": [
+      "Kantung empedu",
+      "Ginjal",
+      "Pankreas",
+      "Usus dua belas jari"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_056",
+    "question": "Reaksi kimia apakah yang terjadi saat besi (Fe) bereaksi dengan oksigen dan uap air di udara hingga berkarat?",
+    "options": [
+      "Reaksi oksidasi",
+      "Reaksi reduksi",
+      "Reaksi substitusi",
+      "Reaksi fermentasi"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_057",
+    "question": "Kecenderungan benda untuk mempertahankan keadaan diam atau geraknya tanpa pengaruh gaya luar disebut apa?",
+    "options": [
+      "Elastisitas",
+      "Inersia (kelembaman)",
+      "Gaya gesek",
+      "Viskositas"
+    ],
+    "answer_index": 1,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_058",
+    "question": "Satuan apakah yang menunjukkan laju konsumsi daya listrik pada peralatan elektronik rumah tangga?",
+    "options": [
+      "Volt (V)",
+      "Watt (W)",
+      "Hertz (Hz)",
+      "Joule (J)"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_059",
+    "question": "Molekul heliks ganda di dalam inti sel yang membawa kode genetik dan cetak biru kehidupan adalah apa?",
+    "options": [
+      "DNA",
+      "RNA",
+      "ATP",
+      "Protein"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_060",
+    "question": "Gaya apakah yang membuat kutub magnet sejenis tolak-menolak dan kutub berlawanan tarik-menarik?",
+    "options": [
+      "Gaya magnet",
+      "Gaya sentrifugal",
+      "Gaya apung",
+      "Gaya gravitasi"
+    ],
+    "answer_index": 0,
+    "category": "science",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_061",
+    "question": "Apakah satu-satunya mamalia di dunia yang memiliki kemampuan terbang sejati?",
+    "options": [
+      "Tupai terbang",
+      "Kelelawar",
+      "Burung unta",
+      "Penguin"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_062",
+    "question": "Hewan mamalia manakah yang memiliki postur tubuh paling tinggi di dunia?",
+    "options": [
+      "Gajah",
+      "Jerapah",
+      "Kuda nil",
+      "Unta"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_063",
+    "question": "Burung air manakah yang mendiami Antartika, tidak bisa terbang, namun perenang yang sangat ulung?",
+    "options": [
+      "Camar",
+      "Penguin",
+      "Albatros",
+      "Pelikan"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_064",
+    "question": "Hewan berpunuk apakah yang mampu bertahan berhari-hari di padang pasir tanpa air dan makanan?",
+    "options": [
+      "Unta",
+      "Yak",
+      "Llama",
+      "Rubah fennec"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_065",
+    "question": "Reptil manakah yang dapat mengubah warna kulitnya secara bebas sesuai kondisi lingkungan dan cahaya?",
+    "options": [
+      "Bunglon",
+      "Tokek",
+      "Iguana",
+      "Buaya"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_066",
+    "question": "Hutan hujan tropis terluas di dunia yang dijuluki paru-paru bumi karena menghasilkan banyak oksigen adalah apa?",
+    "options": [
+      "Hutan hujan Amazon",
+      "Hutan hujan Kongo",
+      "Taiga Siberia",
+      "Hutan hujan Kalimantan"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_067",
+    "question": "Tubuh serangga terbagi menjadi kepala, dada, dan perut. Berapa jumlah kaki serangga dewasa?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_068",
+    "question": "Apakah laba-laba termasuk jenis serangga atau bukan? (Laba-laba memiliki 8 kaki)",
+    "options": [
+      "Bukan serangga (kelas Arachnida)",
+      "Termasuk serangga",
+      "Termasuk moluska",
+      "Termasuk anelida"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_069",
+    "question": "Proses pelepasan uap air oleh tumbuhan ke atmosfer melalui stomata daun dan batang disebut apa?",
+    "options": [
+      "Transpirasi",
+      "Fotosintesis",
+      "Respirasi",
+      "Osmosis"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_070",
+    "question": "Mamalia laut manakah yang hidup di samudra, sangat cerdas, dan saling berkomunikasi dengan ultrasonik?",
+    "options": [
+      "Lumba-lumba",
+      "Hiu",
+      "Ikan tuna",
+      "Ikan pari"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_071",
+    "question": "Apakah teori paling kuat mengenai penyebab punahnya dinosaurus sekitar 66 juta tahun yang lalu?",
+    "options": [
+      "Datangnya zaman es",
+      "Tabrakan asteroid (meteorit)",
+      "Wabah pandemi massal",
+      "Menipisnya cadangan oksigen"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_072",
+    "question": "Dua gas rumah kaca manakah yang paling utama menjadi pemicu pemanasan global?",
+    "options": [
+      "Karbon dioksida dan metana",
+      "Oksigen dan nitrogen",
+      "Hidrogen dan helium",
+      "Argon dan neon"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_073",
+    "question": "Proses perubahan bentuk tubuh secara drastis seperti kecebong yang tumbuh menjadi katak dewasa disebut apa?",
+    "options": [
+      "Ecdysis (ganti kulit)",
+      "Metamorfosis",
+      "Evolusi",
+      "Pembelahan sel"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_074",
+    "question": "Apakah tanaman bambu tergolong sebagai pohon atau jenis rumput?",
+    "options": [
+      "Rumput menahun (famili Poaceae)",
+      "Pohon berkayu",
+      "Tanaman merambat",
+      "Tumbuhan lumut"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_075",
+    "question": "Hewan laut manakah yang merupakan ikan bertulang rawan sejati, dengan kerangka yang seluruhnya tersusun dari tulang rawan?",
+    "options": [
+      "Hiu dan ikan pari",
+      "Ikan kembung dan sarden",
+      "Ikan kakap dan bawal",
+      "Salmon dan trout"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_076",
+    "question": "Samudra manakah yang merupakan samudra terbesar di dunia, mencakup sekitar sepertiga permukaan Bumi?",
+    "options": [
+      "Samudra Atlantik",
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_077",
+    "question": "Informasi apakah yang disampaikan lebah madu kepada kawanannya melalui gerakan tarian bergoyang?",
+    "options": [
+      "Arah dan jarak sumber makanan (bunga)",
+      "Serangan musuh predator",
+      "Lokasi ratu lebah",
+      "Prakiraan cuaca"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_078",
+    "question": "Hewan hermafrodit tanah manakah yang sering merayap keluar setelah hujan dan membuat tanah menjadi gembur subur?",
+    "options": [
+      "Cacing tanah",
+      "Kelabang",
+      "Siput",
+      "Semut"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_079",
+    "question": "Apakah warna kulit sebenarnya dari beruang kutub di balik bulu putih tebalnya?",
+    "options": [
+      "Putih",
+      "Hitam (untuk menyerap panas)",
+      "Merah muda",
+      "Abu-abu"
+    ],
+    "answer_index": 1,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_080",
+    "question": "Kelompok hewan vertebrata manakah yang bernapas dengan insang saat muda lalu dengan paru-paru dan kulit saat dewasa?",
+    "options": [
+      "Amfibi",
+      "Reptil",
+      "Burung",
+      "Mamalia"
+    ],
+    "answer_index": 0,
+    "category": "nature",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_081",
+    "question": "Berapa banyak bit yang membentuk 1 byte dalam sistem komputer?",
+    "options": [
+      "4 bit",
+      "8 bit",
+      "16 bit",
+      "32 bit"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_082",
+    "question": "Ilmuwan Inggris manakah yang menciptakan World Wide Web (WWW) dan memulai revolusi internet modern?",
+    "options": [
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Alan Turing"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_083",
+    "question": "Apakah nama sistem aksara asli Korea yang diciptakan oleh Raja Sejong yang Agung pada masa Joseon?",
+    "options": [
+      "Hunminjeongeum (Hangul)",
+      "Idu",
+      "Hyangchal",
+      "Gugyeol"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_084",
+    "question": "Gunung manakah yang merupakan puncak tertinggi di dunia dengan ketinggian 8.848 meter di pegunungan Himalaya?",
+    "options": [
+      "K2",
+      "Gunung Everest (Qomolangma)",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "answer_index": 1,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_085",
+    "question": "Matematikawan manakah yang dikenal sebagai bapak kecerdasan buatan (AI) dan merancang Turing Test?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Norbert Wiener",
+      "Claude Shannon"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_086",
+    "question": "Jam air otomatis bersejarah pertama di dunia yang diciptakan oleh ilmuwan Jang Yeong-sil pada zaman Joseon bernama apa?",
+    "options": [
+      "Jagyungnu",
+      "Angbuilgu",
+      "Cheugugi",
+      "Honcheonui"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_087",
+    "question": "Komponen inti komputer manakah yang bertindak sebagai otak utama untuk melakukan komputasi dan kontrol instruksi?",
+    "options": [
+      "CPU (central processing unit)",
+      "RAM",
+      "SSD",
+      "Power supply"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_088",
+    "question": "Buku cetak huruf logam bergerak tertua di dunia yang masih ada dan terdaftar dalam Warisan Ingatan Dunia UNESCO adalah apa?",
+    "options": [
+      "Jikji Simche Yojeol",
+      "Alkitab Gutenberg",
+      "Tripitaka Koreana",
+      "Samguk Yusa"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_089",
+    "question": "Teknologi layar sentuh pada smartphone modern yang mendeteksi perubahan medan elektrostatik saat disentuh jari adalah?",
+    "options": [
+      "Resistif",
+      "Kapasitif",
+      "Ultrasonik",
+      "Optik"
+    ],
+    "answer_index": 1,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_090",
+    "question": "Organisasi pemuda Silla yang melatih mental-fisik serta menjadi pilar utama unifikasi Tiga Kerajaan Korea bernama apa?",
+    "options": [
+      "Hwarangdo",
+      "Joui Seonin",
+      "Ssaulabi",
+      "Byeolmuban"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_091",
+    "question": "Teknologi buku besar terdistribusi yang menyimpan data di banyak simpul untuk mencegah manipulasi dan pemalsuan adalah apa?",
+    "options": [
+      "Blockchain",
+      "Cloud",
+      "Big data",
+      "Virtualisasi"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_092",
+    "question": "Kapal perang lapis besi berkepala kura-kura yang dirancang Laksamana Yi Sun-sin untuk menumpas musuh pada Perang Imjin adalah?",
+    "options": [
+      "Geobukseon (Kapal Kura-kura)",
+      "Panokseon",
+      "Maengseon",
+      "Hyeopseon"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_093",
+    "question": "Protokol komunikasi web apakah yang menambahkan enkripsi keamanan SSL/TLS ke dalam protokol HTTP standar?",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_094",
+    "question": "Kitab suci Buddha yang diukir pada lebih dari 80.000 balok kayu oleh Goryeo untuk memohon perlindungan dari invasi Mongol adalah?",
+    "options": [
+      "Tripitaka Koreana (Palman Daejanggyeong)",
+      "Jikji",
+      "Samguk Sagi",
+      "Dongguk Isanggukjip"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_095",
+    "question": "Raja Denmark abad ke-10 manakah yang namanya menjadi asal-usul teknologi nirkabel Bluetooth?",
+    "options": [
+      "Harald Bluetooth",
+      "Canute the Great",
+      "Eric Bloodaxe",
+      "Gustaf"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_096",
+    "question": "Kota benteng terencana megah warisan dunia UNESCO yang dibangun oleh Raja Jeongjo dari Joseon bernama apa?",
+    "options": [
+      "Benteng Suwon Hwaseong",
+      "Namhansanseong",
+      "Bukhansanseong",
+      "Jinjuseong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_097",
+    "question": "Matematikawan manakah yang merancang arsitektur program tersimpan (stored-program) yang menjadi fondasi komputer modern?",
+    "options": [
+      "John von Neumann",
+      "Alan Turing",
+      "Isaac Newton",
+      "Gottfried Leibniz"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_098",
+    "question": "Hari raya tradisional panen raya Korea pada tanggal 15 bulan 8 kalender lunar saat membuat kue beras Songpyeon adalah apa?",
+    "options": [
+      "Chuseok (Hangawi)",
+      "Seollal",
+      "Dano",
+      "Daeboreum"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_099",
+    "question": "Dalam kode matriks QR code, apakah kepanjangan dari singkatan huruf QR?",
+    "options": [
+      "Quick Response",
+      "Quality Record",
+      "Quantum Reader",
+      "Query Route"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_100",
+    "question": "Kitab ensiklopedia agung pengobatan tradisional Asia Timur yang disusun oleh tabib istana Heo Jun pada zaman Joseon adalah?",
+    "options": [
+      "Dongui Bogam",
+      "Hyangyak Jipseongbang",
+      "Uibang Yuchwi",
+      "Bencao Gangmu"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_101",
+    "question": "Sistem satelit navigasi global manakah yang mengukur posisi lokasi di seluruh penjuru dunia secara real-time?",
+    "options": [
+      "GPS",
+      "NFC",
+      "RFID",
+      "LTE"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_102",
+    "question": "Lagu rakyat tradisional khas Korea yang terdaftar sebagai Warisan Budaya Takbenda Manusia UNESCO adalah apa?",
+    "options": [
+      "Arirang",
+      "Doraji Taryeong",
+      "Miryang Arirang",
+      "Gunbam Taryeong"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_103",
+    "question": "Standar komunikasi nirkabel jarak sangat pendek yang digunakan pada kartu transportasi dan pembayaran smartphone adalah?",
+    "options": [
+      "NFC",
+      "Wi-Fi",
+      "GPS",
+      "Zigbee"
+    ],
+    "answer_index": 0,
+    "category": "tech",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_104",
+    "question": "Observatorium astronomi tertua di Asia Timur yang dibangun pada masa pemerintahan Ratu Seondeok dari Silla adalah?",
+    "options": [
+      "Cheomseongdae",
+      "Ganuidae",
+      "Gwacheondae",
+      "Heumgyeonggak"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  },
+  {
+    "id": "tri_105",
+    "question": "Nilai kearifan luhur apakah yang disampaikan oleh aplikasi DOK-KEY dengan kebijaksanaan Dokkaebi?",
+    "options": [
+      "Kebijaksanaan hidup — kutipan mutiara, nasihat, dan wawasan",
+      "Sekadar skor game",
+      "Keberuntungan acak",
+      "Hiburan singkat semata"
+    ],
+    "answer_index": 0,
+    "category": "culture",
+    "reward_affection": 10
+  }
+]

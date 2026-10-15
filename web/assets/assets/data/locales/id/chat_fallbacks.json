@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Rahasia itu belum siap. Coba topik lain!",
+  "exhausted": "Kamu sudah mendengar terlalu banyak rahasia hari ini! Tanyakan yang lain! 💨",
+  "card_name": "Kunci Dokkaebi",
+  "tone_name": "Harapan",
+  "affinity_title": "Sahabat",
+  "greeting": {
+    "morning": "Selamat Pagi",
+    "afternoon": "Selamat Siang",
+    "evening": "Selamat Sore",
+    "night": "Selamat Malam"
+  }
+}

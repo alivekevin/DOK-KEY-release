@@ -1,0 +1,60 @@
+{
+  "levels": {
+    "1": {
+      "title": "Noma'lum Mehmon",
+      "subtitle": "Qiziqish bilan ehtiyotkorona kuzatuvchi",
+      "quote": "Qayerdan kelgan insonsan? Sehrli kaltagimga qiziqib mo'ralayapsanmi?",
+      "perks": [
+        "Kunlik 1-Omad sinovini ochish",
+        "Kkaebi bilan asosiy suhbat"
+      ]
+    },
+    "2": {
+      "title": "Qadrdon Do'st",
+      "subtitle": "Hazilkash va samimiy dev",
+      "quote": "Oho! Yana keldingmi do'stim! Bugun qanday qiziq voqea bilan kelding?",
+      "perks": [
+        "Uchuvchi Kkaebi ko'z qisish va quvonch mimikasi",
+        "Kunlik turtish reaksiyasi (+5 Do'stlik)",
+        "Natija ekranida samimiy do'stona ohang"
+      ]
+    },
+    "3": {
+      "title": "Ajralmas Qadrdon",
+      "subtitle": "Muqaddas Maxluqlar va Ruhlar sirini ulashuvchi sirdosh",
+      "quote": "Faqat senga sirni aytaman... bugungi Muqaddas Maxluq energiyasi o'zgacha!",
+      "perks": [
+        "Maxfiy suhbat mavzularining ochilishi",
+        "Natijada Kkaebining maxsus 1 qatorlik hikmati",
+        "Sehrli kaltakning oltin zarrachalar effekti"
+      ]
+    },
+    "4": {
+      "title": "Devning Sirdoshi",
+      "subtitle": "Cheksiz ishonch va omad bag'ishlovchi yaqin do'st",
+      "quote": "Qara, qanchalik yaqin bo'lib qoldik! Sen mening eng sodiq do'stimsan.",
+      "perks": [
+        "Uchuvchi dev atrofida olovli sehrli aura",
+        "Har dushanba kuni bonus Oltin Kalit (+1)",
+        "Suhbatda chuqur hamdardlik va donolik"
+      ]
+    },
+    "5": {
+      "title": "Abadiy Afsona",
+      "subtitle": "Ming yillik rishtani asrovchi mangu homiy",
+      "quote": "Ming yil davomida seni kutgandekman. Yo'lingga doim oltin baraka yog'diraman!",
+      "perks": [
+        "Oltin Dev Master unvoni nishoni",
+        "Devning oliy oltin baraka effekti",
+        "Qadimiy afsonaviy sirlar ochilishi"
+      ]
+    }
+  },
+  "touch_reactions": [
+    "Voy qitiqlaydi! Nega buncha turtaverasan? 😆",
+    "Hehe, meni silash senga juda yoqadi-a! ✨",
+    "Oltin chiqsin taq-tuq! Baxting ochilsin, qadrdonim! 🔮",
+    "Dev shoxlariga tegsang tilaklar ijobat bo'ladi deyishadi-ku! 😈",
+    "Bugun ham g'ayratli bo'l! Men seni doim qo'llab-quvvatlayman! 💖"
+  ]
+}

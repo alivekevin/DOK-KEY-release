@@ -1,0 +1,162 @@
+[
+  {
+    "id": "pun_id_01",
+    "lang": "id",
+    "category": "pun",
+    "question": "Ada 3 ekor burung gereja di kabel listrik. Pemburu menembak satu ekor. Berapa ekor burung yang tersisa di kabel?",
+    "options": [
+      "2 ekor",
+      "1 ekor",
+      "0 ekor",
+      "3 ekor"
+    ],
+    "answer_index": 2,
+    "explanation": "Mendengar suara tembakan, burung-burung lainnya langsung terkejut dan kabur terbang semua.",
+    "audio_key": "pun_id_01",
+    "audio_path": "assets/audio/pun/id/01.mp3"
+  },
+  {
+    "id": "pun_id_02",
+    "lang": "id",
+    "category": "pun",
+    "question": "Hantu apa yang pintar berhitung matematika?",
+    "options": [
+      "Kuntilanak",
+      "Tuyul",
+      "Hitungan hantu",
+      "Pocong"
+    ],
+    "answer_index": 1,
+    "explanation": "Tuyul suka mencuri uang dan menghitung lembaran uang.",
+    "audio_key": "pun_id_02",
+    "audio_path": "assets/audio/pun/id/02.mp3"
+  },
+  {
+    "id": "pun_id_03",
+    "lang": "id",
+    "category": "pun",
+    "question": "Bebek apa yang jalannya selalu muter ke kiri?",
+    "options": [
+      "Bebek goreng",
+      "Bebek dikunci stang",
+      "Bebek angsa",
+      "Bebek liar"
+    ],
+    "answer_index": 1,
+    "explanation": "Sepeda motor bebek yang setangnya dikunci ke kiri hanya bisa belok kiri.",
+    "audio_key": "pun_id_03",
+    "audio_path": "assets/audio/pun/id/03.mp3"
+  },
+  {
+    "id": "pun_id_04",
+    "lang": "id",
+    "category": "pun",
+    "question": "Ban apa yang warnanya merah dan manis?",
+    "options": [
+      "Ban truk",
+      "Bandrek",
+      "Ban bocor",
+      "Ban mobil"
+    ],
+    "answer_index": 1,
+    "explanation": "Pelesetan minuman tradisional manis 'Bandrek' menjadi kata Ban.",
+    "audio_key": "pun_id_04",
+    "audio_path": "assets/audio/pun/id/04.mp3"
+  },
+  {
+    "id": "pun_id_05",
+    "lang": "id",
+    "category": "pun",
+    "question": "Pintu apa yang didorong oleh sepuluh orang tetap tidak terbuka?",
+    "options": [
+      "Pintu besi",
+      "Pintu gerbang",
+      "Pintu yang tulisannya TARIK",
+      "Pintu bank"
+    ],
+    "answer_index": 2,
+    "explanation": "Pintu tersebut harus ditarik, bukan didorong.",
+    "audio_key": "pun_id_05",
+    "audio_path": "assets/audio/pun/id/05.mp3"
+  },
+  {
+    "id": "pun_id_06",
+    "lang": "id",
+    "category": "pun",
+    "question": "Gendang apa yang bunyinya tidak bisa didengar?",
+    "options": [
+      "Gendang dangdut",
+      "Gendang telinga pecah",
+      "Gendang kayu",
+      "Gendang mini"
+    ],
+    "answer_index": 1,
+    "explanation": "Kalau gendang telinga sudah rusak/pecah, kita tidak bisa mendengar apa-apa.",
+    "audio_key": "pun_id_06",
+    "audio_path": "assets/audio/pun/id/06.mp3"
+  },
+  {
+    "id": "pun_id_07",
+    "lang": "id",
+    "category": "pun",
+    "question": "Kera apa yang bikin orang masuk rumah sakit?",
+    "options": [
+      "Kera sakti",
+      "Keracunan",
+      "Gorila",
+      "Orangutan"
+    ],
+    "answer_index": 1,
+    "explanation": "Pelesetan kata 'Kera' (monyet) dengan kata 'Keracunan' (kondisi keracunan).",
+    "audio_key": "pun_id_07",
+    "audio_path": "assets/audio/pun/id/07.mp3"
+  },
+  {
+    "id": "pun_id_08",
+    "lang": "id",
+    "category": "pun",
+    "question": "Hewan apa yang paling hening dan tidak bersuara?",
+    "options": [
+      "Ikan",
+      "Semut bisu",
+      "Kucing tidur",
+      "Se-mute"
+    ],
+    "answer_index": 3,
+    "explanation": "Pelesetan kata 'Semut' dengan istilah audio 'Mute' (suara dibisukan).",
+    "audio_key": "pun_id_08",
+    "audio_path": "assets/audio/pun/id/08.mp3"
+  },
+  {
+    "id": "pun_id_09",
+    "lang": "id",
+    "category": "pun",
+    "question": "Kue apa yang paling sering bikin kaget orang?",
+    "options": [
+      "Kue bolu",
+      "Kue donat",
+      "KUEGET!",
+      "Kue lapis"
+    ],
+    "answer_index": 2,
+    "explanation": "Pelesetan bunyi kata 'Kue' dengan kata 'Kaget' (terkejut) menjadi Kueget.",
+    "audio_key": "pun_id_09",
+    "audio_path": "assets/audio/pun/id/09.mp3"
+  },
+  {
+    "id": "pun_id_10",
+    "lang": "id",
+    "category": "pun",
+    "question": "Sapu apa yang sering menempel dan tidak bisa menyapu lantai?",
+    "options": [
+      "Sapu lidi",
+      "Sapu tangan",
+      "Sapu ijuk",
+      "Sapu debu"
+    ],
+    "answer_index": 1,
+    "explanation": "Sapu tangan adalah kain lap saku, bukan sapu lantai.",
+    "audio_key": "pun_id_10",
+    "audio_path": "assets/audio/pun/id/10.mp3"
+  }
+]

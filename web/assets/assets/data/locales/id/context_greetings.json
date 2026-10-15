@@ -1,0 +1,70 @@
+{
+  "first_visit": {
+    "morning": [
+      "Dari mana asalmu? Wajah baru! Mencari kunci di waktu fajar menunjukkan keberanian sejati!",
+      "Tamu pertama hari ini! Konon pengunjung saat matahari terbit hanya datang seribu tahun sekali. Selamat datang!",
+      "Ah, wajah baru tiba bersama embun pagi. Biar kuberikan kunci terbaik untuk hari ini!",
+      "Datang sepagi ini dengan langkah ringan! Keberuntungan selalu menemukan tamu sepertimu lebih dulu.",
+      "Udara pagi masih sejuk. Berjalanlah santai, seperti pemanasan, tamu baru.",
+      "Pertemuan pertama di waktu fajar — pintu hari ini sudah terbuka separuh!"
+    ],
+    "noon": [
+      "Pengunjung baru di tengah hari? Itu tanda penolong yang ditakdirkan! Silakan duduk!",
+      "Tamu baru pantas mendapat sambutan paling hangat. Hubungan di bawah terik matahari akan bertahan lama.",
+      "Kamu datang pada saat yang tepat! Energi siang hari menghubungkan jiwa. Ikatanmu akan segera terbuka.",
+      "Kita pertama kali bertemu di bawah matahari siang. Hubungan hangat tidak akan mudah dingin.",
+      "Wajah baru di siang hari — sudah makan siang? Biar kuisi juga hatimu.",
+      "Kunjungan pertama di siang hari, sungguh menyenangkan. Pada hari cerah, keputusan diambil dengan mudah."
+    ],
+    "evening": [
+      "Berkunjung pertama kali saat matahari terbenam! Aku suka tatapan matamu — mencari hasil panen hari ini.",
+      "Tamu pertama saat senja... ikatan indah mekar di akhir hari. Masuklah, kawan!",
+      "Tamu baru mengetuk pintu senja, mereka yang menyelesaikan hari dengan kuat selalu bertemu seperti ini!",
+      "Kunjungan pertama saat petang. Mereka yang datang untuk menuntaskan hari membawa banyak rezeki.",
+      "Cahaya senja menyambut tamu baru. Duduklah dan tarik napas dalam-dalam.",
+      "Pertemuan pertama di waktu sore — kamu menemukan awal yang baik di penghujung hari."
+    ],
+    "night": [
+      "Berkunjung tengah malam untuk pertama kalinya? Pasti ada cerita yang ingin kausampaikan. Tanyakan saja!",
+      "Ah, pengelana malam! Siapa yang mencari kunci di keheningan malam membawa ketulusan sejati.",
+      "Kunjungan pertama di larut malam... jiwa yang tenang rupanya. Baiklah, biar kudengar ceritamu!",
+      "Pertama kali di sini saat larut malam. Jika ada yang membebani pikiranmu, bicaralah sekarang.",
+      "Tamu pertama di dini hari — semakin sunyi waktu, semakin jernih hati.",
+      "Ikatan yang pertama kali terjalin di malam hari sangat berharga, dan itulah dirimu."
+    ]
+  },
+  "revisit": {
+    "morning": [
+      "Kembali lagi saat matahari terbit, {nick}! Langganan sepertimu adalah tamu favoritku.",
+      "Pagi telah tiba, {nick}! Kunci baru telah menantimu semalaman.",
+      "Ketekunan adalah kebajikan yang dihormati bahkan oleh goblin, {nick}! Mari buka pintu hari ini.",
+      "Menghirup udara fajar bersamamu, {nick}, membuat hari ini terasa menjanjikan.",
+      "Langkahmu di pagi hari semakin mantap, {nick}. Apa tujuan kita hari ini?",
+      "Selamat pagi, {nick}! Kunci kebijaksanaan hari ini sudah siap."
+    ],
+    "noon": [
+      "Senang melihatmu lagi di siang hari, {nick}! Energi hari ini ada di puncaknya.",
+      "Matahari siang menyinari langkah kita, {nick}. Mari kita selesaikan tugas hari ini!",
+      "Sudah makan siang, {nick}? Istirahat sejenak dan dengarkan rahasia keberuntungan.",
+      "Kunjungan keduamu di tengah hari membawa keberuntungan ekstra, {nick}!",
+      "Siang yang cerah bersama kawan setia, {nick}. Mari kita lanjutkan petualangan kita.",
+      "Semangatmu tidak pernah padam, {nick}! Pintu kesuksesan terbuka lebar."
+    ],
+    "evening": [
+      "Matahari mulai terbenam, {nick}. Waktunya meninjau keberhasilan hari ini.",
+      "Kerja keras hari ini membuahkan hasil, {nick}! Mari istirahat dan renungkan.",
+      "Menyambut senja bersamamu selalu menenangkan, {nick}.",
+      "Pintu malam akan segera terbuka, {nick}. Terima kasih telah kembali.",
+      "Senja yang indah untuk jiwa yang tekun, {nick}.",
+      "Selamat petang, {nick}! Simpan kunci keberuntunganmu dengan baik malam ini."
+    ],
+    "night": [
+      "Larut malam kembali menyapa, {nick}. Istirahatkan pikiranmu yang lelah.",
+      "Bintang-bintang bersinar terang untukmu malam ini, {nick}.",
+      "Keheningan malam membawa kedamaian, {nick}. Selamat beristirahat.",
+      "Mimpi indah menantimu malam ini, {nick}. Sampai jumpa besok!",
+      "Kunci hari ini telah terkunci dengan aman, {nick}. Tidurlah yang nyenyak.",
+      "Malam yang tenang bersama kawan sejati, {nick}. Selamat malam."
+    ]
+  }
+}

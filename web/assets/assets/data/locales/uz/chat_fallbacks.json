@@ -1,0 +1,13 @@
+{
+  "empty_topic": "Bu sir hali tayyor emas. Boshqa mavzuni tanlang!",
+  "exhausted": "Bugun juda ko'p sir eshitdingiz! Boshqa narsa so'rang! 💨",
+  "card_name": "Dokkey Kaliti",
+  "tone_name": "Umid",
+  "affinity_title": "Hamroh",
+  "greeting": {
+    "morning": "Xayrli tong",
+    "afternoon": "Xayrli kun",
+    "evening": "Xayrli oqshom",
+    "night": "Xayrli tun"
+  }
+}

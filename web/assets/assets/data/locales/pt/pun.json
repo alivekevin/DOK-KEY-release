@@ -92,15 +92,15 @@
   {
     "id": "pun_pt_14",
     "category": "pun",
-    "question": "O que é uma maçãzinha vermelha em cima dos trilhos de trem?",
+    "question": "Três passarinhos estavam no fio. Um caçador atirou e acertou um. Quantos passarinhos restaram no fio?",
     "options": [
-      "Comida caída",
-      "Lanche do maquinista",
-      "Maçãzinha no trilho",
-      "Fruta podre"
+      "2 passarinhos",
+      "1 passarinho",
+      "0 passarinhos",
+      "3 passarinhos"
     ],
     "answer_index": 2,
-    "explanation": "Típica piada sem sentido infantil com o som do apito do trem (piuí).",
+    "explanation": "Com o barulho do tiro, os outros se assustaram e voaram todos embora.",
     "audio_key": "pun_pt_14",
     "audio_path": "assets/audio/pun/pt/14.mp3"
   },
