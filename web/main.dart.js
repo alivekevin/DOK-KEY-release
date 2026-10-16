@@ -8037,9 +8037,9 @@ cc2(a,b){throw A.h(A.b0("FileStat.stat"))},
 cjE(a,b){throw A.h(A.b0("File._lengthFromPath"))},
 bRz(){throw A.h(A.b0("_Namespace"))},
 cjT(){throw A.h(A.b0("_Namespace"))},
-ck7(){throw A.h(A.b0("Platform._pathSeparator"))},
-ck6(){throw A.h(A.b0("Platform._operatingSystem"))},
-ck4(){throw A.h(A.b0("Platform._environment"))},
+ck7(){return"/"},
+ck6(){return"web"},
+ck4(){return{a:{aK:function(){return false},t:function(){return null},b:function(){return 0}}}},
 a0F(a,b,c){var s
 if(t.j.b(a)&&!J.q(J.E(a,0),0)){s=J.az(a)
 switch(s.h(a,0)){case 1:throw A.h(A.cc(b+": "+c,null))
@@ -8106,7 +8106,7 @@ return null},
 cka(){return A.ck7()},
 ck9(){return A.ck6()},
 ck8(){var s=$.ck5
-if(s==null)A.ck4()
+if(s==null)s=A.ck4()
 s.toString
 return s},
 aaN:function aaN(a,b){this.a=a
