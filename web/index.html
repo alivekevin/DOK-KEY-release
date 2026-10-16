@@ -6,8 +6,11 @@
   <script>
     (function() {
       var p = window.location.pathname;
-      if (!p.endsWith('/')) {
+      var lastSeg = p.substring(p.lastIndexOf('/') + 1);
+      if (lastSeg.indexOf('.') !== -1) {
         p = p.substring(0, p.lastIndexOf('/') + 1);
+      } else if (!p.endsWith('/')) {
+        p = p + '/';
       }
       document.write('<base href="' + p + '">');
     })();
@@ -891,28 +894,6 @@
     bootScript.src = 'flutter_bootstrap.js?v=' + Date.now();
     bootScript.async = true;
     document.body.appendChild(bootScript);
-  </script>
-  <script>
-    // 🏷️ 테스터 배너 버전 라벨 자동 동기화 (version.json 기준 → 매 배포 수동 수정 불필요)
-    (function () {
-      function applyVersion(ver) {
-        if (!ver) return;
-        var title = document.querySelector('.dokkey-web-title');
-        var apk = document.querySelector('.dokkey-web-btn-apk');
-        if (title) title.textContent = '🗝️ DOK-KEY 구글 플레이 정식 출시! (' + ver + ')';
-        if (apk) apk.title = '최신 공식 APK 직접 다운로드 (' + ver + ')';
-      }
-      fetch('web/version.json', { cache: 'no-store' })
-        .then(function (r) { return r.ok ? r.json() : null; })
-        .catch(function () { return null; })
-        .then(function (data) {
-          if (data && data.version) { applyVersion('v' + data.version); return; }
-          fetch('version.json', { cache: 'no-store' })
-            .then(function (r) { return r.ok ? r.json() : null; })
-            .then(function (d) { if (d && d.version) applyVersion('v' + d.version); })
-            .catch(function () {});
-        });
-    })();
   </script>
 </body>
 </html>
