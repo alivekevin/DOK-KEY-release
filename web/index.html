@@ -141,22 +141,24 @@
   </style>
 </head>
 <body>
-  <!-- DOK-KEY 구글 플레이 비공개 테스터 모집 플로팅 배너 & 위젯 -->
+  <!-- =====================================================================
+       🎉 DOK-KEY Google Play 정식 출시 공식 플로팅 배너 & 위젯 (v5.19.138)
+       ===================================================================== -->
   <style>
-    .dokkey-web-tester-banner {
+    .dokkey-web-official-banner {
       position: fixed;
       top: 14px;
       left: 50%;
       transform: translateX(-50%);
       width: calc(100% - 28px);
-      max-width: 760px;
-      background: rgba(14, 18, 27, 0.94);
+      max-width: 860px;
+      background: rgba(14, 18, 27, 0.95);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(212, 175, 55, 0.45);
+      border: 1px solid rgba(212, 175, 55, 0.55);
       border-radius: 16px;
-      padding: 10px 16px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.25);
+      padding: 10px 18px;
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.65), 0 0 24px rgba(212, 175, 55, 0.28);
       z-index: 10000;
       display: flex;
       align-items: center;
@@ -167,7 +169,7 @@
       pointer-events: auto;
       transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     }
-    .dokkey-web-tester-banner.hidden {
+    .dokkey-web-official-banner.hidden {
       opacity: 0;
       transform: translate(-50%, -20px) scale(0.95);
       pointer-events: none;
@@ -175,29 +177,30 @@
     .dokkey-web-left {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 11px;
       min-width: 0;
     }
     .dokkey-web-badge {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      background: rgba(212, 175, 55, 0.18);
-      border: 1px solid rgba(212, 175, 55, 0.6);
+      background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(245, 158, 11, 0.25) 100%);
+      border: 1px solid rgba(255, 215, 0, 0.7);
       color: #FFD700;
-      padding: 3px 8px;
+      padding: 4px 9px;
       border-radius: 12px;
       font-size: 11px;
-      font-weight: 700;
+      font-weight: 800;
       white-space: nowrap;
       flex-shrink: 0;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
     }
     .dokkey-web-pulse {
-      width: 6px;
-      height: 6px;
+      width: 7px;
+      height: 7px;
       background-color: #10B981;
       border-radius: 50%;
-      box-shadow: 0 0 6px #10B981;
+      box-shadow: 0 0 8px #10B981;
       animation: webPulse 1.8s infinite;
     }
     @keyframes webPulse {
@@ -211,18 +214,19 @@
     }
     .dokkey-web-title {
       color: #FFFFFF;
-      font-size: 13px;
-      font-weight: 700;
+      font-size: 13.5px;
+      font-weight: 800;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       display: flex;
       align-items: center;
-      gap: 4px;
+      gap: 5px;
+      letter-spacing: -0.2px;
     }
     .dokkey-web-desc {
       color: #94A3B8;
-      font-size: 11px;
+      font-size: 11.5px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -237,15 +241,28 @@
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      padding: 6px 12px;
+      padding: 6px 13px;
       border-radius: 8px;
-      font-size: 11px;
+      font-size: 11.5px;
       font-weight: 700;
       text-decoration: none !important;
-      transition: all 0.2s;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
       cursor: pointer;
       white-space: nowrap;
     }
+    /* 구글 플레이 정식 다운로드 메인 버튼 (강조) */
+    .dokkey-web-btn-play {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      border: 1px solid #FFE082;
+      color: #0A0C10 !important;
+      box-shadow: 0 2px 10px rgba(245, 158, 11, 0.45);
+    }
+    .dokkey-web-btn-play:hover {
+      background: linear-gradient(135deg, #FFF9C4 0%, #FFA000 100%);
+      box-shadow: 0 4px 16px rgba(245, 158, 11, 0.7);
+      transform: translateY(-1px);
+    }
+    /* APK 직접 다운로드 버튼 */
     .dokkey-web-btn-apk {
       background: linear-gradient(135deg, #10B981 0%, #059669 100%);
       border: 1px solid #34D399;
@@ -257,50 +274,23 @@
       box-shadow: 0 3px 12px rgba(16, 185, 129, 0.55);
       transform: translateY(-1px);
     }
-    .dokkey-web-btn-step1 {
+    /* 리뷰 남기기 버튼 */
+    .dokkey-web-btn-review {
       background: rgba(255, 255, 255, 0.08);
-      border: 1px solid rgba(212, 175, 55, 0.4);
+      border: 1px solid rgba(212, 175, 55, 0.45);
       color: #E2E8F0 !important;
     }
-    .dokkey-web-btn-step1:hover {
+    .dokkey-web-btn-review:hover {
       background: rgba(212, 175, 55, 0.25);
       border-color: #FFD700;
       color: #FFD700 !important;
-    }
-    .dokkey-web-btn-step2 {
-      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
-      border: 1px solid #FFD700;
-      color: #0A0C10 !important;
-      box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
-    }
-    .dokkey-web-btn-step2:hover {
-      background: linear-gradient(135deg, #FFF59D 0%, #FFA000 100%);
-      box-shadow: 0 3px 12px rgba(245, 158, 11, 0.6);
       transform: translateY(-1px);
-    }
-    .dokkey-web-step {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 15px;
-      height: 15px;
-      border-radius: 50%;
-      font-size: 9px;
-      font-weight: 800;
-    }
-    .dokkey-web-btn-step1 .dokkey-web-step {
-      background: rgba(212, 175, 55, 0.3);
-      color: #FFD700;
-    }
-    .dokkey-web-btn-step2 .dokkey-web-step {
-      background: #0A0C10;
-      color: #FFD700;
     }
     .dokkey-web-close {
       background: transparent;
       border: none;
       color: #64748B;
-      font-size: 16px;
+      font-size: 17px;
       cursor: pointer;
       padding: 4px;
       line-height: 1;
@@ -315,46 +305,46 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background: rgba(14, 18, 27, 0.92);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(212, 175, 55, 0.6);
+      background: rgba(14, 18, 27, 0.94);
+      backdrop-filter: blur(14px);
+      border: 1px solid rgba(212, 175, 55, 0.65);
       border-radius: 24px;
-      padding: 7px 14px 7px 10px;
+      padding: 7px 15px 7px 11px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 7px;
       color: #FFD700;
-      font-size: 11px;
+      font-size: 11.5px;
       font-weight: 700;
       cursor: pointer;
       z-index: 10000;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 10px rgba(212, 175, 55, 0.3);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 12px rgba(212, 175, 55, 0.35);
       transition: all 0.25s ease;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
     }
     .dokkey-web-float-btn:hover {
       transform: translateY(-2px) scale(1.04);
       border-color: #FFD700;
-      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.55);
     }
-    @media (max-width: 680px) {
-      .dokkey-web-tester-banner {
+    @media (max-width: 720px) {
+      .dokkey-web-official-banner {
         top: 8px;
         flex-direction: column;
         align-items: flex-start;
-        padding: 8px 12px;
+        padding: 9px 12px;
         gap: 8px;
       }
       .dokkey-web-actions {
         width: 100%;
         justify-content: space-between;
-        gap: 4px;
+        gap: 5px;
       }
       .dokkey-web-btn {
         flex: 1;
         justify-content: center;
-        padding: 6px 4px;
-        font-size: 10px;
+        padding: 6px 5px;
+        font-size: 10.5px;
       }
       .dokkey-web-desc {
         display: none;
@@ -362,53 +352,58 @@
     }
   </style>
 
-  <div id="dokkey-web-banner" class="dokkey-web-tester-banner">
+  <!-- 새 공식 출시 배너 UI -->
+  <div id="dokkey-web-banner" class="dokkey-web-official-banner">
     <div class="dokkey-web-left">
       <div class="dokkey-web-badge">
-        <span class="dokkey-web-pulse"></span> 테스터 모집
+        <span class="dokkey-web-pulse"></span> 🎉 정식 출시
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.27)</div>
-        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 구글 플레이 정식 출시! (v5.19.138)</div>
+        <div class="dokkey-web-desc">전 세계 178개국 공식 런칭! 지금 스토어에서 다운로드하고 첫 리뷰를 남겨주세요.</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-        <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.19.27)">
-        <span>📱 APK 다운로드</span>
+      <a href="../" class="dokkey-web-btn dokkey-web-btn-review" title="DOK-KEY 공식 소개 페이지로 이동">
+        <span>🏠 공식 홈</span>
       </a>
-      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
-        <span class="dokkey-web-step">1</span> 그룹 가입
+      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-play" title="구글 플레이스토어에서 정식 버전 설치">
+        <span>▶️ Google Play 다운로드</span>
       </a>
-      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2" title="2단계: 플레이스토어 테스터 다운로드">
-        <span class="dokkey-web-step">2</span> 플레이스토어
+      <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 공식 APK 직접 다운로드">
+        <span>📱 APK</span>
       </a>
-      <button type="button" class="dokkey-web-close" onclick="closeWebTesterBanner()" title="배너 닫기">&times;</button>
+      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-review" title="플레이스토어 별점 및 응원 리뷰 남기기">
+        <span>⭐ 리뷰 남기기</span>
+      </a>
+      <button type="button" class="dokkey-web-close" onclick="closeWebOfficialBanner()" title="배너 닫기">&times;</button>
     </div>
   </div>
 
-  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebTesterBanner()" style="display:none;" title="테스터 모집 안내 열기">
+  <!-- 배너 닫았을 때 우측 하단 플로팅 미니 버튼 -->
+  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebOfficialBanner()" style="display:none;" title="공식 출시 안내 열기">
     <span class="dokkey-web-pulse"></span>
-    <span>🗝️ 테스터 모집</span>
+    <span>🎉 Google Play 정식 출시</span>
   </div>
 
   <script>
-    function closeWebTesterBanner() {
+    function closeWebOfficialBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.add('hidden');
       if (floatBtn) floatBtn.style.display = 'flex';
-      try { sessionStorage.setItem('dokkey_web_banner_closed', '1'); } catch(e) {}
+      try { sessionStorage.setItem('dokkey_official_banner_closed', '1'); } catch(e) {}
     }
-    function openWebTesterBanner() {
+    function openWebOfficialBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.remove('hidden');
       if (floatBtn) floatBtn.style.display = 'none';
-      try { sessionStorage.removeItem('dokkey_web_banner_closed'); } catch(e) {}
+      try { sessionStorage.removeItem('dokkey_official_banner_closed'); } catch(e) {}
     }
     (function() {
       try {
-        if (sessionStorage.getItem('dokkey_web_banner_closed') === '1') {
+        if (sessionStorage.getItem('dokkey_official_banner_closed') === '1') {
           var banner = document.getElementById('dokkey-web-banner');
           var floatBtn = document.getElementById('dokkey-web-float');
           if (banner) banner.classList.add('hidden');
@@ -417,6 +412,28 @@
       } catch(e) {}
     })();
   </script>
+
+  <!-- =====================================================================
+       [보존용] 이전 비공개 테스터 모집 배너 원본 코드 (필요 시 복원 및 재활성화용)
+       =====================================================================
+  <style>
+    .dokkey-web-tester-banner-backup { display: none !important; }
+  </style>
+  <div id="dokkey-web-banner-tester-backup" class="dokkey-web-tester-banner-backup">
+    <div class="dokkey-web-left">
+      <div class="dokkey-web-badge"><span class="dokkey-web-pulse"></span> 테스터 모집</div>
+      <div class="dokkey-web-info">
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.134)</div>
+        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
+      </div>
+    </div>
+    <div class="dokkey-web-actions">
+      <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk"><span>📱 APK 다운로드</span></a>
+      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1"><span class="dokkey-web-step">1</span> 그룹 가입</a>
+      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2"><span class="dokkey-web-step">2</span> 플레이스토어</a>
+    </div>
+  </div>
+  ====================================================================== -->
 
   <div id="loading-container">
     <div class="key-icon">🗝️</div>
@@ -496,8 +513,8 @@
         if (!ver) return;
         var title = document.querySelector('.dokkey-web-title');
         var apk = document.querySelector('.dokkey-web-btn-apk');
-        if (title) title.textContent = '🗝️ DOK-KEY 테스터 모집 (' + ver + ')';
-        if (apk) apk.title = '최신 APK 직접 다운로드 (' + ver + ')';
+        if (title) title.textContent = '🗝️ DOK-KEY 구글 플레이 정식 출시! (' + ver + ')';
+        if (apk) apk.title = '최신 공식 APK 직접 다운로드 (' + ver + ')';
       }
       fetch('web/version.json', { cache: 'no-store' })
         .then(function (r) { return r.ok ? r.json() : null; })

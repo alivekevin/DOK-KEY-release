@@ -13,37 +13,17 @@
     })();
   </script>
   <noscript>
-    <base href="/DOK-KEY-release/web/">
+    <base href="/DOK-KEY-release/">
   </noscript>
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for (var i = 0; i < registrations.length; i++) {
-          registrations[i].unregister();
-        }
-      });
-    }
-    if ('caches' in window) {
-      caches.keys().then(function(names) {
-        for (var i = 0; i < names.length; i++) {
-          caches.delete(names[i]);
-        }
-      });
-    }
-    try {
-      fetch('assets/assets/cards/zodiac/zodiac_10.webp', { cache: 'reload' });
-      fetch('assets/assets/cards/zodiac/zodiac_19.webp', { cache: 'reload' });
-      fetch('assets/assets/cards/zodiac/zodiac_32.webp', { cache: 'reload' });
-    } catch(e) {}
-  </script>
 
-  <meta name="description" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠. 99종 그랜드 도감과 8가지 표정의 깨비가 전하는 데일리 운세 드로우 & 황금 열쇠 조합기.">
+  <meta name="description" content="DOK-KEY(독키) — 전 세계 178개국 구글 플레이 정식 출시! 99종 그랜드 도감과 8가지 표정의 3D 깨비가 전하는 데일리 운세 & 황금 열쇠 조합기.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
   <!-- OpenGraph for Social Sharing -->
-  <meta property="og:title" content="DOK-KEY — 오늘 하루를 여는 단 하나의 열쇠">
-  <meta property="og:description" content="99종 그랜드 도감 & 깨비와 함께하는 1-Draw 데일리 운세 드로우 & N-Key 조합기">
+  <meta property="og:title" content="DOK-KEY (독키) — 오늘 하루를 여는 단 하나의 열쇠">
+  <meta property="og:description" content="Google Play 정식 출시! 99종 그랜드 도감 & 3D 깨비와 함께하는 1-Draw 데일리 운세 드로우.">
   <meta property="og:type" content="website">
+  <meta property="og:image" content="icons/Icon-512.png">
 
   <!-- Mobile meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -53,121 +33,48 @@
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>DOK-KEY (독키) — 오늘 하루를 여는 단 하나의 열쇠</title>
+  <title>DOK-KEY (독키) 공식 홈페이지 — Google Play 정식 출시 (v5.19.138)</title>
   <link rel="manifest" href="manifest.json">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans+SC:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
 
   <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background-color: #0A0C10;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", "Noto Sans SC", "Noto Sans Devanagari", sans-serif;
-      color: #EAEFF8;
+      background-color: #07090E;
+      color: #E2E8F0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+      overflow-x: hidden;
+      min-height: 100vh;
+      line-height: 1.6;
     }
 
-    #loading-container {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      background: radial-gradient(circle at center, #1A1E29 0%, #0A0C10 70%);
-      z-index: 9999;
-      pointer-events: all;
-    }
-
-    .key-icon {
-      font-size: 48px;
-      margin-bottom: 20px;
-      animation: keyBounce 2s ease-in-out infinite;
-      filter: drop-shadow(0 0 16px rgba(212, 175, 55, 0.5));
-    }
-
-    @keyframes keyBounce {
-      0%, 100% { transform: translateY(0px) rotate(0deg) scale(1); }
-      50% { transform: translateY(-10px) rotate(6deg) scale(1.08); }
-    }
-
-    .brand-name {
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: 3px;
-      color: #D4AF37;
-      margin-bottom: 8px;
-      background: linear-gradient(135deg, #FFF6D6 0%, #D4AF37 50%, #997A15 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    .loading-msg {
-      font-size: 14px;
-      color: #8E9BAE;
-      margin-bottom: 24px;
-      letter-spacing: -0.2px;
-    }
-
-    .spinner-bar {
-      width: 180px;
-      height: 4px;
-      background: rgba(255, 255, 255, 0.08);
-      border-radius: 4px;
-      overflow: hidden;
-      position: relative;
-    }
-
-    .spinner-bar::after {
-      content: '';
-      position: absolute;
-      left: -50%;
-      height: 100%;
-      width: 50%;
-      background: linear-gradient(90deg, transparent, #D4AF37, #FF5E36, transparent);
-      border-radius: 4px;
-      animation: sweep 1.4s ease-in-out infinite;
-    }
-
-    @keyframes sweep {
-      0% { left: -50%; }
-      100% { left: 100%; }
-    }
-  </style>
-</head>
-<body>
-  <!-- DOK-KEY 구글 플레이 비공개 테스터 모집 플로팅 배너 & 위젯 -->
-  <style>
-    .dokkey-web-tester-banner {
+    /* =====================================================================
+       🎉 DOK-KEY Google Play 정식 출시 공식 플로팅 배너 & 위젯
+       ===================================================================== */
+    .dokkey-web-official-banner {
       position: fixed;
       top: 14px;
       left: 50%;
       transform: translateX(-50%);
       width: calc(100% - 28px);
-      max-width: 760px;
-      background: rgba(14, 18, 27, 0.94);
+      max-width: 860px;
+      background: rgba(14, 18, 27, 0.95);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(212, 175, 55, 0.45);
+      border: 1px solid rgba(212, 175, 55, 0.55);
       border-radius: 16px;
-      padding: 10px 16px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.25);
-      z-index: 10000;
+      padding: 10px 18px;
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.65), 0 0 24px rgba(212, 175, 55, 0.28);
+      z-index: 9990;
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 12px;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
-      box-sizing: border-box;
-      pointer-events: auto;
       transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     }
-    .dokkey-web-tester-banner.hidden {
+    .dokkey-web-official-banner.hidden {
       opacity: 0;
       transform: translate(-50%, -20px) scale(0.95);
       pointer-events: none;
@@ -175,29 +82,30 @@
     .dokkey-web-left {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 11px;
       min-width: 0;
     }
     .dokkey-web-badge {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      background: rgba(212, 175, 55, 0.18);
-      border: 1px solid rgba(212, 175, 55, 0.6);
+      background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(245, 158, 11, 0.25) 100%);
+      border: 1px solid rgba(255, 215, 0, 0.7);
       color: #FFD700;
-      padding: 3px 8px;
+      padding: 4px 9px;
       border-radius: 12px;
       font-size: 11px;
-      font-weight: 700;
+      font-weight: 800;
       white-space: nowrap;
       flex-shrink: 0;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
     }
     .dokkey-web-pulse {
-      width: 6px;
-      height: 6px;
+      width: 7px;
+      height: 7px;
       background-color: #10B981;
       border-radius: 50%;
-      box-shadow: 0 0 6px #10B981;
+      box-shadow: 0 0 8px #10B981;
       animation: webPulse 1.8s infinite;
     }
     @keyframes webPulse {
@@ -211,18 +119,19 @@
     }
     .dokkey-web-title {
       color: #FFFFFF;
-      font-size: 13px;
-      font-weight: 700;
+      font-size: 13.5px;
+      font-weight: 800;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       display: flex;
       align-items: center;
-      gap: 4px;
+      gap: 5px;
+      letter-spacing: -0.2px;
     }
     .dokkey-web-desc {
       color: #94A3B8;
-      font-size: 11px;
+      font-size: 11.5px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -237,14 +146,25 @@
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      padding: 6px 12px;
+      padding: 6px 13px;
       border-radius: 8px;
-      font-size: 11px;
+      font-size: 11.5px;
       font-weight: 700;
       text-decoration: none !important;
-      transition: all 0.2s;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
       cursor: pointer;
       white-space: nowrap;
+    }
+    .dokkey-web-btn-play {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      border: 1px solid #FFE082;
+      color: #0A0C10 !important;
+      box-shadow: 0 2px 10px rgba(245, 158, 11, 0.45);
+    }
+    .dokkey-web-btn-play:hover {
+      background: linear-gradient(135deg, #FFF9C4 0%, #FFA000 100%);
+      box-shadow: 0 4px 16px rgba(245, 158, 11, 0.7);
+      transform: translateY(-1px);
     }
     .dokkey-web-btn-apk {
       background: linear-gradient(135deg, #10B981 0%, #059669 100%);
@@ -257,158 +177,761 @@
       box-shadow: 0 3px 12px rgba(16, 185, 129, 0.55);
       transform: translateY(-1px);
     }
-    .dokkey-web-btn-step1 {
+    .dokkey-web-btn-review {
       background: rgba(255, 255, 255, 0.08);
-      border: 1px solid rgba(212, 175, 55, 0.4);
+      border: 1px solid rgba(212, 175, 55, 0.45);
       color: #E2E8F0 !important;
     }
-    .dokkey-web-btn-step1:hover {
+    .dokkey-web-btn-review:hover {
       background: rgba(212, 175, 55, 0.25);
       border-color: #FFD700;
       color: #FFD700 !important;
-    }
-    .dokkey-web-btn-step2 {
-      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
-      border: 1px solid #FFD700;
-      color: #0A0C10 !important;
-      box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
-    }
-    .dokkey-web-btn-step2:hover {
-      background: linear-gradient(135deg, #FFF59D 0%, #FFA000 100%);
-      box-shadow: 0 3px 12px rgba(245, 158, 11, 0.6);
       transform: translateY(-1px);
-    }
-    .dokkey-web-step {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 15px;
-      height: 15px;
-      border-radius: 50%;
-      font-size: 9px;
-      font-weight: 800;
-    }
-    .dokkey-web-btn-step1 .dokkey-web-step {
-      background: rgba(212, 175, 55, 0.3);
-      color: #FFD700;
-    }
-    .dokkey-web-btn-step2 .dokkey-web-step {
-      background: #0A0C10;
-      color: #FFD700;
     }
     .dokkey-web-close {
       background: transparent;
       border: none;
       color: #64748B;
-      font-size: 16px;
+      font-size: 17px;
       cursor: pointer;
       padding: 4px;
       line-height: 1;
       border-radius: 4px;
       transition: color 0.2s;
     }
-    .dokkey-web-close:hover {
-      color: #FFFFFF;
-    }
-    /* 플로팅 미니 버튼 (닫았을 때) */
+    .dokkey-web-close:hover { color: #FFFFFF; }
     .dokkey-web-float-btn {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background: rgba(14, 18, 27, 0.92);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(212, 175, 55, 0.6);
+      background: rgba(14, 18, 27, 0.94);
+      backdrop-filter: blur(14px);
+      border: 1px solid rgba(212, 175, 55, 0.65);
       border-radius: 24px;
-      padding: 7px 14px 7px 10px;
+      padding: 7px 15px 7px 11px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 7px;
       color: #FFD700;
-      font-size: 11px;
+      font-size: 11.5px;
       font-weight: 700;
       cursor: pointer;
-      z-index: 10000;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 10px rgba(212, 175, 55, 0.3);
+      z-index: 9990;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 12px rgba(212, 175, 55, 0.35);
       transition: all 0.25s ease;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
     }
     .dokkey-web-float-btn:hover {
       transform: translateY(-2px) scale(1.04);
       border-color: #FFD700;
-      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.55);
     }
-    @media (max-width: 680px) {
-      .dokkey-web-tester-banner {
+    @media (max-width: 720px) {
+      .dokkey-web-official-banner {
         top: 8px;
         flex-direction: column;
         align-items: flex-start;
-        padding: 8px 12px;
+        padding: 9px 12px;
         gap: 8px;
       }
       .dokkey-web-actions {
         width: 100%;
         justify-content: space-between;
-        gap: 4px;
+        gap: 5px;
       }
       .dokkey-web-btn {
         flex: 1;
         justify-content: center;
-        padding: 6px 4px;
-        font-size: 10px;
+        padding: 6px 5px;
+        font-size: 10.5px;
       }
-      .dokkey-web-desc {
-        display: none;
-      }
+      .dokkey-web-desc { display: none; }
     }
-  </style>
 
-  <div id="dokkey-web-banner" class="dokkey-web-tester-banner">
+    /* =====================================================================
+       🎬 3D 깨비 시네마틱 오프닝 무비 레이어
+       ===================================================================== */
+    #dokkey-cinema-intro {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at 50% 42%, #182038 0%, #0B0E17 55%, #05070B 100%);
+      z-index: 10000;
+      pointer-events: all;
+      overflow: hidden;
+      user-select: none;
+      transition: opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1), transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    #dokkey-cinema-intro.cinema-exit {
+      opacity: 0;
+      transform: scale(1.08);
+      pointer-events: none;
+    }
+    #kkaebi-cinema-canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      pointer-events: none;
+    }
+    .cinema-letterbox {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 48px;
+      background: #030407;
+      z-index: 4;
+    }
+    .cinema-letterbox.top { top: 0; border-bottom: 1px solid rgba(212, 175, 55, 0.22); }
+    .cinema-letterbox.bottom { bottom: 0; border-top: 1px solid rgba(212, 175, 55, 0.22); }
+    .cinema-top-controls {
+      position: absolute;
+      top: 62px;
+      right: 20px;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .cinema-ctrl-btn {
+      background: rgba(14, 18, 28, 0.78);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(212, 175, 55, 0.45);
+      color: #F8FAFC;
+      padding: 7px 14px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    }
+    .cinema-ctrl-btn:hover {
+      background: rgba(212, 175, 55, 0.22);
+      border-color: #FFD700;
+      color: #FFD700;
+      transform: translateY(-1px);
+    }
+    .cinema-ctrl-btn.sound-active {
+      border-color: #34D399;
+      color: #34D399;
+    }
+    .cinema-act-badge {
+      position: absolute;
+      top: 62px;
+      left: 20px;
+      z-index: 10;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(14, 18, 28, 0.75);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      padding: 6px 13px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #BAE6FD;
+    }
+    .cinema-act-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #38BDF8;
+      box-shadow: 0 0 8px #38BDF8;
+      animation: actPulse 1.2s infinite;
+    }
+    .cinema-stage {
+      position: relative;
+      z-index: 3;
+      width: min(360px, 84vw);
+      height: min(360px, 50vh);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .cinema-halo {
+      position: absolute;
+      width: 270px;
+      height: 270px;
+      border-radius: 50%;
+      border: 1.5px dashed rgba(212, 175, 55, 0.38);
+      box-shadow: 0 0 60px rgba(212, 175, 55, 0.18), inset 0 0 40px rgba(56, 189, 248, 0.15);
+      animation: haloSpin 14s linear infinite;
+      pointer-events: none;
+    }
+    @keyframes haloSpin {
+      from { transform: rotate(0deg) scale(0.96); }
+      50% { transform: rotate(180deg) scale(1.04); }
+      to { transform: rotate(360deg) scale(0.96); }
+    }
+    #cinema-kkaebi-img {
+      position: relative;
+      width: 250px;
+      height: 250px;
+      object-fit: contain;
+      z-index: 5;
+      filter: drop-shadow(0 14px 28px rgba(0, 0, 0, 0.85)) drop-shadow(0 0 22px rgba(56, 189, 248, 0.35));
+      transition: filter 0.35s ease, transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    #cinema-kkaebi-img.fire-aura {
+      filter: drop-shadow(0 14px 30px rgba(0, 0, 0, 0.9)) drop-shadow(0 0 38px rgba(56, 189, 248, 0.9));
+      transform: scale(1.03);
+    }
+    #cinema-kkaebi-img.gold-aura {
+      filter: drop-shadow(0 14px 30px rgba(0, 0, 0, 0.9)) drop-shadow(0 0 42px rgba(255, 215, 0, 0.9));
+      transform: scale(1.05);
+    }
+    #cinema-flash {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle, rgba(255, 243, 176, 0.7) 0%, rgba(212, 175, 55, 0.25) 45%, transparent 75%);
+      opacity: 0;
+      z-index: 8;
+      pointer-events: none;
+      transition: opacity 0.35s ease-out;
+    }
+    .cinema-caption-box {
+      position: relative;
+      z-index: 6;
+      text-align: center;
+      margin-top: 14px;
+      padding: 0 20px;
+      max-width: 560px;
+    }
+    .brand-name {
+      font-size: 30px;
+      font-weight: 900;
+      letter-spacing: 5px;
+      margin-bottom: 6px;
+      background: linear-gradient(135deg, #FFFBEB 0%, #FFD700 45%, #D97706 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 2px 12px rgba(212, 175, 55, 0.4));
+    }
+    #cinema-subtitle {
+      font-size: 15px;
+      font-weight: 600;
+      color: #F1F5F9;
+      min-height: 24px;
+      margin-bottom: 6px;
+      letter-spacing: -0.2px;
+      text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9);
+      transition: opacity 0.25s ease, transform 0.25s ease;
+    }
+    #cinema-subdesc {
+      font-size: 12px;
+      color: #94A3B8;
+      margin-bottom: 18px;
+    }
+    .cinema-progress-wrap {
+      width: min(260px, 72vw);
+      height: 5px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+      overflow: hidden;
+      margin: 0 auto;
+    }
+    #cinema-progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #38BDF8 0%, #FFD700 65%, #F59E0B 100%);
+      box-shadow: 0 0 12px rgba(255, 215, 0, 0.8);
+      transition: width 0.15s linear;
+    }
+    #dokkey-intro-replay-btn {
+      position: fixed;
+      bottom: 20px;
+      left: 20px;
+      z-index: 9980;
+      background: rgba(14, 18, 28, 0.88);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(212, 175, 55, 0.55);
+      border-radius: 999px;
+      padding: 7px 15px 7px 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      color: #FFD700;
+      font-size: 11.5px;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 12px rgba(212, 175, 55, 0.22);
+      transition: all 0.25s ease;
+    }
+    #dokkey-intro-replay-btn:hover {
+      transform: translateY(-2px) scale(1.04);
+      border-color: #FFD700;
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.45);
+    }
+    @media (max-width: 600px) {
+      .cinema-letterbox { height: 32px; }
+      .cinema-top-controls { top: 42px; right: 12px; }
+      .cinema-act-badge { top: 42px; left: 12px; font-size: 10px; padding: 5px 10px; }
+      .cinema-stage { height: min(300px, 45vh); }
+      #cinema-kkaebi-img { width: 210px; height: 210px; }
+      .brand-name { font-size: 24px; }
+      #cinema-subtitle { font-size: 13.5px; }
+    }
+
+    /* =====================================================================
+       🌟 공식 런칭 랜딩 페이지 본문 (DOK-KEY Official Landing Page)
+       ===================================================================== */
+    #landing-main {
+      padding-top: 90px;
+      padding-bottom: 80px;
+      max-width: 1080px;
+      margin: 0 auto;
+      padding-left: 20px;
+      padding-right: 20px;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.8s ease, transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    #landing-main.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Hero Section */
+    .hero-section {
+      text-align: center;
+      padding: 40px 10px 50px;
+      position: relative;
+    }
+    .hero-emblem {
+      width: 130px;
+      height: 130px;
+      margin: 0 auto 20px;
+      filter: drop-shadow(0 10px 30px rgba(212, 175, 55, 0.4));
+      animation: floatKkaebi 3.5s ease-in-out infinite;
+    }
+    @keyframes floatKkaebi {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-10px) rotate(2deg); }
+    }
+    .hero-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(212, 175, 55, 0.15);
+      border: 1px solid rgba(255, 215, 0, 0.6);
+      color: #FFD700;
+      padding: 5px 14px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+    .hero-title {
+      font-size: clamp(32px, 6vw, 54px);
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      line-height: 1.25;
+      margin-bottom: 18px;
+      background: linear-gradient(135deg, #FFFFFF 0%, #FFF4D0 40%, #FFD700 80%, #F59E0B 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .hero-subtitle {
+      font-size: clamp(15px, 2.5vw, 19px);
+      color: #94A3B8;
+      max-width: 680px;
+      margin: 0 auto 36px;
+      line-height: 1.6;
+    }
+
+    /* 3대 핵심 다운로드 & 체험 버튼 바 */
+    .action-button-group {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      margin-bottom: 50px;
+    }
+    .btn-main-action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 14px 28px;
+      border-radius: 14px;
+      font-size: 15px;
+      font-weight: 800;
+      text-decoration: none !important;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      cursor: pointer;
+    }
+    .btn-play-store {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      color: #080A0F !important;
+      border: 1px solid #FFE082;
+      box-shadow: 0 4px 20px rgba(245, 158, 11, 0.45);
+    }
+    .btn-play-store:hover {
+      background: linear-gradient(135deg, #FFF9C4 0%, #FFA000 100%);
+      transform: translateY(-3px) scale(1.02);
+      box-shadow: 0 8px 30px rgba(245, 158, 11, 0.65);
+    }
+    .btn-apk-direct {
+      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+      color: #FFFFFF !important;
+      border: 1px solid #34D399;
+      box-shadow: 0 4px 18px rgba(16, 185, 129, 0.35);
+    }
+    .btn-apk-direct:hover {
+      background: linear-gradient(135deg, #34D399 0%, #10B981 100%);
+      transform: translateY(-3px) scale(1.02);
+      box-shadow: 0 8px 25px rgba(16, 185, 129, 0.55);
+    }
+    .btn-web-demo {
+      background: rgba(255, 255, 255, 0.07);
+      color: #E2E8F0 !important;
+      border: 1px solid rgba(212, 175, 55, 0.5);
+      backdrop-filter: blur(10px);
+    }
+    .btn-web-demo:hover {
+      background: rgba(212, 175, 55, 0.2);
+      border-color: #FFD700;
+      color: #FFD700 !important;
+      transform: translateY(-3px) scale(1.02);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
+    }
+
+    /* Features Grid */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin-bottom: 60px;
+    }
+    .feature-card {
+      background: rgba(15, 20, 32, 0.7);
+      backdrop-filter: blur(14px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+      padding: 28px 24px;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .feature-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(212, 175, 55, 0.5);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.15);
+    }
+    .feature-icon {
+      font-size: 34px;
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+    .feature-title {
+      font-size: 18px;
+      font-weight: 800;
+      color: #F8FAFC;
+      margin-bottom: 10px;
+      letter-spacing: -0.3px;
+    }
+    .feature-desc {
+      font-size: 14px;
+      color: #94A3B8;
+      line-height: 1.6;
+    }
+
+    /* Guestbook / Notice Space */
+    .community-box {
+      background: linear-gradient(180deg, rgba(18, 24, 38, 0.85) 0%, rgba(10, 13, 20, 0.95) 100%);
+      border: 1px solid rgba(212, 175, 55, 0.35);
+      border-radius: 24px;
+      padding: 36px 30px;
+      margin-bottom: 60px;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+    }
+    .community-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-bottom: 24px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .community-title {
+      font-size: 20px;
+      font-weight: 800;
+      color: #FFD700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .notice-item {
+      background: rgba(255, 255, 255, 0.03);
+      border-left: 4px solid #10B981;
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 18px;
+      font-size: 13.5px;
+      color: #CBD5E1;
+    }
+    .guestbook-input-row {
+      display: flex;
+      gap: 10px;
+      margin-top: 18px;
+    }
+    .guestbook-input {
+      flex: 1;
+      background: rgba(0, 0, 0, 0.4);
+      border: 1px solid rgba(212, 175, 55, 0.35);
+      border-radius: 12px;
+      padding: 12px 16px;
+      color: #FFFFFF;
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .guestbook-input:focus { border-color: #FFD700; }
+    .guestbook-btn {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      color: #0A0C10;
+      border: none;
+      border-radius: 12px;
+      padding: 0 20px;
+      font-weight: 800;
+      font-size: 14px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .guestbook-btn:hover { transform: scale(1.03); }
+    .guestbook-list {
+      margin-top: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .guest-msg {
+      background: rgba(255, 255, 255, 0.04);
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 13.5px;
+      color: #E2E8F0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .guest-date { font-size: 11px; color: #64748B; }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 30px 10px 40px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      color: #64748B;
+      font-size: 12.5px;
+    }
+    footer a { color: #94A3B8; text-decoration: none; margin: 0 8px; }
+    footer a:hover { color: #FFD700; }
+  </style>
+</head>
+<body>
+
+  <!-- =====================================================================
+       🎉 DOK-KEY Google Play 정식 출시 공식 플로팅 배너 & 위젯 (v5.19.138)
+       ===================================================================== -->
+  <div id="dokkey-web-banner" class="dokkey-web-official-banner">
     <div class="dokkey-web-left">
       <div class="dokkey-web-badge">
-        <span class="dokkey-web-pulse"></span> 테스터 모집
+        <span class="dokkey-web-pulse"></span> 🎉 정식 출시
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.134)</div>
-        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 구글 플레이 정식 출시! (v5.19.138)</div>
+        <div class="dokkey-web-desc">전 세계 178개국 공식 런칭! 지금 스토어에서 다운로드하고 첫 리뷰를 남겨주세요.</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-        <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.19.134)">
-        <span>📱 APK 다운로드</span>
+      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-play" title="구글 플레이스토어에서 정식 버전 설치">
+        <span>▶️ Google Play 다운로드</span>
       </a>
-      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
-        <span class="dokkey-web-step">1</span> 그룹 가입
+      <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 공식 APK 직접 다운로드">
+        <span>📱 APK</span>
       </a>
-      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2" title="2단계: 플레이스토어 테스터 다운로드">
-        <span class="dokkey-web-step">2</span> 플레이스토어
+      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-review" title="플레이스토어 별점 및 응원 리뷰 남기기">
+        <span>⭐ 리뷰 남기기</span>
       </a>
-      <button type="button" class="dokkey-web-close" onclick="closeWebTesterBanner()" title="배너 닫기">&times;</button>
+      <button type="button" class="dokkey-web-close" onclick="closeWebOfficialBanner()" title="배너 닫기">&times;</button>
     </div>
   </div>
 
-  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebTesterBanner()" style="display:none;" title="테스터 모집 안내 열기">
+  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebOfficialBanner()" style="display:none;" title="공식 출시 안내 열기">
     <span class="dokkey-web-pulse"></span>
-    <span>🗝️ 테스터 모집</span>
+    <span>🎉 Google Play 정식 출시</span>
   </div>
 
+  <!-- =====================================================================
+       🎬 3D 깨비 시네마틱 오프닝 무비 (첫 방문 시 1회 시네마틱 재생)
+       ===================================================================== -->
+  <div id="dokkey-cinema-intro">
+    <div class="cinema-letterbox top"></div>
+    <div class="cinema-letterbox bottom"></div>
+
+    <canvas id="kkaebi-cinema-canvas"></canvas>
+    <div id="cinema-flash"></div>
+
+    <div class="cinema-act-badge">
+      <span class="cinema-act-dot"></span>
+      <span id="cinema-act-label">ACT I · 3D 깨비의 강림</span>
+    </div>
+
+    <div class="cinema-top-controls">
+      <button type="button" id="cinema-sound-btn" class="cinema-ctrl-btn" onclick="toggleCinemaSound()">
+        <span id="cinema-sound-icon">🔇</span>
+        <span id="cinema-sound-text">효과음 켜기</span>
+      </button>
+      <button type="button" id="cinema-skip-btn" class="cinema-ctrl-btn" onclick="skipCinemaIntro()">
+        <span>SKIP ▸</span>
+      </button>
+    </div>
+
+    <div class="cinema-stage" onclick="triggerCinemaSparkBurst()">
+      <div class="cinema-halo"></div>
+      <img id="cinema-kkaebi-img" src="assets/assets/images/kkaebi_3d/kkaebi_turn_000.webp" alt="3D Kkaebi" />
+    </div>
+
+    <div class="cinema-caption-box">
+      <div class="brand-name">DOK-KEY</div>
+      <div id="cinema-subtitle">어둠을 밝히는 도깨비불처럼, 3D 깨비가 깨어납니다...</div>
+      <div id="cinema-subdesc">3D 깨비가 건네는 오늘의 명언 · 수수께끼 · 인생 운세</div>
+      <div class="cinema-progress-wrap">
+        <div id="cinema-progress-bar"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 인트로 다시보기 플로팅 버튼 -->
+  <div id="dokkey-intro-replay-btn" onclick="replayCinemaIntro()" title="깨비 시네마틱 오프닝 다시보기">
+    <span>🎬 깨비 오프닝 무비</span>
+  </div>
+
+  <!-- =====================================================================
+       🌟 공식 런칭 랜딩 페이지 본문
+       ===================================================================== -->
+  <main id="landing-main">
+    <section class="hero-section">
+      <img src="assets/assets/images/kkaebi_3d/kkaebi_emo_joy.webp" alt="3D Kkaebi" class="hero-emblem" />
+      <div>
+        <span class="hero-tag">✨ 178개국 구글 플레이 공식 런칭 (v5.19.138)</span>
+      </div>
+      <h1 class="hero-title">오늘 하루를 여는<br>단 하나의 열쇠, DOK-KEY</h1>
+      <p class="hero-subtitle">
+        99종 그랜드 도감과 8가지 표정의 3D 깨비가 전하는 지혜의 명언, 수수께끼, 그리고 데일리 1-Draw 인생 운세. 지금 바로 만나보세요.
+      </p>
+
+      <!-- 3대 핵심 액션 버튼 -->
+      <div class="action-button-group">
+        <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="btn-main-action btn-play-store" title="Google Play 스토어에서 공식 앱 다운로드">
+          <span>▶️ Google Play 정식 다운로드</span>
+        </a>
+        <a href="/DOK-KEY-release/app-release.apk" download class="btn-main-action btn-apk-direct" title="최신 안드로이드 APK 파일 직접 다운로드">
+          <span>📱 APK 직접 다운로드</span>
+        </a>
+        <a href="web/" class="btn-main-action btn-web-demo" title="웹 브라우저에서 바로 체험하기">
+          <span>🌐 웹 데모(Web Demo) 바로 즐기기</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- 3대 핵심 기능 소개 카드 -->
+    <section class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">🗝️</div>
+        <h3 class="feature-title">황금 열쇠 & 1-Draw 데일리 운세</h3>
+        <p class="feature-desc">매일 아침 깨비의 방망이와 황금 열쇠로 나만의 운명 카드를 해금하세요. 매일 새로운 지혜와 통찰을 선물합니다.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📖</div>
+        <h3 class="feature-title">99종 그랜드 도감 컬렉션</h3>
+        <p class="feature-desc">한국 전통 12지신, 수호신, 사신수, 신화 카드가 살아 숨쉽니다. 모을수록 깊어지는 웅장한 도감을 완성해 보세요.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">👹</div>
+        <h3 class="feature-title">8가지 감정의 3D 인터랙티브 깨비</h3>
+        <p class="feature-desc">기쁨, 호기심, 불타는 열정 등 터치와 마음에 반응하는 3D 깨비와 매일 수수께끼를 풀고 대화를 나누세요.</p>
+      </div>
+    </section>
+
+    <!-- 커뮤니티 & 방명록 소통 섹션 -->
+    <section class="community-box">
+      <div class="community-head">
+        <div class="community-title">
+          <span>💬</span> 깨비 방명록 & 출시 축하 한마디
+        </div>
+        <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-play" style="padding: 7px 14px;">
+          <span>⭐ 스토어 별점 리뷰 남기기</span>
+        </a>
+      </div>
+
+      <div class="notice-item">
+        <strong>📢 공식 런칭 공지:</strong> 2026년 10월 16일, DOK-KEY가 구글 플레이 스토어 전 세계 178개국에 정식 릴리스되었습니다! (빌드 755 / v5.19.138)
+      </div>
+
+      <div class="guestbook-input-row">
+        <input type="text" id="guest-input" class="guestbook-input" placeholder="깨비에게 응원의 한마디나 바라는 점을 남겨주세요!" onkeypress="if(event.key==='Enter') submitGuestMsg()" />
+        <button type="button" class="guestbook-btn" onclick="submitGuestMsg()">남기기</button>
+      </div>
+
+      <div id="guestbook-list" class="guestbook-list">
+        <div class="guest-msg">
+          <span>🎉 구글 플레이 정식 출시 축하드립니다! 깨비 캐릭터가 너무 귀여워요!</span>
+          <span class="guest-date">오늘</span>
+        </div>
+        <div class="guest-msg">
+          <span>🗝️ 매일 아침 카드 한 장 뽑는 게 새로운 루틴이 되었네요. 대박 나세요!</span>
+          <span class="guest-date">오늘</span>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2026 DOK-KEY. All rights reserved.</p>
+      <p style="margin-top: 8px;">
+        <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank">Google Play</a> ·
+        <a href="web/">Web Demo</a> ·
+        <a href="privacy.html">개인정보처리방침</a> ·
+        <a href="/DOK-KEY-release/app-release.apk" download>APK 다운로드</a>
+      </p>
+    </footer>
+  </main>
+
   <script>
-    function closeWebTesterBanner() {
+    // 상단 공식 배너 제어
+    function closeWebOfficialBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.add('hidden');
       if (floatBtn) floatBtn.style.display = 'flex';
-      try { sessionStorage.setItem('dokkey_web_banner_closed', '1'); } catch(e) {}
+      try { sessionStorage.setItem('dokkey_official_banner_closed', '1'); } catch(e) {}
     }
-    function openWebTesterBanner() {
+    function openWebOfficialBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.remove('hidden');
       if (floatBtn) floatBtn.style.display = 'none';
-      try { sessionStorage.removeItem('dokkey_web_banner_closed'); } catch(e) {}
+      try { sessionStorage.removeItem('dokkey_official_banner_closed'); } catch(e) {}
     }
     (function() {
       try {
-        if (sessionStorage.getItem('dokkey_web_banner_closed') === '1') {
+        if (sessionStorage.getItem('dokkey_official_banner_closed') === '1') {
           var banner = document.getElementById('dokkey-web-banner');
           var floatBtn = document.getElementById('dokkey-web-float');
           if (banner) banner.classList.add('hidden');
@@ -416,99 +939,329 @@
         }
       } catch(e) {}
     })();
-  </script>
 
-  <div id="loading-container">
-    <div class="key-icon">🗝️</div>
-    <div class="brand-name">DOK-KEY</div>
-    <div class="loading-msg">도깨비의 열쇠를 불러오는 중...</div>
-    <div class="spinner-bar"></div>
-  </div>
-
-  <script>
-    function hideLoader() {
-      var loader = document.getElementById('loading-container');
-      if (loader && !loader.classList.contains('hidden')) {
-        loader.classList.add('hidden');
-        loader.style.transition = 'opacity 0.4s ease-out';
-        loader.style.opacity = '0';
-        loader.style.pointerEvents = 'none';
-        setTimeout(function () {
-          if (loader.parentNode) loader.parentNode.removeChild(loader);
-        }, 450);
-      }
+    // 방명록 로컬 추가 기능
+    function submitGuestMsg() {
+      var input = document.getElementById('guest-input');
+      if (!input || !input.value.trim()) return;
+      var text = input.value.trim();
+      var list = document.getElementById('guestbook-list');
+      var item = document.createElement('div');
+      item.className = 'guest-msg';
+      item.innerHTML = '<span>🗝️ ' + text.replace(/</g, '&lt;') + '</span><span class="guest-date">방금 전</span>';
+      if (list) list.insertBefore(item, list.firstChild);
+      input.value = '';
     }
 
-    // 1. Flutter 첫 프레임 이벤트 수신 시 제거
-    window.addEventListener('flutter-first-frame', hideLoader);
-
-    // 2. Flutter DOM 렌더링 감지 시 제거
-    var observer = new MutationObserver(function(mutations) {
-      if (document.querySelector('flutter-view, flt-glass-pane, flt-scene-host')) {
-        hideLoader();
-        observer.disconnect();
-      }
-    });
-    observer.observe(document.body, { childList: true, subtree: true });
-
-    // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
-    setTimeout(hideLoader, 3500);
-  </script>
-
-  <script>
+    // =====================================================
+    // 🎬 3D 깨비 시네마틱 오프닝 무비 디렉터 스크립트
+    // =====================================================
     (function() {
-      var titleEl = document.querySelector('.dokkey-web-title');
-      if (!titleEl) return;
-      fetch('version.json', { cache: 'no-store' })
-        .then(function(res) { return res.ok ? res.json() : null; })
-        .then(function(data) {
-          if (!data || !data.version) return;
-          var tag = '(v' + data.version + ')';
-          titleEl.textContent = titleEl.textContent.replace(/\(v[\d.]+\)/, tag);
-          var apkEl = document.querySelector('.dokkey-web-btn-apk');
-          if (apkEl && apkEl.title) {
-            apkEl.title = apkEl.title.replace(/\(v[\d.]+\)/, tag);
-          }
-        })
-        .catch(function() {});
-    })();
-  </script>
+      var TOTAL_DURATION = 4600;
+      var startTime = performance.now();
+      var introFinished = false;
+      var soundEnabled = false;
+      var animFrameId = null;
+      var actIndex = 0;
 
-  <script>
-    // 서비스 워커 강제 해제 (로컬 테스트 및 업데이트 시 캐시 갇힘 방지)
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for (var i = 0; i < registrations.length; i++) {
-          registrations[i].unregister();
-        }
+      var turnFrames = [
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_000.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_045.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_090.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_135.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_180.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_225.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_270.webp',
+        'assets/assets/images/kkaebi_3d/kkaebi_turn_315.webp'
+      ];
+      var emo3DFrames = {
+        normal: 'assets/assets/images/kkaebi_3d/kkaebi_emo_normal.webp',
+        curious: 'assets/assets/images/kkaebi_3d/kkaebi_emo_curious.webp',
+        shy: 'assets/assets/images/kkaebi_3d/kkaebi_emo_shy.webp',
+        fire: 'assets/assets/images/kkaebi_3d/kkaebi_emo_fire.webp',
+        shock: 'assets/assets/images/kkaebi_3d/kkaebi_emo_shock.webp',
+        joy: 'assets/assets/images/kkaebi_3d/kkaebi_emo_joy.webp'
+      };
+
+      turnFrames.concat(Object.values(emo3DFrames)).forEach(function(src) {
+        var img = new Image();
+        img.src = src;
       });
-    }
-    // 캐시 버스팅 적용된 flutter_bootstrap.js 동적 주입
-    var bootScript = document.createElement('script');
-    bootScript.src = 'flutter_bootstrap.js?v=' + Date.now();
-    bootScript.async = true;
-    document.body.appendChild(bootScript);
-  </script>
-  <script>
-    // 🏷️ 테스터 배너 버전 라벨 자동 동기화 (version.json 기준 → 매 배포 수동 수정 불필요)
-    (function () {
-      function applyVersion(ver) {
-        if (!ver) return;
-        var title = document.querySelector('.dokkey-web-title');
-        var apk = document.querySelector('.dokkey-web-btn-apk');
-        if (title) title.textContent = '🗝️ DOK-KEY 테스터 모집 (' + ver + ')';
-        if (apk) apk.title = '최신 APK 직접 다운로드 (' + ver + ')';
+
+      var sfx = {
+        cast: new Audio('assets/assets/audio/kkaebi_cast_short.mp3'),
+        key: new Audio('assets/assets/audio/key_turn.mp3'),
+        unlock: new Audio('assets/assets/audio/unlock.mp3'),
+        chime: new Audio('assets/assets/audio/chime.mp3')
+      };
+      Object.values(sfx).forEach(function(a) { a.volume = 0.55; });
+
+      function playSfx(name) {
+        if (!soundEnabled || !sfx[name]) return;
+        try {
+          sfx[name].currentTime = 0;
+          sfx[name].play().catch(function() {});
+        } catch(e) {}
       }
-      fetch('web/version.json', { cache: 'no-store' })
-        .then(function (r) { return r.ok ? r.json() : null; })
-        .catch(function () { return null; })
-        .then(function (data) {
-          if (data && data.version) { applyVersion('v' + data.version); return; }
-          fetch('version.json', { cache: 'no-store' })
-            .then(function (r) { return r.ok ? r.json() : null; })
-            .then(function (d) { if (d && d.version) applyVersion('v' + d.version); })
-            .catch(function () {});
-        });
+
+      window.toggleCinemaSound = function() {
+        soundEnabled = !soundEnabled;
+        var btn = document.getElementById('cinema-sound-btn');
+        var icon = document.getElementById('cinema-sound-icon');
+        var txt = document.getElementById('cinema-sound-text');
+        if (soundEnabled) {
+          if (btn) btn.classList.add('sound-active');
+          if (icon) icon.textContent = '🔊';
+          if (txt) txt.textContent = '효과음 ON';
+          playSfx('chime');
+        } else {
+          if (btn) btn.classList.remove('sound-active');
+          if (icon) icon.textContent = '🔇';
+          if (txt) txt.textContent = '효과음 켜기';
+        }
+      };
+
+      var canvas = document.getElementById('kkaebi-cinema-canvas');
+      var ctx = canvas ? canvas.getContext('2d') : null;
+      var particles = [];
+      var shockwaves = [];
+
+      function resizeCanvas() {
+        if (!canvas) return;
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+      window.addEventListener('resize', resizeCanvas);
+      resizeCanvas();
+
+      function createParticles(count, burstMode, colorTheme) {
+        if (!canvas) return;
+        var cx = canvas.width / 2;
+        var cy = canvas.height * 0.43;
+        for (var i = 0; i < count; i++) {
+          var isGold = colorTheme === 'gold' ? true : (colorTheme === 'blue' ? false : (Math.random() > 0.5));
+          var angle = Math.random() * Math.PI * 2;
+          var dist = burstMode ? (Math.random() * 25) : (40 + Math.random() * Math.max(canvas.width, canvas.height) * 0.45);
+          var speed = burstMode ? (2.5 + Math.random() * 6.0) : (0.4 + Math.random() * 1.4);
+          particles.push({
+            x: burstMode ? cx : cx + Math.cos(angle) * dist,
+            y: burstMode ? cy : cy + Math.sin(angle) * dist,
+            vx: burstMode ? Math.cos(angle) * speed : (Math.random() - 0.5) * 1.1,
+            vy: burstMode ? Math.sin(angle) * speed : (-0.6 - Math.random() * 1.3),
+            radius: burstMode ? (2 + Math.random() * 4.2) : (1.5 + Math.random() * 3.5),
+            color: isGold ? '#FFD700' : '#38BDF8',
+            glow: isGold ? 'rgba(255, 215, 0, 0.85)' : 'rgba(56, 189, 248, 0.85)',
+            alpha: 0.35 + Math.random() * 0.65,
+            life: burstMode ? (38 + Math.random() * 36) : 9999,
+            orbiter: !burstMode && Math.random() > 0.38,
+            orbitAngle: angle,
+            orbitRadius: 85 + Math.random() * 130,
+            orbitSpeed: (0.014 + Math.random() * 0.024) * (Math.random() > 0.5 ? 1 : -1)
+          });
+        }
+      }
+      createParticles(65, false);
+
+      window.triggerCinemaSparkBurst = function(theme) {
+        var useGold = theme !== 'blue';
+        createParticles(36, true, useGold ? 'gold' : 'blue');
+        if (canvas) {
+          shockwaves.push({
+            x: canvas.width / 2,
+            y: canvas.height * 0.43,
+            radius: 30,
+            maxRadius: 270,
+            alpha: 0.85,
+            color: useGold ? '#FFD700' : '#38BDF8'
+          });
+        }
+        var flash = document.getElementById('cinema-flash');
+        if (flash) {
+          flash.style.opacity = '0.6';
+          setTimeout(function() { flash.style.opacity = '0'; }, 240);
+        }
+      };
+
+      function renderCanvas() {
+        if (!ctx || !canvas) return;
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        var cx = canvas.width / 2;
+        var cy = canvas.height * 0.43;
+
+        var grad = ctx.createRadialGradient(cx, cy, 10, cx, cy, 240);
+        if (actIndex >= 3) {
+          grad.addColorStop(0, 'rgba(255, 215, 0, 0.26)');
+          grad.addColorStop(0.5, 'rgba(245, 158, 11, 0.09)');
+        } else {
+          grad.addColorStop(0, 'rgba(56, 189, 248, 0.24)');
+          grad.addColorStop(0.5, 'rgba(212, 175, 55, 0.08)');
+        }
+        grad.addColorStop(1, 'transparent');
+        ctx.fillStyle = grad;
+        ctx.beginPath();
+        ctx.arc(cx, cy, 240, 0, Math.PI * 2);
+        ctx.fill();
+
+        for (var s = shockwaves.length - 1; s >= 0; s--) {
+          var sw = shockwaves[s];
+          sw.radius += 7.5;
+          sw.alpha *= 0.92;
+          ctx.save();
+          ctx.beginPath();
+          ctx.arc(sw.x, sw.y, sw.radius, 0, Math.PI * 2);
+          ctx.strokeStyle = sw.color;
+          ctx.globalAlpha = Math.max(0, sw.alpha);
+          ctx.lineWidth = 2.8;
+          ctx.shadowColor = sw.color;
+          ctx.shadowBlur = 16;
+          ctx.stroke();
+          ctx.restore();
+          if (sw.alpha < 0.03 || sw.radius > sw.maxRadius) {
+            shockwaves.splice(s, 1);
+          }
+        }
+
+        for (var i = particles.length - 1; i >= 0; i--) {
+          var p = particles[i];
+          if (p.orbiter) {
+            p.orbitAngle += p.orbitSpeed;
+            var pull = actIndex === 2 ? 0.82 : 1.0;
+            p.x = cx + Math.cos(p.orbitAngle) * (p.orbitRadius * pull);
+            p.y = cy + Math.sin(p.orbitAngle) * (p.orbitRadius * pull * 0.85);
+          } else {
+            p.x += p.vx;
+            p.y += p.vy;
+            p.life--;
+            if (p.life < 25) p.alpha *= 0.9;
+            if (p.y < -20) p.y = canvas.height + 10;
+          }
+
+          ctx.save();
+          ctx.beginPath();
+          ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+          ctx.fillStyle = p.color;
+          ctx.globalAlpha = Math.max(0, Math.min(1, p.alpha));
+          ctx.shadowColor = p.glow;
+          ctx.shadowBlur = 12;
+          ctx.fill();
+          ctx.restore();
+
+          if (p.life <= 0) particles.splice(i, 1);
+        }
+      }
+
+      function updateStoryTimeline(elapsed) {
+        var progress = Math.min(100, (elapsed / TOTAL_DURATION) * 100);
+        var bar = document.getElementById('cinema-progress-bar');
+        if (bar) bar.style.width = progress + '%';
+
+        var kkaebiImg = document.getElementById('cinema-kkaebi-img');
+        var actLabel = document.getElementById('cinema-act-label');
+        var subtitle = document.getElementById('cinema-subtitle');
+
+        if (elapsed < 1800) {
+          if (actIndex !== 1) {
+            actIndex = 1;
+            if (actLabel) actLabel.textContent = 'ACT I · 3D 깨비의 강림';
+            if (subtitle) subtitle.textContent = '어둠을 밝히는 도깨비불처럼, 3D 깨비가 깨어납니다...';
+            if (kkaebiImg) kkaebiImg.classList.remove('fire-aura', 'gold-aura');
+          }
+          var totalTurnSteps = turnFrames.length + 1;
+          var step = Math.min(totalTurnSteps - 1, Math.floor((elapsed / 1800) * totalTurnSteps));
+          var frameSrc = turnFrames[step % turnFrames.length];
+          if (kkaebiImg && kkaebiImg.getAttribute('src') !== frameSrc) {
+            kkaebiImg.setAttribute('src', frameSrc);
+          }
+        }
+        else if (elapsed < 3100) {
+          if (actIndex !== 2) {
+            actIndex = 2;
+            if (actLabel) actLabel.textContent = 'ACT II · 푸른 도깨비불의 각성';
+            if (subtitle) subtitle.textContent = '깨비의 방망이에 신비로운 도깨비불의 기운이 타오릅니다!';
+            if (kkaebiImg) {
+              kkaebiImg.classList.remove('gold-aura');
+              kkaebiImg.classList.add('fire-aura');
+            }
+            window.triggerCinemaSparkBurst('blue');
+            playSfx('cast');
+          }
+          var subElapsed = elapsed - 1800;
+          var target3D = subElapsed < 400 ? emo3DFrames.curious : emo3DFrames.fire;
+          if (kkaebiImg && kkaebiImg.getAttribute('src') !== target3D) {
+            kkaebiImg.setAttribute('src', target3D);
+          }
+        }
+        else {
+          if (actIndex !== 3) {
+            actIndex = 3;
+            if (actLabel) actLabel.textContent = 'ACT III · 오늘의 지혜 잠금 해제';
+            if (subtitle) subtitle.textContent = '오늘 하루를 여는 단 하나의 열쇠, DOK-KEY에 오신 것을 환영합니다!';
+            if (kkaebiImg) {
+              kkaebiImg.classList.remove('fire-aura');
+              kkaebiImg.classList.add('gold-aura');
+            }
+            window.triggerCinemaSparkBurst('gold');
+            playSfx('unlock');
+          }
+          var act3Elapsed = elapsed - 3100;
+          var finale3D = act3Elapsed < 350 ? emo3DFrames.shock : emo3DFrames.joy;
+          if (kkaebiImg && kkaebiImg.getAttribute('src') !== finale3D) {
+            kkaebiImg.setAttribute('src', finale3D);
+          }
+        }
+      }
+
+      function animateLoop(now) {
+        if (introFinished) return;
+        var elapsed = now - startTime;
+        renderCanvas();
+        updateStoryTimeline(elapsed);
+
+        if (elapsed >= TOTAL_DURATION) {
+          completeCinemaIntro();
+          return;
+        }
+        animFrameId = requestAnimationFrame(animateLoop);
+      }
+
+      function completeCinemaIntro() {
+        if (introFinished) return;
+        introFinished = true;
+        if (animFrameId) cancelAnimationFrame(animFrameId);
+
+        var introEl = document.getElementById('dokkey-cinema-intro');
+        var mainEl = document.getElementById('landing-main');
+        if (introEl) {
+          introEl.classList.add('cinema-exit');
+          setTimeout(function() {
+            introEl.style.display = 'none';
+          }, 650);
+        }
+        if (mainEl) {
+          mainEl.classList.add('visible');
+        }
+      }
+
+      window.skipCinemaIntro = function() {
+        completeCinemaIntro();
+      };
+
+      window.replayCinemaIntro = function() {
+        var introEl = document.getElementById('dokkey-cinema-intro');
+        if (!introEl) return;
+        if (!soundEnabled) window.toggleCinemaSound();
+
+        introFinished = false;
+        actIndex = 0;
+        startTime = performance.now();
+        introEl.style.display = 'flex';
+        void introEl.offsetWidth;
+        introEl.classList.remove('cinema-exit');
+        window.triggerCinemaSparkBurst('blue');
+        animFrameId = requestAnimationFrame(animateLoop);
+      };
+
+      animFrameId = requestAnimationFrame(animateLoop);
     })();
   </script>
 </body>
