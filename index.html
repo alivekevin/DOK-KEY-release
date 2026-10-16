@@ -825,7 +825,10 @@
        ===================================================================== -->
   <main id="landing-main">
     <section class="hero-section">
-      <img src="assets/assets/images/kkaebi_3d/kkaebi_emo_joy.webp" alt="3D Kkaebi" class="hero-emblem" />
+      <!-- 살아 움직이는 깨비 페이스 (눈 깜빡임 / 윙크 / 활짝 미소 애니메이션) -->
+      <div class="hero-emblem-wrap">
+        <img id="hero-kkaebi-face" src="assets/assets/images/kkaebi_face/face_02.webp" alt="깨비 마스코트" class="hero-emblem" onclick="tapKkaebiFace()" title="깨비를 톡 터치해 보세요! (윙크!)" />
+      </div>
       <div>
         <span class="hero-tag">✨ 178개국 구글 플레이 공식 런칭 (v5.19.138)</span>
       </div>
@@ -931,13 +934,64 @@
           if (banner) banner.classList.add('hidden');
           if (floatBtn) floatBtn.style.display = 'flex';
         }
-      } catch(e) {}
-    })();
-
-
-
     // =====================================================
-    // 🎬 3D 깨비 시네마틱 오프닝 무비 디렉터 스크립트
+    // 😊 Hero 섹션 깨비 페이스 애니메이션 (깜빡임 · 윙크 · 미소)
+    // =====================================================
+    (function() {
+      var faces = {
+        closed: 'assets/assets/images/kkaebi_face/face_01.webp', // 눈 감고 온화한 미소
+        smile: 'assets/assets/images/kkaebi_face/face_02.webp',  // 기본 초롱초롱 미소
+        laugh: 'assets/assets/images/kkaebi_face/face_03.webp',  // 입 벌리고 활짝 웃음
+        wink: 'assets/assets/images/kkaebi_face/face_04.webp'    // 찡긋 윙크
+      };
+
+      // 얼굴 이미지 프리로드
+      Object.values(faces).forEach(function(src) {
+        var img = new Image();
+        img.src = src;
+      });
+
+      var cycle = 0;
+      setInterval(function() {
+        var faceEl = document.getElementById('hero-kkaebi-face');
+        if (!faceEl) return;
+        cycle++;
+
+        if (cycle % 2 === 1) {
+          // 온화하게 눈 깜빡 (Blink)
+          faceEl.src = faces.closed;
+          setTimeout(function() { if (faceEl) faceEl.src = faces.smile; }, 180);
+        } else {
+          // 상큼한 윙크 후 활짝 미소 (Wink -> Joy Smile)
+          faceEl.src = faces.wink;
+          setTimeout(function() {
+            if (faceEl) faceEl.src = faces.laugh;
+            setTimeout(function() {
+              if (faceEl) faceEl.src = faces.smile;
+            }, 600);
+          }, 450);
+        }
+      }, 2600);
+
+      window.tapKkaebiFace = function() {
+        var faceEl = document.getElementById('hero-kkaebi-face');
+        if (!faceEl) return;
+        faceEl.style.transform = 'scale(1.15) rotate(-6deg)';
+        faceEl.src = faces.wink;
+        setTimeout(function() {
+          if (faceEl) {
+            faceEl.src = faces.laugh;
+            faceEl.style.transform = 'scale(1.05) rotate(4deg)';
+          }
+          setTimeout(function() {
+            if (faceEl) {
+              faceEl.src = faces.smile;
+              faceEl.style.transform = '';
+            }
+          }, 500);
+        }, 350);
+      };
+    })();
     // =====================================================
     (function() {
       var TOTAL_DURATION = 4600;
