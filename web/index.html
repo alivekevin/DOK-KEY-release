@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
@@ -6,11 +6,8 @@
   <script>
     (function() {
       var p = window.location.pathname;
-      var lastSeg = p.substring(p.lastIndexOf('/') + 1);
-      if (lastSeg.indexOf('.') !== -1) {
+      if (!p.endsWith('/')) {
         p = p.substring(0, p.lastIndexOf('/') + 1);
-      } else if (!p.endsWith('/')) {
-        p = p + '/';
       }
       document.write('<base href="' + p + '">');
     })();
@@ -62,12 +59,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans+SC:wght@400;600;700&display=swap" rel="stylesheet">
 
-  <!-- 깨비 얼굴 이미지 프리로드 (로딩 화면 깜빡임 방지) -->
-  <link rel="preload" as="image" href="assets/assets/images/kkaebi_face/face_01.webp">
-  <link rel="preload" as="image" href="assets/assets/images/kkaebi_face/face_04.webp">
-  <link rel="preload" as="image" href="assets/assets/images/kkaebi_face/face_03.webp">
-  <link rel="preload" as="image" href="assets/assets/images/kkaebi_face/face_02.webp">
-
   <style>
     body {
       background-color: #0A0C10;
@@ -78,9 +69,6 @@
       color: #EAEFF8;
     }
 
-    /* =====================================================================
-       🔮 Smart Interactive Web Loader UI (Flutter 로딩 대기 인터랙티브 카드)
-       ===================================================================== */
     #loading-container {
       position: fixed;
       top: 0;
@@ -91,311 +79,84 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      background: radial-gradient(circle at 50% 40%, #161A26 0%, #0A0C10 75%);
+      background: radial-gradient(circle at center, #1A1E29 0%, #0A0C10 70%);
       z-index: 9999;
-      pointer-events: auto;
-      padding: 20px;
-      box-sizing: border-box;
-      transition: opacity 0.5s ease-out;
-    }
-    #loading-container.hidden {
-      opacity: 0;
-      pointer-events: none;
+      pointer-events: all;
     }
 
-    .loader-card {
-      width: 100%;
-      max-width: 440px;
-      background: rgba(18, 22, 34, 0.85);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(212, 175, 55, 0.45);
-      border-radius: 24px;
-      padding: 32px 24px 28px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.75), 0 0 35px rgba(212, 175, 55, 0.18);
-      box-sizing: border-box;
+    .key-icon {
+      font-size: 48px;
+      margin-bottom: 20px;
+      animation: keyBounce 2s ease-in-out infinite;
+      filter: drop-shadow(0 0 16px rgba(212, 175, 55, 0.5));
     }
 
-    /* 깨비 캐릭터 애니메이션 */
-    .kkaebi-loader-avatar-wrap {
-      position: relative;
-      width: 110px;
-      height: 110px;
-      margin-bottom: 16px;
-      cursor: pointer;
-      user-select: none;
-    }
-    .kkaebi-loader-ring {
-      position: absolute;
-      top: -5px;
-      left: -5px;
-      right: -5px;
-      bottom: -5px;
-      border-radius: 50%;
-      border: 2px dashed rgba(212, 175, 55, 0.55);
-      animation: spinRing 12s linear infinite;
-    }
-    @keyframes spinRing {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-    .kkaebi-loader-glow {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(212, 175, 55, 0.35) 0%, transparent 70%);
-      animation: pulseGlow 2.4s ease-in-out infinite;
-    }
-    @keyframes pulseGlow {
-      0%, 100% { transform: scale(1); opacity: 0.55; }
-      50% { transform: scale(1.15); opacity: 1; }
-    }
-    .kkaebi-loader-img {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 2px solid #D4AF37;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
-      transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-    .kkaebi-loader-avatar-wrap:hover .kkaebi-loader-img {
-      transform: scale(1.08) rotate(3deg);
-    }
-    .kkaebi-loader-badge {
-      position: absolute;
-      bottom: -2px;
-      right: -2px;
-      background: linear-gradient(135deg, #FFD700 0%, #D4AF37 100%);
-      color: #0A0C10;
-      width: 32px;
-      height: 32px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 16px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-      border: 2px solid #0A0C10;
-      animation: floatBadge 2.2s ease-in-out infinite;
-    }
-    @keyframes floatBadge {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-3px); }
+    @keyframes keyBounce {
+      0%, 100% { transform: translateY(0px) rotate(0deg) scale(1); }
+      50% { transform: translateY(-10px) rotate(6deg) scale(1.08); }
     }
 
-    .loader-brand {
-      font-size: 25px;
+    .brand-name {
+      font-size: 26px;
       font-weight: 900;
       letter-spacing: 3px;
-      margin-bottom: 4px;
-      background: linear-gradient(135deg, #FFF6D6 0%, #FFD700 50%, #D4AF37 100%);
+      color: #D4AF37;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #FFF6D6 0%, #D4AF37 50%, #997A15 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
-    .loader-sub {
-      font-size: 12.5px;
-      color: #94A3B8;
-      margin-bottom: 18px;
+
+    .loading-msg {
+      font-size: 14px;
+      color: #8E9BAE;
+      margin-bottom: 24px;
       letter-spacing: -0.2px;
     }
 
-    /* 프로그레스 바 */
-    .loader-progress-box {
-      width: 100%;
-      margin-bottom: 16px;
-    }
-    .loader-progress-meta {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      font-size: 12px;
-      margin-bottom: 8px;
-      color: #CBD5E1;
-    }
-    .loader-stage-text {
-      color: #F8FAFC;
-      font-weight: 600;
-      letter-spacing: -0.2px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 12px;
-    }
-    .loader-percent-text {
-      color: #FFD700;
-      font-weight: 800;
-      font-variant-numeric: tabular-nums;
-      font-size: 13px;
-    }
-    .loader-progress-track {
-      width: 100%;
-      height: 8px;
+    .spinner-bar {
+      width: 180px;
+      height: 4px;
       background: rgba(255, 255, 255, 0.08);
-      border-radius: 8px;
+      border-radius: 4px;
       overflow: hidden;
       position: relative;
-      border: 1px solid rgba(255, 255, 255, 0.06);
     }
-    .loader-progress-bar {
-      height: 100%;
-      width: 0%;
-      background: linear-gradient(90deg, #D4AF37 0%, #FFD700 50%, #FF9F43 100%);
-      border-radius: 8px;
-      box-shadow: 0 0 14px rgba(255, 215, 0, 0.65);
-      transition: width 0.35s cubic-bezier(0.1, 0.9, 0.2, 1);
-      position: relative;
-    }
-    .loader-progress-bar::after {
+
+    .spinner-bar::after {
       content: '';
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.45), transparent);
-      animation: progressShine 1.5s infinite;
-    }
-    @keyframes progressShine {
-      0% { transform: translateX(-100%); }
-      100% { transform: translateX(100%); }
+      left: -50%;
+      height: 100%;
+      width: 50%;
+      background: linear-gradient(90deg, transparent, #D4AF37, #FF5E36, transparent);
+      border-radius: 4px;
+      animation: sweep 1.4s ease-in-out infinite;
     }
 
-    /* 순환 팁 박스 */
-    .loader-tip-card {
-      width: 100%;
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 12px;
-      padding: 12px 14px;
-      margin-bottom: 18px;
-      min-height: 48px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-sizing: border-box;
-    }
-    .loader-tip-text {
-      font-size: 11.8px;
-      line-height: 1.5;
-      color: #94A3B8;
-      letter-spacing: -0.2px;
-      transition: opacity 0.3s ease, transform 0.3s ease;
-    }
-    .loader-tip-text strong {
-      color: #FFD700;
-    }
-
-    /* 구글 플레이 바로가기 제안 배너 */
-    .loader-fast-card {
-      width: 100%;
-      background: linear-gradient(135deg, rgba(212, 175, 55, 0.12) 0%, rgba(245, 158, 11, 0.06) 100%);
-      border: 1px dashed rgba(255, 215, 0, 0.4);
-      border-radius: 14px;
-      padding: 12px 14px;
-      display: flex;
-      flex-direction: column;
-      gap: 9px;
-      align-items: center;
-      box-sizing: border-box;
-    }
-    .loader-fast-desc {
-      font-size: 11.5px;
-      color: #E2E8F0;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-    }
-    .loader-fast-actions {
-      display: flex;
-      gap: 8px;
-      width: 100%;
-    }
-    .loader-btn-play {
-      flex: 1;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 6px;
-      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
-      color: #0A0C10 !important;
-      font-weight: 800;
-      font-size: 12px;
-      padding: 8px 12px;
-      border-radius: 10px;
-      text-decoration: none;
-      box-shadow: 0 4px 14px rgba(245, 158, 11, 0.35);
-      transition: all 0.2s ease;
-    }
-    .loader-btn-play:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 6px 18px rgba(245, 158, 11, 0.55);
-    }
-    .loader-btn-home {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 4px;
-      background: rgba(255, 255, 255, 0.08);
-      border: 1px solid rgba(255, 255, 255, 0.15);
-      color: #CBD5E1 !important;
-      font-weight: 600;
-      font-size: 11.5px;
-      padding: 8px 12px;
-      border-radius: 10px;
-      text-decoration: none;
-      transition: all 0.2s ease;
-    }
-    .loader-btn-home:hover {
-      background: rgba(255, 255, 255, 0.15);
-      color: #FFF !important;
-    }
-
-    @media (max-width: 480px) {
-      .loader-card {
-        padding: 24px 18px 20px;
-      }
-      .kkaebi-loader-avatar-wrap {
-        width: 92px;
-        height: 92px;
-        margin-bottom: 14px;
-      }
-      .loader-brand {
-        font-size: 21px;
-      }
-      .loader-fast-actions {
-        flex-direction: column;
-      }
+    @keyframes sweep {
+      0% { left: -50%; }
+      100% { left: 100%; }
     }
   </style>
 </head>
 <body>
-  <!-- =====================================================================
-       🎉 DOK-KEY Google Play 정식 출시 공식 플로팅 배너 & 위젯 (v5.19.138)
-       ===================================================================== -->
+  <!-- DOK-KEY 구글 플레이 비공개 테스터 모집 플로팅 배너 & 위젯 -->
   <style>
-    .dokkey-web-official-banner {
+    .dokkey-web-tester-banner {
       position: fixed;
       top: 14px;
       left: 50%;
       transform: translateX(-50%);
       width: calc(100% - 28px);
-      max-width: 860px;
-      background: rgba(14, 18, 27, 0.95);
+      max-width: 760px;
+      background: rgba(14, 18, 27, 0.94);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(212, 175, 55, 0.55);
+      border: 1px solid rgba(212, 175, 55, 0.45);
       border-radius: 16px;
-      padding: 10px 18px;
-      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.65), 0 0 24px rgba(212, 175, 55, 0.28);
+      padding: 10px 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.25);
       z-index: 10000;
       display: flex;
       align-items: center;
@@ -406,7 +167,7 @@
       pointer-events: auto;
       transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     }
-    .dokkey-web-official-banner.hidden {
+    .dokkey-web-tester-banner.hidden {
       opacity: 0;
       transform: translate(-50%, -20px) scale(0.95);
       pointer-events: none;
@@ -414,30 +175,29 @@
     .dokkey-web-left {
       display: flex;
       align-items: center;
-      gap: 11px;
+      gap: 10px;
       min-width: 0;
     }
     .dokkey-web-badge {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(245, 158, 11, 0.25) 100%);
-      border: 1px solid rgba(255, 215, 0, 0.7);
+      background: rgba(212, 175, 55, 0.18);
+      border: 1px solid rgba(212, 175, 55, 0.6);
       color: #FFD700;
-      padding: 4px 9px;
+      padding: 3px 8px;
       border-radius: 12px;
       font-size: 11px;
-      font-weight: 800;
+      font-weight: 700;
       white-space: nowrap;
       flex-shrink: 0;
-      box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
     }
     .dokkey-web-pulse {
-      width: 7px;
-      height: 7px;
+      width: 6px;
+      height: 6px;
       background-color: #10B981;
       border-radius: 50%;
-      box-shadow: 0 0 8px #10B981;
+      box-shadow: 0 0 6px #10B981;
       animation: webPulse 1.8s infinite;
     }
     @keyframes webPulse {
@@ -451,19 +211,18 @@
     }
     .dokkey-web-title {
       color: #FFFFFF;
-      font-size: 13.5px;
-      font-weight: 800;
+      font-size: 13px;
+      font-weight: 700;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       display: flex;
       align-items: center;
-      gap: 5px;
-      letter-spacing: -0.2px;
+      gap: 4px;
     }
     .dokkey-web-desc {
       color: #94A3B8;
-      font-size: 11.5px;
+      font-size: 11px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -478,28 +237,15 @@
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      padding: 6px 13px;
+      padding: 6px 12px;
       border-radius: 8px;
-      font-size: 11.5px;
+      font-size: 11px;
       font-weight: 700;
       text-decoration: none !important;
-      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      transition: all 0.2s;
       cursor: pointer;
       white-space: nowrap;
     }
-    /* 구글 플레이 정식 다운로드 메인 버튼 (강조) */
-    .dokkey-web-btn-play {
-      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
-      border: 1px solid #FFE082;
-      color: #0A0C10 !important;
-      box-shadow: 0 2px 10px rgba(245, 158, 11, 0.45);
-    }
-    .dokkey-web-btn-play:hover {
-      background: linear-gradient(135deg, #FFF9C4 0%, #FFA000 100%);
-      box-shadow: 0 4px 16px rgba(245, 158, 11, 0.7);
-      transform: translateY(-1px);
-    }
-    /* APK 직접 다운로드 버튼 */
     .dokkey-web-btn-apk {
       background: linear-gradient(135deg, #10B981 0%, #059669 100%);
       border: 1px solid #34D399;
@@ -511,23 +257,50 @@
       box-shadow: 0 3px 12px rgba(16, 185, 129, 0.55);
       transform: translateY(-1px);
     }
-    /* 리뷰 남기기 버튼 */
-    .dokkey-web-btn-review {
+    .dokkey-web-btn-step1 {
       background: rgba(255, 255, 255, 0.08);
-      border: 1px solid rgba(212, 175, 55, 0.45);
+      border: 1px solid rgba(212, 175, 55, 0.4);
       color: #E2E8F0 !important;
     }
-    .dokkey-web-btn-review:hover {
+    .dokkey-web-btn-step1:hover {
       background: rgba(212, 175, 55, 0.25);
       border-color: #FFD700;
       color: #FFD700 !important;
+    }
+    .dokkey-web-btn-step2 {
+      background: linear-gradient(135deg, #FFD700 0%, #F59E0B 100%);
+      border: 1px solid #FFD700;
+      color: #0A0C10 !important;
+      box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
+    }
+    .dokkey-web-btn-step2:hover {
+      background: linear-gradient(135deg, #FFF59D 0%, #FFA000 100%);
+      box-shadow: 0 3px 12px rgba(245, 158, 11, 0.6);
       transform: translateY(-1px);
+    }
+    .dokkey-web-step {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      font-size: 9px;
+      font-weight: 800;
+    }
+    .dokkey-web-btn-step1 .dokkey-web-step {
+      background: rgba(212, 175, 55, 0.3);
+      color: #FFD700;
+    }
+    .dokkey-web-btn-step2 .dokkey-web-step {
+      background: #0A0C10;
+      color: #FFD700;
     }
     .dokkey-web-close {
       background: transparent;
       border: none;
       color: #64748B;
-      font-size: 17px;
+      font-size: 16px;
       cursor: pointer;
       padding: 4px;
       line-height: 1;
@@ -542,46 +315,46 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background: rgba(14, 18, 27, 0.94);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(212, 175, 55, 0.65);
+      background: rgba(14, 18, 27, 0.92);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(212, 175, 55, 0.6);
       border-radius: 24px;
-      padding: 7px 15px 7px 11px;
+      padding: 7px 14px 7px 10px;
       display: flex;
       align-items: center;
-      gap: 7px;
+      gap: 6px;
       color: #FFD700;
-      font-size: 11.5px;
+      font-size: 11px;
       font-weight: 700;
       cursor: pointer;
       z-index: 10000;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 12px rgba(212, 175, 55, 0.35);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 0 10px rgba(212, 175, 55, 0.3);
       transition: all 0.25s ease;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
     }
     .dokkey-web-float-btn:hover {
       transform: translateY(-2px) scale(1.04);
       border-color: #FFD700;
-      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.55);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
     }
-    @media (max-width: 720px) {
-      .dokkey-web-official-banner {
+    @media (max-width: 680px) {
+      .dokkey-web-tester-banner {
         top: 8px;
         flex-direction: column;
         align-items: flex-start;
-        padding: 9px 12px;
+        padding: 8px 12px;
         gap: 8px;
       }
       .dokkey-web-actions {
         width: 100%;
         justify-content: space-between;
-        gap: 5px;
+        gap: 4px;
       }
       .dokkey-web-btn {
         flex: 1;
         justify-content: center;
-        padding: 6px 5px;
-        font-size: 10.5px;
+        padding: 6px 4px;
+        font-size: 10px;
       }
       .dokkey-web-desc {
         display: none;
@@ -589,55 +362,53 @@
     }
   </style>
 
-  <!-- 새 공식 출시 배너 UI -->
-  <div id="dokkey-web-banner" class="dokkey-web-official-banner">
+  <div id="dokkey-web-banner" class="dokkey-web-tester-banner">
     <div class="dokkey-web-left">
       <div class="dokkey-web-badge">
-        <span class="dokkey-web-pulse"></span> 🎉 정식 출시
+        <span class="dokkey-web-pulse"></span> 테스터 모집
       </div>
       <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 구글 플레이 정식 출시! (v5.19.138)</div>
-        <div class="dokkey-web-desc">전 세계 178개국 공식 런칭! 지금 스토어에서 다운로드하고 첫 리뷰를 남겨주세요.</div>
+        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.27)</div>
+        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
       </div>
     </div>
     <div class="dokkey-web-actions">
-      <a href="../" class="dokkey-web-btn dokkey-web-btn-review" title="DOK-KEY 공식 소개 페이지로 이동">
-        <span>🏠 공식 홈</span>
+        <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk" title="최신 APK 직접 다운로드 (v5.19.27)">
+        <span>📱 APK 다운로드</span>
       </a>
-      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-play" title="구글 플레이스토어에서 정식 버전 설치">
-        <span>▶️ Google Play 다운로드</span>
+      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1" title="1단계: 구글 그룹스 가입">
+        <span class="dokkey-web-step">1</span> 그룹 가입
       </a>
-      <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-review" title="플레이스토어 별점 및 응원 리뷰 남기기">
-        <span>⭐ 리뷰 남기기</span>
+      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2" title="2단계: 플레이스토어 테스터 다운로드">
+        <span class="dokkey-web-step">2</span> 플레이스토어
       </a>
-      <button type="button" class="dokkey-web-close" onclick="closeWebOfficialBanner()" title="배너 닫기">&times;</button>
+      <button type="button" class="dokkey-web-close" onclick="closeWebTesterBanner()" title="배너 닫기">&times;</button>
     </div>
   </div>
 
-  <!-- 배너 닫았을 때 우측 하단 플로팅 미니 버튼 -->
-  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebOfficialBanner()" style="display:none;" title="공식 출시 안내 열기">
+  <div id="dokkey-web-float" class="dokkey-web-float-btn" onclick="openWebTesterBanner()" style="display:none;" title="테스터 모집 안내 열기">
     <span class="dokkey-web-pulse"></span>
-    <span>🎉 Google Play 정식 출시</span>
+    <span>🗝️ 테스터 모집</span>
   </div>
 
   <script>
-    function closeWebOfficialBanner() {
+    function closeWebTesterBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.add('hidden');
       if (floatBtn) floatBtn.style.display = 'flex';
-      try { sessionStorage.setItem('dokkey_official_banner_closed', '1'); } catch(e) {}
+      try { sessionStorage.setItem('dokkey_web_banner_closed', '1'); } catch(e) {}
     }
-    function openWebOfficialBanner() {
+    function openWebTesterBanner() {
       var banner = document.getElementById('dokkey-web-banner');
       var floatBtn = document.getElementById('dokkey-web-float');
       if (banner) banner.classList.remove('hidden');
       if (floatBtn) floatBtn.style.display = 'none';
-      try { sessionStorage.removeItem('dokkey_official_banner_closed'); } catch(e) {}
+      try { sessionStorage.removeItem('dokkey_web_banner_closed'); } catch(e) {}
     }
     (function() {
       try {
-        if (sessionStorage.getItem('dokkey_official_banner_closed') === '1') {
+        if (sessionStorage.getItem('dokkey_web_banner_closed') === '1') {
           var banner = document.getElementById('dokkey-web-banner');
           var floatBtn = document.getElementById('dokkey-web-float');
           if (banner) banner.classList.add('hidden');
@@ -647,218 +418,41 @@
     })();
   </script>
 
-  <!-- =====================================================================
-       [보존용] 이전 비공개 테스터 모집 배너 원본 코드 (필요 시 복원 및 재활성화용)
-       =====================================================================
-  <style>
-    .dokkey-web-tester-banner-backup { display: none !important; }
-  </style>
-  <div id="dokkey-web-banner-tester-backup" class="dokkey-web-tester-banner-backup">
-    <div class="dokkey-web-left">
-      <div class="dokkey-web-badge"><span class="dokkey-web-pulse"></span> 테스터 모집</div>
-      <div class="dokkey-web-info">
-        <div class="dokkey-web-title">🗝️ DOK-KEY 테스터 모집 (v5.19.134)</div>
-        <div class="dokkey-web-desc">최신 APK 직접 다운로드 또는 구글 플레이 비공개 테스터로 참여하세요</div>
-      </div>
-    </div>
-    <div class="dokkey-web-actions">
-      <a href="/DOK-KEY-release/app-release.apk" download class="dokkey-web-btn dokkey-web-btn-apk"><span>📱 APK 다운로드</span></a>
-      <a href="https://groups.google.com/g/dokkey-testers" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step1"><span class="dokkey-web-step">1</span> 그룹 가입</a>
-      <a href="https://play.google.com/apps/testing/com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="dokkey-web-btn dokkey-web-btn-step2"><span class="dokkey-web-step">2</span> 플레이스토어</a>
-    </div>
-  </div>
-  ====================================================================== -->
-
-  <!-- =====================================================================
-       🔮 Smart Interactive Web Loader UI (대용량 리소스 다운로드 대기용 인터랙티브 화면)
-       ===================================================================== -->
   <div id="loading-container">
-    <div class="loader-card">
-      <!-- 깨비 캐릭터 애니메이션 (클릭/터치 시 윙크 인터랙션) -->
-      <div class="kkaebi-loader-avatar-wrap" onclick="tapLoaderKkaebi()" title="깨비를 톡 터치해 보세요!">
-        <div class="kkaebi-loader-ring"></div>
-        <div class="kkaebi-loader-glow"></div>
-        <img id="kkaebi-loader-face" class="kkaebi-loader-img" src="assets/assets/images/kkaebi_face/face_01.webp" alt="깨비">
-        <div class="kkaebi-loader-badge" title="황금 열쇠">🗝️</div>
-      </div>
-
-      <div class="loader-brand">DOK-KEY</div>
-      <div class="loader-sub">오늘 하루를 여는 단 하나의 열쇠 · 웹 데모</div>
-
-      <!-- 실시간 진행률 게이지 바 -->
-      <div class="loader-progress-box">
-        <div class="loader-progress-meta">
-          <span id="loader-stage-text" class="loader-stage-text">🚀 웹 데모 런타임 초기화 중...</span>
-          <span id="loader-percent-text" class="loader-percent-text">0%</span>
-        </div>
-        <div class="loader-progress-track">
-          <div id="loader-progress-bar" class="loader-progress-bar"></div>
-        </div>
-      </div>
-
-      <!-- 다이내믹 순환 가이드 팁 -->
-      <div class="loader-tip-card">
-        <div id="loader-tip-text" class="loader-tip-text">
-          💡 최초 1회만 대용량 그래픽·사운드 리소스(WASM)를 다운로드하며, 이후에는 캐시되어 훨씬 빠르게 열립니다.
-        </div>
-      </div>
-
-      <!-- 대기 지루함 해소: 구글 플레이 즉시 설치 제안 -->
-      <div class="loader-fast-card">
-        <div class="loader-fast-desc">
-          <span>⚡</span>
-          <span>기다림 없이 <strong>0.1초 즉시 실행</strong>을 원하시나요?</span>
-        </div>
-        <div class="loader-fast-actions">
-          <a href="https://play.google.com/store/apps/details?id=com.dokkey.dokkey_app" target="_blank" rel="noopener noreferrer" class="loader-btn-play" title="구글 플레이스토어에서 정식 앱 무료 설치">
-            <span>▶️ Google Play 정식 앱 설치</span>
-          </a>
-          <a href="../" class="loader-btn-home" title="공식 소개 페이지로 이동">
-            <span>🏠 소개 홈</span>
-          </a>
-        </div>
-      </div>
-    </div>
+    <div class="key-icon">🗝️</div>
+    <div class="brand-name">DOK-KEY</div>
+    <div class="loading-msg">도깨비의 열쇠를 불러오는 중...</div>
+    <div class="spinner-bar"></div>
   </div>
 
   <script>
-    (function() {
-      // 1. 깨비 얼굴 표정 부드러운 순환 (기본 깜빡임 -> 윙크 -> 활짝 -> 온화한 미소)
-      var kkaebiFaces = [
-        'assets/assets/images/kkaebi_face/face_01.webp',
-        'assets/assets/images/kkaebi_face/face_04.webp',
-        'assets/assets/images/kkaebi_face/face_03.webp',
-        'assets/assets/images/kkaebi_face/face_02.webp'
-      ];
-      var currentFaceIdx = 0;
-      var faceEl = document.getElementById('kkaebi-loader-face');
-      var faceTimer = setInterval(function() {
-        if (!faceEl) return;
-        currentFaceIdx = (currentFaceIdx + 1) % kkaebiFaces.length;
-        faceEl.src = kkaebiFaces[currentFaceIdx];
-      }, 1900);
-
-      window.tapLoaderKkaebi = function() {
-        if (!faceEl) return;
-        currentFaceIdx = 1; // 윙크
-        faceEl.src = kkaebiFaces[currentFaceIdx];
-        faceEl.style.transform = 'scale(1.15) rotate(-6deg)';
-        setTimeout(function() {
-          if (faceEl) faceEl.style.transform = '';
-        }, 300);
-      };
-
-      // 2. 가이드 팁 3.5초 간격 순환
-      var tips = [
-        '💡 최초 1회만 대용량 그래픽·사운드 리소스(WASM)를 다운로드하며, 이후에는 캐시되어 훨씬 빠르게 열립니다.',
-        '💡 <strong>DOK-KEY</strong>는 99종의 독창적인 열쇠 도감과 8가지 깨비 감정 반응을 담고 있습니다.',
-        '💡 매일 자정, 당신만을 위한 1장의 <strong>데일리 운세 열쇠</strong>를 무료로 뽑을 수 있습니다.',
-        '💡 설치 없이 PC와 모바일 웹 브라우저에서 바로 즐기는 <strong>공식 웹 데모 모드</strong>입니다.',
-        '💡 스마트폰에서 <strong>0.1초 즉시 실행</strong>을 원하시면 구글 플레이 공식 앱을 이용해 보세요!'
-      ];
-      var tipIdx = 0;
-      var tipEl = document.getElementById('loader-tip-text');
-      var tipTimer = setInterval(function() {
-        if (!tipEl) return;
-        tipEl.style.opacity = '0';
-        tipEl.style.transform = 'translateY(4px)';
-        setTimeout(function() {
-          tipIdx = (tipIdx + 1) % tips.length;
-          tipEl.innerHTML = tips[tipIdx];
-          tipEl.style.opacity = '1';
-          tipEl.style.transform = 'translateY(0)';
-        }, 280);
-      }, 3500);
-
-      // 3. 지능형 진행률 시뮬레이션 및 Flutter 로드 감지
-      var progressBar = document.getElementById('loader-progress-bar');
-      var percentText = document.getElementById('loader-percent-text');
-      var stageText = document.getElementById('loader-stage-text');
-      var progress = 0;
-      var isLoaded = false;
-
-      var stages = [
-        { threshold: 25, text: '🚀 웹 데모 런타임 초기화 중...' },
-        { threshold: 55, text: '🎨 99종 그랜드 열쇠 도감 & 그래픽 다운로드...' },
-        { threshold: 80, text: '✨ 깨비 8대 표정 & 운세 엔진 마운트 중...' },
-        { threshold: 96, text: '🔮 CanvasKit 렌더링 파이프라인 구성 중...' },
-        { threshold: 100, text: '🗝️ 준비 완료! 열쇠의 문이 열립니다...' }
-      ];
-
-      function updateProgressUI(val) {
-        var clamped = Math.min(val, 100);
-        if (progressBar) progressBar.style.width = clamped + '%';
-        if (percentText) percentText.textContent = Math.floor(clamped) + '%';
-        if (stageText) {
-          for (var i = 0; i < stages.length; i++) {
-            if (clamped <= stages[i].threshold || i === stages.length - 1) {
-              stageText.textContent = stages[i].text;
-              break;
-            }
-          }
-        }
+    function hideLoader() {
+      var loader = document.getElementById('loading-container');
+      if (loader && !loader.classList.contains('hidden')) {
+        loader.classList.add('hidden');
+        loader.style.transition = 'opacity 0.4s ease-out';
+        loader.style.opacity = '0';
+        loader.style.pointerEvents = 'none';
+        setTimeout(function () {
+          if (loader.parentNode) loader.parentNode.removeChild(loader);
+        }, 450);
       }
+    }
 
-      // 점진적 현실적 진행률 곡선
-      var progressTimer = setInterval(function() {
-        if (isLoaded) return;
-        if (progress < 30) {
-          progress += 2.0;
-        } else if (progress < 60) {
-          progress += 1.0;
-        } else if (progress < 85) {
-          progress += 0.45;
-        } else if (progress < 96) {
-          progress += 0.12;
-        }
-        if (progress > 96) progress = 96;
-        updateProgressUI(progress);
-      }, 250);
+    // 1. Flutter 첫 프레임 이벤트 수신 시 제거
+    window.addEventListener('flutter-first-frame', hideLoader);
 
-      function hideLoader() {
-        if (isLoaded) return;
-        isLoaded = true;
-        clearInterval(progressTimer);
-        clearInterval(faceTimer);
-        clearInterval(tipTimer);
-
-        // 100% 완료 도달 표시
-        updateProgressUI(100);
-
-        var loader = document.getElementById('loading-container');
-        if (loader) {
-          setTimeout(function() {
-            loader.classList.add('hidden');
-            loader.style.transition = 'opacity 0.45s ease-out';
-            loader.style.opacity = '0';
-            loader.style.pointerEvents = 'none';
-            setTimeout(function() {
-              if (loader.parentNode) loader.parentNode.removeChild(loader);
-            }, 500);
-          }, 350);
-        }
+    // 2. Flutter DOM 렌더링 감지 시 제거
+    var observer = new MutationObserver(function(mutations) {
+      if (document.querySelector('flutter-view, flt-glass-pane, flt-scene-host')) {
+        hideLoader();
+        observer.disconnect();
       }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
 
-      // 1. Flutter 첫 프레임 이벤트 수신 시 해제
-      window.addEventListener('flutter-first-frame', hideLoader);
-
-      // 2. Flutter DOM 렌더링 감지 시 해제
-      var observer = new MutationObserver(function(mutations) {
-        if (document.querySelector('flutter-view, flt-glass-pane, flt-scene-host')) {
-          hideLoader();
-          observer.disconnect();
-        }
-      });
-      observer.observe(document.body, { childList: true, subtree: true });
-
-      // 3. Fallback: 초고속 안전 타임아웃 120초 (기존의 조기 3.5초 튕김 버그 완전 해결)
-      setTimeout(function() {
-        if (!isLoaded) {
-          console.warn('[DOK-KEY] Smart Loader fallback timeout (120s) reached.');
-          hideLoader();
-        }
-      }, 120000);
-    })();
+    // 3. Fallback: 3.5초 후 자동 페이드아웃 (멈춤 현상 원천 차단)
+    setTimeout(hideLoader, 3500);
   </script>
 
   <script>
@@ -894,6 +488,28 @@
     bootScript.src = 'flutter_bootstrap.js?v=' + Date.now();
     bootScript.async = true;
     document.body.appendChild(bootScript);
+  </script>
+  <script>
+    // 🏷️ 테스터 배너 버전 라벨 자동 동기화 (version.json 기준 → 매 배포 수동 수정 불필요)
+    (function () {
+      function applyVersion(ver) {
+        if (!ver) return;
+        var title = document.querySelector('.dokkey-web-title');
+        var apk = document.querySelector('.dokkey-web-btn-apk');
+        if (title) title.textContent = '🗝️ DOK-KEY 테스터 모집 (' + ver + ')';
+        if (apk) apk.title = '최신 APK 직접 다운로드 (' + ver + ')';
+      }
+      fetch('web/version.json', { cache: 'no-store' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (data) {
+          if (data && data.version) { applyVersion('v' + data.version); return; }
+          fetch('version.json', { cache: 'no-store' })
+            .then(function (r) { return r.ok ? r.json() : null; })
+            .then(function (d) { if (d && d.version) applyVersion('v' + d.version); })
+            .catch(function () {});
+        });
+    })();
   </script>
 </body>
 </html>
