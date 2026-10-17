@@ -157,7 +157,7 @@
         "horse"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "圧倒的な推進力、遠大な目標達成、大きな飛躍",
       "advice": "力強い足音が響くぞ！迷わず勢いよく前へ駆け抜けろケビ！"
@@ -173,7 +173,7 @@
         "turtle"
       ],
       "fortune": "auspicious",
-      "lucky_number": 80,
+      "lucky_number": 14,
       "card_id": "moon_jar",
       "meaning": "無病息災、揺るぎない名誉と永続的な富貴栄華",
       "advice": "万年を生きる知恵だ！目の前の焦りを捨てて遠い未来を見据えよケビ！"
@@ -256,7 +256,7 @@
         "lion"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "mountain_spirit",
       "meaning": "組織の統率力掌握、揺るぎない権威と強力な後援",
       "advice": "百獣の王のように堂々と号令せよ！君こそが本日の主役だケビ！"
@@ -288,7 +288,7 @@
         "deer"
       ],
       "fortune": "auspicious",
-      "lucky_number": 75,
+      "lucky_number": 9,
       "card_id": "cloud_hermit",
       "meaning": "高潔な人柄の評価、貴人からの愛護と穏やかな幸福",
       "advice": "澄んだ気品が漂っているぞ！穏やかな笑顔で人と接しようケビ！"
@@ -304,7 +304,7 @@
         "bear"
       ],
       "fortune": "auspicious",
-      "lucky_number": 82,
+      "lucky_number": 16,
       "card_id": "mountain_spirit",
       "meaning": "おめでたい兆し、強力な庇護者、巨大な財産の蓄積",
       "advice": "どっしりとした粘り強さが実を結ぶ！根気強く突き進めケビ！"
@@ -320,7 +320,7 @@
         "toad"
       ],
       "fortune": "auspicious",
-      "lucky_number": 93,
+      "lucky_number": 27,
       "card_id": "silk_pouch",
       "meaning": "金蟾がもたらす大いなる福徳と横財運、家門の繁栄",
       "advice": "家に大きな慶事が訪れるぞ！家族と共に喜びを分かち合おうケビ！"
@@ -352,7 +352,7 @@
         "poo"
       ],
       "fortune": "auspicious",
-      "lucky_number": 84,
+      "lucky_number": 18,
       "card_id": "silk_pouch",
       "meaning": "金運が体にまとわりつくように舞い込む超ド級の大吉夢",
       "advice": "最高の大当たり運だ！迷っていた挑戦や投資をスタートさせてみろケビ！"
@@ -369,7 +369,7 @@
         "blood"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "生命力と財運の大爆発、滞っていた運気が一気に開通する吉夢",
       "advice": "赤い血は強大な生命力と富の象徴！詰まっていた問題が一気に晴れるぞケビ！"
@@ -419,7 +419,7 @@
         "tears"
       ],
       "fortune": "auspicious",
-      "lucky_number": 90,
+      "lucky_number": 24,
       "card_id": "water_sprite",
       "meaning": "心のしこりの完全解消、世間に知れ渡る大きな慶事",
       "advice": "泣き尽くせば世界は澄み渡る！胸が躍るような歓喜が待っているケビ！"
@@ -470,7 +470,7 @@
         "surgery"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "folding_fan",
       "meaning": "根本的な体質改善、組織改革を通じた画期的な成果創出",
       "advice": "悪い部分を取り除いてこそ新芽が出る！果断な決断で体制を一新せよケビ！"
@@ -486,7 +486,7 @@
         "pregnancy"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "moon_jar",
       "meaning": "新規プロジェクトの始動、巨大な潜在能力と創造的結実の胎動",
       "advice": "祝福された種を宿したぞ！丹精込めて育てれば莫大な実りを結ぶケビ！"
@@ -518,7 +518,7 @@
         "growing tall"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "cloud_hermit",
       "meaning": "地位の向上、視野の拡大、周囲より高いポジションへの栄転",
       "advice": "高い視点から世界を見渡せ！君の器がグッと大きくなっているぞケビ！"
@@ -618,7 +618,7 @@
         "star"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "star_weaver",
       "meaning": "インスピレーションの爆発、大衆的人気と作品の大ヒット",
       "advice": "星のように輝くひらめきが降り注ぐぞ！メモ帳を手元に用意しておけケビ！"
@@ -635,7 +635,7 @@
         "sun"
       ],
       "fortune": "auspicious",
-      "lucky_number": 91,
+      "lucky_number": 25,
       "card_id": "sun_messenger",
       "meaning": "偉大な誕生、世に名を馳せる最高の立身出世",
       "advice": "燦然たる太陽が世界を照らす！胸を張って堂々と歩めケビ！"
@@ -669,7 +669,7 @@
         "mountain"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "雄大な抱負の実現、大きな試練の克服と栄光の座への登極",
       "advice": "頂上に立てば全てが見渡せる！目の前の坂で諦めず最後まで登り切れケビ！"
@@ -686,7 +686,7 @@
         "sea"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "water_sprite",
       "meaning": "世界舞台への進出、広い見識と壮大なスケールの成功",
       "advice": "大海原へ向けて錨を上げろ！些細なことに囚われず大きな海を抱けケビ！"
@@ -736,7 +736,7 @@
         "rain"
       ],
       "fortune": "normal",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "water_sprite",
       "meaning": "恵みの雨のような問題解決、または一時的な感情の通り雨",
       "advice": "通り雨はすぐに止む！傘を用意するように落ち着いて備えよケビ！"
@@ -753,7 +753,7 @@
         "snow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 72,
+      "lucky_number": 6,
       "card_id": "moon_jar",
       "meaning": "純粋な心の回復、過去の過ちの浄化と穏やかな祝福",
       "advice": "白雪のように真っ白からやり直す好機！新しいキャンバスを広げよケビ！"
@@ -770,7 +770,7 @@
         "lightning"
       ],
       "fortune": "auspicious",
-      "lucky_number": 97,
+      "lucky_number": 31,
       "card_id": "dokkaebi_club",
       "meaning": "電光石火の閃き、世間の注目を一身に集める電撃的成功",
       "advice": "雷鳴のように鮮烈なひらめきだ！今思いついたアイデアを即座に書き留めろケビ！"
@@ -786,7 +786,7 @@
         "rainbow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "lotus_lamp",
       "meaning": "苦難の末の燦然たる栄光、切望していた夢の劇的成就",
       "advice": "雨が上がって虹が架かったぞ！これからは喜びの乾杯を挙げる番だケビ！"
@@ -819,7 +819,7 @@
         "money"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "金運と物質的報酬の上昇、実質的な利益の創出",
       "advice": "富が舞い込む大吉運！無駄遣いを控え、貯蓄通帳を確認してみろケビ！"
@@ -853,7 +853,7 @@
         "jewel"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "jade_ring",
       "meaning": "高貴な地位の獲得、最高の価値の承認、燦然たる名誉",
       "advice": "宝石のように輝く存在になる日！自分自身の価値を疑うなケビ！"
@@ -1054,7 +1054,7 @@
         "gift"
       ],
       "fortune": "auspicious",
-      "lucky_number": 70,
+      "lucky_number": 4,
       "card_id": "silk_pouch",
       "meaning": "貴人の援助、愛情の告白やサプライズ報酬、新しい契約",
       "advice": "感謝の言葉をまず伝えよう！受けた福を分かち合えばさらに大福となるケビ！"
@@ -1072,7 +1072,7 @@
         "ancestor"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "mountain_spirit",
       "meaning": "家系の霊的加護と啓示、危機脱出と一生に一度の大運",
       "advice": "ご先祖様が道を切り拓いてくれたぞ！敬虔な心で正しい選択を下せケビ！"
@@ -1089,7 +1089,7 @@
         "mountain god"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "最高の知恵の獲得、難題を一挙に解決する秘策の授受",
       "advice": "偉大な師の教えだ！先輩や専門家のアドバイスに真摯に耳を傾けよケビ！"
@@ -1106,7 +1106,7 @@
         "dokkaebi"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "創造的魔法の発動、守護霊からの力強い幸運のギフト",
       "advice": "オイラが直接出張ってきたぞケビ！一振りで難問解決だから笑っていけ！"
@@ -1140,7 +1140,7 @@
         "saint"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "lotus_lamp",
       "meaning": "至高の慈悲と救済、人生のあらゆる苦難が恩寵へと昇華",
       "advice": "神聖な光が包み込んでいるぞ！今日行う小さな善行が万倍の福となるケビ！"
@@ -1191,7 +1191,7 @@
         "talisman"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "inkstone",
       "meaning": "強力な霊的結界の形成、あらゆる厄災の根本的遮断",
       "advice": "無敵のトッケビ結界が張られたぞ！どんな障害も君を邪魔できないケビ！"
@@ -1208,7 +1208,7 @@
         "coffin"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "過去の完全なる死と再生、莫大な遺産相続と富貴栄華",
       "advice": "古き自分が滅び、新しい自分が目覚めたぞ！大逆転の幕開けだケビ！"
@@ -1241,7 +1241,7 @@
         "flying"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "wind_child",
       "meaning": "束縛から解き放たれ、自由と達成に向かう圧倒的上昇運",
       "advice": "高く飛んだ分だけ視野も広がる！今日は大きな構想を描いてみろケビ！"
@@ -1291,7 +1291,7 @@
         "dream"
       ],
       "fortune": "normal",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "dream_eater",
       "meaning": "現実と理想の深い思索、無意識の精密な探究",
       "advice": "思考の迷宮に閉じ込められるな！今日は頭を空っぽにして散歩しようケビ！"
@@ -1343,7 +1343,7 @@
         "funeral"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "過去の苦難の完全終結、劇的な大逆転と横財運",
       "advice": "過去の痛みはすべて終わった！新しい器を用意して祝杯をあげろケビ！"
@@ -1360,7 +1360,7 @@
         "exam pass"
       ],
       "fortune": "auspicious",
-      "lucky_number": 100,
+      "lucky_number": 34,
       "card_id": "rooster",
       "meaning": "長年の努力の完全なる報われ、公認資格の獲得と歓喜",
       "advice": "流した汗が黄金の実を結んだぞ！今日まで頑張った自分を褒め称えろケビ！"
@@ -1394,7 +1394,7 @@
         "fight"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "dokkaebi_club",
       "meaning": "正面衝突を通じた葛藤の痛快な解消、相手の完全屈服",
       "advice": "逃げずにぶつかってこそ勝てる！堂々と自分の主張を述べよケビ！"
@@ -1411,7 +1411,7 @@
         "kill"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dokkaebi_club",
       "meaning": "長年の障害物の完全撲滅、宿願の完全達成と大勝利",
       "advice": "邪魔者は完全に消え去った！これからは何物にも阻まれず勝ち進めケビ！"
@@ -1530,7 +1530,7 @@
         "rice cake"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "silk_pouch",
       "meaning": "家庭の豊かさと祝い事、頼もしい食福と万事順調",
       "advice": "福餅が転がり込むぞ！お腹を満たして元気に飛び出せケビ！"
@@ -1547,7 +1547,7 @@
         "fruit"
       ],
       "fortune": "auspicious",
-      "lucky_number": 76,
+      "lucky_number": 10,
       "card_id": "lotus_lamp",
       "meaning": "おめでたい兆候、愛の結実、豊かな収穫と長寿",
       "advice": "熟した果実を収穫する時だ！これまでの努力の成果をしっかり受け取れケビ！"
@@ -1564,7 +1564,7 @@
         "tree"
       ],
       "fortune": "auspicious",
-      "lucky_number": 92,
+      "lucky_number": 26,
       "card_id": "mountain_spirit",
       "meaning": "大黒柱となる大物の育成、家門の永続的繁栄と確固たる庇護",
       "advice": "根深き木は風に揺るがず！どっしりと中心を守り抜けケビ！"
@@ -1649,7 +1649,7 @@
         "ginseng"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "mountain_spirit",
       "meaning": "天運が宿る最高の妙薬、一生一代の宝物獲得と大吉夢",
       "advice": "宝の山を掘り当てたぞ！天が授けた千載一遇の好機を掴み取れケビ！"
@@ -1717,7 +1717,7 @@
         "airplane"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "wind_child",
       "meaning": "超高速の地位向上、海外進出と壮大なプロジェクトの成就",
       "advice": "離陸準備完了！シートベルトを締めて遥かなる高みへ飛び立てケビ！"
@@ -1734,7 +1734,7 @@
         "driving"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "自分の人生を主導的にコントロール、滞りのない事業の快進撃",
       "advice": "ハンドルは君の手にある！アクセルを踏み込んで風を切って走れケビ！"
@@ -1768,7 +1768,7 @@
         "ship"
       ],
       "fortune": "auspicious",
-      "lucky_number": 74,
+      "lucky_number": 8,
       "card_id": "water_sprite",
       "meaning": "大規模組織の船出、揺るぎない長期航海と大いなる成功",
       "advice": "順風満帆の時だ！仲間と息を合わせて力強く前へ進めケビ！"
@@ -1802,7 +1802,7 @@
         "elevator"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "sun_messenger",
       "meaning": "垂直上昇の超特急昇進、一気に高い地位へと駆け上がる吉夢",
       "advice": "高速エレベーターが上昇中だ！扉が開いたら頂上で堂々と立ち回れケビ！"
@@ -1870,7 +1870,7 @@
         "laughing"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "滞っていた気運の愉快な爆発、家中に響き渡る大慶事",
       "advice": "笑う門には福来るは真実だ！今日会う人みんなに満面の笑みを向けろケビ！"
@@ -1921,7 +1921,7 @@
         "bliss"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "cloud_pillow",
       "meaning": "魂の完全なる充足、人生最高の天運と恵みの極致",
       "advice": "宇宙のあらゆる福徳が君に注がれる！全身全霊でこの幸福を味わえケビ！"
@@ -1938,7 +1938,7 @@
         "dokkaebi club"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "金よ出ろドンドン！叩けば何でも現実化する創造力の頂点",
       "advice": "望むものを声に出して言ってみろ！オイラが一振りで叶えてやるぞケビ！"
@@ -1972,7 +1972,7 @@
         "lucky pouch"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "尽きることのない打ち出の小槌、代々受け継がれる家門の至福",
       "advice": "福が袋いっぱいに詰まっているぞ！今日施す親切が倍返しで巡るケビ！"
@@ -1989,7 +1989,7 @@
         "magic broom"
       ],
       "fortune": "auspicious",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "wooden_comb",
       "meaning": "不運を掃き出し、黄金を掻き集める神通力に満ちた大浄化",
       "advice": "悪い気はサッと掃き出し福だけ集めろ！部屋の換気をして風を通せケビ！"
@@ -2006,7 +2006,7 @@
         "dragon orb"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dragon",
       "meaning": "天下を号令する最高の宝珠獲得、望みが100%成就する至高の大吉夢",
       "advice": "天下無双の如意宝珠が君の腕の中に！叶わぬ夢などないぞケビ！"

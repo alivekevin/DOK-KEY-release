@@ -155,7 +155,7 @@
         "horse"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "असीमित ऊर्जा, लक्ष्यों की प्राप्ति और तेज प्रगति का संकेत",
       "advice": "पूरी गति से आगे बढ़ने का समय है! बिना संकोच अपने लक्ष्य की ओर दौड़ें!"
@@ -171,7 +171,7 @@
         "turtle"
       ],
       "fortune": "auspicious",
-      "lucky_number": 80,
+      "lucky_number": 14,
       "card_id": "moon_jar",
       "meaning": "दीर्घायु, स्थायी समृद्धि और अटूट शांति का शुभ संकेत",
       "advice": "जल्दबाजी छोड़कर दूरदर्शी सोच अपनाएं! धैर्य ही अंतिम विजय दिलाएगा!"
@@ -251,7 +251,7 @@
         "lion"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "mountain_spirit",
       "meaning": "मजबूत नेतृत्व, अधिकार और शक्तिशाली समर्थन का प्रतीक",
       "advice": "शेर की तरह शान से नेतृत्व करें! आज नियंत्रण आपके हाथों में है!"
@@ -283,7 +283,7 @@
         "deer"
       ],
       "fortune": "auspicious",
-      "lucky_number": 75,
+      "lucky_number": 9,
       "card_id": "cloud_hermit",
       "meaning": "सद्गुणों की पहचान, आदर और जीवन में सुख-शांति का प्रतीक",
       "advice": "सौम्य व्यवहार रखें! आपकी विनम्रता ही आपको सम्मान दिलाएगी!"
@@ -299,7 +299,7 @@
         "bear"
       ],
       "fortune": "auspicious",
-      "lucky_number": 82,
+      "lucky_number": 16,
       "card_id": "mountain_spirit",
       "meaning": "मजबूत सुरक्षा, अपार शक्ति और दीर्घकालिक स्थिरता का संकेत",
       "advice": "अपनी दृढ़ता पर भरोसा रखें! निरंतर प्रयास से सफलता सुनिश्चित होगी!"
@@ -315,7 +315,7 @@
         "toad"
       ],
       "fortune": "auspicious",
-      "lucky_number": 93,
+      "lucky_number": 27,
       "card_id": "silk_pouch",
       "meaning": "अचानक धन प्राप्ति और परिवार में सुख-शांति का शुभ संकेत",
       "advice": "परिवार में खुशहाली आने वाली है! अपनों के साथ इस आनंद को बांटें!"
@@ -347,7 +347,7 @@
         "poo"
       ],
       "fortune": "auspicious",
-      "lucky_number": 84,
+      "lucky_number": 18,
       "card_id": "silk_pouch",
       "meaning": "प्रचुर धन लाभ और अप्रत्याशित सौभाग्य का सर्वोत्तम संकेत",
       "advice": "बड़ा धन लाभ होने वाला है! आज अपनी अटकी योजनाओं को गति दें!"
@@ -363,7 +363,7 @@
         "blood"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "अपार ऊर्जा, धन आगमन और सभी बाधाओं के समाप्त होने का संकेत",
       "advice": "जीवन शक्ति का संचार हो रहा है! पुरानी रुकावटें आज दूर होंगी!"
@@ -411,7 +411,7 @@
         "tears"
       ],
       "fortune": "auspicious",
-      "lucky_number": 90,
+      "lucky_number": 24,
       "card_id": "water_sprite",
       "meaning": "मानसिक तनाव से मुक्ति, मन का हल्का होना और बड़ी खुशी का आगमन",
       "advice": "दुख के बादल छंट रहे हैं! जल्द ही आपको बहुत बड़ी खुशी मिलने वाली है!"
@@ -459,7 +459,7 @@
         "surgery"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "folding_fan",
       "meaning": "मूलभूत सुधार, व्यवस्था में सकारात्मक बदलाव और बड़ा लाभ",
       "advice": "कठिन निर्णय ही नया जीवन देते हैं! साहस के साथ आवश्यक बदलाव करें!"
@@ -475,7 +475,7 @@
         "pregnant"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "moon_jar",
       "meaning": "नई परियोजना की शुरुआत, रचनात्मकता और असीमित संभावनाओं का जन्म",
       "advice": "आपके भीतर नई संभावनाएं जन्म ले रही हैं! अपने विचारों को संवारें!"
@@ -507,7 +507,7 @@
         "growth"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "cloud_hermit",
       "meaning": "पद में वृद्धि, दृष्टिकोण का विस्तार और पदोन्नति का शुभ संकेत",
       "advice": "ऊंचे दृष्टिकोण से सोचें! आपकी क्षमताएं और प्रभाव बढ़ रहे हैं!"
@@ -603,7 +603,7 @@
         "star"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "star_weaver",
       "meaning": "अद्भुत रचनात्मक विचार, लोकप्रियता और कार्यों में बड़ी सफलता",
       "advice": "आपके विचार तारों की तरह चमकेंगे! अपनी योजनाओं को तुरंत लिखें!"
@@ -619,7 +619,7 @@
         "sun"
       ],
       "fortune": "auspicious",
-      "lucky_number": 91,
+      "lucky_number": 25,
       "card_id": "sun_messenger",
       "meaning": "महान प्रतिष्ठा, सफलता और चारों ओर यश फैलने का संकेत",
       "advice": "सूरज की तरह चमकने का समय आ गया है! आत्मविश्वास से कदम बढ़ाएं!"
@@ -651,7 +651,7 @@
         "mountain"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "कठिन चुनौतियों पर विजय, महत्वाकांक्षाओं की पूर्ति और उच्च पद",
       "advice": "शिखर पर पहुंचकर सब साफ दिखेगा! बीच में न रुकें, लक्ष्य तक चढ़ते रहें!"
@@ -667,7 +667,7 @@
         "sea"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "water_sprite",
       "meaning": "व्यापक अवसरों का विस्तार, बड़ा दृष्टिकोण और विशाल सफलता",
       "advice": "बड़े मंच पर कदम रखने का समय है! संकीर्ण सोच छोड़कर आगे बढ़ें!"
@@ -715,7 +715,7 @@
         "rain"
       ],
       "fortune": "normal",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "water_sprite",
       "meaning": "समस्याओं का समाधान रूपी वर्षा, जो जल्द ही सुखद परिणाम देगी",
       "advice": "बारिश जल्द थम जाएगी! शांत रहें और परिस्थितियों का सामना करें!"
@@ -731,7 +731,7 @@
         "snow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 72,
+      "lucky_number": 6,
       "card_id": "moon_jar",
       "meaning": "मन की पवित्रता, पुरानी गलतियों का मिटना और नई शुरुआत",
       "advice": "एक नई और साफ शुरुआत का समय है! मन में सकारात्मक विचार रखें!"
@@ -747,7 +747,7 @@
         "lightning"
       ],
       "fortune": "auspicious",
-      "lucky_number": 97,
+      "lucky_number": 31,
       "card_id": "dokkaebi_club",
       "meaning": "बिजली की गति से शानदार विचार और अचानक बड़ी सफलता",
       "advice": "एक अद्भुत विचार आपके मन में आया है! इसे तुरंत कार्यरूप में बदलें!"
@@ -763,7 +763,7 @@
         "rainbow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "lotus_lamp",
       "meaning": "कठिनाइयों के बाद अपार सफलता और सभी मनोकामनाओं की पूर्ति",
       "advice": "कठिन समय बीत चुका है और खुशियां आ चुकी हैं! आनंद मनाएं!"
@@ -796,7 +796,7 @@
         "money"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "आर्थिक लाभ, धन में वृद्धि और नए लाभ के स्रोत",
       "advice": "धन लाभ का समय है! आज अपने खर्चों पर नियंत्रण रखें और बचत करें!"
@@ -829,7 +829,7 @@
         "jewel"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "jade_ring",
       "meaning": "उच्च पद की प्राप्ति, समाज में मान-सम्मान और अतुल्य प्रतिष्ठा",
       "advice": "आप एक अनमोल रत्न हैं! अपनी क्षमताओं पर कभी संदेह न करें!"
@@ -1022,7 +1022,7 @@
         "gift"
       ],
       "fortune": "auspicious",
-      "lucky_number": 70,
+      "lucky_number": 4,
       "card_id": "silk_pouch",
       "meaning": "सहयोगियों की मदद, प्रेम प्रस्ताव और अप्रत्याशित सुखद उपहार",
       "advice": "दिल से आभार प्रकट करें! जितना बांटेंगे, खुशियां उतनी ही बढ़ेंगी!"
@@ -1038,7 +1038,7 @@
         "ancestor"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "mountain_spirit",
       "meaning": "पूर्वजों का आशीर्वाद, संकटों से मुक्ति और जीवन बदलने वाला बड़ा अवसर",
       "advice": "पूर्वजों का मार्गदर्शन आपके साथ है! आज नेक और सही निर्णय लें!"
@@ -1054,7 +1054,7 @@
         "mountain god"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "परम ज्ञान की प्राप्ति, कठिन समस्याओं का अचूक समाधान मिलना",
       "advice": "गुरुओं और अनुभवी लोगों की सलाह सुनें! समाधान वहीं छिपा है!"
@@ -1070,7 +1070,7 @@
         "dokkaebi"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "चमत्कारी रचनात्मकता, खुशियों का आशीर्वाद और अटूट सुरक्षा",
       "advice": "मैं तुम्हारे साथ हूं! सभी समस्याएं हल होंगी, मुस्कुराते रहो!"
@@ -1103,7 +1103,7 @@
         "saint"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "lotus_lamp",
       "meaning": "परम कृपा, आशीर्वाद और सभी कष्टों का सुखद अंत",
       "advice": "ईश्वरीय कृपा आपके साथ है! आज किसी की मदद करें, अपार पुण्य मिलेगा!"
@@ -1151,7 +1151,7 @@
         "talisman"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "inkstone",
       "meaning": "मजबूत सुरक्षा कवच बनना और सभी नकारात्मकताओं का नाश होना",
       "advice": "आपके चारों ओर सकारात्मक ऊर्जा का सुरक्षा घेरा है! बेखौफ होकर काम करें!"
@@ -1167,7 +1167,7 @@
         "coffin"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "पुरानी परेशानियों का अंत, नई ऊर्जा से पुनर्जन्म और अपार धन लाभ",
       "advice": "पुरानी बाधाएं समाप्त हो चुकी हैं! एक नया और सफल जीवन आपका इंतजार कर रहा है!"
@@ -1200,7 +1200,7 @@
         "flying"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "wind_child",
       "meaning": "बंधनों से मुक्ति, स्वतंत्रता और सफलता की ओर तेज उड़ान",
       "advice": "ऊंची उड़ान भरने का समय है! आज अपने सबसे बड़े सपनों को आकार दें!"
@@ -1248,7 +1248,7 @@
         "dream"
       ],
       "fortune": "normal",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "dream_eater",
       "meaning": "गहरा आत्म-मंथन और विचारों में उलझन; मन को शांत रखने का संकेत",
       "advice": "विचारों के जाल में न उलझें! ताजी हवा में टहलें और मन को हल्का करें!"
@@ -1297,7 +1297,7 @@
         "funeral"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "पुराने कष्टों का पूर्ण अंत और जीवन में अप्रत्याशित सौभाग्य का आगमन",
       "advice": "पुरानी तकलीफें समाप्त हो चुकी हैं! एक नए और सुखद अध्याय की शुरुआत करें!"
@@ -1313,7 +1313,7 @@
         "exam pass"
       ],
       "fortune": "auspicious",
-      "lucky_number": 100,
+      "lucky_number": 34,
       "card_id": "rooster",
       "meaning": "कठिन परिश्रम का उत्तम फल, योग्यता की मान्यता और सम्मान",
       "advice": "आपकी मेहनत रंग लाई है! आज खुद पर गर्व करें और अपनी सराहना करें!"
@@ -1345,7 +1345,7 @@
         "fight"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "dokkaebi_club",
       "meaning": "चुनौतियों का डटकर सामना करने से विरोधियों पर निर्णायक विजय",
       "advice": "पीछे हटने के बजाय साहस से खड़े रहें! जीत आपकी ही होगी!"
@@ -1361,7 +1361,7 @@
         "kill"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dokkaebi_club",
       "meaning": "पुरानी बाधाओं का हमेशा के लिए नाश और कार्यों में पूर्ण विजय",
       "advice": "रास्ते के सभी कांटे दूर हो चुके हैं! अब आगे बढ़कर सफलता प्राप्त करें!"
@@ -1479,7 +1479,7 @@
         "rice cake"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "silk_pouch",
       "meaning": "घर में अन्न-धन की बरकत, उत्सव और सभी कार्यों में सिद्धि",
       "advice": "समृद्धि आपके घर आ रही है! ऊर्जावान रहकर अपने कार्यों को पूरा करें!"
@@ -1496,7 +1496,7 @@
         "fruit"
       ],
       "fortune": "auspicious",
-      "lucky_number": 76,
+      "lucky_number": 10,
       "card_id": "lotus_lamp",
       "meaning": "मेहनत का मीठा फल, प्रेम में सफलता और उत्तम स्वास्थ्य",
       "advice": "परिश्रम का फल पक चुका है! अपनी सफलता का आनंद लें!"
@@ -1513,7 +1513,7 @@
         "tree"
       ],
       "fortune": "auspicious",
-      "lucky_number": 92,
+      "lucky_number": 26,
       "card_id": "mountain_spirit",
       "meaning": "मजबूत आधार, परिवार की उन्नति और दूसरों को छाया व सुरक्षा देना",
       "advice": "मजबूत जड़ों वाले पेड़ आंधी से नहीं डरते! दृढ़ता से खड़े रहें!"
@@ -1594,7 +1594,7 @@
         "ginseng"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "mountain_spirit",
       "meaning": "ईश्वरीय वरदान, अद्भुत स्वास्थ्य लाभ और जीवन का सबसे बड़ा सौभाग्य",
       "advice": "आपको दुर्लभ अवसर मिला है! इस ईश्वरीय वरदान का पूरा लाभ उठाएं!"
@@ -1660,7 +1660,7 @@
         "airplane"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "wind_child",
       "meaning": "तेज गति से तरक्की, बड़े प्रोजेक्ट्स की सफलता और विदेश यात्रा",
       "advice": "उड़ान भरने का समय आ गया है! अपनी पूरी क्षमता के साथ आगे बढ़ें!"
@@ -1676,7 +1676,7 @@
         "driving"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "अपने जीवन पर पूर्ण नियंत्रण और कार्यों में तीव्र व सहज गति",
       "advice": "नियंत्रण आपके हाथों में है! पूरे आत्मविश्वास के साथ आगे बढ़ें!"
@@ -1709,7 +1709,7 @@
         "ship"
       ],
       "fortune": "auspicious",
-      "lucky_number": 74,
+      "lucky_number": 8,
       "card_id": "water_sprite",
       "meaning": "बड़े संगठन की शुरुआत, सुदृढ़ दीर्घकालिक योजना और बड़ी सफलता",
       "advice": "अनुकूल समय है! अपनी टीम के साथ तालमेल बनाकर आगे बढ़ें!"
@@ -1741,7 +1741,7 @@
         "elevator"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "sun_messenger",
       "meaning": "अत्यंत तेज गति से पदोन्नति और सीधे शीर्ष स्थान पर पहुंचना",
       "advice": "आप तेजी से ऊंचाइयों की ओर बढ़ रहे हैं! शीर्ष पर पहुंचने के लिए तैयार रहें!"
@@ -1806,7 +1806,7 @@
         "laughing"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "सभी चिंताओं का दूर होना और घर-परिवार में उत्सव का वातावरण",
       "advice": "हंसी से सकारात्मक ऊर्जा बढ़ती है! आज सभी से मुस्कुराकर मिलें!"
@@ -1855,7 +1855,7 @@
         "bliss"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "cloud_pillow",
       "meaning": "आत्मा की पूर्ण संतुष्टि, जीवन का सर्वोत्तम सौभाग्य और असीम शांति",
       "advice": "ईश्वरीय कृपा और शांति आपके साथ है! इस आनंद का पूरा अनुभव करें!"
@@ -1871,7 +1871,7 @@
         "magic club"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "मनोवांछित फल की प्राप्ति और हर विचार को हकीकत में बदलने की शक्ति",
       "advice": "अपनी इच्छा को स्पष्ट करें! आपकी हर मनोकामना पूर्ण होने वाली है!"
@@ -1903,7 +1903,7 @@
         "lucky pouch"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "अक्षय धन-धान्य की प्राप्ति और पीढ़ियों तक चलने वाली समृद्धि",
       "advice": "आपकी झोली खुशियों से भरी है! आज उदारता दिखाएं, लाभ कई गुना होगा!"
@@ -1919,7 +1919,7 @@
         "magic broom"
       ],
       "fortune": "auspicious",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "wooden_comb",
       "meaning": "सभी कष्टों व दरिद्रता का नाश और घर में सुख-समृद्धि का वास",
       "advice": "सभी नकारात्मक विचारों को बाहर निकालें और सकारात्मकता का स्वागत करें!"
@@ -1935,7 +1935,7 @@
         "dragon orb"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dragon",
       "meaning": "सर्वोच्च दिव्य रत्न की प्राप्ति और सभी इच्छाओं का शत-प्रतिशत पूर्ण होना",
       "advice": "संसार का सबसे बड़ा वरदान आपके पास है! कोई भी लक्ष्य अब असंभव नहीं है!"

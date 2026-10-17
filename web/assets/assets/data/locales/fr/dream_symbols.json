@@ -164,7 +164,7 @@
         "cheval"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "Conduite imparable, réalisation de grands objectifs, voyages d'affaires longue distance ou sauts",
       "advice": "Le bruit des sabots des chevaux est majestueux ! N’hésitez plus et foncez de toutes vos forces !"
@@ -181,7 +181,7 @@
         "tortue"
       ],
       "fortune": "auspicious",
-      "lucky_number": 80,
+      "lucky_number": 14,
       "card_id": "moon_jar",
       "meaning": "Longévité sans santé, honneur inébranlable et richesse durable",
       "advice": "C'est la sagesse de vivre mille ans ! Au lieu d’être impatient pour l’avenir immédiat, regardez devant cent ans !"
@@ -268,7 +268,7 @@
         "lions"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "mountain_spirit",
       "meaning": "Prendre le contrôle de la direction de l'organisation, d'un pouvoir inébranlable et d'un soutien solide",
       "advice": "Commandez fièrement comme le roi des bêtes ! Tu es le personnage principal, kkaebi !"
@@ -301,7 +301,7 @@
         "cerf"
       ],
       "fortune": "auspicious",
-      "lucky_number": 75,
+      "lucky_number": 9,
       "card_id": "cloud_hermit",
       "meaning": "Reconnaissance du caractère noble, de l'amour noble et du bonheur paisible",
       "advice": "Il y a une énergie claire et calme dans l’air ! Traitez les gens avec un doux sourire !"
@@ -317,7 +317,7 @@
         "ours"
       ],
       "fortune": "auspicious",
-      "lucky_number": 82,
+      "lucky_number": 16,
       "card_id": "mountain_spirit",
       "meaning": "Rêve prénatal, protection d'une personne puissante et accumulation d'énormes richesses",
       "advice": "La lourde persévérance brille ! Avance patiemment, kkaebi !"
@@ -334,7 +334,7 @@
         "grenouille"
       ],
       "fortune": "auspicious",
-      "lucky_number": 93,
+      "lucky_number": 27,
       "card_id": "silk_pouch",
       "meaning": "Grande fortune et aubaine apportées par les crapauds dorés, prospérité de la famille",
       "advice": "Une fortune arrive à la maison ! Partagez la joie avec votre famille !"
@@ -370,7 +370,7 @@
         "caca"
       ],
       "fortune": "auspicious",
-      "lucky_number": 84,
+      "lucky_number": 18,
       "card_id": "silk_pouch",
       "meaning": "Un rêve bouleversant où la richesse vient comme si elle se collait au corps",
       "advice": "C’est un jackpot agréable ! Dès aujourd’hui, commencez à investir ou à relever des défis devant lesquels vous hésitiez !"
@@ -387,7 +387,7 @@
         "sang"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "Une énorme explosion de vitalité et de richesse, une percée rafraîchissante grâce à la renommée et aux fortunes bloquées",
       "advice": "Le sang rouge, c'est une énorme vitalité et de l'argent ! Ce qui était opprimé est soulagé !"
@@ -440,7 +440,7 @@
         "pleurer"
       ],
       "fortune": "auspicious",
-      "lucky_number": 90,
+      "lucky_number": 24,
       "card_id": "water_sprite",
       "meaning": "Un soulagement rafraîchissant de la douleur dans votre cœur, une chance d'être largement connu",
       "advice": "Après avoir beaucoup pleuré, le monde devient plus clair ! Une joie palpitante est juste devant vous !"
@@ -493,7 +493,7 @@
         "chirurgie"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "folding_fan",
       "meaning": "Créer des résultats révolutionnaires grâce à une amélioration structurelle fondamentale et une réorganisation organisationnelle",
       "advice": "Il faut couper la zone douloureuse pour faire pousser une nouvelle peau ! Commençons une nouvelle ère avec une décision audacieuse !"
@@ -511,7 +511,7 @@
         "enceinte"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "moon_jar",
       "meaning": "Lancer un nouveau projet, porteur d'un énorme potentiel et de fruits créatifs",
       "advice": "J'avais des graines bénies ! Si vous le cultivez avec soin, il portera d’énormes fruits !"
@@ -544,7 +544,7 @@
         "grandir"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "cloud_hermit",
       "meaning": "Élévation du statut, expansion des perspectives, avancement à un poste plus élevé que les autres",
       "advice": "Regardez le monde d’en haut ! Votre vaisseau grandit !"
@@ -649,7 +649,7 @@
         "météore"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "star_weaver",
       "meaning": "Une explosion d'inspiration et de créativité, une popularité populaire et un énorme succès de l'œuvre",
       "advice": "Les idées qui brillent comme des étoiles affluent ! Gardez toujours un bloc-notes avec vous !"
@@ -667,7 +667,7 @@
         "lever du soleil"
       ],
       "fortune": "auspicious",
-      "lucky_number": 91,
+      "lucky_number": 25,
       "card_id": "sun_messenger",
       "meaning": "Une belle naissance, la meilleure carrière qui vous rendra célèbre dans le monde",
       "advice": "Le soleil éclatant illumine le monde entier ! Redressez vos épaules et marchez en toute confiance !"
@@ -701,7 +701,7 @@
         "montagne"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "Réalisation de grandes aspirations, surmonter d'énormes obstacles et accéder au pouvoir",
       "advice": "Quand vous êtes au sommet, vous pouvez tout voir ! Ne vous lassez pas de la colline devant vous et montez jusqu’au bout !"
@@ -719,7 +719,7 @@
         "océan"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "water_sprite",
       "meaning": "Avancement sur la scène mondiale, vision large et succès à grande échelle",
       "advice": "Levez l’ancre vers l’océan ! Ne vous laissez pas prendre par les petites choses et embrassez le grand océan !"
@@ -772,7 +772,7 @@
         "fortes pluies"
       ],
       "fortune": "normal",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "water_sprite",
       "meaning": "Un problème qui disparaît comme une douce pluie ou une douche passagère d'émotions",
       "advice": "Les averses vont bientôt passer ! Préparez-vous sereinement, comme si vous preniez un parapluie !"
@@ -789,7 +789,7 @@
         "neige"
       ],
       "fortune": "auspicious",
-      "lucky_number": 72,
+      "lucky_number": 6,
       "card_id": "moon_jar",
       "meaning": "Restauration d'un cœur pur, couverture de tous les défauts et bénédictions sereines",
       "advice": "C'est votre chance de recommencer blanc comme neige ! Disposez un nouveau morceau de papier à dessin !"
@@ -807,7 +807,7 @@
         "tonnerre"
       ],
       "fortune": "auspicious",
-      "lucky_number": 97,
+      "lucky_number": 31,
       "card_id": "dokkaebi_club",
       "meaning": "Une réalisation ultra-rapide, un succès soudain qui attire l’attention du monde entier",
       "advice": "L’inspiration jaillit comme un éclair ! Notez les pensées qui vous viennent à l’esprit en ce moment !"
@@ -823,7 +823,7 @@
         "arc-en-ciel"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "lotus_lamp",
       "meaning": "La gloire brillante à la fin de la souffrance, la réalisation dramatique d'un rêve tant attendu",
       "advice": "La pluie s'est dissipée et un arc-en-ciel est apparu ! Il est maintenant temps de célébrer et de célébrer !"
@@ -857,7 +857,7 @@
         "argent"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "Augmentation de la richesse et des récompenses financières, créant de réels profits",
       "advice": "C'est ainsi que l'argent rentre ! Économisez de l'argent aujourd'hui et vérifiez votre compte d'épargne !"
@@ -892,7 +892,7 @@
         "gemmes"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "jade_ring",
       "meaning": "Acquérez une position précieuse, reconnaissez la valeur la plus élevée et recevez un brillant honneur.",
       "advice": "Un jour où vous brillerez comme un bijou ! Ne diminue pas ta propre valeur, salaud !"
@@ -1102,7 +1102,7 @@
         "présent"
       ],
       "fortune": "auspicious",
-      "lucky_number": 70,
+      "lucky_number": 4,
       "card_id": "silk_pouch",
       "meaning": "Aide d'un noble, confession d'affection, récompense surprise, nouveau contrat",
       "advice": "Exprimez d’abord votre gratitude ! Plus vous partagez les bénédictions que vous recevez, plus le cadeau sera grand !"
@@ -1120,7 +1120,7 @@
         "ancêtre"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "mountain_spirit",
       "meaning": "Protection spirituelle et révélation pour la famille, évasion de la crise et grande chance d'une vie",
       "advice": "Nos ancêtres ont ouvert la voie ! Faites le bon choix avec un cœur divin !"
@@ -1137,7 +1137,7 @@
         "dieu de la montagne"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "Acquérir la meilleure sagesse, apprendre les astuces pour résoudre les difficultés en même temps",
       "advice": "Ce sont les enseignements du grand professeur ! Écoutez les conseils des seniors et des experts !"
@@ -1155,7 +1155,7 @@
         "gobelin"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "Activation de la magie créative, un puissant cadeau porte-bonheur de la part de l'esprit gardien de l'appareil",
       "advice": "Je suis sorti moi-même ! Tout peut être résolu d'un simple coup, alors ne vous inquiétez pas, souriez !"
@@ -1191,7 +1191,7 @@
         "Dieu"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "lotus_lamp",
       "meaning": "Miséricorde et salut extrêmes, toutes les difficultés de la vie se transforment en grâce",
       "advice": "La Sainte Lumière vous entoure ! Une petite bonne action que vous faites aujourd’hui deviendra une bénédiction dix mille fois supérieure !"
@@ -1244,7 +1244,7 @@
         "talisman"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "inkstone",
       "meaning": "Former un puissant bouclier spirituel, bloquant la source de toute malchance",
       "advice": "Le bouclier gobelin invincible a été frappé ! Aucun obstacle ne peut vous briser !"
@@ -1262,7 +1262,7 @@
         "cadavre"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "Mort complète et résurrection du passé, héritage et richesse énormes",
       "advice": "L'ancien moi est mort et un nouveau moi est né ! Un énorme changement dans la vie commence !"
@@ -1296,7 +1296,7 @@
         "volant"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "wind_child",
       "meaning": "Une trajectoire ascendante imparable, loin de l’esclavage et vers la liberté et la réussite.",
       "advice": "Plus vous flottez longtemps dans les airs, plus votre champ de vision s’élargit ! Dessinez une vue d'ensemble aujourd'hui, kkaebi !"
@@ -1348,7 +1348,7 @@
         "rêve en rêve"
       ],
       "fortune": "normal",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "dream_eater",
       "meaning": "Contemplation profonde de la réalité et des idéaux, exploration précise de l'inconscient",
       "advice": "Ne vous laissez pas prendre dans le labyrinthe des pensées ! Secouez vos cheveux et faites une promenade légère dès aujourd'hui !"
@@ -1400,7 +1400,7 @@
         "funérailles"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "Une fin complète à la douleur passée, un énorme rebondissement et une aubaine",
       "advice": "La douleur du passé est complètement terminée ! Mettez le vin nouveau dans une nouvelle bouteille et faites la fête !"
@@ -1417,7 +1417,7 @@
         "réussite à l'examen"
       ],
       "fortune": "auspicious",
-      "lucky_number": 100,
+      "lucky_number": 34,
       "card_id": "rooster",
       "meaning": "La récompense parfaite pour un long travail acharné, l'obtention d'une qualification reconnue et des acclamations",
       "advice": "Les gouttes de sueur se sont transformées en fruits dorés ! Félicitez-vous pour tout votre travail acharné !"
@@ -1451,7 +1451,7 @@
         "combat"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "dokkaebi_club",
       "meaning": "Résoudre le conflit par une confrontation frontale, l'abandon complet de l'autre partie",
       "advice": "Il faut entrer en collision sans esquiver pour gagner ! Déploie fièrement ma logique, kkaebi !"
@@ -1469,7 +1469,7 @@
         "meurtre"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dokkaebi_club",
       "meaning": "Éradication complète des obstacles de longue date, réalisation complète des souhaits de longue date et grande victoire",
       "advice": "L'obstacle a été complètement éliminé ! C'est le moment de gagner sans problème !"
@@ -1593,7 +1593,7 @@
         "riz"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "silk_pouch",
       "meaning": "Abondance et festins à la maison, alimentation fiable et prospérité",
       "advice": "Boktteok arrive ! Mangez bien et avancez avec force !"
@@ -1613,7 +1613,7 @@
         "pêche"
       ],
       "fortune": "auspicious",
-      "lucky_number": 76,
+      "lucky_number": 10,
       "card_id": "lotus_lamp",
       "meaning": "Rêve prénatal, fruit de l'amour, revenus fructueux et longévité",
       "advice": "Il est temps de récolter les fruits mûrs ! Soyez fier de vos efforts jusqu’à présent !"
@@ -1631,7 +1631,7 @@
         "forêt"
       ],
       "fortune": "auspicious",
-      "lucky_number": 92,
+      "lucky_number": 26,
       "card_id": "mountain_spirit",
       "meaning": "Cultiver une personne qui deviendra un immense pilier, une prospérité permanente et de l'ombre pour la famille",
       "advice": "Un arbre aux racines profondes n’est pas ébranlé par le vent ! Restez fort et gardez votre centre de gravité !"
@@ -1720,7 +1720,7 @@
         "ginseng"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "mountain_spirit",
       "meaning": "Je l'ai essayé ! Le meilleur médicament rempli de chance céleste, d'un grand rêve et de l'acquisition d'un trésor à vie",
       "advice": "Je ne peux m'empêcher de crier que je l'ai essayé ! Ne manquez pas cette opportunité offerte par le ciel, saisissez-la !"
@@ -1791,7 +1791,7 @@
         "vol"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "wind_child",
       "meaning": "Augmentation rapide du statut, avancement dans les affaires à l'étranger et réalisation réussie d'énormes projets",
       "advice": "Prêt pour le décollage ! Attachez votre ceinture de sécurité et envolez-vous vers une altitude plus élevée !"
@@ -1809,7 +1809,7 @@
         "voiture"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "Prenez le contrôle de votre vie et gérez votre entreprise sans interruption",
       "advice": "La poignée est entre vos mains ! N'appuyez pas sur les freins, appuyez dessus froidement !"
@@ -1844,7 +1844,7 @@
         "croisière"
       ],
       "fortune": "auspicious",
-      "lucky_number": 74,
+      "lucky_number": 8,
       "card_id": "water_sprite",
       "meaning": "Lancement d'une organisation d'envergure, voyage au long cours inébranlable et grand succès",
       "advice": "Partez avec un vent favorable ! Ramez vigoureusement en harmonie avec vos collègues !"
@@ -1879,7 +1879,7 @@
         "ascenseur"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "sun_messenger",
       "meaning": "Super promotion avec ascension verticale, montez à une position haute en un instant",
       "advice": "J'ai appuyé sur le bouton de l'ascenseur ! Lorsque la porte s'ouvre, accueillez le monde d'en haut !"
@@ -1947,7 +1947,7 @@
         "rire"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "Une agréable explosion d'énergie bloquée, un grand événement de bon augure qui résonnera dans toute la maison",
       "advice": "C'est vrai que le rire porte chance ! Souriez vivement à tous ceux que vous rencontrez aujourd'hui, kkaebi !"
@@ -2000,7 +2000,7 @@
         "bonheur"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "cloud_pillow",
       "meaning": "L'épanouissement complet de l'âme, le summum de la plus grande fortune et grâce de la vie",
       "advice": "Toutes les bénédictions de l’univers se déversent sur vous ! Profitez de ce bonheur de tout votre cœur !"
@@ -2017,7 +2017,7 @@
         "club de magie"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "Sortez avec de l'or ! Le summum de la créativité où tout devient réalité lorsque vous appuyez sur",
       "advice": "Dites ce que vous voulez à voix haute ! Je vais te frapper avec une batte et faire en sorte que tout se réalise !"
@@ -2051,7 +2051,7 @@
         "pochette porte-bonheur"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "Une richesse qui ne sèche jamais comme un pot de fleurs, une fortune familiale qui se transmettra de génération en génération",
       "advice": "Votre poche est pleine de chance ! La générosité que vous donnez aujourd’hui vous reviendra doublement !"
@@ -2068,7 +2068,7 @@
         "balai magique"
       ],
       "fortune": "auspicious",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "wooden_comb",
       "meaning": "Une purification magique qui balaie la malchance et attire l'or.",
       "advice": "Éliminez toutes les mauvaises choses et ne récupérez que la bonne fortune ! Aérez l'air de votre maison !"
@@ -2085,7 +2085,7 @@
         "orbe de dragon"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dragon",
       "meaning": "Obtenir le meilleur orbe qui gouvernera le monde, un grand rêve où votre souhait se réalisera à 100%",
       "advice": "Le meilleur Yeouiju du monde est dans vos bras ! Il n’y a aucun rêve qui ne puisse être réalisé !"

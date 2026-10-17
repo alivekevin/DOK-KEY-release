@@ -4554,24 +4554,6 @@
     }
   },
   {
-    "id": "rid_260",
-    "question": "Quel outil de vaisselle gardera la poudre de poivron rouge coincée dans mon corps et ne la recrachera jamais ?",
-    "options": [
-      "Torchon",
-      "Épurateur",
-      "Éponge",
-      "Brosse"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! L'éponge n'enlève pas la couleur de la soupe au kimchi.",
-      "wrong": "Raté ! Ding! C'est un outil moussant pour nettoyer la vaisselle."
-    }
-  },
-  {
     "id": "rid_261",
     "question": "Quelle est la chose qui est silencieuse avant que l'eau bout, mais qui crie à tout le quartier quand elle bout ?",
     "options": [
@@ -4896,24 +4878,6 @@
     }
   },
   {
-    "id": "rid_279",
-    "question": "Que se passe-t-il lorsque vous manquez un arrêt et que vous appuyez dessus tardivement, ce qui fait faire demi-tour à toutes les voitures ?",
-    "options": [
-      "Descendez de la cloche",
-      "bouton",
-      "Annonce",
-      "poignée"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Si vous appuyez tardivement sur la cloche de sortie, le son sera plus fort.",
-      "wrong": "Raté ! Ding! C'est la sonnette sur laquelle on appuie en descendant."
-    }
-  },
-  {
     "id": "rid_280",
     "question": "Qu'est-ce qui est si fin et si pointu que si vous appuyez dessus avec juste un peu de force, cela vous brisera le dos ?",
     "options": [
@@ -5004,24 +4968,6 @@
     }
   },
   {
-    "id": "rid_285",
-    "question": "Il adhère bien lorsque vous le collez sur le dos d'un ami, mais que se passe-t-il si la plage de test écrite est emportée par le vent ?",
-    "options": [
-      "Bloc-notes",
-      "autocollant",
-      "Post-it",
-      "papier"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Seuls les post-it importants s’envolent.",
-      "wrong": "Raté ! Ding! C'est une petite note que vous pouvez coller et décoller."
-    }
-  },
-  {
     "id": "rid_286",
     "question": "Que se passe-t-il lorsque vous faites semblant d'attacher vos cheveux, mais qu'ils se cassent à un moment critique ?",
     "options": [
@@ -5055,60 +5001,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! Si vous retirez rapidement les mouchoirs mouillés, ils sortent en rang.",
       "wrong": "Raté ! Ding! C'est un mouchoir imbibé d'eau."
-    }
-  },
-  {
-    "id": "rid_288",
-    "question": "Que diriez-vous de vaporiser secrètement de l'eau froide sur le dos de votre ami pendant le nettoyage ?",
-    "options": [
-      "arrosoir",
-      "pulvérisateur",
-      "pistolet à eau",
-      "tuyau"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Le pulvérisateur pulvérise toujours de l’eau au mauvais endroit.",
-      "wrong": "Raté ! Ding! C'est un outil qui crache de l'eau comme du brouillard."
-    }
-  },
-  {
-    "id": "rid_289",
-    "question": "Qu'est-ce qui attire l'attention de toute la classe en émettant un « grincement » pendant une période d'auto-apprentissage tranquille ?",
-    "options": [
-      "bouton",
-      "fermeture éclair",
-      "Grincement",
-      "Chaîne"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Squeak fait toujours un son lorsqu'il est silencieux.",
-      "wrong": "Raté ! Ding! C'est du Velcro qui s'attache et s'enlève."
-    }
-  },
-  {
-    "id": "rid_290",
-    "question": "Qu'est-ce qui est doux lorsque vous vous asseyez, mais qui tombe et vous attrape la cheville lorsque vous vous levez ?",
-    "options": [
-      "Mat",
-      "coussin",
-      "oreiller",
-      "Coussin"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Le coussin tombe à vos pieds lorsque vous vous levez.",
-      "wrong": "Raté ! Ding! C'est un siège moelleux sur une chaise."
     }
   },
   {
@@ -5199,24 +5091,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! Une fois qu’une balle de ping-pong est cabossée, c’est fini.",
       "wrong": "Raté ! Ding! C'est une petite balle qui rebondit sur une table de ping-pong."
-    }
-  },
-  {
-    "id": "rid_296",
-    "question": "Qu'est-ce qui attire toute la poussière du monde avec l'électricité statique lorsque vous essayez de la dépoussiérer ?",
-    "options": [
-      "peigne",
-      "brosse à vêtements",
-      "pinceau",
-      "Plumeau"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Plus vous brossez une brosse à vêtements, plus elle accumule de poussière.",
-      "wrong": "Raté ! Ding! C'est une brosse qui enlève la poussière des vêtements."
     }
   },
   {
@@ -5436,57 +5310,39 @@
     }
   },
   {
-    "id": "rid_309",
-    "question": "Qu'est-ce qui prétend relier quelques imprimables, mais qui s'emmêle ensuite comme une chaîne dans votre trousse à crayons ?",
-    "options": [
-      "agrafeuse",
-      "Punaise",
-      "agrafe",
-      "pinces"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Les clips sont tous emmêlés.",
-      "wrong": "Raté ! Ding! C'est un outil pour ramasser et attacher du papier."
-    }
-  },
-  {
     "id": "rid_310",
-    "question": "Qu'est-ce que ça fait de déterrer sans pitié des flocons de piment rouge entre ses dents dans un restaurant ?",
+    "question": "Quel petit bâtonnet fin et pointu en bois ou en amidon sert à retirer les restes coincés entre les dents après le repas ou à piquer des morceaux de fruits ?",
     "options": [
-      "fil dentaire",
-      "Baguettes",
-      "Fourchette",
-      "Cure-dents"
+      "Coton-tige",
+      "Allumette",
+      "Paille",
+      "Cure-dent"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Les cure-dents trouvent tous les débris cachés.",
-      "wrong": "Raté ! Ding! C'est un bâton qui se colle entre vos dents."
+      "correct": "Exact ! Le cure-dent pointu permet de nettoyer entre les dents ou de piquer des fruits.",
+      "wrong": "Raté ! C’est le petit bâtonnet pointu appelé cure-dent."
     }
   },
   {
     "id": "rid_311",
-    "question": "Après avoir lavé et brossé vos cheveux, que se passe-t-il si vous les laissez en chignon dans le coin de la salle de bain sans les sécher et qu'ils sentent aigre au bout d'une journée ?",
+    "question": "Quel objet de la salle de bain sèche l’eau sur votre visage et votre corps, mais devient lui-même de plus en plus mouillé à mesure qu’il sèche ?",
     "options": [
-      "Serviette",
-      "Serviette (2)",
-      "Savon",
-      "boule de douche"
+      "Serviette de bain",
+      "Pain de savon",
+      "Brosse à dents",
+      "Miroir"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Si vous gardez la serviette humide et que vous l'emballez, l'odeur se dissipera en une journée.",
-      "wrong": "Raté ! Ding! C'est un chiffon épais que vous utilisez pour sécher votre corps après vous être lavé."
+      "correct": "Exact ! Plus une serviette vous sèche, plus elle absorbe d’eau et se mouille.",
+      "wrong": "Raté ! C’est le tissu épais qui absorbe l’eau après la douche : la serviette."
     }
   },
   {
@@ -5523,24 +5379,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! La tapette à mouches évite les moustiques et ne fait du bruit que contre le mur.",
       "wrong": "Raté ! Ding! C'est un appareil qui attrape les mouches et les moustiques avec un filet muni d'une poignée."
-    }
-  },
-  {
-    "id": "rid_314",
-    "question": "Qu'est-ce qui frappe vos tibias comme de la fonte lorsque vous marchez sur une jambe tendue ?",
-    "options": [
-      "chaise",
-      "bureau",
-      "table à manger",
-      "table à manger pliable"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Les pieds de la table pliante sont toujours dirigés vers les tibias.",
-      "wrong": "Raté ! Ding! C'est une petite table à manger avec des pieds pliables."
     }
   },
   {
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "question": "Que diriez-vous de quelque chose qui vient manifestement d'être fermé, mais qui s'ouvre à l'intérieur d'un sac, rendant toutes vos affaires collantes ?",
-    "options": [
-      "crème solaire",
-      "bouteille d'eau",
-      "baume à lèvres",
-      "Dentifrice"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "bathroom",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Glissant! Ce sentiment de désespoir lorsque vous palpez le fond de votre sac et que vous touchez le contenu glissant !",
-      "wrong": "Faux~ C'est le baume à lèvres qui fond et s'échappe du capuchon même lorsqu'il touche la chaleur de la pochette."
-    }
-  },
-  {
-    "id": "rid_335",
-    "question": "Et si vous aviez apporté quelque chose à boire alors que vous aviez soif, mais que vous vous retrouviez allongé seul dans votre sac, trempant vos affaires ?",
-    "options": [
-      "parapluie",
-      "Dette",
-      "Batterie auxiliaire",
-      "gobelet"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Éclaboussure ! Si vous croyez aux mots « complètement scellé », le coin du manuel explose à cause de l’eau.",
-      "wrong": "Raté ! Non~ Le principal coupable qui crée une mer d'eau lorsque le sac est ouvert est un gobelet mal fermé."
-    }
-  },
-  {
     "id": "rid_337",
     "question": "Que se passe-t-il lorsque vous mettez beaucoup de nourriture dans vos joues, que vous la cachez, puis que vous l'oubliez lorsque vous faites tourner la roue ?",
     "options": [
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "question": "Je l'ai définitivement apporté plein à 100 %, mais qu'en est-il de la chose qui clignote en rouge et halète toute seule le soir ?",
-    "options": [
-      "montre intelligente",
-      "souris sans fil",
-      "Batterie auxiliaire",
-      "haut-parleur Bluetooth"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Clignez des yeux, clignez des yeux ! Le gars qui est venu demander à manger a tout mangé !",
-      "wrong": "Raté ! Non, c'est la batterie auxiliaire qui ne fait qu'afficher le poids des briques dans le sac et qui se décharge ensuite."
-    }
-  },
-  {
     "id": "rid_342",
     "question": "Lorsque vous mordez avec enthousiasme dans un biscuit sucré, que se passe-t-il lorsque des miettes tombent entre vos doigts ?",
     "options": [
@@ -5757,24 +5541,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! Croustillant ! Il tombe plus de poudre sur le bureau qu’il n’en entre dans la bouche !",
       "wrong": "Faux ~ La collation qui fait fracasser le dos de maman dès qu'elle prend une bouchée est la tarte."
-    }
-  },
-  {
-    "id": "rid_343",
-    "question": "Qu'est-ce qui brille dans un endroit sombre et qui tombe sur mon visage dès que je pose mon doigt dessus ?",
-    "options": [
-      "Smartphone",
-      "Lampe de lecture",
-      "Tablette",
-      "Lampe de poche"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! palet! Des larmes que seuls ceux qui ont pris une bonne photo de l’arête de leur nez en position allongée en regardant YouTube connaîtront !",
-      "wrong": "Raté ! Non~ Au moment où je baisse ma garde, c'est le smartphone qui est tiré par la gravité et me frappe au visage."
     }
   },
   {
@@ -5811,24 +5577,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! Rondelle pleurnicharde ! Quelques précieuses mèches de cheveux ont été sacrifiées avec une odeur de brûlé !",
       "wrong": "Raté ! Non, c'est un sèche-cheveux qui vous arrache les cheveux si vous les tenez trop près de l'arrière de votre tête."
-    }
-  },
-  {
-    "id": "rid_347",
-    "question": "Que se passe-t-il lorsque vous ouvrez le couvercle et que du riz chaud en sort, mais qu'après avoir fini de manger, il ne reste plus qu'un corps vide pour se promener ?",
-    "options": [
-      "pot",
-      "plaque",
-      "Thermos",
-      "boîte à lunch"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "food",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Lorsque vous ouvrez le couvercle, il scintille, et lorsque vous avez fini de manger, vous vous sentez vide ! Le personnage principal de l'heure du déjeuner.",
-      "wrong": "Raté ! Ding! Une petite boîte transportée avec du riz s'appelle une boîte à lunch."
     }
   },
   {
@@ -6009,24 +5757,6 @@
     "kkaebi_reaction": {
       "correct": "Bonne réponse ! Ah, c'est chaud ! C'est le goût hivernal parfait à conserver dans un gobelet en papier et à souffler tout en vous brûlant la langue !",
       "wrong": "Raté ! Non ~ Si vous baissez votre garde et mordez dedans, vous serez frappé par de l'eau sucrée semblable à du magma."
-    }
-  },
-  {
-    "id": "rid_360",
-    "question": "Que se passe-t-il lorsque vous le gardez dans votre trousse, mais que le couvercle se détache et que vous en extrayez l'intérieur tout seul, en peignant l'intérieur du sac en violet ?",
-    "options": [
-      "sceau",
-      "peinture",
-      "Stylo marqueur pour ordinateur",
-      "Tampon encreur"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Éclair! Je dois marquer une carte OMR, mais la pointe du stylo a été écrasée et transformée en un pinceau épais !",
-      "wrong": "Raté ! Non, Comsa est un client régulier qui le met derrière le couvercle et le perd quelque part."
     }
   },
   {
@@ -6373,38 +6103,38 @@
   },
   {
     "id": "rid_383",
-    "question": "Que se passe-t-il lorsque vous vous amusez à dessiner quelque chose, mais qu'il se brise lorsque vous appliquez juste un peu de force ?",
+    "question": "Quel outil de dessin en bâtonnet sans gaine de bois est composé de cire, d’huile et de pigments, entouré d’une bande de papier pour garder les doigts propres et repousse l’aquarelle ?",
     "options": [
-      "crayon de couleur",
-      "crayon",
-      "Crayons",
-      "pinceau"
+      "Peinture aquarelle",
+      "Porte-mine",
+      "Pierre à encre",
+      "Pastel à l’huile (Crayon de cire)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Robinet! Les couleurs sont jolies, mais le corps est aussi faible qu'un chocolat d'été.",
-      "wrong": "Raté ! Ding! Les bâtons colorés qui se brisent avec juste un peu de force sont des crayons de couleur."
+      "correct": "Exact ! Grâce à la cire et à l’huile, le pastel repousse l’eau de l’aquarelle.",
+      "wrong": "Raté ! Le bâtonnet coloré à base de cire et d’huile est le pastel à l’huile."
     }
   },
   {
     "id": "rid_384",
-    "question": "Qu'est-ce qui se cache toujours sous le canapé quand je le cherche, et qui est déjà dans la main de mon frère quand je ne le cherche pas ?",
+    "question": "Quel appareil sans fil rempli de touches numériques et fléchées permet d’allumer le téléviseur ou le climatiseur et de changer de chaîne sans bouger du canapé ?",
     "options": [
-      "Lunettes",
-      "écouteurs",
-      "Chargeur",
-      "télécommande"
+      "Calculatrice",
+      "Téléphone fixe filaire",
+      "Réveil de table",
+      "Télécommande"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Ding dong ! Sous le canapé se trouve une cachette secrète où vivent les télécommandes.",
-      "wrong": "Raté ! Ding! La télécommande est partout lorsque vous ne la regardez pas et ne disparaît que lorsque vous en avez besoin."
+      "correct": "Exact ! La télécommande envoie un signal infrarouge pour piloter vos appareils à distance.",
+      "wrong": "Raté ! L’appareil à boutons qui pilote la télé de loin est la télécommande."
     }
   },
   {
@@ -9001,20 +8731,20 @@
   },
   {
     "id": "rid_916",
-    "question": "Il y avait des pommes accrochées à l’arbre, mais après les avoir cueillies, il n’y avait plus de pommes sur l’arbre ni dans ma main. Comment est-ce arrivé?",
+    "question": "Dix bougies brûlaient dans une pièce quand le vent en a éteint trois. La fenêtre refermée aussitôt, combien de bougies restent le lendemain matin ?",
     "options": [
-      "Il y avait 2 pommes, donc je n'en ai choisi qu'une",
-      "J'ai tout mangé dès que je l'ai cueilli",
-      "J'ai laissé tomber la pomme par terre",
-      "Quelqu'un d'autre l'a arraché"
+      "Les 3 bougies éteintes (les 7 autres ont fondu)",
+      "Les 7 bougies restées allumées",
+      "Les 10 bougies restent intactes",
+      "0 bougie (toutes ont fondu)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! ha ha ha ! Choisir un seul des deux ne rend pas le pluriel !",
-      "wrong": "Raté ! Ding! Il y avait deux pommes, mais je n’en ai cueilli qu’une !"
+      "correct": "Bonne réponse ! Seules les 3 bougies éteintes ne fondent pas !",
+      "wrong": "Raté ! Les 7 bougies allumées se consument entièrement !"
     }
   },
   {
@@ -9325,20 +9055,20 @@
   },
   {
     "id": "rid_934",
-    "question": "Lorsque vous achetez quelque chose, la personne qui le fabrique le vend parce qu'elle n'en a pas besoin, la personne qui l'achète ne l'utilise pas et la personne qui l'utilise réellement ne sait pas qu'elle l'utilise. Et cet article ?",
+    "question": "Un menuisier fabrique ce coffre en bois mais pas pour lui, l’acheteur ne l’utilise pas pour lui, et celui qui y repose ne le voit jamais de son vivant. Qu’est-ce ?",
     "options": [
-      "masque de sommeil",
-      "couche pour bébé",
-      "cercueil()",
-      "papier d’emballage cadeau"
+      "Boîte à bijoux",
+      "Berceau",
+      "Cercueil",
+      "Armoire"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Héhé ! Celui qui a fabriqué le cercueil l'a vendu, celui qui l'a acheté ne l'a pas porté, et celui qui est décédé ne le savait pas !",
-      "wrong": "Raté ! Ding! Cet objet est un cercueil !"
+      "correct": "Bonne réponse ! Le cercueil !",
+      "wrong": "Raté ! C’est un cercueil !"
     }
   },
   {
@@ -9577,20 +9307,20 @@
   },
   {
     "id": "rid_948",
-    "question": "Une pièce fermée est remplie d’air. Quel est le moyen le plus rapide d’évacuer l’air de cette pièce ?",
+    "question": "Sans pompe ni machine, quel est le moyen le plus sûr de chasser tout l’air d’une bouteille en verre vide ?",
     "options": [
-      "Remplissez la pièce d'eau ou de meubles",
-      "Aspiration avec pompe à vide",
-      "Faites fonctionner le grand ventilateur au maximum",
-      "Ouvrez grand la fenêtre"
+      "Remplir entièrement la bouteille d’eau",
+      "Secouer fortement la bouteille",
+      "Souffler dans le goulot",
+      "Placer la bouteille à l’ombre"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! ha ha ha ! Si vous le remplissez d'eau ou de meubles, l'air sera expulsé !",
-      "wrong": "Raté ! Oups ! Si vous remplissez l’espace, l’air s’échappera le plus rapidement !"
+      "correct": "Bonne réponse ! L’eau chasse tout l’air de la bouteille !",
+      "wrong": "Raté ! En la remplissant d’eau, l’air est expulsé !"
     }
   },
   {
@@ -9721,20 +9451,20 @@
   },
   {
     "id": "rid_956",
-    "question": "Un pneu sur quatre d’une voiture circulant sur l’autoroute est crevé. Cependant, le conducteur est arrivé à destination à vitesse normale sans aucun problème. Comment cela a-t-il été possible ?",
+    "question": "L’un des pneus transportés par une voiture sur l’autoroute a complètement crevé, mais le conducteur est arrivé à vitesse normale sans changer de roue. Comment ?",
     "options": [
-      "La roue de secours dans le coffre est tombée à plat",
-      "Parce qu'il s'agit d'un pneu runflat (spécial pare-balles)",
-      "Courir en équilibre sur trois roues",
-      "Accrochez-vous à la dépanneuse et partez"
+      "C’est la roue de secours dans le coffre qui était crevée",
+      "Il a roulé en équilibre sur trois roues",
+      "Un pneu dégonflé va plus vite",
+      "L’autoroute était une patinoire"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! ha ha ha ! La roue de secours était à plat !",
-      "wrong": "Raté ! Huer! C'est une pièce de rechange pour le coffre, pas une roue motrice !"
+      "correct": "Bonne réponse ! Seule la roue de secours dans le coffre était à plat !",
+      "wrong": "Raté ! Les quatre roues motrices étaient intactes !"
     }
   },
   {
@@ -9937,56 +9667,56 @@
   },
   {
     "id": "rid_968",
-    "question": "J'ai placé une lourde balle de fer et une légère balle de ping-pong sur la glace et j'ai soufflé fort avec ma bouche. En supposant que le frottement soit égal à 0, lequel roule le plus loin ?",
+    "question": "Dans le vide spatial sans frottement ni résistance de l’air, une bille d’acier et une balle de ping-pong sont lancées à 5 m/s. Laquelle va le plus loin ?",
     "options": [
-      "Tous deux roulent éternellement sans s'arrêter",
-      "boule de fer",
-      "balle de ping-pong",
-      "Bille d'acier due à la résistance de l'air"
+      "Les deux avancent éternellement à la même vitesse sans s’arrêter",
+      "La lourde bille d’acier va plus loin",
+      "La balle de ping-pong s’arrête en premier",
+      "Les deux s’arrêtent après 5 mètres"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! haha! Si le frottement est nul, les deux rouleront pour toujours !",
-      "wrong": "Raté ! Huer! Tous deux continuent sans s'arrêter à cause de l'inertie !"
+      "correct": "Bonne réponse ! Par inertie, les deux continuent indéfiniment !",
+      "wrong": "Raté ! Dans le vide sans frottement, aucune ne s’arrête !"
     }
   },
   {
     "id": "rid_969",
-    "question": "Au baseball, comment un frappeur peut-il atteindre le premier but même s'il est immobile sans frapper la balle ?",
+    "question": "Au baseball, le frappeur est resté immobile sans jamais élancer son bâton, mais l’arbitre lui a accordé le premier but. Quelle règle s’applique ?",
     "options": [
-      "Lorsque le receveur renvoie le ballon (pas dehors)",
-      "Balles qui frappent le corps (balles mortes) ou marchent (quatre balles)",
-      "Lorsqu'un lanceur commet une rebuffade",
-      "Lorsqu'une décision est prise d'interférer avec la frappe"
+      "Retrait sur chandelle fausse",
+      "Frappé par un lancer ou But sur balles (4 balles)",
+      "Règle du ballon d’avant-champ",
+      "Retrait sur troisième amorti"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Haha ! Si c’est une marche ou un lancer qui heurte votre corps, vous êtes sur la base !",
-      "wrong": "Raté ! ahah ! Même si vous ne frappez pas, vous arrivez au premier but avec un but sur balles ou une balle morte !"
+      "correct": "Bonne réponse ! Un but sur balles ou un lancer frappé !",
+      "wrong": "Raté ! Quatre balles ou un lancer sur le joueur donnent le premier but !"
     }
   },
   {
     "id": "rid_970",
-    "question": "Un pommier poussait sur le toit de la maison de Cheolsu, étendant ses branches vers le jardin du voisin et produisant des pommes. À qui appartient légalement cette pomme ?",
+    "question": "Une branche de rosier rouge est greffée sur la tige d’un rosier jaune. De quelle couleur seront les roses qui pousseront sur cette branche greffée ?",
     "options": [
-      "La pomme tombée est la maison de mon voisin et la pomme suspendue est celle de Cheolsu",
-      "Puisqu'il est passé sur une branche d'arbre, c'est celui de mon voisin",
-      "Cheolsu avec des racines de pommier plantées",
-      "Celui qui le ramasse en premier"
+      "Roses (mélange des deux)",
+      "Jaunes (selon les racines)",
+      "Rouges (selon la génétique du greffon)",
+      "Blanches (perte de pigment)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Héhéhé ! La pomme de Cheolsu a des racines !",
-      "wrong": "Raté ! Ding! Légalement, vous êtes propriétaire du bois !"
+      "correct": "Bonne réponse ! Le greffon garde ses gènes et fleurit rouge !",
+      "wrong": "Raté ! La fleur suit la génétique de la branche greffée !"
     }
   },
   {
@@ -10063,20 +9793,20 @@
   },
   {
     "id": "rid_975",
-    "question": "Je marchais dans une rue sombre la nuit, mais il n'y avait pas d'éclairage public et la lune n'était pas levée. Mais pourquoi la personne qui nous précédait n’a-t-elle pas trébuché sur le rocher et n’est-elle pas tombée ?",
+    "question": "Tous les lampadaires étaient éteints et il n’y avait ni lune ni étoiles. Pourtant, un passant a clairement vu une pierre sans lampe de poche. Comment ?",
     "options": [
-      "Utilisation de lunettes de vision nocturne infrarouge",
-      "Parce que j'ai passé cette route pendant la journée",
-      "Marcher avec une canne pour les malvoyants",
-      "Allumez la lampe de poche de votre smartphone et marchez"
+      "Ses yeux lançaient des lasers",
+      "La pierre a fait du bruit",
+      "Il courait les yeux fermés",
+      "Ce n’était pas la nuit, mais en plein jour"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Héhé ! J'ai marché avec la lampe torche de mon smartphone allumée !",
-      "wrong": "Raté ! ahah ! Je suis allé éclairer le chemin avec une lampe de poche !"
+      "correct": "Bonne réponse ! C’était en plein jour sous le soleil !",
+      "wrong": "Raté ! En plein jour, pas besoin de lampadaires ni de lune !"
     }
   },
   {
@@ -10171,20 +9901,20 @@
   },
   {
     "id": "rid_981",
-    "question": "Un homme est monté à bord d'un ferry pour traverser une rivière. Il n'y avait aucun passager sur le bateau à l'exception du batelier, et le bateau a coulé au milieu de la rivière. Pourquoi?",
+    "question": "Un pilote est monté seul à bord d’un navire robuste, sans trou, sans heurter de récif et sans lourde cargaison, mais dès le départ il s’est enfoncé sous l’eau. Pourquoi ?",
     "options": [
-      "Il y a un trou dans le sol",
-      "Parce que le bateau était plein de lourds bagages",
-      "Frapper le récif au fond de la rivière",
-      "Parce que le batelier pèse 500kg"
+      "Le pilote était très âgé",
+      "Parce que c’était un sous-marin conçu pour plonger",
+      "L’eau était trop froide",
+      "Il a ramé à l’envers"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Haha ! Il a coulé avec une lourde charge !",
-      "wrong": "Raté ! ahah ! Même s’il n’y avait pas de passagers, il y avait trop de fret !"
+      "correct": "Bonne réponse ! C’était un sous-marin !",
+      "wrong": "Raté ! Un sous-marin est fait pour naviguer sous l’eau !"
     }
   },
   {
@@ -10387,20 +10117,20 @@
   },
   {
     "id": "rid_993",
-    "question": "Un homme s'est perdu dans une montagne enneigée lors d'un blizzard. Même si j’avais un smartphone à la main, pourquoi ne pouvais-je pas appeler le 119 pour les secours ?",
+    "question": "Un randonneur perdu en montagne avait un smartphone chargé à 100 %, en parfait état et à l’écran tactile fonctionnel, mais il n’a pas pu appeler les secours. Pourquoi ?",
     "options": [
-      "Parce que la batterie est déchargée",
-      "Parce qu'il s'agit d'une zone d'ombre de communication où les ondes radio des stations de base n'atteignent pas",
-      "Je ne peux pas y toucher parce que je porte des gants",
-      "J'ai oublié mon mot de passe d'appel d'urgence"
+      "La coque était noire",
+      "Il se trouvait dans une zone blanche sans réseau mobile",
+      "L’air était trop pur",
+      "Le téléphone était trop léger"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Haha ! Parce qu’il s’agit d’une zone d’ombre de communication, les ondes radio ne peuvent pas atteindre !",
-      "wrong": "Raté ! ahah ! Vous ne pouvez pas recevoir de signal de la station de base en montagne !"
+      "correct": "Bonne réponse ! Même chargé à 100 %, sans réseau aucun appel ne passe !",
+      "wrong": "Raté ! Il était hors de portée des antennes-relais !"
     }
   },
   {
@@ -10477,20 +10207,20 @@
   },
   {
     "id": "rid_998",
-    "question": "Qu'est-ce qui flotte sur l'eau : une balle de baseball ou une balle de tennis ?",
+    "question": "Une boule de bowling de 7 kg et une balle de tennis creuse sont plongées dans l’eau profonde. Laquelle flotte à la surface ?",
     "options": [
-      "les deux flottent",
-      "balle de baseball",
-      "balle creuse en caoutchouc",
-      "les deux coulent"
+      "Les deux flottent",
+      "Seule la boule de bowling flotte",
+      "Seule la balle de tennis creuse flotte",
+      "Les deux coulent au fond"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Héhé ! Une balle creuse en caoutchouc (tennis) flotte sur l'eau !",
-      "wrong": "Raté ! Huer! Les balles de baseball coulent, les balles de tennis flottent !"
+      "correct": "Bonne réponse ! La balle de tennis creuse flotte sur l’eau !",
+      "wrong": "Raté ! La boule de 7 kg coule tandis que la balle de tennis flotte !"
     }
   },
   {
@@ -10693,20 +10423,20 @@
   },
   {
     "id": "rid_1010",
-    "question": "Trois personnes sont assises dans une pièce et discutent. Mais la personne qui a ouvert la porte de l’extérieur a dit : « Il n’y a que deux personnes dans la pièce ? Comment est-ce arrivé?",
+    "question": "Un jour de pluie, le père, la mère et leur fils ont marché sous un seul petit parapluie sans qu’aucun des trois ne soit mouillé. Comment est-ce possible ?",
     "options": [
-      "Il y a une personne cachée dans le placard",
-      "Parce qu'une personne est invisible",
-      "Parce qu'une personne est un nouveau-né",
-      "Parce qu'une personne est une ombre reflétée dans un miroir"
+      "Ils couraient plus vite que la pluie",
+      "Le fils était encore dans le ventre de sa mère",
+      "Le parapluie avait un bouclier invisible",
+      "Le vent soufflait vers le haut"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Bonne réponse ! Héhéhé ! Je les ai vus comme deux personnes car l’un d’eux était un nouveau-né !",
-      "wrong": "Raté ! Huer! Il y a trois personnes dont le bébé, mais seuls les adultes sont comptés !"
+      "correct": "Bonne réponse ! La mère était enceinte, seuls deux adultes marchaient sous le parapluie !",
+      "wrong": "Raté ! Le fils était encore dans le ventre de sa mère !"
     }
   },
   {

@@ -4554,24 +4554,6 @@
     }
   },
   {
-    "id": "rid_260",
-    "question": "¿Qué utensilio para lavar platos mantendrá el polvo de pimiento rojo pegado a mi cuerpo y nunca lo escupirá?",
-    "options": [
-      "Paño de cocina",
-      "Depurador",
-      "Esponja",
-      "Pincel"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! El bizcocho no quita el color de la sopa de kimchi.",
-      "wrong": "¡Error! ¡Timbre! Es una herramienta espumosa para limpiar platos."
-    }
-  },
-  {
     "id": "rid_261",
     "question": "¿Qué es eso que se calla antes de que hierva el agua, pero grita a todo el barrio cuando hierve?",
     "options": [
@@ -4896,24 +4878,6 @@
     }
   },
   {
-    "id": "rid_279",
-    "question": "¿Qué sucede cuando te saltas un stop y lo presionas tarde, lo que hace que todos los autos giren?",
-    "options": [
-      "Baja del timbre",
-      "botón",
-      "Anuncio",
-      "manejar"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Si tocas el timbre de salida tarde, sonará más fuerte.",
-      "wrong": "¡Error! ¡Timbre! Es el timbre que presionas al bajar."
-    }
-  },
-  {
     "id": "rid_280",
     "question": "¿Qué es algo que es tan delgado y puntiagudo que si lo presionas con un poco de fuerza te rompe la espalda?",
     "options": [
@@ -5004,24 +4968,6 @@
     }
   },
   {
-    "id": "rid_285",
-    "question": "Se pega bien cuando lo pegas en la espalda de un amigo, pero ¿qué pasa si el rango de prueba escrito se lo lleva el viento?",
-    "options": [
-      "Bloc de notas",
-      "pegatina",
-      "Post-it",
-      "papel"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Sólo los post-it importantes se van volando.",
-      "wrong": "¡Error! ¡Timbre! Es una pequeña nota que puedes pegar y despegar."
-    }
-  },
-  {
     "id": "rid_286",
     "question": "¿Qué pasa cuando finges atar tu cabello, pero se rompe en un momento crítico?",
     "options": [
@@ -5055,60 +5001,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Respuesta correcta! Si sacas rápidamente los pañuelos mojados, saldrán en fila.",
       "wrong": "¡Error! ¡Timbre! Es un pañuelo empapado en agua."
-    }
-  },
-  {
-    "id": "rid_288",
-    "question": "¿Qué tal rociar secretamente agua fría en la espalda de tu amigo durante el tiempo de limpieza?",
-    "options": [
-      "regadera",
-      "pulverizador",
-      "pistola de agua",
-      "manguera"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! El pulverizador siempre rocía agua en el lugar equivocado.",
-      "wrong": "¡Error! ¡Timbre! Es una herramienta que arroja agua como niebla."
-    }
-  },
-  {
-    "id": "rid_289",
-    "question": "¿Qué atrae la atención de toda la clase al hacer un sonido de \"chirrido\" durante un tiempo tranquilo de autoestudio?",
-    "options": [
-      "botón",
-      "cremallera",
-      "Chirrido",
-      "Cadena"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Squeak siempre emite un sonido cuando está en silencio.",
-      "wrong": "¡Error! ¡Timbre! Es velcro que se pone y se quita."
-    }
-  },
-  {
-    "id": "rid_290",
-    "question": "¿Qué es algo que es suave cuando te sientas, pero que se cae y te atrapa el tobillo cuando te levantas?",
-    "options": [
-      "Mate",
-      "cojín",
-      "almohada",
-      "Cojín"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! El cojín cae a tus pies cuando te levantas.",
-      "wrong": "¡Error! ¡Timbre! Es un asiento suave en una silla."
     }
   },
   {
@@ -5199,24 +5091,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Respuesta correcta! Una vez que una pelota de ping pong se abolla, se acabó.",
       "wrong": "¡Error! ¡Timbre! Es una pequeña pelota que rebota sobre una mesa de ping pong."
-    }
-  },
-  {
-    "id": "rid_296",
-    "question": "¿Qué atrae todo el polvo del mundo con electricidad estática cuando intentas desempolvarlo?",
-    "options": [
-      "peine",
-      "cepillo de ropa",
-      "cepillo",
-      "Plumero"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Cuanto más cepillas un cepillo para ropa, más polvo acumula.",
-      "wrong": "¡Error! ¡Timbre! Es un cepillo que quita el polvo de la ropa."
     }
   },
   {
@@ -5436,30 +5310,12 @@
     }
   },
   {
-    "id": "rid_309",
-    "question": "¿Qué pretende unir unos cuantos imprimibles, pero luego se enreda como una cadena en tu estuche?",
-    "options": [
-      "grapadora",
-      "Chincheta",
-      "clip",
-      "pinzas"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Todos los clips están enredados.",
-      "wrong": "¡Error! ¡Timbre! Es una herramienta para recoger y atar papel."
-    }
-  },
-  {
     "id": "rid_310",
-    "question": "¿Cómo es sacarse sin piedad hojuelas de pimiento rojo entre los dientes en un restaurante?",
+    "question": "¿Qué pequeño bastoncillo delgado y puntiagudo de madera o almidón se usa después de comer para quitar restos entre los dientes o pinchar trozos de fruta?",
     "options": [
-      "hilo dental",
-      "Palillos",
-      "Horquilla",
+      "Hisopo de algodón",
+      "Cerilla",
+      "Pajita",
       "Palillo de dientes"
     ],
     "answer_index": 3,
@@ -5467,26 +5323,26 @@
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Los palillos encuentran todos los restos escondidos.",
-      "wrong": "¡Error! ¡Timbre! Es un palo que se pega entre los dientes."
+      "correct": "¡Correcto! El palillo de dientes puntiagudo limpia entre los dientes o pincha aperitivos.",
+      "wrong": "¡No! Es el pequeño bastoncillo puntiagudo llamado palillo de dientes."
     }
   },
   {
     "id": "rid_311",
-    "question": "Después de lavarte y cepillarte el cabello, ¿qué pasa si lo dejas en un manojo en un rincón del baño sin secarlo y huele amargo al cabo de un día?",
+    "question": "¿Qué objeto del baño seca el agua de tu cara y tu cuerpo, pero cuanto más seca más mojado se vuelve él mismo?",
     "options": [
       "Toalla",
-      "Toalla (2)",
-      "Jabón",
-      "bola de ducha"
+      "Pastilla de jabón",
+      "Cepillo de dientes",
+      "Espejo"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Si mantienes la toalla mojada y la envuelves, el olor se disipará en un día.",
-      "wrong": "¡Error! ¡Timbre! Es un paño grueso que se utiliza para secar el cuerpo después de lavarse."
+      "correct": "¡Correcto! Cuanto más seca una toalla, más agua absorbe y más se moja.",
+      "wrong": "¡No! Es la tela suave que absorbe el agua al salir de bañarse: la toalla."
     }
   },
   {
@@ -5523,24 +5379,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Respuesta correcta! El matamoscas evita los mosquitos y sólo hace ruido contra la pared.",
       "wrong": "¡Error! ¡Timbre! Es un dispositivo que atrapa moscas y mosquitos con una red con mango."
-    }
-  },
-  {
-    "id": "rid_314",
-    "question": "¿Qué es lo que te golpea las espinillas como si fueran hierro fundido cuando pisas una pierna extendida?",
-    "options": [
-      "silla",
-      "escritorio",
-      "mesa de comedor",
-      "mesa de comedor plegable"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Respuesta correcta! Las patas de la mesa plegable siempre apuntan a las espinillas.",
-      "wrong": "¡Error! ¡Timbre! Es una pequeña mesa de comedor con patas plegables."
     }
   },
   {
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "question": "¿Qué pasa con algo que obviamente acaba de cerrarse, pero se abre dentro de una bolsa, dejando todas tus pertenencias pegajosas?",
-    "options": [
-      "protector solar",
-      "botella de agua",
-      "bálsamo labial",
-      "Pasta de dientes"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "bathroom",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Resbaladizo! ¡Ese sentimiento de desesperación cuando palpas el fondo de tu bolso y tocas el contenido resbaladizo!",
-      "wrong": "¡Error! Incorrecto ~ Es el bálsamo labial el que se derrite y se escapa de la tapa incluso cuando toca el calor del bolsillo."
-    }
-  },
-  {
-    "id": "rid_335",
-    "question": "¿Qué pasaría si trajeras algo de beber cuando tuvieras sed, pero terminaras tirado solo en tu bolso, empapando tus pertenencias?",
-    "options": [
-      "paraguas",
-      "Deuda",
-      "Batería auxiliar",
-      "vaso"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Salpica! Si crees en las palabras \"completamente sellado\", la esquina del libro de texto explota debido al agua.",
-      "wrong": "¡Error! No~ El principal culpable que crea un mar de agua cuando se abre la bolsa es un vaso mal cerrado."
-    }
-  },
-  {
     "id": "rid_337",
     "question": "¿Qué sucede cuando pones mucha comida en las bolsas de tus mejillas, la escondes y luego te olvidas cuando haces girar la rueda?",
     "options": [
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "question": "Definitivamente lo traje 100% lleno, pero ¿qué pasa con esa cosa que parpadea en rojo y jadea sola por la noche?",
-    "options": [
-      "reloj inteligente",
-      "ratón inalámbrico",
-      "Batería auxiliar",
-      "altavoz bluetooth"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Parpadea, parpadea! ¡El tipo que salió a pedir comida se la comió toda!",
-      "wrong": "¡Error! No, es la batería auxiliar que simplemente muestra el peso de los ladrillos en la bolsa y luego se descarga."
-    }
-  },
-  {
     "id": "rid_342",
     "question": "Cuando muerdes con entusiasmo una galleta dulce, ¿qué sucede cuando llueven migajas entre tus dedos?",
     "options": [
@@ -5757,24 +5541,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Crujiente! ¡Cae más polvo sobre el escritorio del que entra en la boca!",
       "wrong": "¡Error! Incorrecto ~ El bocadillo que hace que a mamá se le rompa la espalda tan pronto como lo muerde es el pastel."
-    }
-  },
-  {
-    "id": "rid_343",
-    "question": "¿Qué brilla intensamente en un lugar oscuro y cae sobre mi cara en el momento en que coloco el dedo sobre él?",
-    "options": [
-      "Teléfono inteligente",
-      "Luz de lectura",
-      "Tableta",
-      "Linterna"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡disco! ¡Lágrimas que sólo sabrán aquellos que se han hecho una buena foto del puente de la nariz estando tumbados viendo YouTube!",
-      "wrong": "¡Error! No ~ En el momento en que bajo la guardia, es el teléfono inteligente el que es atraído por la gravedad y me golpea en la cara."
     }
   },
   {
@@ -5811,24 +5577,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Disco quejumbroso! ¡Se sacrificaron algunos preciosos mechones de cabello junto con el olor a quemado!",
       "wrong": "¡Error! No, es un secador que te arranca el cabello si lo acercas demasiado a la nuca."
-    }
-  },
-  {
-    "id": "rid_347",
-    "question": "¿Qué pasa cuando abres la tapa y sale arroz caliente, pero después de terminar de comer, solo queda un cuerpo vacío para caminar?",
-    "options": [
-      "olla",
-      "plato",
-      "Termo",
-      "lonchera"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "food",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! Cuando abres la tapa, brilla y cuando terminas de comer, ¡te sientes vacío! El protagonista principal de la hora del almuerzo.",
-      "wrong": "¡Error! ¡Timbre! Una pequeña caja que lleva arroz se llama lonchera."
     }
   },
   {
@@ -6009,24 +5757,6 @@
     "kkaebi_reaction": {
       "correct": "¡Correcto! ¡Oh, hace calor! ¡Es el sabor invernal perfecto para guardar en un vaso de papel y soplar mientras te quemas la lengua!",
       "wrong": "¡Error! No ~ Si bajas la guardia y lo muerdes, te golpeará con agua azucarada similar al magma."
-    }
-  },
-  {
-    "id": "rid_360",
-    "question": "¿Qué pasa cuando lo guardas en tu estuche, pero la tapa se suelta y tú mismo exprimes el interior, pintando el interior de la bolsa de color morado?",
-    "options": [
-      "sello",
-      "pintar",
-      "Rotulador para ordenador",
-      "Almohadilla para sellos"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Destello! Necesito marcar una tarjeta OMR, ¡pero la punta del lápiz se aplastó y se convirtió en un pincel grueso!",
-      "wrong": "¡Error! No, un cliente habitual que se lo mete detrás de la tapa y lo pierde en algún lado es Comsa."
     }
   },
   {
@@ -6373,38 +6103,38 @@
   },
   {
     "id": "rid_383",
-    "question": "¿Qué sucede cuando te diviertes dibujando algo, pero se rompe cuando aplicas un poco de fuerza?",
+    "question": "¿Qué herramienta artística en barra, sin cubierta de madera, está hecha de cera, aceite y pigmento, lleva una faja de papel para no manchar los dedos y repele la acuarela?",
     "options": [
-      "lápiz de color",
-      "lápiz",
-      "Crayones",
-      "cepillo"
+      "Pintura de acuarela",
+      "Portaminas",
+      "Tintero y tinta",
+      "Pastel al óleo (Crayón)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Grifo! Los colores son bonitos, pero el cuerpo es tan débil como el chocolate de verano.",
-      "wrong": "¡Error! ¡Timbre! Los palitos de colores que se rompen con un poco de fuerza son crayones."
+      "correct": "¡Correcto! Los pasteles al óleo y crayones repelen el agua al pintar con acuarela encima.",
+      "wrong": "¡No! La barra de cera y aceite envuelta en papel es el pastel al óleo (crayón)."
     }
   },
   {
     "id": "rid_384",
-    "question": "¿Qué se esconde siempre debajo del sofá cuando lo busco y ya está en la mano de mi hermano cuando no miro?",
+    "question": "¿Qué dispositivo inalámbrico lleno de botones numéricos y de flechas permite encender el televisor o el aire acondicionado y cambiar el canal desde el sofá?",
     "options": [
-      "Gafas",
-      "auriculares",
-      "Cargador",
-      "control remoto"
+      "Calculadora",
+      "Teléfono fijo con cable",
+      "Reloj despertador",
+      "Control remoto (Mando a distancia)"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Ding dong! Debajo del sofá hay un escondite secreto donde se encuentran los controles remotos.",
-      "wrong": "¡Error! ¡Timbre! El control remoto está en todas partes cuando no lo estás mirando y desaparece sólo cuando lo necesitas."
+      "correct": "¡Correcto! El control remoto envía señales infrarrojas para manejar aparatos a distancia.",
+      "wrong": "¡No! El dispositivo con botones para manejar el televisor desde lejos es el control remoto."
     }
   },
   {
@@ -9001,20 +8731,20 @@
   },
   {
     "id": "rid_916",
-    "question": "Había manzanas colgadas del árbol, pero después de que las recogí, no había manzanas en el árbol ni en mi mano. ¿Cómo ha ocurrido?",
+    "question": "Diez velas ardían en una sala cuando el viento apagó tres. Si se cerró la ventana de inmediato, ¿cuántas velas quedan a la mañana siguiente?",
     "options": [
-      "Había 2 manzanas, así que solo escogí 1",
-      "Me lo comí todo tan pronto como lo recogí",
-      "Se me cayó la manzana al suelo",
-      "Alguien más se lo arrebató"
+      "Las 3 velas apagadas (las otras 7 se consumieron)",
+      "Las 7 velas que siguieron ardiendo",
+      "Las 10 velas quedan intactas",
+      "0 velas (todas se derritieron)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ja ja ja! ¡Escoger sólo uno de los dos no lo convierte en plural!",
-      "wrong": "¡Error! ¡Timbre! ¡Había dos manzanas, pero solo escogí una!"
+      "correct": "¡Correcto! ¡Solo las 3 velas apagadas no se derriten!",
+      "wrong": "¡Error! ¡Las 7 que siguieron encendidas se consumieron!"
     }
   },
   {
@@ -9325,20 +9055,20 @@
   },
   {
     "id": "rid_934",
-    "question": "Cuando compras algo, la persona que lo fabrica lo vende porque no lo necesita, la persona que lo compra no lo usa y la persona que realmente lo usa no sabe que lo está usando. ¿Qué pasa con este artículo?",
+    "question": "Un carpintero fabrica esta caja de madera pero no para sí, quien la compra no la usa para sí, y quien descansa dentro jamás la ve en vida. ¿Qué es?",
     "options": [
-      "antifaz para dormir",
-      "pañal de bebé",
-      "ataúd()",
-      "papel de regalo"
+      "Joyero",
+      "Cuna de bebé",
+      "Ataúd",
+      "Armario"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Jeje! ¡La persona que hizo el ataúd lo vendió, la persona que lo compró no lo usó y la persona que murió no lo sabía!",
-      "wrong": "¡Error! ¡Timbre! ¡Ese objeto es un ataúd!"
+      "correct": "¡Correcto! ¡El ataúd!",
+      "wrong": "¡Error! ¡Es el ataúd!"
     }
   },
   {
@@ -9577,20 +9307,20 @@
   },
   {
     "id": "rid_948",
-    "question": "Una habitación cerrada se llena de aire. ¿Cuál es la forma más rápida de eliminar el aire de esta habitación?",
+    "question": "Sin usar bombas ni máquinas, ¿cuál es la forma más segura de expulsar todo el aire de una botella de vidrio vacía?",
     "options": [
-      "Llena la habitación con agua o muebles",
-      "Aspiración con bomba de vacío",
-      "Opere el ventilador grande al máximo",
-      "Abre la ventana de par en par"
+      "Llenar la botella completamente con agua",
+      "Agitar la botella con la mano",
+      "Soplar dentro de la botella",
+      "Dejar la botella a la sombra"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ja ja ja! Si lo llenas con agua o muebles, ¡el aire saldrá!",
-      "wrong": "¡Error! ¡Ups! ¡Si llenas el espacio, el aire escapará más rápido!"
+      "correct": "¡Correcto! ¡Al llenarla de agua el aire es desplazado!",
+      "wrong": "¡Error! ¡Llenarla de agua empuja el aire hacia afuera!"
     }
   },
   {
@@ -9721,20 +9451,20 @@
   },
   {
     "id": "rid_956",
-    "question": "Uno de cada cuatro neumáticos de un coche que circula por la carretera está pinchado. Sin embargo, el conductor llegó a su destino a velocidad normal sin problemas. ¿Cómo fue esto posible?",
+    "question": "Uno de los neumáticos que llevaba un coche en la autopista se pinchó por completo, pero el conductor llegó a velocidad normal sin cambiarlo. ¿Cómo?",
     "options": [
-      "La rueda de repuesto del maletero se pinchó",
-      "Porque es un neumático antipinchazo (especial a prueba de balas)",
-      "Correr en equilibrio sobre tres ruedas",
-      "Agárrate a la grúa y listo"
+      "La rueda de repuesto en el maletero fue la que se pinchó",
+      "Condujo haciendo equilibrio sobre tres ruedas",
+      "Sin aire el coche corre más rápido",
+      "La autopista era una pista de hielo"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ja ja ja! ¡La rueda de repuesto estaba pinchada!",
-      "wrong": "¡Error! ¡Abucheo! ¡Es un repuesto de baúl, no una rueda motriz!"
+      "correct": "¡Correcto! ¡El neumático pinchado era el de repuesto en el maletero!",
+      "wrong": "¡Error! ¡Las cuatro ruedas en uso estaban intactas!"
     }
   },
   {
@@ -9937,56 +9667,56 @@
   },
   {
     "id": "rid_968",
-    "question": "Coloqué una pesada bola de hierro y una ligera de ping pong sobre el hielo y soplé fuerte con la boca. Suponiendo que la fricción es 0, ¿cuál rueda más lejos?",
+    "question": "En el vacío espacial sin fricción ni resistencia del aire, una bola de acero y una de ping-pong se impulsan a 5 m/s. ¿Cuál llega más lejos?",
     "options": [
-      "Ambos ruedan eternamente sin parar",
-      "bola de hierro",
-      "pelota de ping pong",
-      "Bola de acero debido a la resistencia del aire"
+      "Ambas viajan para siempre a la misma velocidad sin detenerse",
+      "La pesada bola de acero llega más lejos",
+      "La bola de ping-pong se detiene primero",
+      "Ambas se detienen a los 5 metros"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡ja ja! Si la fricción es 0, ¡ambos rodarán para siempre!",
-      "wrong": "¡Error! ¡Abucheo! ¡Ambos continúan sin parar por inercia!"
+      "correct": "¡Correcto! ¡Sin resistencia, ambas siguen por inércia para siempre!",
+      "wrong": "¡Error! ¡En el vacío ambas continúan sin detenerse!"
     }
   },
   {
     "id": "rid_969",
-    "question": "En el béisbol, ¿cómo puede un bateador llegar a la primera base aunque esté parado sin golpear la pelota?",
+    "question": "En el béisbol, el bateador no abanicó ni una vez, pero el árbitro le concedió la primera base. ¿Qué regla se aplica en este caso?",
     "options": [
-      "Cuando el receptor lanza la pelota hacia atrás (no hacia afuera)",
-      "Bolas que golpean el cuerpo (bolas muertas) o caminan (Cuatro bolas)",
-      "Cuando un lanzador comete un obstáculo",
-      "Cuando se toma la decisión de interferir con el golpe"
+      "Out por elevado de foul",
+      "Golpeado por lanzamiento o Base por bolas (4 bolas)",
+      "Regla de infield fly",
+      "Out por tercer toque de foul"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Ja ja! Si es una base por bolas o un lanzamiento que golpea tu cuerpo, ¡estás en base!",
-      "wrong": "¡Error! ¡ajá! ¡Incluso si no bateas, llegas a la primera base con una base por bolas o una bola muerta!"
+      "correct": "¡Correcto! ¡Base por bolas o golpeado por el lanzamiento!",
+      "wrong": "¡Error! ¡Con cuatro bolas o pelotazo avanzas a primera base!"
     }
   },
   {
     "id": "rid_970",
-    "question": "Un manzano crecía en el techo de la casa de Cheolsu, extendía ramas hacia el jardín del vecino y producía manzanas. ¿A quién pertenece legalmente esta manzana?",
+    "question": "Se injerta una rama de rosal rojo en el tallo de un rosal amarillo. ¿De qué color serán las rosas que broten de esa rama injertada?",
     "options": [
-      "La manzana caída es la casa de mi vecino y la manzana colgante es la de Cheolsu",
-      "Como cayó sobre la rama de un árbol, es de mi vecino",
-      "Cheolsu con raíces de manzano plantadas",
-      "Quien lo recoja primero"
+      "Rosadas (mezcla de ambos)",
+      "Amarillas (por la raíz)",
+      "Rojas (según la genética de la rama injertada)",
+      "Blancas (pierden pigmento)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Jejeje! ¡La manzana de Cheolsu tiene raíces!",
-      "wrong": "¡Error! ¡Timbre! ¡Legalmente eres el dueño de la madera!"
+      "correct": "¡Correcto! ¡La rama injertada conserva su genética y da rosas rojas!",
+      "wrong": "¡Error! ¡El color depende de la rama injertada!"
     }
   },
   {
@@ -10063,20 +9793,20 @@
   },
   {
     "id": "rid_975",
-    "question": "Estaba caminando por una calle oscura por la noche, pero no había luces y la luna no estaba alta. Pero ¿por qué la persona que iba delante no tropezó con la roca y cayó?",
+    "question": "Todas las farolas estaban apagadas y no había luz de luna ni estrellas. Aun así, alguien vio claramente una piedra sin usar linterna. ¿Por qué?",
     "options": [
-      "Uso de gafas de visión nocturna infrarrojas",
-      "Porque pasé por ese camino durante el día",
-      "Caminar con bastón para personas con discapacidad visual",
-      "Enciende la linterna de tu smartphone y camina"
+      "Sus ojos emitían rayos láser",
+      "La piedra hizo ruido",
+      "Corrió con los ojos cerrados",
+      "No era de noche, sino pleno día soleado"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Jeje! ¡Caminé con la linterna de mi teléfono inteligente encendida!",
-      "wrong": "¡Error! ¡ajá! ¡Fui iluminando el camino con una linterna!"
+      "correct": "¡Correcto! ¡Era pleno día bajo la luz del sol!",
+      "wrong": "¡Error! ¡Durante el día las farolas están apagadas y brilla el sol!"
     }
   },
   {
@@ -10171,20 +9901,20 @@
   },
   {
     "id": "rid_981",
-    "question": "Un hombre abordó un ferry para cruzar un río. No había pasajeros en el barco excepto el barquero, y el barco se hundió en medio del río. ¿Por qué?",
+    "question": "Un piloto subió solo a una embarcación intacta, sin agujeros, sin chocar con rocas y sin carga pesada, pero al partir se sumergió bajo el agua. ¿Por qué?",
     "options": [
-      "Hay un agujero en el suelo",
-      "Porque el barco estaba lleno de equipaje pesado",
-      "Golpeando el arrecife en el fondo del río",
-      "Porque el barquero pesa 500kg"
+      "El piloto era muy mayor",
+      "Porque era un submarino diseñado para navegar bajo el agua",
+      "El agua estaba muy fría",
+      "Remó hacia atrás"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Ja ja! ¡Se hundió con una carga pesada!",
-      "wrong": "¡Error! ¡ajá! Aunque no había pasajeros, ¡había demasiada carga!"
+      "correct": "¡Correcto! ¡Era un submarino!",
+      "wrong": "¡Error! ¡Un submarino está hecho para sumergirse!"
     }
   },
   {
@@ -10387,20 +10117,20 @@
   },
   {
     "id": "rid_993",
-    "question": "Un hombre se perdió en una montaña nevada durante una tormenta de nieve. Aunque tenía un smartphone en la mano, ¿por qué no podía llamar al 119 para pedir rescate?",
+    "question": "Un excursionista perdido en la montaña tenía su smartphone con 100% de batería, sin fallos y con la pantalla táctil funcionando, pero no pudo llamar a emergencias. ¿Por qué?",
     "options": [
-      "Porque la batería está descargada",
-      "Porque es un área de sombra de comunicación donde las ondas de radio de la estación base no llegan",
-      "No puedo tocarlo porque llevo guantes",
-      "Olvidé mi contraseña de llamada de emergencia"
+      "La funda era negra",
+      "Estaba en una zona sin cobertura de señal móvil",
+      "El aire era demasiado puro",
+      "El teléfono era muy ligero"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Ja ja! Debido a que es un área de sombra de comunicación, ¡las ondas de radio no pueden llegar!",
-      "wrong": "¡Error! ¡ajá! ¡No puedes recibir señal de la estación base en las montañas!"
+      "correct": "¡Correcto! ¡Sin cobertura de antena no se puede llamar aunque haya batería!",
+      "wrong": "¡Error! ¡Estaba fuera del alcance de la red móvil!"
     }
   },
   {
@@ -10477,20 +10207,20 @@
   },
   {
     "id": "rid_998",
-    "question": "¿Qué flota en el agua: una pelota de béisbol o de tenis?",
+    "question": "Una bola de bolos de 7 kg y una pelota de tenis hueca se sumergen en agua profunda. ¿Cuál flota hacia la superficie?",
     "options": [
-      "ambos flotan",
-      "pelota de beisbol",
-      "pelota de goma hueca",
-      "ambos se hunden"
+      "Ambas flotan",
+      "Solo la bola de bolos flota",
+      "Solo la pelota de tenis hueca flota",
+      "Ambas se hunden hasta el fondo"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Jeje! ¡Una pelota de goma hueca (tenis) flota en el agua!",
-      "wrong": "¡Error! ¡Abucheo! ¡Las pelotas de béisbol se hunden, las pelotas de tenis flotan!"
+      "correct": "¡Correcto! ¡La pelota de tenis hueca tiene menor densidad que el agua y flota!",
+      "wrong": "¡Error! ¡La bola de bolos de 7 kg se hunde y la de tenis flota!"
     }
   },
   {
@@ -10693,20 +10423,20 @@
   },
   {
     "id": "rid_1010",
-    "question": "Tres personas están sentadas en una habitación y hablando. Pero la persona que abrió la puerta desde afuera dijo: \"¿Sólo hay dos personas en la habitación?\" ¿Cómo ha ocurrido?",
+    "question": "En un día lluvioso, el padre, la madre y su hijo caminaron bajo un solo paraguas pequeño y ninguno de los tres se mojó. ¿Cómo fue posible?",
     "options": [
-      "Hay una persona escondida en el armario.",
-      "Porque una persona es invisible",
-      "Porque una persona es un bebé recién nacido",
-      "Porque una persona es una sombra reflejada en un espejo."
+      "Corrieron más rápido que la lluvia",
+      "El hijo aún estaba en el vientre de su madre",
+      "El paraguas tenía un escudo invisible",
+      "El viento soplaba hacia arriba"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "¡Correcto! ¡Jejeje! ¡Los vi como dos personas porque uno de ellos era un recién nacido!",
-      "wrong": "¡Error! ¡Abucheo! Hay tres personas, incluido el bebé, ¡pero solo se cuentan los adultos!"
+      "correct": "¡Correcto! ¡La madre estaba embarazada, así que solo caminaban dos!",
+      "wrong": "¡Error! ¡El hijo aún estaba en el vientre materno!"
     }
   },
   {

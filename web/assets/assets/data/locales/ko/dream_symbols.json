@@ -164,7 +164,7 @@
         "horse"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "막힘없는 추진력, 원대한 목표 달성, 원거리 출장이나 도약",
       "advice": "말발굽 소리가 당당하다! 주저하지 말고 힘차게 앞으로 달려라!"
@@ -181,7 +181,7 @@
         "turtle"
       ],
       "fortune": "auspicious",
-      "lucky_number": 80,
+      "lucky_number": 14,
       "card_id": "moon_jar",
       "meaning": "무병장수, 흔들리지 않는 명예와 영속적인 부귀영화",
       "advice": "천 년을 사는 지혜다! 눈앞의 조급함 대신 백 년을 내다보라!"
@@ -268,7 +268,7 @@
         "lion"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "mountain_spirit",
       "meaning": "조직의 리더십 장악, 확고부동한 권력과 강력한 후원",
       "advice": "백수의 왕처럼 당당하게 호령하라! 당신이 바로 주인공이다!"
@@ -301,7 +301,7 @@
         "deer"
       ],
       "fortune": "auspicious",
-      "lucky_number": 75,
+      "lucky_number": 9,
       "card_id": "cloud_hermit",
       "meaning": "고결한 인품 인정, 귀인의 사랑과 평화로운 행복",
       "advice": "맑고 고요한 기운이 감돈다! 온화한 미소로 사람들을 대하라!"
@@ -317,7 +317,7 @@
         "bear"
       ],
       "fortune": "auspicious",
-      "lucky_number": 82,
+      "lucky_number": 16,
       "card_id": "mountain_spirit",
       "meaning": "태몽, 든든한 권력자의 비호, 거대한 재물 축적",
       "advice": "묵직한 뚝심이 빛을 발한다! 끈기 있게 밀고 나가라!"
@@ -334,7 +334,7 @@
         "frog"
       ],
       "fortune": "auspicious",
-      "lucky_number": 93,
+      "lucky_number": 27,
       "card_id": "silk_pouch",
       "meaning": "금두꺼비가 물어다 주는 큰 복과 횡재수, 가문의 번창",
       "advice": "집안에 경사가 찾아온다! 가족들과 기쁨을 나누어라!"
@@ -370,7 +370,7 @@
         "poop"
       ],
       "fortune": "auspicious",
-      "lucky_number": 84,
+      "lucky_number": 18,
       "card_id": "silk_pouch",
       "meaning": "재물이 몸에 달라붙듯 들어오는 압도적인 대길몽",
       "advice": "기분 좋은 대박운이다! 오늘은 주저했던 투자나 도전을 시작해봐라!"
@@ -387,7 +387,7 @@
         "blood"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "생명력과 재물의 대폭발, 명예와 막힌 운세의 시원한 뚫림",
       "advice": "붉은 피는 거대한 생명력과 돈이다! 억눌렸던 일이 시원하게 풀린다!"
@@ -440,7 +440,7 @@
         "crying"
       ],
       "fortune": "auspicious",
-      "lucky_number": 90,
+      "lucky_number": 24,
       "card_id": "water_sprite",
       "meaning": "마음속 응어리의 통쾌한 해소, 널리 소문날 경사",
       "advice": "실컷 울고 나면 세상이 맑아진다! 가슴 벅찬 기쁨이 눈앞에 있다!"
@@ -493,7 +493,7 @@
         "surgery"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "folding_fan",
       "meaning": "근본적인 체질 개선, 조직 개편을 통한 획기적 성과 창출",
       "advice": "아픈 부위를 도려내야 새살이 돋는다! 과감한 결단으로 새 판을 짜라!"
@@ -511,7 +511,7 @@
         "pregnant"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "moon_jar",
       "meaning": "새로운 프로젝트 착수, 거대한 잠재력과 창조적 결실의 잉태",
       "advice": "축복받은 씨앗을 품었다! 정성스럽게 키워나가면 엄청난 열매를 맺는다!"
@@ -544,7 +544,7 @@
         "growing tall"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "cloud_hermit",
       "meaning": "신분 상승, 안목의 확장, 남들보다 높은 자리로의 영전",
       "advice": "높은 곳에서 세상을 내려다보라! 당신의 그릇이 커지고 있다!"
@@ -649,7 +649,7 @@
         "meteor"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "star_weaver",
       "meaning": "영감과 창의성의 폭발, 대중적 인기와 작품의 대히트",
       "advice": "별처럼 반짝이는 아이디어가 쏟아진다! 메모장을 항상 곁에 둬라!"
@@ -667,7 +667,7 @@
         "sunrise"
       ],
       "fortune": "auspicious",
-      "lucky_number": 91,
+      "lucky_number": 25,
       "card_id": "sun_messenger",
       "meaning": "위대한 탄생, 세상에 이름을 떨칠 최고의 입신출세",
       "advice": "찬란한 태양이 온 세상을 비춘다! 어깨를 펴고 당당하게 걸어라!"
@@ -701,7 +701,7 @@
         "mountain"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "원대한 포부의 실현, 거대한 난관 돌파와 권좌 등극",
       "advice": "정상에 서면 사방이 다 보인다! 눈앞의 언덕에 지치지 말고 끝까지 올라가라!"
@@ -719,7 +719,7 @@
         "ocean"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "water_sprite",
       "meaning": "글로벌 무대로의 진출, 넓은 식견과 막대한 스케일의 성공",
       "advice": "대양을 향해 닻을 올려라! 사소한 것에 얽매이지 말고 큰 바다를 품어라!"
@@ -772,7 +772,7 @@
         "heavy rain"
       ],
       "fortune": "normal",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "water_sprite",
       "meaning": "단비처럼 해갈되는 문제, 혹은 일시적인 감정의 소나기",
       "advice": "소나기는 곧 지나간다! 우산을 챙기듯 차분하게 대비하라!"
@@ -789,7 +789,7 @@
         "snow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 72,
+      "lucky_number": 6,
       "card_id": "moon_jar",
       "meaning": "순수한 마음의 회복, 모든 결점의 덮임과 평온한 축복",
       "advice": "하얀 눈처럼 깨끗하게 다시 시작할 기회다! 새 도화지를 펼쳐라!"
@@ -807,7 +807,7 @@
         "thunder"
       ],
       "fortune": "auspicious",
-      "lucky_number": 97,
+      "lucky_number": 31,
       "card_id": "dokkaebi_club",
       "meaning": "전광석화 같은 깨달음, 세상의 이목을 끄는 전격적인 성공",
       "advice": "번개처럼 번뜩이는 영감이다! 지금 머리에 떠오른 생각을 당장 적어라!"
@@ -823,7 +823,7 @@
         "rainbow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "lotus_lamp",
       "meaning": "고난 끝의 찬란한 영광, 소망하던 꿈의 극적인 성취",
       "advice": "비가 개고 무지개가 떴다! 이제는 기쁨과 축배를 들 차례다!"
@@ -857,7 +857,7 @@
         "money"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "재물운과 금전적 보상 상승, 실질적인 이익 창출",
       "advice": "돈이 들어오는 길목이다! 오늘 지출은 아끼고 저축 통장을 확인하라!"
@@ -892,7 +892,7 @@
         "gems"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "jade_ring",
       "meaning": "귀중한 지위 획득, 최고의 가치 인정, 찬란한 명예",
       "advice": "보석처럼 빛나는 존재가 될 날! 스스로의 가치를 깎아내리지 마라!"
@@ -1102,7 +1102,7 @@
         "present"
       ],
       "fortune": "auspicious",
-      "lucky_number": 70,
+      "lucky_number": 4,
       "card_id": "silk_pouch",
       "meaning": "귀인의 도움, 애정 고백이나 깜짝 보상, 새로운 계약",
       "advice": "감사의 마음을 먼저 표현하라! 받은 복을 나눌수록 더 큰 선물이 온다!"
@@ -1120,7 +1120,7 @@
         "ancestor"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "mountain_spirit",
       "meaning": "가문의 영적 가호와 계시, 위기 탈출과 일생일대의 대운",
       "advice": "조상님이 길을 열어주셨다! 경건한 마음으로 바른 선택을 내려라!"
@@ -1137,7 +1137,7 @@
         "mountain god"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "최상의 지혜 획득, 난관을 단번에 풀 묘수를 전수받음",
       "advice": "큰 스승의 가르침이다! 선배나 전문가의 조언에 귀를 기울여라!"
@@ -1155,7 +1155,7 @@
         "goblin"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "창조적 마법의 발동, 온디바이스 수호령의 강력한 행운 선물",
       "advice": "내가 직접 나왔다! 뚝딱 치면 무엇이든 풀리니 걱정 말고 웃어라!"
@@ -1191,7 +1191,7 @@
         "god"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "lotus_lamp",
       "meaning": "지극한 자비와 구원, 인생의 모든 고난이 은혜로 변화",
       "advice": "성스러운 빛이 감싼다! 오늘 베푸는 작은 선행이 만 배의 복이 된다!"
@@ -1244,7 +1244,7 @@
         "talisman"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "inkstone",
       "meaning": "강력한 영적 보호막 형성, 모든 액운의 원천 차단",
       "advice": "천하무적 도깨비 방패가 쳐졌다! 어떤 방해물도 당신을 꺾지 못한다!"
@@ -1262,7 +1262,7 @@
         "corpse"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "과거의 완전한 사멸과 부활, 막대한 유산 상속과 부귀영화",
       "advice": "낡은 나는 죽고 새로운 내가 태어났다! 엄청난 인생 대역전이 시작된다!"
@@ -1296,7 +1296,7 @@
         "flying"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "wind_child",
       "meaning": "속박에서 벗어나 자유와 성취를 향하는 거침없는 상승운",
       "advice": "공중에 뜬 만큼 시야도 넓어진다! 오늘은 큰 그림을 그려봐라!"
@@ -1348,7 +1348,7 @@
         "dream in dream"
       ],
       "fortune": "normal",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "dream_eater",
       "meaning": "현실과 이상의 깊은 사색, 무의식의 정밀한 탐색",
       "advice": "생각의 미로에 갇히지 마라! 오늘은 머리를 털고 가볍게 산책하라!"
@@ -1400,7 +1400,7 @@
         "funeral"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "지난 고통의 완전 종결, 엄청난 반전과 횡재수",
       "advice": "과거의 아픔은 완전히 끝났다! 새 술은 새 부대에 담아 잔치를 벌여라!"
@@ -1417,7 +1417,7 @@
         "exam pass"
       ],
       "fortune": "auspicious",
-      "lucky_number": 100,
+      "lucky_number": 34,
       "card_id": "rooster",
       "meaning": "오랜 수고의 완벽한 보상, 공인된 자격 획득과 환호",
       "advice": "흘린 땀방울이 황금 열매가 되었다! 그동안 고생한 자신을 칭찬하라!"
@@ -1451,7 +1451,7 @@
         "fight"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "dokkaebi_club",
       "meaning": "정면 대결을 통한 갈등의 통쾌한 해소, 상대방의 완벽 굴복",
       "advice": "피하지 않고 부딪혀야 이긴다! 당당하게 내 논리를 펼쳐라!"
@@ -1469,7 +1469,7 @@
         "murder"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dokkaebi_club",
       "meaning": "오랜 방해 요소의 완전 박멸, 숙원의 완전 달성과 대승리",
       "advice": "방해물을 완전히 처치했다! 이제 거칠 것 없이 승승장구할 시간이다!"
@@ -1593,7 +1593,7 @@
         "cooked rice"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "silk_pouch",
       "meaning": "가정의 풍요와 잔치, 든든한 식복과 만사형통",
       "advice": "복떡이 굴러들어온다! 든든하게 먹고 힘차게 도약하라!"
@@ -1613,7 +1613,7 @@
         "peach"
       ],
       "fortune": "auspicious",
-      "lucky_number": 76,
+      "lucky_number": 10,
       "card_id": "lotus_lamp",
       "meaning": "태몽, 사랑의 결실, 알찬 소득과 장수",
       "advice": "무르익은 과일을 수확할 때다! 그동안의 노력을 당당히 챙겨라!"
@@ -1631,7 +1631,7 @@
         "forest"
       ],
       "fortune": "auspicious",
-      "lucky_number": 92,
+      "lucky_number": 26,
       "card_id": "mountain_spirit",
       "meaning": "거대한 기둥이 될 인물 양성, 가문의 영속적 번창과 그늘막",
       "advice": "뿌리 깊은 나무는 바람에 흔들리지 않는다! 든든하게 중심을 지켜라!"
@@ -1720,7 +1720,7 @@
         "ginseng"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "mountain_spirit",
       "meaning": "심봤다! 천운이 깃든 최고의 명약, 대박 태몽과 일생의 귀물 획득",
       "advice": "심봤다 소리가 절로 난다! 하늘이 내린 기회를 놓치지 말고 잡아라!"
@@ -1791,7 +1791,7 @@
         "flight"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "wind_child",
       "meaning": "초고속 신분 상승, 해외 사업 진출과 거대한 프로젝트 성사",
       "advice": "이륙 준비 완료! 안전벨트를 매고 더 높은 고도로 솟구쳐라!"
@@ -1809,7 +1809,7 @@
         "car"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "자신의 인생을 주도적으로 통제, 막힘없는 사업 질주",
       "advice": "핸들은 당신 손에 있다! 브레이크 밟지 말고 시원하게 밟아라!"
@@ -1844,7 +1844,7 @@
         "cruise"
       ],
       "fortune": "auspicious",
-      "lucky_number": 74,
+      "lucky_number": 8,
       "card_id": "water_sprite",
       "meaning": "대규모 조직의 출범, 흔들림 없는 장기 항해와 대성공",
       "advice": "순풍에 돛을 달았다! 동료들과 호흡을 맞춰 힘차게 노를 저어라!"
@@ -1879,7 +1879,7 @@
         "elevator"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "sun_messenger",
       "meaning": "수직 상승의 초특급 승진, 단숨에 높은 자리에 오름",
       "advice": "엘리베이터 버튼을 눌렀다! 문이 열리면 정상에서 세상을 맞이하라!"
@@ -1947,7 +1947,7 @@
         "laughing"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "막힌 기운의 유쾌한 폭발, 온 집안에 울려 퍼질 대경사",
       "advice": "웃으면 복이 온다는 말은 진짜다! 오늘 만나는 사람마다 환하게 웃어줘라!"
@@ -2000,7 +2000,7 @@
         "bliss"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "cloud_pillow",
       "meaning": "영혼의 완전한 충만, 인생 최고의 대운과 은혜의 절정",
       "advice": "우주의 모든 복이 당신에게 쏟아진다! 온 마음으로 이 행복을 만끽하라!"
@@ -2017,7 +2017,7 @@
         "magic club"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "금 나와라 뚝딱! 두드리면 무엇이든 현실이 되는 창조력의 정점",
       "advice": "원하는 것을 소리 내어 말하라! 방망이로 쳐서 다 만들어주겠다!"
@@ -2051,7 +2051,7 @@
         "lucky pouch"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "화수분처럼 마르지 않는 재물, 대대손손 이어질 가문의 복",
       "advice": "복이 주머니에 한가득이다! 오늘 베푸는 인심이 배가 되어 돌아온다!"
@@ -2068,7 +2068,7 @@
         "magic broom"
       ],
       "fortune": "auspicious",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "wooden_comb",
       "meaning": "불운은 쓸어내고 황금은 끌어모으는 신통방통한 정화",
       "advice": "나쁜 것은 싹 쓸어버리고 좋은 복만 모아라! 집안 공기를 환기시켜라!"
@@ -2085,7 +2085,7 @@
         "dragon orb"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dragon",
       "meaning": "천하를 호령할 최고의 보주 획득, 소원이 100% 이루어질 대길몽",
       "advice": "천하제일 여의주가 당신 품에 있다! 이루지 못할 꿈이란 없다!"

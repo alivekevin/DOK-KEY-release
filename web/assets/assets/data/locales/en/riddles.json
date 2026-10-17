@@ -4554,24 +4554,6 @@
     "id": "rid_259"
   },
   {
-    "question": "It keeps chili powder buried in its body and never spits it out. What am I?",
-    "options": [
-      "Dishcloth",
-      "Scrubber",
-      "Sponge",
-      "Brush"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Correct! A scrubber never loses its red stain.",
-      "wrong": "Nope! It is the sudsy tool that washes dishes."
-    },
-    "id": "rid_260"
-  },
-  {
     "question": "Quiet before the water boils, it shrieks a whistle when its inside churns. What am I?",
     "options": [
       "Pot",
@@ -4896,24 +4878,6 @@
     "id": "rid_278"
   },
   {
-    "question": "Press it late after missing your stop and the whole bus turns around. What am I?",
-    "options": [
-      "Stop-request bell",
-      "Button",
-      "Announcement",
-      "Handrail"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "Correct! A late bell rings even louder.",
-      "wrong": "Nope! It is the bell you press to get off."
-    },
-    "id": "rid_279"
-  },
-  {
     "question": "What is thin and sharp, snapping at the waist if you press down just a little too hard when writing?",
     "options": [
       "Pencil lead",
@@ -5004,24 +4968,6 @@
     "id": "rid_284"
   },
   {
-    "question": "Stick it on a friend and it holds, but the exam-scope note blows away. What am I?",
-    "options": [
-      "Memo pad",
-      "Sticker",
-      "Sticky note",
-      "Paper"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Correct! Sticky notes fly off exactly when important.",
-      "wrong": "Nope! It is the small note you stick and peel."
-    },
-    "id": "rid_285"
-  },
-  {
     "question": "It ties your hair, then snaps with a ting at the worst moment. What am I?",
     "options": [
       "Comb",
@@ -5056,60 +5002,6 @@
       "wrong": "Nope! It is the tissue you use wet."
     },
     "id": "rid_287"
-  },
-  {
-    "question": "During cleaning it sprays cold water on a friend's neck on purpose. What am I?",
-    "options": [
-      "Watering can",
-      "Spray bottle",
-      "Water gun",
-      "Hose"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Correct! A spray bottle always aims at the wrong spot.",
-      "wrong": "Nope! It is the tool that mists water."
-    },
-    "id": "rid_288"
-  },
-  {
-    "question": "In a silent study hour it goes rip and draws the whole class's eyes. What am I?",
-    "options": [
-      "Button",
-      "Zipper",
-      "Velcro",
-      "String"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Correct! Velcro always makes noise when it should not.",
-      "wrong": "Nope! It is the hook-and-loop that sticks and peels."
-    },
-    "id": "rid_289"
-  },
-  {
-    "question": "Soft while you sit, it drops and hooks your ankle the moment you stand. What am I?",
-    "options": [
-      "Mat",
-      "Cushion",
-      "Pillow",
-      "Seat cushion"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Correct! A cushion always falls right as you stand.",
-      "wrong": "Nope! It is the soft pad on a chair."
-    },
-    "id": "rid_290"
   },
   {
     "question": "Roll it on your uniform and it proves how long you skipped cleaning. What am I?",
@@ -5200,24 +5092,6 @@
       "wrong": "Nope! It is the tiny ball that bounces on the table."
     },
     "id": "rid_295"
-  },
-  {
-    "question": "Sent to brush off dust, it pulls every speck in with static instead. What am I?",
-    "options": [
-      "Comb",
-      "Clothes brush",
-      "Paintbrush",
-      "Duster"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "Correct! The more you brush, the more dust clings.",
-      "wrong": "Nope! It is the brush for your clothes."
-    },
-    "id": "rid_296"
   },
   {
     "question": "You flip a fried egg, it bursts the yolk and ruins the look. What am I?",
@@ -5436,29 +5310,11 @@
     "id": "rid_308"
   },
   {
-    "question": "It binds a few printouts, then chain-tangles inside your pencil case. What am I?",
+    "question": "What small, thin pointed stick made of wood or starch is used to remove food stuck between teeth after a meal or to spear bite-sized fruit?",
     "options": [
-      "Stapler",
-      "Thumbtack",
-      "Paper clip",
-      "Clip"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Correct! Paper clips always tangle together.",
-      "wrong": "Nope! It is the tool that binds paper."
-    },
-    "id": "rid_309"
-  },
-  {
-    "question": "At a restaurant it digs out the chili powder hiding between teeth. What am I?",
-    "options": [
-      "Dental floss",
-      "Chopstick",
-      "Fork",
+      "Cotton swab",
+      "Matchstick",
+      "Drinking straw",
       "Toothpick"
     ],
     "answer_index": 3,
@@ -5466,26 +5322,26 @@
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Correct! A toothpick finds every hidden bit.",
-      "wrong": "Nope! It is the little stick for between teeth."
+      "correct": "Correct! A pointed toothpick clears food between teeth or picks up fruit.",
+      "wrong": "Nope! It is a toothpick—a tiny pointed stick used after meals."
     },
     "id": "rid_310"
   },
   {
-    "question": "After drying your washed hair, if you leave it crumpled in a damp bathroom corner it reeks of musty odor within a day. What is it?",
+    "question": "What bathroom item dries the water off your face and body, yet gets wetter and wetter itself the more it dries?",
     "options": [
-      "Bath towel",
-      "Exfoliating glove",
-      "Soap",
-      "Loofah sponge"
+      "Towel",
+      "Bar of soap",
+      "Toothbrush",
+      "Bathroom mirror"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Correct! A damp crumpled towel grows mildew smells with unbelievable speed!",
-      "wrong": "Nope! It is the thick cotton cloth used to dry off water after bathing."
+      "correct": "Correct! The more a towel dries you off, the wetter it becomes itself.",
+      "wrong": "Nope! It is a soft cloth that absorbs water after washing: a towel."
     },
     "id": "rid_311"
   },
@@ -5524,24 +5380,6 @@
       "wrong": "Nope! It is the mesh bat on a handle used for swatting household insects."
     },
     "id": "rid_313"
-  },
-  {
-    "question": "Stretch your foot toward its open leg and it kicks your shin like iron. What am I?",
-    "options": [
-      "Chair",
-      "Desk",
-      "Dining table",
-      "Folding table"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "Correct! Its legs always aim for your shin.",
-      "wrong": "Nope! It is the small table with folding legs."
-    },
-    "id": "rid_314"
   },
   {
     "question": "It jingles in your pocket, then hides under the vending machine when dropped. What am I?",
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "category": "bathroom",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "You definitely just closed it, but in your bag the lid opens and makes all your belongings sticky. What is it?",
-    "options": [
-      "Sunscreen",
-      "Water bottle",
-      "Lip balm",
-      "Toothpaste"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Slippery! That despair when you grope the bag bottom and touch something slimy!",
-      "wrong": "Wrong~ The one that melts and escapes its lid just from warm pocket air is lip balm."
-    }
-  },
-  {
-    "id": "rid_335",
-    "category": "kitchen",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "You packed it to drink when thirsty, but in your bag it lies down on its own and soaks all your belongings. What is it?",
-    "options": [
-      "Umbrella",
-      "Fan",
-      "Power bank",
-      "Tumbler"
-    ],
-    "answer_index": 3,
-    "kkaebi_reaction": {
-      "correct": "Splash! You trusted the words 'fully sealed,' and now your textbook corners are waterlogged and bulging!",
-      "wrong": "No~ The main culprit that turns your bag into a flood when you open it is a loosely closed tumbler."
-    }
-  },
-  {
     "id": "rid_337",
     "category": "nature",
     "difficulty": 1,
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "category": "tech",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "You definitely left with it 100% full, but by evening it blinks red all alone and pants for breath. What is it?",
-    "options": [
-      "Smartwatch",
-      "Wireless mouse",
-      "Power bank",
-      "Bluetooth speaker"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Blink, blink! The one you carried out to feed ended up eating its own meal first!",
-      "wrong": "Not that~ The one that shows off brick weight in your bag then dies is the power bank."
-    }
-  },
-  {
     "id": "rid_342",
     "category": "food",
     "difficulty": 1,
@@ -5757,24 +5541,6 @@
     "kkaebi_reaction": {
       "correct": "Crunch! More crumbs land on the desk than go into your mouth!",
       "wrong": "Wrong~ The snack that summons Mom's backhand smack the moment you bite is pie."
-    }
-  },
-  {
-    "id": "rid_343",
-    "category": "tech",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "It shines brightly in the dark, but the moment your fingers misstep over your face it drops onto your face. What is it?",
-    "options": [
-      "Smartphone",
-      "Reading lamp",
-      "Tablet",
-      "Flashlight"
-    ],
-    "answer_index": 0,
-    "kkaebi_reaction": {
-      "correct": "Thwack! Only those who've been smacked on the nose watching YouTube in bed know these tears!",
-      "wrong": "No~ The one that gravity drags onto your face the moment you relax is the smartphone."
     }
   },
   {
@@ -5811,24 +5577,6 @@
     "kkaebi_reaction": {
       "correct": "Whirr, thwack! Along with a burning smell, you sacrificed a few precious strands of hair!",
       "wrong": "Not that~ The one you held too close to the back of your head and it yanks your hair out is the hair dryer."
-    }
-  },
-  {
-    "id": "rid_347",
-    "category": "food",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Open the lid and warm rice appears, but once it's all eaten, only an empty body wanders around. What is it?",
-    "options": [
-      "Pot",
-      "Plate",
-      "Thermos",
-      "Lunchbox"
-    ],
-    "answer_index": 3,
-    "kkaebi_reaction": {
-      "correct": "Lid opens with a sparkle, empty body when it's done! The star of lunchtime!",
-      "wrong": "Nope! The little box you carry rice in is the lunchbox."
     }
   },
   {
@@ -6009,24 +5757,6 @@
     "kkaebi_reaction": {
       "correct": "Ow, hot! Blowing on it while holding it in a paper cup is the perfect winter treat for burning your tongue!",
       "wrong": "No~ The one that ambushes you with magma-like syrup when you bite carelessly is hotteok."
-    }
-  },
-  {
-    "id": "rid_360",
-    "category": "school",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "You keep it carefully in your pencil case, but the lid loosens and it squeezes out its own insides, painting the inside of your bag purple. What is it?",
-    "options": [
-      "Stamp",
-      "Paint",
-      "Computer-marking pen",
-      "Stamp pad"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Flash! You need to mark your OMR card, but the tip's smudged into a thick brush!",
-      "wrong": "Not that~ The regular you clip on the back of the lid then lose somewhere is the computer pen."
     }
   },
   {
@@ -6376,17 +6106,17 @@
     "category": "school",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "You draw happily, but press just a little and it snaps with a pop. What is it?",
+    "question": "What stick-shaped art tool without a wooden casing is made of wax, oil, and pigment, wrapped in a paper sleeve to keep hands clean, and repels watercolor paint?",
     "options": [
-      "Colored pencil",
-      "Pencil",
-      "Crayon",
-      "Brush"
+      "Watercolor paint",
+      "Mechanical pencil",
+      "Inkstone and ink",
+      "Oil pastel (Crayon)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
-      "correct": "Snap! The colors are pretty, but the body is as weak as summer chocolate.",
-      "wrong": "Nope! The colorful stick that snaps with a pop at the slightest pressure is a crayon."
+      "correct": "Correct! Oil pastels and wax crayons repel water when painted over with watercolors.",
+      "wrong": "Nope! The paper-wrapped wax-and-oil drawing stick is an oil pastel (crayon)."
     }
   },
   {
@@ -6394,17 +6124,17 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "It always hides under the sofa when I look for it, but when I'm not watching, it's somehow in your brother's hand. What is it?",
+    "question": "What wireless device covered in number and arrow buttons lets you turn on a distant TV or air conditioner and change channels from the couch?",
     "options": [
-      "Glasses",
-      "Earphones",
-      "Charger",
+      "Pocket calculator",
+      "Corded telephone",
+      "Desk alarm clock",
       "Remote control"
     ],
     "answer_index": 3,
     "kkaebi_reaction": {
-      "correct": "Ding-dong! Under the sofa is the secret hideout where remote controls gather!",
-      "wrong": "Nope! The one that vanishes when you don't need it and only disappears when you do is the remote control."
+      "correct": "Ding-dong! A remote control sends infrared signals to operate your TV or AC from afar.",
+      "wrong": "Nope! The button-filled device that controls appliances from across the room is a remote control."
     }
   },
   {
@@ -9001,20 +8731,20 @@
   },
   {
     "id": "rid_916",
-    "question": "There were apples on a tree. After I picked some, neither the tree nor my hand had any apples left. What happened?",
+    "question": "Ten candles were burning in a room when a gust blew out three. With the window closed right away, how many candles remain by the next morning?",
     "options": [
-      "There were two; I picked only one",
-      "I ate them right away",
-      "I dropped them on the ground",
-      "Someone else snatched them"
+      "The 3 blown-out candles (the other 7 burned away)",
+      "The 7 candles that kept burning",
+      "All 10 candles remain intact",
+      "0 candles (all melted away)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Two apples, one picked—no ‘apples’ remain!",
-      "wrong": "Wrong! Plural language is the trick!"
+      "correct": "Kahaha! Only the 3 unlit candles stay unmelted till morning!",
+      "wrong": "Oops! The 7 burning candles melt all the way down!"
     }
   },
   {
@@ -9325,20 +9055,20 @@
   },
   {
     "id": "rid_934",
-    "question": "The maker doesn’t need it so sells it, the buyer never uses it, and the actual user doesn’t know he’s using it. What is it?",
+    "question": "A carpenter builds this wooden box never for himself, the buyer never uses it for himself, and the person laid inside never sees it in life. What is it?",
     "options": [
-      "Sleep mask",
-      "Baby diaper",
+      "Jewelry box",
+      "Baby cradle",
       "Coffin",
-      "Gift wrapping paper"
+      "Wardrobe"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kahaha! The coffin—maker sells, family buys, the dead never knows!",
-      "wrong": "Wrong! Think of the final resting box!"
+      "correct": "Kahaha! The coffin—maker sells, family buys, the departed never knows!",
+      "wrong": "Wrong! Think of the final wooden resting box!"
     }
   },
   {
@@ -9577,20 +9307,20 @@
   },
   {
     "id": "rid_948",
-    "question": "A sealed room is full of air. What is the fastest way to remove the air from the room?",
+    "question": "Without any pump or machine, what is the surest way to push all the air out of an empty narrow-necked glass bottle?",
     "options": [
-      "Fill the room with water or furniture",
-      "Suck it out with a vacuum pump",
-      "Run a huge fan at maximum",
-      "Open the windows wide"
+      "Fill the bottle completely with water",
+      "Shake the bottle hard by hand",
+      "Blow into the mouth of the bottle",
+      "Stand the bottle in the shade"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Displace the volume with something else!",
-      "wrong": "Wrong! Fill the space to push air out!"
+      "correct": "Kahaha! Pouring water to the brim displaces the air right out!",
+      "wrong": "Wrong! Fill the bottle with water to push the air out!"
     }
   },
   {
@@ -9721,20 +9451,20 @@
   },
   {
     "id": "rid_956",
-    "question": "One of the four tires on a highway car went flat. Yet the driver reached the destination at normal speed with no problem. How?",
+    "question": "One of the tires carried by a car on the highway went completely flat. Yet the driver reached the destination at normal speed without changing a tire. How?",
     "options": [
-      "The spare tire in the trunk was the flat one",
-      "It was a run-flat tire",
-      "Drove balanced on three wheels",
-      "Was towed the whole way"
+      "The spare tire inside the trunk was the flat one",
+      "Drove balanced on just three wheels",
+      "Flat tires make a car go faster",
+      "The highway surface was slippery ice"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Only the unused spare was flat!",
-      "wrong": "Wrong! The driving tires were fine!"
+      "correct": "Kahaha! Only the unused spare tire in the trunk was flat!",
+      "wrong": "Wrong! All four driving wheels were fine—it was the spare!"
     }
   },
   {
@@ -9937,56 +9667,56 @@
   },
   {
     "id": "rid_968",
-    "question": "On a frictionless ice sheet a heavy steel ball and a light ping-pong ball are blown hard. Which travels farther?",
+    "question": "In outer-space vacuum with zero friction or air drag, a heavy steel ball and a ping-pong ball are pushed at the same speed (5 m/s). Which goes farther?",
     "options": [
-      "Both roll forever without stopping",
-      "The steel ball",
-      "The ping-pong ball",
-      "The steel ball because of air resistance"
+      "Both travel forever at the same speed without stopping",
+      "The heavy steel ball travels much farther",
+      "The light ping-pong ball stops first",
+      "Both stop after traveling 5 meters"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Zero friction means endless motion for both!",
-      "wrong": "Wrong! Inertia keeps both going forever!"
+      "correct": "Kahaha! With zero resistance, inertia keeps both moving forever!",
+      "wrong": "Wrong! In a frictionless vacuum, both coast endlessly at 5 m/s!"
     }
   },
   {
     "id": "rid_969",
-    "question": "In baseball, how can a batter reach first base without swinging at the ball?",
+    "question": "In baseball, a batter stood still in the batter’s box without swinging once, yet the umpire awarded first base. Which rule applies here?",
     "options": [
-      "Catcher drops the third strike (dropped third)",
-      "Hit by pitch or four balls (walk)",
-      "Pitcher commits a balk",
-      "Interference is called"
+      "Foul fly out call",
+      "Hit by pitch or Base on Balls (Four Balls)",
+      "Infield fly rule call",
+      "Three-bunt strikeout call"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Walk or hit-by-pitch—no swing needed!",
-      "wrong": "Nope! Four balls or a plunk does it!"
+      "correct": "Kahaha! A walk (four balls) or hit-by-pitch sends you to first without a swing!",
+      "wrong": "Nope! Four balls or a hit-by-pitch grants first base!"
     }
   },
   {
     "id": "rid_970",
-    "question": "An apple tree on Cheolsu’s roof grows branches over the neighbor’s yard and bears fruit. Legally whose apples are they?",
+    "question": "A branch from a red rose bush is grafted onto the sturdy stem of a yellow rose bush. What color roses will bloom from that grafted branch?",
     "options": [
-      "Fallen ones neighbor’s, hanging ones Cheolsu’s",
-      "Neighbor’s because the branch crossed",
-      "Cheolsu’s because the roots are on his land",
-      "Whoever picks them first"
+      "Pink (a mix of both colors)",
+      "Yellow (following the rootstock)",
+      "Red (following the genetics of the grafted branch)",
+      "White (grafting removes pigment)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Fruit belongs to the owner of the roots!",
-      "wrong": "Wrong! Root ownership decides!"
+      "correct": "Kahaha! Flowers follow the DNA of the grafted scion branch—red!",
+      "wrong": "Wrong! The rootstock supplies water, while the grafted branch keeps its red color!"
     }
   },
   {
@@ -10063,20 +9793,20 @@
   },
   {
     "id": "rid_975",
-    "question": "Walking a pitch-dark night road with no streetlights and no moon, the person ahead never tripped on a stone. Why?",
+    "question": "All streetlights were off, and there was no moonlight or starlight in the sky. Yet a walker clearly saw and avoided a stone ahead without any flashlight. How?",
     "options": [
-      "Used infrared night-vision goggles",
-      "Had walked the same path by day",
-      "Used a white cane for the blind",
-      "Walked with a smartphone flashlight on"
+      "Laser beams shot out of his eyes",
+      "The stone made a warning sound",
+      "He sprinted with his eyes closed",
+      "It was bright daytime, not night"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Phone light showed the way!",
-      "wrong": "Nope! A simple flashlight did it!"
+      "correct": "Kahaha! It was broad daylight under the bright sun!",
+      "wrong": "Nope! Streetlights are off and the moon isn’t out during the day!"
     }
   },
   {
@@ -10171,20 +9901,20 @@
   },
   {
     "id": "rid_981",
-    "question": "A passenger boarded a ferry to cross a river. Besides the boatman there were no other passengers, yet the boat sank in mid-river. Why?",
+    "question": "A pilot boarded a sturdy vessel alone. It had no holes, hit no rocks, and carried no heavy cargo, yet as soon as it departed it sank underwater. Why?",
     "options": [
-      "A hole in the bottom",
-      "It was loaded with heavy cargo",
-      "It hit a submerged rock",
-      "The boatman weighed 500 kg"
+      "The pilot was very old",
+      "It was a submarine designed to travel underwater",
+      "The water was too cold",
+      "The oars were rowed backward"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Cargo, not passengers, overloaded it!",
-      "wrong": "Nope! Freight exceeded the limit!"
+      "correct": "Kahaha! It wasn’t sinking by accident—it was a submarine!",
+      "wrong": "Nope! A submarine is meant to dive underwater!"
     }
   },
   {
@@ -10387,20 +10117,20 @@
   },
   {
     "id": "rid_993",
-    "question": "A man was lost in a snowstorm on a mountain with a smartphone, yet he could not call 911. Why?",
+    "question": "A hiker lost in deep mountains held a smartphone with 100% battery, zero defects, and a working touchscreen, yet could not place a rescue call. Why?",
     "options": [
-      "Battery was dead",
-      "No cell-signal coverage in the deep mountains",
-      "Gloves prevented touch input",
-      "He forgot the emergency PIN"
+      "The phone case was black",
+      "It was a dead zone with no cell tower signal coverage",
+      "The mountain air was too clean",
+      "The phone weighed too little"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Kahaha! No signal in the wilderness!",
-      "wrong": "Nope! Out of network range!"
+      "correct": "Kahaha! Even with a full battery, you can’t call without signal coverage!",
+      "wrong": "Nope! Deep mountains were out of cell network range!"
     }
   },
   {
@@ -10477,20 +10207,20 @@
   },
   {
     "id": "rid_998",
-    "question": "Which floats on water—a baseball or a tennis ball?",
+    "question": "A solid 7 kg adult bowling ball and a hollow rubber tennis ball are placed into deep water at the same time. Which ball floats to the surface?",
     "options": [
-      "Both float",
-      "The baseball",
-      "The hollow rubber ball",
-      "Both sink"
+      "Both the bowling ball and tennis ball float",
+      "Only the heavy bowling ball floats",
+      "Only the hollow tennis ball floats",
+      "Both balls sink to the bottom"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Tennis ball is hollow and floats!",
-      "wrong": "Wrong! Baseball is dense and sinks!"
+      "correct": "Kahaha! The hollow tennis ball is less dense than water and floats!",
+      "wrong": "Wrong! A 7 kg bowling ball sinks while the hollow tennis ball floats!"
     }
   },
   {
@@ -10693,20 +10423,20 @@
   },
   {
     "id": "rid_1010",
-    "question": "Three people were talking in a room. Someone opened the door and said, “Only two people here?” What happened?",
+    "question": "On a rainy day, a father, a mother, and their son walked together under a single small umbrella, yet not one of the three got wet. How was this possible?",
     "options": [
-      "One was hiding in the closet",
-      "One was invisible",
-      "One was a newborn baby",
-      "One was a mirror reflection"
+      "They ran faster than the rain",
+      "The son was still an unborn baby in his mother’s womb",
+      "The umbrella had an invisible shield",
+      "The wind blew the rain upward"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Kahaha! Two adults plus a baby in arms!",
-      "wrong": "Wrong! Baby isn’t counted as a ‘person’ at a glance!"
+      "correct": "Kahaha! The mother was pregnant with their son, so only two walked under the umbrella!",
+      "wrong": "Wrong! The son was still inside his mother’s womb!"
     }
   },
   {

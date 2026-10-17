@@ -4554,24 +4554,6 @@
     "id": "rid_259"
   },
   {
-    "question": "Es vergräbt Chilipulver in seinem Körper und spuckt es nie aus. Was bin ich?",
-    "options": [
-      "Spültuch",
-      "Schwamm",
-      "Spülschwamm",
-      "Bürste"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Der Schwamm verliert die rote Farbe nie.",
-      "wrong": "Falsch! Es ist das schäumende Werkzeug zum Spülen."
-    },
-    "id": "rid_260"
-  },
-  {
     "question": "Vor dem Kochen ruhig, schreit es laut auf, sobald es innen brodelt. Was bin ich?",
     "options": [
       "Topf",
@@ -4896,24 +4878,6 @@
     "id": "rid_278"
   },
   {
-    "question": "Drückst du es zu spät nach verpasster Haltestelle, dreht sich der ganze Bus um. Was bin ich?",
-    "options": [
-      "Haltewunschtaste",
-      "Knopf",
-      "Ansage",
-      "Haltestange"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Spät gedrückt klingelt es lauter.",
-      "wrong": "Falsch! Es ist die Taste zum Aussteigen."
-    },
-    "id": "rid_279"
-  },
-  {
     "question": "Was ist dünn und spitz und bricht sofort in der Mitte ab, wenn man beim Schreiben etwas zu fest aufdrückt?",
     "options": [
       "Bleistiftmine",
@@ -5004,24 +4968,6 @@
     "id": "rid_284"
   },
   {
-    "question": "Auf den Rücken geklebt hält es, doch die Prüfungsnotiz fliegt im Wind weg. Was bin ich?",
-    "options": [
-      "Notizzettel",
-      "Aufkleber",
-      "Haftnotiz",
-      "Papier"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Haftnotizen fliegen gerade dann weg.",
-      "wrong": "Falsch! Es ist der kleine Zettel zum Kleben."
-    },
-    "id": "rid_285"
-  },
-  {
     "question": "Es bindet die Haare und reißt im schlimmsten Moment mit einem Zing. Was bin ich?",
     "options": [
       "Kamm",
@@ -5056,60 +5002,6 @@
       "wrong": "Falsch! Es ist das feuchte Tuch."
     },
     "id": "rid_287"
-  },
-  {
-    "question": "Beim Putzen spritzt es einem Freund absichtlich kaltes Wasser in den Nacken. Was bin ich?",
-    "options": [
-      "Gießkanne",
-      "Sprühflasche",
-      "Wasserpistole",
-      "Schlauch"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Die Sprühflasche trifft immer falsch.",
-      "wrong": "Falsch! Es ist das Werkzeug zum Sprühen."
-    },
-    "id": "rid_288"
-  },
-  {
-    "question": "In der stillen Lernstunde macht es 'Riiip' und zieht alle Blicke auf sich. Was bin ich?",
-    "options": [
-      "Knopf",
-      "Reißverschluss",
-      "Klettverschluss",
-      "Schnur"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Klett macht gerade dann Lärm.",
-      "wrong": "Falsch! Es ist der Klett zum Kleben."
-    },
-    "id": "rid_289"
-  },
-  {
-    "question": "Weich beim Sitzen, fällt es beim Aufstehen und hakt deinen Knöchel. Was bin ich?",
-    "options": [
-      "Matte",
-      "Kissen",
-      "Kopfkissen",
-      "Sitzkissen"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Das Kissen fällt beim Aufstehen.",
-      "wrong": "Falsch! Es ist die weiche Auflage am Stuhl."
-    },
-    "id": "rid_290"
   },
   {
     "question": "Rollst du es über die Uniform, beweist es, wie lange du nicht geputzt hast. Was bin ich?",
@@ -5200,24 +5092,6 @@
       "wrong": "Falsch! Es ist der kleine Ball auf dem Tisch."
     },
     "id": "rid_295"
-  },
-  {
-    "question": "Zum Abstauben gedacht, zieht es per Statik jeden Staub an. Was bin ich?",
-    "options": [
-      "Kamm",
-      "Kleiderbürste",
-      "Pinsel",
-      "Staubwedel"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Je mehr du bürstest, desto mehr haftet.",
-      "wrong": "Falsch! Es ist die Bürste für Kleidung."
-    },
-    "id": "rid_296"
   },
   {
     "question": "Du wendest das Spiegelei und es platzt das Eigelb, ruiniert den Look. Was bin ich?",
@@ -5436,29 +5310,11 @@
     "id": "rid_308"
   },
   {
-    "question": "Es bindet ein paar Ausdrucke und verkettet sich in der Federtasche. Was bin ich?",
+    "question": "Welches kleine, spitze Stäbchen aus Holz oder Stärke nutzt man nach dem Essen, um Speisereste zwischen den Zähnen zu lösen oder Obst aufzuspießen?",
     "options": [
-      "Tacker",
-      "Reißzwecke",
-      "Büroklammer",
-      "Klemme"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Büroklammern verknoten sich immer.",
-      "wrong": "Falsch! Es ist das Werkzeug zum Binden."
-    },
-    "id": "rid_309"
-  },
-  {
-    "question": "Im Restaurant gräbt es Chilipulver zwischen den Zähnen aus. Was bin ich?",
-    "options": [
-      "Zahnseide",
-      "Stäbchen",
-      "Gabel",
+      "Wattestäbchen",
+      "Streichholz",
+      "Trinkhalm",
       "Zahnstocher"
     ],
     "answer_index": 3,
@@ -5466,26 +5322,26 @@
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Richtig! Der Zahnstocher findet jedes Versteck.",
-      "wrong": "Falsch! Es ist der kleine Stab für die Zähne."
+      "correct": "Richtig! Ein spitzer Zahnstocher entfernt Speisereste oder spießt Häppchen auf.",
+      "wrong": "Falsch! Gesucht ist das kleine spitze Holzstäbchen: der Zahnstocher."
     },
     "id": "rid_310"
   },
   {
-    "question": "Nach dem Haareabtrocknen nass in die Ecke geknüllt, verströmt es schon nach einem Tag muffigen Modergeruch?",
+    "question": "Welcher Gegenstand im Badezimmer trocknet Gesicht und Körper zuverlässig ab, wird dabei aber selbst immer nasser, je mehr er trocknet?",
     "options": [
       "Handtuch",
-      "Peelinghandschuh",
-      "Seife",
-      "Duschschwamm"
+      "Seifenstück",
+      "Zahnbürste",
+      "Badezimmerspiegel"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Richtig! Ein nass zusammengeknülltes Handtuch stinkt rasend schnell muffig!",
-      "wrong": "Falsch! Das dicke Frotteetuch zum Abtrocknen nach dem Duschen."
+      "correct": "Richtig! Je mehr ein Handtuch abtrocknet, desto nasser wird es selbst.",
+      "wrong": "Falsch! Es ist das flauschige Tuch, das nach dem Waschen das Wasser aufsaugt: das Handtuch."
     },
     "id": "rid_311"
   },
@@ -5524,24 +5380,6 @@
       "wrong": "Falsch! Das Werkzeug mit Stiel und Gitterblatt zum Insektenjagen."
     },
     "id": "rid_313"
-  },
-  {
-    "question": "Streckst du den Fuß zu seinen offenen Beinen, tritt es wie Eisen ans Schienbein. Was bin ich?",
-    "options": [
-      "Stuhl",
-      "Schreibtisch",
-      "Esstisch",
-      "Klapptisch"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "Richtig! Seine Beine zielen aufs Schienbein.",
-      "wrong": "Falsch! Es ist der kleine Tisch mit Klappbeinen."
-    },
-    "id": "rid_314"
   },
   {
     "question": "Es klimpert in der Tasche und versteckt sich beim Fall unter dem Automaten. Was bin ich?",
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "category": "bathroom",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Gerade eben noch geschlossen, doch in der Tasche geht der Deckel auf und verschmiert alle möglichen Habseligkeiten klebrig?",
-    "options": [
-      "Sonnencreme",
-      "Wasserflasche",
-      "Lippenpflege",
-      "Zahnpasta"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Schmatz! Wenn man im Taschenboden tastet und auf die klebrige Masse stößt – diese Verzweiflung!",
-      "wrong": "Falsch~ Es berührt nur die offene Tasche und schmilzt von allein und entkommt dem Deckel – das ist der Lippenbalsam."
-    }
-  },
-  {
-    "id": "rid_335",
-    "category": "kitchen",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Du packst es ein, um bei Durst zu trinken, doch in der Tasche legt es sich von allein hin und durchtränkt deine Habseligkeiten?",
-    "options": [
-      "Regenschirm",
-      "Fächer",
-      "Powerbank",
-      "Thermobecher"
-    ],
-    "answer_index": 3,
-    "kkaebi_reaction": {
-      "correct": "Platsch! Auf das Wort 'komplett dicht' vertraut und schon quillt die Schulbuchecke im Wasser auf!",
-      "wrong": "Nein~ Beim Öffnen der Tasche ein Wassermeer zu hinterlassen, schuld ist der schlecht verschlossene Thermobecher."
-    }
-  },
-  {
     "id": "rid_337",
     "category": "nature",
     "difficulty": 1,
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "category": "tech",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Du bist mit voll aufgeladenen 100 % losgezogen, doch sobald der Abend kommt, blinkt es allein rot und keucht?",
-    "options": [
-      "Smartwatch",
-      "Funkmaus",
-      "Powerbank",
-      "Bluetooth-Lautsprecher"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Blink, blink! Da hast du den Burschen zum Füttern mitgenommen, und er frisst erst mal sein eigenes Futter auf!",
-      "wrong": "Nein~ In der Tasche nur mit Ziegelgewicht prahlt und dann leer wird – das ist die Powerbank."
-    }
-  },
-  {
     "id": "rid_342",
     "category": "food",
     "difficulty": 1,
@@ -5757,24 +5541,6 @@
     "kkaebi_reaction": {
       "correct": "Knusper! Es landet mehr Brösel auf dem Tisch als im Mund!",
       "wrong": "Falsch~ Ein Biss und schon ruft es Mamis schallende Ohrfeige hervor – diese Leckerei ist die Pastete."
-    }
-  },
-  {
-    "id": "rid_343",
-    "category": "tech",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Es leuchtet hell im Dunkeln, doch in dem Moment, in dem sich der Finger auf meinem Gesicht verirrt, stürzt es auf mein Gesicht?",
-    "options": [
-      "Smartphone",
-      "Leselampe",
-      "Tablet",
-      "Taschenlampe"
-    ],
-    "answer_index": 0,
-    "kkaebi_reaction": {
-      "correct": "Wumm! Nur wer sich im Liegen beim YouTube-Schauen die Nase gestoßen hat, kennt diese Tränen!",
-      "wrong": "Nein~ In einem Moment der Unachtsamkeit zieht die Schwerkraft es herab und trifft mein Gesicht – das ist das Smartphone."
     }
   },
   {
@@ -5811,24 +5577,6 @@
     "kkaebi_reaction": {
       "correct": "Wrrr, wumm! Zusammen mit Brandgeruch opferst du ein paar kostbare Haare!",
       "wrong": "Nein~ Zu nah an den Hinterkopf gehalten und die Haare herausgerissen – das ist der Föhn."
-    }
-  },
-  {
-    "id": "rid_347",
-    "category": "food",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Öffne den Deckel, und warmer Reis kommt heraus, doch ist alles aufgegessen, wandert nur noch ein leerer Körper umher. Was ist das?",
-    "options": [
-      "Topf",
-      "Teller",
-      "Thermosflasche",
-      "Lunchbox"
-    ],
-    "answer_index": 3,
-    "kkaebi_reaction": {
-      "correct": "Deckel auf – ein Glanz, ausgegessen – leerer Bauch! Der Star der Mittagspause!",
-      "wrong": "Falsch! Die kleine Dose, in der man Reis mitnimmt, ist die Lunchbox."
     }
   },
   {
@@ -6009,24 +5757,6 @@
     "kkaebi_reaction": {
       "correct": "Au, heiß! Im Pappbecher gehalten und gepustet – genau richtig, um sich die Zunge zu verbrennen – der Geschmack des Winters!",
       "wrong": "Nein~ Ahnungslos hineingebissen und von zuckerhaltigem Magma überrascht – das ist der Hotteok."
-    }
-  },
-  {
-    "id": "rid_360",
-    "category": "school",
-    "difficulty": 1,
-    "reward_keys": 1,
-    "question": "Sorgfältig im Federmäppchen aufbewahrt, doch der Deckel wird locker und es quetscht von allein sein Inneres heraus und färbt die Tasche violett?",
-    "options": [
-      "Stempel",
-      "Farbe",
-      "OMR-Stift",
-      "Stempelkissen"
-    ],
-    "answer_index": 2,
-    "kkaebi_reaction": {
-      "correct": "Blitz! Die OMR-Karte muss markiert werden, aber die Spitze ist zerquetscht und ein dicker Pinsel geworden!",
-      "wrong": "Nein~ Hinter den Deckel gesteckt und irgendwo verloren – der Stammgast ist der OMR-Stift."
     }
   },
   {
@@ -6376,17 +6106,17 @@
     "category": "school",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Du malst begeistert, doch schon etwas zu viel Druck und es bricht knack ab?",
+    "question": "Welches stiftförmige Malwerkzeug ohne Holzmantel besteht aus Wachs, Öl und Pigmenten, trägt eine Papierbanderole für saubere Finger und stößt Wasserfarbe ab?",
     "options": [
-      "Buntstift",
-      "Bleistift",
-      "Wachsmalstift",
-      "Pinsel"
+      "Wasserfarbkasten",
+      "Druckbleistift",
+      "Tuschestein",
+      "Ölpastellkreide (Wachsmalkreide)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "kkaebi_reaction": {
-      "correct": "Klack! Bunte Farben sind schön, aber der Körper ist schwach wie Schokolade im Sommer.",
-      "wrong": "Falsch! Der bunte Stab, der bei etwas Druck knackt – das ist der Wachsmalstift."
+      "correct": "Richtig! Durch Wachs und Öl perlt Wasserfarbe an Ölpastell- und Wachsmalkreide einfach ab.",
+      "wrong": "Falsch! Der papierumwickelte Wachs- und Öl-Malstift ist die Ölpastellkreide."
     }
   },
   {
@@ -6394,17 +6124,17 @@
     "category": "daily",
     "difficulty": 1,
     "reward_keys": 1,
-    "question": "Wenn ich es suche, versteckt es sich immer unter dem Sofa, und wenn ich nicht schaue, hält es plötzlich mein Bruder in der Hand?",
+    "question": "Welches kabellose Handgerät voller Zahlen- und Pfeiltasten ermöglicht es, bequem vom Sofa aus den entfernten Fernseher oder die Klimaanlage zu steuern?",
     "options": [
-      "Brille",
-      "Ohrhörer",
-      "Ladegerät",
+      "Taschenrechner",
+      "Schnurgebundenes Telefon",
+      "Tischwecker",
       "Fernbedienung"
     ],
     "answer_index": 3,
     "kkaebi_reaction": {
-      "correct": "Dingdong! Unter dem Sofa ist das geheime Versteck der Fernbedienungen!",
-      "wrong": "Falsch! Wenn man nicht schaut, verschwindet es, und nur wenn man es braucht, ist es weg – die Fernbedienung."
+      "correct": "Bing! Eine Fernbedienung steuert Fernseher und Geräte per Infrarotsignal aus der Ferne.",
+      "wrong": "Falsch! Das Gerät mit vielen Tasten zur Steuerung aus der Distanz ist die Fernbedienung."
     }
   },
   {
@@ -9001,20 +8731,20 @@
   },
   {
     "id": "rid_916",
-    "question": "An einem Baum hingen Äpfel. Nachdem ich welche pflückte, waren weder am Baum noch in meiner Hand Äpfel. Was war passiert?",
+    "question": "Im Raum brannten 10 Kerzen, als ein Windstoß 3 ausblies und das Fenster sofort geschlossen wurde. Wie viele Kerzen sind am Morgen noch übrig?",
     "options": [
-      "Es hingen zwei, ich pflückte nur einen",
-      "Ich aß sie sofort auf",
-      "Ich ließ sie auf den Boden fallen",
-      "Jemand anderes schnappte sie"
+      "Die 3 erloschenen Kerzen (die anderen 7 sind abgebrannt)",
+      "Die 7 weiterbrennenden Kerzen",
+      "Alle 10 Kerzen bleiben übrig",
+      "0 Kerzen (alle geschmolzen)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Haha! Sprachtrick mit der Mehrzahl!",
-      "wrong": "Falsch! Es blieben keine „Äpfel“ (Plural)!"
+      "correct": "Haha! Nur die 3 erloschenen Kerzen schmelzen nicht weg!",
+      "wrong": "Falsch! Die 7 brennenden Kerzen sind bis zum Morgen abgebrannt!"
     }
   },
   {
@@ -9325,20 +9055,20 @@
   },
   {
     "id": "rid_934",
-    "question": "Beim Kauf braucht der Hersteller den Gegenstand nicht und verkauft ihn, der Käufer benutzt ihn nie, der Nutzer merkt es nicht. Was ist das?",
+    "question": "Ein Tischler baut diese Holzkiste nie für sich selbst, der Käufer nutzt sie nicht selbst, und wer darin liegt, sieht sie zu Lebzeiten nie. Was ist das?",
     "options": [
-      "Schlafmaske",
-      "Babywindel",
+      "Schmuckschatulle",
+      "Babywiege",
       "Sarg",
-      "Geschenkpapier"
+      "Kleiderschrank"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Der Sarg – Hersteller verkauft, Familie kauft, der Tote weiß nichts!",
-      "wrong": "Falsch! Denk an die letzte Ruhestätte!"
+      "correct": "Haha! Der Sarg – Hersteller verkauft, Familie kauft, der Verstorbene weiß nichts!",
+      "wrong": "Falsch! Denk an die letzte Ruhestätte aus Holz!"
     }
   },
   {
@@ -9577,20 +9307,20 @@
   },
   {
     "id": "rid_948",
-    "question": "Ein versiegelter Raum ist voller Luft. Was ist der schnellste Weg, die Luft aus dem Raum zu entfernen?",
+    "question": "Wie drückt man ohne Pumpe oder Maschine am sichersten die gesamte Luft aus einer leeren, enghalsigen Glasflasche?",
     "options": [
-      "Den Raum mit Wasser oder Möbeln füllen",
-      "Mit einer Vakuumpumpe absaugen",
-      "Einen großen Ventilator auf Maximum laufen lassen",
-      "Die Fenster weit öffnen"
+      "Die Glasflasche komplett mit Wasser füllen",
+      "Die Flasche kräftig mit der Hand schütteln",
+      "In den Flaschenhals pusten",
+      "Die Flasche in den Schatten stellen"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Das Volumen mit etwas anderem verdrängen!",
-      "wrong": "Falsch! Raum füllen und Luft herausdrücken!"
+      "correct": "Haha! Wasser verdrängt die gesamte Luft aus der Flasche!",
+      "wrong": "Falsch! Mit Wasser füllen drückt die Luft heraus!"
     }
   },
   {
@@ -9721,20 +9451,20 @@
   },
   {
     "id": "rid_956",
-    "question": "Einer der vier Reifen eines Autos auf der Autobahn hatte eine Panne. Dennoch kam der Fahrer mit normaler Geschwindigkeit problemlos am Ziel an. Wie?",
+    "question": "Einer der Reifen in einem Auto auf der Autobahn war völlig platt. Dennoch kam der Fahrer ohne Reifenwechsel mit normaler Geschwindigkeit ans Ziel. Wie?",
     "options": [
-      "Der Reservereifen im Kofferraum hatte die Panne",
-      "Es war ein Run-Flat-Reifen",
-      "Fuhr ausbalanciert auf drei Rädern",
-      "Wurde die ganze Zeit abgeschleppt"
+      "Der Reservereifen im Kofferraum war platt",
+      "Er fuhr auf nur drei Rädern balancierend",
+      "Platte Reifen machen das Auto schneller",
+      "Die Autobahn bestand aus glattem Eis"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Haha! Nur der unbenutzte Reservereifen war platt!",
-      "wrong": "Falsch! Die fahrenden Reifen waren in Ordnung!"
+      "correct": "Haha! Nur der unbenutzte Reservereifen im Kofferraum war platt!",
+      "wrong": "Falsch! Die vier rollenden Räder waren völlig in Ordnung!"
     }
   },
   {
@@ -9937,56 +9667,56 @@
   },
   {
     "id": "rid_968",
-    "question": "Auf einer reibungsfreien Eisfläche werden eine schwere Stahlkugel und ein leichter Tischtennisball stark angeblasen. Welcher rollt weiter?",
+    "question": "Im Vakuum des Alls ohne Reibung und Luftwiderstand werden eine schwere Stahlkugel und ein Tischtennisball mit je 5 m/s angestoßen. Welcher fliegt weiter?",
     "options": [
-      "Beide rollen ewig weiter",
-      "Die Stahlkugel",
-      "Der Tischtennisball",
-      "Die Stahlkugel wegen Luftwiderstand"
+      "Beide fliegen mit gleicher Geschwindigkeit ewig weiter",
+      "Die schwere Stahlkugel fliegt viel weiter",
+      "Der leichte Tischtennisball hält zuerst an",
+      "Beide stoppen nach genau 5 Metern"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Null Reibung – beide rollen ewig!",
-      "wrong": "Falsch! Trägheit hält beide in Bewegung!"
+      "correct": "Haha! Ohne Widerstand hält die Trägheit beide ewig in Bewegung!",
+      "wrong": "Falsch! Im Vakuum fliegen beide endlos mit 5 m/s weiter!"
     }
   },
   {
     "id": "rid_969",
-    "question": "Wie kann ein Schlagmann im Baseball die erste Base erreichen, ohne den Ball zu schlagen?",
+    "question": "Im Baseball stand ein Schlagmann regungslos in der Box, ohne einmal zu schwingen, und bekam dennoch die erste Base zugesprochen. Welche Regel trifft zu?",
     "options": [
-      "Catcher lässt den dritten Strike fallen",
+      "Foul-Fly-Out-Entscheidung",
       "Hit by Pitch oder Base on Balls (Walk)",
-      "Pitcher begeht einen Balk",
-      "Interference wird gegeben"
+      "Infield-Fly-Regel",
+      "Drei-Bunt-Strikeout"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Walk oder Hit-by-Pitch – kein Schwung nötig!",
-      "wrong": "Falsch! Vier Bälle oder ein Treffer tun’s!"
+      "correct": "Haha! Walk (vier Bälle) oder Hit-by-Pitch bringt dich ohne Schwung zur ersten Base!",
+      "wrong": "Falsch! Vier Bälle oder ein Treffer reichen für Base 1!"
     }
   },
   {
     "id": "rid_970",
-    "question": "Ein Apfelbaum auf Cheolsus Dach wächst über den Nachbargarten und trägt Früchte. Wem gehören die Äpfel rechtlich?",
+    "question": "Ein Zweig einer roten Rose wird auf den Stamm einer gelben Rose gepfropft. Welche Farbe haben die Blüten, die an diesem gepfropften Zweig wachsen?",
     "options": [
-      "Gefallene dem Nachbarn, hängende Cheolsu",
-      "Dem Nachbarn, weil der Ast überhängt",
-      "Cheolsu, weil die Wurzeln auf seinem Grundstück sind",
-      "Wer sie zuerst pflückt"
+      "Rosa (Mischung beider Farben)",
+      "Gelb (wie die Wurzelunterlage)",
+      "Rot (gemäß der Genetik des gepfropften Zweigs)",
+      "Weiß (Farbstoff geht verloren)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Die Früchte gehören dem Eigentümer der Wurzeln!",
-      "wrong": "Falsch! Wurzelbesitz entscheidet!"
+      "correct": "Haha! Das Edelreis behält seine eigenen Gene – es blüht rot!",
+      "wrong": "Falsch! Die Blütenfarbe richtet sich nach dem aufgepfropften Zweig!"
     }
   },
   {
@@ -10063,20 +9793,20 @@
   },
   {
     "id": "rid_975",
-    "question": "Auf einem stockdunklen Nachtweg ohne Laternen und ohne Mond stolperte der Vordermann nie über einen Stein. Warum?",
+    "question": "Alle Straßenlaternen waren aus, und am Himmel gab es weder Mond- noch Sternenlicht. Trotzdem sah jemand ohne Taschenlampe jeden Stein auf dem Weg. Wie?",
     "options": [
-      "Nutze Infrarot-Nachtsichtbrille",
-      "War tagsüber denselben Weg gegangen",
-      "Nutze einen Blindenstock",
-      "Ging mit Smartphone-Taschenlampe"
+      "Seine Augen strahlten Laserlicht aus",
+      "Der Stein gab Warngeräusche ab",
+      "Er rannte mit geschlossenen Augen",
+      "Es war heller Tag und nicht Nacht"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Haha! Handylicht zeigte den Weg!",
-      "wrong": "Falsch! Einfache Taschenlampe genügt!"
+      "correct": "Haha! Es war hellerlichter Tag bei Sonnenschein!",
+      "wrong": "Falsch! Tagsüber sind Laternen aus und die Sonne scheint!"
     }
   },
   {
@@ -10171,20 +9901,20 @@
   },
   {
     "id": "rid_981",
-    "question": "Jemand stieg in eine Fähre, um einen Fluss zu überqueren. Außer dem Fährmann war kein Passagier an Bord, doch das Boot sank mitten im Fluss. Warum?",
+    "question": "Ein Pilot stieg allein in ein intaktes Boot ohne Loch, ohne Riffkontakt und ohne Fracht, doch beim Start tauchte es sofort unter Wasser. Warum?",
     "options": [
-      "Loch im Boden",
-      "Es war mit schwerer Fracht beladen",
-      "Es fuhr auf ein Unterwasser-Riff",
-      "Der Fährmann wog 500 kg"
+      "Der Pilot war sehr alt",
+      "Es war ein U-Boot, das unter Wasser fährt",
+      "Das Wasser war zu kalt",
+      "Die Ruder wurden rückwärts bewegt"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Fracht, nicht Passagiere, überlud es!",
-      "wrong": "Falsch! Die Ladung überschritt das Limit!"
+      "correct": "Haha! Kein Unfall – es war ein U-Boot auf Tauchfahrt!",
+      "wrong": "Falsch! Ein U-Boot ist genau dafür gebaut, unterzutauchen!"
     }
   },
   {
@@ -10387,20 +10117,20 @@
   },
   {
     "id": "rid_993",
-    "question": "Ein Mann verirrte sich in einem Schneesturm im Gebirge. Er hatte ein Smartphone, konnte aber den Notruf nicht anrufen. Warum?",
+    "question": "Ein verirrter Wanderer im Gebirge hatte ein intaktes Smartphone mit 100 % Akku und funktionierendem Display, konnte aber keinen Notruf absetzen. Warum?",
     "options": [
-      "Akku war leer",
-      "Kein Netz-Empfang in den Bergen",
-      "Handschuhe verhinderten Touch-Eingabe",
-      "Er hatte die Notfall-PIN vergessen"
+      "Die Handyhülle war schwarz",
+      "Funkloch ohne jeglichen Mobilfunkempfang",
+      "Die Bergluft war zu sauber",
+      "Das Telefon war zu leicht"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Kein Signal in der Wildnis!",
-      "wrong": "Falsch! Außerhalb der Netzabdeckung!"
+      "correct": "Haha! Auch mit vollem Akku geht ohne Netzsignal kein Anruf raus!",
+      "wrong": "Falsch! Er befand sich außerhalb der Mobilfunkabdeckung!"
     }
   },
   {
@@ -10477,20 +10207,20 @@
   },
   {
     "id": "rid_998",
-    "question": "Was schwimmt auf Wasser – ein Baseball oder ein Tennisball?",
+    "question": "Eine 7 kg schwere Bowlingkugel und ein hohler Tennisball werden gleichzeitig in tiefes Wasser gelegt. Welcher Ball schwimmt an der Oberfläche?",
     "options": [
-      "Beide schwimmen",
-      "Der Baseball",
-      "Der hohle Gummiball",
-      "Beide sinken"
+      "Beide Bälle schwimmen oben",
+      "Nur die schwere Bowlingkugel schwimmt",
+      "Nur der hohle Tennisball schwimmt oben",
+      "Beide Bälle sinken auf den Grund"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Tennisball ist hohl und schwimmt!",
-      "wrong": "Falsch! Baseball ist dicht und sinkt!"
+      "correct": "Haha! Der hohle Tennisball hat eine geringere Dichte als Wasser und schwimmt!",
+      "wrong": "Falsch! Die 7-kg-Bowlingkugel sinkt, der Tennisball schwimmt!"
     }
   },
   {
@@ -10693,20 +10423,20 @@
   },
   {
     "id": "rid_1010",
-    "question": "Drei Personen saßen in einem Zimmer und unterhielten sich. Jemand öffnete die Tür und sagte: „Nur zwei Leute hier?“ Was war los?",
+    "question": "An einem Regentag gingen Vater, Mutter und Sohn gemeinsam unter einem einzigen kleinen Regenschirm, und keiner der drei wurde nass. Wie war das möglich?",
     "options": [
-      "Einer versteckte sich im Schrank",
-      "Einer war unsichtbar",
-      "Einer war ein Neugeborenes",
-      "Einer war ein Spiegelbild"
+      "Sie rannten schneller als der Regen",
+      "Der Sohn war noch ungeboren im Bauch der Mutter (nur zwei liefen)",
+      "Der Schirm hatte ein unsichtbares Schutzschild",
+      "Der Wind blies den Regen nach oben"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Zwei Erwachsene plus ein Baby im Arm!",
-      "wrong": "Falsch! Baby wird auf den ersten Blick nicht als „Person“ gezählt!"
+      "correct": "Haha! Die Mutter war schwanger – unter dem Schirm gingen nur zwei Erwachsene!",
+      "wrong": "Falsch! Der Sohn war noch im Bauch seiner Mutter!"
     }
   },
   {

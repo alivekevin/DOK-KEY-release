@@ -4554,24 +4554,6 @@
     }
   },
   {
-    "id": "rid_260",
-    "question": "It keeps chili powder buried in its body and never spits it out. What am I?",
-    "options": [
-      "Dishcloth",
-      "Scrubber",
-      "Sponge",
-      "Brush"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Scrubber mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_261",
     "question": "Quiet before the water boils, it shrieks a whistle when its inside churns. What am I?",
     "options": [
@@ -4896,24 +4878,6 @@
     }
   },
   {
-    "id": "rid_279",
-    "question": "Press it late after missing your stop and the whole bus turns around. What am I?",
-    "options": [
-      "Stop-request bell",
-      "Button",
-      "Announcement",
-      "Handrail"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Stop-request bell mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_280",
     "question": "What is thin and sharp, snapping at the waist if you press down just a little too hard when writing?",
     "options": [
@@ -5004,24 +4968,6 @@
     }
   },
   {
-    "id": "rid_285",
-    "question": "Stick it on a friend and it holds, but the exam-scope note blows away. What am I?",
-    "options": [
-      "Memo pad",
-      "Sticker",
-      "Sticky note",
-      "Paper"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Sticky note mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_286",
     "question": "It ties your hair, then snaps with a ting at the worst moment. What am I?",
     "options": [
@@ -5054,60 +5000,6 @@
     "category": "daily",
     "kkaebi_reaction": {
       "correct": "Barakalla! Wet wipes mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_288",
-    "question": "During cleaning it sprays cold water on a friend's neck on purpose. What am I?",
-    "options": [
-      "Watering can",
-      "Spray bottle",
-      "Water gun",
-      "Hose"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Spray bottle mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_289",
-    "question": "In a silent study hour it goes rip and draws the whole class's eyes. What am I?",
-    "options": [
-      "Button",
-      "Zipper",
-      "Velcro",
-      "String"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Velcro mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_290",
-    "question": "Soft while you sit, it drops and hooks your ankle the moment you stand. What am I?",
-    "options": [
-      "Mat",
-      "Cushion",
-      "Pillow",
-      "Seat cushion"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Seat cushion mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -5198,24 +5090,6 @@
     "category": "sports",
     "kkaebi_reaction": {
       "correct": "Barakalla! Ping-pong ball mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_296",
-    "question": "Sent to brush off dust, it pulls every speck in with static instead. What am I?",
-    "options": [
-      "Comb",
-      "Clothes brush",
-      "Paintbrush",
-      "Duster"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Clothes brush mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -5436,57 +5310,39 @@
     }
   },
   {
-    "id": "rid_309",
-    "question": "It binds a few printouts, then chain-tangles inside your pencil case. What am I?",
-    "options": [
-      "Stapler",
-      "Thumbtack",
-      "Paper clip",
-      "Clip"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Paper clip mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_310",
-    "question": "At a restaurant it digs out the chili powder hiding between teeth. What am I?",
+    "question": "Ovqatdan so‘ng tishlar orasigaestrilib qolgan ovqat qoldiqlarini tozalash yoki meva bo‘laklarini sanchib olish uchun ishlatiladigan uchi o‘tkir kichik yog‘och cho‘p nima?",
     "options": [
-      "Dental floss",
-      "Chopstick",
-      "Fork",
-      "Toothpick"
+      "Paxtali tayoqcha",
+      "Gugurt cho‘pi",
+      "Ichimlik naychasi",
+      "Tish kovlagich"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Toothpick mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
+      "correct": "To‘g‘ri! Uchi o‘tkir tish kovlagich tish orasini tozalash va mevalarni sanchib olishga xizmat qiladi.",
+      "wrong": "Noto‘g‘ri! Bu ovqatdan keyin ishlatiladigan uchi o‘tkir tish kovlagichdir."
     }
   },
   {
     "id": "rid_311",
-    "question": "After drying your washed hair, if you leave it crumpled in a damp bathroom corner it reeks of musty odor within a day. What is it?",
+    "question": "Yuz va tanadagi suvni quritadigan, ammo qanchalik ko‘p quritsa o‘zi shunchalik ho‘l bo‘lib boradigan hammom buyumi nima?",
     "options": [
-      "Bath towel",
-      "Exfoliating glove",
-      "Soap",
-      "Loofah sponge"
+      "Sochiq",
+      "Sovun",
+      "Tish cho‘tkasi",
+      "Ko‘zgu"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Bath towel mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
+      "correct": "To‘g‘ri! Sochiq suvni qancha ko‘p artsa, o‘zi shuncha ho‘l bo‘lib boradi.",
+      "wrong": "Noto‘g‘ri! Yuvinishdan keyin suvni shimib oladigan yumshoq mato — sochiqdir."
     }
   },
   {
@@ -5522,24 +5378,6 @@
     "category": "home",
     "kkaebi_reaction": {
       "correct": "Barakalla! Fly swatter mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_314",
-    "question": "Stretch your foot toward its open leg and it kicks your shin like iron. What am I?",
-    "options": [
-      "Chair",
-      "Desk",
-      "Dining table",
-      "Folding table"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Folding table mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "question": "You definitely just closed it, but in your bag the lid opens and makes all your belongings sticky. What is it?",
-    "options": [
-      "Sunscreen",
-      "Water bottle",
-      "Lip balm",
-      "Toothpaste"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "bathroom",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Lip balm mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_335",
-    "question": "You packed it to drink when thirsty, but in your bag it lies down on its own and soaks all your belongings. What is it?",
-    "options": [
-      "Umbrella",
-      "Fan",
-      "Power bank",
-      "Tumbler"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Tumbler mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_337",
     "question": "It stuffs its cheek pouches full of food and hides it, but forgets everything the moment it runs on the wheel. What is it?",
     "options": [
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "question": "You definitely left with it 100% full, but by evening it blinks red all alone and pants for breath. What is it?",
-    "options": [
-      "Smartwatch",
-      "Wireless mouse",
-      "Power bank",
-      "Bluetooth speaker"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Power bank mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
     "id": "rid_342",
     "question": "You happily bite into a sweet snack, and it rains crumbs thickly through your fingers. What is it?",
     "options": [
@@ -5756,24 +5540,6 @@
     "category": "food",
     "kkaebi_reaction": {
       "correct": "Barakalla! Pastry pie mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_343",
-    "question": "It shines brightly in the dark, but the moment your fingers misstep over your face it drops onto your face. What is it?",
-    "options": [
-      "Smartphone",
-      "Reading lamp",
-      "Tablet",
-      "Flashlight"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Smartphone mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -5810,24 +5576,6 @@
     "category": "bathroom",
     "kkaebi_reaction": {
       "correct": "Barakalla! Hair dryer mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_347",
-    "question": "Open the lid and warm rice appears, but once it's all eaten, only an empty body wanders around. What is it?",
-    "options": [
-      "Pot",
-      "Plate",
-      "Thermos",
-      "Lunchbox"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "food",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Lunchbox mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -6008,24 +5756,6 @@
     "category": "food",
     "kkaebi_reaction": {
       "correct": "Barakalla! Hotteok mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
-    }
-  },
-  {
-    "id": "rid_360",
-    "question": "You keep it carefully in your pencil case, but the lid loosens and it squeezes out its own insides, painting the inside of your bag purple. What is it?",
-    "options": [
-      "Stamp",
-      "Paint",
-      "Computer-marking pen",
-      "Stamp pad"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Barakalla! Computer-marking pen mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -6373,38 +6103,38 @@
   },
   {
     "id": "rid_383",
-    "question": "You draw happily, but press just a little and it snaps with a pop. What is it?",
+    "question": "Yog‘och qobiqsiz mum, moy va bo‘yoqdan tayyorlangan, qo‘lni dog‘ qilmaslik uchun qog‘oz tasma o‘ralgan hamda suvbo‘yoqni o‘zidan itaradigan chizish quroli nima?",
     "options": [
-      "Colored pencil",
-      "Pencil",
-      "Crayon",
-      "Brush"
+      "Akvarel bo‘yog‘i",
+      "Mexanik qalam",
+      "Siyohdon va siyoh",
+      "Moyli pastel (Mumli qalam)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Crayon mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
+      "correct": "To‘g‘ri! Mum va moydan iborat moyli pastel ustidan suvbo‘yoq surtilsa, suvni itaradi.",
+      "wrong": "Noto‘g‘ri! Qog‘oz tasma o‘ralgan mumli rangli tayoqcha — moyli pasteldir."
     }
   },
   {
     "id": "rid_384",
-    "question": "It always hides under the sofa when I look for it, but when I'm not watching, it's somehow in your brother's hand. What is it?",
+    "question": "Ustida raqam va ko‘rsatkich tugmalari ko‘p bo‘lgan, divanda o‘tirgan joydan turib uzoqdagi televizor yoki konditsionerni yoqib, kanal va haroratni o‘zgartiradigan simsiz qurilma nima?",
     "options": [
-      "Glasses",
-      "Earphones",
-      "Charger",
-      "Remote control"
+      "Kalkulyator",
+      "Simli telefon",
+      "Stol uyg‘otkich soati",
+      "Masofadan boshqarish pulti"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Remote control mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
-      "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
+      "correct": "To‘g‘ri! Masofadan boshqarish pulti infraqizil nur orqali televizor va konditsionerni uzoqdan boshqaradi.",
+      "wrong": "Noto‘g‘ri! Uzoqdan maishiy texnikani boshqaradigan tugmali qurilma — pultdir."
     }
   },
   {
@@ -9001,19 +8731,19 @@
   },
   {
     "id": "rid_916",
-    "question": "There were apples on a tree. After I picked some, neither the tree nor my hand had any apples left. What happened?",
+    "question": "Ten candles were burning in a room when a gust blew out three. With the window closed right away, how many candles remain by the next morning?",
     "options": [
-      "There were two; I picked only one",
-      "I ate them right away",
-      "I dropped them on the ground",
-      "Someone else snatched them"
+      "The 3 blown-out candles (the other 7 burned away)",
+      "The 7 candles that kept burning",
+      "All 10 candles remain intact",
+      "0 candles (all melted away)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Barakalla! There were two; I picked only one mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! The 3 blown-out candles (the other 7 burned away) mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -9325,12 +9055,12 @@
   },
   {
     "id": "rid_934",
-    "question": "The maker doesn’t need it so sells it, the buyer never uses it, and the actual user doesn’t know he’s using it. What is it?",
+    "question": "A carpenter builds this wooden box never for himself, the buyer never uses it for himself, and the person laid inside never sees it in life. What is it?",
     "options": [
-      "Sleep mask",
-      "Baby diaper",
+      "Jewelry box",
+      "Baby cradle",
       "Coffin",
-      "Gift wrapping paper"
+      "Wardrobe"
     ],
     "answer_index": 2,
     "reward_keys": 1,
@@ -9577,19 +9307,19 @@
   },
   {
     "id": "rid_948",
-    "question": "A sealed room is full of air. What is the fastest way to remove the air from the room?",
+    "question": "Without any pump or machine, what is the surest way to push all the air out of an empty narrow-necked glass bottle?",
     "options": [
-      "Fill the room with water or furniture",
-      "Suck it out with a vacuum pump",
-      "Run a huge fan at maximum",
-      "Open the windows wide"
+      "Fill the bottle completely with water",
+      "Shake the bottle hard by hand",
+      "Blow into the mouth of the bottle",
+      "Stand the bottle in the shade"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Fill the room with water or furniture mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! Fill the bottle completely with water mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -9721,19 +9451,19 @@
   },
   {
     "id": "rid_956",
-    "question": "One of the four tires on a highway car went flat. Yet the driver reached the destination at normal speed with no problem. How?",
+    "question": "One of the tires carried by a car on the highway went completely flat. Yet the driver reached the destination at normal speed without changing a tire. How?",
     "options": [
-      "The spare tire in the trunk was the flat one",
-      "It was a run-flat tire",
-      "Drove balanced on three wheels",
-      "Was towed the whole way"
+      "The spare tire inside the trunk was the flat one",
+      "Drove balanced on just three wheels",
+      "Flat tires make a car go faster",
+      "The highway surface was slippery ice"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Barakalla! The spare tire in the trunk was the flat one mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! The spare tire inside the trunk was the flat one mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -9937,55 +9667,55 @@
   },
   {
     "id": "rid_968",
-    "question": "On a frictionless ice sheet a heavy steel ball and a light ping-pong ball are blown hard. Which travels farther?",
+    "question": "In outer-space vacuum with zero friction or air drag, a heavy steel ball and a ping-pong ball are pushed at the same speed (5 m/s). Which goes farther?",
     "options": [
-      "Both roll forever without stopping",
-      "The steel ball",
-      "The ping-pong ball",
-      "The steel ball because of air resistance"
+      "Both travel forever at the same speed without stopping",
+      "The heavy steel ball travels much farther",
+      "The light ping-pong ball stops first",
+      "Both stop after traveling 5 meters"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Both roll forever without stopping mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! Both travel forever at the same speed without stopping mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
   {
     "id": "rid_969",
-    "question": "In baseball, how can a batter reach first base without swinging at the ball?",
+    "question": "In baseball, a batter stood still in the batter’s box without swinging once, yet the umpire awarded first base. Which rule applies here?",
     "options": [
-      "Catcher drops the third strike (dropped third)",
-      "Hit by pitch or four balls (walk)",
-      "Pitcher commits a balk",
-      "Interference is called"
+      "Foul fly out call",
+      "Hit by pitch or Base on Balls (Four Balls)",
+      "Infield fly rule call",
+      "Three-bunt strikeout call"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Hit by pitch or four balls (walk) mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! Hit by pitch or Base on Balls (Four Balls) mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
   {
     "id": "rid_970",
-    "question": "An apple tree on Cheolsu’s roof grows branches over the neighbor’s yard and bears fruit. Legally whose apples are they?",
+    "question": "A branch from a red rose bush is grafted onto the sturdy stem of a yellow rose bush. What color roses will bloom from that grafted branch?",
     "options": [
-      "Fallen ones neighbor’s, hanging ones Cheolsu’s",
-      "Neighbor’s because the branch crossed",
-      "Cheolsu’s because the roots are on his land",
-      "Whoever picks them first"
+      "Pink (a mix of both colors)",
+      "Yellow (following the rootstock)",
+      "Red (following the genetics of the grafted branch)",
+      "White (grafting removes pigment)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Cheolsu’s because the roots are on his land mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! Red (following the genetics of the grafted branch) mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -10063,19 +9793,19 @@
   },
   {
     "id": "rid_975",
-    "question": "Walking a pitch-dark night road with no streetlights and no moon, the person ahead never tripped on a stone. Why?",
+    "question": "All streetlights were off, and there was no moonlight or starlight in the sky. Yet a walker clearly saw and avoided a stone ahead without any flashlight. How?",
     "options": [
-      "Used infrared night-vision goggles",
-      "Had walked the same path by day",
-      "Used a white cane for the blind",
-      "Walked with a smartphone flashlight on"
+      "Laser beams shot out of his eyes",
+      "The stone made a warning sound",
+      "He sprinted with his eyes closed",
+      "It was bright daytime, not night"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Barakalla! Walked with a smartphone flashlight on mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! It was bright daytime, not night mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -10171,19 +9901,19 @@
   },
   {
     "id": "rid_981",
-    "question": "A passenger boarded a ferry to cross a river. Besides the boatman there were no other passengers, yet the boat sank in mid-river. Why?",
+    "question": "A pilot boarded a sturdy vessel alone. It had no holes, hit no rocks, and carried no heavy cargo, yet as soon as it departed it sank underwater. Why?",
     "options": [
-      "A hole in the bottom",
-      "It was loaded with heavy cargo",
-      "It hit a submerged rock",
-      "The boatman weighed 500 kg"
+      "The pilot was very old",
+      "It was a submarine designed to travel underwater",
+      "The water was too cold",
+      "The oars were rowed backward"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Barakalla! It was loaded with heavy cargo mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! It was a submarine designed to travel underwater mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -10387,19 +10117,19 @@
   },
   {
     "id": "rid_993",
-    "question": "A man was lost in a snowstorm on a mountain with a smartphone, yet he could not call 911. Why?",
+    "question": "A hiker lost in deep mountains held a smartphone with 100% battery, zero defects, and a working touchscreen, yet could not place a rescue call. Why?",
     "options": [
-      "Battery was dead",
-      "No cell-signal coverage in the deep mountains",
-      "Gloves prevented touch input",
-      "He forgot the emergency PIN"
+      "The phone case was black",
+      "It was a dead zone with no cell tower signal coverage",
+      "The mountain air was too clean",
+      "The phone weighed too little"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Barakalla! No cell-signal coverage in the deep mountains mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! It was a dead zone with no cell tower signal coverage mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -10477,19 +10207,19 @@
   },
   {
     "id": "rid_998",
-    "question": "Which floats on water—a baseball or a tennis ball?",
+    "question": "A solid 7 kg adult bowling ball and a hollow rubber tennis ball are placed into deep water at the same time. Which ball floats to the surface?",
     "options": [
-      "Both float",
-      "The baseball",
-      "The hollow rubber ball",
-      "Both sink"
+      "Both the bowling ball and tennis ball float",
+      "Only the heavy bowling ball floats",
+      "Only the hollow tennis ball floats",
+      "Both balls sink to the bottom"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Barakalla! The hollow rubber ball mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! Only the hollow tennis ball floats mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },
@@ -10693,19 +10423,19 @@
   },
   {
     "id": "rid_1010",
-    "question": "Three people were talking in a room. Someone opened the door and said, “Only two people here?” What happened?",
+    "question": "On a rainy day, a father, a mother, and their son walked together under a single small umbrella, yet not one of the three got wet. How was this possible?",
     "options": [
-      "One was hiding in the closet",
-      "One was invisible",
-      "One was a newborn baby",
-      "One was a mirror reflection"
+      "They ran faster than the rain",
+      "The son was still an unborn baby in his mother’s womb",
+      "The umbrella had an invisible shield",
+      "The wind blew the rain upward"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Barakalla! One was a newborn baby mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
+      "correct": "Barakalla! The son was still an unborn baby in his mother’s womb mutlaqo to'g'ri! Devning oltin mukofoti seniki!",
       "wrong": "Xato! Topishmoq ustida yana bir bor yaxshilab o'ylab ko'r!"
     }
   },

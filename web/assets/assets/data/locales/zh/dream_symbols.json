@@ -158,7 +158,7 @@
         "horse"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "马到成功、势不可挡的推进力与远大目标的实现",
       "advice": "马蹄声声催人进！不要犹豫，带着全速冲向目标吧！"
@@ -174,7 +174,7 @@
         "turtle"
       ],
       "fortune": "auspicious",
-      "lucky_number": 80,
+      "lucky_number": 14,
       "card_id": "moon_jar",
       "meaning": "健康长寿、基业长青与永续富贵安康之吉兆",
       "advice": "汲取千年灵龟的智慧！眼光放长远，不为眼前的急躁所动！"
@@ -256,7 +256,7 @@
         "lion"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "mountain_spirit",
       "meaning": "统领大局的领导力、稳固的权威与强大后盾相助",
       "advice": "像万兽之王一样号令全场！今天你就是绝对的核心主角！"
@@ -288,7 +288,7 @@
         "deer"
       ],
       "fortune": "auspicious",
-      "lucky_number": 75,
+      "lucky_number": 9,
       "card_id": "cloud_hermit",
       "meaning": "高尚品格获得认可、得遇贵人厚爱与祥和福气",
       "advice": "清雅纯正之气围绕！保持温和微笑，福泽自然常伴！"
@@ -304,7 +304,7 @@
         "bear"
       ],
       "fortune": "auspicious",
-      "lucky_number": 82,
+      "lucky_number": 16,
       "card_id": "mountain_spirit",
       "meaning": "得大人物庇护、喜得贵子胎梦与巨额财富沉淀",
       "advice": "沉稳厚重的毅力将大放异彩！持之以恒定见成效！"
@@ -320,7 +320,7 @@
         "toad"
       ],
       "fortune": "auspicious",
-      "lucky_number": 93,
+      "lucky_number": 27,
       "card_id": "silk_pouch",
       "meaning": "金蟾招财、意外之财进门与家族兴旺昌盛之兆",
       "advice": "财源滚滚进门来！与家人共享这份喜悦和福气吧！"
@@ -353,7 +353,7 @@
         "poo"
       ],
       "fortune": "auspicious",
-      "lucky_number": 84,
+      "lucky_number": 18,
       "card_id": "silk_pouch",
       "meaning": "黄金万两沾身、财运滔天挡不住的超级大吉兆",
       "advice": "大财运找上门来了！今天果断启动之前犹豫的计划吧！"
@@ -369,7 +369,7 @@
         "blood"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "生机爆发、财源滚滚破局而出、厄运化为大吉之兆",
       "advice": "见红发财、生机盎然！积压已久的难题今天将彻底迎刃而解！"
@@ -419,7 +419,7 @@
         "tears"
       ],
       "fortune": "auspicious",
-      "lucky_number": 90,
+      "lucky_number": 24,
       "card_id": "water_sprite",
       "meaning": "心中郁结彻底化解、苦尽甘来、名扬四海的大喜事",
       "advice": "泪水洗净铅华！前方正有让人热泪盈眶的莫大喜悦等待着你！"
@@ -470,7 +470,7 @@
         "surgery"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "folding_fan",
       "meaning": "根本性革新、组织结构优化与脱胎换骨的重大突破",
       "advice": "刮骨疗毒方能重获新生！以果断的决心重整旗鼓吧！"
@@ -486,7 +486,7 @@
         "pregnancy"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "moon_jar",
       "meaning": "孕育重大新项目、巨大潜能爆发与创造性丰硕成果",
       "advice": "你孕育着无限可能的种子！悉心呵护，必将结出丰硕果实！"
@@ -518,7 +518,7 @@
         "growing tall"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "cloud_hermit",
       "meaning": "地位晋升、眼界格局大开、荣登更高阶层与要职",
       "advice": "站在更高处俯瞰全局！你的格局与气度正在飞速提升！"
@@ -619,7 +619,7 @@
         "star"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "star_weaver",
       "meaning": "灵感迸发、作品大受欢迎、万众瞩目的大吉星兆",
       "advice": "如繁星般璀璨的灵感正不断涌现！随时随地做好记录吧！"
@@ -636,7 +636,7 @@
         "sun"
       ],
       "fortune": "auspicious",
-      "lucky_number": 91,
+      "lucky_number": 25,
       "card_id": "sun_messenger",
       "meaning": "如日中天、名扬四海、前程似锦的至尊大吉之象",
       "advice": "灿烂红日照耀四方！挺起胸膛，展现你王者般的风采吧！"
@@ -670,7 +670,7 @@
         "mountain"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "雄心壮志得偿所愿、克服重重艰难登临人生巅峰",
       "advice": "登顶方能一览众山小！莫在半山腰停步，一鼓作气登上顶峰吧！"
@@ -688,7 +688,7 @@
         "ocean"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "water_sprite",
       "meaning": "迈向国际大舞台、宏大格局与浩瀚壮阔的商业成功",
       "advice": "扬帆起航驶向大洋！格局打开，切莫为眼前鸡毛蒜皮所困！"
@@ -739,7 +739,7 @@
         "rain"
       ],
       "fortune": "normal",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "water_sprite",
       "meaning": "如降甘霖化解干渴难题，或短暂的情绪阵雨即将放晴",
       "advice": "阵雨转瞬即逝！准备好雨伞，从容淡定应对即可！"
@@ -756,7 +756,7 @@
         "snow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 72,
+      "lucky_number": 6,
       "card_id": "moon_jar",
       "meaning": "瑞雪兆丰年、荡涤过往瑕疵、重获纯净与祥和祝福",
       "advice": "如新雪般展开纯白篇章！敞开心扉，书写全新的精彩吧！"
@@ -773,7 +773,7 @@
         "lightning"
       ],
       "fortune": "auspicious",
-      "lucky_number": 97,
+      "lucky_number": 31,
       "card_id": "dokkaebi_club",
       "meaning": "电光石火般的顿悟、一鸣惊人震撼业界的突飞猛进",
       "advice": "灵光一闪胜过千思万虑！立刻把脑海中的绝妙构想写下来！"
@@ -789,7 +789,7 @@
         "rainbow"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "lotus_lamp",
       "meaning": "风雨过后的灿烂辉煌、梦寐以求的愿望戏剧性达成",
       "advice": "风雨散尽彩虹高挂！是时候举杯庆祝属于你的荣耀时刻了！"
@@ -823,7 +823,7 @@
         "money"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "财运亨通、物质奖励丰厚、带来实质性丰沛收益",
       "advice": "正财偏财滚滚来！今天合理理财，检查一下你的积蓄吧！"
@@ -857,7 +857,7 @@
         "jewel"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "jade_ring",
       "meaning": "尊贵地位加身、最高价值获得公认、荣耀至极",
       "advice": "你如绝世美玉般璀璨！永远不要低估自身的非凡价值！"
@@ -1061,7 +1061,7 @@
         "gift"
       ],
       "fortune": "auspicious",
-      "lucky_number": 70,
+      "lucky_number": 4,
       "card_id": "silk_pouch",
       "meaning": "贵人倾力相助、浪漫表白或意外丰厚奖赏降临",
       "advice": "率先表达由衷的感恩！分享福气会让你的财富成倍倍增！"
@@ -1079,7 +1079,7 @@
         "ancestor"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "mountain_spirit",
       "meaning": "祖先庇佑与精神指引、化险为夷、迎来改写一生的重大转机",
       "advice": "列祖列宗为你开辟通途！怀着敬畏之心做出最端正的决断吧！"
@@ -1096,7 +1096,7 @@
         "mountain god"
       ],
       "fortune": "auspicious",
-      "lucky_number": 81,
+      "lucky_number": 15,
       "card_id": "mountain_spirit",
       "meaning": "得获至高智慧启迪、指点迷津、获得化解死局的妙计",
       "advice": "得道高人的指引！虚心向经验丰富的前辈和专家请教吧！"
@@ -1113,7 +1113,7 @@
         "dokkaebi"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "创想魔法启动、得神灵护佑、财宝福泽顷刻幻化成真",
       "advice": "我亲自来为你护航啦！木棒一挥万事顺意，开心大笑迎接好运吧！"
@@ -1147,7 +1147,7 @@
         "saint"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "lotus_lamp",
       "meaning": "佛光普照、大慈大悲化解一切苦难、功德无量福泽深厚",
       "advice": "圣洁光芒护佑加持！今天行一件小善，必获万倍福报福泽！"
@@ -1198,7 +1198,7 @@
         "talisman"
       ],
       "fortune": "auspicious",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "inkstone",
       "meaning": "结下坚不可摧的护身法界、挡去一切霉运晦气",
       "advice": "金光护体百邪不侵！没有任何负面能量可以阻挡你的脚步！"
@@ -1215,7 +1215,7 @@
         "coffin"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "见棺发财、脱胎换骨浴火重生、继承丰厚遗产大富大贵",
       "advice": "升官发财大吉兆！斩断旧我，一场惊天动地的人生大逆转正要开启！"
@@ -1249,7 +1249,7 @@
         "flying"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "wind_child",
       "meaning": "打破束缚展翅高飞、迈向自由与宏伟成就的上升气运",
       "advice": "飞得越高眼界越阔！今天放开手脚绘制最宏大的蓝图吧！"
@@ -1299,7 +1299,7 @@
         "dream in dream"
       ],
       "fortune": "normal",
-      "lucky_number": 73,
+      "lucky_number": 7,
       "card_id": "dream_eater",
       "meaning": "对现实与理想的深度省思、探索潜意识深处",
       "advice": "莫要困在思维的迷宫中！今天走出门去，在微风中轻快散步吧！"
@@ -1351,7 +1351,7 @@
         "funeral"
       ],
       "fortune": "auspicious",
-      "lucky_number": 95,
+      "lucky_number": 29,
       "card_id": "moon_jar",
       "meaning": "过往所有磨难彻底终结、绝地反击、迎来惊天横财大运",
       "advice": "旧的痛苦已然归零！准备好迎接全新的大喜事，尽情庆祝吧！"
@@ -1368,7 +1368,7 @@
         "exam pass"
       ],
       "fortune": "auspicious",
-      "lucky_number": 100,
+      "lucky_number": 34,
       "card_id": "rooster",
       "meaning": "十年寒窗苦读终获回报、荣获权威认证与万众欢呼",
       "advice": "流淌的每一滴汗水都化作了金灿灿的果实！好好嘉奖犒劳自己吧！"
@@ -1402,7 +1402,7 @@
         "fight"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "dokkaebi_club",
       "meaning": "正面迎击彻底化解冲突、力克对手取得决定性全胜",
       "advice": "勇者相逢勇者胜！挺起腰杆，有理有据展现你无可辩驳的气势！"
@@ -1419,7 +1419,7 @@
         "murder"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dokkaebi_club",
       "meaning": "彻底铲除长期绊脚石、夙愿彻底达成、大获全胜",
       "advice": "所有阻碍已被彻底粉碎！前路毫无阻挡，放手去大干一场吧！"
@@ -1538,7 +1538,7 @@
         "rice cake"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "silk_pouch",
       "meaning": "年年高升、家庭丰足和美、福禄寿全万事大吉",
       "advice": "年年高升福运临门！吃得饱饱，元气满满迎接全新挑战吧！"
@@ -1555,7 +1555,7 @@
         "fruit"
       ],
       "fortune": "auspicious",
-      "lucky_number": 76,
+      "lucky_number": 10,
       "card_id": "lotus_lamp",
       "meaning": "喜得贵子胎梦、甜蜜爱情结晶、丰厚收成与延年益寿",
       "advice": "硕果成熟正是收获时节！理直气壮去收获属于你的丰硕回报吧！"
@@ -1572,7 +1572,7 @@
         "tree"
       ],
       "fortune": "auspicious",
-      "lucky_number": 92,
+      "lucky_number": 26,
       "card_id": "mountain_spirit",
       "meaning": "培养栋梁之才、家族基业长青、为众人遮风避雨的参天后盾",
       "advice": "根深叶茂任凭风吹雨打！稳如泰山，做大家最坚实的顶梁柱！"
@@ -1657,7 +1657,7 @@
         "ginseng"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "mountain_spirit",
       "meaning": "天赐无上仙药、福寿双全、千载难逢的旷世奇珍大运",
       "advice": "挖到至尊宝藏啦！天赐良机千载难逢，紧紧把握绝不可错过！"
@@ -1725,7 +1725,7 @@
         "airplane"
       ],
       "fortune": "auspicious",
-      "lucky_number": 88,
+      "lucky_number": 22,
       "card_id": "wind_child",
       "meaning": "事业火箭般高速攀升、跨国业务拓展与超级大项目落地",
       "advice": "引擎已经全开！系好安全带，准备迎接跨越式的高速起飞吧！"
@@ -1742,7 +1742,7 @@
         "driving"
       ],
       "fortune": "auspicious",
-      "lucky_number": 71,
+      "lucky_number": 5,
       "card_id": "horse",
       "meaning": "牢牢掌握人生方向盘、事业如疾驰骏马般一往无前",
       "advice": "命运的方向盘就在你手中！踩下油门，风驰电掣奔向目标吧！"
@@ -1776,7 +1776,7 @@
         "ship"
       ],
       "fortune": "auspicious",
-      "lucky_number": 74,
+      "lucky_number": 8,
       "card_id": "water_sprite",
       "meaning": "大型团队扬帆起航、行稳致远的长期大航程与辉煌战果",
       "advice": "顺风顺水正当时！与同舟共济的战友们步调一致全力前行吧！"
@@ -1810,7 +1810,7 @@
         "elevator"
       ],
       "fortune": "auspicious",
-      "lucky_number": 89,
+      "lucky_number": 23,
       "card_id": "sun_messenger",
       "meaning": "火箭式垂直极速升迁、顷刻间荣登至高殿堂",
       "advice": "高速直梯已载你直冲云霄！电梯门开时，以王者之姿俯瞰顶峰吧！"
@@ -1878,7 +1878,7 @@
         "laughing"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_fire",
       "meaning": "欢声笑语驱散所有阴霾、阖家欢乐普天同庆之兆",
       "advice": "笑口常开好运自然来！今天对遇见的每一个人绽放灿烂笑容吧！"
@@ -1929,7 +1929,7 @@
         "ecstasy"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "cloud_pillow",
       "meaning": "灵魂彻底圆满丰足、人生至高大运与无上祥和福报",
       "advice": "天地间的一切祥瑞尽归于你！敞开胸怀尽情享受这无上幸福吧！"
@@ -1946,7 +1946,7 @@
         "magic club"
       ],
       "fortune": "auspicious",
-      "lucky_number": 77,
+      "lucky_number": 11,
       "card_id": "dokkaebi_club",
       "meaning": "金子出来吧敲一敲！心想事成、将一切构想幻化为真金白银",
       "advice": "大声说出你的愿望！吉鬼木棒一敲，统统为你变现成真！"
@@ -1980,7 +1980,7 @@
         "lucky pouch"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "silk_pouch",
       "meaning": "取之不尽用之不竭的聚宝盆、世代相传的家族鼎盛福泽",
       "advice": "锦囊满满全聚福！今天所行善念与慷慨，必将成倍回馈于你！"
@@ -1997,7 +1997,7 @@
         "magic broom"
       ],
       "fortune": "auspicious",
-      "lucky_number": 68,
+      "lucky_number": 2,
       "card_id": "wooden_comb",
       "meaning": "扫除一切霉运晦气、将万两黄金扫入家门的神奇大净化",
       "advice": "把晦气一扫而光，把万贯家财迎进门！打开窗户通通风换换气吧！"
@@ -2014,7 +2014,7 @@
         "dragon orb"
       ],
       "fortune": "auspicious",
-      "lucky_number": 99,
+      "lucky_number": 33,
       "card_id": "dragon",
       "meaning": "得获号令天下的至尊龙珠、千愿万愿必定100%圆满达成",
       "advice": "天下至尊如意龙珠入怀！世间再无你无法实现的宏伟梦想！"

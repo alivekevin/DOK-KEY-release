@@ -4554,24 +4554,6 @@
     }
   },
   {
-    "id": "rid_260",
-    "question": "Dụng cụ rửa chén nào sẽ giữ bột ớt đỏ dính lại trong cơ thể và không bao giờ nhổ ra?",
-    "options": [
-      "Khăn rửa chén",
-      "Máy chà sàn",
-      "Bọt biển",
-      "Bàn chải"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Miếng bọt biển không làm mất màu súp kim chi.",
-      "wrong": "Sai rồi! Đinh! Đó là một công cụ tạo bọt để làm sạch bát đĩa."
-    }
-  },
-  {
     "id": "rid_261",
     "question": "Cái gì trước khi nước sôi lại im lặng nhưng khi nước sôi lại kêu ầm ĩ cả xóm?",
     "options": [
@@ -4896,24 +4878,6 @@
     }
   },
   {
-    "id": "rid_279",
-    "question": "Điều gì sẽ xảy ra khi bạn lỡ một điểm dừng và nhấn muộn, khiến tất cả ô tô phải quay đầu lại?",
-    "options": [
-      "Tắt chuông",
-      "nút",
-      "Thông báo",
-      "xử lý"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "transit",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Nếu bấm chuông thoát muộn sẽ kêu to hơn.",
-      "wrong": "Sai rồi! Đinh! Đó là cái chuông bạn bấm khi xuống xe."
-    }
-  },
-  {
     "id": "rid_280",
     "question": "Cái gì mà mỏng và nhọn đến mức chỉ cần ấn nhẹ một chút là có thể gãy lưng?",
     "options": [
@@ -5004,24 +4968,6 @@
     }
   },
   {
-    "id": "rid_285",
-    "question": "Nó dính tốt khi bạn dán nó lên lưng một người bạn, nhưng điều gì sẽ xảy ra nếu phạm vi kiểm tra được ghi ra bị gió thổi bay?",
-    "options": [
-      "Sổ tay",
-      "nhãn dán",
-      "Đăng nó",
-      "giấy"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Chỉ những ghi chú quan trọng sau đó mới bay đi.",
-      "wrong": "Sai rồi! Đinh! Đó là một lưu ý nhỏ mà bạn có thể dán và bóc ra."
-    }
-  },
-  {
     "id": "rid_286",
     "question": "Điều gì sẽ xảy ra khi bạn giả vờ buộc tóc nhưng lại bị đứt vào thời điểm quan trọng?",
     "options": [
@@ -5055,60 +5001,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Câu trả lời đúng! Nếu bạn rút khăn giấy ướt ra nhanh chóng, chúng sẽ chảy ra thành một hàng.",
       "wrong": "Sai rồi! Đinh! Đó là một chiếc khăn giấy được ngâm trong nước."
-    }
-  },
-  {
-    "id": "rid_288",
-    "question": "Thế còn việc lén lút xịt nước lạnh vào lưng bạn mình trong lúc dọn dẹp thì sao?",
-    "options": [
-      "bình tưới nước",
-      "máy phun",
-      "súng nước",
-      "vòi"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Máy phun luôn phun nước không đúng chỗ.",
-      "wrong": "Sai rồi! Đinh! Đó là một công cụ phun nước như sương mù."
-    }
-  },
-  {
-    "id": "rid_289",
-    "question": "Điều gì thu hút sự chú ý của cả lớp khi phát ra âm thanh “cạch cạch” trong giờ tự học yên tĩnh?",
-    "options": [
-      "nút",
-      "dây kéo",
-      "Kẹt",
-      "Chuỗi"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Tiếng rít luôn phát ra âm thanh khi nó yên tĩnh.",
-      "wrong": "Sai rồi! Đinh! Đó là Velcro gắn và cởi ra."
-    }
-  },
-  {
-    "id": "rid_290",
-    "question": "Cái gì mềm mại khi bạn ngồi xuống nhưng lại rơi xuống và vướng vào mắt cá chân khi bạn đứng lên?",
-    "options": [
-      "Matt",
-      "đệm",
-      "gối",
-      "Đệm"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Đệm rơi xuống chân bạn khi bạn đứng lên.",
-      "wrong": "Sai rồi! Đinh! Đó là một chiếc ghế mềm trên ghế."
     }
   },
   {
@@ -5199,24 +5091,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Câu trả lời đúng! Một khi quả bóng bàn bị móp, mọi chuyện sẽ kết thúc.",
       "wrong": "Sai rồi! Đinh! Đó là một quả bóng nhỏ đang nảy trên bàn bóng bàn."
-    }
-  },
-  {
-    "id": "rid_296",
-    "question": "Điều gì thu hút tất cả bụi trên thế giới bằng tĩnh điện khi bạn cố gắng phủi bụi?",
-    "options": [
-      "lược",
-      "bàn chải quần áo",
-      "bàn chải",
-      "Khăn lau bụi"
-    ],
-    "answer_index": 1,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "daily",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Bạn càng chải bàn chải quần áo nhiều thì bụi càng tích tụ nhiều hơn.",
-      "wrong": "Sai rồi! Đinh! Đó là một bàn chải loại bỏ bụi khỏi quần áo."
     }
   },
   {
@@ -5436,57 +5310,39 @@
     }
   },
   {
-    "id": "rid_309",
-    "question": "Điều gì giả vờ buộc một vài bản in lại với nhau nhưng sau đó lại vướng vào nhau như một sợi dây xích trong hộp bút chì của bạn?",
-    "options": [
-      "kim bấm",
-      "Đinh bấm",
-      "clip",
-      "kẹp"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Các clip đều rối tung với nhau.",
-      "wrong": "Sai rồi! Đinh! Đó là một công cụ để nhặt và buộc giấy."
-    }
-  },
-  {
     "id": "rid_310",
-    "question": "Cảm giác như thế nào khi không thương tiếc đào những mảnh ớt đỏ giữa hai hàm răng của bạn tại một nhà hàng?",
+    "question": "Que nhỏ, mảnh và nhọn đầu làm bằng gỗ hoặc tinh bột, dùng sau bữa ăn để lấy thức ăn giắt ở kẽ răng hoặc xiên trái cây là gì?",
     "options": [
-      "chỉ nha khoa",
-      "Đũa",
-      "Cái nĩa",
-      "Tăm"
+      "Tăm bông",
+      "Que diêm",
+      "Ống hút",
+      "Tăm xỉa răng"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "food",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Tăm tìm thấy tất cả các mảnh vụn ẩn giấu.",
-      "wrong": "Sai rồi! Đinh! Đó là một cái que dính vào giữa răng của bạn."
+      "correct": "Chính xác! Tăm xỉa răng nhọn đầu giúp lấy thức ăn ở kẽ răng hoặc xiên hoa quả.",
+      "wrong": "Sai rồi! Đó là que nhỏ nhọn đầu dùng sau bữa ăn: tăm xỉa răng."
     }
   },
   {
     "id": "rid_311",
-    "question": "Sau khi gội và chải tóc, nếu bạn vứt thành bó ở góc phòng tắm mà chưa kịp lau khô, chỉ sau một ngày tóc đã có mùi chua?",
+    "question": "Đồ vật nào trong phòng tắm giúp lau khô nước trên mặt và cơ thể bạn, nhưng càng lau khô thì chính nó lại càng ướt sũng?",
     "options": [
-      "Khăn",
-      "Khăn (2)",
-      "xà phòng",
-      "bóng tắm"
+      "Khăn tắm",
+      "Bánh xà phòng",
+      "Bàn chải đánh răng",
+      "Gương soi"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "bathroom",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Nếu bạn giữ khăn ướt và gói lại, mùi hôi sẽ biến mất trong vòng một ngày.",
-      "wrong": "Sai rồi! Đinh! Đó là một miếng vải dày mà bạn dùng để lau khô cơ thể sau khi tắm rửa."
+      "correct": "Chính xác! Khăn tắm càng thấm khô nước cho bạn thì bản thân nó càng ướt.",
+      "wrong": "Sai rồi! Đó là tấm vải dày thấm nước sau khi tắm rửa: khăn tắm."
     }
   },
   {
@@ -5523,24 +5379,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Câu trả lời đúng! Vỉ đập ruồi tránh muỗi và chỉ phát ra âm thanh khi đập vào tường.",
       "wrong": "Sai rồi! Đinh! Đó là một thiết bị bắt ruồi và muỗi bằng lưới có tay cầm."
-    }
-  },
-  {
-    "id": "rid_314",
-    "question": "Điều gì đá vào cẳng chân của bạn như gang khi bạn giẫm phải một chân duỗi thẳng?",
-    "options": [
-      "cái ghế",
-      "bàn",
-      "bàn ăn",
-      "bàn ăn gấp"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "home",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Câu trả lời đúng! Chân của bàn gấp luôn hướng vào ống chân.",
-      "wrong": "Sai rồi! Đinh! Đó là một chiếc bàn ăn nhỏ có chân có thể gập lại."
     }
   },
   {
@@ -5652,42 +5490,6 @@
     }
   },
   {
-    "id": "rid_333",
-    "question": "Thế còn một thứ rõ ràng là vừa được đóng lại nhưng lại mở ra bên trong túi, khiến tất cả đồ đạc của bạn bị dính thì sao?",
-    "options": [
-      "kem chống nắng",
-      "chai nước",
-      "son dưỡng môi",
-      "Kem đánh răng"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "bathroom",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Trơn! Cảm giác tuyệt vọng đó khi bạn sờ soạng dưới đáy túi và chạm vào những thứ trơn trượt!",
-      "wrong": "Sai rồi ~ Đó là son dưỡng tan chảy và thoát ra khỏi nắp ngay cả khi chạm vào sức nóng của túi."
-    }
-  },
-  {
-    "id": "rid_335",
-    "question": "Điều gì sẽ xảy ra nếu bạn mang theo thứ gì đó để uống khi khát nhưng cuối cùng lại nằm một mình trong túi, ướt đẫm đồ đạc?",
-    "options": [
-      "ô",
-      "Nợ",
-      "Pin phụ",
-      "cốc"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "kitchen",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Bắn tung tóe! Nếu bạn tin vào dòng chữ “niêm phong hoàn toàn”, góc sách sẽ nổ tung do dính nước.",
-      "wrong": "Sai rồi! Không ~ Thủ phạm chính tạo ra biển nước khi mở túi là chiếc cốc đậy kín."
-    }
-  },
-  {
     "id": "rid_337",
     "question": "Điều gì sẽ xảy ra khi bạn nhét nhiều thức ăn vào túi má, giấu đi rồi quên mất khi quay bánh xe?",
     "options": [
@@ -5724,24 +5526,6 @@
     }
   },
   {
-    "id": "rid_340",
-    "question": "Tôi chắc chắn đã mang đầy đủ 100%, nhưng còn cái thứ nhấp nháy màu đỏ và thở hổn hển một mình vào buổi tối thì sao?",
-    "options": [
-      "đồng hồ thông minh",
-      "chuột không dây",
-      "Pin phụ",
-      "loa bluetooth"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Chớp mắt, chớp mắt! Người ra xin đồ ăn thực ra đã ăn hết rồi!",
-      "wrong": "Sai rồi! Không, đó là cục pin phụ chỉ khoe sức nặng của viên gạch trong túi rồi xả ra thôi."
-    }
-  },
-  {
     "id": "rid_342",
     "question": "Khi bạn hào hứng cắn một chiếc bánh quy ngọt ngào, điều gì sẽ xảy ra khi những mảnh vụn rơi xuống giữa các ngón tay của bạn?",
     "options": [
@@ -5757,24 +5541,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Giòn! Bột rơi xuống bàn nhiều hơn vào miệng!",
       "wrong": "Sai rồi~ Món ăn vặt khiến mẹ vừa cắn một miếng là đập lưng vào lưng đó chính là bánh ngọt."
-    }
-  },
-  {
-    "id": "rid_343",
-    "question": "Cái gì tỏa sáng rực rỡ trong một nơi tối tăm và rơi xuống mặt tôi ngay khi tôi đặt ngón tay lên nó?",
-    "options": [
-      "Điện thoại thông minh",
-      "Đèn đọc sách",
-      "Máy tính bảng",
-      "Đèn pin"
-    ],
-    "answer_index": 0,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "tech",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! quả bóng! Những giọt nước mắt mà chỉ những ai từng chụp ảnh sống mũi đẹp khi nằm xem YouTube mới biết!",
-      "wrong": "Sai rồi! Không ~ Khoảnh khắc tôi mất cảnh giác, chính chiếc điện thoại thông minh đã bị trọng lực kéo và đập thẳng vào mặt tôi."
     }
   },
   {
@@ -5811,24 +5577,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Tiếng rên rỉ! Một vài sợi tóc quý giá bị hy sinh cùng với mùi khét!",
       "wrong": "Sai rồi! Không, đó là một chiếc máy sấy sẽ làm tóc bạn bị bung ra nếu bạn giữ quá gần phía sau đầu."
-    }
-  },
-  {
-    "id": "rid_347",
-    "question": "Điều gì sẽ xảy ra khi bạn mở nắp và cơm nóng chảy ra nhưng sau khi ăn xong chỉ còn lại một cơ thể trống rỗng để đi lại?",
-    "options": [
-      "nồi",
-      "tấm",
-      "Bình Giữ Nhiệt",
-      "hộp cơm trưa"
-    ],
-    "answer_index": 3,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "food",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Khi mở nắp ra thì lấp lánh, ăn xong thấy trống rỗng! Nhân vật chính của giờ ăn trưa.",
-      "wrong": "Sai rồi! Đinh! Hộp nhỏ đựng cơm gọi là hộp cơm."
     }
   },
   {
@@ -6009,24 +5757,6 @@
     "kkaebi_reaction": {
       "correct": "Đúng rồi! Ôi, nóng quá! Đó là hương vị mùa đông hoàn hảo để đựng trong cốc giấy và vừa thổi vừa đốt lưỡi!",
       "wrong": "Sai rồi! Không~ Nếu bạn mất cảnh giác và cắn vào nó, bạn sẽ bị dính nước đường giống như magma."
-    }
-  },
-  {
-    "id": "rid_360",
-    "question": "Điều gì sẽ xảy ra khi bạn cất nó trong hộp bút chì nhưng nắp bị lỏng và bạn tự mình bóp ra bên trong, sơn bên trong túi thành màu tím?",
-    "options": [
-      "con dấu",
-      "sơn",
-      "Bút đánh dấu cho máy tính",
-      "Tấm tem"
-    ],
-    "answer_index": 2,
-    "reward_keys": 1,
-    "difficulty": 1,
-    "category": "school",
-    "kkaebi_reaction": {
-      "correct": "Đúng rồi! Chớp nhoáng! Tôi cần đánh dấu thẻ OMR nhưng đầu bút đã bị dập và biến thành một chiếc bút lông dày!",
-      "wrong": "Sai rồi! Không, một khách hàng thường xuyên cất nó sau nắp và đánh mất ở đâu đó chính là Comsa."
     }
   },
   {
@@ -6373,38 +6103,38 @@
   },
   {
     "id": "rid_383",
-    "question": "Điều gì sẽ xảy ra khi bạn đang vui vẻ vẽ một thứ gì đó nhưng nó lại bị gãy khi bạn chỉ dùng một chút lực?",
+    "question": "Dụng cụ vẽ hình thỏi không có vỏ gỗ, làm từ sáp, dầu và bột màu, có quấn đai giấy quanh thân để đỡ bẩn tay và đẩy nước khi tô màu nước lên trên là gì?",
     "options": [
-      "bút chì màu",
-      "bút chì",
-      "Bút chì màu",
-      "bàn chải"
+      "Màu nước",
+      "Bút chì bấm",
+      "Nghiên mực và mực tàu",
+      "Bút sáp dầu (Màu sáp)"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "school",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Vỗ nhẹ! Màu sắc thì đẹp nhưng thân hình lại yếu đuối như sô cô la mùa hè.",
-      "wrong": "Sai rồi! Đinh! Những chiếc que đầy màu sắc có thể gãy chỉ với một chút lực là bút chì màu."
+      "correct": "Chính xác! Bút sáp dầu chứa sáp và dầu nên không thấm nước khi phủ màu nước lên.",
+      "wrong": "Sai rồi! Thỏi màu bằng sáp và dầu có quấn giấy quanh thân là bút sáp dầu."
     }
   },
   {
     "id": "rid_384",
-    "question": "Thứ gì luôn giấu dưới gầm ghế sofa khi tôi tìm kiếm và đã có trong tay anh trai tôi khi tôi không tìm kiếm?",
+    "question": "Thiết bị không dây có nhiều nút số và mũi tên, giúp bạn ngồi yên trên ghế sofa vẫn bật được tivi hay máy lạnh ở xa và chuyển kênh, chỉnh nhiệt độ là gì?",
     "options": [
-      "Kính",
-      "tai nghe",
-      "Bộ sạc",
-      "điều khiển từ xa"
+      "Máy tính bỏ túi",
+      "Điện thoại bàn có dây",
+      "Đồng hồ báo thức",
+      "Điều khiển từ xa (Remote)"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "daily",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Đinh đồng! Dưới ghế sofa là nơi ẩn náu bí mật, nơi chứa những chiếc điều khiển từ xa.",
-      "wrong": "Sai rồi! Đinh! Điều khiển từ xa ở mọi nơi khi bạn không nhìn vào và chỉ biến mất khi bạn cần."
+      "correct": "Chính xác! Điều khiển từ xa phát tín hiệu hồng ngoại để bật tắt tivi và máy lạnh từ xa.",
+      "wrong": "Sai rồi! Thiết bị bấm nút dùng để điều khiển tivi từ xa là chiếc remote."
     }
   },
   {
@@ -9001,20 +8731,20 @@
   },
   {
     "id": "rid_916",
-    "question": "Có những quả táo treo trên cây, nhưng sau khi tôi hái chúng, không có quả táo nào trên cây hay trên tay tôi cả. Nó đã xảy ra như thế nào?",
+    "question": "Có 10 ngọn nến đang cháy trong phòng thì gió thổi tắt 3 ngọn. Đóng cửa sổ lại ngay, hỏi sáng hôm sau còn lại mấy cây nến?",
     "options": [
-      "Có 2 quả táo nên tôi chỉ hái 1 quả",
-      "Vừa hái đã ăn hết",
-      "Tôi làm rơi quả táo xuống sàn",
-      "Bị người khác giật mất"
+      "3 cây nến bị tắt (7 cây kia đã cháy hết)",
+      "7 cây nến tiếp tục cháy",
+      "Còn nguyên cả 10 cây nến",
+      "0 cây nến (tất cả đều tan chảy)"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! ha ha ha! Chỉ chọn một trong hai không có nghĩa là số nhiều!",
-      "wrong": "Sai rồi! Đinh! Có hai quả táo nhưng tôi chỉ hái một quả!"
+      "correct": "Đúng rồi! Chỉ có 3 cây nến tắt mới không bị cháy hết!",
+      "wrong": "Sai rồi! 7 cây nến cháy tiếp sẽ tan hết vào sáng hôm sau!"
     }
   },
   {
@@ -9325,20 +9055,20 @@
   },
   {
     "id": "rid_934",
-    "question": "Khi bạn mua một thứ gì đó, người làm ra nó sẽ bán nó vì họ không cần nó, người mua nó không dùng nó, và người thực sự sử dụng nó không biết rằng mình đang sử dụng nó. Còn mặt hàng này thì sao?",
+    "question": "Người thợ mộc đóng chiếc hộp gỗ này nhưng không dùng, người mua cũng không tự dùng, còn người nằm bên trong lại chẳng bao giờ nhìn thấy nó lúc còn sống. Đó là gì?",
     "options": [
-      "mặt nạ ngủ",
-      "tã em bé",
-      "quan tài()",
-      "giấy gói quà"
+      "Hộp trang sức",
+      "Nôi em bé",
+      "Quan tài",
+      "Tủ quần áo"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Hehe! Người làm quan bán, người mua không mặc, người chết cũng không biết!",
-      "wrong": "Sai rồi! Đinh! Vật đó là một chiếc quan tài!"
+      "correct": "Đúng rồi! Đó là chiếc quan tài!",
+      "wrong": "Sai rồi! Vật đó là chiếc quan tài!"
     }
   },
   {
@@ -9577,20 +9307,20 @@
   },
   {
     "id": "rid_948",
-    "question": "Một căn phòng kín tràn ngập không khí. Cách nhanh nhất để loại bỏ không khí khỏi căn phòng này là gì?",
+    "question": "Không dùng máy bơm hay thiết bị nào, cách chắc chắn nhất để đẩy hết không khí ra khỏi một cái chai thủy tinh rỗng là gì?",
     "options": [
-      "Đổ đầy nước hoặc đồ đạc vào phòng",
-      "Hút bằng bơm chân không",
-      "Vận hành tối đa quạt thông gió lớn",
-      "Mở rộng cửa sổ"
+      "Đổ đầy nước vào chai",
+      "Lắc mạnh cái chai bằng tay",
+      "Thổi hơi vào miệng chai",
+      "Đặt cái chai ở trong bóng râm"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! ha ha ha! Nếu bạn đổ đầy nước hoặc đồ đạc vào đó, không khí sẽ bị đẩy ra ngoài!",
-      "wrong": "Sai rồi! Ối! Nếu bạn lấp đầy khoảng trống, không khí sẽ thoát ra nhanh nhất!"
+      "correct": "Đúng rồi! Đổ đầy nước sẽ đẩy hết không khí ra ngoài!",
+      "wrong": "Sai rồi! Nước chiếm chỗ sẽ đẩy không khí ra!"
     }
   },
   {
@@ -9721,20 +9451,20 @@
   },
   {
     "id": "rid_956",
-    "question": "Cứ 4 lốp ô tô chạy trên đường cao tốc thì có 1 lốp bị xẹp. Tuy nhiên, tài xế đã đến đích với tốc độ bình thường mà không gặp bất kỳ trở ngại nào. Làm thế nào điều này có thể xảy ra?",
+    "question": "Một chiếc lốp trên xe ô tô đang chạy cao tốc bị xẹp lép hoàn toàn, nhưng tài xế vẫn đến đích ở tốc độ bình thường mà không cần thay lốp. Vì sao?",
     "options": [
-      "Lốp dự phòng trong cốp xe bị xẹp",
-      "Vì là lốp run-flat (chống đạn đặc biệt)",
-      "Chạy thăng bằng trên ba bánh",
-      "Bám vào xe kéo và đi"
+      "Chiếc lốp bị xẹp là lốp dự phòng để trong cốp xe",
+      "Xe giữ thăng bằng chạy bằng ba bánh",
+      "Lốp hết hơi giúp xe chạy nhanh hơn",
+      "Mặt đường cao tốc làm bằng băng"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! ha ha ha! Lốp dự phòng bị xẹp!",
-      "wrong": "Sai rồi! Ối! Đó là cốp dự phòng chứ không phải bánh lái!"
+      "correct": "Đúng rồi! Lốp bị xẹp là lốp dự phòng trong cốp xe!",
+      "wrong": "Sai rồi! Bốn bánh đang lăn vẫn nguyên vẹn!"
     }
   },
   {
@@ -9937,56 +9667,56 @@
   },
   {
     "id": "rid_968",
-    "question": "Tôi đặt một quả bóng sắt nặng và một quả bóng bàn nhẹ lên mặt băng và dùng miệng thổi thật mạnh. Giả sử lực ma sát bằng 0 thì vật nào lăn xa hơn?",
+    "question": "Trong chân không vũ trụ hoàn toàn không có ma sát và sức cản không khí, quả cầu sắt nặng và quả bóng bàn nhẹ được đẩy đi cùng vận tốc 5 m/s. Quả nào bay xa hơn?",
     "options": [
-      "Cả hai lăn mãi không ngừng",
-      "quả cầu sắt",
-      "quả bóng bàn",
-      "Quả cầu thép do sức cản của không khí"
+      "Cả hai bay mãi mãi với cùng vận tốc mà không dừng lại",
+      "Quả cầu sắt nặng bay xa hơn",
+      "Quả bóng bàn nhẹ dừng lại trước",
+      "Cả hai dừng lại sau 5 mét"
     ],
     "answer_index": 0,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! haha! Nếu ma sát bằng 0 thì cả hai sẽ lăn mãi mãi!",
-      "wrong": "Sai rồi! Ối! Cả hai người tiếp tục đi không dừng lại do quán tính!"
+      "correct": "Đúng rồi! Nhờ quán tính trong chân không, cả hai bay mãi mãi!",
+      "wrong": "Sai rồi! Không có lực cản thì cả hai đều chuyển động thẳng đều mãi!"
     }
   },
   {
     "id": "rid_969",
-    "question": "Trong môn bóng chày, làm thế nào người đánh bóng có thể đến được điểm đầu tiên mặc dù anh ta đang đứng yên mà không đánh bóng?",
+    "question": "Trong bóng chày, người đánh bóng đứng yên không vung gậy lần nào nhưng trọng tài vẫn cho lên chốt một an toàn. Luật nào áp dụng ở đây?",
     "options": [
-      "Khi người bắt bóng ném lại bóng (không ra ngoài)",
-      "Bóng trúng người (bóng chết) hoặc đi (Bốn bóng)",
-      "Khi người ném bóng phạm lỗi",
-      "Khi có quyết định can thiệp vào việc đánh"
+      "Bắt bóng bổng ngoài biên (Foul fly out)",
+      "Bóng trúng người (Hit by pitch) hoặc Bốn bóng xấu (Walk)",
+      "Luật bóng bổng sân trong (Infield fly)",
+      "Lỗi đánh bunt hỏng lần thứ ba"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Nếu đó là một bước đi hoặc một cú ném chạm vào cơ thể bạn, bạn sẽ đứng vững!",
-      "wrong": "Sai rồi! à ha! Ngay cả khi bạn không đánh, bạn vẫn có thể về đích đầu tiên bằng một cú đi bộ hoặc bóng chết!"
+      "correct": "Đúng rồi! Bốn bóng xấu hoặc bóng trúng người sẽ được lên chốt một!",
+      "wrong": "Sai rồi! Walk hoặc Hit by pitch giúp lên chốt một mà không cần vung gậy!"
     }
   },
   {
     "id": "rid_970",
-    "question": "Một cây táo mọc trên mái nhà Cheolsu, vươn cành về phía sân nhà hàng xóm và ra quả táo. Quả táo này hợp pháp thuộc về ai?",
+    "question": "Người ta ghép một cành hoa hồng đỏ vào gốc cây hoa hồng vàng. Hỏi bông hoa nở ra từ cành ghép đó sẽ có màu gì?",
     "options": [
-      "Quả táo rơi là nhà hàng xóm của tôi, còn quả táo treo là của Cheolsu",
-      "Vì nó bay qua một cành cây nên nó là của hàng xóm của tôi",
-      "Cheolsu trồng rễ cây táo",
-      "Ai nhặt trước"
+      "Màu hồng (pha trộn hai màu)",
+      "Màu vàng (theo gốc cây)",
+      "Màu đỏ (theo đặc tính di truyền của cành ghép)",
+      "Màu trắng (mất sắc tố)"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Hehehe! Táo của Cheolsu có rễ!",
-      "wrong": "Sai rồi! Đinh! Về mặt pháp lý, bạn là chủ sở hữu của gỗ!"
+      "correct": "Đúng rồi! Cành ghép giữ nguyên gen của nó nên nở hoa màu đỏ!",
+      "wrong": "Sai rồi! Màu hoa phụ thuộc vào cành ghép chứ không phải gốc ghép!"
     }
   },
   {
@@ -10063,20 +9793,20 @@
   },
   {
     "id": "rid_975",
-    "question": "Tôi đang đi bộ trên một con phố tối tăm vào ban đêm, nhưng không có đèn đường và mặt trăng không lên. Nhưng tại sao người phía trước lại không vấp phải đá mà ngã?",
+    "question": "Tất cả đèn đường đều tắt, trên trời cũng không có ánh trăng hay ánh sao. Thế nhưng một người không bật đèn pin vẫn nhìn rõ hòn đá phía trước để tránh. Vì sao?",
     "options": [
-      "Sử dụng kính nhìn đêm hồng ngoại",
-      "Bởi vì tôi đã đi qua con đường đó trong ngày",
-      "Chống gậy đi bộ dành cho người khiếm thị",
-      "Bật đèn pin điện thoại thông minh của bạn và đi bộ"
+      "Mắt người đó tự phát ra tia la-de",
+      "Hòn đá tự phát ra âm thanh",
+      "Nhắm mắt chạy thật nhanh",
+      "Đó là ban ngày nắng đẹp chứ không phải ban đêm"
     ],
     "answer_index": 3,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "space",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Hehe! Tôi đã đi bộ với đèn pin trên điện thoại thông minh của mình đang bật!",
-      "wrong": "Sai rồi! à ha! Tôi đã đi soi đường bằng đèn pin!"
+      "correct": "Đúng rồi! Vì lúc đó là ban ngày dưới ánh mặt trời!",
+      "wrong": "Sai rồi! Ban ngày thì đèn đường tắt và mặt trời chiếu sáng!"
     }
   },
   {
@@ -10171,20 +9901,20 @@
   },
   {
     "id": "rid_981",
-    "question": "Một người đàn ông lên phà để qua sông. Trên thuyền không có hành khách nào ngoại trừ người lái đò, thuyền chìm giữa sông. Tại sao?",
+    "question": "Người lái bước lên một con tàu kiên cố, không thủng đáy, không va đá ngầm và không chở hàng nặng, nhưng vừa xuất phát tàu đã lặn xuống dưới mặt nước. Tại sao?",
     "options": [
-      "Có một cái lỗ trên sàn",
-      "Vì thuyền chất đầy hành lý nặng",
-      "Đánh vào rạn san hô dưới đáy sông",
-      "Vì người chèo thuyền nặng 500kg"
+      "Người lái đã lớn tuổi",
+      "Vì đó vốn là một chiếc tàu ngầm",
+      "Vì nước quá lạnh",
+      "Vì chèo ngược hướng"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Haha! Nó bị chìm với tải nặng!",
-      "wrong": "Sai rồi! à ha! Dù không có hành khách nhưng vẫn có quá nhiều hàng hóa!"
+      "correct": "Đúng rồi! Đó là tàu ngầm chuyên di chuyển dưới nước!",
+      "wrong": "Sai rồi! Tàu ngầm thì đương nhiên phải lặn xuống nước!"
     }
   },
   {
@@ -10387,20 +10117,20 @@
   },
   {
     "id": "rid_993",
-    "question": "Một người đàn ông bị lạc trên núi tuyết trong trận bão tuyết. Dù có điện thoại thông minh trong tay nhưng tại sao tôi không thể gọi 119 để ứng cứu?",
+    "question": "Một người đi lạc trong núi sâu cầm điện thoại còn 100% pin, máy không hỏng và cảm ứng hoàn toàn bình thường, nhưng không thể gọi cứu hộ. Tại sao?",
     "options": [
-      "Vì hết pin",
-      "Vì đây là vùng bóng liên lạc mà sóng vô tuyến của trạm gốc không thể tới được",
-      "Tôi không thể chạm vào nó vì tôi đang đeo găng tay",
-      "Tôi quên mật khẩu cuộc gọi khẩn cấp"
+      "Ốp lưng điện thoại màu đen",
+      "Đang ở vùng lõm sóng không có tín hiệu trạm thu phát",
+      "Không khí trên núi quá trong lành",
+      "Điện thoại quá nhẹ"
     ],
     "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Haha! Vì là vùng bóng liên lạc nên sóng vô tuyến không thể tới được!",
-      "wrong": "Sai rồi! à ha! Bạn không thể nhận được tín hiệu từ trạm gốc trên núi!"
+      "correct": "Đúng rồi! Dù đầy pin nhưng ở vùng mất sóng thì không thể gọi điện!",
+      "wrong": "Sai rồi! Ở trong núi sâu ngoài vùng phủ sóng di động!"
     }
   },
   {
@@ -10477,20 +10207,20 @@
   },
   {
     "id": "rid_998",
-    "question": "Cái nào nổi trên mặt nước: quả bóng chày hay quả bóng tennis?",
+    "question": "Thả một quả bóng bowling nặng 7 kg và một quả bóng tennis rỗng bằng cao su vào nước sâu. Quả bóng nào sẽ nổi lên mặt nước?",
     "options": [
-      "cả hai đều nổi",
-      "quả bóng chày",
-      "quả bóng cao su rỗng",
-      "cả hai đều chìm"
+      "Cả hai quả đều nổi",
+      "Chỉ quả bóng bowling nặng nổi lên",
+      "Chỉ quả bóng tennis rỗng nổi lên mặt nước",
+      "Cả hai quả đều chìm xuống đáy"
     ],
     "answer_index": 2,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "nature",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Hehe! Một quả bóng cao su rỗng (quần vợt) nổi trên mặt nước!",
-      "wrong": "Sai rồi! Ối! Bóng chày chìm, bóng tennis nổi!"
+      "correct": "Đúng rồi! Quả bóng tennis rỗng nhẹ hơn nước nên nổi lên!",
+      "wrong": "Sai rồi! Bóng bowling 7 kg chìm, chỉ bóng tennis nổi!"
     }
   },
   {
@@ -10693,20 +10423,20 @@
   },
   {
     "id": "rid_1010",
-    "question": "Ba người đang ngồi trong phòng nói chuyện. Nhưng người mở cửa từ bên ngoài lại nói: “Trong phòng chỉ có hai người thôi à?” Nó đã xảy ra như thế nào?",
+    "question": "Vào ngày mưa, người cha, người mẹ và cậu con trai cùng đi dưới một chiếc ô nhỏ nhưng cả ba người đều không bị ướt. Làm sao có thể như vậy?",
     "options": [
-      "Có người trốn trong tủ",
-      "Vì một người là vô hình",
-      "Bởi vì một người là một đứa trẻ sơ sinh",
-      "Vì một người là cái bóng phản chiếu trong gương"
+      "Cả ba chạy nhanh hơn mưa",
+      "Người con trai vẫn còn là thai nhi trong bụng mẹ",
+      "Chiếc ô có màng chắn vô hình",
+      "Gió thổi ngược từ dưới lên"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "reward_keys": 1,
     "difficulty": 1,
     "category": "common_sense",
     "kkaebi_reaction": {
-      "correct": "Đúng rồi! Hehehe! Tôi thấy họ như hai người vì một trong số họ là trẻ sơ sinh!",
-      "wrong": "Sai rồi! Ối! Có ba người bao gồm cả em bé, nhưng chỉ tính người lớn!"
+      "correct": "Đúng rồi! Cậu con trai còn trong bụng mẹ nên thực tế chỉ có hai người che ô!",
+      "wrong": "Sai rồi! Người mẹ đang mang thai cậu con trai!"
     }
   },
   {
