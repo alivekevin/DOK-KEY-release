@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-17T00:00:00Z",
+  "sponsor": {
+    "id": "pro_pass_default",
+    "enabled": true,
+    "title": {
+      "ko": "[광고] DOK-KEY PRO 패스 혜택",
+      "en": "[AD] DOK-KEY PRO Pass Perks",
+      "ja": "[広告] DOK-KEY PRO パス特典",
+      "zh": "[广告] DOK-KEY PRO 尊享特权",
+      "de": "[Werbung] DOK-KEY PRO Pass-Vorteile",
+      "hi": "[विज्ञापन] DOK-KEY PRO पास लाभ",
+      "es": "[Anuncio] Beneficios del pase PRO",
+      "pt": "[Anúncio] Vantagens do passe PRO",
+      "vi": "[Quảng cáo] Quyền lợi PRO Pass",
+      "fr": "[Publicité] Avantages du pass PRO",
+      "id": "[Iklan] Keuntungan PRO Pass",
+      "ne": "[विज्ञापन] PRO पास सुविधा",
+      "uz": "[Reklama] PRO Pass imtiyozlari"
+    },
+    "body": {
+      "ko": "매일 열쇠 4개 + 코인 1.5배 + 5초 대기 없이 즉시 보상!",
+      "en": "4 Keys/day + 1.5x Coins + 0s Instant Bonus!",
+      "ja": "毎日鍵4個 + コイン1.5倍 + 応援待ち時間0秒！",
+      "zh": "每日4把钥匙 + 金币1.5倍 + 免5秒等待！",
+      "de": "4 Schlüssel/Tag + 1,5x Münzen + 0s Sofortbonus!",
+      "hi": "रोज़ 4 चाबियाँ + 1.5x सिक्के + 0 सेकंड बोनस!",
+      "es": "4 llaves/día + monedas x1,5 + bono instantáneo",
+      "pt": "4 chaves/dia + moedas 1,5x + bônus instantâneo",
+      "vi": "4 chìa/ngày + xu x1.5 + thưởng tức thì",
+      "fr": "4 clés/jour + pièces x1,5 + bonus instantané",
+      "id": "4 kunci/hari + koin 1,5x + bonus instan",
+      "ne": "दिनमा ४ चाबी + १.५x सिक्का + तत्काल बोनस",
+      "uz": "Kuniga 4 kalit + 1,5x tanga + darhol bonus"
+    },
+    "imageUrl": null,
+    "ctaType": "pro",
+    "ctaUrl": null,
+    "startAt": null,
+    "endAt": null
+  }
+}
