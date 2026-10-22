@@ -14,7 +14,10 @@
         "8-dalda! Imtihon yoki suhbatdan aslo cho'chima! Uyiga borgach, suhbat oluvchilar ham paypog'ini teskari yechadigan oddiy insonlar. O'zingga ishonib, bor kuchingni namoyon et!",
         "9-samoviy sir! {time_greeting} paytida tanlagan homiy kartang 「{card_name}」 ekan! Ertalabdan tungacha maslahatlarim o'zgarib turadi. #{number} omadli raqamingni do'stlaring bilan ham ulash!",
         "Yakuniy samoviy xotima! Barcha g'am-tashvishlaringni shamoldek uchirib yuboraman! 💨 PFFT~! (Kkaebi maxsus darmon seli!) Xaxaxa! Yomonlik ketdi, omad keldi! Mavzuni yakunlaganing uchun: +50 Do'stlik, +5 Tanga va bonus Oltin Kalit taqdim etaman! 🔑✨"
-      ]
+      ],
+      "chip_title": "✨ Kkaebiga tegib ko'rmoqchimisiz?",
+      "user_question": "Kkaebi, shoxlaring va qorningga tegsam maylimi? Yashirin sirlaringni ham aytib ber!",
+      "req_level": 2
     },
     {
       "id": "kkaebi_lore",
@@ -26,7 +29,10 @@
         "Xaxaxa! Yashirin g'or sarguzashtiga nima deysan? Qadimiy xarobada ulkan toshlardan qochib, oltin/kumush kalitlarni topib qochadigan 'Kkaebi G'or Sarguzashti' yashiringan. Hozir sinab ko'rasanmi? 🏛️🗝️",
         "Ilovadagi 99 Buyuk Ensiklopediya siri! 33 Muqaddas Maxluq, 33 Qadimiy Ruh va o'z orzu-rasmlaringni joylaydigan 'Mening Slotim' tayyor! Har bir sahifa to'lgan sari himoya qalqoning mustahkamlanadi.",
         "Mana shu ezgulik chaqiruvchi afsonadir! Keling, har kuni birgalikda o'z afsonangizni yarating!"
-      ]
+      ],
+      "chip_title": "📖 Kkaebi afsonasi va taqdir kompas",
+      "user_question": "Kkaebi, ming yillik afsonang va taqdir kompasining sirini aytib ber!",
+      "req_level": 2
     },
     {
       "id": "utility_mastery",
@@ -38,7 +44,10 @@
         "5-foydali sir! 🎵 'Tinchlantiruvchi Ovoz Labi' yuqori sifatli DAC pleyerida tabiat tovushlari va uyqu taymeri bilan charchog'ingni aritadi.",
         "6-maxsus sir! Eng ko'p ishlatadigan vositalaringni asosiy ekranning yuqorisidagi 📌 'Tezkor Slot'ga qadab qo'y! Pin tugmasini bossang, oltin tugmacha paydo bo'ladi!",
         "Xaxaxa! Devning asboblar qutisida 10 dan ortiq qurol bor! Kerak bo'lganda bemalol foydalan!"
-      ]
+      ],
+      "chip_title": "🧰 Asboblar qutisini 200% egallash",
+      "user_question": "Kkaebi, asboblar qutisidan 200% aqlli foydalanish yo'lini o'rgat!",
+      "req_level": 2
     },
     {
       "id": "quiz_riddle_mastery",
@@ -48,7 +57,10 @@
         "Yanada ajoyib imkoniyat: ⚔️ 'Shaxsiy Savol Maydoni'da o'zing savollar tuza olasan! Do'stlar va oilang bilan bilim bellashuvini tashkil et!",
         "Imtihonga tayyorgarlik ko'ryapsanmi? 500 ta muhim inglizcha so'z va xatolar ustida ishlash bo'limi orqali zehnni 2 barobar charxla!",
         "Aqlini charxlagan insonga devlar ham qoyil qoladi! Bugungi Viktorina Chempioni unvoni uchun olg'a qadam tashla!"
-      ]
+      ],
+      "chip_title": "⚡ Viktorina va topishmoq sirlari",
+      "user_question": "Kkaebi, topishmoqlarni topish va viktorinada yutish siri nimada?",
+      "req_level": 2
     },
     {
       "id": "timelab_tally_secret",
@@ -58,7 +70,10 @@
         "Mashg'ulotlar yoki bosqichma-bosqich ishlar uchun ⛓️ 'Zanjir Taymer'ni qo'y, shunda ish maromi aslo uzilmaydi.",
         "Mashq sanash, zikr yoki qahvaxona mehmonlarini bir qo'l bilan sanash uchun 🔢 'Tally Hisoblagich'dan foydalan. Haptik tebranish bilan aniq yozib boradi!",
         "Nanosoniya soniyasidan aylanish vaqtigacha, TimeLab laboratoriyasida diqqat chegaralaringni yangila!"
-      ]
+      ],
+      "chip_title": "⏱️ TimeLab va hisoblagich sirlari",
+      "user_question": "Kkaebi, diqqat taymeri va hisoblagichdan qanday samarali foydalanish kerak?",
+      "req_level": 2
     },
     {
       "id": "coin_economy_mastery",
@@ -69,7 +84,10 @@
         "Uchinchidan, ⚡ Omon Qolish Viktorinasi va topishmoqlarga to'g'ri javob berib, mo'l-ko'l tangalarni yutib ol!",
         "To'rtinchidan, 🕹️ 'Kkaebi O'yingohi'da 8 ta retro o'yinni o'yna—Samolyot, G'isht sindirish, Tetris, Bubble Shooter va Sapper! Yuqori ball to'plab, tanga jekpoti va katta tajribaga ega bo'l!",
         "Beshinchidan, to'plangan tangalaring bilan (cho'ntagingda hozir {coins} ta tanga bor!), 🛒 'Do'kon'dan boylik, imtihon va muhabbat uchun 18 xil an'anaviy 'Himoya Tumorlari'ni xarid qil! Ularni sandig'ingda asra yoki do'stlaringga omadli rasm sifatida ulash!"
-      ]
+      ],
+      "chip_title": "💰 Sehrgar iqtisodiyoti va tanga yig'ish",
+      "user_question": "Kkaebi, tangalarni aqlli yig'ish va ishlatish bo'yicha eng yaxshi maslahatlarni ber!",
+      "req_level": 2
     },
     {
       "id": "lucky_numbers",
@@ -79,7 +97,10 @@
         "To'rt Homiy yoki Qatlamli sir kabi sozlamalarni tanlab, takrorlanmaydigan noyob raqamlarni ol. O'z energiyangga mosla.",
         "Yoqqan to'plamni 'Haftalik Omadli Raqamlar' deb saqlab qo'y, keyinroq osongina topib olasan!",
         "Raqamlarni olib bo'lgach, yaqinlaring bilan omad rasmini ulash. Raqamlar shunchaki ermak, kuningni o'zing charog'on qilasan! 🔑"
-      ]
+      ],
+      "chip_title": "🔢 Omadli raqamlar va saqlash",
+      "user_question": "Kkaebi, bugungi omadli raqamlarni qanday birlashtirish va saqlashni ko'rsat!",
+      "req_level": 2
     }
   ],
   "exhausted_endings": [

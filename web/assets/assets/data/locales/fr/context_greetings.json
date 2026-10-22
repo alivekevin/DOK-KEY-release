@@ -35,70 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "De retour au lever du soleil, {nick} ! Les habitués comme toi sont mes invités préférés.",
-      "Le jour s’est levé, {nick} ! Une nouvelle clé t’attendait patiemment toute la nuit.",
-      "La persévérance est une vertu que même les gobelins admirent, {nick} ! Ouvrons la porte du jour.",
-      "{nick}, te voir si tôt me prouve que tout se déroulera à merveille aujourd’hui.",
-      "{nick}, franchir le premier pas du matin avec toi est très réconfortant. Ouvrons cette journée ensemble !",
-      "De retour si tôt, {nick}. À voyageur diligent, chance diligente."
+      "De retour au lever du soleil, {nickname} ! Les habitués comme toi sont mes invités préférés.",
+      "Le jour s’est levé, {nickname} ! Une nouvelle clé t’attendait patiemment toute la nuit.",
+      "La persévérance est une vertu que même les gobelins admirent, {nickname} ! Ouvrons la porte du jour.",
+      "{nickname}, te voir si tôt me prouve que tout se déroulera à merveille aujourd’hui.",
+      "{nickname}, franchir le premier pas du matin avec toi est très réconfortant. Ouvrons cette journée ensemble !",
+      "De retour si tôt, {nickname}. À voyageur diligent, chance diligente."
     ],
     "noon": [
-      "As-tu déjeuné, {nick} ? Le repas passe toujours avant la bonne aventure, toujours !",
-      "Quel plaisir de te croiser à midi, {nick}. Avec une si douce lumière, de bonnes nouvelles suivront.",
-      "De nouveau ici, {nick} ! Les bienfaiteurs du midi adorent ceux qui reviennent.",
-      "{nick}, nous nous retrouvons à midi. C’est l’heure idéale pour échanger — de belles choses t’attendent.",
-      "{nick}, le soleil de midi est si doux. Un jour pareil, contacte la personne que tu repousses depuis longtemps.",
-      "De retour en plein jour, {nick}. L’énergie d’aujourd’hui est grande ouverte aux belles rencontres."
+      "As-tu déjeuné, {nickname} ? Le repas passe toujours avant la bonne aventure, toujours !",
+      "Quel plaisir de te croiser à midi, {nickname}. Avec une si douce lumière, de bonnes nouvelles suivront.",
+      "De nouveau ici, {nickname} ! Les bienfaiteurs du midi adorent ceux qui reviennent.",
+      "{nickname}, nous nous retrouvons à midi. C’est l’heure idéale pour échanger — de belles choses t’attendent.",
+      "{nickname}, le soleil de midi est si doux. Un jour pareil, contacte la personne que tu repousses depuis longtemps.",
+      "De retour en plein jour, {nickname}. L’énergie d’aujourd’hui est grande ouverte aux belles rencontres."
     ],
     "evening": [
-      "De retour au crépuscule, {nick} ! Faire le point sur sa journée est une excellente habitude.",
-      "Comment s’est passée ta journée, {nick} ? Le soir est le moment parfait pour boucler les détails.",
-      "Ceux qui reviennent après le coucher du soleil connaissent le goût savoureux de la récolte, {nick}.",
-      "{nick}, de retour en fin de journée. Les efforts semés aujourd’hui allégeront ta journée de demain.",
-      "{nick}, tu es venu pendant que le soleil décline. Ceux qui savent bien terminer triomphent toujours.",
-      "Une salutation au crépuscule fait chaud au cœur, {nick}. Choisis une seule tâche pour demain et repose-toi."
+      "De retour au crépuscule, {nickname} ! Faire le point sur sa journée est une excellente habitude.",
+      "Comment s’est passée ta journée, {nickname} ? Le soir est le moment parfait pour boucler les détails.",
+      "Ceux qui reviennent après le coucher du soleil connaissent le goût savoureux de la récolte, {nickname}.",
+      "{nickname}, de retour en fin de journée. Les efforts semés aujourd’hui allégeront ta journée de demain.",
+      "{nickname}, tu es venu pendant que le soleil décline. Ceux qui savent bien terminer triomphent toujours.",
+      "Une salutation au crépuscule fait chaud au cœur, {nickname}. Choisis une seule tâche pour demain et repose-toi."
     ],
     "night": [
-      "Tu te tournes et te retournes encore jusqu’à minuit, {nick} ? Quelque chose t’empêche de dormir ?",
-      "Pourquoi si tard, {nick} ? Si c’est la porte de ton cœur qui résiste, je l’ouvrirai pour toi.",
-      "La nuit est tombée à nouveau, {nick}. Les cœurs à minuit sont cent fois plus sincères.",
-      "{nick}, de retour à une heure si tardive. Avant de t’endormir, dépose au moins un de tes soucis.",
-      "{nick}, ravi de te revoir au cœur de la nuit. As-tu réussi à dénouer tous les nœuds de la journée ?",
-      "De retour dans la quiétude nocturne, {nick}. Dans le silence des heures calmes, les réponses naissent d’elles-mêmes."
+      "Tu te tournes et te retournes encore jusqu’à minuit, {nickname} ? Quelque chose t’empêche de dormir ?",
+      "Pourquoi si tard, {nickname} ? Si c’est la porte de ton cœur qui résiste, je l’ouvrirai pour toi.",
+      "La nuit est tombée à nouveau, {nickname}. Les cœurs à minuit sont cent fois plus sincères.",
+      "{nickname}, de retour à une heure si tardive. Avant de t’endormir, dépose au moins un de tes soucis.",
+      "{nickname}, ravi de te revoir au cœur de la nuit. As-tu réussi à dénouer tous les nœuds de la journée ?",
+      "De retour dans la quiétude nocturne, {nickname}. Dans le silence des heures calmes, les réponses naissent d’elles-mêmes."
     ]
   },
   "long_absence": {
     "morning": [
-      "{nick} ! Cela faisait une éternité ! ...enfin, quelques jours. Sois le bienvenu comme le soleil du matin !",
-      "Tiens donc, qui revoilà, {nick} ! Je balayais le pas de la porte en t’attendant. Un tout nouveau départ !",
-      "Héhé, {nick} est de retour ! Les plus vieilles clés sont celles qui s’adaptent le mieux. Entre !",
-      "{nick}, tu frappes à la porte du matin après tout ce temps ! Le matin est toujours généreux avec ceux qui recommencent.",
-      "Haha, {nick} ! Après tant de jours d’absence, tu réapparais au matin. C’est un merveilleux présage.",
-      "{nick}, le temps passé loin d’ici est aussi une belle page de ton histoire. Poursuivons dès l’aube."
+      "{nickname} ! Cela faisait une éternité ! ...enfin, quelques jours. Sois le bienvenu comme le soleil du matin !",
+      "Tiens donc, qui revoilà, {nickname} ! Je balayais le pas de la porte en t’attendant. Un tout nouveau départ !",
+      "Héhé, {nickname} est de retour ! Les plus vieilles clés sont celles qui s’adaptent le mieux. Entre !",
+      "{nickname}, tu frappes à la porte du matin après tout ce temps ! Le matin est toujours généreux avec ceux qui recommencent.",
+      "Haha, {nickname} ! Après tant de jours d’absence, tu réapparais au matin. C’est un merveilleux présage.",
+      "{nickname}, le temps passé loin d’ici est aussi une belle page de ton histoire. Poursuivons dès l’aube."
     ],
     "noon": [
-      "{nick} est revenu et le soleil s’est fait plus doux ! Assieds-toi, vieil ami.",
-      "Les précieux alliés finissent toujours par revenir ! {nick}, cela faisait si longtemps. Tu arrives pile à midi.",
-      "Combien de semaines se sont écoulées, {nick} ? Ma porte t’est toujours grande ouverte, rassure-toi !",
-      "{nick}, après tout ce temps, te revoilà à midi. Le soleil réchauffe nos cœurs et notre amitié refleurit.",
-      "Heureux de te revoir, {nick} ! Celui qui revient à midi devient porteur de prospérité.",
-      "{nick}, le soleil en ce jour de retrouvailles est splendide. Assieds-toi et raconte-moi tes aventures."
+      "{nickname} est revenu et le soleil s’est fait plus doux ! Assieds-toi, vieil ami.",
+      "Les précieux alliés finissent toujours par revenir ! {nickname}, cela faisait si longtemps. Tu arrives pile à midi.",
+      "Combien de semaines se sont écoulées, {nickname} ? Ma porte t’est toujours grande ouverte, rassure-toi !",
+      "{nickname}, après tout ce temps, te revoilà à midi. Le soleil réchauffe nos cœurs et notre amitié refleurit.",
+      "Heureux de te revoir, {nickname} ! Celui qui revient à midi devient porteur de prospérité.",
+      "{nickname}, le soleil en ce jour de retrouvailles est splendide. Assieds-toi et raconte-moi tes aventures."
     ],
     "evening": [
-      "Cela faisait si longtemps, {nick} ! Même le crépuscule semble plus flamboyant maintenant que tu es là.",
-      "Oh, tu es revenu, {nick} ! As-tu accumulé de belles récoltes pendant ton absence ?",
-      "Héhé, enfin de retour, {nick} ! Les plus beaux dénouements commencent toujours par d’heureuses retrouvailles.",
-      "{nick}, revenu au crépuscule. Ton regard s’est enrichi de tout le temps passé au loin.",
-      "Une salutation au crépuscule après un long silence, cela te ressemble tellement, {nick} !",
-      "{nick}, quelle joie de te revoir sous les lueurs du couchant. Dès aujourd’hui, reprenons le chemin en douceur."
+      "Cela faisait si longtemps, {nickname} ! Même le crépuscule semble plus flamboyant maintenant que tu es là.",
+      "Oh, tu es revenu, {nickname} ! As-tu accumulé de belles récoltes pendant ton absence ?",
+      "Héhé, enfin de retour, {nickname} ! Les plus beaux dénouements commencent toujours par d’heureuses retrouvailles.",
+      "{nickname}, revenu au crépuscule. Ton regard s’est enrichi de tout le temps passé au loin.",
+      "Une salutation au crépuscule après un long silence, cela te ressemble tellement, {nickname} !",
+      "{nickname}, quelle joie de te revoir sous les lueurs du couchant. Dès aujourd’hui, reprenons le chemin en douceur."
     ],
     "night": [
-      "{nick}... de retour au beau milieu de la nuit. Tu m’as tellement manqué, tu sais.",
-      "Un retour à minuit... bien digne de toi, {nick} ! Même les gobelins ont le cœur tendre la nuit venue.",
-      "Un vieil ami qui rend visite à minuit... c’est un présage magnifique, {nick}. Entre vite !",
-      "{nick}, tu reviens à cette heure avancée après si longtemps. Tu as dû te sentir bien seul.",
-      "Un retour au cœur de la nuit, théâtral comme toujours, {nick} ! Viens, prends un siège.",
-      "{nick}, te revoir la nuit après tant de jours. La nuit est le moment rêvé pour renouer les cœurs."
+      "{nickname}... de retour au beau milieu de la nuit. Tu m’as tellement manqué, tu sais.",
+      "Un retour à minuit... bien digne de toi, {nickname} ! Même les gobelins ont le cœur tendre la nuit venue.",
+      "Un vieil ami qui rend visite à minuit... c’est un présage magnifique, {nickname}. Entre vite !",
+      "{nickname}, tu reviens à cette heure avancée après si longtemps. Tu as dû te sentir bien seul.",
+      "Un retour au cœur de la nuit, théâtral comme toujours, {nickname} ! Viens, prends un siège.",
+      "{nickname}, te revoir la nuit après tant de jours. La nuit est le moment rêvé pour renouer les cœurs."
     ]
   }
 }

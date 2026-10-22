@@ -8,9 +8,7 @@
         "beast",
         "feline",
         "predator",
-        "tiger dream",
-        "tush",
-        "ta'bir"
+        "tiger dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -26,9 +24,7 @@
         "boar",
         "wealth pig",
         "fortune pig",
-        "pig dream",
-        "tush",
-        "ta'bir"
+        "pig dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 12,
@@ -44,9 +40,7 @@
         "serpent",
         "cobra",
         "python",
-        "snake dream",
-        "tush",
-        "ta'bir"
+        "snake dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -62,8 +56,7 @@
         "azure dragon",
         "golden dragon",
         "dragon dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -81,8 +74,7 @@
         "dove",
         "flying bird",
         "bird dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -99,8 +91,7 @@
         "goldfish",
         "swimming fish",
         "fish dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 62,
@@ -117,9 +108,7 @@
         "canine",
         "pet",
         "hound",
-        "dog dream",
-        "tush",
-        "ta'bir"
+        "dog dream"
       ],
       "fortune": "normal",
       "lucky_number": 19,
@@ -136,8 +125,7 @@
         "feline",
         "black cat",
         "cat dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -155,7 +143,8 @@
         "cattle",
         "ox dream",
         "tush",
-        "ta'bir"
+        "ta'bir",
+        "Ox / Bull / Cow"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -172,8 +161,7 @@
         "stallion",
         "gallop",
         "horse dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -190,8 +178,7 @@
         "longevity",
         "ancient turtle",
         "turtle dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -226,8 +213,7 @@
         "honeybee",
         "metamorphosis",
         "butterfly dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 44,
@@ -263,8 +249,7 @@
         "squirrel",
         "rodent",
         "mouse dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -280,9 +265,7 @@
         "lioness",
         "king of beasts",
         "pride",
-        "lion dream",
-        "tush",
-        "ta'bir"
+        "lion dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -298,9 +281,7 @@
         "ape",
         "chimpanzee",
         "clever",
-        "monkey dream",
-        "tush",
-        "ta'bir"
+        "monkey dream"
       ],
       "fortune": "normal",
       "lucky_number": 51,
@@ -317,8 +298,7 @@
         "fawn",
         "gentle",
         "deer dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -334,9 +314,7 @@
         "grizzly",
         "polar bear",
         "cub",
-        "bear dream",
-        "tush",
-        "ta'bir"
+        "bear dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 16,
@@ -353,8 +331,7 @@
         "golden toad",
         "wealth toad",
         "toad dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -372,8 +349,7 @@
         "losing teeth",
         "dentist",
         "teeth dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -391,8 +367,7 @@
         "dung",
         "manure",
         "poop dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -409,8 +384,7 @@
         "wound",
         "crimson",
         "blood dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -428,8 +402,7 @@
         "urinate",
         "bladder",
         "pee dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -446,9 +419,7 @@
         "salon",
         "barber",
         "shave",
-        "hair dream",
-        "tush",
-        "ta'bir"
+        "hair dream"
       ],
       "fortune": "normal",
       "lucky_number": 28,
@@ -484,8 +455,7 @@
         "hand hurt",
         "foot hurt",
         "cut",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -520,9 +490,7 @@
         "hospital",
         "doctor",
         "treatment",
-        "surgery dream",
-        "tush",
-        "ta'bir"
+        "surgery dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -556,9 +524,7 @@
         "twin babies",
         "double joy",
         "two children",
-        "twins dream",
-        "tush",
-        "ta'bir"
+        "twins dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -575,8 +541,7 @@
         "growth",
         "growing taller",
         "tall dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -594,8 +559,7 @@
         "handsome",
         "attractive",
         "beauty dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -612,9 +576,7 @@
         "undressed",
         "bare",
         "exposed",
-        "naked dream",
-        "tush",
-        "ta'bir"
+        "naked dream"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -631,8 +593,7 @@
         "perspiration",
         "exhaustion",
         "sweat dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 60,
@@ -649,9 +610,7 @@
         "spring",
         "stream",
         "pure water",
-        "water dream",
-        "tush",
-        "ta'bir"
+        "water dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 17,
@@ -669,8 +628,7 @@
         "bonfire",
         "burning",
         "fire dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -688,8 +646,7 @@
         "galaxy",
         "starlight",
         "star dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -707,8 +664,7 @@
         "dawn",
         "solar",
         "sun dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -725,9 +681,7 @@
         "moonlight",
         "crescent",
         "lunar",
-        "moon dream",
-        "tush",
-        "ta'bir"
+        "moon dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 49,
@@ -744,9 +698,7 @@
         "climb",
         "summit",
         "mount",
-        "mountain dream",
-        "tush",
-        "ta'bir"
+        "mountain dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -764,8 +716,7 @@
         "horizon",
         "coast",
         "ocean dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -783,8 +734,7 @@
         "flow",
         "waterway",
         "river dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -801,9 +751,7 @@
         "dirty water",
         "mud",
         "swamp",
-        "muddy dream",
-        "tush",
-        "ta'bir"
+        "muddy dream"
       ],
       "fortune": "ominous",
       "lucky_number": 42,
@@ -821,8 +769,7 @@
         "storm",
         "drizzle",
         "rain dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -839,9 +786,7 @@
         "snowflake",
         "snowfall",
         "winter",
-        "snow dream",
-        "tush",
-        "ta'bir"
+        "snow dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 6,
@@ -859,8 +804,7 @@
         "storm",
         "flash",
         "lightning dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -876,9 +820,7 @@
         "double rainbow",
         "spectrum",
         "colors",
-        "rainbow dream",
-        "tush",
-        "ta'bir"
+        "rainbow dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -894,9 +836,7 @@
         "tremor",
         "ground split",
         "quake",
-        "earthquake dream",
-        "tush",
-        "ta'bir"
+        "earthquake dream"
       ],
       "fortune": "ominous",
       "lucky_number": 58,
@@ -914,8 +854,7 @@
         "coins",
         "wealth",
         "money dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -932,9 +871,7 @@
         "stolen",
         "loss",
         "spent",
-        "wallet lost",
-        "tush",
-        "ta'bir"
+        "wallet lost"
       ],
       "fortune": "ominous",
       "lucky_number": 41,
@@ -952,8 +889,7 @@
         "gems",
         "treasure",
         "jewel dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -970,9 +906,7 @@
         "new wallet",
         "billfold",
         "moneybag",
-        "wallet dream",
-        "tush",
-        "ta'bir"
+        "wallet dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 36,
@@ -990,8 +924,7 @@
         "prize",
         "big win",
         "lottery dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -1008,9 +941,7 @@
         "dress",
         "outfit",
         "apparel",
-        "clothes dream",
-        "tush",
-        "ta'bir"
+        "clothes dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -1027,8 +958,7 @@
         "missing shoe",
         "lost foot",
         "shoes dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -1045,8 +975,7 @@
         "boots",
         "footwear",
         "new shoes dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1064,8 +993,7 @@
         "pendant",
         "jewel ring",
         "ring dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -1083,8 +1011,7 @@
         "suitcase",
         "packing",
         "bag dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -1101,9 +1028,7 @@
         "unlock",
         "door open",
         "solution",
-        "key dream",
-        "tush",
-        "ta'bir"
+        "key dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1121,8 +1046,7 @@
         "hour",
         "timing",
         "clock dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -1140,8 +1064,7 @@
         "sword",
         "cut",
         "knife dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1158,8 +1081,7 @@
         "glass",
         "self look",
         "mirror dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 18,
@@ -1177,8 +1099,7 @@
         "reward",
         "surprise",
         "gift dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1196,8 +1117,7 @@
         "ghost",
         "deceased",
         "ancestor dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1214,9 +1134,7 @@
         "old master",
         "hermit",
         "wizard",
-        "guru",
-        "tush",
-        "ta'bir"
+        "guru"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -1234,8 +1152,7 @@
         "spirit",
         "guardian",
         "dokkaebi dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1252,9 +1169,7 @@
         "evil spirit",
         "demon",
         "phantom",
-        "ghost dream",
-        "tush",
-        "ta'bir"
+        "ghost dream"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1273,8 +1188,7 @@
         "divine",
         "god",
         "divine dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1292,8 +1206,7 @@
         "wings",
         "seraph",
         "angel dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1311,8 +1224,7 @@
         "ceremony",
         "offering",
         "prayer dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1329,9 +1241,7 @@
         "charm",
         "spell",
         "ward",
-        "talisman dream",
-        "tush",
-        "ta'bir"
+        "talisman dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -1349,8 +1259,7 @@
         "burial",
         "rebirth",
         "coffin dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1367,8 +1276,7 @@
         "death messenger",
         "fate",
         "reaper dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 13,
@@ -1385,9 +1293,7 @@
         "flight",
         "soar",
         "levitate",
-        "flying dream",
-        "tush",
-        "ta'bir"
+        "flying dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1404,9 +1310,7 @@
         "cliff",
         "plummet",
         "slip",
-        "falling dream",
-        "tush",
-        "ta'bir"
+        "falling dream"
       ],
       "fortune": "ominous",
       "lucky_number": 58,
@@ -1424,8 +1328,7 @@
         "fleeing",
         "escape",
         "chased dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1442,9 +1345,7 @@
         "layers",
         "sleep",
         "mind",
-        "lucid dream",
-        "tush",
-        "ta'bir"
+        "lucid dream"
       ],
       "fortune": "normal",
       "lucky_number": 7,
@@ -1461,9 +1362,7 @@
         "sweeping",
         "vacuum",
         "clearing",
-        "cleaning dream",
-        "tush",
-        "ta'bir"
+        "cleaning dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 47,
@@ -1481,8 +1380,7 @@
         "groom",
         "ceremony",
         "wedding dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 26,
@@ -1499,9 +1397,7 @@
         "burial",
         "procession",
         "memorial",
-        "funeral dream",
-        "tush",
-        "ta'bir"
+        "funeral dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1518,9 +1414,7 @@
         "admission",
         "hired",
         "accepted",
-        "exam pass dream",
-        "tush",
-        "ta'bir"
+        "exam pass dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 34,
@@ -1537,8 +1431,7 @@
         "miss test",
         "failed",
         "exam fail dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 31,
@@ -1555,9 +1448,7 @@
         "duel",
         "punch",
         "wrestling",
-        "fight dream",
-        "tush",
-        "ta'bir"
+        "fight dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1575,8 +1466,7 @@
         "defeat enemy",
         "overcome foe",
         "murder dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1594,8 +1484,7 @@
         "break in",
         "intrusion",
         "thief dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1612,9 +1501,7 @@
         "interrogation",
         "arrest",
         "law",
-        "police dream",
-        "tush",
-        "ta'bir"
+        "police dream"
       ],
       "fortune": "normal",
       "lucky_number": 11,
@@ -1631,9 +1518,7 @@
         "crossroads",
         "maze",
         "lost direction",
-        "lost dream",
-        "tush",
-        "ta'bir"
+        "lost dream"
       ],
       "fortune": "normal",
       "lucky_number": 44,
@@ -1669,8 +1554,7 @@
         "banquet",
         "delicious",
         "eating dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1688,8 +1572,7 @@
         "bouquet",
         "bloom",
         "flower dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1707,8 +1590,7 @@
         "grain",
         "food",
         "rice dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1727,7 +1609,8 @@
         "harvest",
         "fruit dream",
         "tush",
-        "ta'bir"
+        "ta'bir",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1745,8 +1628,7 @@
         "woods",
         "timber",
         "tree dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1764,8 +1646,7 @@
         "roast",
         "beef",
         "meat dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1801,9 +1682,7 @@
         "decay",
         "mold",
         "sour",
-        "rotten dream",
-        "tush",
-        "ta'bir"
+        "rotten dream"
       ],
       "fortune": "ominous",
       "lucky_number": 14,
@@ -1821,8 +1700,7 @@
         "sow",
         "gardening",
         "plant dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1839,8 +1717,7 @@
         "medicinal herb",
         "jackpot herb",
         "ginseng dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1858,8 +1735,7 @@
         "gust",
         "storm wind",
         "wind dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1877,8 +1753,7 @@
         "exit",
         "threshold",
         "door dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1895,8 +1770,7 @@
         "late for transit",
         "transit",
         "missed transit",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -1914,8 +1788,7 @@
         "aviation",
         "flying high",
         "plane dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1933,8 +1806,7 @@
         "cruise",
         "steering",
         "car dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1951,8 +1823,7 @@
         "collision",
         "wreck",
         "accident dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "ominous",
       "lucky_number": 32,
@@ -1970,8 +1841,7 @@
         "sail",
         "vessel",
         "ship dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1989,8 +1859,7 @@
         "pedal",
         "ride",
         "bicycle dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -2007,9 +1876,7 @@
         "ascend",
         "rapid rise",
         "top floor",
-        "elevator dream",
-        "tush",
-        "ta'bir"
+        "elevator dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -2026,9 +1893,7 @@
         "climb stairs",
         "staircase",
         "ascent",
-        "stairs dream",
-        "tush",
-        "ta'bir"
+        "stairs dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 63,
@@ -2045,8 +1910,7 @@
         "overpass",
         "bridge dream",
         "crossing",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 46,
@@ -2063,8 +1927,7 @@
         "light at end",
         "breakthrough",
         "tunnel dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 51,
@@ -2081,9 +1944,7 @@
         "chuckle",
         "giggle",
         "joy",
-        "laugh dream",
-        "tush",
-        "ta'bir"
+        "laugh dream"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -2100,8 +1961,7 @@
         "cannot move",
         "nightmare",
         "paralysis dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 33,
@@ -2119,8 +1979,7 @@
         "fury",
         "yelling",
         "anger dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -2138,8 +1997,7 @@
         "nirvana",
         "joy",
         "bliss dream",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -2156,8 +2014,7 @@
         "wish bat",
         "manifestation",
         "magic wand",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -2174,8 +2031,7 @@
         "cloaking",
         "stealth",
         "magic cap",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -2192,8 +2048,7 @@
         "silk pouch",
         "treasure bag",
         "prosperity bag",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -2210,8 +2065,7 @@
         "sweeping",
         "purifying broom",
         "cleanse",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 2,
@@ -2228,8 +2082,7 @@
         "celestial orb",
         "wish jewel",
         "dragon gem",
-        "tush",
-        "ta'bir"
+        "tush"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

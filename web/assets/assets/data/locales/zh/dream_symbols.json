@@ -73,7 +73,8 @@
         "仙鹤",
         "飞鸟",
         "白鸽",
-        "bird"
+        "bird",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -106,7 +107,8 @@
         "小狗",
         "宠物狗",
         "忠犬",
-        "dog"
+        "dog",
+        "忠犬 / 小狗"
       ],
       "fortune": "normal",
       "lucky_number": 19,
@@ -122,7 +124,8 @@
         "灵猫",
         "小猫",
         "黑猫",
-        "cat"
+        "cat",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -139,7 +142,9 @@
         "金牛",
         "奶牛",
         "ox",
-        "bull"
+        "bull",
+        "金牛 / 黄牛",
+        "金牛 / 黄牛"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -155,7 +160,8 @@
         "白马",
         "骏马",
         "奔跑",
-        "horse"
+        "horse",
+        "骏马 / 白马"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -171,7 +177,8 @@
         "神龟",
         "乌龟",
         "长寿",
-        "turtle"
+        "turtle",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -188,7 +195,8 @@
         "公鸡",
         "金鸡",
         "报晓",
-        "rooster"
+        "rooster",
+        "雄鸡 / 金鸡"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -204,7 +212,8 @@
         "蜜蜂",
         "彩蝶",
         "花丛",
-        "butterfly"
+        "butterfly",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 44,
@@ -221,7 +230,9 @@
         "蚂蚁",
         "蜘蛛",
         "小虫",
-        "bug"
+        "bug",
+        "wooden_comb",
+        "昆虫 / 蚂蚁 / 蜘蛛"
       ],
       "fortune": "normal",
       "lucky_number": 16,
@@ -237,7 +248,8 @@
         "老鼠",
         "松鼠",
         "仓鼠",
-        "mouse"
+        "mouse",
+        "rat"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -285,7 +297,8 @@
         "梅花鹿",
         "仙鹿",
         "祥瑞",
-        "deer"
+        "deer",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -317,7 +330,8 @@
         "金蟾",
         "青蛙",
         "聚财",
-        "toad"
+        "toad",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -333,7 +347,9 @@
         "掉牙",
         "拔牙",
         "牙疼",
-        "teeth"
+        "teeth",
+        "wooden_comb",
+        "掉牙之梦"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -350,7 +366,8 @@
         "踩屎",
         "牛粪",
         "黄金万两",
-        "poo"
+        "poo",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -366,7 +383,8 @@
         "流血",
         "鲜血",
         "见血",
-        "blood"
+        "blood",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -382,7 +400,9 @@
         "撒尿",
         "解手",
         "尿尿",
-        "pee"
+        "pee",
+        "water_sprite",
+        "畅快小便 / 撒尿"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -416,7 +436,8 @@
         "放声大哭",
         "痛哭",
         "流泪",
-        "tears"
+        "tears",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 24,
@@ -433,7 +454,8 @@
         "手伤",
         "脚伤",
         "骨折",
-        "injury"
+        "injury",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -450,7 +472,8 @@
         "冲凉",
         "温泉",
         "洗浴",
-        "bath"
+        "bath",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -483,7 +506,9 @@
         "受孕",
         "孕妇",
         "新生命",
-        "pregnancy"
+        "pregnancy",
+        "moon_jar",
+        "怀孕 / 怀胎"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -515,7 +540,8 @@
         "身体长高",
         "拔高",
         "成长",
-        "growing tall"
+        "growing tall",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -532,7 +558,8 @@
         "容光焕发",
         "美貌",
         "面容",
-        "beauty"
+        "beauty",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -548,7 +575,8 @@
         "裸体",
         "脱衣",
         "光着身子",
-        "naked"
+        "naked",
+        "folding_fan"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -599,7 +627,8 @@
         "火焰",
         "烈火",
         "红火",
-        "fire"
+        "fire",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -616,7 +645,8 @@
         "流星",
         "银河",
         "星光",
-        "star"
+        "star",
+        "star_weaver"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -633,7 +663,8 @@
         "朝阳",
         "阳光",
         "艳阳",
-        "sun"
+        "sun",
+        "sun_messenger"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -702,7 +733,8 @@
         "大河",
         "湖泊",
         "江水",
-        "river"
+        "river",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -736,7 +768,8 @@
         "暴雨",
         "甘霖",
         "骤雨",
-        "rain"
+        "rain",
+        "water_sprite"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -770,7 +803,8 @@
         "惊雷",
         "霹雳",
         "雷鸣",
-        "lightning"
+        "lightning",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -802,8 +836,7 @@
         "地裂",
         "地陷",
         "摇晃",
-        "震动",
-        "earthquake"
+        "震动"
       ],
       "fortune": "ominous",
       "lucky_number": 58,
@@ -820,7 +853,8 @@
         "捡钱",
         "硬币",
         "发财",
-        "money"
+        "money",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -854,7 +888,8 @@
         "金条",
         "财宝",
         "珍宝",
-        "jewel"
+        "jewel",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -888,7 +923,8 @@
         "大奖",
         "头奖",
         "暴富",
-        "lottery"
+        "lottery",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -956,7 +992,8 @@
         "金戒指",
         "婚戒",
         "首饰",
-        "ring"
+        "ring",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -973,7 +1010,8 @@
         "行李箱",
         "背包",
         "打包",
-        "bag"
+        "bag",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -1007,7 +1045,8 @@
         "时间",
         "时机",
         "秒表",
-        "clock"
+        "clock",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -1024,7 +1063,8 @@
         "利刃",
         "斩断",
         "宝刀",
-        "knife"
+        "knife",
+        "dokkaebi_club"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1058,7 +1098,8 @@
         "赠品",
         "惊喜",
         "礼盒",
-        "gift"
+        "gift",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1110,7 +1151,8 @@
         "精灵",
         "福鬼",
         "法宝",
-        "dokkaebi"
+        "dokkaebi",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1144,7 +1186,9 @@
         "神明",
         "圣人",
         "耶稣",
-        "saint"
+        "saint",
+        "lotus_lamp",
+        "参拜佛陀 / 圣人 / 神明"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1161,7 +1205,8 @@
         "天女",
         "羽翼",
         "精灵",
-        "angel"
+        "angel",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1178,7 +1223,8 @@
         "礼拜",
         "拜佛",
         "祈福",
-        "prayer"
+        "prayer",
+        "wooden_fish"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1212,7 +1258,8 @@
         "棺木",
         "入殓",
         "尸体",
-        "coffin"
+        "coffin",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1280,7 +1327,8 @@
         "追赶",
         "逃命",
         "追逐",
-        "chased"
+        "chased",
+        "shadow_walker"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1296,7 +1344,8 @@
         "清醒梦",
         "多重梦境",
         "幻境",
-        "dream in dream"
+        "dream in dream",
+        "dream_eater"
       ],
       "fortune": "normal",
       "lucky_number": 7,
@@ -1416,7 +1465,8 @@
         "除恶",
         "制服",
         "铲除障碍",
-        "murder"
+        "murder",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1433,7 +1483,8 @@
         "盗贼",
         "入侵",
         "偷窃",
-        "thief"
+        "thief",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1484,7 +1535,8 @@
         "新房",
         "盖房",
         "建房",
-        "moving house"
+        "moving house",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 65,
@@ -1501,7 +1553,8 @@
         "盛宴",
         "聚餐",
         "佳肴",
-        "eating"
+        "eating",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1518,7 +1571,8 @@
         "开花",
         "花束",
         "鲜花",
-        "flower"
+        "flower",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1535,7 +1589,8 @@
         "白米饭",
         "饭食",
         "丰盛",
-        "rice cake"
+        "rice cake",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1552,7 +1607,10 @@
         "桃子",
         "仙桃",
         "硕果",
-        "fruit"
+        "fruit",
+        "lotus_lamp",
+        "硕果累累 / 鲜美桃李苹果",
+        "硕果累累 / 鲜美桃李苹果"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1569,7 +1627,8 @@
         "森林",
         "树林",
         "苍松",
-        "tree"
+        "tree",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1586,7 +1645,8 @@
         "牛排",
         "大鱼大肉",
         "肉食",
-        "meat"
+        "meat",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1603,7 +1663,9 @@
         "干杯",
         "美酒",
         "敬酒",
-        "drinking"
+        "drinking",
+        "tea_bowl",
+        "举杯畅饮 / 把酒言欢"
       ],
       "fortune": "normal",
       "lucky_number": 45,
@@ -1637,7 +1699,8 @@
         "幼苗",
         "播撒希望",
         "种田",
-        "planting"
+        "planting",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1671,7 +1734,8 @@
         "台风",
         "微风",
         "阵风",
-        "wind"
+        "wind",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1688,7 +1752,8 @@
         "开门",
         "入口",
         "城门",
-        "door"
+        "door",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1722,7 +1787,8 @@
         "航班",
         "升空",
         "登机",
-        "airplane"
+        "airplane",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1739,7 +1805,8 @@
         "自驾",
         "豪车",
         "疾驰",
-        "driving"
+        "driving",
+        "horse"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1773,7 +1840,8 @@
         "游轮",
         "航海",
         "起航",
-        "ship"
+        "ship",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1790,7 +1858,8 @@
         "摩托车",
         "骑行",
         "踏板",
-        "bicycle"
+        "bicycle",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -1909,7 +1978,8 @@
         "怒吼",
         "愤怒",
         "大发雷霆",
-        "anger"
+        "anger",
+        "dokkaebi_fire"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -1926,7 +1996,8 @@
         "安详",
         "狂喜",
         "圆满",
-        "ecstasy"
+        "ecstasy",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

@@ -55,7 +55,8 @@
         "dragon",
         "azure dragon",
         "golden dragon",
-        "dragon dream"
+        "dragon dream",
+        "Dragon"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -72,7 +73,8 @@
         "magpie",
         "dove",
         "flying bird",
-        "bird dream"
+        "bird dream",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -88,7 +90,8 @@
         "carp",
         "goldfish",
         "swimming fish",
-        "fish dream"
+        "fish dream",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 62,
@@ -121,7 +124,8 @@
         "kitten",
         "feline",
         "black cat",
-        "cat dream"
+        "cat dream",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -137,7 +141,10 @@
         "bull",
         "cow",
         "cattle",
-        "ox dream"
+        "ox dream",
+        "Ox / Bull / Cow",
+        "Ox / Bull / Cow",
+        "Ox / Bull / Cow"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -153,7 +160,8 @@
         "white horse",
         "stallion",
         "gallop",
-        "horse dream"
+        "horse dream",
+        "Horse / Steed"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -169,7 +177,8 @@
         "tortoise",
         "longevity",
         "ancient turtle",
-        "turtle dream"
+        "turtle dream",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -185,7 +194,9 @@
         "cock",
         "chicken",
         "dawn",
-        "rooster dream"
+        "rooster dream",
+        "Rooster / Cockerel",
+        "Rooster / Cockerel"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -201,7 +212,8 @@
         "bee",
         "honeybee",
         "metamorphosis",
-        "butterfly dream"
+        "butterfly dream",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 44,
@@ -218,7 +230,9 @@
         "ant",
         "spider",
         "crawler",
-        "bug dream"
+        "bug dream",
+        "wooden_comb",
+        "Insects / Ants / Spiders"
       ],
       "fortune": "normal",
       "lucky_number": 16,
@@ -234,7 +248,8 @@
         "rat",
         "squirrel",
         "rodent",
-        "mouse dream"
+        "mouse dream",
+        "Mouse / Squirrel"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -282,7 +297,8 @@
         "stag",
         "fawn",
         "gentle",
-        "deer dream"
+        "deer dream",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -314,7 +330,8 @@
         "frog",
         "golden toad",
         "wealth toad",
-        "toad dream"
+        "toad dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -331,7 +348,8 @@
         "loose tooth",
         "losing teeth",
         "dentist",
-        "teeth dream"
+        "teeth dream",
+        "wooden_comb"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -348,7 +366,8 @@
         "feces",
         "dung",
         "manure",
-        "poop dream"
+        "poop dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -364,7 +383,8 @@
         "bleeding",
         "wound",
         "crimson",
-        "blood dream"
+        "blood dream",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -381,7 +401,8 @@
         "peeing",
         "urinate",
         "bladder",
-        "pee dream"
+        "pee dream",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -414,7 +435,9 @@
         "crying",
         "weep",
         "sob",
-        "tears dream"
+        "tears dream",
+        "water_sprite",
+        "Weeping / Tears of release"
       ],
       "fortune": "auspicious",
       "lucky_number": 24,
@@ -431,7 +454,8 @@
         "hurt",
         "hand hurt",
         "foot hurt",
-        "cut"
+        "cut",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -447,7 +471,9 @@
         "shower",
         "hot spring",
         "wash",
-        "bathing dream"
+        "bathing dream",
+        "lotus_lamp",
+        "Bathing / Showering"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -480,7 +506,9 @@
         "pregnancy",
         "expecting",
         "new life",
-        "pregnancy dream"
+        "pregnancy dream",
+        "moon_jar",
+        "Being pregnant"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -512,7 +540,8 @@
         "height",
         "growth",
         "growing taller",
-        "tall dream"
+        "tall dream",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -529,7 +558,8 @@
         "radiant",
         "handsome",
         "attractive",
-        "beauty dream"
+        "beauty dream",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -562,7 +592,8 @@
         "cold sweat",
         "perspiration",
         "exhaustion",
-        "sweat dream"
+        "sweat dream",
+        "tea_bowl"
       ],
       "fortune": "normal",
       "lucky_number": 60,
@@ -596,7 +627,8 @@
         "blaze",
         "bonfire",
         "burning",
-        "fire dream"
+        "fire dream",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -613,7 +645,8 @@
         "meteor",
         "galaxy",
         "starlight",
-        "star dream"
+        "star dream",
+        "star_weaver"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -630,7 +663,8 @@
         "sunlight",
         "dawn",
         "solar",
-        "sun dream"
+        "sun dream",
+        "sun_messenger"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -681,7 +715,8 @@
         "waves",
         "horizon",
         "coast",
-        "ocean dream"
+        "ocean dream",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -698,7 +733,8 @@
         "stream",
         "flow",
         "waterway",
-        "river dream"
+        "river dream",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -732,7 +768,8 @@
         "shower",
         "storm",
         "drizzle",
-        "rain dream"
+        "rain dream",
+        "water_sprite"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -766,7 +803,8 @@
         "bolt",
         "storm",
         "flash",
-        "lightning dream"
+        "lightning dream",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -815,7 +853,8 @@
         "bills",
         "coins",
         "wealth",
-        "money dream"
+        "money dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -849,7 +888,8 @@
         "gold",
         "gems",
         "treasure",
-        "jewel dream"
+        "jewel dream",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -883,7 +923,8 @@
         "lotto",
         "prize",
         "big win",
-        "lottery dream"
+        "lottery dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -916,7 +957,8 @@
         "barefoot",
         "missing shoe",
         "lost foot",
-        "shoes dream"
+        "shoes dream",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -932,7 +974,8 @@
         "sneakers",
         "boots",
         "footwear",
-        "new shoes dream"
+        "new shoes dream",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -949,7 +992,8 @@
         "gold ring",
         "pendant",
         "jewel ring",
-        "ring dream"
+        "ring dream",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -966,7 +1010,8 @@
         "backpack",
         "suitcase",
         "packing",
-        "bag dream"
+        "bag dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -1000,7 +1045,8 @@
         "time",
         "hour",
         "timing",
-        "clock dream"
+        "clock dream",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -1017,7 +1063,8 @@
         "blade",
         "sword",
         "cut",
-        "knife dream"
+        "knife dream",
+        "dokkaebi_club"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1033,7 +1080,8 @@
         "reflection",
         "glass",
         "self look",
-        "mirror dream"
+        "mirror dream",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 18,
@@ -1050,7 +1098,8 @@
         "package",
         "reward",
         "surprise",
-        "gift dream"
+        "gift dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1067,7 +1116,8 @@
         "grandparents",
         "ghost",
         "deceased",
-        "ancestor dream"
+        "ancestor dream",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1101,7 +1151,8 @@
         "sprite",
         "spirit",
         "guardian",
-        "dokkaebi dream"
+        "dokkaebi dream",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1136,7 +1187,8 @@
         "holy",
         "divine",
         "god",
-        "divine dream"
+        "divine dream",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1153,7 +1205,8 @@
         "celestial",
         "wings",
         "seraph",
-        "angel dream"
+        "angel dream",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1170,7 +1223,8 @@
         "worship",
         "ceremony",
         "offering",
-        "prayer dream"
+        "prayer dream",
+        "wooden_fish"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1204,7 +1258,8 @@
         "casket",
         "burial",
         "rebirth",
-        "coffin dream"
+        "coffin dream",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1220,7 +1275,8 @@
         "grim reaper",
         "death messenger",
         "fate",
-        "reaper dream"
+        "reaper dream",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 13,
@@ -1271,7 +1327,8 @@
         "pursued",
         "fleeing",
         "escape",
-        "chased dream"
+        "chased dream",
+        "shadow_walker"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1322,7 +1379,8 @@
         "bride",
         "groom",
         "ceremony",
-        "wedding dream"
+        "wedding dream",
+        "jade_ring"
       ],
       "fortune": "normal",
       "lucky_number": 26,
@@ -1372,7 +1430,8 @@
         "late for test",
         "miss test",
         "failed",
-        "exam fail dream"
+        "exam fail dream",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 31,
@@ -1406,7 +1465,8 @@
         "slay",
         "defeat enemy",
         "overcome foe",
-        "murder dream"
+        "murder dream",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1423,7 +1483,8 @@
         "burglar",
         "break in",
         "intrusion",
-        "thief dream"
+        "thief dream",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1473,7 +1534,9 @@
         "new home",
         "building house",
         "relocate",
-        "moving dream"
+        "moving dream",
+        "folding_fan",
+        "Moving to a new house / Building"
       ],
       "fortune": "auspicious",
       "lucky_number": 65,
@@ -1490,7 +1553,8 @@
         "meal",
         "banquet",
         "delicious",
-        "eating dream"
+        "eating dream",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1507,7 +1571,8 @@
         "garden",
         "bouquet",
         "bloom",
-        "flower dream"
+        "flower dream",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1524,7 +1589,8 @@
         "steamed rice",
         "grain",
         "food",
-        "rice dream"
+        "rice dream",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1541,7 +1607,10 @@
         "peach",
         "grape",
         "harvest",
-        "fruit dream"
+        "fruit dream",
+        "lotus_lamp",
+        "Ripe apples, peaches & sweet fruit",
+        "Ripe apples, peaches & sweet fruit"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1558,7 +1627,8 @@
         "ancient tree",
         "woods",
         "timber",
-        "tree dream"
+        "tree dream",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1575,7 +1645,8 @@
         "steak",
         "roast",
         "beef",
-        "meat dream"
+        "meat dream",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1592,7 +1663,9 @@
         "beer",
         "toast",
         "cocktail",
-        "drinking dream"
+        "drinking dream",
+        "tea_bowl",
+        "Drinking alcohol & toasting"
       ],
       "fortune": "normal",
       "lucky_number": 45,
@@ -1626,7 +1699,8 @@
         "sprout",
         "sow",
         "gardening",
-        "plant dream"
+        "plant dream",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1642,7 +1716,8 @@
         "wild ginseng",
         "medicinal herb",
         "jackpot herb",
-        "ginseng dream"
+        "ginseng dream",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1659,7 +1734,8 @@
         "typhoon",
         "gust",
         "storm wind",
-        "wind dream"
+        "wind dream",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1676,7 +1752,8 @@
         "entrance",
         "exit",
         "threshold",
-        "door dream"
+        "door dream",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1692,7 +1769,8 @@
         "missed train",
         "late for transit",
         "transit",
-        "missed transit"
+        "missed transit",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -1709,7 +1787,8 @@
         "takeoff",
         "aviation",
         "flying high",
-        "plane dream"
+        "plane dream",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1726,7 +1805,8 @@
         "supercar",
         "cruise",
         "steering",
-        "car dream"
+        "car dream",
+        "horse"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1742,7 +1822,8 @@
         "crash",
         "collision",
         "wreck",
-        "accident dream"
+        "accident dream",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 32,
@@ -1759,7 +1840,8 @@
         "voyage",
         "sail",
         "vessel",
-        "ship dream"
+        "ship dream",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1776,7 +1858,8 @@
         "motorcycle",
         "pedal",
         "ride",
-        "bicycle dream"
+        "bicycle dream",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -1826,7 +1909,8 @@
         "cross bridge",
         "overpass",
         "bridge dream",
-        "crossing"
+        "crossing",
+        "star_weaver"
       ],
       "fortune": "auspicious",
       "lucky_number": 46,
@@ -1842,7 +1926,8 @@
         "exit tunnel",
         "light at end",
         "breakthrough",
-        "tunnel dream"
+        "tunnel dream",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 51,
@@ -1875,7 +1960,8 @@
         "frozen",
         "cannot move",
         "nightmare",
-        "paralysis dream"
+        "paralysis dream",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 33,
@@ -1892,7 +1978,8 @@
         "shouting",
         "fury",
         "yelling",
-        "anger dream"
+        "anger dream",
+        "dokkaebi_fire"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -1909,7 +1996,8 @@
         "peace",
         "nirvana",
         "joy",
-        "bliss dream"
+        "bliss dream",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1925,7 +2013,8 @@
         "dokkaebi club",
         "wish bat",
         "manifestation",
-        "magic wand"
+        "magic wand",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1941,7 +2030,8 @@
         "dokkaebi hat",
         "cloaking",
         "stealth",
-        "magic cap"
+        "magic cap",
+        "shadow_walker"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -1957,7 +2047,8 @@
         "golden pouch",
         "silk pouch",
         "treasure bag",
-        "prosperity bag"
+        "prosperity bag",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1973,7 +2064,8 @@
         "golden broom",
         "sweeping",
         "purifying broom",
-        "cleanse"
+        "cleanse",
+        "wooden_comb"
       ],
       "fortune": "auspicious",
       "lucky_number": 2,
@@ -1989,7 +2081,8 @@
         "yeouiju",
         "celestial orb",
         "wish jewel",
-        "dragon gem"
+        "dragon gem",
+        "dragon"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

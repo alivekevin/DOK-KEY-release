@@ -63,7 +63,7 @@
       {
         "id": "comic_tmpl_009",
         "headline": "{card_name} Hôm nay tôi đã để quên ví nhưng tôi rất yên tâm",
-        "body": "Đã đến một ngày để kiểm tra đồ đạc của bạn ở {timeslot_name}. Thay vì một con số {số}, anh sẽ lấp đầy chiếc ví của trái tim em. Mọi thứ luôn hiện lên trong tâm trí bạn sau cùng.",
+        "body": "Đã đến một ngày để kiểm tra đồ đạc của bạn ở {timeslot_name}. Thay vì một con số {number}, anh sẽ lấp đầy chiếc ví của trái tim em. Mọi thứ luôn hiện lên trong tâm trí bạn sau cùng.",
         "tip": "Thói quen nhìn lại khi ra đi chính là lá bùa may mắn tuyệt vời cho ngày hôm nay.",
         "share_caption": "{card_name} {number} lần, {timeslot_name} trở nên giàu có thay vì mua ví 🐰 #DOK_KEY"
       },
@@ -72,7 +72,7 @@
         "headline": "{card_name} Có tin đồn hôm nay anh ấy đi lại với vẻ mặt trống rỗng cả ngày",
         "body": "Hôm nay là một ngày dịu dàng lạ thường ở {timeslot_name}. Con số {number} sẽ tiết lộ danh tính của sự nhầm lẫn đó. Tôi sẽ không nói cho bạn bất kỳ bí mật nào.",
         "tip": "Một biểu cảm trống rỗng là vũ khí mang lại may mắn cho những người xung quanh bạn. Hôm nay cũng cài đặt!",
-        "share_caption": "{card_name} {number} lần, {timelot_name} đã giành được huy hiệu 🐰 #DOK_KEY"
+        "share_caption": "{card_name} {number} lần, {timeslot_name} đã giành được huy hiệu 🐰 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_011",
@@ -97,7 +97,7 @@
     "templates": [
       {
         "id": "calm_tmpl_001",
-        "headline": "Im lặng, {card_name} dừng lại và nhìn vào {timelot_name}",
+        "headline": "Im lặng, {card_name} dừng lại và nhìn vào {timeslot_name}",
         "body": "Không cần phải vội vàng ngay hôm nay, vì con số {number} đã ở đây bên bạn rồi. Điều gì xảy ra trong {timeslot_name} sẽ diễn ra theo tốc độ riêng mà không cần bất kỳ sự nhắc nhở nào.",
         "tip": "Hôm nay dù tôi có trì hoãn việc trả lời nửa nhịp cũng không bao giờ là quá muộn.",
         "share_caption": "{card_name} {number} lần, {timeslot_name}. Hôm nay mình chỉ đi chậm thôi 🌿 #DOK_KEY"
@@ -107,7 +107,7 @@
         "headline": "{card_name} hít thở khi gió thổi",
         "body": "Hãy để những suy nghĩ phức tạp của bạn được bộc lộ tại {timeslot_name}. Con số {number} tượng trưng cho sự bình yên đơn giản nhất mà bạn sẽ tận hưởng ngày hôm nay.",
         "tip": "Loại bỏ tiếng ồn trong tâm trí bằng một cốc nước ấm.",
-        "share_caption": "Nhìn vào {timelot_name} và tìm sự bình yên bên {card_name} {number} ☕ #DOK_KEY"
+        "share_caption": "Nhìn vào {timeslot_name} và tìm sự bình yên bên {card_name} {number} ☕ #DOK_KEY"
       },
       {
         "id": "calm_tmpl_003",
@@ -119,16 +119,16 @@
       {
         "id": "calm_tmpl_004",
         "headline": "Dưới ánh nắng chiếu qua cửa sổ, {card_name} lặng lẽ thưởng trà",
-        "body": "Tại {timeslot_name}, mọi ồn ào trên thế giới đều phải lùi lại một bước. Số {số} Trong hơi ấm êm đềm của vòng tay ôm, trái tim bạn trở nên tĩnh lặng như mặt hồ trong vắt.",
+        "body": "Tại {timeslot_name}, mọi ồn ào trên thế giới đều phải lùi lại một bước. Số {number} Trong hơi ấm êm đềm của vòng tay ôm, trái tim bạn trở nên tĩnh lặng như mặt hồ trong vắt.",
         "tip": "Nhẹ nhàng chạm vào trung tâm bên trong của bạn bằng ba lần hít vào sâu và thở ra.",
         "share_caption": "{timeslot_name}, {card_name} Buổi uống trà yên tĩnh cùng {number} 🍵 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_005",
         "headline": "{card_name} mỉm cười nhìn mây trôi chầm chậm",
-        "body": "Dù một ngày của bạn có bận rộn đến đâu, bạn cũng có thể đặt đồng hồ xuống một chút tại {timeslot_name}. Con số {con số} Nó thì thầm rằng trí tuệ sâu sắc nhất nằm ở những người không vội vàng.",
+        "body": "Dù một ngày của bạn có bận rộn đến đâu, bạn cũng có thể đặt đồng hồ xuống một chút tại {timeslot_name}. Con số {number} Nó thì thầm rằng trí tuệ sâu sắc nhất nằm ở những người không vội vàng.",
         "tip": "Hãy đặt điện thoại thông minh của bạn xuống một lúc và nhìn lên bầu trời trong 5 phút.",
-        "share_caption": "Theo mây trời {timelot_name}, khoảng thời gian bên {card_name} {number} ☁️ #DOK_KEY"
+        "share_caption": "Theo mây trời {timeslot_name}, khoảng thời gian bên {card_name} {number} ☁️ #DOK_KEY"
       },
       {
         "id": "calm_tmpl_006",
@@ -195,7 +195,7 @@
       },
       {
         "id": "conflict_tmpl_002",
-        "headline": "Trên cân {timelot_name}, hai trái tim đối diện nhau",
+        "headline": "Trên cân {timeslot_name}, hai trái tim đối diện nhau",
         "body": "Có hai tùy chọn để chọn, nhưng tôi không đăng ký {card_name}. Chỉ có một lời khuyên khi vượt qua số {number}: Trì hoãn kết luận ngày hôm nay cũng là một chiến lược.",
         "tip": "Nếu cả hai câu trả lời đều đúng thì câu trả lời chưa được trả lời hôm nay là câu trả lời đúng thứ ba.",
         "share_caption": "Cân bằng trên cân, {card_name} {number} lần tại {timeslot_name} ⚖️ #DOK_KEY"
@@ -210,9 +210,9 @@
       {
         "id": "conflict_tmpl_004",
         "headline": "Trong cuộc giằng co căng thẳng, {card_name} đưa ra quyết định",
-        "body": "Trong {timeslot_name}, quan điểm của nhau hoàn toàn trái ngược nhau. Khi tuân thủ nguyên tắc chỉ vào số {số}, cuối cùng chúng ta có thể chấm dứt những xích mích không cần thiết.",
+        "body": "Trong {timeslot_name}, quan điểm của nhau hoàn toàn trái ngược nhau. Khi tuân thủ nguyên tắc chỉ vào số {number}, cuối cùng chúng ta có thể chấm dứt những xích mích không cần thiết.",
         "tip": "Hãy ngừng tranh luận mang tính cảm xúc và dựa vào sự thật và con số.",
-        "share_caption": "Sự phản đối của {timelot_name}, được tóm tắt rõ ràng trong {card_name} {number} ⚔️ #DOK_KEY"
+        "share_caption": "Sự phản đối của {timeslot_name}, được tóm tắt rõ ràng trong {card_name} {number} ⚔️ #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_005",
@@ -399,7 +399,7 @@
       {
         "id": "horror_tmpl_005",
         "headline": "Như đang giễu cợt một điềm xấu, {card_name} đá tung cửa",
-        "body": "Trường hợp xấu nhất mà bạn lo lắng không bao giờ xảy ra vào lúc {timeslot_name}. Con số {con số} chứng tỏ lòng dũng cảm của bạn sẽ vượt qua mọi bất hạnh.",
+        "body": "Trường hợp xấu nhất mà bạn lo lắng không bao giờ xảy ra vào lúc {timeslot_name}. Con số {number} chứng tỏ lòng dũng cảm của bạn sẽ vượt qua mọi bất hạnh.",
         "tip": "Càng lo lắng, bạn càng thẳng lưng và bước những bước dài.",
         "share_caption": "Với {card_name} {number}, chúng ta tự hào đánh bại bản chất đáng ngại của {timeslot_name} 🚪 #DOK_KEY"
       },
@@ -420,7 +420,7 @@
       {
         "id": "horror_tmpl_008",
         "headline": "{card_name} Hôm nay tôi nghe thấy tiếng cửa tự đóng hai lần",
-        "body": "Một cánh cửa đóng lại vào lúc {timeslot_name} bắt đầu câu chuyện. Số {số} tôi sẽ đọc nghĩa của âm đó. Không có ai đằng sau cánh cửa đóng kín.",
+        "body": "Một cánh cửa đóng lại vào lúc {timeslot_name} bắt đầu câu chuyện. Số {number} tôi sẽ đọc nghĩa của âm đó. Không có ai đằng sau cánh cửa đóng kín.",
         "tip": "Đừng nghe tiếng cửa. Hãy để ngày hôm nay trôi qua thật nhẹ nhàng.",
         "share_caption": "{card_name} {number} lần, sự kiện đóng cửa {timeslot_name} 🚪 #DOK_KEY"
       },
@@ -469,7 +469,7 @@
       {
         "id": "chaos_tmpl_002",
         "headline": "Trục {card_name} được xoay, {timeslot_name} bị lật",
-        "body": "Hôm nay quá biến động nên phần xem trước buổi sáng và phần kết buổi tối là hai bộ phim khác nhau. Số {số} nói rằng người đi theo hướng rẽ cuối cùng là người nhanh nhất.",
+        "body": "Hôm nay quá biến động nên phần xem trước buổi sáng và phần kết buổi tối là hai bộ phim khác nhau. Số {number} nói rằng người đi theo hướng rẽ cuối cùng là người nhanh nhất.",
         "tip": "Ngày nay, câu trả lời đúng thay đổi thường xuyên. Người linh hoạt là người chiến thắng, người cứng đầu là kẻ thua cuộc.",
         "share_caption": "Giữ {card_name} {number} lần và lật {timeslot_name} 🌀 #DOK_KEY"
       },
@@ -560,7 +560,7 @@
       {
         "id": "lonely_tmpl_002",
         "headline": "Một câu chuyện không thể kể với ai, tôi nghe thay vì {card_name}",
-        "body": "Trong những giờ phút yên tĩnh của {timeslot_name}, một lời chưa nói vẫn đọng lại trong tim tôi. Số {số} Hôm nay, tôi nói rằng chỉ cần viết những từ đó ra giấy là đã giải quyết được một nửa.",
+        "body": "Trong những giờ phút yên tĩnh của {timeslot_name}, một lời chưa nói vẫn đọng lại trong tim tôi. Số {number} Hôm nay, tôi nói rằng chỉ cần viết những từ đó ra giấy là đã giải quyết được một nửa.",
         "tip": "Khi bạn không có gì để nói, hãy viết nó vào một cuốn sổ tay. Câu nói là người bạn thầm lặng nhất của bạn.",
         "share_caption": "{card_name} {number} lần, người nói thầm của {timeslot_name} 🕯️ #DOK_KEY"
       },
@@ -653,7 +653,7 @@
         "headline": "Giúp sắp xếp {card_name} trong khi {timeslot_name} kéo dài",
         "body": "Những hối tiếc dai dẳng không biến mất, chúng chỉ di chuyển. Số {number} Hãy cất những điều hối tiếc của ngày hôm nay vào ngăn kéo và đặt một nhiệm vụ mới vào chỗ trống.",
         "tip": "Hôm nay, hãy lấp đầy khoảng trống bạn đã xóa bằng một điều gì đó mới mẻ. Đó là định lý tốt nhất.",
-        "share_caption": "Làm trống ngăn kéo với {timelot_name}, {card_name} {number} 🧹 #DOK_KEY"
+        "share_caption": "Làm trống ngăn kéo với {timeslot_name}, {card_name} {number} 🧹 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_003",
@@ -707,7 +707,7 @@
       {
         "id": "farewell_tmpl_010",
         "headline": "{card_name} Hôm nay tôi buông tay tự nhiên như giao mùa",
-        "body": "Đó là ngày mà mọi thứ thay đổi khi các mùa thay đổi ở {timeslot_name}. Số {số} sẽ làm dịu bàn tay buông tay. Cây cối cũng cần rụng lá để sống sót qua mùa đông.",
+        "body": "Đó là ngày mà mọi thứ thay đổi khi các mùa thay đổi ở {timeslot_name}. Số {number} sẽ làm dịu bàn tay buông tay. Cây cối cũng cần rụng lá để sống sót qua mùa đông.",
         "tip": "Buông bỏ không phải là thất bại mà là sự khôn ngoan khi theo mùa.",
         "share_caption": "{card_name} {number} lần, {timeslot_name} Hãy đi theo mùa 🍁 #DOK_KEY"
       },
@@ -749,7 +749,7 @@
       {
         "id": "hope_tmpl_003",
         "headline": "{card_name} cho biết, {timeslot_name} đã đứng về phía bạn",
-        "body": "Sự lo lắng có vẻ lớn, nhưng lợi thế của ngày hôm nay, thể hiện qua việc đếm {số}, là hơn ba ngón tay. Hy vọng là có cơ sở, đặc biệt là ngày hôm nay.",
+        "body": "Sự lo lắng có vẻ lớn, nhưng lợi thế của ngày hôm nay, thể hiện qua việc đếm {number}, là hơn ba ngón tay. Hy vọng là có cơ sở, đặc biệt là ngày hôm nay.",
         "tip": "Viết ra ba điều đã diễn ra tốt đẹp tối nay. Nó trở thành nền tảng xây dựng niềm tin cho ngày mai.",
         "share_caption": "Bằng chứng là {timeslot_name} đứng về phía mình, {card_name} {number} lần 🌈 #DOK_KEY"
       },
@@ -758,7 +758,7 @@
         "headline": "Vượt qua sương mù bình minh, {card_name} đón ánh nắng rực rỡ đầu tiên",
         "body": "Niềm hi vọng nhỏ nhoi mà bạn dành cho {timeslot_name} không chỉ là điều ước mà nó còn là hạt giống sẽ trở thành hiện thực. Con số {number} mở rộng cánh cửa cho một điều kỳ diệu không thể tin được trước mắt bạn.",
         "tip": "Viết ra mong muốn tha thiết nhất của bạn bằng những chữ cái gọn gàng trên một tờ giấy.",
-        "share_caption": "Niềm hy vọng chói lọi nở rộ với {timelot_name}, {card_name} {number} lần 🌅 #DOK_KEY"
+        "share_caption": "Niềm hy vọng chói lọi nở rộ với {timeslot_name}, {card_name} {number} lần 🌅 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_005",
@@ -770,7 +770,7 @@
       {
         "id": "hope_tmpl_006",
         "headline": "Một bông hoa thần kỳ nở rộ {card_name} trên đất khô",
-        "body": "Điều tưởng chừng như không thể bắt đầu diễn ra một cách kỳ diệu vào {timeslot_name}. Con số {con số} Năng lượng tích cực mà bạn truyền tải sẽ mang cả thế giới về phía bạn.",
+        "body": "Điều tưởng chừng như không thể bắt đầu diễn ra một cách kỳ diệu vào {timeslot_name}. Con số {number} Năng lượng tích cực mà bạn truyền tải sẽ mang cả thế giới về phía bạn.",
         "tip": "Hãy gửi những lời động viên tích cực và ấm áp đến những người xung quanh bạn.",
         "share_caption": "Điều kỳ diệu nở rộ với {card_name} {number} tại {timeslot_name} ✨ #DOK_KEY"
       },
@@ -832,7 +832,7 @@
       },
       {
         "id": "passion_tmpl_002",
-        "headline": "Bánh răng đã dừng quay, {card_name} được đẩy vào {timelot_name}",
+        "headline": "Bánh răng đã dừng quay, {card_name} được đẩy vào {timeslot_name}",
         "body": "Một điều gì đó mà bạn đã trì hoãn trong một thời gian dài sẽ diễn ra suôn sẻ một cách đáng ngạc nhiên trong ngày hôm nay. Số {number} cho biết bị chặn không phải khả năng mà là nút khởi động.",
         "tip": "Hãy làm việc mà bạn đã trì hoãn chỉ trong 5 phút hôm nay. Quán tính sẽ làm việc cho bạn.",
         "share_caption": "{card_name} {number} đã trả lại răng cưa cho {timeslot_name} ⚙️ #DOK_KEY"
@@ -861,7 +861,7 @@
       {
         "id": "passion_tmpl_006",
         "headline": "Như chim ưng đã bắt được mục tiêu, {card_name} hạ gục không chút do dự",
-        "body": "Năng lượng của {timeslot_name} thật tươi sáng. Số {con số} Sự hoang dã và quyết tâm sắc bén được trao cho bạn sẽ dẫn đến kết quả tốt nhất.",
+        "body": "Năng lượng của {timeslot_name} thật tươi sáng. Số {number} Sự hoang dã và quyết tâm sắc bén được trao cho bạn sẽ dẫn đến kết quả tốt nhất.",
         "tip": "Đừng nhìn sang một bên và tập trung toàn bộ hỏa lực vào một mục tiêu.",
         "share_caption": "{timeslot_name}, {card_name} {number} đường chạy bất bại và kết thúc hoàn hảo 🎯 #DOK_KEY"
       },
@@ -884,7 +884,7 @@
         "headline": "{card_name} Hôm nay, khoảnh khắc đam mê đã vượt qua mối lo cũ",
         "body": "{timeslot_name} là ngày tia lửa ngắn vượt qua nỗi lo lâu dài. Con số {number} sẽ bảo vệ thời gian của ngọn lửa đó. Những gì tôi làm bây giờ còn lớn hơn những gì tôi đã nghĩ bấy lâu nay.",
         "tip": "Nghĩ dài, hành động ngắn. Hãy sử dụng công thức đó ngay hôm nay.",
-        "share_caption": "{card_name} {number} lần, niềm đam mê {timelot_name} chiến thắng ⚡ #DOK_KEY"
+        "share_caption": "{card_name} {number} lần, niềm đam mê {timeslot_name} chiến thắng ⚡ #DOK_KEY"
       },
       {
         "id": "passion_tmpl_010",
@@ -917,7 +917,7 @@
       {
         "id": "mystery_tmpl_001",
         "headline": "Từ làn sương mù của {timeslot_name}, một sợi dây {card_name} hiện ra",
-        "body": "Câu trả lời ngày nay vẫn chưa được tiết lộ đầy đủ. Số {số} Chỉ giữ một sợi chỉ. Tuy nhiên, nếu bạn không buông sợi chỉ ra, toàn bộ bức tranh sẽ dần hiện rõ vào buổi tối.",
+        "body": "Câu trả lời ngày nay vẫn chưa được tiết lộ đầy đủ. Số {number} Chỉ giữ một sợi chỉ. Tuy nhiên, nếu bạn không buông sợi chỉ ra, toàn bộ bức tranh sẽ dần hiện rõ vào buổi tối.",
         "tip": "Hãy nhớ lại manh mối nửa vời ngày hôm nay. Ngày mai một nửa công việc sẽ được hoàn thành.",
         "share_caption": "Sương mù {timeslot_name}, sợi chỉ thò ra từ {card_name} {number} 🧵 #DOK_KEY"
       },
@@ -926,14 +926,14 @@
         "headline": "{card_name} Tôi biết cánh cửa chỉ mở hôm nay, {timeslot_name}",
         "body": "Chỉ một lần trong ngày bình thường, dòng chảy bị đứt ở một nơi không ngờ tới. Con số {number} ám chỉ 'suy nghĩ thứ hai'. Dưới đây là một số điều bạn nhìn thấy ngay sau khi viết câu trả lời đầu tiên.",
         "tip": "Hôm nay, suy nghĩ thứ hai của tôi gần với câu trả lời đúng hơn suy nghĩ đầu tiên.",
-        "share_caption": "Cánh cửa chỉ mở lúc {timelot_name}, {card_name} {number} lần 🔮 #DOK_KEY"
+        "share_caption": "Cánh cửa chỉ mở lúc {timeslot_name}, {card_name} {number} lần 🔮 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_003",
         "headline": "Sự sắp xếp của các ngôi sao đã thay đổi, hãy thông báo cho {card_name} {timeslot_name}",
         "body": "Khi bạn đếm sự trùng hợp, bạn sẽ thấy ý định. Con số {number} nói rằng ba sự trùng hợp lặp đi lặp lại ngày nay đều chỉ về một hướng. Hãy bước một bước theo hướng đó.",
         "tip": "Hãy nhớ những từ hoặc dấu hiệu được lặp lại ba lần trở lên trong ngày hôm nay. Đó là thông điệp của ngày hôm nay.",
-        "share_caption": "Đọc {timelot_name}, {card_name} {number} và mảng sao ✨ #DOK_KEY"
+        "share_caption": "Đọc {timeslot_name}, {card_name} {number} và mảng sao ✨ #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_004",
@@ -1008,7 +1008,7 @@
       {
         "id": "irony_tmpl_001",
         "headline": "Tôi đã tìm thấy chìa khóa cho {card_name} nhưng ổ khóa đã bị hỏng",
-        "body": "Tại {timeslot_name}, những tình huống đã được chuẩn bị lại xảy đến với những người chưa được chuẩn bị. Số {số} Anh ấy nói với một nụ cười. Không sao đâu, những bước lãng phí hôm nay sẽ trở thành thời gian biểu chính xác của ngày mai.",
+        "body": "Tại {timeslot_name}, những tình huống đã được chuẩn bị lại xảy đến với những người chưa được chuẩn bị. Số {number} Anh ấy nói với một nụ cười. Không sao đâu, những bước lãng phí hôm nay sẽ trở thành thời gian biểu chính xác của ngày mai.",
         "tip": "Tiếng rít ngày nay không phải là trục trặc mà là âm thanh đang được điều chỉnh.",
         "share_caption": "{card_name} {number} lần, tôi đã tìm thấy chìa khóa ở {timeslot_name} nhưng ổ khóa đã biến mất 🔑 #DOK_KEY"
       },
@@ -1066,7 +1066,7 @@
         "headline": "{card_name} Ý tưởng tôi vứt bỏ hôm nay đã trở thành vàng cho thứ khác",
         "body": "Đây là ngày mà một ý tưởng bị vứt bỏ ở {timeslot_name} sẽ mở ra một cánh cửa khác. Số {number} sẽ giúp bạn lấy lại nó. Rác và vàng miếng chỉ là những căn phòng khác nhau.",
         "tip": "Ý tưởng bị loại bỏ là thỏi vàng từ một căn phòng khác. Hãy đến lấy nó ngay hôm nay.",
-        "share_caption": "{card_name} {number} lần, {timelot_name} thỏi vàng ý tưởng bỏ đi ♻️ #DOK_KEY"
+        "share_caption": "{card_name} {number} lần, {timeslot_name} thỏi vàng ý tưởng bỏ đi ♻️ #DOK_KEY"
       },
       {
         "id": "irony_tmpl_010",
@@ -1087,7 +1087,7 @@
         "headline": "{card_name} Hôm nay tôi mới biết người tôi giúp đã đến giúp tôi",
         "body": "Đây là ngày quà tặng được phân phát tại {timeslot_name}. Số {number} sẽ là người giao hàng cho chu kỳ đó. Biên nhận trợ giúp có một tên khác.",
         "tip": "Biên nhận trợ giúp sẽ được gửi lại dưới một tên khác.",
-        "share_caption": "{card_name} {number}, quà tặng {timelot_name} đã quay trở lại 🎁 #DOK_KEY"
+        "share_caption": "{card_name} {number}, quà tặng {timeslot_name} đã quay trở lại 🎁 #DOK_KEY"
       }
     ]
   }

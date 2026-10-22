@@ -1,7 +1,6 @@
 [
   {
     "id": "pun_uz_01",
-    "lang": "uz",
     "category": "pun",
     "question": "Simda 3 ta chumchuq o'tirgan edi. Ovchi bittasini otib tushirdi. Simda nechta chumchuq qoldi?",
     "options": [
@@ -17,7 +16,6 @@
   },
   {
     "id": "pun_uz_02",
-    "lang": "uz",
     "category": "pun",
     "question": "Qaysi mashinada hech qachon benzin tugamaydi?",
     "options": [
@@ -33,7 +31,6 @@
   },
   {
     "id": "pun_uz_03",
-    "lang": "uz",
     "category": "pun",
     "question": "Kallasi bor, lekin miyasi yo'q narsa nima?",
     "options": [
@@ -49,7 +46,6 @@
   },
   {
     "id": "pun_uz_04",
-    "lang": "uz",
     "category": "pun",
     "question": "Yozda kiyinadi, qishda yechinadi. Bu nima?",
     "options": [
@@ -65,7 +61,6 @@
   },
   {
     "id": "pun_uz_05",
-    "lang": "uz",
     "category": "pun",
     "question": "Qaysi daryoning suvi yo'q?",
     "options": [
@@ -81,7 +76,6 @@
   },
   {
     "id": "pun_uz_06",
-    "lang": "uz",
     "category": "pun",
     "question": "Eshikni ochish uchun birinchi nima qilish kerak?",
     "options": [
@@ -97,7 +91,6 @@
   },
   {
     "id": "pun_uz_07",
-    "lang": "uz",
     "category": "pun",
     "question": "Qaysi soat kuniga ikki marta to'g'ri vaqtni ko'rsatadi?",
     "options": [
@@ -113,7 +106,6 @@
   },
   {
     "id": "pun_uz_08",
-    "lang": "uz",
     "category": "pun",
     "question": "Tishlari ko'p, lekin hech narsa yemaydi. Bu nima?",
     "options": [
@@ -129,7 +121,6 @@
   },
   {
     "id": "pun_uz_09",
-    "lang": "uz",
     "category": "pun",
     "question": "Qancha ko'p olsang, shuncha kattalashadi. Bu nima?",
     "options": [
@@ -145,7 +136,6 @@
   },
   {
     "id": "pun_uz_10",
-    "lang": "uz",
     "category": "pun",
     "question": "Qaysi oyda odamlar eng kam uxlaydilar?",
     "options": [

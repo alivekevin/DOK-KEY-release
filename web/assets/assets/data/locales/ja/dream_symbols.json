@@ -73,7 +73,8 @@
         "カチガラス",
         "鳩",
         "小鳥",
-        "bird"
+        "bird",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -89,7 +90,8 @@
         "鯉",
         "金魚",
         "魚を捕る",
-        "fish"
+        "fish",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 62,
@@ -105,7 +107,8 @@
         "子犬",
         "愛犬",
         "ワンちゃん",
-        "dog"
+        "dog",
+        "犬・子犬"
       ],
       "fortune": "normal",
       "lucky_number": 19,
@@ -121,7 +124,8 @@
         "ネコ",
         "子猫",
         "黒猫",
-        "cat"
+        "cat",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -138,7 +142,9 @@
         "雄牛",
         "牛の夢",
         "ox",
-        "cow"
+        "cow",
+        "牛（ウシ）",
+        "牛（ウシ）"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -154,7 +160,8 @@
         "白馬",
         "名馬",
         "疾走",
-        "horse"
+        "horse",
+        "馬・白馬"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -170,7 +177,8 @@
         "カメ",
         "スッポン",
         "長寿",
-        "turtle"
+        "turtle",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -186,7 +194,9 @@
         "雄鶏",
         "ニワトリ",
         "夜明け",
-        "rooster"
+        "rooster",
+        "鶏・雄鶏",
+        "鶏・雄鶏"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -221,7 +231,8 @@
         "蜘蛛",
         "クモ",
         "昆虫",
-        "bug"
+        "bug",
+        "wooden_comb"
       ],
       "fortune": "normal",
       "lucky_number": 16,
@@ -237,7 +248,8 @@
         "ネズミ",
         "リス",
         "子ネズミ",
-        "mouse"
+        "mouse",
+        "rat"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -285,7 +297,8 @@
         "シカ",
         "小鹿",
         "神鹿",
-        "deer"
+        "deer",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -317,7 +330,8 @@
         "蛙",
         "カエル",
         "金蟾",
-        "toad"
+        "toad",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -333,7 +347,9 @@
         "歯が抜ける",
         "抜歯",
         "歯痛",
-        "teeth"
+        "teeth",
+        "wooden_comb",
+        "歯が抜ける夢"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -349,7 +365,9 @@
         "排泄物",
         "糞",
         "大便",
-        "poo"
+        "poo",
+        "silk_pouch",
+        "排泄物に触れる・踏む夢"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -382,7 +400,9 @@
         "おしっこ",
         "排尿",
         "スッキリ",
-        "pee"
+        "pee",
+        "water_sprite",
+        "スッキリとお小水（尿）を足す夢"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -416,7 +436,8 @@
         "号泣",
         "大泣き",
         "嗚咽",
-        "tears"
+        "tears",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 24,
@@ -433,7 +454,8 @@
         "足",
         "傷",
         "骨折",
-        "injury"
+        "injury",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -450,7 +472,8 @@
         "シャワー",
         "温泉",
         "体を洗う",
-        "bath"
+        "bath",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -483,7 +506,9 @@
         "妊婦",
         "おめでた",
         "新しい命",
-        "pregnancy"
+        "pregnancy",
+        "moon_jar",
+        "妊娠する夢"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -515,7 +540,8 @@
         "成長",
         "高身長",
         "背丈",
-        "growing tall"
+        "growing tall",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -532,7 +558,8 @@
         "美肌",
         "美男子",
         "美女",
-        "face"
+        "face",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -548,7 +575,8 @@
         "全裸",
         "服が脱げる",
         "素っ裸",
-        "naked"
+        "naked",
+        "folding_fan"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -564,7 +592,8 @@
         "冷や汗",
         "脂汗",
         "汗だく",
-        "sweat"
+        "sweat",
+        "tea_bowl"
       ],
       "fortune": "normal",
       "lucky_number": 60,
@@ -598,7 +627,8 @@
         "火事",
         "火の夢",
         "業火",
-        "fire"
+        "fire",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -615,7 +645,8 @@
         "星空",
         "銀河",
         "天の川",
-        "star"
+        "star",
+        "star_weaver"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -632,7 +663,8 @@
         "日の出",
         "日差し",
         "旭光",
-        "sun"
+        "sun",
+        "sun_messenger"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -683,7 +715,8 @@
         "波",
         "水平線",
         "海岸",
-        "sea"
+        "sea",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -700,7 +733,8 @@
         "湖",
         "河川",
         "せせらぎ",
-        "river"
+        "river",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -716,7 +750,8 @@
         "濁った水",
         "泥",
         "濁流",
-        "muddy water"
+        "muddy water",
+        "wooden_comb"
       ],
       "fortune": "ominous",
       "lucky_number": 42,
@@ -733,7 +768,8 @@
         "夕立",
         "恵みの雨",
         "大雨",
-        "rain"
+        "rain",
+        "water_sprite"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -767,7 +803,8 @@
         "落雷",
         "雷鳴",
         "電光",
-        "lightning"
+        "lightning",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -816,7 +853,8 @@
         "小銭",
         "金を拾う",
         "金運",
-        "money"
+        "money",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -850,7 +888,8 @@
         "金塊",
         "財宝",
         "宝物",
-        "jewel"
+        "jewel",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -866,7 +905,8 @@
         "新しい財布",
         "長財布",
         "プレゼント",
-        "wallet"
+        "wallet",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 36,
@@ -883,7 +923,8 @@
         "当選",
         "大金",
         "大当たり",
-        "lottery"
+        "lottery",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -916,7 +957,8 @@
         "裸足",
         "靴紛失",
         "靴が脱げる",
-        "shoes"
+        "shoes",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -932,7 +974,8 @@
         "新調の靴",
         "スニーカー",
         "靴を履く",
-        "shoes"
+        "shoes",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -949,7 +992,8 @@
         "金指輪",
         "リング",
         "宝飾品",
-        "ring"
+        "ring",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -966,7 +1010,8 @@
         "荷造り",
         "スーツケース",
         "リュック",
-        "bag"
+        "bag",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -1000,7 +1045,8 @@
         "時計の針",
         "タイミング",
         "時刻",
-        "clock"
+        "clock",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -1017,7 +1063,8 @@
         "包丁",
         "ハサミ",
         "切断",
-        "knife"
+        "knife",
+        "dokkaebi_club"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1051,7 +1098,8 @@
         "ギフト",
         "お届け物",
         "贈答",
-        "gift"
+        "gift",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1103,7 +1151,8 @@
         "守護霊",
         "トッケビの火",
         "妖精",
-        "dokkaebi"
+        "dokkaebi",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1137,7 +1186,9 @@
         "聖者",
         "菩薩",
         "神仏",
-        "saint"
+        "saint",
+        "lotus_lamp",
+        "仏様・イエス・聖者にお目にかかる夢"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1154,7 +1205,8 @@
         "羽",
         "妖精",
         "天界",
-        "angel"
+        "angel",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1171,7 +1223,8 @@
         "礼拝",
         "法事",
         "お参り",
-        "prayer"
+        "prayer",
+        "wooden_fish"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1205,7 +1258,8 @@
         "棺桶",
         "死体",
         "納棺",
-        "coffin"
+        "coffin",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1221,7 +1275,8 @@
         "冥府の使者",
         "使者",
         "運命の岐路",
-        "reaper"
+        "reaper",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 13,
@@ -1272,7 +1327,8 @@
         "逃走",
         "追跡",
         "チェイス",
-        "chased"
+        "chased",
+        "shadow_walker"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1288,7 +1344,8 @@
         "明晰夢",
         "夢を見る夢",
         "二重の夢",
-        "dream"
+        "dream",
+        "dream_eater"
       ],
       "fortune": "normal",
       "lucky_number": 7,
@@ -1408,7 +1465,8 @@
         "制圧",
         "敵討ち",
         "勝利",
-        "kill"
+        "kill",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1425,7 +1483,8 @@
         "侵入",
         "空き巣",
         "盗難",
-        "thief"
+        "thief",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1476,7 +1535,8 @@
         "家を建てる",
         "新築",
         "移転",
-        "moving house"
+        "moving house",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 65,
@@ -1493,7 +1553,8 @@
         "ご馳走",
         "晩餐",
         "美食",
-        "eating"
+        "eating",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1510,7 +1571,8 @@
         "開花",
         "花束",
         "フラワー",
-        "flower"
+        "flower",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1527,7 +1589,8 @@
         "白米",
         "おにぎり",
         "炊きたて",
-        "rice cake"
+        "rice cake",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1544,7 +1607,10 @@
         "桃",
         "フルーツ",
         "柿",
-        "fruit"
+        "fruit",
+        "lotus_lamp",
+        "熟れたリンゴ・桃・果物",
+        "熟れたリンゴ・桃・果物"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1561,7 +1627,8 @@
         "巨木",
         "森林",
         "森",
-        "tree"
+        "tree",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1578,7 +1645,8 @@
         "ステーキ",
         "肉",
         "ご馳走",
-        "meat"
+        "meat",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1595,7 +1663,9 @@
         "ビール",
         "ワイン",
         "晩酌",
-        "drinking"
+        "drinking",
+        "tea_bowl",
+        "お酒を飲んで乾杯する夢"
       ],
       "fortune": "normal",
       "lucky_number": 45,
@@ -1629,7 +1699,8 @@
         "発芽",
         "苗植え",
         "栽培",
-        "planting"
+        "planting",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1663,7 +1734,8 @@
         "突風",
         "そよ風",
         "強風",
-        "wind"
+        "wind",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1680,7 +1752,8 @@
         "大門",
         "出口",
         "入口",
-        "door"
+        "door",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1714,7 +1787,8 @@
         "フライト",
         "航空",
         "搭乗",
-        "airplane"
+        "airplane",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1731,7 +1805,8 @@
         "自動車",
         "スーパーカー",
         "快走",
-        "driving"
+        "driving",
+        "horse"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1765,7 +1840,8 @@
         "クルーズ",
         "航海",
         "大船",
-        "ship"
+        "ship",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1782,7 +1858,8 @@
         "ツーリング",
         "ペダル",
         "ライディング",
-        "bicycle"
+        "bicycle",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -1901,7 +1978,8 @@
         "怒り",
         "爆発",
         "憤怒",
-        "anger"
+        "anger",
+        "dokkaebi_fire"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -1918,7 +1996,8 @@
         "至福",
         "歓喜",
         "涅槃",
-        "bliss"
+        "bliss",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

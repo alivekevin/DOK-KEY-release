@@ -9,7 +9,10 @@
     "es": "Como un fuego fatuo que ilumina la noche, una línea de sabiduría que despierta cada día en tu corazón",
     "pt": "Como um fogo-fátuo que ilumina a noite, uma linha de sabedoria que acende diariamente no seu coração",
     "vi": "Như ngọn lửa yêu tinh xua tan bóng tối, mỗi ngày thắp sáng trong tim một dòng trí tuệ",
-    "fr": "Comme un feu follet éclairant la nuit, une ligne de sagesse s'allume chaque jour dans votre cœur"
+    "fr": "Comme un feu follet éclairant la nuit, une ligne de sagesse s'allume chaque jour dans votre cœur",
+    "id": "Bagaikan api dokkaebi yang menerangi kegelapan, sebaris kebijaksanaan yang menyinari hatimu setiap hari",
+    "ne": "अन्धकार चिर्ने दोक्काएबी ज्योति जस्तै, हरेक दिन मनमा बल्ने बुद्धिको एक पङ्क्ति",
+    "uz": "Zulmatni yorituvchi sehrli olovdek, har kuni dilda porlovchi bir qator hikmat"
   },
   "sub_slogan": {
     "ko": "3D 깨비가 건네는 오늘의 명언 · 수수께끼 · 인생 운세",
@@ -21,7 +24,10 @@
     "es": "Frases del día, acertijos y fortuna de la vida compartidos por Kkaebi 3D",
     "pt": "Citações do dia, enigmas e sorte da vida compartilhados pelo Kkaebi 3D",
     "vi": "Danh ngôn mỗi ngày, câu đố và vận mệnh cuộc đời từ Kkaebi 3D",
-    "fr": "Citations du jour, énigmes et destin de vie partagés par Kkaebi 3D"
+    "fr": "Citations du jour, énigmes et destin de vie partagés par Kkaebi 3D",
+    "id": "Kata mutiara harian, teka-teki & ramalan hidup dari Kkaebi 3D",
+    "ne": "३D कैबीले बाँड्ने आजको सुविचार, पहेली र जीवनको भाग्य",
+    "uz": "3D Kkaebidan bugungi hikmatli so'zlar, topishmoqlar va hayotiy fol"
   },
   "app_purpose": {
     "ko": "매일 아침 깨비가 건네는 한 줄의 지혜로 하루를 열고, 수수께끼와 운세로 마음을 돌보는 지혜 플랫폼",
@@ -33,7 +39,10 @@
     "es": "Comienza el día con una línea de sabiduría de Kkaebi y cuida tu corazón con acertijos y fortuna.",
     "pt": "Abra o seu dia com uma linha de sabedoria do Kkaebi e cuide do coração com enigmas e sorte.",
     "vi": "Mở đầu ngày mới bằng dòng trí tuệ từ Kkaebi và chăm sóc tâm hồn với câu đố và vận mệnh.",
-    "fr": "Ouvrez votre journée avec une ligne de sagesse de Kkaebi et prenez soin de votre cœur avec énigmes et destins."
+    "fr": "Ouvrez votre journée avec une ligne de sagesse de Kkaebi et prenez soin de votre cœur avec énigmes et destins.",
+    "id": "Buka harimu dengan sebaris kebijaksanaan dari Kkaebi, lalu rawat hatimu dengan teka-teki dan peruntungan.",
+    "ne": "हरेक बिहान कैबीको बुद्धिको एक पङ्क्तिबाट दिन सुरु गर्नुहोस्, अनि पहेली र भाग्यद्वारा मनको हेरचाह गर्नुहोस्।",
+    "uz": "Tongingizni Kkaebining bir qator hikmati bilan boshlang, topishmoq va fol bilan dilingizga orom bering."
   },
   "og_title": {
     "ko": "DOK-KEY (도깨비키) - 깨비가 전하는 오늘의 명언 & 지혜",
@@ -45,7 +54,10 @@
     "es": "DOK-KEY — La frase y sabiduría de hoy transmitidas por Kkaebi",
     "pt": "DOK-KEY — A frase e sabedoria de hoje trazidas pelo Kkaebi",
     "vi": "DOK-KEY — Danh ngôn và trí tuệ hôm nay do Kkaebi gửi trao",
-    "fr": "DOK-KEY — La citation et la sagesse du jour transmises par Kkaebi"
+    "fr": "DOK-KEY — La citation et la sagesse du jour transmises par Kkaebi",
+    "id": "DOK-KEY — Kata Mutiara & Kebijaksanaan Hari Ini dari Kkaebi",
+    "ne": "DOK-KEY — कैबीले दिने आजको सुविचार र ज्ञान",
+    "uz": "DOK-KEY — Kkaebi yetkazgan bugungi hikmat va donolik"
   },
   "og_description": {
     "ko": "매일 아침 나를 깨우는 한 줄의 격언, 3D 깨비와 나누는 수수께끼와 마음 운세. 오늘의 지혜를 열쇠로 잠금 해제하세요.",
@@ -57,7 +69,10 @@
     "es": "Una máxima matutina para inspirarte, acertijos con el duende 3D y fortuna. Desbloquea la sabiduría de hoy con tu llave.",
     "pt": "Uma máxima matinal para inspirar você, enigmas com o duende 3D e previsões da vida. Destranque a sabedoria de hoje com sua chave.",
     "vi": "Châm ngôn buổi sáng đánh thức bạn, giải đố cùng yêu tinh 3D và xem vận mệnh. Hãy mở khóa trí tuệ hôm nay bằng chìa khóa của bạn.",
-    "fr": "Une maxime matinale pour vous inspirer, des énigmes avec le lutin 3D et les prédictions. Déverrouillez la sagesse du jour avec votre clé."
+    "fr": "Une maxime matinale pour vous inspirer, des énigmes avec le lutin 3D et les prédictions. Déverrouillez la sagesse du jour avec votre clé.",
+    "id": "Petuah pagi yang menginspirasimu, teka-teki bersama goblin 3D, dan ramalan hati. Buka kebijaksanaan hari ini dengan kuncimu.",
+    "ne": "हरेक बिहान ब्युँझाउने एक सुविचार, ३D कैबीसँग पहेली र मनको भाग्य। आफ्नो साँचोले आजको ज्ञान अनलक गर्नुहोस्।",
+    "uz": "Har tong sizni uyg'otuvchi hikmat, 3D sehrgar bilan topishmoq va qalb foli. Bugungi donolikni o'z kalitingiz bilan oching."
   },
   "web_hero": {
     "ko": "하루 한 줄, 나를 바꾸는 도깨비 명언",
@@ -69,7 +84,10 @@
     "es": "Una frase al día, el proverbio de Kkaebi que te transforma",
     "pt": "Uma linha por dia, o provérbio do Kkaebi que transforma você",
     "vi": "Mỗi ngày một dòng, danh ngôn Kkaebi thay đổi chính bạn",
-    "fr": "Une ligne par jour, le proverbe de Kkaebi qui vous transforme"
+    "fr": "Une ligne par jour, le proverbe de Kkaebi qui vous transforme",
+    "id": "Satu baris sehari — kata mutiara goblin yang mengubah hidupmu",
+    "ne": "दिनको एक पङ्क्ति — तपाईंलाई बदल्ने दोक्काएबी सुविचार",
+    "uz": "Kuniga bir qator — hayotingizni o'zgartiruvchi sehrli hikmat"
   },
   "poster_stamp": {
     "ko": "오늘의 지혜 부적",
@@ -81,7 +99,10 @@
     "es": "TALISMÁN DE SABIDURÍA",
     "pt": "TALISMÃ DA SABEDORIA",
     "vi": "BÙA CHÚ TRÍ TUỆ",
-    "fr": "TALISMAN DE SAGESSE"
+    "fr": "TALISMAN DE SAGESSE",
+    "id": "JIMAT KEBIJAKSANAAN",
+    "ne": "बुद्धिको ताबीज",
+    "uz": "HIKMAT TUMORI"
   },
   "poster_footer": {
     "ko": "깨비가 전하는 오늘의 명언",
@@ -93,6 +114,9 @@
     "es": "La sabiduría diaria de Kkaebi",
     "pt": "A sabedoria diária do Kkaebi",
     "vi": "Trí tuệ mỗi ngày cùng Kkaebi",
-    "fr": "La sagesse quotidienne de Kkaebi"
+    "fr": "La sagesse quotidienne de Kkaebi",
+    "id": "Kata mutiara harian dari Kkaebi",
+    "ne": "कैबीले दिने आजको सुविचार",
+    "uz": "Kkaebi ulashgan bugungi hikmat"
   }
 }

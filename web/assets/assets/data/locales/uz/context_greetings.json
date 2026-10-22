@@ -35,36 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "Yana tong saharda qaytdingiz, {nick}! Sizdek doimiy mehmonlar mening eng sevimli do'stlarimdir.",
-      "Tong otdi, {nick}! Yangi kalit sizni tun bo'yi kutdi.",
-      "Qat'iyatlilikni hatto sehrli maxluqlar ham hurmat qilishadi, {nick}! Bugungi eshikni ochaylik.",
-      "Tong havosidan siz bilan birga nafas olish, {nick}, kunga umid baxsh etadi.",
-      "Tonggi qadamlaringiz yanada shaxdam, {nick}. Bugungi maqsadimiz nima?",
-      "Xayrli tong, {nick}! Bugungi donolik kaliti tayyor."
+      "Yana tong saharda qaytdingiz, {nickname}! Sizdek doimiy mehmonlar mening eng sevimli do'stlarimdir.",
+      "Tong otdi, {nickname}! Yangi kalit sizni tun bo'yi kutdi.",
+      "Qat'iyatlilikni hatto sehrli maxluqlar ham hurmat qilishadi, {nickname}! Bugungi eshikni ochaylik.",
+      "Tong havosidan siz bilan birga nafas olish, {nickname}, kunga umid baxsh etadi.",
+      "Tonggi qadamlaringiz yanada shaxdam, {nickname}. Bugungi maqsadimiz nima?",
+      "Xayrli tong, {nickname}! Bugungi donolik kaliti tayyor."
     ],
     "noon": [
-      "Peshinda yana ko'rishganimizdan xursandman, {nick}! Bugungi energiya eng yuqori nuqtada.",
-      "Kunduzgi quyosh yo'limizni yoritmoqda, {nick}. Keling, bugungi vazifani yakunlaylik!",
-      "Tushlik qildingizmi, {nick}? Biroz hordiq chiqaring va omad sirlarini tinglang.",
-      "Peshindagi ikkinchi tashrifingiz ortiqcha omad keltiradi, {nick}!",
-      "Sodiq do'st bilan yoqimli tushlik vaqti, {nick}. Sayohatimizni davom ettiramiz.",
-      "Shijoatingiz hech qachon so'nmasin, {nick}! Muvaffaqiyat eshigi lang ochiq."
+      "Peshinda yana ko'rishganimizdan xursandman, {nickname}! Bugungi energiya eng yuqori nuqtada.",
+      "Kunduzgi quyosh yo'limizni yoritmoqda, {nickname}. Keling, bugungi vazifani yakunlaylik!",
+      "Tushlik qildingizmi, {nickname}? Biroz hordiq chiqaring va omad sirlarini tinglang.",
+      "Peshindagi ikkinchi tashrifingiz ortiqcha omad keltiradi, {nickname}!",
+      "Sodiq do'st bilan yoqimli tushlik vaqti, {nickname}. Sayohatimizni davom ettiramiz.",
+      "Shijoatingiz hech qachon so'nmasin, {nickname}! Muvaffaqiyat eshigi lang ochiq."
     ],
     "evening": [
-      "Quyosh ufqqa bosh qo'ydi, {nick}. Bugungi muvaffaqiyatlarni sarhisob qilish vaqti.",
-      "Bugungi mashaqqatli mehnat o'z samarasini berdi, {nick}! Endi hordiq chiqaramiz.",
-      "Siz bilan shomni kutib olish doim xotirjamlik bag'ishlaydi, {nick}.",
-      "Tez orada tun eshiklari ochiladi, {nick}. Qaytganingiz uchun tashakkur.",
-      "Tirishqoq qalb uchun go'zal oqshom, {nick}.",
-      "Xayrli oqshom, {nick}! Bugun kechqurun omad kalitingizni asrab qo'ying."
+      "Quyosh ufqqa bosh qo'ydi, {nickname}. Bugungi muvaffaqiyatlarni sarhisob qilish vaqti.",
+      "Bugungi mashaqqatli mehnat o'z samarasini berdi, {nickname}! Endi hordiq chiqaramiz.",
+      "Siz bilan shomni kutib olish doim xotirjamlik bag'ishlaydi, {nickname}.",
+      "Tez orada tun eshiklari ochiladi, {nickname}. Qaytganingiz uchun tashakkur.",
+      "Tirishqoq qalb uchun go'zal oqshom, {nickname}.",
+      "Xayrli oqshom, {nickname}! Bugun kechqurun omad kalitingizni asrab qo'ying."
     ],
     "night": [
-      "Yana sokin tun keldi, {nick}. Charchagan qalbingizga orom bering.",
-      "Yulduzlar bugun siz uchun porlamoqda, {nick}.",
-      "Tunning sukunati xotirjamlik keltiradi, {nick}. Shirin tushlar ko'ring.",
-      "Sizga xayrli tun tilayman, {nick}. Ertagacha!",
-      "Bugungi kalit xavfsiz qulflab qo'yildi, {nick}. Orom oling.",
-      "Haqiqiy do'st bilan o'tgan sokin tun, {nick}. Xayrli tun."
+      "Yana sokin tun keldi, {nickname}. Charchagan qalbingizga orom bering.",
+      "Yulduzlar bugun siz uchun porlamoqda, {nickname}.",
+      "Tunning sukunati xotirjamlik keltiradi, {nickname}. Shirin tushlar ko'ring.",
+      "Sizga xayrli tun tilayman, {nickname}. Ertagacha!",
+      "Bugungi kalit xavfsiz qulflab qo'yildi, {nickname}. Orom oling.",
+      "Haqiqiy do'st bilan o'tgan sokin tun, {nickname}. Xayrli tun."
+    ]
+  },
+  "long_absence": {
+    "morning": [
+      "{nickname}! Ko'rishmaganimizga ancha bo'ldi! Mayli, bir necha kun o'tdi xolos. Baribir, tong quyoshidek xush kelibsan!",
+      "Oho, axir bu {nickname} ku! Ostonani supurib kutayotgan edim. Yangi tonggi boshlanish!",
+      "Hehe, {nickname} qaytdi! Eng qadimiy kalitlar eng yaxshi mos keladi. Kiring!",
+      "{nickname}, uzoq vaqtdan keyin tonggi eshikni qoqding! Qayta boshlaganlarga tong doimo saxovatlidir.",
+      "Xaxaha, {nickname}! Shuncha vaqtdan so'ng tongda paydo bo'lding. Bu yaxshilik alomati.",
+      "{nickname}, mendan uzoqda bo'lgan vaqting ham hikoyangning bir sahifasidir. Tongdan davom etamiz."
+    ],
+    "noon": [
+      "{nickname} qaytib keldi va quyosh yanada ilidi! O'tiring, qadrdon do'stim.",
+      "Yaxshi insonlar doimo qaytishadi! {nickname}, ko'rishmaganimizga ancha bo'ldi. Aynan tush paytida keldingiz.",
+      "Necha hafta o'tdi, {nickname}? Eshigim doim ochiq, aslo xavotir olmang!",
+      "{nickname}, ancha vaqtdan so'ng tushda keldingiz. Quyosh iliq, rishtalarimiz yana yangilanmoqda.",
+      "Ko'rishmaganimizga ancha bo'libdi, {nickname}! Tushda qaytgan inson baraka keltiradi.",
+      "{nickname}, bu diydor kunidagi quyosh juda ajoyib. O'tiring va sarguzashtlaringizni so'zlang."
+    ],
+    "evening": [
+      "Ko'rishmaganimizga ancha bo'ldi, {nickname}! Siz kelgach shom shafag'i ham yorqinroq ko'rinmoqda.",
+      "O, qaytib keldingizmi, {nickname}! Safarda ishlaringiz o'ngidan keldimi?",
+      "Hehe, nihoyat qaytdingiz, {nickname}! Yakun doimo yangi uchrashuvdan boshlanadi.",
+      "{nickname}, oqshomda qaytib keldingiz. Nigohingiz yanada teranlashibdi — juda soz.",
+      "Uzoq tanaffusdan keyingi oqshom salomi — aynan sizning uslubingiz, {nickname}!",
+      "{nickname}, shom nuri ostida yana uchrashganimizdan xursandman. Bugundan asta-sekin bog'lanamiz."
+    ],
+    "night": [
+      "{nickname}... tun sukunatida qaytib keldingiz. Sizni chindan ham sog'ingan edim.",
+      "Yarim tunda qaytish — bu aynan sizga xos, {nickname}! Hatto sehrgarlar ham tunda mehrli bo'ladi.",
+      "Yarim tunda qadrdon mehmondan tashrif... juda yaxshi belgi, {nickname}. Marhamat!",
+      "{nickname}, uzoq vaqtdan keyin shunday kech qaytib keldingiz. Yolg'izlanib qolgan ko'rinasiz.",
+      "Tunning bir mahalida qaytish — har doimgidek kutilmagan, {nickname}! Qani, o'tiring.",
+      "{nickname}, ancha vaqtdan so'ng tunda ko'rishib turibmiz. Qalblarni qayta birlashtirish uchun tun ajoyib vaqtdir."
     ]
   }
 }

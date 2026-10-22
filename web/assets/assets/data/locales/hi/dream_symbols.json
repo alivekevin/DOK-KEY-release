@@ -72,7 +72,9 @@
         "चिड़िया",
         "सारस",
         "खुशखबरी",
-        "bird"
+        "bird",
+        "wind_child",
+        "पक्षी / सारस (Bird)"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -88,7 +90,8 @@
         "धन",
         "प्रतिभा",
         "सफलता",
-        "fish"
+        "fish",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 62,
@@ -104,7 +107,8 @@
         "पिल्ला",
         "वफादारी",
         "मित्र",
-        "dog"
+        "dog",
+        "कुत्ता / पिल्ला (Dog)"
       ],
       "fortune": "normal",
       "lucky_number": 19,
@@ -120,7 +124,8 @@
         "अंतर्ज्ञान",
         "रहस्य",
         "संकेत",
-        "cat"
+        "cat",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -136,7 +141,10 @@
         "गाय",
         "मेहनत",
         "स्थिरता",
-        "ox"
+        "ox",
+        "बैल / गाय (Ox / Cow)",
+        "बैल / गाय (Ox / Cow)",
+        "बैल / गाय (Ox / Cow)"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -152,7 +160,8 @@
         "गति",
         "उन्नति",
         "सफलता",
-        "horse"
+        "horse",
+        "घोड़ा / सफेद अश्व (Horse)"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -168,7 +177,8 @@
         "दीर्घायु",
         "धैर्य",
         "स्थायी समृद्धि",
-        "turtle"
+        "turtle",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -184,7 +194,9 @@
         "सवेरा",
         "उजाला",
         "सफलता",
-        "rooster"
+        "rooster",
+        "मुर्गा (Rooster)",
+        "मुर्गा (Rooster)"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -200,7 +212,8 @@
         "मधुमक्खी",
         "प्रेम",
         "सौंदर्य",
-        "butterfly"
+        "butterfly",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 44,
@@ -216,7 +229,10 @@
         "चींटी",
         "मकड़ी",
         "परिश्रम",
-        "bug"
+        "bug",
+        "wooden_comb",
+        "कीड़ा / चींटी / मकड़ी (Insect)",
+        "कीड़ा / चींटी / मकड़ी (Insect)"
       ],
       "fortune": "normal",
       "lucky_number": 16,
@@ -232,7 +248,8 @@
         "गिलहरी",
         "सतर्कता",
         "बचत",
-        "mouse"
+        "mouse",
+        "rat"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -280,7 +297,8 @@
         "शांति",
         "सौम्यता",
         "आशीर्वाद",
-        "deer"
+        "deer",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -312,7 +330,8 @@
         "धन आगमन",
         "खुशी",
         "परिवार",
-        "toad"
+        "toad",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -328,7 +347,9 @@
         "दांत टूटना",
         "परिवार",
         "चिंता",
-        "teeth"
+        "teeth",
+        "wooden_comb",
+        "दांत टूटने का सपना (Losing teeth)"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -344,7 +365,9 @@
         "मल",
         "धन लाभ",
         "अचानक लाभ",
-        "poo"
+        "poo",
+        "silk_pouch",
+        "मल छूना या उस पर पैर पड़ना (Poo)"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -360,7 +383,8 @@
         "रक्त",
         "ऊर्जा",
         "रुकावट दूर",
-        "blood"
+        "blood",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -376,7 +400,9 @@
         "राहत",
         "चिंता मुक्त",
         "मनोकामना",
-        "pee"
+        "pee",
+        "water_sprite",
+        "खुलकर मूत्र विसर्जन (Urine)"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -392,7 +418,8 @@
         "बाल काटना",
         "नया रूप",
         "बदलाव",
-        "hair"
+        "hair",
+        "wooden_comb"
       ],
       "fortune": "normal",
       "lucky_number": 28,
@@ -408,7 +435,9 @@
         "रोना",
         "मन हल्का",
         "खुशी",
-        "tears"
+        "tears",
+        "water_sprite",
+        "आंसू बहाना / खुलकर रोना (Tears)"
       ],
       "fortune": "auspicious",
       "lucky_number": 24,
@@ -424,7 +453,9 @@
         "घाव",
         "सावधानी",
         "जांच",
-        "injury"
+        "injury",
+        "brass_bell",
+        "हाथ या पैर में चोट लगना (Injury)"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -440,7 +471,9 @@
         "नहाना",
         "शुद्धि",
         "ताजगी",
-        "bath"
+        "bath",
+        "lotus_lamp",
+        "स्नान करना (Bathing)"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -456,7 +489,8 @@
         "इलाज",
         "अस्पताल",
         "सुधार",
-        "surgery"
+        "surgery",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -472,7 +506,9 @@
         "नया जीवन",
         "विचार",
         "सृजन",
-        "pregnant"
+        "pregnant",
+        "moon_jar",
+        "गर्भावस्था (Pregnancy)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -504,7 +540,8 @@
         "उन्नति",
         "उच्च पद",
         "दूरदृष्टि",
-        "growth"
+        "growth",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -520,7 +557,9 @@
         "सुंदरता",
         "आकर्षण",
         "प्रशंसा",
-        "beauty"
+        "beauty",
+        "jade_ring",
+        "चेहरे पर तेज और सुंदरता (Glowing Face)"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -536,7 +575,8 @@
         "नग्न",
         "सच्चाई",
         "ईमानदारी",
-        "naked"
+        "naked",
+        "folding_fan"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -552,7 +592,8 @@
         "थकान",
         "विश्राम",
         "आराम",
-        "sweat"
+        "sweat",
+        "tea_bowl"
       ],
       "fortune": "normal",
       "lucky_number": 60,
@@ -568,7 +609,8 @@
         "साफ पानी",
         "झरना",
         "शुद्धता",
-        "water"
+        "water",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 17,
@@ -584,7 +626,9 @@
         "ज्वाला",
         "उत्साह",
         "तेज प्रगति",
-        "fire"
+        "fire",
+        "dokkaebi_fire",
+        "धधकती अग्नि (Fire)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -600,7 +644,9 @@
         "टूटता तारा",
         "प्रेरणा",
         "सफलता",
-        "star"
+        "star",
+        "star_weaver",
+        "चमकते तारे / टूटता तारा (Stars)"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -616,7 +662,9 @@
         "सूर्योदय",
         "रोशनी",
         "ख्याति",
-        "sun"
+        "sun",
+        "sun_messenger",
+        "उगता सूरज (Rising Sun)"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -632,7 +680,8 @@
         "चंद्रमा",
         "पूर्णिमा",
         "चांदनी",
-        "moon"
+        "moon",
+        "moon_rabbit"
       ],
       "fortune": "auspicious",
       "lucky_number": 49,
@@ -648,7 +697,8 @@
         "पर्वत",
         "शिखर",
         "ऊंचाई",
-        "mountain"
+        "mountain",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -664,7 +714,9 @@
         "सागर",
         "लहरें",
         "विशालता",
-        "sea"
+        "sea",
+        "water_sprite",
+        "विशाल समुद्र और लहरें (Ocean)"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -680,7 +732,9 @@
         "झील",
         "प्रवाह",
         "धन प्रवाह",
-        "river"
+        "river",
+        "tea_bowl",
+        "बहती नदी और शांत झील (River)"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -696,7 +750,8 @@
         "कीचड़",
         "सावधानी",
         "धोखा",
-        "mud"
+        "mud",
+        "wooden_comb"
       ],
       "fortune": "ominous",
       "lucky_number": 42,
@@ -712,7 +767,9 @@
         "वर्षा",
         "राहत",
         "समस्या समाधान",
-        "rain"
+        "rain",
+        "water_sprite",
+        "वर्षा / मूसलाधार बारिश (Rain)"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -728,7 +785,8 @@
         "बर्फबारी",
         "शांति",
         "नई शुरुआत",
-        "snow"
+        "snow",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 6,
@@ -744,7 +802,9 @@
         "कड़क",
         "चमक",
         "अचानक विचार",
-        "lightning"
+        "lightning",
+        "dokkaebi_club",
+        "बिजली चमकना / गड़गड़ाहट (Lightning)"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -793,7 +853,8 @@
         "रुपये",
         "सिक्के",
         "लाभ",
-        "money"
+        "money",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -809,7 +870,8 @@
         "बटुआ खोना",
         "नुकसान",
         "बचत",
-        "lost money"
+        "lost money",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 41,
@@ -826,7 +888,8 @@
         "हीरा",
         "खजाना",
         "सम्मान",
-        "jewel"
+        "jewel",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -842,7 +905,8 @@
         "पर्स",
         "नया बटुआ",
         "आय के स्रोत",
-        "wallet"
+        "wallet",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 36,
@@ -858,7 +922,9 @@
         "बड़ा इनाम",
         "अचानक धन",
         "भाग्य",
-        "lottery"
+        "lottery",
+        "silk_pouch",
+        "लॉटरी जीतना / बड़ा इनाम (Lottery)"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -874,7 +940,8 @@
         "वस्त्र",
         "नया पद",
         "आकर्षण",
-        "clothes"
+        "clothes",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -890,7 +957,8 @@
         "नंगे पैर",
         "आत्मनिर्भरता",
         "सावधानी",
-        "shoes"
+        "shoes",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -906,7 +974,8 @@
         "नई शुरुआत",
         "सहयोगी",
         "सुगम यात्रा",
-        "shoes"
+        "shoes",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -923,7 +992,8 @@
         "माला",
         "सच्चा संबंध",
         "विश्वास",
-        "ring"
+        "ring",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -939,7 +1009,9 @@
         "सामान",
         "यात्रा",
         "नई जिम्मेदारी",
-        "bag"
+        "bag",
+        "silk_pouch",
+        "बैग / सामान पैक करना (Bag)"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -955,7 +1027,8 @@
         "ताला",
         "समाधान",
         "सफलता",
-        "key"
+        "key",
+        "brass_bell"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -971,7 +1044,9 @@
         "समय",
         "अवसर",
         "योजना",
-        "clock"
+        "clock",
+        "inkstone",
+        "घड़ी / सही समय देखना (Clock)"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -987,7 +1062,9 @@
         "कैंची",
         "काटना",
         "निर्णय",
-        "knife"
+        "knife",
+        "dokkaebi_club",
+        "चाकू या कैंची से काटना (Knife)"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1003,7 +1080,8 @@
         "दर्पण",
         "आत्म-चिंतन",
         "सच्चाई",
-        "mirror"
+        "mirror",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 18,
@@ -1019,7 +1097,9 @@
         "भेंट",
         "पुरस्कार",
         "खुशी",
-        "gift"
+        "gift",
+        "silk_pouch",
+        "उपहार प्राप्त होना (Gift)"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1035,7 +1115,9 @@
         "माता-पिता",
         "आशीर्वाद",
         "संकट मुक्ति",
-        "ancestor"
+        "ancestor",
+        "mountain_spirit",
+        "पूर्वज / माता-पिता (Ancestors)"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1051,7 +1133,8 @@
         "ज्ञानी",
         "गुरु",
         "मार्गदर्शन",
-        "mountain god"
+        "mountain god",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -1067,7 +1150,9 @@
         "आत्मा",
         "जादू",
         "सुरक्षा",
-        "dokkaebi"
+        "dokkaebi",
+        "dokkaebi_club",
+        "दोक्कैबी / रक्षक आत्मा (Dokkaebi)"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1083,7 +1168,8 @@
         "साया",
         "चिंता",
         "भय",
-        "ghost"
+        "ghost",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1100,7 +1186,9 @@
         "संत",
         "आशीर्वाद",
         "कृपा",
-        "saint"
+        "saint",
+        "lotus_lamp",
+        "भगवान / संत के दर्शन (Saint / Divine)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1116,7 +1204,9 @@
         "देवदूत",
         "पवित्रता",
         "प्रेम",
-        "angel"
+        "angel",
+        "flower_fairy",
+        "परी / देवदूत (Angel)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1132,7 +1222,9 @@
         "प्रार्थना",
         "ध्यान",
         "शांति",
-        "prayer"
+        "prayer",
+        "wooden_fish",
+        "पूजा-अर्चना / प्रार्थना (Prayer)"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1148,7 +1240,8 @@
         "यंत्र",
         "सुरक्षा कवच",
         "सकारात्मकता",
-        "talisman"
+        "talisman",
+        "inkstone"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -1164,7 +1257,9 @@
         "पुनर्जन्म",
         "विरासत",
         "बड़ा लाभ",
-        "coffin"
+        "coffin",
+        "moon_jar",
+        "ताबूत / नई शुरुआत (Coffin / Rebirth)"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1180,7 +1275,8 @@
         "समय का महत्व",
         "स्वास्थ्य",
         "सुधार",
-        "reaper"
+        "reaper",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 13,
@@ -1213,7 +1309,8 @@
         "खाई",
         "फिसलना",
         "सतर्कता",
-        "falling"
+        "falling",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 58,
@@ -1229,7 +1326,9 @@
         "भागना",
         "दबाव",
         "सामना",
-        "chased"
+        "chased",
+        "shadow_walker",
+        "पीछा किया जाना / भागना (Chased)"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1245,7 +1344,8 @@
         "गहन विचार",
         "शांति",
         "घूमना",
-        "dream"
+        "dream",
+        "dream_eater"
       ],
       "fortune": "normal",
       "lucky_number": 7,
@@ -1261,7 +1361,8 @@
         "स्वच्छता",
         "सकारात्मकता",
         "खुशहाली",
-        "cleaning"
+        "cleaning",
+        "wooden_comb"
       ],
       "fortune": "auspicious",
       "lucky_number": 47,
@@ -1278,7 +1379,8 @@
         "समारोह",
         "साझेदारी",
         "समझौता",
-        "wedding"
+        "wedding",
+        "jade_ring"
       ],
       "fortune": "normal",
       "lucky_number": 26,
@@ -1294,7 +1396,8 @@
         "कष्ट मुक्ति",
         "नया मोड़",
         "बड़ा लाभ",
-        "funeral"
+        "funeral",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1310,7 +1413,8 @@
         "सफलता",
         "नौकरी",
         "प्रशंसा",
-        "exam pass"
+        "exam pass",
+        "rooster"
       ],
       "fortune": "auspicious",
       "lucky_number": 34,
@@ -1326,7 +1430,8 @@
         "चिंता",
         "पुनरावलोकन",
         "तनाव मुक्त",
-        "exam fail"
+        "exam fail",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 31,
@@ -1342,7 +1447,8 @@
         "मुकाबला",
         "विजय",
         "साहस",
-        "fight"
+        "fight",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1358,7 +1464,9 @@
         "बाधा दूर",
         "बड़ी जीत",
         "सफलता",
-        "kill"
+        "kill",
+        "dokkaebi_club",
+        "शत्रु पर पूर्ण विजय (Defeating Enemy)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1375,7 +1483,8 @@
         "सुरक्षा",
         "सावधानी",
         "पासवर्ड",
-        "thief"
+        "thief",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1408,7 +1517,8 @@
         "दिशा",
         "लक्ष्य",
         "पुनर्विचार",
-        "lost way"
+        "lost way",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 44,
@@ -1425,7 +1535,8 @@
         "मकान",
         "उन्नति",
         "विस्तार",
-        "moving house"
+        "moving house",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 65,
@@ -1442,7 +1553,8 @@
         "स्वादिष्ट",
         "संतुष्टि",
         "आनंद",
-        "eating"
+        "eating",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1459,7 +1571,8 @@
         "सुगंध",
         "प्रेम",
         "सफलता",
-        "flower"
+        "flower",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1476,7 +1589,8 @@
         "पकवान",
         "समृद्धि",
         "खुशहाली",
-        "rice cake"
+        "rice cake",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1493,7 +1607,10 @@
         "आम",
         "मीठे फल",
         "सफलता",
-        "fruit"
+        "fruit",
+        "lotus_lamp",
+        "पके हुए फल / सेब / आम (Fruits)",
+        "पके हुए फल / सेब / आम (Fruits)"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1510,7 +1627,8 @@
         "जंगल",
         "मजबूत नींव",
         "सुरक्षा",
-        "tree"
+        "tree",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1527,7 +1645,8 @@
         "ऊर्जा",
         "समर्थन",
         "ताकत",
-        "meat"
+        "meat",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1543,7 +1662,10 @@
         "मित्रता",
         "संयम",
         "आनंद",
-        "drinking"
+        "drinking",
+        "tea_bowl",
+        "उत्सव में पेय / जाम छलकाना (Drinking / Toast)",
+        "उत्सव में पेय / जाम छलकाना (Drinking / Toast)"
       ],
       "fortune": "normal",
       "lucky_number": 45,
@@ -1559,7 +1681,8 @@
         "खराब फल",
         "पुरानी बातें",
         "सावधानी",
-        "rotten food"
+        "rotten food",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 14,
@@ -1575,7 +1698,9 @@
         "अंकुर",
         "नई शुरुआत",
         "भविष्य",
-        "planting"
+        "planting",
+        "cloud_pillow",
+        "बीज बोना / नया अंकुर फूटना (Planting Seeds)"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1591,7 +1716,8 @@
         "संजीवनी",
         "अद्भुत लाभ",
         "वरदान",
-        "ginseng"
+        "ginseng",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1608,7 +1734,8 @@
         "तूफान",
         "बदलाव",
         "गति",
-        "wind"
+        "wind",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1624,7 +1751,9 @@
         "द्वार",
         "नया अवसर",
         "प्रवेश",
-        "door"
+        "door",
+        "dokkaebi_club",
+        "नया द्वार / बड़ा दरवाजा खोलना (Door)"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1640,7 +1769,8 @@
         "बस छूटना",
         "देरी",
         "धैर्य",
-        "missed bus"
+        "missed bus",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -1657,7 +1787,8 @@
         "उड़ान",
         "ऊंचाई",
         "अंतरराष्ट्रीय सफलता",
-        "airplane"
+        "airplane",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1673,7 +1804,9 @@
         "ड्राइव",
         "नियंत्रण",
         "उन्नति",
-        "driving"
+        "driving",
+        "horse",
+        "सुंदर गाड़ी चलाना / ड्राइव करना (Driving)"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1689,7 +1822,8 @@
         "टक्कर",
         "सावधानी",
         "धैर्य",
-        "car accident"
+        "car accident",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 32,
@@ -1706,7 +1840,8 @@
         "समुद्री यात्रा",
         "बड़ा संगठन",
         "सफलता",
-        "ship"
+        "ship",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1722,7 +1857,9 @@
         "बाइक",
         "संतुलन",
         "गति",
-        "bicycle"
+        "bicycle",
+        "wind_child",
+        "साइकिल या बाइक चलाना (Bicycle)"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -1738,7 +1875,8 @@
         "ऊंचाई",
         "शीर्ष पद",
         "तरक्की",
-        "elevator"
+        "elevator",
+        "sun_messenger"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -1754,7 +1892,8 @@
         "कदम",
         "मजबूत तरक्की",
         "योग्यता",
-        "stairs"
+        "stairs",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 63,
@@ -1770,7 +1909,8 @@
         "पुल पार करना",
         "नया मोड़",
         "सुलह",
-        "bridge"
+        "bridge",
+        "star_weaver"
       ],
       "fortune": "auspicious",
       "lucky_number": 46,
@@ -1786,7 +1926,8 @@
         "उजाला",
         "कष्टों का अंत",
         "नई रोशनी",
-        "tunnel"
+        "tunnel",
+        "lotus_lamp"
       ],
       "fortune": "auspicious",
       "lucky_number": 51,
@@ -1819,7 +1960,8 @@
         "थकान",
         "गहरी नींद",
         "आराम",
-        "sleep paralysis"
+        "sleep paralysis",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 33,
@@ -1836,7 +1978,8 @@
         "चिल्लाना",
         "दृढ़ता",
         "नेतृत्व",
-        "anger"
+        "anger",
+        "dokkaebi_fire"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -1852,7 +1995,9 @@
         "शांति",
         "असीम सुख",
         "सौभाग्य",
-        "bliss"
+        "bliss",
+        "cloud_pillow",
+        "परमानंद और असीम शांति (Bliss)"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1868,7 +2013,8 @@
         "मनोकामना पूर्ति",
         "सृजन",
         "धन लाभ",
-        "magic club"
+        "magic club",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1884,7 +2030,8 @@
         "अदृश्य",
         "रणनीति",
         "सुरक्षा",
-        "magic hat"
+        "magic hat",
+        "shadow_walker"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -1900,7 +2047,8 @@
         "खजाना",
         "अक्षय धन",
         "समृद्धि",
-        "lucky pouch"
+        "lucky pouch",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1916,7 +2064,8 @@
         "नकारात्मकता दूर",
         "शुद्धि",
         "धन संचय",
-        "magic broom"
+        "magic broom",
+        "wooden_comb"
       ],
       "fortune": "auspicious",
       "lucky_number": 2,
@@ -1932,7 +2081,8 @@
         "दिव्य मणि",
         "इच्छा पूर्ति",
         "अद्वितीय सफलता",
-        "dragon orb"
+        "dragon orb",
+        "dragon"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

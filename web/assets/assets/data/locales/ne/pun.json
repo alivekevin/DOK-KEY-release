@@ -1,7 +1,6 @@
 [
   {
     "id": "pun_ne_01",
-    "lang": "ne",
     "category": "pun",
     "question": "एउटा तारमा ३ वटा भँगेराहरू बसिरहेका थिए। शिकारीले एउटालाई गोली हान्यो। अब तारमा कतिवटा भँगेरा बाँकी होलान्?",
     "options": [
@@ -17,7 +16,6 @@
   },
   {
     "id": "pun_ne_02",
-    "lang": "ne",
     "category": "pun",
     "question": "संसारको सबैभन्दा अल्छी महिना कुन हो?",
     "options": [
@@ -33,7 +31,6 @@
   },
   {
     "id": "pun_ne_03",
-    "lang": "ne",
     "category": "pun",
     "question": "दाँत धेरै भएको तर कहिल्यै नटोक्ने के हो?",
     "options": [
@@ -49,7 +46,6 @@
   },
   {
     "id": "pun_ne_04",
-    "lang": "ne",
     "category": "pun",
     "question": "जति धेरै खन्यो, त्यति ठूलो हुने के हो?",
     "options": [
@@ -65,7 +61,6 @@
   },
   {
     "id": "pun_ne_05",
-    "lang": "ne",
     "category": "pun",
     "question": "पानी नभएको खोला कहाँ भेटिन्छ?",
     "options": [
@@ -81,7 +76,6 @@
   },
   {
     "id": "pun_ne_06",
-    "lang": "ne",
     "category": "pun",
     "question": "मान्छेहरू सबैभन्दा कम सुत्ने महिना कुन हो?",
     "options": [
@@ -97,7 +91,6 @@
   },
   {
     "id": "pun_ne_07",
-    "lang": "ne",
     "category": "pun",
     "question": "टाउको छ तर कपाल नभएको तरकारी कुन हो?",
     "options": [
@@ -113,7 +106,6 @@
   },
   {
     "id": "pun_ne_08",
-    "lang": "ne",
     "category": "pun",
     "question": "बिग्रिएको घडीले दिनमा कति पटक सही समय देखाउँछ?",
     "options": [
@@ -129,7 +121,6 @@
   },
   {
     "id": "pun_ne_09",
-    "lang": "ne",
     "category": "pun",
     "question": "गर्मीमा लुगा लगाउने, जाडोमा नाङ्गै हुने के हो?",
     "options": [
@@ -145,7 +136,6 @@
   },
   {
     "id": "pun_ne_10",
-    "lang": "ne",
     "category": "pun",
     "question": "पेट्रोल नहाली सधैं गुड्ने गाडी कुन हो?",
     "options": [

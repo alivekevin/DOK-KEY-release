@@ -35,36 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "Kembali lagi saat matahari terbit, {nick}! Langganan sepertimu adalah tamu favoritku.",
-      "Pagi telah tiba, {nick}! Kunci baru telah menantimu semalaman.",
-      "Ketekunan adalah kebajikan yang dihormati bahkan oleh goblin, {nick}! Mari buka pintu hari ini.",
-      "Menghirup udara fajar bersamamu, {nick}, membuat hari ini terasa menjanjikan.",
-      "Langkahmu di pagi hari semakin mantap, {nick}. Apa tujuan kita hari ini?",
-      "Selamat pagi, {nick}! Kunci kebijaksanaan hari ini sudah siap."
+      "Kembali lagi saat matahari terbit, {nickname}! Langganan sepertimu adalah tamu favoritku.",
+      "Pagi telah tiba, {nickname}! Kunci baru telah menantimu semalaman.",
+      "Ketekunan adalah kebajikan yang dihormati bahkan oleh goblin, {nickname}! Mari buka pintu hari ini.",
+      "Menghirup udara fajar bersamamu, {nickname}, membuat hari ini terasa menjanjikan.",
+      "Langkahmu di pagi hari semakin mantap, {nickname}. Apa tujuan kita hari ini?",
+      "Selamat pagi, {nickname}! Kunci kebijaksanaan hari ini sudah siap."
     ],
     "noon": [
-      "Senang melihatmu lagi di siang hari, {nick}! Energi hari ini ada di puncaknya.",
-      "Matahari siang menyinari langkah kita, {nick}. Mari kita selesaikan tugas hari ini!",
-      "Sudah makan siang, {nick}? Istirahat sejenak dan dengarkan rahasia keberuntungan.",
-      "Kunjungan keduamu di tengah hari membawa keberuntungan ekstra, {nick}!",
-      "Siang yang cerah bersama kawan setia, {nick}. Mari kita lanjutkan petualangan kita.",
-      "Semangatmu tidak pernah padam, {nick}! Pintu kesuksesan terbuka lebar."
+      "Senang melihatmu lagi di siang hari, {nickname}! Energi hari ini ada di puncaknya.",
+      "Matahari siang menyinari langkah kita, {nickname}. Mari kita selesaikan tugas hari ini!",
+      "Sudah makan siang, {nickname}? Istirahat sejenak dan dengarkan rahasia keberuntungan.",
+      "Kunjungan keduamu di tengah hari membawa keberuntungan ekstra, {nickname}!",
+      "Siang yang cerah bersama kawan setia, {nickname}. Mari kita lanjutkan petualangan kita.",
+      "Semangatmu tidak pernah padam, {nickname}! Pintu kesuksesan terbuka lebar."
     ],
     "evening": [
-      "Matahari mulai terbenam, {nick}. Waktunya meninjau keberhasilan hari ini.",
-      "Kerja keras hari ini membuahkan hasil, {nick}! Mari istirahat dan renungkan.",
-      "Menyambut senja bersamamu selalu menenangkan, {nick}.",
-      "Pintu malam akan segera terbuka, {nick}. Terima kasih telah kembali.",
-      "Senja yang indah untuk jiwa yang tekun, {nick}.",
-      "Selamat petang, {nick}! Simpan kunci keberuntunganmu dengan baik malam ini."
+      "Matahari mulai terbenam, {nickname}. Waktunya meninjau keberhasilan hari ini.",
+      "Kerja keras hari ini membuahkan hasil, {nickname}! Mari istirahat dan renungkan.",
+      "Menyambut senja bersamamu selalu menenangkan, {nickname}.",
+      "Pintu malam akan segera terbuka, {nickname}. Terima kasih telah kembali.",
+      "Senja yang indah untuk jiwa yang tekun, {nickname}.",
+      "Selamat petang, {nickname}! Simpan kunci keberuntunganmu dengan baik malam ini."
     ],
     "night": [
-      "Larut malam kembali menyapa, {nick}. Istirahatkan pikiranmu yang lelah.",
-      "Bintang-bintang bersinar terang untukmu malam ini, {nick}.",
-      "Keheningan malam membawa kedamaian, {nick}. Selamat beristirahat.",
-      "Mimpi indah menantimu malam ini, {nick}. Sampai jumpa besok!",
-      "Kunci hari ini telah terkunci dengan aman, {nick}. Tidurlah yang nyenyak.",
-      "Malam yang tenang bersama kawan sejati, {nick}. Selamat malam."
+      "Larut malam kembali menyapa, {nickname}. Istirahatkan pikiranmu yang lelah.",
+      "Bintang-bintang bersinar terang untukmu malam ini, {nickname}.",
+      "Keheningan malam membawa kedamaian, {nickname}. Selamat beristirahat.",
+      "Mimpi indah menantimu malam ini, {nickname}. Sampai jumpa besok!",
+      "Kunci hari ini telah terkunci dengan aman, {nickname}. Tidurlah yang nyenyak.",
+      "Malam yang tenang bersama kawan sejati, {nickname}. Selamat malam."
+    ]
+  },
+  "long_absence": {
+    "morning": [
+      "{nickname}! Lama sekali tak jumpa! ...yah, baru beberapa hari sih. Tetap saja, selamat datang kembali seperti matahari pagi!",
+      "Wah, ternyata {nickname}! Aku sudah menyapu teras sambil menunggumu. Awal baru di pagi hari!",
+      "Hehe, {nickname} kembali! Kunci terlama selalu paling pas. Ayo masuk!",
+      "{nickname}, kau mengetuk pintu pagi setelah sekian lama! Pagi selalu murah hati bagi mereka yang memulai kembali.",
+      "Hehehe, {nickname}! Setelah sekian lama, kau muncul di pagi hari. Pertanda baik.",
+      "{nickname}, waktu kau pergi juga merupakan halaman ceritamu. Mari kita lanjutkan dari pagi ini."
+    ],
+    "noon": [
+      "{nickname} kembali, dan sinar matahari terasa lebih hangat! Duduklah, kawan lama.",
+      "Teman baik selalu kembali! {nickname}, sudah lama sekali. Kau datang tepat di tengah hari.",
+      "Sudah berapa minggu ya, {nickname}? Pintuku selalu terbuka, jangan khawatir!",
+      "{nickname}, setelah sekian lama kau datang di siang hari. Matahari hangat, dan ikatan kita bersemi kembali.",
+      "Lama tak bersua, {nickname}! Orang yang kembali di siang hari membawa berkah.",
+      "{nickname}, matahari pada hari reuni ini sungguh indah. Duduk dan ceritakan kisahmu."
+    ],
+    "evening": [
+      "Sudah lama ya, {nickname}! Bahkan senja terlihat lebih merah saat kau di sini.",
+      "Oh, kau kembali, {nickname}! Apakah hasil panenmu melimpah selama kau pergi?",
+      "Hehe, akhirnya kembali juga, {nickname}! Akhir hari selalu diawali dengan pertemuan kembali.",
+      "{nickname}, kau kembali di waktu senja. Tatapanmu semakin dalam seiring waktu berlalu — baguslah.",
+      "Sapaan sore setelah lama terdiam — sungguh gayamu, {nickname}!",
+      "{nickname}, senang bertemu lagi di bawah langit senja. Mulai hari ini, mari perlahan terhubung kembali."
+    ],
+    "night": [
+      "{nickname}... kembali di tengah keheningan malam. Aku sungguh merindukanmu, tahu.",
+      "Kembali di tengah malam — sungguh gayamu, {nickname}! Bahkan goblin pun luluh di malam hari.",
+      "Tamu lama berkunjung di tengah malam... pertanda baik, {nickname}. Masuklah!",
+      "{nickname}, kau kembali padaku selarut ini setelah sekian lama. Kau pasti kesepian.",
+      "Kembali di waktu larut — selalu dramatis ya, {nickname}! Ayo duduk.",
+      "{nickname}, melihatmu di malam hari setelah sekian lama. Malam adalah waktu yang tepat untuk menyatukan kembali hati lama."
     ]
   }
 }

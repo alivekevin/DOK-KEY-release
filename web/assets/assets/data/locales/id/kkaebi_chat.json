@@ -14,7 +14,10 @@
         "Semangat 8! Jangan gentar hadapi ujian atau wawancara! Pulang ke rumah, para penguji cuma manusia biasa yang melepas kaus kaki terbalik. Pancarkan auramu dengan percaya diri!",
         "Rahasia Langit 9! Kartu pelindungmu di waktu {time_greeting} adalah 「{card_name}」! Dari pagi hingga malam, petunjukku berubah dinamis. Bagikan angka hoki #{number} ke kawanmu!",
         "Puncak Rahasia Langit! Kubuang semua duka dan sialmu! 💨 PFFT~! (Kentut tolak bala khas Kkaebi!) Hahaha! Sial lenyap, rezeki datang! Rayakan tamatnya topik ini: +50 Keakraban, +5 Koin, plus Kunci Emas bonus! 🔑✨"
-      ]
+      ],
+      "chip_title": "✨ Mau sentuh Kkaebi?",
+      "user_question": "Kkaebi, bolehkah aku menyentuh tanduk dan perutmu? Ceritakan rahasiamu juga!",
+      "req_level": 2
     },
     {
       "id": "kkaebi_lore",
@@ -26,7 +29,10 @@
         "Hahaha! Mau petualangan gua bawah tanah rahasia? Hindari gelinding batu raksasa di labirin kuno dan temukan kunci emas perak untuk kabur di 'Petualangan Gua Kkaebi'! Siap jelajah? 🏛️🗝️",
         "Rahasia 99 Grand Codex di aplikasi! 33 Makhluk Suci, 33 Roh Purba, plus 'Slot Kustom MY' untuk sematkan foto dan impianmu! Tiap halaman terisi memperkokoh perisai gaibmu. Mau intip sekarang?",
         "Inilah legenda pengundang berkah dan penangkal bala! Mari kita ukir legenda barumu bersama tiap hari!"
-      ]
+      ],
+      "chip_title": "📖 Legenda Kkaebi & Kompas Takdir",
+      "user_question": "Kkaebi, ceritakan legenda seribu tahunmu dan rahasia kompas takdir!",
+      "req_level": 2
     },
     {
       "id": "utility_mastery",
@@ -38,7 +44,10 @@
         "Tips 5! 🎵 'Lab Suara Hening' hadirkan pemutar DAC audio jernih berisi suara meditasi alam dan timer tidur untuk melepas penatmu.",
         "Tips Spesial 6! Pasang alat favorit di 📌 'Slot Cepat' teratas beranda! Cukup ketuk ikon pin (📌) untuk buat kapsul jalan pintas emas instan. Atur tampilannya di pengaturan!",
         "Kwahaha! Lebih dari 10 senjata andalan berkumpul di kotak perkakas siluman! Tarik keluar kapan saja saat kau butuh!"
-      ]
+      ],
+      "chip_title": "🧰 Penguasaan 200% Kotak Alat",
+      "user_question": "Kkaebi, bagaimana cara menggunakan Kotak Alat secara cerdas 200%?",
+      "req_level": 2
     },
     {
       "id": "quiz_riddle_mastery",
@@ -48,7 +57,10 @@
         "Jurus lebih ajaib: ⚔️ 'Arena Kuis Kustom' tempatmu meracik soal sendiri! Bikin ruang kuis privat bareng kawan, keluarga, atau pasangan untuk adu wawasan!",
         "Persiapan ujian atau belajar? Buka paket 500 Kosakata Bahasa Inggris dan 'Dek Catatan Salah' untuk asah otak 2 kali lebih cerdas!",
         "Siluman pun takjub pada mereka yang giat melatih otak! Maju dan rebut mahkota Juara Kuis hari ini!"
-      ]
+      ],
+      "chip_title": "⚡ Arena Kuis & Rahasia Teka-Teki",
+      "user_question": "Kkaebi, apa rahasia memecahkan teka-teki dan juara di Arena Kuis?",
+      "req_level": 2
     },
     {
       "id": "timelab_tally_secret",
@@ -58,7 +70,10 @@
         "Untuk set latihan atau tugas bertahap, pasang ⛓️ 'Timer Rantai' agar alur rutinitasmu mengalir mulus tanpa henti.",
         "Hitung repetisi olahraga, zikir, atau pengunjung kafe dengan satu tangan pakai 🔢 'Tally Clicker'. Getaran haptik mencatat tiap ketukan dengan mantap!",
         "Dari stopwatch nanodetik hingga pencatat lap, dobrak batas konsentrasi terbaikmu di Laboratorium TimeLab!"
-      ]
+      ],
+      "chip_title": "⏱️ Rahasia TimeLab & Penghitung Tally",
+      "user_question": "Kkaebi, bagaimana cara memakai pengatur waktu fokus dan penghitung angka secara efektif?",
+      "req_level": 2
     },
     {
       "id": "coin_economy_mastery",
@@ -69,7 +84,10 @@
         "Ketiga, jawab kuis di ⚡ Kuis Bertahan Hidup dan pecahkan teka-teki harian untuk rebut hadiah koin berlimpah!",
         "Keempat, kunjungi 🕹️ 'Arkade Kkaebi' nikmati 8 game seru—Tembak Pesawat, Hancurkan Bata, Tetris, Bubble Shooter, hingga Hex Minesweeper! Skor tinggi beri jackpot koin dan EXP melimpah!",
         "Kelima, dengan koin simpananmu (kini ada {coins} koin di sakumu!), koleksi 18 'Jimat Pelindung' tradisional di 🛒 'Toko Serba Ada' untuk rezeki, ujian, dan asmara! Simpan di peti jimat atau bagikan ke kawan sebagai gambar keberuntungan!"
-      ]
+      ],
+      "chip_title": "💰 Ekonomi Goblin & Rahasia Koin",
+      "user_question": "Kkaebi, bagikan tips terbaik untuk mengumpulkan dan memakai koin secara bijak!",
+      "req_level": 2
     },
     {
       "id": "lucky_numbers",
@@ -79,7 +97,10 @@
         "Pilih preset Empat Makhluk Pelindung atau Jurus Tumpuk untuk dapatkan kombinasi unik tanpa angka kembar. Sesuaikan dengan auramu.",
         "Suka kombinasinya? Simpan dengan label khusus seperti 'Angka Hoki Pekan Ini' agar mudah dicari lagi kapan saja!",
         "Sudah selesai undi? Bagikan gambar berkah ke sahabat tersayang. Angka itu permainan seru, tapi dirimulah yang membuat hari bersinar! 🔑"
-      ]
+      ],
+      "chip_title": "🔢 Kombinasi Angka Keberuntungan",
+      "user_question": "Kkaebi, beri tahu aku cara memadukan dan menyimpan angka keberuntungan hari ini!",
+      "req_level": 2
     }
   ],
   "exhausted_endings": [

@@ -21,7 +21,7 @@
       {
         "id": "comic_tmpl_003",
         "headline": "No palco do {timeslot_name}, {card_name} fez uma piada",
-        "body": "O número {número} de repente apresenta uma reviravolta na sua frente, perfeitamente preparado. Mesmo que seja estranho, como um ator que esqueceu suas falas, se isso faz as pessoas rirem, essa é a vitória de hoje.",
+        "body": "O número {number} de repente apresenta uma reviravolta na sua frente, perfeitamente preparado. Mesmo que seja estranho, como um ator que esqueceu suas falas, se isso faz as pessoas rirem, essa é a vitória de hoje.",
         "tip": "É engraçado porque não é perfeito. Seja desajeitado hoje e vá sem ensaio.",
         "share_caption": "Uma colherada de comédia improvisada com {card_name} {number} em {timeslot_name} 🤡 #DOK_KEY"
       },
@@ -35,56 +35,56 @@
       {
         "id": "comic_tmpl_005",
         "headline": "Após um silêncio solene, {card_name} rosnou",
-        "body": "Mesmo em reuniões e momentos sérios, o riso vem em primeiro lugar em {timeslot_name}. Número {número} Dá energia para mudar a atmosfera estranha de hoje com uma piada agradável.",
+        "body": "Mesmo em reuniões e momentos sérios, o riso vem em primeiro lugar em {timeslot_name}. Número {number} Dá energia para mudar a atmosfera estranha de hoje com uma piada agradável.",
         "tip": "Quando o clima estiver pesado, quebre o gelo com uma leve mordaça de autodestruição.",
         "share_caption": "Superou com sucesso o constrangimento com {card_name} {number} em {timeslot_name} 🍙 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_006",
         "headline": "Olhei para o mapa e me vi em frente ao restaurante {card_name}",
-        "body": "Não se culpe se você entrou em {timeslot_name} pelo caminho errado. O número {número} está levando você a deliciosas recompensas inesperadas e encontros agradáveis.",
+        "body": "Não se culpe se você entrou em {timeslot_name} pelo caminho errado. O número {number} está levando você a deliciosas recompensas inesperadas e encontros agradáveis.",
         "tip": "Quando você se perde, uma nova jornada começa. Desfrute de um presente inesperado.",
         "share_caption": "Uma sorte inesperada encontrada com {card_name} {number} em uma estrada secundária em {timeslot_name} 🍕 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_007",
         "headline": "{card_name} Fiquei perdido o dia todo hoje, mas meu destino era melhor",
-        "body": "A placa em {timeslot_name} está quebrada. Então decidi me tornar uma bússola em vez de um número {número}. Uma história sobre uma pessoa perdida que descobre o melhor cenário, hoje é a sua vez.",
+        "body": "A placa em {timeslot_name} está quebrada. Então decidi me tornar uma bússola em vez de um número {number}. Uma história sobre uma pessoa perdida que descobre o melhor cenário, hoje é a sua vez.",
         "tip": "Não desanime se você se perder. Às vezes o acaso é melhor que o design.",
         "share_caption": "{card_name} {number} vezes, se perdeu em {timeslot_name} e descobriu o melhor curso 🐇 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_008",
         "headline": "{card_name} Esta manhã acordei antes do despertador e me surpreendi",
-        "body": "O cara mais motivado do mundo apareceu em {timeslot_name}. O número {número} se tornará o presidente da turma para essa motivação. Apenas ignore o alarme da pessoa ao seu lado.",
+        "body": "O cara mais motivado do mundo apareceu em {timeslot_name}. O número {number} se tornará o presidente da turma para essa motivação. Apenas ignore o alarme da pessoa ao seu lado.",
         "tip": "Há um ditado que diz que a boa sorte vem para quem acorda cedo. Pratique a partir de hoje!",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} certificação alimentar do tipo matinal 🌅 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_009",
         "headline": "{card_name} Deixei minha carteira para trás hoje, mas tive muita tranquilidade",
-        "body": "É dia de verificar seus pertences em {timeslot_name}. Em vez de um número {número}, encherei a carteira do seu coração. As coisas sempre vêm à mente por último.",
+        "body": "É dia de verificar seus pertences em {timeslot_name}. Em vez de um número {number}, encherei a carteira do seu coração. As coisas sempre vêm à mente por último.",
         "tip": "O hábito de olhar para trás ao sair é um grande talismã de boa sorte para hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} ficou rico de coração em vez de comprar uma carteira 🐰 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_010",
         "headline": "{card_name} Há um boato de que ele anda por aí com uma expressão vazia o dia todo hoje",
-        "body": "Está um dia excepcionalmente calmo em {timeslot_name}. O número {número} revelará a identidade dessa confusão. Não vou te contar nenhum segredo.",
+        "body": "Está um dia excepcionalmente calmo em {timeslot_name}. O número {number} revelará a identidade dessa confusão. Não vou te contar nenhum segredo.",
         "tip": "Uma expressão vazia é uma arma que espalha boa sorte para as pessoas ao seu redor. Instalado hoje também!",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} ganhou o selo 🐰 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_011",
         "headline": "{card_name} Hoje peguei as escadas em vez do elevador e não me arrependi",
-        "body": "As escadas em {timeslot_name} parecem o destino. Planejamos empilhar o número {número}, uma camada de cada vez. Por favor, desista do elevador amanhã.",
+        "body": "As escadas em {timeslot_name} parecem o destino. Planejamos empilhar o número {number}, uma camada de cada vez. Por favor, desista do elevador amanhã.",
         "tip": "Cada vez que você sobe de nível, sua sorte aumenta. Conquiste as escadas hoje!",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} se tornou o conquistador das escadas 🐇 #DOK_KEY"
       },
       {
         "id": "comic_tmpl_012",
         "headline": "{card_name} Deixei meu guarda-chuva hoje e o sol estava brilhando",
-        "body": "A sorte do guarda-chuva se repete nublada e clara em {timeslot_name}. Há rumores de que o número {número} é mais preciso do que a Administração Meteorológica da Coreia. O resultado é claro, seu dia é brilhante.",
+        "body": "A sorte do guarda-chuva se repete nublada e clara em {timeslot_name}. Há rumores de que o número {number} é mais preciso do que a Administração Meteorológica da Coreia. O resultado é claro, seu dia é brilhante.",
         "tip": "Um dia claro sem guarda-chuva é o mais legal. Com segurança hoje também!",
         "share_caption": "{card_name} {number}, {timeslot_name} No dia claro em que deixei meu guarda-chuva para trás ☀️ #DOK_KEY"
       }
@@ -98,84 +98,84 @@
       {
         "id": "calm_tmpl_001",
         "headline": "Silenciosamente, {card_name} para e olha para {timeslot_name}",
-        "body": "Não há necessidade de pressa hoje, pois o número {número} já está aqui com você. O que acontece em {timeslot_name} ocorre em seu próprio ritmo, sem qualquer aviso.",
+        "body": "Não há necessidade de pressa hoje, pois o número {number} já está aqui com você. O que acontece em {timeslot_name} ocorre em seu próprio ritmo, sem qualquer aviso.",
         "tip": "Hoje, mesmo que eu demore um pouco para responder, nunca é tarde demais.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name}. Só estou indo devagar hoje 🌿 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_002",
         "headline": "{card_name} respira fundo quando o vento sopra",
-        "body": "Deixe seus pensamentos complicados no ar em {timeslot_name}. O número {número} aponta para a paz mais simples que você desfrutará hoje.",
+        "body": "Deixe seus pensamentos complicados no ar em {timeslot_name}. O número {number} aponta para a paz mais simples que você desfrutará hoje.",
         "tip": "Elimine o ruído da sua mente com um copo de água morna.",
         "share_caption": "Olhando para {timeslot_name} e encontrando paz com {card_name} {number} ☕ #DOK_KEY"
       },
       {
         "id": "calm_tmpl_003",
         "headline": "{timeslot_name}, Nada acontece é o presente de hoje",
-        "body": "Entre a expectativa e a preocupação, {card_name} aponta silenciosamente para um meio-termo. O número {número} diz que mesmo que você não mude nada hoje, o fluxo já está bom.",
+        "body": "Entre a expectativa e a preocupação, {card_name} aponta silenciosamente para um meio-termo. O número {number} diz que mesmo que você não mude nada hoje, o fluxo já está bom.",
         "tip": "Nos dias bons, a melhor técnica é não mexer em nada. Entre no modo de manutenção hoje.",
         "share_caption": "A serenidade de {timeslot_name}, mantida com {card_name} {number} vezes 🍃 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_004",
         "headline": "Sob a luz do sol que entra pela janela, {card_name} saboreia o chá tranquilamente",
-        "body": "Em {timeslot_name}, todo o barulho do mundo dá um passo para trás. Número {número} No calor tranquilo do abraço, seu coração fica tão calmo quanto um lago cristalino.",
+        "body": "Em {timeslot_name}, todo o barulho do mundo dá um passo para trás. Número {number} No calor tranquilo do abraço, seu coração fica tão calmo quanto um lago cristalino.",
         "tip": "Toque suavemente o seu centro interior com três inspirações e expirações profundas.",
         "share_caption": "{timeslot_name}, {card_name} Hora do chá tranquila com {number} 🍵 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_005",
         "headline": "{card_name} sorri enquanto olha para as nuvens que fluem lentamente",
-        "body": "Não importa o quão ocupado seja o seu dia, não há problema em desligar o relógio por um momento em {timeslot_name}. Número {número} Sussurra que a sabedoria mais profunda reside naqueles que não têm pressa.",
+        "body": "Não importa o quão ocupado seja o seu dia, não há problema em desligar o relógio por um momento em {timeslot_name}. Número {number} Sussurra que a sabedoria mais profunda reside naqueles que não têm pressa.",
         "tip": "Deixe seu smartphone de lado por um momento e olhe para o céu por 5 minutos.",
         "share_caption": "Seguindo as nuvens de {timeslot_name}, o tempo gasto com {card_name} {number} ☁️ #DOK_KEY"
       },
       {
         "id": "calm_tmpl_006",
         "headline": "{card_name} ajusta a coleira ao vento calmo que sopra no caminho da floresta",
-        "body": "O ar de {timeslot_name} envolve suavemente seus ombros cansados. Na paz que o número {número} lhe dá, a energia clara para amanhã o preenche.",
+        "body": "O ar de {timeslot_name} envolve suavemente seus ombros cansados. Na paz que o número {number} lhe dá, a energia clara para amanhã o preenche.",
         "tip": "Esta noite, encerre o dia com sua vela perfumada favorita ou um banho quente.",
         "share_caption": "Sentindo a brisa da floresta de {timeslot_name} com {card_name} {number} 🌲 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_007",
         "headline": "{card_name} Hoje comecei o dia com a tranquilidade de um lago",
-        "body": "Há um lago em {timeslot_name} sem nenhuma ondulação. O número {número} protegerá esse silêncio. Sempre que você se sentir abalado, pense no lago.",
+        "body": "Há um lago em {timeslot_name} sem nenhuma ondulação. O número {number} protegerá esse silêncio. Sempre que você se sentir abalado, pense no lago.",
         "tip": "No silêncio da manhã, pequenos cristais brilham intensamente.",
         "share_caption": "{card_name} {number} vezes, a tranquilidade do lago {timeslot_name} 🌊 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_008",
         "headline": "{card_name} Hoje passo um dia calmo como um passeio na floresta",
-        "body": "É o dia em que você ouve o som das folhas em {timeslot_name}. O número {número} irá acompanhá-lo nessa caminhada. Há dias bons em que você não precisa ter pressa.",
+        "body": "É o dia em que você ouve o som das folhas em {timeslot_name}. O número {number} irá acompanhá-lo nessa caminhada. Há dias bons em que você não precisa ter pressa.",
         "tip": "Uma caminhada lenta nutre a floresta em seu coração.",
         "share_caption": "{card_name} {number}, certificação de caminhada na floresta {timeslot_name} 🌲 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_009",
         "headline": "{card_name} Gostei muito de uma xícara de chá hoje",
-        "body": "Você pode ouvir o som do chá fervendo em {timeslot_name}. O número {número} protegerá o calor daquela xícara. Mesmo que não seja feriado, você ainda pode relaxar.",
+        "body": "Você pode ouvir o som do chá fervendo em {timeslot_name}. O número {number} protegerá o calor daquela xícara. Mesmo que não seja feriado, você ainda pode relaxar.",
         "tip": "Uma xícara quente muda a temperatura do dia.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} xícara de chá lazer 🍵 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_010",
         "headline": "{card_name} Hoje me senti mais leve só por organizar minha mesa",
-        "body": "A energia da organização flui suavemente através de {timeslot_name}. O número {número} irá ajudá-lo a organizá-lo. Um espaço organizado convida uma mente organizada.",
+        "body": "A energia da organização flui suavemente através de {timeslot_name}. O número {number} irá ajudá-lo a organizá-lo. Um espaço organizado convida uma mente organizada.",
         "tip": "Comece removendo uma peça da sua mesa agora. A sorte abre espaço.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} magia de organização de mesa ✨ #DOK_KEY"
       },
       {
         "id": "calm_tmpl_011",
         "headline": "{card_name} A impaciência de ninguém me abalou hoje",
-        "body": "Embora o ambiente em {timeslot_name} esteja movimentado, suas ondas estão calmas. O número {número} protegerá essa calma. A impaciência é contagiosa, mas a calma também.",
+        "body": "Embora o ambiente em {timeslot_name} esteja movimentado, suas ondas estão calmas. O número {number} protegerá essa calma. A impaciência é contagiosa, mas a calma também.",
         "tip": "Não se deixar levar pela impaciência dos outros também é uma habilidade.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} equipado com silêncio 🌊 #DOK_KEY"
       },
       {
         "id": "calm_tmpl_012",
         "headline": "{card_name} Lembro-me de um bom pensamento antes de dormir hoje",
-        "body": "{timeslot_name} acende uma luz suave para refletir sobre o seu dia. O número {número} escolherá a boa ideia. A última linha do dia é a primeira linha de amanhã.",
+        "body": "{timeslot_name} acende uma luz suave para refletir sobre o seu dia. O número {number} escolherá a boa ideia. A última linha do dia é a primeira linha de amanhã.",
         "tip": "Uma boa lembrança antes de dormir suaviza o destino de amanhã.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} uma linha de bons pensamentos 🌙 #DOK_KEY"
       }
@@ -196,28 +196,28 @@
       {
         "id": "conflict_tmpl_002",
         "headline": "Na balança de {timeslot_name}, dois corações se enfrentam",
-        "body": "Existem duas opções para escolher, mas não assino nenhum dos {card_name}. Só há um conselho para cruzar o número {número}: Adiar a conclusão hoje também é uma estratégia.",
+        "body": "Existem duas opções para escolher, mas não assino nenhum dos {card_name}. Só há um conselho para cruzar o número {number}: Adiar a conclusão hoje também é uma estratégia.",
         "tip": "Se ambas as respostas estiverem corretas, a resposta não respondida hoje é a terceira resposta correta.",
         "share_caption": "Equilibrando na balança, {card_name} {number} vezes em {timeslot_name} ⚖️ #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_003",
         "headline": "No final de uma discussão, {card_name} fica de costas para a parede",
-        "body": "Uma palavra desconfortável passada por {timeslot_name} pode segui-lo o dia todo. Número {número} Estou informando que metade do que você disse foi um mal-entendido, então é melhor adiar a resposta hoje.",
+        "body": "Uma palavra desconfortável passada por {timeslot_name} pode segui-lo o dia todo. Número {number} Estou informando que metade do que você disse foi um mal-entendido, então é melhor adiar a resposta hoje.",
         "tip": "Respostas escritas enquanto estão quentes geralmente são lamentadas quando lidas depois de esfriarem.",
         "share_caption": "{card_name} {number} vezes, o conflito em {timeslot_name} foi apenas meio real 🧨 #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_004",
         "headline": "Em um tenso cabo de guerra, {card_name} toma uma decisão",
-        "body": "Em {timeslot_name}, as posições de cada um são fortemente opostas. Quando seguimos o princípio de apontar para o número {número}, podemos finalmente acabar com o atrito desnecessário.",
+        "body": "Em {timeslot_name}, as posições de cada um são fortemente opostas. Quando seguimos o princípio de apontar para o número {number}, podemos finalmente acabar com o atrito desnecessário.",
         "tip": "Pare com as discussões emocionais e confie em fatos e números.",
         "share_caption": "A oposição de {timeslot_name}, claramente resumida em {card_name} {number} ⚔️ #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_005",
         "headline": "Quando as opiniões divergem, {card_name} sugere uma terceira via",
-        "body": "O debate sobre {timeslot_name} não é preto e branco. O número {número} contém a chave para um compromisso perfeito que convencerá ambos os lados.",
+        "body": "O debate sobre {timeslot_name} não é preto e branco. O número {number} contém a chave para um compromisso perfeito que convencerá ambos os lados.",
         "tip": "Em vez de vencer, pense numa solução que salve ambos os lados.",
         "share_caption": "Supere o conflito de {timeslot_name} com sabedoria com {card_name} {number} 🛡️ #DOK_KEY"
       },
@@ -231,42 +231,42 @@
       {
         "id": "conflict_tmpl_007",
         "headline": "{card_name} não vacilou no desentendimento de hoje",
-        "body": "É um dia em que as perspectivas colidem em {timeslot_name}. O número {número} protegerá sua posição. Manter a linha sem lutar é a vitória de hoje.",
+        "body": "É um dia em que as perspectivas colidem em {timeslot_name}. O número {number} protegerá sua posição. Manter a linha sem lutar é a vitória de hoje.",
         "tip": "Não tente vencer seu oponente, mas siga sua própria linha. Essa é uma vitória limpa.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} manteve a fila e ganhou ⚔️ #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_008",
         "headline": "{card_name} Na verdade, fiquei calmo no meio do conflito hoje",
-        "body": "As coisas estão esquentando perto de {timeslot_name}. O número {número} se tornará uma sombra fria na chama. É mais seguro estar ao lado de uma pessoa irritada.",
+        "body": "As coisas estão esquentando perto de {timeslot_name}. O número {number} se tornará uma sombra fria na chama. É mais seguro estar ao lado de uma pessoa irritada.",
         "tip": "A pessoa que desiste de um jogo acirrado torna-se o dono do próximo jogo.",
         "share_caption": "{card_name} {number} vezes, a compostura de {timeslot_name} vence 🧊 #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_009",
         "headline": "{card_name} Hoje resolvemos mal-entendidos e ganhamos confiança",
-        "body": "É um dia de mal-entendidos em {timeslot_name}. Explicarei o número {número} em uma palavra. A verdade prevalece mesmo que demore.",
+        "body": "É um dia de mal-entendidos em {timeslot_name}. Explicarei o número {number} em uma palavra. A verdade prevalece mesmo que demore.",
         "tip": "Mal-entendidos são resolvidos com palavras. O silêncio gera mal-entendidos.",
-        "share_caption": "{card_name} {número} vezes, mal-entendidos de {timeslot_name} resolvidos, confiança mais 💬 #DOK_KEY"
+        "share_caption": "{card_name} {number} vezes, mal-entendidos de {timeslot_name} resolvidos, confiança mais 💬 #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_010",
         "headline": "{card_name} Rejeitei resolutamente o pedido irracional hoje",
-        "body": "{timeslot_name} está recebendo uma solicitação que ultrapassa os limites. O número {número} encherá sua coragem de rejeição. A rejeição também faz parte dos relacionamentos.",
+        "body": "{timeslot_name} está recebendo uma solicitação que ultrapassa os limites. O número {number} encherá sua coragem de rejeição. A rejeição também faz parte dos relacionamentos.",
         "tip": "A recusa decisiva é um exercício de autoestima. Experimente hoje.",
         "share_caption": "{card_name} {number} vezes, nível de determinação de {timeslot_name} sobe 🛡️ #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_011",
         "headline": "{card_name} Uma pequena discussão hoje realmente aprofundou o relacionamento",
-        "body": "É um dia produtivo de brigas em {timeslot_name}. O número {número} será o combustível para esse conflito. A confiança é mais forte depois de uma briga.",
+        "body": "É um dia produtivo de brigas em {timeslot_name}. O número {number} será o combustível para esse conflito. A confiança é mais forte depois de uma briga.",
         "tip": "Falar primeiro depois de uma discussão é a habilidade avançada de hoje.",
         "share_caption": "{card_name} {number} vezes, fortalecimento de relacionamento de {timeslot_name} concluído 🤝 #DOK_KEY"
       },
       {
         "id": "conflict_tmpl_012",
         "headline": "{card_name} O conflito de hoje foi transformado em aprendizado, não em vitória",
-        "body": "Em {timeslot_name}, você tem a opção de aprender em vez de arrasar. O número {número} fornecerá um local para aprendizado. Quem aprende dura mais do que quem vence.",
+        "body": "Em {timeslot_name}, você tem a opção de aprender em vez de arrasar. O número {number} fornecerá um local para aprendizado. Quem aprende dura mais do que quem vence.",
         "tip": "Se você quer ganhar, comece aprendendo a perder. Esta é a habilidade básica de um mestre.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} a vitória do aprendizado 📘 #DOK_KEY"
       }
@@ -287,77 +287,77 @@
       {
         "id": "meeting_tmpl_002",
         "headline": "Na esquina da {timeslot_name}, encontrei uma figura familiar atrás de {card_name}",
-        "body": "É hora de retornar a um antigo relacionamento com uma nova perspectiva. O número {número} está gentilmente incentivando a reunião, então tente trazer à tona a resposta que você enviou ou a saudação que você interrompeu.",
+        "body": "É hora de retornar a um antigo relacionamento com uma nova perspectiva. O número {number} está gentilmente incentivando a reunião, então tente trazer à tona a resposta que você enviou ou a saudação que você interrompeu.",
         "tip": "Hoje é um dia em que quem contacta primeiro não perde nada.",
         "share_caption": "Batendo na porta do reencontro com {card_name} {number} em {timeslot_name} 🤝 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_003",
         "headline": "Uma nova cara chegou com um convite de {card_name} {timeslot_name}",
-        "body": "Um encontro casual com um estranho é a sorte de hoje. Apontar para o número {número} é uma primeira conversa casual – a linha que começa aí pode acabar sendo mais longa do que você pensa.",
+        "body": "Um encontro casual com um estranho é a sorte de hoje. Apontar para o número {number} é uma primeira conversa casual – a linha que começa aí pode acabar sendo mais longa do que você pensa.",
         "tip": "Lembre-se exatamente do nome da pessoa que você conheceu hoje. Esse é o amuleto de boa sorte de hoje.",
         "share_caption": "Recebi um convite para um novo relacionamento {card_name} {number} vezes em {timeslot_name} 💌 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_004",
         "headline": "Num contato visual casual, {card_name} descobre um pedaço do destino",
-        "body": "A pessoa que você encontra em {timeslot_name} não é apenas um olhar passageiro. O número {número} conecta uma cadeia invisível de oportunidades entre duas pessoas.",
+        "body": "A pessoa que você encontra em {timeslot_name} não é apenas um olhar passageiro. O número {number} conecta uma cadeia invisível de oportunidades entre duas pessoas.",
         "tip": "Ao trocar cartões de visita ou informações de contato, adicione um elogio sincero e um sorriso.",
         "share_caption": "Um relacionamento especial que encontrei com {timeslot_name}, {card_name} {number} 🤝 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_005",
         "headline": "Dou uma mão calorosa a {card_name} como um velho amigo",
-        "body": "Mesmo no primeiro encontro, uma quantidade surpreendente de empatia é formada em {timeslot_name}. Número {número} Apresentamos um tópico comum que irá dissipar instantaneamente o seu constrangimento.",
+        "body": "Mesmo no primeiro encontro, uma quantidade surpreendente de empatia é formada em {timeslot_name}. Número {number} Apresentamos um tópico comum que irá dissipar instantaneamente o seu constrangimento.",
         "tip": "Abra a conversa perguntando primeiro sobre os interesses atuais da outra pessoa.",
         "share_caption": "Segure {card_name} {number} vezes e tenha uma reunião calorosa em {timeslot_name} ☕ #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_006",
         "headline": "No momento em que quase passou, {card_name} se virou e acenou",
-        "body": "Uma pequena conexão entre {timeslot_name} torna-se a semente de uma enorme cooperação no futuro. O número {número} lembra você de não sentir falta da pessoa que se aproxima de você.",
+        "body": "Uma pequena conexão entre {timeslot_name} torna-se a semente de uma enorme cooperação no futuro. O número {number} lembra você de não sentir falta da pessoa que se aproxima de você.",
         "tip": "Ao se separar, deixe uma mensagem dizendo: ‘Conhecê-lo hoje foi muito benéfico.’",
         "share_caption": "{card_name} {number} encontros maravilhosos com o nobre de {timeslot_name} ✨ #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_007",
         "headline": "{card_name} Hoje encontro alguém que não vejo há muito tempo",
-        "body": "É um dia de coincidências em {timeslot_name}. O número {número} abrirá a porta para essa reunião. É um dia em que velhas histórias contam novas histórias.",
+        "body": "É um dia de coincidências em {timeslot_name}. O número {number} abrirá a porta para essa reunião. É um dia em que velhas histórias contam novas histórias.",
         "tip": "A pessoa que diz olá primeiro atrai conexões.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} feliz reencontro 🐇 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_008",
         "headline": "{card_name} Hoje terei uma longa conversa com alguém que causa uma boa primeira impressão",
-        "body": "Uma pessoa com quem você consegue se comunicar bem aparece em {timeslot_name}. O número {número} aumentará a temperatura da conversa. Uma história inacabada se torna uma promessa.",
+        "body": "Uma pessoa com quem você consegue se comunicar bem aparece em {timeslot_name}. O número {number} aumentará a temperatura da conversa. Uma história inacabada se torna uma promessa.",
         "tip": "A pessoa que escuta as palavras do outro até o fim consegue o próximo encontro.",
         "share_caption": "{card_name} {number} vezes, conversa {timeslot_name} ☕ #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_009",
         "headline": "{card_name} Recebi conselhos valiosos de um lugar inesperado hoje",
-        "body": "Este é o dia em que uma pessoa parecida com um professor aparece em {timeslot_name}. O número {número} abrirá a porta para esse conselho. É um bom dia, mesmo que você não saiba a resposta.",
+        "body": "Este é o dia em que uma pessoa parecida com um professor aparece em {timeslot_name}. O número {number} abrirá a porta para esse conselho. É um bom dia, mesmo que você não saiba a resposta.",
         "tip": "Quem faz perguntas ganha e quem finge saber perde.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} ganhou conselhos valiosos 📘 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_010",
         "headline": "{card_name} Chegou hoje uma proposta de cooperação e as condições não são ruins",
-        "body": "É um dia em que {timeslot_name} tem um motivo para dar as mãos. O número {número} lerá a escala dessa condição. Relacionamentos que exigem um do outro duram mais.",
+        "body": "É um dia em que {timeslot_name} tem um motivo para dar as mãos. O número {number} lerá a escala dessa condição. Relacionamentos que exigem um do outro duram mais.",
         "tip": "Uma oferta sem condições ocultas é uma oferta real.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} boa cooperação concluída 🤝 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_011",
         "headline": "{card_name} Hoje recebo uma ligação que renova uma antiga amizade",
-        "body": "É o dia em que você ouve a voz de um velho amigo em {timeslot_name}. O número {número} construirá essa ponte de contato. Longas amizades vencem o tempo.",
+        "body": "É o dia em que você ouve a voz de um velho amigo em {timeslot_name}. O número {number} construirá essa ponte de contato. Longas amizades vencem o tempo.",
         "tip": "Uma saudação pode salvar uma amizade de 10 anos. Envie hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} amizade antiga revivida 📞 #DOK_KEY"
       },
       {
         "id": "meeting_tmpl_012",
         "headline": "{card_name} Hoje conheci alguém com quem posso me conectar só de olhar para ela",
-        "body": "Chega um momento em {timeslot_name} em que nenhuma palavra é necessária. O número {número} corresponderá à frequência desses olhos. É um encontro onde os corações se comunicam antes das palavras.",
+        "body": "Chega um momento em {timeslot_name} em que nenhuma palavra é necessária. O número {number} corresponderá à frequência desses olhos. É um encontro onde os corações se comunicam antes das palavras.",
         "tip": "Valorize as pessoas cujos olhos comunicam mais do que palavras.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} encontrando-se através dos olhos 👀 #DOK_KEY"
       }
@@ -371,7 +371,7 @@
       {
         "id": "horror_tmpl_001",
         "headline": "{timeslot_name}, {card_name} segue silenciosamente por trás",
-        "body": "Não tenha medo, não é um fardo ruim, é apenas a sombra de um dia que passou. Se você medir o comprimento da sombra do número {número}, hoje estará um passo à frente.",
+        "body": "Não tenha medo, não é um fardo ruim, é apenas a sombra de um dia que passou. Se você medir o comprimento da sombra do número {number}, hoje estará um passo à frente.",
         "tip": "O que assusta não é a sombra, mas o dia que criou a sombra.",
         "share_caption": "{timeslot_name} tem {card_name} {number} nas costas 👤 #DOK_KEY"
       },
@@ -385,21 +385,21 @@
       {
         "id": "horror_tmpl_003",
         "headline": "No espelho, {card_name} riu um pouco tarde",
-        "body": "Você pode não se sentir familiarizado com o {timeslot_name}. O número {número} sussurra que é a prova de que não mudou, mas cresceu. Vamos dizer olá para mim mesmo, um estranho.",
+        "body": "Você pode não se sentir familiarizado com o {timeslot_name}. O número {number} sussurra que é a prova de que não mudou, mas cresceu. Vamos dizer olá para mim mesmo, um estranho.",
         "tip": "O desconhecimento de hoje não é um sinal de que estamos nos tornando uma pessoa diferente, mas um sinal de que estamos dando um passo à frente.",
         "share_caption": "{timeslot_name}, {card_name} me cumprimenta no espelho com {number} 🪞 #DOK_KEY"
       },
       {
         "id": "horror_tmpl_004",
         "headline": "tocha de {card_name} erguida no alto na escuridão",
-        "body": "O vago medo que paira sobre {timeslot_name} é apenas uma sombra sem substância. A luz intensa que brilha no número {número} faz com que toda a ansiedade derreta como neve.",
+        "body": "O vago medo que paira sobre {timeslot_name} é apenas uma sombra sem substância. A luz intensa que brilha no número {number} faz com que toda a ansiedade derreta como neve.",
         "tip": "Acenda as luzes em um quarto escuro e toque uma música emocionante.",
         "share_caption": "Conquiste a escuridão de {timeslot_name} com {card_name} {number} luzes 🕯️ #DOK_KEY"
       },
       {
         "id": "horror_tmpl_005",
         "headline": "Como se estivesse zombando de uma premonição sinistra, {card_name} derrubou a porta",
-        "body": "O pior cenário que o preocupa nunca acontece em {timeslot_name}. O número {número} prova que sua coragem supera todos os infortúnios.",
+        "body": "O pior cenário que o preocupa nunca acontece em {timeslot_name}. O número {number} prova que sua coragem supera todos os infortúnios.",
         "tip": "Quanto mais ansioso você fica, mais você endireita as costas e anda com passadas largas.",
         "share_caption": "Com {card_name} {number}, derrotamos orgulhosamente a natureza sinistra de {timeslot_name} 🚪 #DOK_KEY"
       },
@@ -413,42 +413,42 @@
       {
         "id": "horror_tmpl_007",
         "headline": "{card_name} Hoje tive a sensação de que alguém estava me observando no final do corredor",
-        "body": "Seu olhar fica mais nítido nas suas costas em {timeslot_name}. O número {número} ocultará a identidade desse olhar. A coragem de não olhar para trás é a arma de hoje.",
+        "body": "Seu olhar fica mais nítido nas suas costas em {timeslot_name}. O número {number} ocultará a identidade desse olhar. A coragem de não olhar para trás é a arma de hoje.",
         "tip": "A energia sinistra ganha força no momento em que você olha para trás. Basta olhar para frente.",
         "share_caption": "{card_name} {number} vezes, evento de olhar no corredor {timeslot_name} 👁️ #DOK_KEY"
       },
       {
         "id": "horror_tmpl_008",
         "headline": "{card_name} Eu ouvi a porta fechar sozinha duas vezes hoje",
-        "body": "Uma porta fechando em {timeslot_name} dá início à história. Número {número} vou ler o significado do som. Não há ninguém a portas fechadas.",
+        "body": "Uma porta fechando em {timeslot_name} dá início à história. Número {number} vou ler o significado do som. Não há ninguém a portas fechadas.",
         "tip": "Não dê ouvidos ao som da porta. Deixe o dia de hoje passar sem problemas.",
         "share_caption": "{card_name} {number} vezes, evento de fechamento de porta de {timeslot_name} 🚪 #DOK_KEY"
       },
       {
         "id": "horror_tmpl_009",
         "headline": "{card_name} Hoje chega um momento em que um beco familiar parece desconhecido",
-        "body": "A estrada que percorro todos os dias em {timeslot_name} parece um pouco diferente. O número {número} revelará a identidade desse desconhecimento. A estranheza é a linguagem das sombras.",
+        "body": "A estrada que percorro todos os dias em {timeslot_name} parece um pouco diferente. O número {number} revelará a identidade desse desconhecimento. A estranheza é a linguagem das sombras.",
         "tip": "Basta passar por becos desconhecidos. A exploração está proibida apenas hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} passando por um beco desconhecido 🌃 #DOK_KEY"
       },
       {
         "id": "horror_tmpl_010",
         "headline": "{card_name} Hoje, sinto que estou me movendo um momento depois no espelho",
-        "body": "O horário na frente do espelho em {timeslot_name} está um pouco errado. O número {número} irá desvendar o segredo da discrepância. Na verdade, era sempre pontual.",
+        "body": "O horário na frente do espelho em {timeslot_name} está um pouco errado. O número {number} irá desvendar o segredo da discrepância. Na verdade, era sempre pontual.",
         "tip": "Não lute contra o espelho. O vencedor do dia é sempre você.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} espelha a vitória no intervalo de tempo 🪞 #DOK_KEY"
       },
       {
         "id": "horror_tmpl_011",
         "headline": "{card_name} Hoje sinto uma sensação estranha de um brinquedo antigo",
-        "body": "{timeslot_name} traz de volta memórias das profundezas dos meus arquivos. O número {número} virará as páginas dessa memória. As memórias às vezes podem ser assustadoras.",
+        "body": "{timeslot_name} traz de volta memórias das profundezas dos meus arquivos. O número {number} virará as páginas dessa memória. As memórias às vezes podem ser assustadoras.",
         "tip": "Retire memórias antigas em um lugar iluminado. Hoje é um bom dia.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} lembranças legais 🧸 #DOK_KEY"
       },
       {
         "id": "horror_tmpl_012",
         "headline": "{card_name} Acordei brevemente esta manhã e senti um silêncio estranho",
-        "body": "O silêncio ao amanhecer em {timeslot_name} é mais profundo que o normal. O número {número} trancará a porta para esse silêncio. Quando volto a dormir, é como se nada tivesse acontecido.",
+        "body": "O silêncio ao amanhecer em {timeslot_name} é mais profundo que o normal. O número {number} trancará a porta para esse silêncio. Quando volto a dormir, é como se nada tivesse acontecido.",
         "tip": "O silêncio da madrugada logo dá lugar à manhã. Volte a dormir.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} passou a madrugada calma 🌌 #DOK_KEY"
       }
@@ -462,14 +462,14 @@
       {
         "id": "chaos_tmpl_001",
         "headline": "{timeslot_name}, a agenda foi rasgada ao meio aos pés de {card_name}",
-        "body": "O plano e a realidade estão em desacordo hoje. Número {número} Diz-se que essa confusão é um poder de limpeza que abrirá um novo caminho. Não caiu, apenas se misturou novamente.",
+        "body": "O plano e a realidade estão em desacordo hoje. Número {number} Diz-se que essa confusão é um poder de limpeza que abrirá um novo caminho. Não caiu, apenas se misturou novamente.",
         "tip": "Corrija apenas uma coisa na lista confusa de hoje. O resto é material de amanhã.",
         "share_caption": "Concluída a explosão do planejador com {card_name} {number} em {timeslot_name} 💥 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_002",
         "headline": "Eixo {card_name} girado, {timeslot_name} invertido",
-        "body": "Hoje está tão inconstante que a prévia da manhã e o final da noite são dois dramas diferentes. O número {número} diz que a pessoa que segue a direção da curva é, em última análise, a mais rápida.",
+        "body": "Hoje está tão inconstante que a prévia da manhã e o final da noite são dois dramas diferentes. O número {number} diz que a pessoa que segue a direção da curva é, em última análise, a mais rápida.",
         "tip": "Hoje, a resposta correta muda com frequência. Pessoas flexíveis são vencedoras, pessoas teimosas são perdedoras.",
         "share_caption": "Segurando {card_name} {number} vezes e virando {timeslot_name} 🌀 #DOK_KEY"
       },
@@ -483,63 +483,63 @@
       {
         "id": "chaos_tmpl_004",
         "headline": "{card_name} foi o centro das atenções no caos turbulento",
-        "body": "Não entre em pânico se {timeslot_name} estiver cheio de todo tipo de coisa. O número {número} aponta o ponto-chave que precisa ser tratado primeiro agora.",
+        "body": "Não entre em pânico se {timeslot_name} estiver cheio de todo tipo de coisa. O número {number} aponta o ponto-chave que precisa ser tratado primeiro agora.",
         "tip": "Escolha a coisa mais importante da sua lista de tarefas e termine primeiro.",
         "share_caption": "Conquiste o caos de {timeslot_name} com concentração de {card_name} {number} 🌀 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_005",
         "headline": "{card_name} desvenda os fios emaranhados de uma vez",
-        "body": "Não importa quão confusa seja a situação, {timeslot_name} oferece uma solução brilhante. O número {número} mostra um mapa de ordem perfeita escondido na desordem.",
+        "body": "Não importa quão confusa seja a situação, {timeslot_name} oferece uma solução brilhante. O número {number} mostra um mapa de ordem perfeita escondido na desordem.",
         "tip": "Mesmo apenas 10 minutos organizando a bagunça em sua mesa irão clarear sua cabeça.",
         "share_caption": "Resolva a desordem em {timeslot_name} com {card_name} {number} 🧶 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_006",
         "headline": "Quando todos ficaram confusos, {card_name} apontou o caminho calmamente",
-        "body": "O caos de {timeslot_name} é o palco para provar sua liderança. Número {número} Os padrões claros fornecidos fazem com que as pessoas ao seu redor se sintam à vontade.",
+        "body": "O caos de {timeslot_name} é o palco para provar sua liderança. Número {number} Os padrões claros fornecidos fazem com que as pessoas ao seu redor se sintam à vontade.",
         "tip": "Quanto mais complexa a situação, mais concisas e claras serão as suas instruções em frases curtas.",
         "share_caption": "{timeslot_name}, {card_name} {number} Um guia claro no caos 🧭 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_007",
         "headline": "{card_name} Sorri apesar de minha agenda ter mudado três vezes hoje",
-        "body": "{timeslot_name} é o dia em que seus planos desmoronarão como castelos de areia. Número {número} Faremos um novo lote com as peças recolhidas. Um plano é apenas uma ferramenta, você é o mestre.",
+        "body": "{timeslot_name} é o dia em que seus planos desmoronarão como castelos de areia. Número {number} Faremos um novo lote com as peças recolhidas. Um plano é apenas uma ferramenta, você é o mestre.",
         "tip": "Se sua agenda falhar, faça uma partida improvisada na hora.",
         "share_caption": "{card_name} {number} vezes, tempestade de agendamento de {timeslot_name} passou 🌪️ #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_008",
         "headline": "{card_name} Cheguei hoje apesar de todos os semáforos estarem vermelhos",
-        "body": "Este é o dia em que a luz vermelha acende continuamente em {timeslot_name}. O número {número} definirá o tempo até a última luz verde. Há também uma história em que quem chega atrasado consegue o melhor lugar.",
+        "body": "Este é o dia em que a luz vermelha acende continuamente em {timeslot_name}. O número {number} definirá o tempo até a última luz verde. Há também uma história em que quem chega atrasado consegue o melhor lugar.",
         "tip": "Três luzes vermelhas sinalizam uma grande luz verde.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} acertou o sinal vermelho 3 vezes seguidas 🚦 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_009",
         "headline": "{card_name} Hoje, a melhor ideia surgiu da tempestade",
-        "body": "O turbilhão de pensamentos se intensifica em {timeslot_name}. O número {número} ficará no centro desse vórtice. Uma obra-prima emerge de uma mesa bagunçada.",
+        "body": "O turbilhão de pensamentos se intensifica em {timeslot_name}. O número {number} ficará no centro desse vórtice. Uma obra-prima emerge de uma mesa bagunçada.",
         "tip": "As ideias vêm de um chão bagunçado, e não de uma sala organizada.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} Gênio no caos 💡 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_010",
         "headline": "{card_name} Embora três problemas tenham surgido ao mesmo tempo hoje, eu os resolvi na ordem",
-        "body": "O Trouble Trio chega simultaneamente em {timeslot_name}. Estou segurando uma tabela de sequência para resolver o número {número}. Se você eliminá-los um por um, três batalhas equivalem a três vitórias.",
+        "body": "O Trouble Trio chega simultaneamente em {timeslot_name}. Estou segurando uma tabela de sequência para resolver o número {number}. Se você eliminá-los um por um, três batalhas equivalem a três vitórias.",
         "tip": "Os três problemas são três oportunidades sobrepostas.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} triplo resolvido 🧩 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_011",
         "headline": "{card_name} brilhou hoje diante de mudanças inesperadas",
-        "body": "Este é o dia em que {timeslot_name} é inundado com avisos de alterações. O número {número} fará uma coroa para as regras alteradas. Quando as regras mudam, esse é o seu ritmo.",
+        "body": "Este é o dia em que {timeslot_name} é inundado com avisos de alterações. O número {number} fará uma coroa para as regras alteradas. Quando as regras mudam, esse é o seu ritmo.",
         "tip": "Quando as regras mudam, a primeira pessoa a se adaptar é o protagonista.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} muda o rei da adaptação 🔄 #DOK_KEY"
       },
       {
         "id": "chaos_tmpl_012",
         "headline": "{card_name} Hoje, onde todos os meus planos desapareceram, encontrei um plano de verdade",
-        "body": "Um novo plano é revelado abaixo do plano liberado em {timeslot_name}. O número {número} lerá as marcas. O espaço em branco também faz parte do plano.",
+        "body": "Um novo plano é revelado abaixo do plano liberado em {timeslot_name}. O número {number} lerá as marcas. O espaço em branco também faz parte do plano.",
         "tip": "Um dia vazio é a cara de um dia real.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} espaço encontrado 📝 #DOK_KEY"
       }
@@ -553,35 +553,35 @@
       {
         "id": "lonely_tmpl_001",
         "headline": "{timeslot_name}, {card_name} Sabe ficar sozinho",
-        "body": "A solidão não é uma falta, mas um momento de enfrentar a si mesmo. Número {número} Vamos dar um nome à solidão de hoje. Seu nome é ‘Carga’.",
+        "body": "A solidão não é uma falta, mas um momento de enfrentar a si mesmo. Número {number} Vamos dar um nome à solidão de hoje. Seu nome é ‘Carga’.",
         "tip": "Não console seu tempo sozinho, preencha-o. Uma música que você gosta é o suficiente.",
         "share_caption": "Carregando silenciosamente com {card_name} {number} vezes em {timeslot_name} 🌌 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_002",
         "headline": "Uma história que não poderia contar a ninguém, ouço em vez de {card_name}",
-        "body": "Nas horas tranquilas de {timeslot_name}, uma palavra não dita paira em meu coração. Número {número} Hoje digo que só escrever essas palavras no papel é metade da solução.",
+        "body": "Nas horas tranquilas de {timeslot_name}, uma palavra não dita paira em meu coração. Número {number} Hoje digo que só escrever essas palavras no papel é metade da solução.",
         "tip": "Quando você não tiver nada a dizer, escreva em um bloco de notas. As frases são seus amigos mais silenciosos.",
         "share_caption": "{card_name} {number} vezes, o falador quieto de {timeslot_name} 🕯️ #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_003",
         "headline": "Na janela de {timeslot_name}, {card_name} fica lado a lado",
-        "body": "As pessoas podem não conseguir acompanhar seu ritmo hoje. Porém, o número {número} promete que deve haver alguém andando na mesma velocidade em momentos diferentes. Hoje, dê seus próprios passos.",
+        "body": "As pessoas podem não conseguir acompanhar seu ritmo hoje. Porém, o número {number} promete que deve haver alguém andando na mesma velocidade em momentos diferentes. Hoje, dê seus próprios passos.",
         "tip": "O caminho para trilhar sozinho não é errado. Existem apenas companheiros que ainda não conheci.",
         "share_caption": "{timeslot_name}, {card_name} fica perto da janela ao lado de {number} 🪟 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_004",
         "headline": "Sozinho sob as estrelas, {card_name} encontra uma profunda força interior",
-        "body": "A solidão de {timeslot_name} não o torna fraco, mas é uma saciação valiosa que cria uma sensação de independência que não pode ser abalada por ninguém. O número {número} permanece silenciosamente ao seu lado.",
+        "body": "A solidão de {timeslot_name} não o torna fraco, mas é uma saciação valiosa que cria uma sensação de independência que não pode ser abalada por ninguém. O número {number} permanece silenciosamente ao seu lado.",
         "tip": "Dê o presente de um tempo completo só para você. Uma linha do seu diário pode ser um grande conforto.",
         "share_caption": "{timeslot_name}, {card_name} Meu próprio tempo se tornando mais forte com {number} vezes 🌌 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_005",
         "headline": "Em silêncio, {card_name} refina a joia do coração",
-        "body": "O silêncio de {timeslot_name} promove mais criatividade do que o barulho de uma multidão. O número {número} aponta para grandes ideias que nascerão na solidão.",
+        "body": "O silêncio de {timeslot_name} promove mais criatividade do que o barulho de uma multidão. O número {number} aponta para grandes ideias que nascerão na solidão.",
         "tip": "Desfrute profundamente da sua música favorita no seu próprio espaço.",
         "share_caption": "{card_name} Sublime o silêncio de {timeslot_name} na criação com {number} vezes 💎 #DOK_KEY"
       },
@@ -595,7 +595,7 @@
       {
         "id": "lonely_tmpl_007",
         "headline": "{card_name} Aprendi por que não há problema em comer sozinho hoje",
-        "body": "{timeslot_name} tem uma mesa só para ele. O número {número} manterá a paz naquela mesa. Até mesmo comer sozinho pode levar à reflexão se você mastigar bem.",
+        "body": "{timeslot_name} tem uma mesa só para ele. O número {number} manterá a paz naquela mesa. Até mesmo comer sozinho pode levar à reflexão se você mastigar bem.",
         "tip": "Pessoas que são boas em comer sozinhas também são boas em relacionamentos.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} A sabedoria de comer sozinho 🍚 #DOK_KEY"
       },
@@ -609,28 +609,28 @@
       {
         "id": "lonely_tmpl_009",
         "headline": "{card_name} Decidi não esperar uma resposta à minha mensagem hoje",
-        "body": "É o dia de parar de esperar por uma resposta para {timeslot_name}. O número {número} aliviará o peso da espera. Meu dia chega antes da sua resposta.",
+        "body": "É o dia de parar de esperar por uma resposta para {timeslot_name}. O número {number} aliviará o peso da espera. Meu dia chega antes da sua resposta.",
         "tip": "Se você deixar de esperar, receberá uma resposta. Este é o poder do paradoxo.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} espera liberada 📵 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_010",
         "headline": "{card_name} Assisti a um filme sozinho hoje e fiquei mais imerso do que qualquer outra pessoa",
-        "body": "É o dia em que {timeslot_name} tem os melhores lugares. O número {número} protegerá esse tempo imersivo. Não há como ver algo mais plenamente do que sozinho.",
+        "body": "É o dia em que {timeslot_name} tem os melhores lugares. O número {number} protegerá esse tempo imersivo. Não há como ver algo mais plenamente do que sozinho.",
         "tip": "Os filmes que assisto sozinhos deixam a impressão mais profunda em mim.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} visualização imersiva para 1 pessoa 🎬 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_011",
         "headline": "{card_name} Recebi a resposta na minha caminhada hoje",
-        "body": "Sopra um vento bom para caminhar sozinho em {timeslot_name}. O número {número} abrirá o caminho para essa caminhada. Coisas problemáticas são aliviadas caminhando.",
+        "body": "Sopra um vento bom para caminhar sozinho em {timeslot_name}. O número {number} abrirá o caminho para essa caminhada. Coisas problemáticas são aliviadas caminhando.",
         "tip": "Conforme você caminha, a resposta vem primeiro. Faça uma caminhada de 20 minutos hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} responde durante a caminhada 🚶 #DOK_KEY"
       },
       {
         "id": "lonely_tmpl_012",
         "headline": "{card_name} A solidão passou hoje e eu ainda estava bem",
-        "body": "É um dia em que a solidão passa em {timeslot_name}. O número {número} garantirá que a passagem não permaneça. A solidão é um sentimento, não uma estagnação.",
+        "body": "É um dia em que a solidão passa em {timeslot_name}. O número {number} garantirá que a passagem não permaneça. A solidão é um sentimento, não uma estagnação.",
         "tip": "A solidão é uma nuvem passageira. Olhe para o céu hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} a solidão passa ☁️ #DOK_KEY"
       }
@@ -644,14 +644,14 @@
       {
         "id": "farewell_tmpl_001",
         "headline": "{card_name} cumprimenta brevemente e sai de {timeslot_name}",
-        "body": "Hoje é um bom momento para deixar algo passar. Recomendamos deixar um espaço onde deseja deixar o número {número}. Uma separação bem acabada torna-se um espaço em branco para o próximo relacionamento.",
+        "body": "Hoje é um bom momento para deixar algo passar. Recomendamos deixar um espaço onde deseja deixar o número {number}. Uma separação bem acabada torna-se um espaço em branco para o próximo relacionamento.",
         "tip": "Não há necessidade de longos cumprimentos em um relacionamento que acabou. Um breve aceno de cabeça é suficiente.",
         "share_caption": "Colocando {card_name} {number} vezes, com uma breve saudação de {timeslot_name} 🍂 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_002",
         "headline": "Ajuda a organizar {card_name} enquanto {timeslot_name} fica longo",
-        "body": "Arrependimentos persistentes não vão embora, eles apenas se movem. Número {número} Coloque os arrependimentos de hoje em uma gaveta e coloque uma nova tarefa no espaço vazio.",
+        "body": "Arrependimentos persistentes não vão embora, eles apenas se movem. Número {number} Coloque os arrependimentos de hoje em uma gaveta e coloque uma nova tarefa no espaço vazio.",
         "tip": "Hoje, preencha o espaço que você apagou com algo novo. Esse é o melhor teorema.",
         "share_caption": "Esvaziando uma gaveta com {timeslot_name}, {card_name} {number} 🧹 #DOK_KEY"
       },
@@ -665,7 +665,7 @@
       {
         "id": "farewell_tmpl_004",
         "headline": "Acenando com a mão {card_name} e caminhando em direção a um novo horizonte",
-        "body": "A separação de {timeslot_name} não é o fim, mas um trampolim para um mundo maior. Número {número} Estamos prontos para preencher o espaço vazio que você deixou com uma bênção ainda mais deslumbrante.",
+        "body": "A separação de {timeslot_name} não é o fim, mas um trampolim para um mundo maior. Número {number} Estamos prontos para preencher o espaço vazio que você deixou com uma bênção ainda mais deslumbrante.",
         "tip": "Agradeça sem arrependimentos e vire-se com passos leves.",
         "share_caption": "Uma linda despedida de {timeslot_name}, um novo começo com {card_name} {number} 🌅 #DOK_KEY"
       },
@@ -686,42 +686,42 @@
       {
         "id": "farewell_tmpl_007",
         "headline": "{card_name} Hoje me despedi de um item antigo",
-        "body": "A hora da limpeza chega silenciosamente em {timeslot_name}. O número {número} lhe dará coragem para terminar. Você tem que ser capaz de jogar fora para que algo novo possa entrar.",
+        "body": "A hora da limpeza chega silenciosamente em {timeslot_name}. O número {number} lhe dará coragem para terminar. Você tem que ser capaz de jogar fora para que algo novo possa entrar.",
         "tip": "Organizar não é perder, mas sim abrir espaço.",
         "share_caption": "{card_name} {number}, acordo de despedida de {timeslot_name} concluído 📦 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_008",
         "headline": "{card_name} A história que estou lhe enviando hoje me amadureceu",
-        "body": "Este é o dia em que a frase de despedida de {timeslot_name} toca meu coração. O número {número} virará a página dessa frase. Pratique o envio é metade da maturidade.",
+        "body": "Este é o dia em que a frase de despedida de {timeslot_name} toca meu coração. O número {number} virará a página dessa frase. Pratique o envio é metade da maturidade.",
         "tip": "Pessoas que se despedem bem são boas em se encontrar na próxima vez.",
-        "share_caption": "{card_name} {número} vezes, {timeslot_name} Maturidade da separação 🍂 #DOK_KEY"
+        "share_caption": "{card_name} {number} vezes, {timeslot_name} Maturidade da separação 🍂 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_009",
         "headline": "{card_name} Eu agradeci por terminar hoje e fechei a porta",
-        "body": "A arte de adicionar um agradecimento no final de {timeslot_name} brilha. O número {número} carimbará esse agradecimento. Você tem que fechar bem o final para ter um bom começo.",
+        "body": "A arte de adicionar um agradecimento no final de {timeslot_name} brilha. O número {number} carimbará esse agradecimento. Você tem que fechar bem o final para ter um bom começo.",
         "tip": "Uma palavra de gratidão no final é um talismã para o próximo começo.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} belo final 🎁 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_010",
         "headline": "{card_name} Eu deixo ir hoje tão naturalmente quanto as estações mudam",
-        "body": "É um dia em que as coisas mudam conforme as estações mudam em {timeslot_name}. O número {número} suavizará a mão do desapego. As árvores também precisam perder as folhas para sobreviver ao inverno.",
+        "body": "É um dia em que as coisas mudam conforme as estações mudam em {timeslot_name}. O número {number} suavizará a mão do desapego. As árvores também precisam perder as folhas para sobreviver ao inverno.",
         "tip": "Desapegar não é derrota, mas sabedoria para seguir a temporada.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} Solte de acordo com a temporada 🍁 #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_011",
         "headline": "{card_name} A despedida de hoje foi na verdade um sinal de um novo começo",
-        "body": "É um dia em que dizer adeus a {timeslot_name} é um convite. O número {número} abrirá a porta por trás dessa saudação. O fim da separação é sempre o começo do encontro.",
+        "body": "É um dia em que dizer adeus a {timeslot_name} é um convite. O número {number} abrirá a porta por trás dessa saudação. O fim da separação é sempre o começo do encontro.",
         "tip": "Se você relaxar ao se despedir, uma nova saudação chegará mais rápido.",
         "share_caption": "{card_name} {number}, convite para {timeslot_name} após a despedida ✉️ #DOK_KEY"
       },
       {
         "id": "farewell_tmpl_012",
         "headline": "{card_name} Hoje me vi caminhando bem apesar da saudade",
-        "body": "Hoje é dia de aprender a caminhar com saudade em {timeslot_name}. O número {número} aliviará o peso dessas etapas. Quem caminha com saudade vai mais longe.",
+        "body": "Hoje é dia de aprender a caminhar com saudade em {timeslot_name}. O número {number} aliviará o peso dessas etapas. Quem caminha com saudade vai mais longe.",
         "tip": "A saudade não é um fardo, mas também uma bússola.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} saudade e companheirismo 🌙 #DOK_KEY"
       }
@@ -742,21 +742,21 @@
       {
         "id": "hope_tmpl_002",
         "headline": "Um pequeno broto, {card_name} alcançando a luz do sol de {timeslot_name}",
-        "body": "Hoje, um passo discreto é mais importante do que um salto gigantesco. O número {número} prediz que essa etapa levará a ótimos resultados em três semanas.",
+        "body": "Hoje, um passo discreto é mais importante do que um salto gigantesco. O número {number} prediz que essa etapa levará a ótimos resultados em três semanas.",
         "tip": "Comece com apenas 10 minutos hoje. Em breve chegará o dia em que 10 minutos se tornarão 1 hora.",
         "share_caption": "{timeslot_name}, {card_name} {number} e plantando um broto hoje 🌱 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_003",
         "headline": "{card_name} diz, {timeslot_name} já está do seu lado",
-        "body": "A ansiedade parece grande, mas a vantagem de hoje, demonstrada pela contagem de {número}, é de mais de três dedos. A esperança é bem fundamentada, especialmente hoje.",
+        "body": "A ansiedade parece grande, mas a vantagem de hoje, demonstrada pela contagem de {number}, é de mais de três dedos. A esperança é bem fundamentada, especialmente hoje.",
         "tip": "Escreva três coisas que correram bem esta noite. Torna-se o alicerce da confiança para amanhã.",
         "share_caption": "Prova de que {timeslot_name} está do meu lado, {card_name} {number} vezes 🌈 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_004",
         "headline": "Rompendo a neblina do amanhecer, {card_name} dá as boas-vindas à primeira luz solar brilhante",
-        "body": "A pouca esperança que você tem para {timeslot_name} não é apenas um desejo, é uma semente que se tornará realidade. O número {número} abre a porta para um milagre inacreditável diante de seus olhos.",
+        "body": "A pouca esperança que você tem para {timeslot_name} não é apenas um desejo, é uma semente que se tornará realidade. O número {number} abre a porta para um milagre inacreditável diante de seus olhos.",
         "tip": "Escreva seu desejo mais sincero em letras bem organizadas em um pedaço de papel.",
         "share_caption": "Uma esperança deslumbrante florescendo com {timeslot_name}, {card_name} {number} vezes 🌅 #DOK_KEY"
       },
@@ -770,21 +770,21 @@
       {
         "id": "hope_tmpl_006",
         "headline": "Uma flor milagrosa floresceu {card_name} na terra seca",
-        "body": "O que parecia impossível começa a funcionar magicamente em {timeslot_name}. Número {número} A energia positiva que você transmite traz o mundo inteiro para o seu lado.",
+        "body": "O que parecia impossível começa a funcionar magicamente em {timeslot_name}. Número {number} A energia positiva que você transmite traz o mundo inteiro para o seu lado.",
         "tip": "Envie palavras positivas e calorosas de encorajamento às pessoas ao seu redor.",
         "share_caption": "Um milagre em plena floração com {card_name} {number} em {timeslot_name} 🌸 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_007",
         "headline": "{card_name} Encontrei um pouco de esperança hoje e ri alto",
-        "body": "É o dia em que pequenas esperanças crescem em {timeslot_name}. O número {número} será aquele que lhe dará essa esperança. Um pouco de esperança cria uma grande temporada.",
+        "body": "É o dia em que pequenas esperanças crescem em {timeslot_name}. O número {number} será aquele que lhe dará essa esperança. Um pouco de esperança cria uma grande temporada.",
         "tip": "Diga em voz alta um pequeno pedaço de esperança que você encontrou hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} encontrou um pouco de esperança 🌱 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_008",
         "headline": "{card_name} Hoje me vi um pouco melhor que ontem",
-        "body": "É um dia em que {timeslot_name} reúne um pequeno crescimento. O número {número} reconhecerá o orgulho dessa extensão. Hoje ser melhor que ontem é o melhor boletim escolar.",
+        "body": "É um dia em que {timeslot_name} reúne um pequeno crescimento. O número {number} reconhecerá o orgulho dessa extensão. Hoje ser melhor que ontem é o melhor boletim escolar.",
         "tip": "Compare-se com ontem. Todos os outros, desistam hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} um período de crescimento 📏 #DOK_KEY"
       },
@@ -798,21 +798,21 @@
       {
         "id": "hope_tmpl_010",
         "headline": "{card_name} Hoje minha intuição estava certa, não as palavras da pessoa em quem confiava",
-        "body": "Este é o dia em que a intuição vence em {timeslot_name}. O número {número} protegerá a honra dessa intuição. A voz dentro de mim é o MVP de hoje.",
+        "body": "Este é o dia em que a intuição vence em {timeslot_name}. O número {number} protegerá a honra dessa intuição. A voz dentro de mim é o MVP de hoje.",
         "tip": "A intuição também é um ativo treinado. Aposte na minha voz hoje!",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} vitória intuitiva 🎯 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_011",
         "headline": "{card_name} Hoje recebi uma resposta melhor do que aquela que esperava",
-        "body": "Este é o dia em que {timeslot_name} recebe uma resposta que supera as expectativas. O número {número} desembrulhará a melhor resposta. O universo muitas vezes cancela um pedido e envia algo melhor.",
+        "body": "Este é o dia em que {timeslot_name} recebe uma resposta que supera as expectativas. O número {number} desembrulhará a melhor resposta. O universo muitas vezes cancela um pedido e envia algo melhor.",
         "tip": "Mesmo que a resposta chegue tarde, uma boa resposta virá. Obtenha a prova hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} uma resposta que supera as expectativas 💌 #DOK_KEY"
       },
       {
         "id": "hope_tmpl_012",
         "headline": "{card_name} Hoje as lágrimas de ontem se transformaram nas risadas de hoje",
-        "body": "{timeslot_name} é a estação em que as lágrimas se transformam em risos. O número {número} soprará o vento da mudança. Quem chorou ontem ri hoje.",
+        "body": "{timeslot_name} é a estação em que as lágrimas se transformam em risos. O número {number} soprará o vento da mudança. Quem chorou ontem ri hoje.",
         "tip": "As lágrimas de ontem tornaram-se o riso de hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} Lágrimas se transformam em risadas 😂 #DOK_KEY"
       }
@@ -826,28 +826,28 @@
       {
         "id": "passion_tmpl_001",
         "headline": "Acenda {card_name} com o poder de fogo de {timeslot_name}",
-        "body": "Hoje o motor dentro de você está totalmente aceso com combustível número {número}. Se você está preso em {timeslot_name}, faça isso agora, o tempo é o combustível.",
+        "body": "Hoje o motor dentro de você está totalmente aceso com combustível número {number}. Se você está preso em {timeslot_name}, faça isso agora, o tempo é o combustível.",
         "tip": "Pense por apenas um minuto, aja agora. A temperatura corporal de hoje é sua habilidade.",
         "share_caption": "Ignição completa com {card_name} {number} vezes em {timeslot_name} 🔥 #DOK_KEY"
       },
       {
         "id": "passion_tmpl_002",
         "headline": "A engrenagem parada gira, {card_name} empurrado em {timeslot_name}",
-        "body": "Algo que você adiou por muito tempo funcionará surpreendentemente bem hoje. O número {número} disse que não foi a habilidade que foi bloqueada, mas o botão Iniciar.",
+        "body": "Algo que você adiou por muito tempo funcionará surpreendentemente bem hoje. O número {number} disse que não foi a habilidade que foi bloqueada, mas o botão Iniciar.",
         "tip": "Faça aquilo que você adiou por apenas 5 minutos hoje. A inércia faz o trabalho para você.",
         "share_caption": "{card_name} {number} retornou a engrenagem para {timeslot_name} ⚙️ #DOK_KEY"
       },
       {
         "id": "passion_tmpl_003",
         "headline": "{timeslot_name}, {card_name} Dois passos juntos em direção ao topo",
-        "body": "O desejo de fazer tudo de uma vez é seu único inimigo. Número {número} Diz-nos para quebrar a meta de hoje pela metade. Mesmo que você termine apenas metade do trabalho, hoje é um sucesso. É assim que a paixão dura muito tempo.",
+        "body": "O desejo de fazer tudo de uma vez é seu único inimigo. Número {number} Diz-nos para quebrar a meta de hoje pela metade. Mesmo que você termine apenas metade do trabalho, hoje é um sucesso. É assim que a paixão dura muito tempo.",
         "tip": "Quebre seu objetivo pela metade. Concluir a aula de hoje é a força de amanhã.",
         "share_caption": "{timeslot_name}, {card_name} {number} e dois passos para o topo ⛰️ #DOK_KEY"
       },
       {
         "id": "passion_tmpl_004",
         "headline": "Com o coração queimando como uma fornalha, {card_name} corre a toda velocidade",
-        "body": "Em {timeslot_name}, nenhuma barreira pode impedir seu impulso feroz. O número {número} oferece concentração explosiva e impulso para alcançar a vitória.",
+        "body": "Em {timeslot_name}, nenhuma barreira pode impedir seu impulso feroz. O número {number} oferece concentração explosiva e impulso para alcançar a vitória.",
         "tip": "Tome uma decisão agora e aja em 10 minutos.",
         "share_caption": "Na corrida quente de {timeslot_name}, {card_name} ultrapassou o limite com {number} vezes 🔥 #DOK_KEY"
       },
@@ -861,14 +861,14 @@
       {
         "id": "passion_tmpl_006",
         "headline": "Como um falcão que atingiu seu alvo, {card_name} atacou sem hesitação",
-        "body": "A energia de {timeslot_name} é brilhante. Número {número} A selvageria e a determinação que lhe são dadas levarão aos melhores resultados.",
+        "body": "A energia de {timeslot_name} é brilhante. Número {number} A selvageria e a determinação que lhe são dadas levarão aos melhores resultados.",
         "tip": "Não olhe para os lados e concentre todo o seu poder de fogo em um alvo.",
         "share_caption": "{timeslot_name}, {card_name} {number} corridas invictas e finalizações perfeitas 🎯 #DOK_KEY"
       },
       {
         "id": "passion_tmpl_007",
         "headline": "{card_name} Hoje corri a toda velocidade como meu coração me disse para fazer",
-        "body": "É o dia em que {timeslot_name} pisa no acelerador do seu coração. O número {número} irá abastecê-lo de combustível. O caminho que seu coração lhe diz é o mais rápido.",
+        "body": "É o dia em que {timeslot_name} pisa no acelerador do seu coração. O número {number} irá abastecê-lo de combustível. O caminho que seu coração lhe diz é o mais rápido.",
         "tip": "Ninguém mais pode pisar no acelerador do seu coração. Pise nisso hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} sprint 🔥 #DOK_KEY"
       },
@@ -882,28 +882,28 @@
       {
         "id": "passion_tmpl_009",
         "headline": "{card_name} Hoje, um momento de paixão superou velhas preocupações",
-        "body": "{timeslot_name} é o dia em que uma pequena faísca supera longas preocupações. O número {número} protegerá o tempo dessa chama. O que fiz agora é maior do que pensei por muito tempo.",
+        "body": "{timeslot_name} é o dia em que uma pequena faísca supera longas preocupações. O número {number} protegerá o tempo dessa chama. O que fiz agora é maior do que pensei por muito tempo.",
         "tip": "Pense muito, aja rapidamente. Use essa fórmula hoje.",
         "share_caption": "{card_name} {number} vezes, a paixão de {timeslot_name} vence ⚡ #DOK_KEY"
       },
       {
         "id": "passion_tmpl_010",
         "headline": "{card_name} Hoje reacendi a tarefa da qual havia desistido",
-        "body": "Um vento sopra em {timeslot_name} e revive as brasas moribundas. O número {número} se tornará o personagem principal desse vento. Um fogo reacendido queima por mais tempo.",
+        "body": "Um vento sopra em {timeslot_name} e revive as brasas moribundas. O número {number} se tornará o personagem principal desse vento. Um fogo reacendido queima por mais tempo.",
         "tip": "Uma brasa reacendida queima por mais tempo. Tente estragar tudo hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} reacendendo a centelha 🔥 #DOK_KEY"
       },
       {
         "id": "passion_tmpl_011",
         "headline": "{card_name} O plano de amanhã já estava concluído antes de eu ir para a cama hoje",
-        "body": "Amanhã é o dia anterior a hoje em {timeslot_name}. O número {número} assinará o plano. A excitação supera os planos.",
+        "body": "Amanhã é o dia anterior a hoje em {timeslot_name}. O número {number} assinará o plano. A excitação supera os planos.",
         "tip": "A excitação é sua melhor ferramenta de planejamento. Experimente esta noite.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} plano de amanhã concluído 📋 #DOK_KEY"
       },
       {
         "id": "passion_tmpl_012",
         "headline": "{card_name} Hoje aceitei o desafio antes de todo mundo",
-        "body": "É o dia em que você se torna o protagonista do primeiro desafio em {timeslot_name}. Número {número} Deixaremos o campo de assinatura do desafio em branco. É sempre sua vez de assinar primeiro.",
+        "body": "É o dia em que você se torna o protagonista do primeiro desafio em {timeslot_name}. Número {number} Deixaremos o campo de assinatura do desafio em branco. É sempre sua vez de assinar primeiro.",
         "tip": "O desafio apresentado primeiro é o maior desafio.",
         "share_caption": "{card_name} {number}, {timeslot_name} primeiro desafio 🏹 #DOK_KEY"
       }
@@ -917,28 +917,28 @@
       {
         "id": "mystery_tmpl_001",
         "headline": "Da névoa de {timeslot_name}, surge um fio do tópico {card_name}",
-        "body": "A resposta hoje não está totalmente revelada. Número {número} Segure apenas um fio de linha. Porém, se você não soltar o fio, toda a imagem ficará visível aos poucos ao anoitecer.",
+        "body": "A resposta hoje não está totalmente revelada. Número {number} Segure apenas um fio de linha. Porém, se você não soltar o fio, toda a imagem ficará visível aos poucos ao anoitecer.",
         "tip": "Lembre-se da pista meio vista hoje. Amanhã metade estará concluída.",
         "share_caption": "A névoa de {timeslot_name}, um fio saindo de {card_name} {number} 🧵 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_002",
         "headline": "{card_name} Eu conheço a porta que só abre hoje, {timeslot_name}",
-        "body": "Apenas uma vez em um dia normal, o fluxo é interrompido em um local inesperado. O número {número} refere-se a 'segundo pensamento'. Aqui estão algumas coisas que você vê logo após escrever sua primeira resposta.",
+        "body": "Apenas uma vez em um dia normal, o fluxo é interrompido em um local inesperado. O número {number} refere-se a 'segundo pensamento'. Aqui estão algumas coisas que você vê logo após escrever sua primeira resposta.",
         "tip": "Hoje, meu segundo pensamento está mais próximo da resposta correta do que meu primeiro pensamento.",
         "share_caption": "Uma porta que só abre {timeslot_name}, {card_name} {number} vezes 🔮 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_003",
         "headline": "O alinhamento das estrelas mudou, notifica {card_name} {timeslot_name}",
-        "body": "Quando você conta coincidências, você vê a intenção. O número {número} diz que as três coincidências recorrentes de hoje apontam na mesma direção. Dê um passo nessa direção.",
+        "body": "Quando você conta coincidências, você vê a intenção. O número {number} diz que as três coincidências recorrentes de hoje apontam na mesma direção. Dê um passo nessa direção.",
         "tip": "Lembre-se de palavras ou sinais que foram repetidos três ou mais vezes hoje. Essa é a mensagem de hoje.",
         "share_caption": "Lendo {timeslot_name}, {card_name} {number} e matriz de estrelas ✨ #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_004",
         "headline": "Descubra a caixa secreta de {card_name} além da neblina enluarada",
-        "body": "Em {timeslot_name}, as leis invisíveis do mundo se movem para você. A reviravolta inesperada escondida no número {número} vai deixar você surpreso.",
+        "body": "Em {timeslot_name}, as leis invisíveis do mundo se movem para você. A reviravolta inesperada escondida no número {number} vai deixar você surpreso.",
         "tip": "Não siga apenas a lógica, siga a misteriosa intuição que surge em sua mente.",
         "share_caption": "O mistério de {timeslot_name}, descubra a verdade oculta com {card_name} {number} 🔮 #DOK_KEY"
       },
@@ -952,7 +952,7 @@
       {
         "id": "mystery_tmpl_006",
         "headline": "A visão de {card_name} sorri silenciosamente nas sombras",
-        "body": "A verdadeira batalha de {timeslot_name} será decidida nos bastidores. Veja o fluxo do quadro com o insight fornecido pelo número {número}.",
+        "body": "A verdadeira batalha de {timeslot_name} será decidida nos bastidores. Veja o fluxo do quadro com o insight fornecido pelo número {number}.",
         "tip": "Seja econômico com suas palavras e observe os verdadeiros sentimentos da outra pessoa por trás de seus olhos e ações.",
         "share_caption": "{timeslot_name}, {card_name} Domine a situação com {number} insights profundos 👁️ #DOK_KEY"
       },
@@ -966,35 +966,35 @@
       {
         "id": "mystery_tmpl_008",
         "headline": "{card_name} Hoje li exatamente a frase que precisava de um livro antigo",
-        "body": "Este é o dia em que as páginas antigas abrem sozinhas em {timeslot_name}. Número {número} selecionará o número da página dessa página. As frases necessárias certamente se destacarão.",
+        "body": "Este é o dia em que as páginas antigas abrem sozinhas em {timeslot_name}. Número {number} selecionará o número da página dessa página. As frases necessárias certamente se destacarão.",
         "tip": "O livro oferece uma frase diferente cada vez que você o abre.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} frase necessária encontrada 📖 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_009",
         "headline": "{card_name} Hoje caminhei como uma sonâmbula e cheguei no lugar certo",
-        "body": "Em {timeslot_name} chega o momento em que sua mente subconsciente assume o controle. O número {número} fornecerá as coordenadas do destino. A cabeça não sabe o que os passos sabem.",
+        "body": "Em {timeslot_name} chega o momento em que sua mente subconsciente assume o controle. O número {number} fornecerá as coordenadas do destino. A cabeça não sabe o que os passos sabem.",
         "tip": "O corpo conhece o caminho melhor que a cabeça. Confie no seu corpo hoje.",
         "share_caption": "{card_name} {number}, {timeslot_name} chegada sonâmbula 🌫️ #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_010",
         "headline": "{card_name} Hoje a cena que vi no meu sonho passou na realidade",
-        "body": "{timeslot_name} é o dia em que a linha entre os sonhos e a realidade se torna tênue. O número {número} levantará o tabuleiro ao longo da borda. Os sonhos também são uma das notas.",
+        "body": "{timeslot_name} é o dia em que a linha entre os sonhos e a realidade se torna tênue. O número {number} levantará o tabuleiro ao longo da borda. Os sonhos também são uma das notas.",
         "tip": "Uma dica chega para quem se lembra dos seus sonhos. Faça anotações hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} sincronização sonho-realidade 💤 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_011",
         "headline": "{card_name} Recebi uma ligação hoje no momento perfeito",
-        "body": "{timeslot_name} é o dia em que o horário corresponde ao seu pedido. O número {número} acertará o relógio para esse horário. As coincidências acontecem com frequência, mas poucas pessoas estão preparadas.",
+        "body": "{timeslot_name} é o dia em que o horário corresponde ao seu pedido. O número {number} acertará o relógio para esse horário. As coincidências acontecem com frequência, mas poucas pessoas estão preparadas.",
         "tip": "Um telefonema chega em um bom momento. Ouça hoje.",
         "share_caption": "Ligue para {card_name} {number} vezes, cronometrando {timeslot_name} 📞 #DOK_KEY"
       },
       {
         "id": "mystery_tmpl_012",
         "headline": "{card_name} Hoje tive uma energia boa e inexplicável nas costas",
-        "body": "{timeslot_name} tem uma energia autoexplicativa. O número {número} se tornará um farol de energia. Você não precisa saber tudo. Você pode recebê-lo.",
+        "body": "{timeslot_name} tem uma energia autoexplicativa. O número {number} se tornará um farol de energia. Você não precisa saber tudo. Você pode recebê-lo.",
         "tip": "A maior sorte é não receber uma explicação.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} energia inexplicável ✨ #DOK_KEY"
       }
@@ -1008,28 +1008,28 @@
       {
         "id": "irony_tmpl_001",
         "headline": "Encontrei a chave do {card_name}, mas a fechadura estava de férias",
-        "body": "Em {timeslot_name}, aqueles que estão preparados enfrentam situações para as quais eles não estão preparados. Número {número} Ele diz com um sorriso. Está tudo bem, os passos desperdiçados de hoje tornam-se o cronograma preciso de amanhã.",
+        "body": "Em {timeslot_name}, aqueles que estão preparados enfrentam situações para as quais eles não estão preparados. Número {number} Ele diz com um sorriso. Está tudo bem, os passos desperdiçados de hoje tornam-se o cronograma preciso de amanhã.",
         "tip": "O guincho de hoje não é um defeito, mas um som que está sendo sintonizado.",
         "share_caption": "{card_name} {number} vezes, encontrei a chave em {timeslot_name}, mas a fechadura estava perdida 🔑 #DOK_KEY"
       },
       {
         "id": "irony_tmpl_002",
         "headline": "{timeslot_name}, o mestre das reviravoltas que aparece no final quando você dá o seu melhor",
-        "body": "O padrão atual é que uma oportunidade apareça num momento em que você pode estar pronto para desistir. O número {número} dispara, solicitando que você verifique a última chamada ou última mensagem que quase perdeu.",
+        "body": "O padrão atual é que uma oportunidade apareça num momento em que você pode estar pronto para desistir. O número {number} dispara, solicitando que você verifique a última chamada ou última mensagem que quase perdeu.",
         "tip": "Hoje, os últimos 5 minutos antes de desistir são o fator decisivo. Uma última verificação!",
         "share_caption": "{timeslot_name}, {card_name} {number} último serviço de reversão 🎭 #DOK_KEY"
       },
       {
         "id": "irony_tmpl_003",
         "headline": "{card_name} Hoje, destaco que o personagem principal de {timeslot_name} é como um personagem coadjuvante",
-        "body": "Quando você está ao lado de uma pessoa brilhante, há uma ilusão de ótica de que até você parece escuro. Número {número} É uma questão de iluminação, não de habilidade, e anuncio que seu palco será realizado separadamente hoje.",
+        "body": "Quando você está ao lado de uma pessoa brilhante, há uma ilusão de ótica de que até você parece escuro. Número {number} É uma questão de iluminação, não de habilidade, e anuncio que seu palco será realizado separadamente hoje.",
         "tip": "A comparação de hoje fica por conta da iluminação. Sua etapa será realizada separadamente.",
         "share_caption": "{timeslot_name}, {card_name} {number} disse: vamos mudar a iluminação primeiro 🎬 #DOK_KEY"
       },
       {
         "id": "irony_tmpl_004",
         "headline": "Pulei na poça que estava tentando evitar, e havia um tesouro escondido dentro dela",
-        "body": "O pequeno erro que ocorreu em {timeslot_name} não é um fracasso, mas um prenúncio de uma reviravolta. O número {número} transforma seus erros mais loucos em muita sorte.",
+        "body": "O pequeno erro que ocorreu em {timeslot_name} não é um fracasso, mas um prenúncio de uma reviravolta. O número {number} transforma seus erros mais loucos em muita sorte.",
         "tip": "Sorria mesmo quando as coisas não saem como planejado. Um final ainda mais surpreendente está reservado.",
         "share_caption": "A reviravolta irônica de {timeslot_name}, a grande reviravolta de {card_name} {number} 🎭 #DOK_KEY"
       },
@@ -1043,14 +1043,14 @@
       {
         "id": "irony_tmpl_006",
         "headline": "Em frente à porta rejeitada, {card_name} descobriu um palácio maior",
-        "body": "A infeliz rejeição de {timeslot_name} foi um escudo celestial para você. O número {número} está levando você a um estágio realmente grande que combina com você.",
+        "body": "A infeliz rejeição de {timeslot_name} foi um escudo celestial para você. O número {number} está levando você a um estágio realmente grande que combina com você.",
         "tip": "Grite 'Gosto bastante' três vezes e caminhe em direção à próxima porta.",
         "share_caption": "{timeslot_name}, {card_name} {number} ligue para completar o milagre da fortuna 🏰 #DOK_KEY"
       },
       {
         "id": "irony_tmpl_007",
         "headline": "{card_name} A pior manhã de hoje se transformou na melhor tarde",
-        "body": "É um dia em {timeslot_name} onde a manhã e a tarde são dramas diferentes. O número {número} inverterá o script. Um dia que começa do pior termina do melhor, hoje é esse dia.",
+        "body": "É um dia em {timeslot_name} onde a manhã e a tarde são dramas diferentes. O número {number} inverterá o script. Um dia que começa do pior termina do melhor, hoje é esse dia.",
         "tip": "A pior parte da manhã pode ser a melhor parte da tarde.",
         "share_caption": "{card_name} {number}, drama de reviravolta de {timeslot_name} 🎬 #DOK_KEY"
       },
@@ -1064,21 +1064,21 @@
       {
         "id": "irony_tmpl_009",
         "headline": "{card_name} A ideia que joguei fora hoje virou ouro para outra coisa",
-        "body": "Este é o dia em que uma ideia descartada em {timeslot_name} abre outra porta. O número {número} irá ajudá-lo a recuperá-lo. Lixo e barras de ouro são apenas salas diferentes.",
+        "body": "Este é o dia em que uma ideia descartada em {timeslot_name} abre outra porta. O número {number} irá ajudá-lo a recuperá-lo. Lixo e barras de ouro são apenas salas diferentes.",
         "tip": "A ideia descartada é a barra de ouro de outra sala. Venha buscá-lo hoje.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} barra de ouro de ideias descartadas ♻️ #DOK_KEY"
       },
       {
         "id": "irony_tmpl_010",
         "headline": "{card_name} Hoje o silêncio humilde virou o melhor humor",
-        "body": "Em {timeslot_name}, o silêncio traz risadas. O número {número} transformará o peso do silêncio em humor. A única coisa que não foi dita foi a mais engraçada.",
+        "body": "Em {timeslot_name}, o silêncio traz risadas. O número {number} transformará o peso do silêncio em humor. A única coisa que não foi dita foi a mais engraçada.",
         "tip": "Há momentos em que o silêncio se torna engraçado. Hoje é esse dia.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} Humor Silencioso 🤐 #DOK_KEY"
       },
       {
         "id": "irony_tmpl_011",
         "headline": "{card_name} A tarefa que adiei hoje foi na verdade a mais fácil",
-        "body": "{timeslot_name} é o dia em que algo que você adiou acaba sendo fácil. O número {número} corrigirá o tamanho dessa ilusão. O que achei difícil foi só pensar nisso.",
+        "body": "{timeslot_name} é o dia em que algo que você adiou acaba sendo fácil. O número {number} corrigirá o tamanho dessa ilusão. O que achei difícil foi só pensar nisso.",
         "tip": "Não é que as coisas que você adia sejam difíceis, é só que você não as inicia.",
         "share_caption": "{card_name} {number} vezes, {timeslot_name} resolveu a tarefa que foi adiada ✔️ #DOK_KEY"
       },

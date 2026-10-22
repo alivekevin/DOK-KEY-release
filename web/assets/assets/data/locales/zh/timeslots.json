@@ -1,18 +1,26 @@
 {
   "morning": {
-    "name": "清晨",
-    "greeting": "晨光破晓，今天也是充满希望与可能的一天！"
+    "name": "早晨",
+    "emoji": "🌅",
+    "meaning_axis": "崭新的开始与飞跃",
+    "description": "红日初升之时，为停滞之事重新启程的好时机"
   },
   "noon": {
     "name": "正午",
-    "greeting": "太阳当空，让温暖的热情指引前进的道路！"
+    "emoji": "☀️",
+    "meaning_axis": "拓展人际与贵人相助",
+    "description": "阳光最温暖的时刻，与人交流并敞开心扉的好时机"
   },
   "evening": {
-    "name": "黄昏",
-    "greeting": "晚霞温柔，梳理今日收获，享受内心的丰盈与从容。"
+    "name": "傍晚",
+    "emoji": "🌇",
+    "meaning_axis": "收尾总结与沉着盘点",
+    "description": "晚霞染红之时，收获成果并修补不足的好时机"
   },
   "night": {
     "name": "深夜",
-    "greeting": "月色静谧，卸下疲惫，在宁静的夜晚积蓄明天的力量。"
+    "emoji": "🌙",
+    "meaning_axis": "内心反省与静默积淀",
+    "description": "静谧流淌之时，减少外部纷扰、充实内心的好时机"
   }
 }

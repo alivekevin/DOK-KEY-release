@@ -1,7 +1,6 @@
 [
   {
     "id": "pun_id_01",
-    "lang": "id",
     "category": "pun",
     "question": "Ada 3 ekor burung gereja di kabel listrik. Pemburu menembak satu ekor. Berapa ekor burung yang tersisa di kabel?",
     "options": [
@@ -17,7 +16,6 @@
   },
   {
     "id": "pun_id_02",
-    "lang": "id",
     "category": "pun",
     "question": "Hantu apa yang pintar berhitung matematika?",
     "options": [
@@ -33,7 +31,6 @@
   },
   {
     "id": "pun_id_03",
-    "lang": "id",
     "category": "pun",
     "question": "Bebek apa yang jalannya selalu muter ke kiri?",
     "options": [
@@ -49,7 +46,6 @@
   },
   {
     "id": "pun_id_04",
-    "lang": "id",
     "category": "pun",
     "question": "Ban apa yang warnanya merah dan manis?",
     "options": [
@@ -65,7 +61,6 @@
   },
   {
     "id": "pun_id_05",
-    "lang": "id",
     "category": "pun",
     "question": "Pintu apa yang didorong oleh sepuluh orang tetap tidak terbuka?",
     "options": [
@@ -81,7 +76,6 @@
   },
   {
     "id": "pun_id_06",
-    "lang": "id",
     "category": "pun",
     "question": "Gendang apa yang bunyinya tidak bisa didengar?",
     "options": [
@@ -97,7 +91,6 @@
   },
   {
     "id": "pun_id_07",
-    "lang": "id",
     "category": "pun",
     "question": "Kera apa yang bikin orang masuk rumah sakit?",
     "options": [
@@ -113,7 +106,6 @@
   },
   {
     "id": "pun_id_08",
-    "lang": "id",
     "category": "pun",
     "question": "Hewan apa yang paling hening dan tidak bersuara?",
     "options": [
@@ -129,7 +121,6 @@
   },
   {
     "id": "pun_id_09",
-    "lang": "id",
     "category": "pun",
     "question": "Kue apa yang paling sering bikin kaget orang?",
     "options": [
@@ -145,7 +136,6 @@
   },
   {
     "id": "pun_id_10",
-    "lang": "id",
     "category": "pun",
     "question": "Sapu apa yang sering menempel dan tidak bisa menyapu lantai?",
     "options": [

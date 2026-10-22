@@ -35,70 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "Bình minh lại ghé rồi, {nick}! Khách quen như bạn là người ta yêu quý nhất đấy.",
-      "Trời đã sáng rồi, {nick}! Một chiếc chìa khóa mới đã đợi bạn suốt cả đêm qua.",
-      "Sự kiên trì là đức tính mà ngay cả Dokkaebi cũng phải nể phục, {nick}! Cùng mở cánh cửa hôm nay nào.",
-      "{nick}, thấy bạn từ sáng sớm thế này, ta tin mọi việc hôm nay sẽ suôn sẻ thuận lợi.",
-      "{nick}, cùng bạn bước bước chân đầu tiên trong ngày thật an tâm. Hôm nay cũng mở ra nhé!",
-      "Lại đến sớm thế này rồi, {nick}. Khách siêng năng thì vận may cũng siêng năng ghé thăm."
+      "Bình minh lại ghé rồi, {nickname}! Khách quen như bạn là người ta yêu quý nhất đấy.",
+      "Trời đã sáng rồi, {nickname}! Một chiếc chìa khóa mới đã đợi bạn suốt cả đêm qua.",
+      "Sự kiên trì là đức tính mà ngay cả Dokkaebi cũng phải nể phục, {nickname}! Cùng mở cánh cửa hôm nay nào.",
+      "{nickname}, thấy bạn từ sáng sớm thế này, ta tin mọi việc hôm nay sẽ suôn sẻ thuận lợi.",
+      "{nickname}, cùng bạn bước bước chân đầu tiên trong ngày thật an tâm. Hôm nay cũng mở ra nhé!",
+      "Lại đến sớm thế này rồi, {nickname}. Khách siêng năng thì vận may cũng siêng năng ghé thăm."
     ],
     "noon": [
-      "Bạn đã ăn trưa chưa, {nick}? Cơm nước luôn quan trọng hơn xem vận may đấy nhé!",
-      "Trưa lại gặp bạn rồi, {nick}. Nắng ấm thế này, mối duyên lành nhất định sẽ theo về.",
-      "Lại ghé thăm rồi à, {nick}! Quý nhân buổi trưa luôn yêu quý những ai biết quay trở lại.",
-      "{nick}, chúng ta lại gặp nhau giữa trưa. Thời điểm tuyệt vời để gắn kết mọi người — tin vui sẽ đến thôi.",
-      "{nick}, nắng trưa ấm áp quá. Ngày đẹp thế này, hãy nhắn tin cho người bạn còn chần chừ bấy lâu nhé.",
-      "Ban ngày lại ghé rồi, {nick}. Vận khí hôm nay đang mở rộng về phương diện nhân duyên đấy."
+      "Bạn đã ăn trưa chưa, {nickname}? Cơm nước luôn quan trọng hơn xem vận may đấy nhé!",
+      "Trưa lại gặp bạn rồi, {nickname}. Nắng ấm thế này, mối duyên lành nhất định sẽ theo về.",
+      "Lại ghé thăm rồi à, {nickname}! Quý nhân buổi trưa luôn yêu quý những ai biết quay trở lại.",
+      "{nickname}, chúng ta lại gặp nhau giữa trưa. Thời điểm tuyệt vời để gắn kết mọi người — tin vui sẽ đến thôi.",
+      "{nickname}, nắng trưa ấm áp quá. Ngày đẹp thế này, hãy nhắn tin cho người bạn còn chần chừ bấy lâu nhé.",
+      "Ban ngày lại ghé rồi, {nickname}. Vận khí hôm nay đang mở rộng về phương diện nhân duyên đấy."
     ],
     "evening": [
-      "Trời tối lại ghé rồi, {nick}! Thói quen nhìn lại một ngày thật đáng khen ngợi.",
-      "Hôm nay của bạn thế nào, {nick}? Buổi tối là lúc thích hợp nhất để khép lại mọi việc dang dở.",
-      "Người quay lại sau khi mặt trời lặn là người hiểu rõ giá trị của mùa gặt, {nick}.",
-      "{nick}, chiều tối lại ghé rồi. Công sức bạn bỏ ra hôm nay sẽ giúp ngày mai nhẹ gánh hơn.",
-      "{nick}, bạn lại đến khi hoàng hôn buông. Người biết kết thúc trọn vẹn sẽ luôn là người chiến thắng.",
-      "Lời chào buổi tối thật ấm áp, {nick}. Chọn ra một việc cho ngày mai rồi nghỉ ngơi thật ngon nhé."
+      "Trời tối lại ghé rồi, {nickname}! Thói quen nhìn lại một ngày thật đáng khen ngợi.",
+      "Hôm nay của bạn thế nào, {nickname}? Buổi tối là lúc thích hợp nhất để khép lại mọi việc dang dở.",
+      "Người quay lại sau khi mặt trời lặn là người hiểu rõ giá trị của mùa gặt, {nickname}.",
+      "{nickname}, chiều tối lại ghé rồi. Công sức bạn bỏ ra hôm nay sẽ giúp ngày mai nhẹ gánh hơn.",
+      "{nickname}, bạn lại đến khi hoàng hôn buông. Người biết kết thúc trọn vẹn sẽ luôn là người chiến thắng.",
+      "Lời chào buổi tối thật ấm áp, {nickname}. Chọn ra một việc cho ngày mai rồi nghỉ ngơi thật ngon nhé."
     ],
     "night": [
-      "Lại trằn trọc đến tận nửa đêm rồi mới ghé sao, {nick}? Có điều gì làm bạn thao thức thế?",
-      "Sao muộn thế này rồi hả, {nick}? Nếu là cánh cửa tâm hồn, ta sẽ mở lối giúp bạn.",
-      "Đêm đã khuya rồi, {nick}. Trái tim lúc nửa đêm chân thật hơn ban ngày gấp trăm lần đấy.",
-      "{nick}, đêm muộn lại ghé rồi. Trước khi chợp mắt, hãy buông bỏ ít nhất một nỗi muộn phiền nhé.",
-      "{nick}, gặp lại bạn lúc nửa đêm thật mừng. Bạn đã tháo gỡ hết những nút thắt của ngày hôm nay chưa?",
-      "Lại ghé thăm trong đêm, {nick}. Vào những giờ phút tĩnh mịch, câu trả lời sẽ tự nhiên hiện ra thôi."
+      "Lại trằn trọc đến tận nửa đêm rồi mới ghé sao, {nickname}? Có điều gì làm bạn thao thức thế?",
+      "Sao muộn thế này rồi hả, {nickname}? Nếu là cánh cửa tâm hồn, ta sẽ mở lối giúp bạn.",
+      "Đêm đã khuya rồi, {nickname}. Trái tim lúc nửa đêm chân thật hơn ban ngày gấp trăm lần đấy.",
+      "{nickname}, đêm muộn lại ghé rồi. Trước khi chợp mắt, hãy buông bỏ ít nhất một nỗi muộn phiền nhé.",
+      "{nickname}, gặp lại bạn lúc nửa đêm thật mừng. Bạn đã tháo gỡ hết những nút thắt của ngày hôm nay chưa?",
+      "Lại ghé thăm trong đêm, {nickname}. Vào những giờ phút tĩnh mịch, câu trả lời sẽ tự nhiên hiện ra thôi."
     ]
   },
   "long_absence": {
     "morning": [
-      "{nick} ơi! Bao lâu rồi mới gặp lại! ...à thực ra là vài ngày. Dù sao cũng mừng bạn trở lại như nắng mai!",
-      "Xem ai đến này, {nick}! Ta đã quét dọn bậc cửa đợi bạn mãi đấy. Bắt đầu lại một buổi sáng tươi mới nào!",
-      "Haha, {nick} đã trở lại rồi! Chìa khóa cũ bao giờ cũng vừa vặn nhất. Mau vào đây nào!",
-      "{nick}, lâu lắm mới gõ cửa buổi sáng nhé! Buổi sáng luôn rộng lượng với những ai sẵn sàng bắt đầu lại.",
-      "Khà khà, {nick}! Lâu ngày không thấy, nay lại xuất hiện vào buổi sáng. Điềm lành đấy!",
-      "{nick}, khoảng thời gian bạn vắng mặt cũng là một trang trong câu chuyện đời bạn. Tiếp tục từ sáng nay nhé."
+      "{nickname} ơi! Bao lâu rồi mới gặp lại! ...à thực ra là vài ngày. Dù sao cũng mừng bạn trở lại như nắng mai!",
+      "Xem ai đến này, {nickname}! Ta đã quét dọn bậc cửa đợi bạn mãi đấy. Bắt đầu lại một buổi sáng tươi mới nào!",
+      "Haha, {nickname} đã trở lại rồi! Chìa khóa cũ bao giờ cũng vừa vặn nhất. Mau vào đây nào!",
+      "{nickname}, lâu lắm mới gõ cửa buổi sáng nhé! Buổi sáng luôn rộng lượng với những ai sẵn sàng bắt đầu lại.",
+      "Khà khà, {nickname}! Lâu ngày không thấy, nay lại xuất hiện vào buổi sáng. Điềm lành đấy!",
+      "{nickname}, khoảng thời gian bạn vắng mặt cũng là một trang trong câu chuyện đời bạn. Tiếp tục từ sáng nay nhé."
     ],
     "noon": [
-      "{nick} trở lại khiến ánh nắng ấm áp hơn hẳn! Ngồi xuống đi, bạn cũ.",
-      "Quý nhân bao giờ cũng quay trở lại! {nick}, lâu lắm rồi nhỉ. Bạn đến đúng lúc giữa trưa luôn.",
-      "Đã mấy tuần rồi nhỉ, {nick}? Cánh cửa Dokkaebi lúc nào cũng mở rộng, đừng lo lắng gì nhé!",
-      "{nick}, lâu lắm mới ghé vào buổi trưa. Nắng ấm chan hòa, tình bạn lại thêm đậm sâu.",
-      "Lâu quá không gặp, {nick}! Người trở về lúc giữa trưa sẽ trở thành quý nhân đấy.",
-      "{nick}, ánh nắng ngày hội ngộ hôm nay đẹp lạ thường. Ngồi xuống kể ta nghe chuyện dạo này đi."
+      "{nickname} trở lại khiến ánh nắng ấm áp hơn hẳn! Ngồi xuống đi, bạn cũ.",
+      "Quý nhân bao giờ cũng quay trở lại! {nickname}, lâu lắm rồi nhỉ. Bạn đến đúng lúc giữa trưa luôn.",
+      "Đã mấy tuần rồi nhỉ, {nickname}? Cánh cửa Dokkaebi lúc nào cũng mở rộng, đừng lo lắng gì nhé!",
+      "{nickname}, lâu lắm mới ghé vào buổi trưa. Nắng ấm chan hòa, tình bạn lại thêm đậm sâu.",
+      "Lâu quá không gặp, {nickname}! Người trở về lúc giữa trưa sẽ trở thành quý nhân đấy.",
+      "{nickname}, ánh nắng ngày hội ngộ hôm nay đẹp lạ thường. Ngồi xuống kể ta nghe chuyện dạo này đi."
     ],
     "evening": [
-      "Lâu lắm rồi đấy, {nick}! Hoàng hôn dường như cũng rực đỏ hơn khi bạn ghé thăm.",
-      "Ồ, bạn đã trở lại rồi, {nick}! Trong lúc vắng mặt, bạn đã gặt hái được nhiều quả ngọt chưa?",
-      "Haha, cuối cùng cũng về rồi, {nick}! Mọi sự viên mãn luôn bắt đầu từ ngày hội ngộ.",
-      "{nick}, bạn trở lại vào buổi chiều tối. Ánh mắt bạn sâu sắc hơn hẳn sau những ngày xa cách đấy.",
-      "Một lời chào buổi tối sau chuỗi ngày im lặng, đúng phong cách của {nick} rồi!",
-      "{nick}, gặp lại dưới ráng chiều thật ấm áp. Từ hôm nay, chúng ta lại thong thả đồng hành nhé."
+      "Lâu lắm rồi đấy, {nickname}! Hoàng hôn dường như cũng rực đỏ hơn khi bạn ghé thăm.",
+      "Ồ, bạn đã trở lại rồi, {nickname}! Trong lúc vắng mặt, bạn đã gặt hái được nhiều quả ngọt chưa?",
+      "Haha, cuối cùng cũng về rồi, {nickname}! Mọi sự viên mãn luôn bắt đầu từ ngày hội ngộ.",
+      "{nickname}, bạn trở lại vào buổi chiều tối. Ánh mắt bạn sâu sắc hơn hẳn sau những ngày xa cách đấy.",
+      "Một lời chào buổi tối sau chuỗi ngày im lặng, đúng phong cách của {nickname} rồi!",
+      "{nickname}, gặp lại dưới ráng chiều thật ấm áp. Từ hôm nay, chúng ta lại thong thả đồng hành nhé."
     ],
     "night": [
-      "{nick}... trở lại giữa đêm thanh vắng thế này. Lâu ngày không gặp, ta nhớ bạn lắm đấy.",
-      "Trở lại lúc nửa đêm... đúng là phong cách của {nick}! Dokkaebi về đêm cũng trở nên đa cảm hơn đấy.",
-      "Khách quý lâu năm ghé thăm lúc nửa đêm... điềm lành lớn sắp tới rồi, {nick}. Mau vào đi!",
-      "{nick}, lâu lắm mới quay lại vào đêm muộn thế này. Chắc hẳn bạn đã thấy cô đơn lắm.",
-      "Trở lại trong đêm khuya, lúc nào cũng đầy kịch tính như thế, {nick}! Nào, ngồi xuống đây.",
-      "{nick}, lâu lắm mới gặp lại nhau trong đêm. Đêm là thời điểm tuyệt nhất để hàn gắn những tâm tư cũ."
+      "{nickname}... trở lại giữa đêm thanh vắng thế này. Lâu ngày không gặp, ta nhớ bạn lắm đấy.",
+      "Trở lại lúc nửa đêm... đúng là phong cách của {nickname}! Dokkaebi về đêm cũng trở nên đa cảm hơn đấy.",
+      "Khách quý lâu năm ghé thăm lúc nửa đêm... điềm lành lớn sắp tới rồi, {nickname}. Mau vào đi!",
+      "{nickname}, lâu lắm mới quay lại vào đêm muộn thế này. Chắc hẳn bạn đã thấy cô đơn lắm.",
+      "Trở lại trong đêm khuya, lúc nào cũng đầy kịch tính như thế, {nickname}! Nào, ngồi xuống đây.",
+      "{nickname}, lâu lắm mới gặp lại nhau trong đêm. Đêm là thời điểm tuyệt nhất để hàn gắn những tâm tư cũ."
     ]
   }
 }

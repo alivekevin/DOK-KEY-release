@@ -73,7 +73,8 @@
         "elster",
         "taube",
         "nachricht",
-        "bird"
+        "bird",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 39,
@@ -89,7 +90,8 @@
         "karpfen",
         "goldfisch",
         "fülle",
-        "fish"
+        "fish",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 62,
@@ -105,7 +107,8 @@
         "welpe",
         "treue",
         "freundschaft",
-        "dog"
+        "dog",
+        "Hund / Welpe"
       ],
       "fortune": "normal",
       "lucky_number": 19,
@@ -121,7 +124,8 @@
         "kätzchen",
         "intuition",
         "geheimnis",
-        "cat"
+        "cat",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 23,
@@ -138,7 +142,9 @@
         "kuh",
         "fleiss",
         "geduld",
-        "ox"
+        "ox",
+        "Ochse / Stier",
+        "Ochse / Stier"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -171,7 +177,8 @@
         "langlebigkeit",
         "weisheit",
         "beständigkeit",
-        "turtle"
+        "turtle",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 14,
@@ -187,7 +194,9 @@
         "morgengrauen",
         "aufbruch",
         "erfolg",
-        "rooster"
+        "rooster",
+        "Hahn / Gockel",
+        "Hahn / Gockel"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -203,7 +212,8 @@
         "biene",
         "liebe",
         "harmonie",
-        "butterfly"
+        "butterfly",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 44,
@@ -220,7 +230,9 @@
         "ameise",
         "spinne",
         "ordnung",
-        "bug"
+        "bug",
+        "wooden_comb",
+        "Insekt / Ameise / Spinne"
       ],
       "fortune": "normal",
       "lucky_number": 16,
@@ -236,7 +248,8 @@
         "ratte",
         "eichhörnchen",
         "geschick",
-        "mouse"
+        "mouse",
+        "rat"
       ],
       "fortune": "normal",
       "lucky_number": 1,
@@ -252,8 +265,7 @@
         "löwin",
         "könig der tiere",
         "macht",
-        "autorität",
-        "lion"
+        "autorität"
       ],
       "fortune": "auspicious",
       "lucky_number": 23,
@@ -285,7 +297,8 @@
         "reh",
         "anmut",
         "frieden",
-        "deer"
+        "deer",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 9,
@@ -301,8 +314,7 @@
         "braunbär",
         "schutz",
         "stärke",
-        "ausdauer",
-        "bear"
+        "ausdauer"
       ],
       "fortune": "auspicious",
       "lucky_number": 16,
@@ -318,7 +330,8 @@
         "frosch",
         "glückskröte",
         "familie",
-        "toad"
+        "toad",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 27,
@@ -334,7 +347,9 @@
         "zahn",
         "zahnverlust",
         "familie",
-        "teeth"
+        "teeth",
+        "wooden_comb",
+        "Zähne verlieren"
       ],
       "fortune": "ominous",
       "lucky_number": 43,
@@ -350,7 +365,9 @@
         "fäkalien",
         "glück",
         "geldsegen",
-        "poop"
+        "poop",
+        "silk_pouch",
+        "In Kot treten / berühren"
       ],
       "fortune": "auspicious",
       "lucky_number": 18,
@@ -366,7 +383,8 @@
         "bluten",
         "energie",
         "durchbruch",
-        "blood"
+        "blood",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -382,7 +400,9 @@
         "pinkeln",
         "erleichterung",
         "befreiung",
-        "pee"
+        "pee",
+        "water_sprite",
+        "Erleichterndes Urinieren"
       ],
       "fortune": "auspicious",
       "lucky_number": 55,
@@ -398,7 +418,8 @@
         "haarschnitt",
         "friseur",
         "neuanfang",
-        "hair"
+        "hair",
+        "wooden_comb"
       ],
       "fortune": "normal",
       "lucky_number": 28,
@@ -414,7 +435,9 @@
         "weinen",
         "erleichterung",
         "freude",
-        "crying"
+        "crying",
+        "water_sprite",
+        "Tränen / Befreiendes Weinen"
       ],
       "fortune": "auspicious",
       "lucky_number": 24,
@@ -431,7 +454,8 @@
         "hand",
         "fuss",
         "achtsamkeit",
-        "injury"
+        "injury",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 34,
@@ -447,7 +471,9 @@
         "duschen",
         "reinigung",
         "erholung",
-        "bath"
+        "bath",
+        "lotus_lamp",
+        "Baden / Duschen"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -463,7 +489,8 @@
         "chirurgie",
         "krankenhaus",
         "heilung",
-        "surgery"
+        "surgery",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -479,7 +506,9 @@
         "schwangerschaft",
         "neues leben",
         "kreation",
-        "pregnant"
+        "pregnant",
+        "moon_jar",
+        "Schwangerschaft"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -494,7 +523,8 @@
         "zwillinge",
         "doppeltes glück",
         "erfolg",
-        "twins"
+        "twins",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -510,7 +540,8 @@
         "körpergrösse",
         "aufstieg",
         "weitsicht",
-        "growth"
+        "growth",
+        "cloud_hermit"
       ],
       "fortune": "auspicious",
       "lucky_number": 15,
@@ -526,7 +557,9 @@
         "ausstrahlung",
         "glanz",
         "beliebtheit",
-        "face"
+        "face",
+        "jade_ring",
+        "Strahlendes, schönes Gesicht"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -542,7 +575,8 @@
         "entblösst",
         "ehrlich",
         "wahrheit",
-        "naked"
+        "naked",
+        "folding_fan"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -558,7 +592,8 @@
         "erschöpfung",
         "pause",
         "tee",
-        "sweat"
+        "sweat",
+        "tea_bowl"
       ],
       "fortune": "normal",
       "lucky_number": 60,
@@ -592,7 +627,8 @@
         "brand",
         "leidenschaft",
         "erfolg",
-        "fire"
+        "fire",
+        "dokkaebi_fire"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -608,7 +644,9 @@
         "sternschnuppe",
         "inspiration",
         "galaxie",
-        "star"
+        "star",
+        "star_weaver",
+        "Sterne & Sternschnuppe"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -624,7 +662,9 @@
         "sonnenaufgang",
         "sonnenstrahl",
         "ruhm",
-        "sun"
+        "sun",
+        "sun_messenger",
+        "Aufgehende Sonne"
       ],
       "fortune": "auspicious",
       "lucky_number": 25,
@@ -640,7 +680,8 @@
         "vollmond",
         "mondschein",
         "harmonie",
-        "moon"
+        "moon",
+        "moon_rabbit"
       ],
       "fortune": "auspicious",
       "lucky_number": 49,
@@ -674,7 +715,8 @@
         "wellen",
         "horizont",
         "freiheit",
-        "sea"
+        "sea",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -691,7 +733,8 @@
         "see",
         "finanzen",
         "harmonie",
-        "river"
+        "river",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -707,7 +750,8 @@
         "trübes wasser",
         "vorsicht",
         "verträge",
-        "mud"
+        "mud",
+        "wooden_comb"
       ],
       "fortune": "ominous",
       "lucky_number": 42,
@@ -723,7 +767,9 @@
         "sturm",
         "platzregen",
         "erfrischung",
-        "rain"
+        "rain",
+        "water_sprite",
+        "Regen / Platzregen"
       ],
       "fortune": "normal",
       "lucky_number": 2,
@@ -739,7 +785,8 @@
         "schneefall",
         "reinheit",
         "neuanfang",
-        "snow"
+        "snow",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 6,
@@ -756,7 +803,8 @@
         "gewitter",
         "geistesblitz",
         "durchbruch",
-        "lightning"
+        "lightning",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 31,
@@ -805,7 +853,8 @@
         "münzen",
         "reichtum",
         "finanzen",
-        "money"
+        "money",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -839,7 +888,8 @@
         "gold",
         "schatz",
         "prestige",
-        "jewel"
+        "jewel",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -855,7 +905,8 @@
         "geldbörse",
         "sparbuch",
         "einnahmen",
-        "wallet"
+        "wallet",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 36,
@@ -872,7 +923,8 @@
         "jackpot",
         "glück",
         "bonus",
-        "lottery"
+        "lottery",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 7,
@@ -905,7 +957,8 @@
         "barfuss",
         "selbstvertrauen",
         "schuhe",
-        "shoes"
+        "shoes",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -939,7 +992,8 @@
         "goldring",
         "bund",
         "treue",
-        "ring"
+        "ring",
+        "jade_ring"
       ],
       "fortune": "auspicious",
       "lucky_number": 66,
@@ -956,7 +1010,8 @@
         "gepäck",
         "reise",
         "fertigkeiten",
-        "bag"
+        "bag",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 30,
@@ -990,7 +1045,8 @@
         "timing",
         "plan",
         "gelegenheit",
-        "clock"
+        "clock",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 12,
@@ -1007,7 +1063,8 @@
         "klinge",
         "schnitt",
         "entscheidung",
-        "knife"
+        "knife",
+        "dokkaebi_club"
       ],
       "fortune": "normal",
       "lucky_number": 47,
@@ -1023,7 +1080,8 @@
         "reflexion",
         "selbsterkenntnis",
         "wahrheit",
-        "mirror"
+        "mirror",
+        "inkstone"
       ],
       "fortune": "normal",
       "lucky_number": 18,
@@ -1039,7 +1097,9 @@
         "überraschung",
         "belohnung",
         "dankbarkeit",
-        "gift"
+        "gift",
+        "silk_pouch",
+        "Unerwartetes Geschenk erhalten"
       ],
       "fortune": "auspicious",
       "lucky_number": 4,
@@ -1056,7 +1116,8 @@
         "grosseltern",
         "vorfahren",
         "segen",
-        "ancestor"
+        "ancestor",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1090,7 +1151,8 @@
         "kobold",
         "magie",
         "glück",
-        "dokkaebi"
+        "dokkaebi",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 11,
@@ -1124,7 +1186,9 @@
         "göttlich",
         "segen",
         "gnade",
-        "saint"
+        "saint",
+        "lotus_lamp",
+        "Begegnung mit Heiligen / Göttlichem"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1141,7 +1205,8 @@
         "himmlisch",
         "liebe",
         "flügel",
-        "angel"
+        "angel",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1158,7 +1223,8 @@
         "ritual",
         "meditation",
         "stille",
-        "prayer"
+        "prayer",
+        "wooden_fish"
       ],
       "fortune": "normal",
       "lucky_number": 50,
@@ -1192,7 +1258,8 @@
         "erbe",
         "reichtum",
         "wende",
-        "coffin"
+        "coffin",
+        "moon_jar"
       ],
       "fortune": "auspicious",
       "lucky_number": 29,
@@ -1208,7 +1275,8 @@
         "schicksal",
         "wende",
         "gesundheit",
-        "reaper"
+        "reaper",
+        "shadow_walker"
       ],
       "fortune": "normal",
       "lucky_number": 13,
@@ -1259,7 +1327,8 @@
         "jagd",
         "druck",
         "mut",
-        "chased"
+        "chased",
+        "shadow_walker"
       ],
       "fortune": "ominous",
       "lucky_number": 29,
@@ -1275,7 +1344,8 @@
         "klartraum",
         "gedanken",
         "spaziergang",
-        "dream"
+        "dream",
+        "dream_eater"
       ],
       "fortune": "normal",
       "lucky_number": 7,
@@ -1309,7 +1379,8 @@
         "braut",
         "bräutigam",
         "partnerschaft",
-        "wedding"
+        "wedding",
+        "jade_ring"
       ],
       "fortune": "normal",
       "lucky_number": 26,
@@ -1394,7 +1465,8 @@
         "triumph",
         "hindernis",
         "sieg",
-        "murder"
+        "murder",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,
@@ -1411,7 +1483,8 @@
         "sicherheit",
         "schutz",
         "passwort",
-        "thief"
+        "thief",
+        "brass_bell"
       ],
       "fortune": "normal",
       "lucky_number": 38,
@@ -1462,7 +1535,8 @@
         "hausbau",
         "aufbau",
         "fundament",
-        "moving house"
+        "moving house",
+        "folding_fan"
       ],
       "fortune": "auspicious",
       "lucky_number": 65,
@@ -1479,7 +1553,8 @@
         "schmaus",
         "genuss",
         "fülle",
-        "eating"
+        "eating",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 56,
@@ -1496,7 +1571,8 @@
         "garten",
         "strauss",
         "liebe",
-        "flower"
+        "flower",
+        "flower_fairy"
       ],
       "fortune": "auspicious",
       "lucky_number": 35,
@@ -1513,7 +1589,8 @@
         "nahrung",
         "wohlstand",
         "fülle",
-        "rice cake"
+        "rice cake",
+        "silk_pouch"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1530,7 +1607,10 @@
         "apfel",
         "pfirsich",
         "ernte",
-        "fruit"
+        "fruit",
+        "lotus_lamp",
+        "Reife Äpfel, Pfirsiche & Früchte",
+        "Reife Äpfel, Pfirsiche & Früchte"
       ],
       "fortune": "auspicious",
       "lucky_number": 10,
@@ -1547,7 +1627,8 @@
         "wurzeln",
         "stamm",
         "schutz",
-        "tree"
+        "tree",
+        "mountain_spirit"
       ],
       "fortune": "auspicious",
       "lucky_number": 26,
@@ -1564,7 +1645,8 @@
         "steak",
         "energie",
         "kraft",
-        "meat"
+        "meat",
+        "tea_bowl"
       ],
       "fortune": "auspicious",
       "lucky_number": 64,
@@ -1581,7 +1663,9 @@
         "wein",
         "bier",
         "geselligkeit",
-        "drinking"
+        "drinking",
+        "tea_bowl",
+        "Anstoßen & Wein / Bier trinken"
       ],
       "fortune": "normal",
       "lucky_number": 45,
@@ -1615,7 +1699,8 @@
         "spross",
         "keimen",
         "zukunft",
-        "planting"
+        "planting",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 28,
@@ -1649,7 +1734,8 @@
         "sturm",
         "taifun",
         "wandel",
-        "wind"
+        "wind",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 37,
@@ -1666,7 +1752,8 @@
         "portal",
         "eintritt",
         "chance",
-        "door"
+        "door",
+        "dokkaebi_club"
       ],
       "fortune": "auspicious",
       "lucky_number": 21,
@@ -1682,7 +1769,8 @@
         "bus verpasst",
         "fahrplan",
         "gelassenheit",
-        "missed bus"
+        "missed bus",
+        "brass_bell"
       ],
       "fortune": "ominous",
       "lucky_number": 52,
@@ -1699,7 +1787,8 @@
         "aufstieg",
         "übersee",
         "start",
-        "airplane"
+        "airplane",
+        "wind_child"
       ],
       "fortune": "auspicious",
       "lucky_number": 22,
@@ -1716,7 +1805,8 @@
         "kontrolle",
         "fahrt",
         "kraft",
-        "driving"
+        "driving",
+        "horse"
       ],
       "fortune": "auspicious",
       "lucky_number": 5,
@@ -1750,7 +1840,8 @@
         "segeln",
         "team",
         "zukunft",
-        "ship"
+        "ship",
+        "water_sprite"
       ],
       "fortune": "auspicious",
       "lucky_number": 8,
@@ -1767,7 +1858,8 @@
         "balance",
         "tempo",
         "leichtigkeit",
-        "bicycle"
+        "bicycle",
+        "wind_child"
       ],
       "fortune": "normal",
       "lucky_number": 25,
@@ -1886,7 +1978,8 @@
         "schreien",
         "grenzen",
         "entschlossenheit",
-        "anger"
+        "anger",
+        "dokkaebi_fire"
       ],
       "fortune": "normal",
       "lucky_number": 48,
@@ -1903,7 +1996,8 @@
         "erfüllung",
         "wonne",
         "segen",
-        "bliss"
+        "bliss",
+        "cloud_pillow"
       ],
       "fortune": "auspicious",
       "lucky_number": 33,

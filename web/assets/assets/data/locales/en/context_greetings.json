@@ -35,70 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "Back again at sunrise, {nick}! Regulars like you are my favorite kind of guest.",
-      "Morning broke, {nick}! A new key has been waiting for you all night.",
-      "Persistence is a virtue even goblins respect, {nick}! Let's open today's door.",
-      "{nick}, seeing you this early, today's tasks will go smoothly.",
-      "{nick}, taking the first morning step with you is reassuring. Let's open today too!",
-      "Back so early again, {nick}. A diligent guest has diligent luck."
+      "Back again at sunrise, {nickname}! Regulars like you are my favorite kind of guest.",
+      "Morning broke, {nickname}! A new key has been waiting for you all night.",
+      "Persistence is a virtue even goblins respect, {nickname}! Let's open today's door.",
+      "{nickname}, seeing you this early, today's tasks will go smoothly.",
+      "{nickname}, taking the first morning step with you is reassuring. Let's open today too!",
+      "Back so early again, {nickname}. A diligent guest has diligent luck."
     ],
     "noon": [
-      "Have you eaten yet, {nick}? Lunch comes before fortunes, always!",
-      "Seeing you at midday again, {nick}. With light this warm, good bonds will follow.",
-      "Back again, {nick}! Midday helpers love those who return.",
-      "{nick}, we meet again at noon. A good hour for people — good news will come.",
-      "{nick}, the lunchtime sun is warm. On a day like this, reach out to someone you've put off.",
-      "Back again in the daytime, {nick}. Today's energy is open toward relationships."
+      "Have you eaten yet, {nickname}? Lunch comes before fortunes, always!",
+      "Seeing you at midday again, {nickname}. With light this warm, good bonds will follow.",
+      "Back again, {nickname}! Midday helpers love those who return.",
+      "{nickname}, we meet again at noon. A good hour for people — good news will come.",
+      "{nickname}, the lunchtime sun is warm. On a day like this, reach out to someone you've put off.",
+      "Back again in the daytime, {nickname}. Today's energy is open toward relationships."
     ],
     "evening": [
-      "Back at dusk, {nick}! Reflecting on the day — excellent habit.",
-      "How was your day, {nick}? Evening is the best time to tie loose ends.",
-      "Those who return after sunset know the taste of harvest, {nick}.",
-      "{nick}, back again in the evening. The effort you spent today will lighten tomorrow.",
-      "{nick}, you came again as the sun sets. Those who finish well win in the end.",
-      "An evening greeting is welcome, {nick}. Pick just one task for tomorrow, then rest."
+      "Back at dusk, {nickname}! Reflecting on the day — excellent habit.",
+      "How was your day, {nickname}? Evening is the best time to tie loose ends.",
+      "Those who return after sunset know the taste of harvest, {nickname}.",
+      "{nickname}, back again in the evening. The effort you spent today will lighten tomorrow.",
+      "{nickname}, you came again as the sun sets. Those who finish well win in the end.",
+      "An evening greeting is welcome, {nickname}. Pick just one task for tomorrow, then rest."
     ],
     "night": [
-      "Tossing and turning until midnight again, {nick}? Something keeping you up?",
-      "Why so late, {nick}? If it's your heart's door, I'll open it for you.",
-      "Deep night again, huh, {nick}. Midnight hearts are a hundred times more honest.",
-      "{nick}, back again this late. Before sleep, let at least one thing go.",
-      "{nick}, good to see you again in the small hours. Did you untie all of today's knots?",
-      "Back again at night, {nick}. In quiet hours, answers surface on their own."
+      "Tossing and turning until midnight again, {nickname}? Something keeping you up?",
+      "Why so late, {nickname}? If it's your heart's door, I'll open it for you.",
+      "Deep night again, huh, {nickname}. Midnight hearts are a hundred times more honest.",
+      "{nickname}, back again this late. Before sleep, let at least one thing go.",
+      "{nickname}, good to see you again in the small hours. Did you untie all of today's knots?",
+      "Back again at night, {nickname}. In quiet hours, answers surface on their own."
     ]
   },
   "long_absence": {
     "morning": [
-      "{nick}! It's been an eternity! ...well, a few days. Anyway, welcome back like the morning sun!",
-      "Well, if it isn't {nick}! I've been sweeping the doorstep waiting. A fresh morning restart!",
-      "Heh, {nick} is back! The oldest keys fit the best. Come on in!",
-      "{nick}, you knocked on the morning door after so long! Morning is always generous to those who start again.",
-      "Heh heh, {nick}! After so long, you appear in the morning. A good sign.",
-      "{nick}, the time you were away is a page of your story too. Let's continue from the morning."
+      "{nickname}! It's been an eternity! ...well, a few days. Anyway, welcome back like the morning sun!",
+      "Well, if it isn't {nickname}! I've been sweeping the doorstep waiting. A fresh morning restart!",
+      "Heh, {nickname} is back! The oldest keys fit the best. Come on in!",
+      "{nickname}, you knocked on the morning door after so long! Morning is always generous to those who start again.",
+      "Heh heh, {nickname}! After so long, you appear in the morning. A good sign.",
+      "{nickname}, the time you were away is a page of your story too. Let's continue from the morning."
     ],
     "noon": [
-      "{nick} returned, and the sunlight grew warmer! Sit down, old friend.",
-      "Helpers always return! {nick}, it's been ages. You came exactly at midday.",
-      "How many weeks has it been, {nick}? My door is always open, so worry not!",
-      "{nick}, after quite a while you came at noon. The sun is warm, and the bond ripens again.",
-      "Long time no see, {nick}! One who returns at noon becomes a benefactor.",
-      "{nick}, the sun on this reunion day is especially fine. Sit and tell me your tale."
+      "{nickname} returned, and the sunlight grew warmer! Sit down, old friend.",
+      "Helpers always return! {nickname}, it's been ages. You came exactly at midday.",
+      "How many weeks has it been, {nickname}? My door is always open, so worry not!",
+      "{nickname}, after quite a while you came at noon. The sun is warm, and the bond ripens again.",
+      "Long time no see, {nickname}! One who returns at noon becomes a benefactor.",
+      "{nickname}, the sun on this reunion day is especially fine. Sit and tell me your tale."
     ],
     "evening": [
-      "It's been a while, {nick}! Even the sunset looks redder with you here.",
-      "Oh, you're back, {nick}! Did the harvest pile up while you were away?",
-      "Heh, come back at last, {nick}! Endings always begin with reunion.",
-      "{nick}, you returned in the evening. Your gaze is deeper by the time you were away — good.",
-      "An evening greeting after long silence — so very like you, {nick}!",
-      "{nick}, good to meet again under the sunset. From today, let's slowly reconnect."
+      "It's been a while, {nickname}! Even the sunset looks redder with you here.",
+      "Oh, you're back, {nickname}! Did the harvest pile up while you were away?",
+      "Heh, come back at last, {nickname}! Endings always begin with reunion.",
+      "{nickname}, you returned in the evening. Your gaze is deeper by the time you were away — good.",
+      "An evening greeting after long silence — so very like you, {nickname}!",
+      "{nickname}, good to meet again under the sunset. From today, let's slowly reconnect."
     ],
     "night": [
-      "{nick}... back in the dead of night. I truly missed you, you know.",
-      "A midnight return — that's so like you, {nick}! Even goblins soften at night.",
-      "An old guest visiting at midnight... a good omen indeed, {nick}. Come in!",
-      "{nick}, you returned to me this late night after so long. You must have been lonely.",
-      "A return in the small hours — dramatic as ever, {nick}! Come sit.",
-      "{nick}, I see you at night after so long. Night is a fine time to reconnect old hearts."
+      "{nickname}... back in the dead of night. I truly missed you, you know.",
+      "A midnight return — that's so like you, {nickname}! Even goblins soften at night.",
+      "An old guest visiting at midnight... a good omen indeed, {nickname}. Come in!",
+      "{nickname}, you returned to me this late night after so long. You must have been lonely.",
+      "A return in the small hours — dramatic as ever, {nickname}! Come sit.",
+      "{nickname}, I see you at night after so long. Night is a fine time to reconnect old hearts."
     ]
   }
 }

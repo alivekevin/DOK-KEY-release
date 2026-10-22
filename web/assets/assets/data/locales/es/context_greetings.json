@@ -35,70 +35,70 @@
   },
   "revisit": {
     "morning": [
-      "¡De vuelta con el amanecer, {nick}! Los visitantes leales como tú son mis favoritos.",
-      "¡Ha salido el sol, {nick}! Una nueva llave te ha estado esperando toda la noche.",
-      "¡La constancia es una virtud que hasta los duendes admiramos, {nick}! Abramos la puerta de hoy.",
-      "{nick}, al verte tan temprano, sé que las tareas de hoy saldrán a pedir de boca.",
-      "{nick}, dar el primer paso de la mañana contigo me llena de energía. ¡Abramos el día juntos!",
-      "De vuelta tan temprano, {nick}. A viajero diligente, fortuna diligente."
+      "¡De vuelta con el amanecer, {nickname}! Los visitantes leales como tú son mis favoritos.",
+      "¡Ha salido el sol, {nickname}! Una nueva llave te ha estado esperando toda la noche.",
+      "¡La constancia es una virtud que hasta los duendes admiramos, {nickname}! Abramos la puerta de hoy.",
+      "{nickname}, al verte tan temprano, sé que las tareas de hoy saldrán a pedir de boca.",
+      "{nickname}, dar el primer paso de la mañana contigo me llena de energía. ¡Abramos el día juntos!",
+      "De vuelta tan temprano, {nickname}. A viajero diligente, fortuna diligente."
     ],
     "noon": [
-      "¿Has comido ya, {nick}? ¡El almuerzo siempre va antes que la fortuna, siempre!",
-      "Qué alegría verte al mediodía, {nick}. Con una luz tan cálida, llegarán buenas noticias.",
-      "¡De vuelta por aquí, {nick}! A los aliados del mediodía les encantan quienes regresan.",
-      "{nick}, nos reencontramos a mediodía. Es la hora perfecta para conectar con los demás.",
-      "{nick}, el sol del mediodía es reconfortante. En un día así, contacta a quien tienes pendiente.",
-      "De nuevo por aquí de día, {nick}. La energía de hoy está abierta a los bellos encuentros."
+      "¿Has comido ya, {nickname}? ¡El almuerzo siempre va antes que la fortuna, siempre!",
+      "Qué alegría verte al mediodía, {nickname}. Con una luz tan cálida, llegarán buenas noticias.",
+      "¡De vuelta por aquí, {nickname}! A los aliados del mediodía les encantan quienes regresan.",
+      "{nickname}, nos reencontramos a mediodía. Es la hora perfecta para conectar con los demás.",
+      "{nickname}, el sol del mediodía es reconfortante. En un día así, contacta a quien tienes pendiente.",
+      "De nuevo por aquí de día, {nickname}. La energía de hoy está abierta a los bellos encuentros."
     ],
     "evening": [
-      "¡De vuelta al anochecer, {nick}! Reflexionar sobre la jornada es un hábito excelente.",
-      "¿Cómo fue tu día, {nick}? La tarde es el mejor momento para atar cabos sueltos.",
-      "Quienes regresan tras la puesta de sol conocen el dulce sabor de la cosecha, {nick}.",
-      "{nick}, de vuelta al caer la tarde. El esfuerzo que sembraste hoy aliviará el mañana.",
-      "{nick}, has venido mientras se pone el sol. Quienes saben cerrar bien el día ganan al final.",
-      "Un saludo vespertino siempre es bienvenido, {nick}. Elige una sola meta para mañana y descansa."
+      "¡De vuelta al anochecer, {nickname}! Reflexionar sobre la jornada es un hábito excelente.",
+      "¿Cómo fue tu día, {nickname}? La tarde es el mejor momento para atar cabos sueltos.",
+      "Quienes regresan tras la puesta de sol conocen el dulce sabor de la cosecha, {nickname}.",
+      "{nickname}, de vuelta al caer la tarde. El esfuerzo que sembraste hoy aliviará el mañana.",
+      "{nickname}, has venido mientras se pone el sol. Quienes saben cerrar bien el día ganan al final.",
+      "Un saludo vespertino siempre es bienvenido, {nickname}. Elige una sola meta para mañana y descansa."
     ],
     "night": [
-      "¿Dando vueltas sin dormir hasta medianoche, {nick}? ¿Algo no te deja descansar?",
-      "¿Por qué tan tarde, {nick}? Si es la puerta de tu corazón, yo te la abriré.",
-      "Noche cerrada otra vez, {nick}. El corazón en la medianoche es cien veces más sincero.",
-      "{nick}, de vuelta a estas horas. Antes de dormir, suelta al menos una carga.",
-      "{nick}, me alegra verte en la madrugada. ¿Lograste desatar todos los nudos de hoy?",
-      "De vuelta en la noche, {nick}. En las horas de silencio, las respuestas brotan solas."
+      "¿Dando vueltas sin dormir hasta medianoche, {nickname}? ¿Algo no te deja descansar?",
+      "¿Por qué tan tarde, {nickname}? Si es la puerta de tu corazón, yo te la abriré.",
+      "Noche cerrada otra vez, {nickname}. El corazón en la medianoche es cien veces más sincero.",
+      "{nickname}, de vuelta a estas horas. Antes de dormir, suelta al menos una carga.",
+      "{nickname}, me alegra verte en la madrugada. ¿Lograste desatar todos los nudos de hoy?",
+      "De vuelta en la noche, {nickname}. En las horas de silencio, las respuestas brotan solas."
     ]
   },
   "long_absence": {
     "morning": [
-      "¡{nick}! ¡Ha pasado una eternidad! ...bueno, varios días. ¡Bienvenido como el sol de la mañana!",
-      "¡Pero si es {nick}! Estaba barriendo la entrada esperándote. ¡Un nuevo comienzo matutino!",
-      "¡Jeje, {nick} ha vuelto! Las llaves más antiguas son las que mejor encajan. ¡Pasa!",
-      "¡{nick}, llamaste a la puerta matutina tras tanto tiempo! La mañana siempre es generosa con quien reinicia.",
-      "¡Jaja, {nick}! Tras tantos días ausente, apareces de mañana. Es una excelente señal.",
-      "{nick}, el tiempo que estuviste lejos también es una página de tu historia. Continuemos desde el alba."
+      "¡{nickname}! ¡Ha pasado una eternidad! ...bueno, varios días. ¡Bienvenido como el sol de la mañana!",
+      "¡Pero si es {nickname}! Estaba barriendo la entrada esperándote. ¡Un nuevo comienzo matutino!",
+      "¡Jeje, {nickname} ha vuelto! Las llaves más antiguas son las que mejor encajan. ¡Pasa!",
+      "¡{nickname}, llamaste a la puerta matutina tras tanto tiempo! La mañana siempre es generosa con quien reinicia.",
+      "¡Jaja, {nickname}! Tras tantos días ausente, apareces de mañana. Es una excelente señal.",
+      "{nickname}, el tiempo que estuviste lejos también es una página de tu historia. Continuemos desde el alba."
     ],
     "noon": [
-      "¡{nick} ha vuelto y el sol brilla más cálido! Siéntate, viejo amigo.",
-      "¡Los buenos aliados siempre regresan! {nick}, cuánto tiempo. Llegas puntual al mediodía.",
-      "¿Cuántas semanas han pasado, {nick}? ¡Mi puerta siempre está abierta, no te preocupes!",
-      "{nick}, tras tanto tiempo vienes a mediodía. El sol calienta y nuestro lazo florece de nuevo.",
-      "¡Cuánto tiempo sin verte, {nick}! Quien regresa al mediodía se convierte en portador de dicha.",
-      "{nick}, el sol en este día de reencuentro es hermoso. Siéntate y cuéntame tus andanzas."
+      "¡{nickname} ha vuelto y el sol brilla más cálido! Siéntate, viejo amigo.",
+      "¡Los buenos aliados siempre regresan! {nickname}, cuánto tiempo. Llegas puntual al mediodía.",
+      "¿Cuántas semanas han pasado, {nickname}? ¡Mi puerta siempre está abierta, no te preocupes!",
+      "{nickname}, tras tanto tiempo vienes a mediodía. El sol calienta y nuestro lazo florece de nuevo.",
+      "¡Cuánto tiempo sin verte, {nickname}! Quien regresa al mediodía se convierte en portador de dicha.",
+      "{nickname}, el sol en este día de reencuentro es hermoso. Siéntate y cuéntame tus andanzas."
     ],
     "evening": [
-      "¡Cuánto tiempo, {nick}! Hasta el atardecer se ve más rojizo ahora que estás aquí.",
-      "¡Oh, has vuelto, {nick}! ¿Se acumularon buenos frutos mientras estuviste ausente?",
-      "¡Jeje, regresaste al fin, {nick}! Los cierres siempre comienzan con un feliz reencuentro.",
-      "{nick}, regresaste al atardecer. Tu mirada es más profunda por el tiempo transcurrido.",
-      "¡Un saludo vespertino tras un largo silencio, tan característico de ti, {nick}!",
-      "{nick}, qué alegría verte bajo el ocaso. A partir de hoy, retomemos el camino con calma."
+      "¡Cuánto tiempo, {nickname}! Hasta el atardecer se ve más rojizo ahora que estás aquí.",
+      "¡Oh, has vuelto, {nickname}! ¿Se acumularon buenos frutos mientras estuviste ausente?",
+      "¡Jeje, regresaste al fin, {nickname}! Los cierres siempre comienzan con un feliz reencuentro.",
+      "{nickname}, regresaste al atardecer. Tu mirada es más profunda por el tiempo transcurrido.",
+      "¡Un saludo vespertino tras un largo silencio, tan característico de ti, {nickname}!",
+      "{nickname}, qué alegría verte bajo el ocaso. A partir de hoy, retomemos el camino con calma."
     ],
     "night": [
-      "{nick}... de vuelta en la quietud de la noche. De verdad te extrañé mucho.",
-      "Un regreso a medianoche... ¡tan propio de ti, {nick}! Hasta los duendes nos ablandamos de noche.",
-      "Un viejo huésped visitando a medianoche... es un augurio maravilloso, {nick}. ¡Pasa!",
-      "{nick}, regresaste en esta noche tardía tras tanto tiempo. Debiste sentirte muy solo.",
-      "Un regreso de madrugada, ¡dramático como siempre, {nick}! Ven, toma asiento.",
-      "{nick}, te veo de noche después de tantos días. La noche es ideal para reconectar corazones."
+      "{nickname}... de vuelta en la quietud de la noche. De verdad te extrañé mucho.",
+      "Un regreso a medianoche... ¡tan propio de ti, {nickname}! Hasta los duendes nos ablandamos de noche.",
+      "Un viejo huésped visitando a medianoche... es un augurio maravilloso, {nickname}. ¡Pasa!",
+      "{nickname}, regresaste en esta noche tardía tras tanto tiempo. Debiste sentirte muy solo.",
+      "Un regreso de madrugada, ¡dramático como siempre, {nickname}! Ven, toma asiento.",
+      "{nickname}, te veo de noche después de tantos días. La noche es ideal para reconectar corazones."
     ]
   }
 }
