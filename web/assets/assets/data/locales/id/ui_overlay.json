@@ -1709,5 +1709,8 @@
   "미디어를 불러오지 못했어요. 권한과 파일을 확인해 주세요.": "Media gagal dimuat. Periksa izin dan file.",
   "등록된 미디어 파일을 찾을 수 없습니다": "File media terdaftar tidak ditemukan",
   "기간 리마인더": "Pengingat periode",
-  "일차": "hari"
+  "일차": "hari",
+  "테마만 보기": "Tema saja",
+  "콘텐츠 보기": "Lihat konten",
+  "사진이나 동영상을 먼저 선택해 주세요": "Silakan pilih foto atau video terlebih dahulu"
 }
