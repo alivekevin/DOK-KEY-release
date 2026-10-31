@@ -653,6 +653,55 @@
       line-height: 1.6;
     }
 
+    /* Toolbox & Arcade Icon Showcase */
+    .showcase-section { margin-bottom: 60px; }
+    .showcase-head { text-align: center; margin-bottom: 26px; }
+    .showcase-title {
+      font-size: clamp(19px, 2.6vw, 26px);
+      font-weight: 900;
+      color: #FFD700;
+      letter-spacing: -0.3px;
+      text-shadow: 0 0 18px rgba(212, 175, 55, 0.35);
+    }
+    .showcase-sub { font-size: 13.5px; color: #94A3B8; margin-top: 8px; }
+    .showcase-group { margin-bottom: 24px; }
+    .showcase-group-title {
+      display: flex; align-items: baseline; gap: 8px;
+      font-size: 12.5px; font-weight: 800; letter-spacing: 0.14em;
+      color: #E2E8F0; margin: 0 4px 12px;
+    }
+    .showcase-group-title span { color: #64748B; font-weight: 600; letter-spacing: 0; }
+    .icon-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+      gap: 10px;
+    }
+    .icon-tile {
+      display: flex; flex-direction: column; align-items: center; gap: 8px;
+      padding: 14px 6px;
+      border-radius: 16px;
+      background: rgba(15, 20, 32, 0.7);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      transition: all 0.25s ease;
+    }
+    .icon-tile:hover {
+      transform: translateY(-3px);
+      border-color: rgba(212, 175, 55, 0.55);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5), 0 0 16px rgba(212, 175, 55, 0.18);
+    }
+    .icon-tile.play { border-color: rgba(56, 189, 248, 0.18); }
+    .icon-tile.play:hover {
+      border-color: rgba(56, 189, 248, 0.6);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5), 0 0 16px rgba(56, 189, 248, 0.2);
+    }
+    .icon-emoji { font-size: 26px; line-height: 1; filter: drop-shadow(0 0 6px rgba(255, 215, 0, 0.25)); }
+    .icon-label { font-size: 11.5px; font-weight: 700; color: #CBD5E1; text-align: center; word-break: keep-all; }
+    @media (max-width: 600px) {
+      .icon-grid { grid-template-columns: repeat(auto-fill, minmax(74px, 1fr)); gap: 8px; }
+      .icon-emoji { font-size: 22px; }
+      .icon-label { font-size: 10.5px; }
+    }
+
     /* Guestbook / Notice Space */
     .community-box {
       background: linear-gradient(180deg, rgba(18, 24, 38, 0.85) 0%, rgba(10, 13, 20, 0.95) 100%);
@@ -868,6 +917,48 @@
         <div class="feature-icon">👹</div>
         <h3 class="feature-title">8가지 감정의 3D 인터랙티브 깨비</h3>
         <p class="feature-desc">기쁨, 호기심, 불타는 열정 등 터치와 마음에 반응하는 3D 깨비와 매일 수수께끼를 풀고 대화를 나누세요.</p>
+      </div>
+    </section>
+
+
+    <!-- 만능 도구함 & 오락실 아이콘 쇼케이스 -->
+    <section class="showcase-section">
+      <div class="showcase-head">
+        <div class="showcase-title">🗝️ 설치 하나로 열두 가지 도구 + 아홉 가지 게임</div>
+        <div class="showcase-sub">메모장·그림판·음악 플레이어까지, 따로 앱을 설치할 필요가 없습니다.</div>
+      </div>
+
+      <div class="showcase-group">
+        <div class="showcase-group-title">🧰 깨비의 만능 도구함 <span>· 12종</span></div>
+        <div class="icon-grid">
+        <div class="icon-tile"><div class="icon-emoji">📝</div><div class="icon-label">메모장</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🎨</div><div class="icon-label">그림판</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🔢</div><div class="icon-label">카운터</div></div>
+        <div class="icon-tile"><div class="icon-emoji">⏱️</div><div class="icon-label">스톱워치</div></div>
+        <div class="icon-tile"><div class="icon-emoji">⏳</div><div class="icon-label">타이머</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🎙️</div><div class="icon-label">녹음기</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🎲</div><div class="icon-label">번호생성기</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🎵</div><div class="icon-label">음악 플레이어</div></div>
+        <div class="icon-tile"><div class="icon-emoji">📚</div><div class="icon-label">99종 도감</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🧠</div><div class="icon-label">퀴즈마당</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🗺️</div><div class="icon-label">보물지도</div></div>
+        <div class="icon-tile"><div class="icon-emoji">🖼️</div><div class="icon-label">전시액자</div></div>
+        </div>
+      </div>
+
+      <div class="showcase-group">
+        <div class="showcase-group-title">🕹️ 깨비 오락실 <span>· 9종</span></div>
+        <div class="icon-grid">
+        <div class="icon-tile play"><div class="icon-emoji">🧱</div><div class="icon-label">벽돌깨기</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🫧</div><div class="icon-label">버블슈터</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🧩</div><div class="icon-label">신수 도감 퍼즐</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🟦</div><div class="icon-label">테트리스</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">💣</div><div class="icon-label">지뢰찾기</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🔢</div><div class="icon-label">스도쿠</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">✨</div><div class="icon-label">마방진</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🙈</div><div class="icon-label">까꿍 놀이</div></div>
+        <div class="icon-tile play"><div class="icon-emoji">🏆</div><div class="icon-label">오락실 랭킹</div></div>
+        </div>
       </div>
     </section>
 
