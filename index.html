@@ -696,6 +696,26 @@
     }
     .icon-emoji { font-size: 26px; line-height: 1; filter: drop-shadow(0 0 6px rgba(255, 215, 0, 0.25)); }
     .icon-label { font-size: 11.5px; font-weight: 700; color: #CBD5E1; text-align: center; word-break: keep-all; }
+    .icon-tile.wise { border-color: rgba(212, 175, 55, 0.22); }
+    .icon-tile.wise:hover {
+      border-color: rgba(212, 175, 55, 0.6);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5), 0 0 16px rgba(212, 175, 55, 0.22);
+    }
+    .icon-tile.mine { border-color: rgba(167, 139, 250, 0.22); }
+    .icon-tile.mine:hover {
+      border-color: rgba(167, 139, 250, 0.6);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5), 0 0 16px rgba(167, 139, 250, 0.22);
+    }
+    .egg-card {
+      display: flex; align-items: center; gap: 16px;
+      margin-top: 6px; padding: 18px 20px;
+      border-radius: 18px;
+      border: 1px dashed rgba(212, 175, 55, 0.55);
+      background: linear-gradient(120deg, rgba(212, 175, 55, 0.10), rgba(56, 189, 248, 0.06));
+    }
+    .egg-icon { font-size: 34px; line-height: 1; filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.4)); }
+    .egg-title { font-size: 14.5px; font-weight: 900; color: #FFE066; letter-spacing: -0.2px; }
+    .egg-desc { font-size: 12.5px; color: #CBD5E1; margin-top: 5px; line-height: 1.55; }
     @media (max-width: 600px) {
       .icon-grid { grid-template-columns: repeat(auto-fill, minmax(74px, 1fr)); gap: 8px; }
       .icon-emoji { font-size: 22px; }
@@ -921,11 +941,25 @@
     </section>
 
 
-    <!-- 만능 도구함 & 오락실 아이콘 쇼케이스 -->
+    <!-- 지혜·운세 + 도구함 + 오락실 + 나만의 콘텐츠 아이콘 쇼케이스 -->
     <section class="showcase-section">
       <div class="showcase-head">
-        <div class="showcase-title">🗝️ 설치 하나로 열두 가지 도구 + 아홉 가지 게임</div>
-        <div class="showcase-sub">메모장·그림판·음악 플레이어까지, 따로 앱을 설치할 필요가 없습니다.</div>
+        <div class="showcase-title">🗝️ 하나의 앱에 30가지가 넘는 지혜·도구·놀이</div>
+        <div class="showcase-sub">명언·운세·꿈풀이부터 메모장·음악 플레이어·9종 게임까지, 따로 앱을 설치할 필요가 없습니다.</div>
+      </div>
+
+      <div class="showcase-group">
+        <div class="showcase-group-title">🧠 깨비의 지혜 &amp; 운세 <span>· 8종</span></div>
+        <div class="icon-grid">
+        <div class="icon-tile wise"><div class="icon-emoji">📜</div><div class="icon-label">오늘의 명언</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">🧙</div><div class="icon-label">깨비의 지혜</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">🔮</div><div class="icon-label">오늘의 운세</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">🌗</div><div class="icon-label">바이오리듬</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">🌙</div><div class="icon-label">꿈풀이</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">✋</div><div class="icon-label">손금 & 관상</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">❓</div><div class="icon-label">오늘의 수수께끼</div></div>
+        <div class="icon-tile wise"><div class="icon-emoji">🧿</div><div class="icon-label">행운 부적</div></div>
+        </div>
       </div>
 
       <div class="showcase-group">
@@ -958,6 +992,23 @@
         <div class="icon-tile play"><div class="icon-emoji">✨</div><div class="icon-label">마방진</div></div>
         <div class="icon-tile play"><div class="icon-emoji">🙈</div><div class="icon-label">까꿍 놀이</div></div>
         <div class="icon-tile play"><div class="icon-emoji">🏆</div><div class="icon-label">오락실 랭킹</div></div>
+        </div>
+      </div>
+
+      <div class="showcase-group">
+        <div class="showcase-group-title">📚 나만의 콘텐츠 &amp; 전시 <span>· 3종</span></div>
+        <div class="icon-grid">
+        <div class="icon-tile mine"><div class="icon-emoji">🧠</div><div class="icon-label">커스텀 퀴즈</div></div>
+        <div class="icon-tile mine"><div class="icon-emoji">🕰️</div><div class="icon-label">탁상시계 액자</div></div>
+        <div class="icon-tile mine"><div class="icon-emoji">📅</div><div class="icon-label">캘린더 액자</div></div>
+        </div>
+      </div>
+
+      <div class="egg-card">
+        <div class="egg-icon">🥚</div>
+        <div>
+          <div class="egg-title">숨겨진 이스터에그가 3곳에 숨어 있어요</div>
+          <div class="egg-desc">힌트: 깨비를 자꾸 톡톡 건드려 보세요. 열두 번째 손길에 무언가 열린다던가… 🗝️</div>
         </div>
       </div>
     </section>
